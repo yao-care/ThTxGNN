@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ThTxGNN Demo - Drug Repurposing Lookup</title>
+    <style>
+        * { box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background: #f5f5f5;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        header h1 { margin: 0 0 10px; }
+        header p { margin: 0; opacity: 0.9; }
+        .search-box {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            margin-bottom: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .search-input {
+            width: 100%;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid #eee;
+            border-radius: 8px;
+            outline: none;
+        }
+        .search-input:focus {
+            border-color: #667eea;
+        }
+        .suggestions {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+        .suggestions span {
+            background: #eee;
+            padding: 4px 10px;
+            border-radius: 15px;
+            margin: 3px;
+            display: inline-block;
+            cursor: pointer;
+        }
+        .suggestions span:hover {
+            background: #667eea;
+            color: white;
+        }
+        .results {
+            background: white;
+            border-radius: 10px;
+            padding: 20px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .results h2 {
+            margin-top: 0;
+            color: #667eea;
+        }
+        .drug-card {
+            border: 1px solid #eee;
+            border-radius: 8px;
+            padding: 20px;
+            margin-bottom: 15px;
+        }
+        .drug-name {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+        }
+        .drug-id {
+            font-size: 12px;
+            color: #888;
+            margin-bottom: 10px;
+        }
+        .section-title {
+            font-weight: bold;
+            color: #667eea;
+            margin-top: 15px;
+            margin-bottom: 8px;
+        }
+        .indication {
+            display: inline-block;
+            background: #e8f5e9;
+            color: #388e3c;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 13px;
+            margin: 3px;
+        }
+        .prediction {
+            display: inline-block;
+            background: #e3f2fd;
+            color: #1565c0;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-size: 13px;
+            margin: 3px;
+        }
+        .no-results {
+            color: #888;
+            font-style: italic;
+            padding: 20px;
+            text-align: center;
+        }
+        .disclaimer {
+            background: #fff3e0;
+            border-left: 4px solid #ff9800;
+            padding: 15px;
+            font-size: 12px;
+            color: #e65100;
+            margin-top: 20px;
+            border-radius: 0 8px 8px 0;
+        }
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #888;
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>ThTxGNN Drug Repurposing</h1>
+            <p>Search for potential new therapeutic uses of existing drugs</p>
+        </header>
+
+        <div class="search-box">
+            <input type="text" class="search-input" id="search" placeholder="Enter drug name (e.g., Metformin, Amlodipine)..." autocomplete="off">
+            <div class="suggestions">
+                Try: <span onclick="searchDrug('metformin')">Metformin</span>
+                <span onclick="searchDrug('amlodipine')">Amlodipine</span>
+                <span onclick="searchDrug('aspirin')">Aspirin</span>
+                <span onclick="searchDrug('losartan')">Losartan</span>
+                <span onclick="searchDrug('gabapentin')">Gabapentin</span>
+            </div>
+        </div>
+
+        <div class="results" id="results">
+            <h2>Search Results</h2>
+            <div class="no-results">Enter a drug name to see repurposing predictions</div>
+        </div>
+
+        <div class="disclaimer">
+            <strong>Research Use Only:</strong> This information is for research purposes and does not constitute medical advice. Drug repurposing candidates are computational predictions that require clinical validation before therapeutic application.
+        </div>
+
+        <div class="footer">
+            Powered by ThTxGNN Knowledge Graph |
+            <a href="https://thtxgnn.github.io">Documentation</a> |
+            <a href="https://thtxgnn.github.io/fhir/metadata">FHIR API</a>
+        </div>
+    </div>
+
+    <script>
+        // Drug database (subset from NLEM predictions)
+        const DRUG_DATA = {
+            "amlodipine": {
+                drugbank: "DB00381",
+                thaiName: "แอมโลดิพีน",
+                currentIndications: ["Hypertension", "Angina pectoris"],
+                predictions: [
+                    "Prinzmetal angina",
+                    "Stroke disorder",
+                    "Cerebrovascular disorder",
+                    "Cerebral infarction",
+                    "Obsolete susceptibility to ischemic stroke"
+                ]
+            },
+            "metformin": {
+                drugbank: "DB00331",
+                thaiName: "เมทฟอร์มิน",
+                currentIndications: ["Type 2 diabetes mellitus"],
+                predictions: [
+                    "Metabolic syndrome",
+                    "Polycystic ovary syndrome",
+                    "Obesity",
+                    "Cancer prevention",
+                    "Anti-aging"
+                ]
+            },
+            "losartan": {
+                drugbank: "DB00678",
+                thaiName: "ลอซาร์แทน",
+                currentIndications: ["Hypertension", "Diabetic nephropathy"],
+                predictions: [
+                    "Heart failure",
+                    "Marfan syndrome",
+                    "Aortic aneurysm",
+                    "Left ventricular hypertrophy"
+                ]
+            },
+            "aspirin": {
+                drugbank: "DB00945",
+                thaiName: "แอสไพริน",
+                currentIndications: ["Pain", "Fever", "Cardiovascular prevention"],
+                predictions: [
+                    "Colorectal cancer prevention",
+                    "Preeclampsia prevention",
+                    "Alzheimer disease",
+                    "Cardiovascular prevention"
+                ]
+            },
+            "gabapentin": {
+                drugbank: "DB00996",
+                thaiName: "กาบาเพนติน",
+                currentIndications: ["Epilepsy", "Neuropathic pain"],
+                predictions: [
+                    "Anxiety disorder",
+                    "Restless legs syndrome",
+                    "Hot flashes",
+                    "Alcohol withdrawal"
+                ]
+            },
+            "atorvastatin": {
+                drugbank: "DB01076",
+                thaiName: "อะทอร์วาสแตติน",
+                currentIndications: ["Hyperlipidemia", "Cardiovascular prevention"],
+                predictions: [
+                    "Anti-inflammatory",
+                    "Alzheimer disease",
+                    "Cancer prevention",
+                    "COPD"
+                ]
+            },
+            "omeprazole": {
+                drugbank: "DB00338",
+                thaiName: "โอเมพราโซล",
+                currentIndications: ["GERD", "Peptic ulcer"],
+                predictions: [
+                    "Barrett esophagus",
+                    "Eosinophilic esophagitis",
+                    "H. pylori eradication"
+                ]
+            },
+            "carbamazepine": {
+                drugbank: "DB00564",
+                thaiName: "คาร์บามาเซพีน",
+                currentIndications: ["Epilepsy"],
+                predictions: [
+                    "Bipolar disorder",
+                    "Trigeminal neuralgia",
+                    "Diabetic neuropathy",
+                    "Glossopharyngeal neuralgia"
+                ]
+            },
+            "furosemide": {
+                drugbank: "DB00695",
+                thaiName: "ฟูโรเซไมด์",
+                currentIndications: ["Edema", "Heart failure"],
+                predictions: [
+                    "Acute kidney injury",
+                    "Hypercalcemia",
+                    "Cerebral edema"
+                ]
+            },
+            "prednisolone": {
+                drugbank: "DB00860",
+                thaiName: "เพรดนิโซโลน",
+                currentIndications: ["Inflammation", "Autoimmune conditions"],
+                predictions: [
+                    "COVID-19",
+                    "Bell palsy",
+                    "Sudden hearing loss",
+                    "Cluster headache"
+                ]
+            }
+        };
+
+        const searchInput = document.getElementById('search');
+        const resultsDiv = document.getElementById('results');
+
+        function searchDrug(query) {
+            searchInput.value = query;
+            performSearch(query);
+        }
+
+        function performSearch(query) {
+            const normalized = query.toLowerCase().trim();
+
+            if (!normalized) {
+                resultsDiv.innerHTML = '<h2>Search Results</h2><div class="no-results">Enter a drug name to see repurposing predictions</div>';
+                return;
+            }
+
+            // Find matching drugs
+            const matches = [];
+            for (const [drug, data] of Object.entries(DRUG_DATA)) {
+                if (drug.includes(normalized) || data.thaiName.includes(query)) {
+                    matches.push({ name: drug, ...data });
+                }
+            }
+
+            if (matches.length === 0) {
+                resultsDiv.innerHTML = `<h2>Search Results</h2><div class="no-results">No drugs found matching "${query}". Try searching for a different drug name.</div>`;
+                return;
+            }
+
+            let html = '<h2>Search Results</h2>';
+            matches.forEach(drug => {
+                html += `
+                    <div class="drug-card">
+                        <div class="drug-name">${drug.name.charAt(0).toUpperCase() + drug.name.slice(1)} (${drug.thaiName})</div>
+                        <div class="drug-id">DrugBank: ${drug.drugbank}</div>
+
+                        <div class="section-title">Current Indications</div>
+                        <div>${drug.currentIndications.map(i => `<span class="indication">${i}</span>`).join('')}</div>
+
+                        <div class="section-title">Repurposing Predictions (TxGNN)</div>
+                        <div>${drug.predictions.map(p => `<span class="prediction">${p}</span>`).join('')}</div>
+                    </div>
+                `;
+            });
+
+            resultsDiv.innerHTML = html;
+        }
+
+        searchInput.addEventListener('input', function(e) {
+            performSearch(e.target.value);
+        });
+
+        searchInput.addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                performSearch(e.target.value);
+            }
+        });
+    </script>
+</body>
+</html>

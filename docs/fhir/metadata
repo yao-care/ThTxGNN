@@ -1,0 +1,46 @@
+{
+  "resourceType": "CapabilityStatement",
+  "id": "thtxgnn-fhir-server",
+  "url": "https://thtxgnn.github.io/fhir/metadata",
+  "version": "1.0.0",
+  "name": "ThTxGNNFHIRServer",
+  "title": "Thailand TxGNN FHIR Server",
+  "status": "active",
+  "date": "2026-03-02",
+  "publisher": "ThTxGNN Project",
+  "description": "FHIR R4 server providing drug repurposing predictions for Thailand",
+  "kind": "instance",
+  "fhirVersion": "4.0.1",
+  "format": [
+    "json"
+  ],
+  "rest": [
+    {
+      "mode": "server",
+      "resource": [
+        {
+          "type": "MedicationKnowledge",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ]
+        },
+        {
+          "type": "ClinicalUseDefinition",
+          "interaction": [
+            {
+              "code": "read"
+            },
+            {
+              "code": "search-type"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
