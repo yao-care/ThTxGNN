@@ -1,0 +1,31 @@
+{
+  "resourceType": "MedicationKnowledge",
+  "id": "clopidogrel",
+  "status": "active",
+  "code": {
+    "coding": [
+      {
+        "system": "https://go.drugbank.com/drugs",
+        "code": "DB00758",
+        "display": "CLOPIDOGREL"
+      }
+    ]
+  },
+  "intendedJurisdiction": [
+    {
+      "coding": [
+        {
+          "system": "urn:iso:std:iso:3166",
+          "code": "TH",
+          "display": "Thailand"
+        }
+      ]
+    }
+  ],
+  "extension": [
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "losartan-hypertensive-disorder",
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/losartan"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "hypertensive disorder"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

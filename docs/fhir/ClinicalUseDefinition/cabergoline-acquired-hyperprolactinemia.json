@@ -1,0 +1,28 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "cabergoline-acquired-hyperprolactinemia",
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/cabergoline"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "acquired hyperprolactinemia"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

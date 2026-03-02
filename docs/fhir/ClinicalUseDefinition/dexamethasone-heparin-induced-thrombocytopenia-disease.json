@@ -1,0 +1,28 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "dexamethasone-heparin-induced-thrombocytopenia-disease",
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/dexamethasone"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "heparin-induced thrombocytopenia (disease)"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

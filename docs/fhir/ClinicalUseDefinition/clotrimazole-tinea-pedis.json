@@ -1,0 +1,28 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "clotrimazole-tinea-pedis",
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/clotrimazole"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "tinea pedis"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

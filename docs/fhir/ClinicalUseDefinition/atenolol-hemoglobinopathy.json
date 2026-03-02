@@ -1,0 +1,28 @@
+{
+  "resourceType": "ClinicalUseDefinition",
+  "id": "atenolol-hemoglobinopathy",
+  "type": "indication",
+  "status": "active",
+  "subject": [
+    {
+      "reference": "MedicationKnowledge/atenolol"
+    }
+  ],
+  "indication": {
+    "diseaseSymptomProcedure": {
+      "concept": {
+        "text": "hemoglobinopathy"
+      }
+    }
+  },
+  "extension": [
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L5"
+    },
+    {
+      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/source",
+      "valueString": "TxGNN Knowledge Graph"
+    }
+  ]
+}

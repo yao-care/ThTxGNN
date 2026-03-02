@@ -1,0 +1,62 @@
+# Thai FDA 藥品資料欄位映射設定
+
+# 基本設定
+country_code: "TH"
+language: "th"
+regulatory_agency: "Thai FDA"
+
+# 資料來源
+data_source:
+  name: "Thailand Food and Drug Administration"
+  url: "https://www.fda.moph.go.th/"
+  search_url: "https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx"
+  api_url: "https://catalog.fda.moph.go.th/dataset/web-service-drug-reg"
+
+# 欄位映射
+# 將泰國 FDA 資料的欄位名稱對應到標準欄位
+field_mapping:
+  license_id: "registration_number"          # เลขทะเบียน
+  brand_name_local: "trade_name_th"          # ชื่อการค้า (ภาษาไทย)
+  brand_name_en: "trade_name_en"             # ชื่อการค้า (English)
+  generic_name: "generic_name"               # ชื่อสามัญ
+  ingredients: "active_ingredient"           # ตัวยาสำคัญ/สารสำคัญ
+  indication: "indication"                   # ข้อบ่งใช้
+  dosage_form: "dosage_form"                 # รูปแบบยา
+  strength: "strength"                       # ความแรง
+  manufacturer: "manufacturer"               # ผู้ผลิต
+  marketing_authorization_holder: "mah"      # ผู้รับอนุญาต
+  approval_date: "approval_date"             # วันที่อนุมัติ
+  expiry_date: "expiry_date"                 # วันที่หมดอายุ
+  status: "status"                           # สถานะ
+  drug_category: "category"                  # ประเภทยา
+
+# 註銷/無效狀態值
+withdrawn_statuses:
+  - "ยกเลิก"           # Cancelled
+  - "หมดอายุ"          # Expired
+  - "เพิกถอน"          # Revoked
+  - "ระงับ"            # Suspended
+
+# 有效狀態值
+active_statuses:
+  - "ใช้งาน"           # Active
+  - "มีผลบังคับใช้"     # In effect
+
+# 成分分隔符
+ingredient_separator: "+"
+
+# 日期格式 (泰國佛曆 BE 或西元 CE)
+date_format: "%Y-%m-%d"
+thai_buddhist_year: true  # 泰國使用佛曆年份 (BE = CE + 543)
+
+# 編碼
+encoding: "utf-8"
+
+# 藥品分類
+drug_categories:
+  - "ยาแผนปัจจุบัน"      # Modern medicine
+  - "ยาแผนโบราณ"        # Traditional medicine
+  - "ยาสามัญประจำบ้าน"   # Household medicine
+  - "ยาอันตราย"         # Dangerous drug
+  - "ยาควบคุมพิเศษ"      # Specially controlled drug
+  - "ยาบรรจุเสร็จ"       # Finished pharmaceutical products
