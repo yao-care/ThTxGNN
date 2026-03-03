@@ -1,7 +1,7 @@
 # ThTxGNN Jekyll Configuration
 
-title: "ThTxGNN: ระบบคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่"
-description: "Thailand Drug Repurposing Predictions using TxGNN Knowledge Graph"
+title: "ThTxGNN รายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่"
+description: "ระบบคาดการณ์และตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่สำหรับยาที่ขึ้นทะเบียนในประเทศไทย"
 url: "https://thtxgnn.yao.care"
 baseurl: ""
 lang: "th"
@@ -12,35 +12,86 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-feed
 
+# RSS Feed
+feed:
+  path: feed.xml
+  collections:
+    drugs:
+      path: "/drugs/feed.xml"
+
+# Open Graph
+og_image: /assets/images/og-default.png
+
+# Author (E-E-A-T)
+author:
+  name: ThTxGNN Team
+  url: https://thtxgnn.yao.care/about/
+
+# Kramdown Settings
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  typographic_symbols:
+    ndash: "--"
+    mdash: "---"
+
+# Navigation
+nav_sort: case_insensitive
+
+# Search
 search_enabled: true
 search:
   heading_level: 3
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
 
-footer_content: "Copyright &copy; 2026 ThTxGNN Project | <a href='/privacy-policy/'>นโยบายความเป็นส่วนตัว</a>"
+# Footer
+footer_content: "Copyright &copy; 2026 Yao.Care. รายงานนี้มีไว้เพื่อการวิจัยเท่านั้น ไม่ถือเป็นคำแนะนำทางการแพทย์"
 
+# Color scheme
+color_scheme: light
+
+# Aux links
 aux_links:
   "GitHub":
     - "https://github.com/yao-care/ThTxGNN"
 
+# Back to top
 back_to_top: true
 back_to_top_text: "กลับขึ้นด้านบน"
 
-collections:
-  drugs:
-    output: true
-    permalink: /drugs/:name/
-
-defaults:
-  - scope:
-      path: ""
-      type: "drugs"
-    values:
-      layout: "default"
-
+# Exclude files
 exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
   - vendor
   - "*.template"
+
+# Collections
+collections:
+  drugs:
+    output: true
+    permalink: /drugs/:name/
+  news:
+    output: true
+    permalink: /news/:name/
+
+defaults:
+  - scope:
+      path: "_drugs"
+      type: "drugs"
+    values:
+      layout: "default"
+      nav_exclude: false
+  - scope:
+      path: "_news"
+      type: "news"
+    values:
+      layout: "default"
+      nav_exclude: true

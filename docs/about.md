@@ -1,10 +1,11 @@
 ---
 layout: default
-title: About
-nav_order: 5
+title: เกี่ยวกับโครงการ
+parent: คำอธิบาย
+nav_order: 3
 ---
 
-# About ThTxGNN
+# เกี่ยวกับ ThTxGNN
 
 ## Project Overview
 

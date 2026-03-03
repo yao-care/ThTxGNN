@@ -1,12 +1,13 @@
 ---
 layout: default
 title: API Reference
-nav_order: 4
+parent: แหล่งข้อมูล
+nav_order: 3
 ---
 
 # API Reference
 
-ThTxGNN provides FHIR R4 compliant APIs for drug repurposing predictions.
+ThTxGNN มี API ที่เป็นไปตามมาตรฐาน FHIR R4 สำหรับการคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่
 
 ## FHIR Endpoints
 
@@ -16,7 +17,7 @@ ThTxGNN provides FHIR R4 compliant APIs for drug repurposing predictions.
 GET /fhir/metadata
 ```
 
-Returns the server's CapabilityStatement describing supported resources and operations.
+คืนค่า CapabilityStatement ของเซิร์ฟเวอร์ที่อธิบาย resource และ operation ที่รองรับ
 
 ### MedicationKnowledge
 
@@ -24,13 +25,13 @@ Returns the server's CapabilityStatement describing supported resources and oper
 GET /fhir/MedicationKnowledge/{id}
 ```
 
-Returns drug information including:
-- Drug code (DrugBank ID)
-- Drug name
-- Regulatory status
-- Known indications
+คืนค่าข้อมูลยา ประกอบด้วย:
+- รหัสยา (DrugBank ID)
+- ชื่อยา
+- สถานะการลงทะเบียน
+- ข้อบ่งใช้ที่ทราบ
 
-**Example Response:**
+**ตัวอย่าง Response:**
 ```json
 {
   "resourceType": "MedicationKnowledge",
@@ -52,51 +53,31 @@ Returns drug information including:
 GET /fhir/ClinicalUseDefinition/{id}
 ```
 
-Returns potential therapeutic use predictions including:
-- Drug reference
-- Indication reference
-- Evidence sources
-- Confidence score
-
-**Example Response:**
-```json
-{
-  "resourceType": "ClinicalUseDefinition",
-  "id": "pred-DB00381-prinzmetal-angina",
-  "type": "indication",
-  "subject": [{
-    "reference": "MedicationKnowledge/DB00381"
-  }],
-  "indication": {
-    "diseaseSymptomProcedure": {
-      "coding": [{
-        "system": "http://purl.obolibrary.org/obo/DOID",
-        "display": "Prinzmetal angina"
-      }]
-    }
-  }
-}
-```
+คืนค่าการคาดการณ์การใช้ยาที่มีศักยภาพ ประกอบด้วย:
+- การอ้างอิงยา
+- การอ้างอิงข้อบ่งใช้
+- แหล่งหลักฐาน
+- คะแนนความเชื่อมั่น
 
 ## Search Parameters
 
 ### MedicationKnowledge Search
 
-| Parameter | Type | Description |
-|-----------|------|-------------|
+| พารามิเตอร์ | ประเภท | คำอธิบาย |
+|------------|--------|----------|
 | code | token | DrugBank ID |
 | status | token | active, inactive |
 
 ### ClinicalUseDefinition Search
 
-| Parameter | Type | Description |
-|-----------|------|-------------|
+| พารามิเตอร์ | ประเภท | คำอธิบาย |
+|------------|--------|----------|
 | subject | reference | MedicationKnowledge reference |
 | type | token | indication, contraindication |
 
 ## SMART on FHIR
 
-ThTxGNN supports SMART on FHIR launch for EHR integration.
+ThTxGNN รองรับ SMART on FHIR สำหรับการเชื่อมต่อกับ EHR
 
 ### Launch URL
 
@@ -112,19 +93,19 @@ ThTxGNN supports SMART on FHIR launch for EHR integration.
 
 ## Rate Limits
 
-- No authentication required for read operations
-- Rate limit: 100 requests per minute
-- Response format: JSON only
+- ไม่ต้องการการยืนยันตัวตนสำหรับการอ่าน
+- จำกัดอัตรา: 100 คำขอต่อนาที
+- รูปแบบ Response: JSON เท่านั้น
 
 ## Status Codes
 
-| Code | Description |
-|------|-------------|
-| 200 | Success |
-| 404 | Resource not found |
-| 429 | Rate limit exceeded |
+| รหัส | คำอธิบาย |
+|------|----------|
+| 200 | สำเร็จ |
+| 404 | ไม่พบ Resource |
+| 429 | เกินขีดจำกัดอัตรา |
 | 500 | Server error |
 
-## Disclaimer
+## ข้อจำกัดความรับผิดชอบ
 
-This API is for research purposes only. Drug repurposing predictions require clinical validation before therapeutic application.
+API นี้มีไว้เพื่อการวิจัยเท่านั้น การคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการทดลองทางคลินิกก่อนนำไปใช้

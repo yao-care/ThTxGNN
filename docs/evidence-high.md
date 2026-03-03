@@ -1,44 +1,44 @@
 ---
 layout: default
-title: 高證據等級 (L1-L2)
-parent: 藥物報告
+title: หลักฐานระดับสูง (L1-L2)
+parent: รายงานยา
 nav_order: 1
 has_children: true
-description: "L1-L2 等級的老藥新用候選藥物，具有多項臨床試驗或系統性回顧支持，可優先考慮進入臨床評估。"
+description: "ยาที่มีข้อบ่งใช้ใหม่ระดับ L1-L2 มีการทดลองทางคลินิกหลายรายการหรือ Systematic Review สนับสนุน ควรพิจารณาเข้าสู่การประเมินทางคลินิก"
 ---
 
-# 高證據等級藥物
+# ยาที่มีหลักฐานระดับสูง
 
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
-可優先考慮進入臨床評估階段的候選藥物
+ยาที่ควรพิจารณาเข้าสู่การประเมินทางคลินิกเป็นอันดับแรก
 </p>
 
 ---
 
-## 證據標準
+## มาตรฐานหลักฐาน
 
-| 等級 | 定義 | 臨床意義 |
-|------|------|---------|
-| **L1** | 多個 Phase 3 RCT / 系統性回顧 | 強力支持，可考慮臨床使用 |
-| **L2** | 單一 RCT 或多個 Phase 2 試驗 | 中等支持，可設計驗證試驗 |
+| ระดับ | คำจำกัดความ | ความสำคัญทางคลินิก |
+|-------|-------------|-------------------|
+| **L1** | Phase 3 RCT หลายรายการ / Systematic Review | สนับสนุนอย่างแข็งแกร่ง พิจารณาใช้ทางคลินิกได้ |
+| **L2** | RCT เดี่ยว หรือ Phase 2 หลายรายการ | สนับสนุนปานกลาง สามารถออกแบบการทดลองยืนยันได้ |
 
 ---
 
-## 藥物列表
+## รายการยา
 
 {% assign l1_drugs = site.drugs | where: "evidence_level", "L1" | sort: "title" %}
 {% assign l2_drugs = site.drugs | where: "evidence_level", "L2" | sort: "title" %}
 
-### L1 等級 ({{ l1_drugs.size }} 個)
+### ระดับ L1 ({{ l1_drugs.size }} รายการ)
 
-| 藥物名稱 | 適應症數 | 連結 |
-|---------|---------|------|
-{% for drug in l1_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [查看報告]({{ drug.url | relative_url }}) |
+| ชื่อยา | จำนวนข้อบ่งใช้ | ลิงก์ |
+|--------|--------------|------|
+{% for drug in l1_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [ดูรายงาน]({{ drug.url | relative_url }}) |
 {% endfor %}
 
-### L2 等級 ({{ l2_drugs.size }} 個)
+### ระดับ L2 ({{ l2_drugs.size }} รายการ)
 
-| 藥物名稱 | 適應症數 | 連結 |
-|---------|---------|------|
-{% for drug in l2_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [查看報告]({{ drug.url | relative_url }}) |
+| ชื่อยา | จำนวนข้อบ่งใช้ | ลิงก์ |
+|--------|--------------|------|
+{% for drug in l2_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [ดูรายงาน]({{ drug.url | relative_url }}) |
 {% endfor %}
