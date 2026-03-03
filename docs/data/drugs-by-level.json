@@ -1,1177 +1,2120 @@
 {
-  "generated": "2026-02-19",
-  "source": "ThTxGNN - https://thtxgnn.yao.care/",
-  "summary": {
-    "L1": {
-      "count": 6,
-      "drugs": [
-        {
-          "name": "Anastrozole",
-          "slug": "anastrozole",
-          "decision": "Already Approved (原適應症範圍內)",
-          "indication_count": 6
-        },
-        {
-          "name": "Docetaxel",
-          "slug": "docetaxel",
-          "decision": "Proceed",
-          "indication_count": 10
-        },
-        {
-          "name": "Icatibant",
-          "slug": "icatibant",
-          "decision": "Proceed",
-          "indication_count": 7
-        },
-        {
-          "name": "Ipratropium",
-          "slug": "ipratropium",
-          "decision": "Validate",
-          "indication_count": 10
-        },
-        {
-          "name": "Naftifine",
-          "slug": "naftifine",
-          "decision": "Validate",
-          "indication_count": 8
-        },
-        {
-          "name": "Temozolomide",
-          "slug": "temozolomide",
-          "decision": "Go",
-          "indication_count": 2
-        }
-      ]
+  "L4": [
+    {
+      "slug": "amlodipine",
+      "name": "Amlodipine",
+      "drugbank_id": "DB00381",
+      "license_id": "1A 1/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ",
+      "predicted_indication": "obsolete susceptibility to ischemic stroke",
+      "txgnn_score": "0.9997",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/amlodipine/"
     },
-    "L2": {
-      "count": 12,
-      "drugs": [
-        {
-          "name": "Acetazolamide",
-          "slug": "acetazolamide",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Carboplatin",
-          "slug": "carboplatin",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Dronedarone",
-          "slug": "dronedarone",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Gemcitabine",
-          "slug": "gemcitabine",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Hydroxyprogesterone Caproate",
-          "slug": "hydroxyprogesterone_caproate",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Hydroxyurea",
-          "slug": "hydroxyurea",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Isosorbide Dinitrate",
-          "slug": "isosorbide_dinitrate",
-          "decision": "Explore",
-          "indication_count": 10
-        },
-        {
-          "name": "Omalizumab",
-          "slug": "omalizumab",
-          "decision": "Explore",
-          "indication_count": 10
-        },
-        {
-          "name": "Oteracil",
-          "slug": "oteracil",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Prednisone",
-          "slug": "prednisone",
-          "decision": "Go",
-          "indication_count": 10
-        },
-        {
-          "name": "Regorafenib",
-          "slug": "regorafenib",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 8
-        },
-        {
-          "name": "Vonoprazan",
-          "slug": "vonoprazan",
-          "decision": "Strong Proceed",
-          "indication_count": 10
-        }
-      ]
+    {
+      "slug": "atenolol",
+      "name": "Atenolol",
+      "drugbank_id": "DB00335",
+      "license_id": "1A 2/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, โรคหัวใจ",
+      "predicted_indication": "myocardial infarction",
+      "txgnn_score": "0.9987",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/atenolol/"
     },
-    "L3": {
-      "count": 16,
-      "drugs": [
-        {
-          "name": "Acitretin",
-          "slug": "acitretin",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 4
-        },
-        {
-          "name": "Alfacalcidol",
-          "slug": "alfacalcidol",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 5
-        },
-        {
-          "name": "Aluminum Hydroxide",
-          "slug": "aluminum_hydroxide",
-          "decision": "Proceed with Caution",
-          "indication_count": 4
-        },
-        {
-          "name": "Amcinonide",
-          "slug": "amcinonide",
-          "decision": "Already Approved (原適應症範圍內)",
-          "indication_count": 8
-        },
-        {
-          "name": "Dorzolamide",
-          "slug": "dorzolamide",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Dupilumab",
-          "slug": "dupilumab",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Durvalumab",
-          "slug": "durvalumab",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Human Immunoglobulin G",
-          "slug": "human_immunoglobulin_g",
-          "decision": "Explore",
-          "indication_count": 3
-        },
-        {
-          "name": "Inositol",
-          "slug": "inositol",
-          "decision": "Consider",
-          "indication_count": 10
-        },
-        {
-          "name": "Interferon Beta-1B",
-          "slug": "interferon_beta-1b",
-          "decision": "Consider",
-          "indication_count": 2
-        },
-        {
-          "name": "Lornoxicam",
-          "slug": "lornoxicam",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Prednisolone",
-          "slug": "prednisolone",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Propantheline",
-          "slug": "propantheline",
-          "decision": "Go",
-          "indication_count": 2
-        },
-        {
-          "name": "Ribavirin",
-          "slug": "ribavirin",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Vinorelbine",
-          "slug": "vinorelbine",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Vitamin E",
-          "slug": "vitamin_e",
-          "decision": "Proceed with Caution",
-          "indication_count": 10
-        }
-      ]
+    {
+      "slug": "bisoprolol",
+      "name": "Bisoprolol",
+      "drugbank_id": "DB00612",
+      "license_id": "1A 3/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, หัวใจล้มเหลว",
+      "predicted_indication": "malignant renovascular hypertension",
+      "txgnn_score": "0.9994",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/bisoprolol/"
     },
-    "L4": {
-      "count": 19,
-      "drugs": [
-        {
-          "name": "Acebutolol",
-          "slug": "acebutolol",
-          "decision": "Hold",
-          "indication_count": 2
-        },
-        {
-          "name": "Aluminum Oxide",
-          "slug": "aluminum_oxide",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Brodalumab",
-          "slug": "brodalumab",
-          "decision": "Research Question",
-          "indication_count": 10
-        },
-        {
-          "name": "Cisatracurium",
-          "slug": "cisatracurium",
-          "decision": "Research Question",
-          "indication_count": 10
-        },
-        {
-          "name": "Dl-Alpha-Tocopherol",
-          "slug": "dl-alpha-tocopherol",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Hydroquinone",
-          "slug": "hydroquinone",
-          "decision": "Hold",
-          "indication_count": 4
-        },
-        {
-          "name": "Minoxidil",
-          "slug": "minoxidil",
-          "decision": "Research Question",
-          "indication_count": 3
-        },
-        {
-          "name": "Nystatin",
-          "slug": "nystatin",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Pralatrexate",
-          "slug": "pralatrexate",
-          "decision": "Research Question",
-          "indication_count": 10
-        },
-        {
-          "name": "Prednisolone Acetate",
-          "slug": "prednisolone_acetate",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Probenecid",
-          "slug": "probenecid",
-          "decision": "Hold",
-          "indication_count": 3
-        },
-        {
-          "name": "Riluzole",
-          "slug": "riluzole",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Ritonavir",
-          "slug": "ritonavir",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 3
-        },
-        {
-          "name": "Ropinirole",
-          "slug": "ropinirole",
-          "decision": "Worth Exploring",
-          "indication_count": 10
-        },
-        {
-          "name": "Rotigotine",
-          "slug": "rotigotine",
-          "decision": "Worth Exploring",
-          "indication_count": 10
-        },
-        {
-          "name": "Salicylamide",
-          "slug": "salicylamide",
-          "decision": "Worth Exploring",
-          "indication_count": 10
-        },
-        {
-          "name": "Silicon Dioxide",
-          "slug": "silicon_dioxide",
-          "decision": "可進一步探索",
-          "indication_count": 4
-        },
-        {
-          "name": "Tetryzoline",
-          "slug": "tetryzoline",
-          "decision": "Hold",
-          "indication_count": 2
-        },
-        {
-          "name": "Vismodegib",
-          "slug": "vismodegib",
-          "decision": "Research Question",
-          "indication_count": 10
-        }
-      ]
+    {
+      "slug": "captopril",
+      "name": "Captopril",
+      "drugbank_id": "DB01197",
+      "license_id": "1A 4/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, หัวใจล้มเหลว",
+      "predicted_indication": "malignant renovascular hypertension",
+      "txgnn_score": "0.9928",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/captopril/"
     },
-    "L5": {
-      "count": 138,
-      "drugs": [
-        {
-          "name": "Alirocumab",
-          "slug": "alirocumab",
-          "decision": "Consider",
-          "indication_count": 10
-        },
-        {
-          "name": "Allopurinol",
-          "slug": "allopurinol",
-          "decision": "Explore",
-          "indication_count": 10
-        },
-        {
-          "name": "Alprostadil",
-          "slug": "alprostadil",
-          "decision": "Validated",
-          "indication_count": 10
-        },
-        {
-          "name": "Aluminum Chloride",
-          "slug": "aluminum_chloride",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Amorolfine",
-          "slug": "amorolfine",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Aspirin",
-          "slug": "aspirin",
-          "decision": "Hold",
-          "indication_count": 0
-        },
-        {
-          "name": "Atezolizumab",
-          "slug": "atezolizumab",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Atracurium Besylate",
-          "slug": "atracurium_besylate",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Avelumab",
-          "slug": "avelumab",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Belimumab",
-          "slug": "belimumab",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Bempedoic Acid",
-          "slug": "bempedoic_acid",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Benazepril",
-          "slug": "benazepril",
-          "decision": "",
-          "indication_count": 5
-        },
-        {
-          "name": "Benzylpenicillin",
-          "slug": "benzylpenicillin",
-          "decision": "",
-          "indication_count": 7
-        },
-        {
-          "name": "Berberine",
-          "slug": "berberine",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Bevacizumab",
-          "slug": "bevacizumab",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Brivaracetam",
-          "slug": "brivaracetam",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Buprenorphine",
-          "slug": "buprenorphine",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Butenafine",
-          "slug": "butenafine",
-          "decision": "",
-          "indication_count": 5
-        },
-        {
-          "name": "Caplacizumab",
-          "slug": "caplacizumab",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Carbenoxolone",
-          "slug": "carbenoxolone",
-          "decision": "",
-          "indication_count": 7
-        },
-        {
-          "name": "Carisoprodol",
-          "slug": "carisoprodol",
-          "decision": "Hold",
-          "indication_count": 1
-        },
-        {
-          "name": "Caspofungin",
-          "slug": "caspofungin",
-          "decision": "Hold",
-          "indication_count": 1
-        },
-        {
-          "name": "Cefmetazole",
-          "slug": "cefmetazole",
-          "decision": "Hold",
-          "indication_count": 9
-        },
-        {
-          "name": "Cephalexin",
-          "slug": "cephalexin",
-          "decision": "Hold",
-          "indication_count": 0
-        },
-        {
-          "name": "Cerliponase Alfa",
-          "slug": "cerliponase_alfa",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Chloral Hydrate",
-          "slug": "chloral_hydrate",
-          "decision": "Hold",
-          "indication_count": 0
-        },
-        {
-          "name": "Cladribine",
-          "slug": "cladribine",
-          "decision": "",
-          "indication_count": 7
-        },
-        {
-          "name": "Clobetasone",
-          "slug": "clobetasone",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Clomipramine",
-          "slug": "clomipramine",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Cobicistat",
-          "slug": "cobicistat",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Cyclizine",
-          "slug": "cyclizine",
-          "decision": "",
-          "indication_count": 9
-        },
-        {
-          "name": "Cytarabine",
-          "slug": "cytarabine",
-          "decision": "",
-          "indication_count": 9
-        },
-        {
-          "name": "Dehydrocholic Acid",
-          "slug": "dehydrocholic_acid",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Denosumab",
-          "slug": "denosumab",
-          "decision": "",
-          "indication_count": 2
-        },
-        {
-          "name": "Deoxycholic Acid",
-          "slug": "deoxycholic_acid",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Diosmin",
-          "slug": "diosmin",
-          "decision": "",
-          "indication_count": 1
-        },
-        {
-          "name": "Dipyridamole",
-          "slug": "dipyridamole",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Disopyramide",
-          "slug": "disopyramide",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Emedastine",
-          "slug": "emedastine",
-          "decision": "",
-          "indication_count": 2
-        },
-        {
-          "name": "Etanercept",
-          "slug": "etanercept",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Ethynodiol Diacetate",
-          "slug": "ethynodiol_diacetate",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Famotidine",
-          "slug": "famotidine",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Felodipine",
-          "slug": "felodipine",
-          "decision": "",
-          "indication_count": 7
-        },
-        {
-          "name": "Fenoprofen",
-          "slug": "fenoprofen",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Fenoterol",
-          "slug": "fenoterol",
-          "decision": "",
-          "indication_count": 8
-        },
-        {
-          "name": "Ferrous Gluconate",
-          "slug": "ferrous_gluconate",
-          "decision": "",
-          "indication_count": 5
-        },
-        {
-          "name": "Flunitrazepam",
-          "slug": "flunitrazepam",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Fosfomycin",
-          "slug": "fosfomycin",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Gefitinib",
-          "slug": "gefitinib",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Griseofulvin",
-          "slug": "griseofulvin",
-          "decision": "",
-          "indication_count": 5
-        },
-        {
-          "name": "Homatropine Methylbromide",
-          "slug": "homatropine_methylbromide",
-          "decision": "Hold",
-          "indication_count": 2
-        },
-        {
-          "name": "Ibuprofen",
-          "slug": "ibuprofen",
-          "decision": "Hold",
-          "indication_count": 7
-        },
-        {
-          "name": "Inclisiran",
-          "slug": "inclisiran",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Insulin Lispro",
-          "slug": "insulin_lispro",
-          "decision": "Hold",
-          "indication_count": 9
-        },
-        {
-          "name": "Iodixanol",
-          "slug": "iodixanol",
-          "decision": "Hold",
-          "indication_count": 3
-        },
-        {
-          "name": "Ipilimumab",
-          "slug": "ipilimumab",
-          "decision": "",
-          "indication_count": 2
-        },
-        {
-          "name": "Irbesartan",
-          "slug": "irbesartan",
-          "decision": "Consider",
-          "indication_count": 4
-        },
-        {
-          "name": "Isoleucine",
-          "slug": "isoleucine",
-          "decision": "",
-          "indication_count": 1
-        },
-        {
-          "name": "Leflunomide",
-          "slug": "leflunomide",
-          "decision": "",
-          "indication_count": 2
-        },
-        {
-          "name": "Levamisole",
-          "slug": "levamisole",
-          "decision": "Hold",
-          "indication_count": 3
-        },
-        {
-          "name": "Lidocaine",
-          "slug": "lidocaine",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Loteprednol Etabonate",
-          "slug": "loteprednol_etabonate",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Magnesium Sulfate",
-          "slug": "magnesium_sulfate",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Mannitol",
-          "slug": "mannitol",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Methionine",
-          "slug": "methionine",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Methocarbamol",
-          "slug": "methocarbamol",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Metoprolol",
-          "slug": "metoprolol",
-          "decision": "Explore",
-          "indication_count": 10
-        },
-        {
-          "name": "Milrinone",
-          "slug": "milrinone",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Moclobemide",
-          "slug": "moclobemide",
-          "decision": "",
-          "indication_count": 2
-        },
-        {
-          "name": "Naphazoline",
-          "slug": "naphazoline",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Naproxen",
-          "slug": "naproxen",
-          "decision": "Hold",
-          "indication_count": 4
-        },
-        {
-          "name": "Nebivolol",
-          "slug": "nebivolol",
-          "decision": "",
-          "indication_count": 5
-        },
-        {
-          "name": "Nefopam",
-          "slug": "nefopam",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Nepafenac",
-          "slug": "nepafenac",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Nitrofurantoin",
-          "slug": "nitrofurantoin",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Ouabain",
-          "slug": "ouabain",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Oxybutynin",
-          "slug": "oxybutynin",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Oxytetracycline",
-          "slug": "oxytetracycline",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Paclitaxel",
-          "slug": "paclitaxel",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Pemetrexed",
-          "slug": "pemetrexed",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Pentosan Polysulfate",
-          "slug": "pentosan_polysulfate",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Pentoxifylline",
-          "slug": "pentoxifylline",
-          "decision": "",
-          "indication_count": 0
-        },
-        {
-          "name": "Pimozide",
-          "slug": "pimozide",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Pipemidic Acid",
-          "slug": "pipemidic_acid",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Pitavastatin",
-          "slug": "pitavastatin",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Pitolisant",
-          "slug": "pitolisant",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Polyethylene Glycol",
-          "slug": "polyethylene_glycol",
-          "decision": "",
-          "indication_count": 1
-        },
-        {
-          "name": "Polyethylene Glycol 400",
-          "slug": "polyethylene_glycol_400",
-          "decision": "",
-          "indication_count": 2
-        },
-        {
-          "name": "Polymyxin B",
-          "slug": "polymyxin_b",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Polysorbate 80",
-          "slug": "polysorbate_80",
-          "decision": "",
-          "indication_count": 1
-        },
-        {
-          "name": "Potassium Iodide",
-          "slug": "potassium_iodide",
-          "decision": "",
-          "indication_count": 2
-        },
-        {
-          "name": "Povidone",
-          "slug": "povidone",
-          "decision": "",
-          "indication_count": 1
-        },
-        {
-          "name": "Pravastatin",
-          "slug": "pravastatin",
-          "decision": "",
-          "indication_count": 9
-        },
-        {
-          "name": "Raloxifene",
-          "slug": "raloxifene",
-          "decision": "Hold",
-          "indication_count": 4
-        },
-        {
-          "name": "Ramucirumab",
-          "slug": "ramucirumab",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Remdesivir",
-          "slug": "remdesivir",
-          "decision": "Hold",
-          "indication_count": 6
-        },
-        {
-          "name": "Sacituzumab Govitecan",
-          "slug": "sacituzumab_govitecan",
-          "decision": "Hold",
-          "indication_count": 4
-        },
-        {
-          "name": "Salicylic Acid",
-          "slug": "salicylic_acid",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Scopolamine",
-          "slug": "scopolamine",
-          "decision": "Hold",
-          "indication_count": 6
-        },
-        {
-          "name": "Simoctocog Alfa",
-          "slug": "simoctocog_alfa",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Sodium Carbonate",
-          "slug": "sodium_carbonate",
-          "decision": "Watch",
-          "indication_count": 6
-        },
-        {
-          "name": "Sodium Citrate",
-          "slug": "sodium_citrate",
-          "decision": "Watch",
-          "indication_count": 9
-        },
-        {
-          "name": "Sulfamerazine",
-          "slug": "sulfamerazine",
-          "decision": "Hold",
-          "indication_count": 4
-        },
-        {
-          "name": "Sulfamethazine",
-          "slug": "sulfamethazine",
-          "decision": "Hold",
-          "indication_count": 6
-        },
-        {
-          "name": "Tazarotene",
-          "slug": "tazarotene",
-          "decision": "Hold",
-          "indication_count": 3
-        },
-        {
-          "name": "Tenofovir Alafenamide",
-          "slug": "tenofovir_alafenamide",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Terbutaline",
-          "slug": "terbutaline",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Teriparatide",
-          "slug": "teriparatide",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Tetrabenazine",
-          "slug": "tetrabenazine",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Theophylline",
-          "slug": "theophylline",
-          "decision": "",
-          "indication_count": 7
-        },
-        {
-          "name": "Thiamine",
-          "slug": "thiamine",
-          "decision": "",
-          "indication_count": 4
-        },
-        {
-          "name": "Threonine",
-          "slug": "threonine",
-          "decision": "Hold",
-          "indication_count": 1
-        },
-        {
-          "name": "Tiaprofenic Acid",
-          "slug": "tiaprofenic_acid",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Timepidium",
-          "slug": "timepidium",
-          "decision": "",
-          "indication_count": 1
-        },
-        {
-          "name": "Tinidazole",
-          "slug": "tinidazole",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Tioconazole",
-          "slug": "tioconazole",
-          "decision": "",
-          "indication_count": 3
-        },
-        {
-          "name": "Titanium Dioxide",
-          "slug": "titanium_dioxide",
-          "decision": "Hold",
-          "indication_count": 10
-        },
-        {
-          "name": "Tizanidine",
-          "slug": "tizanidine",
-          "decision": "",
-          "indication_count": 6
-        },
-        {
-          "name": "Tofacitinib",
-          "slug": "tofacitinib",
-          "decision": "",
-          "indication_count": 0
-        },
-        {
-          "name": "Tolmetin",
-          "slug": "tolmetin",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Trabectedin",
-          "slug": "trabectedin",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 1
-        },
-        {
-          "name": "Tranexamic Acid",
-          "slug": "tranexamic_acid",
-          "decision": "Needs Further Investigation",
-          "indication_count": 1
-        },
-        {
-          "name": "Trastuzumab Deruxtecan",
-          "slug": "trastuzumab_deruxtecan",
-          "decision": "Not Recommended",
-          "indication_count": 1
-        },
-        {
-          "name": "Travoprost",
-          "slug": "travoprost",
-          "decision": "Hold",
-          "indication_count": 3
-        },
-        {
-          "name": "Treprostinil",
-          "slug": "treprostinil",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 10
-        },
-        {
-          "name": "Trifluoperazine",
-          "slug": "trifluoperazine",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 1
-        },
-        {
-          "name": "Trihexyphenidyl",
-          "slug": "trihexyphenidyl",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Tyrosine",
-          "slug": "tyrosine",
-          "decision": "",
-          "indication_count": 10
-        },
-        {
-          "name": "Urea",
-          "slug": "urea",
-          "decision": "",
-          "indication_count": 0
-        },
-        {
-          "name": "Verteporfin",
-          "slug": "verteporfin",
-          "decision": "",
-          "indication_count": 1
-        },
-        {
-          "name": "Vigabatrin",
-          "slug": "vigabatrin",
-          "decision": "無老藥新用候選",
-          "indication_count": 0
-        },
-        {
-          "name": "Voriconazole",
-          "slug": "voriconazole",
-          "decision": "無老藥新用候選",
-          "indication_count": 0
-        },
-        {
-          "name": "Warfarin",
-          "slug": "warfarin",
-          "decision": "Hold",
-          "indication_count": 3
-        },
-        {
-          "name": "Warfarin Af",
-          "slug": "warfarin_af",
-          "decision": "標準治療",
-          "indication_count": 0
-        },
-        {
-          "name": "Warfarin Atrial Fibrillation",
-          "slug": "warfarin_atrial_fibrillation",
-          "decision": "標準治療（非老藥新用候選）",
-          "indication_count": 0
-        },
-        {
-          "name": "Xylitol",
-          "slug": "xylitol",
-          "decision": "Wait for More Evidence",
-          "indication_count": 1
-        },
-        {
-          "name": "Xylometazoline",
-          "slug": "xylometazoline",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 2
-        },
-        {
-          "name": "Zanubrutinib",
-          "slug": "zanubrutinib",
-          "decision": "Proceed with Guardrails",
-          "indication_count": 6
-        }
-      ]
+    {
+      "slug": "carvedilol",
+      "name": "Carvedilol",
+      "drugbank_id": "DB01136",
+      "license_id": "1A 5/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, หัวใจล้มเหลว",
+      "predicted_indication": "malignant renovascular hypertension",
+      "txgnn_score": "0.9955",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/carvedilol/"
+    },
+    {
+      "slug": "digoxin",
+      "name": "Digoxin",
+      "drugbank_id": "DB00390",
+      "license_id": "1A 6/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ",
+      "predicted_indication": "Prinzmetal angina",
+      "txgnn_score": "0.9981",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/digoxin/"
+    },
+    {
+      "slug": "diltiazem",
+      "name": "Diltiazem",
+      "drugbank_id": "DB00343",
+      "license_id": "1A 7/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, โรคหัวใจขาดเลือด",
+      "predicted_indication": "Prinzmetal angina",
+      "txgnn_score": "0.9994",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/diltiazem/"
+    },
+    {
+      "slug": "enalapril",
+      "name": "Enalapril",
+      "drugbank_id": "DB00584",
+      "license_id": "1A 8/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, หัวใจล้มเหลว",
+      "predicted_indication": "congestive heart failure",
+      "txgnn_score": "0.9927",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/enalapril/"
+    },
+    {
+      "slug": "isosorbidedinitrate",
+      "name": "Isosorbidedinitrate",
+      "drugbank_id": "DB00883",
+      "license_id": "1A 11/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคหัวใจขาดเลือด",
+      "predicted_indication": "alopecia",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/isosorbidedinitrate/"
+    },
+    {
+      "slug": "lisinopril",
+      "name": "Lisinopril",
+      "drugbank_id": "DB00722",
+      "license_id": "1A 12/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, หัวใจล้มเหลว",
+      "predicted_indication": "myocardial infarction",
+      "txgnn_score": "0.9992",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/lisinopril/"
+    },
+    {
+      "slug": "losartan",
+      "name": "Losartan",
+      "drugbank_id": "DB00678",
+      "license_id": "1A 13/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, โรคไตจากเบาหวาน",
+      "predicted_indication": "malignant renovascular hypertension",
+      "txgnn_score": "0.9973",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/losartan/"
+    },
+    {
+      "slug": "metoprolol",
+      "name": "Metoprolol",
+      "drugbank_id": "DB00264",
+      "license_id": "1A 14/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, โรคหัวใจ",
+      "predicted_indication": "hypertensive disorder",
+      "txgnn_score": "0.9992",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/metoprolol/"
+    },
+    {
+      "slug": "propranolol",
+      "name": "Propranolol",
+      "drugbank_id": "DB00571",
+      "license_id": "1A 16/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, หัวใจเต้นเร็ว",
+      "predicted_indication": "distal myopathy, Tateyama type",
+      "txgnn_score": "0.9940",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/propranolol/"
+    },
+    {
+      "slug": "spironolactone",
+      "name": "Spironolactone",
+      "drugbank_id": "DB00421",
+      "license_id": "1A 17/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บวมน้ำ, หัวใจล้มเหลว",
+      "predicted_indication": "hypotrichosis simplex of the scalp",
+      "txgnn_score": "0.9926",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/spironolactone/"
+    },
+    {
+      "slug": "verapamil",
+      "name": "Verapamil",
+      "drugbank_id": "DB00661",
+      "license_id": "1A 18/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, หัวใจเต้นผิดจังหวะ",
+      "predicted_indication": "Prinzmetal angina",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/verapamil/"
+    },
+    {
+      "slug": "atorvastatin",
+      "name": "Atorvastatin",
+      "drugbank_id": "DB01076",
+      "license_id": "1A 19/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ไขมันในเลือดสูง",
+      "predicted_indication": "homozygous familial hypercholesterolemia",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/atorvastatin/"
+    },
+    {
+      "slug": "simvastatin",
+      "name": "Simvastatin",
+      "drugbank_id": "DB00641",
+      "license_id": "1A 20/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ไขมันในเลือดสูง",
+      "predicted_indication": "homozygous familial hypercholesterolemia",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/simvastatin/"
+    },
+    {
+      "slug": "pravastatin",
+      "name": "Pravastatin",
+      "drugbank_id": "DB00175",
+      "license_id": "1A 21/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ไขมันในเลือดสูง",
+      "predicted_indication": "homozygous familial hypercholesterolemia",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/pravastatin/"
+    },
+    {
+      "slug": "clopidogrel",
+      "name": "Clopidogrel",
+      "drugbank_id": "DB00758",
+      "license_id": "1A 23/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันลิ่มเลือด",
+      "predicted_indication": "migraine with brainstem aura",
+      "txgnn_score": "0.9944",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/clopidogrel/"
+    },
+    {
+      "slug": "warfarin",
+      "name": "Warfarin",
+      "drugbank_id": "DB00682",
+      "license_id": "1A 24/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันลิ่มเลือด",
+      "predicted_indication": "heparin cofactor 2 deficiency",
+      "txgnn_score": "0.9987",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/warfarin/"
+    },
+    {
+      "slug": "heparin",
+      "name": "Heparin",
+      "drugbank_id": "DB01109",
+      "license_id": "1A 25/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันและรักษาลิ่มเลือด",
+      "predicted_indication": "purpura fulminans",
+      "txgnn_score": "0.9972",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/heparin/"
+    },
+    {
+      "slug": "metformin",
+      "name": "Metformin",
+      "drugbank_id": "DB00331",
+      "license_id": "1A 26/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เบาหวานชนิดที่ 2",
+      "predicted_indication": "focal stiff limb syndrome",
+      "txgnn_score": "0.9945",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/metformin/"
+    },
+    {
+      "slug": "glimepiride",
+      "name": "Glimepiride",
+      "drugbank_id": "DB00222",
+      "license_id": "1A 29/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เบาหวานชนิดที่ 2",
+      "predicted_indication": "diabetes mellitus (disease)",
+      "txgnn_score": "0.9977",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/glimepiride/"
+    },
+    {
+      "slug": "pioglitazone",
+      "name": "Pioglitazone",
+      "drugbank_id": "DB01132",
+      "license_id": "1A 30/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เบาหวานชนิดที่ 2",
+      "predicted_indication": "opsismodysplasia",
+      "txgnn_score": "0.9959",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/pioglitazone/"
+    },
+    {
+      "slug": "paracetamol",
+      "name": "Paracetamol",
+      "drugbank_id": "DB00316",
+      "license_id": "1A 32/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ลดไข้, บรรเทาปวด",
+      "predicted_indication": "migraine with brainstem aura",
+      "txgnn_score": "0.9915",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/paracetamol/"
+    },
+    {
+      "slug": "ibuprofen",
+      "name": "Ibuprofen",
+      "drugbank_id": "DB01050",
+      "license_id": "1A 33/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บรรเทาปวด, ลดไข้, ต้านการอักเสบ",
+      "predicted_indication": "osteoarthritis susceptibility",
+      "txgnn_score": "0.9990",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ibuprofen/"
+    },
+    {
+      "slug": "diclofenac",
+      "name": "Diclofenac",
+      "drugbank_id": "DB00586",
+      "license_id": "1A 34/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บรรเทาปวด, ต้านการอักเสบ",
+      "predicted_indication": "osteoarthritis susceptibility",
+      "txgnn_score": "0.9982",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/diclofenac/"
+    },
+    {
+      "slug": "naproxen",
+      "name": "Naproxen",
+      "drugbank_id": "DB00788",
+      "license_id": "1A 35/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บรรเทาปวด, ต้านการอักเสบ",
+      "predicted_indication": "osteoarthritis susceptibility",
+      "txgnn_score": "0.9976",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/naproxen/"
+    },
+    {
+      "slug": "indomethacin",
+      "name": "Indomethacin",
+      "drugbank_id": "DB00328",
+      "license_id": "1A 36/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บรรเทาปวด, ต้านการอักเสบ, เก๊าต์",
+      "predicted_indication": "rheumatoid arthritis",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/indomethacin/"
+    },
+    {
+      "slug": "celecoxib",
+      "name": "Celecoxib",
+      "drugbank_id": "DB00482",
+      "license_id": "1A 37/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บรรเทาปวด, ข้อเสื่อม",
+      "predicted_indication": "osteoarthritis susceptibility",
+      "txgnn_score": "0.9997",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/celecoxib/"
+    },
+    {
+      "slug": "tramadol",
+      "name": "Tramadol",
+      "drugbank_id": "DB00193",
+      "license_id": "1A 38/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บรรเทาปวดปานกลางถึงรุนแรง",
+      "predicted_indication": "osteoarthritis susceptibility",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/tramadol/"
+    },
+    {
+      "slug": "morphine",
+      "name": "Morphine",
+      "drugbank_id": "DB00295",
+      "license_id": "1A 39/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "บรรเทาปวดรุนแรง",
+      "predicted_indication": "myofascial pain syndrome",
+      "txgnn_score": "0.9975",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/morphine/"
+    },
+    {
+      "slug": "omeprazole",
+      "name": "Omeprazole",
+      "drugbank_id": "DB00338",
+      "license_id": "1A 40/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคกรดไหลย้อน, แผลในกระเพาะอาหาร",
+      "predicted_indication": "duodenogastric reflux",
+      "txgnn_score": "0.9964",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/omeprazole/"
+    },
+    {
+      "slug": "pantoprazole",
+      "name": "Pantoprazole",
+      "drugbank_id": "DB00213",
+      "license_id": "1A 41/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคกรดไหลย้อน, แผลในกระเพาะอาหาร",
+      "predicted_indication": "peptic esophagitis",
+      "txgnn_score": "0.9987",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/pantoprazole/"
+    },
+    {
+      "slug": "lansoprazole",
+      "name": "Lansoprazole",
+      "drugbank_id": "DB00448",
+      "license_id": "1A 42/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคกรดไหลย้อน, แผลในกระเพาะอาหาร",
+      "predicted_indication": "gastrin secretion abnormality",
+      "txgnn_score": "0.9973",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/lansoprazole/"
+    },
+    {
+      "slug": "ranitidine",
+      "name": "Ranitidine",
+      "drugbank_id": "DB00863",
+      "license_id": "1A 43/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "แผลในกระเพาะอาหาร",
+      "predicted_indication": "peptic esophagitis",
+      "txgnn_score": "0.9994",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ranitidine/"
+    },
+    {
+      "slug": "domperidone",
+      "name": "Domperidone",
+      "drugbank_id": "DB01184",
+      "license_id": "1A 44/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "คลื่นไส้อาเจียน, อาหารไม่ย่อย",
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis",
+      "txgnn_score": "0.9908",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/domperidone/"
+    },
+    {
+      "slug": "metoclopramide",
+      "name": "Metoclopramide",
+      "drugbank_id": "DB01233",
+      "license_id": "1A 45/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "คลื่นไส้อาเจียน",
+      "predicted_indication": "gastric ulcer (disease)",
+      "txgnn_score": "0.9993",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/metoclopramide/"
+    },
+    {
+      "slug": "loperamide",
+      "name": "Loperamide",
+      "drugbank_id": "DB00836",
+      "license_id": "1A 47/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ท้องเสีย",
+      "predicted_indication": "acute contagious conjunctivitis",
+      "txgnn_score": "0.9997",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/loperamide/"
+    },
+    {
+      "slug": "amoxicillin",
+      "name": "Amoxicillin",
+      "drugbank_id": "DB01060",
+      "license_id": "1A 48/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย",
+      "predicted_indication": "hyperamylasemia",
+      "txgnn_score": "0.9963",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/amoxicillin/"
+    },
+    {
+      "slug": "ampicillin",
+      "name": "Ampicillin",
+      "drugbank_id": "DB00415",
+      "license_id": "1A 49/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย",
+      "predicted_indication": "epiglottitis",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ampicillin/"
+    },
+    {
+      "slug": "azithromycin",
+      "name": "Azithromycin",
+      "drugbank_id": "DB00207",
+      "license_id": "1A 50/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินหายใจ",
+      "predicted_indication": "conjunctivitis",
+      "txgnn_score": "0.9982",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/azithromycin/"
+    },
+    {
+      "slug": "ciprofloxacin",
+      "name": "Ciprofloxacin",
+      "drugbank_id": "DB00537",
+      "license_id": "1A 51/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินปัสสาวะ",
+      "predicted_indication": "paratyphoid fever",
+      "txgnn_score": "0.9993",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ciprofloxacin/"
+    },
+    {
+      "slug": "clarithromycin",
+      "name": "Clarithromycin",
+      "drugbank_id": "DB01211",
+      "license_id": "1A 52/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย",
+      "predicted_indication": "polyclonal hyperviscosity syndrome",
+      "txgnn_score": "0.9935",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/clarithromycin/"
+    },
+    {
+      "slug": "doxycycline",
+      "name": "Doxycycline",
+      "drugbank_id": "DB00254",
+      "license_id": "1A 53/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย",
+      "predicted_indication": "punctate epithelial keratoconjunctivitis",
+      "txgnn_score": "0.9994",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/doxycycline/"
+    },
+    {
+      "slug": "erythromycin",
+      "name": "Erythromycin",
+      "drugbank_id": "DB00199",
+      "license_id": "1A 54/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย",
+      "predicted_indication": "punctate epithelial keratoconjunctivitis",
+      "txgnn_score": "0.9989",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/erythromycin/"
+    },
+    {
+      "slug": "metronidazole",
+      "name": "Metronidazole",
+      "drugbank_id": "DB00916",
+      "license_id": "1A 55/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรียและปรสิต",
+      "predicted_indication": "pneumocystosis",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/metronidazole/"
+    },
+    {
+      "slug": "ceftriaxone",
+      "name": "Ceftriaxone",
+      "drugbank_id": "DB01212",
+      "license_id": "1A 56/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรียรุนแรง",
+      "predicted_indication": "hyperamylasemia",
+      "txgnn_score": "0.9939",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ceftriaxone/"
+    },
+    {
+      "slug": "cephalexin",
+      "name": "Cephalexin",
+      "drugbank_id": "DB00567",
+      "license_id": "1A 57/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย",
+      "predicted_indication": "bacterial arthritis",
+      "txgnn_score": "0.9967",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/cephalexin/"
+    },
+    {
+      "slug": "clindamycin",
+      "name": "Clindamycin",
+      "drugbank_id": "DB01190",
+      "license_id": "1A 58/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรีย",
+      "predicted_indication": "punctate epithelial keratoconjunctivitis",
+      "txgnn_score": "0.9997",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/clindamycin/"
+    },
+    {
+      "slug": "vancomycin",
+      "name": "Vancomycin",
+      "drugbank_id": "DB00512",
+      "license_id": "1A 60/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรียดื้อยา",
+      "predicted_indication": "bacterial arthritis",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/vancomycin/"
+    },
+    {
+      "slug": "salbutamol",
+      "name": "Salbutamol",
+      "drugbank_id": "DB01001",
+      "license_id": "1A 61/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคหอบหืด, โรคปอดอุดกั้นเรื้อรัง",
+      "predicted_indication": "papillary conjunctivitis",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/salbutamol/"
+    },
+    {
+      "slug": "budesonide",
+      "name": "Budesonide",
+      "drugbank_id": "DB01222",
+      "license_id": "1A 62/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคหอบหืด",
+      "predicted_indication": "atopic eczema",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/budesonide/"
+    },
+    {
+      "slug": "fluticasone",
+      "name": "Fluticasone",
+      "drugbank_id": "DB13867",
+      "license_id": "1A 63/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคหอบหืด, โรคจมูกอักเสบ",
+      "predicted_indication": "migraine disorder",
+      "txgnn_score": "0.9920",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/fluticasone/"
+    },
+    {
+      "slug": "montelukast",
+      "name": "Montelukast",
+      "drugbank_id": "DB00471",
+      "license_id": "1A 64/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคหอบหืด, โรคภูมิแพ้",
+      "predicted_indication": "bronchitis",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/montelukast/"
+    },
+    {
+      "slug": "theophylline",
+      "name": "Theophylline",
+      "drugbank_id": "DB00277",
+      "license_id": "1A 65/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคหอบหืด",
+      "predicted_indication": "bronchitis",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/theophylline/"
+    },
+    {
+      "slug": "cetirizine",
+      "name": "Cetirizine",
+      "drugbank_id": "DB00341",
+      "license_id": "1A 66/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคภูมิแพ้, ลมพิษ",
+      "predicted_indication": "allergic urticaria",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/cetirizine/"
+    },
+    {
+      "slug": "loratadine",
+      "name": "Loratadine",
+      "drugbank_id": "DB00455",
+      "license_id": "1A 67/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคภูมิแพ้, ลมพิษ",
+      "predicted_indication": "papillary conjunctivitis",
+      "txgnn_score": "0.9993",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/loratadine/"
+    },
+    {
+      "slug": "chlorpheniramine",
+      "name": "Chlorpheniramine",
+      "drugbank_id": "DB01114",
+      "license_id": "1A 68/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "อาการแพ้, ลมพิษ, คัดจมูก",
+      "predicted_indication": "papillary conjunctivitis",
+      "txgnn_score": "0.9988",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/chlorpheniramine/"
+    },
+    {
+      "slug": "diphenhydramine",
+      "name": "Diphenhydramine",
+      "drugbank_id": "DB01075",
+      "license_id": "1A 69/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "อาการแพ้, นอนไม่หลับ",
+      "predicted_indication": "papillary conjunctivitis",
+      "txgnn_score": "0.9993",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/diphenhydramine/"
+    },
+    {
+      "slug": "prednisolone",
+      "name": "Prednisolone",
+      "drugbank_id": "DB00860",
+      "license_id": "1A 70/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ต้านการอักเสบ, ภูมิแพ้รุนแรง",
+      "predicted_indication": "alopecia areata",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/prednisolone/"
+    },
+    {
+      "slug": "dexamethasone",
+      "name": "Dexamethasone",
+      "drugbank_id": "DB01234",
+      "license_id": "1A 71/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ต้านการอักเสบ",
+      "predicted_indication": "alopecia areata",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/dexamethasone/"
+    },
+    {
+      "slug": "diazepam",
+      "name": "Diazepam",
+      "drugbank_id": "DB00829",
+      "license_id": "1A 72/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "วิตกกังวล, ชัก, กล้ามเนื้อเกร็ง",
+      "predicted_indication": "insomnia (disease)",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/diazepam/"
+    },
+    {
+      "slug": "lorazepam",
+      "name": "Lorazepam",
+      "drugbank_id": "DB00186",
+      "license_id": "1A 73/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "วิตกกังวล, นอนไม่หลับ",
+      "predicted_indication": "trigeminal nerve neoplasm",
+      "txgnn_score": "0.9987",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/lorazepam/"
+    },
+    {
+      "slug": "alprazolam",
+      "name": "Alprazolam",
+      "drugbank_id": "DB00404",
+      "license_id": "1A 74/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "วิตกกังวล, โรคตื่นตระหนก",
+      "predicted_indication": "insomnia (disease)",
+      "txgnn_score": "0.9981",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/alprazolam/"
+    },
+    {
+      "slug": "fluoxetine",
+      "name": "Fluoxetine",
+      "drugbank_id": "DB00472",
+      "license_id": "1A 75/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคซึมเศร้า, โรคย้ำคิดย้ำทำ",
+      "predicted_indication": "obsessive-compulsive disorder",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/fluoxetine/"
+    },
+    {
+      "slug": "sertraline",
+      "name": "Sertraline",
+      "drugbank_id": "DB01104",
+      "license_id": "1A 76/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคซึมเศร้า, โรควิตกกังวล",
+      "predicted_indication": "obsessive-compulsive disorder",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/sertraline/"
+    },
+    {
+      "slug": "haloperidol",
+      "name": "Haloperidol",
+      "drugbank_id": "DB00502",
+      "license_id": "1A 78/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคจิต, อาการกระวนกระวาย",
+      "predicted_indication": "schizophrenia",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/haloperidol/"
+    },
+    {
+      "slug": "risperidone",
+      "name": "Risperidone",
+      "drugbank_id": "DB00734",
+      "license_id": "1A 79/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคจิตเภท",
+      "predicted_indication": "manic bipolar affective disorder",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/risperidone/"
+    },
+    {
+      "slug": "olanzapine",
+      "name": "Olanzapine",
+      "drugbank_id": "DB00334",
+      "license_id": "1A 80/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคจิตเภท, โรคไบโพลาร์",
+      "predicted_indication": "manic bipolar affective disorder",
+      "txgnn_score": "0.9993",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/olanzapine/"
+    },
+    {
+      "slug": "carbamazepine",
+      "name": "Carbamazepine",
+      "drugbank_id": "DB00564",
+      "license_id": "1A 81/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคลมชัก, ปวดประสาท",
+      "predicted_indication": "trigeminal nerve neoplasm",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/carbamazepine/"
+    },
+    {
+      "slug": "phenytoin",
+      "name": "Phenytoin",
+      "drugbank_id": "DB00252",
+      "license_id": "1A 82/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคลมชัก",
+      "predicted_indication": "trigeminal nerve neoplasm",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/phenytoin/"
+    },
+    {
+      "slug": "valproicacid",
+      "name": "Valproicacid",
+      "drugbank_id": "DB00313",
+      "license_id": "1A 83/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคลมชัก, โรคไบโพลาร์",
+      "predicted_indication": "trigeminal nerve neoplasm",
+      "txgnn_score": "0.9997",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/valproicacid/"
+    },
+    {
+      "slug": "gabapentin",
+      "name": "Gabapentin",
+      "drugbank_id": "DB00996",
+      "license_id": "1A 84/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ปวดประสาท, โรคลมชัก",
+      "predicted_indication": "restless legs syndrome",
+      "txgnn_score": "0.9983",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/gabapentin/"
+    },
+    {
+      "slug": "levetiracetam",
+      "name": "Levetiracetam",
+      "drugbank_id": "DB01202",
+      "license_id": "1A 85/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคลมชัก",
+      "predicted_indication": "visual epilepsy",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/levetiracetam/"
+    },
+    {
+      "slug": "levothyroxine",
+      "name": "Levothyroxine",
+      "drugbank_id": "DB00451",
+      "license_id": "1A 86/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ภาวะไทรอยด์ต่ำ",
+      "predicted_indication": "differentiated thyroid carcinoma",
+      "txgnn_score": "0.9985",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/levothyroxine/"
+    },
+    {
+      "slug": "propylthiouracil",
+      "name": "Propylthiouracil",
+      "drugbank_id": "DB00550",
+      "license_id": "1A 87/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ภาวะไทรอยด์เป็นพิษ",
+      "predicted_indication": "hyperthyroidism",
+      "txgnn_score": "0.9977",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/propylthiouracil/"
+    },
+    {
+      "slug": "allopurinol",
+      "name": "Allopurinol",
+      "drugbank_id": "DB00437",
+      "license_id": "1A 88/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เก๊าต์, กรดยูริกในเลือดสูง",
+      "predicted_indication": "hepatic porphyria",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/allopurinol/"
+    },
+    {
+      "slug": "colchicine",
+      "name": "Colchicine",
+      "drugbank_id": "DB01394",
+      "license_id": "1A 89/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เก๊าต์เฉียบพลัน",
+      "predicted_indication": "autosomal recessive familial Mediterranean fever",
+      "txgnn_score": "0.9969",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/colchicine/"
+    },
+    {
+      "slug": "fluconazole",
+      "name": "Fluconazole",
+      "drugbank_id": "DB00196",
+      "license_id": "1A 90/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อรา",
+      "predicted_indication": "candidiasis",
+      "txgnn_score": "0.9964",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/fluconazole/"
+    },
+    {
+      "slug": "itraconazole",
+      "name": "Itraconazole",
+      "drugbank_id": "DB01167",
+      "license_id": "1A 91/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อรา",
+      "predicted_indication": "pneumocystosis",
+      "txgnn_score": "0.9934",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/itraconazole/"
+    },
+    {
+      "slug": "clotrimazole",
+      "name": "Clotrimazole",
+      "drugbank_id": "DB00257",
+      "license_id": "1A 92/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อราที่ผิวหนัง",
+      "predicted_indication": "cutaneous candidiasis",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/clotrimazole/"
+    },
+    {
+      "slug": "acyclovir",
+      "name": "Acyclovir",
+      "drugbank_id": "DB00787",
+      "license_id": "1A 93/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคเริม, งูสวัด",
+      "predicted_indication": "chickenpox",
+      "txgnn_score": "0.9983",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/acyclovir/"
+    },
+    {
+      "slug": "folicacid",
+      "name": "Folicacid",
+      "drugbank_id": "DB00158",
+      "license_id": "1A 95/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันและรักษาภาวะขาดโฟลิก",
+      "predicted_indication": "biotin metabolic disease",
+      "txgnn_score": "0.9949",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/folicacid/"
+    },
+    {
+      "slug": "ferroussulfate",
+      "name": "Ferroussulfate",
+      "drugbank_id": "DB13257",
+      "license_id": "1A 96/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ภาวะโลหิตจางจากขาดธาตุเหล็ก",
+      "predicted_indication": "iron deficiency anemia",
+      "txgnn_score": "0.9994",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ferroussulfate/"
+    },
+    {
+      "slug": "latanoprost",
+      "name": "Latanoprost",
+      "drugbank_id": "DB00654",
+      "license_id": "1A 100/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ต้อหิน, ความดันในตาสูง",
+      "predicted_indication": "primary hereditary glaucoma",
+      "txgnn_score": "0.9988",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/latanoprost/"
+    },
+    {
+      "slug": "tenofovir",
+      "name": "Tenofovir",
+      "drugbank_id": "DB14126",
+      "license_id": "1A 102/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ไวรัสตับอักเสบบี, เอชไอวี",
+      "predicted_indication": "HIV infectious disease",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/tenofovir/"
+    },
+    {
+      "slug": "lamivudine",
+      "name": "Lamivudine",
+      "drugbank_id": "DB00709",
+      "license_id": "1A 103/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ไวรัสตับอักเสบบี, เอชไอวี",
+      "predicted_indication": "HIV infectious disease",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/lamivudine/"
+    },
+    {
+      "slug": "efavirenz",
+      "name": "Efavirenz",
+      "drugbank_id": "DB00625",
+      "license_id": "1A 104/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เอชไอวี",
+      "predicted_indication": "HIV infectious disease",
+      "txgnn_score": "0.9988",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/efavirenz/"
+    },
+    {
+      "slug": "terbinafine",
+      "name": "Terbinafine",
+      "drugbank_id": "DB00857",
+      "license_id": "1A 105/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เชื้อราผิวหนัง",
+      "predicted_indication": "tinea corporis",
+      "txgnn_score": "0.9986",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/terbinafine/"
+    },
+    {
+      "slug": "nystatin",
+      "name": "Nystatin",
+      "drugbank_id": "DB00646",
+      "license_id": "1A 106/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "เชื้อราในช่องปาก",
+      "predicted_indication": "vulvovaginal candidiasis",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/nystatin/"
+    },
+    {
+      "slug": "chloroquine",
+      "name": "Chloroquine",
+      "drugbank_id": "DB00608",
+      "license_id": "1A 107/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "มาลาเรีย",
+      "predicted_indication": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
+      "txgnn_score": "0.9941",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/chloroquine/"
+    },
+    {
+      "slug": "primaquine",
+      "name": "Primaquine",
+      "drugbank_id": "DB01087",
+      "license_id": "1A 109/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "มาลาเรีย",
+      "predicted_indication": "myiasis",
+      "txgnn_score": "0.9976",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/primaquine/"
+    },
+    {
+      "slug": "albendazole",
+      "name": "Albendazole",
+      "drugbank_id": "DB00518",
+      "license_id": "1A 110/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "พยาธิ",
+      "predicted_indication": "echinococcus granulosus infectious disease",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/albendazole/"
+    },
+    {
+      "slug": "mebendazole",
+      "name": "Mebendazole",
+      "drugbank_id": "DB00643",
+      "license_id": "1A 111/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "พยาธิ",
+      "predicted_indication": "acne (disease)",
+      "txgnn_score": "0.9920",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/mebendazole/"
+    },
+    {
+      "slug": "ivermectin",
+      "name": "Ivermectin",
+      "drugbank_id": "DB00602",
+      "license_id": "1A 113/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "พยาธิ, เหา",
+      "predicted_indication": "vulvovaginal candidiasis",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ivermectin/"
+    },
+    {
+      "slug": "isoniazid",
+      "name": "Isoniazid",
+      "drugbank_id": "DB00951",
+      "license_id": "1A 114/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "วัณโรค",
+      "predicted_indication": "conjunctivitis",
+      "txgnn_score": "0.9936",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/isoniazid/"
+    },
+    {
+      "slug": "rifampicin",
+      "name": "Rifampicin",
+      "drugbank_id": "DB01045",
+      "license_id": "1A 115/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "วัณโรค",
+      "predicted_indication": "conjunctivitis",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/rifampicin/"
+    },
+    {
+      "slug": "ethambutol",
+      "name": "Ethambutol",
+      "drugbank_id": "DB00330",
+      "license_id": "1A 116/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "วัณโรค",
+      "predicted_indication": "epiglottitis",
+      "txgnn_score": "0.9990",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ethambutol/"
+    },
+    {
+      "slug": "pyrazinamide",
+      "name": "Pyrazinamide",
+      "drugbank_id": "DB00339",
+      "license_id": "1A 117/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "วัณโรค",
+      "predicted_indication": "infectious otitis media",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/pyrazinamide/"
+    },
+    {
+      "slug": "cyclosporine",
+      "name": "Cyclosporine",
+      "drugbank_id": "DB00091",
+      "license_id": "1A 118/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันการปฏิเสธอวัยวะ, โรคภูมิคุ้มกันผิดปกติ",
+      "predicted_indication": "xerophthalmia",
+      "txgnn_score": "0.9992",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/cyclosporine/"
+    },
+    {
+      "slug": "tacrolimus",
+      "name": "Tacrolimus",
+      "drugbank_id": "DB00864",
+      "license_id": "1A 119/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันการปฏิเสธอวัยวะ",
+      "predicted_indication": "atopic eczema",
+      "txgnn_score": "0.9956",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/tacrolimus/"
+    },
+    {
+      "slug": "azathioprine",
+      "name": "Azathioprine",
+      "drugbank_id": "DB00993",
+      "license_id": "1A 120/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โรคภูมิคุ้มกันผิดปกติ",
+      "predicted_indication": "rheumatoid arthritis",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/azathioprine/"
+    },
+    {
+      "slug": "enoxaparin",
+      "name": "Enoxaparin",
+      "drugbank_id": "DB01225",
+      "license_id": "1A 122/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันลิ่มเลือด",
+      "predicted_indication": "purpura fulminans",
+      "txgnn_score": "0.9981",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/enoxaparin/"
+    },
+    {
+      "slug": "rivaroxaban",
+      "name": "Rivaroxaban",
+      "drugbank_id": "DB06228",
+      "license_id": "1A 123/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ",
+      "predicted_indication": "rheumatoid arthritis",
+      "txgnn_score": "0.9957",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/rivaroxaban/"
+    },
+    {
+      "slug": "estradiol",
+      "name": "Estradiol",
+      "drugbank_id": "DB00783",
+      "license_id": "1A 126/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ภาวะขาดฮอร์โมนเพศหญิง",
+      "predicted_indication": "acne (disease)",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/estradiol/"
+    },
+    {
+      "slug": "progesterone",
+      "name": "Progesterone",
+      "drugbank_id": "DB00396",
+      "license_id": "1A 127/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ภาวะขาดฮอร์โมน",
+      "predicted_indication": "amenorrhea (disease)",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/progesterone/"
+    },
+    {
+      "slug": "cabergoline",
+      "name": "Cabergoline",
+      "drugbank_id": "DB00248",
+      "license_id": "1A 128/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โพรแลกตินสูง",
+      "predicted_indication": "familial hyperprolactinemia",
+      "txgnn_score": "0.9938",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/cabergoline/"
+    },
+    {
+      "slug": "lactulose",
+      "name": "Lactulose",
+      "drugbank_id": "DB00581",
+      "license_id": "1A 129/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ท้องผูก, โรคตับ",
+      "predicted_indication": "acute urate nephropathy",
+      "txgnn_score": "0.9989",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/lactulose/"
+    },
+    {
+      "slug": "sucralfate",
+      "name": "Sucralfate",
+      "drugbank_id": "DB00364",
+      "license_id": "1A 130/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "แผลในกระเพาะอาหาร",
+      "predicted_indication": "duodenal ulcer (disease)",
+      "txgnn_score": "0.9948",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/sucralfate/"
+    },
+    {
+      "slug": "tamsulosin",
+      "name": "Tamsulosin",
+      "drugbank_id": "DB00706",
+      "license_id": "1A 131/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ต่อมลูกหมากโต",
+      "predicted_indication": "benign prostatic hyperplasia (disease)",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/tamsulosin/"
+    },
+    {
+      "slug": "finasteride",
+      "name": "Finasteride",
+      "drugbank_id": "DB01216",
+      "license_id": "1A 132/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ต่อมลูกหมากโต, ผมร่วง",
+      "predicted_indication": "Ambras type hypertrichosis universalis congenita",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/finasteride/"
+    },
+    {
+      "slug": "tadalafil",
+      "name": "Tadalafil",
+      "drugbank_id": "DB00820",
+      "license_id": "1A 134/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "การแข็งตัวขององคชาต, ต่อมลูกหมากโต",
+      "predicted_indication": "Ambras type hypertrichosis universalis congenita",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/tadalafil/"
+    },
+    {
+      "slug": "tretinoin",
+      "name": "Tretinoin",
+      "drugbank_id": "DB00755",
+      "license_id": "1A 135/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "สิว",
+      "predicted_indication": "acne (disease)",
+      "txgnn_score": "0.9993",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/tretinoin/"
+    },
+    {
+      "slug": "isotretinoin",
+      "name": "Isotretinoin",
+      "drugbank_id": "DB00982",
+      "license_id": "1A 136/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "สิวรุนแรง",
+      "predicted_indication": "malignant hypertensive renal disease",
+      "txgnn_score": "0.9901",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/isotretinoin/"
+    },
+    {
+      "slug": "calcipotriol",
+      "name": "Calcipotriol",
+      "drugbank_id": "DB02300",
+      "license_id": "1A 137/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "สะเก็ดเงิน",
+      "predicted_indication": "seborrheic keratosis",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/calcipotriol/"
+    },
+    {
+      "slug": "lidocaine",
+      "name": "Lidocaine",
+      "drugbank_id": "DB00281",
+      "license_id": "1A 138/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ยาชา, หัวใจเต้นผิดจังหวะ",
+      "predicted_indication": "punctate epithelial keratoconjunctivitis",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/lidocaine/"
+    },
+    {
+      "slug": "bupivacaine",
+      "name": "Bupivacaine",
+      "drugbank_id": "DB00297",
+      "license_id": "1A 139/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ยาชา",
+      "predicted_indication": "dermatitis",
+      "txgnn_score": "0.9949",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/bupivacaine/"
+    },
+    {
+      "slug": "propofol",
+      "name": "Propofol",
+      "drugbank_id": "DB00818",
+      "license_id": "1A 140/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ยาสลบ",
+      "predicted_indication": "migraine disorder",
+      "txgnn_score": "0.9969",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/propofol/"
+    },
+    {
+      "slug": "ketamine",
+      "name": "Ketamine",
+      "drugbank_id": "DB01221",
+      "license_id": "1A 141/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ยาสลบ, ซึมเศร้า",
+      "predicted_indication": "headache disorder",
+      "txgnn_score": "0.9933",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ketamine/"
+    },
+    {
+      "slug": "baclofen",
+      "name": "Baclofen",
+      "drugbank_id": "DB00181",
+      "license_id": "1A 142/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "กล้ามเนื้อหดเกร็ง",
+      "predicted_indication": "attention deficit-hyperactivity disorder",
+      "txgnn_score": "0.9932",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/baclofen/"
+    },
+    {
+      "slug": "tizanidine",
+      "name": "Tizanidine",
+      "drugbank_id": "DB00697",
+      "license_id": "1A 143/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "กล้ามเนื้อหดเกร็ง",
+      "predicted_indication": "migraine disorder",
+      "txgnn_score": "0.9979",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/tizanidine/"
+    },
+    {
+      "slug": "orphenadrine",
+      "name": "Orphenadrine",
+      "drugbank_id": "DB01173",
+      "license_id": "1A 144/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ปวดกล้ามเนื้อ",
+      "predicted_indication": "retinal dystrophy with or without extraocular anomalies",
+      "txgnn_score": "0.9929",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/orphenadrine/"
+    },
+    {
+      "slug": "clozapine",
+      "name": "Clozapine",
+      "drugbank_id": "DB00363",
+      "license_id": "1A 145/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "จิตเภท",
+      "predicted_indication": "manic bipolar affective disorder",
+      "txgnn_score": "0.9995",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/clozapine/"
+    },
+    {
+      "slug": "aripiprazole",
+      "name": "Aripiprazole",
+      "drugbank_id": "DB01238",
+      "license_id": "1A 146/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "จิตเภท, ไบโพลาร์",
+      "predicted_indication": "manic bipolar affective disorder",
+      "txgnn_score": "0.9998",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/aripiprazole/"
+    },
+    {
+      "slug": "paliperidone",
+      "name": "Paliperidone",
+      "drugbank_id": "DB01267",
+      "license_id": "1A 147/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "จิตเภท",
+      "predicted_indication": "schizophrenia",
+      "txgnn_score": "0.9996",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/paliperidone/"
+    },
+    {
+      "slug": "duloxetine",
+      "name": "Duloxetine",
+      "drugbank_id": "DB00476",
+      "license_id": "1A 149/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ซึมเศร้า, ปวดปลายประสาท",
+      "predicted_indication": "endogenous depression",
+      "txgnn_score": "0.9994",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/duloxetine/"
+    },
+    {
+      "slug": "mirtazapine",
+      "name": "Mirtazapine",
+      "drugbank_id": "DB00370",
+      "license_id": "1A 150/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ซึมเศร้า",
+      "predicted_indication": "endogenous depression",
+      "txgnn_score": "0.9993",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/mirtazapine/"
+    },
+    {
+      "slug": "bupropion",
+      "name": "Bupropion",
+      "drugbank_id": "DB01156",
+      "license_id": "1A 151/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ซึมเศร้า, เลิกบุหรี่",
+      "predicted_indication": "attention deficit-hyperactivity disorder",
+      "txgnn_score": "0.9999",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/bupropion/"
+    },
+    {
+      "slug": "erythropoietin",
+      "name": "Erythropoietin",
+      "drugbank_id": "DB00016",
+      "license_id": "1A 152/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โลหิตจาง",
+      "predicted_indication": "antithrombin deficiency type 2",
+      "txgnn_score": "0.9933",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/erythropoietin/"
+    },
+    {
+      "slug": "filgrastim",
+      "name": "Filgrastim",
+      "drugbank_id": "DB00099",
+      "license_id": "1A 153/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "ภาวะเม็ดเลือดขาวต่ำ",
+      "predicted_indication": "primary release disorder of platelets",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/filgrastim/"
+    },
+    {
+      "slug": "potassium_chloride",
+      "name": "Potassium chloride",
+      "drugbank_id": "DB00761",
+      "license_id": "1A 154/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "โพแทสเซียมต่ำ",
+      "predicted_indication": "renal tubular acidosis",
+      "txgnn_score": "0.9987",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/potassium_chloride/"
+    },
+    {
+      "slug": "magnesium_sulfate",
+      "name": "Magnesium sulfate",
+      "drugbank_id": "DB00653",
+      "license_id": "1A 155/67",
+      "evidence_level": "L4",
+      "indication_count": 10,
+      "original_indication": "แมกนีเซียมต่ำ, ครรภ์เป็นพิษ",
+      "predicted_indication": "mild pre-eclampsia",
+      "txgnn_score": "1.0000",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/magnesium_sulfate/"
     }
-  }
+  ],
+  "L5": [
+    {
+      "slug": "furosemide",
+      "name": "Furosemide",
+      "drugbank_id": "DB00695",
+      "license_id": "1A 9/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "บวมน้ำ, หัวใจล้มเหลว",
+      "predicted_indication": "malignant renovascular hypertension",
+      "txgnn_score": "0.9803",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/furosemide/"
+    },
+    {
+      "slug": "hydrochlorothiazide",
+      "name": "Hydrochlorothiazide",
+      "drugbank_id": "DB00999",
+      "license_id": "1A 10/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, บวมน้ำ",
+      "predicted_indication": "malignant hypertensive renal disease",
+      "txgnn_score": "0.9842",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/hydrochlorothiazide/"
+    },
+    {
+      "slug": "nifedipine",
+      "name": "Nifedipine",
+      "drugbank_id": "DB01115",
+      "license_id": "1A 15/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ความดันโลหิตสูง, โรคหัวใจขาดเลือด",
+      "predicted_indication": "Prinzmetal angina",
+      "txgnn_score": "0.9362",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/nifedipine/"
+    },
+    {
+      "slug": "gliclazide",
+      "name": "Gliclazide",
+      "drugbank_id": "DB01120",
+      "license_id": "1A 28/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "เบาหวานชนิดที่ 2",
+      "predicted_indication": "classic stiff person syndrome",
+      "txgnn_score": "0.9796",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/gliclazide/"
+    },
+    {
+      "slug": "ondansetron",
+      "name": "Ondansetron",
+      "drugbank_id": "DB00904",
+      "license_id": "1A 46/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "คลื่นไส้อาเจียน",
+      "predicted_indication": "nephrogenic syndrome of inappropriate antidiuresis",
+      "txgnn_score": "0.9865",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/ondansetron/"
+    },
+    {
+      "slug": "gentamicin",
+      "name": "Gentamicin",
+      "drugbank_id": "DB00798",
+      "license_id": "1A 59/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "โรคติดเชื้อแบคทีเรียรุนแรง",
+      "predicted_indication": "rheumatoid arthritis",
+      "txgnn_score": "0.9776",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/gentamicin/"
+    },
+    {
+      "slug": "amitriptyline",
+      "name": "Amitriptyline",
+      "drugbank_id": "DB00321",
+      "license_id": "1A 77/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "โรคซึมเศร้า, ปวดประสาท",
+      "predicted_indication": "anxiety disorder",
+      "txgnn_score": "0.9849",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/amitriptyline/"
+    },
+    {
+      "slug": "oseltamivir",
+      "name": "Oseltamivir",
+      "drugbank_id": "DB00198",
+      "license_id": "1A 94/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ไข้หวัดใหญ่",
+      "predicted_indication": "influenza, severe, susceptibility to",
+      "txgnn_score": "0.9872",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/oseltamivir/"
+    },
+    {
+      "slug": "calciumcarbonate",
+      "name": "Calciumcarbonate",
+      "drugbank_id": "DB06724",
+      "license_id": "1A 97/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "เสริมแคลเซียม",
+      "predicted_indication": "hypercalcemia disease",
+      "txgnn_score": "0.9439",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/calciumcarbonate/"
+    },
+    {
+      "slug": "vitamind",
+      "name": "Vitamind",
+      "drugbank_id": "DB11094",
+      "license_id": "1A 98/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ป้องกันและรักษาภาวะขาดวิตามินดี",
+      "predicted_indication": "primary release disorder of platelets",
+      "txgnn_score": "0.9311",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/vitamind/"
+    },
+    {
+      "slug": "timolol",
+      "name": "Timolol",
+      "drugbank_id": "DB00373",
+      "license_id": "1A 99/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ต้อหิน",
+      "predicted_indication": "primary hereditary glaucoma",
+      "txgnn_score": "0.9864",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/timolol/"
+    },
+    {
+      "slug": "brimonidine",
+      "name": "Brimonidine",
+      "drugbank_id": "DB00484",
+      "license_id": "1A 101/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ต้อหิน",
+      "predicted_indication": "papillary conjunctivitis",
+      "txgnn_score": "0.9849",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/brimonidine/"
+    },
+    {
+      "slug": "mefloquine",
+      "name": "Mefloquine",
+      "drugbank_id": "DB00358",
+      "license_id": "1A 108/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "มาลาเรีย",
+      "predicted_indication": "malaria",
+      "txgnn_score": "0.9764",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/mefloquine/"
+    },
+    {
+      "slug": "praziquantel",
+      "name": "Praziquantel",
+      "drugbank_id": "DB01058",
+      "license_id": "1A 112/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "พยาธิใบไม้ตับ",
+      "predicted_indication": "uterine corpus epithelioid leiomyosarcoma",
+      "txgnn_score": "0.9728",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/praziquantel/"
+    },
+    {
+      "slug": "dabigatran",
+      "name": "Dabigatran",
+      "drugbank_id": "DB14726",
+      "license_id": "1A 124/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ",
+      "predicted_indication": "hemoglobinopathy",
+      "txgnn_score": "0.9843",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/dabigatran/"
+    },
+    {
+      "slug": "testosterone",
+      "name": "Testosterone",
+      "drugbank_id": "DB00624",
+      "license_id": "1A 125/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ภาวะขาดฮอร์โมนเพศชาย",
+      "predicted_indication": "androgen insensitivity syndrome",
+      "txgnn_score": "0.9750",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/testosterone/"
+    },
+    {
+      "slug": "sildenafil",
+      "name": "Sildenafil",
+      "drugbank_id": "DB00203",
+      "license_id": "1A 133/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "การแข็งตัวขององคชาต",
+      "predicted_indication": "Ambras type hypertrichosis universalis congenita",
+      "txgnn_score": "0.9841",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/sildenafil/"
+    },
+    {
+      "slug": "venlafaxine",
+      "name": "Venlafaxine",
+      "drugbank_id": "DB00285",
+      "license_id": "1A 148/67",
+      "evidence_level": "L5",
+      "indication_count": 10,
+      "original_indication": "ซึมเศร้า, วิตกกังวล",
+      "predicted_indication": "endogenous depression",
+      "txgnn_score": "0.9897",
+      "thailand_approved": true,
+      "decision": "รอหลักฐานเพิ่มเติม",
+      "url": "/drugs/venlafaxine/"
+    }
+  ]
 }

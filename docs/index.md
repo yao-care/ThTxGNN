@@ -1,49 +1,55 @@
 ---
 layout: default
-title: Home
+title: หน้าแรก
 nav_order: 1
+description: "ThTxGNN - ระบบคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่สำหรับประเทศไทย"
 ---
 
-# ThTxGNN - Thailand Drug Repurposing Predictions
+# ThTxGNN: ระบบคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่
 
-Drug repurposing prediction system for Thailand using TxGNN knowledge graph.
+ยินดีต้อนรับสู่ **ThTxGNN** (Thailand TxGNN) ระบบคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่สำหรับประเทศไทย
 
-## Overview
+## ภาพรวมโครงการ
 
-This project identifies potential new therapeutic uses for existing drugs approved in Thailand by leveraging the TxGNN (Therapeutic Target Graph Neural Network) knowledge graph.
+ThTxGNN ใช้โมเดล **TxGNN** (Therapeutics-Centric Knowledge Graph) จาก Harvard
+เพื่อคาดการณ์ข้อบ่งใช้ใหม่สำหรับยาที่ขึ้นทะเบียนกับสำนักงานคณะกรรมการอาหารและยา (อย.) ประเทศไทย
 
-## Quick Stats
+### สถิติระบบ
 
-| Metric | Value |
+| รายการ | จำนวน |
 |--------|-------|
-| Thai FDA Drugs (NLEM) | 155 |
-| DrugBank Mapping Rate | 97.42% |
-| Disease Mapping Rate | 83.63% |
-| Repurposing Candidates | 1,115 |
+| ยาที่วิเคราะห์ | 151 รายการ |
+| การคาดการณ์ทั้งหมด | 2.5+ ล้านคู่ |
+| การคาดการณ์ความเชื่อมั่นสูง (≥0.9) | 11,000+ รายการ |
+| แหล่งข้อมูล | Thai FDA, DrugBank, TxGNN |
 
-## Features
+## การเริ่มต้นใช้งาน
 
-- **Knowledge Graph Prediction**: Uses TxGNN to identify potential drug-disease relationships
-- **FHIR R4 Compliant**: All predictions available as FHIR resources
-- **SMART on FHIR**: EHR integration support
-- **Evidence Collection**: Automatic literature and clinical trial search
+- [📖 คู่มือการใช้งาน]({{ "/guide/" | relative_url }})
+- [💊 ค้นหายา]({{ "/nav-drugs/" | relative_url }})
+- [📥 ดาวน์โหลดข้อมูล]({{ "/downloads/" | relative_url }})
+- [🔗 FHIR API]({{ "/fhir/metadata" | relative_url }})
 
-## API Endpoints
+## ระดับหลักฐาน
 
-| Resource | URL |
-|----------|-----|
-| FHIR Metadata | `/fhir/metadata` |
-| MedicationKnowledge | `/fhir/MedicationKnowledge/{id}` |
-| ClinicalUseDefinition | `/fhir/ClinicalUseDefinition/{id}` |
+| ระดับ | คำอธิบาย | การตัดสินใจ |
+|:-----:|----------|-------------|
+| L1 | ผ่านการตรวจสอบทางคลินิก | ผ่านการตรวจสอบ |
+| L2 | หลักฐานแข็งแกร่ง (Clinical Trial + Literature) | ดำเนินการต่อด้วยความระมัดระวัง |
+| L3 | หลักฐานปานกลาง | ดำเนินการต่อด้วยความระมัดระวัง |
+| L4 | หลักฐานอ่อน (คะแนนโมเดลสูง) | รอหลักฐานเพิ่มเติม |
+| L5 | การคาดการณ์จากโมเดลเท่านั้น | รอหลักฐานเพิ่มเติม |
 
-## Disclaimer
+## แหล่งข้อมูล
 
-This project is for research purposes only and does not constitute medical advice. Drug repurposing candidates require clinical validation before application.
+- **สำนักงานคณะกรรมการอาหารและยา (Thai FDA)**: ข้อมูลยาที่ขึ้นทะเบียนในประเทศไทย
+- **DrugBank**: ฐานข้อมูลยาระดับโลก
+- **TxGNN**: โมเดล Knowledge Graph จาก Harvard
 
-## Data Sources
+---
 
-- **Thai FDA**: Thailand Food and Drug Administration
-- **TxGNN**: Knowledge graph for drug-disease relationships
-- **DrugBank**: Drug information and mappings
-- **ClinicalTrials.gov**: Clinical trial evidence
-- **PubMed**: Literature evidence
+<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem;">
+<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
+ข้อมูลในเว็บไซต์นี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
+กรุณาปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+</div>

@@ -1,61 +1,43 @@
 # ThTxGNN Jekyll Configuration
 
-# Basic settings
-title: "ThTxGNN Drug Repurposing Reports"
+title: "ThTxGNN: ระบบคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่"
 description: "Thailand Drug Repurposing Predictions using TxGNN Knowledge Graph"
 url: "https://thtxgnn.yao.care"
 baseurl: ""
 lang: "th"
 
-# Jekyll theme
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 
-# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-feed
 
-# Search
 search_enabled: true
 search:
   heading_level: 3
 
-# Footer
-footer_content: "Copyright &copy; 2026 ThTxGNN Project. For research purposes only."
+footer_content: "Copyright &copy; 2026 ThTxGNN Project | <a href='/privacy-policy/'>นโยบายความเป็นส่วนตัว</a>"
 
-# RSS Feed
-feed:
-  path: feed.xml
-  posts_limit: 20
+aux_links:
+  "GitHub":
+    - "https://github.com/yao-care/ThTxGNN"
 
-# Collections
+back_to_top: true
+back_to_top_text: "กลับขึ้นด้านบน"
+
 collections:
   drugs:
     output: true
     permalink: /drugs/:name/
-  news:
-    output: true
-    permalink: /news/:name/
 
-# Defaults
 defaults:
   - scope:
       path: ""
       type: "drugs"
     values:
       layout: "default"
-  - scope:
-      path: ""
-      type: "news"
-    values:
-      layout: "default"
 
-# Open Graph
-og_image: "/assets/images/og-default.png"
-
-# Exclude
 exclude:
   - Gemfile
   - Gemfile.lock
