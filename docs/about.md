@@ -53,7 +53,7 @@ ThTxGNN (Thailand Therapeutic Graph Neural Network) is an open-source drug repur
 ## Related Projects
 
 - **TxGNN**: Original knowledge graph neural network ([Paper](https://www.nature.com/articles/s41591-023-02233-x))
-- **TwTxGNN**: Taiwan implementation (reference implementation)
+- **ThTxGNN**: Thailand implementation (reference implementation)
 
 ## License
 

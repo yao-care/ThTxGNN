@@ -9,8 +9,12 @@
 
   const CONFIG = {
     searchIndexUrl: '/data/search-index.json',
-    drugsBaseUrl: '/drugs/'
+    drugsBaseUrl: '/drugs/',
+    clinicalTrialsApiUrl: 'https://clinicaltrials.gov/api/v2/studies'
   };
+
+  // Clinical trials cache to avoid repeated API calls
+  const clinicalTrialsCache = new Map();
 
   // UI Elements
   let elements = {};
@@ -250,12 +254,19 @@
       `;
 
       if (indications.length > 0) {
-        indications.slice(0, 10).forEach(ind => {
+        indications.slice(0, 10).forEach((ind, indIndex) => {
+          const trialsContainerId = `trials-${drug.slug}-${indIndex}`;
           html += `
             <div class="indication-item">
-              <span class="level-badge level-${ind.level}">${ind.level}</span>
-              <span class="ind-name">${escapeHtml(ind.name)}</span>
-              <span class="ind-score">${ind.score}%</span>
+              <div class="indication-header">
+                <span class="level-badge level-${ind.level}">${ind.level}</span>
+                <span class="ind-name">${escapeHtml(ind.name)}</span>
+                <span class="ind-score">${ind.score}%</span>
+                <button class="trials-btn" onclick="TwTxGNN.SmartApp.loadTrials('${escapeHtml(drug.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
+                  🔬 臨床試驗
+                </button>
+              </div>
+              <div class="trials-container" id="${trialsContainerId}"></div>
             </div>
           `;
         });
@@ -342,10 +353,148 @@
     return div.innerHTML;
   }
 
+  /**
+   * Search ClinicalTrials.gov for drug + condition trials
+   * @param {string} drugName - Drug name
+   * @param {string} condition - Disease/condition name
+   * @returns {Promise<Object>} Trial results with count and trials array
+   */
+  async function searchClinicalTrials(drugName, condition) {
+    const cacheKey = `${drugName.toLowerCase()}|${condition.toLowerCase()}`;
+
+    // Return cached result if available
+    if (clinicalTrialsCache.has(cacheKey)) {
+      return clinicalTrialsCache.get(cacheKey);
+    }
+
+    try {
+      const params = new URLSearchParams({
+        'query.intr': drugName,
+        'query.cond': condition,
+        'pageSize': '5',
+        'format': 'json',
+        'countTotal': 'true'
+      });
+
+      const response = await fetch(`${CONFIG.clinicalTrialsApiUrl}?${params}`);
+
+      if (!response.ok) {
+        console.warn('ClinicalTrials.gov API error:', response.status);
+        return { totalCount: 0, trials: [] };
+      }
+
+      const data = await response.json();
+
+      const result = {
+        totalCount: data.totalCount || 0,
+        trials: (data.studies || []).slice(0, 5).map(study => ({
+          nctId: study.protocolSection?.identificationModule?.nctId,
+          title: study.protocolSection?.identificationModule?.briefTitle,
+          status: study.protocolSection?.statusModule?.overallStatus,
+          phase: study.protocolSection?.designModule?.phases?.join(', ') || 'N/A',
+          enrollment: study.protocolSection?.designModule?.enrollmentInfo?.count,
+          url: `https://clinicaltrials.gov/study/${study.protocolSection?.identificationModule?.nctId}`
+        }))
+      };
+
+      // Cache the result
+      clinicalTrialsCache.set(cacheKey, result);
+
+      return result;
+    } catch (error) {
+      console.warn('Failed to fetch clinical trials:', error);
+      return { totalCount: 0, trials: [] };
+    }
+  }
+
+  /**
+   * Render clinical trials section for an indication
+   * @param {string} drugName - Drug name
+   * @param {string} indicationName - Indication name
+   * @param {string} containerId - Container element ID
+   */
+  async function loadClinicalTrials(drugName, indicationName, containerId) {
+    const container = document.getElementById(containerId);
+    if (!container) return;
+
+    container.innerHTML = '<span class="trials-loading">搜尋臨床試驗中...</span>';
+
+    const result = await searchClinicalTrials(drugName, indicationName);
+
+    if (result.totalCount === 0) {
+      container.innerHTML = '<span class="trials-none">無相關臨床試驗</span>';
+      return;
+    }
+
+    let html = `
+      <div class="trials-summary">
+        找到 <strong>${result.totalCount}</strong> 個相關臨床試驗
+      </div>
+      <div class="trials-list">
+    `;
+
+    result.trials.forEach(trial => {
+      const statusClass = getTrialStatusClass(trial.status);
+      html += `
+        <div class="trial-item">
+          <a href="${trial.url}" target="_blank" class="trial-nct">${trial.nctId}</a>
+          <span class="trial-status ${statusClass}">${formatTrialStatus(trial.status)}</span>
+          <span class="trial-phase">${trial.phase}</span>
+          <div class="trial-title">${escapeHtml(trial.title)}</div>
+        </div>
+      `;
+    });
+
+    if (result.totalCount > 5) {
+      const searchUrl = `https://clinicaltrials.gov/search?cond=${encodeURIComponent(indicationName)}&intr=${encodeURIComponent(drugName)}`;
+      html += `
+        <a href="${searchUrl}" target="_blank" class="trials-more">
+          查看全部 ${result.totalCount} 個臨床試驗 →
+        </a>
+      `;
+    }
+
+    html += '</div>';
+    container.innerHTML = html;
+  }
+
+  /**
+   * Get CSS class for trial status
+   */
+  function getTrialStatusClass(status) {
+    const statusMap = {
+      'RECRUITING': 'status-recruiting',
+      'ACTIVE_NOT_RECRUITING': 'status-active',
+      'COMPLETED': 'status-completed',
+      'TERMINATED': 'status-terminated',
+      'NOT_YET_RECRUITING': 'status-pending'
+    };
+    return statusMap[status] || 'status-unknown';
+  }
+
+  /**
+   * Format trial status for display
+   */
+  function formatTrialStatus(status) {
+    const statusMap = {
+      'RECRUITING': '招募中',
+      'ACTIVE_NOT_RECRUITING': '進行中',
+      'COMPLETED': '已完成',
+      'TERMINATED': '已終止',
+      'NOT_YET_RECRUITING': '尚未招募',
+      'SUSPENDED': '暫停',
+      'WITHDRAWN': '已撤回',
+      'ENROLLING_BY_INVITATION': '邀請招募'
+    };
+    return statusMap[status] || status;
+  }
+
   // Export
   global.TwTxGNN = global.TwTxGNN || {};
   global.TwTxGNN.SmartApp = {
-    init: init
+    init: init,
+    loadTrials: loadClinicalTrials,
+    searchTrials: searchClinicalTrials
   };
 
   // Auto-initialize when DOM is ready
