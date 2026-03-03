@@ -23,13 +23,13 @@ sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 import pandas as pd
 import yaml
 
-from txgnn.data.loader import load_fda_drugs, filter_active_drugs, get_drug_summary
-from txgnn.mapping.drugbank_mapper import map_fda_drugs_to_drugbank
-from txgnn.mapping.disease_mapper import (
+from thtxgnn.data.loader import load_fda_drugs, filter_active_drugs, get_drug_summary
+from thtxgnn.mapping.drugbank_mapper import map_fda_drugs_to_drugbank
+from thtxgnn.mapping.disease_mapper import (
     map_fda_indications_to_diseases,
     get_indication_mapping_stats,
 )
-from txgnn.predict.repurposing import find_repurposing_candidates
+from thtxgnn.predict.repurposing import find_repurposing_candidates
 
 
 def load_field_config() -> dict:

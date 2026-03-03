@@ -25,7 +25,7 @@ from pathlib import Path
 import sys
 sys.path.insert(0, str(Path(__file__).parent.parent / "src"))
 
-from txgnn.review import LLMReviewer, create_mock_reviewer
+from thtxgnn.review import LLMReviewer, create_mock_reviewer
 
 
 def load_predictions(path: str, limit: int = 10) -> list[dict]:
