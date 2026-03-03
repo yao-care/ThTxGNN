@@ -1,91 +1,59 @@
 ---
 layout: default
-title: Drug Predictions
-nav_order: 6
+title: รายการยาทั้งหมด
+parent: รายงานยา
+nav_order: 4
+permalink: /drugs/
 ---
 
-# Drug Repurposing Predictions
+# รายการยาทั้งหมด
 
-## Overview
+<p style="font-size: 1.1rem; color: #666; margin-bottom: 1.5rem;">
+รายการยา <strong>151</strong> รายการที่ขึ้นทะเบียนกับ อย. ประเทศไทย พร้อมการคาดการณ์ข้อบ่งใช้ใหม่
+</p>
 
-ThTxGNN has analyzed 98 drugs from Thailand's National List of Essential Medicines (NLEM) and identified 939 potential repurposing candidates.
+---
 
-## Summary by Drug Category
+## ภาพรวม
 
-| Category | Drugs | Predictions |
-|----------|-------|-------------|
-| Cardiovascular | 25 | ~280 |
-| Diabetes/Metabolic | 12 | ~130 |
-| Pain/Anti-inflammatory | 15 | ~160 |
-| Antibiotics | 18 | ~150 |
-| Respiratory | 8 | ~70 |
-| CNS/Neurological | 10 | ~80 |
-| Others | 10 | ~70 |
+ThTxGNN วิเคราะห์ยา 151 รายการจาก Thai FDA และระบุข้อบ่งใช้ใหม่ที่มีศักยภาพ 2,573,191 รายการ
 
-## Top Drugs by Prediction Count
+## สรุปตามระดับหลักฐาน
 
-| Drug | DrugBank ID | Predictions | Top Indication |
-|------|-------------|-------------|----------------|
-| Amlodipine | DB00381 | 6 | Prinzmetal angina |
-| Metformin | DB00331 | 8 | Metabolic syndrome |
-| Losartan | DB00678 | 5 | Heart failure |
-| Atorvastatin | DB01076 | 7 | Cardiovascular disease |
-| Omeprazole | DB00338 | 5 | Barrett esophagus |
+| ระดับ | จำนวนยา | คำอธิบาย |
+|-------|---------|----------|
+| L1-L2 | 8 | มีการทดลองทางคลินิกสนับสนุน |
+| L3-L4 | 15 | มีหลักฐานจากวรรณกรรม |
+| L5 | 128 | เฉพาะการคาดการณ์จากโมเดล |
 
-## Search Predictions
+---
 
-Use the FHIR API to search for specific drugs:
+## ค้นหายา
+
+<div id="drug-list-container">
+{% assign all_drugs = site.drugs | sort: "title" %}
+
+{% for drug in all_drugs %}
+- [{{ drug.title }}]({{ drug.url | relative_url }}) - {{ drug.evidence_level | default: "L5" }}
+{% endfor %}
+</div>
+
+---
+
+## FHIR API
+
+ใช้ FHIR API เพื่อค้นหายาเฉพาะ:
 
 ```bash
-# Get all predictions for Amlodipine
-curl https://thtxgnn.github.io/fhir/ClinicalUseDefinition?subject=MedicationKnowledge/DB00381
+# ดูข้อมูลยาทั้งหมด
+curl https://thtxgnn.yao.care/fhir/MedicationKnowledge/
+
+# ดูการคาดการณ์สำหรับยาเฉพาะ
+curl https://thtxgnn.yao.care/fhir/ClinicalUseDefinition?subject=MedicationKnowledge/DB00381
 ```
 
-## Evidence Status
+---
 
-| Status | Count | Description |
-|--------|-------|-------------|
-| Strong Evidence | ~50 | Clinical trials ongoing/completed |
-| Moderate Evidence | ~200 | Literature support |
-| Computational Only | ~689 | KG prediction only |
+## ข้อจำกัดความรับผิดชอบ
 
-## Drug Categories
-
-### Cardiovascular Drugs
-
-- Amlodipine, Atenolol, Bisoprolol, Captopril, Carvedilol
-- Digoxin, Diltiazem, Enalapril, Furosemide, Hydrochlorothiazide
-- Isosorbide, Lisinopril, Losartan, Metoprolol, Nifedipine
-- Propranolol, Ramipril, Simvastatin, Spironolactone, Valsartan
-- Verapamil, Warfarin, Aspirin, Clopidogrel, Atorvastatin
-
-### Diabetes/Metabolic Drugs
-
-- Metformin, Glibenclamide, Gliclazide, Glimepiride, Insulin
-- Pioglitazone, Sitagliptin, Empagliflozin, Dapagliflozin
-
-### Antibiotics
-
-- Amoxicillin, Ampicillin, Azithromycin, Ceftriaxone, Ciprofloxacin
-- Clindamycin, Doxycycline, Erythromycin, Gentamicin, Metronidazole
-- Penicillin, Tetracycline, Co-trimoxazole
-
-### Pain/Anti-inflammatory
-
-- Paracetamol, Ibuprofen, Diclofenac, Naproxen, Celecoxib
-- Morphine, Tramadol, Codeine, Meloxicam
-
-### Respiratory
-
-- Salbutamol, Budesonide, Ipratropium, Theophylline
-- Montelukast, Fluticasone
-
-### CNS/Neurological
-
-- Carbamazepine, Phenytoin, Valproic acid, Levetiracetam
-- Diazepam, Lorazepam, Haloperidol, Risperidone
-- Amitriptyline, Fluoxetine
-
-## Disclaimer
-
-All predictions are computational hypotheses. Drug repurposing candidates require clinical validation before therapeutic application.
+การคาดการณ์ทั้งหมดเป็นสมมติฐานจากการคำนวณ ยาที่อาจใช้ในข้อบ่งใช้ใหม่ต้องผ่านการทดลองทางคลินิกก่อนนำไปใช้

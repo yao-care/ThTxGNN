@@ -1,6 +1,7 @@
 ---
 layout: default
 title: คู่มือการใช้งาน
+parent: คำอธิบาย
 nav_order: 2
 ---
 

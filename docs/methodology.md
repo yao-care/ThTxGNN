@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Methodology
-nav_order: 2
+title: วิธีการคาดการณ์
+parent: คำอธิบาย
+nav_order: 1
 ---
 
-# Methodology
+# วิธีการคาดการณ์
 
 ## Knowledge Graph Prediction
 

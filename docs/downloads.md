@@ -1,7 +1,8 @@
 ---
 layout: default
 title: ดาวน์โหลด
-nav_order: 4
+parent: แหล่งข้อมูล
+nav_order: 1
 ---
 
 # ดาวน์โหลดข้อมูล
