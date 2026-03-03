@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="th">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>ThTxGNN SMART App - 啟動中</title>
+  <title>ThTxGNN SMART App - กำลังเริ่มต้น</title>
   <style>
     * {
       box-sizing: border-box;
@@ -11,7 +11,7 @@
       padding: 0;
     }
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans Thai', sans-serif;
       background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       min-height: 100vh;
       display: flex;
@@ -66,7 +66,7 @@
   <div class="launch-container">
     <div class="spinner" id="spinner"></div>
     <h1>ThTxGNN SMART App</h1>
-    <p id="status">正在連線至 EHR 系統...</p>
+    <p id="status">กำลังเชื่อมต่อกับระบบ EHR...</p>
     <div class="error" id="error"></div>
   </div>
 
@@ -83,7 +83,7 @@
 
       function showError(message) {
         spinnerEl.style.display = 'none';
-        statusEl.textContent = '啟動失敗';
+        statusEl.textContent = 'เริ่มต้นล้มเหลว';
         errorEl.textContent = message;
         errorEl.classList.add('visible');
       }
@@ -114,7 +114,7 @@
         pkce: true
       }).catch(function(error) {
         console.error('SMART authorization error:', error);
-        showError('無法啟動 SMART 授權流程。請確認您是從 EHR 系統啟動此應用程式。\n\n錯誤訊息: ' + (error.message || error));
+        showError('ไม่สามารถเริ่มกระบวนการอนุญาต SMART ได้ กรุณาตรวจสอบว่าคุณเปิดแอปพลิเคชันนี้จากระบบ EHR\n\nข้อความผิดพลาด: ' + (error.message || error));
       });
 
     })();

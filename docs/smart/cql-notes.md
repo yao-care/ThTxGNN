@@ -1,31 +1,31 @@
 ---
 layout: default
-title: CQL 語法學習筆記
+title: บันทึกการเรียนรู้ไวยากรณ์ CQL
 parent: SMART on FHIR
 nav_order: 12
 ---
 
-# CQL (Clinical Quality Language) 學習筆記
+# บันทึกการเรียนรู้ CQL (Clinical Quality Language)
 
-本文件整理 CQL 語法基礎，供 ThTxGNN 設計臨床決策支援規則參考。
+เอกสารนี้รวบรวมพื้นฐานไวยากรณ์ CQL สำหรับการออกแบบกฎการสนับสนุนการตัดสินใจทางคลินิกใน ThTxGNN
 
 ---
 
-## CQL 概覽
+## ภาพรวม CQL
 
-| 項目 | 內容 |
+| รายการ | เนื้อหา |
 |------|------|
-| **全名** | Clinical Quality Language |
-| **用途** | 臨床品質測量 (CQM) + 臨床決策支援 (CDS) |
-| **規範版本** | v1.5.3 (Normative)、v2.0.0 (Ballot) |
-| **與 FHIRPath 關係** | CQL 是 FHIRPath 的超集 |
-| **執行引擎** | cql-execution (JavaScript)、HAPI FHIR (Java) |
+| **ชื่อเต็ม** | Clinical Quality Language |
+| **การใช้งาน** | การวัดคุณภาพทางคลินิก (CQM) + การสนับสนุนการตัดสินใจทางคลินิก (CDS) |
+| **เวอร์ชันข้อกำหนด** | v1.5.3 (Normative), v2.0.0 (Ballot) |
+| **ความสัมพันธ์กับ FHIRPath** | CQL เป็น superset ของ FHIRPath |
+| **Execution Engine** | cql-execution (JavaScript), HAPI FHIR (Java) |
 
 ---
 
-## 基本結構
+## โครงสร้างพื้นฐาน
 
-### Library 宣告
+### การประกาศ Library
 
 ```cql
 library ThTxGNNCommons version '1.0.0'
@@ -37,20 +37,20 @@ include FHIRHelpers version '4.0.1' called FHIRHelpers
 context Patient
 ```
 
-| 語法 | 說明 |
+| ไวยากรณ์ | คำอธิบาย |
 |------|------|
-| `library` | 程式庫名稱和版本 |
-| `using` | 資料模型（FHIR R4） |
-| `include` | 引用其他 CQL 程式庫 |
-| `context` | 執行情境（Patient 或 Population） |
+| `library` | ชื่อและเวอร์ชันของ Library |
+| `using` | Data Model (FHIR R4) |
+| `include` | อ้างอิง CQL Library อื่น |
+| `context` | บริบทการทำงาน (Patient หรือ Population) |
 
 ---
 
-## 資料類型
+## ประเภทข้อมูล
 
-### 基本類型
+### ประเภทพื้นฐาน
 
-| 類型 | 範例 |
+| ประเภท | ตัวอย่าง |
 |------|------|
 | **Boolean** | `true`, `false`, `null` |
 | **Integer** | `16`, `-28` |
@@ -60,9 +60,9 @@ context Patient
 | **DateTime** | `@2014-01-25T14:30:14.559` |
 | **Time** | `@T12:00` |
 
-### 臨床類型
+### ประเภททางคลินิก
 
-| 類型 | 範例 |
+| ประเภท | ตัวอย่าง |
 |------|------|
 | **Quantity** | `6 'gm/cm3'` |
 | **Code** | `Code '442487003' from "SNOMED"` |
@@ -71,9 +71,9 @@ context Patient
 
 ---
 
-## 資料檢索 (Retrieve)
+## การดึงข้อมูล (Retrieve)
 
-### 基本語法
+### ไวยากรณ์พื้นฐาน
 
 ```cql
 [Condition: "Diabetes"]
@@ -81,7 +81,7 @@ context Patient
 [Encounter: "Ambulatory Visit"]
 ```
 
-### 篩選條件
+### เงื่อนไขการกรอง
 
 ```cql
 [MedicationRequest: medication in "Antidiabetic Medications"]
@@ -90,9 +90,9 @@ context Patient
 
 ---
 
-## 查詢 (Query)
+## การสืบค้น (Query)
 
-### 完整語法
+### ไวยากรณ์เต็ม
 
 ```cql
 [Encounter: "Inpatient"] E
@@ -106,18 +106,18 @@ context Patient
   sort by encounterId
 ```
 
-### 子句順序
+### ลำดับ Clause
 
-| 順序 | 子句 | 說明 |
+| ลำดับ | Clause | คำอธิบาย |
 |------|------|------|
-| 1 | `with/without` | 關聯條件 |
-| 2 | `where` | 篩選條件 |
-| 3 | `return` | 回傳欄位 |
-| 4 | `sort` | 排序 |
+| 1 | `with/without` | เงื่อนไขความสัมพันธ์ |
+| 2 | `where` | เงื่อนไขการกรอง |
+| 3 | `return` | ฟิลด์ที่ส่งคืน |
+| 4 | `sort` | การเรียงลำดับ |
 
 ---
 
-## 定義表達式 (Define)
+## การกำหนดนิพจน์ (Define)
 
 ```cql
 define "PatientHasDiabetes":
@@ -131,7 +131,7 @@ define "CurrentMedications":
 
 ---
 
-## 函數 (Function)
+## ฟังก์ชัน (Function)
 
 ```cql
 define function "GetDrugName"(med MedicationRequest):
@@ -146,7 +146,7 @@ define function "CalculateAge"(birthDate Date):
 
 ---
 
-## 參數 (Parameter)
+## พารามิเตอร์ (Parameter)
 
 ```cql
 parameter MeasurementPeriod Interval<DateTime>
@@ -157,9 +157,9 @@ parameter DrugList List<Code>
 
 ---
 
-## ThTxGNN 應用範例
+## ตัวอย่างการใช้งานใน ThTxGNN
 
-### 定義：取得病患目前用藥
+### การกำหนด: รับยาปัจจุบันของผู้ป่วย
 
 ```cql
 library ThTxGNNDrugRepurposing version '1.0.0'
@@ -169,29 +169,29 @@ include FHIRHelpers version '4.0.1'
 
 context Patient
 
-// 取得目前有效的用藥
+// รับยาที่ใช้อยู่ปัจจุบัน
 define "ActiveMedications":
   [MedicationRequest] M
     where M.status = 'active'
       and M.intent = 'order'
 
-// 取得藥物名稱清單
+// รับรายชื่อยา
 define "MedicationNames":
   "ActiveMedications" M
     return FHIRHelpers.ToConcept(M.medication as CodeableConcept).display
 ```
 
-### 定義：DDI 檢查邏輯
+### การกำหนด: ตรรกะการตรวจสอบ DDI
 
 ```cql
-// 檢查是否有 Warfarin + NSAID 併用
+// ตรวจสอบการใช้ Warfarin + NSAID ร่วมกัน
 define "WarfarinPlusNSAID":
   exists([MedicationRequest: "Warfarin"] W
     where W.status = 'active')
   and exists([MedicationRequest: "NSAIDs"] N
     where N.status = 'active')
 
-// DDI 警示訊息
+// ข้อความแจ้งเตือน DDI
 define "DDIAlertMessage":
   if "WarfarinPlusNSAID" then
     'WARNING: Concurrent use of Warfarin and NSAIDs increases bleeding risk.'
@@ -199,13 +199,13 @@ define "DDIAlertMessage":
     null
 ```
 
-### 定義：老藥新用候選篩選
+### การกำหนด: การกรองผู้สมัครข้อบ่งใช้ใหม่
 
 ```cql
-// 參數：ThTxGNN 預測分數門檻
+// พารามิเตอร์: เกณฑ์คะแนนการคาดการณ์ ThTxGNN
 parameter PredictionScoreThreshold Decimal default 0.9
 
-// 定義：高信心度候選
+// การกำหนด: ผู้สมัครที่มีความเชื่อมั่นสูง
 define "HighConfidenceCandidates":
   "DrugRepurposingPredictions" P
     where P.score >= PredictionScoreThreshold
@@ -214,25 +214,25 @@ define "HighConfidenceCandidates":
 
 ---
 
-## 值集 (ValueSet) 定義
+## การกำหนด ValueSet
 
 ```cql
-// 使用 OID 參照外部值集
+// ใช้ OID อ้างอิง ValueSet ภายนอก
 valueset "Diabetes Medications":
   'http://cts.nlm.nih.gov/fhir/ValueSet/2.16.840.1.113883.3.464.1003.196.12.1001'
 
-// 使用 SNOMED CT 代碼
+// ใช้รหัส SNOMED CT
 codesystem "SNOMED": 'http://snomed.info/sct'
 code "Type 2 Diabetes": '44054006' from "SNOMED" display 'Type 2 diabetes mellitus'
 
-// 使用 RxNorm 代碼
+// ใช้รหัส RxNorm
 codesystem "RxNorm": 'http://www.nlm.nih.gov/research/umls/rxnorm'
 code "Metformin": '6809' from "RxNorm" display 'Metformin'
 ```
 
 ---
 
-## 執行引擎整合
+## การรวม Execution Engine
 
 ### JavaScript (cql-execution)
 
@@ -240,50 +240,50 @@ code "Metformin": '6809' from "RxNorm" display 'Metformin'
 const cql = require('cql-execution');
 const cqlfhir = require('cql-exec-fhir');
 
-// 載入 ELM JSON（CQL 編譯結果）
+// โหลด ELM JSON (ผลการคอมไพล์ CQL)
 const elmJson = require('./ThTxGNNCommons.json');
 
-// 建立病患資料來源
+// สร้างแหล่งข้อมูลผู้ป่วย
 const patientSource = cqlfhir.PatientSource.FHIRv401();
 patientSource.loadBundles([patientBundle]);
 
-// 執行 CQL
+// ประมวลผล CQL
 const executor = new cql.Executor(new cql.Library(elmJson));
 const results = await executor.exec(patientSource);
 
 console.log(results.patientResults);
 ```
 
-### CQL → ELM 編譯
+### การคอมไพล์ CQL → ELM
 
 ```bash
-# 安裝 CQL-to-ELM translator
+# ติดตั้ง CQL-to-ELM translator
 npm install cql-to-elm
 
-# 編譯 CQL 為 ELM JSON
+# คอมไพล์ CQL เป็น ELM JSON
 cql-to-elm -i ThTxGNNCommons.cql -o ThTxGNNCommons.json
 ```
 
 ---
 
-## 學習資源
+## แหล่งเรียนรู้
 
-- [CQL 規範](https://cql.hl7.org/) - 官方完整規範
-- [Author's Guide](https://cql.hl7.org/02-authorsguide.html) - 入門指南
-- [Developer's Guide](https://cql.hl7.org/03-developersguide.html) - 開發者指南
-- [cqframework/clinical_quality_language](https://github.com/cqframework/clinical_quality_language) - 官方工具
-- [Cooking with CQL](https://github.com/cqframework/CQL-Formatting-and-Usage-Wiki/wiki/Cooking-with-CQL-Examples) - 範例集
-
----
-
-## 待辦事項
-
-- [ ] 建立 ThTxGNNCommons.cql 基礎函式庫
-- [ ] 定義藥物名稱值集
-- [ ] 實作 DDI 檢查規則
-- [ ] 整合 cql-execution 引擎
-- [ ] 設計老藥新用決策邏輯
+- [ข้อกำหนด CQL](https://cql.hl7.org/) - ข้อกำหนดอย่างเป็นทางการฉบับเต็ม
+- [Author's Guide](https://cql.hl7.org/02-authorsguide.html) - คู่มือเริ่มต้น
+- [Developer's Guide](https://cql.hl7.org/03-developersguide.html) - คู่มือนักพัฒนา
+- [cqframework/clinical_quality_language](https://github.com/cqframework/clinical_quality_language) - เครื่องมืออย่างเป็นทางการ
+- [Cooking with CQL](https://github.com/cqframework/CQL-Formatting-and-Usage-Wiki/wiki/Cooking-with-CQL-Examples) - ชุดตัวอย่าง
 
 ---
 
-*建立日期：2026-03-01*
+## รายการสิ่งที่ต้องทำ
+
+- [ ] สร้าง ThTxGNNCommons.cql library ฐาน
+- [ ] กำหนด ValueSet ชื่อยา
+- [ ] ใช้งานกฎการตรวจสอบ DDI
+- [ ] รวม cql-execution engine
+- [ ] ออกแบบตรรกะการตัดสินใจข้อบ่งใช้ใหม่
+
+---
+
+*วันที่สร้าง: 2026-03-01*

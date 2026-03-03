@@ -1,45 +1,45 @@
 ---
 layout: default
-title: FHIR API 規格
+title: ข้อกำหนด FHIR API
 parent: SMART on FHIR
 nav_order: 7
 ---
 
-# ThTxGNN FHIR API 規格
+# ข้อกำหนด ThTxGNN FHIR API
 
-本文件說明 ThTxGNN 老藥新用預測資料的 FHIR API 規格，供外部系統整合參考。
+เอกสารนี้อธิบายข้อกำหนด FHIR API สำหรับข้อมูลการคาดการณ์ข้อบ่งใช้ใหม่ของ ThTxGNN สำหรับการรวมระบบภายนอก
 
 ---
 
-## API 概覽
+## ภาพรวม API
 
-| 項目 | 內容 |
+| รายการ | เนื้อหา |
 |------|------|
 | **Base URL** | `https://thtxgnn.yao.care/fhir` |
-| **FHIR 版本** | R4 (4.0.1) |
-| **格式** | `application/fhir+json` |
-| **存取方式** | 靜態 JSON 檔案（無需認證） |
-| **資料量** | 189 個藥物、1,268 個預測適應症 |
+| **เวอร์ชัน FHIR** | R4 (4.0.1) |
+| **รูปแบบ** | `application/fhir+json` |
+| **วิธีการเข้าถึง** | ไฟล์ JSON แบบ Static (ไม่ต้องยืนยันตัวตน) |
+| **ปริมาณข้อมูล** | ยา 189 รายการ, ข้อบ่งใช้ที่คาดการณ์ 1,268 รายการ |
 
 ---
 
-## 資源類型
+## ประเภททรัพยากร
 
 ### 1. MedicationKnowledge
 
-藥物基本資訊，包含藥物名稱、DrugBank ID、預測適應症數量等。
+ข้อมูลพื้นฐานของยา รวมถึงชื่อยา, DrugBank ID, จำนวนข้อบ่งใช้ที่คาดการณ์ ฯลฯ
 
-**端點**：
+**Endpoint**:
 ```
 GET /fhir/MedicationKnowledge/{drug-slug}.json
 ```
 
-**範例請求**：
+**ตัวอย่างคำขอ**:
 ```bash
 curl https://thtxgnn.yao.care/fhir/MedicationKnowledge/metformin.json
 ```
 
-**回應結構**：
+**โครงสร้างการตอบกลับ**:
 ```json
 {
   "resourceType": "MedicationKnowledge",
@@ -77,34 +77,34 @@ curl https://thtxgnn.yao.care/fhir/MedicationKnowledge/metformin.json
 }
 ```
 
-**欄位說明**：
+**คำอธิบายฟิลด์**:
 
-| 欄位 | 類型 | 說明 |
+| ฟิลด์ | ประเภท | คำอธิบาย |
 |------|------|------|
-| `id` | string | 藥物 slug（URL 友善名稱） |
+| `id` | string | Slug ของยา (ชื่อที่เหมาะกับ URL) |
 | `code.coding[0].code` | string | DrugBank ID |
-| `code.coding[0].display` | string | 藥物英文名 |
-| `indicationGuideline` | array | 預測適應症參照清單 |
-| `extension[prediction-count]` | integer | 預測適應症數量 |
-| `extension[evidence-level]` | string | 最高證據等級（L1-L5） |
+| `code.coding[0].display` | string | ชื่อยาภาษาอังกฤษ |
+| `indicationGuideline` | array | รายการอ้างอิงข้อบ่งใช้ที่คาดการณ์ |
+| `extension[prediction-count]` | integer | จำนวนข้อบ่งใช้ที่คาดการณ์ |
+| `extension[evidence-level]` | string | ระดับหลักฐานสูงสุด (L1-L5) |
 
 ---
 
 ### 2. ClinicalUseDefinition
 
-老藥新用預測結果，包含藥物-適應症配對、預測分數、證據等級等。
+ผลการคาดการณ์ข้อบ่งใช้ใหม่ รวมถึงคู่ยา-ข้อบ่งใช้, คะแนนการคาดการณ์, ระดับหลักฐาน ฯลฯ
 
-**端點**：
+**Endpoint**:
 ```
 GET /fhir/ClinicalUseDefinition/{drug-indication-slug}.json
 ```
 
-**範例請求**：
+**ตัวอย่างคำขอ**:
 ```bash
 curl https://thtxgnn.yao.care/fhir/ClinicalUseDefinition/metformin-breast-carcinoma.json
 ```
 
-**回應結構**：
+**โครงสร้างการตอบกลับ**:
 ```json
 {
   "resourceType": "ClinicalUseDefinition",
@@ -151,31 +151,31 @@ curl https://thtxgnn.yao.care/fhir/ClinicalUseDefinition/metformin-breast-carcin
 }
 ```
 
-**欄位說明**：
+**คำอธิบายฟิลด์**:
 
-| 欄位 | 類型 | 說明 |
+| ฟิลด์ | ประเภท | คำอธิบาย |
 |------|------|------|
-| `id` | string | 藥物-適應症 slug |
-| `subject[0].reference` | string | 關聯藥物資源 |
-| `indication.diseaseSymptomProcedure.concept.coding[0].code` | string | 疾病本體 ID (DOID) |
-| `indication.diseaseSymptomProcedure.concept.text` | string | 疾病英文名 |
-| `extension[prediction-score]` | decimal | TxGNN 預測分數 (0-1) |
-| `extension[evidence-level]` | string | 證據等級 (L1-L5) |
-| `extension[clinical-trials-count]` | integer | 相關臨床試驗數量 |
-| `extension[pubmed-count]` | integer | 相關 PubMed 文獻數量 |
+| `id` | string | Slug ของยา-ข้อบ่งใช้ |
+| `subject[0].reference` | string | ทรัพยากรยาที่เกี่ยวข้อง |
+| `indication.diseaseSymptomProcedure.concept.coding[0].code` | string | Disease Ontology ID (DOID) |
+| `indication.diseaseSymptomProcedure.concept.text` | string | ชื่อโรคภาษาอังกฤษ |
+| `extension[prediction-score]` | decimal | คะแนนการคาดการณ์ TxGNN (0-1) |
+| `extension[evidence-level]` | string | ระดับหลักฐาน (L1-L5) |
+| `extension[clinical-trials-count]` | integer | จำนวนการทดลองทางคลินิกที่เกี่ยวข้อง |
+| `extension[pubmed-count]` | integer | จำนวนเอกสาร PubMed ที่เกี่ยวข้อง |
 
 ---
 
-### 3. Bundle（全部資料）
+### 3. Bundle (ข้อมูลทั้งหมด)
 
-一次取得所有預測資料。
+รับข้อมูลการคาดการณ์ทั้งหมดในครั้งเดียว
 
-**端點**：
+**Endpoint**:
 ```
 GET /fhir/Bundle/all-predictions.json
 ```
 
-**回應結構**：
+**โครงสร้างการตอบกลับ**:
 ```json
 {
   "resourceType": "Bundle",
@@ -190,21 +190,21 @@ GET /fhir/Bundle/all-predictions.json
 
 ---
 
-## 證據等級定義
+## นิยามระดับหลักฐาน
 
-| 等級 | 定義 | 說明 |
+| ระดับ | นิยาม | คำอธิบาย |
 |------|------|------|
-| **L1** | 多個 Phase 3 RCT | 最高證據，多個大型隨機對照試驗 |
-| **L2** | 單一 Phase 3 或多個 Phase 2 | 有臨床試驗支持 |
-| **L3** | Phase 1/2 或大量文獻 | 早期臨床證據 |
-| **L4** | 動物/體外研究 | 臨床前證據 |
-| **L5** | 僅模型預測 | 無臨床證據，僅 AI 預測 |
+| **L1** | หลาย Phase 3 RCT | หลักฐานสูงสุด หลายการทดลองสุ่มควบคุมขนาดใหญ่ |
+| **L2** | Phase 3 เดียว หรือหลาย Phase 2 | มีการทดลองทางคลินิกสนับสนุน |
+| **L3** | Phase 1/2 หรือเอกสารจำนวนมาก | หลักฐานทางคลินิกระยะแรก |
+| **L4** | การศึกษาในสัตว์/ในหลอดทดลอง | หลักฐานก่อนคลินิก |
+| **L5** | เฉพาะการคาดการณ์จากโมเดล | ไม่มีหลักฐานทางคลินิก เป็นเพียงการคาดการณ์ AI |
 
 ---
 
-## 使用範例
+## ตัวอย่างการใช้งาน
 
-### JavaScript (前端)
+### JavaScript (Front-end)
 
 ```javascript
 async function getDrugPredictions(drugSlug) {
@@ -213,7 +213,7 @@ async function getDrugPredictions(drugSlug) {
   );
   const drug = await response.json();
 
-  // 取得預測適應症
+  // รับข้อบ่งใช้ที่คาดการณ์
   const indications = await Promise.all(
     drug.indicationGuideline.flatMap(g =>
       g.indication.map(async i => {
@@ -238,10 +238,10 @@ import requests
 def get_drug_predictions(drug_slug):
     base_url = "https://thtxgnn.yao.care/fhir"
 
-    # 取得藥物資訊
+    # รับข้อมูลยา
     drug = requests.get(f"{base_url}/MedicationKnowledge/{drug_slug}.json").json()
 
-    # 取得預測適應症
+    # รับข้อบ่งใช้ที่คาดการณ์
     indications = []
     for guideline in drug.get("indicationGuideline", []):
         for ind in guideline.get("indication", []):
@@ -257,51 +257,51 @@ def get_drug_predictions(drug_slug):
 ### cURL
 
 ```bash
-# 取得 Metformin 藥物資訊
+# รับข้อมูลยา Metformin
 curl -s https://thtxgnn.yao.care/fhir/MedicationKnowledge/metformin.json | jq .
 
-# 取得特定預測
+# รับการคาดการณ์เฉพาะ
 curl -s https://thtxgnn.yao.care/fhir/ClinicalUseDefinition/metformin-breast-carcinoma.json | jq .
 
-# 取得全部資料
+# รับข้อมูลทั้งหมด
 curl -s https://thtxgnn.yao.care/fhir/Bundle/all-predictions.json | jq .total
 ```
 
 ---
 
-## 整合建議
+## คำแนะนำการเชื่อมต่อ
 
-### 對於 SMART on FHIR App
+### สำหรับ SMART on FHIR App
 
-1. 在 SMART App 中呼叫 ThTxGNN API 補充老藥新用資訊
-2. 使用 `MedicationKnowledge.code.coding[0].code` (DrugBank ID) 進行藥物映射
-3. 顯示 `ClinicalUseDefinition.extension[evidence-level]` 作為信心指標
+1. เรียกใช้ ThTxGNN API ใน SMART App เพื่อเสริมข้อมูลข้อบ่งใช้ใหม่
+2. ใช้ `MedicationKnowledge.code.coding[0].code` (DrugBank ID) สำหรับการแมปยา
+3. แสดง `ClinicalUseDefinition.extension[evidence-level]` เป็นตัวบ่งชี้ความเชื่อมั่น
 
-### 對於後端系統
+### สำหรับระบบ Back-end
 
-1. 定期快取 `/fhir/Bundle/all-predictions.json`（建議每日更新）
-2. 建立 DrugBank ID → ThTxGNN slug 映射表
-3. 整合至現有臨床決策支援系統
-
----
-
-## 限制與免責
-
-1. **僅供研究參考**：預測結果不構成醫療建議
-2. **靜態資料**：資料每月更新一次
-3. **無即時 API**：為靜態 JSON 檔案，無查詢功能
-4. **英文資料**：藥物和疾病名稱為英文
+1. แคช `/fhir/Bundle/all-predictions.json` เป็นระยะ (แนะนำอัปเดตรายวัน)
+2. สร้างตารางแมป DrugBank ID → ThTxGNN slug
+3. เชื่อมต่อกับระบบสนับสนุนการตัดสินใจทางคลินิกที่มีอยู่
 
 ---
 
-## 聯絡資訊
+## ข้อจำกัดและข้อจำกัดความรับผิดชอบ
 
-- **網站**：https://thtxgnn.yao.care/
-- **GitHub**：https://github.com/yao-care/ThTxGNN
-- **API 狀態**：https://thtxgnn.yao.care/fhir/metadata
+1. **เพื่อการวิจัยเท่านั้น**: ผลการคาดการณ์ไม่ถือเป็นคำแนะนำทางการแพทย์
+2. **ข้อมูลแบบ Static**: ข้อมูลอัปเดตเดือนละครั้ง
+3. **ไม่มี API แบบ Real-time**: เป็นไฟล์ JSON แบบ Static ไม่มีฟังก์ชันค้นหา
+4. **ข้อมูลภาษาอังกฤษ**: ชื่อยาและโรคเป็นภาษาอังกฤษ
+
+---
+
+## ข้อมูลติดต่อ
+
+- **เว็บไซต์**: https://thtxgnn.yao.care/
+- **GitHub**: https://github.com/yao-care/ThTxGNN
+- **สถานะ API**: https://thtxgnn.yao.care/fhir/metadata
 
 ---
 
 <div class="disclaimer">
-<strong>免責聲明</strong>：本 API 提供的資料僅供研究參考，不能取代專業醫療建議。所有藥物再利用預測結果需經過臨床驗證才能應用。
+<strong>ข้อจำกัดความรับผิดชอบ</strong>: ข้อมูลที่ให้โดย API นี้มีไว้เพื่อการวิจัยเท่านั้น ไม่สามารถทดแทนคำแนะนำทางการแพทย์จากผู้เชี่ยวชาญ ผลการคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่ทั้งหมดต้องผ่านการทดลองทางคลินิกก่อนนำไปใช้
 </div>

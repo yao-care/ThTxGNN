@@ -1,5 +1,5 @@
-<!-- TODO: 將此檔案改名為 launch.html -->
-<!-- TODO: 修改 client_id 和 redirect_uri -->
+<!-- TODO: เปลี่ยนชื่อไฟล์นี้เป็น launch.html -->
+<!-- TODO: แก้ไข client_id และ redirect_uri -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -52,8 +52,8 @@
 
     <script src="https://cdn.jsdelivr.net/npm/fhirclient@2.5.4/build/fhir-client.min.js"></script>
     <script>
-        // TODO: 修改以下設定
-        const CLIENT_ID = "{country}txgnn-smart-app";  // TODO: 與 EHR 註冊的 ID 一致
+        // TODO: แก้ไขการตั้งค่าต่อไปนี้
+        const CLIENT_ID = "{country}txgnn-smart-app";  // TODO: ต้องตรงกับ ID ที่ลงทะเบียนกับ EHR
         const REDIRECT_URI = window.location.origin + "/smart/app.html";
 
         FHIR.oauth2.authorize({

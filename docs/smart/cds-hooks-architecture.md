@@ -1,52 +1,52 @@
 ---
 layout: default
-title: CDS Hooks 架構設計
+title: สถาปัตยกรรม CDS Hooks
 parent: SMART on FHIR
 nav_order: 14
 ---
 
-# ThTxGNN CDS Hooks 架構設計
+# สถาปัตยกรรม ThTxGNN CDS Hooks
 
-本文件定義 ThTxGNN 的 CDS Hooks 服務架構，用於在 EHR 工作流程中提供老藥新用建議和 DDI 警示。
+เอกสารนี้กำหนดสถาปัตยกรรมบริการ CDS Hooks ของ ThTxGNN สำหรับให้คำแนะนำข้อบ่งใช้ใหม่และการแจ้งเตือน DDI ในขั้นตอนการทำงานของ EHR
 
 ---
 
-## 概覽
+## ภาพรวม
 
-### 目標
+### เป้าหมาย
 
-| 功能 | 說明 |
+| ฟังก์ชัน | คำอธิบาย |
 |------|------|
-| **老藥新用建議** | 當醫師開立藥物時，提示該藥物的潛在新適應症 |
-| **DDI 警示** | 當檢測到藥物交互作用時，提供警示和替代建議 |
-| **臨床試驗連結** | 顯示相關臨床試驗作為驗證依據 |
+| **คำแนะนำข้อบ่งใช้ใหม่** | เมื่อแพทย์สั่งยา แสดงข้อบ่งใช้ใหม่ที่มีศักยภาพของยานั้น |
+| **การแจ้งเตือน DDI** | เมื่อตรวจพบปฏิกิริยาระหว่างยา ให้การแจ้งเตือนและคำแนะนำทางเลือก |
+| **ลิงก์การทดลองทางคลินิก** | แสดงการทดลองทางคลินิกที่เกี่ยวข้องเป็นหลักฐานยืนยัน |
 
-### 技術選型
+### การเลือกเทคโนโลยี
 
-| 項目 | 選擇 | 理由 |
+| รายการ | ตัวเลือก | เหตุผล |
 |------|------|------|
-| **CDS Hooks 版本** | 2.0 | 目前主流版本 |
-| **部署方式** | Serverless (Cloudflare Workers) | 低成本、低延遲 |
-| **資料來源** | 靜態 JSON + 外部 API | 無後端資料庫需求 |
+| **เวอร์ชัน CDS Hooks** | 2.0 | เวอร์ชันหลักปัจจุบัน |
+| **วิธีการ Deploy** | Serverless (Cloudflare Workers) | ต้นทุนต่ำ, ความหน่วงต่ำ |
+| **แหล่งข้อมูล** | Static JSON + External API | ไม่ต้องการฐานข้อมูล Backend |
 
 ---
 
-## 系統架構
+## สถาปัตยกรรมระบบ
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                              EHR 系統                                    │
+│                              ระบบ EHR                                    │
 │                                                                         │
-│  ┌─────────────┐    ┌─────────────────────────────────────────────────┐ │
-│  │   處方介面   │───►│  CDS Hooks Client (EHR 內建)                    │ │
-│  └─────────────┘    └─────────────────────┬───────────────────────────┘ │
-│                                           │                             │
-└───────────────────────────────────────────┼─────────────────────────────┘
-                                            │ HTTPS POST
-                                            │ order-select / order-sign
-                                            ▼
+│  ┌─────────────────┐    ┌─────────────────────────────────────────────┐ │
+│  │   หน้าจอสั่งยา   │───►│  CDS Hooks Client (ในตัว EHR)               │ │
+│  └─────────────────┘    └─────────────────────┬───────────────────────┘ │
+│                                               │                         │
+└───────────────────────────────────────────────┼─────────────────────────┘
+                                                │ HTTPS POST
+                                                │ order-select / order-sign
+                                                ▼
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                     ThTxGNN CDS Hooks 服務                               │
+│                     บริการ ThTxGNN CDS Hooks                            │
 │                  (https://cds.thtxgnn.yao.care)                         │
 │                                                                         │
 │  ┌─────────────────────────────────────────────────────────────────┐   │
@@ -59,18 +59,18 @@ nav_order: 14
 │  │                                                                 │   │
 │  │  ┌────────────────────┐  ┌────────────────────┐                │   │
 │  │  │  /drug-repurposing │  │  /ddi-alert        │                │   │
-│  │  │  老藥新用建議       │  │  DDI 警示          │                │   │
+│  │  │  คำแนะนำข้อบ่งใช้ใหม่ │  │  การแจ้งเตือน DDI  │                │   │
 │  │  └─────────┬──────────┘  └─────────┬──────────┘                │   │
 │  │            │                       │                            │   │
 │  └────────────┼───────────────────────┼────────────────────────────┘   │
 │               │                       │                                │
 │               ▼                       ▼                                │
 │  ┌─────────────────────────────────────────────────────────────────┐   │
-│  │                      資料查詢層                                  │   │
+│  │                      ชั้นสืบค้นข้อมูล                            │   │
 │  │                                                                 │   │
 │  │  ┌──────────────────┐  ┌──────────────────┐  ┌──────────────┐  │   │
-│  │  │ search-index.json│  │   DDI 資料庫     │  │ClinicalTrials│  │   │
-│  │  │ (ThTxGNN 預測)   │  │ (DDInter+GtoPdb) │  │   .gov API   │  │   │
+│  │  │ search-index.json│  │   ฐานข้อมูล DDI  │  │ClinicalTrials│  │   │
+│  │  │ (การคาดการณ์)     │  │ (DDInter+GtoPdb) │  │   .gov API   │  │   │
 │  │  └──────────────────┘  └──────────────────┘  └──────────────┘  │   │
 │  │                                                                 │   │
 │  └─────────────────────────────────────────────────────────────────┘   │
@@ -79,10 +79,10 @@ nav_order: 14
                                             │
                                             ▼
 ┌─────────────────────────────────────────────────────────────────────────┐
-│                           CDS Hooks Card 回應                           │
+│                           การตอบกลับ CDS Hooks Card                     │
 │                                                                         │
 │  ┌─────────────────────────────────────────────────────────────────┐   │
-│  │ 💊 Drug Repurposing Candidate: Metformin                        │   │
+│  │ Drug Repurposing Candidate: Metformin                          │   │
 │  │ ──────────────────────────────────────────────────────────────  │   │
 │  │ Predicted indication: Breast Carcinoma (L2 Evidence)            │   │
 │  │ 3 active clinical trials | 128 PubMed articles                  │   │
@@ -95,7 +95,7 @@ nav_order: 14
 
 ---
 
-## CDS Hooks 服務定義
+## นิยามบริการ CDS Hooks
 
 ### Discovery Endpoint
 
@@ -133,12 +133,12 @@ nav_order: 14
 
 ## Service 1: Drug Repurposing
 
-### 觸發條件
+### เงื่อนไขการเรียกใช้
 
 - **Hook**: `order-select`
-- **觸發時機**: 醫師選擇藥物時
+- **เวลาเรียกใช้**: เมื่อแพทย์เลือกยา
 
-### Request 範例
+### ตัวอย่าง Request
 
 ```json
 {
@@ -172,14 +172,14 @@ nav_order: 14
 }
 ```
 
-### Response 範例
+### ตัวอย่าง Response
 
 ```json
 {
   "cards": [
     {
       "uuid": "thtxgnn-repurposing-001",
-      "summary": "💊 Drug Repurposing: Metformin may be effective for Breast Carcinoma",
+      "summary": "Drug Repurposing: Metformin may be effective for Breast Carcinoma",
       "detail": "ThTxGNN AI prediction (score: 0.992, evidence: L2)\n\n• 45 clinical trials in progress\n• 128 PubMed publications\n\nThis is a research finding and requires clinical validation.",
       "indicator": "info",
       "source": {
@@ -208,19 +208,19 @@ nav_order: 14
 
 ## Service 2: DDI Alert
 
-### 觸發條件
+### เงื่อนไขการเรียกใช้
 
 - **Hook**: `order-sign`
-- **觸發時機**: 醫師簽署處方前
+- **เวลาเรียกใช้**: ก่อนแพทย์ลงนามใบสั่งยา
 
-### Response 範例
+### ตัวอย่าง Response
 
 ```json
 {
   "cards": [
     {
       "uuid": "thtxgnn-ddi-001",
-      "summary": "⚠️ Drug Interaction: Warfarin + Ibuprofen",
+      "summary": "Drug Interaction: Warfarin + Ibuprofen",
       "detail": "Concurrent use increases bleeding risk by 3-4x.\n\n**Patient Risk Factors:**\n• Age > 65\n• History of GI bleeding\n\n**Recommendation:** Consider alternative analgesic.",
       "indicator": "warning",
       "source": {
@@ -273,9 +273,9 @@ nav_order: 14
 
 ---
 
-## 技術實作
+## การใช้งานทางเทคนิค
 
-### Cloudflare Worker 範例
+### ตัวอย่าง Cloudflare Worker
 
 ```javascript
 // cds-hooks-worker.js
@@ -331,13 +331,13 @@ function handleDiscovery() {
 }
 
 async function handleDrugRepurposing(request) {
-  // 1. 從 context 提取藥物資訊
+  // 1. ดึงข้อมูลยาจาก context
   const medications = extractMedications(request.context?.draftOrders);
 
-  // 2. 查詢 ThTxGNN 預測
+  // 2. สืบค้นการคาดการณ์ ThTxGNN
   const searchIndex = await fetch(SEARCH_INDEX_URL).then(r => r.json());
 
-  // 3. 匹配藥物
+  // 3. จับคู่ยา
   const cards = [];
   for (const med of medications) {
     const drug = findDrugInIndex(searchIndex, med.name);
@@ -355,7 +355,7 @@ function createRepurposingCard(drug) {
   const topIndication = drug.indications[0];
   return {
     uuid: `thtxgnn-${drug.slug}-${Date.now()}`,
-    summary: `💊 Drug Repurposing: ${drug.name} may be effective for ${topIndication.name}`,
+    summary: `Drug Repurposing: ${drug.name} may be effective for ${topIndication.name}`,
     detail: `ThTxGNN AI prediction (score: ${topIndication.score.toFixed(2)}, evidence: ${topIndication.level})`,
     indicator: 'info',
     source: {
@@ -373,38 +373,38 @@ function createRepurposingCard(drug) {
 
 ---
 
-## 部署規劃
+## แผนการ Deploy
 
-### Phase 1：原型驗證
+### Phase 1: การยืนยัน Prototype
 
-| 項目 | 內容 |
+| รายการ | เนื้อหา |
 |------|------|
-| **部署平台** | Cloudflare Workers |
-| **功能** | Drug Repurposing (order-select) |
-| **資料來源** | 靜態 search-index.json |
-| **驗證方式** | SMART Launcher 測試 |
+| **แพลตฟอร์ม Deploy** | Cloudflare Workers |
+| **ฟังก์ชัน** | Drug Repurposing (order-select) |
+| **แหล่งข้อมูล** | Static search-index.json |
+| **วิธีการยืนยัน** | ทดสอบด้วย SMART Launcher |
 
-### Phase 2：DDI 整合
+### Phase 2: การรวม DDI
 
-| 項目 | 內容 |
+| รายการ | เนื้อหา |
 |------|------|
-| **新增功能** | DDI Alert (order-sign) |
-| **資料來源** | DDInter + GtoPdb |
-| **替代建議** | 整合 ThTxGNN 預測 |
+| **ฟังก์ชันใหม่** | DDI Alert (order-sign) |
+| **แหล่งข้อมูล** | DDInter + GtoPdb |
+| **คำแนะนำทางเลือก** | รวมการคาดการณ์ ThTxGNN |
 
-### Phase 3：CQL 整合
+### Phase 3: การรวม CQL
 
-| 項目 | 內容 |
+| รายการ | เนื้อหา |
 |------|------|
-| **新增功能** | CQL 規則引擎 |
-| **情境化** | 根據病患資料調整警示 |
-| **合規性** | HL7 PDDI-CDS IG |
+| **ฟังก์ชันใหม่** | CQL Rule Engine |
+| **การปรับตามบริบท** | ปรับการแจ้งเตือนตามข้อมูลผู้ป่วย |
+| **การปฏิบัติตามมาตรฐาน** | HL7 PDDI-CDS IG |
 
 ---
 
-## 端點 URL 規劃
+## แผน URL Endpoint
 
-| 環境 | URL |
+| สภาพแวดล้อม | URL |
 |------|-----|
 | **Discovery** | `https://cds.thtxgnn.yao.care/cds-services` |
 | **Drug Repurposing** | `https://cds.thtxgnn.yao.care/cds-services/drug-repurposing` |
@@ -412,24 +412,24 @@ function createRepurposingCard(drug) {
 
 ---
 
-## 待辦事項
+## รายการสิ่งที่ต้องทำ
 
-- [ ] 設定 Cloudflare Workers 專案
-- [ ] 實作 Discovery endpoint
-- [ ] 實作 Drug Repurposing service
-- [ ] 在 SMART Launcher 測試
-- [ ] 實作 DDI Alert service
-- [ ] 整合 ClinicalTrials.gov API
-- [ ] 設計 Card UI 樣式指南
+- [ ] ตั้งค่าโปรเจค Cloudflare Workers
+- [ ] ใช้งาน Discovery endpoint
+- [ ] ใช้งาน Drug Repurposing service
+- [ ] ทดสอบใน SMART Launcher
+- [ ] ใช้งาน DDI Alert service
+- [ ] รวม ClinicalTrials.gov API
+- [ ] ออกแบบแนวทาง UI ของ Card
 
 ---
 
-## 參考資源
+## แหล่งอ้างอิง
 
-- [CDS Hooks 規範](https://cds-hooks.org/)
+- [ข้อกำหนด CDS Hooks](https://cds-hooks.org/)
 - [CDS Hooks 2.0 Specification](https://cds-hooks.org/specification/current/)
-- [Cloudflare Workers 文件](https://developers.cloudflare.com/workers/)
+- [เอกสาร Cloudflare Workers](https://developers.cloudflare.com/workers/)
 
 ---
 
-*建立日期：2026-03-01*
+*วันที่สร้าง: 2026-03-01*

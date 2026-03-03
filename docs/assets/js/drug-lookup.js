@@ -1,11 +1,11 @@
 /**
- * Drug Lookup - 藥物查詢功能
- * 使用 Fuse.js 進行模糊搜尋，支援藥物名稱和適應症查詢
+ * Drug Lookup - ฟังก์ชันค้นหายา
+ * ใช้ Fuse.js สำหรับการค้นหาแบบ Fuzzy รองรับการค้นหาชื่อยาและข้อบ่งใช้
  */
 (function() {
   'use strict';
 
-  // 等待 DOM 和 Fuse.js 載入完成
+  // รอ DOM และ Fuse.js โหลดเสร็จ
   if (typeof Fuse === 'undefined') {
     console.error('Fuse.js not loaded');
     return;
@@ -20,7 +20,7 @@
   let drugFuse = null;
   let indicationFuse = null;
 
-  // DOM 元素
+  // องค์ประกอบ DOM
   const input = document.getElementById('lookup-input');
   const searchBtn = document.getElementById('lookup-search');
   const clearBtn = document.getElementById('lookup-clear');
@@ -32,7 +32,7 @@
     return;
   }
 
-  // 載入搜尋索引
+  // โหลดดัชนีค้นหา
   fetch(config.searchIndexUrl)
     .then(r => {
       if (!r.ok) throw new Error('Failed to fetch search index');
@@ -41,7 +41,7 @@
     .then(data => {
       searchIndex = data;
 
-      // 初始化 Fuse.js
+      // เริ่มต้น Fuse.js
       drugFuse = new Fuse(data.drugs, {
         keys: ['name', 'brands', 'original'],
         threshold: 0.4,
@@ -58,10 +58,10 @@
     })
     .catch(e => {
       console.error('Failed to load search index:', e);
-      results.innerHTML = '<div class="lookup-notice">搜尋索引載入失敗，請重新整理頁面</div>';
+      results.innerHTML = '<div class="lookup-notice">โหลดดัชนีค้นหาล้มเหลว กรุณารีเฟรชหน้า</div>';
     });
 
-  // 工具函數
+  // ฟังก์ชันอรรถประโยชน์
   function getSelectedLevels() {
     return Array.from(levelFilters)
       .filter(cb => cb.checked)
@@ -79,16 +79,16 @@
     return div.innerHTML;
   }
 
-  // 渲染搜尋結果
+  // แสดงผลการค้นหา
   function renderResults(query, showHint) {
     if (!searchIndex) {
-      results.innerHTML = '<div class="lookup-notice">搜尋索引載入中，請稍候...</div>';
+      results.innerHTML = '<div class="lookup-notice">กำลังโหลดดัชนีค้นหา กรุณารอสักครู่...</div>';
       return;
     }
 
     if (!query || query.length < 2) {
       if (showHint) {
-        results.innerHTML = '<div class="lookup-notice">請輸入至少 2 個字元</div>';
+        results.innerHTML = '<div class="lookup-notice">กรุณาป้อนอย่างน้อย 2 ตัวอักษร</div>';
       } else {
         results.innerHTML = '';
       }
@@ -97,18 +97,18 @@
 
     const levels = getSelectedLevels();
     if (levels.length === 0) {
-      results.innerHTML = '<div class="lookup-notice">請至少選擇一個證據等級</div>';
+      results.innerHTML = '<div class="lookup-notice">กรุณาเลือกระดับหลักฐานอย่างน้อย 1 รายการ</div>';
       return;
     }
 
     let html = '';
 
-    // 搜尋藥物
+    // ค้นหายา
     const drugResults = drugFuse.search(query).slice(0, 5);
     const filteredDrugs = drugResults.filter(r => levels.includes(r.item.level));
 
     if (filteredDrugs.length > 0) {
-      html += '<div class="result-section"><div class="section-title">藥物符合</div>';
+      html += '<div class="result-section"><div class="section-title">ยาที่ตรงกัน</div>';
       filteredDrugs.forEach(r => {
         const drug = r.item;
         const brands = drug.brands && drug.brands.length > 0
@@ -121,33 +121,33 @@
         html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="drug-name">' + escapeHtml(drug.name) + escapeHtml(brands) + '</a>';
         html += '<span class="level-badge level-' + drug.level + '">' + drug.level + '</span>';
         html += '</div>';
-        html += '<div class="result-original">原適應症：' + (escapeHtml(drug.original) || '—') + '</div>';
-        html += '<div class="result-indications"><strong>預測新適應症：</strong>';
+        html += '<div class="result-original">ข้อบ่งใช้เดิม: ' + (escapeHtml(drug.original) || '—') + '</div>';
+        html += '<div class="result-indications"><strong>ข้อบ่งใช้ใหม่ที่ทำนาย:</strong>';
 
         if (filteredInds.length > 0) {
           filteredInds.slice(0, 5).forEach(ind => {
             html += '<span class="ind-item"><span class="level-badge level-' + ind.level + '">' + ind.level + '</span> ' + escapeHtml(ind.name) + ' (' + ind.score + '%)</span>';
           });
           if (filteredInds.length > 5) {
-            html += '<span class="more">...等 ' + filteredInds.length + ' 個</span>';
+            html += '<span class="more">...อีก ' + filteredInds.length + ' รายการ</span>';
           }
         } else {
-          html += '<span class="no-match">（無符合篩選條件）</span>';
+          html += '<span class="no-match">(ไม่ตรงกับเกณฑ์การกรอง)</span>';
         }
 
         html += '</div>';
-        html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="view-report">查看完整報告 →</a>';
+        html += '<a href="' + config.drugsBaseUrl + drug.slug + '/" class="view-report">ดูรายงานฉบับเต็ม →</a>';
         html += '</div>';
       });
       html += '</div>';
     }
 
-    // 搜尋適應症
+    // ค้นหาข้อบ่งใช้
     const indResults = indicationFuse.search(query).slice(0, 5);
     const filteredInds = indResults.filter(r => levels.includes(r.item.level));
 
     if (filteredInds.length > 0) {
-      html += '<div class="result-section"><div class="section-title">適應症符合</div>';
+      html += '<div class="result-section"><div class="section-title">ข้อบ่งใช้ที่ตรงกัน</div>';
       filteredInds.forEach(r => {
         const ind = r.item;
         const indDrugs = filterByLevel(ind.drugs || [], levels);
@@ -157,7 +157,7 @@
         html += '<span class="indication-name">' + escapeHtml(ind.name) + '</span>';
         html += '<span class="level-badge level-' + ind.level + '">' + ind.level + '</span>';
         html += '</div>';
-        html += '<div class="result-drugs"><strong>可能有效的藥物（' + indDrugs.length + ' 個）：</strong>';
+        html += '<div class="result-drugs"><strong>ยาที่อาจได้ผล (' + indDrugs.length + ' รายการ):</strong>';
 
         indDrugs.slice(0, 5).forEach(d => {
           html += '<div class="drug-item">';
@@ -169,7 +169,7 @@
         });
 
         if (indDrugs.length > 5) {
-          html += '<div class="more">...等 ' + indDrugs.length + ' 個藥物</div>';
+          html += '<div class="more">...อีก ' + indDrugs.length + ' ยา</div>';
         }
 
         html += '</div></div>';
@@ -178,18 +178,18 @@
     }
 
     if (!html) {
-      html = '<div class="lookup-notice">沒有找到符合條件的結果</div>';
+      html = '<div class="lookup-notice">ไม่พบผลลัพธ์ที่ตรงกับเกณฑ์</div>';
     }
 
     results.innerHTML = html;
   }
 
-  // 執行搜尋
+  // ดำเนินการค้นหา
   function doSearch() {
     renderResults(input.value.trim(), true);
   }
 
-  // 事件監聽
+  // ฟังเหตุการณ์
   let debounceTimer;
 
   input.addEventListener('input', function() {
