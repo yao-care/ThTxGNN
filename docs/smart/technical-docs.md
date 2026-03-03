@@ -1,31 +1,31 @@
 ---
 layout: default
-title: 技術文件
+title: เอกสารเทคนิค
 parent: SMART on FHIR
 nav_order: 2
-description: ThTxGNN SMART on FHIR 技術規格，包含 OAuth 配置、FHIR API 端點、藥物映射流程
+description: ข้อกำหนดทางเทคนิคของ ThTxGNN SMART on FHIR รวมถึงการตั้งค่า OAuth, FHIR API endpoints และขั้นตอนการแมปยา
 permalink: /smart/technical-docs/
 ---
 
-# SMART on FHIR 技術文件
+# เอกสารเทคนิค SMART on FHIR
 
-本頁面提供 ThTxGNN SMART App 的技術規格，供開發者和 IT 人員參考。
+หน้านี้ให้ข้อกำหนดทางเทคนิคของ ThTxGNN SMART App สำหรับนักพัฒนาและเจ้าหน้าที่ IT
 
 ---
 
-## 技術規格
+## ข้อกำหนดทางเทคนิค
 
-### SMART on FHIR 配置
+### การตั้งค่า SMART on FHIR
 
-| 項目 | 值 |
+| รายการ | ค่า |
 |------|------|
-| FHIR 版本 | R4 |
+| เวอร์ชัน FHIR | R4 |
 | Client ID | `thtxgnn-smart-app` |
 | Launch URI | `/smart/launch.html` |
 | Redirect URI | `/smart/app.html` |
-| 授權方式 | OAuth 2.0 with PKCE |
+| วิธีการยืนยันตัวตน | OAuth 2.0 with PKCE |
 
-### 請求的權限範圍（Scopes）
+### ขอบเขตการอนุญาต (Scopes)
 
 ```
 launch
@@ -35,7 +35,7 @@ openid
 fhirUser
 ```
 
-### 藥物映射流程
+### ขั้นตอนการแมปยา
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 0; margin: 2rem 0;">
   <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; padding: 12px 24px; border-radius: 8px; font-weight: 600; text-align: center;">
@@ -45,35 +45,35 @@ fhirUser
   <div style="width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 10px solid #667eea;"></div>
 
   <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
-    <strong>1. 提取 RxCUI</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">RxNorm 藥物代碼</span>
+    <strong>1. ดึง RxCUI</strong><br>
+    <span style="color: #666; font-size: 0.9rem;">รหัสยา RxNorm</span>
   </div>
   <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
   <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
 
   <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
     <strong>2. RxNorm API</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">取得藥物成分名</span>
+    <span style="color: #666; font-size: 0.9rem;">รับชื่อสารออกฤทธิ์</span>
   </div>
   <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
   <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
 
   <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
-    <strong>3. 名稱正規化</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">移除鹽類後綴、同義詞對照</span>
+    <strong>3. มาตรฐานชื่อยา</strong><br>
+    <span style="color: #666; font-size: 0.9rem;">ลบคำต่อท้ายเกลือ, เปรียบเทียบชื่อพ้อง</span>
   </div>
   <div style="width: 2px; height: 16px; background: #e0e0e0;"></div>
   <div style="width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #e0e0e0;"></div>
 
   <div style="background: #f8f9fa; border: 2px solid #e0e0e0; padding: 12px 24px; border-radius: 8px; text-align: center; margin-top: -5px;">
-    <strong>4. Fuse.js 模糊比對</strong><br>
-    <span style="color: #666; font-size: 0.9rem;">比對 ThTxGNN 資料庫</span>
+    <strong>4. Fuse.js fuzzy matching</strong><br>
+    <span style="color: #666; font-size: 0.9rem;">เปรียบเทียบกับฐานข้อมูล ThTxGNN</span>
   </div>
   <div style="width: 2px; height: 24px; background: #28a745;"></div>
   <div style="width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 10px solid #28a745;"></div>
 
   <div style="background: linear-gradient(135deg, #28a745 0%, #20c997 100%); color: white; padding: 12px 24px; border-radius: 8px; font-weight: 600; text-align: center; margin-top: -5px;">
-    顯示老藥新用候選
+    แสดงผลการคาดการณ์ข้อบ่งใช้ใหม่
   </div>
 </div>
 
@@ -81,61 +81,61 @@ fhirUser
 
 ## FHIR API
 
-ThTxGNN 提供靜態 FHIR API，讓其他系統可以查詢藥物預測資料。
+ThTxGNN มี Static FHIR API สำหรับระบบอื่นในการสืบค้นข้อมูลการคาดการณ์ยา
 
-### 端點
+### Endpoints
 
-| 端點 | 說明 |
+| Endpoint | คำอธิบาย |
 |------|------|
 | `/fhir/metadata` | CapabilityStatement |
-| `/fhir/MedicationKnowledge/{id}.json` | 單一藥物資源 |
-| `/fhir/Bundle/all-predictions.json` | 全部預測結果 |
+| `/fhir/MedicationKnowledge/{id}.json` | ทรัพยากรยาเดี่ยว |
+| `/fhir/Bundle/all-predictions.json` | ผลการคาดการณ์ทั้งหมด |
 
-### 範例
+### ตัวอย่าง
 
 ```bash
-# 取得 Warfarin 的藥物知識資源
+# รับทรัพยากรความรู้ยา Warfarin
 curl https://thtxgnn.yao.care/fhir/MedicationKnowledge/warfarin.json
 ```
 
 ---
 
-## 測試環境
+## สภาพแวดล้อมทดสอบ
 
-### 使用 SMART Health IT Launcher 測試
+### ทดสอบด้วย SMART Health IT Launcher
 
-1. 前往 [SMART Launcher](https://launch.smarthealthit.org/)
-2. 設定：
+1. ไปที่ [SMART Launcher](https://launch.smarthealthit.org/)
+2. ตั้งค่า:
    - **Launch Type**: Provider EHR Launch
    - **FHIR Version**: R4
    - **App Launch URL**: `https://thtxgnn.yao.care/smart/launch.html`
-3. 選擇測試病患
-4. 點擊 Launch 開始測試
+3. เลือกผู้ป่วยทดสอบ
+4. คลิก Launch เพื่อเริ่มทดสอบ
 
-### 支援的 EHR 系統
+### ระบบ EHR ที่รองรับ
 
-理論上支援所有符合 SMART on FHIR R4 標準的 EHR 系統，包括：
+รองรับระบบ EHR ทั้งหมดที่เป็นไปตามมาตรฐาน SMART on FHIR R4:
 
 - Epic
 - Cerner (Oracle Health)
 - Allscripts
-- 其他 FHIR R4 相容系統
+- ระบบที่เข้ากันได้กับ FHIR R4 อื่นๆ
 
 ---
 
-## 隱私與安全
+## ความเป็นส่วนตัวและความปลอดภัย
 
-- **無資料儲存**：應用程式不會在伺服器端儲存任何病患資料
-- **純前端處理**：所有資料處理都在瀏覽器中進行
-- **PKCE 保護**：使用 OAuth 2.0 PKCE 流程確保授權安全
-- **最小權限**：只請求必要的讀取權限
+- **ไม่เก็บข้อมูล**: แอปพลิเคชันไม่เก็บข้อมูลผู้ป่วยบนเซิร์ฟเวอร์
+- **ประมวลผลฝั่งไคลเอนต์**: การประมวลผลข้อมูลทั้งหมดทำในเบราว์เซอร์
+- **การป้องกัน PKCE**: ใช้ OAuth 2.0 PKCE flow เพื่อความปลอดภัยในการยืนยันตัวตน
+- **สิทธิ์ขั้นต่ำ**: ขอเฉพาะสิทธิ์อ่านที่จำเป็น
 
-詳細資訊請參閱 [隱私權政策](/privacy-policy/)
+รายละเอียดเพิ่มเติมโปรดดู [นโยบายความเป็นส่วนตัว](/privacy-policy/)
 
 ---
 
-## 相關連結
+## ลิงก์ที่เกี่ยวข้อง
 
-- [SMART on FHIR 官方文件](http://docs.smarthealthit.org/)
-- [HL7 FHIR 規範](https://www.hl7.org/fhir/)
-- [RxNorm API 文件](https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html)
+- [เอกสาร SMART on FHIR อย่างเป็นทางการ](http://docs.smarthealthit.org/)
+- [ข้อกำหนด HL7 FHIR](https://www.hl7.org/fhir/)
+- [เอกสาร RxNorm API](https://lhncbc.nlm.nih.gov/RxNav/APIs/RxNormAPIs.html)

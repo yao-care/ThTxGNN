@@ -1,124 +1,124 @@
 ---
 layout: default
-title: 整合資源
+title: ทรัพยากรการเชื่อมต่อ
 parent: SMART on FHIR
 nav_order: 3
-description: ThTxGNN SMART App 整合的外部資源，包含臨床試驗查詢、藥物交互作用檢查、CDS Hooks 服務
+description: ทรัพยากรภายนอกที่ ThTxGNN SMART App เชื่อมต่อ รวมถึงการค้นหาการทดลองทางคลินิก การตรวจสอบปฏิกิริยาระหว่างยา และบริการ CDS Hooks
 permalink: /smart/integrations/
 ---
 
-# 整合資源
+# ทรัพยากรการเชื่อมต่อ
 
-ThTxGNN SMART App 整合了多個外部資源，提供更完整的臨床決策支援。
-
----
-
-## 臨床試驗查詢
-
-每個預測適應症旁都有「🔬 臨床試驗」按鈕，即時查詢 ClinicalTrials.gov 相關臨床試驗。
-
-| 資源 | 說明 | 連結 |
-|------|------|------|
-| **ClinicalTrials.gov API v2** | 美國 NIH 臨床試驗資料庫，提供全球臨床試驗搜尋 | [API 文件](https://clinicaltrials.gov/data-api/api) |
-
-### 功能說明
-
-- 即時搜尋藥物 + 適應症的相關臨床試驗
-- 顯示試驗狀態（招募中、進行中、已完成等）
-- 顯示試驗階段（Phase 1-4）
-- 直接連結到 ClinicalTrials.gov 詳細頁面
+ThTxGNN SMART App เชื่อมต่อกับทรัพยากรภายนอกหลายแห่งเพื่อให้การสนับสนุนการตัดสินใจทางคลินิกที่ครบถ้วนยิ่งขึ้น
 
 ---
 
-## 藥物交互作用檢查
+## การค้นหาการทดลองทางคลินิก
 
-查詢多個藥物時，系統會自動檢查藥物交互作用（DDI）並顯示警示。
+แต่ละข้อบ่งใช้ที่คาดการณ์จะมีปุ่ม "การทดลองทางคลินิก" สำหรับค้นหาการทดลองทางคลินิกที่เกี่ยวข้องจาก ClinicalTrials.gov แบบเรียลไทม์
 
-| 資源 | 說明 | 連結 |
+| ทรัพยากร | คำอธิบาย | ลิงก์ |
 |------|------|------|
-| **DDInter 2.0** | 收錄 222,391 個藥物交互作用，涵蓋 2,310 種藥物 | [DDInter 網站](https://ddinter2.scbdd.com/) |
-| **Guide to PHARMACOLOGY** | IUPHAR/BPS 藥理學指南，核准藥物交互作用資料 | [官方網站](https://www.guidetopharmacology.org/) |
+| **ClinicalTrials.gov API v2** | ฐานข้อมูลการทดลองทางคลินิกของ NIH สหรัฐอเมริกา ให้บริการค้นหาการทดลองทางคลินิกทั่วโลก | [เอกสาร API](https://clinicaltrials.gov/data-api/api) |
 
-### 警示等級
+### รายละเอียดฟังก์ชัน
 
-| 等級 | 說明 | 顯示顏色 |
+- ค้นหาการทดลองทางคลินิกที่เกี่ยวข้องกับยา + ข้อบ่งใช้แบบเรียลไทม์
+- แสดงสถานะการทดลอง (กำลังรับสมัคร, ดำเนินการอยู่, เสร็จสมบูรณ์ ฯลฯ)
+- แสดงระยะการทดลอง (Phase 1-4)
+- ลิงก์โดยตรงไปยังหน้ารายละเอียดบน ClinicalTrials.gov
+
+---
+
+## การตรวจสอบปฏิกิริยาระหว่างยา
+
+เมื่อค้นหายาหลายตัว ระบบจะตรวจสอบปฏิกิริยาระหว่างยา (DDI) โดยอัตโนมัติและแสดงคำเตือน
+
+| ทรัพยากร | คำอธิบาย | ลิงก์ |
+|------|------|------|
+| **DDInter 2.0** | รวบรวมปฏิกิริยาระหว่างยา 222,391 รายการ ครอบคลุมยา 2,310 ชนิด | [เว็บไซต์ DDInter](https://ddinter2.scbdd.com/) |
+| **Guide to PHARMACOLOGY** | คู่มือเภสัชวิทยา IUPHAR/BPS ข้อมูลปฏิกิริยาระหว่างยาที่ได้รับอนุมัติ | [เว็บไซต์อย่างเป็นทางการ](https://www.guidetopharmacology.org/) |
+
+### ระดับคำเตือน
+
+| ระดับ | คำอธิบาย | สีที่แสดง |
 |------|------|----------|
-| **Major（重度）** | 需要立即注意，可能危及生命 | 紅色 |
-| **Moderate（中度）** | 需要注意，可能需要調整 | 黃色 |
-| **Minor（輕度）** | 輕微風險，告知即可 | 藍色 |
+| **Major (รุนแรง)** | ต้องการความสนใจทันที อาจเป็นอันตรายถึงชีวิต | แดง |
+| **Moderate (ปานกลาง)** | ต้องการความสนใจ อาจต้องปรับเปลี่ยน | เหลือง |
+| **Minor (เล็กน้อย)** | ความเสี่ยงเล็กน้อย แจ้งให้ทราบเพียงพอ | น้ำเงิน |
 
-### 涵蓋的重要交互作用
+### ปฏิกิริยาสำคัญที่ครอบคลุม
 
-- Warfarin + NSAIDs（出血風險）
-- Colchicine + CYP3A4 抑制劑（毒性風險）
-- QT 延長藥物組合（心律不整風險）
-- Digoxin + Amiodarone（Digoxin 毒性）
-- SSRI + Tramadol（血清素症候群）
+- Warfarin + NSAIDs (ความเสี่ยงเลือดออก)
+- Colchicine + สารยับยั้ง CYP3A4 (ความเสี่ยงพิษ)
+- การใช้ยาร่วมกันที่ยืด QT (ความเสี่ยงหัวใจเต้นผิดจังหวะ)
+- Digoxin + Amiodarone (พิษ Digoxin)
+- SSRI + Tramadol (กลุ่มอาการเซโรโทนิน)
 
 ---
 
-## CDS Hooks 服務
+## บริการ CDS Hooks
 
-ThTxGNN 提供 CDS Hooks 服務，可整合至 EHR 系統的處方流程。
+ThTxGNN ให้บริการ CDS Hooks ที่สามารถรวมเข้ากับขั้นตอนการสั่งยาของระบบ EHR
 
-### 可用服務
+### บริการที่มี
 
-| 服務 ID | Hook | 說明 |
+| Service ID | Hook | คำอธิบาย |
 |---------|------|------|
-| `thtxgnn-ddi-check` | order-sign | 處方時檢查藥物交互作用 |
-| `thtxgnn-repurposing` | order-sign | 顯示老藥新用候選 |
-| `thtxgnn-trial-match` | patient-view | 臨床試驗配對 |
+| `thtxgnn-ddi-check` | order-sign | ตรวจสอบปฏิกิริยาระหว่างยาเมื่อสั่งยา |
+| `thtxgnn-repurposing` | order-sign | แสดงการคาดการณ์ข้อบ่งใช้ใหม่ |
+| `thtxgnn-trial-match` | patient-view | จับคู่การทดลองทางคลินิก |
 
-### 服務端點
+### Service Endpoint
 
-**服務發現端點**：[/cds-hooks/cds-services.json](/cds-hooks/cds-services.json)
+**Service Discovery Endpoint**: [/cds-hooks/cds-services.json](/cds-hooks/cds-services.json)
 
 <div style="margin: 20px 0;">
-  <a href="/cds-hooks/demo.html" style="display: inline-block; padding: 12px 24px; background: #17a2b8; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">測試 CDS Hooks Demo</a>
+  <a href="/cds-hooks/demo.html" style="display: inline-block; padding: 12px 24px; background: #17a2b8; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">ทดสอบ CDS Hooks Demo</a>
 </div>
 
-### 整合方式
+### วิธีการเชื่อมต่อ
 
-1. 將服務發現端點註冊到您的 EHR 系統
-2. 配置 prefetch 以提供 MedicationRequest 資源
-3. 在 order-sign hook 觸發時呼叫服務
-4. 顯示回傳的 cards 給臨床人員
+1. ลงทะเบียน service discovery endpoint กับระบบ EHR ของคุณ
+2. กำหนดค่า prefetch เพื่อให้ทรัพยากร MedicationRequest
+3. เรียกใช้บริการเมื่อ order-sign hook ถูกเรียก
+4. แสดง cards ที่ส่งกลับมาให้บุคลากรทางคลินิก
 
 ---
 
-## 標準規範參考
+## เอกสารอ้างอิงมาตรฐาน
 
-| 標準 | 說明 | 連結 |
+| มาตรฐาน | คำอธิบาย | ลิงก์ |
 |------|------|------|
-| **HL7 PDDI-CDS IG** | 藥物交互作用臨床決策支援實作指引 | [GitHub](https://github.com/HL7/PDDI-CDS) |
-| **CDS Hooks** | SMART on FHIR 臨床決策支援標準 | [官方規範](https://cds-hooks.org/) |
-| **CQL (Clinical Quality Language)** | 臨床品質語言，用於定義決策規則 | [HL7 CQL](https://cql.hl7.org/) |
+| **HL7 PDDI-CDS IG** | คู่มือการใช้งานการสนับสนุนการตัดสินใจทางคลินิกสำหรับปฏิกิริยาระหว่างยา | [GitHub](https://github.com/HL7/PDDI-CDS) |
+| **CDS Hooks** | มาตรฐานการสนับสนุนการตัดสินใจทางคลินิก SMART on FHIR | [ข้อกำหนดอย่างเป็นทางการ](https://cds-hooks.org/) |
+| **CQL (Clinical Quality Language)** | ภาษาคุณภาพทางคลินิก ใช้สำหรับกำหนดกฎการตัดสินใจ | [HL7 CQL](https://cql.hl7.org/) |
 
 ---
 
-## CQL 規則庫
+## คลัง CQL Rules
 
-ThTxGNN 提供 CQL 格式的 DDI 檢查規則，可用於整合至符合標準的 CDS 系統。
+ThTxGNN มีกฎการตรวจสอบ DDI ในรูปแบบ CQL ที่สามารถใช้รวมเข้ากับระบบ CDS ที่เป็นไปตามมาตรฐาน
 
-**CQL 檔案**：[/cql/ThTxGNN_DDI_CDS.cql](/cql/ThTxGNN_DDI_CDS.cql)
+**ไฟล์ CQL**: [/cql/ThTxGNN_DDI_CDS.cql](/cql/ThTxGNN_DDI_CDS.cql)
 
-### 包含的規則
+### กฎที่รวมอยู่
 
-- Warfarin-NSAID 交互作用檢查
-- Metformin-顯影劑交互作用檢查
-- Colchicine-CYP3A4 抑制劑檢查
-- QT 延長藥物組合檢查
-- 血清素症候群風險檢查
+- การตรวจสอบปฏิกิริยา Warfarin-NSAID
+- การตรวจสอบปฏิกิริยา Metformin-สารทึบรังสี
+- การตรวจสอบ Colchicine-สารยับยั้ง CYP3A4
+- การตรวจสอบการใช้ยาร่วมกันที่ยืด QT
+- การตรวจสอบความเสี่ยงกลุ่มอาการเซโรโทนิน
 
 ---
 
-## 外部資源連結
+## ลิงก์ทรัพยากรภายนอก
 
-| 資源 | 說明 | 連結 |
+| ทรัพยากร | คำอธิบาย | ลิงก์ |
 |------|------|------|
-| ClinicalTrials.gov | 臨床試驗搜尋 | [clinicaltrials.gov](https://clinicaltrials.gov/) |
-| DDInter 2.0 | 藥物交互作用資料庫 | [ddinter2.scbdd.com](https://ddinter2.scbdd.com/) |
-| Guide to PHARMACOLOGY | 藥理學資料庫 | [guidetopharmacology.org](https://www.guidetopharmacology.org/) |
-| HL7 PDDI-CDS IG | PDDI 實作指引 | [GitHub](https://github.com/HL7/PDDI-CDS) |
-| CDS Hooks | 臨床決策支援標準 | [cds-hooks.org](https://cds-hooks.org/) |
-| HL7 CQL | 臨床品質語言 | [cql.hl7.org](https://cql.hl7.org/) |
+| ClinicalTrials.gov | ค้นหาการทดลองทางคลินิก | [clinicaltrials.gov](https://clinicaltrials.gov/) |
+| DDInter 2.0 | ฐานข้อมูลปฏิกิริยาระหว่างยา | [ddinter2.scbdd.com](https://ddinter2.scbdd.com/) |
+| Guide to PHARMACOLOGY | ฐานข้อมูลเภสัชวิทยา | [guidetopharmacology.org](https://www.guidetopharmacology.org/) |
+| HL7 PDDI-CDS IG | คู่มือการใช้งาน PDDI | [GitHub](https://github.com/HL7/PDDI-CDS) |
+| CDS Hooks | มาตรฐานการสนับสนุนการตัดสินใจทางคลินิก | [cds-hooks.org](https://cds-hooks.org/) |
+| HL7 CQL | ภาษาคุณภาพทางคลินิก | [cql.hl7.org](https://cql.hl7.org/) |

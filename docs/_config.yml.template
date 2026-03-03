@@ -1,30 +1,30 @@
-# TODO: 將此檔案改名為 _config.yml
-# TODO: 修改以下設定以符合您的專案
+# TODO: เปลี่ยนชื่อไฟล์นี้เป็น _config.yml
+# TODO: แก้ไขการตั้งค่าต่อไปนี้ให้ตรงกับโครงการของคุณ
 
-# 基本設定
-title: "{Country}TxGNN Drug Repurposing Reports"  # TODO: 修改標題
-description: "{Country} 藥品老藥新用預測報告"        # TODO: 修改描述
-url: "https://{country}txgnn.example.com"          # TODO: 修改網址
+# การตั้งค่าพื้นฐาน
+title: "{Country}TxGNN Drug Repurposing Reports"  # TODO: แก้ไขหัวข้อ
+description: "รายงานการทำนายการนำยาเก่ามาใช้ใหม่ {Country}"  # TODO: แก้ไขคำอธิบาย
+url: "https://{country}txgnn.example.com"          # TODO: แก้ไข URL
 baseurl: ""
-lang: "{lang}"  # TODO: ISO 639-1 語言代碼，如 ja, ko, th
+lang: "{lang}"  # TODO: รหัสภาษา ISO 639-1 เช่น ja, ko, th
 
-# Jekyll 主題
+# ธีม Jekyll
 remote_theme: just-the-docs/just-the-docs@v0.10.1
 
-# 插件
+# ปลั๊กอิน
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
 
-# 搜尋功能
+# ฟังก์ชันค้นหา
 search_enabled: true
 search:
   heading_level: 3
 
-# 頁尾
-footer_content: "Copyright &copy; 2026 {Organization}. 僅供研究參考。"  # TODO: 修改
+# ส่วนท้าย
+footer_content: "Copyright &copy; 2026 {Organization}. สำหรับอ้างอิงในการวิจัยเท่านั้น"  # TODO: แก้ไข
 
 # RSS Feed
 feed:
@@ -40,7 +40,7 @@ collections:
     output: true
     permalink: /news/:name/
 
-# 預設值
+# ค่าเริ่มต้น
 defaults:
   - scope:
       path: ""
@@ -53,11 +53,11 @@ defaults:
     values:
       layout: "default"
 
-# Open Graph 設定
-# TODO: 提供適當的預設圖片
+# การตั้งค่า Open Graph
+# TODO: ให้รูปภาพเริ่มต้นที่เหมาะสม
 og_image: "/assets/images/og-default.png"
 
-# 排除檔案
+# ไฟล์ที่ยกเว้น
 exclude:
   - Gemfile
   - Gemfile.lock

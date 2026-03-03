@@ -1,66 +1,66 @@
 ---
 layout: default
-title: HL7 PDDI-CDS IG 技術筆記
+title: บันทึกเทคนิค HL7 PDDI-CDS IG
 parent: SMART on FHIR
 nav_order: 13
 ---
 
-# HL7 PDDI-CDS Implementation Guide 技術筆記
+# บันทึกเทคนิค HL7 PDDI-CDS Implementation Guide
 
-本文件整理 HL7 Potential Drug-Drug Interaction Clinical Decision Support (PDDI-CDS) Implementation Guide 的關鍵概念，供 ThTxGNN 整合 DDI 警示功能參考。
+เอกสารนี้รวบรวมแนวคิดสำคัญของ HL7 Potential Drug-Drug Interaction Clinical Decision Support (PDDI-CDS) Implementation Guide สำหรับการรวมฟังก์ชันการแจ้งเตือน DDI ใน ThTxGNN
 
 ---
 
-## 概覽
+## ภาพรวม
 
-| 項目 | 內容 |
+| รายการ | เนื้อหา |
 |------|------|
-| **全名** | Potential Drug-Drug Interaction Clinical Decision Support |
-| **HL7 頁面** | http://hl7.org/fhir/uv/pddi/ |
+| **ชื่อเต็ม** | Potential Drug-Drug Interaction Clinical Decision Support |
+| **หน้า HL7** | http://hl7.org/fhir/uv/pddi/ |
 | **GitHub** | https://github.com/HL7/PDDI-CDS |
-| **授權** | CC0-1.0（公共領域） |
-| **目的** | 提高 DDI 警示的臨床相關性和特異性 |
+| **สัญญาอนุญาต** | CC0-1.0 (สาธารณสมบัติ) |
+| **วัตถุประสงค์** | เพิ่มความเกี่ยวข้องทางคลินิกและความเฉพาะเจาะจงของการแจ้งเตือน DDI |
 
 ---
 
-## 問題背景
+## พื้นหลังปัญหา
 
-現有的 PDDI 警示系統存在以下問題：
+ระบบการแจ้งเตือน PDDI ที่มีอยู่มีปัญหาดังนี้:
 
-- **過度敏感**：簡單的成對藥物比較導致大量誤報
-- **警示疲勞**：研究發現近乎所有 PDDI 警示都被忽略
-- **缺乏情境**：未考慮病患特定條件（如腎功能、年齡）
+- **ไวเกินไป**: การเปรียบเทียบยาเป็นคู่แบบง่ายทำให้เกิดการแจ้งเตือนผิดพลาดจำนวนมาก
+- **ความเหนื่อยล้าจากการแจ้งเตือน**: การวิจัยพบว่าการแจ้งเตือน PDDI เกือบทั้งหมดถูกเพิกเฉย
+- **ขาดบริบท**: ไม่พิจารณาสภาพเฉพาะของผู้ป่วย (เช่น การทำงานของไต, อายุ)
 
-PDDI-CDS IG 透過以下方式解決：
+PDDI-CDS IG แก้ไขปัญหาเหล่านี้ด้วย:
 
-1. **最小資訊模型**：定義 DDI 警示必須包含的資訊元素
-2. **分級回應**：根據臨床情境調整警示嚴重程度
-3. **可分享 artifacts**：使用標準化的 CQL + FHIR + CDS Hooks
+1. **โมเดลข้อมูลขั้นต่ำ**: กำหนดองค์ประกอบข้อมูลที่การแจ้งเตือน DDI ต้องรวมไว้
+2. **การตอบสนองแบบแบ่งระดับ**: ปรับความรุนแรงของการแจ้งเตือนตามบริบททางคลินิก
+3. **Artifacts ที่แชร์ได้**: ใช้ CQL + FHIR + CDS Hooks มาตรฐาน
 
 ---
 
-## 核心組件
+## คอมโพเนนต์หลัก
 
-### 1. CDS Hooks 整合
+### 1. การรวม CDS Hooks
 
-| Hook | 觸發時機 | 用途 |
+| Hook | เวลาเรียกใช้ | การใช้งาน |
 |------|----------|------|
-| `order-select` | 醫師選擇藥物時 | 早期檢測，提供建議 |
-| `order-sign` | 醫師簽署處方時 | 最終確認，提供詳細資訊 |
+| `order-select` | เมื่อแพทย์เลือกยา | ตรวจจับระยะแรก ให้คำแนะนำ |
+| `order-sign` | เมื่อแพทย์ลงนามใบสั่งยา | ยืนยันขั้นสุดท้าย ให้ข้อมูลรายละเอียด |
 
-**流程**：
+**ขั้นตอน**:
 
 ```
-EHR → order-select hook → CDS 服務 → 檢測 PDDI → 回傳 Card
+EHR → order-select hook → บริการ CDS → ตรวจจับ PDDI → ส่งคืน Card
                                             ↓
-                                      醫師選擇動作
+                                      แพทย์เลือกการกระทำ
                                             ↓
-EHR → order-sign hook → CDS 服務 → 提供詳細建議 → 回傳 Card
+EHR → order-sign hook → บริการ CDS → ให้คำแนะนำรายละเอียด → ส่งคืน Card
 ```
 
-### 2. PlanDefinition 結構
+### 2. โครงสร้าง PlanDefinition
 
-PlanDefinition 是 PDDI-CDS artifacts 的核心資源：
+PlanDefinition เป็นทรัพยากรหลักของ PDDI-CDS artifacts:
 
 ```json
 {
@@ -97,7 +97,7 @@ PlanDefinition 是 PDDI-CDS artifacts 的核心資源：
 }
 ```
 
-### 3. CQL 程式庫範例
+### 3. ตัวอย่าง CQL Library
 
 ```cql
 library Warfarin_NSAIDs_CDS version '1.0.0'
@@ -107,11 +107,11 @@ include FHIRHelpers version '4.0.1'
 
 context Patient
 
-// 術語定義
+// นิยามคำศัพท์
 valueset "Warfarins": 'http://example.org/fhir/ValueSet/warfarins'
 valueset "NSAIDs": 'http://example.org/fhir/ValueSet/nsaids'
 
-// 檢測邏輯
+// ตรรกะการตรวจจับ
 define "Is On Warfarin":
   exists([MedicationRequest: "Warfarins"] M
     where M.status = 'active')
@@ -123,7 +123,7 @@ define "Is On NSAID":
 define "Inclusion Criteria":
   "Is On Warfarin" and "Is On NSAID"
 
-// 動態訊息
+// ข้อความแบบไดนามิก
 define "Get Detail":
   if "Has GI Risk Factors" then
     'HIGH RISK: Patient has GI risk factors. Consider alternatives.'
@@ -131,9 +131,9 @@ define "Get Detail":
     'MODERATE RISK: Monitor for signs of bleeding.'
 ```
 
-### 4. Response Card 結構
+### 4. โครงสร้าง Response Card
 
-CDS 服務回傳 CDS Hooks Card：
+บริการ CDS ส่งคืน CDS Hooks Card:
 
 ```json
 {
@@ -168,9 +168,9 @@ CDS 服務回傳 CDS Hooks Card：
 }
 ```
 
-### 5. DetectedIssue 資源
+### 5. ทรัพยากร DetectedIssue
 
-用於記錄 PDDI 檢測結果和醫師回應：
+ใช้สำหรับบันทึกผลการตรวจจับ PDDI และการตอบสนองของแพทย์:
 
 ```json
 {
@@ -207,57 +207,57 @@ CDS 服務回傳 CDS Hooks Card：
 
 ---
 
-## 實作層級
+## ระดับการใช้งาน
 
-| 層級 | 要求 | ThTxGNN 建議 |
+| ระดับ | ข้อกำหนด | คำแนะนำ ThTxGNN |
 |------|------|-------------|
-| **Level 1** | 基本 PDDI 檢測 + DetectedIssue 儲存 | 目前目標 |
-| **Level 2** | + 情境化篩選（年齡、腎功能等） | 未來擴展 |
-| **Level 3** | + 共同決策介面 + 替代建議 | 長期目標 |
+| **Level 1** | การตรวจจับ PDDI พื้นฐาน + การจัดเก็บ DetectedIssue | เป้าหมายปัจจุบัน |
+| **Level 2** | + การกรองตามบริบท (อายุ, การทำงานของไต ฯลฯ) | การขยายในอนาคต |
+| **Level 3** | + อินเทอร์เฟซการตัดสินใจร่วม + คำแนะนำทางเลือก | เป้าหมายระยะยาว |
 
 ---
 
-## ThTxGNN 整合方案
+## แผนการรวม ThTxGNN
 
-### Phase 1：基礎警示
+### Phase 1: การแจ้งเตือนพื้นฐาน
 
-1. **實作 CDS Hooks 端點**
-   - 支援 `order-select` 觸發
-   - 回傳 Warning/Info Card
+1. **ใช้งาน CDS Hooks endpoint**
+   - รองรับ `order-select` trigger
+   - ส่งคืน Warning/Info Card
 
-2. **使用現有 DDI 資料**
-   - DDInter: 222,391 筆
-   - GtoPdb: 4,636 筆
+2. **ใช้ข้อมูล DDI ที่มีอยู่**
+   - DDInter: 222,391 รายการ
+   - GtoPdb: 4,636 รายการ
 
-3. **基本 Card 設計**
+3. **การออกแบบ Card พื้นฐาน**
    ```
-   ⚠️ DDI Warning: Warfarin + Ibuprofen
+   DDI Warning: Warfarin + Ibuprofen
    Bleeding risk increased 3-4x.
    [View Evidence] [Dismiss]
    ```
 
-### Phase 2：情境化
+### Phase 2: การปรับตามบริบท
 
-1. **整合病患資料**
-   - 年齡、腎功能、病史
-   - 調整警示嚴重程度
+1. **รวมข้อมูลผู้ป่วย**
+   - อายุ, การทำงานของไต, ประวัติการเจ็บป่วย
+   - ปรับความรุนแรงของการแจ้งเตือน
 
-2. **CQL 邏輯**
-   - 實作風險分層規則
-   - 根據情境客製化訊息
+2. **ตรรกะ CQL**
+   - ใช้งานกฎการแบ่งระดับความเสี่ยง
+   - ปรับแต่งข้อความตามบริบท
 
-### Phase 3：老藥新用整合
+### Phase 3: การรวมข้อบ่งใช้ใหม่
 
-1. **替代建議**
-   - 當 DDI 發生時，建議 ThTxGNN 預測的替代藥物
+1. **คำแนะนำทางเลือก**
+   - เมื่อเกิด DDI แนะนำยาทางเลือกที่ ThTxGNN คาดการณ์
 
-2. **共同決策**
-   - 提供風險/效益比較
-   - 支援臨床決策
+2. **การตัดสินใจร่วม**
+   - ให้การเปรียบเทียบความเสี่ยง/ประโยชน์
+   - สนับสนุนการตัดสินใจทางคลินิก
 
 ---
 
-## 範例 DDI 規則（ThTxGNN）
+## ตัวอย่างกฎ DDI (ThTxGNN)
 
 ### Warfarin + NSAID
 
@@ -268,7 +268,7 @@ using FHIR version '4.0.1'
 
 context Patient
 
-// 定義
+// นิยาม
 define "Is On Warfarin":
   exists([MedicationRequest] M
     where M.status = 'active'
@@ -288,32 +288,32 @@ define "Risk Level":
   else if AgeInYears() > 65 then 'warning'
   else 'info'
 
-// ThTxGNN 整合：替代建議
+// การรวม ThTxGNN: คำแนะนำทางเลือก
 define "Alternative Analgesic Candidates":
-  // 查詢 ThTxGNN 預測：哪些藥物可替代 NSAID 用於疼痛
-  // 且不會與 Warfarin 交互
-  null // 實際實作時連接 ThTxGNN API
+  // สืบค้นการคาดการณ์ ThTxGNN: ยาใดที่ทดแทน NSAID สำหรับความเจ็บปวดได้
+  // และไม่มีปฏิกิริยากับ Warfarin
+  null // ในการใช้งานจริงเชื่อมต่อ ThTxGNN API
 ```
 
 ---
 
-## 待辦事項
+## รายการสิ่งที่ต้องทำ
 
-- [ ] 設計 ThTxGNN CDS Hooks 服務架構
-- [ ] 建立 Warfarin + NSAID 範例實作
-- [ ] 整合現有 DDI 資料到 CQL 值集
-- [ ] 設計 Card UI 元件
-- [ ] 實作 DetectedIssue 儲存（可選）
+- [ ] ออกแบบสถาปัตยกรรมบริการ ThTxGNN CDS Hooks
+- [ ] สร้างตัวอย่างการใช้งาน Warfarin + NSAID
+- [ ] รวมข้อมูล DDI ที่มีอยู่เข้าสู่ CQL ValueSet
+- [ ] ออกแบบคอมโพเนนต์ UI สำหรับ Card
+- [ ] ใช้งานการจัดเก็บ DetectedIssue (ตัวเลือก)
 
 ---
 
-## 參考資源
+## แหล่งอ้างอิง
 
 - [HL7 PDDI-CDS IG](http://hl7.org/fhir/uv/pddi/)
 - [GitHub: HL7/PDDI-CDS](https://github.com/HL7/PDDI-CDS)
-- [CDS Hooks 規範](https://cds-hooks.org/)
+- [ข้อกำหนด CDS Hooks](https://cds-hooks.org/)
 - [PubMed: Implementation of CDS Services for PDDI](https://pubmed.ncbi.nlm.nih.gov/31438019/)
 
 ---
 
-*建立日期：2026-03-01*
+*วันที่สร้าง: 2026-03-01*

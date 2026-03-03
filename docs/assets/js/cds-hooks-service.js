@@ -1,5 +1,5 @@
 /**
- * TwTxGNN CDS Hooks Service
+ * ThTxGNN CDS Hooks Service
  *
  * Client-side implementation of CDS Hooks service for static site deployment.
  * Can be used as a reference implementation or integrated with server-side services.
@@ -8,15 +8,15 @@
  * - order-sign: DDI checking and drug repurposing suggestions
  * - patient-view: Clinical trial matching
  *
- * @author TwTxGNN Team
+ * @author ThTxGNN Team
  * @version 1.0.0
  */
 (function(global) {
   'use strict';
 
   const CONFIG = {
-    serviceUrl: 'https://twtxgnn.yao.care/cds-hooks/',
-    fhirBaseUrl: 'https://twtxgnn.yao.care/fhir/'
+    serviceUrl: 'https://thtxgnn.yao.care/cds-hooks/',
+    fhirBaseUrl: 'https://thtxgnn.yao.care/fhir/'
   };
 
   /**
@@ -26,9 +26,9 @@
     services: [
       {
         hook: 'order-sign',
-        title: 'TwTxGNN 藥物交互作用檢查',
-        description: '基於 DDInter 2.0 資料庫，檢查處方中的潛在藥物交互作用',
-        id: 'twtxgnn-ddi-check',
+        title: 'ThTxGNN ตรวจสอบปฏิสัมพันธ์ระหว่างยา',
+        description: 'ตรวจสอบปฏิสัมพันธ์ระหว่างยาที่อาจเกิดขึ้นในใบสั่งยา โดยอ้างอิงฐานข้อมูล DDInter 2.0',
+        id: 'thtxgnn-ddi-check',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
           medications: 'MedicationRequest?patient={{context.patientId}}&status=active,completed'
@@ -36,9 +36,9 @@
       },
       {
         hook: 'order-sign',
-        title: 'TwTxGNN 老藥新用候選',
-        description: '基於 TxGNN 知識圖譜，提供病患用藥的老藥新用預測',
-        id: 'twtxgnn-repurposing',
+        title: 'ThTxGNN ตัวเลือกการนำยาเก่ามาใช้ใหม่',
+        description: 'ให้การทำนายการนำยาเก่ามาใช้ใหม่สำหรับยาของผู้ป่วย โดยอ้างอิง TxGNN Knowledge Graph',
+        id: 'thtxgnn-repurposing',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
           medications: 'MedicationRequest?patient={{context.patientId}}&status=active,completed',
@@ -110,20 +110,20 @@
       return { cards };
     }
 
-    // Check for PDDI using TwTxGNN.PDDI if available
-    if (global.TwTxGNN?.PDDI) {
+    // Check for PDDI using ThTxGNN.PDDI if available
+    if (global.ThTxGNN?.PDDI) {
       const allMeds = [...currentMeds, newMed];
-      const pddiAlerts = global.TwTxGNN.PDDI.checkPDDI(allMeds);
+      const pddiAlerts = global.ThTxGNN.PDDI.checkPDDI(allMeds);
 
       pddiAlerts.forEach(pddi => {
-        const card = global.TwTxGNN.PDDI.generateCDSHooksCard(pddi);
+        const card = global.ThTxGNN.PDDI.generateCDSHooksCard(pddi);
         cards.push(card);
       });
     }
 
     // Also check with basic DDI checker
-    if (global.TwTxGNN?.DDIChecker) {
-      const ddiAlerts = global.TwTxGNN.DDIChecker.checkNewDrug(newMed, currentMeds);
+    if (global.ThTxGNN?.DDIChecker) {
+      const ddiAlerts = global.ThTxGNN.DDIChecker.checkNewDrug(newMed, currentMeds);
 
       ddiAlerts.forEach(alert => {
         // Avoid duplicates with PDDI
@@ -137,10 +137,10 @@
             uuid: `ddi-${Date.now()}-${Math.random().toString(36).substr(2, 9)}`,
             summary: alert.summary,
             indicator: alert.severity === 'Major' ? 'critical' : 'warning',
-            detail: `${alert.detail}\n\n**建議：** ${alert.recommendation}`,
+            detail: `${alert.detail}\n\n**คำแนะนำ:** ${alert.recommendation}`,
             source: {
-              label: 'TwTxGNN DDI Checker',
-              url: 'https://twtxgnn.yao.care/'
+              label: 'ThTxGNN DDI Checker',
+              url: 'https://thtxgnn.yao.care/'
             }
           });
         }
@@ -167,22 +167,22 @@
     }
 
     // Check for repurposing candidates using DrugMapper
-    if (global.TwTxGNN?.DrugMapper) {
+    if (global.ThTxGNN?.DrugMapper) {
       // This would need the search index to be loaded
       // For now, return a link card
       cards.push({
         uuid: `repurposing-info-${Date.now()}`,
-        summary: '查看老藥新用候選預測',
+        summary: 'ดูการทำนายตัวเลือกการนำยาเก่ามาใช้ใหม่',
         indicator: 'info',
-        detail: `您正在處方的藥物可能有已知的老藥新用候選。點擊連結查看詳細預測資訊。`,
+        detail: `ยาที่คุณกำลังสั่งอาจมีตัวเลือกการนำยาเก่ามาใช้ใหม่ที่รู้จัก คลิกลิงก์เพื่อดูข้อมูลการทำนายโดยละเอียด`,
         source: {
-          label: 'TwTxGNN Drug Repurposing',
-          url: 'https://twtxgnn.yao.care/'
+          label: 'ThTxGNN Drug Repurposing',
+          url: 'https://thtxgnn.yao.care/'
         },
         links: [
           {
-            label: '查看老藥新用預測',
-            url: `https://twtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(allMeds.join(','))}`,
+            label: 'ดูการทำนายการนำยาเก่ามาใช้ใหม่',
+            url: `https://thtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(allMeds.join(','))}`,
             type: 'absolute'
           }
         ]
@@ -219,24 +219,24 @@
     if (conditions.length > 0 || medications.length > 0) {
       cards.push({
         uuid: `trial-match-${Date.now()}`,
-        summary: '🔬 可能有相關臨床試驗',
+        summary: '🔬 อาจมีการทดลองทางคลินิกที่เกี่ยวข้อง',
         indicator: 'info',
-        detail: `根據病患的診斷和用藥，可能有相關的臨床試驗。\n\n` +
-                `**診斷：** ${conditions.join(', ') || '無'}\n` +
-                `**用藥：** ${medications.join(', ') || '無'}`,
+        detail: `ตามการวินิจฉัยและยาของผู้ป่วย อาจมีการทดลองทางคลินิกที่เกี่ยวข้อง\n\n` +
+                `**การวินิจฉัย:** ${conditions.join(', ') || 'ไม่มี'}\n` +
+                `**ยา:** ${medications.join(', ') || 'ไม่มี'}`,
         source: {
-          label: 'TwTxGNN Clinical Trial Match',
-          url: 'https://twtxgnn.yao.care/'
+          label: 'ThTxGNN Clinical Trial Match',
+          url: 'https://thtxgnn.yao.care/'
         },
         links: [
           {
-            label: '搜尋 ClinicalTrials.gov',
+            label: 'ค้นหา ClinicalTrials.gov',
             url: `https://clinicaltrials.gov/search?cond=${encodeURIComponent(conditions.join(' '))}`,
             type: 'absolute'
           },
           {
-            label: '查看老藥新用預測',
-            url: `https://twtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(medications.join(','))}`,
+            label: 'ดูการทำนายการนำยาเก่ามาใช้ใหม่',
+            url: `https://thtxgnn.yao.care/smart/standalone.html?drugs=${encodeURIComponent(medications.join(','))}`,
             type: 'absolute'
           }
         ]
@@ -251,13 +251,13 @@
    */
   function handleRequest(serviceId, request) {
     switch (serviceId) {
-      case 'twtxgnn-ddi-check':
+      case 'thtxgnn-ddi-check':
         return processOrderSignDDI(request);
 
-      case 'twtxgnn-repurposing':
+      case 'thtxgnn-repurposing':
         return processOrderSignRepurposing(request);
 
-      case 'twtxgnn-trial-match':
+      case 'thtxgnn-trial-match':
         return processPatientView(request);
 
       default:
@@ -355,25 +355,25 @@
    * Demo function to test CDS Hooks
    */
   function demo(medications, conditions) {
-    console.log('=== TwTxGNN CDS Hooks Demo ===');
+    console.log('=== ThTxGNN CDS Hooks Demo ===');
     console.log('Medications:', medications);
     console.log('Conditions:', conditions || []);
 
     // Test DDI check
     const ddiRequest = createMockRequest('order-sign', medications, null);
-    const ddiResponse = handleRequest('twtxgnn-ddi-check', ddiRequest);
+    const ddiResponse = handleRequest('thtxgnn-ddi-check', ddiRequest);
     console.log('\n--- DDI Check Response ---');
     console.log(JSON.stringify(ddiResponse, null, 2));
 
     // Test repurposing
-    const repurposingResponse = handleRequest('twtxgnn-repurposing', ddiRequest);
+    const repurposingResponse = handleRequest('thtxgnn-repurposing', ddiRequest);
     console.log('\n--- Repurposing Response ---');
     console.log(JSON.stringify(repurposingResponse, null, 2));
 
     // Test trial matching
     if (conditions) {
       const trialRequest = createMockRequest('patient-view', medications, conditions);
-      const trialResponse = handleRequest('twtxgnn-trial-match', trialRequest);
+      const trialResponse = handleRequest('thtxgnn-trial-match', trialRequest);
       console.log('\n--- Trial Match Response ---');
       console.log(JSON.stringify(trialResponse, null, 2));
     }
@@ -385,8 +385,8 @@
   }
 
   // Export
-  global.TwTxGNN = global.TwTxGNN || {};
-  global.TwTxGNN.CDSHooks = {
+  global.ThTxGNN = global.ThTxGNN || {};
+  global.ThTxGNN.CDSHooks = {
     SERVICES: SERVICES,
     handleRequest: handleRequest,
     validateRequest: validateRequest,

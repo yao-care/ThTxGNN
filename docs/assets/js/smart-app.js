@@ -1,5 +1,5 @@
 /**
- * TwTxGNN SMART App Main Logic
+ * ThTxGNN SMART App Main Logic
  *
  * Handles FHIR client initialization, medication retrieval,
  * and UI rendering for drug repurposing candidates.
@@ -42,20 +42,20 @@
     };
 
     try {
-      showLoading('載入藥物資料庫...');
+      showLoading('กำลังโหลดฐานข้อมูลยา...');
 
       // Load search index
       searchIndex = await loadSearchIndex();
 
-      showLoading('連線至 EHR 系統...');
+      showLoading('กำลังเชื่อมต่อกับระบบ EHR...');
 
       // Initialize FHIR client
       fhirClient = await FHIR.oauth2.ready();
 
       // Initialize drug mapper
-      drugMapper = new TwTxGNN.DrugMapper(searchIndex);
+      drugMapper = new ThTxGNN.DrugMapper(searchIndex);
 
-      showLoading('讀取病患用藥資料...');
+      showLoading('กำลังอ่านข้อมูลยาของผู้ป่วย...');
 
       // Load patient info and medications
       await loadPatientData();
@@ -68,17 +68,17 @@
 
     } catch (error) {
       console.error('SMART App initialization error:', error);
-      showError('無法初始化應用程式: ' + (error.message || error));
+      showError('ไม่สามารถเริ่มต้นแอปพลิเคชันได้: ' + (error.message || error));
     }
   }
 
   /**
-   * Load TwTxGNN search index
+   * Load ThTxGNN search index
    */
   async function loadSearchIndex() {
     const response = await fetch(CONFIG.searchIndexUrl);
     if (!response.ok) {
-      throw new Error('無法載入藥物資料庫');
+      throw new Error('ไม่สามารถโหลดฐานข้อมูลยาได้');
     }
     return response.json();
   }
@@ -120,7 +120,7 @@
 
     patientMedications = medications;
 
-    // Map medications to TwTxGNN
+    // Map medications to ThTxGNN
     mappingResults = await drugMapper.mapMedications(medications);
 
     // Render medication list
@@ -136,22 +136,22 @@
     const name = patient.name?.[0];
     const displayName = name ?
       `${name.family || ''}, ${name.given?.join(' ') || ''}`.trim() :
-      '未知';
+      'ไม่ทราบ';
 
-    const birthDate = patient.birthDate || '未知';
+    const birthDate = patient.birthDate || 'ไม่ทราบ';
     const gender = {
-      'male': '男',
-      'female': '女',
-      'other': '其他',
-      'unknown': '未知'
-    }[patient.gender] || patient.gender || '未知';
+      'male': 'ชาย',
+      'female': 'หญิง',
+      'other': 'อื่นๆ',
+      'unknown': 'ไม่ทราบ'
+    }[patient.gender] || patient.gender || 'ไม่ทราบ';
 
     elements.patientInfo.innerHTML = `
       <div class="patient-card">
         <div class="patient-name">${escapeHtml(displayName)}</div>
         <div class="patient-details">
-          <span>出生日期: ${escapeHtml(birthDate)}</span>
-          <span>性別: ${escapeHtml(gender)}</span>
+          <span>วันเกิด: ${escapeHtml(birthDate)}</span>
+          <span>เพศ: ${escapeHtml(gender)}</span>
         </div>
       </div>
     `;
@@ -166,7 +166,7 @@
     if (mappingResults.length === 0) {
       elements.medList.innerHTML = `
         <div class="empty-state">
-          <p>未找到病患用藥記錄</p>
+          <p>ไม่พบบันทึกการใช้ยาของผู้ป่วย</p>
         </div>
       `;
       return;
@@ -175,10 +175,10 @@
     let html = '<div class="med-list">';
 
     mappingResults.forEach((result, index) => {
-      const displayName = result.displayName || result.ingredientName || '未知藥物';
+      const displayName = result.displayName || result.ingredientName || 'ยาไม่ทราบชื่อ';
       const matchStatus = result.matched ?
-        `<span class="match-badge matched">有預測資料</span>` :
-        `<span class="match-badge unmatched">無預測資料</span>`;
+        `<span class="match-badge matched">มีข้อมูลการทำนาย</span>` :
+        `<span class="match-badge unmatched">ไม่มีข้อมูลการทำนาย</span>`;
 
       const twtxgnnInfo = result.twtxgnnMatch ?
         `<span class="twtxgnn-name">→ ${escapeHtml(result.twtxgnnMatch.name)}</span>
@@ -214,7 +214,7 @@
     if (selectedIndices.length === 0) {
       elements.results.innerHTML = `
         <div class="empty-state">
-          <p>請至少選擇一個藥物</p>
+          <p>กรุณาเลือกยาอย่างน้อย 1 รายการ</p>
         </div>
       `;
       return;
@@ -239,17 +239,17 @@
               <span class="level-badge level-${drug.level}">${drug.level}</span>
             </h3>
             <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank" class="view-full">
-              查看完整報告 →
+              ดูรายงานฉบับเต็ม →
             </a>
           </div>
 
           <div class="drug-original">
-            <strong>原適應症：</strong>
+            <strong>ข้อบ่งใช้เดิม:</strong>
             ${escapeHtml(drug.original) || '—'}
           </div>
 
           <div class="drug-indications">
-            <strong>預測新適應症（老藥新用候選）：</strong>
+            <strong>ข้อบ่งใช้ใหม่ที่ทำนาย (ตัวเลือกการนำยาเก่ามาใช้ใหม่):</strong>
             <div class="indication-list">
       `;
 
@@ -262,8 +262,8 @@
                 <span class="level-badge level-${ind.level}">${ind.level}</span>
                 <span class="ind-name">${escapeHtml(ind.name)}</span>
                 <span class="ind-score">${ind.score}%</span>
-                <button class="trials-btn" onclick="TwTxGNN.SmartApp.loadTrials('${escapeHtml(drug.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
-                  🔬 臨床試驗
+                <button class="trials-btn" onclick="ThTxGNN.SmartApp.loadTrials('${escapeHtml(drug.name)}', '${escapeHtml(ind.name)}', '${trialsContainerId}')">
+                  🔬 การทดลองทางคลินิก
                 </button>
               </div>
               <div class="trials-container" id="${trialsContainerId}"></div>
@@ -274,13 +274,13 @@
         if (indications.length > 10) {
           html += `
             <div class="more-indications">
-              ...及其他 ${indications.length - 10} 個預測適應症
-              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">查看全部</a>
+              ...และอีก ${indications.length - 10} ข้อบ่งใช้ที่ทำนาย
+              <a href="${CONFIG.drugsBaseUrl}${drug.slug}/" target="_blank">ดูทั้งหมด</a>
             </div>
           `;
         }
       } else {
-        html += '<p class="no-indications">無預測新適應症</p>';
+        html += '<p class="no-indications">ไม่มีข้อบ่งใช้ใหม่ที่ทำนาย</p>';
       }
 
       html += `
@@ -293,7 +293,7 @@
     if (!html) {
       html = `
         <div class="empty-state">
-          <p>選取的藥物無預測資料</p>
+          <p>ยาที่เลือกไม่มีข้อมูลการทำนาย</p>
         </div>
       `;
     }
@@ -325,7 +325,7 @@
   function showLoading(message) {
     if (elements.loading) {
       elements.loading.style.display = 'flex';
-      elements.loading.querySelector('.loading-text').textContent = message || '載入中...';
+      elements.loading.querySelector('.loading-text').textContent = message || 'กำลังโหลด...';
     }
     if (elements.error) elements.error.style.display = 'none';
     if (elements.content) elements.content.style.display = 'none';
@@ -417,18 +417,18 @@
     const container = document.getElementById(containerId);
     if (!container) return;
 
-    container.innerHTML = '<span class="trials-loading">搜尋臨床試驗中...</span>';
+    container.innerHTML = '<span class="trials-loading">กำลังค้นหาการทดลองทางคลินิก...</span>';
 
     const result = await searchClinicalTrials(drugName, indicationName);
 
     if (result.totalCount === 0) {
-      container.innerHTML = '<span class="trials-none">無相關臨床試驗</span>';
+      container.innerHTML = '<span class="trials-none">ไม่มีการทดลองทางคลินิกที่เกี่ยวข้อง</span>';
       return;
     }
 
     let html = `
       <div class="trials-summary">
-        找到 <strong>${result.totalCount}</strong> 個相關臨床試驗
+        พบ <strong>${result.totalCount}</strong> การทดลองทางคลินิกที่เกี่ยวข้อง
       </div>
       <div class="trials-list">
     `;
@@ -449,7 +449,7 @@
       const searchUrl = `https://clinicaltrials.gov/search?cond=${encodeURIComponent(indicationName)}&intr=${encodeURIComponent(drugName)}`;
       html += `
         <a href="${searchUrl}" target="_blank" class="trials-more">
-          查看全部 ${result.totalCount} 個臨床試驗 →
+          ดูการทดลองทางคลินิกทั้งหมด ${result.totalCount} รายการ →
         </a>
       `;
     }
@@ -477,21 +477,21 @@
    */
   function formatTrialStatus(status) {
     const statusMap = {
-      'RECRUITING': '招募中',
-      'ACTIVE_NOT_RECRUITING': '進行中',
-      'COMPLETED': '已完成',
-      'TERMINATED': '已終止',
-      'NOT_YET_RECRUITING': '尚未招募',
-      'SUSPENDED': '暫停',
-      'WITHDRAWN': '已撤回',
-      'ENROLLING_BY_INVITATION': '邀請招募'
+      'RECRUITING': 'กำลังรับสมัคร',
+      'ACTIVE_NOT_RECRUITING': 'ดำเนินการอยู่',
+      'COMPLETED': 'เสร็จสิ้น',
+      'TERMINATED': 'ยุติ',
+      'NOT_YET_RECRUITING': 'ยังไม่รับสมัคร',
+      'SUSPENDED': 'ระงับชั่วคราว',
+      'WITHDRAWN': 'ถอน',
+      'ENROLLING_BY_INVITATION': 'รับสมัครโดยคำเชิญ'
     };
     return statusMap[status] || status;
   }
 
   // Export
-  global.TwTxGNN = global.TwTxGNN || {};
-  global.TwTxGNN.SmartApp = {
+  global.ThTxGNN = global.ThTxGNN || {};
+  global.ThTxGNN.SmartApp = {
     init: init,
     loadTrials: loadClinicalTrials,
     searchTrials: searchClinicalTrials

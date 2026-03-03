@@ -1,76 +1,76 @@
 ---
 layout: default
-title: ClinicalTrials.gov API v2 技術筆記
+title: บันทึกเทคนิค ClinicalTrials.gov API v2
 parent: SMART on FHIR
 nav_order: 11
 ---
 
-# ClinicalTrials.gov API v2 技術筆記
+# บันทึกเทคนิค ClinicalTrials.gov API v2
 
-本文件整理 ClinicalTrials.gov API v2 的技術規格，供 ThTxGNN 整合臨床試驗搜尋功能參考。
+เอกสารนี้รวบรวมข้อกำหนดทางเทคนิคของ ClinicalTrials.gov API v2 สำหรับการรวมฟังก์ชันค้นหาการทดลองทางคลินิกใน ThTxGNN
 
 ---
 
-## API 概覽
+## ภาพรวม API
 
-| 項目 | 內容 |
+| รายการ | เนื้อหา |
 |------|------|
 | **Base URL** | `https://clinicaltrials.gov/api/v2` |
-| **規格** | OpenAPI Specification 3.0 |
-| **格式** | JSON（預設）、CSV |
-| **速率限制** | 10 requests/second |
-| **舊版 API** | 已於 2024 年 6 月退役 |
+| **ข้อกำหนด** | OpenAPI Specification 3.0 |
+| **รูปแบบ** | JSON (ค่าเริ่มต้น), CSV |
+| **จำกัดอัตรา** | 10 requests/second |
+| **API เวอร์ชันเก่า** | ยกเลิกแล้วในเดือนมิถุนายน 2024 |
 
 ---
 
-## 主要端點
+## Endpoints หลัก
 
-### 1. 搜尋臨床試驗
+### 1. ค้นหาการทดลองทางคลินิก
 
 ```
 GET /studies
 ```
 
-**查詢參數**：
+**พารามิเตอร์การค้นหา**:
 
-| 參數 | 說明 | 範例 |
+| พารามิเตอร์ | คำอธิบาย | ตัวอย่าง |
 |------|------|------|
-| `query.cond` | 疾病/狀況名稱 | `breast+cancer` |
-| `query.intr` | 介入措施（藥物名稱） | `metformin` |
-| `query.term` | 通用搜尋詞 | `phase+3` |
-| `filter.overallStatus` | 試驗狀態 | `RECRUITING` |
-| `filter.phase` | 試驗階段 | `PHASE3` |
-| `pageSize` | 每頁結果數 | `10`（最大 1000） |
-| `format` | 回應格式 | `json` 或 `csv` |
-| `countTotal` | 是否包含總數 | `true` |
+| `query.cond` | ชื่อโรค/อาการ | `breast+cancer` |
+| `query.intr` | การแทรกแซง (ชื่อยา) | `metformin` |
+| `query.term` | คำค้นหาทั่วไป | `phase+3` |
+| `filter.overallStatus` | สถานะการทดลอง | `RECRUITING` |
+| `filter.phase` | ระยะการทดลอง | `PHASE3` |
+| `pageSize` | จำนวนผลลัพธ์ต่อหน้า | `10` (สูงสุด 1000) |
+| `format` | รูปแบบการตอบกลับ | `json` หรือ `csv` |
+| `countTotal` | รวมจำนวนทั้งหมดหรือไม่ | `true` |
 
-**狀態篩選值**：
-- `RECRUITING` - 招募中
-- `COMPLETED` - 已完成
-- `ACTIVE_NOT_RECRUITING` - 進行中但不招募
-- `NOT_YET_RECRUITING` - 尚未開始招募
-- `TERMINATED` - 已終止
+**ค่าสถานะที่กรองได้**:
+- `RECRUITING` - กำลังรับสมัคร
+- `COMPLETED` - เสร็จสมบูรณ์
+- `ACTIVE_NOT_RECRUITING` - ดำเนินการอยู่แต่ไม่รับสมัคร
+- `NOT_YET_RECRUITING` - ยังไม่เริ่มรับสมัคร
+- `TERMINATED` - ยุติแล้ว
 
-**階段篩選值**：
+**ค่าระยะที่กรองได้**:
 - `PHASE1` - Phase 1
 - `PHASE2` - Phase 2
 - `PHASE3` - Phase 3
 - `PHASE4` - Phase 4
-- `EARLY_PHASE1` - 早期 Phase 1
+- `EARLY_PHASE1` - Phase 1 ระยะแรก
 
 ---
 
-## ThTxGNN 整合範例
+## ตัวอย่างการรวม ThTxGNN
 
-### 查詢藥物 + 疾病的臨床試驗
+### ค้นหาการทดลองทางคลินิกของยา + โรค
 
-當 ThTxGNN 預測 Metformin 可用於乳癌時，搜尋相關臨床試驗：
+เมื่อ ThTxGNN คาดการณ์ว่า Metformin อาจใช้ได้กับมะเร็งเต้านม ค้นหาการทดลองทางคลินิกที่เกี่ยวข้อง:
 
 ```bash
 curl "https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&query.intr=metformin&pageSize=10&format=json"
 ```
 
-### 回應結構
+### โครงสร้างการตอบกลับ
 
 ```json
 {
@@ -109,28 +109,28 @@ curl "https://clinicaltrials.gov/api/v2/studies?query.cond=breast+cancer&query.i
 }
 ```
 
-### 關鍵欄位對應
+### การแมปฟิลด์ที่สำคัญ
 
-| JSON 路徑 | ThTxGNN 用途 |
+| เส้นทาง JSON | การใช้งานใน ThTxGNN |
 |-----------|-------------|
-| `protocolSection.identificationModule.nctId` | NCT 編號（連結） |
-| `protocolSection.identificationModule.briefTitle` | 試驗標題 |
-| `protocolSection.statusModule.overallStatus` | 試驗狀態 |
-| `protocolSection.designModule.phases` | 試驗階段 |
-| `protocolSection.designModule.enrollmentInfo.count` | 受試者人數 |
-| `protocolSection.conditionsModule.conditions` | 疾病名稱 |
+| `protocolSection.identificationModule.nctId` | หมายเลข NCT (ลิงก์) |
+| `protocolSection.identificationModule.briefTitle` | ชื่อการทดลอง |
+| `protocolSection.statusModule.overallStatus` | สถานะการทดลอง |
+| `protocolSection.designModule.phases` | ระยะการทดลอง |
+| `protocolSection.designModule.enrollmentInfo.count` | จำนวนผู้เข้าร่วม |
+| `protocolSection.conditionsModule.conditions` | ชื่อโรค |
 
 ---
 
-## JavaScript 實作範例
+## ตัวอย่างการใช้งาน JavaScript
 
 ```javascript
 /**
- * 搜尋藥物-疾病相關臨床試驗
- * @param {string} drugName - 藥物名稱
- * @param {string} condition - 疾病名稱
- * @param {number} pageSize - 每頁結果數
- * @returns {Promise<Array>} 臨床試驗列表
+ * ค้นหาการทดลองทางคลินิกที่เกี่ยวข้องกับยา-โรค
+ * @param {string} drugName - ชื่อยา
+ * @param {string} condition - ชื่อโรค
+ * @param {number} pageSize - จำนวนผลลัพธ์ต่อหน้า
+ * @returns {Promise<Array>} รายการการทดลองทางคลินิก
  */
 async function searchClinicalTrials(drugName, condition, pageSize = 10) {
   const baseUrl = 'https://clinicaltrials.gov/api/v2/studies';
@@ -156,24 +156,25 @@ async function searchClinicalTrials(drugName, condition, pageSize = 10) {
   }));
 }
 
-// 使用範例
+// ตัวอย่างการใช้งาน
 const trials = await searchClinicalTrials('metformin', 'breast cancer');
-console.log(`找到 ${trials.length} 個臨床試驗`);
+console.log(`พบ ${trials.length} การทดลองทางคลินิก`);
 ```
 
 ---
 
-## 與 ThTxGNN 整合流程
+## ขั้นตอนการรวมกับ ThTxGNN
 
 ```
-ThTxGNN 老藥新用預測
+การคาดการณ์ข้อบ่งใช้ใหม่ ThTxGNN
         │
         ▼
 ┌───────────────────────────────┐
-│ 藥物: Metformin               │
-│ 預測適應症: breast carcinoma  │
-│ 預測分數: 0.9923              │
-│ 證據等級: L2                  │
+│ ยา: Metformin                 │
+│ ข้อบ่งใช้ที่คาดการณ์: breast   │
+│   carcinoma                   │
+│ คะแนนการคาดการณ์: 0.9923      │
+│ ระดับหลักฐาน: L2             │
 └───────────────┬───────────────┘
                 │
                 ▼
@@ -181,33 +182,33 @@ ThTxGNN 老藥新用預測
                 │
                 ▼
 ┌───────────────────────────────┐
-│ 相關臨床試驗:                  │
+│ การทดลองทางคลินิกที่เกี่ยวข้อง: │
 │ ─────────────────────────────  │
-│ NCT00909506 (Phase 2, 完成)   │
-│ NCT01101438 (Phase 3, 招募中) │
+│ NCT00909506 (Phase 2, เสร็จ)   │
+│ NCT01101438 (Phase 3, รับสมัคร)│
 │ ...                           │
 └───────────────────────────────┘
 ```
 
 ---
 
-## 待辦事項
+## รายการสิ่งที่ต้องทำ
 
-- [ ] 在 `smart-app.js` 新增 `searchClinicalTrials()` 函數
-- [ ] 建立疾病名稱 → API 查詢詞映射表（處理 Disease Ontology 名稱）
-- [ ] 設計 UI：在老藥新用結果中顯示「相關臨床試驗」區塊
-- [ ] 處理 API 錯誤和速率限制
-- [ ] 快取查詢結果以減少 API 呼叫
-
----
-
-## 參考資源
-
-- [ClinicalTrials.gov API 官方文件](https://clinicaltrials.gov/data-api/api)
-- [API Migration Guide](https://clinicaltrials.gov/data-api/about-api/api-migration)
-- [NLM Technical Bulletin - API v2 公告](https://www.nlm.nih.gov/pubs/techbull/ma24/ma24_clinicaltrials_api.html)
-- [Study Data Structure](https://clinicaltrials.gov/data-api/about-api/study-data-structure)
+- [ ] เพิ่มฟังก์ชัน `searchClinicalTrials()` ใน `smart-app.js`
+- [ ] สร้างตารางแมปชื่อโรค → คำค้นหา API (จัดการชื่อ Disease Ontology)
+- [ ] ออกแบบ UI: แสดงส่วน "การทดลองทางคลินิกที่เกี่ยวข้อง" ในผลลัพธ์ข้อบ่งใช้ใหม่
+- [ ] จัดการข้อผิดพลาด API และการจำกัดอัตรา
+- [ ] แคชผลการค้นหาเพื่อลดการเรียก API
 
 ---
 
-*建立日期：2026-03-01*
+## แหล่งอ้างอิง
+
+- [เอกสาร ClinicalTrials.gov API อย่างเป็นทางการ](https://clinicaltrials.gov/data-api/api)
+- [คู่มือการย้าย API](https://clinicaltrials.gov/data-api/about-api/api-migration)
+- [NLM Technical Bulletin - ประกาศ API v2](https://www.nlm.nih.gov/pubs/techbull/ma24/ma24_clinicaltrials_api.html)
+- [โครงสร้างข้อมูลการศึกษา](https://clinicaltrials.gov/data-api/about-api/study-data-structure)
+
+---
+
+*วันที่สร้าง: 2026-03-01*
