@@ -104,7 +104,7 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
     """ลบข่าวซ้ำข้ามแหล่ง รวมแหล่งที่มาของข่าวคล้ายกัน"""
     sorted_news = sorted(
         news_items,
-        key=lambda x: x.get("published", ""),
+        key=lambda x: x.get("published") or "",
         reverse=True
     )
 
@@ -118,9 +118,8 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
         similar_items = [item]
 
         try:
-            item_time = datetime.fromisoformat(
-                item.get("published", datetime.now(timezone.utc).isoformat()).replace("Z", "+00:00")
-            )
+            pub_str = item.get("published") or datetime.now(timezone.utc).isoformat()
+            item_time = datetime.fromisoformat(pub_str.replace("Z", "+00:00"))
         except (ValueError, TypeError):
             item_time = datetime.now(timezone.utc)
 
@@ -129,9 +128,8 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
                 continue
 
             try:
-                other_time = datetime.fromisoformat(
-                    other.get("published", datetime.now(timezone.utc).isoformat()).replace("Z", "+00:00")
-                )
+                pub_str = other.get("published") or datetime.now(timezone.utc).isoformat()
+                other_time = datetime.fromisoformat(pub_str.replace("Z", "+00:00"))
             except (ValueError, TypeError):
                 other_time = datetime.now(timezone.utc)
 
@@ -164,11 +162,12 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
 
         # ใช้เวลาเผยแพร่ที่เร็วที่สุด
         try:
-            earliest_time = min(
-                datetime.fromisoformat(s.get("published", datetime.now(timezone.utc).isoformat()).replace("Z", "+00:00"))
-                for s in similar_items
-                if s.get("published")
-            )
+            pub_times = []
+            for s in similar_items:
+                pub_str = s.get("published")
+                if pub_str:
+                    pub_times.append(datetime.fromisoformat(pub_str.replace("Z", "+00:00")))
+            earliest_time = min(pub_times) if pub_times else datetime.now(timezone.utc)
         except (ValueError, TypeError):
             earliest_time = datetime.now(timezone.utc)
 

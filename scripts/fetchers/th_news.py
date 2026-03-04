@@ -90,6 +90,7 @@ class ThaiHealthNewsFetcher(RSSFetcher):
             if resp.status_code != 200:
                 return articles
 
+            resp.encoding = resp.apparent_encoding or 'utf-8'
             soup = BeautifulSoup(resp.text, "html.parser")
 
             # Find article elements
@@ -153,6 +154,8 @@ class ThaiHealthNewsFetcher(RSSFetcher):
             if resp.status_code != 200:
                 return articles
 
+            # Ensure proper encoding for Thai content
+            resp.encoding = resp.apparent_encoding or 'utf-8'
             soup = BeautifulSoup(resp.text, "html.parser")
 
             # Find news links
@@ -203,6 +206,7 @@ class ThaiHealthNewsFetcher(RSSFetcher):
             if resp.status_code != 200:
                 return articles
 
+            resp.encoding = resp.apparent_encoding or 'utf-8'
             soup = BeautifulSoup(resp.text, "html.parser")
 
             # Find article cards
