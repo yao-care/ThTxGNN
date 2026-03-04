@@ -1,0 +1,2617 @@
+{
+  "drug": {
+    "inn": "Prednisolone",
+    "drugbank_id": "DB00860",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "alopecia areata",
+        "txgnn_score": 0.9998761415481568,
+        "txgnn_rank": 52,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06046534",
+            "title": "ERYTHRO Retrospective Medical Chart Review Study to Describe the Experience of SLE Patients Treated With Anifrolumab in the Early Access Programs.",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2023-10-27",
+            "completion_date": "2024-06-10",
+            "country": "Portugal, Israel, Italy, Spain, France, United Kingdom, Greece",
+            "enrollment": 46,
+            "brief_summary": "The ERYTHRO study is a retrospective medical chart review study of patients in the AMANA and ATUc Early Access Programs (EAPs) across a number of countries, to assess anifrolumab usage and patient experience in treating SLE in a real-world setting. Since patient safety data are already collected and reported according to regulatory requirements through EAPs, this study will not collect safety data.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years at time of enrolment into AMANA or France ATUc program, and\n* Have at least 6 months of data from medical charts available prior to the initiation of anifrolumab through the EAP, and\n* Have been initiated on anifrolumab at least 6 months before enrolment into ER",
+            "endpoints": [
+              "Disease activity assessed by Systemic Lupus Erythematosus Disease Activity Index 2000 (SLEDAI-2K) or any of its components at 6 months from the date of first anifrolumab infusion",
+              "Disease activity assessed by the Physician Global Assessment (PGA) at 6 months from the date of first anifrolumab infusion"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT06046534"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04680637",
+            "title": "A Phase 2b Dose Ranging Study to Evaluate the Efficacy and Safety of Efavaleukin Alfa in Subjects With Active Systemic Lupus Erythematosus With Inadequate Response to Standard of Care Therapy",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2021-05-06",
+            "completion_date": "2023-05-22",
+            "country": "United States, Switzerland, Bulgaria, Hong Kong, South Korea, Greece, Canada, Turkey (Türkiye), Japan, Italy, France, Austria, Mexico, Spain, Colombia, Poland, Taiwan, Chile, Russia",
+            "enrollment": 168,
+            "brief_summary": "The primary objective is to evaluate the efficacy and safety of efavaleukin alfa in subjects with active systemic lupus erythematosus.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participant has provided informed consent prior to initiation of any study specific activities/procedures.\n* Participant is aged between 18 and 75.\n* Fulfills classification criteria for systemic lupus erythematosus (SLE) according to the 2019 European League Against Rheumatis",
+            "endpoints": [
+              "Number of Participants Who Achieved a Systemic Lupus Erythematosus Responder Index 4 (SRI-4) Response at Week 52"
+            ],
+            "sponsor": "Amgen",
+            "url": "https://clinicaltrials.gov/study/NCT04680637"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06653556",
+            "title": "An Open-label Clinical Study to Evaluate the Safety, Tolerability, Pharmacokinetics, and Pharmacodynamics of LCAR-AIO for the Treatment of Relapsed/Refractory Systemic Lupus Erythematosus (r/r SLE)",
+            "phase": "EARLY_PHASE1",
+            "status": "RECRUITING",
+            "start_date": "2025-01-08",
+            "completion_date": "2029-09-30",
+            "country": "China",
+            "enrollment": 34,
+            "brief_summary": "This is a prospective, single-arm, open-label, dose-exploration and expansion clinical study of LCAR-AIO in adult subjects with relapsed/refractory systemic lupus erythematosus.",
+            "eligibility_criteria": "1. Subjects voluntarily participate in clinical research.\n2. Age 18-65 years.\n3. Have been diagnosed of SLE at least 6 months before screening.\n4. At screening, antinuclear antibody, and/or anti-dsDNA antibody, and/or anti-Sm antibody should be positive.\n5. Fulfill relapsed/refractory SLE conditions",
+            "endpoints": [
+              "Incidence, severity, and type of treatment-emergent adverse events (TEAEs)",
+              "Incidence of dose-limiting toxicity (DLT)",
+              "Pharmacokinetics in peripheral blood"
+            ],
+            "sponsor": "Union Hospital, Tongji Medical College, Huazhong University of Science and Technology",
+            "url": "https://clinicaltrials.gov/study/NCT06653556"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01972217",
+            "title": "A Randomised, Double-Blind, Placebo-Controlled, Multicentre Phase II Study to Compare the Efficacy, Safety and Tolerability of Olaparib Versus Placebo When Given in Addition to Abiraterone Treatment in Patients With Metastatic Castrate-Resistant Prostate Cancer Who Have Received Prior Chemotherapy Containing Docetaxel",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2014-04-01",
+            "completion_date": "2023-08-24",
+            "country": "Poland, United States, Italy, Netherlands, Spain, France, United Kingdom, Russia, Czechia, Canada, Belgium",
+            "enrollment": 158,
+            "brief_summary": "This is a 2-part study in patients with metastatic CRPC. Part A is an open-label safety run-in study to assess the safety, tolerability and pharmacokinetics (PK) of olaparib when given in addition to abiraterone 1000 mg once daily. Part B is a randomised, double-blind, placebo controlled comparison of the efficacy, safety and tolerability of the dose of olaparib selected from Part A when given in addition to abiraterone, versus placebo given in addition to abiraterone. Abiraterone is indicated i",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Provision of signed and dated written informed consent prior to any study specific procedures.\n2. Male aged 18 years and older.\n3. Histologically or cytologically proven diagnosis of prostate cancer.\n4. Candidate for abiraterone therapy with documented evidence of metastatic ",
+            "endpoints": [
+              "Part A: Percentage of Patients Experiencing Adverse Events (AEs)",
+              "Part A: Number of Patients With Dose Limiting Toxicities (DLTs)",
+              "Part B: Median Radiological Progression-Free Survival (rPFS) Time"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT01972217"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01167946",
+            "title": "Safety and Efficacy of Oral Mega Pulse Methylprednisolone in Severe Therapy Resistant Alopecia Areata",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2003-01",
+            "completion_date": "2010-07",
+            "country": "Saudi Arabia",
+            "enrollment": 42,
+            "brief_summary": "Systemic Pulse Glucocorticoids have been shown to be effective in widespread Alopecia areata but not the totalis, universalis or ophiasic type. Whether the failure is due to inadequate dosing, inadequate frequency or other factors is a matter of debate. The investigators decided to conduct this study using the oral pulse steroid, however with higher doses and more frequent pulses to patients with severe forms of Alopecia areata.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Alopecia Universalis\n* Alopecia Totalis\n* Ophiasic Alopecia\n\nExclusion Criteria:\n\n* diabetes mellitus\n* peptic ulcer\n* hypertension\n* infection\n* psychosis\n* heart disease\n* kidney disease\n* endocrine disorders (apart from a subclinical hypothyroidism and autoimmune thyroiditi",
+            "endpoints": [
+              "hair regrowth"
+            ],
+            "sponsor": "King Saud University",
+            "url": "https://clinicaltrials.gov/study/NCT01167946"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03845517",
+            "title": "A PHASE 2B, DOUBLE-BLIND, RANDOMIZED, PLACEBO-CONTROLLED, MULTICENTER, DOSE-RANGING STUDY TO EVALUATE THE EFFICACY AND SAFETY PROFILE OF PF-06700841 IN PARTICIPANTS WITH ACTIVE SYSTEMIC LUPUS ERYTHEMATOSUS (SLE)",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2019-04-18",
+            "completion_date": "2023-10-05",
+            "country": "Portugal, China, United States, United Kingdom, Czechia, Germany, Australia, Bulgaria, Hungary, Hong Kong, Ukraine, South Korea, Greece, Canada, Japan, Italy, France, Mexico, Spain, Colombia, Romania, Poland, Taiwan, Argentina, Belgium, Serbia",
+            "enrollment": 350,
+            "brief_summary": "Assessment of PF-06700841 in participants with moderate to severe active, generalized Systemic Lupus Erythematosus (SLE) that have inadequate response to standard of care.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and/or female subjects between ≥18 and ≤75 years of age inclusive.\n* Diagnosis of moderate to severe active Lupus.\n* Receiving a stable dose of methotrexate, azathioprine, leflunomide, mizoribine, mycophenolate/mycophenolic acid, anti-malarials or corticosteroids.\n\nExclus",
+            "endpoints": [
+              "Percentage of Participants Achieving SLE Responder Index (SRI) Change of 4 (SRI-4) at Week 52"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT03845517"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07101471",
+            "title": "A Prospective and Observational Study for Safety and Effectiveness Evaluation of Rhofanib® (Tofacitinib) in Patients With Alopecia.",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2020-08-04",
+            "completion_date": "2025-06-11",
+            "country": "Iran",
+            "enrollment": 296,
+            "brief_summary": "The goal of this observational study is to evaluate safety of Rhofanib® (Tofacitinib) in male or female participants with the age of 18 years or older having clinical diagnosis of Alopecia. The main questions are aim to answer:\n\n1. Is Rhofanib® (Tofacitinib) safe in Alopecia?\n2. Is Rhofanib® (Tofacitinib) work to treat Alopecia?\n\nIn this study, there is no comparison group. Participants received Rhofanib® (Tofacitinib) with or without adjuvant prednisolone.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female with the age of 18 years or older\n* Clinical diagnosis of alopecia areata with at least 40% scalp hair loss, alopecia totalis, or alopecia universalis who are prescribed Rhofanib®\n* Stable or worsening disease for at least 6 months\n* Patients who have given writ",
+            "endpoints": [
+              "Safety assessment"
+            ],
+            "sponsor": "NanoAlvand",
+            "url": "https://clinicaltrials.gov/study/NCT07101471"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04582136",
+            "title": "Efficacy and Safety of Sirolimus in Patients With Active Systemic Lupus Erythematosus Despite Standard of Care: a Multi-center, Double Blinded, Randomized, Placebo-controlled, Phase 3 Trial",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2021-03-04",
+            "completion_date": "2026-01",
+            "country": "China",
+            "enrollment": 146,
+            "brief_summary": "This is a multi-center, double-blinded, randomized, placebo-controlled, phase 3 study to evaluate the efficacy and safety of sirolimus administered in addition to standard therapy, in patients with active SLE disease.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 18\\~65 years;\n* Fulfilling the 2012 SLICC criteria for SLE; time from SLE diagnosis ≥ 3 months;\n* Active disease as defined by a SLEDAI-2K score of ≥4 (not including scores for anti-dsDNA antibody and hypocomplementemia) at screening;\n* Serologically active definin",
+            "endpoints": [
+              "The Proportion of Patients Who Achieve an SLE Responder Index-4 (SRI-4) Composite Response at Week 24"
+            ],
+            "sponsor": "Chinese SLE Treatment And Research Group",
+            "url": "https://clinicaltrials.gov/study/NCT04582136"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03616964",
+            "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study of Baricitinib in Patients With Systemic Lupus Erythematosus",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-08-02",
+            "completion_date": "2021-10-20",
+            "country": "Poland, Japan, United States, South Korea, Serbia, Italy, Romania, Chile, France, Philippines, Argentina, India, South Africa, Spain, Colombia",
+            "enrollment": 778,
+            "brief_summary": "The reason for this study is to see how effective and safe the study drug known as baricitinib is in participants with systemic lupus erythematosus (SLE).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Have a clinical diagnosis of SLE at least 24 weeks prior to screening.\n* Have documentation of having met at least 4 of 11 Revised Criteria for Classification of Systemic Lupus Erythematosus according to the 1997 Update of the 1982 American College of Rheumatology (ACR) criter",
+            "endpoints": [
+              "Percentage of Participants Achieving a Systemic Lupus Erythematosus Responder Index 4 (SRI-4) Response (4 mg Baricitinib)"
+            ],
+            "sponsor": "Eli Lilly and Company",
+            "url": "https://clinicaltrials.gov/study/NCT03616964"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05162586",
+            "title": "A Phase II, Randomized, Double-Blind, Placebo-Controlled Dose-Ranging, Parallel and Adaptive Study to Evaluate the Efficacy and Safety of Enpatoran in SLE and in CLE (SCLE and/or DLE) Participants Receiving Standard of Care (WILLOW)",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2022-03-31",
+            "completion_date": "2024-11-20",
+            "country": "China, United States, Israel, Brazil, Australia, Bulgaria, Philippines, Moldova, South Korea, Greece, Japan, Mexico, Mauritius, South Africa, Spain, Romania, Colombia, Poland, Taiwan, Chile, Argentina, Serbia",
+            "enrollment": 456,
+            "brief_summary": "The purpose of this Proof of Concept (PoC) and Dose-finding (DF) basket study is to evaluate the efficacy and safety of orally administered Enpatoran over 24 weeks in systemic lupus erythematosus (SLE) and cutaneous lupus erythematosus (CLE; subacute cutaneous lupus erythematosus \\[SCLE\\] and/or discoid lupus erythematosus \\[DLE\\]) participants in a randomized, double-blind, placebo-controlled, parallel, adaptive and dose-ranging setting. Study Duration: 33 weeks Visit Frequency: every 2 or 4 we",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Active CLE (SCLE and/or DLE) with a CLE disease area and activity index (CLASI-A) \\>= 8\n* Active SLE with presence of: CLASI-A \\>= 8 and BILAG 2004 1B, C, D (that is \\[i.e.\\], No BILAG 2004 A and No BILAG 2004 \\>= 2B) or BILAG 2004 \\>= 1A or 2B and 1 or 2 of the following: Hyb",
+            "endpoints": [
+              "Cohort A: Change From Baseline in Cutaneous Lupus Erythematosus Disease Area and Severity Index-A (CLASI-A) Total Score at Week 16",
+              "Cohort B: Number of Participants With British Isles Lupus Assessment Group (BILAG)-Based Composite Lupus Assessment (BICLA) Response at Week 24"
+            ],
+            "sponsor": "EMD Serono",
+            "url": "https://clinicaltrials.gov/study/NCT05162586"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03843125",
+            "title": "A Phase 3, Double-Blind, Multicenter Study to Evaluate the Long-Term Safety and Efficacy of Baricitinib in Patients With Systemic Lupus Erythematosus (SLE)",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2019-09-09",
+            "completion_date": "2022-04-01",
+            "country": "China, Croatia, United States, Israel, United Kingdom, Czechia, Germany, Brazil, Switzerland, Australia, Hungary, Philippines, India, South Korea, Greece, Japan, Italy, France, Austria, Mexico, South Africa, Spain, Colombia, Romania, Poland, Taiwan, Netherlands, Chile, Argentina, Russia, Belgium, Serbia",
+            "enrollment": 1147,
+            "brief_summary": "The reason for this long term study is to see how safe and effective the study drug known as baricitinib is in participants with systemic lupus erythematosus (SLE) who have completed the final treatment visit of study I4V-MC-JAHZ (NCT03616912) or study I4V-MC-JAIA (NCT03616964).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Have completed the final treatment study visit of an originating study, such as study JAHZ (NCT03616912) or Study JAIA (NCT03616964).",
+            "endpoints": [
+              "Percentage of Participants With Treatment-Emergent Adverse Events (TEAEs)",
+              "Percentage of Participants With Adverse Events of Special Interest (AESIs)",
+              "Percentage of Participants With Serious Adverse Events (SAEs)"
+            ],
+            "sponsor": "Eli Lilly and Company",
+            "url": "https://clinicaltrials.gov/study/NCT03843125"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02031822",
+            "title": "Evaluation of Two Ultrasound-guided Techniques for Greater Occipital Nerve Injections of Local Anesthetic and Steroid for Treatment of Primary Headaches",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2014-06",
+            "completion_date": "2018-05",
+            "country": "Canada",
+            "enrollment": 40,
+            "brief_summary": "Headache is one of the most common reasons for patients to access healthcare. Greater occipital nerve (GON) block with local anesthetic and steroid has been described for the management of primary headache refractory to conventional treatment. Two ultrasound (US)-guided techniques for greater occipital nerve (GON) block have been described for the management of refractory headache syndromes: a proximal technique performed at the level of the second cervical vertebra and a distal technique perfor",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Features suggestive of occipital neuralgia: pain that begins in the upper neck and back of the head with radiation forward toward the eye and has an aching or burning character.\n2. Diagnosis of refractory primary headache, any type\n3. Baseline NRS headache score of \\> 4 refra",
+            "endpoints": [
+              "Numerical rating score (NRS) for headaches"
+            ],
+            "sponsor": "University Health Network, Toronto",
+            "url": "https://clinicaltrials.gov/study/NCT02031822"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03252587",
+            "title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled Study to Evaluate Efficacy and Safety of BMS-986165 in Subjects With Systemic Lupus Erythematosus",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2017-09-21",
+            "completion_date": "2021-10-28",
+            "country": "Poland, Japan, Taiwan, Australia, United States, Israel, South Korea, Romania, Hungary, Spain, Argentina, Russia, Mexico, Germany, Brazil, Canada, Colombia",
+            "enrollment": 363,
+            "brief_summary": "This study will investigate BMS-986165 to assess its effects in participants with systemic lupus erythematosus (SLE).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Systemic lupus erythematosus (SLE) disease diagnosed ≥ 24 weeks before the screening visit\n* Meets the Systemic Lupus International Collaborating Clinics (SLICC) classification criteria for SLE\n* One of the following: elevated antinuclear antibodies (ANA) ≥ 1:80 or positive an",
+            "endpoints": [
+              "Number of Participants Who Meet Response Criteria for Systemic Lupus Erythematosus (SLE) Responder Index [SRI(4)] at Week 32"
+            ],
+            "sponsor": "Bristol-Myers Squibb",
+            "url": "https://clinicaltrials.gov/study/NCT03252587"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03616912",
+            "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group, Phase 3 Study of Baricitinib in Patients With Systemic Lupus Erythematosus",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2018-08-02",
+            "completion_date": "2022-03-09",
+            "country": "Taiwan, China, Croatia, Australia, United States, Israel, Switzerland, Hungary, Netherlands, United Kingdom, Russia, Austria, Czechia, Mexico, Germany, Brazil, Greece, Belgium",
+            "enrollment": 830,
+            "brief_summary": "The reason for this study is to see how effective and safe the study drug known as baricitinib is in participants with systemic lupus erythematosus (SLE).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Have a clinical diagnosis of SLE at least 24 weeks prior to screening.\n* Have documentation of having met at least 4 of 11 Revised Criteria for Classification of Systemic Lupus Erythematosus according to the 1997 Update of the 1982 American College of Rheumatology (ACR) criter",
+            "endpoints": [
+              "Percentage of Participants Achieving a Systemic Lupus Erythematosus Responder Index 4 (SRI-4) Response (4 mg Baricitinib)"
+            ],
+            "sponsor": "Eli Lilly and Company",
+            "url": "https://clinicaltrials.gov/study/NCT03616912"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06759519",
+            "title": "An Observational Multicenter Retrospective-prospective Study of Patients With Active Moderate to Severe SLE",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2024-08-30",
+            "completion_date": "2025-09-19",
+            "country": "Russia",
+            "enrollment": 621,
+            "brief_summary": "This is a multicenter observational retrospective-prospective study consisting of retrospective and prospective phases. Trial will include 2 visits for obtaining the patient's demographic and clinical data: the 1st is retrospective and the 2nd is prospective. The study will involve approximately 50 sites of the Russian Federation; in each site about 20 patients will be recruited. The total planned size of study population will be approximately 1000 patients enrolled to the retrospective phase of",
+            "eligibility_criteria": "Inclusion Criteria:\n\nInclusion criteria for the retrospective phase are:\n\n1. Patients with the diagnosis of SLE (ICD code: M32) confirmed by medical records;\n2. Patients with availability of data of at least one visit to the clinic in the medical records in the last 24 months prior to inclusion;\n3. ",
+            "endpoints": [
+              "disease activity status at the time of patient visit to the doctor measured with SLEDAI-2K, expressed as the mean SLEDAI-2K total score at Visit 2."
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT06759519"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01017510",
+            "title": "Comparative Study Examining the Effectiveness in Use of a DERMOJET and a Normal Syringe Treatment for Patients With Hair Loss - Alopecia Areata",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2009-11",
+            "completion_date": "2010-11",
+            "country": "Israel",
+            "enrollment": 20,
+            "brief_summary": "Conventional treatments include the use of steroids applied locally, or injection in to the legion, or oral therapy.\n\nTreatment is determined by the severity of the disease.\n\nInjection in to the legion can be done in two methods\n\n1. Subcutaneous injection syringe Lower\n2. Using syringe DERMOJET - a syringe without a needle. So far there are no publications in the medical literature of studies comparing efficacy, safety, convenience of use for doctor-patient, of both methods.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects over the age of 18\n2. Men and women\n3. The presence of at least two lesions (centers) in diameter of at least 1.5 cm on both sides of the scalp.\n4. Healthy with no diseases that constitute the background against the total label use steroids\n\nExclusion Criteria:\n\n1. P",
+            "endpoints": [
+              "Evaluation of lesions will be based on Global assessment of improvement, score of 0-5"
+            ],
+            "sponsor": "Sheba Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT01017510"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04925934",
+            "title": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety Study of VIB7734 for the Treatment of Moderate to Severely Active Systemic Lupus Erythematosus",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-05-28",
+            "completion_date": "2023-06-09",
+            "country": "Poland, Taiwan, United States, Spain, Argentina, Russia, Ukraine, Mexico, India, Greece, Serbia",
+            "enrollment": 214,
+            "brief_summary": "A Phase 2 Randomized, Double-Blind, Placebo-Controlled Efficacy and Safety Study of VIB7734 for the Treatment of Moderate to Severely Active Systemic Lupus Erythematosus in approximately 195 participants. The study duration will be 48 weeks, with a safety follow-up through week 56.There will be 3 parallel arms - 2 active treatment and 1 placebo.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years to ≤ 70 years\n* Willing and able to understand and provide written informed consent.\n* Fulfill the 2019 European League Against Rheumatism/American College of Rheumatology Classification Criteria for SLE\n* Disease duration of at least 6 months\n* Active SLE as in",
+            "endpoints": [
+              "Number of Participants Achieving a BILAG-2004 Index-based Combined Lupus Assessment (BICLA) Response and an OGC Dose ≤ 7.5 mg/Day and ≤ Baseline Dose of Prednisone or Equivalent at Week 48"
+            ],
+            "sponsor": "Amgen",
+            "url": "https://clinicaltrials.gov/study/NCT04925934"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04835441",
+            "title": "A Randomized, Double-blind, Placebo-controlled Study of ALPN-101 in Systemic Lupus Erythematosus",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-06-22",
+            "completion_date": "2024-07-09",
+            "country": "Poland, Taiwan, United States, Hungary, France, Puerto Rico, Spain",
+            "enrollment": 76,
+            "brief_summary": "This is Phase 2, multinational, randomized, blinded study to evaluate the safety, tolerability, efficacy, immunogenicity, pharmacokinetics and pharmacodynamics of ALPN-101 (acazicolcept) in adults with moderate to severe active systemic lupus erythematosus (SLE)",
+            "eligibility_criteria": "Key Inclusion Criteria Summary\n\n* SLE onset ≥ 6 months prior to Screening\n* Positive ANA and/or elevated anti-dsDNA and/or elevated anti-Smith antibody test\n* Active lupus at Screening and Baseline, as defined per-protocol and confirmed by the study's medical monitor, including a SLEDAI score at Scr",
+            "endpoints": [
+              "Safety and Tolerability as Assessed by Number of Participants With Treatment- Emergent Adverse Events (TEAEs) and Serious Adverse Events (SAEs)",
+              "Percentage of Participants Achieving a Systemic Lupus Erythematosus (SLE) Responder Index (SRI)-4",
+              "Percentage of Participants Achieving a British Isles Lupus Assessment Group-based Composite Lupus Assessment (BICLA) Response"
+            ],
+            "sponsor": "Alpine Immune Sciences, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT04835441"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "37870096",
+            "title": "Treatments for alopecia areata: a network meta-analysis.",
+            "abstract": "Alopecia areata is an autoimmune disease leading to nonscarring hair loss on the scalp or body. There are different treatments including immunosuppressants, hair growth stimulants, and contact immunotherapy.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2023",
+            "authors": [
+              "Mateos-Haro Miriam",
+              "Novoa-Candia Monica",
+              "Sánchez Vanegas Guillermo",
+              "Correa-Pérez Andrea",
+              "Gaetano Gil Andrea"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Biological Products",
+              "Adolescent",
+              "Betamethasone",
+              "Child, Preschool",
+              "Immunosuppressive Agents",
+              "Prednisolone",
+              "Humans",
+              "Minoxidil",
+              "Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37870096/"
+          },
+          {
+            "pmid": "37992355",
+            "title": "The Efficacy and Adverse Effects of Corticosteroid Pulse Therapy in Alopecia Areata: A Review Article.",
+            "abstract": "Alopecia areata (AA) is a common, non-scarring, autoimmune hair loss disorder, varying in severity from small round hairless patches to the total loss of scalp or body hair. As steroid pulse therapy outcomes for AA vary, this study aimed to review the related literature regarding the efficacy, relapse rates, side effects, and prognostic factors associated with the response to different pulse corticosteroid treatments.",
+            "journal": "Dermatology practical & conceptual",
+            "year": "2023",
+            "authors": [
+              "Rastaghi Fatemeh",
+              "Kaveh Roxana",
+              "Yazdanpanah Nazafarin",
+              "Sahaf Akram Sadat",
+              "Ahramyanpour Najmeh"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37992355/"
+          },
+          {
+            "pmid": "35986630",
+            "title": "Retrospective analysis of methylprednisolone treatment alone and in combination with methotrexate in patients with extensive alopecia areata.",
+            "abstract": "Alopecia areata (AA) is a chronic autoimmune disorder that primarily affects the hair follicle. Systemic corticosteroids and methotrexate (MTX) are among the therapeutic options in severe cases. This study aimed to show whether the combination therapy of methylprednisolone (MP) and MTX was superior to MP alone in the management of extensive AA. A total of 26 patients with extensive AA, 14 treated with MP alone and 12 treated with the combination of MP and MTX, were retrospectively evaluated in terms of gender, age, severity of disease, clinical characteristics, disease duration, dose and duration of medications, therapy response, and side effects. Of the 26 patients with extensive AA, 14 were male and 12 were female, and the average age was 17.02 ± 10.70 years. All patients had more than 50% hair loss, 23 had extensive multifocal AA, and three had alopecia totalis. A total of 14 patients were treated with MP alone (starting dose: 0.3-0.5 mg/kg, maximum 32 mg/day), and 12 were treated w",
+            "journal": "Dermatologic therapy",
+            "year": "2022",
+            "authors": [
+              "Altun Ece",
+              "Yaylı Savaş",
+              "Arıca Deniz Aksu",
+              "Selcuk Leyla Baykal",
+              "Bahadır Sevgi"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Alopecia",
+              "Alopecia Areata",
+              "Child",
+              "Female",
+              "Humans",
+              "Male",
+              "Methotrexate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35986630/"
+          },
+          {
+            "pmid": "36461625",
+            "title": "Pediatric pulse dose corticosteroid therapy dosing and administration in the treatment of alopecia areata: A review of literature.",
+            "abstract": "The use of pulse dose corticosteroid therapy (PDCT) in children for treatment of alopecia areata (AA) has been reported, but dosing regimens are not well-established. We aim to evaluate the available literature regarding the utilization and various dosing regimens of PDCT, as well as associated side effects, in the treatment of AA in children.",
+            "journal": "Pediatric dermatology",
+            "year": "2023",
+            "authors": [
+              "Gallaga Natalya M",
+              "Carrillo Brenda",
+              "Good Allison",
+              "Munoz-Gonzalez Ayezel",
+              "Ross Lindy"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Child",
+              "Alopecia Areata",
+              "Glucocorticoids",
+              "Treatment Outcome",
+              "Methylprednisolone",
+              "Dexamethasone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36461625/"
+          },
+          {
+            "pmid": "33167077",
+            "title": "Co-localization of alopecia areata and lichen planopilaris in a patient receiving immunosuppressants: A rare case.",
+            "abstract": "AA is an acquired dermatosis distributed universally, with multifactorial etiology. It affects the hair follicle with or without nail involvement, resulting in an acute nonscarring alopecia with a relapsing course.1 Being a relatively common skin disease, LPP (lichen planopilaris) is initiated by a chronic lymphocytic inflammation that selectively destructs the hair follicles and eventually leads to scarring alopecia. Also, even though there is enough literature available for the co-existence of AA and LPP with each other and their association with other autoimmune conditions, there are only very few reports on the anatomical concomitance of both disorders.3 AIMS: Although the incidence of not only one but two autoimmune diseases in an immunosuppressed individual is very unusual, we hereby report a case of co-localization of AA and LPP in a patient receiving immunosuppression due to a previous history of SLE (Systemic lupus erythematosus).",
+            "journal": "Journal of cosmetic dermatology",
+            "year": "2021",
+            "authors": [
+              "Mofarrah Ramin",
+              "Mofarrah Ramina",
+              "Jahani Amiri Kousar",
+              "Ghasemi Maryam"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alopecia",
+              "Alopecia Areata",
+              "Female",
+              "Hair Follicle",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Lichen Planus",
+              "Scalp"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33167077/"
+          },
+          {
+            "pmid": "30191561",
+            "title": "Systemic treatments for alopecia areata: A systematic review.",
+            "abstract": "A range of systemic treatments are used for alopecia areata with variable evidence supporting efficacy. In this systematic review, we evaluated the evidence surrounding systemic treatments for alopecia areata, alopecia totalis and alopecia universalis. A systematic search was conducted of the peer-reviewed literature published between 1946 and March 2018 via Medline, Embase, Amed, the Cochrane Central Register of Controlled Trials, PsychINFO and Lilacs. All randomised controlled trials (RCTs) that evaluated the effectiveness of systemic treatments for individuals with alopecia areata, totalis or universalis were included. Sixteen studies were included with a total of 768 participants. We found eight placebo-controlled RCTs, three RCTs comparing two systemic treatments and five RCTs comparing three treatments. A total of 15 different systemic therapies were investigated. The most frequently investigated therapy was oral prednisolone pulse therapy and oral inosiplex. There was significan",
+            "journal": "The Australasian journal of dermatology",
+            "year": "2019",
+            "authors": [
+              "Lai Vivien Wai Yun",
+              "Chen Gang",
+              "Gin Douglas",
+              "Sinclair Rodney"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adjuvants, Immunologic",
+              "Administration, Intravenous",
+              "Administration, Oral",
+              "Alopecia",
+              "Alopecia Areata",
+              "Antidepressive Agents",
+              "Biological Products",
+              "Complementary Therapies",
+              "Glucocorticoids",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30191561/"
+          },
+          {
+            "pmid": "28140540",
+            "title": "Sequential high- and low-dose systemic corticosteroid therapy for severe childhood alopecia areata.",
+            "abstract": "Given the limited number of therapeutic options, severe childhood alopecia areata (AA) poses a clinical challenge. The best and most rapid response rates can be achieved with high-dose systemic corticosteroids, however, relapse following treatment discontinuation is inevitable. Due to systemic side effects, long-term high-dose corticosteroid regimens are not feasible. Following initial pulse therapy, continuation of corticosteroid therapy at a dose below the Cushing threshold might be able to suppress disease activity without causing severe side effects.",
+            "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+            "year": "2017",
+            "authors": [
+              "Jahn-Bassler Karin",
+              "Bauer Wolfgang Michael",
+              "Karlhofer Franz",
+              "Vossen Matthias G",
+              "Stingl Georg"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Alopecia Areata",
+              "Austria",
+              "Child",
+              "Child, Preschool",
+              "Cushing Syndrome",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28140540/"
+          },
+          {
+            "pmid": "9065564",
+            "title": "Myasthenia gravis and alopecia areata.",
+            "abstract": "Of 202 patients with myasthenia gravis (MG), 6 (3%) developed alopecia areata. All six patients had a thymoma verified by pathology; the frequency of alopecia areata rose to 17% of 35 MG patients with a thymoma. In one patient who had no recognizable tumor in the mediastinum, an ectopic thymoma was present in the anterior neck.",
+            "journal": "Neurology",
+            "year": "1997",
+            "authors": [
+              "Kubota A",
+              "Komiyama A",
+              "Hasegawa O"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Alopecia Areata",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9065564/"
+          },
+          {
+            "pmid": "4154458",
+            "title": "Alopecia areata, vitiligo, scleroderma and ulcerative colitis.",
+            "abstract": "",
+            "journal": "Proceedings of the Royal Society of Medicine",
+            "year": "1974",
+            "authors": [
+              "Thompson D M",
+              "Robinson T W",
+              "Lennard-Jones J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alopecia Areata",
+              "Barium Sulfate",
+              "Colitis, Ulcerative",
+              "Enema",
+              "Humans",
+              "Lichen Planus",
+              "Male",
+              "Prednisolone",
+              "Scleroderma, Localized"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4154458/"
+          },
+          {
+            "pmid": "21572877",
+            "title": "Medium-dose prednisolone pulse therapy in alopecia areata.",
+            "abstract": "Although the exact etiology of alopecia areata is still unknown, systemic prednisolone treatment seem to be effective in early stages but significant side effects may occur leading to discontinuation of treatment.",
+            "journal": "Dermato-endocrinology",
+            "year": "2009",
+            "authors": [
+              "Efentaki Pinelopi",
+              "Altenburg Andreas",
+              "Haerting Johannes",
+              "Zouboulis Christos C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21572877/"
+          },
+          {
+            "pmid": "15692475",
+            "title": "Placebo-controlled oral pulse prednisolone therapy in alopecia areata.",
+            "abstract": "Systemic corticosteroids administered as pulse therapy have been found helpful in a wide array of diseases including alopecia areata (AA). None of the studies published so far regarding their use in AA have been randomized or placebo-controlled.",
+            "journal": "Journal of the American Academy of Dermatology",
+            "year": "2005",
+            "authors": [
+              "Kar Bikash Ranjan",
+              "Handa Sanjeev",
+              "Dogra Sunil",
+              "Kumar Bhushan"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Alopecia Areata",
+              "Autoimmune Diseases",
+              "Drug Administration Schedule",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Hypersensitivity, Immediate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15692475/"
+          },
+          {
+            "pmid": "28940756",
+            "title": "Efficacy of combining pulse corticotherapy and methotrexate in alopecia areata: Real-life evaluation.",
+            "abstract": "",
+            "journal": "The Journal of dermatology",
+            "year": "2017",
+            "authors": [
+              "Alkeraye Salim",
+              "Becquart Coralie",
+              "Delaporte Emmanuel",
+              "Staumont-Sallé Delphine"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Alopecia Areata",
+              "Dermatologic Agents",
+              "Drug Therapy, Combination",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Male",
+              "Methotrexate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28940756/"
+          },
+          {
+            "pmid": "18608727",
+            "title": "Combination therapy of cyclosporine and methylprednisolone on severe alopecia areata.",
+            "abstract": "Although systemic cyclosporine appears to be one of the treatment options for chronic severe alopecia areata (AA), the high recurrence rates after discontinuation and side effects make cyclosporine a nominal agent for the treatment of AA.",
+            "journal": "The Journal of dermatological treatment",
+            "year": "2008",
+            "authors": [
+              "Kim Beom Joon",
+              "Min Seong Uk",
+              "Park Kui Young",
+              "Choi Jung Won",
+              "Park Sung Wook"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Alopecia Areata",
+              "Anti-Inflammatory Agents",
+              "Child",
+              "Cohort Studies",
+              "Cyclosporine",
+              "Dermatologic Agents",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18608727/"
+          },
+          {
+            "pmid": "26179196",
+            "title": "Combined oral pulse and topical corticosteroid therapy for severe alopecia areata in children: a long-term follow-up study.",
+            "abstract": "There are no widely accepted therapy protocols for severe alopecia areata (AA). We treated 65 children/adolescents with AA affecting >30% of scalp. Fourty-three percent of patients had AA plurifocalis (AAP). Fifty-seven percent had AA subtotalis (AAS), AAP+ophiasis (AAP+OPH), and alopecia totalis/universalis (AT/AU). Long-term follow-up (median 96 months) data were available for 69% of patients. Oral dexamethasone (prednisolone 5 mg/kg equivalent) was given once in 4 weeks. Patients received 6, 9, or 12 pulses. Clobetasol propionate 0.05% ointment under plastic wrap occlusion was applied 6 days a week. Hair growth was assessed on a scale ranging 0-100% of regrowth in individual AA lesions. Regrowth >50% was considered good response. Six to twelve months months after the therapy, 56.9% of patients had >75% of hair regrowth. In AAP, 65.5% had complete regrowth. 61.5% of all patients were considered good responders. Significantly, higher percentage of good responders was found in AA lasti",
+            "journal": "Dermatologic therapy",
+            "year": "2015",
+            "authors": [
+              "Lalosevic Jovan",
+              "Gajic-Veljic Mirjana",
+              "Bonaci-Nikolic Branka",
+              "Nikolic Milos"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Administration, Topical",
+              "Adolescent",
+              "Alopecia Areata",
+              "Child",
+              "Child, Preschool",
+              "Clobetasol",
+              "Dexamethasone",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26179196/"
+          },
+          {
+            "pmid": "22426909",
+            "title": "Efficacy and safety of oral mega pulse methylprednisolone for severe therapy resistant Alopecia areata.",
+            "abstract": "To use intensive regimen of pulse steroid in the severe forms of Alopecia areata.",
+            "journal": "Saudi medical journal",
+            "year": "2012",
+            "authors": [
+              "Bin Saif Ghada A",
+              "Al-Khawajah Marwan M",
+              "Al-Otaibi Hend M",
+              "Al-Roujayee Abdulaziz S",
+              "Alzolibani Abdullateef A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Alopecia Areata",
+              "Drug Administration Routes",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Male",
+              "Methylprednisolone",
+              "Prospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22426909/"
+          },
+          {
+            "pmid": "32779249",
+            "title": "Utility of azathioprine, methotrexate and cyclosporine as steroid-sparing agents in chronic alopecia areata: a retrospective study of continuation rates in 138 patients.",
+            "abstract": "The management of chronic alopecia areata (CAA) is challenging. There is currently no therapy that produces consistent successful hair regrowth. Systemic therapies, including prednisolone and steroid-sparing agents (SSA), are often tried in patients with CAA. As there are no head-to-head clinical trials that compare efficacy of one SSA over another, retrospective studies of treatment in clinical practice may help guide clinical practice.",
+            "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+            "year": "2020",
+            "authors": [
+              "Lai V W Y",
+              "Sinclair R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alopecia Areata",
+              "Azathioprine",
+              "Cyclosporine",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Methotrexate",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32779249/"
+          },
+          {
+            "pmid": "14157908",
+            "title": "[ALOPECIA AREATA AND CORTICOTHERAPY].",
+            "abstract": "",
+            "journal": "Bulletin de la Societe francaise de dermatologie et de syphiligraphie",
+            "year": "1963",
+            "authors": [
+              "SALES P"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alopecia",
+              "Alopecia Areata",
+              "Amobarbital",
+              "Chlorpromazine",
+              "Coffee",
+              "Humans",
+              "Hypnotics and Sedatives",
+              "Prednisolone",
+              "Psychosomatic Medicine",
+              "Sleep Initiation and Maintenance Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14157908/"
+          },
+          {
+            "pmid": "30294905",
+            "title": "Alteration of serum and tissue tumor necrosis factor alpha levels: A possible mechanism of action of oral pulse steroids in the treatment of alopecia areata.",
+            "abstract": "Alopecia areata (AA) is a multifactorial disease in which tumor necrosis factor alpha (TNF-α) plays an important role.",
+            "journal": "Journal of cosmetic dermatology",
+            "year": "2019",
+            "authors": [
+              "Abdel Halim Dalia",
+              "Abu Zeid Ola M",
+              "Rashed Laila",
+              "Saleh Marwah Adly"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Alopecia Areata",
+              "Biopsy",
+              "Case-Control Studies",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30294905/"
+          },
+          {
+            "pmid": "13368875",
+            "title": "Alopecia areata, partialis, and totalis; treatment with cortisone, hydrocortisone and their analogs, prednisone and prednisolone.",
+            "abstract": "",
+            "journal": "Medical times",
+            "year": "1956",
+            "authors": [
+              "LUBOWE I I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Alopecia",
+              "Alopecia Areata",
+              "Cortisone",
+              "Humans",
+              "Hydrocortisone",
+              "Inorganic Chemicals",
+              "Organic Chemicals",
+              "Prednisolone",
+              "Prednisone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13368875/"
+          },
+          {
+            "pmid": "41243342",
+            "title": "When JAK inhibitors are off the table: durable remission of severe alopecia areata with dexamethasone oral mini-pulse and a focused review.",
+            "abstract": "Janus kinase (JAK) inhibitors have revolutionized alopecia areata (AA) treatment, but many patients remain ineligible or lack access. Corticosteroid pulse regimens provide valuable systemic alternatives in these scenarios.",
+            "journal": "The Journal of dermatological treatment",
+            "year": "2025",
+            "authors": [
+              "Shanshal Mohammed"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alopecia Areata",
+              "Female",
+              "Middle Aged",
+              "Janus Kinase Inhibitors",
+              "Dexamethasone",
+              "Pulse Therapy, Drug",
+              "Treatment Outcome",
+              "Remission Induction",
+              "Administration, Oral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41243342/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "alopecia areata",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20alopecia%20areata"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia mucinosa",
+        "txgnn_score": 0.9998505115509032,
+        "txgnn_rank": 63,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "40657655",
+            "title": "A Case of Idiopathic Follicular Mucinosis Treated Successfully with Cyclosporine.",
+            "abstract": "Follicular mucinosis (FM) is a disease histopathologically characterized by mucin deposition in the hair follicles; the main symptoms are papular erythema, papular pilaris, and hair loss in hairy areas (1). FM is classified as either idiopathic or secondary based on underlying diseases or complications. In recurrent or refractory cases, the disease can transform into mycosis fungoides. Treatment includes local or systemic corticosteroids, dapsone, indomethacin, interferon, hydroxychloroquine, and minocycline; however, some patients do not respond to these treatments (2). We report a case of a patient with idiopathic FM on the right cheek that was resistant to various treatments but responded well to cyclosporine. A 51-year-old Japanese woman presented with an erythematous plaque on her right cheek 2 months before the first visit to our clinic. Initial physical examination revealed cutaneous involvement only, and an infiltrative erythematous plaque with diffuse induration on the right c",
+            "journal": "Acta dermatovenerologica Croatica : ADC",
+            "year": "2024",
+            "authors": [
+              "Mizuno Hayato",
+              "Yanase Tetsuji",
+              "Yorita Yuri",
+              "Kan Takanobu",
+              "Tanaka Akio"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Cyclosporine",
+              "Middle Aged",
+              "Mucinosis, Follicular",
+              "Dermatologic Agents",
+              "Immunosuppressive Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40657655/"
+          },
+          {
+            "pmid": "9310735",
+            "title": "Follicular mucinosis and systemic lupus erythematosus.",
+            "abstract": "",
+            "journal": "Dermatology (Basel, Switzerland)",
+            "year": "1997",
+            "authors": [
+              "Dawn G",
+              "Handa S",
+              "Kumar B"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Biopsy, Needle",
+              "Fluorescent Antibody Technique",
+              "Follow-Up Studies",
+              "Glucocorticoids",
+              "Humans",
+              "Lupus Erythematosus, Systemic",
+              "Male",
+              "Mucinosis, Follicular",
+              "Prednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9310735/"
+          },
+          {
+            "pmid": "10215785",
+            "title": "Pilotropic mycosis fungoides presenting with multiple cysts, comedones and alopecia.",
+            "abstract": "We report a 45-year-old man with mycosis fungoides (MF) who presented with multiple epidermoid cysts, comedones and alopecia and who responded to treatment with intravenous and oral cyclophosphamide. The pilotropic variant of MF, characterized histologically by follicular lesions and pilotropism without mucinosis, is uncommon and often resistant to treatment.",
+            "journal": "The British journal of dermatology",
+            "year": "1999",
+            "authors": [
+              "Fraser-Andrews E",
+              "Ashton R",
+              "Russell-Jones R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alopecia",
+              "Cyclophosphamide",
+              "Cysts",
+              "Diagnosis, Differential",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Mucins",
+              "Mycosis Fungoides",
+              "PUVA Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10215785/"
+          },
+          {
+            "pmid": "20141606",
+            "title": "Canine cutaneous epitheliotropic T-cell lymphoma: a review of 30 cases.",
+            "abstract": "This retrospective study reviewed the clinical, histological and immunohistochemical features of 30 European cases of canine cutaneous epitheliotropic T-cell lymphoma (CETL). The clinical presentation was highly variable and was not associated with the disease subtype. Diffuse erythema (86.6%) with scaling (60%) and focal hypopigmentation (50%) were the most common lesions. The skin was uniformly involved but muco-cutaneous junctions or mucosae were affected in 50% of cases. The median age at diagnosis was 10 years (SD 2.79, range 4-15) and the median time between onset and final diagnosis was 5 months (SD 3.79, range 0-12). Five cases occurred in Bichon Frises. There was no evidence of a previous history of chronic dermatitis in any cases. Histologically, the follicular epithelium was affected in 86.7% of cases. One case with mainly follicular disease was considered folliculotropic mycosis fungoides (MF), but no follicular mucinosis was observed. Epidermal Pautrier's microabscesses we",
+            "journal": "Veterinary dermatology",
+            "year": "2010",
+            "authors": [
+              "Fontaine Jacques",
+              "Heimann Marianne",
+              "Day Michael J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dog Diseases",
+              "Dogs",
+              "Female",
+              "Lymphoma, T-Cell, Cutaneous",
+              "Male",
+              "Retrospective Studies",
+              "Skin",
+              "Skin Neoplasms",
+              "Survival Analysis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20141606/"
+          },
+          {
+            "pmid": "4278795",
+            "title": "[Follicular mucinosis and large area, partly lichenoid, partly sclerodermiform generalized paramyloidosis as a cutaneous paraneoplastic syndrome in myeloma (IgD and light chain plasmacytoma)].",
+            "abstract": "",
+            "journal": "Zeitschrift fur Hautkrankheiten",
+            "year": "1974",
+            "authors": [
+              "Jänner M",
+              "Lippert H D",
+              "Stolzenbach G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alopecia",
+              "Amyloidosis",
+              "Blood Proteins",
+              "Drug Therapy, Combination",
+              "Eye Manifestations",
+              "Humans",
+              "Immunoglobulin D",
+              "Immunoglobulin Fragments",
+              "Keratosis",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4278795/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "alopecia mucinosa",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20alopecia%20mucinosa"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "telogen effluvium",
+        "txgnn_score": 0.9998444318771362,
+        "txgnn_rank": 64,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31056741",
+            "title": "Alopecia in Cronkhite-Canada syndrome: Is it truly telogen effluvium?",
+            "abstract": "",
+            "journal": "The Australasian journal of dermatology",
+            "year": "2019",
+            "authors": [
+              "Horikawa Hiroto",
+              "Hirai Ikuko",
+              "Umegaki-Arao Noriko",
+              "Amagai Masayuki",
+              "Saito Masataka"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Alopecia Areata",
+              "Biopsy, Needle",
+              "Dermoscopy",
+              "Endoscopy, Gastrointestinal",
+              "Humans",
+              "Immunohistochemistry",
+              "Intestinal Polyposis",
+              "Intestinal Polyps",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31056741/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "telogen effluvium",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20telogen%20effluvium"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Quinquaud's folliculitis decalvans",
+        "txgnn_score": 0.9998441934585572,
+        "txgnn_rank": 65,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "17982613",
+            "title": "Folliculitis decalvans of the scalp: response to triple therapy with isotretinoin, clindamycin, and prednisolone.",
+            "abstract": "Folliculitis decalvans of the scalp is a recurrent, purulent follicular inflammation leading to scarring alopecia. We report on a 27-year-old man with folliculitis decalvans successfully treated with a combination of isotretinoin, corticosteroids, and clindamycin.",
+            "journal": "Acta dermatovenerologica Alpina, Pannonica, et Adriatica",
+            "year": "2006",
+            "authors": [
+              "Gemmeke Astrid",
+              "Wollina Uwe"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Clindamycin",
+              "Dermatologic Agents",
+              "Drug Therapy, Combination",
+              "Folliculitis",
+              "Humans",
+              "Isotretinoin",
+              "Male",
+              "Prednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17982613/"
+          },
+          {
+            "pmid": "10886161",
+            "title": "Simultaneous occurrence of folliculitis decalvans capillitii in identical twins.",
+            "abstract": "Folliculitis decalvans is a chronic purulent folliculitis resulting in permanent hair loss and follicular atrophy. We report 32-year-old identical female twins presenting with relapsing pruritic outbreaks on the scalp resulting in areas of permanent baldness. Staphylococcus aureus was detected in the lesions of both women. Histopathology confirmed the diagnosis of folliculitis decalvans. Immunological testing showed no alteration of the immune system. To our knowledge, this is the first report on folliculitis decalvans occurring in identical twins, suggesting a possible genetic component in this disease.",
+            "journal": "The British journal of dermatology",
+            "year": "2000",
+            "authors": [
+              "Douwes K E",
+              "Landthaler M",
+              "Szeimies R M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Inflammatory Agents",
+              "Astringents",
+              "Biopsy",
+              "Chronic Disease",
+              "Diseases in Twins",
+              "Drug Therapy, Combination",
+              "Female",
+              "Folliculitis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10886161/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "Quinquaud's folliculitis decalvans",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20Quinquaud%27s%20folliculitis%20decalvans"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hereditary hypotrichosis with recurrent skin vesicles",
+        "txgnn_score": 0.999828577041626,
+        "txgnn_rank": 73,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "hereditary hypotrichosis with recurrent skin vesicles",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20hereditary%20hypotrichosis%20with%20recurrent%20skin%20vesicles"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia antibody deficiency",
+        "txgnn_score": 0.999828577041626,
+        "txgnn_rank": 74,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "36117202",
+            "title": "Systemic lupus erythematosus with various clinical manifestations in a patient with hereditary angioedema: a case report.",
+            "abstract": "Hereditary angioedema (HAE) is an inherited disease characterized by recurrent angioedema without urticaria or pruritus. The most common types of HAE are caused by deficiency or dysfunction in C1 esterase inhibitor (C1-INH-HAE). The association between C1-INH-HAE and systemic lupus erythematosus (SLE) is known; however, variations in the underlying pathophysiology, disease course, and treatment in this population remain incompletely understood.",
+            "journal": "Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology",
+            "year": "2022",
+            "authors": [
+              "Ushio Yusuke",
+              "Wakiya Risa",
+              "Kameda Tomohiro",
+              "Nakashima Shusaku",
+              "Shimada Hiromi"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36117202/"
+          },
+          {
+            "pmid": "19433284",
+            "title": "Rasmussen syndrome combined with IgA deficiency and membranous nephropathy.",
+            "abstract": "A 9-year-old boy diagnosed as having Rasmussen syndrome had congenital IgA deficiency and juvenile alopecia. He developed auditory hallucination and consciousness disturbance with intractable complex partial epileptic status. Anti-glutamate receptor epsilon2 antibodies were detected in his serum and cerebrospinal fluid. He was administered immunomodulatory agents and his seizures were treated with an intravenous anticonvulsant for 2 months. Subsequently, he developed a nephrotic syndrome, which proved to be membranous nephropathy and was treated with cyclophosphamide. Anti-basement membrane antibodies were detected in his serum. The boy died at the age of 14 years, and autopsy revealed diffuse brain atrophy with neuronal loss, infiltration of glial cells in the cerebrum, and loss of Purkinje cells in the cerebellum. A kidney specimen contained many sclerotic glomeruli, indicative of progressive membranous nephropathy. The patient was considered to have multimodal autoimmune disorder pr",
+            "journal": "Pediatric neurology",
+            "year": "2009",
+            "authors": [
+              "Ichikawa Kazushi",
+              "Takeshita Saoko",
+              "Ito Shuichi",
+              "Nezu Atsuo"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenocorticotropic Hormone",
+              "Brain",
+              "Child",
+              "Encephalitis",
+              "Glomerulonephritis, Membranous",
+              "Humans",
+              "IgA Deficiency",
+              "Magnetic Resonance Imaging",
+              "Male",
+              "Methylprednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19433284/"
+          },
+          {
+            "pmid": "30099593",
+            "title": "Lupus anticoagulant hypoprothrombinemia syndrome associated with systemic lupus erythematosus in children: report of two cases and systematic review of the literature.",
+            "abstract": "We report two children with systemic lupus erythematosus (SLE) having severe bleeding manifestations and lupus anticoagulant hypoprothrombinemia syndrome (LAHPS) along with a review of published cases of childhood SLE and LAHPS. We report clinical and laboratory profile of two children diagnosed with childhood SLE and LAHPS. We also conducted literature search to identify similar published cases and a review was performed. An 8-year-old girl had presented with fever, arthralgia, alopecia, anasarca and bleeding from multiple sites. She was diagnosed to have SLE based on laboratory investigations which showed anemia, thrombocytopenia, low complements, positive anti-nuclear antibody (ANA) and double standard DNA (dsDNA) antibodies. She was also found to have prolonged prothrombin time (PT) and activated partial thromboplastin time (aPTT), positive lupus anticoagulant (LA) and low factor II levels. She was diagnosed to have SLE with LAHPS and treated with intravenous methylprednisolone, in",
+            "journal": "Rheumatology international",
+            "year": "2018",
+            "authors": [
+              "Pilania Rakesh Kumar",
+              "Suri Deepti",
+              "Jindal Ankur Kumar",
+              "Kumar Narender",
+              "Sharma Avinash"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antiphospholipid Syndrome",
+              "Child",
+              "Cyclophosphamide",
+              "Female",
+              "Humans",
+              "Hypoprothrombinemias",
+              "Immunoglobulins",
+              "Lupus Coagulation Inhibitor",
+              "Lupus Erythematosus, Systemic",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30099593/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "alopecia antibody deficiency",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20alopecia%20antibody%20deficiency"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome",
+        "txgnn_score": 0.9998138546943665,
+        "txgnn_rank": 80,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20alopecia-intellectual%20disability-hypergonadotropic%20hypogonadism%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "atrichia with papular lesions",
+        "txgnn_score": 0.999363124370575,
+        "txgnn_rank": 216,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "atrichia with papular lesions",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20atrichia%20with%20papular%20lesions"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "prolapse of lacrimal gland",
+        "txgnn_score": 0.9993624091148376,
+        "txgnn_rank": 218,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "prolapse of lacrimal gland",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20prolapse%20of%20lacrimal%20gland"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "idiopathic steroid-sensitive nephrotic syndrome",
+        "txgnn_score": 0.9985716342926024,
+        "txgnn_rank": 448,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06635720",
+            "title": "REduced-dose Steroid PrOtocol for Childhood Nephrotic SyndromE (RESPONSE): a Pilot Open-label Randomized, Controlled Trial",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-11-01",
+            "completion_date": "2026-11-30",
+            "country": "Canada",
+            "enrollment": 50,
+            "brief_summary": "This is a pilot feasibility study for a proposed full-scale randomized controlled trial to evaluate the effectiveness and safety of a reduced-dose oral prednisone (steroids) regimen to treat childhood steroid-sensitive nephrotic syndrome relapses versus standard-dose prednisone (i.e., usual standard of care).\n\nThis internal pilot study is a single-center, open-label, randomized controlled trial at The Hospital for Sick Children (Toronto, ON, Canada). The primary objective of this pilot study is ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Provide informed consent ± assent\n2. Participant age 1-18 years\n3. Diagnosis of idiopathic nephrotic syndrome (defined as nephrotic-range proteinuria \\[first morning or 24-hour urine protein/creatinine ratio ≥200mg/mmol or ≥3+ protein on dipstick\\] and either hypoalbuminemia ",
+            "endpoints": [
+              "Study recruitment rate"
+            ],
+            "sponsor": "The Hospital for Sick Children",
+            "url": "https://clinicaltrials.gov/study/NCT06635720"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04783675",
+            "title": "Efficacy and Safety of Rituximab in the First Episode of Pediatric Idiopathic Nephrotic Syndrome",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-04-13",
+            "completion_date": "2023-01-17",
+            "country": "China",
+            "enrollment": 44,
+            "brief_summary": "The main objective is to demonstrate, from the initial episode of nephrotic syndrome (NS) in children with standard prednisolone treatment, once complete remission has occurred, that the use of Rituximab (a single intravenous infusion of 375 mg/m2) may reduce the risk of subsequent relapse during 12-month of follow-up.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Children between 1 and 18 years with Steroid-Sensitive Nephrotic Syndrome\n* 2\\. Estimated glomerular filtration rate (eGFR) ≥90 ml/min per 1.73 m2 at study entry.\n* 3\\. Remission at study entry\n* 4.CD20 positive cells in peripheral blood ≥1% total lymphocytes\n* 5.No immuno",
+            "endpoints": [
+              "1-year relapse-free survival rate"
+            ],
+            "sponsor": "Children's Hospital of Fudan University",
+            "url": "https://clinicaltrials.gov/study/NCT04783675"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06792448",
+            "title": "Biomarkers and Outcome Predictors of Pediatric Nephrotic Syndrome: A Genetic, Transcriptomic, and Secretome Multiomics Study",
+            "phase": "N/A",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-02-15",
+            "completion_date": "2028-06-01",
+            "country": "N/A",
+            "enrollment": 350,
+            "brief_summary": "Idiopathic Nephrotic Syndrome is a rare disease of the kidneys, which typically affects children. For most affected children there is the need of a prolonged treatment with drugs reducing the activity of the immune system, also resulting in many side effects. Those patients, who do not respond to treatment, are at risk of kidney damage and of dialysis or kidney transplantation. It is currently impossible to predict the response to treatment, leading to unnecessary therapies with side effects as ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of idiopathic nephrotic syndrome (INS) with nephrotic range proteinuria (uPr/uCr ratio \\> 2 mg/mg).\n* Hypoalbuminemia with serum albumin \\< 3.0 g/dL.\n* Presence of edema.\n* No prior treatment for idiopathic nephrotic syndrome.\n* Age between 1 and 18 years at",
+            "endpoints": [
+              "Predictive Molecular Signature of INS Progression"
+            ],
+            "sponsor": "Fondazione IRCCS Ca' Granda, Ospedale Maggiore Policlinico",
+            "url": "https://clinicaltrials.gov/study/NCT06792448"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05044169",
+            "title": "Efficacy and Safety of Broncho-Vaxom in Reducing Recurrence in Children With Steroid-sensitive Nephrotic Syndrome: Prospective, Randomized Controlled, Multicenter Clinical Study",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2021-09",
+            "completion_date": "2023-12",
+            "country": "N/A",
+            "enrollment": 83,
+            "brief_summary": "The main objective is to demonstrate, from the initial episode of nephrotic syndrome (NS) in children with standard prednisolone treatment, once complete remission has occurred, that the use of Broncho-Vaxom (administration for 6 months) may reduce the risk of subsequent relapse during 12-month of follow-up.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Children between 1 and 18 years with Steroid-Sensitive Nephrotic Syndrome. 2. Estimated glomerular filtration rate (eGFR) ≥90 ml/min per 1.73 m2 at study entry.\n\n  3\\. Remission at study entry. 4.No immunosuppressive agents have been used within 3 months of enrollment, exc",
+            "endpoints": [
+              "1-year relapse-free survival rate"
+            ],
+            "sponsor": "Anhui Provincial Children's Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05044169"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05627557",
+            "title": "A Phase III, International, Multicenter, Randomised Open Label Study to Evaluate the Efficacy and Safety of Obinutuzumab Versus MMF in Patients With Childhood Onset Idiopathic Nephrotic Syndrome",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2023-03-29",
+            "completion_date": "2026-09-04",
+            "country": "Poland, Japan, China, United States, Italy, France, Brazil, Spain, Belgium",
+            "enrollment": 85,
+            "brief_summary": "This open-label, randomized multicenter study is to assess the efficacy, safety, and pharmacokinetics (PK)/pharmacodynamics (PD) of obinutuzumab compared with mycophenolate mofetil (MMF) in children and young adults (aged \\>= 2-25 years) with frequently relapsing nephrotic syndrome (FRNS) or steroid-dependent nephrotic syndrome (SDNS).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of frequently relapsing nephrotic syndrome (FRNS) or steroid dependent nephrotic syndrome (SDNS) before the age of 18 years\n* Must be in complete remission defined by the absence of edema, UPCR \\<= 0.2 g/g at screening and have three consecutive daily urine dipstick ",
+            "endpoints": [
+              "Percentage of Participants with Sustained Complete Remission at 1 year"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT05627557"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04818723",
+            "title": "Role of Montelukast in Preventing Relapse in Childhood Idiopathic Nephrotic Syndrome",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-02-01",
+            "completion_date": "2020-05-30",
+            "country": "Pakistan",
+            "enrollment": 106,
+            "brief_summary": "The investigators planned this research to elucidate if there is any efficacy of montelukast, a leukotriene receptor antagonist, in steroid sensitive childhood onset NS to help prevent relapses. This study was done to know the role of leukotriene receptor antagonist (LTRA) montelukast in preventing relapses in idiopathic childhood nephrotic syndrome (NS)",
+            "eligibility_criteria": "Inclusion Criteria:A total of 106 children aged 1-10 years with idiopathic nephrotic syndrome were enrolled\n\n\\-\n\nExclusion Criteria: - Patients having Steroid resistant nephrotic syndrome (SRNS) or those having nephrotic syndrome with atypical features or Secondary cause were excluded.",
+            "endpoints": [
+              "Prevention of relapse in idiopathic childhood nephrotic syndrome"
+            ],
+            "sponsor": "Nishtar Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT04818723"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07151456",
+            "title": "Short-term vs Conventional Glucocorticoid Therapy for the Treatment of the Initial Episode of Adult Patient With Steroid-sensitive Idiopathic Nephrotic Syndrome",
+            "phase": "PHASE4",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-01",
+            "completion_date": "2029-12",
+            "country": "China",
+            "enrollment": 224,
+            "brief_summary": "This study will compare a short-term course (12 week) glucocorticoid regimen with the Conventional 24-week regimen as originally proposed by KDIGO. The purpose of the study is to determine a short-term course (12 week) of glucocorticoid decreases the time to first relapse in adults presenting with steroid sensitive nephrotic syndrome.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Urine protein: creatinine ratio ≥3000mg/g (300mg/mmol)\n* Serum/plasma albumin level \\< 30g/L\n* Age ≥ 16 years at the time of diagnosis\n* No prior therapy with steroids, immunosuppressive or cytotoxic agents for any form of renal disease (other than the 28 days of prednisolone ",
+            "endpoints": [
+              "Relapse"
+            ],
+            "sponsor": "First Affiliated Hospital of Wenzhou Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT07151456"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07233330",
+            "title": "Obinutuzumab Treatment in Frequently Relapsing and Rituximab-Dependent Idiopathic Nephrotic Syndrome in Adults: a Fully Academic, Single-arm, Open, Prospective, Intervention Trial",
+            "phase": "PHASE2",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-02",
+            "completion_date": "2029-03",
+            "country": "Italy",
+            "enrollment": 10,
+            "brief_summary": "This is a multicenter, open-label, single-arm Phase II clinical trial designed to evaluate the safety, efficacy, and immunological effects of obinutuzumab in adult patients with multi-relapsing, rituximab-dependent steroid-sensitive NS.\n\nObinutuzumab is a glycoengineered, humanized type II anti-CD20 monoclonal antibody that was initially developed to overcome rituximab resistance in B-cell malignancies. Obinutuzumab induced a longer and deeper B cell depletion than rituximab being able to deplet",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult age (≥18 years old)\n* Rituximab-dependent idiopathic nephrotic syndrome is defined and confirmed as:\n\n  * Availability of a recent (over the last 5 years) diagnostic kidney biopsy to confirm the diagnosis of MCD, FSGS or IgM glomerulonephritis and quantify the severity o",
+            "endpoints": [
+              "Number of relapse-free participants"
+            ],
+            "sponsor": "Mario Negri Institute for Pharmacological Research",
+            "url": "https://clinicaltrials.gov/study/NCT07233330"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "30342869",
+            "title": "Management of steroid-resistant nephrotic syndrome in children and adolescents.",
+            "abstract": "More than 85% of children and adolescents (majority between 1-12 years old) with idiopathic nephrotic syndrome show complete remission of proteinuria following daily treatment with corticosteroids. Patients who do not show remission after 4 weeks' treatment with daily prednisolone are considered to have steroid-resistant nephrotic syndrome (SRNS). Renal histology in most patients shows presence of focal segmental glomerulosclerosis, minimal change disease, and (rarely) mesangioproliferative glomerulonephritis. A third of patients with SRNS show mutations in one of the key podocyte genes. The remaining cases of SRNS are probably caused by an undefined circulating factor. Treatment with calcineurin inhibitors (ciclosporin and tacrolimus) is the standard of care for patients with non-genetic SRNS, and approximately 70% of patients achieve a complete or partial remission and show satisfactory long-term outcome. Additional treatment with drugs that inhibit the renin-angiotensin axis is reco",
+            "journal": "The Lancet. Child & adolescent health",
+            "year": "2018",
+            "authors": [
+              "Tullus Kjell",
+              "Webb Hazel",
+              "Bagga Arvind"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Child, Preschool",
+              "Drug Resistance",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Infant",
+              "Kidney Transplantation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30342869/"
+          },
+          {
+            "pmid": "40337980",
+            "title": "Interventions for idiopathic steroid-resistant nephrotic syndrome in children.",
+            "abstract": "Nephrotic syndrome is a condition in which the glomeruli of the kidney leak large amounts of protein from the blood into the urine. Most children who present with their first episode of nephrotic syndrome achieve remission with corticosteroids. Children who fail to respond to corticosteroids in the first episode of nephrotic syndrome (initial resistance) or develop resistance after one or more responses to corticosteroids (delayed resistance) may be treated with immunosuppressive agents, including calcineurin inhibitors (cyclosporin or tacrolimus), and with non-immunosuppressive agents, such as angiotensin-converting enzyme inhibitors and angiotensin receptor blockers. However, response to these agents is limited, so newer agents, including anti-CD20 antibodies (rituximab, ofatumumab) and dual endothelin-angiotensin receptor antagonists (sparsentan), are being assessed for efficacy and safety. This is an update of a review first published in 2004 and updated in 2006, 2010, 2016 and 201",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2025",
+            "authors": [
+              "Liu Isaac D",
+              "Willis Narelle S",
+              "Craig Jonathan C",
+              "Hodson Elisabeth M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Child, Preschool",
+              "Humans",
+              "Adrenal Cortex Hormones",
+              "Angiotensin Receptor Antagonists",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Antibodies, Monoclonal, Humanized",
+              "Bias",
+              "Calcineurin Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40337980/"
+          },
+          {
+            "pmid": "27726125",
+            "title": "Interventions for idiopathic steroid-resistant nephrotic syndrome in children.",
+            "abstract": "The majority of children who present with their first episode of nephrotic syndrome achieve remission with corticosteroid therapy. Children who fail to respond may be treated with immunosuppressive agents including calcineurin inhibitors (cyclosporin or tacrolimus) and with non-immunosuppressive agents such as angiotensin-converting enzyme inhibitors (ACEi). Optimal combinations of these agents with the least toxicity remain to be determined. This is an update of a review first published in 2004 and updated in 2006 and 2010.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2016",
+            "authors": [
+              "Hodson Elisabeth M",
+              "Wong Sophia C",
+              "Willis Narelle S",
+              "Craig Jonathan C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Azathioprine",
+              "Child",
+              "Child, Preschool",
+              "Cyclophosphamide",
+              "Cyclosporine",
+              "Dexamethasone",
+              "Drug Resistance",
+              "Glucocorticoids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27726125/"
+          },
+          {
+            "pmid": "33478977",
+            "title": "Steroid Regimen for Children with Nephrotic Syndrome Relapse.",
+            "abstract": "",
+            "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+            "year": "2021",
+            "authors": [
+              "Williams Anna Elizabeth",
+              "Gbadegesin Rasheed A"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Research Support, N.I.H., Extramural",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Nephrotic Syndrome",
+              "Prednisolone",
+              "Recurrence",
+              "Steroids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33478977/"
+          },
+          {
+            "pmid": "36179014",
+            "title": "Outcomes of children with idiopathic steroid resistant nephrotic syndrome: a single centre observational study.",
+            "abstract": "Idiopathic steroid resistant nephrotic syndrome (SRNS) has variable outcomes in children. The primary objective of the present study was to assess the cumulative remission rate and the secondary objectives were to assess factors affecting the remission status, kidney function survival, and adverse effects of medications.",
+            "journal": "Jornal brasileiro de nefrologia",
+            "year": "2023",
+            "authors": [
+              "Mishra Om P",
+              "Sidar Minketan",
+              "Batra Vineeta V",
+              "Prasad Rajniti",
+              "Singh Ankur"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36179014/"
+          },
+          {
+            "pmid": "34925975",
+            "title": "Management of Steroid-Resistant Nephrotic Syndrome in Children.",
+            "abstract": "Nephrotic syndrome (NS) affects 115-169 children per 100,000, with rates varying by ethnicity and location. Immune dysregulation, systemic circulating substances, or hereditary structural abnormalities of the podocyte are considered to have a role in the etiology of idiopathic NS. Following daily therapy with corticosteroids, more than 85% of children and adolescents (often aged 1 to 12 years) with idiopathic nephrotic syndrome have full proteinuria remission. Patients with steroid-resistant nephrotic syndrome (SRNS) do not demonstrate remission after four weeks of daily prednisolone therapy. The incidence of steroid-resistant nephrotic syndrome in children varies between 35 and 92 percent. A third of SRNS patients have mutations in one of the important podocyte genes. An unidentified circulating factor is most likely to blame for the remaining instances of SRNS. The aim of this article is to explore and review the genetic factors and management of steroid-resistant nephrotic syndrome.",
+            "journal": "Cureus",
+            "year": "2021",
+            "authors": [
+              "Sachdeva Sanjana",
+              "Khan Syeda",
+              "Davalos Cristian",
+              "Avanthika Chaithanya",
+              "Jhaveri Sharan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34925975/"
+          },
+          {
+            "pmid": "28748888",
+            "title": "Childhood idiopathic steroid-resistant nephrotic syndrome at a Single Center in Khartoum.",
+            "abstract": "Prevalence, clinicopathological features, and outcome of childhood idiopathic steroid-resistant nephrotic syndrome (ISRNS) vary in different countries. We report on these parameters in a single center in Khartoum. We retrospectively reviewed all the records of children with idiopathic nephrotic syndrome (INS) followed up in the pediatric renal unit, Soba Hospital, Khartoum between 2001 and 2012. ISRNS was defined as no remission within four weeks of daily prednisolone at a dose of 60 mg/m2. In 430 children with INS 130 (28%) had SRNS with a mean age of 7.7 ± 4.12 years. Males were 78 (60%). At presentation, hematuria was recorded in 57%, hypertension was recorded in 48%, and renal impairment in 15%. Histopathology showed focal segmental glomerulosclerosis in 40.8%, mesangioproliferative glomerulonephritis (22.3%), mesangiocapillary glomerulonephritis (16.9%), minimal change disease (MCD) (16.2%), and membranous glomerulonephritis (3.8%). Therapy included cyclosporine in 38.5%, addition",
+            "journal": "Saudi journal of kidney diseases and transplantation : an official publication of the Saudi Center for Organ Transplantation, Saudi Arabia",
+            "year": "2017",
+            "authors": [
+              "Ali El-Tigani M A",
+              "Makki Hanna F K",
+              "Abdelraheem Mohamed B",
+              "Makke Salwa O",
+              "Allidir Rashid A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Age of Onset",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Child",
+              "Child, Preschool",
+              "Comorbidity",
+              "Disease Progression",
+              "Diuretics",
+              "Drug Resistance",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28748888/"
+          },
+          {
+            "pmid": "28544686",
+            "title": "Regulatory T cells and CTLA-4 in idiopathic nephrotic syndrome.",
+            "abstract": "The pathogenesis of idiopathic nephrotic syndrome (INS) remains unknown. Recently, it was postulated that suppression of regulatory T cells (Treg) leads to massive proteinuria in INS, although there is some controversy. Considering the important role of cytotoxic T-lymphocyte-associated protein 4 (CTLA-4) in Treg-mediated immune suppression, the aim of this study was therefore to clarify the involvement of Treg and CTLA-4 in the pathogenesis of INS. Fifteen patients with INS were enrolled. Their blood was sampled twice, once at onset and once at remission induced by glucocorticoid. Although median Treg number was significantly lower at onset than in healthy children, it increased at remission. Similarly, serum CTLA-4 concentration significantly increased at remission compared with onset. Furthermore, a positive significant correlation was observed between Treg number and serum CTLA-4 level. This suggests that Treg and CTLA-4 are involved in the induction of remission in INS.",
+            "journal": "Pediatrics international : official journal of the Japan Pediatric Society",
+            "year": "2017",
+            "authors": [
+              "Tsuji Shoji",
+              "Kimata Takahisa",
+              "Yamanouchi Sohsaku",
+              "Kitao Tetsuya",
+              "Kino Jiro"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Biomarkers",
+              "CTLA-4 Antigen",
+              "Case-Control Studies",
+              "Child, Preschool",
+              "Female",
+              "Flow Cytometry",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Induction Chemotherapy",
+              "Lymphocyte Count"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28544686/"
+          },
+          {
+            "pmid": "29869116",
+            "title": "Treating the idiopathic nephrotic syndrome: are steroids the answer?",
+            "abstract": "The use of steroids in idiopathic nephrotic syndrome is the major discovery of the twentieth century in the field of pediatric nephrology. At onset of the twenty-first century, steroids remain the first line of treatment at first flare. All the protocols to treat the first flare are similar by a common sequence including a first phase of daily prednisolone/prednisone at a dose of 60 mg/m2/day for at least 4 weeks followed by an alternate-day regimen for several weeks. It appears that a cumulated dose of 2240 mg/m2 given in 8 weeks at the first flare without tapering sequence is not inferior to increased dose and duration in terms of prevalence of frequent relapsers and the subsequent cumulated dose of steroids at 24 months of follow-up. A higher cumulated dose might only be interesting in patients aged below 4 years although a formal demonstration is still missing. Several retrospective studies are concordant to suggest that intravenous methylprednisolone pulses are useful to reach a f",
+            "journal": "Pediatric nephrology (Berlin, Germany)",
+            "year": "2019",
+            "authors": [
+              "Deschênes Georges",
+              "Dossier Claire",
+              "Hogan Julien"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination",
+              "Glucocorticoids",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Nephrotic Syndrome",
+              "Prednisolone",
+              "Prednisone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29869116/"
+          },
+          {
+            "pmid": "39630311",
+            "title": "MicroRNAs in idiopathic childhood nephrotic syndrome.",
+            "abstract": "miRNAs are non-coding RNA that are recognized as biomarkers of kidney disorders. There is limited information on the differential expression of miRNA and their target genes in idiopathic nephrotic syndrome of childhood.",
+            "journal": "Clinical and experimental nephrology",
+            "year": "2025",
+            "authors": [
+              "Sinha Aditi",
+              "Sra Manraj",
+              "Ahmed Aijaz",
+              "Mallick Saumyaranjan",
+              "Saini Himanshi"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Nephrotic Syndrome",
+              "Child",
+              "MicroRNAs",
+              "Adolescent",
+              "Child, Preschool",
+              "Male",
+              "Female",
+              "Case-Control Studies",
+              "Prednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39630311/"
+          },
+          {
+            "pmid": "38642993",
+            "title": "Levamisole in childhood idiopathic nephrotic syndrome: new promises, and advocacy for global access.",
+            "abstract": "In the current issue of Kidney International, Sinha et al. present data from an open-label, noninferior, randomized controlled trial comparing 12-months of alternate-day prednisolone, given daily during infection, versus levamisole, in children with frequently relapsing or steroid-dependent nephrotic syndrome. This study suggests that both of these strategies are efficacious and safe. Results of this study should redefine the role of levamisole in future guidelines, and a call for global availability of levamisole should be advocated.",
+            "journal": "Kidney international",
+            "year": "2024",
+            "authors": [
+              "Chan Eugene Yu-Hin",
+              "Boyer Olivia"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Humans",
+              "Levamisole",
+              "Nephrotic Syndrome",
+              "Prednisolone",
+              "Glucocorticoids",
+              "Recurrence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38642993/"
+          },
+          {
+            "pmid": "38599658",
+            "title": "Saliva monitoring of prednisolone in children with first onset steroid-sensitive nephrotic syndrome: Is it possible?",
+            "abstract": "Prednisolone is the cornerstone of treatment for idiopathic nephrotic syndrome in children, but is associated with marked side-effects. Therapeutic drug monitoring using saliva would be a patient-friendly option to monitor prednisolone treatment. To assess the feasibility of saliva monitoring, we described the pharmacokinetics (PK) of unbound prednisolone in plasma and saliva of children with first onset steroid-sensitive nephrotic syndrome (SSNS).",
+            "journal": "British journal of clinical pharmacology",
+            "year": "2024",
+            "authors": [
+              "Veltkamp Floor",
+              "Pistorius Marcel C M",
+              "Mak-Nienhuis Elske M",
+              "Schreuder Michiel F",
+              "Bouts Antonia H M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Prednisolone",
+              "Child",
+              "Nephrotic Syndrome",
+              "Saliva",
+              "Child, Preschool",
+              "Adolescent",
+              "Male",
+              "Female",
+              "Drug Monitoring"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38599658/"
+          },
+          {
+            "pmid": "15500120",
+            "title": "[Refractory nephrotic syndrome].",
+            "abstract": "In Japan, refractory nephrotic syndrome is defined as a pathological condition resistant to the treatment using corticosteroids and other immunosuppressive for 6 months or more. The Research Group on Progressive Renal Disease sponsored by the Ministry of Health Labor and Welfare of Japan reported that 10 to 12% of the cases with idiopathic nephrotic syndrome were classified into this type and that the most common cause in adults is idiopathic membranous nephropathy (40%) and the second is focal segmental glomerulosclerosis (20%). In these conditions, less than 10% progressed to end stage renal disease (ESRD) when urine protein decreased under 1 g/day by the treatment. Persistent proteinuria is not only a marker of irreversible glomerular lesions but also a risk factor for tubulointerstitial lesions, which plays a significant role in progression into ESRD.",
+            "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+            "year": "2004",
+            "authors": [
+              "Saito Takao"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Anticoagulants",
+              "Biomarkers",
+              "Blood Component Removal",
+              "Drug Resistance",
+              "Glomerulonephritis, Membranous",
+              "Glomerulosclerosis, Focal Segmental",
+              "Glucocorticoids",
+              "Humans",
+              "Immunosuppressive Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15500120/"
+          },
+          {
+            "pmid": "27719329",
+            "title": "ABCB1 polymorphisms and steroid treatment in children with idiopathic nephrotic syndrome.",
+            "abstract": "The most common cause of nephrotic syndrome (NS) is idiopathic nephrotic syndrome (INS), also called nephrosis. Although most patients respond to steroid therapy, there is unequal response to treatment suggesting the involvement of genetic factors. The current study was conducted to evaluate the influence of two single nucleotide polymorphisms (SNPs) in ABCB1 (C3435T and C1236T) on the steroid treatment response in INS children.",
+            "journal": "British journal of biomedical science",
+            "year": "2017",
+            "authors": [
+              "Safan Manal A",
+              "Elhelbawy Nesreen G",
+              "Midan Dina A",
+              "Khader Heba F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "ATP Binding Cassette Transporter, Subfamily B",
+              "Child",
+              "Child, Preschool",
+              "Drug Resistance",
+              "Female",
+              "Genotype",
+              "Glucocorticoids",
+              "Humans",
+              "Male",
+              "Nephrotic Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27719329/"
+          },
+          {
+            "pmid": "20686809",
+            "title": "Th2 cells predominate in idiopathic steroid-sensitive nephrotic syndrome.",
+            "abstract": "Various studies reported a higher incidence of allergic disorders, with an overreactivity of type 2 helper T-cell (Th2) immune mechanisms, in children with idiopathic steroid-sensitive nephrotic syndrome (ISSNS). However, Th2 predominance in ISSNS has not been definitively identified. To determine whether Th2 was predominant in children with ISSNS, we used paired samples to measure the type 1 helper T-cell (Th1)/Th2 ratios and serum cytokine levels secreted by Th1 and Th2.",
+            "journal": "Clinical and experimental nephrology",
+            "year": "2010",
+            "authors": [
+              "Kanai Takahiro",
+              "Shiraishi Hirohiko",
+              "Yamagata Takanori",
+              "Ito Takane",
+              "Odaka Jun"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Interleukin-5",
+              "Male",
+              "Nephrotic Syndrome",
+              "Prednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20686809/"
+          },
+          {
+            "pmid": "1860261",
+            "title": "Conventional treatment of idiopathic nephrotic syndrome and membranous nephropathy in adults.",
+            "abstract": "This article is a review of the results of corticosteroid and immunosuppressive treatment in adults with idiopathic nephrotic syndrome. Adults with minimal-change nephropathy usually require a prolonged administration of corticosteroids to achieve remission which, in itself, carries the risk of severe and even life-threatening complications. Therefore, intravenous high-dose steroid pulses, alternate-day prednisone, short courses with cytotoxic agents and long-term administration of azathioprine have been suggested as alternatives to the classical prolonged corticotherapy. While most patients with focal-segmental glomerulosclerosis do not respond to short-term prednisone, almost half of the patients with nephrotic syndrome will attain remission with a more prolonged administration of corticosteroids and/or cytotoxic agents. A six-month course of methylprednisolone and chlorambucil preserves renal function and reduces the proteinuria in many patients with membranous nephropathy, even in ",
+            "journal": "Clinical nephrology",
+            "year": "1991",
+            "authors": [
+              "Ponticelli C",
+              "Passerini P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chlorambucil",
+              "Cyclophosphamide",
+              "Glomerulonephritis, Membranous",
+              "Glomerulosclerosis, Focal Segmental",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Methylprednisolone",
+              "Nephrosis, Lipoid",
+              "Prednisone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1860261/"
+          },
+          {
+            "pmid": "26329674",
+            "title": "Intermittent high-volume hemofiltration promotes remission in steroid-resistant idiopathic nephrotic syndrome.",
+            "abstract": "Inflammation is a key part in the etiology and progression of idiopathic nephrotic syndrome (INS), we hypothesize that removing pro-inflammatory cytokines with intermittent high-volume hemofiltration (IHVHF) could improve the outcome in INS patients. The purpose of the current study is to examine whether IHVHF promotes remission in steroid-resistant INS. Fifty-one steroid-resistant INS patients were followed up on an open-label basis with prospective evaluations. Thirty-five patients received mycophenolate mofetil (SRD group) and 16 patients received drugs and IHVHF due to volume overload despite of diuretics (SRDF group). The rate of complete remission (CR) was analyzed. We also recruited 30 healthy individuals and 36 steroid-sensitive (SS) INS patients as controls to investigate the correlation of interleukin (IL)-8, IL-10, IL-6 and IL-17 with INS activity. Compared with the patients in the SRD group, the 6-month CR rate was higher (44% vs. 9%, p < 0.001) and time to first CR was sig",
+            "journal": "Renal failure",
+            "year": "2015",
+            "authors": [
+              "Xie Hua",
+              "Fang Ming",
+              "Lin Hongli",
+              "Li Ping",
+              "Chen Jilin"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Analysis of Variance",
+              "Cytokines",
+              "Drug Administration Schedule",
+              "Drug Resistance",
+              "Enzyme-Linked Immunosorbent Assay",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26329674/"
+          },
+          {
+            "pmid": "21558430",
+            "title": "Idiopathic membranous nephropathy and nephrotic syndrome: outcome in the era of evidence-based therapy.",
+            "abstract": "Contemporary studies analysing the long-term outcomes of patients with idiopathic membranous nephropathy and nephrotic syndrome in the era of evidence-based antiproteinuric and immunosuppressive therapies are sparse. Controversy also persists regarding which immunosuppression (IS) regimen to use. In this retrospective cohort study, we aimed to characterize time to partial remission (PR), complete remission (CR), requirement for renal replacement therapy (RRT) or death. We aimed to assess which factors predicted RRT or death and determine the impact of IS on outcome.",
+            "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+            "year": "2012",
+            "authors": [
+              "McQuarrie Emily P",
+              "Stirling Catherine M",
+              "Geddes Colin C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Angiotensin Receptor Antagonists",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Creatinine",
+              "Evidence-Based Medicine",
+              "Female",
+              "Follow-Up Studies",
+              "Glomerulonephritis, Membranous",
+              "Humans",
+              "Immunosuppressive Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21558430/"
+          },
+          {
+            "pmid": "12808168",
+            "title": "Idiopathic minimal change nephrotic syndrome in older adults: steroid responsiveness and pattern of relapses.",
+            "abstract": "Minimal change nephrotic syndrome (MCNS) is a common form of nephrotic syndrome in children and young adults. We investigated its clinical presentations, steroid responsiveness, subsequent clinical course and patterns of relapse in older adults in whom it was diagnosed after the age of 50 years.",
+            "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+            "year": "2003",
+            "authors": [
+              "Tse Kai-Chung",
+              "Lam Man-Fei",
+              "Yip Pok-Siu",
+              "Li Fu-Keung",
+              "Choy Bo-Ying"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Aged",
+              "Anti-Inflammatory Agents",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12808168/"
+          },
+          {
+            "pmid": "38435073",
+            "title": "Mycophenolate Mofetil Versus Prednisone for Induction Therapy in Steroid-Sensitive Idiopathic Nephrotic Syndrome in Children: An Observational Study.",
+            "abstract": "High-dose steroids are recommended for the induction of idiopathic nephrotic syndrome. The aim of this study was to compare standard induction therapy with Mycophenolate Mofetil (MMF). We hypothesized that MMF could be noninferior to steroids in maintaining steroid-induced remission. The second aim was to reduce steroid-induced side effects.",
+            "journal": "Kidney medicine",
+            "year": "2024",
+            "authors": [
+              "Mazo Alexandra",
+              "Kilduff Stella",
+              "Pereira Tanya",
+              "Solomon Sonia",
+              "Matloff Robin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38435073/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Prednisolone",
+          "disease": "idiopathic steroid-sensitive nephrotic syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Prednisolone%20idiopathic%20steroid-sensitive%20nephrotic%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Prednisolone",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00860",
+    "name": "Prednisolone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Prednisolone"
+      },
+      "queried_at": "2026-03-04T14:50:32.038287",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Prednisolone"
+      },
+      "queried_at": "2026-03-04T14:50:32.060781",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Prednisolone"
+      },
+      "queried_at": "2026-03-04T14:50:35.306044",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-04T14:50:37.751768",
+      "status": "success",
+      "result_count": 18,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-04T14:50:43.567005",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-04T14:50:44.788598",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-04T14:50:51.944888",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-04T14:50:53.495040",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-04T14:50:57.681023",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-04T14:51:00.742346",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-04T14:51:04.768294",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-04T14:51:05.911995",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-04T14:51:09.486533",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-04T14:51:10.732351",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-04T14:51:12.741099",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-04T14:51:13.960998",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-04T14:51:19.362425",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-04T14:51:20.496412",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-04T14:51:23.837457",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-04T14:51:24.578521",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-04T14:51:29.850857",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-04T14:51:31.476185",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-04T14:51:32.223271",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-04T14:51:32.865674",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-04T14:51:38.240291",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-04T14:51:41.632892",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-04T14:51:47.279038",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-04T14:51:48.971768",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-04T14:51:53.314053",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-04T14:51:54.380986",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-04T14:51:55.316593",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-04T14:51:56.644129",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-04T14:52:00.559323",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-04T14:52:02.260998",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-04T14:52:04.279164",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-04T14:52:05.533196",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-04T14:52:10.090123",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-04T14:52:12.923501",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-04T14:52:15.985049",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "idiopathic steroid-sensitive nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:52:21.825530",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "idiopathic steroid-sensitive nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:52:24.867880",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "idiopathic steroid-sensitive nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:52:28.352173",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Prednisolone",
+        "disease": "idiopathic steroid-sensitive nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:52:37.629320",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-04T14:52:37.634065"
+  }
+}

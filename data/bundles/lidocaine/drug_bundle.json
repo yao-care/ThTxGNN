@@ -1,0 +1,1888 @@
+{
+  "drug": {
+    "inn": "Lidocaine",
+    "drugbank_id": "DB00281",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "punctate epithelial keratoconjunctivitis",
+        "txgnn_score": 0.9998739957809448,
+        "txgnn_rank": 53,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "punctate epithelial keratoconjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20punctate%20epithelial%20keratoconjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "papillary conjunctivitis",
+        "txgnn_score": 0.9998408555984496,
+        "txgnn_rank": 67,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "papillary conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20papillary%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rosacea conjunctivitis",
+        "txgnn_score": 0.9991994500160216,
+        "txgnn_rank": 263,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "rosacea conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20rosacea%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "exposure keratitis",
+        "txgnn_score": 0.9987232089042664,
+        "txgnn_rank": 405,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "8862924",
+            "title": "Keratitis in methamphetamine abusers.",
+            "abstract": "We report four cases of severe corneal ulceration in methamphetamine abusers. Methamphetamine abuse has been increasing in California and may exceed cocaine abuse in some regions. Methamphetamine's extensive physiologic effects, inconsistent street purity, and multiple routes of administration offer many possibilities for injury to the cornea. Potential causes of methamphetamine-related keratitis can be divided into four categories resulting from (a) direct pharmacologic and physical effects of methamphetamine; (b) the toxic effects of diluting or \"cutting\" agents such as lidocaine and quinine; (c) effects related to the route of drug administration (intravenous, inhalation, smoking); and (d) manufacture-related effects of exposure to unintentional caustic contaminants in the final product. The increasing prevalence of methamphetamine abuse and the severity of the associated ulcers should alert ophthalmologists to the problem of methamphetamine-related keratitis.",
+            "journal": "Cornea",
+            "year": "1996",
+            "authors": [
+              "Poulsen E J",
+              "Mannis M J",
+              "Chang S D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Central Nervous System Stimulants",
+              "Cornea",
+              "Corneal Ulcer",
+              "Drug Therapy, Combination",
+              "Eye Infections, Bacterial",
+              "Eye Infections, Fungal",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8862924/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "exposure keratitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20exposure%20keratitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "atopic conjunctivitis",
+        "txgnn_score": 0.9986202716827391,
+        "txgnn_rank": 436,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04365205",
+            "title": "Effect of Benralizumab on Airway Remodeling in Asthma",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2020-09-23",
+            "completion_date": "2024-10-05",
+            "country": "France",
+            "enrollment": 60,
+            "brief_summary": "The anti-interleukin (IL)-5 receptor benralizumab inhibits eosinophilic inflammation but its potential effect on airway remodeling remains unknown. The main objective of this study is to assess the effect of benralizumab in an in vitro model of airway remodeling using cells obtained from asthmatic patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nHealthy subjects\n\n* Written informed consent indicating that they understand the purpose and procedures required for the study and are willing to participate in the study.\n* Age higher than 18 years.\n* No prior history of any chronic respiratory disease including asthma.\n* No pr",
+            "endpoints": [
+              "Number of Bronchial smooth muscle (BSM) cells obtained from severe asthmatics measured in vitro using BrdU incorporation."
+            ],
+            "sponsor": "University Hospital, Bordeaux",
+            "url": "https://clinicaltrials.gov/study/NCT04365205"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "37819721",
+            "title": "A nerve-goblet cell association promotes allergic conjunctivitis through rapid antigen passage.",
+            "abstract": "The penetration of allergens through the epithelial layer is the initial step in the development of allergic conjunctivitis. Although pollinosis patients manifest symptoms within minutes after pollen exposure, the mechanisms of the rapid transport of the allergens remain unclear. In the present study, we found that the instillation of pollen shells rapidly induces a large number of goblet cell-associated antigen passages (GAPs) in the conjunctiva. Antigen acquisition by stromal cells, including macrophages and CD11b+ dendritic cells, correlated with surface GAP formation. Furthermore, a substantial amount of antigen was transported to the stroma during the first 10 minutes of pollen exposure, which was sufficient for the full induction of an allergic conjunctivitis mouse model. This inducible, rapid GAP formation and antigen acquisition were suppressed by topical lidocaine or trigeminal nerve ablation, indicating that the sensory nervous system plays an essential role. Interestingly, p",
+            "journal": "JCI insight",
+            "year": "2023",
+            "authors": [
+              "Kimura Meiko",
+              "Ando Tomoaki",
+              "Kume Yasuharu",
+              "Fukase Saaya",
+              "Matsuzawa Moe"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Humans",
+              "Conjunctivitis, Allergic",
+              "Goblet Cells",
+              "Allergens",
+              "Pollen",
+              "Conjunctiva"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37819721/"
+          },
+          {
+            "pmid": "8039024",
+            "title": "Effect of nasal anaesthesia on lacrimal function after nasal allergen challenge.",
+            "abstract": "Ocular symptoms in allergic rhinoconjunctivitis arise partly from direct contact of the allergen with the conjunctiva and presumably partly from a naso-lacrimal reflex. The aim was to study the importance of this reflex in allergic rhinitis after topical anaesthesia of the nose. Ten patients with allergic rhinoconjunctivitis to birch pollen were challenged with increasing intranasal doses of allergen until allergic symptoms occurred. The same dose of allergen was used in two other provocations, when the nasal cavity was anaesthetized with topical lidocaine in a double-blind randomized cross-over manner. The effect on the eyes was evaluated by Shirmer's test, a routine method for measuring tear production. Lidocaine per se and/or allergen challenge had no significant effect on tear production. The naso-lacrimal reflex was not involved in the eye symptoms in allergic conjunctivitis.",
+            "journal": "Clinical and experimental allergy : journal of the British Society for Allergy and Clinical Immunology",
+            "year": "1994",
+            "authors": [
+              "Löth S",
+              "Bende M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Allergens",
+              "Anesthesia, Local",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Lacrimal Apparatus",
+              "Lidocaine",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8039024/"
+          },
+          {
+            "pmid": "5422136",
+            "title": "[Prothanon eyedrops. 1. Results of experimental animal and orientative clinical studies].",
+            "abstract": "",
+            "journal": "Die Pharmazie",
+            "year": "1970",
+            "authors": [
+              "Bartsch R",
+              "Graupner K"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anesthetics, Local",
+              "Animals",
+              "Conjunctivitis",
+              "Cornea",
+              "Drug Hypersensitivity",
+              "Drug Tolerance",
+              "Eye",
+              "Humans",
+              "Hydrogen-Ion Concentration",
+              "Lidocaine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5422136/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "atopic conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20atopic%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "conjunctival disorder",
+        "txgnn_score": 0.9984319806098938,
+        "txgnn_rank": 482,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03397069",
+            "title": "Efficacy of Midazolam Addition to Local Anesthetic in Peribulbar Block. Randomized, Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2018-01-01",
+            "completion_date": "2018-05-01",
+            "country": "Saudi Arabia",
+            "enrollment": 90,
+            "brief_summary": "Regional eye blocks are usually preferred for ophthalmic procedures. Peribulbar block (PBB) is a safe alternative for patients undergoing cataract surgery. Many studies tried to solve this issue by means of prolonging the duration of action of the local anesthetics used. Several drugs were tried as adjuncts to local anesthetics, and their effects have been studied. Midazolam added to the list of adjuvant used in the subarachnoid or epidural block can produce analgesia, probably mediated by the b",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 90 adult patients with ASA physical status I to III\n* Aged 40-70 years\n* Scheduled for elective extracapsular or phacoemulsification cataract surgery with peribulbar block\n* No history of allergy to local anesthetics\n* Axial length less than 28 mm.\n\nExclusion Criteria:\n\n* Pati",
+            "endpoints": [
+              "Quality of the sensory and motor block"
+            ],
+            "sponsor": "Al Jedaani Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03397069"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05314673",
+            "title": "Preoperative Intra-lesional Bevacizumab Injection in Primary Pterygium in Tunisian Patients: A Randomized Controlled Prospective Study",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2019-01-01",
+            "completion_date": "2021-01-01",
+            "country": "Tunisia",
+            "enrollment": 60,
+            "brief_summary": "Purpose: To assess the efficacy and safety of a single preoperative intra-lesional bevacizumab injection in primary pterygium.\n\nMethods: The investigators conducted a randomized controlled interventional study from January 2019 to December 2020. The study included a total of 60 patients (60 eyes) with primary pterygium. The investigators defined two groups of 30 patients each. Group A received an intralesional injection of bevacizumab (Avastin), one month before surgery (lesion excision and conj",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* clinical diagnosis of primary pterygium (stages 2,3 and 4) with surgical indication.\n\nExclusion Criteria:\n\n* unable to attend the whole follow-up\n* Bevacizumab contraindications (hypertension, bleeding tendencies, previous myocardial infarction or stroke, pregnant and lactatin",
+            "endpoints": [
+              "Incidence of recurrence",
+              "Rate of functional discomfort following intralesional bevacizumab injection"
+            ],
+            "sponsor": "University Hospital Fattouma Bourguiba",
+            "url": "https://clinicaltrials.gov/study/NCT05314673"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02684786",
+            "title": "A Phase I Study of Stellate Ganglion Block and / or Reserpine in Group 2 Pulmonary Hypertension",
+            "phase": "PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2016-07",
+            "completion_date": "2016-07",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Pulmonary hypertension Group 2 (PH 2) associated with left-sided heart disease is relatively common, is associated with a poor prognosis, and unfortunately there are no proven medical treatments beyond attempts at correcting the left sided heart disease. Many PH 2 patients have evidence of active constriction of blood vessels from increased nerve traffic. Use of agents or procedures which produce a reversible chemical blockage of this nerve traffic have not been systematically tested in PH 2. Th",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Prior right heart catheterization, with mean pulmonary artery pressure \\> 25 mm Hg, pulmonary capillary wedge pressure \\> 15 mm Hg, and diastolic pressure gradient (pulmonary artery diastolic pressure - mean pulmonary capillary wedge pressure) ≥ 7 mm Hg OR clinically suspected",
+            "endpoints": [
+              "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0"
+            ],
+            "sponsor": "Mayo Clinic",
+            "url": "https://clinicaltrials.gov/study/NCT02684786"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01898728",
+            "title": "Comparison of the Effectiveness of Povidone-iodine in Reducing Conjunctival Bacterial Load Prior to Cataract Surgery in Patients Treated With a Lidocaine Gel Dilating Formulation Versus Eye Drops: A Randomized Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2013-08",
+            "country": "Canada",
+            "enrollment": 101,
+            "brief_summary": "The eye contains a lens that focuses light. A clouding of the lens is known as a cataract. Cataracts decrease vision. The treatment for cataracts is cataract surgery. Cataract surgery is one of the most commonly performed surgical procedures. Although rare, complications of cataract surgery are significant given the number of people who have surgery each year and more serious complications may have a significant impact on the vision and quality of patients. Endophthalmitis is an infection in the",
+            "eligibility_criteria": "Inclusion Criteria\n\n* Aged greater than 18 years\n* Able to give informed consent\n* Undergoing uncomplicated cataract surgery\n\nExclusion Criteria\n\n* Hypersensitivity to any of the components of the premedication\n* Hypersensitivity to povidone-iodine",
+            "endpoints": [
+              "The number of Colony Forming Units (CFUs)"
+            ],
+            "sponsor": "McMaster University",
+            "url": "https://clinicaltrials.gov/study/NCT01898728"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03480711",
+            "title": "Modified Trabeculectomy With an Extended Subscleral Tunnel Versus Conventional Trabeculectomy for Management of Primary Open Angle Glaucoma (POAG)",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2018-07-10",
+            "completion_date": "2019-03-02",
+            "country": "Egypt",
+            "enrollment": 40,
+            "brief_summary": "* To evaluate prospectively the surgical outcome in terms of intraocular pressure control, potential advantages, disadvantages, success rate, complications and bleb morphology of this modified trabeculectomy with an extended subscleral tunnel (ESST) in comparison to the conventional subscleral trabeculectomy (SST) in management of uncontrolled primary open angle glaucoma.\n* This study will recruit 40 eyes of (40) candidate patients with primary open angle glaucoma (POAG) who are indicated for su",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with POAG aged from (40- 70) years who are candidate for glaucoma surgery with BCVA ≥ 3/60 to be able to perform visual field testing.\n* Non- compliant patients to the medical treatment willing for follow-up visits for at least 6 months post-operatively .\n\nExclusion C",
+            "endpoints": [
+              "change from baseline intraocular pressure at first day postoperative",
+              "change from baseline intraocular pressure at 4 weeks",
+              "change from baseline intraocular pressure at 6 weeks Ultrasound bimicroscopy (UBM)"
+            ],
+            "sponsor": "Cairo University",
+            "url": "https://clinicaltrials.gov/study/NCT03480711"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04680078",
+            "title": "A Comparison Between Placement of Three Interrupted Sutures After Triangular Three-snip Punctoplasty vs Conventional Triangular Three-snip Punctoplasty for Treatment of Lower Punctal Stenosis",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2019-01-01",
+            "completion_date": "2020-12-23",
+            "country": "Egypt",
+            "enrollment": 24,
+            "brief_summary": "a prospective randomized study conducted upon 40 eyes of 24 patients with lower punctual stenosis (grade 1 or 2 according to Kashkouli scale) attending at Menoufia University hospitals and Kafr Elsheikh ophthalmic eye center. The upper punctum and canaliculus were patent. All patients were complaining of epiphora and had a thorough ophthalmological examination including dye disappearance test, and slit-lamp examination. A Nettelship dilator is used to enlarge the stenotic lacrimal punctum. A sin",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* primary acquired lower punctal stenosis grade 1 or 2 according to Kashkouli et al. , patent upper punctum and both canaliculi as well as patent nasolacrimal duct , normal lower eyelid margin position\n\nExclusion Criteria:\n\n* Patients with Congenital punctal stenosis, Acute conj",
+            "endpoints": [
+              "Degree of improvement of epiphora by Munk score",
+              "Degree of improvement of lacrimal drainage by Dye disappearance test",
+              "Slit lamp assesment of the state of the lower punctum"
+            ],
+            "sponsor": "Menoufia University",
+            "url": "https://clinicaltrials.gov/study/NCT04680078"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05362253",
+            "title": "The Effect of Micro-Conjunctival Autografting Combined With Amniotic Membrane Transplantation on Treating Recurrent Pterygium: A Non-randomized Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2021-03-01",
+            "completion_date": "2021-12-10",
+            "country": "China",
+            "enrollment": 40,
+            "brief_summary": "To observe the effect of micro-conjunctival autografting combined with amniotic membrane transplantation on the postoperative recurrence, complications and ocular surface symptoms among patients with recurrent pterygium.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. age⩾18;\n2. relapsed after pterygium surgery once;\n3. invading the cornea 2.00\\~5.00mm.\n\nExclusion Criteria:\n\n1. having obvious severe systemic organic diseases and mental diseases;\n2. In lactation or pregnancy or planned pregnancy;\n3. combined with eye diseases such as severe",
+            "endpoints": [
+              "Changes of grade of conjunctival hyperplasia",
+              "Changes of Schirmer test I",
+              "Changes of ocular surface symptom scores"
+            ],
+            "sponsor": "Second Affiliated Hospital of Nanchang University",
+            "url": "https://clinicaltrials.gov/study/NCT05362253"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04018482",
+            "title": "Povidone Iodine vs AVEnova: A Pre-injection Disinfection Study (PAVE Study)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2019-07-16",
+            "completion_date": "2019-08-14",
+            "country": "United States",
+            "enrollment": 50,
+            "brief_summary": "To compare the efficacy and comfort of two FDA approved pre-injection antiseptics when used for intravitreal injections.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be receiving same day bilateral injections of an anti-VEGF agent for any ophthalmic condition.\n* Subject must be fluent in English.\n\nExclusion Criteria:\n\n* Under 18 years old.\n* Subjects with an allergy or adverse reaction to Povidone Iodine or Avenova.",
+            "endpoints": [
+              "Comfort of Povidone Iodine vs Avenova immediately post-treatment based on an 11-point numerical scale (0-10, with 0 being no pain, and 10 being extreme pain)",
+              "Comfort of Povidone Iodine vs Avenova 1-2 hours post treatment based on an 11-point numerical scale (0-10, with 0 being no pain, and 10 being extreme pain)"
+            ],
+            "sponsor": "California Retina Consultants",
+            "url": "https://clinicaltrials.gov/study/NCT04018482"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01087489",
+            "title": "Clinical Comparison of Two Anesthetic Preparations for Intravitreal Injection",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2010-04",
+            "completion_date": "2011-06",
+            "country": "United States",
+            "enrollment": 53,
+            "brief_summary": "Patient comfort during and after eye injections will be compared after two numbing (anesthetic) protocols, an eye preparation utilizing three cotton swabs soaked in 4% lidocaine drops versus a preparation using 3.5% lidocaine hydrochloride ophthalmic gel.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Has required repeat Ranibizumab injections and has had at least 3 injections prior to recruitment\n* Informed consent\n* Age ≥ 18 years\n* Clinical need for a therapeutic ranibizumab intravitreal injection regardless of the medical indication\n* Able to understand and read English",
+            "endpoints": [
+              "Discomfort Level and Patient Satisfaction With the Preparation Protocol and Intravitreal Injection"
+            ],
+            "sponsor": "Miami VA Healthcare System",
+            "url": "https://clinicaltrials.gov/study/NCT01087489"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06353776",
+            "title": "MicroPulse Transscleral Laser Therapy and Its Short-term Impact on Ocular Surface",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2023-05-03",
+            "completion_date": "2023-10-31",
+            "country": "Tunisia",
+            "enrollment": 15,
+            "brief_summary": "MicroPulse transscleral laser therapy (TLT) is proven to be effective in reducing intraocular pressure with minimal complications in either primary or secondary glaucoma. However, its impact on the human ocular surface remains unexplored. This study aims to bridge this gap by examining the clinical and histopathological effects of MicroPulse TLT on the ocular surface.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 18 years old\n* Non-controlled open-angle glaucoma despite undergoing maximal medical therapy\n* Poor therapeutic adherence\n* Local or general intolerance to topical treatments.\n\nExclusion Criteria:\n\n* Ophthalmic or general diseases that could potentially impact the conju",
+            "endpoints": [
+              "conjunctival inflammation or fibrosis",
+              "intraocular pression",
+              "ocular surface disease index score"
+            ],
+            "sponsor": "University Tunis El Manar",
+            "url": "https://clinicaltrials.gov/study/NCT06353776"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01350024",
+            "title": "Comparison of Postoperative Pain With Two Different Types of Local Anesthesia in Surgery for a Drooping Eyelid",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2011-05-01",
+            "completion_date": "2016-07-30",
+            "country": "United States",
+            "enrollment": 34,
+            "brief_summary": "Conjunctival Mullerectomy is a well known procedure used to correct upper lid ptosis via a posterior approach. Patients who undergo this procedure are often given local anesthesia to alleviate intraoperative and postoperative pain. Local anesthesia can be given via frontal nerve block or subconjunctival injection combined with sedation in most cases. Both techniques are currently acceptable options for local anesthesia, however postoperative pain has not been systematically evaluated between the",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years of age and older\n* Patient with ptosis that requires correction\n* Patient is able to consent for themselves\n\nExclusion Criteria:\n\n* Patient unable to complete survey\n* Patient had prior lid surgery\n* Patient taking chronic pain medication",
+            "endpoints": [
+              "Pain control"
+            ],
+            "sponsor": "University of Miami",
+            "url": "https://clinicaltrials.gov/study/NCT01350024"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03189329",
+            "title": "The Effect of Retrobulbar Block on Bi-Hemispheric Cerebral Oxygen Saturation and Early Period Postoperative Cognitive Functions With Lidocaine and Levobupivacaine in Elderly Patients With Ophthalmic Surgery",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2015-01",
+            "completion_date": "2016-01",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 66,
+            "brief_summary": "The investigators measured changes in cerebral oxygen saturation (rSO2) and MMSE scores after retrobulbar block performed with levobupivacaine and lidocaine in patients undergoing vitreoretinal surgery.A total of 66 patients over the age of 60 undergoing vitreoretinal surgery with a total duration of less than 1 hour were included in this prospective, double-blinded study. The patients were randomly divided into two groups: group L (5ml, 2% lidocaine) and group LB (5ml, 0.5% levobupivacaine). Bi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Undergoing vitreoretinal surgery (total duration \\< 60 minutes)\n* The ASA (American Society of Anesthesiologists) Classification I-III\n* Over the age of 60\n* The patiens who had no cognitive dysfunction\n\nExclusion Criteria:\n\n* Contraindication for retrobulbar block\n* Preoperat",
+            "endpoints": [
+              "Cerebral oxygen saturation changes (rSO2)"
+            ],
+            "sponsor": "Ondokuz Mayıs University",
+            "url": "https://clinicaltrials.gov/study/NCT03189329"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05978687",
+            "title": "The Use of Lidocaine Ophtesic Gel Versus Subconjunctival Xylocaine Injection in Pterygium Excision",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2023-09-01",
+            "completion_date": "2025-12-31",
+            "country": "Belgium",
+            "enrollment": 41,
+            "brief_summary": "In pterygium excision procedures, the subconjunctival injection of xylocain is regarded as an uncomfortable and painful step in the procedure. While already being studied in other ophthalmic procedures such as glaucoma surgery (7), application of topical lidocaine gel is likely to minimize pain. The gel has a longer surface contact time due to its consistency, providing not only a longer anesthetic effect, but protecting the corneal surface against desiccation, when compared to eye drops.\n\nThe i",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Indication of pterygium excision\n\nExclusion Criteria:\n\n* No history of auto-immune diseases such as Sjögren, Lupus, Graves, Graft-versus-host disease, rheumatoid artritis\n* No history of deafness, anxiety disorders, communicative barrier, impossibility to comprehend the Visual",
+            "endpoints": [
+              "Difference in OSDI score POD8"
+            ],
+            "sponsor": "Vrije Universiteit Brussel",
+            "url": "https://clinicaltrials.gov/study/NCT05978687"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05925894",
+            "title": "Efficacy of the Intracamerally Administered Mydriatics for Cataract Surgery in Patients With Primary Open-angle Glaucoma.",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2021-03-18",
+            "completion_date": "2022-01-09",
+            "country": "Italy",
+            "enrollment": 60,
+            "brief_summary": "The aim of this study is to compare Mydrane ®, mydriatic eye drops and Mydriasert ® in terms of pupil site stability, surgical time, visual field and anterior chamber configuration modifications among primary open angle glaucoma (POAG) patients during cataract extraction surgery.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients \\>18 years of age\n* diagnosed with age-related cataract with concomitant POAG well controlled by pharmacological therapy (IOP within its target during the entire day in a minimum of 12-month follow-up with constant use of anti-glaucoma medications)\n* required cataract",
+            "endpoints": [
+              "Stability of mydriasis",
+              "Duration of surgery"
+            ],
+            "sponsor": "Fondazione Policlinico Universitario Agostino Gemelli IRCCS",
+            "url": "https://clinicaltrials.gov/study/NCT05925894"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02150460",
+            "title": "A Comparison of One-site and Two-site Peribulbar Anaesthesia for Cataract Surgery at National Eye Centre, Kaduna. Nigeria",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-10",
+            "completion_date": "2013-06",
+            "country": "Nigeria",
+            "enrollment": 100,
+            "brief_summary": "The aim of the study was to compare the efficacy and safety of single injection peribulbar anaesthesia against the classic double injection technique.\n\nThis was a double blind randomized controlled trial involving two groups of consenting, adult Nigerian subjects with operable age-related cataract. An anaesthetic nurse who allocated the subjects to the two groups administered all the injections. The same surgeon operated on all the subjects while the principal investigator and a research assista",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 50 years and above\n* Diagnosed with uncomplicated senile cataract\n* Visual acuity of \\<3/60\n\nExclusion Criteria:\n\n* Impaired mental status\n* Difficulty in speaking\n* Known allergy to amide-type local anaesthetic agents and/ or hyaluronidase\n* Previous surgery in the same e",
+            "endpoints": [
+              "Time Taken to Achieve Adequate Akinesia",
+              "Supplementary Injection(s)",
+              "Complications of Local Anaesthetic Injection"
+            ],
+            "sponsor": "National Eye Centre, Kaduna",
+            "url": "https://clinicaltrials.gov/study/NCT02150460"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03902925",
+            "title": "Pain During Pars Plana Vitrectomy Comparing Peribulbar Anesthesia Versus Sub-tenon Injection Plus Topical Jelly Anesthesia",
+            "phase": "PHASE1, PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2019-01-01",
+            "completion_date": "2019-10-31",
+            "country": "Brazil",
+            "enrollment": 56,
+            "brief_summary": "Vitreoretinal surgery has evolved to less invasive procedures, and it is used to treat a wide range of diseases. So anesthesia for vitreoretinal procedures has evolved, promoting adequate analgesia while reducing risks to the patient. In the present study two types of procedures for anesthesia during vitreoretinal surgery are evaluated regarding the pain referred by the patient during the whole procedure: peribulbar anesthesia versus sub-tenon injection plus topical jelly anesthesia. Through the",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients that have the diagnosis of epiretinal membrane, macular hole, complication of diabetic retinopathy such as vitreous hemorrhage or traction retinal detachment or other vitreomacular diseases that require treatment by pars plana vitrectomy.\n\nExclusion Criteria:\n\n* Previ",
+            "endpoints": [
+              "Pain score"
+            ],
+            "sponsor": "University of Sao Paulo",
+            "url": "https://clinicaltrials.gov/study/NCT03902925"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02324166",
+            "title": "Cefazolin-Lidocaine Solution for Reducing Pain Associated With Subconjunctival Antibiotic Prophylaxis in Vitreo-Retinal Surgery",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2015-01",
+            "completion_date": "2016-01",
+            "country": "N/A",
+            "enrollment": 54,
+            "brief_summary": "In retinal surgery, endophthalmitis is a sight-threatening eye infection that could complicate patient vision after the operation. At Toronto Western Hospital, for retinal surgery (operating at the back of the eye) it is common practice to administer an antibiotic (cefazolin) at the end of surgery, to reduce the risk of post-operative endophthalmitis. The antibiotic is administered by injection underneath the part of the eye called the conjunctiva. However, this antibiotic injection is often ass",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is above the age of 18,\n* Patient requires retinal surgery,\n* Requires retro-bulbar anaesthesia for vitreo-retinal surgery,\n* Patient is able to provide consent to the study\n\nExclusion Criteria:\n\n* Patient is cognitively incapable of performing the study,\n* Patient is ",
+            "endpoints": [
+              "Change in Pain Score"
+            ],
+            "sponsor": "University Health Network, Toronto",
+            "url": "https://clinicaltrials.gov/study/NCT02324166"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "34003160",
+            "title": "SUNCT and SUNA: An Update.",
+            "abstract": "Short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT) and short-lasting unilateral neuralgiform headache with autonomic symptoms (SUNA) are rare and disabling primary headache disorders that are subtypes of Short-lasting unilateral neuralgiform headache attacks (SUNHA).",
+            "journal": "Neurology India",
+            "year": "2021",
+            "authors": [
+              "Duggal Ashish K",
+              "Chowdhury Debashish"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Headache",
+              "Humans",
+              "Lamotrigine",
+              "Microvascular Decompression Surgery",
+              "SUNCT Syndrome",
+              "Trigeminal Autonomic Cephalalgias"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34003160/"
+          },
+          {
+            "pmid": "29720816",
+            "title": "Short-Lasting Unilateral Neuralgiform Headache Attacks.",
+            "abstract": "Short-lasting unilateral neuralgiform headache attacks (SUNHA) is characterized by strictly unilateral trigeminal distribution pain that occurs in association with ipsilateral cranial autonomic features. There are two subtypes: short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT) and short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms (SUNA). These disorders are rare but highly disabling. The management of SUNHA can be challenging. The abortive therapies are not generally useful as the attacks are relatively short-lasting. A myriad of pharmacological preventive treatments has been tried in single case reports or small series in an open-label fashion. Lamotrigine, as an oral preventive treatment, and lidocaine, as an intravenous transitional treatment, seems to be the most effective therapies. For medically intractable SUNHA, several surgical approaches have been tried. These include ablative procedures",
+            "journal": "Annals of Indian Academy of Neurology",
+            "year": "2018",
+            "authors": [
+              "Levy Andrew",
+              "Matharu Manjit S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29720816/"
+          },
+          {
+            "pmid": "19250287",
+            "title": "Neuropsychiatric side-effects of lidocaine: examples from the treatment of headache and a review.",
+            "abstract": "Lidocaine has been used in treatment of patients with refractory headache. Personal observations of neuropsychiatric toxicity in these patients led us to review our cases and the literature systematically for lidocaine side-effects, especially neuropsychiatric symptoms. In our series of 20 patients, side-effects were observed in all, the most frequent being neuropsychiatric (75%) and cardiological (50%). When reviewing published series on intravenous lidocaine use, reports of side-effects range from 0 to 100%, with neuropsychiatric symptoms being reported in 1.8-100%. Thirty-six case reports of lidocaine-induced psychiatric symptoms were also analysed. Psychiatric symptoms of toxicity were similar in most patients, despite their differing ages, pathologies, co-therapies and lidocaine dosages. In conclusion, lidocaine neuropsychiatric toxicity has a well-recognized stereotypical clinical presentation that is probably unrecognized in headache series. As lidocaine represents an emerging a",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "2009",
+            "authors": [
+              "Gil-Gouveia R",
+              "Goadsby P J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anesthetics, Local",
+              "Bradycardia",
+              "Female",
+              "Headache",
+              "Humans",
+              "Hypertension",
+              "Lidocaine",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19250287/"
+          },
+          {
+            "pmid": "17598764",
+            "title": "Short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing.",
+            "abstract": "SUNCT (Short-lasting Unilateral Neuralgiform headache attacks with Conjunctival injection and Tearing) and SUNA (Short-lasting Unilateral Neuralgiform headache attacks with cranial Autonomic symptoms) are rare primary headache syndromes, classified as Trigeminal Autonomic Cephalalgias (TACs). Hypothalamic involvement in the TACs has been suggested by functional imaging data and clinically with deep brain stimulation. Fifty-two patients (43 SUNCT, 9 SUNA) were studied to determine the clinical phenotype of these conditions and response to medications. A functional imaging study explored activation of the posterior hypothalamus in attacks of SUNCT/SUNA. The clinical study characterised SUNCT and SUNA in terms of epidemiology, phenotype and clinical characteristics. Indomethacin is ineffective on single-blind testing. Intravenous lidocaine was effective in all cases. Open-label trails showed the effectiveness of lamotrigine, topiramate and gabapentin. On functional imaging there was hypot",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "2007",
+            "authors": [
+              "Cohen A S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amines",
+              "Analgesics",
+              "Anesthetics, Local",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anticonvulsants",
+              "Autonomic Nervous System Diseases",
+              "Cohort Studies",
+              "Conjunctiva",
+              "Cyclohexanecarboxylic Acids",
+              "Fructose"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17598764/"
+          },
+          {
+            "pmid": "38415675",
+            "title": "SUNCT, SUNA and short-lasting unilateral neuralgiform headache attacks: Debates and an update.",
+            "abstract": "Short-lasting unilateral neuralgiform headache attacks (SUNHA) have the features of both short-lasting unilateral neuralgiform pain, such as trigeminal neuralgia or stabbing headache, and associated trigeminal autonomic symptoms, such as paroxysmal hemicrania or cluster headache. Recognizing and adequately treating SUNHA is essential but current treatment methods are ineffective in treating SUNHA.",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "2024",
+            "authors": [
+              "Kang Mi-Kyoung",
+              "Cho Soo-Jin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Male",
+              "Female",
+              "Humans",
+              "Aged",
+              "SUNCT Syndrome",
+              "Headache",
+              "Anticonvulsants",
+              "Gabapentin",
+              "Lamotrigine",
+              "Neuralgia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38415675/"
+          },
+          {
+            "pmid": "12828881",
+            "title": "Short-lasting unilateral neuralgiform headache with conjunctival injection and tearing syndrome: a review.",
+            "abstract": "The clinical features of short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT) syndrome have been reviewed in 50 patients reported in the English language literature. SUNCT syndrome is a rare condition that predominates slightly in men. The mean age at onset is 50 years. It is characterized by strictly unilateral attacks centered on the orbital or periorbital regions, forehead, and temple. Generally, the pain is severe and neuralgic in character. The usual duration ranges from 5 to 250 seconds, although the reported range of duration is 2 seconds to 20 minutes. Ipsilateral conjunctival injection and lacrimation are present in most, but not all patients. Most patients are thought to have no refractory periods and this has probably been unreported in the past. Episodic and chronic forms of SUNCT exist. The attack frequency varies from less than one attack daily to more than 60 attacks per hour. The attacks are predominantly diurnal, althou",
+            "journal": "Current pain and headache reports",
+            "year": "2003",
+            "authors": [
+              "Matharu Manjit S",
+              "Cohen Anna S",
+              "Boes Christopher J",
+              "Goadsby Peter J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Conjunctival Diseases",
+              "Diagnosis, Differential",
+              "Headache",
+              "Headache Disorders",
+              "Humans",
+              "Prevalence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12828881/"
+          },
+          {
+            "pmid": "23330822",
+            "title": "Ocular pain after intravitreal injection.",
+            "abstract": "To evaluate the efficacy of different anesthetics and topical anti-inflammatory treatment in patients undergoing intravitreal injections (IVI).",
+            "journal": "Current eye research",
+            "year": "2013",
+            "authors": [
+              "Sanabria Maria Rosa",
+              "Montero Javier A",
+              "Losada María Victoria",
+              "Fernández-Muñoz Marta",
+              "Galindo Alicia"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Anesthetics, Local",
+              "Angiogenesis Inhibitors",
+              "Anti-Bacterial Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Antibodies, Monoclonal, Humanized",
+              "Bevacizumab",
+              "Diclofenac",
+              "Double-Blind Method"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23330822/"
+          },
+          {
+            "pmid": "33361408",
+            "title": "Medical treatment of SUNCT and SUNA: a prospective open-label study including single-arm meta-analysis.",
+            "abstract": "The management of short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT) and short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms (SUNA) remains challenging in view of the paucity of data and evidence-based treatment recommendations are missing.",
+            "journal": "Journal of neurology, neurosurgery, and psychiatry",
+            "year": "2021",
+            "authors": [
+              "Lambru Giorgio",
+              "Stubberud Anker",
+              "Rantell Khadija",
+              "Lagrata Susie",
+              "Tronvik Erling"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Analgesics",
+              "Anesthetics, Local",
+              "Anticonvulsants",
+              "Female",
+              "Humans",
+              "Infusions, Parenteral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33361408/"
+          },
+          {
+            "pmid": "33191307",
+            "title": "[Clinical Aspects of Short-Lasting Unilateral Neuralgiform Headache Attacks].",
+            "abstract": "Short-lasting unilateral neuralgiform headache attacks (SUNHA), within the group of trigeminal autonomic cephalalgias, are characterized by repetitive, brief and severe attacks. The SUNHA includes short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT) and short-lasting unilateral neuralgiform headache attacks with cranial autonomic symptoms (SUNA). SUNCT is diagnosed if both conjunctival injection and tearing occur ipsilateral to the pain, whereas SUNA is diagnosed if only one, or neither, of conjunctival injection and tearing occurs. Previously considered to be rare and rather refractory to treatment, there is increasing awareness of this syndrome and the therapeutic possibilities. During the worst periods, intravenous lidocaine may decrease the intensity of SUNHA. Lamotrigine is the most-effective prophylactic treatment. For medically intractable SUNHA, several surgical approaches, i.e., microvascular decompression of the trigeminal ner",
+            "journal": "Brain and nerve = Shinkei kenkyu no shinpo",
+            "year": "2020",
+            "authors": [
+              "Kikui Shoji",
+              "Danno Daisuke",
+              "Takeshima Takao"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Headache",
+              "Humans",
+              "Microvascular Decompression Surgery",
+              "SUNCT Syndrome",
+              "Trigeminal Autonomic Cephalalgias",
+              "Trigeminal Nerve"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33191307/"
+          },
+          {
+            "pmid": "37819721",
+            "title": "A nerve-goblet cell association promotes allergic conjunctivitis through rapid antigen passage.",
+            "abstract": "The penetration of allergens through the epithelial layer is the initial step in the development of allergic conjunctivitis. Although pollinosis patients manifest symptoms within minutes after pollen exposure, the mechanisms of the rapid transport of the allergens remain unclear. In the present study, we found that the instillation of pollen shells rapidly induces a large number of goblet cell-associated antigen passages (GAPs) in the conjunctiva. Antigen acquisition by stromal cells, including macrophages and CD11b+ dendritic cells, correlated with surface GAP formation. Furthermore, a substantial amount of antigen was transported to the stroma during the first 10 minutes of pollen exposure, which was sufficient for the full induction of an allergic conjunctivitis mouse model. This inducible, rapid GAP formation and antigen acquisition were suppressed by topical lidocaine or trigeminal nerve ablation, indicating that the sensory nervous system plays an essential role. Interestingly, p",
+            "journal": "JCI insight",
+            "year": "2023",
+            "authors": [
+              "Kimura Meiko",
+              "Ando Tomoaki",
+              "Kume Yasuharu",
+              "Fukase Saaya",
+              "Matsuzawa Moe"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Humans",
+              "Conjunctivitis, Allergic",
+              "Goblet Cells",
+              "Allergens",
+              "Pollen",
+              "Conjunctiva"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37819721/"
+          },
+          {
+            "pmid": "18253766",
+            "title": "[Pathophysiology and treatment of trigeminal autonomic cephalalgias].",
+            "abstract": "Trigeminal autonomic cephalalgias (TACs) are a group of primary headache disorders, which are characterized by strictly unilateral pain, together with ipsilateral cranial autonomic symptoms. TACs include cluster headache (CH), paroxysmal hemicrania (PH) and short-lasting unilateral neuralgiform headache attacks with conjunctival injection and tearing (SUNCT syndrome). These diseases all have one thing in common: an activation of trigeminal nociceptive afferentia with a reflex-like activation of cranial autonomic efferentia via the facial nerve. TACs show differences not only in the length and frequency of attacks but also in the response to drug treatment. It is important to recognize and differentiate between these syndromes because they react very well, but very selectively to therapy.",
+            "journal": "Schmerz (Berlin, Germany)",
+            "year": "2008",
+            "authors": [
+              "Goadsby P J",
+              "Cohen A S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Amines",
+              "Analgesics",
+              "Anesthetics, Local",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Cluster Headache",
+              "Cyclohexanecarboxylic Acids",
+              "Diagnosis, Differential",
+              "Female",
+              "Fructose"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18253766/"
+          },
+          {
+            "pmid": "21876597",
+            "title": "Ophthalmomyiasis in humans.",
+            "abstract": "Ophthalmomyiasis in humans is a rare phenomenon.",
+            "journal": "Nepalese journal of ophthalmology : a biannual peer-reviewed academic journal of the Nepal Ophthalmic Society : NEPJOPH",
+            "year": "2011",
+            "authors": [
+              "Chakraborti C",
+              "Mukhopadhya U",
+              "Mondal M",
+              "Giri D",
+              "Khan M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Animals",
+              "Conjunctivitis",
+              "Diptera",
+              "Eye Infections, Parasitic",
+              "Humans",
+              "India",
+              "Larva",
+              "Male",
+              "Myiasis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21876597/"
+          },
+          {
+            "pmid": "10696746",
+            "title": "Topical anesthesia in posterior vitrectomy.",
+            "abstract": "To evaluate the efficacy of topical anesthesia as an alternative to peribulbar or retrobulbar anesthesia in posterior vitrectomy procedures.",
+            "journal": "Retina (Philadelphia, Pa.)",
+            "year": "2000",
+            "authors": [
+              "Yepez J",
+              "Cedeño de Yepez J",
+              "Arevalo J F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anesthesia, Local",
+              "Anesthetics, Local",
+              "Female",
+              "Humans",
+              "Injections",
+              "Lens Subluxation",
+              "Lidocaine",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10696746/"
+          },
+          {
+            "pmid": "16954710",
+            "title": "Pain relief after pterygium surgery with viscous lidocaine.",
+            "abstract": "The aim of the current study is to investigate the efficacy of lidocaine 2% gel for the control of pain experienced after pterygium surgery.",
+            "journal": "Ophthalmologica. Journal international d'ophtalmologie. International journal of ophthalmology. Zeitschrift fur Augenheilkunde",
+            "year": "2006",
+            "authors": [
+              "Oksuz H",
+              "Tamer C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Anesthesia, Local",
+              "Anesthetics, Local",
+              "Female",
+              "Gels",
+              "Humans",
+              "Lidocaine",
+              "Male",
+              "Middle Aged",
+              "Pain Measurement",
+              "Postoperative Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16954710/"
+          },
+          {
+            "pmid": "31923328",
+            "title": "Treatment for oral lesions in pediatric patients with Stevens-Johnson's syndrome: A case report and literature review.",
+            "abstract": "Stevens-Johnson syndrome (SJS) is a disorder forming one of the several severe cutaneous adverse reactions, a group that includes, as well, erythema multiforme, toxic epidermal necrolysis (TEN), and SJS/TEN overlap. These adverse reactions are characterized by their severe involvement of the skin and the oral, gastrointestinal, genital, and conjunctival mucosa. The purposes of the study described herein were to perform a literature review of studies describing the clinical presentations and management of SJS patients with oral manifestations and to present a case report of a patient treated with dapsone gel. The research question for the literature review was the following: For patients with SJS, does adjunctive topical antibiotic treatment provide a better resolution for oral lesions than supportive care does? An online search of studies published from 2000 to 2019 was performed using the following databases: PubMed, BBO, LILACS, the Cochrane Library, and Ovid MEDLINE. Eight case repo",
+            "journal": "International journal of paediatric dentistry",
+            "year": "2020",
+            "authors": [
+              "Barea-Jiménez Natalia",
+              "Calero Javier",
+              "Molina-Negrón Damaris",
+              "López Del-Valle Lydia M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Child",
+              "Humans",
+              "Stevens-Johnson Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31923328/"
+          },
+          {
+            "pmid": "15799734",
+            "title": "Efficacy of lidocaine 2% gel in pterygium surgery.",
+            "abstract": "Anaesthesia during pterygium surgery is usually achieved with local injection of anaesthetic medications. The aim of this study was to determine whether lidocaine 2% gel is an effective topical anaesthetic agent for pterygium surgery.",
+            "journal": "Acta ophthalmologica Scandinavica",
+            "year": "2005",
+            "authors": [
+              "Oksuz H",
+              "Tamer C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anesthesia, Local",
+              "Anesthetics, Local",
+              "Conjunctiva",
+              "Female",
+              "Gels",
+              "Humans",
+              "Lidocaine",
+              "Male",
+              "Pain Measurement"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15799734/"
+          },
+          {
+            "pmid": "30929813",
+            "title": "Predictors of Endophthalmitis after Intravitreal Injection: A Multivariable Analysis Based on Injection Protocol and Povidone Iodine Strength.",
+            "abstract": "To determine the incidence of endophthalmitis after anti-vascular endothelial growth factor (VEGF) therapy at our institution and to identify potential risk factors for endophthalmitis occurring after injection.",
+            "journal": "Ophthalmology. Retina",
+            "year": "2019",
+            "authors": [
+              "Stem Maxwell S",
+              "Rao Prethy",
+              "Lee Ivan J",
+              "Woodward Maria A",
+              "Faia Lisa J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Angiogenesis Inhibitors",
+              "Bevacizumab",
+              "Endophthalmitis",
+              "Eye Infections, Bacterial",
+              "Female",
+              "Humans",
+              "Incidence",
+              "Intravitreal Injections",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30929813/"
+          },
+          {
+            "pmid": "18989343",
+            "title": "Randomised controlled trial on the effectiveness of lidocaine gel vs tetracaine drops as the sole topical anaesthetic agent for primary pterygium surgery.",
+            "abstract": "To determine the effectiveness of lidocaine 2% gel vstetracaine 1% drops in primary pterygium surgery.",
+            "journal": "Eye (London, England)",
+            "year": "2009",
+            "authors": [
+              "Young A L",
+              "Leung G Y S",
+              "Cheng L L",
+              "Lau T T Y",
+              "Lam P T H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adult",
+              "Aged",
+              "Anesthetics, Local",
+              "Female",
+              "Gels",
+              "Humans",
+              "Lidocaine",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18989343/"
+          },
+          {
+            "pmid": "14963484",
+            "title": "A comparison of three sub-Tenon's cannulae.",
+            "abstract": "To compare the quality of anaesthesia and complication rates between three sub-Tenon cannula of increasing length (anterior Greenbaum, mid Kumar-Dodds, and posterior Steven's sub-Tenon's cannulae).",
+            "journal": "Eye (London, England)",
+            "year": "2004",
+            "authors": [
+              "Kumar C M",
+              "Dodds C",
+              "McLure H",
+              "Chabria R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anesthesia, Local",
+              "Anesthetics, Local",
+              "Cataract Extraction",
+              "Catheterization",
+              "Conjunctival Diseases",
+              "Edema",
+              "Eye Hemorrhage"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14963484/"
+          },
+          {
+            "pmid": "20622701",
+            "title": "A technique for capturing migratory periocular worms: a case series and review of literature.",
+            "abstract": "To describe the clinical presentation of migratory nematodes and to outline a simple strategy to ensure capture.",
+            "journal": "Ophthalmic plastic and reconstructive surgery",
+            "year": "2010",
+            "authors": [
+              "Tse Brian C",
+              "Siatkowski Rhea",
+              "Tse David T"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Animals",
+              "Conjunctival Diseases",
+              "Dirofilaria",
+              "Dirofilariasis",
+              "Drug Combinations",
+              "Epinephrine",
+              "Eye Foreign Bodies",
+              "Eye Infections, Parasitic",
+              "Eyelid Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20622701/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "conjunctival disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20conjunctival%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "nephrotic syndrome",
+        "txgnn_score": 0.9983065128326416,
+        "txgnn_rank": 519,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "7037263",
+            "title": "Diazepam and lidocaine plasma protein binding in renal disease.",
+            "abstract": "The plasma protein binding of diazepam and lidocaine was measured in patients with renal disease (those with uremia, nephrotic syndrome, or who had received a transplant) and in age- and sex- matched control subjects. Percentage unbound diazepam in plasma was increased over control in all three groups of patients as follows: uremic patients 3.23%, control, 1.64% (P less than 0.001), nephrotic patients, 3.55%, control, 1.63% (P less than 0.001); and transplant recipients, 2.11%, control 1.50% (P less than 0.001). The binding ratio (molar concentration of bound to unbound drug) in patients was related to albumin concentration (r = 0.609, P less than 0.001). Percentage of unbound lidocaine did not differ substantially from control in nephrotic patients (34.2%, control 30.8%), but was reduced in the uremic patients (20.8%, control 30.7%, P less than 0.001) and transplant recipients (24.6%, control 33.7%, P less than 0.005). These increases were associated with increases in alpha 1-acid gly",
+            "journal": "Clinical pharmacology and therapeutics",
+            "year": "1982",
+            "authors": [
+              "Grossman S H",
+              "Davis D",
+              "Kitchell B B",
+              "Shand D G",
+              "Routledge P A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Blood Proteins",
+              "Diazepam",
+              "Fatty Acids, Nonesterified",
+              "Female",
+              "Humans",
+              "Kidney Diseases",
+              "Kidney Failure, Chronic",
+              "Kidney Transplantation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7037263/"
+          },
+          {
+            "pmid": "3542337",
+            "title": "Free drug concentration monitoring in clinical practice. Rationale and current status.",
+            "abstract": "Recent advances in techniques to determine free drug concentrations have lead to a substantial increase in the monitoring of this parameter in clinical practice. The majority of drug binding to macromolecules in serum can be accounted for by association with albumin and alpha 1-acid glycoprotein. Albumin is the primary binding protein for acidic drugs, while binding to alpha 1-acid glycoprotein is more commonly observed with basic lipophilic agents. Alterations in the concentrations of either of these macromolecules can result in significant changes in free fraction. Diseases such as cirrhosis, nephrotic syndrome and malnourishment can result in hypoalbuminaemia. Burn injury, cancer, chronic pain syndrome, myocardial infarction, inflammatory diseases and trauma are all associated with elevations in the concentration of alpha 1-acid glycoprotein. Treatment with a number of drugs has also been shown to increase alpha 1-acid glycoprotein serum concentrations. A wide variety of biological ",
+            "journal": "Clinical pharmacokinetics",
+            "year": "1986",
+            "authors": [
+              "Svensson C K",
+              "Woodruff M N",
+              "Baxter J G",
+              "Lalka D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Monitoring, Physiologic",
+              "Pharmaceutical Preparations",
+              "Protein Binding"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3542337/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "nephrotic syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20nephrotic%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "non-human animal disease",
+        "txgnn_score": 0.9981740713119508,
+        "txgnn_rank": 544,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02076945",
+            "title": "Characteristics of Popliteal Sciatic Nerve Block in Patients With and Without Diabetic Neuropathy",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2014-02",
+            "completion_date": "2016-08",
+            "country": "Switzerland",
+            "enrollment": 75,
+            "brief_summary": "Background Between 25 and 55% of diabetic patients develop neuropathy secondary to hyperglycemia. High resolution bedside ultrasound has been demonstrated to be a useful tool to detect the presence of neuropathy prior to block performance, by measuring the cross-sectional area of the posterior tibial nerve: a value superior to 19.01 mm2 at a distance of 3 cm above the medial malleolus has an optimal threshold value for identification of diabetic sensorimotor polyneuropathy.\n\nAnimal data showed t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients 18-85 years old\n* patients scheduled to undergo foot surgery\n\nExclusion Criteria\n\n* patients with neuropathy caused by genetic, metabolic and inflammatory diseases, as well as toxic agents and drugs (eg chemotherapy agents);\n* patients with chronic pain syndrome",
+            "endpoints": [
+              "Duration of analgesia"
+            ],
+            "sponsor": "Centre Hospitalier Universitaire Vaudois",
+            "url": "https://clinicaltrials.gov/study/NCT02076945"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "19858165",
+            "title": "Accidental induced seizures in three cynomologus macaques following administration of ceftriaxone dissolved in 1% lidocaine diluent.",
+            "abstract": "Following initial signs of dural infection, or as prophylactic postoperative therapy, three cynomologus macaques were given an intramuscular or a subcutaneous injection of ceftriaxone dissolved in a 1% lidocaine diluent (CL). Two to 15 min later, all three monkeys experienced a long-lasting generalized apnoeic clonic convulsive seizure. The injected doses of lidocaine (0.7-2 mg/kg) were as low as 7-20-fold less than the experimental intravenous dosage (14.2 +/- 3.2 mg/kg) previously reported to induce seizure in healthy rhesus monkeys. Under different clinical conditions, the same three animals were either once (1 animal) or repeatedly given CL without any resultant neurological alterations. The monkeys had a cranial device implanted and two of them were craniotomized. This first report of accidental lidocaine-induced seizure in laboratory non-human primates following CL injection strongly suggests increased susceptibility when lidocaine administration is associated with central nervou",
+            "journal": "Laboratory animals",
+            "year": "2010",
+            "authors": [
+              "Dror Moti"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anesthetics, Local",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Ceftriaxone",
+              "Injections, Intramuscular",
+              "Injections, Subcutaneous",
+              "Lidocaine",
+              "Macaca fascicularis",
+              "Male",
+              "Monkey Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19858165/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "non-human animal disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20non-human%20animal%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "tinea corporis",
+        "txgnn_score": 0.998172163963318,
+        "txgnn_rank": 545,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "38809527",
+            "title": "Chronic Pruritus: A Review.",
+            "abstract": "Chronic pruritus, defined as itch experienced for 6 weeks or longer, affects approximately 22% of people in their lifetime. Approximately 1% of physician visits are for the chief concern of chronic pruritus. Chronic pruritus is associated with adverse outcomes, including impaired sleep and reduced quality of life.",
+            "journal": "JAMA",
+            "year": "2024",
+            "authors": [
+              "Butler Daniel C",
+              "Berger Timothy",
+              "Elmariah Sarina",
+              "Kim Brian",
+              "Chisolm Sarah"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Chronic Disease",
+              "Pruritus",
+              "Antipruritics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38809527/"
+          },
+          {
+            "pmid": "19150771",
+            "title": "Transdermal drug delivery by localized intervention.",
+            "abstract": "",
+            "journal": "IEEE engineering in medicine and biology magazine : the quarterly magazine of the Engineering in Medicine & Biology Society",
+            "year": "2009",
+            "authors": [
+              "Gowrishankar T R",
+              "Herndon Terry O",
+              "Weaver James C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Drug Delivery Systems",
+              "Electrochemotherapy",
+              "Humans",
+              "Lidocaine",
+              "Micro-Electrical-Mechanical Systems",
+              "Microelectrodes",
+              "Microtechnology",
+              "Onychomycosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19150771/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "tinea corporis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20tinea%20corporis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "sporadic idiopathic steroid-resistant nephrotic syndrome",
+        "txgnn_score": 0.9978883862495422,
+        "txgnn_rank": 607,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lidocaine",
+          "disease": "sporadic idiopathic steroid-resistant nephrotic syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lidocaine%20sporadic%20idiopathic%20steroid-resistant%20nephrotic%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Lidocaine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00281",
+    "name": "Lidocaine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Lidocaine"
+      },
+      "queried_at": "2026-03-04T14:45:36.059503",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Lidocaine"
+      },
+      "queried_at": "2026-03-04T14:45:36.062558",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Lidocaine"
+      },
+      "queried_at": "2026-03-04T14:45:41.457614",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:45:42.109195",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:45:45.469606",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:45:46.821911",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:45:48.287277",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:45:49.377087",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:45:55.386567",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:45:58.760601",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:02.427016",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:04.011480",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:08.721606",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:10.222675",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:10.963007",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "exposure keratitis"
+      },
+      "queried_at": "2026-03-04T14:46:11.796409",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "exposure keratitis"
+      },
+      "queried_at": "2026-03-04T14:46:22.985933",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "exposure keratitis"
+      },
+      "queried_at": "2026-03-04T14:46:25.229130",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "exposure keratitis"
+      },
+      "queried_at": "2026-03-04T14:46:31.040623",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "atopic conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:32.957920",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "atopic conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:38.019725",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "atopic conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:39.773070",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "atopic conjunctivitis"
+      },
+      "queried_at": "2026-03-04T14:46:42.886661",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "conjunctival disorder"
+      },
+      "queried_at": "2026-03-04T14:46:46.283591",
+      "status": "success",
+      "result_count": 17,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "conjunctival disorder"
+      },
+      "queried_at": "2026-03-04T14:46:49.866080",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "conjunctival disorder"
+      },
+      "queried_at": "2026-03-04T14:46:51.317494",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "conjunctival disorder"
+      },
+      "queried_at": "2026-03-04T14:46:57.503425",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:46:58.281835",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:47:02.884350",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:47:04.574035",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:47:08.834480",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "non-human animal disease"
+      },
+      "queried_at": "2026-03-04T14:47:09.919494",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "non-human animal disease"
+      },
+      "queried_at": "2026-03-04T14:47:14.410107",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "non-human animal disease"
+      },
+      "queried_at": "2026-03-04T14:47:15.811439",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "non-human animal disease"
+      },
+      "queried_at": "2026-03-04T14:47:18.611662",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-04T14:47:20.037388",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-04T14:47:25.092840",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-04T14:47:29.505097",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-04T14:47:33.933642",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "sporadic idiopathic steroid-resistant nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:47:35.291810",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "sporadic idiopathic steroid-resistant nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:47:39.016633",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "sporadic idiopathic steroid-resistant nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:47:40.537787",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lidocaine",
+        "disease": "sporadic idiopathic steroid-resistant nephrotic syndrome"
+      },
+      "queried_at": "2026-03-04T14:47:41.263437",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-04T14:47:41.277378"
+  }
+}

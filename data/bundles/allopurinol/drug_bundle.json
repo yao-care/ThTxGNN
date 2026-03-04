@@ -1,0 +1,961 @@
+{
+  "drug": {
+    "inn": "Allopurinol",
+    "drugbank_id": "DB00437",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "hepatic porphyria",
+        "txgnn_score": 0.9994645714759828,
+        "txgnn_rank": 181,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31443750",
+            "title": "Hypothesis: Metabolic targeting of 5-aminolevulinate synthase by tryptophan and inhibitors of heme utilisation by tryptophan 2,3-dioxygenase as potential therapies of acute hepatic porphyrias.",
+            "abstract": "Metabolic targeting of liver 5-aminolevulinate synthase (5-ALAS) by inhibition of heme utilisation by tryptophan (Trp) 2,3-dioxygenase (TDO) or the use of tryptophan is proposed as a therapy of acute hepatic porphyrias. 5-ALAS, the rate-limiting enzyme of heme biosynthesis, is under negative feedback control by a small regulatory heme pool in the hepatic cytosol. Acute porphyric attacks, precipitated by fasting, certain hormones and some drugs, involve induction of 5-ALAS secondarily to depletion of the above pool, and the resultant elevation of 5-ALA levels initiates the abdominal and neurological symptoms of attacks. By utilising the regulatory heme, cytosolic TDO undermines the feedback control, thus allowing 5-ALAS induction to occur, e.g. upon glucocorticoid induction of TDO during fasting (starvation) and exogenous glucocorticoid administration. Currently, glucose therapy is the preferred strategy for reversing moderate attacks induced by fasting (calorie restriction), with more ",
+            "journal": "Medical hypotheses",
+            "year": "2019",
+            "authors": [
+              "Badawy Abdulla A-B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "5-Aminolevulinate Synthetase",
+              "Allopurinol",
+              "Animals",
+              "Enzyme Induction",
+              "Enzyme Inhibitors",
+              "Fasting",
+              "Feedback, Physiological",
+              "Gene Silencing",
+              "Glucose",
+              "Guinea Pigs"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31443750/"
+          },
+          {
+            "pmid": "1567472",
+            "title": "Effects of acute carbamazepine administration on haem metabolism in rat liver.",
+            "abstract": "The effects of acute carbamazepine (CBZ) administration on haem metabolism in rat liver were examined in relation to the mechanism by which it exacerbates hepatic porphyrias. In a screening test for drug exacerbation of porphyria developed in this laboratory, CBZ at a very small dose (1.5 mg/kg, p.o.) behaved as an exacerbator, potentiating the loss of haem utilized by tryptophan pyrrolase (TP; tryptophan 2,3-dioxygenase; L-tryptophan-O2 oxido-reductase, decyclizing; EC 1.13.11.11) and the associated induction of activity of the rate-limiting enzyme of haem biosynthesis, 5-aminolaevulinate synthase (5-ALA-S) caused by the experimental porphyrogen 3,5-diethoxycarbonyl-1,4-dihydrocollidine. A larger dose of CBZ (50 mg/kg, i.p.) induced 5-ALA-S activity by 40-100% at 3 hr. This induction was preceded by an increase in the haem saturation of TP, and was abolished when such an increase was prevented by allopurinol. 5-ALA-S induction by CBZ was not associated with decreased turnover of the e",
+            "journal": "Biochemical pharmacology",
+            "year": "1992",
+            "authors": [
+              "Morgan C J",
+              "Badawy A A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "5-Aminolevulinate Synthetase",
+              "Allopurinol",
+              "Animals",
+              "Carbamazepine",
+              "Chemical and Drug Induced Liver Injury",
+              "Cytochrome P-450 Enzyme System",
+              "Enzyme Induction",
+              "Heme",
+              "Indoleamine-Pyrrole 2,3,-Dioxygenase",
+              "Liver"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1567472/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "hepatic porphyria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20hepatic%20porphyria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hepatopulmonary syndrome",
+        "txgnn_score": 0.9994344115257264,
+        "txgnn_rank": 192,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "hepatopulmonary syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20hepatopulmonary%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "primitive portal vein thrombosis",
+        "txgnn_score": 0.9994344115257264,
+        "txgnn_rank": 193,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "primitive portal vein thrombosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20primitive%20portal%20vein%20thrombosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "idiopathic copper-associated cirrhosis",
+        "txgnn_score": 0.9994344115257264,
+        "txgnn_rank": 194,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "idiopathic copper-associated cirrhosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20idiopathic%20copper-associated%20cirrhosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hepatoportal sclerosis",
+        "txgnn_score": 0.9994344115257264,
+        "txgnn_rank": 195,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "hepatoportal sclerosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20hepatoportal%20sclerosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "early-onset familial noncirrhotic portal hypertension",
+        "txgnn_score": 0.9994344115257264,
+        "txgnn_rank": 196,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "early-onset familial noncirrhotic portal hypertension",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20early-onset%20familial%20noncirrhotic%20portal%20hypertension"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "disorder of phenylalanine metabolism",
+        "txgnn_score": 0.9988559484481812,
+        "txgnn_rank": 360,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "799549",
+            "title": "Pharmacologically active drug metabolites: therapeutic and toxic activities, plasma and urine data in man, accumulation in renal failure.",
+            "abstract": "Drugs that are administered to man may be biotransformed to yield metabolites that are pharmacologically active. The therapeutic and toxic activities of drug metabolites and the species in which this activity was demonstrated are compiled for the metabolites of 58 drugs. The metabolite to parent drug ratio in the plasma of non-uraemic man and the percentage urinary excretion of the metabolite in non-uraemic man are also tabulated. Those active metabolites with significant pharmacological activity and high plasma levels, both relative to that of the parent drug, will probably contribute substantially to the pharmacological effect ascribed to the parent drug. Active metabolites may accumulate in patients with end stage renal disease if renal excretion is a major elimination pathway for the metabolite. This is true even if the active metabolite is a minor metabolite of the parent drug, as long as the minor metabolite is not further biotransformed and is mainly excreted in the urine. Minor",
+            "journal": "Clinical pharmacokinetics",
+            "year": "1976",
+            "authors": [
+              "Drayer D E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetaminophen",
+              "Acetohexamide",
+              "Allopurinol",
+              "Clofibrate",
+              "Humans",
+              "Kidney Failure, Chronic",
+              "Lidocaine",
+              "Meperidine",
+              "Methyldopa",
+              "Nitrofurantoin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/799549/"
+          },
+          {
+            "pmid": "39156502",
+            "title": "Leech Poecilobdella manillensis protein extract ameliorated hyperuricemia by restoring gut microbiota dysregulation and affecting serum metabolites.",
+            "abstract": "Hyperuricemia (HUA) is a public health concern that needs to be solved urgently. The lyophilized powder of Poecilobdella manillensis has been shown to significantly alleviate HUA; however, its underlying metabolic regulation remains unclear.",
+            "journal": "World journal of gastroenterology",
+            "year": "2024",
+            "authors": [
+              "Liu Xia",
+              "Liang Xing-Qiu",
+              "Lu Tian-Cai",
+              "Feng Zhe",
+              "Zhang Min"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Hyperuricemia",
+              "Gastrointestinal Microbiome",
+              "Mice",
+              "Disease Models, Animal",
+              "Male",
+              "Leeches",
+              "Uric Acid",
+              "Kidney",
+              "Metabolomics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39156502/"
+          },
+          {
+            "pmid": "18694741",
+            "title": "Lithospermic acid as a novel xanthine oxidase inhibitor has anti-inflammatory and hypouricemic effects in rats.",
+            "abstract": "Lithospermic acid (LSA) was originally isolated from the roots of Salvia mitiorrhiza, a common herb of oriental medicine. Previous studies demonstrated that LSA has antioxidant effects. In this study, we investigated the in vitro xanthine oxidase (XO) inhibitory activity, and in vivo hypouricemic and anti-inflammatory effects of rats. XO activity was detected by measuring the formation of uric acid or superoxide radicals in the xanthine/xanthine oxidase system. The results showed that LSA inhibited the formation of uric acid and superoxide radicals significantly with an IC50 5.2 and 1.08 microg/ml, respectively, and exhibited competitive inhibition. It was also found that LSA scavenged superoxide radicals directly in the system beta-NADH/PMS and inhibited the production of superoxide in human neutrophils stimulated by PMA and fMLP. LSA was also found to have hypouricemic activity on oxonate-pretreated rats in vivo and have anti-inflammatory effects in a model of gouty arthritis. These ",
+            "journal": "Chemico-biological interactions",
+            "year": "2008",
+            "authors": [
+              "Liu Xiaoyu",
+              "Chen Ruohua",
+              "Shang Yanjun",
+              "Jiao Binghua",
+              "Huang Caiguo"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Allopurinol",
+              "Animals",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Arthritis, Gouty",
+              "Benzofurans",
+              "Depsides",
+              "Disease Models, Animal",
+              "Dose-Response Relationship, Drug",
+              "Enzyme Inhibitors",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18694741/"
+          },
+          {
+            "pmid": "851118",
+            "title": "Active drug metabolites and renal failure.",
+            "abstract": "Drugs that are administered to man may be biotransformed to yield metabolites that are pharmacologically active. These metabolites may accumulate in patients with end-stage renal disease if renal excretion is a major elimination pathway for the metabolite. This is true even if the active metabolite is a minor metabolite of the parent drug as long as the minor metabolite is not further biotransformed but is mainly excreted in the urine. Minor metabolite accumulation may also occur if it is further biotransformed by a pathway that is inhibited in uremia. Some clinical consequences of accumulation of the active drug metabolites of procainamide, meperidine, clofibrate, allopurinol, sulfadiazine and nitrofurantoin in patients with renal failure are discussed. The high incidence of adverse drug reactions seen in renal failure may be explained, in part, by the accumulation of active drug metabolites. Examples of active drug metabolites that do not accumulate in patients with renal failure bec",
+            "journal": "The American journal of medicine",
+            "year": "1977",
+            "authors": [
+              "Drayer D E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Acetylation",
+              "Biotransformation",
+              "Clofibrate",
+              "Humans",
+              "Kidney Failure, Chronic",
+              "Meperidine",
+              "Methyldopa",
+              "Nitrofurantoin",
+              "Oxypurinol",
+              "Pharmaceutical Preparations"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/851118/"
+          },
+          {
+            "pmid": "22932763",
+            "title": "Metabolite target analysis of human urine combined with pattern recognition techniques for the study of symptomatic gout.",
+            "abstract": "Recurrent attacks and irregularity are two important characteristics of gout disease. Uric acid as a single evaluation indicator for clinical diagnosis is insufficient considering the versatile properties of gout. The aim of this work is to identify several endogenous metabolites from urine samples for the elucidation and prediction of gout disease. Metabolite target analysis was established for human urine by high performance liquid chromatography-diode array detection (HPLC-DAD). The targeted metabolites selected included hippuric acid, uracil, phenylalanine, tryptophan, uric acid and creatinine as well as nine purine compounds. Useful information was extracted from multivariate data through Fisher Linear Discriminant Analysis (FDA) and Orthogonal Signal Correction Partial Least Squares Discriminant Analysis (OSC-PLS-DA). Uric acid, hypoxanthine, xanthosine, guanosine, inosine and tryptophan were identified as important metabolites among the acute and chronic gout and controls. Based",
+            "journal": "Molecular bioSystems",
+            "year": "2012",
+            "authors": [
+              "Liu Yun",
+              "Yu Pinhua",
+              "Sun Xiaoming",
+              "Di Duolong"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Chromatography, High Pressure Liquid",
+              "Gout",
+              "Guanosine",
+              "Humans",
+              "Hypoxanthine",
+              "Male",
+              "Mice",
+              "Ribonucleosides",
+              "Tryptophan"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22932763/"
+          },
+          {
+            "pmid": "11729361",
+            "title": "Effects of diacerein on indomethacin-induced gastric ulceration.",
+            "abstract": "We investigated the effect of diacerein, an antiosteoarthritic agent, and its metabolite, rhein, on the production of reactive oxygen species (ROS) from neutrophils as well as the protective effect of diacerein on indomethacin-induced gastric ulceration and its protection mechanism. Rhein inhibited the ROS production from N-formyl-methionyl-leucyl-phenylalanine or phorbol-12-myristate-13-acetate-activated human peripheral neutrophils. Indomethacin-induced gastric ulceration was significantly inhibited by oxygen radical scavengers and 16,16-dimethyl-prostaglandin E(2) (dmPGE(2)) but not by allopurinol. Diacerein inhibited indomethacin-induced gastric ulceration in a dose-dependent manner. Diacerein did not affect the gastric mucosal PGE(2) content. In addition, diacerein inhibited HCl + ethanol-induced gastric ulceration. These data indicate that the inhibitory effect of diacerein on indomethacin-induced gastric ulceration could be mediated not by the augmentation of gastric mucosal PGE",
+            "journal": "Pharmacology",
+            "year": "2001",
+            "authors": [
+              "Tamura T",
+              "Yokoyama T",
+              "Ohmori K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anthraquinones",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anti-Ulcer Agents",
+              "Dinoprostone",
+              "Disease Models, Animal",
+              "Ethanol",
+              "Gastric Mucosa",
+              "Hydrochloric Acid",
+              "Indomethacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11729361/"
+          },
+          {
+            "pmid": "2853054",
+            "title": "Allopurinol prevents ischaemia-dependent haemorheological changes.",
+            "abstract": "Pre-treatment with allopurinol is able markedly to attenuate the deterioration in blood viscosity (BV) and whole blood filterability (WBF) that occurs after ischaemia during exercise. It also reduces the exercise-induced increase in serum oxidase activity, although this action is slightly less effective in peripheral obliterative arterial disease (POAD) patients. Conversely, allopurinol is completely ineffective in modifying haemorheological parameters in vitro, and it does not affect superoxide anion generation or enzyme release from neutrophils stimulated in vitro with formyl-methionyl-leucyl-phenylalanine (FMLP). It is suggested that allopurinol may attenuate changes in BV and WBF by affecting xanthine-oxidase-dependent free radical formation in tissues.",
+            "journal": "European journal of clinical pharmacology",
+            "year": "1988",
+            "authors": [
+              "Capecchi P L",
+              "Pasini F L",
+              "Pasqui A L",
+              "Orrico A",
+              "Ceccatelli L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Allopurinol",
+              "Arterial Occlusive Diseases",
+              "Blood Viscosity",
+              "Coronary Disease",
+              "Female",
+              "Glucuronidase",
+              "Humans",
+              "In Vitro Techniques",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2853054/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "disorder of phenylalanine metabolism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20disorder%20of%20phenylalanine%20metabolism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "immune-mediated necrotizing myopathy",
+        "txgnn_score": 0.9985507130622864,
+        "txgnn_rank": 453,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "immune-mediated necrotizing myopathy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20immune-mediated%20necrotizing%20myopathy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "antisynthetase syndrome",
+        "txgnn_score": 0.9985060691833496,
+        "txgnn_rank": 464,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "antisynthetase syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20antisynthetase%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "inflammatory myopathy with abundant macrophages",
+        "txgnn_score": 0.998485505580902,
+        "txgnn_rank": 470,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Allopurinol",
+          "disease": "inflammatory myopathy with abundant macrophages",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Allopurinol%20inflammatory%20myopathy%20with%20abundant%20macrophages"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Allopurinol",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00437",
+    "name": "Allopurinol",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Allopurinol"
+      },
+      "queried_at": "2026-03-04T14:55:43.819433",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Allopurinol"
+      },
+      "queried_at": "2026-03-04T14:55:43.828069",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Allopurinol"
+      },
+      "queried_at": "2026-03-04T14:55:56.122313",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatic porphyria"
+      },
+      "queried_at": "2026-03-04T14:55:58.024377",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatic porphyria"
+      },
+      "queried_at": "2026-03-04T14:56:03.780576",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatic porphyria"
+      },
+      "queried_at": "2026-03-04T14:56:05.022632",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatic porphyria"
+      },
+      "queried_at": "2026-03-04T14:56:08.980124",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatopulmonary syndrome"
+      },
+      "queried_at": "2026-03-04T14:56:11.687641",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatopulmonary syndrome"
+      },
+      "queried_at": "2026-03-04T14:56:19.876086",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatopulmonary syndrome"
+      },
+      "queried_at": "2026-03-04T14:56:21.028493",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatopulmonary syndrome"
+      },
+      "queried_at": "2026-03-04T14:56:22.069812",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "primitive portal vein thrombosis"
+      },
+      "queried_at": "2026-03-04T14:56:22.626283",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "primitive portal vein thrombosis"
+      },
+      "queried_at": "2026-03-04T14:56:27.697045",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "primitive portal vein thrombosis"
+      },
+      "queried_at": "2026-03-04T14:56:29.552200",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "primitive portal vein thrombosis"
+      },
+      "queried_at": "2026-03-04T14:56:31.730011",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "idiopathic copper-associated cirrhosis"
+      },
+      "queried_at": "2026-03-04T14:56:32.422735",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "idiopathic copper-associated cirrhosis"
+      },
+      "queried_at": "2026-03-04T14:56:38.180112",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "idiopathic copper-associated cirrhosis"
+      },
+      "queried_at": "2026-03-04T14:56:39.271492",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "idiopathic copper-associated cirrhosis"
+      },
+      "queried_at": "2026-03-04T14:56:40.430194",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatoportal sclerosis"
+      },
+      "queried_at": "2026-03-04T14:56:41.870302",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatoportal sclerosis"
+      },
+      "queried_at": "2026-03-04T14:56:46.888827",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatoportal sclerosis"
+      },
+      "queried_at": "2026-03-04T14:56:48.203500",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "hepatoportal sclerosis"
+      },
+      "queried_at": "2026-03-04T14:56:50.454167",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "early-onset familial noncirrhotic portal hypertension"
+      },
+      "queried_at": "2026-03-04T14:56:51.717844",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "early-onset familial noncirrhotic portal hypertension"
+      },
+      "queried_at": "2026-03-04T14:56:57.193318",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "early-onset familial noncirrhotic portal hypertension"
+      },
+      "queried_at": "2026-03-04T14:56:59.154916",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "early-onset familial noncirrhotic portal hypertension"
+      },
+      "queried_at": "2026-03-04T14:57:00.172778",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-04T14:57:00.732754",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-04T14:57:06.361088",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-04T14:57:08.552434",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-04T14:57:14.114072",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "immune-mediated necrotizing myopathy"
+      },
+      "queried_at": "2026-03-04T14:57:15.039931",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "immune-mediated necrotizing myopathy"
+      },
+      "queried_at": "2026-03-04T14:57:20.836106",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "immune-mediated necrotizing myopathy"
+      },
+      "queried_at": "2026-03-04T14:57:22.178452",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "immune-mediated necrotizing myopathy"
+      },
+      "queried_at": "2026-03-04T14:57:23.623653",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "antisynthetase syndrome"
+      },
+      "queried_at": "2026-03-04T14:57:26.325430",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "antisynthetase syndrome"
+      },
+      "queried_at": "2026-03-04T14:57:30.926913",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "antisynthetase syndrome"
+      },
+      "queried_at": "2026-03-04T14:57:32.328342",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "antisynthetase syndrome"
+      },
+      "queried_at": "2026-03-04T14:57:33.937725",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "inflammatory myopathy with abundant macrophages"
+      },
+      "queried_at": "2026-03-04T14:57:34.821719",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "inflammatory myopathy with abundant macrophages"
+      },
+      "queried_at": "2026-03-04T14:57:39.576398",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "inflammatory myopathy with abundant macrophages"
+      },
+      "queried_at": "2026-03-04T14:57:40.923410",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Allopurinol",
+        "disease": "inflammatory myopathy with abundant macrophages"
+      },
+      "queried_at": "2026-03-04T14:57:42.520272",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-04T14:57:42.534974"
+  }
+}
