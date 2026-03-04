@@ -7,71 +7,71 @@ nav_order: 3
 
 # เกี่ยวกับ ThTxGNN
 
-## Project Overview
+## ภาพรวมโครงการ
 
-ThTxGNN (Thailand Therapeutic Graph Neural Network) is an open-source drug repurposing prediction system adapted for Thailand's healthcare context.
+ThTxGNN (Thailand Therapeutic Graph Neural Network) เป็นระบบคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่แบบโอเพนซอร์ส ที่ปรับให้เหมาะสมกับบริบทการดูแลสุขภาพของประเทศไทย
 
-## Objectives
+## วัตถุประสงค์
 
-1. **Identify Repurposing Candidates**: Discover potential new therapeutic uses for drugs approved in Thailand
-2. **FHIR Integration**: Provide predictions in HL7 FHIR R4 format for healthcare system integration
-3. **Evidence Aggregation**: Collect supporting evidence from clinical trials and literature
-4. **Local Context**: Focus on drugs available in Thailand's National List of Essential Medicines (NLEM)
+1. **ระบุผู้สมัครการใช้ยาเก่าในข้อบ่งใช้ใหม่**: ค้นพบการใช้ประโยชน์ทางการรักษาใหม่ที่มีศักยภาพสำหรับยาที่ได้รับอนุมัติในประเทศไทย
+2. **การรวม FHIR**: ให้การคาดการณ์ในรูปแบบ HL7 FHIR R4 สำหรับการรวมระบบการดูแลสุขภาพ
+3. **การรวบรวมหลักฐาน**: รวบรวมหลักฐานสนับสนุนจากการทดลองทางคลินิกและวรรณกรรม
+4. **บริบทท้องถิ่น**: มุ่งเน้นยาในบัญชียาหลักแห่งชาติของประเทศไทย (NLEM)
 
-## Key Features
+## คุณสมบัติหลัก
 
-### Knowledge Graph Prediction
-- Uses TxGNN knowledge graph with 50,000+ biomedical entities
-- Maps Thai FDA drugs to international drug databases
-- Predicts drug-disease relationships based on graph structure
+### การคาดการณ์ด้วย Knowledge Graph
+- ใช้ TxGNN Knowledge Graph ที่มี 50,000+ เอนทิตีทางชีวการแพทย์
+- แมปยาจาก Thai FDA กับฐานข้อมูลยาสากล
+- คาดการณ์ความสัมพันธ์ยา-โรคตามโครงสร้างกราฟ
 
-### FHIR R4 Compliance
-- All predictions available as FHIR resources
-- MedicationKnowledge and ClinicalUseDefinition resources
-- SMART on FHIR support for EHR integration
+### เป็นไปตามมาตรฐาน FHIR R4
+- การคาดการณ์ทั้งหมดพร้อมใช้งานเป็นทรัพยากร FHIR
+- ทรัพยากร MedicationKnowledge และ ClinicalUseDefinition
+- รองรับ SMART on FHIR สำหรับการรวม EHR
 
-### Multi-Source Evidence
-- PubMed literature search
-- ClinicalTrials.gov integration
+### หลักฐานจากหลายแหล่ง
+- การค้นหาวรรณกรรม PubMed
+- การรวม ClinicalTrials.gov
 - Thai Clinical Trial Registry (TCTR)
-- Thai FDA registration data
+- ข้อมูลการลงทะเบียน Thai FDA
 
-### Thai Language Support
-- Thai disease term mappings
-- Thai drug name normalization
-- Bilingual documentation
+### รองรับภาษาไทย
+- การแมปศัพท์โรคภาษาไทย
+- การปรับชื่อยาไทยให้เป็นมาตรฐาน
+- เอกสารสองภาษา
 
-## Technology Stack
+## สแต็คเทคโนโลยี
 
-| Component | Technology |
+| ส่วนประกอบ | เทคโนโลยี |
 |-----------|------------|
-| Language | Python 3.11+ |
-| Package Manager | uv |
-| Web Framework | Jekyll |
-| Data Format | FHIR R4 JSON |
-| Hosting | GitHub Pages |
+| ภาษา | Python 3.11+ |
+| ตัวจัดการแพ็คเกจ | uv |
+| เว็บเฟรมเวิร์ก | Jekyll |
+| รูปแบบข้อมูล | FHIR R4 JSON |
+| โฮสติ้ง | GitHub Pages |
 
-## Related Projects
+## โครงการที่เกี่ยวข้อง
 
-- **TxGNN**: Original knowledge graph neural network ([Paper](https://www.nature.com/articles/s41591-023-02233-x))
-- **ThTxGNN**: Thailand implementation (reference implementation)
+- **TxGNN**: Knowledge Graph Neural Network ต้นฉบับ ([บทความ](https://www.nature.com/articles/s41591-023-02233-x))
+- **ThTxGNN**: การดำเนินการสำหรับประเทศไทย (reference implementation)
 
-## License
+## ใบอนุญาต
 
-This project is open-source and available for research purposes.
+โครงการนี้เป็นโอเพนซอร์สและพร้อมใช้งานเพื่อวัตถุประสงค์ในการวิจัย
 
-## Contact
+## ติดต่อ
 
-- GitHub: [ThTxGNN Repository](https://github.com/thtxgnn)
-- Issues: Report issues on GitHub
+- GitHub: [ThTxGNN Repository](https://github.com/yao-care/ThTxGNN)
+- ปัญหา: รายงานปัญหาบน GitHub
 
-## Disclaimer
+## ข้อจำกัดความรับผิดชอบ
 
-ThTxGNN is a research tool and does not provide medical advice. All drug repurposing candidates identified through this system are computational predictions that require rigorous clinical validation before any therapeutic application. Healthcare decisions should be made in consultation with qualified medical professionals.
+ThTxGNN เป็นเครื่องมือวิจัยและไม่ให้คำแนะนำทางการแพทย์ ผู้สมัครการใช้ยาเก่าในข้อบ่งใช้ใหม่ทั้งหมดที่ระบุผ่านระบบนี้เป็นการคาดการณ์เชิงคอมพิวเตอร์ที่ต้องผ่านการตรวจสอบทางคลินิกอย่างเข้มงวดก่อนนำไปใช้ในการรักษา การตัดสินใจด้านการดูแลสุขภาพควรปรึกษากับผู้เชี่ยวชาญทางการแพทย์ที่มีคุณสมบัติ
 
-## Acknowledgments
+## กิตติกรรมประกาศ
 
-- TxGNN research team at Harvard
-- Thai FDA for drug registration data
-- DrugBank for drug information
-- NCBI for PubMed access
+- ทีมวิจัย TxGNN ที่ Harvard
+- Thai FDA สำหรับข้อมูลการลงทะเบียนยา
+- DrugBank สำหรับข้อมูลยา
+- NCBI สำหรับการเข้าถึง PubMed

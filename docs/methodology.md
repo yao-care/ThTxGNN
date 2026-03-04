@@ -7,52 +7,52 @@ nav_order: 1
 
 # วิธีการคาดการณ์
 
-## Knowledge Graph Prediction
+## การคาดการณ์ด้วย Knowledge Graph
 
-ThTxGNN uses the TxGNN (Therapeutic Target Graph Neural Network) knowledge graph to predict potential drug-disease relationships.
+ThTxGNN ใช้ TxGNN (Therapeutic Target Graph Neural Network) Knowledge Graph เพื่อคาดการณ์ความสัมพันธ์ระหว่างยาและโรคที่มีศักยภาพ
 
 ### TxGNN Knowledge Graph
 
-The TxGNN knowledge graph contains:
-- **17,081 diseases** mapped to DOID (Disease Ontology)
-- **7,958 drugs** mapped to DrugBank
-- **80,127 drug-disease relationships** including indications and contraindications
+TxGNN Knowledge Graph ประกอบด้วย:
+- **17,081 โรค** ที่แมปกับ DOID (Disease Ontology)
+- **7,958 ยา** ที่แมปกับ DrugBank
+- **80,127 ความสัมพันธ์ยา-โรค** รวมถึงข้อบ่งใช้และข้อห้ามใช้
 
-### Prediction Process
+### กระบวนการคาดการณ์
 
-1. **Drug Mapping**: Thai FDA-approved drugs are mapped to DrugBank IDs using:
-   - Generic name matching
-   - Brand name normalization
-   - Active ingredient extraction
+1. **การแมปยา**: ยาที่ได้รับอนุมัติจาก Thai FDA แมปกับ DrugBank ID โดยใช้:
+   - การจับคู่ชื่อสามัญ
+   - การปรับชื่อทางการค้าให้เป็นมาตรฐาน
+   - การสกัดสารออกฤทธิ์
 
-2. **Disease Mapping**: Thai indications are mapped to English disease terms using:
-   - Direct translation
-   - Medical terminology lookup
-   - DISEASE_DICT mapping table
+2. **การแมปโรค**: ข้อบ่งใช้ภาษาไทยแมปกับชื่อโรคภาษาอังกฤษโดยใช้:
+   - การแปลโดยตรง
+   - การค้นหาศัพท์ทางการแพทย์
+   - ตาราง DISEASE_DICT
 
-3. **KG Query**: For each mapped drug, query the knowledge graph for:
-   - Known indications (existing approvals)
-   - Potential new indications (repurposing candidates)
+3. **การสืบค้น KG**: สำหรับแต่ละยาที่แมปแล้ว สืบค้น Knowledge Graph เพื่อหา:
+   - ข้อบ่งใช้ที่ทราบ (การอนุมัติที่มีอยู่)
+   - ข้อบ่งใช้ใหม่ที่มีศักยภาพ (ผู้สมัครการใช้ยาเก่าในข้อบ่งใช้ใหม่)
 
-4. **Evidence Collection**: For promising candidates, collect supporting evidence from:
-   - PubMed literature
+4. **การรวบรวมหลักฐาน**: สำหรับผู้สมัครที่มีแนวโน้มดี รวบรวมหลักฐานสนับสนุนจาก:
+   - วรรณกรรม PubMed
    - ClinicalTrials.gov
    - Thai Clinical Trial Registry (TCTR)
 
-### Scoring
+### การให้คะแนน
 
-Predictions include confidence scores based on:
-- Graph structure (node connectivity)
-- Relationship strength in knowledge graph
-- Supporting evidence count
+การคาดการณ์รวมคะแนนความเชื่อมั่นตาม:
+- โครงสร้างกราฟ (การเชื่อมต่อของโหนด)
+- ความแข็งแกร่งของความสัมพันธ์ใน Knowledge Graph
+- จำนวนหลักฐานสนับสนุน
 
-## Limitations
+## ข้อจำกัด
 
-- Predictions are computational hypotheses requiring clinical validation
-- Knowledge graph data may not include recent drug approvals
-- Thai-specific drug formulations may not have DrugBank mappings
-- Disease terminology translation may lose clinical nuance
+- การคาดการณ์เป็นสมมติฐานเชิงคอมพิวเตอร์ที่ต้องการการตรวจสอบทางคลินิก
+- ข้อมูล Knowledge Graph อาจไม่รวมการอนุมัติยาล่าสุด
+- สูตรยาเฉพาะในประเทศไทยอาจไม่มีการแมปกับ DrugBank
+- การแปลศัพท์โรคอาจสูญเสียความแตกต่างทางคลินิก
 
-## Disclaimer
+## ข้อจำกัดความรับผิดชอบ
 
-This methodology is for research purposes only. Drug repurposing candidates identified through this system require rigorous clinical validation before any therapeutic application.
+วิธีการนี้มีไว้เพื่อการวิจัยเท่านั้น ผู้สมัครการใช้ยาเก่าในข้อบ่งใช้ใหม่ที่ระบุผ่านระบบนี้ต้องผ่านการตรวจสอบทางคลินิกอย่างเข้มงวดก่อนนำไปใช้ในการรักษา
