@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="th">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ThTxGNN Demo - Drug Repurposing Lookup</title>
+    <title>ThTxGNN Demo - ค้นหาการนำยาเก่ามาใช้ใหม่</title>
     <style>
         * { box-sizing: border-box; }
         body {
-            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 'Noto Sans Thai', sans-serif;
             margin: 0;
             padding: 20px;
             background: #f5f5f5;
@@ -138,14 +138,14 @@
 <body>
     <div class="container">
         <header>
-            <h1>ThTxGNN Drug Repurposing</h1>
-            <p>Search for potential new therapeutic uses of existing drugs</p>
+            <h1>ThTxGNN การนำยาเก่ามาใช้ใหม่</h1>
+            <p>ค้นหาการใช้งานใหม่ที่อาจเป็นไปได้ของยาที่มีอยู่</p>
         </header>
 
         <div class="search-box">
-            <input type="text" class="search-input" id="search" placeholder="Enter drug name (e.g., Metformin, Amlodipine)..." autocomplete="off">
+            <input type="text" class="search-input" id="search" placeholder="ป้อนชื่อยา (เช่น Metformin, Amlodipine)..." autocomplete="off">
             <div class="suggestions">
-                Try: <span onclick="searchDrug('metformin')">Metformin</span>
+                ลองค้นหา: <span onclick="searchDrug('metformin')">Metformin</span>
                 <span onclick="searchDrug('amlodipine')">Amlodipine</span>
                 <span onclick="searchDrug('aspirin')">Aspirin</span>
                 <span onclick="searchDrug('losartan')">Losartan</span>
@@ -154,28 +154,28 @@
         </div>
 
         <div class="results" id="results">
-            <h2>Search Results</h2>
-            <div class="no-results">Enter a drug name to see repurposing predictions</div>
+            <h2>ผลการค้นหา</h2>
+            <div class="no-results">ป้อนชื่อยาเพื่อดูผลการคาดการณ์การนำยาเก่ามาใช้ใหม่</div>
         </div>
 
         <div class="disclaimer">
-            <strong>Research Use Only:</strong> This information is for research purposes and does not constitute medical advice. Drug repurposing candidates are computational predictions that require clinical validation before therapeutic application.
+            <strong>สำหรับการวิจัยเท่านั้น:</strong> ข้อมูลนี้มีไว้เพื่อวัตถุประสงค์ในการวิจัยและไม่ถือเป็นคำแนะนำทางการแพทย์ ผู้สมัครการนำยาเก่ามาใช้ใหม่เป็นการคาดการณ์เชิงคอมพิวเตอร์ที่ต้องผ่านการตรวจสอบทางคลินิกก่อนนำไปใช้ในการรักษา
         </div>
 
         <div class="footer">
-            Powered by ThTxGNN Knowledge Graph |
-            <a href="https://thtxgnn.github.io">Documentation</a> |
-            <a href="https://thtxgnn.github.io/fhir/metadata">FHIR API</a>
+            ขับเคลื่อนโดย ThTxGNN Knowledge Graph |
+            <a href="https://thtxgnn.yao.care">เอกสาร</a> |
+            <a href="https://thtxgnn.yao.care/fhir/metadata">FHIR API</a>
         </div>
     </div>
 
     <script>
-        // Drug database (subset from NLEM predictions)
+        // ฐานข้อมูลยา (ส่วนหนึ่งจากผลการคาดการณ์ NLEM)
         const DRUG_DATA = {
             "amlodipine": {
                 drugbank: "DB00381",
                 thaiName: "แอมโลดิพีน",
-                currentIndications: ["Hypertension", "Angina pectoris"],
+                currentIndications: ["ความดันโลหิตสูง", "โรคหลอดเลือดหัวใจตีบ"],
                 predictions: [
                     "Prinzmetal angina",
                     "Stroke disorder",
@@ -187,7 +187,7 @@
             "metformin": {
                 drugbank: "DB00331",
                 thaiName: "เมทฟอร์มิน",
-                currentIndications: ["Type 2 diabetes mellitus"],
+                currentIndications: ["เบาหวานชนิดที่ 2"],
                 predictions: [
                     "Metabolic syndrome",
                     "Polycystic ovary syndrome",
@@ -199,7 +199,7 @@
             "losartan": {
                 drugbank: "DB00678",
                 thaiName: "ลอซาร์แทน",
-                currentIndications: ["Hypertension", "Diabetic nephropathy"],
+                currentIndications: ["ความดันโลหิตสูง", "โรคไตจากเบาหวาน"],
                 predictions: [
                     "Heart failure",
                     "Marfan syndrome",
@@ -210,7 +210,7 @@
             "aspirin": {
                 drugbank: "DB00945",
                 thaiName: "แอสไพริน",
-                currentIndications: ["Pain", "Fever", "Cardiovascular prevention"],
+                currentIndications: ["ปวด", "ไข้", "ป้องกันโรคหัวใจและหลอดเลือด"],
                 predictions: [
                     "Colorectal cancer prevention",
                     "Preeclampsia prevention",
@@ -221,7 +221,7 @@
             "gabapentin": {
                 drugbank: "DB00996",
                 thaiName: "กาบาเพนติน",
-                currentIndications: ["Epilepsy", "Neuropathic pain"],
+                currentIndications: ["โรคลมชัก", "ปวดเส้นประสาท"],
                 predictions: [
                     "Anxiety disorder",
                     "Restless legs syndrome",
@@ -232,7 +232,7 @@
             "atorvastatin": {
                 drugbank: "DB01076",
                 thaiName: "อะทอร์วาสแตติน",
-                currentIndications: ["Hyperlipidemia", "Cardiovascular prevention"],
+                currentIndications: ["ไขมันในเลือดสูง", "ป้องกันโรคหัวใจและหลอดเลือด"],
                 predictions: [
                     "Anti-inflammatory",
                     "Alzheimer disease",
@@ -243,7 +243,7 @@
             "omeprazole": {
                 drugbank: "DB00338",
                 thaiName: "โอเมพราโซล",
-                currentIndications: ["GERD", "Peptic ulcer"],
+                currentIndications: ["กรดไหลย้อน", "แผลในกระเพาะอาหาร"],
                 predictions: [
                     "Barrett esophagus",
                     "Eosinophilic esophagitis",
@@ -253,7 +253,7 @@
             "carbamazepine": {
                 drugbank: "DB00564",
                 thaiName: "คาร์บามาเซพีน",
-                currentIndications: ["Epilepsy"],
+                currentIndications: ["โรคลมชัก"],
                 predictions: [
                     "Bipolar disorder",
                     "Trigeminal neuralgia",
@@ -264,7 +264,7 @@
             "furosemide": {
                 drugbank: "DB00695",
                 thaiName: "ฟูโรเซไมด์",
-                currentIndications: ["Edema", "Heart failure"],
+                currentIndications: ["บวมน้ำ", "ภาวะหัวใจล้มเหลว"],
                 predictions: [
                     "Acute kidney injury",
                     "Hypercalcemia",
@@ -274,7 +274,7 @@
             "prednisolone": {
                 drugbank: "DB00860",
                 thaiName: "เพรดนิโซโลน",
-                currentIndications: ["Inflammation", "Autoimmune conditions"],
+                currentIndications: ["การอักเสบ", "โรคภูมิต้านทานตนเอง"],
                 predictions: [
                     "COVID-19",
                     "Bell palsy",
@@ -296,11 +296,11 @@
             const normalized = query.toLowerCase().trim();
 
             if (!normalized) {
-                resultsDiv.innerHTML = '<h2>Search Results</h2><div class="no-results">Enter a drug name to see repurposing predictions</div>';
+                resultsDiv.innerHTML = '<h2>ผลการค้นหา</h2><div class="no-results">ป้อนชื่อยาเพื่อดูผลการคาดการณ์การนำยาเก่ามาใช้ใหม่</div>';
                 return;
             }
 
-            // Find matching drugs
+            // ค้นหายาที่ตรงกัน
             const matches = [];
             for (const [drug, data] of Object.entries(DRUG_DATA)) {
                 if (drug.includes(normalized) || data.thaiName.includes(query)) {
@@ -309,21 +309,21 @@
             }
 
             if (matches.length === 0) {
-                resultsDiv.innerHTML = `<h2>Search Results</h2><div class="no-results">No drugs found matching "${query}". Try searching for a different drug name.</div>`;
+                resultsDiv.innerHTML = `<h2>ผลการค้นหา</h2><div class="no-results">ไม่พบยาที่ตรงกับ "${query}" กรุณาลองค้นหาชื่อยาอื่น</div>`;
                 return;
             }
 
-            let html = '<h2>Search Results</h2>';
+            let html = '<h2>ผลการค้นหา</h2>';
             matches.forEach(drug => {
                 html += `
                     <div class="drug-card">
                         <div class="drug-name">${drug.name.charAt(0).toUpperCase() + drug.name.slice(1)} (${drug.thaiName})</div>
                         <div class="drug-id">DrugBank: ${drug.drugbank}</div>
 
-                        <div class="section-title">Current Indications</div>
+                        <div class="section-title">ข้อบ่งใช้ปัจจุบัน</div>
                         <div>${drug.currentIndications.map(i => `<span class="indication">${i}</span>`).join('')}</div>
 
-                        <div class="section-title">Repurposing Predictions (TxGNN)</div>
+                        <div class="section-title">การคาดการณ์การนำยาเก่ามาใช้ใหม่ (TxGNN)</div>
                         <div>${drug.predictions.map(p => `<span class="prediction">${p}</span>`).join('')}</div>
                     </div>
                 `;
