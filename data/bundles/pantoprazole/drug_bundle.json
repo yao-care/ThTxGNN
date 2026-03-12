@@ -1,0 +1,3211 @@
+{
+  "drug": {
+    "inn": "Pantoprazole",
+    "drugbank_id": "DB00213",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "active peptic ulcer disease",
+        "txgnn_score": 0.9969221949577332,
+        "txgnn_rank": 834,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00930670",
+            "title": "Evaluation of the Influence of Statins and Proton Pump Inhibitors on Clopidogrel Antiplatelet Effects",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2009-06",
+            "completion_date": "2011-12",
+            "country": "Canada",
+            "enrollment": 320,
+            "brief_summary": "There is conflicting evidence in the literature suggesting that the use of proton pump inhibitors (PPIs), and/or some statins can interfere with clopidogrel antiplatelet effect and result in adverse cardiovascular outcomes in patients treated with coronary artery stents and dual antiplatelet therapy.\n\nThe primary aim of the study is to determine the effect of various currently used PPI on platelet aggregation in patients undergoing percutaneous coronary intervention (PCI) and treated with dual a",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 years of age or older\n* Bare metal stent implantation\n* Discharged with dual antiplatelet therapy for at least 60 days\n* Written informed consent\n\nExclusion Criteria:\n\n* Patients who do not consent to participate in the study\n* Premenopausal women not using ",
+            "endpoints": [
+              "Percent change in residual platelet aggregation by light transmittance aggregometry and percent change in platelet reactivity index by VASP"
+            ],
+            "sponsor": "Institut universitaire de cardiologie et de pneumologie de Québec, University Laval",
+            "url": "https://clinicaltrials.gov/study/NCT00930670"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02084420",
+            "title": "PhaseⅢ Study of A Multicenter, Randomized, Double-blind, Active-controlled to Evaluate of Efficacy /Safety as H. Pylori Eradication Effect Between Ilaprazole/Pantoprazole",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2014-01",
+            "country": "South Korea",
+            "enrollment": 323,
+            "brief_summary": "The purpose of this study is to evaluate of efficacy and safety as H.pylori eradiation effect between Ilaprazole and Pantoprazole triple therapy for 7 days treatment in Gastric and/or Duodenal ulcer patients with H.pylori positive infection.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 18 year old ≤ Male or female \\< 75 year old\n* Patients who had endoscopically confirmed Gastric and/or duodenal ulcer and H.pylori infection confirmed by Urea Breath Test\n* Patients who understand the study conditions\n* Patients who had been given the explanation about the stu",
+            "endpoints": [
+              "the rate of H.pylori eradication"
+            ],
+            "sponsor": "Il-Yang Pharm. Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT02084420"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02197039",
+            "title": "The Selection Criteria for Deciding Who Needs the Second-look Endoscopy Among Patients With Bleeding Peptic Ulcers",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-08",
+            "completion_date": "2014-07",
+            "country": "Taiwan",
+            "enrollment": 316,
+            "brief_summary": "The purpose of this prospective study is to identify risk factors which could predict poor fading of SRH or early recurrent bleeding of peptic ulcer hemorrhage after successful endoscopic hemostasis and high-dose PPI infusion. These risk factors will be the selection criteria for patients who are indicated to receive second-look endoscopy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Bleeding peptic ulcers with major stigmata of recent hemorrhage\n* All of these major SRH are treated by local injection of diluted epinephrine 1:10000 with or without combined therapy with a heater probe, argon plasma coagulation, band ligation, or hemoclip therapy\n\nExclusion ",
+            "endpoints": [
+              "the fading rate of major stigmata of recent hemorrhage"
+            ],
+            "sponsor": "National Cheng-Kung University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02197039"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38345252",
+            "title": "Comparative Efficacy of P-CAB vs Proton Pump Inhibitors for Grade C/D Esophagitis: A Systematic Review and Network Meta-analysis.",
+            "abstract": "Los Angeles grade C/D esophagitis is a severe manifestation of gastroesophageal reflux disease that require active treatment and close follow-up. Potassium competitive acid blockers (P-CAB) are promising alternatives to proton pump inhibitors (PPI). We aimed to compare the efficacy and safety of P-CAB and PPI in healing grade C/D esophagitis to aid clinical decision-making.",
+            "journal": "The American journal of gastroenterology",
+            "year": "2024",
+            "authors": [
+              "Zhuang Qianjun",
+              "Chen Songfeng",
+              "Zhou Xuyu",
+              "Jia Xingyu",
+              "Zhang Mengyu"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review",
+              "Comparative Study",
+              "Research Support, Non-U.S. Gov't",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Esophagitis",
+              "Esophagitis, Peptic",
+              "Gastroesophageal Reflux",
+              "Proton Pump Inhibitors",
+              "Pyrroles",
+              "Randomized Controlled Trials as Topic",
+              "Sulfonamides",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38345252/"
+          },
+          {
+            "pmid": "10983736",
+            "title": "Esomeprazole.",
+            "abstract": "Esomeprazole, a new proton pump inhibitor, is the S-isomer of omeprazole and is the first such inhibitor to be developed as a single isomer. Esomeprazole provided better control of intragastric pH than omeprazole, lansoprazole and pantoprazole in trials conducted in patients with gastro-oesophageal reflux disease (GORD) or healthy volunteers (n = 20 to 115). In 2 large randomised, double-blind multicentre trials esomeprazole 20 and/or 40mg for 8 weeks produced higher healing rates of erosive oesophagitis and better symptom control than omeprazole 20 mg in patients with GORD. Esomeprazole 10, 20 or 40mg once daily for 6 months maintained healing versus placebo (p < 0.001) in patients with endoscopically confirmed healed erosive oesophagitis in 2 large randomised, double-blind multicentre trials. Similarly, symptom-driven on-demand use of esomeprazole effectively controlled symptoms of GORD (heartburn) for 6 months in 2 large placebo-controlled trials. Esomeprazole-based triple therapy f",
+            "journal": "Drugs",
+            "year": "2000",
+            "authors": [
+              "Spencer C M",
+              "Faulds D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Ulcer Agents",
+              "Clinical Trials as Topic",
+              "Duodenal Ulcer",
+              "Enzyme Inhibitors",
+              "Esomeprazole",
+              "Gastroesophageal Reflux",
+              "Helicobacter pylori",
+              "Humans",
+              "Omeprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10983736/"
+          },
+          {
+            "pmid": "19938880",
+            "title": "Pantoprazole: a proton pump inhibitor.",
+            "abstract": "Pantoprazole is a proton pump inhibitor (PPI) that binds irreversibly and specifically to the proton pump, thereby reducing gastric acid secretion. Pantoprazole has a relatively long duration of action compared with other PPIs, and a lower propensity to become activated in slightly acidic body compartments. To date, no drug-drug interactions have been identified with pantoprazole in numerous interaction studies. Overall, in the short-term (8-10 weeks) initial treatment of gastro-oesophageal reflux disease (a condition that occurs when the reflux of gastric contents causes troublesome symptoms and/or complications) and long-term (6-24 months) maintenance therapy, oral pantoprazole 20 or 40 mg/day demonstrated similar efficacy to omeprazole, lansoprazole and esomeprazole and greater efficacy than histamine type 2 receptor antagonists. Pantoprazole is also effective in treating and preventing NSAID-related gastric and gastroduodenal injury. The optimal adult oral dose for gastric acid-rel",
+            "journal": "Clinical drug investigation",
+            "year": "2009",
+            "authors": [
+              "Moreira Dias Luis"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anti-Ulcer Agents",
+              "Drug Interactions",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Pantoprazole",
+              "Peptic Ulcer",
+              "Proton Pump Inhibitors",
+              "Secondary Prevention"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19938880/"
+          },
+          {
+            "pmid": "9017763",
+            "title": "Proton pump inhibitors and acid-related diseases.",
+            "abstract": "Proton pump inhibitors (PPIs) are targeted to the gastric acid pump, H+, K(+)-adenosine triphosphatase (ATPase). The drugs accumulate in the acid space of the parietal cell and convert to active sulfenamide by an acid-catalyzed reaction. Consequent covalent inhibition of H+, K(+)-ATPase blocks the final step of acid secretion, hence the PPIs omeprazole, lansoprazole, and pantoprazole are more effective than histamine2-receptor antagonists (H2RAs) in controlling acid secretion. Preclinical short- and long-term clinical surveillance data show these drugs to be well tolerated and safe. The PPIs heal the lesions of gastroesophageal reflux disease and lessen symptoms more effectively and more quickly than the H2RAs, and are effective and faster acting for peptic ulcer disease. Helicobacter pylori is causally implicated in the majority of peptic ulcers and in atrophic gastritis. Since PPIs, but not H2RAs, are synergistic with antibiotics in eradicating H. pylori, their use is appropriate in ",
+            "journal": "Pharmacotherapy",
+            "year": "1997",
+            "authors": [
+              "Sachs G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Drug Therapy, Combination",
+              "Enzyme Inhibitors",
+              "Gastric Acid",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Humans",
+              "Peptic Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9017763/"
+          },
+          {
+            "pmid": "18824852",
+            "title": "Intermittent versus continuous pantoprazole infusion in peptic ulcer bleeding: a prospective randomized study.",
+            "abstract": "Rebleeding has remained the most important determinant of poor prognosis in peptic ulcer bleeding. Gastric acid plays an important role in the pathogenesis of rebleeding. We aimed to compare the efficiency of intermittent and continuous pantoprazole infusion treatment on peptic ulcer rebleeding after endoscopic therapy.",
+            "journal": "Digestion",
+            "year": "2008",
+            "authors": [
+              "Yüksel Ilhami",
+              "Ataseven Hilmi",
+              "Köklü Seyfettin",
+              "Ertuğrul Ibrahim",
+              "Başar Omer"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Ulcer Agents",
+              "Duodenal Ulcer",
+              "Endoscopy, Gastrointestinal",
+              "Erythrocyte Transfusion",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18824852/"
+          },
+          {
+            "pmid": "15244210",
+            "title": "In treatment of active duodenal ulcer and Helicobacter pylori eradication.",
+            "abstract": "To compare the efficacy of lansoprazole and pantoprazole in treatment of active duodenal ulcer and Helicobacterpylori eradication.",
+            "journal": "Hepato-gastroenterology",
+            "year": "2003",
+            "authors": [
+              "Yukselen Vahit",
+              "Yasa M Hadi",
+              "Karaoglu A Onder"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15244210/"
+          },
+          {
+            "pmid": "10632647",
+            "title": "Pantoprazole, amoxycillin and either azithromycin or clarithromycin for eradication of Helicobacter pylori in duodenal ulcer.",
+            "abstract": "Studies have shown that 1-week triple therapy consisting of a proton pump inhibitor, amoxycillin and clarithromycin may cure Helicobacter pylori infection in the majority of patients.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "2000",
+            "authors": [
+              "Vcev A",
+              "Stimac D",
+              "Ivandić A",
+              "Vceva A",
+              "Takac B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Azithromycin",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10632647/"
+          },
+          {
+            "pmid": "38652367",
+            "title": "Combined effect of pantoprazole and mesenchymal stem cells on experimentally induced gastric ulcer: implication of oxidative stress, inflammation and apoptosis pathways.",
+            "abstract": "Gastric ulcer (GU) is one of the most common diseases of the upper gastrointestinal tract that affects millions of people worldwide. This study aimed to investigate the possible alleviating effect of a combined treatment of pantoprazole (PANTO) and adipose tissue-derived mesenchymal stem cells (ADSCs) in comparison with each treatment alone on the healing process of the experimentally induced GU in rats, and to uncover the involved pathways. Rats were divided into five groups: (1) Control, (2) GU, (3) PANTO, (4) ADSCs and (5) ADSCs + PANTO. Markers of oxidative stress, inflammation and apoptosis were assessed. The current data indicated that PANTO-, ADSCs- and ADSCs + PANTO-treated groups showed significant drop (p < 0.05) in serum advanced oxidation protein products (AOPPs) and advanced glycation end products (AGEPs) along with significant elevation (p < 0.05) in serum TAC versus the untreated GU group. Moreover, the treated groups (PANTO, ADSCs and ADSCs + PANTO) displayed significan",
+            "journal": "Inflammopharmacology",
+            "year": "2024",
+            "authors": [
+              "Sayed Alaa H",
+              "Mahmoud Nadia S",
+              "Mohawed Ola A M",
+              "Ahmed Hanaa H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Oxidative Stress",
+              "Stomach Ulcer",
+              "Rats",
+              "Apoptosis",
+              "Pantoprazole",
+              "Inflammation",
+              "Mesenchymal Stem Cells",
+              "Male",
+              "Mesenchymal Stem Cell Transplantation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38652367/"
+          },
+          {
+            "pmid": "12752349",
+            "title": "Helicobacter pylori eradication and gastric ulcer healing--comparison of three pantoprazole-based triple therapies.",
+            "abstract": "To study the efficacy of three pantoprazole-based triple therapy regimens for the eradication of Helicobacter pylori infection and gastric ulcer healing.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "2003",
+            "authors": [
+              "Malfertheiner P",
+              "Kirchner T",
+              "Kist M",
+              "Leodolter A",
+              "Peitz U"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination",
+              "Endoscopy, Gastrointestinal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12752349/"
+          },
+          {
+            "pmid": "16677158",
+            "title": "Pantoprazole infusion as adjuvant therapy to endoscopic treatment in patients with peptic ulcer bleeding: prospective randomized controlled trial.",
+            "abstract": "Following successful endoscopic therapy in patients with peptic ulcer bleeding, rebleeding occurs in 20% of patients. Rebleeding remains the most important determinant of poor prognosis. We investigated whether or not administration of pantoprazole infusion would improve the outcome in ulcer bleeding following successful endoscopic therapy.",
+            "journal": "Journal of gastroenterology and hepatology",
+            "year": "2006",
+            "authors": [
+              "Zargar Showkat Ali",
+              "Javid Gul",
+              "Khan Bashir Ahmad",
+              "Yattoo Ghulam Nabi",
+              "Shah Altaf Hussain"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Chemotherapy, Adjuvant",
+              "Double-Blind Method",
+              "Endoscopy",
+              "Female",
+              "Humans",
+              "Incidence",
+              "India"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16677158/"
+          },
+          {
+            "pmid": "38384180",
+            "title": "The Effect of Tegoprazan on the Treatment of Endoscopic Resection-Induced Artificial Ulcers: A Multicenter, Randomized, Active-Controlled Study.",
+            "abstract": ": Tegoprazan is a novel potassium-competitive acid blocker that has beneficial effects on acid-related disorders such as gastroesophageal reflux and peptic ulcer diseases. This study aimed to validate the effect of tegoprazan on endoscopic submucosal dissection (ESD)-induced artificial ulcers.",
+            "journal": "Gut and liver",
+            "year": "2024",
+            "authors": [
+              "Kim Byung-Wook",
+              "Park Jong Jae",
+              "Moon Hee Seok",
+              "Lee Wan Sik",
+              "Shim Ki-Nam"
+            ],
+            "pub_types": [
+              "Randomized Controlled Trial",
+              "Multicenter Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Esomeprazole",
+              "Ulcer",
+              "Proton Pump Inhibitors",
+              "Stomach Ulcer",
+              "Stomach Neoplasms",
+              "Endoscopic Mucosal Resection",
+              "Benzene Derivatives",
+              "Imidazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38384180/"
+          },
+          {
+            "pmid": "7502535",
+            "title": "Gastric acid secretion: activation and inhibition.",
+            "abstract": "Peripheral regulation of gastric acid secretion is initiated by the release of gastrin from the G cell. Gastrin then stimulates the cholecystokinin-B receptor on the enterochromaffin-like cell beginning a calcium signaling cascade. An exocytotic release of histamine follows with concomitant activation of a C1- current. The released histamine begins the H2-receptor mediated sequence of events in the parietal cell, which results in activation of the gastric H+/K+ - ATPase. This enzyme is the final common pathway of acid secretion. The H+/K+ - ATPase is composed of two subunits: the larger alpha-subunit couples ion transport to hydrolysis of ATP, the smaller beta-subunit is required for appropriate assembly of the holoenzyme. Both the membrane and extracytoplasmic domain contain the ion transport pathway, and therefore, this region is the target for the antisecretory drugs of the post-H2 era. The 100 kDa alpha-subunit has probably 10 membrane spanning segments with, therefore, five extrac",
+            "journal": "The Yale journal of biology and medicine",
+            "year": "1994",
+            "authors": [
+              "Sachs G",
+              "Prinz C",
+              "Loo D",
+              "Bamberg K",
+              "Besancon M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Amino Acid Sequence",
+              "Anti-Ulcer Agents",
+              "Enzyme Activation",
+              "Enzyme Inhibitors",
+              "Gastric Acid",
+              "Gastric Mucosa",
+              "H(+)-K(+)-Exchanging ATPase",
+              "Humans",
+              "Lansoprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7502535/"
+          },
+          {
+            "pmid": "10491723",
+            "title": "Review article: the pharmacology of rabeprazole.",
+            "abstract": "Rabeprazole sodium is a new substituted benzimidazole proton pump inhibitor with several differences compared with existing proton pump inhibitors. In vitro and animal studies have demonstrated that rabeprazole is a more potent inhibitor of H+,K(+)-ATPase and acid secretion than omeprazole, and is a more rapid inhibitor of proton pumps than omeprazole, lansoprazole, or pantoprazole. This probably reflects rabeprazole's faster activation in the parietal cell canaliculus. In human studies, once-daily doses of 5-40 mg of rabeprazole inhibit gastric acid secretion in a dose-dependent fashion. A once-daily dose of 20 mg has consistently achieved profound decreases in 24-h intragastric acidity in single and repeat dosing studies, in healthy volunteers and patients with either peptic ulcer disease or gastro-oesophageal reflux disease. Significantly greater decreases in intragastric acidity are achieved on day 1 of dosing with rabeprazole 20 mg than with omeprazole 20 mg. As with other proton ",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "1999",
+            "authors": [
+              "Williams M P",
+              "Pounder R E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clinical Trials as Topic",
+              "Enzyme Inhibitors",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10491723/"
+          },
+          {
+            "pmid": "22919877",
+            "title": "The efficacy of PPI after endoscopic hemostasis in patients with bleeding peptic ulcer and role of Helicobacter pylori.",
+            "abstract": "Nowadays PPI present cornerstone in the medical therapy of bleeding peptic ulcer. Controlled pantoprazole data in peptic ulcer bleeding are few.",
+            "journal": "Medical archives (Sarajevo, Bosnia and Herzegovina)",
+            "year": "2012",
+            "authors": [
+              "Gashi Zaim",
+              "Joksimovic Nenad",
+              "Dragusha Gani",
+              "Bakalli Aurora"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Anti-Ulcer Agents",
+              "Double-Blind Method",
+              "Female",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Hemostasis, Endoscopic",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22919877/"
+          },
+          {
+            "pmid": "11693467",
+            "title": "Lansoprazole: an update of its place in the management of acid-related disorders.",
+            "abstract": "Lansoprazole is an inhibitor of gastric acid secretion and also exhibits antibacterial activity against Helicobacter pylori in vitro. Current therapy for peptic ulcer disease focuses on the eradication of H. pylori infection with maintenance therapy indicated in those patients who are not cured of H. pylori and those with ulcers resistant to healing. Lansoprazole 30 mg combined with amoxicillin 1g, clarithromycin 250 or 500mg, or metronidazole 400 mg twice daily was associated with eradication rates ranging from 71 to 94%, and ulcer healing rates were generally >80% in well designed studies. In addition, it was as effective as omeprazole- or rabeprazole-based regimens which included these antimicrobial agents. Maintenance therapy with lansoprazole 30 mg/day was significantly more effective than either placebo or ranitidine in preventing ulcer relapse. Importantly, preliminary data suggest that lansoprazole-based eradication therapy is effective in children and the elderly. In the short",
+            "journal": "Drugs",
+            "year": "2001",
+            "authors": [
+              "Matheson A J",
+              "Jarvis B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Animals",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anti-Ulcer Agents",
+              "Dyspepsia",
+              "Gastrointestinal Diseases",
+              "Humans",
+              "Lansoprazole",
+              "Omeprazole",
+              "Peptic Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11693467/"
+          },
+          {
+            "pmid": "11802510",
+            "title": "Amoxycillin, clarithromycin and either sucralfate or pantoprazole for eradication of Helicobacter pylori in duodenal ulcer (a randomized controlled trial).",
+            "abstract": "Sucralfate enhances the anti-Helicobacter pylori activity of antimicrobials and has an inhibitory effect on H. pylori.",
+            "journal": "Wiener klinische Wochenschrift",
+            "year": "2001",
+            "authors": [
+              "Vcev A",
+              "Vceva A",
+              "Kurbel S",
+              "Takac B",
+              "Stimac D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer",
+              "Duodenoscopy",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11802510/"
+          },
+          {
+            "pmid": "10228801",
+            "title": "Rapid improvement of symptomatology with pantoprazole, amoxycillin and metronidazole in Helicobacter pylori-positive duodenal ulcer patients.",
+            "abstract": "To evaluate the efficacy and tolerability of a new 1-week triple therapy regimen consisting of pantoprazole, amoxycillin and metronidazole.",
+            "journal": "Hepato-gastroenterology",
+            "year": "1999",
+            "authors": [
+              "Pilotto A",
+              "Leandro G",
+              "Franceschi M",
+              "Bierti L",
+              "Di Battista R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10228801/"
+          },
+          {
+            "pmid": "19236548",
+            "title": "Blood concentration of pantoprazole sodium is significantly high in hepatogenic peptic ulcer patients, especially those with a poor CYP2C19 metabolism.",
+            "abstract": "To determine the plasma concentration of pantoprazole sodium by high performance liquid chromatography and its distribution in patients with different CYP2C19 genotypes in an attempt to provide experimental data for the clinical dosage adjustment of the drug.",
+            "journal": "Journal of digestive diseases",
+            "year": "2009",
+            "authors": [
+              "Shao Jian Guo",
+              "Jiang Wen",
+              "Li Ke Qing",
+              "Lu Jian Rong",
+              "Sun Yuan Yuan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Aryl Hydrocarbon Hydroxylases",
+              "Case-Control Studies",
+              "Cytochrome P-450 CYP2C19",
+              "Fatty Liver",
+              "Female",
+              "Humans",
+              "Liver Neoplasms",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19236548/"
+          },
+          {
+            "pmid": "21534455",
+            "title": "Proton pump inhibitors in the management of gastroesophageal reflux disease.",
+            "abstract": "The primary treatment goals in patients with gastroesophageal reflux disease (GERD) are relief of symptoms, prevention of symptom relapse, healing of erosive esophagitis and prevention of complications. The severity of GERD is directly correlated with the degree and duration of oesophageal acid exposure and is highly pH dependent. Healing of reflux esophagitis is directly correlated with the intragastric pH > 3.5. In patients with GERD, treatment is directed at acid suppression through the use of lifestyle modifications (e.g., elevating the head of the bed, modifying the size and composition of meals) and pharmacologic agents (a histamine H2-receptor antagonist [H2RA] or a proton pump inhibitor [PPI]). The relief of symptoms and the long-term control of the disease are the primary aims of therapy for the majority of patients. The efficacy of antisecretory drugs in healing GERD depends on the strength and duration of acid suppression within a 24 h period, and the duration of the treatme",
+            "journal": "Medicinski arhiv",
+            "year": "2011",
+            "authors": [
+              "Hrelja Nedim",
+              "Zerem Enver"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Esophagitis, Peptic",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Proton Pump Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21534455/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Pantoprazole",
+          "disease": "active peptic ulcer disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Pantoprazole%20active%20peptic%20ulcer%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "peptic ulcer perforation",
+        "txgnn_score": 0.9962796568870544,
+        "txgnn_rank": 962,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04728516",
+            "title": "The Effect of Vonoprazan-based Dual Eradication Therapy vs PPI Treatment on Gastrointestinal Bleeding in ACS Patients With Hp Infection and Coronary Stents: an Open-label, Randomized, Controlled Trial",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2023-04-12",
+            "completion_date": "2026-06-30",
+            "country": "China",
+            "enrollment": 2600,
+            "brief_summary": "Patients with acute coronary syndrome (ACS) after Percutaneous Coronary Intervention (PCI) require routine treatment with dual antiplatelet (DAPT) treatment, but with the high risk of bleeding, gastrointestinal bleeding is the most common type of major bleeding. Helicobacter pylori (Hp) infection is a high-risk factor for gastrointestinal bleeding, with an incidence of about 50%. Foreign authoritative DAPT guidelines do not give individual guidance to Hp-infected patients. It is recommended that",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with ACS and PCI treatment and postoperative DAPT ≥ 6 months;\n2. Hp infection is positive;\n3. Age ≥18 years old;\n4. The patient himself or his authorized client signs the subject's consent.\n\nExclusion Criteria:\n\n1. Previous history of gastrointestinal ulcer bleeding;",
+            "endpoints": [
+              "Gastrointestinal bleeding of 6 months in patients with ACS after PCI"
+            ],
+            "sponsor": "Qilu Hospital of Shandong University",
+            "url": "https://clinicaltrials.gov/study/NCT04728516"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02241044",
+            "title": "Ivision of Gastroenterology, Department of Internal Medicine, Kaohsiung Veterans General Hospital, Kaohsiung, Taiwan",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2010-10",
+            "completion_date": "2012-01",
+            "country": "Taiwan",
+            "enrollment": 116,
+            "brief_summary": "Background:\n\nA second endoscopic method added to injection therapy is recommended for high-risk bleeding peptic ulcers. Many endoscopic devices have been proved as useful hemostatic instruments, whereas the hemostatic efficacy of argon plasma coagulation (APC) has not been widely investigated.\n\nAim:\n\nThis study was designed to know whether additional APC treatment could influence the hemostatic efficacy after endoscopic injection therapy in treating high-risk bleeding ulcers.\n\nMethods:\n\nFrom Oct",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* (i) over 20 years of age and (ii) patients with high-risk peptic ulcer bleeding.\n\nExclusion Criteria:\n\n* (i) the presence of another possible bleeding site (eg, gastroesophageal varix, gastric cancer, reflux esophagitis); (ii) coexistence of actively severe ill diseases (eg, s",
+            "endpoints": [
+              "rebleeding"
+            ],
+            "sponsor": "Kaohsiung Veterans General Hospital.",
+            "url": "https://clinicaltrials.gov/study/NCT02241044"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38222001",
+            "title": "Efficacy of pantoprazole plus perforation repair for peptic ulcer and its effect on the stress response.",
+            "abstract": "Peptic ulcer (PU) is an abnormal phenomenon in which there is rupture of the mucosa of the digestive tract, which not only affects patients' normal life but also causes an economic burden due to its high medical costs.",
+            "journal": "World journal of gastrointestinal surgery",
+            "year": "2023",
+            "authors": [
+              "Leng Zi-Yan",
+              "Wang Jia-Hao",
+              "Gao Lei",
+              "Shi Ke",
+              "Hua Hai-Bing"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38222001/"
+          },
+          {
+            "pmid": "31701498",
+            "title": "Non-operative management of perforated peptic ulcer: A single-center experience.",
+            "abstract": "Perforation is a rare complication of peptic ulcer. Although the most widely accepted treatment for peptic ulcer perforation is surgery, non-operative treatment can be an option in selected patients. In this study, we aimed to present our non-surgical treatment experience in peptic ulcer perforation.",
+            "journal": "Ulusal travma ve acil cerrahi dergisi = Turkish journal of trauma & emergency surgery : TJTES",
+            "year": "2019",
+            "authors": [
+              "Karabulut Koray",
+              "Dinçer Mürşit",
+              "Liman Rumeysa Kevser",
+              "Usta Sertaç"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Fluid Therapy",
+              "Humans",
+              "Length of Stay",
+              "Pantoprazole",
+              "Peptic Ulcer Perforation",
+              "Peritonitis",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31701498/"
+          },
+          {
+            "pmid": "16178990",
+            "title": "Appropriate choice of proton pump inhibitor therapy in the prevention and management of NSAID-related gastrointestinal damage.",
+            "abstract": "Non-steroidal anti-inflammatory drugs (NSAIDs) are associated with gastrointestinal adverse effects, ranging from dyspepsia and peptic ulcer disease to more serious complications such as haemorrhage or perforation. NSAID-induced gastrointestinal toxicity is a significant medical problem worldwide. Misoprostol is effective in reducing NSAID-induced mucosal damage, but patient compliance is limited by poor tolerance. Histamine receptor antagonists are relatively effective against duodenal ulcers but offer no significant protection against gastric ulcers. Proton pump inhibitors (PPIs), such as pantoprazole, omeprazole and lansoprazole, have been shown to be effective in preventing the development of gastric and duodenal ulcers in high-risk patients taking NSAIDs. PPI therapy is also beneficial in healing NSAID-induced ulcers and preventing their recurrence in patients requiring ongoing NSAID therapy. PPIs have an excellent safety profile, and pantoprazole--with its low potential for drug-",
+            "journal": "International journal of clinical practice",
+            "year": "2005",
+            "authors": [
+              "Singh G",
+              "Triadafilopoulos G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Humans",
+              "Omeprazole",
+              "Pantoprazole",
+              "Peptic Ulcer",
+              "Proton Pump Inhibitors",
+              "Sulfoxides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16178990/"
+          },
+          {
+            "pmid": "21954519",
+            "title": "Nonsteroidal anti-inflammatory drugs: add an anti-ulcer drug for patients at high risk only. Always limit the dose and duration of treatment with NSAIDs.",
+            "abstract": "In addition to their cardiac, renal, hepatic, cutaneous and neuropsychological adverse effects, nonsteroidal anti-inflammatory drugs (NSAIDs) can have severe effects on the entire gastrointestinal tract, including bleeding, perforation and occlusion. Which anti-ulcer drugs reduce the risk of the severe gastrointestinal adverse effects of NSAIDs, and which patients should receive them? To answer these questions, we conducted a review of the literature, using the standard Prescrire methodology. The main risk factors for severe gastrointestinal adverse effects during NSAID therapy are: a high dose regimen; age over 65 years; a history of gastric or duodenal ulcer or gastrointestinal bleeding; heavy use of both alcohol and tobacco; and concomitant treatment with a corticosteroid, antiplatelet drug, anticoagulant, or selective serotonin reuptake inhibitor (SSRI) antidepressant. Gastrointestinal symptoms and ulceration (on endoscopy) are poor predictors of severe gastrointestinal reactions. ",
+            "journal": "Prescrire international",
+            "year": "2011",
+            "authors": [],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anti-Ulcer Agents",
+              "Gastrointestinal Hemorrhage",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Misoprostol",
+              "Peptic Ulcer",
+              "Proton Pump Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21954519/"
+          },
+          {
+            "pmid": "15636310",
+            "title": "Quality of life after peptic perforation.",
+            "abstract": "Quality of life (QOL) as outcome during treatment of acid peptic disease has been studied, but, peptic perforation, which is the commonest complication of acid peptic disease, has not been studied in the light of QOL outcome. The present-study addresses the important issue of QOL after peptic perforations.",
+            "journal": "The Journal of the Association of Physicians of India",
+            "year": "2004",
+            "authors": [
+              "Joneja Jaspreet S",
+              "Sharma D B",
+              "Sharma Dhananjaya",
+              "Raina V K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Digestive System Surgical Procedures",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15636310/"
+          },
+          {
+            "pmid": "31054846",
+            "title": "Pantoprazole to Prevent Gastroduodenal Events in Patients Receiving Rivaroxaban and/or Aspirin in a Randomized, Double-Blind, Placebo-Controlled Trial.",
+            "abstract": "Antiplatelets and anticoagulants are associated with increased upper gastrointestinal bleeding. We evaluated whether proton pump inhibitor therapy could reduce this risk.",
+            "journal": "Gastroenterology",
+            "year": "2019",
+            "authors": [
+              "Moayyedi Paul",
+              "Eikelboom John W",
+              "Bosch Jackie",
+              "Connolly Stuart J",
+              "Dyal Leanne"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Aged",
+              "Anticoagulants",
+              "Aspirin",
+              "Cardiovascular Diseases",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31054846/"
+          },
+          {
+            "pmid": "19837071",
+            "title": "Famotidine is inferior to pantoprazole in preventing recurrence of aspirin-related peptic ulcers or erosions.",
+            "abstract": "Little is known about the efficacy of H(2)-receptor antagonists in preventing recurrence of aspirin-related peptic ulcers. We compared the efficacy of high-dose famotidine with that of pantoprazole in preventing recurrent symptomatic ulcers/erosions.",
+            "journal": "Gastroenterology",
+            "year": "2010",
+            "authors": [
+              "Ng Fook-Hong",
+              "Wong Siu-Yin",
+              "Lam Kwok-Fai",
+              "Chu Wai-Ming",
+              "Chan Pierre"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anti-Ulcer Agents",
+              "Aspirin",
+              "Famotidine",
+              "Female",
+              "Follow-Up Studies",
+              "Gastrointestinal Hemorrhage"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19837071/"
+          },
+          {
+            "pmid": "32133263",
+            "title": "Comparison of Oral versus Intravenous Proton Pump Inhibitors in Preventing Re-bleeding from Peptic Ulcer after Successful Endoscopic Therapy.",
+            "abstract": "Introduction Perforation, obstruction, and bleeding remain the most frequently encountered complications of peptic ulcer disease (PUD). Bleeding may be in the form of hematemesis or melena. The treatment of choice in patients with a bleeding peptic ulcer is endoscopic ligation to maintain the hemostatic balance followed by the administration of proton pump inhibitors (PPIs). This study focuses on the evaluation and comparison of intravenous (IV) and oral PPIs in terms of prevention of re-bleeding after successful endoscopy for peptic ulcers. Methods A prospective, comparative study was conducted in a tertiary care hospital in Pakistan from January 1, 2018 to June 30, 2019. The trial included known cases of PUD admitted with active upper gastrointestinal bleeding (UGIB). They were randomly divided into two groups: one received oral pantoprazole and the other was administered IV pantoprazole. The outcomes for both groups were compared. Data was entered and analyzed using Statistical Pack",
+            "journal": "Cureus",
+            "year": "2020",
+            "authors": [
+              "Karim Rashid",
+              "Hameed Rizwan",
+              "Ali Kashif",
+              "Tahir Amber"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Retracted Publication"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32133263/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Pantoprazole",
+          "disease": "peptic ulcer perforation",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Pantoprazole%20peptic%20ulcer%20perforation"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "gastrojejunal ulcer",
+        "txgnn_score": 0.9962796568870544,
+        "txgnn_rank": 963,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05251233",
+            "title": "Evaluation of the Role of Proton Pump Inhibitors on the Postoperative Course Following Pancreaticoduodenectomy",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2022-04-21",
+            "completion_date": "2024-06-29",
+            "country": "United States",
+            "enrollment": 56,
+            "brief_summary": "The purpose of this study is to prospectively determine the effects of administering proton pump inhibitors (PPIs) following pancreaticoduodenectomy on postoperative outcomes. The findings of this study will help in avoiding the widespread use of PPIs during the immediate postoperative period following pancreatic surgery.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All consecutive patients who will undergo pancreaticoduodenectomy with gastric/biliary reconstruction performed as definitive management for a benign or malignant disease at Washington University/Barnes-Jewish Hospital.\n* At least 18 years of age.\n* Ability to understand and w",
+            "endpoints": [
+              "Number of Participants With Delayed Gastric Emptying as Measured by the International Study Group of Pancreatic Surgery (ISGPS) Criteria",
+              "Number of Participants With Delayed Gastric Emptying as Measured by Modified Accordion Grading System (MAGS)"
+            ],
+            "sponsor": "Washington University School of Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT05251233"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38875111",
+            "title": "Stress Ulcer Prophylaxis during Invasive Mechanical Ventilation.",
+            "abstract": "Whether proton-pump inhibitors are beneficial or harmful for stress ulcer prophylaxis in critically ill patients undergoing invasive ventilation is unclear.",
+            "journal": "The New England journal of medicine",
+            "year": "2024",
+            "authors": [
+              "Cook Deborah",
+              "Deane Adam",
+              "Lauzier François",
+              "Zytaruk Nicole",
+              "Guyatt Gordon"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Critical Illness",
+              "Double-Blind Method",
+              "Gastrointestinal Hemorrhage",
+              "Intensive Care Units"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38875111/"
+          },
+          {
+            "pmid": "23112541",
+            "title": "Diagnosis of Zollinger-Ellison syndrome: increasingly difficult.",
+            "abstract": "In the present paper the increasing difficulty of diagnosis of Zollinger-Ellison syndrome (ZES) due to issues raised in two recent papers is discussed. These issues involve the difficulty and need to withdraw patients suspected of ZES from treatment with Proton Pump Inhibitors (omeprazole, esomeprazole, lansoprazole, rabeprazole, pantoprazole) and the unreliability of many gastrin radioimmunoassays. The clinical context of each of these important issues is reviewed and the conclusions in these articles commented from the perspective of clinical management.",
+            "journal": "World journal of gastroenterology",
+            "year": "2012",
+            "authors": [
+              "Ito Tetsuhide",
+              "Cadiot Guillaume",
+              "Jensen Robert T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Contraindications",
+              "Gastrins",
+              "Humans",
+              "Proton Pump Inhibitors",
+              "Zollinger-Ellison Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23112541/"
+          },
+          {
+            "pmid": "35787720",
+            "title": "An update on drug-drug interactions associated with proton pump inhibitors.",
+            "abstract": "Proton pump inhibitors (PPIs) block the gastric H/K-ATPase, therefore inhibiting acid gastric secretion, leading to an increased pH (>4). They account for an extremely high number of prescriptions worldwide. Numerous drug-drug interactions have been described with PPIs, but all the described interactions do not have clinical significance.",
+            "journal": "Expert opinion on drug metabolism & toxicology",
+            "year": "2022",
+            "authors": [
+              "Ben Ghezala Inès",
+              "Luu Maxime",
+              "Bardou Marc"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Drug Interactions",
+              "Enzyme Inhibitors",
+              "Esomeprazole",
+              "Humans",
+              "Omeprazole",
+              "Prospective Studies",
+              "Proton Pump Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35787720/"
+          },
+          {
+            "pmid": "35222047",
+            "title": "A Narrative Review on Efficacy and Safety of Proton Pump Inhibitors in Children.",
+            "abstract": "Proton pump inhibitors (PPIs) are among the most prescribed drugs worldwide and include omeprazole, esomeprazole, lansoprazole, pantoprazole, and rabeprazole. Their use in pediatrics is approved for children older than 1 year, for the short-term treatment of symptomatic gastroesophageal reflux disease (GERD), healing of erosive esophagitis, treatment of peptic ulcer disease, and eradication of Helicobacter pylori. PPIs are also considered the standard of care for pediatric eosinophilic esophagitis. Despite the strict range of indications, the use of this class of molecules has increased in all pediatric age ranges. The long-term gastric acid suppression in children has been linked to increased risks of gastrointestinal and lower respiratory tract infections, bone fractures, and allergy. This study aims to provide a comprehensive overview of the mechanism of actions, use (and misuse) in infants and children, and safety of PPIs.",
+            "journal": "Frontiers in pharmacology",
+            "year": "2022",
+            "authors": [
+              "Dipasquale Valeria",
+              "Cicala Giuseppe",
+              "Spina Edoardo",
+              "Romano Claudio"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35222047/"
+          },
+          {
+            "pmid": "38252210",
+            "title": "Pantoprazole and Vonoprazan Performed Well in Preventing Peptic Ulcer Recurrence in Low-Dose Aspirin Users.",
+            "abstract": "Low-dose aspirin (LDA) administration is associated with an elevated risk of recurring peptic ulcer (PU) and gastrointestinal (GI) hemorrhage.",
+            "journal": "Digestive diseases and sciences",
+            "year": "2024",
+            "authors": [
+              "An Haoyu",
+              "Chen Jing",
+              "Li Shicong",
+              "Chen Anni"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pantoprazole",
+              "Peptic Ulcer",
+              "Aspirin",
+              "Proton Pump Inhibitors",
+              "Recurrence",
+              "Sulfonamides",
+              "Pyrroles",
+              "Secondary Prevention",
+              "Gastrointestinal Hemorrhage"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38252210/"
+          },
+          {
+            "pmid": "30354950",
+            "title": "Pantoprazole in Patients at Risk for Gastrointestinal Bleeding in the ICU.",
+            "abstract": "Prophylaxis for gastrointestinal stress ulceration is frequently given to patients in the intensive care unit (ICU), but its risks and benefits are unclear.",
+            "journal": "The New England journal of medicine",
+            "year": "2018",
+            "authors": [
+              "Krag Mette",
+              "Marker Søren",
+              "Perner Anders",
+              "Wetterslev Jørn",
+              "Wise Matt P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Critical Illness",
+              "Female",
+              "Gastrointestinal Hemorrhage",
+              "Humans",
+              "Injections, Intravenous",
+              "Intensive Care Units",
+              "Male",
+              "Middle Aged",
+              "Pantoprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30354950/"
+          },
+          {
+            "pmid": "38345252",
+            "title": "Comparative Efficacy of P-CAB vs Proton Pump Inhibitors for Grade C/D Esophagitis: A Systematic Review and Network Meta-analysis.",
+            "abstract": "Los Angeles grade C/D esophagitis is a severe manifestation of gastroesophageal reflux disease that require active treatment and close follow-up. Potassium competitive acid blockers (P-CAB) are promising alternatives to proton pump inhibitors (PPI). We aimed to compare the efficacy and safety of P-CAB and PPI in healing grade C/D esophagitis to aid clinical decision-making.",
+            "journal": "The American journal of gastroenterology",
+            "year": "2024",
+            "authors": [
+              "Zhuang Qianjun",
+              "Chen Songfeng",
+              "Zhou Xuyu",
+              "Jia Xingyu",
+              "Zhang Mengyu"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review",
+              "Comparative Study",
+              "Research Support, Non-U.S. Gov't",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Esophagitis",
+              "Esophagitis, Peptic",
+              "Gastroesophageal Reflux",
+              "Proton Pump Inhibitors",
+              "Pyrroles",
+              "Randomized Controlled Trials as Topic",
+              "Sulfonamides",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38345252/"
+          },
+          {
+            "pmid": "10983736",
+            "title": "Esomeprazole.",
+            "abstract": "Esomeprazole, a new proton pump inhibitor, is the S-isomer of omeprazole and is the first such inhibitor to be developed as a single isomer. Esomeprazole provided better control of intragastric pH than omeprazole, lansoprazole and pantoprazole in trials conducted in patients with gastro-oesophageal reflux disease (GORD) or healthy volunteers (n = 20 to 115). In 2 large randomised, double-blind multicentre trials esomeprazole 20 and/or 40mg for 8 weeks produced higher healing rates of erosive oesophagitis and better symptom control than omeprazole 20 mg in patients with GORD. Esomeprazole 10, 20 or 40mg once daily for 6 months maintained healing versus placebo (p < 0.001) in patients with endoscopically confirmed healed erosive oesophagitis in 2 large randomised, double-blind multicentre trials. Similarly, symptom-driven on-demand use of esomeprazole effectively controlled symptoms of GORD (heartburn) for 6 months in 2 large placebo-controlled trials. Esomeprazole-based triple therapy f",
+            "journal": "Drugs",
+            "year": "2000",
+            "authors": [
+              "Spencer C M",
+              "Faulds D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Ulcer Agents",
+              "Clinical Trials as Topic",
+              "Duodenal Ulcer",
+              "Enzyme Inhibitors",
+              "Esomeprazole",
+              "Gastroesophageal Reflux",
+              "Helicobacter pylori",
+              "Humans",
+              "Omeprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10983736/"
+          },
+          {
+            "pmid": "38582271",
+            "title": "Comparison of Vonoprazan Versus Intravenous Proton Pump Inhibitor for Prevention of High-Risk Peptic Ulcers Rebleeding After Successful Endoscopic Hemostasis: A Multicenter Randomized Noninferiority Trial.",
+            "abstract": "High-dose proton pump inhibitor (PPI) therapy has been recommended to prevent rebleeding of high-risk peptic ulcer (PU) after hemostasis. Vonoprazan has been proven to be noninferior to PPIs in various acid-related diseases. This study aimed to compare the efficacy of vonoprazan vs PPI for preventing high-risk PU rebleeding after hemostasis.",
+            "journal": "Gastroenterology",
+            "year": "2024",
+            "authors": [
+              "Geeratragool Tanawat",
+              "Kaosombatwattana Uayporn",
+              "Boonchote Arpapun",
+              "Chatthammanat Suvikrom",
+              "Preechakawin Nutchanun"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase I",
+              "Comparative Study",
+              "Equivalence Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Hemostasis, Endoscopic",
+              "Infusions, Intravenous",
+              "Peptic Ulcer Hemorrhage",
+              "Proton Pump Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38582271/"
+          },
+          {
+            "pmid": "24833934",
+            "title": "Pantoprazole for the treatment of peptic ulcer bleeding and prevention of rebleeding.",
+            "abstract": "Adding proton pump inhibitors (PPIs) to endoscopic therapy has become the mainstay of treatment for peptic ulcer bleeding, with current consensus guidelines recommending high-dose intravenous (IV) PPI therapy (IV bolus followed by continuous therapy). However, whether or not high-dose PPI therapy is more effective than low-dose PPI therapy is still debated. Furthermore, maintaining pH ≥ 4 appears to prevent mucosal bleeding in patients with acute stress ulcers; thus, stress ulcer prophylaxis with acid-suppressing therapy has been increasingly recommended in intensive care units (ICUs). This review evaluates the evidence for the efficacy of IV pantoprazole, a PPI, in preventing ulcer rebleeding after endoscopic hemostasis, and in controlling gastric pH and protecting against upper gastrointestinal (GI) bleeding in high-risk ICU patients. The review concludes that IV pantoprazole provides an effective option in the treatment of upper GI bleeding, the prevention of rebleeding, and for the",
+            "journal": "Clinical medicine insights. Gastroenterology",
+            "year": "2012",
+            "authors": [
+              "van Rensburg Christo J",
+              "Cheer Susan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24833934/"
+          },
+          {
+            "pmid": "12749518",
+            "title": "A pharmacoeconomic comparison of the efficacy and costs of pantoprazole and omeprazole for the treatment of peptic ulcer or gastroesophageal reflux disease in The Netherlands.",
+            "abstract": "The focus of treatment of patients with peptic ulcer or gastroesuphageal reflux disease has changed during the last 15 years, with a shift from histamine2-receptor antagonists to proton-pump inhibitors (PPIs). From 1993 to 2000, expenditures for omeprazole (90% of total market share of PPIs) increased in The Netherlands from 68 million euros to 230 million euros. In 1999, expenditures for pantoprazole accounted for the majority of the rest of the market share for PPIs.",
+            "journal": "Clinical therapeutics",
+            "year": "2003",
+            "authors": [
+              "van Hout Ben A",
+              "Klok Rogier M",
+              "Brouwers Jacobus R B J",
+              "Postma Maarten J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Cost-Benefit Analysis",
+              "Economics, Pharmaceutical",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Netherlands",
+              "Omeprazole",
+              "Pantoprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12749518/"
+          },
+          {
+            "pmid": "39301419",
+            "title": "Efficacy and safety of vonoprazan versus proton pump inhibitors in the treatment of peptic ulcer disease: a systematic review and network meta-analysis for randomized controlled trails.",
+            "abstract": "Vonoprazan, a novel acid suppressant, has been employed in the treatment of peptic ulcer disease in recent years. However, the efficacy and safety of vonoprazan versus proton-pump inhibitors remains controversial. To address this gap, a systematic review and network meta-analysis were conducted to evaluate the efficacy and safety of vonoprazan in comparison with various proton-pump inhibitors.",
+            "journal": "Frontiers in nutrition",
+            "year": "2024",
+            "authors": [
+              "Tian Lidi",
+              "Xiang Dan",
+              "Yue Feili",
+              "Li Runjie",
+              "Zhou Youping"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39301419/"
+          },
+          {
+            "pmid": "7569755",
+            "title": "Pantoprazole and ranitidine in the treatment of acute duodenal ulcer. A multicentre study.",
+            "abstract": "Pantoprazole is a new substituted benzimidazole that inhibits the parietal cell H+,K(+)-adenosine triphosphatase.",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1995",
+            "authors": [
+              "Schepp W",
+              "Classen M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Acute Disease",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Double-Blind Method",
+              "Duodenal Ulcer",
+              "Enzyme Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7569755/"
+          },
+          {
+            "pmid": "38222001",
+            "title": "Efficacy of pantoprazole plus perforation repair for peptic ulcer and its effect on the stress response.",
+            "abstract": "Peptic ulcer (PU) is an abnormal phenomenon in which there is rupture of the mucosa of the digestive tract, which not only affects patients' normal life but also causes an economic burden due to its high medical costs.",
+            "journal": "World journal of gastrointestinal surgery",
+            "year": "2023",
+            "authors": [
+              "Leng Zi-Yan",
+              "Wang Jia-Hao",
+              "Gao Lei",
+              "Shi Ke",
+              "Hua Hai-Bing"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38222001/"
+          },
+          {
+            "pmid": "28459708",
+            "title": "Withholding Pantoprazole for Stress Ulcer Prophylaxis in Critically Ill Patients: A Pilot Randomized Clinical Trial and Meta-Analysis.",
+            "abstract": "A decreased frequency of upper gastrointestinal bleeding and a possible association of proton pump inhibitor use with Clostridium difficile and ventilator-associated pneumonia have raised concerns recently. The Reevaluating the Inhibition of Stress Erosions Pilot Trial determined the feasibility of undertaking a larger trial investigating the efficacy and safety of withholding proton pump inhibitors in critically ill patients.",
+            "journal": "Critical care medicine",
+            "year": "2017",
+            "authors": [
+              "Alhazzani Waleed",
+              "Guyatt Gordon",
+              "Alshahrani Mohammed",
+              "Deane Adam M",
+              "Marshall John C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Clostridium Infections",
+              "Critical Illness",
+              "Double-Blind Method",
+              "Gastrointestinal Hemorrhage",
+              "Humans",
+              "Intensive Care Units",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28459708/"
+          },
+          {
+            "pmid": "10632647",
+            "title": "Pantoprazole, amoxycillin and either azithromycin or clarithromycin for eradication of Helicobacter pylori in duodenal ulcer.",
+            "abstract": "Studies have shown that 1-week triple therapy consisting of a proton pump inhibitor, amoxycillin and clarithromycin may cure Helicobacter pylori infection in the majority of patients.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "2000",
+            "authors": [
+              "Vcev A",
+              "Stimac D",
+              "Ivandić A",
+              "Vceva A",
+              "Takac B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Azithromycin",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10632647/"
+          },
+          {
+            "pmid": "38652367",
+            "title": "Combined effect of pantoprazole and mesenchymal stem cells on experimentally induced gastric ulcer: implication of oxidative stress, inflammation and apoptosis pathways.",
+            "abstract": "Gastric ulcer (GU) is one of the most common diseases of the upper gastrointestinal tract that affects millions of people worldwide. This study aimed to investigate the possible alleviating effect of a combined treatment of pantoprazole (PANTO) and adipose tissue-derived mesenchymal stem cells (ADSCs) in comparison with each treatment alone on the healing process of the experimentally induced GU in rats, and to uncover the involved pathways. Rats were divided into five groups: (1) Control, (2) GU, (3) PANTO, (4) ADSCs and (5) ADSCs + PANTO. Markers of oxidative stress, inflammation and apoptosis were assessed. The current data indicated that PANTO-, ADSCs- and ADSCs + PANTO-treated groups showed significant drop (p < 0.05) in serum advanced oxidation protein products (AOPPs) and advanced glycation end products (AGEPs) along with significant elevation (p < 0.05) in serum TAC versus the untreated GU group. Moreover, the treated groups (PANTO, ADSCs and ADSCs + PANTO) displayed significan",
+            "journal": "Inflammopharmacology",
+            "year": "2024",
+            "authors": [
+              "Sayed Alaa H",
+              "Mahmoud Nadia S",
+              "Mohawed Ola A M",
+              "Ahmed Hanaa H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Oxidative Stress",
+              "Stomach Ulcer",
+              "Rats",
+              "Apoptosis",
+              "Pantoprazole",
+              "Inflammation",
+              "Mesenchymal Stem Cells",
+              "Male",
+              "Mesenchymal Stem Cell Transplantation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38652367/"
+          },
+          {
+            "pmid": "12752349",
+            "title": "Helicobacter pylori eradication and gastric ulcer healing--comparison of three pantoprazole-based triple therapies.",
+            "abstract": "To study the efficacy of three pantoprazole-based triple therapy regimens for the eradication of Helicobacter pylori infection and gastric ulcer healing.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "2003",
+            "authors": [
+              "Malfertheiner P",
+              "Kirchner T",
+              "Kist M",
+              "Leodolter A",
+              "Peitz U"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination",
+              "Endoscopy, Gastrointestinal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12752349/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Pantoprazole",
+          "disease": "gastrojejunal ulcer",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Pantoprazole%20gastrojejunal%20ulcer"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "duodenogastric reflux",
+        "txgnn_score": 0.992660105228424,
+        "txgnn_rank": 1610,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "11552908",
+            "title": "Influence of pantoprazole on oesophageal motility, and bile and acid reflux in patients with oesophagitis.",
+            "abstract": "Reflux of duodeno-gastric juice into the oesophagus appears to be involved in the pathogenesis of both reflux oesophagitis and oesophageal adenocarcinoma. Although proton pump inhibitors have been shown to decrease acid reflux and heal oesophagitis, their effect on biliary reflux and motility is less clear.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "2001",
+            "authors": [
+              "Netzer P",
+              "Gut A",
+              "Brundler R",
+              "Gaia C",
+              "Halter F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Bile Reflux",
+              "Esophagitis",
+              "Female",
+              "Gastroesophageal Reflux"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11552908/"
+          },
+          {
+            "pmid": "19280541",
+            "title": "Impact of pantoprazole on duodeno-gastro-esophageal reflux (DGER).",
+            "abstract": "Duodeno-gastro-esophageal reflux (DGER) is considered as an independent risk factor for complicated reflux disease (GERD). Patients with Barrett's esophagus have significantly higher levels of DGER than patients with uncomplicated GERD. However, the clinical response to conventional high-dose PPI therapy in patients with uncomplicated GERD and DGER is largely unknown.",
+            "journal": "Zeitschrift fur Gastroenterologie",
+            "year": "2009",
+            "authors": [
+              "Kunsch S",
+              "Neesse A",
+              "Linhart T",
+              "Steinkamp M",
+              "Fensterer H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Anti-Ulcer Agents",
+              "Comorbidity",
+              "Duodenogastric Reflux",
+              "Endoscopy, Digestive System",
+              "Esophageal pH Monitoring",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19280541/"
+          },
+          {
+            "pmid": "36027921",
+            "title": "Potential factors of Helicobacter pylori resistance to clarithromycin.",
+            "abstract": "A comparative dissolution kinetics test (CDKT) and bioequivalence studies of generic proton pump inhibitors (PPIs) do not model pharmacological acid suppression (PAS) and pathological duodenogastric reflux (PDGR). This study aimed to model them in CDKT to assess drugs stability and potential pantoprazole-clarithromycin interactions.",
+            "journal": "Drug metabolism and personalized therapy",
+            "year": "2022",
+            "authors": [
+              "Serebrova Svetlana",
+              "Kurguzova Daria",
+              "Krasnykh Lyudmila",
+              "Vasilenko Galina",
+              "Drozdov Vladimir"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Clarithromycin",
+              "Helicobacter pylori"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36027921/"
+          },
+          {
+            "pmid": "27109388",
+            "title": "Oxidative stress from reflux esophagitis to esophageal cancer: the alleviation with antioxidants.",
+            "abstract": "The incidence of reflux esophagitis increases in world, affecting approximately 20% of Western populations and its consequent lesion, Barrett's esophagus (BE), established as the primary precursor lesion of esophageal adenocarcinoma (EAC) or Barrett associated adenocarcinoma (BAA), is also increasing in incidence in Asian countries as well as Western countries. The fact that surveillance strategies have not had a major benefit in decreasing the incidence of EAC increased attention to arrest or delay the progression of BE to EAC. Since sustained inflammation and consequent oxidative stress plays core pathogenic role in reflux esophagitis, BE, and BAA, attention paid to anti-inflammatory and antioxidative agents in the treatment of reflux esophagitis. Since the risk of esophagitis is associated with hiatal hernia, body mass index, and duodenogastric reflux, and acid exposure, lifestyle modification and agents to control gastric acidity might be mainstay for treatment, but several studies",
+            "journal": "Free radical research",
+            "year": "2016",
+            "authors": [
+              "Song Ji Hyun",
+              "Han Young-Min",
+              "Kim Won Hee",
+              "Park Jong-Min",
+              "Jeong Migyeong"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antioxidants",
+              "Esophageal Neoplasms",
+              "Esophagitis",
+              "Humans",
+              "Mice",
+              "Mice, Inbred C57BL",
+              "Oxidative Stress"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27109388/"
+          },
+          {
+            "pmid": "11232672",
+            "title": "Increased acid and bile reflux in Barrett's esophagus compared to reflux esophagitis, and effect of proton pump inhibitor therapy.",
+            "abstract": "Barrett's metaplasia is an acquired condition resulting from longstanding gastroesophageal reflux disease. Approximately 10% of esophagitis patients develop Barrett's esophagus. There is increasing evidence that duodenogastroesophageal reflux plays a role in the progression of disease. We further analyzed the correlation of acid and biliary reflux with reflux esophagitis and Barrett's esophagus and tested the effects of proton pump inhibitor therapy.",
+            "journal": "The American journal of gastroenterology",
+            "year": "2001",
+            "authors": [
+              "Menges M",
+              "Müller M",
+              "Zeitz M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Barrett Esophagus",
+              "Benzimidazoles",
+              "Bile Reflux",
+              "Case-Control Studies",
+              "Enzyme Inhibitors",
+              "Esophagitis, Peptic",
+              "Female",
+              "Gastric Acid",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11232672/"
+          },
+          {
+            "pmid": "18679668",
+            "title": "Proton pump inhibitors: an update of their clinical use and pharmacokinetics.",
+            "abstract": "Proton pump inhibitors (PPIs) represent drugs of first choice for treating peptic ulcer, Helicobacter pylori infection, gastrooesophageal reflux disease, nonsteroidal anti-inflammatory drug (NSAID)-induced gastrointestinal lesions (complications), and Zollinger-Ellison syndrome.",
+            "journal": "European journal of clinical pharmacology",
+            "year": "2008",
+            "authors": [
+              "Shi Shaojun",
+              "Klotz Ulrich"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Duodenogastric Reflux",
+              "Helicobacter Infections",
+              "Humans",
+              "Peptic Ulcer",
+              "Proton Pump Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18679668/"
+          },
+          {
+            "pmid": "23128301",
+            "title": "Prospective evaluation of duodenogastroesophageal reflux in gastroesophageal reflux disease patients refractory to proton pump inhibitor therapy.",
+            "abstract": "Duodenogastroesophageal reflux (DGER) is considered an independent risk factor for complicated reflux disease (gastroesophageal reflux disease; GERD). However, the role of DGER in GERD patients refractory to proton pump inhibitors (PPI) remains poorly understood.",
+            "journal": "Digestion",
+            "year": "2012",
+            "authors": [
+              "Kunsch S",
+              "Neesse A",
+              "Linhart T",
+              "Nell C",
+              "Gress T M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Bile Reflux",
+              "Drug Resistance",
+              "Esophageal Sphincter, Lower",
+              "Esophageal pH Monitoring",
+              "Esophagoscopy",
+              "Female",
+              "Gastroesophageal Reflux",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23128301/"
+          },
+          {
+            "pmid": "35836240",
+            "title": "Laparoscopic conversion of omega loop gastric bypass to Roux-en-Y gastric bypass for Barrett's esophagus: case report.",
+            "abstract": "The number of mini gastric bypass / one anastomosis bypass (MGB-OAGB) procedures in bariatric patients that have been performed world-wide has drastically increased during the past decade. Nevertheless, due to the risk of subsequent biliary reflux and development of ulcer and neoplastic (pre)lesions caused by long-time bile exposure, the procedure is still controversially discussed. In here presented case report, we could endoscopically demonstrate a transformation from reflux oesophagitis to Barrett's metaplasia most likely caused by bile reflux after mini-gastric bypass. To our knowledge, this is a first case study that shows development of Barrett's metaplasia after MGB-OAGB.",
+            "journal": "BMC surgery",
+            "year": "2022",
+            "authors": [
+              "Lange U G",
+              "Moulla Y",
+              "Mehdorn M",
+              "Tuennemann J",
+              "Zabel-Langhennig A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Barrett Esophagus",
+              "Bile Reflux",
+              "Esophagitis, Peptic",
+              "Female",
+              "Gastric Bypass",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Laparoscopy",
+              "Metaplasia",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35836240/"
+          },
+          {
+            "pmid": "15603372",
+            "title": "[The influence of Helicobacter pylori eradication on oesophageal pH-metry and bilimetry results in patients with nonulcer dyspepsia].",
+            "abstract": "Substernal, fasting and night pains with no endoscopic findings in the upper gastrointestinal tract are the leading symptoms of nonulcer dyspepsia (NUD). Our study aimed at determining whether there is duodenogastroesophageal reflux in patients with NUD and to evaluate what role Helicobacter pylori plays in NUD pathophysiology. The study comprised 40 patients, in whom endoscopy, breath test (UBT-13C), 24-hour pH-metry (Digitrapper III) and bilimetry (Bilitec 2000) of the esophagus were performed before and after 7-day antibacterial treatment (pantoprazole 2 x 40 mg, amoxicillin 2 x 1000 mg, clarithromycin 2 x 500 mg). Eradication was achieved in 29 patients, in whom total index of acid reflux (t% pH < 4.0) decreased from 23.1+/-10.4% to 13.1+/-6.2% (p<0.05) and alkaline reflux index (t% abs > 0.14) from 12.9+/-6.3 to 8.1+/-5.7% (p>0.05). Positive correlations between urea breath test results and the indexes of acid (r=0.692) and alkaline refluxes (r=0.246) were observed. In patients wi",
+            "journal": "Polski merkuriusz lekarski : organ Polskiego Towarzystwa Lekarskiego",
+            "year": "2004",
+            "authors": [
+              "Piotrowski Wojciech",
+              "Chojnacki Jan",
+              "Gil Jerzy",
+              "Walecka-Kapica Ewa"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Drug Therapy, Combination",
+              "Duodenogastric Reflux",
+              "Dyspepsia",
+              "Female",
+              "Gastroesophageal Reflux",
+              "Helicobacter Infections",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15603372/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Pantoprazole",
+          "disease": "duodenogastric reflux",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Pantoprazole%20duodenogastric%20reflux"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "duodenal obstruction",
+        "txgnn_score": 0.9921131134033204,
+        "txgnn_rank": 1725,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07354230",
+            "title": "Open Randomised Controlled parallEl Groups Study of Gastroprotective Efficacy of Rebamipide in Patients With Atrial Fibrillation and Moderate-to-high Risk of Thromboembolic Events, Who Are Treated With Direct Oral Anticoagulants (REGATA)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2022-01-11",
+            "completion_date": "2024-09-20",
+            "country": "Russia",
+            "enrollment": 210,
+            "brief_summary": "The goal of this clinical trial is to learn if Rebamipide effective in gastroprotection in patients with atrial fibrillation who are treated with Direct Oral Anticoagulants (DOACs). Another point is to compare efficacy of Rebamipide and of its combination with Pantoprazole with efficacy of Pantoprazole only.\n\nParticipants will:\n\nTake one of three variants of treatments for up to 24 weeks. Visits to the clinic wil take place for screening and then every 8 weeks.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women from 18 till 80 years old\n* Patients with atrial fibrillation (AF) and a moderate or high risk of thromboembolic complications (\\>=1 point in men and \\>=2 points in women according to the CHA2DS2VASc scale), receiving DOAC (rivaroxaban, apixaban or dabigatran) fo",
+            "endpoints": [
+              "Composite endpoint"
+            ],
+            "sponsor": "Pirogov Russian National Research Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT07354230"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02241044",
+            "title": "Ivision of Gastroenterology, Department of Internal Medicine, Kaohsiung Veterans General Hospital, Kaohsiung, Taiwan",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2010-10",
+            "completion_date": "2012-01",
+            "country": "Taiwan",
+            "enrollment": 116,
+            "brief_summary": "Background:\n\nA second endoscopic method added to injection therapy is recommended for high-risk bleeding peptic ulcers. Many endoscopic devices have been proved as useful hemostatic instruments, whereas the hemostatic efficacy of argon plasma coagulation (APC) has not been widely investigated.\n\nAim:\n\nThis study was designed to know whether additional APC treatment could influence the hemostatic efficacy after endoscopic injection therapy in treating high-risk bleeding ulcers.\n\nMethods:\n\nFrom Oct",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* (i) over 20 years of age and (ii) patients with high-risk peptic ulcer bleeding.\n\nExclusion Criteria:\n\n* (i) the presence of another possible bleeding site (eg, gastroesophageal varix, gastric cancer, reflux esophagitis); (ii) coexistence of actively severe ill diseases (eg, s",
+            "endpoints": [
+              "rebleeding"
+            ],
+            "sponsor": "Kaohsiung Veterans General Hospital.",
+            "url": "https://clinicaltrials.gov/study/NCT02241044"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "35305006",
+            "title": "An unexpected cause of proximal small intestinal obstruction.",
+            "abstract": "A 63-year-old caucasian male with history of tonsil cancer, under induction chemotherapy, reported food intolerance and vomiting with duration of one month. Symptoms had increased over the last days and were associated with a weight loss of 10 Kg during the past three months. The patient lived all of is life in an urban environment. General physical examination revealed cachexia and dehydration. Gastrointestinal symptoms persisted despite intravenous pantoprazole, prokinetic drugs and nasogastric tube insertion. On investigation, patient presented normocytic and normochromic anemia (9.2 g/dL), lymphocytosis (11.78 x109/L) with neutrophilia (70.7%) and eosinophilia (7.7%), hypoalbuminemia (2.8 g/dL) and elevated C-reactive protein (25.5 mg/dL). Upper endoscopy revealed deformation of bulb and second part of the duodenum with mucosal edema, superficial ulceration and friability (Figure 1a). Biopsies were taken from the bulb and second portion of the duodenum. Computer tomography demonstr",
+            "journal": "Acta gastro-enterologica Belgica",
+            "year": "2022",
+            "authors": [
+              "Ferreira-Silva J",
+              "Morais R",
+              "Moreira F",
+              "Macedo G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Biopsy",
+              "Duodenal Obstruction",
+              "Duodenum",
+              "Eosinophilia",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35305006/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Pantoprazole",
+          "disease": "duodenal obstruction",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Pantoprazole%20duodenal%20obstruction"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "duodenal ulcer (disease)",
+        "txgnn_score": 0.9917923212051392,
+        "txgnn_rank": 1785,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01847417",
+            "title": "An Open Label, Balanced, Randomized, Three-treatment, Three-period, Six-sequence, Cross-over, Single Dose, Comparative Bioavailability Pilot Study of Two Test Formulations of Fixed Dose Combination Capsules of Acetylsalicylic Acid (ASA) and Pantoprazole (Each Capsule Contains ASA 100 mg and Pantoprazole 20 mg) Manufactured by Piramal Healthcare Limited, India for GSK Comparing With Aspirin® Protect 100 mg Tablets by Bayer Vital GmbH, and Protium® 20 mg Gastro-resistant Tablets by Nycomed GmbH, in Healthy, Adult, Human Subjects, Under Fed Conditions",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2013-05-16",
+            "completion_date": "2013-07-01",
+            "country": "India",
+            "enrollment": 24,
+            "brief_summary": "An open label, balanced, randomized, three-treatment, three-period, six-sequence, cross-over, single dose, comparative bioavailability pilot study under fed conditions. For fed condition, after check-in, subjects will receive a standard dinner consisting (1000 - 1200 calories) after which they will be required to fast overnight (for at least 10 hours). Thereafter they will receive a non-vegetarian high calorie, high-fat breakfast (800-1000 calories) before dosing, and a standard meal (1700 - 190",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Healthy human subjects within the age range of 18 to 45 years (both inclusive)\n* Non-smokers since at least six months\n* Willingness to provide written informed consent to participate in the study\n* Body-mass index (BMI) of \\>=18.5 kilogram per meter square (kg/m\\^2) and \\<=24",
+            "endpoints": [
+              "Composite of pharmacokinetic (PK) parameters"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT01847417"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00261300",
+            "title": "Long-term Pantoprazole Trial in Patients With Symptoms of Chronic Acid Peptic Complaints",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2000-10",
+            "completion_date": "2008-07",
+            "country": "Germany",
+            "enrollment": 100,
+            "brief_summary": "Gastroesophageal reflux disease (GERD) is a medical condition affecting the stomach and esophagus. GERD might occur when the lower esophageal sphincter does not close properly and stomach contents leaks back (refluxes) into the esophagus. GERD is one of the most common medical disorders, with estimates of up to 50% of adults reporting reflux symptoms. One of the main symptoms of GERD is heartburn. It occurs when the acidic content from the stomach touches the lining of the esophagus, causing a b",
+            "eligibility_criteria": "Main Inclusion Criteria:\n\n* Patients who completed ALTANA Pharma study BY1023/FK3006 (long-term clinical trial regarding efficacy and tolerability of Pantoprazole in patients not responding to treatment with H2-receptor antagonists or omeprazole)\n* Written informed consent\n\nMain Exclusion Criteria:\n",
+            "endpoints": [
+              "Safety (adverse events, laboratory values)."
+            ],
+            "sponsor": "Takeda",
+            "url": "https://clinicaltrials.gov/study/NCT00261300"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00161096",
+            "title": "Comparison of the Percentage Chronic on-Demand Users Treated With 20 Mg Pantoprazole on-Demand and Placebo o.d Versus Placebo on-Demand and 20 Mg Pantoprazole o.d. After Symptom Relief With 20 Mg Pantoprazole o.d.",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2004-03",
+            "completion_date": "2005-09",
+            "country": "N/A",
+            "enrollment": 276,
+            "brief_summary": "The purpose of this study is to investigate several aspects of chronic use of acid suppressing medication: dependence on maintenance therapy, the possibilities for on-demand use, and predictors (patient characteristics) for daily need, for on-demand use and for termination of chronic use.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* male and female (non-pregnant, non-lactating)out-patients between 18-75\n* chronic users of acid suppressive therapy for at least 180 days over the last year\n\nExclusion Criteria:\n\n* stage 3, 4 oesophagitis, Barrett's oesophagus, acute peptic ulcer\n* gastric hypersecretory condi",
+            "endpoints": [
+              "The percentage of patients taking 6 or more tablets on-demand per week (averaged from week 5-17."
+            ],
+            "sponsor": "UMC Utrecht",
+            "url": "https://clinicaltrials.gov/study/NCT00161096"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02084420",
+            "title": "PhaseⅢ Study of A Multicenter, Randomized, Double-blind, Active-controlled to Evaluate of Efficacy /Safety as H. Pylori Eradication Effect Between Ilaprazole/Pantoprazole",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2014-01",
+            "country": "South Korea",
+            "enrollment": 323,
+            "brief_summary": "The purpose of this study is to evaluate of efficacy and safety as H.pylori eradiation effect between Ilaprazole and Pantoprazole triple therapy for 7 days treatment in Gastric and/or Duodenal ulcer patients with H.pylori positive infection.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 18 year old ≤ Male or female \\< 75 year old\n* Patients who had endoscopically confirmed Gastric and/or duodenal ulcer and H.pylori infection confirmed by Urea Breath Test\n* Patients who understand the study conditions\n* Patients who had been given the explanation about the stu",
+            "endpoints": [
+              "the rate of H.pylori eradication"
+            ],
+            "sponsor": "Il-Yang Pharm. Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT02084420"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00001191",
+            "title": "The Use of Oral Omeprazole and Intravenous Pantoprazole in Patients With Hypersecretion of Gastric Acid",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "1983-02-03",
+            "completion_date": "2007-12-10",
+            "country": "United States",
+            "enrollment": "N/A",
+            "brief_summary": "Patients with Zollinger-Ellison Syndrome suffer from ulcers of the upper gastrointestinal tract, higher than normal levels of gastric acid, and tumors of the pancreas known as non-beta islet cell tumors. Patients with Zollinger-Ellison Syndrome require continuous control of their gastric acid secretion. If gastric acid levels are permitted to rise higher than normal, patients may develop severe ulcers and other complications.\n\nThis study will attempt to determine the effectiveness of Omeprazole ",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\nSubjects for receiving oral Omeprazole will be patients who have idiopathic gastric acid hypersecretion with basal rates of gastric acid secretion of greater than 15 mEq/hr and patients with Zollinger-Ellison syndrome with basal acid output greater than 10mEq/hr are eligible.\n",
+            "endpoints": [],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT00001191"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01167101",
+            "title": "Is Rebamipide Effective on the Healing of Iatrogenic Gastric Ulcer After Endoscopic Mucosal Resection? : Multicenter, Randomized, and Prospective Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-05",
+            "completion_date": "2010-12",
+            "country": "South Korea",
+            "enrollment": 290,
+            "brief_summary": "Treatment strategy of post endoscopic submucosal dissection (ESD) ulcer is not yet conclusive. Rebamipide is a mucosal protective agent widely used in East Asia and has good effect on quality of ulcer healing (QOUH). The investigators will conduct this randomized controlled study to assess the effect of a combination therapy of rebamipide and proton pump inhibitor (PPI) on post ESD ulcer healing.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients underwent ESD for gastric adenoma or cancer\n\nExclusion Criteria:\n\n* subjects with previous gastric surgery\n* subjects taking aspirin, anticoagulant, or antiplatelet agent\n* subjects having malignancy except gastric cancer\n* pregnant or breast-feeding women",
+            "endpoints": [
+              "Healing efficacy of Rebamipide in the treatment of iatrogenic gastric ulcer"
+            ],
+            "sponsor": "Kangdong Sacred Heart Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01167101"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07354230",
+            "title": "Open Randomised Controlled parallEl Groups Study of Gastroprotective Efficacy of Rebamipide in Patients With Atrial Fibrillation and Moderate-to-high Risk of Thromboembolic Events, Who Are Treated With Direct Oral Anticoagulants (REGATA)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2022-01-11",
+            "completion_date": "2024-09-20",
+            "country": "Russia",
+            "enrollment": 210,
+            "brief_summary": "The goal of this clinical trial is to learn if Rebamipide effective in gastroprotection in patients with atrial fibrillation who are treated with Direct Oral Anticoagulants (DOACs). Another point is to compare efficacy of Rebamipide and of its combination with Pantoprazole with efficacy of Pantoprazole only.\n\nParticipants will:\n\nTake one of three variants of treatments for up to 24 weeks. Visits to the clinic wil take place for screening and then every 8 weeks.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women from 18 till 80 years old\n* Patients with atrial fibrillation (AF) and a moderate or high risk of thromboembolic complications (\\>=1 point in men and \\>=2 points in women according to the CHA2DS2VASc scale), receiving DOAC (rivaroxaban, apixaban or dabigatran) fo",
+            "endpoints": [
+              "Composite endpoint"
+            ],
+            "sponsor": "Pirogov Russian National Research Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT07354230"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02551744",
+            "title": "Pantoprazole Versus Famotidine for the Prevention of Recurrent Peptic Ulcers in Thienopyridine Users - a Double-blind Randomized Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-07",
+            "completion_date": "2018-07",
+            "country": "Taiwan",
+            "enrollment": 101,
+            "brief_summary": "Whether pantoprazole versus famotidine for the prevention of recurrent peptic ulcers in thienopyridine users remains unclear.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Recent endoscopic examination (within 2 months) reveals normal appearance or erythematous patches only (without subepithelial hemorrhages, erosions or ulcers).\n* Peptic ulcers (a mucosal break ³ 5 mm in diameter) have been documented by a previous endoscopic examination.\n* Sub",
+            "endpoints": [
+              "Number of Participants With Ulcer Recurrence"
+            ],
+            "sponsor": "Kaohsiung Veterans General Hospital.",
+            "url": "https://clinicaltrials.gov/study/NCT02551744"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05251233",
+            "title": "Evaluation of the Role of Proton Pump Inhibitors on the Postoperative Course Following Pancreaticoduodenectomy",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2022-04-21",
+            "completion_date": "2024-06-29",
+            "country": "United States",
+            "enrollment": 56,
+            "brief_summary": "The purpose of this study is to prospectively determine the effects of administering proton pump inhibitors (PPIs) following pancreaticoduodenectomy on postoperative outcomes. The findings of this study will help in avoiding the widespread use of PPIs during the immediate postoperative period following pancreatic surgery.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All consecutive patients who will undergo pancreaticoduodenectomy with gastric/biliary reconstruction performed as definitive management for a benign or malignant disease at Washington University/Barnes-Jewish Hospital.\n* At least 18 years of age.\n* Ability to understand and w",
+            "endpoints": [
+              "Number of Participants With Delayed Gastric Emptying as Measured by the International Study Group of Pancreatic Surgery (ISGPS) Criteria",
+              "Number of Participants With Delayed Gastric Emptying as Measured by Modified Accordion Grading System (MAGS)"
+            ],
+            "sponsor": "Washington University School of Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT05251233"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00839488",
+            "title": "Comparison of Intravenous Pantoprazole and Famotidine for Stress Ulcer Prophylaxis in Patients After Major Abdominal Surgery",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2008-04",
+            "completion_date": "2009-04",
+            "country": "Taiwan",
+            "enrollment": 6,
+            "brief_summary": "Although stress ulcer is a complication that can cause significant mortality and morbidity in critical patients with risk factors, there is still lack of consensus about its prophylaxis. There are also few data available from Taiwan. H2 blockers are commonly used due to convenience. Some prefer sucralfate (a mucosal protective agent) for the sake of less association with nosocomial pneumonia. Recently, proton pump inhibitors were shown to have good prophylactic effects for stress ulcer. Pantopra",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* those recieved major abdominal surgery (estimated admission to sirgical ICU more than 7 days); give written consent and was randomized within 24 hours of admission\n\nExclusion Criteria:\n\n* age less than 18 y/o; pregnant; allergy to famotidine or pantoprazole; have had GI bleedi",
+            "endpoints": [
+              "apparant upper gastrointestinal bleeding"
+            ],
+            "sponsor": "Far Eastern Memorial Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00839488"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01182597",
+            "title": "Oral Versus Intravenous Proton Pump Inhibitor Treatment in High-risk Bleeding Peptic Ulcers After Endoscopic Hemostasis: a Prospective Randomized Comparative Study",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2010-08",
+            "completion_date": "",
+            "country": "Taiwan",
+            "enrollment": 190,
+            "brief_summary": "Endoscopic hemostasis has been documented by a number of clinical studies to be effective in decreasing rebleeding, need for emergency surgery, and hospitalization days. Studies showed adjuvant treatment with proton pump inhibitor (PPI) after initial endoscopic hemostasis reduced recurrent ulcer bleeding. However, the optimal dose and route of adjuvant PPI therapy remains controversial. A recent study demonstrated frequent oral PPI offered similar acid control as currently recommended intravenou",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18\n* Confirmed ulcer bleeding with Forrest Ia, Ib, IIa\n* Endoscopic hemostasis achieved by combined endoscopic hemostasis\n* Informed consent obtained\n\nExclusion Criteria:\n\n* No consent\n* Unsuccessful endoscopic treatment\n* Upper GI malignancy\n* History of subtotal gastre",
+            "endpoints": [
+              "Clinical rebleeding"
+            ],
+            "sponsor": "National Taiwan University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01182597"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00713947",
+            "title": "Comparative Effectiveness of the Eradication of Helicobacter Pylori and an Inhibitor of Pump With Proton Versus Control on the Gastric Lesions Induced by the Aspirin With the Low Dose Among Patients Treated With the Long Course",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2008-04",
+            "completion_date": "2010-03",
+            "country": "France",
+            "enrollment": 0,
+            "brief_summary": "Low dose of aspirin is the main cause of gastro-duodenal ulcer. The best prevention is not definite particularly in patients without history of ulcer and infected by H. pylori.The aim of the study is to evaluate the gastric damage induced by aspirin in patients with H. pylori infection but who have any history of ulcer.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of more than 18 years old\n* Coronarography or coronary imaging or supra-aortic arterial trunks ultrasound examination performed since less 7 months and having at least an arterial vascular stenosis\n* Indication for aspirin treatment for at least 12 months (at the mome",
+            "endpoints": [
+              "Measure: severity of the ulcerated gastric lesions induced by the aspirin"
+            ],
+            "sponsor": "Assistance Publique - Hôpitaux de Paris",
+            "url": "https://clinicaltrials.gov/study/NCT00713947"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01471496",
+            "title": "Prophylactic Injection Therapy Reduces Recurrent Bleeding Rate In Forrest Type IIb Duodenal Ulcer Bleeding",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2003-01",
+            "completion_date": "2009-10",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 80,
+            "brief_summary": "The purpose of this study is to determine whether prophylactic injection therapy reduces recurrent bleeding rate for duodenal ulcers which has the endoscopic stigmata of recent bleeding.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Endoscopic diagnose of Forrest type 2b duodenal ulcer.\n\nExclusion Criteria:\n\n* Patients at whom the onset of Upper Gastrointestinal system bleeding symptoms exceeded 24 hours at index endoscopy.\n* Patients having hemodynamic instability: systolic blood pressure below 90 mm/hg,",
+            "endpoints": [
+              "Evidence of clinically definitive recurrent bleeding confirmed by upper gastrointestinal system endoscopy or surgery."
+            ],
+            "sponsor": "Bakirkoy Dr. Sadi Konuk Research and Training Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01471496"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03038009",
+            "title": "Evaluation of the Efficacy and Safety of Different Duration of Proton Pump Inhibitor for Prevention of Upper Gastrointestinal Mucosal Injury in Patients Taking 12-month Dual Antiplatelet Therapy After Coronary Artery Bypass Graft Surgery",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2018-10",
+            "completion_date": "2020-12",
+            "country": "China",
+            "enrollment": 0,
+            "brief_summary": "The purpose of this study is to determine whether 12-month prophylactic treatment with pantoprazole is superior to 1-month therapy without major cardiovascular events (MACE) increased significantly, in prevention of dual antiplatelet therapy (DAPT)-induced upper gastrointestinal (GI) mucosal injury after coronary artery bypass graft (CABG) surgery. The potentially serious harm of DAPT on gastroduodenal mucosa will be assessed by esophagogastroduodenoscopy (EGD).",
+            "eligibility_criteria": "Inclusion Criteria:\n\nEach patient should meet all of the inclusion criteria and none of the exclusion criteria for this study:\n\n1. Provision of informed consent prior to any study specific procedures.\n2. CABG surgery is performed for the first time.\n3. Need 12-month DAPT (aspirin 100mg qd plus clopi",
+            "endpoints": [
+              "Cumulative incidence of gastroduodenal erosions and ulcers."
+            ],
+            "sponsor": "Ruijin Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03038009"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00237367",
+            "title": "A Randomized, Two-way Crossover Study of the Effects of a Single Dose of Rabeprazole or Pantoprazole on 24-hour Intragastric Acidity and Esophageal Acid Exposure in GERD Patients With a History of Nocturnal Heartburn",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "2005-04",
+            "country": "N/A",
+            "enrollment": 52,
+            "brief_summary": "The purpose of the study is to compare the pharmacodynamics (the way a drug works in the body) of rabeprazole and pantoprazole on intragastric acidity and esophageal acid exposure in gastroesophageal reflux disease (GERD) patients with nighttime heartburn. Patients will be given one dose of each medication with a washout period of 6 to 13 days between doses (\"washout period\" means they will receive no further proton pump inhibitor medication for 6-13 days, allowing the 1st dose to completely lea",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of GERD with symptoms for at least 6 months with at least 3 episodes a week and one of those at nighttime\n* in generally good health\n* stop any previous similar (proton pump inhibitor) therapy at least 10 days before screening\n* weigh within normal weight for one's h",
+            "endpoints": [
+              "Pharmacodynamics: intragastric pH measurements, collected every 8 seconds for each 24 hour period after administration of study medication on Day 1 and Day 2 of each study period; percent of the 24-hour period with intragastric pH>4"
+            ],
+            "sponsor": "PriCara, Unit of Ortho-McNeil, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00237367"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00843063",
+            "title": "Famotidine vs. Pantoprazole to Prevent Recurrent Aspirin-Induced Peptic Ulcer/Erosion - a Randomized Controlled Study",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2004-08",
+            "completion_date": "2008-12",
+            "country": "China",
+            "enrollment": 161,
+            "brief_summary": "Low-dose aspirin can prevent cerebral and cardiovascular accidents in individuals with symptomatic atherothrombotic disease, but its use is frequently limited by gastrointestinal side effects.\n\nThe position of H2-receptor antagonists as a step-down therapy after healing of peptic ulcer or erosions by proton pump inhibitor is unclear.\n\nThe objective of this randomized, double blinded control study was to compare the efficacy of high-dose famotidine with pantoprazole in the prevention of recurrent",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* upper GIB or dyspepsia due to peptic ulcers / erosions while receiving low-dose aspirin with a daily dose ranging from 80 mg to 320 mg\n* endoscopy revealed a gastric or duodenal ulcers of 3 mm or more in diameter with unequivocal depth, or more than 5 erosions in the stomach o",
+            "endpoints": [
+              "The primary end-point was the recurrence of dyspeptic or complicated ulcer / erosions."
+            ],
+            "sponsor": "Ruttonjee Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00843063"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02467621",
+            "title": "Stress Ulcer Prophylaxis in the Intensive Care Unit (SUP-ICU)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2016-01",
+            "completion_date": "2018-01-21",
+            "country": "Denmark, Norway, United Kingdom, Switzerland, Finland, Netherlands",
+            "enrollment": 3350,
+            "brief_summary": "Stress ulcer prophylaxis (SUP) is standard of care in the intensive care unit (ICU), however the quantity and quality of evidence is low and potential harm has been reported.\n\nThe aim of the SUP-ICU trial is to asses the overall benefits and harms of SUP with proton pump inhibitor in adult critically ill patients in the ICU.",
+            "eligibility_criteria": "INCLUSION CRITERIA:\n\n* Acute admission to the ICU\n* Age ≥ 18 years\n* One or more of the following risk factors:\n\n  * Shock (continuous infusion with vasopressors or inotropes, systolic blood pressure \\< 90 mmHg, mean arterial blood pressure \\< 70 mmHg or lactate \\> 4 mmol/l)\n  * Acute or chronic int",
+            "endpoints": [
+              "Mortality"
+            ],
+            "sponsor": "Scandinavian Critical Care Trials Group",
+            "url": "https://clinicaltrials.gov/study/NCT02467621"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00709046",
+            "title": "High Dose Versus Standard Dose Proton Pump Inhibitor in High-risk Bleeding Peptic Ulcers After Combined Endoscopic Hemostasis: A Prospective Randomized Comparative Study",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2008-01",
+            "completion_date": "",
+            "country": "Taiwan",
+            "enrollment": 150,
+            "brief_summary": "The study was designed to evaluate the efficacy an adjuvant use of standard dose or high dose of proton pump inhibitor after combined endoscopic hemostasis therapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* adults aged above 16 years old with acute nonvariceal upper gastrointestinal bleeding\n* read, agree to attend the study, and signed informed consent indicated to receive esophagogastroduodenoscopy(EGD)\n* peptic ulcers with high risk lesions (active bleeding: spurting, oozing p",
+            "endpoints": [
+              "rate of initial hemostasis and the rate of recurrent bleeding"
+            ],
+            "sponsor": "National Taiwan University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00709046"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03814421",
+            "title": "Effect of Intermittent Versus Continuous Intravenous Pantoprazole for Prevention of Bleeding After Endoscopic Therapy of Bleeding Peptic Ulcers",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2016-04-15",
+            "completion_date": "2021-10-31",
+            "country": "South Korea",
+            "enrollment": 200,
+            "brief_summary": "We prepare this study to compare the efficacy of intermittent intravenous PPI infusion (relatively low dose PPI therapy) than continous PPI infusion method. Our hypothesis is that intermittent (40mg as a bolus injection daily for 72 hours) PPI therapy is not inferior to conventional high dose therapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18 years or older who had undergone gastroscopy for melena, hematochezia or hematemesis due to bleeding peptic ulcers were eligible. These eligible patients were required to have a peptic ulcer with bleeding on emergency endoscopy performed within 24 hours after ",
+            "endpoints": [
+              "rebleeding rates within 7 days"
+            ],
+            "sponsor": "Samsung Changwon Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03814421"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02241044",
+            "title": "Ivision of Gastroenterology, Department of Internal Medicine, Kaohsiung Veterans General Hospital, Kaohsiung, Taiwan",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2010-10",
+            "completion_date": "2012-01",
+            "country": "Taiwan",
+            "enrollment": 116,
+            "brief_summary": "Background:\n\nA second endoscopic method added to injection therapy is recommended for high-risk bleeding peptic ulcers. Many endoscopic devices have been proved as useful hemostatic instruments, whereas the hemostatic efficacy of argon plasma coagulation (APC) has not been widely investigated.\n\nAim:\n\nThis study was designed to know whether additional APC treatment could influence the hemostatic efficacy after endoscopic injection therapy in treating high-risk bleeding ulcers.\n\nMethods:\n\nFrom Oct",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* (i) over 20 years of age and (ii) patients with high-risk peptic ulcer bleeding.\n\nExclusion Criteria:\n\n* (i) the presence of another possible bleeding site (eg, gastroesophageal varix, gastric cancer, reflux esophagitis); (ii) coexistence of actively severe ill diseases (eg, s",
+            "endpoints": [
+              "rebleeding"
+            ],
+            "sponsor": "Kaohsiung Veterans General Hospital.",
+            "url": "https://clinicaltrials.gov/study/NCT02241044"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00881413",
+            "title": "Clinical Effectiveness of Intravenous Esomeprazole Versus Pantoprazole in Preventing Peptic Ulcer Recurrent Bleeding: a Double-Blind Randomized Trial",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "",
+            "completion_date": "",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "The aim of this study is to compare the clinical effectiveness of intravenous esomeprazole and pantoprazole in preventing recurrent bleeding in the patients with high-risk bleeding peptic ulcers after successful standard endoscopic hemostasis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* aged more than 18 years\n* undergo emergent endoscopy within 24 hours of presentation\n* have peptic ulcers in the gastroesophageal junction, stomach, or duodenum\n* high-risk stigmata of peptic ulcers: Forrest classification IA\\~IIB\n* endoscopic hemostasis by thermocoagulation o",
+            "endpoints": [
+              "recurrent bleeding within 14 days of enrollment"
+            ],
+            "sponsor": "Lotung Poh-Ai Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00881413"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03998969",
+            "title": "Efficacy of DA-5204 (Stillen 2X®) for Patients With Gastroesophageal Reflux Disease: A Randomized, Double-blind, Placebo-controlled Pilot Study",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2016-06-01",
+            "completion_date": "2018-12-11",
+            "country": "South Korea",
+            "enrollment": 70,
+            "brief_summary": "This is a single-center, randomized, double-blind, placebo-controlled clinical Study to evaluate the efficacy of DA-5204 and proton pump inhibitor combination therapy compared with proton pump inhibitor alone therapy in patients with gastroesophageal reflux Disease.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age is over 20 years old, under 75 years old, men or women\n* Patients diagnosed with erosive esophagitis by gastroscopy\n* Signed the informed consent forms\n\nExclusion Criteria:\n\n* Patients who is impossible to receive gastroscopy\n* Patients with esophageal stricture, esophagea",
+            "endpoints": [
+              "Endoscopically effective improvement",
+              "Endoscopically complete improvement"
+            ],
+            "sponsor": "Seoul National University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03998969"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00374101",
+            "title": "Proton Pump Inhibitors in Conjunction to Endoscopic Therapy for Bleeding Peptic Ulcers: a Randomized Clinical Trial of High vs Standard Doses",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2005-01",
+            "completion_date": "2007-03",
+            "country": "Italy",
+            "enrollment": 450,
+            "brief_summary": "High intravenous dosage of Proton Pump Inhibitors is not better than standard dosage in bleeding peptic ulcers successfully treated by endoscopic therapy",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Consecutive patients admitted for upper gastrointestinal bleeding secondary to peptic ulcers that have been successfully treated with endoscopic therapy\n\nExclusion Criteria:\n\n* Variceal esophageal bleeding\n* Concurrent PPI use\n* Moribund patients",
+            "endpoints": [
+              "Rebleeding rates and surgical needs"
+            ],
+            "sponsor": "Casa Sollievo della Sofferenza IRCCS",
+            "url": "https://clinicaltrials.gov/study/NCT00374101"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "11402494",
+            "title": "Pantoprazole.",
+            "abstract": "The pharmacology, pharmacokinetics, clinical efficacy, adverse effects, and dosage and administration of pantoprazole are reviewed. Pantoprazole is a gastric hydrogen-potassium adenosine triphosphatase (H+/K(+)-ATPase) inhibitor. It shares the same core structure as other currently available proton-pump inhibitors (PPIs). The FDA-labeled indication is the short-term treatment of erosive esophagitis. PPIs act by selectively inhibiting H+/K(+)-ATPase in the secretory canaliculus of the stimulated parietal cell. Understanding the pharmacodynamics of PPIs is more relevant than knowing their pharmacokinetics, since the duration of action depends on the rate of de novo proton-pump regeneration, not the duration of drug circulation in the body. Pantoprazole is well absorbed, undergoes little first-pass metabolism, and has an absolute bioavailability of approximately 77%. Pantoprazole has been evaluated in more than 100 clinical trials involving more than 11,000 patients. It is effective in tr",
+            "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+            "year": "2001",
+            "authors": [
+              "Poole P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Enzyme Inhibitors",
+              "Esophagitis",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Omeprazole",
+              "Pantoprazole",
+              "Proton Pump Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11402494/"
+          },
+          {
+            "pmid": "10983736",
+            "title": "Esomeprazole.",
+            "abstract": "Esomeprazole, a new proton pump inhibitor, is the S-isomer of omeprazole and is the first such inhibitor to be developed as a single isomer. Esomeprazole provided better control of intragastric pH than omeprazole, lansoprazole and pantoprazole in trials conducted in patients with gastro-oesophageal reflux disease (GORD) or healthy volunteers (n = 20 to 115). In 2 large randomised, double-blind multicentre trials esomeprazole 20 and/or 40mg for 8 weeks produced higher healing rates of erosive oesophagitis and better symptom control than omeprazole 20 mg in patients with GORD. Esomeprazole 10, 20 or 40mg once daily for 6 months maintained healing versus placebo (p < 0.001) in patients with endoscopically confirmed healed erosive oesophagitis in 2 large randomised, double-blind multicentre trials. Similarly, symptom-driven on-demand use of esomeprazole effectively controlled symptoms of GORD (heartburn) for 6 months in 2 large placebo-controlled trials. Esomeprazole-based triple therapy f",
+            "journal": "Drugs",
+            "year": "2000",
+            "authors": [
+              "Spencer C M",
+              "Faulds D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Ulcer Agents",
+              "Clinical Trials as Topic",
+              "Duodenal Ulcer",
+              "Enzyme Inhibitors",
+              "Esomeprazole",
+              "Gastroesophageal Reflux",
+              "Helicobacter pylori",
+              "Humans",
+              "Omeprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10983736/"
+          },
+          {
+            "pmid": "15703599",
+            "title": "Gastric secretion.",
+            "abstract": "Gastric acid facilitates the digestion of protein and the absorption of iron, calcium, and vitamin B12. It also protects against bacterial overgrowth and enteric infection, including prion disease. When homeostatic mechanisms malfunction, the volume and concentration of acid may overwhelm mucosal defense mechanisms, leading to duodenal ulcer, gastric ulcer, and gastroesophageal reflux disease. This article reviews recent knowledge contributing to understanding of the regulation of gastric acid secretion at the central, peripheral, and intracellular levels.",
+            "journal": "Current opinion in gastroenterology",
+            "year": "2003",
+            "authors": [
+              "Schubert Mitchell L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15703599/"
+          },
+          {
+            "pmid": "7569755",
+            "title": "Pantoprazole and ranitidine in the treatment of acute duodenal ulcer. A multicentre study.",
+            "abstract": "Pantoprazole is a new substituted benzimidazole that inhibits the parietal cell H+,K(+)-adenosine triphosphatase.",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1995",
+            "authors": [
+              "Schepp W",
+              "Classen M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Acute Disease",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Double-Blind Method",
+              "Duodenal Ulcer",
+              "Enzyme Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7569755/"
+          },
+          {
+            "pmid": "10632647",
+            "title": "Pantoprazole, amoxycillin and either azithromycin or clarithromycin for eradication of Helicobacter pylori in duodenal ulcer.",
+            "abstract": "Studies have shown that 1-week triple therapy consisting of a proton pump inhibitor, amoxycillin and clarithromycin may cure Helicobacter pylori infection in the majority of patients.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "2000",
+            "authors": [
+              "Vcev A",
+              "Stimac D",
+              "Ivandić A",
+              "Vceva A",
+              "Takac B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Azithromycin",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10632647/"
+          },
+          {
+            "pmid": "7614102",
+            "title": "Double-blind comparison of pantoprazole and omeprazole for the treatment of acute duodenal ulcer.",
+            "abstract": "To compare the healing rates of acute duodenal ulcer in patients receiving pantoprazole 40 mg or omeprazole 20 mg once daily and to assess drug tolerance.",
+            "journal": "European journal of gastroenterology & hepatology",
+            "year": "1995",
+            "authors": [
+              "Beker J A",
+              "Bianchi Porro G",
+              "Bigard M A",
+              "Delle Fave G",
+              "Devis G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Acute Disease",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Diarrhea",
+              "Double-Blind Method"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7614102/"
+          },
+          {
+            "pmid": "9112751",
+            "title": "Pharmacotherapy for acid/peptic disorders.",
+            "abstract": "In the 1970s, the identification of the histamine H2-receptor by Black and the subsequent development of histamine H2-receptor antagonists revolutionized our understanding and treatment of acid/peptic disorders. More recently, the identification of hydrogen-potassium-stimulated adenosine triphosphatase (H+/K(+)-ATPase) as the proton pump of the parietal cell and the recognition of the prominent role of Helicobacter pylori in the pathogenesis of duodenal and gastric ulceration have heralded a new revolution in our understanding and treatment of these disorders. Substituted benzimidazole compounds (omeprazole, lansoprazole and pantoprazole) that covalently bind to and inactivate the proton pump allow complete and prolonged inhibition of acid secretion. Not only can peptic ulcers now be healed more rapidly with proton pump inhibitors, but refractory ulcers have all but disappeared. Eradication of H. pylori with antibiotics offers, for the first time, a permanent cure for most duodenal and",
+            "journal": "The Yale journal of biology and medicine",
+            "year": "1996",
+            "authors": [
+              "Schubert M L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Cost-Benefit Analysis",
+              "Duodenal Ulcer",
+              "Enzyme Inhibitors",
+              "Gastrins",
+              "Guidelines as Topic",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Humans",
+              "Proton Pump Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9112751/"
+          },
+          {
+            "pmid": "8186350",
+            "title": "Comparison of pantoprazole and ranitidine in the treatment of acute duodenal ulcer. Pantoprazole-Duodenal Ulcer-Study Group.",
+            "abstract": "Pantoprazole is a new substituted benzimidazole that blocks the H+/K(+)-ATPase in the gastric mucosa and thus inhibits acid secretion.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "1994",
+            "authors": [
+              "Judmaier G",
+              "Koelz H R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Benzimidazoles",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Duodenal Ulcer",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8186350/"
+          },
+          {
+            "pmid": "8180295",
+            "title": "A review of treatment of duodenal and gastric ulcers--pantoprazole vs. omeprazole.",
+            "abstract": "The efficacy and safety of pantoprazole in the treatment of duodenal and gastric ulcers has been compared with that of the first proton pump inhibitor omeprazole in two (previously reported) clinical studies. Pantoprazole (40 mg/day) administered orally was an effective and well-tolerated treatment for both indications. Pantoprazole was as effective as omeprazole (20 mg/day) and had a similar safety profile. For gastric ulcers, the healing rate with pantoprazole was superior to that with omeprazole at 4 weeks.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "1994",
+            "authors": [
+              "Schepp W",
+              "Rehner M",
+              "Witzel L"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Benzimidazoles",
+              "Double-Blind Method",
+              "Duodenal Ulcer",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8180295/"
+          },
+          {
+            "pmid": "10469192",
+            "title": "Comparative treatment of Helicobacter pylori-positive duodenal ulcer using pantoprazole at low and high doses versus omeprazole in triple therapy.",
+            "abstract": "Helicobacter pylori eradication has become the standard treatment for peptic ulcer disease. H. pylori-eradicating triple therapy with omeprazole plus two antibiotics has been used until recently; however, the efficacy of pantoprazole and antibiotics for H. pylori eradication has not been researched thoroughly until now. The aim of this randomized clinical trial was to verify the efficacy of triple oral therapy comparing the effects of pantoprazole using two different doses versus omeprazole twice daily in H. pylori eradication, in ulcer healing and relapses, and in gastritis improvement.",
+            "journal": "Helicobacter",
+            "year": "1999",
+            "authors": [
+              "Catalano F",
+              "Branciforte G",
+              "Catanzaro R",
+              "Bentivegna C",
+              "Cipolla R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10469192/"
+          },
+          {
+            "pmid": "15244210",
+            "title": "In treatment of active duodenal ulcer and Helicobacter pylori eradication.",
+            "abstract": "To compare the efficacy of lansoprazole and pantoprazole in treatment of active duodenal ulcer and Helicobacterpylori eradication.",
+            "journal": "Hepato-gastroenterology",
+            "year": "2003",
+            "authors": [
+              "Yukselen Vahit",
+              "Yasa M Hadi",
+              "Karaoglu A Onder"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15244210/"
+          },
+          {
+            "pmid": "9772056",
+            "title": "Cure of Helicobacter pylori infection and healing of duodenal ulcer: comparison of pantoprazole-based one-week modified triple therapy versus two-week dual therapy. The International Pantoprazole HP Study Group.",
+            "abstract": "Eradication of Helicobacter pylori (H. pylori) is recommended as the first-line therapeutic concept for reliable long-term prevention of duodenal ulcer (DU) relapse. Current treatment regimens vary in efficacy, complexity, and compliance. To assess the efficacy of pantoprazole in H. pylori eradication in parallel groups of patients using two eradication regimens.",
+            "journal": "The American journal of gastroenterology",
+            "year": "1998",
+            "authors": [
+              "Adamek R J",
+              "Bethke T D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Administration Schedule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9772056/"
+          },
+          {
+            "pmid": "11802510",
+            "title": "Amoxycillin, clarithromycin and either sucralfate or pantoprazole for eradication of Helicobacter pylori in duodenal ulcer (a randomized controlled trial).",
+            "abstract": "Sucralfate enhances the anti-Helicobacter pylori activity of antimicrobials and has an inhibitory effect on H. pylori.",
+            "journal": "Wiener klinische Wochenschrift",
+            "year": "2001",
+            "authors": [
+              "Vcev A",
+              "Vceva A",
+              "Kurbel S",
+              "Takac B",
+              "Stimac D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer",
+              "Duodenoscopy",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11802510/"
+          },
+          {
+            "pmid": "9042979",
+            "title": "Efficacy and tolerability of a one-week triple therapy consisting of pantoprazole, clarithromycin and amoxycillin for cure of Helicobacter pylori infection in patients with duodenal ulcer.",
+            "abstract": "Previous studies have shown that one-week triple therapy consisting of omeprazole, clarithromycin and amoxycillin may cure Helicobacter pylori infection in the vast majority of patients. The present study was designed to test the hypothesis that a triple therapy with pantoprazole, clarithromycin and amoxycillin cures the infection in > or = 80% of duodenal ulcer patients infected with H. pylori.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "1997",
+            "authors": [
+              "Labenz J",
+              "Tillenburg B",
+              "Weismüller J",
+              "Lütke A",
+              "Stolte M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Diarrhea",
+              "Drug Hypersensitivity",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9042979/"
+          },
+          {
+            "pmid": "10672051",
+            "title": "Eradication of H. pylori with pantoprazole, clarithromycin, and metronidazole in duodenal ulcer patients: a head-to-head comparison between two regimens of different duration.",
+            "abstract": "The study was conducted to compare the efficacy and tolerability of two pantoprazole-based triple therapies of different length in the eradication of H. pylori.",
+            "journal": "Helicobacter",
+            "year": "2000",
+            "authors": [
+              "Dammann H G",
+              "Fölsch U R",
+              "Hahn E G",
+              "von Kleist D H",
+              "Klör H U"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Abdominal Pain",
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Bronchitis",
+              "Clarithromycin",
+              "Diarrhea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10672051/"
+          },
+          {
+            "pmid": "37206569",
+            "title": "Efficacy and safety of proton pump inhibitors and H2 receptor antagonists in the initial non‑eradication treatment of duodenal ulcer: A network meta‑analysis.",
+            "abstract": "The present network meta-analysis aimed to enhance the corresponding evidence with respect to the efficacy and safety of pharmaceuticals treatments. Frequentist network meta-analysis was used. Medical literature up to November 2022 was searched for randomized clinical trials assessing the efficacy and safety of these pharmaceuticals, either compared with each other or compared with placebo. With the exception of ranitidine (300 mg four times daily) and vonoprazan (20 mg once daily) having lower safety than placebo, the efficacy and safety of the remaining treatments were superior to placebo. Cimetidine (400 mg four times daily) and pantoprazole (40 mg once daily) were ranked first in terms of efficacy. The frequentist network meta-analysis shows that for cimetidine (except 400 mg once daily), famotidine, rabeprazole, ilaprazole, lansoprazole (except 7.5 mg once daily) and omeprazole (except 10 mg once daily or 30 mg once daily), the efficacy comparison between the different doses of ea",
+            "journal": "Experimental and therapeutic medicine",
+            "year": "2023",
+            "authors": [
+              "Meng Xiangbo",
+              "Zhu Xiuying",
+              "Li Baixue",
+              "Liu Jibin",
+              "Zhao Jiawei"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37206569/"
+          },
+          {
+            "pmid": "10638560",
+            "title": "Pantoprazole versus ranitidine in the treatment of duodenal ulcer: a multicenter study in Brazil.",
+            "abstract": "The aim of this study was to compare the effectiveness and tolerance of pantoprazole versus ranitidine in the treatment of duodenal ulcers in the Brazilian population.",
+            "journal": "The American journal of gastroenterology",
+            "year": "2000",
+            "authors": [
+              "Meneghelli U G",
+              "Zaterka S",
+              "de Paula Castro L",
+              "Malafaia O",
+              "Lyra L G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Double-Blind Method",
+              "Duodenal Ulcer",
+              "Female",
+              "Histamine H2 Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10638560/"
+          },
+          {
+            "pmid": "9678814",
+            "title": "Two-week course of pantoprazole combined with 1 week of amoxycillin and clarithromycin is effective in Helicobacter pylori eradication and duodenal ulcer healing.",
+            "abstract": "Experience with proton pump inhibitor-based triple therapy is predominantly with omeprazole-containing regimens.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "1998",
+            "authors": [
+              "Louw J A",
+              "van Rensburg C J",
+              "Hanslo D",
+              "Grundlings H D",
+              "Girdwood A H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Clarithromycin",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9678814/"
+          },
+          {
+            "pmid": "9432635",
+            "title": "[Evaluation of the effectiveness of pantoprazole and ranitidine in the treatment of duodenal ulcer. Result of an international multicenter study].",
+            "abstract": "A double-blind, randomized, multicenter, multicountry study (Poland, Chech Republic, Hungary) was carried out in 1995 on patients (n = 326) with endoscopically confirmed duodenal ulcer treated with ranitidine vs. pantoprazole. In Hungary-in 4 gastroenterology centers-123 patients have been involved (age 18-75 years). The treatment schedule has been 300 mgs of ranitidine or 40 mgs of pantoprazole q. d. for 2 or if necessary for 4 weeks. In the Hungarian study 60 DU patients were treated with pantoprazole vs. 63 ones with ranitidine. Having finished the two-week schedule the healing rates of duodenal ulcer were as follows: pantoprazole 71%/72% (Hungary/International) vs ranitidine 57%/51%, (p < 0.001). After 4 weeks the corresponding values showed the following: pantoprazole 98%/94% vs. ranitidine 88%/86%, respectively, (p < 0.005). Both drugs have shown to be effective and safe to cure duodenal ulcer however in our study pantoprazole was significantly more efficacious and provided quick",
+            "journal": "Orvosi hetilap",
+            "year": "1997",
+            "authors": [
+              "Papp J",
+              "Döbrönte Z",
+              "Juhász L",
+              "Lonovics J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Clinical Trial, Phase II",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Double-Blind Method",
+              "Duodenal Ulcer",
+              "Humans",
+              "Omeprazole",
+              "Pantoprazole",
+              "Ranitidine",
+              "Sulfoxides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9432635/"
+          },
+          {
+            "pmid": "10228801",
+            "title": "Rapid improvement of symptomatology with pantoprazole, amoxycillin and metronidazole in Helicobacter pylori-positive duodenal ulcer patients.",
+            "abstract": "To evaluate the efficacy and tolerability of a new 1-week triple therapy regimen consisting of pantoprazole, amoxycillin and metronidazole.",
+            "journal": "Hepato-gastroenterology",
+            "year": "1999",
+            "authors": [
+              "Pilotto A",
+              "Leandro G",
+              "Franceschi M",
+              "Bierti L",
+              "Di Battista R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Aged",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10228801/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Pantoprazole",
+          "disease": "duodenal ulcer (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Pantoprazole%20duodenal%20ulcer%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Pantoprazole",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00213",
+    "name": "Pantoprazole",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Pantoprazole"
+      },
+      "queried_at": "2026-03-10T14:03:25.772205",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Pantoprazole"
+      },
+      "queried_at": "2026-03-10T14:03:25.785664",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Pantoprazole"
+      },
+      "queried_at": "2026-03-10T14:03:42.182973",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "active peptic ulcer disease"
+      },
+      "queried_at": "2026-03-10T14:03:43.395057",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "active peptic ulcer disease"
+      },
+      "queried_at": "2026-03-10T14:03:49.328777",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "active peptic ulcer disease"
+      },
+      "queried_at": "2026-03-10T14:03:51.706564",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "active peptic ulcer disease"
+      },
+      "queried_at": "2026-03-10T14:03:54.661665",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-10T14:03:55.242295",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-10T14:03:58.596755",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-10T14:03:59.661222",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-10T14:04:06.911781",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-10T14:04:08.399266",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-10T14:04:11.836311",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-10T14:04:13.929551",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-10T14:04:24.031839",
+      "status": "success",
+      "result_count": 18,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenogastric reflux"
+      },
+      "queried_at": "2026-03-10T14:04:24.658126",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenogastric reflux"
+      },
+      "queried_at": "2026-03-10T14:04:29.113207",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenogastric reflux"
+      },
+      "queried_at": "2026-03-10T14:04:30.892757",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenogastric reflux"
+      },
+      "queried_at": "2026-03-10T14:04:35.517579",
+      "status": "success",
+      "result_count": 9,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-10T14:04:37.417384",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-10T14:04:41.924486",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-10T14:04:42.871195",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-10T14:04:45.261947",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal ulcer (disease)"
+      },
+      "queried_at": "2026-03-10T14:04:48.740261",
+      "status": "success",
+      "result_count": 23,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal ulcer (disease)"
+      },
+      "queried_at": "2026-03-10T14:04:54.689213",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal ulcer (disease)"
+      },
+      "queried_at": "2026-03-10T14:04:55.776878",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Pantoprazole",
+        "disease": "duodenal ulcer (disease)"
+      },
+      "queried_at": "2026-03-10T14:04:59.032373",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 6,
+    "created_at": "2026-03-10T14:04:59.047791"
+  }
+}

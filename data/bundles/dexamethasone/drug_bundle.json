@@ -1,0 +1,1506 @@
+{
+  "drug": {
+    "inn": "Dexamethasone",
+    "drugbank_id": "DB01234",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "alopecia areata",
+        "txgnn_score": 0.9999080896377563,
+        "txgnn_rank": 39,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02288078",
+            "title": "A Study of Prophylactic Oral Steroids for Fatigue and Malaise Due to Regorafenib Treatment for Unresectable Metastatic Colorectal Cancer: a Randomized, Placebo-controlled, Double-blind Phase 2 Clinical Study (KSCC1402/HGCSG1402)",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2014-10",
+            "completion_date": "2016-09",
+            "country": "Japan",
+            "enrollment": 74,
+            "brief_summary": "The objective of this randomized placebo-controlled Phase 2 study is to evaluate prophylactic effects of dexamethasone for fatigue and malaise (weakness, lethargy, malaise) resulting from regorafenib treatment, as well as to assess treatment continuation of regorafenib.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Capable of granting informed consent in writing for receiving treatment outlined in this protocol\n* The investigators determines that the patient can receive the treatment outlined in this protocol\n* Histological diagnosis of adenocarcinoma of either the colon or the rectum, r",
+            "endpoints": [
+              "incidence of fatigue or malaise (CTCAE ver. 4, all grades)"
+            ],
+            "sponsor": "Clinical Research Support Center Kyush",
+            "url": "https://clinicaltrials.gov/study/NCT02288078"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01607554",
+            "title": "A Pilot, Non-Randomized Phase II Protocol of Irinotecan for Patients With Previously Treated, Advanced, Non-Small Cell Lung Cancer With High ISG 15 Expression",
+            "phase": "PHASE1, PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2012-04",
+            "completion_date": "2013-03",
+            "country": "United States",
+            "enrollment": 2,
+            "brief_summary": "Certain genetic factors can affect a patient's potential sensitivity to therapeutic drugs and other agents. There is a factor called ISG15 which might help doctors better identify patients with advanced non-small cell lung cancer (NSCLC) whose tumors may be more sensitive to the drug called Irinotecan. This factor is elevated in roughly 30% of NSCLC cases. Irinotecan is an agent that inhibits the enzyme called topoisomerase I that is involved in cell growth, and it has been FDA approved for 17 y",
+            "eligibility_criteria": "Inclusion Criteria:\n\n-INCLUSION:\n\n18 years of age or older Have received prior chemotherapy for histologically proven advanced non-small cell lung cancer, up to 3 prior treatments Tumors display high ISG15 (ISG15H) at screening Life expectancy of at least 12 weeks ECOG/Zubrod performance status of 0",
+            "endpoints": [
+              "Tumor Response"
+            ],
+            "sponsor": "New Mexico Cancer Research Alliance",
+            "url": "https://clinicaltrials.gov/study/NCT01607554"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01866449",
+            "title": "Prospective Controlled Phase 2 Trial of Cabazitaxel in Patients With Temozolomide Refractory Glioblastoma Multiforme (GBM)- The C-GBM Study -",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2013-10",
+            "completion_date": "2017-08-25",
+            "country": "Germany",
+            "enrollment": 24,
+            "brief_summary": "The proposed study is an open-label, single-arm, Phase- II trial to assess the efficacy of cabazitaxel in GBM WHO grade IV patients with a progression during or within 6 months after last temozolomide treatment (Figure 1).\n\nCabazitaxel will be given at a dose of 25mg/m² as 1h infusion every 3 weeks with standard concomitant medication (as outlined below):\n\n* On Day 1 of each cycle, patients will receive cabazitaxel at a dose of 25mg/m², administered by i.v. route in 1 hour.\n* Cycle length for ca",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Both female and male patients meeting the mentioned inclusion and exclusion criteria will be included in this clinical trial. Patients must meet ALL of the following inclusion criteria to be eligible for enrollment into the study:\n\n  * Patients with diagnosis glioblastoma mult",
+            "endpoints": [
+              "Response including SD, PR or CR determined by MRI (modified RANO criteria)"
+            ],
+            "sponsor": "University of Ulm",
+            "url": "https://clinicaltrials.gov/study/NCT01866449"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04343560",
+            "title": "Effects of Abnormal Steroid Metabolome on Bone Strength and Quality, Bone Density, Bone Remodeling, and Body Composition in Patients With MACS and Healthy Volunteers.",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2019-02-21",
+            "completion_date": "2023-12-11",
+            "country": "United States",
+            "enrollment": 380,
+            "brief_summary": "Adrenal adenoma is detected in 5-7% of adults and demonstrates mild autonomous cortisol secretion (MACS, dexamethasone suppression test \\>1.8 mcg/dl) in 50% of individuals with adenoma. Published reports suggest a 48%-52% 2-year incidence of new vertebral fractures in patients with MACS without any significant changes in bone density measurements. A disproportionate decrease in bone quality versus density or other factors such as sarcopenia potentially contribute to development of new vertebral ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with MACS\n* Age 18-no maximum\n* exogenous steroids therapy within the last 5 years ( for more than 3 months , prednisone equivalent \\>7.5 mg daily)\n* steroid hormone replacement therapy\n* any drug therapy affecting bone metabolism\n* recent fracture\n\nExclusion Criteria",
+            "endpoints": [
+              "BV/TV ratio",
+              "steroid metabolome"
+            ],
+            "sponsor": "Mayo Clinic",
+            "url": "https://clinicaltrials.gov/study/NCT04343560"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02685826",
+            "title": "A Phase 1/2 Multicenter, Open-label Study to Determine the Recommended Dose and Regimen of Durvalumab (MEDI4736) in Combination With Lenalidomide (LEN) With and Without Dexamethasone (DEX)in Subjects With Newly Diagnosed Multiple Myeloma (NDMM)",
+            "phase": "PHASE1, PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2016-04-25",
+            "completion_date": "2022-09-06",
+            "country": "Denmark, Spain, Italy, United States, Canada, Germany, Finland, Netherlands",
+            "enrollment": 56,
+            "brief_summary": "This is a multicenter, open-label, Phase 1/2 study to determine the recommended dose and regimen of durvalumab in combination with lenalidomide (LEN) with and without dexamethasone (dex) in adults with newly diagnosed multiple myeloma (NDMM).\n\nThe study will consist of a dose-finding phase as well as a parallel dose-expansion phase to determine the optimal regimen.\n\n\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must satisfy the following criteria to be enrolled into the study:\n\n  1. Subject is ≥ 18 years of age at the time of signing the informed consent form (ICF)\n  2. Subject must understand and voluntarily sign an ICF prior to any study-related assessments/procedures bein",
+            "endpoints": [
+              "Participants With Dose-Limiting Toxicities (DLTs) During the Dose-Determining Timeframe (Day 1 - Day 28)"
+            ],
+            "sponsor": "Celgene",
+            "url": "https://clinicaltrials.gov/study/NCT02685826"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01126736",
+            "title": "An Open-Label, Multicenter, Randomized Phase Ib/II Study of Eribulin Mesylate Administered in Combination With Pemetrexed Versus Pemetrexed Alone as Second Line Therapy in Patients With Stage IIIB or IV Nonsquamous Non Small Cell Lung Cancer",
+            "phase": "PHASE1, PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-06-10",
+            "completion_date": "2015-03-18",
+            "country": "Ukraine, Italy, United States, Germany, Czechia",
+            "enrollment": 98,
+            "brief_summary": "The purpose of this study is to determine whether Eribulin Mesylate Administered in Combination with Pemetrexed is safe and tolerable and to gain a preliminary indication of clinical benefit when administered to Patients with Stage IIIB or IV Nonsquamous Non Small Cell Lung Cancer.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatients may be entered in the study only if they meet all of the following criteria:\n\n1. Male or female patient greater than or equal to 18 years of age;\n2. Histologically or cytologically confirmed nonsquamous NSCLC stage IIIB with malignant pleural effusion or stage IV diseas",
+            "endpoints": [
+              "Phase 1b: Number of Participants With Dose-Limiting Toxicity (DLTs)",
+              "Phase 1b: Percentage of Participants With Grade 3 or Higher Treatment Emergent Adverse Events (TEAEs)",
+              "Phase 2: Percentage of Participants Who Experienced TEAEs"
+            ],
+            "sponsor": "Eisai Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01126736"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04840615",
+            "title": "Phase I Study of Intratumor Injection of Anti-Mesothelin Immunotoxin LMB-100 With Ipilimumab in Malignant Mesothelioma",
+            "phase": "PHASE1",
+            "status": "TERMINATED",
+            "start_date": "2021-06-11",
+            "completion_date": "2022-01-12",
+            "country": "United States",
+            "enrollment": 2,
+            "brief_summary": "Background:\n\nMesothelioma is a type of cancer. It originates in cells that line human body cavities. Most people have advanced disease when they are diagnosed. Researchers want to see if a combination of drugs can help.\n\nObjective:\n\nTo find a safe dose of LMB-100 in combination with ipilimumab when LMB-100 is injected into tumors.\n\nEligibility:\n\nAdults ages 18 and older with malignant pleural or peritoneal mesothelioma, that cannot be cured with surgery and has not responded to standard first-li",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1. Histologically confirmed malignant pleural or peritoneal mesothelioma not amenable to potentially curative surgical resection. The diagnosis will be confirmed by the Laboratory of Pathology, Center for Cancer Research (CCR), National Cancer Institute (NCI).\n  2. Tumor mus",
+            "endpoints": [
+              "Recommended Phase 2 Dose (RP2D) of Intratumorally Administered LMB-100 in Participants With Mesothelioma",
+              "Number of Participants Who Experienced Grades 1-5 Serious and/or Non-serious Toxicity Related (= Possibly + Probably + Definitely) to LMB-100",
+              "Number of Participants Who Experienced Grades 1-5 Serious and/or Non-serious Toxicity Related (= Possibly + Probably + Definitely) to Ipilimumab"
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT04840615"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05408026",
+            "title": "A Phase II, Multicenter, Open-Label Study of the Combination of Pomalidomide, Bortezomib, Low-Dose Dexamethasone, and Daratumumab in Patients With Relapsed or Refractory Multiple Myeloma",
+            "phase": "PHASE1, PHASE2",
+            "status": "WITHDRAWN",
+            "start_date": "2022-10-01",
+            "completion_date": "2026-02",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "This phase II clinical trial design with a safety run-in period will be used to assess the rate of VGPR or better for the combination PVD-Dara in the treatment of RRMM.",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Histologically confirmed diagnosis of symptomatic multiple myeloma.\n2. Evidence of disease progression or refractoriness to 1 to 3 prior lines of therapy by IMWG standard criteria.\n3. Prior exposure to lenalidomide and a proteasome inhibitor is mandatory.\n4. Daratumumab n",
+            "endpoints": [
+              "Safety Run-In Stage: Adverse events (AEs) will be assigned a grade and attribution using CTCAE v5.0 to determine the presence of dose-limiting toxicities (DLT).",
+              "Phase II: To estimate the rate of Very Good Partial Response (VGPR) or better after 8 cycles of the combination PVD-DARA in patients with RRMM, including those with prior exposure to daratumumab"
+            ],
+            "sponsor": "Alliance Foundation Trials, LLC.",
+            "url": "https://clinicaltrials.gov/study/NCT05408026"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02004275",
+            "title": "A Phase I/II Study of Pomalidomide, Dexamethasone and Ixazomib vs. Pomalidomide and Dexamethasone for Patients With Multiple Myeloma Relapsing on Lenalidomide as Part of First Line Therapy",
+            "phase": "PHASE1, PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2014-02",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": 118,
+            "brief_summary": "This randomized phase I/II trial studies the side effects and best dose of pomalidomide and ixazomib when given together with dexamethasone and to see how well pomalidomide and dexamethasone with or without ixazomib works in treating patients with multiple myeloma that has come back. Biological therapies, such as pomalidomide and dexamethasone, may stimulate the immune system in different ways and stop cancer cells from growing. Ixazomib may stop the growth of cancer cells by blocking some of th",
+            "eligibility_criteria": "* Histologically confirmed diagnosis of symptomatic multiple myeloma; relapsed disease is myeloma that has previously responded to prior therapy (MR or better) and subsequently progressed\n* Patient must have measurable disease or non-measurable disease, defined as one or more of the following holdin",
+            "endpoints": [
+              "Maximum Tolerated Dose (MTD) of Pomalidomide and Ixazomib, Determined According to Incidence of Dose Limiting Toxicity (DLT) Graded Using the National Cancer Institute (NCI) Common Terminology Criteria for Adverse Events (CTCAE) Version 4.0 (Phase I)",
+              "Progression Free Survival (PFS) (Phase II)"
+            ],
+            "sponsor": "Alliance for Clinical Trials in Oncology",
+            "url": "https://clinicaltrials.gov/study/NCT02004275"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00402766",
+            "title": "Phase I Trial of Cisplatin, Pemetrexed, and Imatinib Mesylate in Unresectable or Metastatic Malignant Mesothelioma",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2006-08",
+            "completion_date": "2014-02",
+            "country": "United States",
+            "enrollment": 19,
+            "brief_summary": "Primary Objective:\n\n* To determine the maximum tolerated dose of the combination of cisplatin, imatinib mesylate, and pemetrexed in metastatic malignant mesothelioma.\n\nSecondary Objectives:\n\n* To explore the biologic effects of cisplatin, imatinib mesylate, and pemetrexed on tumor tissue by:\n* histologic analysis of biopsy tissue\n* by non-invasive assessments of tumor vascularity performed before, during and after treatment\n* electron microscopy analysis of endothelial cell architecture after pa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. A written, voluntary informed consent form must be completed prior to beginning any study procedure.\n2. Patients \\>/= 18 years of age.\n3. Histologically documented diagnosis of malignant mesothelioma.\n4. Performance status 0-2 (ECOG)\n5. Patients must have adequate hepatic,ren",
+            "endpoints": [
+              "Maximum Tolerated Dose (MTD) of Cisplatin, Pemetrexed, and Imatinib Mesylate Given to Participants with Unresectable or Metastatic Malignant Mesothelioma"
+            ],
+            "sponsor": "M.D. Anderson Cancer Center",
+            "url": "https://clinicaltrials.gov/study/NCT00402766"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01055496",
+            "title": "AN OPEN-LABEL, PHASE 1 STUDY OF R-CVP OR R-GDP IN COMBINATION WITH INOTUZUMAB OZOGAMICIN IN SUBJECTS WITH CD22-POSTIVE NON-HODGKIN'S LYMPHOMA",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2010-03",
+            "completion_date": "2014-03",
+            "country": "Japan, United Kingdom, United States, Belgium, Singapore, Canada, France, Hong Kong, South Korea",
+            "enrollment": 103,
+            "brief_summary": "This is a phase 1 trial designed to evaluate safety and tolerability of chemotherapy in combination with inotuzumab ozogamicin, an investigational product, in adults with CD22-positive non-Hodgkin's lymphoma. The trial will involve two arms. In one arm, subjects will receive chemotherapy regimen R-CVP (rituximab, cyclophosphamide, vincristine and prednisone). In the other arm, subjects will receive R-GDP (rituximab, gemcitabine, cisplatinum and dexamethasone). Subjects in both arms will also rec",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Dose escalation cohorts: subjects with diagnosis of CD22-positive Non-Hodgkin's Lymphoma (NHL) who have had at least 1 prior anticancer treatment, including prior treatment with rituximab and chemotherapy.\n* Expanded maximum tolerated dose (MTD) confirmation and preliminary ef",
+            "endpoints": [
+              "Participants Reporting Dose Limiting Toxicity (DLT) Adverse Events (AEs) for Participants in the DE Cohort and the MTD Confirmation Cohort for Arm 1",
+              "Participants Reporting DLT AEs for Participants in the DE Cohort and the MTD Confirmation Cohort for Arm 2",
+              "Percentage of Participants With Best Overall Response (OR) of Complete Response (CR) or Partial Response (PR) According to International Response Criteria for NHLs in the MTD and EE Cohorts"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT01055496"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01215916",
+            "title": "A Phase 1b Study of LY573636-sodium in Combination With Alimta (Pemetrexed) in Patients With Solid Tumors",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2008-02",
+            "completion_date": "2011-12",
+            "country": "United States",
+            "enrollment": 39,
+            "brief_summary": "The primary objective of this study is to determine the maximum tolerated dose (MTD) regimen for the combination therapy of LY573636 and pemetrexed that may be safely administered to patients with a solid tumor that is not amenable to curative therapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* You must have a diagnosis of a solid tumor malignancy that is not amenable to curative therapy\n* You must have a serum albumin level greater than or equal to 3.0 grams per deciliter (g/dL) \\[30 grams per liter (g/L)\\]\n* You must have a performance status of 0 or 1 on the Easte",
+            "endpoints": [
+              "Recommended Phase 2 Dose"
+            ],
+            "sponsor": "Eli Lilly and Company",
+            "url": "https://clinicaltrials.gov/study/NCT01215916"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00282087",
+            "title": "Adjuvant Treatment of High Risk Uterine Leiomyosarcoma With Gemcitabine/Docetaxel Followed by Doxorubicin: A Phase II Trial",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2006-01",
+            "completion_date": "2012-01",
+            "country": "United States",
+            "enrollment": 47,
+            "brief_summary": "The purpose of this trial is to study the benefits of giving chemotherapy to women after they have had surgical resection of their primary disease and have no evidence of disease remaining(known as adjuvant therapy). The major objective of this study is to determine the progression free survival. The goal is to prevent relapse or recurrence of their uterine leiomyosarcoma.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* ≥ 18 years of age\n* high risk uterine LMS, FIGO stage I or II\n* pathology review of LMS high grade and /or mitotic rate greater than or equal to 5 mitoses/10 hpf\n* no longer than 12 weeks from surgical resection of cancer\n* no evidence of residual disease\n* ECOG 0 or 1\n* ANC ≥",
+            "endpoints": [
+              "Two-year Progression-free Survival Among Women Treated With This Adjuvant Regimen for High Risk Uterine LMS"
+            ],
+            "sponsor": "Sarcoma Alliance for Research through Collaboration",
+            "url": "https://clinicaltrials.gov/study/NCT00282087"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "39042154",
+            "title": "Comparative efficacy and safety of systemic steroids, oral JAK inhibitors and Contact Immunotherapy in the Treatment of severe alopecia areata: a systematic review and network meta-analysis.",
+            "abstract": "Severe alopecia areata (AA) is a nonscarring hair loss for immune disorder and SALT score ≥ 50%. The guidelines for managing patients with severe AA suggest treatments: systemic steroids, JAK inhibitors, and contact immunotherapy. However, there is a lack of evidence indicating the superiority of one treatment over another. Therefore, this study aimed to identify the most effective treatment for severe AA through network meta-analysis. Following the PRISMA guidelines, we conducted a network meta-analysis. The literature search was retrieved across four databases. The Cochrane 5.1 risk of bias assessment tool and ROBINS-I tool assessed quality of the included studies. Subsequently, efficacy and safety comparisons among the three treatments were conducted using Stata 14.0 on account of the frequency method. The SUCRA rank indicated that oral dexamethasone (95.9%) > diphenylcyclopropenone(DPCP) (74.5%) > oral ritlecitinib (62.6%) > oral baricitinib (46.9%) > squaric acid dibutyl ester(SAD",
+            "journal": "Archives of dermatological research",
+            "year": "2024",
+            "authors": [
+              "Guan Ruixuan",
+              "Lin Yiling",
+              "Zhang Cun",
+              "Wang Zhao",
+              "Wu Zhiping"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Comparative Study",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alopecia Areata",
+              "Janus Kinase Inhibitors",
+              "Treatment Outcome",
+              "Administration, Oral",
+              "Purines",
+              "Azetidines",
+              "Dexamethasone",
+              "Sulfonamides",
+              "Immunotherapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39042154/"
+          },
+          {
+            "pmid": "35330017",
+            "title": "Alopecia Areata and Dexamethasone Mini-Pulse Therapy, A Prospective Cohort: Real World Evidence and Factors Related to Successful Response.",
+            "abstract": "The mini-pulse oral corticosteroids treatment for alopecia areata (AA) is an accessible treatment whose efficacy and adverse effects have not yet been properly described. The objective of the study was to assess the effectiveness and safety of the mini-pulse oral corticosteroids treatment in patients with AA, and to explore potential factors associated to the response in a real-world setting. An observational study of a prospective cohort to assess the effectiveness and safety of a mini-pulse dexamethasone treatment in patients with AA, who failed to improve with topical therapies, was performed. A SALT II score and other clinical and safety variables were recorded at baseline, 3, 6, 9, and 12 months. An overall significant and progressive decrease of the SALT score was found during treatment: SALT-50 response was achieved after 9 months in 51.8% of the patients. Hypothyroidism and early age of onset were predictors of the lack of response to treatment. The treatment combination with o",
+            "journal": "Journal of clinical medicine",
+            "year": "2022",
+            "authors": [
+              "Sánchez-Díaz Manuel",
+              "Montero-Vilchez Trinidad",
+              "Bueno-Rodriguez Ahinoa",
+              "Molina-Leyva Alejandro",
+              "Arias-Santiago Salvador"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35330017/"
+          },
+          {
+            "pmid": "41243342",
+            "title": "When JAK inhibitors are off the table: durable remission of severe alopecia areata with dexamethasone oral mini-pulse and a focused review.",
+            "abstract": "Janus kinase (JAK) inhibitors have revolutionized alopecia areata (AA) treatment, but many patients remain ineligible or lack access. Corticosteroid pulse regimens provide valuable systemic alternatives in these scenarios.",
+            "journal": "The Journal of dermatological treatment",
+            "year": "2025",
+            "authors": [
+              "Shanshal Mohammed"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alopecia Areata",
+              "Female",
+              "Middle Aged",
+              "Janus Kinase Inhibitors",
+              "Dexamethasone",
+              "Pulse Therapy, Drug",
+              "Treatment Outcome",
+              "Remission Induction",
+              "Administration, Oral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41243342/"
+          },
+          {
+            "pmid": "39911973",
+            "title": "Circumscribed Alopecia Areata Incognita and Response to Tofacitinib.",
+            "abstract": "Alopecia areata incognita (AAI) remains a subject of ongoing debate in the literature, with some authors advocating its classification as a subtype of alopecia areata. A localized form of this condition, entitled circumscribed AAI, has been rarely reported in the literature. We report an unusual case of circumscribed AAI treated with oral tofacitinib.",
+            "journal": "Skin appendage disorders",
+            "year": "2025",
+            "authors": [
+              "Reyes Soto Mayra A",
+              "Pirmez Rodrigo"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39911973/"
+          },
+          {
+            "pmid": "36086930",
+            "title": "Randomized controlled trial to compare the effectiveness and safety of low dose dexamethasone oral mini-pulse versus diphenylcyclopropenone contact sensitisation in severe pediatric alopecia areata.",
+            "abstract": "Oral mini pulse (OMP) corticosteroids and diphencyclopropenone (DPCP) contact sensitisation are commonly used treatment modalities in severe cases of Alopecia areata (AA) in children but with scarce studies comparing the two modalities in children. In this study we aimed to compare the effectiveness and safety of dexamethasone OMP with DPCP contact sensitization in severe non progressive AA in children. This randomized open label study was undertaken in 30 children less than 18 years of age with extensive non progressive AA divided in two groups. Group I included 15 patients who received dexamethasone (5 mg/week) OMP as five tablets of 0.5 mg dexamethasone (i.e., 2.5 mg dexamethasone) on two consecutive days in a week. Group II included 15 patients who were treated with DPCP contact sensitization. The treatment was continued in all patients for 24 weeks. Patients were followed up every 4 weeks and records were maintained. Response rate was 100% in OMP group and 53.3% in DPCP group at 2",
+            "journal": "Dermatologic therapy",
+            "year": "2022",
+            "authors": [
+              "Mahajan Rahul",
+              "Daroach Manju",
+              "Handa Sanjeev",
+              "De Dipankar"
+            ],
+            "pub_types": [
+              "Randomized Controlled Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Humans",
+              "Alopecia Areata",
+              "Cyclopropanes",
+              "Dexamethasone",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36086930/"
+          },
+          {
+            "pmid": "23960401",
+            "title": "Alopecia areata treated with phenolisation and intravenous dexamethasone pulses.",
+            "abstract": "Phenol is an aromatic hydrocarbon derived from coal tar or manufactured from monochlorobenzene. Alopecia areata is a common non scarring autoimmune condition characterised by patchy loss of hair without atrophy. Various treatment modalities have been proposed and used for the treatment of alopecia areata, which is indeed a difficult condition to treat. Variable results have been documented using intralesional corticosteroid injections, topical minoxidil, topical anthralin ointment, topical contact sensitizers like diphencyprone, dinitrochlorobenzene or squaric acid dibutyl ester, and oral mini pulse with betamethasone. The use of 88% phenol for the treatment of alopecia areata has been documented in literature, but it has failed to secure a place in the priority list. Herein we have reported a case of a young girl who was treated with short-time aggressive therapy using 88% phenol and dexamethasone pulse therapy and who responded well to the treatment with no recurrence in the last 6 m",
+            "journal": "International journal of trichology",
+            "year": "2013",
+            "authors": [
+              "Kar Sumit",
+              "Singh Neha"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23960401/"
+          },
+          {
+            "pmid": "36461625",
+            "title": "Pediatric pulse dose corticosteroid therapy dosing and administration in the treatment of alopecia areata: A review of literature.",
+            "abstract": "The use of pulse dose corticosteroid therapy (PDCT) in children for treatment of alopecia areata (AA) has been reported, but dosing regimens are not well-established. We aim to evaluate the available literature regarding the utilization and various dosing regimens of PDCT, as well as associated side effects, in the treatment of AA in children.",
+            "journal": "Pediatric dermatology",
+            "year": "2023",
+            "authors": [
+              "Gallaga Natalya M",
+              "Carrillo Brenda",
+              "Good Allison",
+              "Munoz-Gonzalez Ayezel",
+              "Ross Lindy"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Child",
+              "Alopecia Areata",
+              "Glucocorticoids",
+              "Treatment Outcome",
+              "Methylprednisolone",
+              "Dexamethasone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36461625/"
+          },
+          {
+            "pmid": "36070222",
+            "title": "Mini pulse corticosteroid therapy with oral dexamethasone for moderate to severe alopecia areata: A multicentric study.",
+            "abstract": "Extensive subtypes of alopecia areata (AA) (totalis, universalis, or multifocal) still have no approved and effective treatments in Europe, although Janus kinase inhibitors, such as baricitinib, are promising treatments that have been recently approved by the FDA. Nowadays, the higher costs and the lower experience with Janus kinase inhibitors, provide more difficulties in its accessibility. On the other hand, different corticosteroids regimens have been evaluated with conflicting results from decades. In 2016, a new regimen of mini pulse corticosteroid therapy with oral dexamethasone (MPCT-OD) 0.1mg/kg/day twice per week for adult patients with alopecia areata totalis or universalis, was reported to be effective with a lower rate of adverse effects. We performed a retrospective and multicentric study to collect data from patients with extensive forms of alopecia areata who had received MPCTOD (0.1 mg/kg/day twice weekly of dexamethasone) for at least 24 weeks. We included adult patien",
+            "journal": "Dermatologic therapy",
+            "year": "2022",
+            "authors": [
+              "Lobato-Berezo Alejandro",
+              "March-Rodríguez Alvaro",
+              "Grimalt Ramon",
+              "Rodríguez-Lomba Enrique",
+              "Setó-Torrent Nuria"
+            ],
+            "pub_types": [
+              "Multicenter Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Alopecia Areata",
+              "Janus Kinase Inhibitors",
+              "Retrospective Studies",
+              "Dexamethasone",
+              "Alopecia",
+              "Treatment Outcome",
+              "Adrenal Cortex Hormones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36070222/"
+          },
+          {
+            "pmid": "31579982",
+            "title": "Combined intravenous pulse and topical corticosteroid therapy for severe alopecia areata in children: Comparison of two regimens.",
+            "abstract": "There is no universally accepted treatment for severe pediatric alopecia areata (AA). This prospective study comprised 73 patients (aged 1-18 years) with severe AA (>30% of scalp surface area): 37 received 1-day intravenous dexamethasone pulses (1-DP) and 36 received 3-day pulses (3-DP), monthly, for 6-12 months. Also, all patients applied topical clobetasol propionate under plastic wrap occlusion. Patients achieving >50% regrowth were considered good responders (GR). All patients reached short term, while 65/73 were available for the long-term follow-up (mean 33.3 ± 15.3 vs. 27.7 ± 14.3 months, 1-DP and 3-DP, respectively). Relapses during therapy were more frequent in 1-DP group. 3-DP patients were more frequently GR in comparison with 1-DP. 3-DP patients with disease duration <6 months had better outcomes. Patients without Hashimoto thyroiditis (HT) had 9.8-fold higher chance of being GR in comparison with HT patients. The best results were achieved in AA plurifocalis (AAP). No pati",
+            "journal": "Dermatologic therapy",
+            "year": "2019",
+            "authors": [
+              "Lalosevic Jovan",
+              "Gajic-Veljic Mirjana",
+              "Bonaci-Nikolic Branka",
+              "Stojkovic Lalosevic Milica",
+              "Nikolic Milos"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intravenous",
+              "Administration, Topical",
+              "Adolescent",
+              "Alopecia Areata",
+              "Child",
+              "Child, Preschool",
+              "Clobetasol",
+              "Dexamethasone",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31579982/"
+          },
+          {
+            "pmid": "26179196",
+            "title": "Combined oral pulse and topical corticosteroid therapy for severe alopecia areata in children: a long-term follow-up study.",
+            "abstract": "There are no widely accepted therapy protocols for severe alopecia areata (AA). We treated 65 children/adolescents with AA affecting >30% of scalp. Fourty-three percent of patients had AA plurifocalis (AAP). Fifty-seven percent had AA subtotalis (AAS), AAP+ophiasis (AAP+OPH), and alopecia totalis/universalis (AT/AU). Long-term follow-up (median 96 months) data were available for 69% of patients. Oral dexamethasone (prednisolone 5 mg/kg equivalent) was given once in 4 weeks. Patients received 6, 9, or 12 pulses. Clobetasol propionate 0.05% ointment under plastic wrap occlusion was applied 6 days a week. Hair growth was assessed on a scale ranging 0-100% of regrowth in individual AA lesions. Regrowth >50% was considered good response. Six to twelve months months after the therapy, 56.9% of patients had >75% of hair regrowth. In AAP, 65.5% had complete regrowth. 61.5% of all patients were considered good responders. Significantly, higher percentage of good responders was found in AA lasti",
+            "journal": "Dermatologic therapy",
+            "year": "2015",
+            "authors": [
+              "Lalosevic Jovan",
+              "Gajic-Veljic Mirjana",
+              "Bonaci-Nikolic Branka",
+              "Nikolic Milos"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Administration, Topical",
+              "Adolescent",
+              "Alopecia Areata",
+              "Child",
+              "Child, Preschool",
+              "Clobetasol",
+              "Dexamethasone",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26179196/"
+          },
+          {
+            "pmid": "33920403",
+            "title": "Dexamethasone-Loaded Lipomers: Development, Characterization, and Skin Biodistribution Studies.",
+            "abstract": "Follicular targeting has gained more attention in recent decades, due to the possibility of obtaining a depot effect in topical administration and its potential as a tool to treat hair follicle-related diseases. Lipid core ethyl cellulose lipomers were developed and optimized, following which characterization of their physicochemical properties was carried out. Dexamethasone was encapsulated in the lipomers (size, 115 nm; polydispersity, 0.24; zeta-potential (Z-potential), +30 mV) and their in vitro release profiles against dexamethasone in solution were investigated by vertical diffusion Franz cells. The skin biodistribution of the fluorescent-loaded lipomers was observed using confocal microscopy, demonstrating the accumulation of both lipomers and fluorochromes in the hair follicles of pig skin. To confirm this fact, immunofluorescence of the dexamethasone-loaded lipomers was carried out in pig hair follicles. The anti-inflammatory (via TNFα) efficacy of the dexamethasone-loaded lip",
+            "journal": "Pharmaceutics",
+            "year": "2021",
+            "authors": [
+              "Pena-Rodríguez Eloy",
+              "Lajarin-Reinares Maria",
+              "Mata-Ventosa Aida",
+              "Pérez-Torras Sandra",
+              "Fernández-Campos Francisco"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33920403/"
+          },
+          {
+            "pmid": "10535249",
+            "title": "Twice weekly 5 mg dexamethasone oral pulse in the treatment of extensive alopecia areata.",
+            "abstract": "Thirty patients (20 males, 10 females) with widespread alopecia areata (25 extensive alopecia areata, 5 alopecia areata) for a mean period of 4.2 years were included in the study. All patients above 12 years were administered 5 mg dexamethasone oral pulse on two consecutive days every week. Three children (< 12 years) received 2.5 mg to 3.5 mg dexamethasone oral biweekly pulse. Patients who had received treatment for a minimum period of 12 weeks were evaluated for terminal hair growth. Complete to excellent (75-95%) hair growth was observed in 16 (63.3%) patients. Growth was good (50-74%) in 2 cases and poor (< 50%) in 3 (10%) cases. Six (20%) patients has no growth of terminal hair. Complete to excellent growth of hair was obtained after a mean period of 5.35 months (range 3-10 months). Relapse occurred in one case each after three and six months but hair regrew with re-treatment. Side effects of corticosteriods were frequent, seen in 8 (26.6%) patients, but were mild. In only one cas",
+            "journal": "The Journal of dermatology",
+            "year": "1999",
+            "authors": [
+              "Sharma V K",
+              "Gupta S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Alopecia Areata",
+              "Chi-Square Distribution",
+              "Child",
+              "Dexamethasone",
+              "Drug Administration Schedule",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10535249/"
+          },
+          {
+            "pmid": "21965849",
+            "title": "Utility of dermoscopy in alopecia areata.",
+            "abstract": "Alopecia areata (AA) shows several well-defined dermoscopic features which may help in confirming diagnosis in AA.",
+            "journal": "Indian journal of dermatology",
+            "year": "2011",
+            "authors": [
+              "Mane Mandar",
+              "Nath Amiya Kumar",
+              "Thappa Devinder Mohan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21965849/"
+          },
+          {
+            "pmid": "16707886",
+            "title": "A comparison of the efficacy, relapse rate and side effects among three modalities of systemic corticosteroid therapy for alopecia areata.",
+            "abstract": "Systemic corticosteroids are one of the most commonly used therapeutic modalities for patients with extensive alopecia areata (AA), although they entail several drawbacks.",
+            "journal": "Dermatology (Basel, Switzerland)",
+            "year": "2006",
+            "authors": [
+              "Kurosawa Masahiro",
+              "Nakagawa Satoshi",
+              "Mizuashi Masato",
+              "Sasaki Yoshinori",
+              "Kawamura Maki"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Alopecia Areata",
+              "Anti-Inflammatory Agents",
+              "Dexamethasone",
+              "Drug Therapy, Combination",
+              "Female",
+              "Hair",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16707886/"
+          },
+          {
+            "pmid": "25556409",
+            "title": "An observational study of alopecia areata in Sri Lankan adult patients.",
+            "abstract": "The objectives were to assess the demographical pattern, clinical presentation and therapeutic response in a cohort of patients with alopecia areata (AA) in Sri Lanka.",
+            "journal": "The Ceylon medical journal",
+            "year": "2014",
+            "authors": [
+              "Ranawaka R R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age of Onset",
+              "Alopecia Areata",
+              "Autoimmune Diseases",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Nails"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25556409/"
+          },
+          {
+            "pmid": "17656876",
+            "title": "Dexamethasone pulse therapy for extensive alopecia areata: to use or not to use.",
+            "abstract": "",
+            "journal": "Indian journal of dermatology, venereology and leprology",
+            "year": "2002",
+            "authors": [
+              "Vijayakumar M",
+              "Thappa D M"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17656876/"
+          },
+          {
+            "pmid": "34452283",
+            "title": "The Physicochemical, Biopharmaceutical, and In Vitro Efficacy Properties of Freeze-Dried Dexamethasone-Loaded Lipomers.",
+            "abstract": "Dexamethasone-loaded polymer hybrid nanoparticles were developed as a potential tool to treat alopecia areata due to their follicular targeting ability. Freeze drying (FD) is a common technique used to improve nanoparticle stability; however, there are few studies focused on its effect on ethyl cellulose lipid-core nanoparticles. Nanoparticles were lyophilized with different cryoprotectants. Sucrose was selected because it allowed for a good resuspension and provided acceptable physicochemical parameters (374.33 nm, +34.7 mV, polydispersion 0.229%, and 98.87% encapsulation efficiency). The nanoparticles obtained were loaded into a pleasant xanthan gum hydrogel, and the rheological, release, and skin permeation profiles of different formulations were studied. The FD formulation significantly modified the particle size, and the drug release and permeation properties were also altered. In addition, analyses of the cytotoxicity and anti-inflammatory efficacy of FD and non-FD particles on h",
+            "journal": "Pharmaceutics",
+            "year": "2021",
+            "authors": [
+              "Pena-Rodríguez Eloy",
+              "Mata-Ventosa Aida",
+              "Garcia-Vega Laura",
+              "Pérez-Torras Sandra",
+              "Fernández-Campos Francisco"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34452283/"
+          },
+          {
+            "pmid": "8040602",
+            "title": "A murine model for inducing and manipulating hair follicle regression (catagen): effects of dexamethasone and cyclosporin A.",
+            "abstract": "Most cases of hair loss are based on premature induction of follicle regression (catagen). Deciphering the unknown regulation of catagen is therefore clinically important, but catagen is also an excellent model for organ involution by rapid terminal differentiation and for epithelial cell death (apoptosis). We here report an assay for the controlled pharmacologic induction and manipulation of catagen follicles. Dexamethasone-21-acetate (0.1%) was applied once daily to depilation-induced, growing follicles (anagen VI) on the backs of C57 B1-6 mice. Characteristic catagen-associated changes in skin color were photodocumented and assessed by morphometric histology. Topical dexamethasone induced catagen-like follicles significantly earlier, more homogeneously, and also more extensively than vehicle. This process was inhibited by high intraperitoneal doses of cyclosporin A. In addition to its clinical relevance as a screening assay for catagen-blocking drugs, this simple murine model is an ",
+            "journal": "The Journal of investigative dermatology",
+            "year": "1994",
+            "authors": [
+              "Paus R",
+              "Handjiski B",
+              "Czarnetzki B M",
+              "Eichmüller S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Alopecia Areata",
+              "Animals",
+              "Apoptosis",
+              "Cyclosporine",
+              "Dexamethasone",
+              "Disease Models, Animal",
+              "Female",
+              "Hair",
+              "Keratinocytes",
+              "Macrophage Activation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8040602/"
+          },
+          {
+            "pmid": "12464066",
+            "title": "Pemphigus foliaceus in a goat.",
+            "abstract": "A 7-year-old-female goat was referred with a 3-month history of chronic dermatitis, which partially responded to combined corticosteroid and antibiotic therapy. At dermatological examination diffuse alopecia, pustules and crusts were observed on the head, neck, dorsum and perianal area. Dermatophyte culture and skin scrapings were negative. Trichoscopic examination revealed a concurrent infestation with Damalinia caprae, which was successfully treated with ivermectin. Cytological examination of pus from intact pustules revealed nondegenerate neutrophils, absence of bacteria and numerous nucleated, irregularly shaped keratinocytes. Histopathological examination of lesional skin revealed intracorneal pustules containing neutrophils and acantholytic cells, and a mixed cell superficial perivascular dermatitis. Immunohistochemical stains of lesional skin showed intercellular IgG deposits in the spinous layer. Remission of the dermatitis was obtained with injectable dexamethasone-21-isonicot",
+            "journal": "Veterinary dermatology",
+            "year": "2002",
+            "authors": [
+              "Pappalardo Ersilia",
+              "Abramo Francesca",
+              "Noli Chiara"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alopecia",
+              "Animals",
+              "Dexamethasone Isonicotinate",
+              "Diagnosis, Differential",
+              "Female",
+              "Glucocorticoids",
+              "Goat Diseases",
+              "Goats",
+              "Immunohistochemistry",
+              "Injections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12464066/"
+          },
+          {
+            "pmid": "18388392",
+            "title": "Alopecia areata progressing to totalis/universalis in non-insulin dependent diabetes mellitus (type II): failure of dexamethasone-cyclophosphamide pulse therapy.",
+            "abstract": "",
+            "journal": "Indian journal of dermatology, venereology and leprology",
+            "year": "2008",
+            "authors": [
+              "Sehgal Virendra N",
+              "Bhattacharya Sambit N",
+              "Sharma Sonal",
+              "Srivastava Govind",
+              "Aggarwal Ashok K"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Alopecia Areata",
+              "Cyclophosphamide",
+              "Dexamethasone",
+              "Diabetes Mellitus, Type 2",
+              "Disease Progression",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pulse Therapy, Drug",
+              "Treatment Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18388392/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "alopecia areata",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20alopecia%20areata"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia mucinosa",
+        "txgnn_score": 0.9998868703842164,
+        "txgnn_rank": 47,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "alopecia mucinosa",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20alopecia%20mucinosa"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "telogen effluvium",
+        "txgnn_score": 0.9998840093612672,
+        "txgnn_rank": 48,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "23638756",
+            "title": "Cutaneous adverse reactions linked to targeted anticancer therapies bortezomib and lenalidomide for multiple myeloma: new drugs, old side effects.",
+            "abstract": "Cutaneous toxicity is a frequent side effect of new anticancer targeted therapies. Skin reactions can severely impact the patient's physical, psychological and social well-being and may sometimes lead to discontinuations either treatment dose reductions.",
+            "journal": "Cutaneous and ocular toxicology",
+            "year": "2014",
+            "authors": [
+              "Patrizi Annalisa",
+              "Venturi Michela",
+              "Dika Emi",
+              "Maibach Howard",
+              "Tacchetti Paola"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antineoplastic Agents",
+              "Boronic Acids",
+              "Bortezomib",
+              "Drug Discovery",
+              "Drug-Related Side Effects and Adverse Reactions",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23638756/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "telogen effluvium",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20telogen%20effluvium"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Quinquaud's folliculitis decalvans",
+        "txgnn_score": 0.9998772144317628,
+        "txgnn_rank": 51,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "Quinquaud's folliculitis decalvans",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20Quinquaud%27s%20folliculitis%20decalvans"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia antibody deficiency",
+        "txgnn_score": 0.999865174293518,
+        "txgnn_rank": 56,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "27885969",
+            "title": "36th International Symposium on Intensive Care and Emergency Medicine : Brussels, Belgium. 15-18 March 2016.",
+            "abstract": "P001 - Sepsis impairs the capillary response within hypoxic capillaries and decreases erythrocyte oxygen-dependent ATP efflux R. M. Bateman, M. D. Sharpe, J. E. Jagger, C. G. Ellis P002 - Lower serum immunoglobulin G2 level does not predispose to severe flu. J. Solé-Violán, M. López-Rodríguez, E. Herrera-Ramos, J. Ruíz-Hernández, L. Borderías, J. Horcajada, N. González-Quevedo, O. Rajas, M. Briones, F. Rodríguez de Castro, C. Rodríguez Gallego P003 - Brain protective effects of intravenous immunoglobulin through inhibition of complement activation and apoptosis in a rat model of sepsis F. Esen, G. Orhun, P. Ergin Ozcan, E. Senturk, C. Ugur Yilmaz, N. Orhan, N. Arican, M. Kaya, M. Kucukerden, M. Giris, U. Akcan, S. Bilgic Gazioglu, E. Tuzun P004 - Adenosine a1 receptor dysfunction is associated with leukopenia: A possible mechanism for sepsis-induced leukopenia R. Riff, O. Naamani, A. Douvdevani P005 - Analysis of neutrophil by hyper spectral imaging - A preliminary report R. Takegawa, ",
+            "journal": "Critical care (London, England)",
+            "year": "2016",
+            "authors": [
+              "Bateman R. M.",
+              "Sharpe M. D.",
+              "Jagger J. E.",
+              "Ellis C. G.",
+              "Solé-Violán J."
+            ],
+            "pub_types": [
+              "Conference Proceedings"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27885969/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "alopecia antibody deficiency",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20alopecia%20antibody%20deficiency"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hereditary hypotrichosis with recurrent skin vesicles",
+        "txgnn_score": 0.999861478805542,
+        "txgnn_rank": 57,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "hereditary hypotrichosis with recurrent skin vesicles",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20hereditary%20hypotrichosis%20with%20recurrent%20skin%20vesicles"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome",
+        "txgnn_score": 0.9998533725738524,
+        "txgnn_rank": 60,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20alopecia-intellectual%20disability-hypergonadotropic%20hypogonadism%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "atrichia with papular lesions",
+        "txgnn_score": 0.9994789958000184,
+        "txgnn_rank": 175,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "atrichia with papular lesions",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20atrichia%20with%20papular%20lesions"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia universalis onychodystrophy vitiligo",
+        "txgnn_score": 0.9975805282592772,
+        "txgnn_rank": 690,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "alopecia universalis onychodystrophy vitiligo",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20alopecia%20universalis%20onychodystrophy%20vitiligo"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "prolapse of lacrimal gland",
+        "txgnn_score": 0.9964538812637328,
+        "txgnn_rank": 922,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Dexamethasone",
+          "disease": "prolapse of lacrimal gland",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Dexamethasone%20prolapse%20of%20lacrimal%20gland"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Dexamethasone",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01234",
+    "name": "Dexamethasone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Dexamethasone"
+      },
+      "queried_at": "2026-03-10T11:53:18.263461",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Dexamethasone"
+      },
+      "queried_at": "2026-03-10T11:53:18.281163",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Dexamethasone"
+      },
+      "queried_at": "2026-03-10T11:53:24.516827",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-10T11:53:26.792540",
+      "status": "success",
+      "result_count": 13,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-10T11:53:31.192637",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-10T11:53:32.270779",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia areata"
+      },
+      "queried_at": "2026-03-10T11:53:35.393981",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-10T11:53:36.317622",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-10T11:53:41.847044",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-10T11:53:42.873842",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia mucinosa"
+      },
+      "queried_at": "2026-03-10T11:53:43.901816",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-10T11:53:44.449830",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-10T11:53:53.807851",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-10T11:53:56.162957",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-10T11:53:59.299684",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T11:54:00.044735",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T11:54:04.554771",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T11:54:05.459406",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T11:54:07.124776",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-10T11:54:08.117467",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-10T11:54:11.822008",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-10T11:54:13.144814",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-10T11:54:17.656547",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-10T11:54:19.101009",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-10T11:54:23.681363",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-10T11:54:25.230282",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "hereditary hypotrichosis with recurrent skin vesicles"
+      },
+      "queried_at": "2026-03-10T11:54:27.091927",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-10T11:54:28.363376",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-10T11:54:32.863752",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-10T11:54:35.342214",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome"
+      },
+      "queried_at": "2026-03-10T11:54:37.447217",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-10T11:54:38.444604",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-10T11:54:42.493365",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-10T11:54:43.581288",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "atrichia with papular lesions"
+      },
+      "queried_at": "2026-03-10T11:54:44.594956",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia universalis onychodystrophy vitiligo"
+      },
+      "queried_at": "2026-03-10T11:54:45.291627",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia universalis onychodystrophy vitiligo"
+      },
+      "queried_at": "2026-03-10T11:54:49.971719",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia universalis onychodystrophy vitiligo"
+      },
+      "queried_at": "2026-03-10T11:54:51.444235",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "alopecia universalis onychodystrophy vitiligo"
+      },
+      "queried_at": "2026-03-10T11:54:53.122201",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-10T11:54:54.449657",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-10T11:54:59.419099",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-10T11:55:02.329742",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Dexamethasone",
+        "disease": "prolapse of lacrimal gland"
+      },
+      "queried_at": "2026-03-10T11:55:03.741914",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T11:55:03.754637"
+  }
+}

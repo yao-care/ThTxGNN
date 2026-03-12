@@ -232,6 +232,12 @@ def load_predictions_for_drug(
 
     df = pd.read_csv(predictions_path)
 
+    # Handle both Chinese and English column names for compatibility
+    if "潛在新適應症" in df.columns:
+        df = df.rename(columns={"潛在新適應症": "disease_name"})
+    if "來源" in df.columns:
+        df = df.rename(columns={"來源": "source"})
+
     # Filter by drug name (case-insensitive)
     drug_df = df[df["drug_name"].str.lower() == drug_name.lower()]
 

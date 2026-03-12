@@ -1,0 +1,325 @@
+{
+  "drug": {
+    "inn": "Naproxen",
+    "drugbank_id": "DB00788",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "brachydactyly-syndactyly syndrome",
+        "txgnn_score": 0.993518054485321,
+        "txgnn_rank": 1428,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Naproxen",
+          "disease": "brachydactyly-syndactyly syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Naproxen%20brachydactyly-syndactyly%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+        "txgnn_score": 0.9921688437461852,
+        "txgnn_rank": 1717,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Naproxen",
+          "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Naproxen%20colobomatous%20microphthalmia-rhizomelic%20dysplasia%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "acromesomelic dysplasia, Hunter-Thompson type",
+        "txgnn_score": 0.9917322397232056,
+        "txgnn_rank": 1799,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Naproxen",
+          "disease": "acromesomelic dysplasia, Hunter-Thompson type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Naproxen%20acromesomelic%20dysplasia%2C%20Hunter-Thompson%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brachyolmia-amelogenesis imperfecta syndrome",
+        "txgnn_score": 0.990587830543518,
+        "txgnn_rank": 1984,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Naproxen",
+          "disease": "brachyolmia-amelogenesis imperfecta syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Naproxen%20brachyolmia-amelogenesis%20imperfecta%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Naproxen",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00788",
+    "name": "Naproxen",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Naproxen"
+      },
+      "queried_at": "2026-03-10T14:10:39.194685",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Naproxen"
+      },
+      "queried_at": "2026-03-10T14:10:39.213948",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Naproxen"
+      },
+      "queried_at": "2026-03-10T14:10:55.268282",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-10T14:10:56.011953",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:01.121877",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:02.593502",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:03.795154",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:04.838714",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:10.764297",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:12.526778",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:13.562294",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T14:11:14.283682",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T14:11:19.545804",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T14:11:22.668081",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T14:11:26.684097",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:28.233058",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:33.819128",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:35.473565",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Naproxen",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T14:11:38.250707",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 4,
+    "created_at": "2026-03-10T14:11:38.256468"
+  }
+}

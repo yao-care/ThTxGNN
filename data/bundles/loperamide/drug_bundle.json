@@ -1,0 +1,859 @@
+{
+  "drug": {
+    "inn": "Loperamide",
+    "drugbank_id": "DB00836",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "acute contagious conjunctivitis",
+        "txgnn_score": 0.9996674060821532,
+        "txgnn_rank": 125,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "acute contagious conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20acute%20contagious%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "amebic dysentery",
+        "txgnn_score": 0.9994959831237792,
+        "txgnn_rank": 171,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3893119",
+            "title": "Nonfluid therapy and selected chemoprophylaxis of acute diarrhea.",
+            "abstract": "Various available forms of therapy can decrease morbidity and mortality associated with acute diarrhea. Oral fluids represent the cornerstone of therapy of all cases. A variety of agents acting nonspecifically can decrease diarrhea and improve other worrisome symptoms associated with enteric infection. Kaopectate makes the stool more formed but has little additional effects. Bismuth subsalicylate, an antisecretory agent, reduces the number of stools passed by about 50 percent and improves other associated symptomatology. The drugs that affect motility such as loperamide and diphenoxylate are the most active of the nonspecifically acting drugs. They must be avoided in patients with significant fever and dysentery. Trimethoprim/sulfamethoxazole is now considered the drug of choice for shigellosis due to the presence of ampicillin-resistant Shigella strains in most regions of the world. Trimethoprim/sulfamethoxazole is also an effective form of therapy for enterotoxigenic Escherichia coli",
+            "journal": "The American journal of medicine",
+            "year": "1985",
+            "authors": [
+              "Du Pont H L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adult",
+              "Anti-Infective Agents",
+              "Bismuth",
+              "Campylobacter Infections",
+              "Child",
+              "Child, Preschool",
+              "Clinical Trials as Topic",
+              "Diarrhea",
+              "Diarrhea, Infantile"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3893119/"
+          },
+          {
+            "pmid": "17241255",
+            "title": "Fulminant amoebic colitis following loperamide use.",
+            "abstract": "Toxic megacolon is a rare consequence of infection with Entamoeba histolytica. We present such a patient in whom the course of disease may have been influenced by heavy loperamide use. Loperamide and other anti-motility agents have been implicated previously in the pathogenesis of toxic megacolon in patients with infectious gastroenteritis.",
+            "journal": "Journal of travel medicine",
+            "year": "2007",
+            "authors": [
+              "McGregor Alastair",
+              "Brown Michael",
+              "Thway Khin",
+              "Wright Stephen G"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antidiarrheals",
+              "Colectomy",
+              "Diagnosis, Differential",
+              "Diarrhea",
+              "Dysentery, Amebic",
+              "Entamoeba histolytica",
+              "Female",
+              "Humans",
+              "Loperamide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17241255/"
+          },
+          {
+            "pmid": "21174149",
+            "title": "Relapse of intestinal and hepatic amebiasis after treatment.",
+            "abstract": "",
+            "journal": "Digestive diseases and sciences",
+            "year": "2011",
+            "authors": [
+              "Hwang Elizabeth W",
+              "Cheung Lawrence",
+              "Mojtahed Amirkaveh",
+              "Cartwright Christine A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amebicides",
+              "Antidiarrheals",
+              "Colonoscopy",
+              "Drug Therapy, Combination",
+              "Dysentery, Amebic",
+              "Humans",
+              "Iodoquinol",
+              "Leukocytosis",
+              "Liver Abscess, Amebic",
+              "Loperamide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21174149/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "amebic dysentery",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20amebic%20dysentery"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "conjunctivitis",
+        "txgnn_score": 0.998723566532135,
+        "txgnn_rank": 404,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06289647",
+            "title": "Azithromycin Reduction to Reach Elimination of Trachoma B",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2024-10",
+            "completion_date": "2029-08-31",
+            "country": "Democratic Republic of the Congo",
+            "enrollment": 0,
+            "brief_summary": "The investigators propose a randomized controlled trial of discontinuation versus continuation of annual mass azithromycin distribution in hypoendemic communities of Maniema, DRC. The investigators will randomize communities with up to 20% Trachomatous Inflammation - Follicular (TF) prevalence following at least 5 years of mass azithromycin distribution to discontinuation or continuation of 3 additional years of annual mass azithromycin distribution.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of appropriate informed consent\n* Stated willingness to comply with all study procedures\n* Live in one of the 80 communities with up to 20% prevalence of TF selected for the trial\n\nExclusion Criteria:\n\n* Does not consent to participation\n* Unwilling to comply with al",
+            "endpoints": [
+              "Ocular chlamydia measured in a population-based sample of 0-9 year-old children"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT06289647"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04185402",
+            "title": "Azithromycin Reduction to Reach Elimination of Trachoma",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2021-05-29",
+            "completion_date": "2024-12-18",
+            "country": "Niger",
+            "enrollment": 74920,
+            "brief_summary": "The investigators propose a randomized controlled trial of discontinuation versus continuation of annual mass azithromycin distribution in hypoendemic communities of Maradi, Niger. The investigators will randomize communities with up to 20% Trachomatous Inflammation - Follicular (TF) prevalence following at least 5 years of mass azithromycin distribution to discontinuation or continuation of 3 additional years of annual mass azithromycin distribution.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of appropriate informed consent\n* Stated willingness to comply with all study procedures\n* Live in one of the 80 communities with up to 20% prevalence of TF selected for the trial\n\nExclusion Criteria:\n\n* Does not consent to participation\n* Unwilling to comply with al",
+            "endpoints": [
+              "Ocular chlamydia measured in a population-based sample of 0-9 year-old children"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT04185402"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "gastroduodenitis",
+        "txgnn_score": 0.9977325201034546,
+        "txgnn_rank": 649,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3520142",
+            "title": "[Effectiveness of imodium in the treatment of patients with peptic ulcer and chronic gastroduodenitis associated with functional intestinal disorders].",
+            "abstract": "",
+            "journal": "Klinicheskaia meditsina",
+            "year": "1986",
+            "authors": [
+              "Maliukh L S",
+              "Kriklivets Iu I",
+              "Iatskiv M V"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antidiarrheals",
+              "Clinical Trials as Topic",
+              "Diarrhea",
+              "Duodenitis",
+              "Gastroenteritis",
+              "Humans",
+              "Loperamide",
+              "Peptic Ulcer",
+              "Piperidines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3520142/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "gastroduodenitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20gastroduodenitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pseudomembranous conjunctivitis",
+        "txgnn_score": 0.9965272545814514,
+        "txgnn_rank": 908,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "pseudomembranous conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20pseudomembranous%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "conjunctival folliculosis",
+        "txgnn_score": 0.9964832067489624,
+        "txgnn_rank": 916,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "conjunctival folliculosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20conjunctival%20folliculosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "chronic follicular conjunctivitis",
+        "txgnn_score": 0.9964832067489624,
+        "txgnn_rank": 917,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "chronic follicular conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20chronic%20follicular%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "parasitic conjunctivitis",
+        "txgnn_score": 0.9964832067489624,
+        "txgnn_rank": 918,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "parasitic conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20parasitic%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "serous conjunctivitis except viral",
+        "txgnn_score": 0.9964832067489624,
+        "txgnn_rank": 919,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "serous conjunctivitis except viral",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20serous%20conjunctivitis%20except%20viral"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Angelucci syndrome",
+        "txgnn_score": 0.9962791800498962,
+        "txgnn_rank": 964,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Loperamide",
+          "disease": "Angelucci syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Loperamide%20Angelucci%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Loperamide",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00836",
+    "name": "Loperamide",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Loperamide"
+      },
+      "queried_at": "2026-03-10T12:38:14.209910",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Loperamide"
+      },
+      "queried_at": "2026-03-10T12:38:14.216946",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Loperamide"
+      },
+      "queried_at": "2026-03-10T12:38:28.120438",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:29.471901",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:34.001557",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:35.436823",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "acute contagious conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:36.246668",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "amebic dysentery"
+      },
+      "queried_at": "2026-03-10T12:38:37.018315",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "amebic dysentery"
+      },
+      "queried_at": "2026-03-10T12:38:40.092142",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "amebic dysentery"
+      },
+      "queried_at": "2026-03-10T12:38:41.458138",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "amebic dysentery"
+      },
+      "queried_at": "2026-03-10T12:38:45.710252",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:46.789922",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:51.090333",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:52.472822",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:38:53.403256",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-10T12:38:54.345643",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-10T12:38:59.857678",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-10T12:39:01.580348",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-10T12:39:04.927313",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "pseudomembranous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:05.846306",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "pseudomembranous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:10.814934",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "pseudomembranous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:11.964805",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "pseudomembranous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:12.750697",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctival folliculosis"
+      },
+      "queried_at": "2026-03-10T12:39:14.165969",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctival folliculosis"
+      },
+      "queried_at": "2026-03-10T12:39:18.376360",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctival folliculosis"
+      },
+      "queried_at": "2026-03-10T12:39:19.981137",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "conjunctival folliculosis"
+      },
+      "queried_at": "2026-03-10T12:39:21.997972",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "chronic follicular conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:22.775377",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "chronic follicular conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:28.153562",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "chronic follicular conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:29.425466",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "chronic follicular conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:30.548336",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "parasitic conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:31.147016",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "parasitic conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:35.897247",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "parasitic conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:37.212099",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "parasitic conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:39:39.793851",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "serous conjunctivitis except viral"
+      },
+      "queried_at": "2026-03-10T12:39:40.303258",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "serous conjunctivitis except viral"
+      },
+      "queried_at": "2026-03-10T12:39:44.598390",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "serous conjunctivitis except viral"
+      },
+      "queried_at": "2026-03-10T12:39:45.547648",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "serous conjunctivitis except viral"
+      },
+      "queried_at": "2026-03-10T12:39:46.661168",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "Angelucci syndrome"
+      },
+      "queried_at": "2026-03-10T12:39:47.663742",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "Angelucci syndrome"
+      },
+      "queried_at": "2026-03-10T12:39:51.728145",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "Angelucci syndrome"
+      },
+      "queried_at": "2026-03-10T12:39:53.812593",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Loperamide",
+        "disease": "Angelucci syndrome"
+      },
+      "queried_at": "2026-03-10T12:39:55.298970",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:39:55.306461"
+  }
+}

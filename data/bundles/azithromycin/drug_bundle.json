@@ -1,0 +1,1218 @@
+{
+  "drug": {
+    "inn": "Azithromycin",
+    "drugbank_id": "DB00207",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "polyclonal hyperviscosity syndrome",
+        "txgnn_score": 0.9981359243392944,
+        "txgnn_rank": 551,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "polyclonal hyperviscosity syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20polyclonal%20hyperviscosity%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hyperamylasemia",
+        "txgnn_score": 0.9981359243392944,
+        "txgnn_rank": 552,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "hyperamylasemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20hyperamylasemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital analbuminemia",
+        "txgnn_score": 0.9978686571121216,
+        "txgnn_rank": 614,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "congenital analbuminemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20congenital%20analbuminemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "punctate epithelial keratoconjunctivitis",
+        "txgnn_score": 0.9978433847427368,
+        "txgnn_rank": 621,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "32826651",
+            "title": "Dual Molecular Diagnosis of Microsporidia (Encephalitozoon hellem) Keratoconjunctivitis in an Immunocompetent Adult.",
+            "abstract": "To report a case of microsporidia (Encephalitozoon hellem) keratoconjunctivitis acquired through avian transmission in an immunocompetent adult, diagnosed by metagenomic deep sequencing (MDS), and confirmed by polymerase chain reaction.",
+            "journal": "Cornea",
+            "year": "2021",
+            "authors": [
+              "Ma Kevin K",
+              "Kinde Benyam",
+              "Doan Thuy",
+              "Jacobs Deborah S",
+              "Ong Tone Stephan"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Bacterial Agents",
+              "Antifungal Agents",
+              "Azithromycin",
+              "Drug Therapy, Combination",
+              "Encephalitozoon",
+              "Eye Infections, Fungal",
+              "Female",
+              "Humans",
+              "Immunocompetence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32826651/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "punctate epithelial keratoconjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20punctate%20epithelial%20keratoconjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blood group incompatibility",
+        "txgnn_score": 0.9970327615737916,
+        "txgnn_rank": 817,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "blood group incompatibility",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20blood%20group%20incompatibility"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "premalignant hematological system disease",
+        "txgnn_score": 0.9964272379875184,
+        "txgnn_rank": 927,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "premalignant hematological system disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20premalignant%20hematological%20system%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "monoclonal gammopathy",
+        "txgnn_score": 0.996085524559021,
+        "txgnn_rank": 996,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "18355359",
+            "title": "Subcorneal pustular dermatosis: 50 years on.",
+            "abstract": "We review the key developments in our understanding of subcorneal pustular dermatosis (SCPD, also known as Sneddon-Wilkinson disease) over the past 50 years. SCPD is a rare, chronic, sterile pustular eruption that was first described by Sneddon and Wilkinson in 1956. The primary lesions are pea-sized pustules classically described as half-pustular, half-clear flaccid fluid blisters. Histologically the salient feature is a subcorneal accumulation of neutrophils, suggesting the presence of chemoattractants such as tumour necrosis factor (TNF)alpha in the uppermost epidermis. However, to date its exact pathophysiology is unknown. Cases in association with pyoderma gangrenosum, benign monoclonal IgA gammopathy and multiple myeloma are well documented. There are anecdotal reports of SCPD associated with other internal malignancies such as chronic lymphocytic leukaemia, thymoma, apudoma and epidermoid carcinoma of the lung. The treatment of choice is dapsone. Therapeutic alternatives include",
+            "journal": "Clinical and experimental dermatology",
+            "year": "2008",
+            "authors": [
+              "Cheng S",
+              "Edmonds E",
+              "Ben-Gashir M",
+              "Yu R C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Blister",
+              "Dapsone",
+              "Diagnosis, Differential",
+              "Female",
+              "Humans",
+              "Immunoglobulin A",
+              "Male",
+              "Paraproteinemias",
+              "Pyoderma Gangrenosum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18355359/"
+          },
+          {
+            "pmid": "33389938",
+            "title": "Bartonella henselae Neuroretinitis: A Rare Coinfection in POEMS Syndrome.",
+            "abstract": "Bartonella henselae is a recognized cause of neuroretinitis in cat scratch disease. Meanwhile, polyneuropathy, organomegaly, endocrinopathy, monoclonal gammopathy, skin changes (POEMS) syndrome with Castleman disease (evidence of lymph node hyperplasia), is a chronic debilitating condition that predisposes to various superimposed infections. B. henselae neuroretinitis implicated in POEMS syndrome has not been reported previously. A 34-year-old asymptomatic man was referred for an eye assessment. Examination showed visual acuity of 6/18 in the right eye and 6/24 in the left eye. On fundus examination, both eyes exhibited typical features of neuroretinitis (optic disc swelling and incomplete macular star). There was otherwise no vitritis or chorioretinitis. Serology for B. henselae revealed high immunoglobulin M (IgM) titer (1:96) indicative of acute disease, and positive immunoglobulin G (IgG) (1:156). He was treated with oral azithromycin for 6 weeks and a short course of oral predniso",
+            "journal": "Turkish journal of ophthalmology",
+            "year": "2020",
+            "authors": [
+              "Ab Kahar Mas Edi Putriku Intan",
+              "Muhammed Julieana",
+              "Hitam Wan Hazabbah Wan",
+              "Husin Azlan"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antibodies, Bacterial",
+              "Bartonella Infections",
+              "Bartonella henselae",
+              "Eye Infections, Bacterial",
+              "Fluorescein Angiography",
+              "Fundus Oculi",
+              "Humans",
+              "Male",
+              "POEMS Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33389938/"
+          },
+          {
+            "pmid": "23546223",
+            "title": "Macrolide antibiotics block autophagy flux and sensitize to bortezomib via endoplasmic reticulum stress-mediated CHOP induction in myeloma cells.",
+            "abstract": "The specific 26S proteasome inhibitor bortezomib (BZ) potently induces autophagy, endoplasmic reticulum (ER) stress and apoptosis in multiple myeloma (MM) cell lines (U266, IM-9 and RPMI8226). The macrolide antibiotics including concanamycin A, erythromycin (EM), clarithromycin (CAM) and azithromycin (AZM) all blocked autophagy flux, as assessed by intracellular accumulation of LC3B-II and p62. Combined treatment of BZ and CAM or AZM enhanced cytotoxicity in MM cell lines, although treatment with either CAM or AZM alone exhibited almost no cytotoxicity. This combination also substantially enhanced aggresome formation, intracellular ubiquitinated proteins and induced the proapoptotic transcription factor CHOP (CADD153). Expression levels of the proapoptotic genes transcriptionally regulated by CHOP (BIM, BAX, DR5 and TRB3) were all enhanced by combined treatment with BZ plus CAM, compared with treatment with each reagent alone. Like the MM cell lines, the CHOP+/+ murine embryonic fibrob",
+            "journal": "International journal of oncology",
+            "year": "2013",
+            "authors": [
+              "Moriya Shota",
+              "Che Xiao-Fang",
+              "Komatsu Seiichiro",
+              "Abe Akihisa",
+              "Kawaguchi Tomohiro"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Apoptosis",
+              "Autophagy",
+              "Azithromycin",
+              "Boronic Acids",
+              "Bortezomib",
+              "Cell Line, Tumor",
+              "Clarithromycin",
+              "Endoplasmic Reticulum Stress",
+              "Erythromycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23546223/"
+          },
+          {
+            "pmid": "32708858",
+            "title": "A Patient with Cryoglobulinemic Membranoproliferative GN (MPGN) Who Survived COVID-19 Disease: Case Presentation and Current Data of COVID-19 Infection in Dialysis and Transplanted Patients in Greece.",
+            "abstract": "The evolving pandemic of Coronavirus Disease 2019 has posed a substantial health risk worldwide. However, there is a paucity of data regarding the clinical course and the therapeutic management of patients with chronic kidney disease and COVID-19 infection. To date, most evidence has come from renal transplantation, with about 45 patients reported thus far, and the current data from the ERA-EDTA (ERACODA) registry for transplanted patients and patients on Renal Replacement Therapy (RRT); as for those with glomerular diseases, data are lacking. Herein, we report the case of a 62-year-old patient with severe membranoproliferative glomerulonephritis who had been receiving a high burden of immunosuppression until four months before the COVID-19 infection. He developed severe disease with acute respiratory failure requiring mechanical ventilation. After treatment with hydroxychloroquine and azithromycin, despite his low chances, he gradually recovered and survived. To the best of our knowle",
+            "journal": "Medicina (Kaunas, Lithuania)",
+            "year": "2020",
+            "authors": [
+              "Marinaki Smaragdi",
+              "Tsiakas Stathis",
+              "Skalioti Chrysanthi",
+              "Lourida Panayiota",
+              "Argyraki Aikaterini"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Betacoronavirus",
+              "COVID-19",
+              "Ceftriaxone",
+              "Coronavirus Infections",
+              "Creatinine",
+              "Cryoglobulinemia",
+              "Cyclophosphamide",
+              "Enzyme Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32708858/"
+          },
+          {
+            "pmid": "22825522",
+            "title": "Treatment of osteonecrosis of the jaw (ONJ) by medical ozone gas insufflation. A case report.",
+            "abstract": "Osteonecrosis of the jaw (ONJ) is an adverse event reported in patients receiving cancer treatment, especially bisphosphonates and denosumab. A patient with multiple myeloma who underwent up to 22 intravenous zoledronic acid infusions without previous dental examination developed a devastating ONJ lesion in the right horizontal mandibular ramus. He was treated with local ozone gas applications every third day by means of a special bell to avoid O(3) diffusion. Azithromycin 500 mg/day was administered for 10 days prior to the O(3) applications. O(3) therapy resulted in sequestration of the necrotic bone after a median of 15 applications, following which surgery was necessary to remove it. Interestingly, removal was possible without the resection of the healthy mandible edge because of the presence of the bone sequestrum. Medical O(3) gas administration was effective and safe in a patient treated with bisphosphonates who developed a >2.5 cm ONJ lesion. Future research is needed to demons",
+            "journal": "Tumori",
+            "year": "2012",
+            "authors": [
+              "Ripamonti Carla Ida",
+              "Maniezzo Massimo",
+              "Pessi Maria Adelaide",
+              "Boldini Stefania"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Bisphosphonate-Associated Osteonecrosis of the Jaw",
+              "Bone Density Conservation Agents",
+              "Diphosphonates",
+              "Humans",
+              "Imidazoles",
+              "Infusions, Intravenous",
+              "Insufflation",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22825522/"
+          },
+          {
+            "pmid": "15526516",
+            "title": "Multiple myeloma in remission complicated by bone marrow granulomas.",
+            "abstract": "Granulomas are encountered in 1-2% of biopsies performed in various hematological and non-hematological diseases. Almost 50% of bone marrow granulomas are associated with infections and 25% with hematologic disorders, especially lymphoma and multiple myeloma. Toxoplasmosis is reported to induce granulomas in bone marrow inmunosuppressed patients. On the other side, long-term unexplained remissions after conventional treatment in multiple myeloma were mentioned in up to 10% of cases.",
+            "journal": "Romanian journal of internal medicine = Revue roumaine de medecine interne",
+            "year": "2003",
+            "authors": [
+              "Gologan R",
+              "Dobrea Camelia",
+              "Popa Loredana",
+              "Gioadă Liliana",
+              "Dragomir Monica"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antiprotozoal Agents",
+              "Azithromycin",
+              "Bone Marrow Diseases",
+              "Bone Marrow Examination",
+              "Female",
+              "Granuloma",
+              "Humans",
+              "Middle Aged",
+              "Multiple Myeloma",
+              "Pyrimethamine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15526516/"
+          },
+          {
+            "pmid": "17609324",
+            "title": "Community-acquired lung abscess caused by Legionella micdadei in a myeloma patient receiving thalidomide treatment.",
+            "abstract": "Legionella infection causes 2 to 14% of community-acquired pneumonia (CAP). Legionella micdadei constitutes <1% of these infections. We describe a case of cavitary L. micdadei CAP in a myeloma patient receiving thalidomide treatment. The importance of considering pneumonia and problems in diagnosing pneumonia caused by L. micdadei in this patient population are reviewed.",
+            "journal": "Journal of clinical microbiology",
+            "year": "2007",
+            "authors": [
+              "Girard Louis P",
+              "Gregson Daniel B"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Azithromycin",
+              "Community-Acquired Infections",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Legionella",
+              "Legionellosis",
+              "Lung Abscess",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17609324/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "monoclonal gammopathy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20monoclonal%20gammopathy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hematological disease associated with an acquired peripheral neuropathy",
+        "txgnn_score": 0.995631217956543,
+        "txgnn_rank": 1106,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "hematological disease associated with an acquired peripheral neuropathy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20hematological%20disease%20associated%20with%20an%20acquired%20peripheral%20neuropathy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "septicemic plague",
+        "txgnn_score": 0.9952011108398438,
+        "txgnn_rank": 1166,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31778198",
+            "title": "Biomedical Response to Neisseria gonorrhoeae and Other Sexually Transmitted Infections in the US Military.",
+            "abstract": "Sexually transmitted infections (STIs) continue to plague militaries and defense forces. While the historical recognition of the impact of STIs on operations is evident, contemporary surveillance and research activities are limited. As Neisseria gonorrhoeae and other sexually transmitted pathogens become increasingly resistant to antibiotics, the role of the Department of Defense (DoD) in disease surveillance and clinical research is essential to military Force Health Protection.",
+            "journal": "Military medicine",
+            "year": "2019",
+            "authors": [
+              "Garges Eric",
+              "Early June",
+              "Waggoner Sandra",
+              "Rahman Nazia",
+              "Golden Dana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Drug Resistance",
+              "Gonorrhea",
+              "Humans",
+              "Military Personnel",
+              "Neisseria gonorrhoeae",
+              "Population Surveillance",
+              "Sexually Transmitted Diseases",
+              "United States"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31778198/"
+          },
+          {
+            "pmid": "19392866",
+            "title": "Systematic review: the epidemiology and clinical features of travellers' diarrhoea.",
+            "abstract": "Travellers' diarrhoea is the most common medical complaint among persons venturing into developing areas from industrialized regions.",
+            "journal": "Alimentary pharmacology & therapeutics",
+            "year": "2009",
+            "authors": [
+              "DuPont H L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antidiarrheals",
+              "Clinical Trials as Topic",
+              "Diarrhea",
+              "Disease Susceptibility",
+              "Gastroenteritis",
+              "Humans",
+              "Travel"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19392866/"
+          },
+          {
+            "pmid": "10628822",
+            "title": "Tropical and exotic infections. Proceedings of the 5th Liverpool Tropical School Bayer Symposium on Microbial Diseases. 14 February 1998.",
+            "abstract": "In summary, MDR strains of S. typhi are both epidemic and endemic in many countries in Asia and MDR S. paratyphi A has recently emerged in Pakistan. Multiple clones may be present in a given area at any time. Fluoroquinolones and third generation cephalosporins have been used widely over the past decade to treat MDR strains. The clinical superiority of fluoroquinolones is now threatened by the rapid emergence of chromosomally mediated resistance and cephalosporin resistance is also being reported. Whether these problems can be overcome by the use of newer fluoroquinolones or cephalosporins remains to be seen. Meanwhile, furazolidone and azithromycin deserve further trials, and clinical and molecular surveillance of resistance patterns remains essential.",
+            "journal": "Journal of medical microbiology",
+            "year": "2000",
+            "authors": [
+              "Beeching N J",
+              "Hart C A",
+              "Duerden B I"
+            ],
+            "pub_types": [
+              "Conference Proceedings"
+            ],
+            "mesh_terms": [
+              "Cholera",
+              "Communicable Diseases",
+              "Drug Resistance, Microbial",
+              "Drug Resistance, Multiple",
+              "Ehrlichiosis",
+              "Humans",
+              "Melioidosis",
+              "Paratyphoid Fever",
+              "Plague",
+              "Salmonella paratyphi A"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10628822/"
+          },
+          {
+            "pmid": "8540736",
+            "title": "In vitro antimicrobial susceptibilities of strains of Yersinia pestis.",
+            "abstract": "The in vitro activities of 14 antimicrobial agents were determined for 78 strains of Yersinia pestis. The most active antibiotics were ceftriaxone and ciprofloxacin, followed by ofloxacin and ampicillin. The agents traditionally used for the treatment of plague (streptomycin, tetracycline, and chloramphenicol) were considerably less active. Azithromycin showed poor activity against all strains.",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1995",
+            "authors": [
+              "Smith M D",
+              "Vinh D X",
+              "Nguyen T T",
+              "Wain J",
+              "Thung D"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Plague",
+              "Species Specificity",
+              "Vietnam",
+              "Yersinia pestis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8540736/"
+          },
+          {
+            "pmid": "12698575",
+            "title": "[Efficacy of some new antibiotics in treating experimental brucellosis].",
+            "abstract": "Brucella pathogens are highly susceptible in vitro to pefloxacin, lomefloxacin, meropenem and azithromycin. High efficacy of these drugs was demonstrated for experimental brucellosis treatment, azithromycin being the most active. Meropenem and azithromycin implementation resulted in more rapid and full normalization of the bactericidial and energy systems of the experimental animals peripheral blood cells.",
+            "journal": "Antibiotiki i khimioterapiia = Antibiotics and chemoterapy [sic]",
+            "year": "2002",
+            "authors": [
+              "Maletskaia O V"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Brucella",
+              "Brucellosis",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12698575/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "septicemic plague",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20septicemic%20plague"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital hematological disorder",
+        "txgnn_score": 0.9939648509025574,
+        "txgnn_rank": 1347,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02630394",
+            "title": "A Pilot Study of Azithromycin Prophylaxis for Acute Chest Syndrome in Sickle Cell Disease",
+            "phase": "PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2015-09",
+            "completion_date": "2017-12-31",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Acute chest syndrome (ACS), a lung complication in sickle cell disease (SCD), is the second most common cause of hospitalization and leading cause of death in SCD. ACS is associated with airway inflammation, and a major cause is pulmonary infection from atypical organisms. To date, there are no drugs available to reduce inflammation and risk of recurrent ACS. Macrolides are a group of antibiotics that exert immunomodulatory and anti-inflammatory actions both in vitro and in vivo. In addition, ma",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Established diagnosis of SCD (Hemoglobin SS, hemoglobin Sβ0 thalassemia)\n* History of acute chest syndrome - the history of acute chest syndrome will be confirmed by a retrospective medical chart review that meets the standard definition as mentioned in the Background section.",
+            "endpoints": [
+              "Number of participants with treatment-related adverse events as assessed by CTCAE v4.0"
+            ],
+            "sponsor": "University of Mississippi Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT02630394"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04278404",
+            "title": "Pharmacokinetics, Pharmacodynamics, and Safety Profile of Understudied Drugs",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2020-03-05",
+            "completion_date": "2027-09",
+            "country": "Canada, United States",
+            "enrollment": 5000,
+            "brief_summary": "The study investigators are interested in learning more about how drugs, that are given to children by their health care provider, act in the bodies of children and young adults in hopes to find the most safe and effective dose for children. The primary objective of this study is to evaluate the PK of understudied drugs currently being administered to children per SOC as prescribed by their treating provider.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Participant is \\< 21 years of age\n2. Parent/ Legal Guardian/ Adult Participant can understand the consent process and is willing to provide informed consent/HIPAA:\n3. (a) Participant is receiving one or more of the study drugs of interest at the time of enrollment or (b) Part",
+            "endpoints": [
+              "Clearance (CL) or apparent oral clearance (CL/F) as measured by PK sampling",
+              "Volume of distribution (V) or apparent oral volume of distribution (V/F) as measured by PK sampling",
+              "Elimination rate constant (ke) as measured by PK sampling"
+            ],
+            "sponsor": "Duke University",
+            "url": "https://clinicaltrials.gov/study/NCT04278404"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04294641",
+            "title": "A Study of Front Line Ibrutinib Without Corticosteroids for Newly Diagnosed Chronic Graft-versus-Host Disease",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-05-10",
+            "completion_date": "2024-10-01",
+            "country": "United States",
+            "enrollment": 10,
+            "brief_summary": "Background:\n\n\\- Chronic Graft Versus Host Disease (cGVHD) can occur after a person has had a stem cell or bone marrow transplant. In cGVHD, the donor cells attack the recipient's body. Researchers want to see if a drug called ibrutinib can block one of the proteins that lead to the immune reaction that causes cGVHD.\n\nObjective:\n\n\\- To see if ibrutinib as a first-line treatment can help people with newly diagnosed cGVHD.\n\nEligibility:\n\n\\- People age 18 and older with newly diagnosed moderate or s",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1. Newly diagnosed moderate or severe chronic Graft versus Host Disease (GvHD) (according to the 2014 National Institutes of Health (NIH) Consensus Criteria, requiring systemic immunosuppression.\n  2. History of prior allogeneic Hematopoietic Stem Cell Transplant (HSCT) (any",
+            "endpoints": [
+              "Fraction of Participants With an Overall Response Rate (Complete Response [CR] + Partial Response [PR]) Reported With an 80% Confidence Interval at 6 Months",
+              "Fraction of Participants With an Overall Response Rate (Complete Response [CR] + Partial Response [PR]) Reported With an 95% Confidence Interval at 6 Months"
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT04294641"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02960503",
+            "title": "Macrolide Therapy to Improve Forced Expiratory Volume in 1 Second in Adults With Sickle Cell Disease: a Feasibility Trial",
+            "phase": "PHASE1, PHASE2",
+            "status": "WITHDRAWN",
+            "start_date": "2016-09",
+            "completion_date": "2018-10",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Sickle cell anemia (SCA) is a life-threatening, monogenic disorder associated with early death when compared to individuals without SCA. Pulmonary complications, namely acute chest syndrome, obstructive lung disease and pulmonary hypertension, are the most common causes of death in patients with SCA. Recent studies suggest that lung specific inflammation is a hallmark of SCA and underlies pulmonary pathology. To date, no therapy has been shown to improve the pulmonary complications of SCA. Macro",
+            "eligibility_criteria": "Inclusion criteria:\n\n1. Established diagnosis of sickle cell disease (HbSS, HbSC, HbS/β+, HbS/β0)\n2. Age between 18-50 years\n3. FEV1 \\< 80% predicted\n4. Willingness to make return visits and availability by telephone for the duration of the study.\n\nExclusion criteria:\n\n1. Acute respiratory symptoms\n",
+            "endpoints": [
+              "Acceptability of the trial will be assessed by the modified Morisky Medication Adherence Scale (MMAS - 8)"
+            ],
+            "sponsor": "Vanderbilt University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT02960503"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "34471086",
+            "title": "Megadose Methylprednisolone for Immune Thrombocytopenia in an Infant Positive for SARS-CoV-2: A Case Report.",
+            "abstract": "BACKGROUND Immune thrombocytopenia (ITP) is rare in infants under 1 year old. Bleeding often occurs when the platelet count is <20 000/uL. The disease can progress because of accompanying COVID-19 disease. CASE REPORT A 9-month-old boy, weighing 8.5 kg, came to the hospital with petechiae on the forehead, cheeks, mouth, and extremities. The patient had rhinorrhea for 3 days previously and was febrile, pale, weak, and could not drink. He had the measles-rubella vaccination 19 days prior. Physical examination showed no abnormalities of the eyes, ears, nose, throat, and mouth. Heart and lungs were within normal limits, with no organomegaly, lymphadenopathy, or congenital anomaly of the abdomen. Laboratory examination showed hemoglobin, 12.7 g/dL; leukocytes, 7420/uL; platelet count, 16 000/uL; and hematocrit, 37.9%. Erythrocyte sedimentation rate was 14 mm at 1 h and 21 mm at 2 h. Peripheral blood smear showed normal RBC morphology, normal leukocytes, and few platelets. IgG was reactive a",
+            "journal": "The American journal of case reports",
+            "year": "2021",
+            "authors": [
+              "Ringoringo Harapan Parlindungan",
+              "Hartoyo Edi"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "COVID-19",
+              "Humans",
+              "Infant",
+              "Male",
+              "Methylprednisolone",
+              "Pandemics",
+              "Purpura, Thrombocytopenic, Idiopathic",
+              "SARS-CoV-2"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34471086/"
+          },
+          {
+            "pmid": "26408070",
+            "title": "Antibiotics for preventing lower respiratory tract infections in high-risk children aged 12 years and under.",
+            "abstract": "Lower respiratory tract infections (LRTIs) in young children account for 1.4 million deaths annually worldwide. Antibiotics could be beneficial in preventing LRTIs in high-risk children, and may also help prevent school absenteeism and work days missed by children and/or carers. While it is well documented that the efficacy of antibiotic prophylaxis for RTIs decreases over time, there are no reviews that describe the use of antibiotic prophylaxis to prevent LRTIs in high-risk children aged 12 years and under.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2015",
+            "authors": [
+              "Onakpoya Igho J",
+              "Hayward Gail",
+              "Heneghan Carl J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anemia, Sickle Cell",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Child, Preschool",
+              "Cystic Fibrosis",
+              "HIV Infections",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26408070/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Azithromycin",
+          "disease": "congenital hematological disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Azithromycin%20congenital%20hematological%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Azithromycin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00207",
+    "name": "Azithromycin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Azithromycin"
+      },
+      "queried_at": "2026-03-10T13:07:35.874028",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Azithromycin"
+      },
+      "queried_at": "2026-03-10T13:07:35.898729",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Azithromycin"
+      },
+      "queried_at": "2026-03-10T13:07:38.859914",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T13:07:39.864040",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T13:07:43.292699",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T13:07:45.511562",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T13:07:47.494977",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T13:07:48.191761",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T13:07:52.445873",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T13:07:55.413737",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T13:07:56.645949",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T13:07:59.058337",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T13:08:03.754097",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T13:08:05.720139",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T13:08:07.970114",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T13:08:08.725360",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T13:08:14.711235",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T13:08:16.419374",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T13:08:21.056856",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T13:08:22.579605",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T13:08:28.026077",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T13:08:29.677641",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T13:08:30.453897",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T13:08:31.101307",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T13:08:36.545097",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T13:08:38.550782",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T13:08:39.571779",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T13:08:40.694790",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T13:08:46.172596",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T13:08:47.495244",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T13:08:51.440090",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T13:08:52.501485",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T13:08:56.554305",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T13:08:59.324892",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T13:09:01.401288",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T13:09:02.425400",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T13:09:06.618324",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T13:09:08.365026",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T13:09:12.785203",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital hematological disorder"
+      },
+      "queried_at": "2026-03-10T13:09:14.741141",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital hematological disorder"
+      },
+      "queried_at": "2026-03-10T13:09:19.402708",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital hematological disorder"
+      },
+      "queried_at": "2026-03-10T13:09:21.060336",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Azithromycin",
+        "disease": "congenital hematological disorder"
+      },
+      "queried_at": "2026-03-10T13:09:24.601552",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T13:09:24.620564"
+  }
+}

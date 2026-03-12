@@ -1,0 +1,3718 @@
+{
+  "drug": {
+    "inn": "Levothyroxine",
+    "drugbank_id": "DB00451",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "endemic goiter",
+        "txgnn_score": 0.9980554580688475,
+        "txgnn_rank": 573,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04482907",
+            "title": "Randomized Placebo Controlled Clinical Study of Anethum Graveolens L. (Dill) in Thyroiditis and Nodular Goiter Patients",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-02-01",
+            "completion_date": "2020-04-05",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 68,
+            "brief_summary": "The aim of the study was to investigate the functional and morphological effects of Anethum graveolens L. in patients with thyroiditis and nodular goiter by evaluating hormone levels, anti-Inflammatory markers and comparing thyroid nodule sizes measured by ultrasonography for 90 days.\n\nThe effect of Anethum graveolens L. was evaluated in euthyroid goiter patients diagnosed with benign thyroid nodule via fine needle aspiration biopsy. Aerial parts of Anethum graveolens L. were dried and grinded t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* To have multi-nodular goiter,\n* To be a benign result in fine needle aspiration biopsy,\n* Euthyroid must be sick,\n* Must be sick over the age of 18,\n* To accept the research.\n\nExclusion Criteria:\n\n* Thyroid function tests non-euthyroid individuals,\n* To have a malignant result",
+            "endpoints": [
+              "Comparison of thyroid stimulating hormone (TSH) between groups",
+              "Comparison of free triiodothyronine (fT3) between groups",
+              "Comparison of free thyroxine (fT4) between groups"
+            ],
+            "sponsor": "Bezmialem Vakif University",
+            "url": "https://clinicaltrials.gov/study/NCT04482907"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "2031356",
+            "title": "Endemic goiter and endemic thyroid disorders.",
+            "abstract": "The primary role of iodine deficiency in goitrogenesis and the prevention and treatment of endemic goiter by iodine supplementation is firmly established. Unfortunately, implementation of iodine prophylaxis programs has met with considerable technical and socioeconomic difficulties. Besides, lack of knowledge concerning some of the other causative factors of endemic goiter has prevented development of appropriate measures for its complete eradication in those areas where goiter persists in spite of prolonged and adequate iodine supplementation. At present, no less than 5% of the world's population have goiters and associated disorders, resulting in a public health and socioeconomic problem of major proportions. Seventy-five percent of people with goiter live in less developed countries where iodine deficiency is prevalent. Goiter prevalence rates of more than 50% and the highest frequency of severe cases of iodine deficiency disorders, namely, cretinism, congenital hypothyroidism, and ",
+            "journal": "World journal of surgery",
+            "year": "1991",
+            "authors": [
+              "Gaitan E",
+              "Nelson N C",
+              "Poole G V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Incidence",
+              "Iodine",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2031356/"
+          },
+          {
+            "pmid": "6304776",
+            "title": "TSH secretion and regulation in endemic goiter and endemic cretinism.",
+            "abstract": "In endemic goiter patients living in a chronic iodide deficiency area (less than 50ug/day) TSH basal levels and the TSH response to TRH is significantly higher (31 +/- 8uU/ml) than in normal controls (10 +/- 4uU/ml). There is a negative correlation between levels of iodine intake and serum TSH concentration and thyrotropin is thus increased when iodine decreased. Also it was shown that serum TSH levels correlate inversely with the serum concentration of T4 (r=0.69) but not with the usually normal or elevated serum concentration of T3 in endemic goiter patients. It has been postulated that in the absence of appropriate serum levels of T4 the pituitary thyrotrophs have an abnormally low T4 to T3 conversion and the pituitary-nuclear/serum T3 ratio does not increase sufficiently to compensate this phenomenon. On the other hand nuclear receptor saturation of T3 in tissues such as liver and kidney would remain at euthyroid levels due to the higher serum T3 concentrations. Endemic goiter pati",
+            "journal": "Progress in clinical and biological research",
+            "year": "1983",
+            "authors": [
+              "Medeiros-Neto G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Congenital Hypothyroidism",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Infant, Newborn",
+              "Iodides",
+              "Iodine",
+              "Iodized Oil",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6304776/"
+          },
+          {
+            "pmid": "7704809",
+            "title": "Endemic goiter.",
+            "abstract": "",
+            "journal": "Current therapy in endocrinology and metabolism",
+            "year": "1994",
+            "authors": [
+              "Trimarchi F",
+              "Benvenga S",
+              "Vermiglio F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Contraindications",
+              "Drug Therapy, Combination",
+              "Goiter, Endemic",
+              "Humans",
+              "Iodides",
+              "Swine",
+              "Thyroglobulin",
+              "Thyroid Gland",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7704809/"
+          },
+          {
+            "pmid": "4312017",
+            "title": "Prophylaxis and treatment of endemic goiter with iodized oil in rural Ecuador and Peru.",
+            "abstract": "",
+            "journal": "The American journal of clinical nutrition",
+            "year": "1969",
+            "authors": [
+              "Kevany J",
+              "Fierro-Benitez R",
+              "Pretell E A",
+              "Stanbury J B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Blood Proteins",
+              "Child",
+              "Child, Preschool",
+              "Congenital Hypothyroidism",
+              "Deficiency Diseases",
+              "Ecuador",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4312017/"
+          },
+          {
+            "pmid": "6309889",
+            "title": "Thyroid hormone and immunological studies in endemic goiter.",
+            "abstract": "Iodized oil (1 ml im) was given to 58 goitrous patients from a mildly iodine-deficient area in Greece. Goiter size, urinary iodine, and serum T4, T3RU, T3, rT3, TSH, thyroxine-binding globulin (TBG), and thyroid autoantibodies were measured before and 1, 3, and 6 months after the injection. Goiter size decreased. Serum T4 remained relatively constant, but TBG decreased and therefore T3RU and FTI increased. Serum T3 and rT3 initially decreased (P less than 0.001) and then increased at the sixth month (P less than 0.001), both showing roughly parallel changes. Serum TSH, initially normal (1.42 +/- 0.11 (SEM) mU/liter), decreased to 0.65 +/- 0.01 and 0.76 +/- 0.05 mU/liter at the third and sixth month (difference from baseline P less than 0.001). Thyroid autoantibodies, both against thyroglobulin and the microsomal antigen, were undetectable before treatment, but became positive in 42.8% of the patients 3 and 6 months later. Three patients developed transient hyperthyroidism. This occurre",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1983",
+            "authors": [
+              "Boukis M A",
+              "Koutras D A",
+              "Souvatzoglou A",
+              "Evangelopoulou A",
+              "Vrontakis M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Autoantibodies",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Hyperthyroidism",
+              "Iodized Oil",
+              "Male",
+              "Middle Aged",
+              "Thyroid Hormones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6309889/"
+          },
+          {
+            "pmid": "3090091",
+            "title": "Goiter size and thyroid function in an endemic goiter area in northern Italy.",
+            "abstract": "Thyroid function was studied in a large number of subjects residing in Varsi, a town in the province of Parma, Italy. In this area, endemic goiter associated with moderate iodine deficiency [59 +/- 3 (+/- SE) microgram iodine/g creatinine], as defined by WHO criteria, affects 65% of the population. Serum T4, T3, thyroglobulin (Tg), and TSH concentrations were measured by RIA in 1218 subjects. The TSH response to TRH was determined in 108 subjects selected randomly from the groups with different grades of goiter. No significant change in serum T4 concentrations was found in subjects with different grades of goiter. Serum T3 concentrations were higher in subjects with the larger goiters. Serum Tg concentration progressively increased, and serum TSH progressively decreased with increasing goiter size. The TSH response to TRH was diminished in subjects with larger goiters. The findings of decreasing serum TSH concentrations and blunted TSH responses to TRH as goiter size increased suggest ",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1986",
+            "authors": [
+              "Roti E",
+              "Gardini E",
+              "D'Amato L",
+              "Salvi M",
+              "Robuschi G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Iodine",
+              "Italy",
+              "Male",
+              "Thyroglobulin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3090091/"
+          },
+          {
+            "pmid": "4117947",
+            "title": "Endemic goiter in Sarawak, Borneo Island; prevalence and pathogenesis.",
+            "abstract": "",
+            "journal": "Endocrinologia japonica",
+            "year": "1972",
+            "authors": [
+              "Ogihara T",
+              "Oki K",
+              "Iida Y",
+              "Hayashi S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Borneo",
+              "Feeding Behavior",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Iodine",
+              "Male",
+              "Thiocyanates",
+              "Thyroid Function Tests",
+              "Thyroid Gland"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4117947/"
+          },
+          {
+            "pmid": "263304",
+            "title": "Fetal hypothyroidism and maternal thyroid status in severe endemic goiter.",
+            "abstract": "The relationship between maternal thyroid function and newborn thyroid function was studied in a region of very severe endemic goiter (Ubangi, Republic of Zaïre). T4, T3, and TSH concentrations were measured in the sera of 56 mothers (at the time of delivery) and 60 newborns (in the cord). The results obtained in these groups (untreated) were compared with those obtained in two control groups, comprising 53 mothers whose iodine deficiency had been corrected by the injection of iodized oil and 68 neonates born to such mothers. The results show that the mean (+/- SEM) T4 serum concentration (micrograms per dl) was 11.5 +/- 0.7 in the untreated mothers compared with 15.7 +/- 0.7 in the treated mothers (P less than 0.001), and 9.4 +/- 0.8 in the untreated newborns compared with 12.4 +/- 0.5 in the newborns of treated mothers (P less than 0.01). The values observed for the mean T3 serum concentrations (nanograms per dl) in the same groups were 171 +/- 10 and 154 +/- 9 (mothers; P greater th",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1978",
+            "authors": [
+              "Thilly C H",
+              "Delange F",
+              "Lagasse R",
+              "Bourdoux P",
+              "Ramioul L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Congenital Hypothyroidism",
+              "Democratic Republic of the Congo",
+              "Female",
+              "Fetal Blood",
+              "Goiter, Endemic",
+              "Humans",
+              "Hypothyroidism",
+              "Infant, Newborn",
+              "Pregnancy",
+              "Pregnancy Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/263304/"
+          },
+          {
+            "pmid": "25629792",
+            "title": "Effect of maternal iodine supplementation on thyroid function and birth outcome in goiter endemic areas.",
+            "abstract": "The study was undertaken to examine the clinical and endocrine parameters of thyroid in a total of 460 pregnant women belonging to non-goiter areas (group 1; n = 156) and endemic areas without (group 2; n = 154) and with iodine supplementation (group 3; n = 150), and their respective newborns.",
+            "journal": "Current medical research and opinion",
+            "year": "2015",
+            "authors": [
+              "Anees Mariam",
+              "Anis Riffat Aysha",
+              "Yousaf Sohail",
+              "Murtaza Iram",
+              "Sultan Aneesa"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Dietary Supplements",
+              "Female",
+              "Fetal Blood",
+              "Goiter, Endemic",
+              "Humans",
+              "Infant, Newborn",
+              "Iodine",
+              "Iodized Oil",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25629792/"
+          },
+          {
+            "pmid": "6863473",
+            "title": "Endemic goiter in Vietnam.",
+            "abstract": "Endemic goiter involves about 15% of the population of Vietnam. To define the role of various factors which contribute to endemic goiter in Vietnam, we surveyed 935 people in Vancon, a lowland commune with goiter appearing only in the past decade, and 619 people in Dich Giao, a highland commune with endemic goiter treated erratically with iodized salt. In Dich Giao, cassava, a goitrogenic food, constitutes half of the dietary caloric intake. The prevalence of goiter was 45% in Vancon and 28% in Dich Giao. Laboratory studies were carried out in a subgroup of 63 subjects in Vancon, 52 subjects in Dich Giao, and a control group of 46 women in Hanoi. The mean serum TSH levels were 1.4 +/- 0.1 (+/- SE) microU/ml in Hanoi, 3.6 +/- 0.5 microU/ml in Vancon (P less than 0.001), and 2.4 +/- 0.2 microU/ml in Dich Giao (P less than 0.05). The mean serum T4 concentrations were similar in the three groups, but the mean free T4 concentration was low in Vancon. Serum T3 levels and the T3 to T4 ratios ",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1983",
+            "authors": [
+              "Hershman J M",
+              "Due D T",
+              "Sharp B",
+              "My L",
+              "Kent J R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Infant",
+              "Iodine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6863473/"
+          },
+          {
+            "pmid": "4310499",
+            "title": "Prophylaxis and treatment of endemic goiter in Peru with iodized oil.",
+            "abstract": "",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1969",
+            "authors": [
+              "Pretell E A",
+              "Moncloa F",
+              "Salinas R",
+              "Kawano A",
+              "Guerra-Garcia R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Altitude",
+              "Child",
+              "Child, Preschool",
+              "Clinical Trials as Topic",
+              "Depression, Chemical",
+              "Ethiodized Oil",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4310499/"
+          },
+          {
+            "pmid": "65359",
+            "title": "Hypothyroidism in an area of endemic goiter and cretinism in Central Java, Indonesia.",
+            "abstract": "In an area of severe endemic goiter in Central Java, Indonesia, clinical overt or mild hypothyroidism appeared to be present in 7 out of 20 cretins and also in 12 out of 94 non-cretinous subjects, all 5-20 years of age, living in the village of Sengi. Hypothyroidism was not found in a control group of 70 subjects of the same age living in Londjong just outside the edemia. In hypothyroid subjects the plasma PBI-concentration was 0.98+/-0.32 mug/100 ml (mean+/-SD) vs. 2.72+/-1.24 mug/100 ml in euthyroid subjects from Sengi and 4.86+/-0.80 mug/100 ml in controls from Londjong. Values for T3 were 56.3+/-3.17 ng/100 ml in hypothyroids, 140.5+/-38.5 ng/100 ml in euthyroids from Sengi and 121.6+/-27.4 ng/100 ml in controls. The TSH levels (geometric mean and range) in these 3 groups were, respectively, 210.1 (108.0-342), 15.6 (3.0-372) and 4.1 (0.8-7.0) muU/ml. The differences between the mean concentration of PBI, T3 and TSH in the hypothyroid and euthyroid groups were highly significant (P ",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1977",
+            "authors": [
+              "Goslings B M",
+              "Djokomoeljanto R",
+              "Docter R",
+              "van Hardeveld C",
+              "Hennemann G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Atrophy",
+              "Child",
+              "Child, Preschool",
+              "Congenital Hypothyroidism",
+              "Goiter, Endemic",
+              "Humans",
+              "Hypothyroidism",
+              "Indonesia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/65359/"
+          },
+          {
+            "pmid": "1117981",
+            "title": "Serum thyroid hormone and thyrotropin levels in subjects from endemic goiter regions of New Guinea.",
+            "abstract": "We studied serum thyroid hormone and thyrotropin (TSH) levels in subjects from two regions (Nomane and KarKar) of New Guinea where endemic goiter and/or iodine deficiency are prevalent. The results of the studies in 285 patients from Nomane indicated subnormal serum T4 (mean plus or minus SD, 6.5 plus or minus 2.8 vs 8.4 plus or minus 2.0 mug/1ll ml, for normal Americans, P less than 0.001), supranormal serum T3 (161 plus or minus 51 vs 126 plus or minus 33, ng/100 ml, p less than 0.001), supranormal serum T3/T4 ratio (T3/T4 x 100, 3.1 plus or minus 2.4 vs 1.5 plus or minus 0.4, P less than 0.001) and supranormal serum TSH (16 plus or minus 40 vs 2.7 plus or minus 1.2 muU/ml, P less than 0.001). Serum free T4 and free T3 were measured in 42 subjects. Serum free T4 was subnormal (2.0 plus or minus 0.9 vs 2.8 plus or minus 0.5, ng/100 ml P less than 0.001) and free T3 was elevated (677 plus or minus 150 vs 375 plus or minus 105, pg/100 ml, P less than 0.001). Serum T4 in goitrous patient",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1975",
+            "authors": [
+              "Chopra I J",
+              "Hershman J M",
+              "Hornabrook R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Child",
+              "Child, Preschool",
+              "Deafness",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1117981/"
+          },
+          {
+            "pmid": "3278876",
+            "title": "[Therapy of endemic goiter with levothyroxine and iodide. A multicenter study].",
+            "abstract": "74 patients suffering from diffuse endemic goitre and with peripheric euthyrotic metabolism were treated for 6 months either with 150 micrograms levothyroxine (T4) daily (group I, n = 35), or with a combination of 100 micrograms levothyroxine and 130.8 micrograms potassium iodide (corresponding to 100 micrograms iodide) daily (group II, n = 39). This was followed in each case by a 3-month prophylactic administration of 100 micrograms iodide daily. After 3, 6 and 9 months the reduction of the goitre volumes--measured by sonography--was significantly different from the initial value in both groups. The reduction in goitre size was more marked in group II (-30.3%) than in group I (-25.2%), in each case after 6 months' treatment, but this difference was not significant. Suppression of the basal TSH levels in the serum coincided almost completely in both groups with an equidirectional increase after the subsequent iodide administration of 3 months' duration. Whereas in group I there was a r",
+            "journal": "Deutsche medizinische Wochenschrift (1946)",
+            "year": "1988",
+            "authors": [
+              "Pfannenstiel P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Clinical Trials as Topic",
+              "Drug Therapy, Combination",
+              "Goiter, Endemic",
+              "Humans",
+              "Iodine",
+              "Potassium Iodide",
+              "Prospective Studies",
+              "Random Allocation",
+              "Thyrotropin",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3278876/"
+          },
+          {
+            "pmid": "2997259",
+            "title": "The effectiveness of oral iodized oil in the treatment and prophylaxis of endemic goiter.",
+            "abstract": "In a longitudinal study carried out for 2 yr in the Darfur region, western Sudan, 2316 school children received a single dose of 2 capsules of iodized oil (400 mg iodine) orally, and 1161 school children received 1 ml of the same preparation im (475 mg iodine); 2393 school children served as controls. One year after treatment, goiter prevalence was reduced from 67.0% to 36.0% among the children who had received oral iodized oil and from 71.0% to 42.0% in those who received it im. The prevalence in the control group did not change. The prevalences in each group were approximately the same 2 yr after treatment. Urinary iodine excretion increased after treatment and remained significantly higher than the initial value during the trial. In subjects from rural Darfur, serum T4 levels were increased 1 yr after treatment with oral iodized oil (P less than 0.001) and im iodized oil (P less than 0.01), and remained high in the former (P less than 0.05) but not in the latter. This increase was a",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1985",
+            "authors": [
+              "Eltom M",
+              "Karlsson F A",
+              "Kamal A M",
+              "Boström H",
+              "Dahlberg P A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Autoantibodies",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Injections, Intramuscular",
+              "Iodine",
+              "Iodized Oil"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2997259/"
+          },
+          {
+            "pmid": "8121602",
+            "title": "[Perinatal and maternal pathology in 38 pregnant women with endemic goiter].",
+            "abstract": "In a group of 38 pregnant women with primary, uni- or multinodular non-toxic endemic goitre, who were clinically euthyroid, 7.8% (3 cases) had previously undergone strumectomy for benign pathologies of the goitre and 10.5% (4 cases) received L-thyroxine therapy during pregnancy at a dose of 50 or 100 micrograms/day; during the course of pregnancy goitre was asymptomatic in 37 women (97.4%) and an endocystic hemorrhage occurred in 1 (2.6%) case. The goitre increased in volume in 42.1% (16 cases) of pregnant women monitored to term. Out of 20 patients undergoing ELISA of hormonal levels, 6 (30%) revealed TSH concentration more than twice the maximum normal value with normal concentrations of other thyroid hormones. There was a significant inverse correlation (r = 0.525) between T4 and TSH. Birth at term occurred at 39.9 +/- 2.6 weeks and was spontaneous in 78.9% of cases (30 cases) and laparotomic in 21.1% (8 cases). Perinatal pathologies included: 1 case (2.6%) of endo-uterine fetal dea",
+            "journal": "Minerva ginecologica",
+            "year": "1993",
+            "authors": [
+              "Pepe F",
+              "Calvo G",
+              "Scalia P",
+              "Ardizzone R",
+              "Geraci G"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Fetal Death",
+              "Goiter, Endemic",
+              "Goiter, Nodular",
+              "Humans",
+              "Infant Mortality",
+              "Infant, Newborn",
+              "Male",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8121602/"
+          },
+          {
+            "pmid": "7027428",
+            "title": "Total blood thyroxine and TSH levels in the newborns of an endemic goiter area in Romania.",
+            "abstract": "A neonatal screening of two approximately equal groups (376 in all) from (A) Bucharest (a non-endemic area) and (B) Cimpulung (an endemic area) was undertaken. RIA of T4 and TSH in dry whole blood spots was performed using blood collected 3--5 days after birth. The results show a significantly lower T4 valu in group (B) as against group (A), i.e. 105.5 +/- 3.61 nmol. L-1 as against 146.3 +/- 1.61 nmol. L-1, and a significantly increased TSH value, i.e. 19.1 +/- 0.76 microU. ml-1 as against 10.9 +/- 0.84 microU. sml-1. No sex-related differences were noticed. Our findings point to a neonatal thyroid hypofunction in the endemic area and to the need to establish the range of variation for the thyroid parameters used as criteria for congenital hypothyroidism in endemic areas. Iodine prophylaxis applied to pregnant women in such areas is also discussed.",
+            "journal": "Endocrinologie",
+            "year": "1981",
+            "authors": [
+              "Constantinescu A",
+              "Belei N",
+              "Ciocîrdia C",
+              "Tuluca N",
+              "Iorgulescu M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Congenital Hypothyroidism",
+              "Female",
+              "Goiter, Endemic",
+              "Humans",
+              "Hypothyroidism",
+              "Infant, Newborn",
+              "Infant, Newborn, Diseases",
+              "Male",
+              "Radioimmunoassay",
+              "Romania"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7027428/"
+          },
+          {
+            "pmid": "14110823",
+            "title": "[ENDEMIC GOITER].",
+            "abstract": "",
+            "journal": "Exposes annuels de biochimie medicale",
+            "year": "1964",
+            "authors": [
+              "DEVISSCHER M",
+              "BECKERS C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Africa",
+              "Africa, Central",
+              "Autoradiography",
+              "Chromatography",
+              "Diiodotyrosine",
+              "Electrophoresis",
+              "Goiter",
+              "Goiter, Endemic",
+              "Iodides",
+              "Iodine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14110823/"
+          },
+          {
+            "pmid": "36839362",
+            "title": "Iodine Deficiency and Iodine Prophylaxis: An Overview and Update.",
+            "abstract": "The thyroid gland requires iodine to synthesize thyroid hormones, and iodine deficiency results in the inadequate production of thyroxine and related thyroid, metabolic, developmental, and reproductive disorders. Iodine requirements are higher in infants, children, and during pregnancy and lactation than in adult men and non-pregnant women. Iodine is available in a wide range of foods and water and is susceptible to almost complete gastric and duodenal absorption as an iodide ion. A healthy diet usually provides a daily iodine consumption not exceeding 50% of the recommended intake. Iodine supplementation is usually necessary to prevent iodine deficiency disorders (IDDs), especially in endemic areas. The community-based strategy of iodine fortification in salt has eradicated IDDs, such as endemic goiter and cretinism, in countries providing adequate measures of iodine prophylaxis over several decades in the 20th century. Iodized salt is the cornerstone of iodine prophylaxis in endemic ",
+            "journal": "Nutrients",
+            "year": "2023",
+            "authors": [
+              "Lisco Giuseppe",
+              "De Tullio Anna",
+              "Triggiani Domenico",
+              "Zupo Roberta",
+              "Giagulli Vito Angelo"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Infant",
+              "Child",
+              "Male",
+              "Adult",
+              "Pregnancy",
+              "Humans",
+              "Female",
+              "Iodine",
+              "Sodium Chloride, Dietary",
+              "Thyroid Gland"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36839362/"
+          },
+          {
+            "pmid": "25289092",
+            "title": "Electron microscopic analysis of an angiosarcoma of the thyroid from a non-Alpine endemic goiter region: A case report and brief review of the literature.",
+            "abstract": "Angiomatoid tumors of the thyroid gland are rare endocrine neoplasms, which exhibit an aggressive behavior. Angiosarcomas of the thyroid are generally reported from the European Alpine region and have a histogenesis that has been under debate for a number of years. The current study presents a rare case of angiosarcoma of the thyroid in a 62-year-old Turkish female. The patient had a 10-year history of goiter and was from the Black Sea region, an endemic goiter region of Turkey. The patient was not taking any medication at the time of admission and swelling had been observed on the right side of the neck throughout the previous few months. Thyroid function tests, which analyzed the levels of thyroid-stimulating hormone, thyroxine and triiodothyronine, were within the normal limits, however, the histopathological findings were consistent with an angiosarcoma of the thyroid. The patient rejected the complementary surgery and chemotherapy options, and is currently disease-free (as per the",
+            "journal": "Oncology letters",
+            "year": "2014",
+            "authors": [
+              "Altinay Serdar",
+              "Ozen Aynur",
+              "Namal Esat",
+              "Ertürküner Pelin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25289092/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "endemic goiter",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20endemic%20goiter"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "renal hypodysplasia/aplasia",
+        "txgnn_score": 0.9966534972190856,
+        "txgnn_rank": 887,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "renal hypodysplasia/aplasia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20renal%20hypodysplasia/aplasia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "nodular goiter (disease)",
+        "txgnn_score": 0.9963831901550292,
+        "txgnn_rank": 941,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06924242",
+            "title": "Thyroid Cancer in Surgically Treated Multinodular Goiter: Incidence and Histopatological Outcomes",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2018-01-01",
+            "completion_date": "2024-07-31",
+            "country": "Italy",
+            "enrollment": 223,
+            "brief_summary": "This study aims to investigate, based on existing knowledge, the incidence of occult thyroid carcinoma in a cohort of patients with MNG, providing new insights into the prevalence and characteristics of thyroid malignancies in MNG. It seeks to contribute to optimizing diagnostic evaluations for patients with multinodular goiter.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients diagnosed with multinodular goiter via thyroid ultrasound, with or without FNA cytology.\n* patients who underwent surgery.\n* availability of complete clinical data\n\nExclusion Criteria:\n\n* history of thyroid carcinoma or other thyroid neoplasms.\n* not completed postope",
+            "endpoints": [
+              "incidence of occult thyroid carcinoma"
+            ],
+            "sponsor": "University of Foggia",
+            "url": "https://clinicaltrials.gov/study/NCT06924242"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00277589",
+            "title": "TSH-adapted Therapy in a Large Randomized, Observer-blind, Placebo-controlled, Prospective Treatment Study of Patients With Nodular Goiter",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2004-05",
+            "completion_date": "2008-12",
+            "country": "Germany",
+            "enrollment": 1024,
+            "brief_summary": "Primary objective:\n\n* To evaluate change in total volume of all nodules.\n\nSecondary objectives:\n\n* To evaluate change in goiter volume after a 12-months treatment, number of nodules and echogenicity of nodules.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Caucasian\n* Normal TSH value (target range between 0.6 - 3.0 mU/l)\n* Thyroid nodules in a normal sized or enlarged thyroid at least one nodule (smaller/equal 20 % of volume with cystic change) with greater/equal 1.0 cm diameter, for nodules greater 1.0 cm the diagnosis must be",
+            "endpoints": [
+              "The primary outcome measure is to compare the change in total volume of all nodules after 12 months Levothyroxin treatment to the change after 12 months of each of the reference treatments (one of the two active controls or placebo)"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT00277589"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02665325",
+            "title": "Cognitive Functions and Mood During Thyrotropin Suppressive Therapy in Patients With Differentiated Thyroid Carcinoma",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2016-01",
+            "completion_date": "2024-12",
+            "country": "China",
+            "enrollment": 100,
+            "brief_summary": "Thyroid carcinoma is the common endocrine system malignant neoplasm. At present it has become the malignant neoplasm of fastest growing incidence rate. More than 90% thyroid carcinoma is thyroid differentiated carcinoma（DTC）. Postoperative oral L-thyroxine suppressing thyroid stimulating hormone (TSH) treatment is the standard therapy in DTC patients. While TSH-suppressive therapy with L-thyroxine can cause subclinical hyperthyroidism in treatment of patients with thyroid differentiated carcinom",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Newly diagnosed differentiated thyroid carcinoma.\n* Undergo thyroidectomy according to the China thyroid association guidelines for the Management of thyroid nodule and thyroid cancer.\n* Followed by TSH-suppressive therapy 6 /12 months.\n\nExclusion Criteria:\n\n* Current or past ",
+            "endpoints": [
+              "Cognitive impairment assessed with the Mini-Mental State Examination (MMSE)",
+              "Cognitive impairment assessed with the Clock Drawing Test (CDT)",
+              "Cognitive impairment assessed with the Digit Symbol test (DST)"
+            ],
+            "sponsor": "The Affiliated Hospital of Inner Mongolia Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT02665325"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00552253",
+            "title": "Levothyroxine Treatment in Thyroid Benign Nodular Goiter",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-10",
+            "completion_date": "2008-07",
+            "country": "Taiwan",
+            "enrollment": 10,
+            "brief_summary": "We will study the effect of taking eltroxin at different time, i.e. fasting or postprandial periods. We will also study the effect of levothyroxin treatment in Chinese people",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. age between 20 to 90 years old\n2. Benign nodular goiter diagnosed with thyroid echo and fine-needle - aspiration cytology\n\nExclusion Criteria:\n\n1. Age younger than 20 or older than 90 years old\n2. Pregnancy\n3. Allergy to eltroxin\n4. Taking other drugs which will have drug int",
+            "endpoints": [
+              "The size of thyroid nodules"
+            ],
+            "sponsor": "National Taiwan University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00552253"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00150124",
+            "title": "The Influence of Continuous Block-replacement Therapy on the Effect of Radioiodine in Patients With Hyperthyroidism",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2003-01",
+            "completion_date": "2009-03",
+            "country": "Denmark",
+            "enrollment": 100,
+            "brief_summary": "Background: The use of radioactive iodine (131I) therapy as the definite cure of hyperthyroidism is widespread. According to a survey on the management of Graves' disease, thirty per cent of physicians prefer to render their patients euthyroid by antithyroid drugs (ATD) prior to 131I therapy. This strategy is presumably chosen to avoid 131I induced 'thyroid storm', which, however, is rarely encountered. Several studies have consistently shown that patients who are treated with ATD prior to 131I ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Hyperthyroid patients going to be treated with radioiodine either due to recurrent Graves' disease or toxic nodular goiter.\n\nExclusion Criteria:\n\n* Age \\< 18 yrs.\n* Allergy to anti-thyroid drugs\n* Substernal or large (\\> 100ml) goiter\n* Severe endocrine ophthalmopathy\n* Pregna",
+            "endpoints": [
+              "Thyroid function after one year of follow-up"
+            ],
+            "sponsor": "Odense University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00150124"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00941551",
+            "title": "Five-year Follow up of a Randomized Clinical Trial of Unilateral Thyroid Lobectomy With or Without Levothyroxine Treatment Postoperatively",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2000-01",
+            "completion_date": "2008-12",
+            "country": "Poland",
+            "enrollment": 150,
+            "brief_summary": "The aim of this study was to compare the prevalence of recurrent nodular goiter in the contralateral thyroid lobe among patients after unilateral thyroid lobectomy for unilateral multinodular goiter receiving versus not receiving prophylactic levothyroxine treatment postoperatively in a five-year follow-up of a randomized study",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* unilateral multinodular goiter with normal appearing on ultrasound of the neck contralateral thyroid lobe, in a patient in euthyroid state\n\nExclusion Criteria:\n\n* bilateral multinodular goiter, enlargement of contralateral thyroid lobe (volume on ultrasound \\>10 ml), suspicion",
+            "endpoints": [
+              "Primary outcome measure was prevalence of recurrent goiter within the contralateral thyroid lobe"
+            ],
+            "sponsor": "Jagiellonian University",
+            "url": "https://clinicaltrials.gov/study/NCT00941551"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04482907",
+            "title": "Randomized Placebo Controlled Clinical Study of Anethum Graveolens L. (Dill) in Thyroiditis and Nodular Goiter Patients",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-02-01",
+            "completion_date": "2020-04-05",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 68,
+            "brief_summary": "The aim of the study was to investigate the functional and morphological effects of Anethum graveolens L. in patients with thyroiditis and nodular goiter by evaluating hormone levels, anti-Inflammatory markers and comparing thyroid nodule sizes measured by ultrasonography for 90 days.\n\nThe effect of Anethum graveolens L. was evaluated in euthyroid goiter patients diagnosed with benign thyroid nodule via fine needle aspiration biopsy. Aerial parts of Anethum graveolens L. were dried and grinded t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* To have multi-nodular goiter,\n* To be a benign result in fine needle aspiration biopsy,\n* Euthyroid must be sick,\n* Must be sick over the age of 18,\n* To accept the research.\n\nExclusion Criteria:\n\n* Thyroid function tests non-euthyroid individuals,\n* To have a malignant result",
+            "endpoints": [
+              "Comparison of thyroid stimulating hormone (TSH) between groups",
+              "Comparison of free triiodothyronine (fT3) between groups",
+              "Comparison of free thyroxine (fT4) between groups"
+            ],
+            "sponsor": "Bezmialem Vakif University",
+            "url": "https://clinicaltrials.gov/study/NCT04482907"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38278171",
+            "title": "Hyperthyroidism.",
+            "abstract": "Thyrotoxicosis causes a variety of symptoms and adverse health outcomes. Hyperthyroidism refers to increased thyroid hormone synthesis and secretion, most commonly from Graves' disease or toxic nodular goitre, whereas thyroiditis (typically autoimmune, viral, or drug induced) causes thyrotoxicosis without hyperthyroidism. The diagnosis is based on suppressed serum concentrations of thyroid-stimulating hormone (TSH), accompanied by free thyroxine and total or free tri-iodothyronine concentrations, which are raised (overt hyperthyroidism) or within range (subclinical hyperthyroidism). The underlying cause is determined by clinical assessment, detection of TSH-receptor antibodies and, if necessary, radionuclide thyroid scintigraphy. Treatment options for hyperthyroidism include antithyroid drugs, radioactive iodine, and thyroidectomy, whereas thyroiditis is managed symptomatically or with glucocorticoid therapy. In Graves' disease, first-line treatment is a 12-18-month course of antithyro",
+            "journal": "Lancet (London, England)",
+            "year": "2024",
+            "authors": [
+              "Chaker Layal",
+              "Cooper David S",
+              "Walsh John P",
+              "Peeters Robin P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Antithyroid Agents",
+              "Goiter, Nodular",
+              "Iodine Radioisotopes",
+              "Thyroid Neoplasms",
+              "Hyperthyroidism",
+              "Graves Disease",
+              "Thyrotoxicosis",
+              "Thyroiditis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38278171/"
+          },
+          {
+            "pmid": "36848916",
+            "title": "Hyperthyroidism: aetiology, pathogenesis, diagnosis, management, complications, and prognosis.",
+            "abstract": "Hyperthyroidism is a common condition with a global prevalence of 0·2-1·3%. When clinical suspicion of hyperthyroidism arises, it should be confirmed by biochemical tests (eg, low TSH, high free thyroxine [FT4], or high free tri-iodothyonine [FT3]). If hyperthyroidism is confirmed by biochemical tests, a nosological diagnosis should be done to find out which disease is causing the hyperthyroidism. Helpful tools are TSH-receptor antibodies, thyroid peroxidase antibodies, thyroid ultrasonography, and scintigraphy. Hyperthyroidism is mostly caused by Graves' hyperthyroidism (70%) or toxic nodular goitre (16%). Hyperthyroidism can also be caused by subacute granulomatous thyroiditis (3%) and drugs (9%) such as amiodarone, tyrosine kinase inhibitors, and immune checkpoint inhibitors. Disease-specific recommendations are given. Currently, Graves' hyperthyroidism is preferably treated with antithyroid drugs. However, recurrence of hyperthyroidism after a 12-18 month course of antithyroid drug",
+            "journal": "The lancet. Diabetes & endocrinology",
+            "year": "2023",
+            "authors": [
+              "Wiersinga Wilmar M",
+              "Poppe Kris G",
+              "Effraimidis Grigoris"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Pregnancy",
+              "Female",
+              "Humans",
+              "Antithyroid Agents",
+              "Goiter, Nodular",
+              "Iodine Radioisotopes",
+              "COVID-19",
+              "Hyperthyroidism",
+              "Graves Disease",
+              "Prognosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36848916/"
+          },
+          {
+            "pmid": "28315909",
+            "title": "A concise review of Hashimoto thyroiditis (HT) and the importance of iodine, selenium, vitamin D and gluten on the autoimmunity and dietary management of HT patients.Points that need more investigation.",
+            "abstract": "Hashimoto's thyroiditis (HT) is a chronic autoimmune thyroid disease caused by an interaction between genetic factors and environmental conditions, both of which are yet to be fully understood. The management of HT depends on its clinical manifestations, commonly including diffuse or nodular goiter with euthyroidism, subclinical hypothyroidism and permanent hypothyroidism. However, in most cases of patients with HT, lifelong levothyroxine substitution is required. The additional role of diet for the management of HT is usually overlooked. A literature search regarding the importance and the influence of iodine, selenium, vitamin D and gluten on HT was conducted. In HT careful supplementation of possible deficiencies is recommended for the dietary management of these patients. The use of a diet low in gluten among HT patients with or without celiac disease (CD) is discussed.",
+            "journal": "Hellenic journal of nuclear medicine",
+            "year": "2017",
+            "authors": [
+              "Liontiris Michael I",
+              "Mazokopakis Elias E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Combined Modality Therapy",
+              "Diet Therapy",
+              "Diet, Gluten-Free",
+              "Dietary Supplements",
+              "Evidence-Based Medicine",
+              "Glutens",
+              "Hashimoto Disease",
+              "Humans",
+              "Iodine",
+              "Selenium"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28315909/"
+          },
+          {
+            "pmid": "36818930",
+            "title": "AMIODARONE AND THYROID DYSFUNCTION.",
+            "abstract": "Thyroid gland has a key role in maintaining the body homeostasis. Thyroxine is the main hormone secreted from the thyroid gland, its effect being predominantly achieved after the intracellular conversion of thyroxine to triiodothyronine, which exhibits a higher affinity for the receptor complex, thus modifying gene expression of the target cells. Amiodarone is one of the most commonly used antiarrhythmics in the treatment of a broad spectrum of arrhythmias, usually tachyarrhythmias. Amiodarone contains a large proportion of iodine, which is, in addition to the intrinsic effect of the medication, the basis of the impact on thyroid function. It is believed that 15%-20% of patients treated with amiodarone develop some form of thyroid dysfunction. Amiodarone may cause amiodarone-induced hypothyroidism (AIH) or amiodarone-induced thyrotoxicosis (AIT). AIT is usually developed in the areas with too low uptake of iodine, while AIH is developed in the areas where there is a sufficient iodine u",
+            "journal": "Acta clinica Croatica",
+            "year": "2022",
+            "authors": [
+              "Medić Filip",
+              "Bakula Miro",
+              "Alfirević Maša",
+              "Bakula Maja",
+              "Mucić Katarina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Amiodarone",
+              "Thyroxine",
+              "Hypothyroidism",
+              "Thyrotoxicosis",
+              "Thyroiditis",
+              "Iodine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36818930/"
+          },
+          {
+            "pmid": "23998691",
+            "title": "Thyroid and menopause.",
+            "abstract": "Thyroid dysfunction is common in the general population especially in women. All thyroid diseases are in fact more common in women than in men and may interfere with the reproductive system. Thyroid function and the gonadal axes are related throughout the woman's fertile period. The relationship between the two glands is mutual. In particular, thyroid hormones affect the reproductive function both directly and indirectly through several actions. Studies on the relationship between menopause and thyroid function are few and do not allow to clarify whether menopause has an effect on the thyroid regardless of aging. With aging, the main changes regarding thyroid physiology and function are: a reduction of thyroid iodine uptake, free thyroxine and free triiodothyronine synthesis and catabolism of free thyroxine while reverse triiodothyronine increases; the level of thyroid stimulating hormone remains normal with sometimes a tendency to higher limits. These changes are present in both sexes",
+            "journal": "Climacteric : the journal of the International Menopause Society",
+            "year": "2014",
+            "authors": [
+              "del Ghianda S",
+              "Tonacchera M",
+              "Vitti P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Autoimmune Diseases",
+              "Female",
+              "Goiter, Nodular",
+              "Humans",
+              "Hyperthyroidism",
+              "Hypothyroidism",
+              "Menopause",
+              "Primary Ovarian Insufficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23998691/"
+          },
+          {
+            "pmid": "28400351",
+            "title": "Frequency of nodular goiter and autoimmune thyroid disease and association of these disorders with insulin resistance in polycystic ovary syndrome.",
+            "abstract": "Polycystic ovary syndrome (PCOS) is a frequent endocrine disease in women. Nodular goiter and autoimmune thyroid disease (AITD) are endocrinologic abnormalities that have high prevalence. The purpose of our study was to detect the prevalence of AITD and nodular goiter in patients with PCOS and investigate whether PCOS-related hormones and metabolic factors affect these thyroid disorders.",
+            "journal": "Journal of the Turkish German Gynecological Association",
+            "year": "2017",
+            "authors": [
+              "Karaköse Melia",
+              "Hepsen Sema",
+              "Çakal Erman",
+              "Saykı Arslan Müyesser",
+              "Tutal Esra"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28400351/"
+          },
+          {
+            "pmid": "10382684",
+            "title": "Solitary nodular disease and multinodular goiter: a retrospective study on suppressive versus replacement levothyroxine therapy.",
+            "abstract": "The aim of the present study was to ascertain whether patients affected by solitary nodular disease of the thyroid or multinodular goiter had a different clinical outcome when treated with suppressive levo-thyroxine (L-T4) therapy rather than replacement L-T4 therapy. We evaluated, by a retrospective analysis, 36 patients who had received TSH-suppressive L-T4 therapy according to TSH value and 55 who had received replacement L-T4 therapy. Fine needle aspiration cytology and thyroid scan after 131I were evaluated before L-T4 administration, while echographic monitoring of number and dimensions of nodules was recorded prior to and during L-T4 treatment. No difference in duration of L-T4 treatment (about 3 years) was registered between the TSH-suppressive therapy group and replacement therapy group. L-T4 administration in a TSH-suppressive or replacement manner did not induce a numerical or volumetric significant decrease of the main nodule or of the total nodule volume. Our data show tha",
+            "journal": "Endocrine research",
+            "year": "1999",
+            "authors": [
+              "Paggi A",
+              "Persegani-Trimarchi C",
+              "Russo P",
+              "Mastropasqua M",
+              "Mosetti M A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Goiter, Nodular",
+              "Hormone Replacement Therapy",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10382684/"
+          },
+          {
+            "pmid": "5067818",
+            "title": "Hyperthyroidism.",
+            "abstract": "",
+            "journal": "The Medical clinics of North America",
+            "year": "1972",
+            "authors": [
+              "Zellmann H E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Eye Manifestations",
+              "Female",
+              "Goiter, Nodular",
+              "Graves Disease",
+              "Humans",
+              "Hyperthyroidism",
+              "Iodides",
+              "Iodine Isotopes",
+              "Male",
+              "Methimazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5067818/"
+          },
+          {
+            "pmid": "16776143",
+            "title": "[T3 toxicosis].",
+            "abstract": "",
+            "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+            "year": "2006",
+            "authors": [
+              "Iwatani Yoshinori"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Antithyroid Agents",
+              "Diagnosis, Differential",
+              "Goiter, Nodular",
+              "Graves Disease",
+              "Humans",
+              "Prognosis",
+              "Propranolol",
+              "Propylthiouracil",
+              "Thyrotoxicosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16776143/"
+          },
+          {
+            "pmid": "10434771",
+            "title": "[Goiter and nodular thyroid disease: clinical guidelines for diagnosis and treatment. (Waiting? Hormone therapy? Surgery? radioiodine?)].",
+            "abstract": "Nodular thyroid disease is a common problem. We present clinical guidelines for the management of patients with thyroid nodules, multinodular goiters and thyroid cysts for use by primary physicians. In the initial evaluation ultrasonography of the thyroid and fine-needle aspiration biopsy (FNAB) is recommended. FNAB has become the cornerstone in the evaluation of solitary thyroid nodules, cysts and dominant nodules within multinodular goiters. If the procedure is done properly, it should have a false-negative rate of less than 5% and a false-positive rate of not more than 1%. Thyroid radionuclide scans are less frequently used in the initial evaluation of a nodular goiter. Surgery is the primary therapy for patients with nodular thyroid disease. Other available treatment options are radioiodine and TSH-suppression with thyroxine. The main indications for surgery in euthyroid patients with thyroid nodule or with nontoxic multinodular goiter are recently documented or suspected malignanc",
+            "journal": "Therapeutische Umschau. Revue therapeutique",
+            "year": "1999",
+            "authors": [
+              "Cattaneo F",
+              "Bürgi U",
+              "Mueller B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Algorithms",
+              "Cysts",
+              "Diagnosis, Differential",
+              "Goiter, Nodular",
+              "Humans",
+              "Iodine Radioisotopes",
+              "Practice Guidelines as Topic",
+              "Radionuclide Imaging",
+              "Thyroid Diseases",
+              "Thyroid Gland"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10434771/"
+          },
+          {
+            "pmid": "25297557",
+            "title": "Animal models of disease: feline hyperthyroidism: an animal model for toxic nodular goiter.",
+            "abstract": "Since first discovered just 35 years ago, the incidence of spontaneous feline hyperthyroidism has increased dramatically to the extent that it is now one of the most common disorders seen in middle-aged to senior domestic cats. Hyperthyroid cat goiters contain single or multiple autonomously (i.e. TSH-independent) functioning and growing thyroid nodules. Thus, hyperthyroidism in cats is clinically and histologically similar to toxic nodular goiter in humans. The disease in cats is mechanistically different from Graves' disease, because neither the hyperfunction nor growth of these nodules depends on extrathyroidal circulating stimulators. The basic lesion appears to be an excessive intrinsic growth capacity of some thyroid cells, but iodine deficiency, other nutritional goitrogens, or environmental disruptors may play a role in the disease pathogenesis. Clinical features of feline toxic nodular goiter include one or more palpable thyroid nodules, together with signs of hyperthyroidism ",
+            "journal": "The Journal of endocrinology",
+            "year": "2014",
+            "authors": [
+              "Peterson Mark E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cat Diseases",
+              "Cats",
+              "Disease Models, Animal",
+              "Goiter, Nodular",
+              "Humans",
+              "Hyperthyroidism",
+              "Iodine Radioisotopes",
+              "Thyrotoxicosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25297557/"
+          },
+          {
+            "pmid": "37434815",
+            "title": "Correlation between thyroid function indices and urine iodine levels in patients with nodular goiter.",
+            "abstract": "To retrospectively analyze the iodine nutritional status in patients with nodular goiter (NG) and investigate a possible association between urinary iodine levels and thyroid function indices.",
+            "journal": "American journal of translational research",
+            "year": "2023",
+            "authors": [
+              "Yuan Shifa",
+              "Liu Caixia",
+              "Liu Zhijun",
+              "Wang Jingtian",
+              "Xu Yongqian"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37434815/"
+          },
+          {
+            "pmid": "10426591",
+            "title": "Suppressive therapy with levothyroxine for euthyroid diffuse and nodular goiter.",
+            "abstract": "In this study, 35 patients with euthyroid diffuse goiter and 35 patients with euthyroid nodular goiter were treated with Levothyroxine (L-T4) for six months. The aim was to evaluate the efficacy of treatment on thyroid and nodule volumes and to evaluate the correlation between volume changes and thyroglobulin levels. Serum thyroid hormones, TSH, thyroglobulin, thyroid and nodule volumes were measured at the initial visit and after 6 months. Radioactive iodine uptakes of the thyroid gland were evaluated before treatment. The mean decrease of thyroid volume at six months was about 20% (20.4 +/- 8.8 ml vs. 16 +/- 7.9 ml, P<0.001) in patients with diffuse goiter. All patients with diffuse goiter showed some decrement in their goiter sizes. Thyroid nodules, in response to thyroid hormone treatment, showed a variable behavior. A reduction of 50% or more in volume was detected in 31% (11/35) of the patients. 54% of the patients (19/35) showed a 10-49% decrease in nodule volume. Five of the pa",
+            "journal": "Endocrine journal",
+            "year": "1999",
+            "authors": [
+              "Güllü S",
+              "Gürses M A",
+              "Başkal N",
+              "Uysal A R",
+              "Kamel A N"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Goiter",
+              "Goiter, Nodular",
+              "Humans",
+              "Iodine Radioisotopes",
+              "Male",
+              "Thyroglobulin",
+              "Thyroid Gland",
+              "Thyrotropin",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10426591/"
+          },
+          {
+            "pmid": "28915531",
+            "title": "Subclinical Hyperthyroidism and the Cardiovascular Disease.",
+            "abstract": "Thyroid hormone excess has complex metabolic effects, particularly on the cardiovascular system. Treatment of these conditions is universally suggested by international guidelines. Subclinical hyperthyroidism, defined by reduced or suppressed TSH levels in the presence of normal free thyroxine and free triiodothyronine values, is common in the general population and progressively increases with aging, being as high as 15.4% in subjects more than 75 years old and more frequent in subjects with nodular goiter. Subclinical hyperthyroidism is often asymptomatic and the diagnosis is incidentally made during screening exams. However, this form of thyroid disorder has gained attention in the last years for its association with cardiovascular disease, in particular with atrial fibrillation. Less clear are the effects of subclinical hyperthyroidism on blood pressure, stroke, or heart failure. The decision to treat subclinical hyperthyroidism is made on the clinical judge, particularly in elderl",
+            "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+            "year": "2017",
+            "authors": [
+              "Delitala Alessandro P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Atrial Fibrillation",
+              "Blood Pressure",
+              "Cardiovascular Diseases",
+              "Heart Failure",
+              "Humans",
+              "Hyperthyroidism",
+              "Thyroid Hormones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28915531/"
+          },
+          {
+            "pmid": "6156639",
+            "title": "Treatment of hyperthyroidism.",
+            "abstract": "",
+            "journal": "Annual review of medicine",
+            "year": "1980",
+            "authors": [
+              "McClung M R",
+              "Greer M A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Antithyroid Agents",
+              "Diet",
+              "Female",
+              "Goiter, Nodular",
+              "Graves Disease",
+              "Humans",
+              "Hyperthyroidism",
+              "Iodides",
+              "Iodine Radioisotopes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6156639/"
+          },
+          {
+            "pmid": "39475129",
+            "title": "Autoimmune thyroiditis: an update on treatment possibilities.",
+            "abstract": "Autoimmune thyroiditis (AIT) is due to an autoimmune process that destroys thyrocytes, leading to hormonal disorders. AIT is more common in women, and the aetiology is multifactorial. The destruction of thyroid cells may release free thyroid hormones into the bloodstream, causing hyperthyroid symptoms. With further destruction of thyroid cells, patients develop euthyroidism and eventually chronic hypothyroidism. The diagnosis of AIT is based on clinical symptoms, positive anti-thyroid antibodies, ultrasound, and histological features. The main goal of treatment is correcting hormonal disorders and achieving euthyroidism. Treatment of AIT involves replacing thyroid hormone deficiency with the use of synthetic hormones. Prophylactic levothyroxine (L-T4) treatment of euthyroid patients with AIT may reduce both serological and cellular markers of autoimmunisation. Attention should be paid to the starting dose of L-T4, potential drug interactions, and drug formulation. A follow-up should be",
+            "journal": "Endokrynologia Polska",
+            "year": "2024",
+            "authors": [
+              "Dyrka Kamil",
+              "Obara-Moszyńska Monika",
+              "Niedziela Marek"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Thyroiditis, Autoimmune",
+              "Female",
+              "Thyroxine",
+              "Male",
+              "Hormone Replacement Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39475129/"
+          },
+          {
+            "pmid": "40100858",
+            "title": "The impact of insulin resistance on thyroid function and the prevalence of thyroid follicular nodular disease in pregnant women.",
+            "abstract": "Insulin resistance (IR) is a phenomenon commonly observed in pregnancy. Increased insulin concentrations might impact thyroid function and structure during gestation.",
+            "journal": "European thyroid journal",
+            "year": "2025",
+            "authors": [
+              "Nowak Andrzej",
+              "Podlewski Jacek",
+              "Hubalewska-Dydejczyk Alicja",
+              "Trofimiuk-Müldner Małgorzata"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Insulin Resistance",
+              "Pregnancy",
+              "Adult",
+              "Prevalence",
+              "Thyrotropin",
+              "Thyroid Gland",
+              "Pregnancy Complications",
+              "Thyroid Nodule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40100858/"
+          },
+          {
+            "pmid": "22278420",
+            "title": "Serum TSH and risk of papillary thyroid cancer in nodular thyroid disease.",
+            "abstract": "TSH is the main factor involved in the control of proliferation of thyrocytes. Recently, a strong relationship between serum TSH and risk of thyroid malignancy has been reported.",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "2012",
+            "authors": [
+              "Fiore Emilio",
+              "Vitti Paolo"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Carcinoma",
+              "Carcinoma, Papillary",
+              "Humans",
+              "Molecular Targeted Therapy",
+              "Neoplasm Staging",
+              "Practice Guidelines as Topic",
+              "Risk",
+              "Thyroid Cancer, Papillary",
+              "Thyroid Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22278420/"
+          },
+          {
+            "pmid": "11453524",
+            "title": "Serum levels of cytokines in children and adolescents with Graves' disease and non-toxic nodular goiter.",
+            "abstract": "It has been shown that human thyrocytes can synthesize cytokines which activate T and B lymphocytes. These immune cells play important roles in the initiation and continuation of thyroid autoimmunity. The aim of this study was to estimate serum concentrations of soluble interleukin-6 receptor (sIL-6R), interleukin-6 (IL-6) and interleukin-8 (IL-8) in patients with Graves' disease (GD) (n=44, mean age 14.8 years), in patients with nontoxic nodular goiter (NTNG) (n=36, mean age 15.6 years) and in a group of healthy controls (n=20, mean age 14.5 years). ELISA was used to determine the concentration of cytokines, antithyroglobulin and antithyroid peroxidase antibodies in patients with thyroid disease. Radio receptor assay (RRA) was performed to detect anti-TSH receptor autoantibodies (TRAb). Serum levels of IL-6, sIL-6R and IL-8 were markedly elevated in patients with GD before treatment with methimazole (p<0.0001 for IL-6, p<0.006 for sIL-6R, p<0.004 for IL-8) and after 8 weeks of therapy",
+            "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+            "year": "2001",
+            "authors": [
+              "Bossowski A",
+              "Urban M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antithyroid Agents",
+              "Autoantibodies",
+              "Child",
+              "Female",
+              "Goiter, Nodular",
+              "Graves Disease",
+              "Humans",
+              "Interleukin-6",
+              "Interleukin-8"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11453524/"
+          },
+          {
+            "pmid": "25071718",
+            "title": "Clinical concepts on thyroid emergencies.",
+            "abstract": "Thyroid-related emergencies are caused by overt dysfunction of the gland which are so severe that require admission to intensive care units (ICU) frequently. Nonetheless, in the ICU setting, it is crucial to differentiate patients with non-thyroidal illness and alterations in thyroid function tests from those with intrinsic thyroid disease. This review presents and discusses the main etiopathogenetical and clinical aspects of hypothyroid coma (HC) and thyrotoxic storm (TS), including therapeutic strategy flow-charts. Furthermore, a special chapter is dedicated to the approach to massive goiter, which represents a surgical thyroid emergency.",
+            "journal": "Frontiers in endocrinology",
+            "year": "2014",
+            "authors": [
+              "Papi Giampaolo",
+              "Corsello Salvatore Maria",
+              "Pontecorvi Alfredo"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25071718/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "nodular goiter (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20nodular%20goiter%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "bilateral renal agenesis",
+        "txgnn_score": 0.9960057139396667,
+        "txgnn_rank": 1019,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "bilateral renal agenesis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20bilateral%20renal%20agenesis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "dyshormonogenic goiter",
+        "txgnn_score": 0.9936222434043884,
+        "txgnn_rank": 1412,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "18060877",
+            "title": "Thyroglobulin and human thyroid cancer.",
+            "abstract": "Thyroglobulin (Tg) is a large molecule containing 2750 amino acids with a molecular weight of 330 kD and twenty putative N-linked glycosylation sites. Tg gene expression is regulated by thyroid transcription factor 1 (TTF-1) and human paired box 8 (Pax-8). Iodinated Tg is stored in the lumen of the thyroid follicles and is released in response to specific hormonal stimulation by thyroid stimulating hormone (TSH). Following Tg reabsorption by thyrocytes and subsequent degradation, thyroid hormones triiodothryronine (T(3)) and thyroxine (T(4)) are secreted in the bloodstream. Mutations within the Tg gene cause defective thyroid hormone synthesis, resulting in congenital hypothyroidism. Thyroid carcinoma may develop from dyshormonogenic goiters due to Tg mutation. Post-thyroidectomy Tg levels are apparently associated with prognosis of papillary and follicular thyroid carcinomas and may predict tumor recurrence and metastastic potential. The detection of Tg by biochemical and molecular me",
+            "journal": "Clinica chimica acta; international journal of clinical chemistry",
+            "year": "2008",
+            "authors": [
+              "Lin Jen-Der"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Gene Expression Regulation, Neoplastic",
+              "Health",
+              "Humans",
+              "Thyroglobulin",
+              "Thyroid Gland",
+              "Thyroid Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18060877/"
+          },
+          {
+            "pmid": "20834201",
+            "title": "Absence of primary hypothyroidism and goiter in Slc26a4 (-/-) mice fed on a low iodine diet.",
+            "abstract": "Mutations in the SLC26A4 gene, coding for the anion transporter pendrin, are responsible for Pendred syndrome, characterized by congenital sensorineural deafness and dyshormonogenic goiter. The physiological role of pendrin in the thyroid is still unclear and the lack of a thyroid phenotype in some patients with SLC26A4 mutations and in Slc26a4 (-/-) mice indicate the existence of environmental or individual modifiers able to compensate for pendrin inactivation in the thyroid. Since pendrin can transport iodide in vitro, variations in iodide supply have been claimed to account for the thyroid phenotype associated with pendrin defects.",
+            "journal": "Journal of endocrinological investigation",
+            "year": "2011",
+            "authors": [
+              "Calebiro D",
+              "Porazzi P",
+              "Bonomi M",
+              "Lisi S",
+              "Grindati A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anion Transport Proteins",
+              "Diet",
+              "Disease Models, Animal",
+              "Goiter",
+              "Goiter, Nodular",
+              "Hearing Loss, Sensorineural",
+              "Humans",
+              "Hypothyroidism",
+              "Iodine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20834201/"
+          },
+          {
+            "pmid": "41174922",
+            "title": "Genetic Rescue of a Subset of Thyroid Follicular Cells Restores Thyroid Function in Dyshormonogenic Duoxa-/- Mice.",
+            "abstract": "Background: Under sufficient iodine supply, dual oxidase (DUOX)-dependent H2O2 production constitutes the limiting factor for thyroid hormone (TH) synthesis. Inherited loss-of-function mutations in related genes can trigger congenital hypothyroidism (CH). TH supplementation is not always well-tolerated and requires dose adjustments throughout life. Regenerative medicine directed at thyroid follicular cells (TFCs) could offer an alternative therapy; however, the minimal number of TFCs to be corrected remains unknown. Methods: Thyroid dyshormonogenesis in Duoxa-/- deficient mice was rescued by conditional thyroid-specific expression of DUOXA2/DUOX2 subunits. In order to restrict reactivation in a subset of TFCs, low doses of tamoxifen (0.1-2 mg) were injected. Thyroid function was assessed by immunostaining of iodinated-thyroglobulin (iTG). Circulating serum thyrotropin (TSH) and total thyroxin (T4) were quantified, and thyroidal expression of TSH-responsive genes (Nis, Tpo, Tshr) and he",
+            "journal": "Thyroid : official journal of the American Thyroid Association",
+            "year": "2025",
+            "authors": [
+              "Djerbib Sami",
+              "Grasberger Helmut",
+              "Goossens Steven",
+              "Haigh Jody",
+              "Haenebalcke Lieven"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Dual Oxidases",
+              "Mice, Knockout",
+              "Thyroid Epithelial Cells",
+              "Thyroid Gland",
+              "Thyrotropin",
+              "Iodide Peroxidase",
+              "Thyroxine",
+              "Congenital Hypothyroidism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41174922/"
+          },
+          {
+            "pmid": "6715793",
+            "title": "Serum thyroglobulin determinations in the differential diagnosis of congenital hypothyroidism.",
+            "abstract": "The value of serum thyroglobulin (Tg) determination in the differential diagnosis of congenital hypothyroidism was assessed by serum Tg measurements in 14 patients with proven congenital hypothyroidism, in 3 subjects with transient perinatal hypothyroidism, in 3 newborns with congenital thyroxine binding globulin (TBG) deficiency and in 34 normal controls. Serum Tg was undetectable in all 6 cases with thyroid agenesis, normal or moderately elevated in the 4 cases with ectopic thyroid, markedly increased in the 4 cases with dyshormonogenic goiter and normal in the 3 cases with transient hypothyroidism and in the 3 with TBG deficiency. The present data indicate that serum Tg measurements may be useful in the differentiation of athyreotic hypothyroidism from other conditions of congenital hypothyroidism.",
+            "journal": "Journal of endocrinological investigation",
+            "year": "1984",
+            "authors": [
+              "Pacini F",
+              "Lari R",
+              "La Ricca P",
+              "Grasso L",
+              "Di Bartolo F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Congenital Hypothyroidism",
+              "Diagnosis, Differential",
+              "Female",
+              "Humans",
+              "Hypothyroidism",
+              "Infant",
+              "Infant, Newborn",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6715793/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "dyshormonogenic goiter",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20dyshormonogenic%20goiter"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "nontoxic goiter",
+        "txgnn_score": 0.9936222434043884,
+        "txgnn_rank": 1413,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04412694",
+            "title": "The Impact of Preoperative Oral Dexamethasone Supplementation on the Biochemical Parameters and Results of Surgical Treatment in Patients With Nontoxic Multinodular Goiter Undergoing Total Thyroidectomy.",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2020-07-01",
+            "completion_date": "2022-12",
+            "country": "Poland",
+            "enrollment": 100,
+            "brief_summary": "Glucocorticoids are well known for their analgesic, anti-inflammatory, immunomodulatory and anti-emetic effects. Recovery time after thyroid surgery may depend on several factors, such as postoperative pain, nausea and vomiting, postoperative sore throat, voice disorders and symptomatic hypocalcaemia (low serum calcium level). However, there is little information in the literature about the preventive use of glucocorticosteroids in patients undergoing thyroid surgery. The aim of the study is to ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patient's consent\n* adult patients\n* preoperative diagnosis of nontoxic multinodular goiter\n* total thyroidectomy\n\nExclusion Criteria:\n\n* lack of patient's consent\n* hyperthyroidism currently or in the past\n* retrosternal goiter\n* thyroid malignanacy or suspected malignant thy",
+            "endpoints": [
+              "Postoperative hypocalcaemia",
+              "Postoperative hypoparathyroidism"
+            ],
+            "sponsor": "Medical University of Lodz",
+            "url": "https://clinicaltrials.gov/study/NCT04412694"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04482907",
+            "title": "Randomized Placebo Controlled Clinical Study of Anethum Graveolens L. (Dill) in Thyroiditis and Nodular Goiter Patients",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-02-01",
+            "completion_date": "2020-04-05",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 68,
+            "brief_summary": "The aim of the study was to investigate the functional and morphological effects of Anethum graveolens L. in patients with thyroiditis and nodular goiter by evaluating hormone levels, anti-Inflammatory markers and comparing thyroid nodule sizes measured by ultrasonography for 90 days.\n\nThe effect of Anethum graveolens L. was evaluated in euthyroid goiter patients diagnosed with benign thyroid nodule via fine needle aspiration biopsy. Aerial parts of Anethum graveolens L. were dried and grinded t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* To have multi-nodular goiter,\n* To be a benign result in fine needle aspiration biopsy,\n* Euthyroid must be sick,\n* Must be sick over the age of 18,\n* To accept the research.\n\nExclusion Criteria:\n\n* Thyroid function tests non-euthyroid individuals,\n* To have a malignant result",
+            "endpoints": [
+              "Comparison of thyroid stimulating hormone (TSH) between groups",
+              "Comparison of free triiodothyronine (fT3) between groups",
+              "Comparison of free thyroxine (fT4) between groups"
+            ],
+            "sponsor": "Bezmialem Vakif University",
+            "url": "https://clinicaltrials.gov/study/NCT04482907"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "11238475",
+            "title": "Evaluation and treatment of sporadic nontoxic goiter--some answers and more questions.",
+            "abstract": "",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "2001",
+            "authors": [
+              "Samuels M H"
+            ],
+            "pub_types": [
+              "Comment",
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Goiter",
+              "Humans",
+              "Iodine Radioisotopes",
+              "Risk Factors",
+              "Thyroidectomy",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11238475/"
+          },
+          {
+            "pmid": "10818394",
+            "title": "Thyroidopathies.",
+            "abstract": "Pregnancy affects thyroid physiology in many ways: (a) The renal iodide clearance rate is increased, hence iodine requirements increase. (b) The fetal requirements for thyroid hormones and iodide are an additional problem. (c) Serum thyroxine-binding globulin increases, thus producing an increase in the levels of total T4 and T3. (d) Chorionic gonadotropin has a thyroid-stimulating activity. This may be compensated for by a decrease in TSH, but in some cases gestational thyrotoxicosis occurs. (e) Thyroid autoimmunity usually subsides during pregnancy, but may rebound a few months after parturition, and postpartum thyroiditis may occur. Because maternal antithyroid autoantibodies cross the placenta readily, fetal and neonatal hyperthyroidism (or hypothyroidism) may develop. Pre-existing thyroid diseases are influenced. Nontoxic goiter increases in size. Iodine and/or thyroxine may be required. Graves' disease may remit. If present, antithyroid drugs should be given in small doses, and q",
+            "journal": "Annals of the New York Academy of Sciences",
+            "year": "2000",
+            "authors": [
+              "Koutras D A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Pregnancy",
+              "Pregnancy Complications",
+              "Thyroid Diseases",
+              "Thyroid Gland"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10818394/"
+          },
+          {
+            "pmid": "10787189",
+            "title": "Therapeutic options in the management of toxic and nontoxic nodular goiter.",
+            "abstract": "Nodular goiter is present in 500 to 600 million people and is usually secondary to endemic iodine deficiency. Despite adequate iodine intake, 4% to 6% of American adults are goitrous. Sporadic nodular goiter ensues from the natural heterogeneity of thyroid follicular cells, which, when amplified by yet unidentified trophic stimuli, results in episodes of proliferating, rapidly dividing micronodules. The initial small diffuse goiter evolves into a multinodular goiter (MNG) with 1 or more dominant nodules that may or may not be autonomous. An autonomous functioning thyroid adenoma (AFTA) usually possesses a somatic gain-of-function mutation of the thyrotropin (TSH) receptor associated with rapid growth, hemorrhagic necrosis, and reparative fibrosis that accentuate goiter nodularity. Diagnostic evaluation consists of patient history and physical examination, serum TSH determination, free thyroxine and free triiodothyronine measurements, and imaging studies assessing goiter function, size,",
+            "journal": "Seminars in nuclear medicine",
+            "year": "2000",
+            "authors": [
+              "Freitas J E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Goiter, Nodular",
+              "Humans",
+              "Iodine Radioisotopes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10787189/"
+          },
+          {
+            "pmid": "9174716",
+            "title": "Diffuse nontoxic and multinodular goiter.",
+            "abstract": "",
+            "journal": "Current therapy in endocrinology and metabolism",
+            "year": "1997",
+            "authors": [
+              "Nakhjavani M",
+              "Gharib H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Diagnosis, Differential",
+              "Goiter",
+              "Goiter, Nodular",
+              "Humans",
+              "Iodine Radioisotopes",
+              "Thyrotropin",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9174716/"
+          },
+          {
+            "pmid": "8844728",
+            "title": "Evaluation and management of multinodular goiter.",
+            "abstract": "Nodular goiters are encountered commonly in clinical practice by primary care physicians, endocrinologists, surgeons, and otolaryngologists. Epidemiologic data suggest that in the United States, the incidence of such goiters is approximately 0.1% to 1.5% per year, translating into 250,000 new nodules annually. Nodular goiters are more common in women than in men, with advancing age, and after exposure to external irradiation. These goiters may be asymptomatic, with normal TSH levels (nontoxic), or may be associated with systemic thyrotoxic symptoms (toxic MNG or Plummer's disease). Diagnostic evaluation of patients with nodular goiters consists of clinical evaluation, biochemical testing, FNA, and imaging studies. The serum TSH level is a sensitive and reliable index of thyroid function. FNA results are pivotal to assess cancer risk in patient management for prominent palpable and suspicious nodules. Chest radiography, high-resolution ultrasonography, and computed tomography help to de",
+            "journal": "Otolaryngologic clinics of North America",
+            "year": "1996",
+            "authors": [
+              "Hurley D L",
+              "Gharib H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Biopsy, Needle",
+              "Diagnostic Imaging",
+              "Female",
+              "Goiter, Nodular",
+              "Humans",
+              "Incidence",
+              "Male",
+              "Radiation Injuries",
+              "Sex Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8844728/"
+          },
+          {
+            "pmid": "23356134",
+            "title": "[Peculiarities of formation, clinical presentations and therapy of diffuse nontoxic goiter of children].",
+            "abstract": "The paper deals with the peculiarities of formation, clinical presentations and therapy of diffuse nontoxic goiter of children. The paper highlights the connection of the disease with the genetic predisposition, the impact of natural and anthropogenic strumagenes, immune processes. The clinical presentations of the diffuse nontoxic goiter are diffuse enlargement of thyroid gland, normal or high level of thyrotropichypophysis hormone when the content of thyroxin and triiodothyronine is normal, which is treated as the subclinic hypothyroidism syndrome. The variety of the disease pathogenesis theories leads to testing of different therapeutic methods, the principal ones among them are the use of iodine preparation and replacement therapy.",
+            "journal": "Likars'ka sprava",
+            "year": "2012",
+            "authors": [
+              "Byriak V N",
+              "Murashko E S"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Female",
+              "Genetic Predisposition to Disease",
+              "Goiter, Endemic",
+              "Goiter, Nodular",
+              "Hormone Replacement Therapy",
+              "Humans",
+              "Iodine Compounds",
+              "Male",
+              "Pituitary Gland"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23356134/"
+          },
+          {
+            "pmid": "18578614",
+            "title": "The odyssey of nontoxic nodular goiter (NTNG) in Greece under suppression therapy, and after improvement of iodine deficiency.",
+            "abstract": "Nontoxic nodular goiter (NTNG) is common in endemic goiter regions. Thyroxine (T4) is often used to treat NTNG. There is little information regarding T4 treatment in regions that have recently become iodine sufficient. We studied the effect of T4 treatment on thyroid function tests in southwestern Greece (SWG), a recently iodine-sufficient area.",
+            "journal": "Thyroid : official journal of the American Thyroid Association",
+            "year": "2008",
+            "authors": [
+              "Michalaki Marina",
+              "Kyriazopoulou Venetsana",
+              "Paraskevopoulou Panagiota",
+              "Vagenakis Apostolos G",
+              "Markou Kostas B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Contraindications",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Goiter, Nodular",
+              "Greece",
+              "Humans",
+              "Hyperthyroidism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18578614/"
+          },
+          {
+            "pmid": "8299711",
+            "title": "Levothyroxine suppressive therapy in the medical management of nontoxic benign multinodular goiter.",
+            "abstract": "The aim of this investigation was to evaluate the efficacy of levothyroxine suppressive therapy in the medical management of nontoxic benign multinodular goiter. We studied 104 patients with multiple (2 to 5, mean = 2.5 +/- 0.7), solid (96%) or predominantly solid (4%), nonfunctional (68%) or hypofunctional (32%) thyroid nodules. The benign (colloid) nature of 94% of the nodules was confirmed by fine-needle aspiration biopsy. All the patients received suppressive (2.2 micrograms per Kg body weight) daily oral doses of levothyroxine for 6 months. To confirm the effectiveness of the suppressive therapy, TSH levels were measured by an ultrasensitive immunometric assay at 3 and 6 month of treatment. For each patient, the volume of each nodule before and after levothyroxine therapy was evaluated by high-resolution ultrasonography. After 3 and 6 months of treatment, TSH levels were suppressed (lower than 0.1 mIU/l) in 75 patients and detectable in 29. At the end of the study, the volume of a",
+            "journal": "Experimental and clinical endocrinology",
+            "year": "1993",
+            "authors": [
+              "Celani M F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Biopsy, Needle",
+              "Female",
+              "Goiter, Nodular",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Thyrotropin",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8299711/"
+          },
+          {
+            "pmid": "11238476",
+            "title": "A randomized trial comparing levothyroxine with radioactive iodine in the treatment of sporadic nontoxic goiter.",
+            "abstract": "A randomized clinical trial was performed in consecutive patients with sporadic nontoxic nodular goiter to compare efficacy and side effects of iodine-131 ((131)I) therapy with suppressive levothyroxine (L-thyroxine) treatment. Sixty-four patients were randomized after stratification for sex and menopausal age to receive (131)I (4.44 MBq/g thyroid; group A) or suppressive L-thyroxine treatment aiming at TSH values between 0.01 and 0.1 mU/L (group B). The main outcome measurements after 2 yr were goiter size by ultrasound, serum thyroid function tests, markers of bone turnover, and bone mineral density (BMD). Fifty-seven patients completed the trial. Goiter size was reduced after 2 yr by 44% in group A and by 1% in group B (P< 0.001). Nonresponders (goiter reduction <13%) were 1 of 29 patients in group A and 16 of 28 patients in group B (P = 0.00001). In responders, goiter reduction in group A (46%) was greater than in group B (22%; P< 0.005). In group A, 45% of patients developed hypot",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "2001",
+            "authors": [
+              "Wesche M F",
+              "Tiel-V Buul M M",
+              "Lips P",
+              "Smits N J",
+              "Wiersinga W M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Bone Density",
+              "Bone Remodeling",
+              "Female",
+              "Goiter",
+              "Humans",
+              "Hypothyroidism",
+              "Iodine Radioisotopes",
+              "Male",
+              "Menopause",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11238476/"
+          },
+          {
+            "pmid": "2239979",
+            "title": "Interrelationships between age, thyroid volume, thyroid nodularity, and thyroid function in patients with sporadic nontoxic goiter.",
+            "abstract": "To test the hypothesis that during the natural history of sporadic nontoxic goiter (SNG), a diffuse goiter precedes a multinodular goiter with gradual development of autonomous thyroid function.",
+            "journal": "The American journal of medicine",
+            "year": "1990",
+            "authors": [
+              "Berghout A",
+              "Wiersinga W M",
+              "Smits N J",
+              "Touber J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aging",
+              "Cross-Sectional Studies",
+              "Female",
+              "Goiter",
+              "Goiter, Nodular",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Thyroglobulin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2239979/"
+          },
+          {
+            "pmid": "7704811",
+            "title": "Diffuse nontoxic and multinodular goiter.",
+            "abstract": "",
+            "journal": "Current therapy in endocrinology and metabolism",
+            "year": "1994",
+            "authors": [
+              "Gharib H"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Diagnosis, Differential",
+              "Goiter, Nodular",
+              "Humans",
+              "Iodine Radioisotopes",
+              "Thyrotropin",
+              "Thyroxine",
+              "Triiodothyronine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7704811/"
+          },
+          {
+            "pmid": "2294139",
+            "title": "Bone Gla protein and sex hormone-binding globulin in nontoxic goiter: parameters for metabolic status at the tissue level.",
+            "abstract": "Several patients with nontoxic goiter have reduced serum TSH levels, as measured with new sensitive assays. Whether this is a sign of subclinical hyperthyroidism, thus having the potential of adverse effects on different organs with time, is not known. We have measured serum levels of 2 markers of thyrometabolic status at the tissue level, bone gamma-carboxyglutamic acid-containing protein (BGP), reflecting the function of osteoblasts, and sex hormone-binding globulin (SHBG), reflecting the function of hepatocytes, in 44 patients (41 women and 3 men) with nontoxic goiter (11 diffuse and 33 nodular goiters; serum T4, T3, free T4, and free T3 levels had been normal and stable for at least 0.5 yr). Serum TSH levels ranged from normal to unmeasurably low values (less than 0.05 mU/L). Serum TSH levels correlated negatively to serum BGP levels (r = -0.60; P less than 0.001). Due to the postmenopausal surge in serum BGP levels, premenopausal women (n = 21) were tested separately without chang",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1990",
+            "authors": [
+              "Faber J",
+              "Perrild H",
+              "Johansen J S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Age Factors",
+              "Aged",
+              "Female",
+              "Goiter",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Osteocalcin",
+              "Sex Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2294139/"
+          },
+          {
+            "pmid": "1174255",
+            "title": "Nontoxic goiter-diffuse or nodular.",
+            "abstract": "Nontoxic goiters are very common. A single hyperfunctioning nodule is never malignant. Treatment is required only if the patient is hyperthyroid. Most single hypofunctioning thyroid nodules are cool and most are benign; however, it is important to rule out malignancy. The presence of microcalcification is consistent with psammoma bodies and the presence of papillary cancer of the thyroid. An elevated plasma calcitonin level with a further increase in calcitonin after calcium infusion is usually characteristic of medullary cancer of the thyroid. Needle biopsy of the thyroid is recommended when an experienced surgeon and pathologist are available. The treatment of benign thyroid lesions may include a trial of fully suppressive doses of thyroxine.",
+            "journal": "The Medical clinics of North America",
+            "year": "1975",
+            "authors": [
+              "Maloof F",
+              "Wang C A",
+              "Vickery A L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Biopsy, Needle",
+              "Goiter",
+              "Goiter, Nodular",
+              "Humans",
+              "Thyroid Function Tests",
+              "Thyroid Hormones",
+              "Thyroid Neoplasms",
+              "Thyroiditis, Autoimmune"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1174255/"
+          },
+          {
+            "pmid": "8661844",
+            "title": "Long-term observation of serum thyroglobulin after resection of nontoxic goiter and relation to ultrasonographically demonstrated relapse.",
+            "abstract": "The object was to carry out a prospective study of the changes in serum thyroid hormones and thyroglobulin (Tg) following resection of nontoxic goiter and to investigate if there was a correlation to the pattern of relapse. A group of 39 consecutive patients, mainly with nodular, nontoxic goiter, were studied for 13 years following thyroidectomy. No thyroid hormone replacement therapy was given after surgery. The preoperative serum Tg level was elevated. After operation the mean serum Tg declined to a nadir of 43 micrograms/L at 1 year and subsequently increased to 90 micrograms/L at 10 years, with large individual differences. In 19 patients the serum Tg increased, in 1 it decreased, and in 19 no significant alteration was observed. Serum free thyroxine and triiodothyronine indices decreased following resection but achieved normal levels within 6 to 12 months. Serum thyroid-stimulating hormone increased after resection, with a peak level 1 month after surgery, but it returned to norma",
+            "journal": "World journal of surgery",
+            "year": "1996",
+            "authors": [
+              "Date J",
+              "Feldt-Rasmussen U",
+              "Blichert-Toft M",
+              "Hegedüs L",
+              "Graversen H P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Female",
+              "Goiter, Nodular",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Postoperative Complications",
+              "Prospective Studies",
+              "Recurrence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8661844/"
+          },
+          {
+            "pmid": "15483102",
+            "title": "Management of the nontoxic multinodular goiter in Latin America: comparison with North America and Europe, an electronic survey.",
+            "abstract": "To assess diagnostic and therapeutic approaches to nontoxic multinodular goiter and to compare them with previously reported American Thyroid Association (ATA) and European Thyroid Association (ETA) surveys, an online questionnaire was distributed to Latin American Thyroid Society (LATS) members. An index case was presented (42-yr-old woman with an enlarged, irregular, nontender, 50- to 80-g thyroid and no clinical suspicion of malignancy or dysfunction), and 11 variations were proposed to evaluate how each alteration would affect management. We obtained 148 responses (response rate, 50%). In the index case, the most used blood tests were TSH (96%), antithyroid peroxidase antibodies (76%), and free T(4) (64%); 5% included a calcitonin assay. Nearly 90% would perform ultrasound, and only 16% used scintigraphy. Fine needle biopsy was indicated by 88%, with ultrasound guidance in 75% of times. For treatment, observation was preferred by 39%, surgery by 28%, levothyroxine by 21%, and radio",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "2005",
+            "authors": [
+              "Diehl Leandro Arthur",
+              "Garcia Valdinei",
+              "Bonnema Steen J",
+              "Hegedüs Laszlo",
+              "Albino Claudio Cordeiro"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Electronics",
+              "Europe",
+              "Female",
+              "Goiter, Nodular",
+              "Humans",
+              "Latin America",
+              "North America",
+              "Surveys and Questionnaires"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15483102/"
+          },
+          {
+            "pmid": "9284721",
+            "title": "Thyrotropin receptor antibodies and Graves' disease, a side-effect of 131I treatment in patients with nontoxic goiter.",
+            "abstract": "The use of 131I treatment in patients with benign nontoxic goiter is increasing, and the described side-effects are few. In this paper we describe appearance of TSH receptor antibodies (TRAb) and concomitant development of hyperthyroidism as a side-effect of 131I treatment in patients with nontoxic goiter. In this retrospective study, 191 consecutive patients with 131I-treated nontoxic goiter are described. Nine patients (5%) developed hyperthyroidism 3 months after 131I treatment, and 5 patients (3%) developed radiation thyroiditis within the first month. Frozen sera were analyzed for thyroid peroxidase antibodies (anti-TPO) in 130 patients before 131I treatment. In 21% of these, serum levels of anti-TPO were over 200 U/mL. The complication frequency of Graves'-like hyperthyroidism and hypothyroidism was 51% in patients with elevated anti-TPO (n = 27) and 15% in patients with normal serum anti-TPO levels (P < 0.00005). TRAb, anti-TPO, and thyroglobulin were followed in patients develo",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1997",
+            "authors": [
+              "Nygaard B",
+              "Knudsen J H",
+              "Hegedüs L",
+              "Scient A V",
+              "Hansen J E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antibodies",
+              "Female",
+              "Goiter",
+              "Graves Disease",
+              "Humans",
+              "Iodide Peroxidase",
+              "Iodine Radioisotopes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9284721/"
+          },
+          {
+            "pmid": "11257722",
+            "title": "Effect of different drugs on the level of DNA-hydrolyzing polyclonal IgG antibodies in sera of patients with Hashimoto's thyroiditis and nontoxic nodal goiter.",
+            "abstract": "DNA-hydrolyzing IgG antibodies have been detected recently in the sera of patients with several autoimmune diseases.",
+            "journal": "Medical science monitor : international medical journal of experimental and clinical research",
+            "year": "2001",
+            "authors": [
+              "Nevinsky G A",
+              "Breusov A A",
+              "Baranovskii A G",
+              "Prints A V",
+              "Kanyshkova T G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antibodies, Antinuclear",
+              "Chromatography, Gel",
+              "DNA",
+              "Electrophoresis, Agar Gel",
+              "Goiter, Nodular",
+              "Humans",
+              "Hydrolysis",
+              "Hydroxychloroquine",
+              "Immunoglobulin G",
+              "Thyroiditis, Autoimmune"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11257722/"
+          },
+          {
+            "pmid": "3570153",
+            "title": "Increased thyroidal T4/T3 ratio in nodular and paranodular tissues of nontoxic goiter following suppressive treatment with thyroid hormones.",
+            "abstract": "The effect of suppressive treatment with thyroid hormones on thyroidal iodothyronines and T4/T3 ratio in nodular and paranodular tissues was investigated in 12 patients with nontoxic goiter. Results were compared to those from 11 nontreated patients. Continuous thyroid hormone administration produced a significant increase in thyroidal T4 and T4/T3 ratio in nodular tissues while T3 remained unchanged. In paranodular tissues a significant rise of T4/T3 ratio, an insignificant increase in T4 and a decrease in T3 were observed following the administration of thyroid hormones. The results are very similar to those obtained in paranodular tissue of autonomously functioning thyroid nodule, and are probably the consequence of suppressed TSH secretion, as TSH predominantly stimulates the synthesis of T3 and/or thyroidal T4 monodeiodination.",
+            "journal": "Hormone research",
+            "year": "1987",
+            "authors": [
+              "Solter M",
+              "Tislarić D",
+              "Pegan B",
+              "Petric V",
+              "Sekso M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Goiter, Nodular",
+              "Humans",
+              "Thyroid Gland",
+              "Thyroid Hormones",
+              "Thyroxine",
+              "Triiodothyronine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3570153/"
+          },
+          {
+            "pmid": "14611703",
+            "title": "Ultrasound-guided laser thermal ablation in the treatment of autonomous hyperfunctioning thyroid nodules and compressive nontoxic nodular goiter.",
+            "abstract": "Percutaneous laser thermal ablation (LTA) has been applied in several tumors. In this study we evaluated the safety and long-term efficacy of LTA in the treatment of benign thyroid nodules.",
+            "journal": "Thyroid : official journal of the American Thyroid Association",
+            "year": "2003",
+            "authors": [
+              "Spiezia Stefano",
+              "Vitale Giovanni",
+              "Di Somma Carolina",
+              "Pio Assanti Angelo",
+              "Ciccarelli Antonio"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Catheter Ablation",
+              "Female",
+              "Goiter, Nodular",
+              "Hot Temperature",
+              "Humans",
+              "Lasers",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14611703/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "nontoxic goiter",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20nontoxic%20goiter"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "lingual goiter",
+        "txgnn_score": 0.9936222434043884,
+        "txgnn_rank": 1414,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "12973493",
+            "title": "Dual thyroid ectopia.",
+            "abstract": "Ectopic thyroid gland is a rare embryological fault of thyroid development. Dual ectopic thyroid is even more rare and only 8 cases have been reported in the literature. The author presents a case of dual ectopic thyroid in a 16-year-old boy with an anterior neck mass, which is gradually growing in size particularly in the last 2 years. The initial diagnosis was thyroglossal duct cyst. Thyroid function test revealed elevated thyroid-stimulating hormone. Ultrasound of the neck did not show thyroid gland in its normal pretracheal position. Thyroid scan (Technetium 99) revealed the diagnosis of dual thyroid ectopia (lingual and subhyoid).",
+            "journal": "Saudi medical journal",
+            "year": "2003",
+            "authors": [
+              "Al-Akeely Mohammed H"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Choristoma",
+              "Goiter",
+              "Humans",
+              "Male",
+              "Neck",
+              "Radiography",
+              "Technetium",
+              "Thyroid Gland",
+              "Thyrotropin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12973493/"
+          },
+          {
+            "pmid": "7450648",
+            "title": "[Lingual goiter with special regard to diagnosis and therapy].",
+            "abstract": "Starting with a case report, epidemiology, diagnosis, therapy and prognosis of lingual thyroid are discussed with special reference to the decisive value of scintigraphy. The usual 99mTc-scan often fails in detection of ectopic thyroid tissue because of tracer accumulation in salivary glands and its excretion into the oral cavity. Another disadvantage is the relatively high tissue absorption of 99mTc-photons. According to the low sensitivity and specificity of usual 99mTc-scintigraphy, all patients with suspected ectopic thyroid tissue and especially in case of suspected tumor in the retrolingual region should be examined by radio-iodine-imaging (123I, 123I). The decision between conservative and surgical therapy depends on subjective complaints, regional iodine uptake and growth behaviour of the lingual thyroid, and especially on cytological findings of fine needle biopsy, which is not dangerous in expert hands.",
+            "journal": "Fortschritte der Medizin",
+            "year": "1980",
+            "authors": [
+              "Schmid L",
+              "Lauer O",
+              "Bayer-Pietsch E",
+              "Steuer G",
+              "Pabst H W"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adenoma",
+              "Adult",
+              "Cysts",
+              "Diagnosis, Differential",
+              "Female",
+              "Goiter",
+              "Hemangioma",
+              "Humans",
+              "Iodine Radioisotopes",
+              "Mouth Floor"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7450648/"
+          },
+          {
+            "pmid": "8903452",
+            "title": "Lingual thyroid.",
+            "abstract": "",
+            "journal": "Otolaryngology--head and neck surgery : official journal of American Academy of Otolaryngology-Head and Neck Surgery",
+            "year": "1996",
+            "authors": [
+              "Akyol M U",
+              "Ozcan M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Goiter",
+              "Humans",
+              "Thyroid Gland",
+              "Thyroxine",
+              "Tongue"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8903452/"
+          },
+          {
+            "pmid": "41180744",
+            "title": "Multinodular goiter in ectopic lingual thyroid: a case report with comprehensive review.",
+            "abstract": "Lingual thyroid is a rare ectopic thyroid anomaly caused by the failure of thyroid descent during embryogenesis. It accounts for 90% of ectopic thyroid cases. Multinodular goiter (MNG) in a lingual thyroid is extremely rare, with only three cases previously reported.",
+            "journal": "Annals of medicine and surgery (2012)",
+            "year": "2025",
+            "authors": [
+              "Yadav Dipesh Kumar",
+              "Fatima Noor",
+              "Aslam Maria",
+              "Jha Devesh",
+              "Ghayour Uzka"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41180744/"
+          },
+          {
+            "pmid": "13631053",
+            "title": "Treatment of a lingual goiter with triiodothyronine.",
+            "abstract": "",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1959",
+            "authors": [
+              "ODELL W D",
+              "STEVENSON J K",
+              "WILLIAMS R H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Goiter",
+              "Humans",
+              "Lingual Goiter",
+              "Triiodothyronine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13631053/"
+          },
+          {
+            "pmid": "16053391",
+            "title": "Resistance to thyroid hormone in a patient with thyroid dysgenesis.",
+            "abstract": "We report a patient with the unusual coincidence of two rare congenital disorders, lingual ectopy of the thyroid gland and resistance to thyroid hormone (RTH), resulting in impaired thyroid hormone production and action, respectively. The proposita had a positive thyrotropin (TSH) newborn screening test (350 mU/L, confirmed) with normal thyroxine (T4) and no clinical signs of hypothyroidism. A scintiscan revealed lingual but no orthotopic thyroid tissue. Levothyroxine (LT4) replacement failed to reduce TSH and was discontinued after four months owing to significantly elevated free T4. Her physical and mental development was unremarkable, and she was considered to be clinically euthyroid throughout childhood, even though she received either no T4 or a dose insufficient to lessen hyperthyrotropinemia. At the age of 15 years, T4 was gradually increased to a supraphysiological dose of 300 microg/d, resulting in the normalization of the serum TSH level, and subjective improvements in her ab",
+            "journal": "Thyroid : official journal of the American Thyroid Association",
+            "year": "2005",
+            "authors": [
+              "Grasberger Helmut",
+              "Ringkananont Usanee",
+              "Croxson Michael",
+              "Refetoff Samuel"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Female",
+              "Humans",
+              "Hypothyroidism",
+              "Infant, Newborn",
+              "Lingual Goiter",
+              "Pedigree",
+              "Radionuclide Imaging",
+              "Receptors, Thyroid Hormone",
+              "Thyroid Gland"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16053391/"
+          },
+          {
+            "pmid": "35499546",
+            "title": "[A girl with a tumor at the base of the tongue].",
+            "abstract": "An 8-year-old girl with a lingual thyroid was evaluated because of a tumor at the base of the tongue. Ultrasound showed a hypoechogenic homogeneous parenchymatous structure at the base of the tongue consistent with thyroid tissue. Suboptimal levothyroxine treatment resulted in longstanding TSH stimulation causing a lingual goiter.",
+            "journal": "Nederlands tijdschrift voor geneeskunde",
+            "year": "2022",
+            "authors": [
+              "Mooij Christiaan F",
+              "Delemarre Luçan C",
+              "Smets Anne M B J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Female",
+              "Humans",
+              "Thyroid Gland",
+              "Thyroxine",
+              "Tongue",
+              "Tongue Neoplasms",
+              "Ultrasonography"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35499546/"
+          },
+          {
+            "pmid": "2983054",
+            "title": "Radionuclide turnover studies on ectopic thyroid glands--case report and survey of the literature.",
+            "abstract": "A 72-yr-old woman who had previously undergone partial thyroidectomy for \"toxic goiter\" and subhyoid gland resection presented with signs and symptoms of ectopic lingual thyroid at the base of the tongue. The combination of lingual subhyoid and pretracheal thyroid is a rarity with only three cases reported. Discovery of ectopic thyroid tissue should raise suspicion of other ectopic thyroid tissues along the path of embryologic migration from its origin to the porta hepatis. This may necessitate assessment of radionuclide uptake and imaging of numerous areas. Sodium levothyroxine is the mainstay of therapy. In patients with obstructive symptoms, 131I ablation of the ectopic thyroid tissues has proven successful and may be more advantageous than surgery. In addition, radioiodide studies during ablation therapy gave new information that the ectopic lingual thyroid had more rapid iodide turnover compared with the postsurgical pretracheal thyroid gland.",
+            "journal": "Journal of nuclear medicine : official publication, Society of Nuclear Medicine",
+            "year": "1985",
+            "authors": [
+              "Ramos-Gabatin A",
+              "Pretorius H T"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Choristoma",
+              "Female",
+              "Humans",
+              "Iodine Radioisotopes",
+              "Radionuclide Imaging",
+              "Sodium Pertechnetate Tc 99m",
+              "Thyroid Function Tests",
+              "Thyroid Gland",
+              "Tongue Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2983054/"
+          },
+          {
+            "pmid": "23966462",
+            "title": "Hashimoto's thyroiditis: an accidental discovery of a lingual thyroid in a 7-year-old child.",
+            "abstract": "An ectopic thyroid located at the base of the tongue is a rare entity, resulting from early developmental defects of thyroid gland embryogenesis during its descent from the foramen caecum to its normal eutopic pretracheal site. This condition is the main cause of congenital primary hypothyroidism, even though signs and symptoms of thyroid dysfunction may also appear later in childhood. Lingual thyroid may sometimes present with symptoms of respiratory obstruction or feeding difficulties. We illustrate the case of a 7-year-old girl with subclinical hypothyroidism due to Hashimoto's thyroiditis arising in a lingual thyroid. She had never suffered from upper airway obstructive symptoms, but did refer a 3-month history of cough. Rapid normalisation of thyroid-stimulating hormone levels and termination of the cough were attained when the L-thyroxine treatment started. After 6 months a significant reduction of lingual thyroid size was also noted. The diagnostic procedures and therapeutic opt",
+            "journal": "BMJ case reports",
+            "year": "2013",
+            "authors": [
+              "Mariani Michela",
+              "Palpacelli Alessandra",
+              "Mussoni Annalisa",
+              "Rossodivita Aurora Natalia"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Asymptomatic Diseases",
+              "Child",
+              "Female",
+              "Hashimoto Disease",
+              "Humans",
+              "Hypothyroidism",
+              "Incidental Findings",
+              "Lingual Goiter",
+              "Lingual Thyroid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23966462/"
+          },
+          {
+            "pmid": "7316890",
+            "title": "Cataracts, goitre and infertility in cattle grazed on an exclusive diet of Leucaena leucocephala.",
+            "abstract": "Gross and histopathological changes and serum thyroxine levels were determined in 10 heifers fed an exclusive diet of Leucaena leucocephala from 10 months of age until slaughter, 23 months later. Normal ovarian activity and mating were observed during a 7-month mating period. Cataracts, goitre, lingual epithelial ulceration and gingival atrophy were present at slaughter. Only one of the heifers was pregnant. Histologically, severe vacuolation and disruption of lens fibres and focal hyperplasia of lens epithelium were present. Both follicular hyperplasia and colloid accumulation were found to varying degrees in the thyroid glands and serum thyroxine levels were higher than in a comparable group of animals not fed L. leucocephala. Morphologically normal trophoblast was present in the uteri of 6 animals even though no embryo or foetus was present. Embryonic death and resorption may have been due to the anti-mitotic effect of mimosine or the goitrogenic effect of DHP.",
+            "journal": "Australian veterinary journal",
+            "year": "1981",
+            "authors": [
+              "Holmes J H",
+              "Humphrey J D",
+              "Walton E A",
+              "O'Shea J D"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cataract",
+              "Cattle",
+              "Cattle Diseases",
+              "Female",
+              "Goiter",
+              "Infertility, Female",
+              "Lens, Crystalline",
+              "Plant Poisoning",
+              "Thyroid Gland"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7316890/"
+          },
+          {
+            "pmid": "10504788",
+            "title": "[Sublingual thyroid gland associated with polycystic ovaries].",
+            "abstract": "To describe a young woman with polycystic ovary syndrome and a lingual thyroid gland.",
+            "journal": "Ginecologia y obstetricia de Mexico",
+            "year": "1999",
+            "authors": [
+              "Forsbach G",
+              "Galache-Vega P",
+              "Hernández-Ayup S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Amenorrhea",
+              "Female",
+              "Humans",
+              "Ovarian Cysts",
+              "Puberty",
+              "Syndrome",
+              "Thyroid Gland",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10504788/"
+          },
+          {
+            "pmid": "810094",
+            "title": "Thyrotrophin estimation in diagnosis and treatment of childhood thyroid disorders.",
+            "abstract": "Serum thyrotrophin (TSH) was estimated by double-antibody radioimmunoassay in 200 children aged 2 months to 16 years with normal thyroid function. There was no apparent variation in TSH with age or sex and only 4 children had TSH levels greater than 5 muU/ml. High TSH values were obtained in 9 children with primary hypothyroidism, in 3 children with thyroiditis, and in one girl with a lingual thyroid. Moderately raised TSH was found in 3 girls with thyroiditis, 2 brothers with goitres due to enzyme defect, and a girl with an ectopic thyroid. In one girl with a defect of iodine organification and in 3 boys with thyroxine binding globulin deficiency the TSH levels were normal despite very low serum thyroxine values. Serum TSH was also estimated in 20 children during treatment for primary hypothyroidism. 3 of these children showed slightly raised TSH levels despite apparently adequate replacement therapy with L-thyroxine. One girl showed a very high TSH level 3 weeks after treatment had b",
+            "journal": "Archives of disease in childhood",
+            "year": "1975",
+            "authors": [
+              "Jackson D",
+              "Vanderschueren-Lodeweyckx M",
+              "Grant D B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Goiter",
+              "Humans",
+              "Hypothyroidism",
+              "Infant",
+              "Male",
+              "Thyroid Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/810094/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "lingual goiter",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20lingual%20goiter"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "substernal goiter",
+        "txgnn_score": 0.9936222434043884,
+        "txgnn_rank": 1415,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31133159",
+            "title": "Presternal Goiter.",
+            "abstract": "An enlarging thyroid normally extends into the mediastinum, resulting in a presternal or substernal goiter, depending on its migration anteriorly or posteriorly, respectively. The first one was a rare entity in medical literature, being previously reported in only 6 cases worldwide. The present case reports a 54-year woman with a presternal goiter. She had a history of partial thyroidectomy due to a colloid goiter in 2004. Her thyroid function revealed subclinical hypothyroidism. No other abnormalities were present in physical exam or in laboratory tests. A resection of the remaining thyroid tissue was made, with great postsurgical recovery. The anatomopathological study revealed a colloid goiter. Such case porpoise is to remember physicians that unusual presentations of ordinary diseases can occur. This report differs on literature, which demonstrated that papillary thyroid carcinoma is the most important cause of presternal goiter. Moreover, unlike previous reports with normal thyroi",
+            "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+            "year": "2019",
+            "authors": [
+              "Stumpf Matheo Augusto Morandi",
+              "Marques Andre Scartezini",
+              "Kluthcovsky Ana Claudia Garabeli Cavalli",
+              "Belonci Camila Gabriella da Costa"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Deglutition Disorders",
+              "Dyspnea",
+              "Female",
+              "Goiter",
+              "Humans",
+              "Hypothyroidism",
+              "Middle Aged",
+              "Thyroid Gland",
+              "Thyroidectomy",
+              "Thyrotropin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31133159/"
+          },
+          {
+            "pmid": "16479740",
+            "title": "Substernal goiters.",
+            "abstract": "Substernal goiter, also said cervico-mediastinic goiter, is a thyroid formation with cervical departure that goes beyond, with stretched neck, the superior thoracic strait for at least 3 cm and that preserves, generally, the parenchimal or fibrous connections between the cervical and thoracic portion, maintaining a direct vascularization supplied by the thyroid arteries. The prevalence of this pathology is very variable and fluctuates between 1.7% and 30% of all thyroid damages. The actual classification is provided by the radiologic examination of the chest and, above all, by the new techniques of imaging.",
+            "journal": "European review for medical and pharmacological sciences",
+            "year": "2005",
+            "authors": [
+              "Batori M",
+              "Chatelou E",
+              "Straniero A",
+              "Mariotta G",
+              "Palombi L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adenocarcinoma, Follicular",
+              "Adult",
+              "Aged",
+              "Carcinoma, Papillary",
+              "Elective Surgical Procedures",
+              "Female",
+              "Goiter, Substernal",
+              "Humans",
+              "Italy",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16479740/"
+          },
+          {
+            "pmid": "3970328",
+            "title": "Substernal goiter. Analysis of 80 patients from Massachusetts General Hospital.",
+            "abstract": "Eighty patients at the Massachusetts General Hospital underwent resection of substernal goiter in the years 1976 to 1982. Mean age of the 50 women and 30 men was 56 years, and 10 (19 percent) had undergone prior thyroid surgery. The most common symptoms were cervical mass (69 percent), dysphagia (33 percent), and dyspnea (28 percent); 13 percent were asymptomatic. On examination, cervical mass was present in most (90 percent) but not all patients, 51 percent were obese, and more than one third had tracheal deviation. Fifty-one of 52 patients tested were euthyroid and one was mildly hypothyroid. Chest radiographs showed tracheal deviation in 79 percent and soft tissue mass in 56 percent. Seventy-eight patients underwent resection through a cervical collar incision only; one had cervical incision plus upper partial sternotomy; and one required cervical incision plus full median sternotomy. Pathologic examination revealed multinodular goiter in 41 (51 percent), follicular adenoma in 35 (4",
+            "journal": "American journal of surgery",
+            "year": "1985",
+            "authors": [
+              "Katlic M R",
+              "Grillo H C",
+              "Wang C A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Carcinoma, Papillary",
+              "Female",
+              "Follow-Up Studies",
+              "Goiter, Substernal",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Physical Examination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3970328/"
+          },
+          {
+            "pmid": "40675371",
+            "title": "A rare presternal goiter: presentation and literature review.",
+            "abstract": "Presternal goiters are incredibly rare presentations worldwide; very little is known about their genesis despite many hypotheses and even fewer cases are seen in our medical literature. The commonest pathology for presternal goiters is papillary carcinoma of the thyroid (PCT), typically presenting as a solitary cystic cervical mass. Differential diagnoses are vast causing diagnostic difficulty, prompting crucial pre-operative radiological investigations and pathological confirmation. Curative management in all cases of malignant presternal goiters is total thyroidectomy with a modified radical neck dissection where indicated. Post operative radioiodine ablation and suppressive thyroxine therapy are often used and serial thyroglobulin surveillance is done. Interestingly, this is the first documented case in which previous cardiac surgery with mediastinal scarring and deficiency in the deep cervical fascia maybe predisposing factors. Therefore, we propose two new theories in the causatio",
+            "journal": "The American journal of the medical sciences",
+            "year": "2025",
+            "authors": [
+              "Naraynsingh V",
+              "Maharaj M",
+              "Hassranah S",
+              "Maharajh S",
+              "Maharaj R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Carcinoma, Papillary",
+              "Goiter",
+              "Goiter, Substernal",
+              "Thyroid Cancer, Papillary",
+              "Thyroid Neoplasms",
+              "Thyroidectomy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40675371/"
+          },
+          {
+            "pmid": "20688897",
+            "title": "Upper airway obstruction in patients with endothoracic goiter enlargement: no relationship between flow-volume loops and radiological tests.",
+            "abstract": "In about 16-85% of subjects with goiter, upper airway obstruction (UAO) is observed. This percentage is higher in patients affected by goiter with endothoracic enlargement. UAO is an indication for surgery. Visual analysis of flow-volume loops (FVL) are the best indicators for UAO, although various studies using clinical and radiological parameters have observed no correlation.",
+            "journal": "European journal of endocrinology",
+            "year": "2010",
+            "authors": [
+              "Albareda M",
+              "Viguera J",
+              "Santiveri C",
+              "Lozano P",
+              "Mestrón A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Airway Obstruction",
+              "Female",
+              "Goiter, Substernal",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20688897/"
+          },
+          {
+            "pmid": "24295043",
+            "title": "American Thyroid Association statement on optimal surgical management of goiter.",
+            "abstract": "Goiter, or benign enlargement of the thyroid gland, can be asymptomatic or can cause compression of surrounding structures such as the esophagus and/or trachea. The options for medical treatment of euthyroid goiter are short-lived and are limited to thyroxine hormone suppression and radioactive iodine ablation. The objective of this statement article is to discuss optimal surgical management of goiter.",
+            "journal": "Thyroid : official journal of the American Thyroid Association",
+            "year": "2014",
+            "authors": [
+              "Chen Amy Y",
+              "Bernet Victor J",
+              "Carty Sally E",
+              "Davies Terry F",
+              "Ganly Ian"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline"
+            ],
+            "mesh_terms": [
+              "Goiter, Nodular",
+              "Goiter, Substernal",
+              "Humans",
+              "Thyroid Gland",
+              "Thyroidectomy",
+              "Ultrasonography"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24295043/"
+          },
+          {
+            "pmid": "10972051",
+            "title": "[Diagnosis and therapy of patients with euthyroid goiter].",
+            "abstract": "Nontoxic goitre is common, even in areas where iodine intake is sufficient. The most important symptoms and signs of nontoxic goitre are caused by compression of vital structures in the neck or upper thoracic cavity. In any patient with goitre the serum concentration of thyroid-stimulating hormone (TSH) should be measured to detect or exclude clinically inapparent (subclinical) hyper- or hypothyroidism. CT and MRI are expensive but very sensitive methods to identify tracheal compression and to determine intrathoracic extension. Thyroid ultrasonography and scintigraphy are not routinely indicated. Fine-needle aspiration biopsy is indicated in patients with fast-growing nodules and nodules that have a firmer consistency than other nodules within the gland. Thyroidectomy is standard therapy for young and otherwise healthy patients, especially when prompt decompression of vital structures is required. Radioiodine therapy is an attractive alternative to surgery in older patients, in those w",
+            "journal": "Nederlands tijdschrift voor geneeskunde",
+            "year": "2000",
+            "authors": [
+              "Hermus A R",
+              "Huysmans D A"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Biopsy, Needle",
+              "Diagnosis, Differential",
+              "Euthyroid Sick Syndromes",
+              "Goiter",
+              "Goiter, Endemic",
+              "Goiter, Nodular",
+              "Goiter, Substernal",
+              "Humans",
+              "Iodine Radioisotopes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10972051/"
+          },
+          {
+            "pmid": "21131536",
+            "title": "Approach to management of the patient with primary or secondary intrathoracic goiter.",
+            "abstract": "Intrathoracic (substernal) goiter, depending on definition, is seen in up to 45% of all patients operated for goiter. It can either be primary (ectopic thyroid tissue detached from a cervical thyroid mass), which is very rare (1%), or (more commonly) secondary, where a portion of the goiter extends retrosternally. There is no consensus on diagnostic or therapeutic management, partly because many are asymptomatic. Classification involves functional characterization with serum TSH and morphological characterization with diagnostic imaging and cytology to rule out malignancy, which is not more common than in cervical goiters. Pulmonary function is often affected in asymptomatic individuals also. Therefore, but also because natural history is continuous growth and evolution from euthyroidism to hyperthyroidism, most experts recommend therapy. In primary as well as secondary intrathoracic goiter, the therapy of choice is total/near-total thyroidectomy and subsequent levothyroxine substituti",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "2010",
+            "authors": [
+              "Hegedüs Laszlo",
+              "Bonnema Steen J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Goiter, Nodular",
+              "Goiter, Substernal",
+              "Humans",
+              "Hyperthyroidism",
+              "Iodine Radioisotopes",
+              "Magnetic Resonance Imaging",
+              "Middle Aged",
+              "Radiography, Thoracic",
+              "Recombinant Proteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21131536/"
+          },
+          {
+            "pmid": "7246597",
+            "title": "Hyperthyroxinemia and hypotriiodothyroninemia with clinical euthyroidism.",
+            "abstract": "A clinically euthyroid woman had substernal goiter and thrombocytopenia. There was a striking elevation in serum thyroxine (T4) level when the level of triiodothyronine (T3) ws low, reverse T3 (rT3) was normal I131 uptake was suppressed, and thyroid stimulating hormone (TSH) response to thyrotropin-releasing hormone (TRH) was blunted. The elevation of T4 was transient and required no treatment. Postmortem examination revealed a thyroid gland that showed only multinodular goiter. Multiple factors contributed to the dissociation between T4 and T3 levels. There was a lack of clinical symptoms in the face of high T4 and normal T3. The report stresses the need for thorough evaluation of thyroid function in such cases before instituting treatment.",
+            "journal": "The American journal of the medical sciences",
+            "year": "1981",
+            "authors": [
+              "Amico J A",
+              "Derubertis F R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Female",
+              "Goiter, Substernal",
+              "Humans",
+              "Thyroid Function Tests",
+              "Thyroxine",
+              "Triiodothyronine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7246597/"
+          },
+          {
+            "pmid": "11177016",
+            "title": "Thyroidectomy for selected patients with thyrotoxicosis.",
+            "abstract": "To examine the indications for operation and the frequency, efficacy, and outcome of surgical therapy for thyrotoxicosis.",
+            "journal": "Archives of otolaryngology--head & neck surgery",
+            "year": "2001",
+            "authors": [
+              "Mittendorf E A",
+              "McHenry C R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Amiodarone",
+              "Female",
+              "Graves Disease",
+              "Humans",
+              "Hypocalcemia",
+              "Male",
+              "Medical Records"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11177016/"
+          },
+          {
+            "pmid": "5764542",
+            "title": "Intrathoracic goiter in a euthyroid patient: localization with 125-I and study of thyroidal iodoproteins.",
+            "abstract": "",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1969",
+            "authors": [
+              "Medeiros-Neto G A",
+              "Manzano E",
+              "Cintra A B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amino Acid Metabolism, Inborn Errors",
+              "Diiodotyrosine",
+              "Female",
+              "Goiter, Substernal",
+              "Humans",
+              "Iodides",
+              "Iodine",
+              "Iodine Radioisotopes",
+              "Iodoproteins",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5764542/"
+          },
+          {
+            "pmid": "9625501",
+            "title": "99Tc(m)-MIBI scanning of the thyroid gland in patients with markedly decreased pertechnetate uptake.",
+            "abstract": "Diffusely reduced 99Tc(m)-pertechnetate uptake is a relatively infrequent but annoying finding that impairs evaluation of the thyroid gland. We studied 32 female patients aged 19-85 years with markedly reduced pertechnetate uptake. The following causes of reduced pertechnetate uptake were recognized: treatment with iodinated pharmaceuticals (n = 15), suppression therapy with T4 (n = 11), subacute thyroiditis (n = 5) and massive tumour replacement (n = 1). 99Tc(m)-MIBI thyroid scintigraphy was performed within 24 h of the pertechnetate study. The results were correlated with neck ultrasound, serum TSH (n = 25) and surgical findings in patients who had been operated on. The technique identified the following conditions: normally sized thyroids (n = 4), diffuse goitres (n = 8), multinodular goitres (n = 17) and solitary thyroid nodules (n = 3). Moreover, substernal goitres were identified in nine patients. This condition was confirmed at surgery in seven patients. Ultrasonography was conc",
+            "journal": "Nuclear medicine communications",
+            "year": "1998",
+            "authors": [
+              "Alonso O",
+              "Mut F",
+              "Lago G",
+              "Aznarez A",
+              "Núñez M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Female",
+              "Goiter",
+              "Humans",
+              "Middle Aged",
+              "Radionuclide Imaging",
+              "Radiopharmaceuticals",
+              "Sodium Pertechnetate Tc 99m"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9625501/"
+          },
+          {
+            "pmid": "23642895",
+            "title": "[Goiter: a rare cause of childhood dyspnea].",
+            "abstract": "We report the case of a patient who presented dyspnea due to a large intrathoracic goiter. This patient had congenital hypothyroidism due to thyroid enzyme deficiency. He came to a pediatric emergency department for dyspnea. At home, he had inspiratory and expiratory dyspnea with a stridor. No signs of respiratory distress were observed. The neck was deformed by a large goiter. The patient indicated that he did not follow the recommended L-thyroxine treatment. Chest and neck radiography showed tracheal compression. A cervical CT scan showed a 60% reduction of the tracheal caliber. To our knowledge, only one case report of goiter with tracheal compression due to congenital hypothyroidism has been reported in the literature. In the case of retrosternal goiter, dyspnea is more common than respiratory distress. Absence of tachypnea or use of accessory muscles does not exclude an anatomic compression. In the case of dyspnea, the search for a goiter is recommended.",
+            "journal": "Archives de pediatrie : organe officiel de la Societe francaise de pediatrie",
+            "year": "2013",
+            "authors": [
+              "Duhamel A",
+              "Grevent D",
+              "Nouyrigat V",
+              "Cheron G"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Airway Obstruction",
+              "Congenital Hypothyroidism",
+              "Dyspnea",
+              "Goiter, Substernal",
+              "Humans",
+              "Hydrolases",
+              "Iodide Peroxidase",
+              "Male",
+              "Radiography, Thoracic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23642895/"
+          },
+          {
+            "pmid": "20972482",
+            "title": "[Intra-thoracic goiter: analysis of the Department's experience].",
+            "abstract": "A review of all clinical files with pre-operative diagnosis of intra-thoracic goiter operated in our Department from 2001-2009 was made. We identified 30 patients, of which 66% were females. 63% of the patients were asymptomatic, 46% had clinical or radiological findings of mediastinal structures compression and 2 patients were ventilated prior to surgery. 50% of the patients were operated on through an inferior transverse cervicotomy, the remaining were operated on through partial or complete sternotomy, with cervical approach. 6,6% of patients (n=2) had an intra-operative diagnosis of invasive thymoma, 3,3% (n=1) had a very invasive mediastinal tumor and 3,3% (n=1) had an ectopic thyroid. Average surgical length of time was of 83 minutes. In 10% of patients (n=3) post-operative invasive ventilation was required, one of which for unilateral permanent lesion of the recurrent laryngeal nerve. In the long term follow-up we assessed 18 patients. The median follow up was 53 months. One pat",
+            "journal": "Revista portuguesa de cirurgia cardio-toracica e vascular : orgao oficial da Sociedade Portuguesa de Cirurgia Cardio-Toracica e Vascular",
+            "year": "2010",
+            "authors": [
+              "Guerra N",
+              "Cruz J",
+              "Caldeira J",
+              "Ferreira R",
+              "Roque J"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Female",
+              "Follow-Up Studies",
+              "Goiter, Substernal",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Operative Time"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20972482/"
+          },
+          {
+            "pmid": "2266631",
+            "title": "[Two cases of mediastinal goiter with progressive deviation of the trachea by its growth and their thyroid hormone values in the fluid of the cystic lesions].",
+            "abstract": "We reported two operated cases (a 35-year-old male and 52-year-old male) of mediastinal goiter accompanied by marked tracheal deviation. The two patients did not have any clinical symptoms. CT, MRI, ultrasonography and angiography finding of the two cases are presented. Fluid was obtained from the cystic lesions by ultrasonically guided needle aspiration. The levels of thyroid hormones (T3, T4) in the fluid were not high in comparison with serum levels. Surgical resection was performed on the 35-year-old male case by collar incision and on the 52-year-old male case by median sternotomy.",
+            "journal": "Nihon Kyobu Shikkan Gakkai zasshi",
+            "year": "1990",
+            "authors": [
+              "Doi Y",
+              "Ueki J",
+              "Dambara T",
+              "Nukiwa T",
+              "Ohse Y"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adenoma",
+              "Adult",
+              "Goiter, Substernal",
+              "Humans",
+              "Magnetic Resonance Imaging",
+              "Male",
+              "Mediastinal Cyst",
+              "Middle Aged",
+              "Thyroid Neoplasms",
+              "Thyroxine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2266631/"
+          },
+          {
+            "pmid": "4125910",
+            "title": "[Asymptomatic struma. Nuclear-medical diagnosis and therapy].",
+            "abstract": "",
+            "journal": "Medizinische Klinik",
+            "year": "1973",
+            "authors": [
+              "Hör G",
+              "Frey K W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Child",
+              "Female",
+              "Goiter",
+              "Goiter, Endemic",
+              "Goiter, Nodular",
+              "Goiter, Substernal",
+              "Humans",
+              "Hypothyroidism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4125910/"
+          },
+          {
+            "pmid": "19651681",
+            "title": "Images in vascular medicine. A chronic compression of the upper mediastinal veins by a retrosternal goiter.",
+            "abstract": "",
+            "journal": "Vascular medicine (London, England)",
+            "year": "2009",
+            "authors": [
+              "Szuba Andrzej",
+              "Poreba Rafal",
+              "Podgórski Franciszek",
+              "Andrzejak Ryszard"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Brachiocephalic Veins",
+              "Constriction, Pathologic",
+              "Diuretics",
+              "Female",
+              "Goiter, Substernal",
+              "Humans",
+              "Radiography",
+              "Thyroxine",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19651681/"
+          },
+          {
+            "pmid": "5712929",
+            "title": "[On the indication for surgery of juvenile struma].",
+            "abstract": "",
+            "journal": "Zentralblatt fur Chirurgie",
+            "year": "1968",
+            "authors": [
+              "Gottschalk E",
+              "Stoltze D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Female",
+              "Goiter",
+              "Goiter, Substernal",
+              "Humans",
+              "Male",
+              "Triiodothyronine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5712929/"
+          },
+          {
+            "pmid": "7154930",
+            "title": "[Thoracic struma and mediastinal struma recurrence as therapy problem].",
+            "abstract": "",
+            "journal": "Die Medizinische Welt",
+            "year": "1982",
+            "authors": [
+              "Eickenbusch W",
+              "Guttmann K E",
+              "Nordmeyer I P",
+              "Reuter T D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Goiter, Nodular",
+              "Goiter, Substernal",
+              "Humans",
+              "Middle Aged",
+              "Recurrence",
+              "Thyroidectomy",
+              "Thyroxine",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7154930/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "substernal goiter",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20substernal%20goiter"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Potter sequence",
+        "txgnn_score": 0.9933047890663148,
+        "txgnn_rank": 1473,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "8319367",
+            "title": "The International Standard for Thyroxine Binding Globulin.",
+            "abstract": "Thyroxine binding globulin is the major thyroid hormone binding and transport protein of the plasma, and its quantitative estimation is therefore of clinical importance. The objectives of the present study were to prepare and ampoule a preparation of thyroxine binding globulin suitable to serve as an international standard, to confirm the suitability of the preparation in a multi-centre collaborative study, and to assign an ampoule content.",
+            "journal": "Clinical endocrinology",
+            "year": "1993",
+            "authors": [
+              "Bristow A F",
+              "Gaines-Das R E",
+              "Buttress N",
+              "Gallimore J R",
+              "Tennent G A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Chromatography, Affinity",
+              "Humans",
+              "Reference Standards",
+              "Thyroxine-Binding Proteins",
+              "World Health Organization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8319367/"
+          },
+          {
+            "pmid": "17040361",
+            "title": "Thyroid hormone resistance: the role of mutational analysis.",
+            "abstract": "The finding of increased thyroxine (T4) and tri-iodothyronine (T3) levels in a patient with normal or increased thyroid-stimulating hormone is unexpected and presents a differential diagnosis between a thyroid-stimulating hormone-secreting pituitary adenoma, generalized resistance to thyroid hormone (RTH) and laboratory artefact. Without careful clinical and biochemical evaluation, errors may occur in patient diagnosis and treatment. In the case of RTH, mutation of the thyroid hormone receptor beta gene results in generalized tissue resistance to thyroid hormone. As the pituitary gland shares in this tissue resistance, euthyroidism with a normal thyroid-stimulating hormone is usually maintained by increased thyroid hormones. To date, we have identified eight pedigrees in New Zealand with mutations in the thyroid hormone receptor beta gene, including two novel mutations. Mutational analysis of the thyroid hormone receptor beta gene allows definitive diagnosis of RTH, potentially avoidin",
+            "journal": "Internal medicine journal",
+            "year": "2006",
+            "authors": [
+              "Florkowski C M",
+              "Brownlie B E W",
+              "Croxson M S",
+              "Manning P",
+              "Farrand S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "DNA Mutational Analysis",
+              "Humans",
+              "Metabolic Diseases",
+              "Thyroid Hormone Receptors beta",
+              "Thyroid Hormones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17040361/"
+          },
+          {
+            "pmid": "3143075",
+            "title": "Hormone binding globulins undergo serpin conformational change in inflammation.",
+            "abstract": "A surprising recent finding is that thyroxine binding globulin (TBG) and cortisol binding globulin (CBG), are members of the serine protease inhibitor (serpin) superfamily. Apparently evolution has completely adapted the serpin structure for its new role in these proteins as a transport agent, as there is no evidence of any retained protease inhibitory activity. This drastic change in function raises the question as to why such a complex molecular framework has been selected for the relatively simple task of hormone transport? To function as inhibitors the serpins have a native stressed (S) conformation that makes them vulnerable to proteolytic cleavage, the cleavage being accompanied by an irreversible transition to a stable relaxed (R) form. We demonstrate here that TBG and CBG have retained the stressed native structure typical of the inhibitor members of the family and we provide evidence that the S-R transition has been adapted to allow altered hormone delivery at inflammatory sit",
+            "journal": "Nature",
+            "year": "1988",
+            "authors": [
+              "Pemberton P A",
+              "Stein P E",
+              "Pepys M B",
+              "Potter J M",
+              "Carrell R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amino Acid Sequence",
+              "Carrier Proteins",
+              "Drug Stability",
+              "Hot Temperature",
+              "Humans",
+              "Hydrocortisone",
+              "Inflammation",
+              "Molecular Sequence Data",
+              "Molecular Weight",
+              "Neutrophils"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3143075/"
+          },
+          {
+            "pmid": "26169058",
+            "title": "Familial dysalbuminaemic hyperthyroxinaemia: a rapid and novel mass spectrometry approach to diagnosis.",
+            "abstract": "Familial dysalbuminaemic hyperthyroxinaemia is an important cause of discordant thyroid function test results (due to an inherited albumin variant); however, the diagnosis can be challenging. A 51-year-old man had persistently elevated free thyroxine (T4), with discordant normal thyroid-stimulating hormone and normal free triiodothyronine. He was clinically euthyroid and had a daughter with similar thyroid function test results. We aimed to apply a whole protein mass spectrometry method to investigate this case of suspected familial dysalbuminaemic hyperthyroxinaemia.",
+            "journal": "Annals of clinical biochemistry",
+            "year": "2016",
+            "authors": [
+              "Ryan Joshua B",
+              "Brennan Stephen O",
+              "Potter Howard",
+              "Wolmarans Louise",
+              "Florkowski Christopher M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "DNA Mutational Analysis",
+              "Humans",
+              "Hyperthyroxinemia, Familial Dysalbuminemic",
+              "Male",
+              "Middle Aged",
+              "Mutation",
+              "Serum Albumin",
+              "Spectrometry, Mass, Electrospray Ionization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26169058/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "Potter sequence",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20Potter%20sequence"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Carney complex",
+        "txgnn_score": 0.9917842149734496,
+        "txgnn_rank": 1788,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9215269",
+            "title": "Thyroid gland abnormalities in patients with the syndrome of spotty skin pigmentation, myxomas, endocrine overactivity, and schwannomas (Carney complex).",
+            "abstract": "Carney complex is a multiple neoplasia and lentiginosis syndrome that affects endocrine glands, including the pituitary, adrenals, and testes; thyroid gland involvement has not been unequivocally demonstrated. In the present study, the medical records of 12 families with Carney complex (53 affected patients) were reviewed for evidence of thyroid abnormality; 2 patients with thyroid carcinoma (1 papillary and 1 follicular; 3.8%) and 1 with follicular adenoma were identified in 3 unrelated kindreds. Six affected members of these kindreds were then screened for the presence of thyroid disease (familial cases). We also studied 5 patients with the complex who had no affected relatives (sporadic cases). These 11 patients consisted of 5 adults [mean age, 33.2 +/- 9.2 (+/- SD) yr] and 6 children and adolescents (mean age, 13.8 +/- 2.5 yr). All had normal results of physical and biochemical examination of the thyroid gland (total and free T4, T3, and TSH levels). Thyroid ultrasonography showed ",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1997",
+            "authors": [
+              "Stratakis C A",
+              "Courcoutsakis N A",
+              "Abati A",
+              "Filie A",
+              "Doppman J L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adenoma",
+              "Adolescent",
+              "Adrenal Cortex Diseases",
+              "Adult",
+              "Child",
+              "Female",
+              "Humans",
+              "Lentigo",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9215269/"
+          },
+          {
+            "pmid": "17628404",
+            "title": "Hyperthyroidism and atrial myxoma--an intriguing cardio-endocrine association.",
+            "abstract": "A 65-year-old woman presented with dyspnea and bilateral leg edema for 1 week, worsening fatigue for 1 month, and a 7-lb weight loss over the last summer. She was clinically and biochemically hyperthyroid. Echocardiography revealed a left atrial myxoma measuring 6.2 x 3.3 cm protruding into the mitral orifice and left ventricle during diastole. She was treated for Graves' disease with Iodine-131. Six weeks later, her left atrial myxoma measuring 10.1 x 6.2 x 2.4 cm was resected. She became euthyroid before surgery and then biochemically hypothyroid 6 weeks after radioiodine treatment, for which she subsequently required thyroxine replacement. Atrial myxomas are the most common primary cardiac neoplasms. At least 5% to 10% can be attributed to Carney's complex. More than two-thirds of patients with Carney's complex develop one or more cardiac myxomas. Although atrial myxomas in Carney's complex are histologically indistinguishable from the sporadic form, their clinical presentation and ",
+            "journal": "Journal of the American Society of Echocardiography : official publication of the American Society of Echocardiography",
+            "year": "2007",
+            "authors": [
+              "Kumar Gautam",
+              "Chow John T",
+              "Klarich Kyle W",
+              "Dean Diana S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Female",
+              "Heart Atria",
+              "Heart Neoplasms",
+              "Humans",
+              "Hyperthyroidism",
+              "Ultrasonography"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17628404/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Levothyroxine",
+          "disease": "Carney complex",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Levothyroxine%20Carney%20complex"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Levothyroxine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00451",
+    "name": "Levothyroxine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Levothyroxine"
+      },
+      "queried_at": "2026-03-10T13:19:35.019041",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Levothyroxine"
+      },
+      "queried_at": "2026-03-10T13:19:35.035545",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Levothyroxine"
+      },
+      "queried_at": "2026-03-10T13:19:41.456511",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "endemic goiter"
+      },
+      "queried_at": "2026-03-10T13:19:42.607997",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "endemic goiter"
+      },
+      "queried_at": "2026-03-10T13:19:47.339634",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "endemic goiter"
+      },
+      "queried_at": "2026-03-10T13:19:48.643461",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "endemic goiter"
+      },
+      "queried_at": "2026-03-10T13:19:51.662121",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "renal hypodysplasia/aplasia"
+      },
+      "queried_at": "2026-03-10T13:19:52.312043",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "renal hypodysplasia/aplasia"
+      },
+      "queried_at": "2026-03-10T13:19:57.151546",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "renal hypodysplasia/aplasia"
+      },
+      "queried_at": "2026-03-10T13:20:00.303299",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "renal hypodysplasia/aplasia"
+      },
+      "queried_at": "2026-03-10T13:20:02.920874",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nodular goiter (disease)"
+      },
+      "queried_at": "2026-03-10T13:20:04.094300",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nodular goiter (disease)"
+      },
+      "queried_at": "2026-03-10T13:20:08.679486",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nodular goiter (disease)"
+      },
+      "queried_at": "2026-03-10T13:20:10.930918",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nodular goiter (disease)"
+      },
+      "queried_at": "2026-03-10T13:20:18.499071",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "bilateral renal agenesis"
+      },
+      "queried_at": "2026-03-10T13:20:19.688186",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "bilateral renal agenesis"
+      },
+      "queried_at": "2026-03-10T13:20:25.860341",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "bilateral renal agenesis"
+      },
+      "queried_at": "2026-03-10T13:20:27.963577",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "bilateral renal agenesis"
+      },
+      "queried_at": "2026-03-10T13:20:29.551737",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "dyshormonogenic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:30.312380",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "dyshormonogenic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:35.887298",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "dyshormonogenic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:37.232745",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "dyshormonogenic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:40.296048",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nontoxic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:41.484730",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nontoxic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:46.032918",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nontoxic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:47.766295",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "nontoxic goiter"
+      },
+      "queried_at": "2026-03-10T13:20:53.308971",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "lingual goiter"
+      },
+      "queried_at": "2026-03-10T13:20:54.001014",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "lingual goiter"
+      },
+      "queried_at": "2026-03-10T13:20:58.508425",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "lingual goiter"
+      },
+      "queried_at": "2026-03-10T13:20:59.738585",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "lingual goiter"
+      },
+      "queried_at": "2026-03-10T13:21:03.751409",
+      "status": "success",
+      "result_count": 12,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "substernal goiter"
+      },
+      "queried_at": "2026-03-10T13:21:04.437204",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "substernal goiter"
+      },
+      "queried_at": "2026-03-10T13:21:09.632477",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "substernal goiter"
+      },
+      "queried_at": "2026-03-10T13:21:10.885871",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "substernal goiter"
+      },
+      "queried_at": "2026-03-10T13:21:15.959827",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Potter sequence"
+      },
+      "queried_at": "2026-03-10T13:21:18.280450",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Potter sequence"
+      },
+      "queried_at": "2026-03-10T13:21:22.805906",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Potter sequence"
+      },
+      "queried_at": "2026-03-10T13:21:23.885616",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Potter sequence"
+      },
+      "queried_at": "2026-03-10T13:21:27.473574",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Carney complex"
+      },
+      "queried_at": "2026-03-10T13:21:28.784285",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Carney complex"
+      },
+      "queried_at": "2026-03-10T13:21:34.792057",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Carney complex"
+      },
+      "queried_at": "2026-03-10T13:21:35.917837",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Levothyroxine",
+        "disease": "Carney complex"
+      },
+      "queried_at": "2026-03-10T13:21:38.685764",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T13:21:38.699746"
+  }
+}

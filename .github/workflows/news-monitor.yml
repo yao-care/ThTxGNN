@@ -1,0 +1,54 @@
+name: ตรวจสอบข่าวสุขภาพ
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # ทุก 6 ชั่วโมง
+  workflow_dispatch:        # ทริกเกอร์ด้วยตนเอง
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests beautifulsoup4 lxml
+
+      - name: Check keywords.json
+        run: |
+          if [ ! -f data/news/keywords.json ]; then
+            echo "กำลังสร้างรายการคีย์เวิร์ด..."
+            python scripts/generate_news_keywords.py
+          fi
+
+      - name: Fetch from Thailand news sources (parallel)
+        run: |
+          python scripts/fetchers/th_news.py &
+          python scripts/fetchers/rss_fetcher.py &
+          wait
+
+      - name: Process and generate pages
+        run: python scripts/process_news.py
+
+      - name: Commit changes
+        run: |
+          git config user.name "GitHub Action"
+          git config user.email "action@github.com"
+
+          git add data/news/*.json docs/_news/ docs/data/news-index.json || true
+
+          if git diff --staged --quiet; then
+            echo "ไม่มีการอัปเดตข่าว"
+          else
+            git commit -m "อัปเดตข่าวสุขภาพ $(date +%Y-%m-%d-%H%M)"
+            git push
+          fi

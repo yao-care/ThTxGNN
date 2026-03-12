@@ -1,0 +1,1403 @@
+{
+  "drug": {
+    "inn": "Duloxetine",
+    "drugbank_id": "DB00476",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "benign paroxysmal torticollis of infancy",
+        "txgnn_score": 0.9984822869300842,
+        "txgnn_rank": 472,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "benign paroxysmal torticollis of infancy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20benign%20paroxysmal%20torticollis%20of%20infancy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "agoraphobia",
+        "txgnn_score": 0.998434603214264,
+        "txgnn_rank": 480,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05930912",
+            "title": "Psychiatric Orders in Psychoanalytic Treatment of ASD",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2023-06-01",
+            "completion_date": "2023-12-01",
+            "country": "China",
+            "enrollment": 1,
+            "brief_summary": "Autism Spectrum Disorder (ASD) is often accompanied by a variety of other symptoms, such as bipolar disorder, Attention Deficit Hyperactivity Disorder (ADHD), Social Anxiety Disorder (SAD), Avoidant Personality Disorder (AvPD), Obsessive Compulsive Disorder (OCD), etc. The behavioral and social complications often marginalize the population, impact on life satisfaction, undermined societal values that impact on economic and financial fairness, and so forth. Furthermore, persons with ASD are neur",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Persons with ASD.\n\nExclusion Criteria:\n\n* Severe ASD cases with central nerve system complications.",
+            "endpoints": [
+              "Hamilton Anxiety Rating Scale (HAM-A)",
+              "Generalized Anxiety Disorder (GAD-7)",
+              "Dissociative Experiences Scale - II (DES-II)"
+            ],
+            "sponsor": "Pachankis, Yang I., M.D.",
+            "url": "https://clinicaltrials.gov/study/NCT05930912"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "24294001",
+            "title": "Duloxetine in panic disorder with somatic gastric pain.",
+            "abstract": "PANIC DISORDER IS THE MOST COMMON TYPE OF ANXIETY DISORDER, AND ITS MOST COMMON EXPRESSION IS PANIC ATTACKS CHARACTERIZED WITH SUDDEN ATTACKS OF ANXIETY WITH NUMEROUS SYMPTOMS, INCLUDING PALPITATIONS, TACHYCARDIA, TACHYPNEA, NAUSEA, AND VERTIGO: ie, cardiovascular, gastroenterologic, respiratory, and neuro-otologic symptoms. In clinical practice, panic disorder manifests with isolated gastroenteric or cardiovascular symptoms, requiring additional clinical visits after psychiatric intervention. The first-line treatment for anxiety disorders, and in particular for panic disorder, is the selective serotonin reuptake inhibitors. However, these drugs can have adverse effects, including sexual dysfunction, increased bodyweight, and abnormal bleeding, that may be problematic for some patients. Here we report the case of a 29-year-old Caucasian woman affected by panic disorder with agoraphobia who was referred to our clinic for recurrent gastroenteric panic symptoms. The patient reported impro",
+            "journal": "Neuropsychiatric disease and treatment",
+            "year": "2013",
+            "authors": [
+              "Preve Matteo",
+              "Nisita Cristiana",
+              "Bellini Massimo",
+              "Dell'osso Liliana"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24294001/"
+          },
+          {
+            "pmid": "19228176",
+            "title": "Open-label support for duloxetine for the treatment of panic disorder.",
+            "abstract": "Panic disorder with or without agoraphobia is a common, often chronic and refractory anxiety disorder. Although a number of pharmacotherapies are now indicated for panic disorder, many patients do not respond to available interventions. We hypothesized that duloxetine, a serotonin-norepinephrine reuptake inhibitor (SNRI) that has greater initial noradrenergic effects than venlafaxine, would have broad efficacy for individuals with panic disorder. Fifteen individuals with panic disorder with or without agoraphobia received 8 weeks of open label duloxetine flexibly dosed from 60 to 120 mg per day. Duloxetine treatment resulted in significant anxiolysis as measured by the primary outcome measure, the Panic Disorder Severity Scale (PDSS) (paired t(df) = 4.02(14), P= 0.0013), as well as measures of generalized anxiety, depression and quality of life (all P < 0.05). Although definitive conclusions are limited due to its small open-label nature, this first prospective study provides prelimina",
+            "journal": "CNS neuroscience & therapeutics",
+            "year": "2009",
+            "authors": [
+              "Simon Naomi M",
+              "Kaufman Rebecca E",
+              "Hoge Elizabeth A",
+              "Worthington John J",
+              "Herlands Nannette N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic Uptake Inhibitors",
+              "Adult",
+              "Aged",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Panic Disorder",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19228176/"
+          },
+          {
+            "pmid": "23313564",
+            "title": "Brain-derived neurotrophic factor in generalized anxiety disorder: results from a duloxetine clinical trial.",
+            "abstract": "Brain-derived neurotrophic factor (BDNF) has been implicated in the pathophysiology of depression and anxiety, but has not been examined systematically in generalized anxiety disorder (GAD). The objective of this study was to examine the relationship between baseline BDNF level and treatment response in patients with GAD.",
+            "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+            "year": "2013",
+            "authors": [
+              "Ball Susan",
+              "Marangell Lauren B",
+              "Lipsius Sarah",
+              "Russell James M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Agoraphobia",
+              "Analysis of Variance",
+              "Antidepressive Agents",
+              "Anxiety Disorders",
+              "Brain-Derived Neurotrophic Factor",
+              "China",
+              "Diagnostic and Statistical Manual of Mental Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23313564/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "agoraphobia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20agoraphobia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "obsessive-compulsive disorder",
+        "txgnn_score": 0.9983994364738464,
+        "txgnn_rank": 490,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00464698",
+            "title": "Duloxetine for the Treatment of Obsessive Compulsive Disorder",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-12",
+            "completion_date": "2013-12",
+            "country": "United States",
+            "enrollment": 20,
+            "brief_summary": "The purpose of this study is to assess the efficacy of Duloxetine in the treatment of obsessive compulsive disorder.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of OCD by DSM-IV\n* Age 18-65\n* Y-BOCS greater than 20\n* Written informed consent\n* Females of childbearing potential must have a negative serum or urinary beta-HCG test.\n\nExclusion Criteria:\n\n* Pregnant women or women of childbearing potential who are not using a med",
+            "endpoints": [
+              "Y-BOCS Scores at 1st and Last Visit"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00464698"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05930912",
+            "title": "Psychiatric Orders in Psychoanalytic Treatment of ASD",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2023-06-01",
+            "completion_date": "2023-12-01",
+            "country": "China",
+            "enrollment": 1,
+            "brief_summary": "Autism Spectrum Disorder (ASD) is often accompanied by a variety of other symptoms, such as bipolar disorder, Attention Deficit Hyperactivity Disorder (ADHD), Social Anxiety Disorder (SAD), Avoidant Personality Disorder (AvPD), Obsessive Compulsive Disorder (OCD), etc. The behavioral and social complications often marginalize the population, impact on life satisfaction, undermined societal values that impact on economic and financial fairness, and so forth. Furthermore, persons with ASD are neur",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Persons with ASD.\n\nExclusion Criteria:\n\n* Severe ASD cases with central nerve system complications.",
+            "endpoints": [
+              "Hamilton Anxiety Rating Scale (HAM-A)",
+              "Generalized Anxiety Disorder (GAD-7)",
+              "Dissociative Experiences Scale - II (DES-II)"
+            ],
+            "sponsor": "Pachankis, Yang I., M.D.",
+            "url": "https://clinicaltrials.gov/study/NCT05930912"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01404871",
+            "title": "Predicting Medication Response in Obsessive Compulsive Disorder",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-04",
+            "completion_date": "2011-12",
+            "country": "Canada",
+            "enrollment": 26,
+            "brief_summary": "In this study, the investigators hope to study a number of variables the investigators believe may help us predict why some people respond better to some medications than others. Participants will be randomly assigned to receive one of two typical medications for OCD, clomipramine or escitalopram. Individuals who would like to participate but who have previously tried one or both of these medications may instead take a newer drug, duloxetine, and undergo the identical procedures. The factors the",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Obsessive Compulsive Disorder\n* Must be able to swallow tablets\n\nExclusion Criteria:\n\n* History of stroke\n* History of Parkinson's disease\n* History of Epilepsy\n* Clinical diagnosis of Schizophrenia or schizoaffective disorder\n* Clinical diagnosis of Bipo",
+            "endpoints": [
+              "YBOCS Obsessive-Compulsive Severity Score",
+              "Clinical Global Improvement - Improvement Scale"
+            ],
+            "sponsor": "Sunnybrook Health Sciences Centre",
+            "url": "https://clinicaltrials.gov/study/NCT01404871"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02476136",
+            "title": "Initial Severity and Antidepressant Efficacy for Anxiety Disorders: an Individual Patient Data Meta-analysis",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2015-05",
+            "completion_date": "2016-12",
+            "country": "N/A",
+            "enrollment": 8800,
+            "brief_summary": "Anxiety disorders are common disorders, which pose a major burden to society and the individual. An anxiety disorder may be treated with medication, in particular with antidepressants such as the selective serotonin reuptake inhibitors (SSRIs). However, much of what is known about antidepressants is derived from research in depression rather than anxiety. In recent years, researchers have found that antidepressants are more effective for severely depressed patients than they are for patients wit",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion in the intent-to-treat population of a randomized controlled trial of a second-generation antidepressant for the short-term treatment of an anxiety disorder\n* Diagnosed with an anxiety disorder (GAD, SAD, OCD, PTSD or PD)\n\nExclusion Criteria:\n\n* Assignment to an acti",
+            "endpoints": [
+              "Change from baseline on the Hamilton Anxiety Rating Scale (HAM-A)",
+              "Change from baseline on the Liebowitz Social Anxiety Scale (LSAS)",
+              "Change from baseline on the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS)"
+            ],
+            "sponsor": "University Medical Center Groningen",
+            "url": "https://clinicaltrials.gov/study/NCT02476136"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01944657",
+            "title": "Supplemental TMS vs. Standard Medication Monotherapy for Treating Major Depression: An Exploratory Field Study",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2013-09",
+            "completion_date": "2015-12",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "A. Introduction to the Problem\n\nThis field experiment is intended to explore whether supplemental transcranial magnetic stimulation (TMS) is more effective than standard medication mono-therapy for the treatment of major depressive disorder. Transcranial magnetic stimulation (TMS) is now included in the practice guidelines of the American Psychiatric Association for the treatment of major depression.\n\nB. Importance of the Area of Study\n\nThe safety, efficacy and value of TMS treatment has been es",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Determination of treatment resistance (i.e., failed to receive benefit from one to three prior anti-depressant treatments)\n2. All subjects will be between the ages of 18 and 70\n3. All subjects will meet the DSM-IV criteria for major depressive disorder, non-psychotic, single ",
+            "endpoints": [
+              "Montgomery-Åsberg Depression Rating Scale (MADRS)"
+            ],
+            "sponsor": "Sheppard Pratt Health System",
+            "url": "https://clinicaltrials.gov/study/NCT01944657"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "32982805",
+            "title": "Antidepressants in Children and Adolescents: Meta-Review of Efficacy, Tolerability and Suicidality in Acute Treatment.",
+            "abstract": "Antidepressants are prescribed for the treatment of a number of psychiatric disorders in children and adolescents, however there is still controversy about whether they should be used in this population. This meta-review aimed to assess the effects of antidepressants for the acute treatment of attention-deficit/hyperactivity disorder (ADHD), anxiety disorders (ADs), autistic spectrum disorder (ASD), enuresis, major depressive disorder (MDD), obsessive-compulsive disorder (OCD), and posttraumatic stress disorder (PTSD) in children and adolescents. Efficacy was measured as response to treatment (either as mean overall change in symptoms or as a dichotomous outcome) and tolerability was measured as the proportion of patients discontinuing treatment due to adverse events. Suicidality was measured as suicidal ideation, behavior (including suicide attempts) and completed suicide. PubMed, EMBASE, and Web of Science were systematically searched (until 31 October 2019) for existing systematic r",
+            "journal": "Frontiers in psychiatry",
+            "year": "2020",
+            "authors": [
+              "Boaden Katharine",
+              "Tomlinson Anneka",
+              "Cortese Samuele",
+              "Cipriani Andrea"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32982805/"
+          },
+          {
+            "pmid": "28477500",
+            "title": "Obsessive-compulsive disorder has a reduced placebo (and antidepressant) response compared to other anxiety disorders: A meta-analysis.",
+            "abstract": "Previous studies have indicated that obsessive-compulsive disorder (OCD) might have a reduced placebo response compared to other anxiety-related disorders including generalized anxiety disorder, panic disorder, post-traumatic stress disorder, and social anxiety disorder. No previous analysis has directly compared antidepressant and placebo responses between OCD and these conditions.",
+            "journal": "Journal of affective disorders",
+            "year": "2017",
+            "authors": [
+              "Sugarman Michael A",
+              "Kirsch Irving",
+              "Huppert Jonathan D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents",
+              "Anxiety Disorders",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Panic Disorder",
+              "Phobia, Social",
+              "Placebo Effect",
+              "Stress Disorders, Post-Traumatic",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28477500/"
+          },
+          {
+            "pmid": "39583807",
+            "title": "Machine learning in obsessive-compulsive disorder medications.",
+            "abstract": "Obsessive-compulsive disorder (OCD) is the fourth most common psychiatric disorder with a significant morbidity rate. Despite various treatment modalities and medications, some patients show no definitive response. The aim of this study is to classify the medications of OCD with machine learning (ML) methods and to compare the classification performances of the decision tree (DT), chi-square automatic interaction detection (CHAID) algorithm, and linear model in ML methods. This research is a descriptive analytical study based on co-word and artificial intelligence methods. The DT models were created with a target (total weight link strength). For hyperparameter optimization, the Gini index was used as the weight total link strength. The performance of the DT model was evaluated based on the prediction model. A total of 116 drugs were extracted from 6574 articles based on co-word analysis, and 56 drugs were classified as the DT's root. These drugs were categorized into six groups in the",
+            "journal": "Heliyon",
+            "year": "2024",
+            "authors": [
+              "Khazaneha Mahdiyeh",
+              "Bakhshinejad Behnaz",
+              "Mehrabani Mitra",
+              "Sabahi Abdolreza",
+              "Khaksari Mohammad"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39583807/"
+          },
+          {
+            "pmid": "27811556",
+            "title": "Duloxetine Augmentation in Resistant Obsessive-Compulsive Disorder: A Double-Blind Controlled Clinical Trial.",
+            "abstract": "The aim of this study is to evaluate the efficacy of duloxetine augmentation in treatment of resistant obsessive-compulsive disorder (OCD).",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2016",
+            "authors": [
+              "Mowla Arash",
+              "Boostani Sanaz",
+              "Dastgheib Seyed Ali"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Drug Resistance",
+              "Drug Therapy, Combination",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27811556/"
+          },
+          {
+            "pmid": "25637377",
+            "title": "Open-label study of duloxetine for the treatment of obsessive-compulsive disorder.",
+            "abstract": "This study sought to investigate the efficacy of duloxetine for the treatment of obsessive-compulsive disorder (DSM-IV).",
+            "journal": "The international journal of neuropsychopharmacology",
+            "year": "2015",
+            "authors": [
+              "Dougherty Darin D",
+              "Corse Andrew K",
+              "Chou Tina",
+              "Duffy Amanda",
+              "Arulpragasam Amanda R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anxiety",
+              "Depression",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25637377/"
+          },
+          {
+            "pmid": "31749717",
+            "title": "Duloxetine in Psychiatric Disorders: Expansions Beyond Major Depression and Generalized Anxiety Disorder.",
+            "abstract": "Background: Duloxetine hydrochloride (DUL) is an antidepressant included in the pharmacological class of serotonin-norepinephrine reuptake inhibitors approved for the treatment of major depressive disorder, generalized anxiety disorder, diabetic peripheral neuropathic pain, fibromyalgia, and chronic musculoskeletal pain. The aim of this review was to elucidate current evidences on the use of DUL in the treatment of a variety of psychiatric disorders. Methods: This systematic review was conducted according to PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines. PubMed database was searched from January 1, 2003, to September 30, 2018, using 11 key terms related to psychiatric disorders (\"persistent depressive disorder,\" \"dysthymic disorder,\" \"bipolar disorder,\" \"seasonal affective disorder,\" \"obsessive-compulsive disorder,\" \"social phobia,\" \"panic disorder,\" \"posttraumatic stress disorder,\" \"schizophrenia,\" \"eating disorders,\" \"sexual disorders,\" \"perso",
+            "journal": "Frontiers in psychiatry",
+            "year": "2019",
+            "authors": [
+              "Muscatello Maria Rosaria Anna",
+              "Zoccali Rocco A",
+              "Pandolfo Gianluca",
+              "Mangano Paolo",
+              "Lorusso Simona"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31749717/"
+          },
+          {
+            "pmid": "23324513",
+            "title": "Antidepressant-selective gynecomastia.",
+            "abstract": "To describe what we believe is the first reported case of synergistic gynecomastia during treatment of depressive and anxiety disorders when sertraline was added to a stable medication regimen including duloxetine, rosuvastatin, and amlodipine.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2013",
+            "authors": [
+              "Kaufman Kenneth R",
+              "Podolsky Dina",
+              "Greenman Danielle",
+              "Madraswala Rehman"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Amlodipine",
+              "Antidepressive Agents",
+              "Major Depressive Disorder",
+              "Dose-Response Relationship, Drug",
+              "Drug Interactions",
+              "Drug Therapy, Combination",
+              "Duloxetine Hydrochloride",
+              "Fluorobenzenes",
+              "Gynecomastia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23324513/"
+          },
+          {
+            "pmid": "17632660",
+            "title": "A case of obsessive-compulsive disorder responding to duloxetine.",
+            "abstract": "",
+            "journal": "Primary care companion to the Journal of clinical psychiatry",
+            "year": "2007",
+            "authors": [
+              "Luís Blay Sergio",
+              "Black Donald W"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17632660/"
+          },
+          {
+            "pmid": "39735048",
+            "title": "Efficacy of Supratherapeutic Duloxetine Combined With Cognitive-Behavioral Therapy in Severe Treatment-Resistant Obsessive-Compulsive Disorder With Comorbid Depression: A Case Report.",
+            "abstract": "This case report discusses the treatment of a 42-year-old male with over a decade of treatment-resistant obsessive-compulsive disorder (OCD) and comorbid major depressive disorder (MDD). The patient underwent various pharmacological and psychotherapeutic treatments, including multiple antidepressants and cognitive-behavioral therapy (CBT), yet experienced only partial symptom relief. At baseline, the patient's depressive symptoms were severe, with a Hamilton Depression Rating Scale (HAM-D) score of 28, and his obsessive-compulsive symptoms were marked, with a Yale-Brown Obsessive-Compulsive Scale (Y-BOCS) score of 34. Due to the chronicity and severity of symptoms, his treatment plan was adjusted to include a high dose of duloxetine, a serotonin-norepinephrine reuptake inhibitor (SNRI), which was gradually titrated to 180 mg/day with close monitoring. Within weeks of this dose adjustment, the patient experienced significant improvements in both depressive and obsessive-compulsive sympt",
+            "journal": "Cureus",
+            "year": "2024",
+            "authors": [
+              "Bokhari Syed Ali",
+              "Nasr Mohamed H",
+              "Alawadhi Yasmeen T"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39735048/"
+          },
+          {
+            "pmid": "24766145",
+            "title": "An updated review of antidepressants with marked serotonergic effects in obsessive-compulsive disorder.",
+            "abstract": "Since the recognition of the effectiveness of clomipramine in treating obsessive-compulsive disorder (OCD), a number of recent empirical studies have confirmed a key role of the serotonergic (5-HT) system in the pathophysiology of OCD. The current study presents a review of the existing double-blind studies testing 5-HT antidepressants in OCD.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2014",
+            "authors": [
+              "Pizarro Mariana",
+              "Fontenelle Leonardo F",
+              "Paravidino Daniel C",
+              "Yücel Murat",
+              "Miguel Eurípedes C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24766145/"
+          },
+          {
+            "pmid": "16669725",
+            "title": "Serotonin-norepinephrine reuptake inhibitors in the treatment of obsessive-compulsive disorder: A critical review.",
+            "abstract": "To critically review the antiobsessional properties of serotonin-norepinephrine reuptake inhibitors (SNRIs) (venlafaxine and clomipramine) in the treatment of obsessive-compulsive disorder (OCD) as an alternative to selective serotonin reuptake inhibitors (SSRIs), which are currently considered the first-line treatment of OCD.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2006",
+            "authors": [
+              "Dell'Osso Bernardo",
+              "Nestadt Gerald",
+              "Allen Andrea",
+              "Hollander Eric"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic Uptake Inhibitors",
+              "Clomipramine",
+              "Controlled Clinical Trials as Topic",
+              "Cyclohexanols",
+              "Double-Blind Method",
+              "Drug Resistance",
+              "Duloxetine Hydrochloride",
+              "Humans",
+              "Meta-Analysis as Topic",
+              "Obsessive-Compulsive Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16669725/"
+          },
+          {
+            "pmid": "22567604",
+            "title": "Suprathreshold duloxetine for treatment-resistant depression, anorexia nervosa binge-purging type, and obsessive-compulsive disorder: a case report.",
+            "abstract": "Duloxetine, a serotonin norepinephrine reuptake inhibitor (SNRI) indicated for the treatment of depression, is used for off-label purposes such as treatment-resistant obsessive compulsive disorder, bulimia, and binge eating disorder. Although establishing a dose-response relationship for antidepressants in the treatment of depression is difficult, it is possible that for certain patterns of comorbidity, suprathreshold doses may be important to achieve remission. There is currently a paucity of literature regarding the use of suprathreshold doses of duloxetine in treatment refractory cases. This case report describes a clinical situation in which suprathreshold duloxetine was used to treat a patient with severe depression as well as co-morbid anorexia nervosa binge-purging type and obsessive compulsive disorder. One year after the initial increase to 180mg, the patient's mood remains improved. Our clinical account appears to be only the second case report describing the efficacy of high",
+            "journal": "Innovations in clinical neuroscience",
+            "year": "2012",
+            "authors": [
+              "Safer Debra L",
+              "Arnow Katherine D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22567604/"
+          },
+          {
+            "pmid": "23695074",
+            "title": "Outcome of patients with chronic migraine with medication overuse and depression after duloxetine: influence of coexisting obsessive compulsive disorder.",
+            "abstract": "Patients with chronic migraine (CM) and medication overuse (MO) have high frequency of psychiatric comorbidity. Aims of this open label, prospective, independent study were: to evaluate the efficacy of duloxetine in a sample of patients with MO due to CM and with concomitant depression; to investigate, if the presence of OCD influences the outcome in this subgroup of patients. A total of 50 consecutive patients (40 F,10 M, aged 20-65 years, mean 39.4 years) from those attending our Headache Center to undergo an inpatient withdrawal programme followed by anti-migraine prophylaxis was enrolled. After a 1-month baseline period, all patients were prescribed duloxetine 30 mg in the morning for the first week, and 60 mg for the following 12 weeks. They filled a daily headache diary during the whole study period. They also completed Hamilton depression rating scale (HDRS) and migraine disability assessment scale (MIDAS) at baseline and at the 12-week follow-up. The primary outcome measure was",
+            "journal": "Neurological sciences : official journal of the Italian Neurological Society and of the Italian Society of Clinical Neurophysiology",
+            "year": "2013",
+            "authors": [
+              "Curone Marcella",
+              "Tullo V",
+              "Savino M",
+              "Proietti-Cecchini A",
+              "Bussone G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Analgesics",
+              "Depression",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Migraine Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23695074/"
+          },
+          {
+            "pmid": "21779536",
+            "title": "SNRIs pharmacological alternatives for the treatment of obsessive compulsive disorder?",
+            "abstract": "Obsessive compulsive disorder can be a challenging psychiatric phenomenon to diagnose and treat. At the present time, recommended treatment strategies include cognitive behavioral therapy (e.g., exposure and response prevention) and pharmacotherapy (e.g., selective serotonin reuptake inhibitors and clomipramine). Unfortunately, even with adequate pharmacotherapy, only 70 percent of patients improve, indicating the clinical need for pharmacological alternatives. Such alternatives may presently exist in the group of antidepressants classified as serotonin-norepinephrine reuptake inhibitors. Although large, double-blind, placebo-controlled studies are lacking, preliminary evidence through case reports and small studies suggests potential efficacy for three currently available serotonin-norepinephrine reuptake inhibitors (e.g., venlafaxine, duloxetine, milnacipran). If genuinely efficacious, serotonin-norepinephrine reuptake inhibitors would be likely to have fewer side effects than clomip",
+            "journal": "Innovations in clinical neuroscience",
+            "year": "2011",
+            "authors": [
+              "Sansone Randy A",
+              "Sansone Lori A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21779536/"
+          },
+          {
+            "pmid": "19483491",
+            "title": "High-dose duloxetine for treatment-resistant obsessive-compulsive disorder: a case report with sustained full remission.",
+            "abstract": "",
+            "journal": "Clinical neuropharmacology",
+            "year": "2009",
+            "authors": [
+              "Yeh Yi-Wei",
+              "Chen Chun-Hsiung",
+              "Kuo Shin-Chang",
+              "Wang Sheng-Chiang",
+              "Chen Chih-Kang"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Dose-Response Relationship, Drug",
+              "Duloxetine Hydrochloride",
+              "Humans",
+              "Male",
+              "Obsessive-Compulsive Disorder",
+              "Secondary Prevention",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Thiophenes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19483491/"
+          },
+          {
+            "pmid": "25985047",
+            "title": "A case study in treating chronic comorbid obsessive-compulsive disorder and depression with behavioral activation and pharmacotherapy.",
+            "abstract": "Obsessive-compulsive disorder (OCD) is difficult to treat, and more so when comorbid with major depressive disorder (MDD). The aim of the present case study was to examine effects of behavioral activation (BA) and pharmacotherapy with an adult with chronic comorbid OCD and MDD. BA aimed at increasing approach behaviors in life activities and decreasing avoidant and inactive behaviors. After 21 months of treatment at a community mental health clinic, OCD and MDD symptoms, including compulsive checking behaviors, were no longer at clinical levels. Symptom alleviation and psychological health improved in line with increases in activities of living such as self-care, domestic, social, and studying, and decreases in medications from a regimen of mood stabilizers and anxiolytics to a sole antidepressant. The participant was satisfied with treatment procedures and outcome. The results add to growing evidence of effective BA treatments for comorbid disorders that include depression.",
+            "journal": "Psychotherapy (Chicago, Ill.)",
+            "year": "2015",
+            "authors": [
+              "Arco Lucius"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amitriptyline",
+              "Antidepressive Agents",
+              "Behavior Therapy",
+              "Chronic Disease",
+              "Clomipramine",
+              "Major Depressive Disorder",
+              "Duloxetine Hydrochloride",
+              "Humans",
+              "Lithium Compounds",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25985047/"
+          },
+          {
+            "pmid": "18208931",
+            "title": "Switching from serotonin reuptake inhibitors to duloxetine in patients with resistant obsessive compulsive disorder: a case series.",
+            "abstract": "Obsessive compulsive disorder (OCD) is a chronic disorder, currently recognized as one of the most common psychiatric disorder as well as one of the most disabling of all medical disorders. OCD is characterized by high rates of partial and/or absent response to standard, recommended treatments (serotonin reuptake inhibitors and psychotherapy). Recent investigation showed that Venlafaxine, a dual serotonin and norepinephrine reuptake inhibitor (SNRI), may be a valid alternative for some treatment-refractory patients. We present the cases of four OCD patients with comorbid mood or anxiety disorders, who were treated with serotonin reuptake inhibitors (SRIs) at adequate doses for at least 12 weeks, showing partial/no response. Patients were then switched to Duloxetine up to 120 mg/day and followed up for 12 weeks. Three out of four patients showed a Yale-Brown Obsessive Compulsive Scale(Y-BOCS) score reduction >or=35%. Duloxetine may be helpful in patients with treatment-resistant OCD, al",
+            "journal": "Journal of psychopharmacology (Oxford, England)",
+            "year": "2008",
+            "authors": [
+              "Dell'osso Bernardo",
+              "Mundo Emanuela",
+              "Marazziti Donatella",
+              "Altamura A Carlo"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic Uptake Inhibitors",
+              "Adult",
+              "Aged",
+              "Dose-Response Relationship, Drug",
+              "Drug Resistance",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18208931/"
+          },
+          {
+            "pmid": "19183783",
+            "title": "The role of duloxetine in the treatment of anxiety disorders.",
+            "abstract": "Anxiety disorders (ADs) are the most common type of psychiatric disorders, with a mean incidence of 18.1% and a lifetime prevalence of 28.8%. Pharmacologic options studied for treating ADs may include benzodiazepines, tricyclic antidepressants (TCA), selective serotonin reuptake inhibitors (SSRIs), noradrenergic and specific serotonergic drug (NaSSA) and dual-reuptake inhibitors of serotonin and norepinephrine (SNRIs). In this context, the development of SNRIs (venlafaxine and duloxetine) has been particularly useful. As a dual-acting intervention that targets two neurotransmitter systems, these medications would appePar promising for the treatment of ADs. The purpose of this review was to elucidate current facts and views about the role of duloxetine in the treatment of ADs. In February 2007, duloxetine was approved by FDA for the treatment of generalized anxiety disorder (GAD). The results of trials evaluating the use duloxetine in the treatment of GAD are supportive on its efficacy ",
+            "journal": "Neuropsychiatric disease and treatment",
+            "year": "2008",
+            "authors": [
+              "De Berardis Domenico",
+              "Serroni Nicola",
+              "Carano Alessandro",
+              "Scali Marco",
+              "Valchera Alessandro"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19183783/"
+          },
+          {
+            "pmid": "39828036",
+            "title": "Systematic Review and Meta-Analysis: The Association Between Newer-Generation Antidepressants and Insomnia in Children and Adolescents With Major Depressive Disorder.",
+            "abstract": "To examine the association between newer generation antidepressants and insomnia as an adverse event (AE) in the treatment of children and adolescents with major depressive disorder (MDD).",
+            "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+            "year": "2025",
+            "authors": [
+              "Türkmen Cagdas",
+              "Machunze Noah",
+              "Lee Alycia M",
+              "Bougelet Emilie",
+              "Ludin Nicola M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Sleep Initiation and Maintenance Disorders",
+              "Major Depressive Disorder",
+              "Child",
+              "Adolescent",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Antidepressive Agents",
+              "Randomized Controlled Trials as Topic",
+              "Serotonin and Noradrenaline Reuptake Inhibitors",
+              "Anxiety Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39828036/"
+          },
+          {
+            "pmid": "24494611",
+            "title": "Clinically relevant interactions between newer antidepressants and second-generation antipsychotics.",
+            "abstract": "Combinations of newer antidepressants and second-generation antipsychotics (SGAs) are frequently used by clinicians. Pharmacokinetic drug interaction (PK DI) and poorly understood pharmacodynamic (PD) drug interaction (PD DI) can occur between them.",
+            "journal": "Expert opinion on drug metabolism & toxicology",
+            "year": "2014",
+            "authors": [
+              "Spina Edoardo",
+              "de Leon Jose"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antidepressive Agents",
+              "Antidepressive Agents, Second-Generation",
+              "Antipsychotic Agents",
+              "Major Depressive Disorder",
+              "Drug Interactions",
+              "Drug Resistance",
+              "Drug Synergism",
+              "Drug Therapy, Combination",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24494611/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "obsessive-compulsive disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20obsessive-compulsive%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "schizoid personality disorder",
+        "txgnn_score": 0.9977636337280272,
+        "txgnn_rank": 640,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "schizoid personality disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20schizoid%20personality%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "paranoid personality disorder",
+        "txgnn_score": 0.9977636337280272,
+        "txgnn_rank": 641,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "paranoid personality disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20paranoid%20personality%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "schizotypal personality disorder",
+        "txgnn_score": 0.9977636337280272,
+        "txgnn_rank": 642,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "schizotypal personality disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20schizotypal%20personality%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "histrionic personality disorder (disease)",
+        "txgnn_score": 0.9977636337280272,
+        "txgnn_rank": 643,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "histrionic personality disorder (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20histrionic%20personality%20disorder%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Ohdo syndrome and variants",
+        "txgnn_score": 0.9969294667243958,
+        "txgnn_rank": 833,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "Ohdo syndrome and variants",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20Ohdo%20syndrome%20and%20variants"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "ligneous conjunctivitis",
+        "txgnn_score": 0.9965974688529968,
+        "txgnn_rank": 899,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "ligneous conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20ligneous%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blepharophimosis - intellectual disability syndrome, Ohdo type",
+        "txgnn_score": 0.996006190776825,
+        "txgnn_rank": 1017,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Duloxetine",
+          "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Duloxetine%20blepharophimosis%20-%20intellectual%20disability%20syndrome%2C%20Ohdo%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Duloxetine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00476",
+    "name": "Duloxetine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Duloxetine"
+      },
+      "queried_at": "2026-03-10T12:19:57.992216",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Duloxetine"
+      },
+      "queried_at": "2026-03-10T12:19:57.999629",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Duloxetine"
+      },
+      "queried_at": "2026-03-10T12:20:10.086243",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:20:11.385666",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:20:15.716741",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:20:16.774143",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:20:17.823378",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T12:20:19.179366",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T12:20:23.395919",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T12:20:24.630442",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T12:20:27.914720",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-10T12:20:28.626215",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-10T12:20:32.017358",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-10T12:20:33.592592",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-10T12:20:38.307315",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:38.998159",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:42.967741",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:44.118568",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:45.125289",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:45.679161",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:50.894339",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:52.725983",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:54.038252",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:54.850063",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-10T12:20:59.619796",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-10T12:21:01.073465",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-10T12:21:02.563721",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-10T12:21:03.305339",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-10T12:21:07.650061",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-10T12:21:09.716522",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-10T12:21:10.767940",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-10T12:21:11.565745",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-10T12:21:15.365333",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-10T12:21:16.883461",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-10T12:21:18.326110",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:21:18.991179",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:21:23.868309",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:21:25.016143",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:21:27.014649",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-10T12:21:27.836510",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-10T12:21:33.191170",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-10T12:21:34.663240",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Duloxetine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-10T12:21:36.142519",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:21:36.149776"
+  }
+}

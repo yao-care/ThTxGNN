@@ -1,0 +1,3049 @@
+{
+  "drug": {
+    "inn": "Aripiprazole",
+    "drugbank_id": "DB01238",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "major affective disorder",
+        "txgnn_score": 0.9961524605751038,
+        "txgnn_rank": 981,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05974241",
+            "title": "Irritability in Children With ADHD and Emotion Dysregulation: Clinical Profiles, Neuropsychological Characteristics , and Pharmacological Treatment: A Cross-over Study",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2017-04-21",
+            "completion_date": "2022-04-07",
+            "country": "Taiwan",
+            "enrollment": 36,
+            "brief_summary": "Objective:\n\nEmotion dysregulation is common among children with ADHD and associated with a broad range of adult psychopathology, which is similar to the longitudinal outcomes of childhood irritability. However, the profiles of irritability in children with ADHD and emotion dysregulation has been understudied. This study aimed to investigate the efficacy of methylphenidate and aripiprazole in the treatment of irritability in children with ADHD and emotion dysregulation. In addition, the clinical ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 6 to 18 who have ADHD and emotion dysregulation, defined by the CBCL-Dysregulation Profile.\n\nExclusion Criteria:\n\n* Patients who are not willing to participate in the study after detailed explanation.\n* Patients who have intellectual disability or could not follo",
+            "endpoints": [
+              "Aberrant Behavior Checklist-irritability subscale (ABC-I)"
+            ],
+            "sponsor": "Tri-Service General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05974241"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02722967",
+            "title": "A Multicenter, 8-week, Open-label, Single-Arm Exploratory Trial to Assess the Functionality of an Integrated Call Center for the Digital Medicine System by Adult Subjects With Schizophrenia, Major Depressive Disorder, or Bipolar 1 Treated With Oral Aripiprazole",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2016-03",
+            "completion_date": "2016-09",
+            "country": "United States",
+            "enrollment": 49,
+            "brief_summary": "This study will assess the helpfulness of the integrated call center in optimizing use of the Digital Medicine System in adult subjects with Schizophrenia, Major Depressive Disorder, or Bipolar Disorder taking oral aripiprazole.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Primary diagnosis of Schizophrenia (SCH), Major Depressive Disorder (MDD), or Bipolar 1 Disorder (BP1), per the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5)\n* Must be able to swallow tablets\n* Currently taking a stable daily dose of oral aripipr",
+            "endpoints": [
+              "Assessment of the Functionality of an Integrated Call Center for DMS by Adult Subjects With SCH, MDD, or BP1 Who Were Treated With Oral Aripiprazole."
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT02722967"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07011693",
+            "title": "Switching Medication and Augmentation Strategies for SSRI-Resistant Adolescent Depression（SMART-I): An Open-Label, Multicenter, Randomized Controlled Trial",
+            "phase": "PHASE4",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-06-20",
+            "completion_date": "2027-12",
+            "country": "China",
+            "enrollment": 400,
+            "brief_summary": "This project aims to investigate the effectiveness of existing common antidepressants in adolescents with MDD who did not respond to their first treatment.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 12-17;\n2. As assessed by K-SADS-PL, it meets the DSM-5 criteria for MDD;\n3. CDRS-R≥45;\n4. CGI-S≥4;\n5. Failed to respond to an initial SSRI trial: the trial at least 8 weeks, with the last of which were at a dosage of at least 40 mg per day of fluoxetine or its equivalent",
+            "endpoints": [
+              "response rate of Children's Depression Rating Scale (CDRS-R) scores"
+            ],
+            "sponsor": "First Affiliated Hospital of Chongqing Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT07011693"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07153406",
+            "title": "Comparison of Esketamine Versus Aripiprazole,Both in Combination With a SSRI/SNRI(Selective Serotonin Reuptake Inhibitors/Serotonin and Norepinephrine Reuptake Inhibitors )in Treatment-resistant Major Depressive Disorder in Elderly Patients",
+            "phase": "PHASE3",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-09-15",
+            "completion_date": "2029-01-15",
+            "country": "Spain",
+            "enrollment": 220,
+            "brief_summary": "Phase III, open label, randomised, multicentre, blind for evaluators clinical trial to evaluate the efficacy of esketamine nasal spray at flexible dosis compared to aripiprazole in elderly participants (\\>60 years) who suffer from treatment-resistant major depressive",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients between 60-74 years\n* To be receiving antidepressant treatment that includes an antidepressant at the time of screening that is not responding (less than 25% improvement in symptoms) after receiving an adequate dose \\[or local equivalent, if applicable\\] for at least ",
+            "endpoints": [
+              "Clinical response"
+            ],
+            "sponsor": "Fundación Pública Andaluza para la gestión de la Investigación en Sevilla",
+            "url": "https://clinicaltrials.gov/study/NCT07153406"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01123707",
+            "title": "A Multicenter, 52-week, Open-label Study to Assess the Safety and Tolerability of an Oral Aripiprazole/Escitalopram Combination Therapy in Patients With Major Depressive Disorder",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2010-11-18",
+            "completion_date": "2011-09-27",
+            "country": "N/A",
+            "enrollment": 173,
+            "brief_summary": "This is a multicenter, 52-week, open-label study designed to assess the safety and tolerability of an oral aripiprazole/escitalopram combination therapy in outpatients with major depressive disorder (MDD). Enrollment into the study will be from eligible participants who have completed participation in Protocol 31-08-255 \\[NCT01111539\\], 31-08-256 \\[NCT01111552\\], or 31-08-263 \\[NCT01111565\\] (\"rollover\" participants).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who participated in Protocol 31-08-255, 31-08-256, or 31-08-263.\n\nExclusion Criteria:\n\n* Participants with a current need for involuntary commitment or who have been hospitalized ≤ 28 days of the Baseline Visit for the current major depressive episode.\n* Participa",
+            "endpoints": [
+              "Percentage of Participants With Treatment-Emergent Adverse Events (TEAEs), Serious TEAEs (STEAEs), Severe (Grade 3 or Higher) TEAEs, and Discontinuations From the Trial Due to TEAEs"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01123707"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01696617",
+            "title": "Aripiprazole (Abilify®) as an Adjunctive Treatment for Inadequate Response in Major Depressive Disorder",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-02-10",
+            "completion_date": "2019-02",
+            "country": "South Korea",
+            "enrollment": 46,
+            "brief_summary": "The investigators hypothesized that combined pharmacotherapy using adjunctive aripiprazole of standard antidepressants would be associated with improved depression response in Major depressive disorder, especially in Quality of life.\n\nThe investigators compare the mean changes in the quality of life between before add-on and 8 weeks treatment of aripiprazole and between before add-on and 6 weeks treatment of aripiprazole.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age : 18-65\n* Patients with major depressive disorder according to DSM-IV criteria that have lasted \\>8 weeks\n* MADRS total score of 18 or higher\n* Patients who responded inadequately (a score of \\>18 on the MADRS) to first-line antidepressant treatment of 4 week duration\n* Cu",
+            "endpoints": [
+              "Quality of Life Scale (QOLS)"
+            ],
+            "sponsor": "Seoul National University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01696617"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00531518",
+            "title": "Early Detection and Intervention for the Prevention of Psychosis Project",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-10",
+            "completion_date": "2013-09",
+            "country": "United States",
+            "enrollment": 292,
+            "brief_summary": "EDIPP is a multisite trial of early identification and intervention to prevent the onset of psychosis in adolescents and young adults, carried out at six sites across the United States. The hypothesis is that very early identification and intervention will be effective in delaying or preventing onset of psychosis and improving social and occupational functioning.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects in the age range of 12-25 and living in the experimental catchment area may be enrolled in the EDIPP study based on meeting at least one of the inclusion requirements AND none of the exclusion criteria;\n* Screening process indicates symptoms equivalent to a minimum ra",
+            "endpoints": [
+              "Psychotic Symptoms"
+            ],
+            "sponsor": "MaineHealth",
+            "url": "https://clinicaltrials.gov/study/NCT00531518"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06054321",
+            "title": "A Randomized Clinical Trial of Response to Psychopharmacotherapy According to Multimodal Serum Biomarkers in Depressive Patients",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2022-08-03",
+            "completion_date": "2030-12-31",
+            "country": "South Korea",
+            "enrollment": 400,
+            "brief_summary": "The primary purpose of this study is to compare the short (12 week) and long-term (1-year) efficacy and the tolerability between stepwise psychopharmacotherapy and antidepressant monotherapy for 12 weeks in adult patients with major depressive disorders, stratified by the multimodal serum biomarker scores.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 19 to 65 years\n* Diagnostic and Statistical Manual of Mental Disorders-IV criteria for major depressive disorder by study psychiatrists\n* Score≥17 on Hamilton Depression Rating Scale-17\n* With ability to understand the objective of the study and sign informed consent\n* Initiat",
+            "endpoints": [
+              "Remission and treatment response status by Hamilton Depression Rating Scale"
+            ],
+            "sponsor": "Chonnam National University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06054321"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01942187",
+            "title": "A Comparison of Medication Augmentation and Problem Solving Therapy",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2013-08",
+            "completion_date": "2015-12",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The purpose of this study is to compare the effectiveness of two different augmentation strategies of antidepressant treatment for depressed older adults who have not responded to an adequate trial of antidepressant medication. The first augmentation strategy is Problem Solving Therapy (PST), a 12-week psychotherapy treatment that has been shown to be effective in depressed older adults. The second augmentation strategy is medication augmentation, which will begin with six weeks of aripiprazole,",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 50-90, inclusive\n* Current diagnosis of major depressive disorder or dysthymia\n* Treatment with either citalopram 30/mg or duloxetine 60 mg/day (6 weeks total, with at least three weeks of treatment at that dose)\n* Hamilton Rating Scale for Depression (HRSD) \\>= 14\n* Will",
+            "endpoints": [
+              "Hamilton Psychiatric Rating Scale for Depression"
+            ],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT01942187"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06372210",
+            "title": "An Open-label, Prospective Trial Assessing Positive Detection Accuracy and Detection Latency Measures of the Miniature Ingestible Event Marker Tablet Using the D-Tect Patch in Healthy Subjects and Assessing Detection Latency Measures Using the D-Tect Patch in Subjects With Serious Mental Illness Taking Abilify MyCite Tablet",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2023-06-26",
+            "completion_date": "2023-07-19",
+            "country": "United States",
+            "enrollment": 54,
+            "brief_summary": "The primary purpose of the study is to evaluate the positive detection accuracy (PDA) and detection latency measures of the D-Tect patch.",
+            "eligibility_criteria": "Inclusion Criteria for Cohort 1:\n\n* In good general health or medically stable.\n* Is able and willing to participate in, and adhere to, all testing procedures, both onsite and offsite, for the entire testing.\n* The participant has access to a telephone for communicating with the trial personnel and ",
+            "endpoints": [
+              "Cohort 1: Positive Detection Accuracy (PDA) of D-Tect Patch",
+              "Cohort 1 and 2: Patch Detection Latency Period",
+              "Cohort 1 and 2: Ingestion Data Transfer Latency Period"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT06372210"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00873795",
+            "title": "Efficacy and Safety of Aripiprazole 2.5mg Combine Sertraline 50mg in Major Depression",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-04",
+            "completion_date": "2009-03",
+            "country": "Taiwan",
+            "enrollment": 41,
+            "brief_summary": "FDA has accepted atypical antipsychotics of olanzapine and aripiprazole as the adjuvant medications for refractory major depression. But there is still no trial about atypical antipsychotics combined with antidepressant of SSRI used in fresh major depressive patients. This project aims to compare the efficacy and tolerability of sertraline with or without low-dosed aripiprazole added in fresh major depression.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 18 to 65 years inclusive.\n* Fulfilled DSM-Ⅳ criteria for major depressive disorder.\n* Onset ≧2 weeks.\n* Baseline score ≧14 on the HAM-D17.\n* Written informed consent prior to entry into the study.\n\nExclusion Criteria:\n\n* HAM-D17 item 3 score≧3.\n* Life-t",
+            "endpoints": [
+              "score change of Hamilton Rating Scale For Depression (HAM-D17 )"
+            ],
+            "sponsor": "Chimei Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT00873795"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03790085",
+            "title": "Identification of Multi-modal Bio-markers for Early Diagnosis and Treatment Prediction in Schizophrenia Individuals",
+            "phase": "EARLY_PHASE1",
+            "status": "UNKNOWN",
+            "start_date": "2018-09-01",
+            "completion_date": "2020-12-31",
+            "country": "China",
+            "enrollment": 2700,
+            "brief_summary": "This study aims to screen and validate multi-scale bio-markers for early diagnosis and medication monitoring for early schizophrenia, including the genetic, neurobiochemistry, neuroimaging and eletrophysiological measures. Based on the validated bio-markers, the present study further tries to build several prediction models for early differential diagnosis of schizophrenia from healthy controls and other mental diseases (such as the major depression and anxiety disorders), biological sub-typing ",
+            "eligibility_criteria": "Inclusion Criteria for patients:\n\n* According with American mental disorder diagnosis and Diagnostic criteria for schizophrenia, major depressive disorder, and anxiety disorder in the statistical manual DSM-IV\n* The time from the onset of symptoms for the first time to participate in study is less t",
+            "endpoints": [
+              "Positive and Negative Syndrome Scale (PANSS)",
+              "Clinical Global Impression(CGI)"
+            ],
+            "sponsor": "Tianjin Medical University General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03790085"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00277212",
+            "title": "A Multicenter, Double-blind, Study of the Efficacy and Safety of Aripiprazole in Combination With Lamotrigine in the Long-term Maintenance Treatment of Patients With Bipolar I Disorder With a Recent Manic or Mixed Episode",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-12",
+            "completion_date": "2009-07",
+            "country": "United States, Puerto Rico",
+            "enrollment": 1169,
+            "brief_summary": "Efficacy of Aripiprazole in Combination with Lamotrigine in the Long-Term Maintenance Treatment of Bipolar I Disorder in Outpatients with Recent Manic or Mixed Episode",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women ≥ 18 years of age meeting Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (Text Revision) (DSM-IV-TR) criteria for bipolar I disorder, recently experiencing a manic or mixed episode with a history of one or more manic or mixed episodes of su",
+            "endpoints": [
+              "Proportion of Participants Not Experiencing Relapse Through Week 52 in the Double-Blind Relapse Assessment Phase (Phase 2)"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00277212"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04234776",
+            "title": "Intramuscular Ketamine Versus Escitalopram and Aripiprazole in Acute and Maintenance Treatment of Patients With Treatment-resistant Depression",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2018-04-03",
+            "completion_date": "2021-04-03",
+            "country": "Brazil",
+            "enrollment": 88,
+            "brief_summary": "The treatment of resistant depression should be optimized aiming at complete remission of symptoms, a complex condition due to several factors. Approximately 1/3 of patients with depressive disorders do not even respond to available antidepressants. Consequently, new molecules with robust action, fast effects and sustained improvement are currently being researched worldwide. Ketamine, an N-methyl-D-aspartate (NMDA) receptor antagonist, has emerged as a promising alternative due to its involveme",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Diagnosis of TRD, according to clinical evaluation and confirmed by SCID-IV (Structured Clinical Interview for the DSM);\n2. Moderate to severe intensity of the disease;\n3. Female patients in fertile conditions should be using a clinically accepted contraceptive method (oral c",
+            "endpoints": [
+              "Change in depressive symptoms",
+              "Change in depressive symptoms",
+              "Change in depressive symptoms"
+            ],
+            "sponsor": "University of Sao Paulo",
+            "url": "https://clinicaltrials.gov/study/NCT04234776"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05389046",
+            "title": "Study on the Optimal Diagnosis and Treatment Strategy of Major Depressive Disorder Based on Anhedonia",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2022-08-15",
+            "completion_date": "2025-12",
+            "country": "China",
+            "enrollment": 252,
+            "brief_summary": "This study is a multicenter clinical research and focuses on the exploring of optimal diagnosis and treatment strategies of MDD based on anhedonia.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Major depressive disorder according to Diagnostic and Statistical Manual of Mental Disorders (5th edition) (DSM-5);\n2. Age: 18-55 (including 18 and 55)\n3. HAMD-17≥18\n4. DARS ≤ 28\n5. Do not receive repetitive Transcranial Magnetic Stimulation (rTMS) or modified electroconvulsi",
+            "endpoints": [
+              "17-item Hamilton depression rating scale (HAMD-17) value",
+              "Anhedonia level-Dimensional Anhedonia Rating Scale (DARS)"
+            ],
+            "sponsor": "Peking University",
+            "url": "https://clinicaltrials.gov/study/NCT05389046"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02526030",
+            "title": "Phase IV Study of Effectiveness of Aripiprazole, Quetiapine, and Ziprasidone in the Treatment of First Episode of Non-affective Psychosis Individuals Included in the First Episode Psychosis Clinical Program II (PAFIP II): a 3-year Follow-up",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2008-10",
+            "completion_date": "2015-06",
+            "country": "Spain",
+            "enrollment": 203,
+            "brief_summary": "The selection of antipsychotic in early stages of the illness is mainly determined by its clinical effectiveness. Second generation antipsychotics (SGAs) are the first line drug treatment for individuals suffering from schizophrenia. It is clear that SGAs are not a homogeneous group and clinical effects and profile of side effects differ between SGAs. Differences among antipsychotics in terms of effectiveness have turned out to be a topic of increasing research interest, although comparisons bet",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients followed in the First Episode Psychosis Clinical Program (PAFIP II) from October 2005 to January 2011.\n\nExclusion Criteria:\n\n* Meeting Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) criteria for drug dependence\n* Meeting DSM-IV criteria",
+            "endpoints": [
+              "Effectiveness of antipsychotics (percentage of discontinuation of the initially assigned treatment)"
+            ],
+            "sponsor": "Fundación Marques de Valdecilla",
+            "url": "https://clinicaltrials.gov/study/NCT02526030"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00095745",
+            "title": "A Multicenter, Long-Term, Open-label, Study to Assess the Safety and Tolerability of Aripiprazole as an Adjunctive Therapy in the Treatment of Outpatients With Major Depressive Disorder",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-09",
+            "completion_date": "2007-11",
+            "country": "United States",
+            "enrollment": 1002,
+            "brief_summary": "This trial is a 52-week safety study to evaluate the safety of adjunctive aripiprazole in outpatients with major depressive disorder who have experienced an incomplete response to an ongoing antidepressant trial.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women, 18 years or older\n* Experiencing Major Depressive Disorder with a duration of minimally 8 weeks.\n* Treatment history of an inadequate response to at least one and no more than four antidepressants",
+            "endpoints": [
+              "Safety assessments"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00095745"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02752542",
+            "title": "Personalized Indications for Cognitive Behavioural Therapy and Antidepressants in the Treatment of Major Depressive Disorder and Persistent Depressive Disorder",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2016-10-31",
+            "completion_date": "2027-06",
+            "country": "Canada",
+            "enrollment": 80,
+            "brief_summary": "Depression currently affects close to 2 million Canadians and is the leading cause of disability worldwide. Pharmacological treatments (antidepressant medication) and psychological treatments such as cognitive-behavioural therapy are available for depression, but the majority of those who receive treatment have an unsatisfactory response. On average, the combination of pharmacological and psychological treatment achieves better results than either treatment alone. However, the apparently superio",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* a diagnosis of MDD or PDD established with the Structured Clinical Interview for DSM-5 (SCID-5), and depression being the primary problem requiring clinical attention (judgement of intake clinician).\n* a minimum current severity of 14 on the 17-item Hamilton Rating Scale for D",
+            "endpoints": [
+              "Total score on the Montgomery Asberg Depression Rating Scale (MADRS)"
+            ],
+            "sponsor": "Nova Scotia Health Authority",
+            "url": "https://clinicaltrials.gov/study/NCT02752542"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00102518",
+            "title": "A Multi-Center, Open-Label, Safety and Tolerability Study of Flexible-Dose Oral Aripiprazole (2 Mg-30 mg) in the Treatment of Adolescent Patients With Schizophrenia and Child and Adolescent Patients With Bipolar I Disorder, Manic or Mixed Episode With or Without Psychotic Features",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-09",
+            "completion_date": "2007-02",
+            "country": "United States",
+            "enrollment": 325,
+            "brief_summary": "The purpose of this study is to test the long-term safety and tolerability of aripiprazole in adolescent patients with schizophrenia, and child and adolescent patients with bipolar I disorder, manic or mixed episode.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adolescent patients with schizophrenia, or child and adolescent patients with bipolar I disorder, manic or mixed episode\n\nExclusion Criteria:\n\n* Patients with a co-morbid serious, uncontrolled systemic illness\n* Patients with a significant risk of committing suicide",
+            "endpoints": [
+              "Percentage of Subjects Experiencing SAEs"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00102518"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06937476",
+            "title": "Investigation of the Neurobiological Mechanisms Underlying Pathological Rumination and the Pharmacological Effects of Aripiprazole",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2025-05-08",
+            "completion_date": "2026-03",
+            "country": "China",
+            "enrollment": 108,
+            "brief_summary": "This randomized, single-blind (assessor-blind) controlled trial aims to investigate the efficacy of aripiprazole as an augmentation strategy for treating pathological rumination in patients with major depressive disorder (MDD). Pathological rumination-defined as repetitive, intrusive, and uncontrollable negative thinking-has been identified as a major transdiagnostic risk factor for the development, maintenance, and recurrence of depression. Even during clinical remission, ruminative symptoms of",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* For Patients with Major Depressive Disorder (MDD):\n\nAge 18 to 45 years old, any sex.\n\nHan Chinese, right-handed.\n\nEducation level of junior high school or above, able to understand informed consent and complete self-report instruments.\n\nMeets DSM-5 diagnostic criteria for Majo",
+            "endpoints": [
+              "Change in Ruminative Responses Scale (RRS) score from baseline to week 8"
+            ],
+            "sponsor": "Central South University",
+            "url": "https://clinicaltrials.gov/study/NCT06937476"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02600741",
+            "title": "A 12-Month Randomized, Open-Label Study of Caregiver Psycho-education and Skills Training in Patients Recently Diagnosed With Schizophrenia, Schizoaffective Disorder, or Schizophreniform Disorder and Receiving Paliperidone Palmitate or Oral Antipsychotic Treatment",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-07-24",
+            "completion_date": "2018-07-05",
+            "country": "United States",
+            "enrollment": 296,
+            "brief_summary": "The primary purpose of this study is to evaluate the overall effect of caregivers receiving a study-provided caregiver psycho-education and skills training program on the number of treatment failures (psychiatric hospitalization, psychiatric emergency room (ER) visit, crisis center visit, mobile crisis unit intervention, arrest/incarceration, and suicide or suicide attempt) in patients under their care during a 12 month period.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nA) Caregivers\n\n* Each caregiver must sign an informed consent form (ICF) indicating that he or she understands the purpose of and procedures required for the study and are willing to participate for the duration of the study\n* Caregiver is able to have verbal interaction with th",
+            "endpoints": [
+              "Number of Treatment Failures Over 12 Months"
+            ],
+            "sponsor": "Janssen Scientific Affairs, LLC",
+            "url": "https://clinicaltrials.gov/study/NCT02600741"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05473741",
+            "title": "Risk of Breakthrough Symptoms On Antipsychotic Maintenance Medication When Remitted Patients Are Treated With Long-Acting Injectable Medications",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2023-01-09",
+            "completion_date": "2025-12-31",
+            "country": "Canada",
+            "enrollment": 180,
+            "brief_summary": "This prospective longitudinal cohort study will follow patients with schizophrenia who are treated with second generation long-acting injectable antipsychotic medications (LAIs) for 48 weeks to determine the risk of psychotic symptom relapse when treatment adherence is established. The study is designed to minimize the other factors that have contributed to breakthrough psychotic symptoms in patients treated with LAIs including poor adherence, substance use, concurrent mood disorders, poor treat",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-5 Schizophrenia\n* Age 18-65 years\n* On SGA LAI: paliperidone palmitate (4-week or 12-week formulations), risperidone or aripiprazole\n* Receiving LAI injections through clinical services based at CAMH\n* History of improvement in psychotic symptoms with antipsychotic medicat",
+            "endpoints": [
+              "Clinical Global Impressions Schizophrenia Scale (CGI-SCH) - Positive Symptoms Change subscale"
+            ],
+            "sponsor": "Centre for Addiction and Mental Health",
+            "url": "https://clinicaltrials.gov/study/NCT05473741"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00592683",
+            "title": "A Randomized Placebo Controlled Clinical Trial of Omega-3 Fatty Acid Adjunctive to Open-Label Aripiprazole for the Treatment of Bipolar Disorder in Children and Adolescents Ages 6-17 With Bipolar Spectrum Disorder",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2007-12",
+            "completion_date": "2010-04",
+            "country": "United States",
+            "enrollment": 20,
+            "brief_summary": "This will be a 12 week, double blind study of omega-3 fatty acids vs. placebo adjunctive to open-label aripiprazole treatment in children and adolescents (ages 6-17) who meet DSM-IV criteria for bipolar disorder (BPD) (currently manic or mixed). Specific hypotheses are as follows:\n\nHypothesis 1: Omega-3 fatty acids will be well-tolerated and efficacious in the treatment of children and adolescents with BPD\n\nHypothesis 2: The total dose of aripiprazole will be lower in those subjects receiving ac",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female subject, 6-17 years of age\n2. Subject has a DSM-IV diagnosis of bipolar I, bipolar II, or bipolar spectrum disorder and currently displaying manic, hypomanic, or mixed symptoms (with or without psychotic features)\n3. Subject and their legal representative have ",
+            "endpoints": [
+              "Change in Bipolar Symptoms as Assessed by Young-Mania Rating Scale (YMRS)"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00592683"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00220636",
+            "title": "Abilify (Aripiprazole) as an Adjunctive Treatment for Refractory Unipolar Depression",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-03",
+            "completion_date": "2008-01",
+            "country": "United States",
+            "enrollment": 15,
+            "brief_summary": "This is a study of the effectiveness of adding Abilify (aripiprazole), an atypical antipsychotic medication, to ongoing selective serotonin reuptake inhibitor (SSRI) antidepressant treatment for depressed outpatients who are not responding fully to SSRI treatment alone. It is hypothesized that patients' functioning will improve after 12 weeks of treatment with Aripiprazole and SSRI medication.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female outpatients between the ages of 18 and 70.\n* Patients with a principal Diagnostic and Statistical Manual fourth edition (DSM-IV) diagnosis of Major Depressive Disorder, unipolar, nonpsychotic type\n* Patients with a total of 14 or higher on the 17-item Hamilton ",
+            "endpoints": [
+              "Hamilton Depression Rating Scale (HDRS)"
+            ],
+            "sponsor": "St. Luke's-Roosevelt Hospital Center",
+            "url": "https://clinicaltrials.gov/study/NCT00220636"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02918370",
+            "title": "Aripiprazole for Bipolar Disorder and Alcohol Use Disorder",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2016-11",
+            "completion_date": "2023-06-30",
+            "country": "United States",
+            "enrollment": 75,
+            "brief_summary": "The investigators will conduct a 12-week, randomized, double-blind, parallel-group, placebo-controlled study of aripiprazole in 132 persons with Alcohol Use Disorder (AUD) and bipolar I or II disorder, currently depressed or mixed phase. Primary Aim will be to assess change in alcohol use by the Timeline Followback (TLFB) method. Secondary Aim will include change in alcohol craving using the Penn Alcohol Craving Scale (PACS). Changes in psychiatric symptoms (mania/hypomania and depression) and p",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient men and women age 18-65 years old with bipolar I, II, Not Otherwise Specified (NOS) disorder, or Schizoaffective Bipolar Type\n* If diagnosed with Bipolar I, Bipolar NOS w/history of mania or Schizoaffective Disorder Bipolar Type, current mood stabilizer therapy (lit",
+            "endpoints": [
+              "Timeline Follow Back (TLFB)"
+            ],
+            "sponsor": "University of Texas Southwestern Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT02918370"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00261443",
+            "title": "Efficacy of Aripiprazole in Combination With Lithium or Valproate in the Long-Term Maintenance Treatment of Bipolar I Disorder in Outpatients Partially Nonresponsive to Lithium or Valproate Monotherapy",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-09",
+            "completion_date": "2009-10",
+            "country": "United States, Bulgaria, Croatia, Brazil, India, France, Czechia, Russia, South Africa",
+            "enrollment": 1270,
+            "brief_summary": "The purpose of this clinical research study is to learn if outpatients with bipolar mania who are partially nonresponsive to lithium or valproate monotherapy can achieve stable symptoms on a combination treatment of aripiprazole plus lithium or valproate.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women \\> or = to 18 years of age meeting Diagnostic and Statistical Manual for Mental Disorders, Fourth Edition, Text Revision (DSM-IV-TR) criteria for bipolar I disorder, currently experiencing a manic or mixed episode with a history of one or more manic or mixed epis",
+            "endpoints": [
+              "Proportion of Participants Not Experiencing Relapse to Any Mood Episode Through Week 52, Phase 3"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00261443"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05531591",
+            "title": "RCT of Neurocognitive and Neuroimaging Biomarkers: Predicting Progression Towards Dementia in Patients With Treatment-resistant Late-life Depression (OPTIMUM-Neuro RCT)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2019-08-01",
+            "completion_date": "2024-07-31",
+            "country": "Canada, United States",
+            "enrollment": 87,
+            "brief_summary": "The purpose of this study is to assess which antidepressants work the best in older adults who have treatment-resistant depression (TRD), and to test whether treatment-resistant late life depression is associated with declines in memory and attention and brain structure and function.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Men and women aged 60 and older, with approximately equal proportions aged 60-70 and 70+.\n* Current Major Depressive Disorder (MDD), single or recurrent, as diagnosed by Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria.\n* Failure to respond",
+            "endpoints": [
+              "Change in Psychological Well-Being",
+              "Assessing the change in the Number of Participants With Remission From Depression",
+              "Safety Outcomes Assessment for Serious Adverse Events"
+            ],
+            "sponsor": "Centre for Addiction and Mental Health",
+            "url": "https://clinicaltrials.gov/study/NCT05531591"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02046564",
+            "title": "A Multicenter, Randomized, Double-blind Trial to Assess the Efficacy and Safety of ASC-01 in Patients With Major Depressive Disorder",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2014-02",
+            "completion_date": "2016-09",
+            "country": "Japan, Malaysia, Australia, Taiwan, South Korea",
+            "enrollment": 412,
+            "brief_summary": "To evaluate the efficacy and the safety of ASC-01 (aripiprazole/sertraline combination) compared to sertraline monotherapy in patients with major depressive disorders who have responded incompletely to sertraline monotherapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are either inpatients or outpatients.\n* Patients who are able to understand necessary information for giving consent to undergo examinations, observations, and evaluations specified in this clinical protocol, and who are able to give written consent based on a ful",
+            "endpoints": [
+              "The Mean Change From Baseline in the Montgomery-Åsberg Depression Rating Scale (MADRS) Total Score"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT02046564"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06049953",
+            "title": "Developmental Effects of Antenatal Exposure to Antipsychotics",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2023-09-29",
+            "completion_date": "2027-12-01",
+            "country": "United States",
+            "enrollment": 200,
+            "brief_summary": "The goal of this observational study is to learn about maternal psychiatric course and infant development in pregnant individuals with severe mental illness, comparing those treated with antipsychotics to those treated with other medications or without medication. The main questions it aims to answer are:\n\n1. Is risk of psychiatric relapse different among individuals who take antipsychotic medication, other medication, or no medication?\n2. Are pregnancy and neonatal health outcomes different amo",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant\n* Severe mental illness, including:\n\n  * Psychotic disorder (affective and nonaffective)\n  * Bipolar disorder\n  * History of psychiatric hospitalization, regardless of diagnosis\n* Able to complete study interviews and measures in English, Dutch, or Spanish\n\nExclusion ",
+            "endpoints": [
+              "Mini-International Neuropsychiatric Interview",
+              "Finnegan Neonatal Abstinence Scoring System",
+              "Ratio of auditory evoked potentials as measured by EEG"
+            ],
+            "sponsor": "Icahn School of Medicine at Mount Sinai",
+            "url": "https://clinicaltrials.gov/study/NCT06049953"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00107939",
+            "title": "A Randomized, Double-blind, Placebo-controlled, Multicenter Study to Evaluate the Efficacy, Safety and Tolerability of Licarbazepine 750 ¿ 2000 mg/d as Adjunctive Therapy to an Atypical Antipsychotic in the Treatment of Manic Episodes of Bipolar I Disorder Over 6 Weeks",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-11",
+            "completion_date": "2007-04",
+            "country": "United States",
+            "enrollment": 453,
+            "brief_summary": "The purpose of this study is to evaluate the effectiveness and tolerability of an investigational drug for the treatment of manic episodes of bipolar disorder. The investigational drug will be given as additional therapy to one of the five following medications: risperidone, olanzapine, quetiapine, ziprasidone, or aripiprazole. These medications are already FDA (Food and Drug Administration)-approved treatments for mania.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of bipolar disorder (type I) with manic or mixed episodes (including patients with/without psychotic features or with/without a history of rapid cycling)\n* In need of psychiatric treatment\n* Cooperation and willingness to complete all aspects of the study\n\nExclusion ",
+            "endpoints": [
+              "Mean reduction in manic episodes and major depressive episodes from baseline to endpoint (week 6)"
+            ],
+            "sponsor": "Novartis",
+            "url": "https://clinicaltrials.gov/study/NCT00107939"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00489866",
+            "title": "Aripiprazole Augmentation of Antidepressants in PTSD",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2007-03",
+            "completion_date": "2014-12",
+            "country": "United States",
+            "enrollment": 14,
+            "brief_summary": "The proposed investigation will determine the therapeutic potential of aripiprazole augmentation to a stable antidepressant regimen for reducing posttraumatic stress disorder (PTSD) symptoms, cognitive symptoms, psychotic symptoms, and depressive symptoms in veterans with PTSD.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient veterans with posttraumatic stress disorder (PTSD)\n* Receiving treatment with an antidepressant at a stable dose for 4 weeks\n* Male or female\n* Ages 18-65 years old",
+            "endpoints": [
+              "Clinician Administered PTSD Scale (CAPS)",
+              "Brief Assessment of Cognition in Affective Disorders (BAC-A)",
+              "Positive and Negative Symptoms Scale (PANSS)"
+            ],
+            "sponsor": "Durham VA Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT00489866"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01488266",
+            "title": "Comparison of Aripiprazole Augmentation vs Switching to Different Class of Antidepressants for Patients With MDD Who Are Partially/Minimally Responsive to Current Antidepressants:Randomized, Rater-blinded, Prospective Study",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2011-11",
+            "completion_date": "2013-03",
+            "country": "Taiwan, South Korea",
+            "enrollment": 90,
+            "brief_summary": "The objective of this study is to compare the efficacy and safety of aripiprazole as adjunctive therapy versus switching to different class of antidepressants for treating major depressive disorder partially or minimally responsive to ongoing antidepressant treatment.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are older than 20 years of age have a diagnosis of MDD without psychotic features, as defined by DSM-IV-TR.\n* Patients have to report an inadequate response to a current antidepressant treatment. Inadequate response to antidepressant is defined as: total score of ",
+            "endpoints": [
+              "Change of total score of MADRS",
+              "Response rate"
+            ],
+            "sponsor": "Korea University",
+            "url": "https://clinicaltrials.gov/study/NCT01488266"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01111565",
+            "title": "A Multicenter, Randomized, Double-blind Study to Evaluate the Efficacy, Safety and Tolerability of an Oral Aripiprazole/Escitalopram Combination Therapy in Patients With Major Depressive Disorder",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2010-10-04",
+            "completion_date": "2011-09-01",
+            "country": "Spain, Hungary, Sweden, United States, Malaysia, Canada, Croatia, India, France, Poland, South Africa",
+            "enrollment": 137,
+            "brief_summary": "This will be a multicenter, randomized, double-blind study designed to assess the efficacy, safety and tolerability of an oral Aripiprazole/Escitalopram combination therapy in participants with MDD who have demonstrated an incomplete response to a prospective trial of Escitalopram, and report a treatment history for the current MDD episode of an inadequate response to at least one and no more than three adequate trials of an approved antidepressant other than Escitalopram. An inadequate response",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants with a current diagnosis of a major depressive episode. The current depressive episode must be ≥8 weeks in duration\n* Participants willing to discontinue all prohibited psychotropic medication starting from the time of signing the informed consent and during the s",
+            "endpoints": [
+              "Phase C: Mean Change From End of Phase B (Week 8) in the Montgomery-Asberg Depression Rating Scale (MADRS) Total Score to End of Phase C (Week 14)"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01111565"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01567527",
+            "title": "52-week, Multicenter, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy, Safety, and Tolerability of an Intramuscular Depot Formulation of Aripiprazole (OPC-14597) as Maintenance Treatment in Patients With Bipolar I Disorder",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-08",
+            "completion_date": "2016-04",
+            "country": "Romania, Japan, United States, Taiwan, Canada, Poland, South Korea",
+            "enrollment": 731,
+            "brief_summary": "This will be a randomized, double-blind, placebo-controlled trial to assess the time to recurrence of any mood episode in subjects with bipolar I disorder who have maintained stability on aripiprazole IM depot for at least 8 weeks. This trial will include male and female subjects 18 to 65 years of age, inclusive, with a diagnosis of bipolar I disorder, according to DSM-IV-TR criteria and confirmed by the Mini International Neuropsychiatric Interview (MINI), who have experienced at least one prev",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Male and female subjects 18 to 65 years of age, inclusive, at time of informed consent.\n2. Subjects with a current diagnosis of bipolar I disorder, as defined by DSM-IV-TR criteria and confirmed by the MINI and a history of at least one previous manic or mixed episode wit",
+            "endpoints": [
+              "Time From Randomization to Recurrence of Any Mood Episode During Double-bind Placebo-controlled Phase."
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01567527"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03304457",
+            "title": "Effect of Lurasidone Vs Olanzapine on Neurotrophic Biomarkers and Cardiometabolic Parameters in First Episode Untreated Schizophrenia: A Randomized, Open Label, Active Controlled Study",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2017-08-25",
+            "completion_date": "2018-03-25",
+            "country": "India",
+            "enrollment": 100,
+            "brief_summary": "Schizophrenia (SCZ) is a chronic, severe and disabling mental disorder with unclear etiology and pathophysiology concerned with neuro-developmental,neurodegenerative abnormalities and cognitive impairmentslinked to behavioural changes.According to neurotrophic hypothesis, the changes result due to the abnormal regulation of neurotrophic factor, especially the decreased serum brain derived neurotrophic factor (BDNF) validated by several meta-analyses. However, the regulation of nerve growth facto",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All treatment naive patients clinically diagnosed first episode of SCZ according to ICD-10\n* Patients of either sex with age range 18-45 years\n* Treatment naïve patients\n\nExclusion Criteria:\n\n* Other Psychotic spectrum disorders (F21- F29)\n* Highly agitated/ violent/ suicidal ",
+            "endpoints": [
+              "Serum brain derived neurotrophic factor (BDNF)"
+            ],
+            "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+            "url": "https://clinicaltrials.gov/study/NCT03304457"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03881449",
+            "title": "A Multicenter, 52-week, Provider- Randomized, Pragmatic Trial to Assess the Differences in ABILIFY MYCITE - a Digital Medicine System (DMS) Versus Treatment as Usual (TAU) for Adults With Schizophrenia, Bipolar I Disorder, or Major Depression Currently Using Aripiprazole",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2019-04-04",
+            "completion_date": "2021-11",
+            "country": "United States",
+            "enrollment": 46,
+            "brief_summary": "This is a 12 month, pragmatic trial designed to assess the differences in a digital medicine system (DMS)- ABILIFY MYCITE (Aripiprazole tablets with sensor)- measuring adherence versus treatment as usual (TAU) for adult patients with schizophrenia, bipolar I disorder, and major depression. Outcomes of interest will be adherence as measured by refill rates and all-cause and psychiatric health care use. Each patient will be in the study for a duration of 12 months.\n\nAll treatment medication decisi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18 years of age or older.\n* Patients with a primary diagnosis of schizophrenia (including schizoaffective disorder), bipolar I disorder, or major depressive disorder based on the Diagnostic Statistical Manual of Mental Disorders, 5th edition (DSM-5) criteria.\n* P",
+            "endpoints": [
+              "Aripiprazole refills"
+            ],
+            "sponsor": "Durham VA Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT03881449"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01429831",
+            "title": "Aripiprazole for the Augmentation of Antidepressant Therapy: An Observational, Outpatients Study in Inadequate Responders Diagnosed With Major Depressive Disorder",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2011-09",
+            "completion_date": "2013-05",
+            "country": "Taiwan",
+            "enrollment": 300,
+            "brief_summary": "The study aims to evaluate effectiveness and tolerability of aripiprazole augmentation in outpatients with major depressive disorder who have had inadequate response to antidepressants in Taiwan clinical practice.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatients, either gender, 20-65 years of age\n* Patients diagnosed with major depressive disorder as defined by Diagnostic and Statistical Manual of Mental Disorders (DSM-IV), who fulfill both the following criteria:\n\n  * Having at least one and no more than three inadequate ",
+            "endpoints": [
+              "17-Item Hamilton Depression Rating Scale (HAM-D17) score"
+            ],
+            "sponsor": "Taiwan Otsuka Pharm. Co., Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT01429831"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00882362",
+            "title": "Long-Term Administration Study of Aripiprazole as an Adjunctive Therapy in Patients With Major Depressive Disorder",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2009-03",
+            "completion_date": "2012-07",
+            "country": "Japan",
+            "enrollment": 155,
+            "brief_summary": "To examine the safety and efficacy of long term administration of aripiprazole as an adjunctive therapy, co-administered with either a selective serotonin reuptake inhibitor (SSRI) or a selective-norepinephrine reuptake inhibitor (SNRI), in subjects with major depressive disorder.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who are either inpatients or outpatients\n2. Patients who have the ability to understand and to provide informed consent to the examination, observation, and evaluation processes specified in this protocol, and have signed the informed consent form based on a full und",
+            "endpoints": [
+              "Montgomery-Asberg Depression Rating Scale (MADRS)"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT00882362"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05554627",
+            "title": "VA Aripiprazole vs. Esketamine for Treatment of Depression VAST-D II",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2023-10-27",
+            "completion_date": "2023-10-27",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "This is an open-label, parallel-group, randomized clinical trial of up to 6 months treatment of adjunctive intranasal (IN) esketamine (ESK) vs. adjunctive aripiprazole (ARI) in Veterans with unipolar Treatment Resistant Depression (TRD). This study will assess the efficacy, safety, and acceptability of adjunctive IN ESK in comparison to ARI, one of the best studied and most widely used adjunctive therapies for TRD. The primary hypothesis is that participants receiving adjunctive IN ESK will be s",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-5 diagnosis of current episode of major depressive disorder (MDE, single or recurrent, non-psychotic) by MINI\n* TRD defined as at least 2 failed trials of antidepressants (adequate dose and duration) including the current episode and another during last 2 years\n* Current Q",
+            "endpoints": [
+              "Quick Inventory of Depressive Symptoms (QUIDS-C16)"
+            ],
+            "sponsor": "VA Office of Research and Development",
+            "url": "https://clinicaltrials.gov/study/NCT05554627"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01421342",
+            "title": "CSP #576 - VA Augmentation and Switching Treatments for Improving Depression Outcomes (VAST-D)",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2016-06",
+            "country": "United States",
+            "enrollment": 1522,
+            "brief_summary": "The overall purpose is to determine research based 'next-steps' for outpatients with major depressive disorder who have not had satisfactory outcomes to standard 'first-step' treatments. The primary objective is to compare the acute (up to 12 weeks) treatment effectiveness of augmenting an antidepressant with aripiprazole or with bupropion-slow release (SR) vs. switching treatment to bupropion-SR monotherapy on symptom remission in Veterans with Major Depressive Disorder (MDD) who have not achie",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV diagnosis of single or recurrent, non-psychotic, major depressive disorder\n* Currently taking a selective serotonin reuptake inhibitor (SSRI) or serotonin-norepinephrine reuptake inhibitor (SNRI) or mirtazapine for major depressive disorder\n* Need for \"next-step\" treatm",
+            "endpoints": [
+              "Rate of Protocol Remission of Symptoms of Major Depressive Disorder"
+            ],
+            "sponsor": "VA Office of Research and Development",
+            "url": "https://clinicaltrials.gov/study/NCT01421342"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06467474",
+            "title": "Psychoeducation for Major Depressive Disorder: Development and Evaluation of Effectiveness",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2024-03-01",
+            "completion_date": "2026-12-01",
+            "country": "Brazil",
+            "enrollment": 338,
+            "brief_summary": "The study aims to investigate the efficacy of a psychoeducational program as an adjunctive treatment for depression. The study will involve 338 patients diagnosed with Major Depressive Disorder (MDD) of moderate severity. Participants will be randomly assigned to receive either Treatment as usual (TAU) alone or TAU plus the psychoeducational program. The program consists of six weekly group sessions covering information and techniques for coping with depression. Primary outcomes include a reduct",
+            "eligibility_criteria": "Inclusion:\n\n* Both sexes;\n* Ages between 18 and 65 years old;\n* Diagnosis of Major Depressive Disorder (MDD) made by a clinician according to Diagnostic Statistical Manual criteria-5-Text Revised (DSM-5-TR)\n* Patients with Hamilton Depressive Rating Scale-17 items (HDRS-17) scores 14-23;\n* Informed ",
+            "endpoints": [
+              "Knowledge level",
+              "Depressive levels"
+            ],
+            "sponsor": "University of Sao Paulo",
+            "url": "https://clinicaltrials.gov/study/NCT06467474"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01655706",
+            "title": "Integrated Biological Markers for the Prediction of Treatment Response in Depression",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-04-23",
+            "completion_date": "2017-01",
+            "country": "Canada",
+            "enrollment": 211,
+            "brief_summary": "This study is a pilot to assess feasibility of the protocol in patients and controls across six participating sites. The goal is to identify biological markers (biomarkers)that can be measured at baseline or early in treatment to predict treatment outcome in individual patients with Major Depressive Disorder (MDD). Biomarkers of interest will be clinical (using interview and self-report measures), molecular (from blood samples) and neurobiological (using neuroimaging and EEG).",
+            "eligibility_criteria": "For Depressed patients:\n\nInclusion Criteria:\n\n* Outpatients who are 18-60 years of age\n* Meet DSM-IV-TR criteria for Major Depressive Episode in Major Depressive Disorder by the MINI\n* Episode duration ≥ 3 months\n* Free of psychotropic medications for at least 5 half-lives (i.e. 1 week for most anti",
+            "endpoints": [
+              "Change in MADRS (Montgomery-Asberg Depression Rating Scale) scores from baseline"
+            ],
+            "sponsor": "University Health Network, Toronto",
+            "url": "https://clinicaltrials.gov/study/NCT01655706"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05889234",
+            "title": "Multimodal Magnetic Resonance Imaging-based Study of Electroconvulsive Efficacy Prediction in Adolescents With Depression: a Multicenter Prospective Cohort Study",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2023-11-06",
+            "completion_date": "2026-01-01",
+            "country": "China",
+            "enrollment": 180,
+            "brief_summary": "The aim of this project is to investigate the multimodal magnetic resonance brain imaging changes in adolescents with major depressive disorder (MDD) before and after electroconvulsive therapy. Development of a predictive model for the efficacy of electroconvulsive therapy in adolescent MDD.",
+            "eligibility_criteria": "Inclusion criteria for the modified electroconvulsive therapy (MECT) and non-modified electroconvulsive therapy (Non-MECT) groups:\n\n1. Age 13-18 years.\n2. Meeting a diagnosis of depression (MDD) from the Diagnostic and Statistical Manual of Mental Disorders (DSM-5) based the Schedule for Affective D",
+            "endpoints": [
+              "Changes in CDRS-R (Children's Depression Rating Scale, Revised) scores"
+            ],
+            "sponsor": "First Affiliated Hospital of Chongqing Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT05889234"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00953745",
+            "title": "Dopaminergic Effects of Adjunctive Aripiprazole on the Brain in Treatment-Resistant Depression: A Raclopride/F-DOPA Positron Emission Tomography and Functional MRI Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-05",
+            "completion_date": "2012-12",
+            "country": "United States",
+            "enrollment": 43,
+            "brief_summary": "Aripiprazole has been approved by the FDA for augmenting ineffective/partially effective oral antidepressant therapy in patients suffering from major depression. The mechanism by which this augmentation is achieved is not known. This study has been designed to test the hypothesis that the primary mechanism of action of aripiprazole (ARP) antidepressant augmentation is through the dopaminergic pathway. Two positron emission tomography (PET) scan procedures and a functional magnetic resonance imag",
+            "eligibility_criteria": "Treatment Group\n\nInclusion Criteria:\n\n1. Subjects with known history of MDD verified using the Mini International Neuropsychiatric Interview and a Hamilton Depression Rating Scale 17-item score of at least 18\n2. Subjects must have failed to respond to one previous adequate dose-duration trial of ant",
+            "endpoints": [
+              "Fluorodopa Uptake Values in Brain Images of Aripiprazole Augmentation Responders"
+            ],
+            "sponsor": "Washington University School of Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT00953745"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00667745",
+            "title": "Lithium Use for Bipolar Disorder (LiTMUS): A Randomized Controlled Effectiveness Trial",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2008-04",
+            "completion_date": "2010-03",
+            "country": "United States",
+            "enrollment": 283,
+            "brief_summary": "This study evaluated whether lithium included as part of optimized medication treatment improved overall level of illness, symptoms of mania and depression, and quality of life in people with bipolar disorder.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Meets DSM-IV Criteria for bipolar disorder (type I or II)\n* Currently symptomatic, as defined as a Clinical Global Impressions Scale-Bipolar Version, Overall Severity Index (CGI-BP-S) of greater than or equal to 3\n* If taking or has taken lithium, must be off lithium for at le",
+            "endpoints": [
+              "Overall Change in Bipolar Illness Severity as Measured by Clinical Global Impression for Bipolar Disorder Severity (CGI-BP-S) Score",
+              "Number of Necessary Medication Adjustments"
+            ],
+            "sponsor": "National Institute of Mental Health (NIMH)",
+            "url": "https://clinicaltrials.gov/study/NCT00667745"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03643159",
+            "title": "A Multicenter, 180-day Pragmatic Clinical Trial to Measure the Difference in All-cause Hospitalizations for Patients Who Are Using Abilify MyCite Versus Virtual Matched Controls in Adults With Schizophrenia, Bipolar 1 Disorder, and Major Depressive Disorder",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2018-06-28",
+            "completion_date": "2018-10-17",
+            "country": "United States",
+            "enrollment": 2,
+            "brief_summary": "The primary objective of this pragmatic clinical trial (Main Study) was to assess the difference between all-cause hospitalizations in participants using Abilify MyCite versus virtual matched controls. In addition, secondary and exploratory objectives were to assess medication adherence, healthcare utilization and costs, and patient-reported outcomes.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants are actively enrolled in an Anthem-affiliated commercial, Medicaid, or Medicare health plan with medical and pharmacy benefits.\n* Participants must have a smartphone with data plan.\n* Participants currently prescribed aripiprazole, or appropriate for aripiprazole ",
+            "endpoints": [
+              "Difference In The Number Of Participants With All-cause Hospitalizations For Participants Using Abilify MyCite Versus Virtual Matched Controls From Baseline To Day 180"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT03643159"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02305823",
+            "title": "Phase IV Study of the Effectiveness of Aripiprazole, Quetiapine, and Ziprasidone in the Treatment of First Episode of Non-affective Psychosis Individuals Included in the First Episode Psychosis Clinical Program II (PAFIP II)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-10",
+            "completion_date": "2014-05",
+            "country": "Spain",
+            "enrollment": 203,
+            "brief_summary": "The selection of antipsychotic in early stages of the illness is mainly determined by its clinical effectiveness. Second generation antipsychotics (SGAs) are the first line drug treatment for individuals suffering from schizophrenia. It is clear that SGAs are not a homogeneous group and clinical effects and profile of side effects differ between SGAs. Differences among antipsychotics in terms of effectiveness have turned out to be a topic of increasing research interest, although comparisons bet",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 15-60 years.\n* Living in the catchment area.\n* Experiencing their first episode of psychosis.\n* No prior treatment with antipsychotic medication or, if previously treated, a total life time of adequate antipsychotic treatment of less than 6 weeks.\n* Diagnostic and Statistical ",
+            "endpoints": [
+              "Effectiveness of antipsychotics (percentage of discontinuation of the initially assigned treatment)"
+            ],
+            "sponsor": "Fundación Marques de Valdecilla",
+            "url": "https://clinicaltrials.gov/study/NCT02305823"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01111552",
+            "title": "A Multicenter, Randomized, Double-blind Study to Evaluate the Efficacy, Safety and Tolerability of an Oral Aripiprazole/Escitalopram Combination Therapy in Patients With Major Depressive Disorder",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2010-07-29",
+            "completion_date": "2011-09-27",
+            "country": "Romania, Slovakia, United States, Bulgaria, India, Australia, Philippines",
+            "enrollment": 237,
+            "brief_summary": "This will be a multicenter, randomized, double-blind study designed to assess the efficacy, safety and tolerability of an oral Aripiprazole/Escitalopram combination therapy in participants with MDD who have demonstrated an incomplete response to a prospective trial of Escitalopram, and report a treatment history for the current MDD episode of an inadequate response to at least one and no more than three adequate trials of an approved antidepressant other than Escitalopram. An inadequate response",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants with a current diagnosis of a major depressive episode. The current depressive episode must be ≥ 8 weeks in duration\n* Participants willing to discontinue all prohibited psychotropic medication starting from the time of signing the informed consent and during the ",
+            "endpoints": [
+              "Phase C: Mean Change From End of Phase B (Week 8) in the Montgomery-Asberg Depression Rating Scale (MADRS) Total Score to End of Phase C (Week 14)"
+            ],
+            "sponsor": "Otsuka Pharmaceutical Development & Commercialization, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT01111552"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00208169",
+            "title": "Aripiprazole (Abilify) Therapy for Reducing Comorbid Substance Abuse",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-03",
+            "completion_date": "2007-06",
+            "country": "United States",
+            "enrollment": 30,
+            "brief_summary": "It is hypothesized that the use of aripiprazole (Abilify) in patients with alcohol and/or drug dependence with comorbid psychiatric conditions will lead to:\n\n* Reduction in the amount of alcohol and/or drugs used as measured by the Time Line Follow Back (TLFB) and the Addiction Severity Index (ASI)\n* Reduction in cravings for alcohol and drugs as measured by the Penn Alcohol Craving Scale\n* Reduction in symptoms of co-morbid psychiatric disorders compared to before starting aripiprazole.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Ages 19 - 65\n2. Diagnosis of schizophrenia, schizoaffective disorder, bipolar disorder, major depressive disorder, or anxiety (panic disorder, generalized anxiety disorder, or post-traumatic stress disorder) as confirmed by Mini International Neuropsychiatric Interview (MINI)",
+            "endpoints": [
+              "The primary outcome measure will be days of abstinence during the 12-week follow-up, as measured by the Time Line Follow Back Scale (TLFBS) and the Addiction Severity Index (ASI)."
+            ],
+            "sponsor": "Creighton University",
+            "url": "https://clinicaltrials.gov/study/NCT00208169"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02439099",
+            "title": "Retinoic Acid Homeostasis in Neuropsychiatric Diseases",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2015-03",
+            "completion_date": "2022-12",
+            "country": "Germany",
+            "enrollment": 200,
+            "brief_summary": "It is hypothesized, that local retinoic acid (RA) homeostasis is functionally involved in the pathophysiology of depression. In a cross-sectional (and partly longitudinal) analysis, serum RA status will be assessed in healthy controls and subjects with Major Depression, Alzheimer's disease, alcoholism and in subjects with schizophrenia.",
+            "eligibility_criteria": "MDD-Group\n\nInclusion Criteria:\n\n* depressive episode in the context of unipolar major depression\n* at least 18 points or more on the BDI and HAMD-17\n\nExclusion Criteria:\n\n* additional or comorbid axis-I or axis-II disorder\n* current history of any neurological or other serious medical condition\n* an",
+            "endpoints": [
+              "Serum retinoic acid (RA) levels [nM]"
+            ],
+            "sponsor": "Charite University, Berlin, Germany",
+            "url": "https://clinicaltrials.gov/study/NCT02439099"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "37815563",
+            "title": "Diagnosis and Treatment of Bipolar Disorder: A Review.",
+            "abstract": "Bipolar disorder affects approximately 8 million adults in the US and approximately 40 million individuals worldwide.",
+            "journal": "JAMA",
+            "year": "2023",
+            "authors": [
+              "Nierenberg Andrew A",
+              "Agustini Bruno",
+              "Köhler-Forsberg Ole",
+              "Cusin Cristina",
+              "Katz Douglas"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Anticonvulsants",
+              "Antimanic Agents",
+              "Antipsychotic Agents",
+              "Bipolar Disorder",
+              "Psychotropic Drugs"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37815563/"
+          },
+          {
+            "pmid": "34986373",
+            "title": "Augmentation strategies for treatment resistant major depression: A systematic review and network meta-analysis.",
+            "abstract": "To compare the efficacy and discontinuation of augmentation agents in adult patients with treatment-resistant depression (TRD). We conducted a systematic review and network meta-analyses (NMA) to combine direct and indirect comparisons of augmentation agents.",
+            "journal": "Journal of affective disorders",
+            "year": "2022",
+            "authors": [
+              "Nuñez Nicolas A",
+              "Joseph Boney",
+              "Pahwa Mehak",
+              "Kumar Rakesh",
+              "Resendez Manuel Gardea"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Network Meta-Analysis",
+              "Research Support, N.I.H., Extramural",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Antidepressive Agents",
+              "Antipsychotic Agents",
+              "Depression",
+              "Major Depressive Disorder",
+              "Depressive Disorder, Treatment-Resistant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34986373/"
+          },
+          {
+            "pmid": "39843750",
+            "title": "Genomics yields biological and phenotypic insights into bipolar disorder.",
+            "abstract": "Bipolar disorder is a leading contributor to the global burden of disease1. Despite high heritability (60-80%), the majority of the underlying genetic determinants remain unknown2. We analysed data from participants of European, East Asian, African American and Latino ancestries (n = 158,036 cases with bipolar disorder, 2.8 million controls), combining clinical, community and self-reported samples. We identified 298 genome-wide significant loci in the multi-ancestry meta-analysis, a fourfold increase over previous findings3, and identified an ancestry-specific association in the East Asian cohort. Integrating results from fine-mapping and other variant-to-gene mapping approaches identified 36 credible genes in the aetiology of bipolar disorder. Genes prioritized through fine-mapping were enriched for ultra-rare damaging missense and protein-truncating variations in cases with bipolar disorder4, highlighting convergence of common and rare variant signals. We report differences in the ge",
+            "journal": "Nature",
+            "year": "2025",
+            "authors": [
+              "O'Connell Kevin S",
+              "Koromina Maria",
+              "van der Veen Tracey",
+              "Boltz Toni",
+              "David Friederike S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Male",
+              "Bipolar Disorder",
+              "Black or African American",
+              "Chromosome Mapping",
+              "Cohort Studies",
+              "Genetic Predisposition to Disease",
+              "Genome-Wide Association Study",
+              "Genomics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39843750/"
+          },
+          {
+            "pmid": "34002096",
+            "title": "Genome-wide association study of more than 40,000 bipolar disorder cases provides new insights into the underlying biology.",
+            "abstract": "Bipolar disorder is a heritable mental illness with complex etiology. We performed a genome-wide association study of 41,917 bipolar disorder cases and 371,549 controls of European ancestry, which identified 64 associated genomic loci. Bipolar disorder risk alleles were enriched in genes in synaptic signaling pathways and brain-expressed genes, particularly those with high specificity of expression in neurons of the prefrontal cortex and hippocampus. Significant signal enrichment was found in genes encoding targets of antipsychotics, calcium channel blockers, antiepileptics and anesthetics. Integrating expression quantitative trait locus data implicated 15 genes robustly linked to bipolar disorder via gene expression, encoding druggable targets such as HTR6, MCHR1, DCLK3 and FURIN. Analyses of bipolar disorder subtypes indicated high but imperfect genetic correlation between bipolar disorder type I and II and identified additional associated loci. Together, these results advance our un",
+            "journal": "Nature genetics",
+            "year": "2021",
+            "authors": [
+              "Mullins Niamh",
+              "Forstner Andreas J",
+              "O'Connell Kevin S",
+              "Coombes Brandon",
+              "Coleman Jonathan R I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Bipolar Disorder",
+              "Case-Control Studies",
+              "Chromosomes, Human",
+              "Genetic Predisposition to Disease",
+              "Genome, Human",
+              "Genome-Wide Association Study",
+              "Humans",
+              "Major Histocompatibility Complex",
+              "Multifactorial Inheritance",
+              "Phenotype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34002096/"
+          },
+          {
+            "pmid": "35975555",
+            "title": "The Canadian Network for Mood and Anxiety Treatments (CANMAT) Task Force Report: Serotonergic Psychedelic Treatments for Major Depressive Disorder.",
+            "abstract": "Serotonergic psychedelics are re-emerging as potential novel treatments for several psychiatric disorders including major depressive disorder. The Canadian Network for Mood and Anxiety Treatments (CANMAT) convened a task force to review the evidence and provide a consensus recommendation for the clinical use of psychedelic treatments for major depressive disorder.",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "2023",
+            "authors": [
+              "Rosenblat Joshua D",
+              "Husain M Ishrat",
+              "Lee Yena",
+              "McIntyre Roger S",
+              "Mansur Rodrigo B"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hallucinogens",
+              "Psilocybin",
+              "Major Depressive Disorder",
+              "Canada",
+              "Anxiety",
+              "Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35975555/"
+          },
+          {
+            "pmid": "37149344",
+            "title": "Pharmacotherapy for Treatment-Resistant Depression: Antidepressants and Atypical Antipsychotics.",
+            "abstract": "Treatment-resistant depression (TRD) affects one in three patients with major depressive disorder and is associated with increased risk of all-cause mortality. Studies of real-world practices suggest that antidepressant monotherapy continues to be the most widely used treatment after inadequate response to a first-line treatment. However, rates of remission with antidepressants in TRD are suboptimal. Atypical antipsychotics are the most widely studied augmentation agent and aripiprazole, brexpiprazole, cariprazine, quetiapine extended-release, and olanzapine-fluoxetine combination are approved for depression. Benefits of using atypical antipsychotics for TRD has to be weighted against their potential adverse events, such as weight gain, akathisia, and tardive dyskinesia.",
+            "journal": "The Psychiatric clinics of North America",
+            "year": "2023",
+            "authors": [
+              "Vas Collin",
+              "Jain Ayush",
+              "Trivedi Mili",
+              "Jha Manish Kumar",
+              "Mathew Sanjay J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Antipsychotic Agents",
+              "Major Depressive Disorder",
+              "Depression",
+              "Antidepressive Agents",
+              "Quetiapine Fumarate",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37149344/"
+          },
+          {
+            "pmid": "36961650",
+            "title": "A Randomized, Open-Label, Multiple-Dose, Parallel-Arm, Pivotal Study to Evaluate the Safety, Tolerability, and Pharmacokinetics of Aripiprazole 2-Month Long-Acting Injectable in Adults With Schizophrenia or Bipolar I Disorder.",
+            "abstract": "Aripiprazole 2-month ready-to-use 960 mg (Ari 2MRTU 960) is a new long-acting injectable antipsychotic formulation for gluteal administration every 2 months, currently being investigated for the treatment of schizophrenia and bipolar I disorder (BP-I). The objectives of this trial were to evaluate the safety and tolerability of Ari 2MRTU 960, and the similarity of aripiprazole plasma concentrations following administration of Ari 2MRTU 960 or aripiprazole once-monthly 400 mg (AOM 400), in adults with schizophrenia or BP-I.",
+            "journal": "CNS drugs",
+            "year": "2023",
+            "authors": [
+              "Harlin Matthew",
+              "Yildirim Murat",
+              "Such Pedro",
+              "Madera-McDonough Jessica",
+              "Jan Michael"
+            ],
+            "pub_types": [
+              "Randomized Controlled Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Male",
+              "Humans",
+              "Female",
+              "Middle Aged",
+              "Aripiprazole",
+              "Schizophrenia",
+              "Antipsychotic Agents",
+              "Bipolar Disorder",
+              "Injections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36961650/"
+          },
+          {
+            "pmid": "38219278",
+            "title": "Comparison of brexpiprazole, aripiprazole, and placebo for Japanese major depressive disorder: A systematic review and network meta-analysis.",
+            "abstract": "This systematic review and frequentist network meta-analysis used random-effects models is conducted to determine whether there are differences in the efficacy, acceptability, tolerability, and safety profiles of brexpiprazole (BRE) and aripiprazole (ARI) for Japanese with major depressive disorder (MDD) who were inadequately responsive to antidepressants.",
+            "journal": "Neuropsychopharmacology reports",
+            "year": "2024",
+            "authors": [
+              "Kishi Taro",
+              "Sakuma Kenji",
+              "Saito Takeo",
+              "Nakagawa Atsuo",
+              "Kato Masaki"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Aripiprazole",
+              "Major Depressive Disorder",
+              "Japan",
+              "Psychomotor Agitation",
+              "Weight Gain",
+              "Randomized Controlled Trials as Topic",
+              "Thiophenes",
+              "Quinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38219278/"
+          },
+          {
+            "pmid": "31043756",
+            "title": "Genome-wide association study identifies 30 loci associated with bipolar disorder.",
+            "abstract": "Bipolar disorder is a highly heritable psychiatric disorder. We performed a genome-wide association study (GWAS) including 20,352 cases and 31,358 controls of European descent, with follow-up analysis of 822 variants with P < 1 × 10-4 in an additional 9,412 cases and 137,760 controls. Eight of the 19 variants that were genome-wide significant (P < 5 × 10-8) in the discovery GWAS were not genome-wide significant in the combined analysis, consistent with small effect sizes and limited power but also with genetic heterogeneity. In the combined analysis, 30 loci were genome-wide significant, including 20 newly identified loci. The significant loci contain genes encoding ion channels, neurotransmitter transporters and synaptic components. Pathway analysis revealed nine significantly enriched gene sets, including regulation of insulin secretion and endocannabinoid signaling. Bipolar I disorder is strongly genetically correlated with schizophrenia, driven by psychosis, whereas bipolar II diso",
+            "journal": "Nature genetics",
+            "year": "2019",
+            "authors": [
+              "Stahl Eli A",
+              "Breen Gerome",
+              "Forstner Andreas J",
+              "McQuillin Andrew",
+              "Ripke Stephan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, N.I.H., Intramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Bipolar Disorder",
+              "Case-Control Studies",
+              "Major Depressive Disorder",
+              "Female",
+              "Genetic Loci",
+              "Genetic Predisposition to Disease",
+              "Genome-Wide Association Study",
+              "Humans",
+              "Male",
+              "Polymorphism, Single Nucleotide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31043756/"
+          },
+          {
+            "pmid": "38669232",
+            "title": "Efficacy and safety of aripiprazole or bupropion augmentation and switching in patients with treatment-resistant depression or major depressive disorder: A systematic review and meta-analysis of randomized controlled trials.",
+            "abstract": "To report the first and largest systematic review and meta-analysis of randomized controlled trials (RCT) to evaluate the efficacy and safety of aripiprazole or bupropion augmentation and switching in patients with treatment-resistant depression (TRD) or major depressive disorder(MDD).",
+            "journal": "PloS one",
+            "year": "2024",
+            "authors": [
+              "Ji Mengjia",
+              "Feng Junfei",
+              "Liu Guirong"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aripiprazole",
+              "Bupropion",
+              "Humans",
+              "Major Depressive Disorder",
+              "Randomized Controlled Trials as Topic",
+              "Depressive Disorder, Treatment-Resistant",
+              "Treatment Outcome",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38669232/"
+          },
+          {
+            "pmid": "35545157",
+            "title": "Evidence-based treatment strategies for rapid cycling bipolar disorder, a systematic review.",
+            "abstract": "Rapid cycling is a phase of bipolar disorder with increased episode frequencies. It is a severe and disabling condition that often poses a major challenge to the clinician. The aim of this paper is to give an overview of the evidence-based treatment options for rapid cycling.",
+            "journal": "Journal of affective disorders",
+            "year": "2022",
+            "authors": [
+              "Roosen L",
+              "Sienaert P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Antipsychotic Agents",
+              "Aripiprazole",
+              "Bipolar Disorder",
+              "Humans",
+              "Lamotrigine",
+              "Olanzapine",
+              "Quetiapine Fumarate",
+              "Valproic Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35545157/"
+          },
+          {
+            "pmid": "36855876",
+            "title": "Pharmacotherapies for Treatment-Resistant Depression: How Antipsychotics Fit in the Rapidly Evolving Therapeutic Landscape.",
+            "abstract": "One in three adults with major depressive disorder (MDD) do not experience clinically significant improvement after multiple sequential courses of antidepressants and have treatment-resistant depression (TRD). The presence of TRD contributes to the morbidity and excess mortality associated with MDD and has been linked to significantly increased health care expenses. In the absence of a consensus definition of TRD, this report takes a broad approach by considering inadequate response to one or more courses of antidepressants and focuses on atypical antipsychotics that are approved by the U.S. Food and Drug Administration for treatment of depression (aripiprazole, brexpiprazole, cariprazine, extended-release quetiapine, and olanzapine-fluoxetine combination). While multiple acute-phase studies have demonstrated the efficacy of these medications in improving depressive symptoms, clinically meaningful improvement (i.e., remission) remains limited, with significant concerns about side effec",
+            "journal": "The American journal of psychiatry",
+            "year": "2023",
+            "authors": [
+              "Jha Manish K",
+              "Mathew Sanjay J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "United States",
+              "Adult",
+              "Humans",
+              "Antipsychotic Agents",
+              "Major Depressive Disorder",
+              "Depression",
+              "Depressive Disorder, Treatment-Resistant",
+              "Aripiprazole",
+              "Drug-Related Side Effects and Adverse Reactions"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36855876/"
+          },
+          {
+            "pmid": "35861202",
+            "title": "Systematic review and meta-analysis of augmentation and combination treatments for early-stage treatment-resistant depression.",
+            "abstract": "Major depressive disorder (MDD) is a highly burdensome health condition, for which there are numerous accepted pharmacological and psychological interventions. Adjunctive treatment (augmentation/combination) is recommended for the ~50% of MDD patients who do not adequately respond to first-line treatment. We aimed to evaluate the current evidence for concomitant approaches for people with early-stage treatment-resistant depression (TRD; defined below).",
+            "journal": "Journal of psychopharmacology (Oxford, England)",
+            "year": "2023",
+            "authors": [
+              "Scott Fraser",
+              "Hampsey Elliot",
+              "Gnanapragasam Sam",
+              "Carter Ben",
+              "Marwood Lindsey"
+            ],
+            "pub_types": [
+              "Meta-Analysis",
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Aripiprazole",
+              "Risperidone",
+              "Depression",
+              "Major Depressive Disorder",
+              "Ketamine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35861202/"
+          },
+          {
+            "pmid": "38916833",
+            "title": "Lithium, the gold standard drug for bipolar disorder: analysis of current clinical studies.",
+            "abstract": "Lithium is the gold standard drug in the treatment of bipolar disorder. Despite increasing scientific interest, relatively few patients with bipolar disorder receive lithium therapy. Lithium is the only drug that is effective in the prophylaxis of manic, depressive, and suicidal symptoms. Lithium therapy is also associated with a variety of adverse drug reactions and the need for therapeutic drug monitoring. Numerous studies have focussed on the efficacy and safety of both lithium-monotherapy and lithium-add-on therapy. The aim of this study is to provide a systematic overview of clinical studies on lithium therapy for bipolar disorder from the last 7 years and to present a critical analysis of these studies. The results provide an up-to-date overview of the efficacy, tolerability, and safety of lithium therapy for bipolar disorder and thus improve the pharmacotherapy of bipolar disorder. A total of 59 studies were analysed using various analysis parameters. The studies were also categ",
+            "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+            "year": "2024",
+            "authors": [
+              "Airainer Magdalena",
+              "Seifert Roland"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Bipolar Disorder",
+              "Humans",
+              "Lithium Compounds",
+              "Antimanic Agents",
+              "Antipsychotic Agents",
+              "Drug Therapy, Combination",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38916833/"
+          },
+          {
+            "pmid": "34238049",
+            "title": "Efficacy and Tolerability of Combination Treatments for Major Depression: Antidepressants plus Second-Generation Antipsychotics vs. Esketamine vs. Lithium.",
+            "abstract": "Successful treatment of major depressive disorder (MDD) can be challenging, and failures (\"treatment-resistant depression\" [TRD]) are frequent. Steps to address TRD include increasing antidepressant dose, combining antidepressants, adding adjunctive agents, or using nonpharmacological treatments. Their relative efficacy and tolerability remain inadequately tested. In particular, the value and safety of increasingly employed second-generation antipsychotics (SGAs) and new esketamine, compared to lithium as antidepressant adjuncts remain unclear.",
+            "journal": "Journal of psychopharmacology (Oxford, England)",
+            "year": "2021",
+            "authors": [
+              "Vázquez Gustavo H",
+              "Bahji Anees",
+              "Undurraga Juan",
+              "Tondo Leonardo",
+              "Baldessarini Ross J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Antipsychotic Agents",
+              "Major Depressive Disorder",
+              "Depressive Disorder, Treatment-Resistant",
+              "Dose-Response Relationship, Drug",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Ketamine",
+              "Lithium Compounds",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34238049/"
+          },
+          {
+            "pmid": "30917990",
+            "title": "Comparative efficacy and acceptability of non-surgical brain stimulation for the acute treatment of major depressive episodes in adults: systematic review and network meta-analysis.",
+            "abstract": "To estimate the comparative clinical efficacy and acceptability of non-surgical brain stimulation for the acute treatment of major depressive episodes in adults.",
+            "journal": "BMJ (Clinical research ed.)",
+            "year": "2019",
+            "authors": [
+              "Mutz Julian",
+              "Vipulananthan Vijeinika",
+              "Carter Ben",
+              "Hurlemann René",
+              "Fu Cynthia H Y"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Major Depressive Disorder",
+              "Electroconvulsive Therapy",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Randomized Controlled Trials as Topic",
+              "Transcranial Direct Current Stimulation",
+              "Transcranial Magnetic Stimulation",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30917990/"
+          },
+          {
+            "pmid": "35510505",
+            "title": "Efficacy and safety/tolerability of antipsychotics in the treatment of adult patients with major depressive disorder: a systematic review and meta-analysis.",
+            "abstract": "Antipsychotics are widely used in the treatment of major depressive disorder (MDD), but there has been no comprehensive meta-analytic assessment that examined their use as monotherapy and adjunctive therapy.",
+            "journal": "Psychological medicine",
+            "year": "2023",
+            "authors": [
+              "Kishimoto Taishiro",
+              "Hagi Katsuhiko",
+              "Kurokawa Shunya",
+              "Kane John M",
+              "Correll Christoph U"
+            ],
+            "pub_types": [
+              "Meta-Analysis",
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Antipsychotic Agents",
+              "Quetiapine Fumarate",
+              "Risperidone",
+              "Major Depressive Disorder",
+              "Amisulpride",
+              "Olanzapine",
+              "Benzodiazepines",
+              "Dibenzothiazepines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35510505/"
+          },
+          {
+            "pmid": "25963405",
+            "title": "Antipsychotics as antidepressants.",
+            "abstract": "Three second-generation antipsychotic (SGA) agents have received FDA approval for adjunctive treatment, to antidepressant, of major depressive disorder: quetiapine, aripiprazole, and olanzapine. Additionally, quetiapine and lurasidone have been approved for the treatment of bipolar depression. There are data suggesting that quetiapine is effective for major depressive disorder as monotherapy. These agents are effective for depression only at subantipsychotic doses. Receptor profiles predict that all SGA will have anxiolytic effects as subantipsychotic doses but that all will be dysphorogenic at full antipsychotic doses (i.e., produce a depression-like clinical picture). The antidepressant effect appears to be unique to some agents, with direct evidence of insignificant antidepressant action for ziprasidone. Three general principles can guide the use of antipsychotics as antidepressants: (i) All SGAs may have anxiolytic effects; (ii) full antipsychotic doses are dysphorogenic, and there",
+            "journal": "Asia-Pacific psychiatry : official journal of the Pacific Rim College of Psychiatrists",
+            "year": "2016",
+            "authors": [
+              "Roberts Rona Jeannie",
+              "Lohano Kavita K",
+              "El-Mallakh Rif S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Antipsychotic Agents",
+              "Bipolar Disorder",
+              "Major Depressive Disorder",
+              "Humans",
+              "Off-Label Use",
+              "United States",
+              "United States Food and Drug Administration"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25963405/"
+          },
+          {
+            "pmid": "34167174",
+            "title": "Long-term Efficacy and Tolerability of Adjunctive Aripiprazole for Major Depressive Disorder: Systematic Review and Meta-analysis.",
+            "abstract": "Objective: To assess the long-term efficacy and safety of aripiprazole as an augmentation strategy for major depressive disorder (MDD). Data Sources: Ovid MEDLINE, PsycInfo, and Embase databases were systematically searched for clinical studies of adult patients with MDD on long-term aripiprazole augmentation. Study Selection and Data Extraction: Long-term follow-up was defined as ≥ 6 months. Primary outcome was remission from depression. Secondary outcome was incidence of adverse effects. Results: Four open-label studies were included in this review. Random effects meta-analysis of 3 studies (n = 2,117) revealed a weighted average remission proportion of 0.33 (0.16-0.51), showing trend of improved response with duration of treatment. Three studies (n = 2,231) provided adverse effects data. Medically significant weight gain (25%-28% participants) was higher in studies with patients receiving doses ≥ 5 mg and lower (3.5%) in a study using doses < 5 mg. Akathisia (15%-16%), insomnia (12%",
+            "journal": "The primary care companion for CNS disorders",
+            "year": "2021",
+            "authors": [
+              "Seshadri Ashok",
+              "Wermers Michaela E",
+              "Habermann Timothy J",
+              "Singh Balwinder"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antipsychotic Agents",
+              "Aripiprazole",
+              "Major Depressive Disorder",
+              "Humans",
+              "Tardive Dyskinesia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34167174/"
+          },
+          {
+            "pmid": "37746943",
+            "title": "Comparative efficacy and safety of 4 atypical antipsychotics augmentation treatment for major depressive disorder in adults: A systematic review and network meta-analysis.",
+            "abstract": "Atypical antipsychotic (AAP) augmentation is an alternative strategy for patients with major depressive disorder (MDD) who had an inadequate response to antidepressant therapy (ADT). We aimed to compare and rank the efficacy and safety of 4 AAPs in the adjuvant treatment of MDD.",
+            "journal": "Medicine",
+            "year": "2023",
+            "authors": [
+              "Wang Jia",
+              "Li Wenwei",
+              "Li Mengting",
+              "Wu Hanbiao",
+              "Qiu Zhikun"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Major Depressive Disorder",
+              "Antipsychotic Agents",
+              "Quetiapine Fumarate",
+              "Aripiprazole",
+              "Olanzapine",
+              "Adjuvants, Immunologic",
+              "Adjuvants, Pharmaceutic",
+              "Thiophenes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37746943/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "major affective disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20major%20affective%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "gaze palsy, familial horizontal, with progressive scoliosis",
+        "txgnn_score": 0.9960493445396424,
+        "txgnn_rank": 1005,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "gaze palsy, familial horizontal, with progressive scoliosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20gaze%20palsy%2C%20familial%20horizontal%2C%20with%20progressive%20scoliosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "asperger syndrome, susceptibility to",
+        "txgnn_score": 0.9952138662338256,
+        "txgnn_rank": 1163,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "asperger syndrome, susceptibility to",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20asperger%20syndrome%2C%20susceptibility%20to"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Phelan-McDermid syndrome",
+        "txgnn_score": 0.994390904903412,
+        "txgnn_rank": 1288,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "Phelan-McDermid syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20Phelan-McDermid%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "amelocerebrohypohidrotic syndrome",
+        "txgnn_score": 0.99339759349823,
+        "txgnn_rank": 1447,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "amelocerebrohypohidrotic syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20amelocerebrohypohidrotic%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "distal 17p13.3 microdeletion syndrome",
+        "txgnn_score": 0.9933931231498718,
+        "txgnn_rank": 1451,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "distal 17p13.3 microdeletion syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20distal%2017p13.3%20microdeletion%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "trichotillomania",
+        "txgnn_score": 0.9926179051399232,
+        "txgnn_rank": 1616,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00947154",
+            "title": "Open Label Trial of Aripiprazole in Trichotillomania.",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-07",
+            "completion_date": "2010-07",
+            "country": "United States",
+            "enrollment": 12,
+            "brief_summary": "No medication has been reliably shown to benefit those suffering from trichotillomania (compulsive hair pulling). The current study proposes to evaluate the effectiveness of the medication aripiprazole for treatment of trichotillomania (TTM). Patients will take a gradually increased dose of the medication in an open-label study to see whether it relieves hair-pulling urges, decreases hair pulling behavior and is well tolerated.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nEligible patients:\n\n* Must be outpatients between the ages of 18 and 65 at the start of study\n* May be male or female\n* Have DSM-IV trichotillomania of at least 6 months duration\n* Allowed psychotropic medications are limited to:\n\n  * SSRIs (citalopram, escitalopram, fluoxetine,",
+            "endpoints": [
+              "Mass General Hair Pulling Scale",
+              "Mass General Hair Pulling Scale, Actual Pulling Subscale"
+            ],
+            "sponsor": "Stanford University",
+            "url": "https://clinicaltrials.gov/study/NCT00947154"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05545891",
+            "title": "A Double-Blind, Placebo Controlled Study of Aripiprazole in Body Focused Repetitive Behaviors",
+            "phase": "PHASE2",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-06",
+            "completion_date": "2027-12",
+            "country": "United States",
+            "enrollment": 100,
+            "brief_summary": "This study is 6 weeks long and involves subjects taking aripiprazole or placebo. If they are randomly assigned to the aripiprazole arm and are eligible to participate in the study, they will begin by taking 5mg once daily of aripiprazole for two weeks, then 10mg once daily for the remaining three weeks. Efficacy and safety measures will be performed at each visit. Participants will be randomized to receive either aripiprazole or placebo on a 1:1 basis. This blinding will be maintained by the IDS",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Men and women age ≥18 years\n2. current DSM-5 trichotillomania or skin picking disorder; and\n3. Ability to understand and sign the consent form.\n\nExclusion Criteria:\n\n1. Unstable medical illness based on history or clinically significant abnormalities on baseline physical exam",
+            "endpoints": [
+              "NIMH Symptom Severity Scale (for TTM or Skin Picking)"
+            ],
+            "sponsor": "University of Chicago",
+            "url": "https://clinicaltrials.gov/study/NCT05545891"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38227009",
+            "title": "Aripiprazole and its adverse effects in the form of impulsive-compulsive behaviors: A systematic review of case reports.",
+            "abstract": "Aripiprazole is an efficacious treatment for both the positive and negative symptoms of schizophrenia and is also commonly used as a mood stabilizer. It is associated with better tolerability compared with other antipsychotics. However, there are reports of patients who experience problem gambling, hypersexuality, obsessive-compulsive symptoms, and other impulsive and/or compulsive behaviors as a result of aripiprazole administration and/or dosage increase. We aimed to do a systematic review of case reports published in this regard. After screening more than 6000 titles and abstracts in ten scientific search engines, we found 35 related records comprising 59 cases. The majority of cases (n = 42, 71.18%) were male, the mean age was 33.83 years (± 13.40), and the average daily dose of aripiprazole was 11.63 mg (± 6.94). The results of our review showed that the most frequently published impulsivity adverse effect of aripiprazole is gambling, followed by hypersexuality, obsessive-compulsi",
+            "journal": "Psychopharmacology",
+            "year": "2024",
+            "authors": [
+              "Akbari Mehdi",
+              "Jamshidi Shiva",
+              "Sheikhi Sonay",
+              "Alijani Farhad",
+              "Kafshchi Parsa"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Female",
+              "Adult",
+              "Aripiprazole",
+              "Antipsychotic Agents",
+              "Impulsive Behavior",
+              "Compulsive Behavior",
+              "Disruptive, Impulse Control, and Conduct Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38227009/"
+          },
+          {
+            "pmid": "26222972",
+            "title": "Treatment of Huntington Disease and Comorbid Trichotillomania With Aripiprazole.",
+            "abstract": "",
+            "journal": "The Journal of neuropsychiatry and clinical neurosciences",
+            "year": "2015",
+            "authors": [
+              "Howard Andrew K",
+              "Krishnamoorthy Ashok",
+              "Leavitt Blair R",
+              "Raymond Lynn A",
+              "Weissman Cory R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antipsychotic Agents",
+              "Aripiprazole",
+              "Female",
+              "Humans",
+              "Huntington Disease",
+              "Trichotillomania"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26222972/"
+          },
+          {
+            "pmid": "20175807",
+            "title": "Improvement of restless legs syndrome and trichotillomania with aripiprazole.",
+            "abstract": "The case report describes a 39-year-old woman with restless legs syndrome (RLS) and trichotillomania (TTM). She was treated with venlafaxine and clonazepam with partial remission of RLS and no response for TTM. When aripiprazole was added to the clonazepam both RLS and TTM fully remitted. We suggest that aripiprazole might be worth investigating for treatment of these disorders.",
+            "journal": "Journal of clinical pharmacy and therapeutics",
+            "year": "2009",
+            "authors": [
+              "Virit O",
+              "Selek S",
+              "Savas H A",
+              "Kokaçya H"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antipsychotic Agents",
+              "Aripiprazole",
+              "Female",
+              "Humans",
+              "Piperazines",
+              "Quinolones",
+              "Restless Legs Syndrome",
+              "Trichotillomania"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20175807/"
+          },
+          {
+            "pmid": "17941109",
+            "title": "Reversal of trichotillomania with aripiprazole.",
+            "abstract": "Trichotillomania (TTM) is a common psychiatric illness with marked chronicity and comorbidity that significantly impacts on psychosocial functioning and physical features of the sufferer. Treatment studies, to date, using behavioral and pharmacological interventions alone or simultaneously, are equivocal with few showing a sustained cessation of hair-plucking. In this report of a single patient with treatment resistant TTM, the sole use of the atypical neuroleptic Aripiprazole resulted in a cessation of hair-plucking maintained, at the time of reporting, for a period of 24 months. This finding, a first with Aripiprazole, warrants further investigation of this drug in the treatment of TTM.",
+            "journal": "Depression and anxiety",
+            "year": "2008",
+            "authors": [
+              "Jefferys Don",
+              "Burrows Graham"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antipsychotic Agents",
+              "Aripiprazole",
+              "Major Depressive Disorder",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Morpholines",
+              "Piperazines",
+              "Quinolones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17941109/"
+          },
+          {
+            "pmid": "30559522",
+            "title": "ISMP Adverse Drug Reactions: Lithium-Induced Cardiomyopathy Fixed Drug Eruption Due to Cetirizine, Levocetirizine, and Hydroxyzine Nivolumab-Induced Myasthenia Gravis Nivolumab-Induced Cholangitic Liver Disease Torsade de Pointes Caused by Psychiatric Polypharmacy Trichotillomania Associated With Aripiprazole.",
+            "abstract": "The purpose of this feature is to heighten awareness of specific adverse drug reactions (ADRs), discuss methods of prevention, and promote reporting of ADRs to the US Food and Drug Administration's (FDA) MedWatch program (800-FDA-1088). If you have reported an interesting, preventable ADR to MedWatch, please consider sharing the account with our readers. E-mail Dr. Mancano michael.mancano@temple.edu). Your report will be published anonymously unless otherwise requested. This feature is provided by the Institute for Safe Medication Practices (ISMP) in cooperation with the FDA's MedWatch program and Temple University School of Pharmacy. ISMP is an FDA MedWatch partner.",
+            "journal": "Hospital pharmacy",
+            "year": "2018",
+            "authors": [
+              "Mancano Michael A",
+              "Bulow Jacqueline Emily Von",
+              "Ro Myungsun"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30559522/"
+          },
+          {
+            "pmid": "38376368",
+            "title": "From tugs to treatments: a systematic review on pharmacological interventions for trichotillomania.",
+            "abstract": "Trichotillomania (TTM) is a psychiatric disorder with dermatological consequences, characterized by recurrent hair pulling. It affects 1-3% of the population, and often coexists with other psychiatric disorders, leading to emotional distress. Effective management of TTM can be challenging because of underdiagnosis, symptom heterogeneity and stigma. Pharmacological interventions, including selective serotonin reuptake inhibitors and N-acetyl cysteine (NAC) are commonly used.",
+            "journal": "Clinical and experimental dermatology",
+            "year": "2024",
+            "authors": [
+              "Ghani Hira",
+              "Podwojniak Alicia",
+              "Tan Isabella J",
+              "Fliorent Rebecca",
+              "Jafferany Mohammad"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Trichotillomania",
+              "Humans",
+              "Acetylcysteine",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Aripiprazole",
+              "Behavior Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38376368/"
+          },
+          {
+            "pmid": "29257789",
+            "title": "Trichotillomania Associated With Aripiprazole: A Case Report.",
+            "abstract": "",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2018",
+            "authors": [
+              "Argüz Çildir Deniz",
+              "Kalyoncu Tuğba"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adolescent Behavior",
+              "Aripiprazole",
+              "Conduct Disorder",
+              "Dopamine Agonists",
+              "Humans",
+              "Irritable Mood",
+              "Male",
+              "Trichotillomania"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29257789/"
+          },
+          {
+            "pmid": "21694623",
+            "title": "Open-label trial of aripiprazole in the treatment of trichotillomania.",
+            "abstract": "Serotonin reuptake inhibitors have been disappointing in the treatment of trichotillomania (TTM). Recent evidence suggests that medications that modulate dopamine may be helpful in this disorder.",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2011",
+            "authors": [
+              "White Matthew P",
+              "Koran Lorrin M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aripiprazole",
+              "Female",
+              "Humans",
+              "Middle Aged",
+              "Piperazines",
+              "Prospective Studies",
+              "Quinolones",
+              "Treatment Outcome",
+              "Trichotillomania"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21694623/"
+          },
+          {
+            "pmid": "26089954",
+            "title": "Treatment of puberty trichotillomania with low-dose aripiprazole.",
+            "abstract": "The present case is of a 14-year-old female with trichotillomania (TTM) that was treated with a low dose of aripiprazole (ARP) 1.5 mg/day. To our knowledge, this is the first published report to show an improvement of pubertal TTM using an ultra-low dose of ARP. In this case, a 50-mg fluvoxamine monotherapy for 2 years and a subsequent 4-month comprehensive cognitive behavioral therapy (CBT) monotherapy did not improve her hair-pulling symptoms. However, the treatment with a low-dose ARP of 1.5 mg/day dramatically improved her TTM symptoms without extrapyramidal symptoms. In this regard, low-dose ARP treatment for TTM might be a safe alternative to antidepressants, which carry the risk of agitation with suicidal ideation in adolescents.",
+            "journal": "Annals of general psychiatry",
+            "year": "2015",
+            "authors": [
+              "Sasaki Tsuyoshi",
+              "Iyo Masaomi"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26089954/"
+          },
+          {
+            "pmid": "36717540",
+            "title": "The Sapap3-/- mouse reconsidered as a comorbid model expressing a spectrum of pathological repetitive behaviours.",
+            "abstract": "Symptom comorbidity is present amongst neuropsychiatric disorders with repetitive behaviours, complicating clinical diagnosis and impeding appropriate treatments. This is of particular importance for obsessive-compulsive disorder (OCD) and Tourette syndrome. Here, we meticulously analysed the behaviour of Sapap3 knockout mice, the recent rodent model predominantly used to study compulsive-like behaviours, and found that its behaviour is more complex than originally and persistently described. Indeed, we detected previously unreported elements of distinct pathologically repetitive behaviours, which do not form part of rodent syntactic cephalo-caudal self-grooming. These repetitive behaviours include sudden, rapid body and head/body twitches, resembling tic-like movements. We also observed that another type of repetitive behaviour, aberrant hindpaw scratching, might be responsible for the flagship-like skin lesions of this mouse model. In order to characterise the symptomatological natur",
+            "journal": "Translational psychiatry",
+            "year": "2023",
+            "authors": [
+              "Lamothe Hugues",
+              "Schreiweis Christiane",
+              "Mondragón-González Lizbeth Sirenia",
+              "Rebbah Sana",
+              "Lavielle Oriana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Aripiprazole",
+              "Comorbidity",
+              "Nerve Tissue Proteins",
+              "Obsessive-Compulsive Disorder",
+              "Tics",
+              "Tourette Syndrome",
+              "Mice, Knockout",
+              "Disease Models, Animal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36717540/"
+          },
+          {
+            "pmid": "37632851",
+            "title": "Treatments for Primary Delusional Infestation: Systematic Review.",
+            "abstract": "Delusional infestation, also known as Ekbom syndrome, is a rare delusional disorder characterized by the fixed belief that one is infested with parasites, worms, insects, or other organisms. Although delusional infestation is a psychiatric condition, patients often consult dermatologists with skin findings, and it is currently unclear what treatments are recommended for this disorder.",
+            "journal": "JMIR dermatology",
+            "year": "2022",
+            "authors": [
+              "Lu Justin Di",
+              "Gotesman Ryan D",
+              "Varghese Shawn",
+              "Fleming Patrick",
+              "Lynde Charles W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37632851/"
+          },
+          {
+            "pmid": "22104636",
+            "title": "The efficacy of low-dose aripiprazole treatment for trichotillomania.",
+            "abstract": "This case report describes a 20-year-old man with trichotillomania (TTM). The patient was first treated with paroxetine and carbocisteine without response. Following the addition of aripiprazole (3 mg/d) to the other medications, the TTM was fully alleviated. After stopping treatment, 1.5 to 3.0 mg/d of aripiprazole alone improved TMM symptoms upon recurrence. These findings indicate that further investigation of low-dose aripiprazole for the treatment of TTM is warranted.",
+            "journal": "Clinical neuropharmacology",
+            "year": "2011",
+            "authors": [
+              "Yasui-Furukori Norio",
+              "Kaneko Sunao"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aripiprazole",
+              "Humans",
+              "Male",
+              "Piperazines",
+              "Quinolones",
+              "Treatment Outcome",
+              "Trichotillomania",
+              "Young Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22104636/"
+          },
+          {
+            "pmid": "26901889",
+            "title": "[A Case with Multiple Comorbidities of Obsessive-Compulsive and Related Disorders].",
+            "abstract": "Obsessive-compulsive and related disorders (OCRDs) have been introduced in a revision to DSM-5 as a novel category that is distinct from other anxiety disorders in DSM-IV. OCRDs consist of 5 primary disorders: obsessive-compulsive disorder (OCD), body dysmorphic disorder (BDD), hoarding disorder (HD), skin picking disorder (SPD), and hair pulling disorder (HPD), which share core clinical features such as preoccupation or recurrent thoughts and/or repetitive behaviors. Repetitive behaviors in BDD and HD can be differentially characterized by the presence of cognitive components associated with preceding anxiety from those in SPD or HPD, which are only observed as motoric components that regulate emotions or alleviate tension. Thus, the validity of the OCRD category and specific interrelationships between each OCRD remain uncertain. In the present study, therefore, we presented a case of multiple comorbidities of OCRDs in order to discuss the nature of the OCRD category. Our patient was ",
+            "journal": "Seishin shinkeigaku zasshi = Psychiatria et neurologia Japonica",
+            "year": "2015",
+            "authors": [
+              "Arikawa Ayako",
+              "Mito Hironori",
+              "Motoyama Mikuni",
+              "Yamanishi Kyosuke",
+              "Hayashida Kazuhisa"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antipsychotic Agents",
+              "Aripiprazole",
+              "Body Dysmorphic Disorders",
+              "Clonazepam",
+              "Combined Modality Therapy",
+              "Comorbidity",
+              "Diagnostic and Statistical Manual of Mental Disorders",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26901889/"
+          },
+          {
+            "pmid": "32202548",
+            "title": "[Psychiatric and psychological support for an adolescent woman with chromosome 22 deletion syndrome and intellectual disability: a good outcome].",
+            "abstract": "Longitudinal description of a clinical case of a woman with Chromosome 22 deletion syndrome (22q11.2DS), mild intellectual disability (ID) and associated psychiatric disorders, treated at \"Adolescent Outpatient Service\", at the ASST Monza DSMD from 2011 to 2017.",
+            "journal": "Rivista di psichiatria",
+            "year": "2020",
+            "authors": [
+              "Santambrogio Jacopo",
+              "Colmegna Fabrizia",
+              "Di Brita Carmen",
+              "Merra Annalisa",
+              "Bertelli Marco O"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Activities of Daily Living",
+              "Adult",
+              "Agoraphobia",
+              "Antipsychotic Agents",
+              "Chromosome Deletion",
+              "Chromosomes, Human, Pair 22",
+              "DiGeorge Syndrome",
+              "Family Therapy",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32202548/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "trichotillomania",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20trichotillomania"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Malan overgrowth syndrome",
+        "txgnn_score": 0.9925734996795654,
+        "txgnn_rank": 1629,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "Malan overgrowth syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20Malan%20overgrowth%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "retinal dystrophy with or without extraocular anomalies",
+        "txgnn_score": 0.9924646615982056,
+        "txgnn_rank": 1658,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9416661",
+            "title": "Orbital infections.",
+            "abstract": "Orbital infections account for the majority of primary intraorbital disease processes. Sinusitis is the most common etiology. Five stages of cellulitis secondary to sinusitis have been described. Systemic conditions which predispose to orbital infection include diabetes, septicemia, malignancy, and immunosuppresion. Clinical signs and symptoms include superficial inflammatory changes, as well as proptosis, limitation of extraocular motility, and visual loss. Causative agents are most commonly bacteria, with fungus, viruses, and parasites seen less frequently. Imaging is performed by CT and/or MRI which are complementary in certain cases. Differential diagnosis of imaging abnormalities includes inflammatory and granulomatous diseases, as well as neoplasm.",
+            "journal": "Seminars in ultrasound, CT, and MR",
+            "year": "1997",
+            "authors": [
+              "Hershey B L",
+              "Roth T C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Eye Infections",
+              "Humans",
+              "Magnetic Resonance Imaging",
+              "Orbit",
+              "Orbital Diseases",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9416661/"
+          },
+          {
+            "pmid": "20127583",
+            "title": "Pearls: diplopia.",
+            "abstract": "Double vision may arise from ocular, neurologic, or extraocular muscle disorders. The approach to patients with diplopia requires a systematic approach to the history and the physical examination. There are many challenges in the evaluation of diplopia, ranging from the patient's mental status to the fine points of the examination. This article provides a process for interviewing and examining these patients, explaining the rationale and differential diagnosis of various clinical presentations. Common causes of monocular and binocular diplopia are addressed by the pattern of diplopia described by the patient. The examination and the interpretation of examination findings are presented by incorporating the \"upside-down-and-backwards\" concept. This review offers some Pearls-perhaps even diamonds-on evaluating patients who complain of diplopia, as well as those who have eye movement abnormalities but can't articulate their symptoms.",
+            "journal": "Seminars in neurology",
+            "year": "2010",
+            "authors": [
+              "Friedman Deborah I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Child",
+              "Diagnosis, Differential",
+              "Diplopia",
+              "Humans",
+              "Neurologic Examination",
+              "Ocular Motility Disorders",
+              "Terminology as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20127583/"
+          },
+          {
+            "pmid": "22241537",
+            "title": "[Congenital ptosis].",
+            "abstract": "Simple congenital ptosis is the most common form, characterised by fatty dystrophy and fibrosis of the levator muscle, which leads to a restricted elevation in upgaze and a lid lag in downgaze. In the complicated form additional changes will be found: fibrosis of extraocular muscles, synkinesia or anomalies of the lids. Moreover, congenital ptosis is relatively often associated with refractive errors and/or disturbance of the binocular vision. Therefore a careful examination is necessary. Therapeutic management includes first prevention of amblyopia either by occlusion or by early surgical intervention. The choice of operation depends on the grade of ptosis, the actual levator function and the presence of lid anomalies as well.",
+            "journal": "Klinische Monatsblatter fur Augenheilkunde",
+            "year": "2012",
+            "authors": [
+              "Hübner H"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Blepharoptosis",
+              "Humans",
+              "Muscular Diseases",
+              "Oculomotor Muscles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22241537/"
+          },
+          {
+            "pmid": "38249493",
+            "title": "Congenital anomalies of lens shape.",
+            "abstract": "The crystalline lens is an important structure in the eye that starts to develop as early as the 22nd day of gestation, with further differentiation that continues after the induction. Congenital anomalies of the lens may involve the size, shape, and position of the lens. They may sometimes be associated with anterior segment dysgenesis or persistence of the tunica vasculosa lentis and hyperplastic vitreous and hyaloid system. Manifestations of anomalies of the lens shape are usually seen in early or late childhood however may sometimes be delayed into adulthood based on the level of visual impairment or the presence or absence of any syndromic associations. While lens coloboma has more often been reported in isolation, the more commonly implicated genes include the PAX6 gene, lenticonus in particular anterior is often part of Alport syndrome with extra-ocular manifestations in the kidneys and hearing abnormalities due to mutations in the alpha 5 chain of the Type IV collagen gene. Rec",
+            "journal": "Taiwan journal of ophthalmology",
+            "year": "2023",
+            "authors": [
+              "Bhate Manjushree",
+              "Motwani Divya",
+              "Murthy Somasheila I",
+              "Fernandes Merle"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38249493/"
+          },
+          {
+            "pmid": "109006",
+            "title": "Unilateral cryptophthalmia.",
+            "abstract": "Two patients had the variable clinical features of unilateral cryptophthalmia. A 5-month-old boy had isolated unilateral cryptophthalmia: a small boney orbit, deformed optic canal, and a small amorphous mass with no normal intraocular tissue representing the globe. No extraocular muscles or optic nerve were identified by B-scan ultrasound or by computed axial tomography x-ray techniques. The second patient, a 13-year-old girl, had unilateral cryptophthalmia, and numerous systemic abnormalities including a head circumference less than the third percentile, severe mental retardation, hypoplasia of the left side of the head, and a left facial cleft deformity. She also had contractures of hips, knees and ankles, and bilateral spasticity and jerky movements. The left boney orbit was contracted and deformed and contained a small amorphous tissue with no ocular detail, as revealed by B-scan and computed tomography scan.",
+            "journal": "American journal of ophthalmology",
+            "year": "1979",
+            "authors": [
+              "Howard R O",
+              "Fineman R M",
+              "Anderson B",
+              "Moseley N",
+              "Gilman M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Abnormalities, Multiple",
+              "Adolescent",
+              "Adult",
+              "Child, Preschool",
+              "Chromosomes, Human",
+              "Eye Abnormalities",
+              "Facial Bones",
+              "Female",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/109006/"
+          },
+          {
+            "pmid": "24413161",
+            "title": "Congenital trochlear-oculomotor synkinesis.",
+            "abstract": "Synkinesis of the extraocular muscles forms a subset of congenital ocular motility abnormalities termed congenital cranial dysinnervation disorders. Synkinesis most frequently involves the abducens or oculomotor nerves and rarely the trochlear nerve. Only 3 such patients have been described in the literature. We report an isolated case of trochlear-oculomotor synkinesis in a healthy 6-year-old boy and discuss the proposed pathophysiology of this disorder.",
+            "journal": "Journal of neuro-ophthalmology : the official journal of the North American Neuro-Ophthalmology Society",
+            "year": "2014",
+            "authors": [
+              "Bursztyn Lulu L C D",
+              "Makar Inas"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Diagnosis, Differential",
+              "Eye Movements",
+              "Humans",
+              "Magnetic Resonance Imaging",
+              "Male",
+              "Ocular Motility Disorders",
+              "Oculomotor Muscles",
+              "Oculomotor Nerve",
+              "Synkinesis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24413161/"
+          },
+          {
+            "pmid": "7035111",
+            "title": "The Wagner-Stickler syndrome complex.",
+            "abstract": "The Wagner's vitreoretinal degeneration is a condition characterized by myopia, cataract, optically empty vitreous cavity and retinal breaks leading to retinal detachments with poor surgical prognosis. Several extraocular manifestations were reported to be associated with these eye findings and various syndromes were delineated describing sensorineural deafness, orofacial anomalies and skeletal dysplasias. There is enough evidence to suggest that this condition results from a phenotypic variability of genic origin, transmitted as an irregular autosomal dominant trait. In the absence of knowledge about the primary gene defect, the problems in nosology emphasize the difficulty in distinguishing genetic heterogeneity from variable gene expression. In view of the great deal of similarity between all these syndromes with vitreoretinal degeneration it is suggested that all these entities represent the extremes of the same disease spectrum forming parts of a continuum.",
+            "journal": "Documenta ophthalmologica. Advances in ophthalmology",
+            "year": "1981",
+            "authors": [
+              "Godel V",
+              "Nemet P",
+              "Lazar M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Multiple",
+              "Bone and Bones",
+              "Face",
+              "Humans",
+              "Mouth Abnormalities",
+              "Myopia",
+              "Retina",
+              "Retinal Degeneration",
+              "Syndrome",
+              "Vitreous Body"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7035111/"
+          },
+          {
+            "pmid": "38321238",
+            "title": "Pediatric orbital lesions: ocular pathologies.",
+            "abstract": "Orbital pathologies can be broadly classified as ocular, extra-ocular soft-tissue (non-neoplastic and neoplastic), osseous, and traumatic. In part 1 of this orbital series, the authors will discuss the differential diagnosis and key imaging features of pediatric ocular pathologies. These include congenital and developmental lesions (microphthalmos, anophthalmos, persistent fetal vasculature, coloboma, morning glory disc anomaly, retinopathy of prematurity, Coats disease), optic disc drusen, infective and inflammatory lesions (uveitis, toxocariasis, toxoplasmosis), and ocular neoplasms (retinoblastoma, retinal hamartoma, choroidal melanoma, choroidal nevus). This pictorial review provides a practical approach to the imaging work-up of these anomalies with a focus on ocular US as the first imaging modality and additional use of CT and/or MRI for the evaluation of intracranial abnormalities. The characteristic imaging features of the non-neoplastic mimics of retinoblastoma, such as persis",
+            "journal": "Pediatric radiology",
+            "year": "2024",
+            "authors": [
+              "Gerrie Samantha K",
+              "Rajani Heena",
+              "Branson Helen M",
+              "Lyons Christopher J",
+              "Marie Eman"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Diagnosis, Differential",
+              "Diagnostic Imaging",
+              "Eye Diseases",
+              "Orbital Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38321238/"
+          },
+          {
+            "pmid": "19826317",
+            "title": "Variable synergistic divergence.",
+            "abstract": "To report a patient with congenital fibrosis of the extraocular muscles showing either synergistic divergence or adduction.",
+            "journal": "Optometry and vision science : official publication of the American Academy of Optometry",
+            "year": "2009",
+            "authors": [
+              "Kim Jae Hyoung",
+              "Hwang Jeong-Min"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Abducens Nerve",
+              "Atrophy",
+              "Blepharoptosis",
+              "Blinking",
+              "Child",
+              "Exotropia",
+              "Eye Movements",
+              "Female",
+              "Fibrosis",
+              "Fixation, Ocular"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19826317/"
+          },
+          {
+            "pmid": "33447730",
+            "title": "Eye involvement in inherited metabolic disorders.",
+            "abstract": "Inherited metabolic disorders are a large group of rare disorders affecting normal biochemical pathways. Many metabolic disorders can present with symptoms affecting the eye, and eye disorders can evolve later in the natural history of an already diagnosed metabolic disorder. The ophthalmic involvement can be very varied affecting any part of the eye, including abnormalities of cornea, lens dislocation and cataracts, retina and the distal optic pathway, and extraocular muscles. Awareness of inherited metabolic disorders is important to facilitate early diagnosis and in some cases instigate early treatment if a patient presents with eye involvement suggestive of a metabolic disorder. Ophthalmological interventions are also an important component of the multisystem holistic approach to treating patients with metabolic disorders.",
+            "journal": "Therapeutic advances in ophthalmology",
+            "year": "2020",
+            "authors": [
+              "Davison James E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33447730/"
+          },
+          {
+            "pmid": "19064847",
+            "title": "Orbital arteriovenous malformations.",
+            "abstract": "To present the clinical features, management, and outcomes in a series of patients with orbital arteriovenous malformations (AVMs).",
+            "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+            "year": "2008",
+            "authors": [
+              "Warrier Sunil",
+              "Prabhakaran Venkatesh C",
+              "Valenzuela Alejandra",
+              "Sullivan Tim J",
+              "Davis Garry"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Arteriovenous Malformations",
+              "Carotid Artery, External",
+              "Embolization, Therapeutic",
+              "Face",
+              "Female",
+              "Fluorescein Angiography",
+              "Humans",
+              "Magnetic Resonance Imaging"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19064847/"
+          },
+          {
+            "pmid": "24932988",
+            "title": "Pathogenesis and treatment of maculopathy associated with cavitary optic disc anomalies.",
+            "abstract": "To propose a unifying theory regarding the pathogenesis of maculopathy associated with cavitary optic disc anomalies and to describe a rational approach to achieving a permanent cure in affected eyes.",
+            "journal": "American journal of ophthalmology",
+            "year": "2014",
+            "authors": [
+              "Jain Nieraj",
+              "Johnson Mark W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Eye Diseases, Hereditary",
+              "Humans",
+              "Laser Coagulation",
+              "Macula Lutea",
+              "Optic Disk",
+              "Retinal Diseases",
+              "Tomography, Optical Coherence",
+              "Vitrectomy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24932988/"
+          },
+          {
+            "pmid": "33806565",
+            "title": "Optic Nerve Head and Retinal Abnormalities Associated with Congenital Fibrosis of the Extraocular Muscles.",
+            "abstract": "Congenital fibrosis of the extraocular muscles (CFEOM) is a congenital cranial dysinnervation disorder caused by developmental abnormalities affecting cranial nerves/nuclei innervating the extraocular muscles. Autosomal dominant CFEOM arises from heterozygous missense mutations of KIF21A or TUBB3. Although spatiotemporal expression studies have shown KIF21A and TUBB3 expression in developing retinal ganglion cells, it is unclear whether dysinnervation extends beyond the oculomotor system. We aimed to investigate whether dysinnervation extends to the visual system by performing high-resolution optical coherence tomography (OCT) scans characterizing retinal ganglion cells within the optic nerve head and retina. Sixteen patients with CFEOM were screened for mutations in KIF21A, TUBB3, and TUBB2B. Six patients had apparent optic nerve hypoplasia. OCT showed neuro-retinal rim loss. Disc diameter, rim width, rim area, and peripapillary nerve fiber layer thickness were significantly reduced i",
+            "journal": "International journal of molecular sciences",
+            "year": "2021",
+            "authors": [
+              "Thomas Mervyn G",
+              "Maconachie Gail D E",
+              "Kuht Helen J",
+              "Chan Wai-Man",
+              "Sheth Viral"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cranial Nerves",
+              "Female",
+              "Fibrosis",
+              "Humans",
+              "Male",
+              "Mutation, Missense",
+              "Oculomotor Muscles",
+              "Ophthalmoplegia",
+              "Optic Disk"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33806565/"
+          },
+          {
+            "pmid": "30747268",
+            "title": "Neuroradiological and clinical features in ophthalmoplegia.",
+            "abstract": "Especially in acute onset of ophthalmoplegia, efficient neuroradiological evaluation is necessary to assist differential diagnosis, clinical course, and treatment options.",
+            "journal": "Neuroradiology",
+            "year": "2019",
+            "authors": [
+              "Weidauer Stefan",
+              "Hofmann Christian",
+              "Wagner Marlies",
+              "Hattingen Elke"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diagnosis, Differential",
+              "Humans",
+              "Neuroimaging",
+              "Ophthalmoplegia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30747268/"
+          },
+          {
+            "pmid": "30196776",
+            "title": "Ophthalmoplegia and Congenital Cranial Dysinnervation Disorders.",
+            "abstract": "Some forms of ophthalmoplegia are congenital and fall into the category of Congenital Cranial Dysinnervation Disorders (CCDDs). These disorders arise from a primary defect of cranial nucleus/nerve development or guidance. Many have substantial limitations of ocular motility with or without other associated features. The type and degree of ophthalmoplegia can be similar between CCDD subtypes as well as with non-congenital forms of ophthalmoplegia. Therefore diagnostic confirmation often requires neuro-imaging and/or genetic investigations. The clinician should consider this category in cases of ophthalmoplegia that are congenital and nonprogressive in nature.",
+            "journal": "Journal of binocular vision and ocular motility",
+            "year": "2018",
+            "authors": [
+              "Oystreck Darren T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cranial Nerves",
+              "Eye Movements",
+              "Fibrosis",
+              "Humans",
+              "Oculomotor Muscles",
+              "Ophthalmoplegia",
+              "Congenital Cranial Dysinnervation Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30196776/"
+          },
+          {
+            "pmid": "27930425",
+            "title": "The Gracillimus Orbitis Muscle.",
+            "abstract": "The gracillimus orbitis muscle is an anomalous, accessory, or supernumerary extraocular muscle that, although is rarely seen clinically in the human orbit, has been identified in 5% to 14% of dissected cadaver orbits. It arises from the medial surface of the levator near its origin and runs forward between the levator and superior oblique muscles resembling one of the other extraocular muscles. More anteriorly, it becomes thinner, less well defined, and mostly fibrous. Its major insertion is into the fascia surrounding the trochlea, while other fibers may travel to the supratrochlear artery, intermuscular septum, the levator or medial rectus muscle, and the fascia surrounding the superior ophthalmic vein. The function of this anomalous muscle remains unknown in most cases. Knowledge of its presence is important as the oculoplastic/orbital surgeon may encounter it during an eyelid or orbital procedure.",
+            "journal": "Ophthalmic plastic and reconstructive surgery",
+            "year": "2017",
+            "authors": [
+              "Jordan David R",
+              "Stoica Bazil"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cadaver",
+              "Eyelids",
+              "Humans",
+              "Male",
+              "Oculomotor Muscles",
+              "Ophthalmic Artery"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27930425/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "retinal dystrophy with or without extraocular anomalies",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20retinal%20dystrophy%20with%20or%20without%20extraocular%20anomalies"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hydranencephaly (disease)",
+        "txgnn_score": 0.9921040534973145,
+        "txgnn_rank": 1728,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Aripiprazole",
+          "disease": "hydranencephaly (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Aripiprazole%20hydranencephaly%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Aripiprazole",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01238",
+    "name": "Aripiprazole",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Aripiprazole"
+      },
+      "queried_at": "2026-03-10T12:42:20.874003",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Aripiprazole"
+      },
+      "queried_at": "2026-03-10T12:42:20.885948",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Aripiprazole"
+      },
+      "queried_at": "2026-03-10T12:42:34.852547",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "major affective disorder"
+      },
+      "queried_at": "2026-03-10T12:42:49.850100",
+      "status": "success",
+      "result_count": 50,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "major affective disorder"
+      },
+      "queried_at": "2026-03-10T12:42:54.398460",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "major affective disorder"
+      },
+      "queried_at": "2026-03-10T12:42:55.614549",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "major affective disorder"
+      },
+      "queried_at": "2026-03-10T12:43:08.033102",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "gaze palsy, familial horizontal, with progressive scoliosis"
+      },
+      "queried_at": "2026-03-10T12:43:10.570822",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "gaze palsy, familial horizontal, with progressive scoliosis"
+      },
+      "queried_at": "2026-03-10T12:43:14.484130",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "gaze palsy, familial horizontal, with progressive scoliosis"
+      },
+      "queried_at": "2026-03-10T12:43:15.691445",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "gaze palsy, familial horizontal, with progressive scoliosis"
+      },
+      "queried_at": "2026-03-10T12:43:17.054463",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "asperger syndrome, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:43:18.352522",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "asperger syndrome, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:43:22.869419",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "asperger syndrome, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:43:24.852709",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "asperger syndrome, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:43:26.898142",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Phelan-McDermid syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:28.119180",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Phelan-McDermid syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:34.967384",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Phelan-McDermid syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:36.516632",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Phelan-McDermid syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:38.211008",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "amelocerebrohypohidrotic syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:39.055016",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "amelocerebrohypohidrotic syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:45.273461",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "amelocerebrohypohidrotic syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:46.422286",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "amelocerebrohypohidrotic syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:47.506495",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "distal 17p13.3 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:48.750813",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "distal 17p13.3 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:52.552976",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "distal 17p13.3 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:54.082016",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "distal 17p13.3 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:43:54.981095",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-10T12:43:55.757335",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-10T12:43:59.404099",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-10T12:44:01.062361",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-10T12:44:03.935964",
+      "status": "success",
+      "result_count": 14,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Malan overgrowth syndrome"
+      },
+      "queried_at": "2026-03-10T12:44:04.825625",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Malan overgrowth syndrome"
+      },
+      "queried_at": "2026-03-10T12:44:08.356945",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Malan overgrowth syndrome"
+      },
+      "queried_at": "2026-03-10T12:44:09.579770",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "Malan overgrowth syndrome"
+      },
+      "queried_at": "2026-03-10T12:44:10.765048",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "retinal dystrophy with or without extraocular anomalies"
+      },
+      "queried_at": "2026-03-10T12:44:11.763514",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "retinal dystrophy with or without extraocular anomalies"
+      },
+      "queried_at": "2026-03-10T12:44:17.769572",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "retinal dystrophy with or without extraocular anomalies"
+      },
+      "queried_at": "2026-03-10T12:44:19.134054",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "retinal dystrophy with or without extraocular anomalies"
+      },
+      "queried_at": "2026-03-10T12:44:29.509875",
+      "status": "success",
+      "result_count": 16,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "hydranencephaly (disease)"
+      },
+      "queried_at": "2026-03-10T12:44:30.735189",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "hydranencephaly (disease)"
+      },
+      "queried_at": "2026-03-10T12:44:37.478282",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "hydranencephaly (disease)"
+      },
+      "queried_at": "2026-03-10T12:44:39.874650",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Aripiprazole",
+        "disease": "hydranencephaly (disease)"
+      },
+      "queried_at": "2026-03-10T12:44:41.809848",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:44:41.841107"
+  }
+}

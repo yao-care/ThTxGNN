@@ -1,0 +1,3020 @@
+{
+  "drug": {
+    "inn": "Atorvastatin",
+    "drugbank_id": "DB01076",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "familial hypercholesterolemia",
+        "txgnn_score": 0.9942046999931335,
+        "txgnn_rank": 1313,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03884452",
+            "title": "A Phase III Efficacy And Safety Study of Ezetimibe (SCH58235) 10 mg in Addition to Atorvastatin or Simvastatin in the Therapy of Homozygous Familial Hypercholesterolemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2000-05-03",
+            "completion_date": "2001-05-24",
+            "country": "N/A",
+            "enrollment": 50,
+            "brief_summary": "The primary objective of this study is to evaluate the efficacy and the safety of ezetimibe (SCH 58235) co-administered with either atorvastatin or simvastatin in participants with homozygous familial hypercholesterolemia (FH).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* With a diagnosis of homozygous familial hypercholesterolemia\n* All females must have a negative pregnancy test prior to study entry. Women of child bearing potential must agree to practice an effective barrier method of birth control for the duration of the study, until one mo",
+            "endpoints": [
+              "Percent change from baseline in Low Density Lipoprotein Cholesterol (LDL-C) measured directly",
+              "Percentage of participants with an Adverse Event (AE)"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT03884452"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00827606",
+            "title": "A Three Year, Prospective, Open-label, Study To Evaluate Clinical Efficacy, Safety And Tolerability Of Atorvastatin In Children And Adolescents With Heterozygous Familial Hypercholesterolemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2009-03",
+            "completion_date": "2013-10",
+            "country": "Spain, Norway, Hungary, Slovakia, Italy, Turkey (Türkiye), United States, Belgium, Greece, Canada, Germany, Russia, Switzerland, Poland, Puerto Rico",
+            "enrollment": 272,
+            "brief_summary": "The purpose of this study is to characterize three year descriptive growth and development (ie, height, weight, body mass index, Tanner Stage) and efficacy of cholesterol reduction in pediatric subjects with Heterozygous Familial Hypercholesterolemia receiving atorvastatin treatment.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Heterozygous familial hypercholesterolemia, ages 6-15, LDL greater than 4 mmol/l\n\nExclusion Criteria:\n\n* Active liver disease or hepatic dysfunction, or persistent elevations of serum transaminases exceeding three times the upper limit of normal (ULN).\n\nFemale of childbearing ",
+            "endpoints": [
+              "Low Density Lipoprotein Cholesterol (LDL-C; Millimoles Per Liter [mMol/L]) During the Study",
+              "Percent Change From Baseline in LDL-C",
+              "High-Density Lipoprotein Cholesterol (HDL-C; mMol/L) During the Study"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00827606"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03510884",
+            "title": "A Randomized, Double-Blind, Placebo-Controlled Study Followed by an Open Label Treatment Period to Evaluate the Efficacy and Safety of Alirocumab in Children and Adolescents With Heterozygous Familial Hypercholesterolemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-05-31",
+            "completion_date": "2022-08-05",
+            "country": "Denmark, Hungary, Poland, Taiwan, Turkey (Türkiye), Austria, Canada, Brazil, Netherlands, Spain, Norway, Argentina, United States, Slovenia, France, Mexico, Finland, Russia, Sweden, Italy, Bulgaria, Czechia, South Africa, Lebanon",
+            "enrollment": 153,
+            "brief_summary": "Primary Objective:\n\nTo evaluate the efficacy of alirocumab administered every 2 weeks (Q2W) and every 4 weeks (Q4W) versus placebo after 24 weeks of double-blind (DB) treatment on low-density lipoprotein cholesterol (LDL-C) levels in participants with heterozygous familial hypercholesterolemia (heFH) 8 to 17 years of age on optimal stable daily dose of statin therapy ± other lipid modifying therapies (LMTs) or a stable dose of non-statin LMTs in case of intolerance to statins.\n\nSecondary Objecti",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Children and adolescent male and female participants 8 to 17 years of age at the time of signed informed consent.\n* Participants with diagnosis of heFH through genotyping or clinical criteria.\n* Participants treated with optimal dose of statin +/- other LMT(s) or non-statin LM",
+            "endpoints": [
+              "DB Period: Percent Change From Baseline in Low Density Lipoprotein Cholesterol (LDL-C) at Week 24: Intent-to-treat (ITT) Estimand"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT03510884"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01507831",
+            "title": "Long-term Safety and Tolerability of SAR236553 (REGN727) in High Cardiovascular Risk Patients With Hypercholesterolemia Not Adequately Controlled With Their Lipid Modifying Therapy: A Randomized, Double-Blind, Placebo-Controlled Study",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-01",
+            "completion_date": "2014-11",
+            "country": "Denmark, Hungary, Poland, Ukraine, Canada, Portugal, Chile, Netherlands, Spain, Norway, Argentina, Israel, United States, Belgium, France, Mexico, Finland, Russia, Romania, Sweden, Italy, United Kingdom, Bulgaria, Germany, South Africa, Czechia, Colombia",
+            "enrollment": 2341,
+            "brief_summary": "Alirocumab (SAR236553/REGN727) is a fully human monoclonal antibody that binds PCSK9 (proprotein convertase subtilisin/kexin type 9).\n\nPrimary Objective of the study:\n\nTo evaluate the long-term safety and tolerability of alirocumab in high cardiovascular risk participants with hypercholesterolemia not adequately controlled with their current lipid modifying therapy (LMT).\n\nSecondary Objectives:\n\n* To evaluate the effect of alirocumab on low-density lipoprotein cholesterol (LDL-C) levels after 24",
+            "eligibility_criteria": "Inclusion criteria:\n\nEither A or B below and who were not adequately controlled with their lipid-modifying therapy:\n\nA) Participants with heterozygous familial hypercholesterolemia (heFH) with or without established coronary heart disease (CHD) or CHD risk equivalents\n\nOR\n\nB) Participants with hyper",
+            "endpoints": [
+              "Percentage of Participants Who Experienced Adverse Events (AEs)"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT01507831"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00145431",
+            "title": "Phase 3, Multi-Center, Double-Blind, Randomized, Crossover Study Of The Efficacy, Safety, And Tolerability Of Fixed Combination Torcetrapib (Cp-529,414)/Atorvastatin, Compared With Atorvastatin Therapy Alone, And Fenofibrate Alone, In Subjects With Fredrickson Type III Hyperlipoproteinemia (Familial Dysbetalipoproteinemia).",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2005-03",
+            "completion_date": "2006-12",
+            "country": "Canada, United States",
+            "enrollment": 41,
+            "brief_summary": "The Torcetrapib project was terminated on December 2, 2006 due to safety findings.\n\nTo evaluate the efficacy and safety of the lipid drug torcetrapib/atorvastatin in subjects with a rare genetically known disorder of high cholesterol and triglyceride levels.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Familial Dysbetalipoproteinemia (Fredrickson Type III hyperlipoproteinemia)\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating, or planning to become pregnant.\n* Subjects with a clinically indicated need for statin (HMG-CoA reductase inhibitor) therapy ot",
+            "endpoints": [
+              "Change in LDL-C and non-HDL-C levels."
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00145431"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05367310",
+            "title": "Effect of Breastfeeding on Lipid Profile and Cardiovascular Risk Markers in Women With Familial Hypercholesterolemia (FH-FEMINA)",
+            "phase": "N/A",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2022-05-01",
+            "completion_date": "2027-08-31",
+            "country": "Czechia, Norway, Netherlands",
+            "enrollment": 50,
+            "brief_summary": "The study aims to investigate the effects of breastfeeding on lipid profile and cardiovascular risk markers in women with familial hypercholesterolemia (FH) compared to women without FH. Women with FH will be recruited in Norway, the Netherlands, and the Czech Republic. Women without FH will be recruited in Norway.\n\nWomen with and without FH who are pregnant or planning pregnancy will be recruited, and will be invited to repeated study visits from the end of pregnancy and through the first year ",
+            "eligibility_criteria": "Inclusion Criteria for women with FH:\n\n1. age 18 years or older,\n2. confirmed diagnosis of FH through genetic testing or clinical assessment based on the Dutch Lipid Clinic Network,\n3. singleton pregnancy in the third trimester,\n4. a sufficient command of Norwegian, Dutch, Czech or English language.",
+            "endpoints": [
+              "Change in serum lipid profile (total cholesterol, LDL-C, HDL-C, triglycerides, lipoprotein(a)) from 2-4 weeks postpartum up to 12 months postpartum (absolute and relative change)."
+            ],
+            "sponsor": "Oslo University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05367310"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04862260",
+            "title": "A Phase 1 Feasibility Study of Cholesterol Metabolism Reprogramming (Evolocumab, Atorvastatin and Ezetimibe) in Combination With the Standard of Care in Patients With Advanced or Metastatic Pancreatic Adenocarcinoma",
+            "phase": "EARLY_PHASE1",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2021-10-04",
+            "completion_date": "2026-12-31",
+            "country": "Canada",
+            "enrollment": 3,
+            "brief_summary": "Cardiovascular diseases and cancers, the two leading causes of death in Canada, require cholesterol to sustain their progression. All cells require cholesterol, but cancer cells have much higher needs to sustain growth, division and metastasis. The availability of new cholesterol-lowering drugs developed to protect patients from heart diseases has resulted in unprecedented low levels of cholesterol. The combination of atorvastatin, ezetimibe and Repatha, which are 3 cholesterol-lowering drugs us",
+            "eligibility_criteria": "Inclusion Criteria:\n\nTo be eligible to this trial, patients must fulfill the following inclusion criteria:\n\n1. Have a histologically confirmed, treatment-naive locally advanced and inoperable (LaiPDAC) or metastatic pancreatic ductal adenocarcinoma (mPDAC).\n2. Be at least 18 years or older at the ti",
+            "endpoints": [
+              "Safety as measured by the rate of adverse events",
+              "Characterization of dose-limiting toxicities"
+            ],
+            "sponsor": "CHU de Quebec-Universite Laval",
+            "url": "https://clinicaltrials.gov/study/NCT04862260"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00134485",
+            "title": "Phase 3, Multi-Center, Double-Blind, Randomized, Parallel Group, Study of the Efficacy, Safety, and Tolerability of Fixed Combination Torcetrapib (CP-529,414) / Atorvastatin Administered Orally, Once Daily (QD) for Six Months, Compared With Maximally Tolerated Atorvastatin Therapy Alone, in Subjects With Heterozygous Familial Hypercholesterolemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2005-03",
+            "completion_date": "2006-03",
+            "country": "Denmark, Norway, Sweden, Iceland, United States, Canada, Australia, France, South Africa",
+            "enrollment": 400,
+            "brief_summary": "The Torcetrapib project was terminated on December 2, 2006 due to safety findings.\n\nTo evaluate the efficacy and safety of torcetrapib/atorvastatin compared to atorvastatin alone in patients with heterozygous familial hypercholesterolemia",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Heterozygous Familial Hypercholesterolemia\n* At least 18 years of age\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating, or planning to become pregnant.\n* Subjects with a clinically indicated need for statin (HMG-CoA reductase inhibitor) therapy other th",
+            "endpoints": [
+              "Change in HDL-C and LDL-C"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00134485"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02114099",
+            "title": "An Open Label, Non-comparative Phase II Trial to Evaluate the Effects of Atorvastatin on the Persistent Coronary Arterial Aneurysm in Children With Kawasaki Disease: Safety and Efficacy",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2007-06",
+            "completion_date": "2016-12",
+            "country": "Taiwan",
+            "enrollment": 20,
+            "brief_summary": "Background Kawasaki disease (KD) is characterized by fever, bilateral nonexudative conjunctivitis, erythema of the lips and oral mucosa, changes in the extremities, rash, and cervical lymphadenopathy. Incidence of late coronary artery aneurysms or ectasia, which may lead to myocardial infarction (MI), sudden death, or ischemic heart disease, decreased after the introduction of intravenous immunoglobulin therapy. However, significant persistent coronary arterial lesions or aneurysms may still occ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of Kawasaki Disease with giant aneurysm\n* Must be older than 10 years old\n\nExclusion Criteria:\n\n* Subjects ever received coronary artery bypass graft (CABG) surgery.\n* Subjects have active hepatitis or persistent abnormal liver function such as elevated GOT ",
+            "endpoints": [
+              "size of coronary aneurysm"
+            ],
+            "sponsor": "National Taiwan University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02114099"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00465088",
+            "title": "SUPREME: A 12-Week, Open-Label, Multicenter Study to Compare the Lipid Effects of Niacin ER and Simvastatin (NS) to Atorvastatin in Subjects With Hyperlipidemia or Mixed Dyslipidemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2007-04",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": 199,
+            "brief_summary": "To demonstrate that niacin ER and simvastatin (NS) tablets, when compared to atorvastatin (Lipitor®; Pfizer, Inc.), has superior high-density lipoprotein cholesterol (HDL-C) elevating effects at Week 12 in subjects with type II hyperlipidemia or mixed dyslipidemia who are currently off lipid-modifying therapy. This was a prospective, randomized, open-label, blinded endpoint (PROBE) study.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must meet all of the following laboratory criteria:\n\n  * HDL-C \\<40 mg/dL for men and \\<50 mg/dL for women.\n  * LDL-C ≥130 mg/dL but \\<250 mg/dL.\n  * TG \\<350 mg/dL.\n  * Creatine phosphokinase (CPK) \\< 3 x upper limit of normal (ULN).\n  * Alanine aminotransferase (ALT",
+            "endpoints": [
+              "Percent Change in High-density Lipoprotein Cholesterol (HDL-C) From Baseline to Week 12"
+            ],
+            "sponsor": "Abbott",
+            "url": "https://clinicaltrials.gov/study/NCT00465088"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03867318",
+            "title": "A Phase III Double-Blind Efficacy and Safety of Ezetimibe (SCH 58235) 10 MG in Addition to Atorvastatin in Subjects With Coronary Heart Disease or Multiple Cardiovascular Risk Factors and With Primary Hypercholesterolemia Not Controlled by a Starting Dose (10 mg) of Atorvastatin",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2000-04-24",
+            "completion_date": "2001-11-16",
+            "country": "N/A",
+            "enrollment": 621,
+            "brief_summary": "The overall objective is to evaluate the efficacy and safety of ezetimibe (SCH 058235/MK-0653) 10 mg administered daily in conjunction with atorvastatin in participants with Heterozygous Familial Hypercholesterolemia (HeFH) or in participants with coronary heart disease (CHD) or multiple cardiovascular risk factors (≥2 risk factors) and primary hypercholesterolemia not controlled by a starting dose (10 mg/day) of atorvastatin.\n\nThe primary hypothesis is that the coadministration of ezetimibe 10 ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Primary hypercholesterolemic participants with known coronary heart disease (CHD) or multiple risk factors for CHD (≥2) not meeting the target low-density-lipoprotein cholesterol (LDL-C) of ≤100 mg/dL (2.59 mmol/L), with plasma LDL-C ≥130 mg/dL (3.37 mmol/L) and plasma triglyc",
+            "endpoints": [
+              "Percentage of Participants Achieving Target Low-Density-Lipoprotein Cholesterol (LDL-C) Levels of ≤100 mg/dL",
+              "Percentage of Participants With an Adverse Event",
+              "Percentage of Participants Who Discontinued the Study due to an Adverse Event"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT03867318"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04455581",
+            "title": "Open-label, Single-arm, Multicentre Study to Evaluate Efficacy and Safety of SHR-1209 in Subjects With Homozygous Familial Hypercholesterolemia",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2020-09-01",
+            "completion_date": "2021-08-31",
+            "country": "N/A",
+            "enrollment": 8,
+            "brief_summary": "The study is being conducted to evaluate the efficacy, safety and tolerability of SHR-1209 in subjects with familial hypercholesterolemia. 8 eligible patients (aged ≥18 years) with familial hypercholesterolemia, on stable maximum tolerable dose lipid-regulating therapy for at least 28 days, to receive subcutaneous SHR-1209, follow up 8 weeks. The primary endpoint was percentage change in LDL cholesterol from baseline at week 12 .",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Males and females ≥ 18 years of age\n* Diagnosis of homozygous familial hypercholesterolemia\n* Stable lipid-lowering therapies for at least 28 days\n* LDL cholesterol ≥ 130 mg/dl (3.4 mmol/L)\n* Triglyceride ≤ 400 mg/dL (4.5 mmol/L)\n* Bodyweight of ≥ 40 kg at screening.\n\nExclusio",
+            "endpoints": [
+              "Percent Change from Baseline in LDL-C at Week 12"
+            ],
+            "sponsor": "Jiangsu HengRui Medicine Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT04455581"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03882996",
+            "title": "Long-Term, Open-Label, Safety and Tolerability Study of Ezetimibe (SCH 58235) in Addition to Atorvastatin in Subjects With Coronary Heart Disease or Multiple Risk Factors and With Primary Hypercholesterolemia Not Controlled by a Starting Dose (10 mg) of Atorvastatin",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2000-10-06",
+            "completion_date": "2003-02-04",
+            "country": "N/A",
+            "enrollment": 432,
+            "brief_summary": "The purpose of this study was to evaluate the long-term safety and tolerability of ezetimibe 10 mg once daily co-administered with atorvastatin 10 to 80 mg daily for up to 12 consecutive months in participants with heterozygous familial hypercholesterolemia (HeFH) or in participants with coronary heart disease (CHD) or multiple cardiovascular risk factors and primary hypercholesterolemia not controlled by a starting dose (10 mg daily) of atorvastatin.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants who have successfully completed the 14-week double-blind, efficacy and safety study of SCH 58235 in addition to atorvastatin in participants with CHD or multiple risk factors or HeFH, (Protocol P00693/MK-0653-030; NCT03867318). Entry into this protocol must occur ",
+            "endpoints": [
+              "Number of participants who experienced an adverse event",
+              "Number of participants who discontinued study drug due to an adverse event"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT03882996"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01890967",
+            "title": "A Phase 2 Efficacy and Safety Dose-Ranging Study of LY3015014 in Patients With Primary Hypercholesterolemia",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2013-06",
+            "completion_date": "2014-06",
+            "country": "Denmark, Japan, United States, Canada, Czechia, Poland, Puerto Rico, Netherlands",
+            "enrollment": 527,
+            "brief_summary": "This study is designed to define the amount and duration of cholesterol lowering and to assess the safety and tolerability of different dose regimens of LY3015014 in participants with high cholesterol. The study will also investigate how the body processes the drug and how the drug affects the body. Participants will remain on a stable diet and will continue taking cholesterol-lowering medications (statins with or without ezetimibe). After signing the informed consent document, the participant w",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosed with high low density lipoprotein (LDL) cholesterol\n* Are on stable daily dose of a statin or have a history of statin intolerance\n* Men with a partner who can become pregnant must agree to use barrier protection during sexual intercourse to prevent pregnancies\n* Wom",
+            "endpoints": [
+              "Percentage Change From Baseline in Low-Density Lipoprotein Cholesterol (LDL-C)"
+            ],
+            "sponsor": "Eli Lilly and Company",
+            "url": "https://clinicaltrials.gov/study/NCT01890967"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02460159",
+            "title": "A Phase III, Clinical Trial to Assess the Long Term Safety and Tolerability of MK-0653C in Japanese Patients With Hypercholesterolemia Who Have Inadequate LDL-C Control on Ezetimibe or Atorvastatin Calcium Monotherapy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-06-23",
+            "completion_date": "2016-12-22",
+            "country": "N/A",
+            "enrollment": 135,
+            "brief_summary": "This study will assess the safety and tolerability of Ezetimibe (EZ) 10 mg/Atorvastatin (Atora) 10 mg and EZ 10mg/Atora 20 mg fixed-dose combination (FDC) in Japanese participants with hypercholesterolemia uncontrolled with monotherapy of Ezetimibe 10 mg or Atorvastatin up to 20 mg. There is no formal hypothesis for the study.",
+            "eligibility_criteria": "Inclusion Criteria\n\n* Japanese\n* Outpatient with hypercholesterolemia\n* Has familial hypercholesterolemia (FH) diagnosed per genetic testing or meets two or more of the below criteria based on Japan Atherosclerosis Society Guideline 2012 (JAS2012): Hyper low-density lipoprotein (LDL)-cholesterolemia",
+            "endpoints": [
+              "Percentage of Participants Who Experience 1 or More Adverse Event (AE)",
+              "Percentage of Participants Who Experience 1 or More Gastrointestinal-related AEs",
+              "Percentage of Participants Who Experience 1 or More Gallbladder-related AEs"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT02460159"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01623115",
+            "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study to Evaluate the Efficacy and Safety of SAR236553/REGN727 in Patients With Heterozygous Familial Hypercholesterolemia Not Adequately Controlled With Their Lipid-Modifying Therapy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-07",
+            "completion_date": "2014-12",
+            "country": "Denmark, Norway, Spain, Austria, Sweden, Israel, United Kingdom, United States, Canada, France, Czechia, Russia, South Africa, Netherlands",
+            "enrollment": 486,
+            "brief_summary": "Alirocumab (SAR236553/REGN727) is a fully human monoclonal antibody that binds PCSK9 (proprotein convertase subtilisin/kexin type 9).\n\nPrimary Objective of the study:\n\nTo evaluate the effect of alirocumab on low-density lipoprotein cholesterol (LDL-C) levels after 24 weeks of treatment in comparison with placebo.\n\nSecondary Objectives:\n\n* To evaluate the effect of alirocumab in comparison with placebo on LDL-C at other time points\n* To evaluate the effects of alirocumab on other lipid parameters",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Participants with heterozygous familial hypercholesterolemia who were not adequately controlled with their lipid-modifying therapy\n\nExclusion criteria:\n\n* Age \\< 18 years or legal age of adulthood, whichever is greater\n* LDL-C \\< 70 mg/dL (1.81 mmol/L) and with cardiovascular ",
+            "endpoints": [
+              "Percent Change From Baseline in Calculated LDL-C at Week 24 - Intent-to-Treat (ITT) Analysis"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT01623115"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00145574",
+            "title": "Randomized, Double-blind, Placebo-controlled Efficacy and Safety Study of Colesevelam HCl Administered to Pediatric Patients With Heterozygous Familial Hypercholesterolemia on a Stable Dose of Statins or Treatment Naive to Lipid-lowering Therapy",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-11",
+            "completion_date": "2007-12",
+            "country": "Norway, Austria, Israel, United States, Canada, Australia, South Africa, Netherlands",
+            "enrollment": 194,
+            "brief_summary": "This study will evaluate the lipid-lowering effect and safety of colesevelam therapy administered to heterozygous familial pediatric patients 10 through 17 years of age who are on a stable dose of a pediatric-approved statin monotherapy (atorvastatin, lovastatin, simvastatin or pravastatin), or who are treatment naive to lipid-lowering therapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients\n* Ages 10 to 17 years inclusive\n* Diagnosis of heterozygous familial hypercholesterolemia\n* On a stable dose of statin monotherapy or are treatment naive to lipid- lowering agents\n* On a low-cholesterol diet\n\nExclusion Criteria:\n\n* Patients should not h",
+            "endpoints": [
+              "Percent Change in Plasma Low Density Lipoprotein-cholesterol (LDL-C) From Day 1 (Study Baseline) to Week 8."
+            ],
+            "sponsor": "Daiichi Sankyo",
+            "url": "https://clinicaltrials.gov/study/NCT00145574"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01617655",
+            "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel Group Study to Evaluate the Efficacy and Safety of SAR236553/REGN727 in Patients With Heterozygous Familial Hypercholesterolemia and LDL-C Higher or Equal to 160mg/dL With Their Lipid-Modifying Therapy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-06",
+            "completion_date": "2015-01",
+            "country": "United States, Canada, Russia, South Africa, Netherlands",
+            "enrollment": 107,
+            "brief_summary": "Alirocumab (SAR236553/REGN727) is a fully human monoclonal antibody that binds PCSK9 (proprotein convertase subtilisin/kexin type 9).\n\nPrimary Objective of the study:\n\nTo evaluate the effect of alirocumab on low-density lipoprotein cholesterol (LDL-C) levels after 24 weeks of treatment in comparison with placebo.\n\nSecondary Objectives:\n\n* To evaluate the effect of alirocumab in comparison with placebo on LDL-C at other time points\n* To evaluate the effects of alirocumab on other lipid parameters",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Participants with heterozygous familial hypercholesterolemia who were not adequately controlled with their lipid-modifying therapy.\n\nExclusion criteria:\n\n* Age \\< 18 years\n* LDL-C \\< 160 mg/dL (\\< 4.14 mmol/L) at the screening visit (Week-3).\n* Fasting serum triglycerides \\> 4",
+            "endpoints": [
+              "Percent Change From Baseline in Calculated LDL-C at Week 24 - ITT Analysis"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT01617655"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06555120",
+            "title": "Screening for Familial Hypercholesterolemia in Children",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2025-01-02",
+            "completion_date": "2027-02",
+            "country": "France",
+            "enrollment": 300,
+            "brief_summary": "Familial hypercholesterolemia is the most common treatable genetic disorder for which a simple, effective treatment is available, with few side effects.\n\nIt leads to a significant increase in LDL levels, generally in excess of 1.9g/l, including in children. It is much higher than the values usually found in secondary or polygenic hypercholesterolemia. This condition multiplies the cardiovascular risk in adulthood by a factor of 13, and is responsible for 6,500 early cardiovascular events per yea",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 2 and 18 years\n* Minimum 8-hour fasting\n* Parents and children with signed informed consent\n\nExclusion Criteria:\n\n* Known familial hypercholesterolemia\n* Diabetes less than one month old\n* Profound hypothyroidism\n* Acute nephrotic syndrome\n* cancer under treatment",
+            "endpoints": [
+              "prevalence of hypercholesterolemia in children in the general population"
+            ],
+            "sponsor": "Centre Hospitalier Universitaire, Amiens",
+            "url": "https://clinicaltrials.gov/study/NCT06555120"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01709500",
+            "title": "A Randomized, Double-Blind, Placebo-Controlled, Parallel-Group Study to Evaluate the Efficacy and Safety of REGN727/SAR236553 in Patients With Heterozygous Familial Hypercholesterolemia Not Adequately Controlled With Their Lipid-Modifying Therapy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2015-01",
+            "country": "Czechia, United Kingdom, Norway, Netherlands",
+            "enrollment": 249,
+            "brief_summary": "This is a randomized, double-blind, placebo-controlled, parallel-group, multi-national study alirocumab (REGN727/SAR236553) in patients with Heterozygous Familial Hypercholesterolemia (heFH) who are not adequately controlled with their Lipid-Modifying Therapy (LMT).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with heFH\\* who are not adequately controlled\\*\\* with a maximally-tolerated daily dose\\*\\*\\* of statin with or without other LMT, at a stable dose prior to the screening visit (week -2).\n\n   \\*Diagnosis of heFH must be made either by genotyping or by clinical criter",
+            "endpoints": [
+              "Percent Change From Baseline in Calculated LDL-C at Week 24 - Intent--to--Treat (ITT) Analysis"
+            ],
+            "sponsor": "Regeneron Pharmaceuticals",
+            "url": "https://clinicaltrials.gov/study/NCT01709500"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04656028",
+            "title": "Impact of Genetic Testing and Motivational Counseling on the Adherence to Healthy Lifestyle and Hypolipidemic Therapy and Efficiency of Cascade Screening in Patients With Familial Hypercholesterolemia (GENMOTIV-FH)",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2020-06-15",
+            "completion_date": "2025-03-30",
+            "country": "Russia",
+            "enrollment": 180,
+            "brief_summary": "To date, there are highly effective lipid-lowering drugs, the combination of which makes it possible to achieve the target level of LDL-C in most patients with familial hypercholesterolemia (FH). However, the effectiveness of treatment of FH patients strongly depends on adherence to lipid-lowering therapy and to the healthy lifestyle, as well as the detection of the disease and the therapy prescription as early as possible, better in childhood. The aim of the study is to assess the impact of gen",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Probable or definite diagnosis of FH according to the Dutch criteria (6 points or more);\n* Signed informed consent;\n\nExclusion Criteria:\n\n* Pregnancy or lactation at the time of enrollment\n* Established active severe infectious disease or severe hematologic, metabolic, gastroi",
+            "endpoints": [
+              "Change in the proportion of people who have reached the target level of LDL-Cholesterol",
+              "Change in the number of relatives who underwent cascade screening",
+              "Change in the proportion of people adhering to drug therapy"
+            ],
+            "sponsor": "National Medical Research Center for Therapy and Preventive Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT04656028"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00136981",
+            "title": "Phase 3 Multi-Center, Double-Blind, Randomized, Parallel Group, Carotid B-Mode Ultrasound Evaluation of the Anti-Atherosclerotic Efficacy, Safety and Tolerability of Fixed Combination CP-529,414/Atorvastatin, Administered Orally, Once Daily (QD) for 24 Months, Compared With Maximally Tolerated Atorvastatin Therapy Alone, in Subjects With Heterozygous Familial Hypercholesterolemia.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-12",
+            "completion_date": "2006-11",
+            "country": "Italy, United States, Canada, France, Czechia, Finland, South Africa, Netherlands",
+            "enrollment": 800,
+            "brief_summary": "The Torcetrapib project was terminated on December 2, 2006 due to safety findings.\n\nTo look at ultrasound images taken in the carotid arteries and to look at various lipids in the blood of people with heterozygous familial hypercholesterolemia",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Heterozygous Familial Hypercholesterolemia\n* At least 18 years of age\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating, or planning to become pregnant.\n* Subjects with a clinically indicated need for statin (HMG-CoA reductase inhibitor) therapy other th",
+            "endpoints": [
+              "Change in intima media thickness as measures by carotid ultrasound"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00136981"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01730040",
+            "title": "A Randomized, Double-Blind Study of the Efficacy and Safety of Alirocumab Added on to Atorvastatin Versus Ezetimibe Added on to Atorvastatin Versus Atorvastatin Dose Increase Versus Switch to Rosuvastatin in Patients Who Are Not Controlled on Atorvastatin",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-10",
+            "completion_date": "2014-05",
+            "country": "Spain, Italy, United Kingdom, United States, Canada, Germany, Australia, France, Mexico",
+            "enrollment": 355,
+            "brief_summary": "This is a randomized, double-blind, active-comparator, parallel-group study in patients at high cardiovascular risk with nonfamilial hypercholesterolemia or heterozygous familial hypercholesterolemia (heFH).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients with screening (visit 1) LDL-C greater than or equal to 70 mg/dL with documented CVD, not adequately controlled with a daily dose of atorvastatin. OR\n2. Patients with screening (visit 1) LDL-C greater than or equal to 100 mg/dL at high risk for CVD who are not adequa",
+            "endpoints": [
+              "Percent Change From Baseline in Calculated LDL-C at Week 24 - Intent-to-treat (ITT) Analysis"
+            ],
+            "sponsor": "Regeneron Pharmaceuticals",
+            "url": "https://clinicaltrials.gov/study/NCT01730040"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03510715",
+            "title": "An Open-Label Study to Evaluate the Efficacy and Safety of Alirocumab in Children and Adolescents With Homozygous Familial Hypercholesterolemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-08-31",
+            "completion_date": "2020-02-17",
+            "country": "Denmark, Spain, Turkey (Türkiye), Canada, Slovenia, Brazil, Mexico, Taiwan, Russia, Netherlands",
+            "enrollment": 18,
+            "brief_summary": "Primary Objective:\n\nTo evaluate the efficacy of alirocumab (75 or 150 milligrams \\[mg\\] depending on body weight \\[BW\\]), administered every 2 weeks (Q2W), on low-density lipoprotein cholesterol (LDL-C) levels at Week 12 of treatment in children and adolescents with homozygous familial hypercholesterolemia (hoFH) of 8 to 17 years of age on top of background treatments.\n\nSecondary Objectives:\n\n* To evaluate the efficacy of alirocumab after 24 and 48 weeks of treatment on LDL-C levels.\n* To evalua",
+            "eligibility_criteria": "Inclusion criteria :\n\n* Participants genetically diagnosed with hoFH.\n* Participants treated with optimal dose of statin +/- other lipid modifying therapies (LMTs), or non-statin LMTs if statin-intolerant at stable dose(s) for at least 4 weeks.\n* A signed informed consent indicating parental permiss",
+            "endpoints": [
+              "Percent Change From Baseline in Low-Density Lipoprotein Cholesterol (LDL-C) at Week 12: Intent-to-Treat (ITT) Analysis"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT03510715"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02107898",
+            "title": "A Randomized, Double-blind, Placebo-controlled, Parallel Group, Multicenter Study to Evaluate the Efficacy and Safety of Alirocumab in Heterozygous Familial Hypercholesterolemia or High Cardiovascular Risk Patients With Hypercholesterolemia Not Adequately Controlled With Their Lipid Modifying Therapy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2014-03",
+            "completion_date": "2015-09",
+            "country": "Japan",
+            "enrollment": 216,
+            "brief_summary": "Primary Objective:\n\nTo demonstrate the reduction of low-density lipoprotein cholesterol (LDL-C) by alirocumab as add-on therapy to stable daily statin therapy with or without other lipid modifying therapy in comparison with placebo after 24 weeks of treatment in heterozygous familial hypercholesterolemia (HeFH) or high cardiovascular risk participants with hypercholesterolemia.\n\nSecondary Objectives:\n\n* To evaluate the effect of alirocumab in comparison with placebo on LDL-C after 12 weeks of tr",
+            "eligibility_criteria": "Inclusion criteria:\n\nParticipants with heterozygous familial hypercholesterolemia or non-familial hypercholesterolemia who were not adequately controlled with a stable daily dose of statin with or without other lipid modifying therapy, at stable dose prior to the screening visit (Week -3).\n\nExclusio",
+            "endpoints": [
+              "Percent Change From Baseline in Calculated LDL-C at Week 24 - Intent-to-Treat (ITT Analysis)"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT02107898"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06632379",
+            "title": "AtorvaStatin Postpartum and Reduction of Cardiovascular risK (SPARK): A Randomized Placebo-controlled Trial of Atorvastatin Postpartum for Reduction of Cardiovascular Risk",
+            "phase": "PHASE4",
+            "status": "RECRUITING",
+            "start_date": "2025-10-03",
+            "completion_date": "2026-12-15",
+            "country": "United States",
+            "enrollment": 76,
+            "brief_summary": "The objective is to conduct a double-blinded randomized controlled trial of atorvastatin vs. placebo among postpartum individuals with hypertensive disorders of pregnancy, to improve cardiovascular risk score postpartum. For this, 76 individuals with hypertensive disorders of pregnancy (HDP) will be randomized to atorvastatin 10mg or placebo, which will be started in the postpartum period after cessation of breast feeding and continued for 3 months.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Postpartum\n2. ≥ 20 years old with the ability to give informed consent\n3. Diagnosis of gestational hypertension, preeclampsia prior to delivery admission, or diagnosed with preeclampsia during delivery admission, as determined by clinical team using the American College of Ob",
+            "endpoints": [
+              "The 30-year Framingham Risk Score for Cardiovascular Disease"
+            ],
+            "sponsor": "Ohio State University",
+            "url": "https://clinicaltrials.gov/study/NCT06632379"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06686615",
+            "title": "Effectiveness and Safety of Bempedoic Acid in Combination With Ezetimibe and Either Rosuvastatin or Atorvastatin in Patients With Primary Hypercholesterolemia or Mixed Dyslipidemia: an Observational Study",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2025-02-12",
+            "completion_date": "2028-01-31",
+            "country": "Spain, Austria, Italy, Belgium, Germany",
+            "enrollment": 2000,
+            "brief_summary": "Data on the real-world use and effectiveness and safety of bempedoic acid combined with both a statin and ezetimibe in clinical practice is limited. There is an increased focus on using combination therapy to lower LDL-C.",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Written informed consent to participate\n2. At least 18 years of age\n3. High and very high risk patients as assessed by the physician suffering from documented primary hypercholesterolemia or mixed dyslipidemia at start of bempedoic acid treatment\n4. Patients treated with:",
+            "endpoints": [
+              "Relative LDL-C change between untreated and 8 week after triple therapy start"
+            ],
+            "sponsor": "Daiichi Sankyo",
+            "url": "https://clinicaltrials.gov/study/NCT06686615"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02584504",
+            "title": "A Randomized, Double-blind, Placebo-controlled, Parallel Group Study to Evaluate the Efficacy and Safety of Alirocumab in Patients With Hypercholesterolemia Not Adequately Controlled With Non-statin Lipid Modifying Therapy or the Lowest Strength of Statin",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-11-30",
+            "completion_date": "2018-01-09",
+            "country": "Japan",
+            "enrollment": 163,
+            "brief_summary": "Primary Objective:\n\nTo demonstrate the reduction of low-density lipoprotein cholesterol (LDL-C) by alirocumab administration as add-on therapy to non-statin lipid modifying therapy (LMT) including diet therapy alone or the lowest strength of statin in comparison with placebo after 12 weeks of treatment in participants with hypercholesterolemia.\n\nSecondary Objective:\n\n* To evaluate the effect of two treatment regimens of alirocumab on other lipid parameters: apolipoprotein B (Apo-B), non-high-den",
+            "eligibility_criteria": "Inclusion criteria :\n\nParticipants with hypercholesterolemia (heFH or non-FH) receiving non statin LMTs or the lowest strength of statin.\n\nExclusion criteria:\n\n* LDL-C \\<100 mg/dL (\\<2.59 mmol/L) at the screening visit (Week -3) in participants with heFH or in participants with non-FH who have a his",
+            "endpoints": [
+              "Percent Change From Baseline in Calculated LDL-C at Week 12- Intent to Treat (ITT) Analysis"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT02584504"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00739999",
+            "title": "A 8-Week, Open-Label, Phase 1 Study To Evaluate Pharmacokinetics, Pharmacodynamics, Safety And Tolerability Of Atorvastatin In Children And Adolescents With Heterozygous Familial Hypercholesterolemia",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2008-12",
+            "completion_date": "2009-05",
+            "country": "Canada, Norway, Greece",
+            "enrollment": 39,
+            "brief_summary": "To evaluate pharmacokinetics, pharmacodynamics, safety and tolerability of atorvastatin in children and adolescents with heterozygous familial hypercholesterolemia",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Genetically confirmed heterozygous familial hypercholesterolemia (HeFH) with LDL greater or equal 4 mmol/L at baseline\n\nExclusion Criteria:\n\n* Evidence or history of clinically significant diseases, homozygous familial hypercholesterolemia (FH)",
+            "endpoints": [
+              "Parent-metabolite Population Pharmacokinetic (PK) Model for Atorvastatin and Its Metabolites: Atorvastatin Apparent Clearance (CL/F)",
+              "Parent-metabolite Population Pharmacokinetic (PK) Model for Atorvastatin and Its Metabolites: Apparent Volume of Distribution of the Central Compartment (Vc/F)"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00739999"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00134511",
+            "title": "Phase 3 Multi-Center, Open Label, Forced Titration Study To Evaluate The Efficacy, Safety, And Tolerability Of Torcetrapib/Atorvastatin Combination Administered Orally, Once Daily (Qd) In Patients With Homozygous Familial Hypercholesterolaemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2005-03",
+            "completion_date": "2005-11",
+            "country": "Canada, United States, South Africa",
+            "enrollment": 30,
+            "brief_summary": "The Torcetrapib project was terminated on December 2, 2006 due to safety findings.\n\nTo evaluate the efficacy and safety of the lipid drug Torcetrapib/atorvastatin in patients with genetically known disorder of extremely high cholesterol",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of Homozygous Familial Hypercholesterolemia\n\nExclusion Criteria:\n\n* Women who are pregnant or lactating, or planning to become pregnant.\n* Subjects with a clinically indicated need for statin (HMG-CoA reductase inhibitor) therapy other than atorvastatin or other conc",
+            "endpoints": [
+              "Change in LDL-C and HDL-C"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00134511"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01954394",
+            "title": "Open-Label Extension Study of EFC12492, R727-CL-1112, EFC12732 and LTS11717 Studies to Assess the Long-Term Safety and Efficacy of Alirocumab in Patients With Heterozygous Familial Hypercholesterolemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-12-17",
+            "completion_date": "2017-06-30",
+            "country": "Denmark, Hungary, Austria, Canada, Portugal, Netherlands, Spain, Norway, Argentina, Israel, United States, Belgium, France, Mexico, Finland, Russia, Romania, Sweden, Italy, United Kingdom, Bulgaria, Germany, Czechia, South Africa",
+            "enrollment": 986,
+            "brief_summary": "Primary Objective:\n\nTo assess the long-term safety of alirocumab (SAR236553/REGN727) when added to lipid-lowering therapy in participants with heterozygous familial hypercholesterolemia (heFH) who had completed EFC12492 (NCT01623115), R727-CL-1112 (NCT01709500), EFC12732 (NCT01617655) and LTS11717 (NCT01507831).\n\nSecondary Objectives:\n\n* To evaluate the long-term efficacy of alirocumab on lipid parameters.\n* To evaluate the long-term immunogenicity of alirocumab.",
+            "eligibility_criteria": "Inclusion criteria:\n\nParticipants with heFH who had completed one of the four parent studies (EFC12492, R727-CL-1112, EFC12732 and LTS11717).\n\nExclusion criteria:\n\nSignificant protocol deviation in the parent study; Any permanent treatment discontinuation from the parent study.\n\nThe above informatio",
+            "endpoints": [
+              "Percentage of Participants Who Experienced Adverse Events (AEs)"
+            ],
+            "sponsor": "Sanofi",
+            "url": "https://clinicaltrials.gov/study/NCT01954394"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01107743",
+            "title": "Caduet® Drug Use Investigation (Regulatory Post Marketing Commitment Plan)",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2010-06",
+            "completion_date": "2012-04",
+            "country": "N/A",
+            "enrollment": 1291,
+            "brief_summary": "In this survey, to collect the safety and efficacy information of Amlodipine /Atorvastatin (Caduet® Combination Tablets) in daily medical practice will be examined. In addition, the necessity of special Investigation and post-marketing clinical studies will be examined, while investigating unexpected adverse drug reactions during the survey period and understanding of the status of frequency of adverse drug reactions in daily medical practice.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female subjects intend to treat their cardiovascular disease who are prescribed Amlodipine /Atorvastatin (Caduet®) Combination Tablets by their Physicians\n\nExclusion Criteria:\n\nSubjects who have been prescribed Amlodipine /Atorvastatin (Caduet®) Combination Tablets bef",
+            "endpoints": [
+              "Number of Treatment Related Adverse Events.",
+              "Number of Participants That Responded to Amlodipine/Atorvastatin Treatment With Hypertension.",
+              "Number of Participants That Responded to Amlodipine/Atorvastatin Treatment With Angina Pectoris."
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT01107743"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01279590",
+            "title": "A Double-blind, Randomized, Placebo-controlled and Active-comparator-controlled Phase 2b Study to Evaluate Statin-associated Myalgia Incidence, Lipid Profile Effect, and Safety and Tolerability Associated With PPD10558 Versus Atorvastatin in Patients With Primary Hypercholesterolemia, Fredrickson IIa or IIb, Who Have Discontinued Two or More Prior Statin Therapies Due to Statin-associated Myalgia",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2011-03",
+            "completion_date": "2011-11",
+            "country": "United States",
+            "enrollment": 282,
+            "brief_summary": "The purpose of this study is to assess the incidence of statin-associated myalgia (SAM) with treatment with PPD10558 versus atorvastatin in patients previously intolerant to statins.\n\nTo assess the safety and tolerability of PPD10558 compared to atorvastatin in patients previously intolerant to statins.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* diagnosis of primary hypercholesterolemia (heterozygous familial and nonfamilial) Fredrickson types IIa or IIb.\n* history of statin-associated myalgia, as defined by being unable to tolerate two previous statins due to muscle pain, aches, weakness, or cramping that begins or i",
+            "endpoints": [
+              "Incidence of stopping treatment with double-blinded study drug due to statin-associated myalgia."
+            ],
+            "sponsor": "Furiex Pharmaceuticals, Inc",
+            "url": "https://clinicaltrials.gov/study/NCT01279590"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03885921",
+            "title": "Long-Term, Open-Label, Safety and Tolerability Study of SCH 58235 in Addition to Atorvastatin or Simvastatin in the Therapy of Homozygous Familial Hypercholesterolemia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2000-10-25",
+            "completion_date": "2003-07-08",
+            "country": "N/A",
+            "enrollment": 44,
+            "brief_summary": "The primary purpose of this study is to evaluate the long-term safety and tolerability of ezetimibe (SCH 058235/MK-0653) 10 mg dosed daily and co-administered with either atorvastatin or simvastatin for up to 24 months in participants with homozygous familial hypercholesterolemia (FH).\n\nFollowing completion of the 12-week, double-blind, efficacy and safety parent study (P01030/MK-0653-018; NCT03884452) participants will be offered entry into this open-label, 24-month extension study.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Has successfully completed the 12-week double-blind, efficacy and safety study of ezetimibe (Study P01030/MK-0653-018). Entry into this protocol must occur at the time of completion of Study P01030/MK-0653-018.\n* All women must have a negative pregnancy test prior to study ent",
+            "endpoints": [
+              "Number of Participants Who Experience an Adverse Event (AE)",
+              "Number of Participants Who Discontinue Study Treatment Due to an Adverse Event (AE)"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT03885921"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "39751968",
+            "title": "Homozygous Familial Hypercholesterolemia Treatment: New Developments.",
+            "abstract": "Homozygous familial hypercholesterolaemia (HoFH) is characterized by marked elevation of low-density lipoprotein cholesterol (LDLC) and premature atherosclerotic cardiovascular disease. This is a review of novel pharmacological therapies to lower LDLC in patients with HoFH.",
+            "journal": "Current atherosclerosis reports",
+            "year": "2025",
+            "authors": [
+              "Blom Dirk J",
+              "Marais A David",
+              "Raal Frederick J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Receptors, LDL",
+              "Homozygous Familial Hypercholesterolemia",
+              "Cholesterol, LDL",
+              "Anticholesteremic Agents",
+              "Antibodies, Monoclonal",
+              "Hyperlipoproteinemia Type II"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39751968/"
+          },
+          {
+            "pmid": "35361995",
+            "title": "Combining familial hypercholesterolemia and statin genetic studies as a strategy for the implementation of pharmacogenomics. A multidisciplinary approach.",
+            "abstract": "The diagnostic process of familial hypercholesterolemia frequently involves the use of genetic studies. Patients are treated with lipid-lowering drugs, frequently statins. Although pharmacogenomic clinical practice guidelines focusing on genotype-based statin prescription have been published, their use in routine clinical practice remains very modest.We have implemented a new NGS strategy that combines a panel of genes related to familial hypercholesterolemia with genomic regions related to the pharmacogenomics of lipid-lowering drugs described in clinical practice guidelines and in EMA and FDA drug labels. A multidisciplinary team of doctors, biologists, and pharmacists creates a clinical report that provides diagnostic and therapeutic findings using a knowledge management and clinical decision support system, as well as an algorithm for treatment selection.For 12 months, a total of 483 genetic diagnostic studies for familial hypercholesterolemia were carried out, of which 221 (45.8%)",
+            "journal": "The pharmacogenomics journal",
+            "year": "2022",
+            "authors": [
+              "Ramudo-Cela Luis",
+              "Santana-Martínez Sara",
+              "García-Ramos Maite",
+              "Bergamino Mariano",
+              "García-Giustiniani Diego"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Atorvastatin",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Hyperlipoproteinemia Type II",
+              "Pharmacogenetics",
+              "Simvastatin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35361995/"
+          },
+          {
+            "pmid": "12269853",
+            "title": "Rosuvastatin.",
+            "abstract": "Rosuvastatin is a hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitor used in the treatment of patients with dyslipidaemia. Rosuvastatin is not extensively metabolised and has a low propensity for drug interactions. In well designed trials of between 6 and 52 weeks' duration, rosuvastatin was superior to atorvastatin, simvastatin and pravastatin in improving the lipid profile of patients with hypercholesterolaemia. In a 1-year dose-titration study, rosuvastatin 13.4mg daily (mean dose) allowed more patients to achieve US National Cholesterol Education Program (Adult Treatment panel II)[NCEP] target low-density lipoprotein (LDL)-cholesterol levels than atorvastatin 20.8mg daily (98 vs 87%) with the difference most marked in high-risk patients (97 vs 61%). Similarly, when compared with pravastatin and simvastatin 20 mg/day in a further 1-year trial, 88% of rosuvastatin recipients [9.5 and 13.8 mg/day (mean doses)] achieved NCEP target serum LDL-cholesterol levels compared with",
+            "journal": "Drugs",
+            "year": "2002",
+            "authors": [
+              "Carswell Christopher I",
+              "Plosker Greg L",
+              "Jarvis Blair"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Clinical Trials as Topic",
+              "Fluorobenzenes",
+              "Humans",
+              "Hypercholesterolemia",
+              "Pyrimidines",
+              "Rosuvastatin Calcium",
+              "Sulfonamides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12269853/"
+          },
+          {
+            "pmid": "28437620",
+            "title": "AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS AND AMERICAN COLLEGE OF ENDOCRINOLOGY GUIDELINES FOR MANAGEMENT OF DYSLIPIDEMIA AND PREVENTION OF CARDIOVASCULAR DISEASE.",
+            "abstract": "The development of these guidelines is mandated by the American Association of Clinical Endocrinologists (AACE) Board of Directors and American College of Endocrinology (ACE) Board of Trustees and adheres with published AACE protocols for the standardized production of clinical practice guidelines (CPGs).",
+            "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+            "year": "2017",
+            "authors": [
+              "Jellinger Paul S",
+              "Handelsman Yehuda",
+              "Rosenblit Paul D",
+              "Bloomgarden Zachary T",
+              "Fonseca Vivian A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cardiovascular Diseases",
+              "Cholesterol, LDL",
+              "Diabetes Mellitus, Type 2",
+              "Dyslipidemias",
+              "Endocrinologists",
+              "Female",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Practice Guidelines as Topic",
+              "Proprotein Convertase 9"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28437620/"
+          },
+          {
+            "pmid": "14727947",
+            "title": "Ezetimibe.",
+            "abstract": "Ezetimibe, a synthetic 2-azetidinone, is the first of a new class of compounds that selectively inhibits the absorption of cholesterol and related plant sterols in the intestine. The drug, and its glucuronyl metabolite, are thought to inhibit a putative cholesterol transporter of enterocytes, located within the brush-border membrane of the small intestine. In large, randomized, placebo-controlled, 12-week trials, ezetimibe reduced levels of low density lipoprotein-cholesterol (LDL-C) by approximately 18%; triglyceride levels were reduced by approximately 6% in one trial but not another. Ezetimibe produced a modest increase in levels of high density lipoprotein-cholesterol. Moreover, reductions in LDL-C and triglyceride levels were greater in patients treated with ezetimibe coadministered with a statin (lovastatin, pravastatin, atorvastatin or simvastatin), than with either of those agents given alone. The coadministration of the lowest statin dose and ezetimibe produced similar LDL-C r",
+            "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+            "year": "2003",
+            "authors": [
+              "Darkes Malcolm J M",
+              "Poole Raewyn M",
+              "Goa Karen L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticholesteremic Agents",
+              "Azetidines",
+              "Cholesterol, LDL",
+              "Clinical Trials as Topic",
+              "Ezetimibe",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Hypercholesterolemia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14727947/"
+          },
+          {
+            "pmid": "9793596",
+            "title": "Atorvastatin in the treatment of primary hypercholesterolemia and mixed dyslipidemias.",
+            "abstract": "To review the efficacy and safety of atorvastatin in the treatment of dyslipidemias.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "1998",
+            "authors": [
+              "Yee H S",
+              "Fong N T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "Clinical Trials as Topic",
+              "Heptanoic Acids",
+              "Humans",
+              "Hypercholesterolemia",
+              "Hyperlipidemias",
+              "Pyrroles",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9793596/"
+          },
+          {
+            "pmid": "26988948",
+            "title": "Improving the Monitoring and Care of Patients With Familial Hypercholesterolemia.",
+            "abstract": "",
+            "journal": "Journal of the American College of Cardiology",
+            "year": "2016",
+            "authors": [
+              "Hegele Robert A"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "Cholesterol, LDL",
+              "Ezetimibe",
+              "Female",
+              "Humans",
+              "Hyperlipoproteinemia Type II",
+              "Male",
+              "Registries",
+              "Rosuvastatin Calcium"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26988948/"
+          },
+          {
+            "pmid": "38459255",
+            "title": "A novel mouse model of familial combined hyperlipidemia and atherosclerosis.",
+            "abstract": "Within the context of residual cardiovascular risk in post-statin era, emerging evidence from epidemiologic and human genetic studies have demonstrated that triglyceride (TG)-rich lipoproteins and their remnants are causally related to cardiovascular risk. While, carriers of loss-of-function mutations of ApoC3 have low TG levels and are protected from cardiovascular disease (CVD). Of translational significance, siRNAs/antisense oligonucleotide (ASO) targeting ApoC3 is beneficial for patients with atherosclerotic CVD. Therefore, animal models of atherosclerosis with both hypercholesterolemia and hypertriglyceridemia are important for the discovery of novel therapeutic strategies targeting TG-lowering on top of traditional cholesterol-lowering. In this study, we constructed a novel mouse model of familial combined hyperlipidemia through inserting a human ApoC3 transgene (hApoC3-Tg) into C57BL/6 J mice and injecting a gain-of-function variant of adeno-associated virus-proprotein convertas",
+            "journal": "Acta pharmacologica Sinica",
+            "year": "2024",
+            "authors": [
+              "Chen Mei-Jie",
+              "Xu Yi-Tong",
+              "Sun Lu",
+              "Wang Zhi-Hua",
+              "Little Peter J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Atherosclerosis",
+              "Disease Models, Animal",
+              "Mice, Inbred C57BL",
+              "Humans",
+              "Mice",
+              "Mice, Transgenic",
+              "Hyperlipidemia, Familial Combined",
+              "Apolipoprotein C-III",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38459255/"
+          },
+          {
+            "pmid": "10582478",
+            "title": "[Atorvastatin (Lipitor)].",
+            "abstract": "Atorvastatin is a second generation synthetic statin, introduced in Belgium in May 1998. Its mechanism of action is similar to that of the other statins, i.e. the inhibition of HMG Co-A reductase, the key enzyme in cholesterol synthesis, which leads to the increase of LDL receptors. The prolonged half-life (20-30 H) of atorvastatin and its active metabolites, induces a prolonged inhibition of HMG Co-A reductase and a reduction of hepatitic apo B production. The biological efficacy of atorvastatin is high: 41 to 61% lowering of LDL depending of the dose. Atorvastatin is indicated in primary hypercholesterolemia, mixed hyperlipidemia and homozygous familial hypercholesterolemia. If necessary, a resin or even a fibrate may be added. The safety profile is good. The most common adverse effects are gastro-intestinal and transient. Liver tests or muscle enzymes are rarely modified. If clinical proof of reduction of CV morbidity and mortality in primary and secondary prevention is obtained, at",
+            "journal": "Revue medicale de Bruxelles",
+            "year": "1999",
+            "authors": [
+              "Carpentier Y",
+              "Ducobu J",
+              "Sternon J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "Belgium",
+              "Drug Costs",
+              "Heptanoic Acids",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Hypercholesterolemia",
+              "Primary Prevention",
+              "Pyrroles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10582478/"
+          },
+          {
+            "pmid": "27417002",
+            "title": "Statins in Familial Hypercholesterolemia: Consequences for Coronary Artery Disease and All-Cause Mortality.",
+            "abstract": "A statin-induced reduction of coronary artery disease (CAD) events and mortality has not been adequately quantified in patients with heterozygous familial hypercholesterolemia (FH).",
+            "journal": "Journal of the American College of Cardiology",
+            "year": "2016",
+            "authors": [
+              "Besseling Joost",
+              "Hovingh G Kees",
+              "Huijgen Roeland",
+              "Kastelein John J P",
+              "Hutten Barbara A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Atorvastatin",
+              "Cause of Death",
+              "Coronary Artery Disease",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Heterozygote",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Hyperlipoproteinemia Type II"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27417002/"
+          },
+          {
+            "pmid": "36928267",
+            "title": "Achievement Rates for Low-Density Lipoprotein Cholesterol Goals in Patients at High Risk of Atherosclerotic Cardiovascular Disease in a Real-World Setting in Japan.",
+            "abstract": "The study aimed to investigate low-density lipoprotein cholesterol (LDL-C) goal achievement rates in patients receiving LDL-C-lowering therapy using recent real-world data, following the 2017 revision of the Japan Atherosclerosis Society Guidelines for Prevention of Atherosclerotic Cardiovascular Diseases (JAS GL2017).",
+            "journal": "Journal of atherosclerosis and thrombosis",
+            "year": "2023",
+            "authors": [
+              "Mitani Hironobu",
+              "Suzuki Kota",
+              "Ako Junya",
+              "Iekushi Kazuma",
+              "Majewska Renata"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Cholesterol, LDL",
+              "Goals",
+              "Cardiovascular Diseases",
+              "Japan",
+              "Treatment Outcome",
+              "Ezetimibe",
+              "Atherosclerosis",
+              "Anticholesteremic Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36928267/"
+          },
+          {
+            "pmid": "40254247",
+            "title": "Translational insights into statin-induced myotoxicity: Differential impact of lipophilic and hydrophilic statins on iPSC-derived skeletal muscle cells from patients with familial hypercholesterolemia.",
+            "abstract": "Statins are highly effective cholesterol-lowering drugs that can reduce the risk of cardiovascular events. Statins are well tolerated but some patients experience statin-associated muscle symptoms (SAM) that can reduce adherence to therapy. We investigated molecular mechanisms statin-induced myotoxicity using induced pluripotent stem cells (iPSC)-derived skeletal muscle (SKgM) cells. iPSC-SKgM cells were obtained from patients with familial hypercholesterolemia (FH) experiencing SAM (n = 3) or not (nonSAM, n = 3). iPSC-SkgM cells were treated with atorvastatin and rosuvastatin (1 to 100 µM). Statin cytotoxicity was assessed by functional assays (cell death, mitochondrial damage, caspase 3/7 activity). iPSC-SkgM cells from SAM patients were more sensitive to atorvastatin toxicity than nonSAM cells (p < 0.05), recapitulating the phenotype of SAM patients. Rosuvastatin was less cytotoxic than atorvastatin in iPSC-SkgM (p < 0.05) from both SAM and nonSAM patients. Transcriptomic analysis r",
+            "journal": "Toxicology",
+            "year": "2025",
+            "authors": [
+              "Bortolin Raul Hernandes",
+              "de Souza Leite Felipe",
+              "Luchessi Andre Ducati",
+              "Esposito Joyce",
+              "Barbosa Igor Neves"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Induced Pluripotent Stem Cells",
+              "Atorvastatin",
+              "Rosuvastatin Calcium",
+              "Hyperlipoproteinemia Type II",
+              "Myotoxicity",
+              "Muscle, Skeletal",
+              "Male",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40254247/"
+          },
+          {
+            "pmid": "30270066",
+            "title": "Treatment pattern of familial hypercholesterolemia in Slovakia: Targets, treatment and obstacles in common practice.",
+            "abstract": "Maximal doses of potent statins are the cornerstone of treatment of familial hypercholesterolemia (FH). Despite this, a substantial proportion of FH patients are either under-treated or not treated at all. The aim of this work was to evaluate, in a retrospective study, the treatment of FH patients, the proportion of FH patients reaching low-density lipoprotein cholesterol (LDL-C) goals, and reasons for not reaching LDL-C goals, in 8 lipid clinics in Slovakia dealing with FH patients.",
+            "journal": "Atherosclerosis",
+            "year": "2018",
+            "authors": [
+              "Vohnout Branislav",
+              "Fábryová Ľubomíra",
+              "Klabník Alexander",
+              "Kadurová Michaela",
+              "Bálinth Karin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticholesteremic Agents",
+              "Biomarkers",
+              "Cardiovascular Diseases",
+              "Cholesterol, LDL",
+              "Down-Regulation",
+              "Drug Therapy, Combination",
+              "Ezetimibe",
+              "Female",
+              "Genetic Predisposition to Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30270066/"
+          },
+          {
+            "pmid": "11383320",
+            "title": "Treatment of heterozygous familial hypercholesterolemia: atorvastatin vs simvastatin.",
+            "abstract": "This study compares the cholesterol-lowering efficacy of atorvastatin and simvastatin in attainment of the National Cholesterol Education Program (NCEP) guidelines LDL-cholesterol (LDL-C) goal in patients with heterozygous familial hypercholesterolemia (HFH). The association of atorvastatin with significant changes of blood fibrinogen and other coagulative variables was also compared with that of simvastatin.",
+            "journal": "Nutrition, metabolism, and cardiovascular diseases : NMCD",
+            "year": "2001",
+            "authors": [
+              "Bo M",
+              "Nicolello M T",
+              "Fiandra U",
+              "Mercadante G",
+              "Piliego T"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Anticholesteremic Agents",
+              "Apolipoproteins",
+              "Atorvastatin",
+              "Cholesterol, HDL",
+              "Cholesterol, LDL",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Fibrinogen",
+              "Heptanoic Acids",
+              "Heterozygote"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11383320/"
+          },
+          {
+            "pmid": "27678432",
+            "title": "A 3-year study of atorvastatin in children and adolescents with heterozygous familial hypercholesterolemia.",
+            "abstract": "The efficacy and safety of atorvastatin in children/adolescents aged 10-17 years with heterozygous familial hypercholesterolemia (HeFH) have been demonstrated in trials of up to 1 year in duration. However, the efficacy/safety of >1 year use of atorvastatin in children/adolescents with HeFH, including children from 6 years of age, has not been assessed.",
+            "journal": "Journal of clinical lipidology",
+            "year": "2016",
+            "authors": [
+              "Langslet Gisle",
+              "Breazna Andrei",
+              "Drogari Euridiki"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anticholesteremic Agents",
+              "Apolipoprotein B-100",
+              "Atorvastatin",
+              "Child",
+              "Cholesterol, LDL",
+              "Female",
+              "Heterozygote",
+              "Humans",
+              "Hyperlipoproteinemia Type II"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27678432/"
+          },
+          {
+            "pmid": "15199433",
+            "title": "Diagnostic, clinical, and therapeutic aspects of familial hypercholesterolemia in children.",
+            "abstract": "The clinical diagnosis of familial hypercholesterolemia (FH) in children is based on family history and laboratory findings. The best available value of low-density lipoprotein cholesterol (LDL-C) for the diagnosis of FH in children is >3.50 mmol/L (>135 mg/dL) when FH runs in the family. Levels below this concentration were only found in 4.3% of children that had a mutation in the LDL-receptor gene. In contrast, children with LDL-C equal to or above 3.50 mmol/L had 0.98 posttest probability of FH. Untreated FH carries a substantial burden of morbidity and mortality if left untreated or if inadequately treated. The guidelines of the American National Cholesterol Education Program suggested that drug treatment should be considered from the age of 10 years if LDL-C levels are greater than or equal to 4.9 mmol/L (190 mg/dL) or greater than or equal to 4.1 mmol/L (158 mg/dL) in the presence of other cardiovascular risk factors, including a positive family history of premature cardiovascula",
+            "journal": "Seminars in vascular medicine",
+            "year": "2004",
+            "authors": [
+              "Ose Leiv"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Child Welfare",
+              "Humans",
+              "Hyperlipoproteinemia Type II"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15199433/"
+          },
+          {
+            "pmid": "22957727",
+            "title": "Atorvastatin treatment improves myocardial and peripheral blood flow in familial hypercholesterolemia subjects without evidence of coronary atherosclerosis.",
+            "abstract": "Hypercholesterolemia induces early microcirculatory functional and structural alterations that are reversible by cholesterol reduction. Real time myocardial contrast echocardiography (RTMCE) and vascular ultrasound evaluate the effects of hyperlipidemia on peripheral and central blood flow reserve. This study investigated the effects of lipid-lowering therapy on coronary and peripheral artery circulation in patients with familial hypercholesterolemia (FH).",
+            "journal": "Echocardiography (Mount Kisco, N.Y.)",
+            "year": "2013",
+            "authors": [
+              "Lario Fabio C",
+              "Miname Marcio H",
+              "Tsutsui Jeane M",
+              "Santos Raul D",
+              "Kowatsch Ingrid"
+            ],
+            "pub_types": [
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "Blood Flow Velocity",
+              "Coronary Artery Disease",
+              "Coronary Circulation",
+              "Female",
+              "Heptanoic Acids",
+              "Humans",
+              "Hyperlipoproteinemia Type II"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22957727/"
+          },
+          {
+            "pmid": "34640319",
+            "title": "Clinical Features of Familial Hypercholesterolemia in Children and Adults in EAS-FHSC Regional Center for Rare Diseases in Poland.",
+            "abstract": "Familial hypercholesterolemia (FH) is a genetic autosomal co-dominant metabolic disorder leading to elevated circulating concentrations of low-density lipoprotein cholesterol (LDL-C). Early development of atherosclerotic cardiovascular disease (ASCVD) is common in affected patients. We aimed to evaluate the characteristics and differences in the diagnosis and therapy of FH children and adults. Methods: All consecutive patients who were diagnosed with FH, both phenotypically and with genetic tests, were included in this analysis. All patients are a part of the European Atherosclerosis Society FH-Study Collaboration (FHSC) regional center for rare diseases at the Polish Mother's Memorial Hospital Research Institute (PMMHRI) in Lodz, Poland. Results: Of 103 patients with FH, there were 16 children (15.5%) at mean age of 9 ± 3 years and 87 adults aged 41 ± 16; 59% were female. Children presented higher mean levels of total cholesterol, LDL-C, and high-density lipoprotein cholesterol (HDL-C",
+            "journal": "Journal of clinical medicine",
+            "year": "2021",
+            "authors": [
+              "Lewek Joanna",
+              "Konopka Agnieszka",
+              "Starostecka Ewa",
+              "Penson Peter E",
+              "Maciejewski Marek"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34640319/"
+          },
+          {
+            "pmid": "9301631",
+            "title": "Atorvastatin: an effective lipid-modifying agent in familial hypercholesterolemia.",
+            "abstract": "Hydroxymethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors are the drugs of choice in heterozygous familial hypercholesterolemia (FH), which has a high risk of ischemic heart disease. An open-label study was conducted to test the efficacy and safety of atorvastatin, a new synthetic HMG-CoA reductase inhibitor in proven FH. After a 4-week placebo phase, 22 subjects were randomized to either 80 mg atorvastatin at night (n = 11) or 40 mg twice a day for 6 weeks. The two dosage groups were well matched and had no difference in lipoprotein responses. After 6 weeks, the LDL cholesterol concentration was reduced by 57%, from 8.16 +/- 1.15 to 3.53 +/- 0.99 mmol/L (P < .001). The total cholesterol concentration decreased from 9.90 +/- 1.32 to 5.43 mmol/L (P < .001). HDL cholesterol concentration increased from 1.19 +/- 0.31 to 1.49 +/- 0.43 mmol/L (P < .001). Triglyceride concentrations decreased from 1.34 +/- 0.66 to 0.88 +/- 0.36 mmol/L (P < .01). Three subjects had single, transient inc",
+            "journal": "Arteriosclerosis, thrombosis, and vascular biology",
+            "year": "1997",
+            "authors": [
+              "Marais A D",
+              "Firth J C",
+              "Bateman M E",
+              "Byrnes P",
+              "Martens C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticholesteremic Agents",
+              "Apolipoproteins A",
+              "Apolipoproteins B",
+              "Atorvastatin",
+              "Cholesterol, HDL",
+              "Cholesterol, LDL",
+              "Enzyme Inhibitors",
+              "Female",
+              "Heptanoic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9301631/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Atorvastatin",
+          "disease": "familial hypercholesterolemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Atorvastatin%20familial%20hypercholesterolemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "HIV infectious disease",
+        "txgnn_score": 0.9930846691131592,
+        "txgnn_rank": 1510,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00367458",
+            "title": "A Randomized Placebo Controlled Trial of Atorvastatin in HIV Positive Patients Not on Antiretroviral Medications With the Specific Aims of Studying the Effects of Atorvastatin on HIV Viral Load and Immune Activation Markers",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2006-10-18",
+            "completion_date": "2008-06-19",
+            "country": "United States",
+            "enrollment": 24,
+            "brief_summary": "This study will examine the effects of atorvastatin, a statin (drug that lowers cholesterol) on the human immunodeficiency virus (HIV). If not treated, HIV infection causes an incurable, progressive deficiency in the immune system that leads to death, usually from disease that takes advantage of weakened immunity. Previous studies, however, have suggested that if the amount of cholesterol in infected cells is reduced, multiplication of HIV is also reduced. In this study, researchers will examine",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n* Adults 18 years of age or older.\n* Human Immunodeficiency Virus -1 (HIV-1) infection, as documented by a licensed Enzyme-Linked Immunosorbent Assay (ELISA) test kit and confirmed by a Western blot assay at any time point prior to study entry or at study entry (May do after in",
+            "endpoints": [
+              "Change in Human Immunodeficiency Virus 1 (HIV-1) Ribonucleic Acid (RNA) Levels"
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT00367458"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04101136",
+            "title": "Effect of Atorvastatin on Subclinical Atherosclerosis in Virally-suppressed HIV-infected Patients With CMV Seropositivity: a Randomized Double-blind Placebo-controlled Trial",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2019-09-30",
+            "completion_date": "2021-07-15",
+            "country": "Indonesia",
+            "enrollment": 80,
+            "brief_summary": "Statin administration is supposed to reduce subclinical atherosclerosis by decreasing LDL cholesterol levels, possibly via lipid-independent anti-inflammatory effect. Its pleiotropic properties also adding beneficial effect against CMV infection.\n\nThe investigators plan to study atorvastatin in virally- suppressed HIV-infected patients on stable ART with CMV seropositive and statin-naïve to evaluate the subclinical atherosclerosis changes assessed by carotid intima media thickness (CIMT).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Ages between 20 to 45 years old\n* Using stable ART at least 1 year\n* Positive IgG CMV\n* Viral load HIV RNA \\<50 copies / ml\n\nExclusion Criteria:\n\n* Undergoing hepatitis C DAA therapy\n* Decompensated cirrhosis or acute liver failure\n* History of coronary artery disease\n* Diabet",
+            "endpoints": [
+              "Carotid intima medial tunica change"
+            ],
+            "sponsor": "Dr Cipto Mangunkusumo General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04101136"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00663234",
+            "title": "Phase I/II Safety and Efficacy Investigation of Atorvastatin for Treatment of PI-Associated Increased LDL Cholesterol in HIV-Infected Children and Adolescents",
+            "phase": "PHASE1, PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2009-08",
+            "completion_date": "2014-12",
+            "country": "United States",
+            "enrollment": 28,
+            "brief_summary": "Treatment of HIV with combination antiretroviral regimens frequently results in the suppression of HIV viral load, significant immune recovery, and delayed disease progression. However, treatment with these regimens, particularly protease inhibitors (PIs), has been associated with significant increases in cholesterol and triglycerides in HIV-infected adults and children. The purpose of this study was to evaluate the safety and effectiveness of escalating doses of atorvastatin, a FDA-approved dru",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A diagnosis of HIV-1 infection\n* CD4 % of at least 15 at screening\n* HIV-1 viral load of less than 10,000 copies/ml at screening\n* On a stable antiretroviral therapy regimen for at least 6 months\n* Tanner stage of 2 or higher\n* At least two LDL-C measurements of 130 mg/dL or h",
+            "endpoints": [
+              "Percentage of Participants Experiencing at Least One Treatment-related Adverse Event (AE)",
+              "Percentage of Participants Experiencing at Least One Adverse Event (AE)",
+              "Percentage of Participants Who Met the LDL Cholesterol (LDL-C) Efficacy Criteria (Intention to Treat)"
+            ],
+            "sponsor": "International Maternal Pediatric Adolescent AIDS Clinical Trials Group",
+            "url": "https://clinicaltrials.gov/study/NCT00663234"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00000941",
+            "title": "Evaluation of Potential Pharmacokinetic Interactions Between Protease Inhibitors and Lipid Lowering Agents",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "2002-03",
+            "country": "United States",
+            "enrollment": 56,
+            "brief_summary": "The purpose of this study is to find out whether taking protease inhibitors (anti-HIV drugs) together with lipid-lowering drugs (drugs which lower the amount of fat in the blood) has an effect on the level of drugs found in the blood compared to when these drugs are taken separately. The three protease inhibitors given in this study are ritonavir, saquinavir, and nelfinavir. The lipid-lowering drugs given are pravastatin, simvastatin, and atorvastatin.\n\nAnti-HIV drug therapy using protease inhib",
+            "eligibility_criteria": "Inclusion Criteria\n\nYou may be eligible for this study if you:\n\n* Are HIV-negative.\n* Are between the ages of 18 and 60.\n* Agree to use a barrier method of birth control (e.g., a condom) during the study.\n\nExclusion Criteria\n\nYou will not be eligible for this study if you:\n\n* Have a history of a chr",
+            "endpoints": [],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00000941"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06199921",
+            "title": "Atorvastatin-containing Treatment Regimens for Pulmonary Tuberculosis: A Randomized, Open-label, Controlled phase2C/3 Clinical Trial",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2024-01-03",
+            "completion_date": "2026-09-30",
+            "country": "Nigeria",
+            "enrollment": 440,
+            "brief_summary": "Tuberculosis (TB) is caused by mycobacterial organism. It is the leading infectious disease cause of death globally. According to recent estimates from the World Health Organization (WHO), over 10 million new cases and 1.6 million deaths from TB occurred in 2021. The vast majority of TB cases and TB deaths are in developing countries. Nigeria has the highest TB burden in Africa with a high number of undetected TB cases as well. The spread of HIV has fueled the TB epidemic, and TB is the leading ",
+            "eligibility_criteria": "Inclusion Criteria:\n\nIndividuals must meet all the following inclusion criteria in order to participate in this study:\n\nA. Suspected pulmonary tuberculosis plus one or both of the following: a) at least one sputum specimen positive for acid-fast bacilli on smear microscopy OR b) at least one sputum ",
+            "endpoints": [
+              "Safety: Proportion of participants with grade 3 or higher adverse events during study drug treatment",
+              "Efficacy: TB disease-free survival at six months post randomization",
+              "Efficacy:Time to stable sputum culture conversion on solid and /liquid media"
+            ],
+            "sponsor": "Obafemi Awolowo University Teaching Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06199921"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05925140",
+            "title": "Comparative LUSZ Therapeutic Study of Antiviral, Antiretroviral, and Immunosuppressive Treatments in Hospitalized COVID-19 Patients With High-Risk Factors, Biomarkers, and Disease Progression.",
+            "phase": "PHASE1",
+            "status": "UNKNOWN",
+            "start_date": "2020-03-28",
+            "completion_date": "2025-12-30",
+            "country": "Lebanon",
+            "enrollment": 1000,
+            "brief_summary": "This study aims first to assess the efficacy, safety, and effectiveness of the LUSZ COVID-19 therapy consisting of a comparative study of three different treatment approaches: antiviral, antiretroviral, and immunosuppressive IL-6 receptor antagonist, and second to identify high-risk factors and biomarkers associated with fatal outcomes in hospitalized COVID-19 patients. The study seeks to validate a novel predictive scoring model for disease progression and evaluate the impact of these treatment",
+            "eligibility_criteria": "Eligibility Criteria for Hospitalized Patients:\n\nInclusion criteria:\n\n* Age ≥ 18 years.\n* Gender-neutral\n* Fulfills WHO case definition, including a positive PCR for COVID-19 from any specimen (e.g., nasopharyngeal, throat, saliva, urine, stool, and other bodily fluid).\n* Not received any therapy (r",
+            "endpoints": [
+              "Mortality rate",
+              "Clinical improvement rate"
+            ],
+            "sponsor": "Lebanese University",
+            "url": "https://clinicaltrials.gov/study/NCT05925140"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02577042",
+            "title": "Study of the Effect of Atorvastatin for Reducing \"Inflaming\" (Aging-related Complication) in HIV-infected Patients Older Than 45 Years Receiving a Protease Inhibitor-based Regimen Versus a Raltegravir-based Regimen",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2015-10-15",
+            "completion_date": "2018-06-04",
+            "country": "Spain",
+            "enrollment": 42,
+            "brief_summary": "Physicians in charge of HIV-infected patients are increasingly being faced to previously unrecognized comorbid conditions such as atherosclerosis and cardiovascular events, loss of renal function, osteopenia/osteoporosis and bone fractures or non-AIDS-defining cancers (1-4). The incidence of these conditions seems to be higher than in the general population but there are controversial data about if these diseases appear at a younger age in HIV-infected patients.\n\nThe investigators propose a stra",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient having a diagnosis of HIV-1 infection.\n* Age 45 years old.\n* Current highly active antiretroviral therapy including Truvada or Kivexa plus a ritonavir boosted PI started at least 3 months before.\n* Maintained undetectable plasma HIV-1 RNA (VL \\< 50 copies/mL) for at le",
+            "endpoints": [
+              "Changes in the Inflammatory Marker IL-6",
+              "Changes in Plasma Soluble Markers (D-dimer)"
+            ],
+            "sponsor": "Fundación FLS de Lucha Contra el Sida, las Enfermedades Infecciosas y la Promoción de la Salud y la Ciencia",
+            "url": "https://clinicaltrials.gov/study/NCT02577042"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01442428",
+            "title": "Randomized Controlled Trial for Corticosteroids Versus NSAIDs With or Without Adjunctive Atorvastatin for the Treatment for Paradoxical Tuberculosis Immune Reconstitution Inflammatory Syndrome",
+            "phase": "PHASE2, PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2014-01",
+            "completion_date": "2016-06",
+            "country": "Thailand",
+            "enrollment": 0,
+            "brief_summary": "Tuberculosis is the most common opportunistic infection (OI) in HIV-infected persons worldwide, including in South East Asia. Significant numbers of patients experience tuberculosis-related paradoxical immune reconstitution inflammatory syndrome (TB-IRIS) after ART initiation, yet the optimal treatment of TB-IRIS is unknown. A recent randomized-controlled trial showed the benefit of prednisone over placebo in reduction of days of hospitalization and invasive procedures. The investigators hypothe",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infection documented by any locally licensed ELISA or rapid HIV test kit.\n* Age \\>18 years\n* Paradoxical TB-IRIS diagnosed by case definition (see section 5.2)\n* Ability and willingness of the participant or legal guardian/representative to give informed consent. Receivi",
+            "endpoints": [
+              "Change in Clinical Symptom Score at Day 7, as measured by the 10-point visual analog scale to quantify symptom severity.",
+              "Change in serum C-reactive protein at Day 7"
+            ],
+            "sponsor": "University of Minnesota",
+            "url": "https://clinicaltrials.gov/study/NCT01442428"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00965185",
+            "title": "Statin Therapy to Improve Inflammation and Atherosclerosis in HIV Patients",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-09",
+            "completion_date": "2014-01",
+            "country": "United States",
+            "enrollment": 40,
+            "brief_summary": "In HIV patients, statin therapy will attenuate plaque inflammation, thus, making plaques less vulnerable, will deter plaque progression, and improve endothelial function. In addition to known cholesterol-lowering and C-reactive protein lowering effects, immunomodulatory effects of statins will lead to a shift from pro-inflammatory monocyte and T cell subsets to less atherogenic subpopulations.",
+            "eligibility_criteria": "Inclusion criteria:\n\n1. Men and women age 18-60 with previously diagnosed HIV disease\n2. Subclinical coronary artery disease as defined by presence of one or more plaque on coronary CTA without history of cardiac events or cardiac symptoms and no evidence of critical coronary stenosis. Target to bac",
+            "endpoints": [
+              "Coronary and Aortic Plaque Inflammation"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00965185"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01766076",
+            "title": "Use of Atorvastatin as Adjuvant Therapy Among Suboptimal Responders to Antiretroviral Therapy in an African Cohort of HAART-treated Adults: A Randomised Controlled Trial",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-01",
+            "completion_date": "2014-03",
+            "country": "N/A",
+            "enrollment": 30,
+            "brief_summary": "We hypothesise that atorvastatin changes immune activation among HAART-treated adults with suboptimal cluster cell differentiation 4 (CD4) recovery by 25%",
+            "eligibility_criteria": "List of inclusion Criteria: HIV-infected adults on antiretroviral therapy for at least 6 years with sustained viral suppression (viral load\\<400 copies), and CD4 increase below 300 cells (difference between current and baseline CD4 count).\n\nList of exclusion Criteria: History of an opportunistic inf",
+            "endpoints": [
+              "Percentage Change in Immune Activation Levels After 12 Weeks of Atorvastatin 80mg Daily"
+            ],
+            "sponsor": "Makerere University",
+            "url": "https://clinicaltrials.gov/study/NCT01766076"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01600170",
+            "title": "Statin Modulation of Monocyte/Macrophage Activation for HAND Treatment",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2013-01",
+            "completion_date": "2017-10",
+            "country": "United States",
+            "enrollment": 11,
+            "brief_summary": "HIV associated neurological disorders (HAND), are a major problem even in ART treated people. HAND results from chronic inflammation which is largely attributed to expansion and activation of monocytes. These activated monocytes, some of which also carry virus to the brain, invade the CNS and release cytokines / chemokines resulting in further recruitment of monocytes, as well as release viral proteins which injure neurons and cause activation of other brain cells. Persistent monocyte/macrophage",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Chronic HIV-1 infected individuals on HAART (with no change in treatment within 4 weeks of study entry) and willing to continue therapy for the duration of the study.\n2. HIV viral load less than 200 copies/ml for more than 6 months at time of screening.\n3. Nadir CD4 count les",
+            "endpoints": [
+              "Change From Week 0 in Percentage of Blood Monocytes Expressing Surface Marker CD16 at 12 Weeks, as a Result of Treatment.",
+              "Change From Baseline Within Each Period in Levels of Plasma Inflammatory Marker MCP-1 in Chronic HIV+/ HAART+ Subjects Over 12 Weeks.",
+              "Change From Week 0 in Percentage of Blood Monocytes Expressing Surface Marker CD163 at 12 Weeks, as a Result of Treatment."
+            ],
+            "sponsor": "University of Pennsylvania",
+            "url": "https://clinicaltrials.gov/study/NCT01600170"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01263938",
+            "title": "Pilot Study to Evaluate Effects of Atorvastatin on Monocyte Activation in HAART-treated HIV Infected Individuals",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2011-09",
+            "completion_date": "2017-10",
+            "country": "United States",
+            "enrollment": 5,
+            "brief_summary": "Activated monocytes play a key role in the pathogenesis of HIV-associated neurocognitive disorders (HAND). Individuals with HAND have expanded populations of activated monocytes. These monocytes are thought to emigrate into the CNS, where they produce neurotoxic proinflammatory factors, and also carry virus into the CNS. Statins are cholesterol lowering drugs with pleiotropic immunomodulatory / anti-inflammatory properties that are currently being explored for immunomodulation of T cell activati",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Chronic HIV-1 infected individuals presently on HAART with no change in drug combination for at least 3 months at time of enrollment\n2. Plasma viral load \\<200 copies / ml for at least 6 months prior to enrollment in the study\n3. CD4 T cell count more than 350/ul\n4. Willingne",
+            "endpoints": [
+              "Change in Monocyte Surface Markers Expression (Expressed as Percentage), Following Treatment of Chronic HIV+/ HAART+ Subjects With Atorvastatin (T=12wks Versus T=0wk).",
+              "Change From Baseline in Levels of Plasma Inflammatory Marker MCP-1 of Chronic HIV+/ HAART+ Subjects.",
+              "Change From Baseline in Levels of Plasma Inflammatory Marker sCD14 of Chronic HIV+/ HAART+ Subjects."
+            ],
+            "sponsor": "University of Pennsylvania",
+            "url": "https://clinicaltrials.gov/study/NCT01263938"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01779687",
+            "title": "Pharmacokinetic Drug Interaction Study Between Raltegravir and Atorvastatin (AVIATOR).",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2013-03",
+            "completion_date": "2013-08",
+            "country": "Netherlands",
+            "enrollment": 24,
+            "brief_summary": "Dyslipidemia is highly prevalent among patients with HIV infection and contributes to the increased cardiovascular disease risk in this patient population. Atorvastatin lowers plasma low-density lipoprotein (LDL) cholesterol levels and is used for prevention of artherosclerotic disease. Raltegravir, an HIV integrase inhibitor, could be one of the preferred antiretroviral agents in HIV patients with dyslipidemia because it has a beneficial lipid profile.\n\nTheoretically, no clinically relevant dru",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subject is at least 18 and not older than 55 years at screening.\n* Subject does not smoke more than 10 cigarettes, 2 cigars, or 2 pipes per day for at least 3 months prior to the first dosing\n* Subject has a Quetelet Index (Body Mass Index) of 18 to 30 kg/m2, extremes included",
+            "endpoints": [
+              "raltegravir AUC and atorvastatin AUC"
+            ],
+            "sponsor": "Radboud University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT01779687"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02081638",
+            "title": "Elite Controller and ART-Treated HIV+ Statin Versus ASA Treatment Intervention Study",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2014-04-18",
+            "completion_date": "2019-10-16",
+            "country": "United States",
+            "enrollment": 53,
+            "brief_summary": "Background:\n\n\\- The immune system protects the body from infection. But it can also cause harm. For example, the clotting system makes blood clot and protects from bleeding. But blood clots are sometimes harmful. People with human immunodeficiency virus (HIV) infection have increased inflammation and clotting. This may increase their risk for diseases like stroke or heart attack. Researchers want to know how aspirin or HMG-CoA reductase inhibitors (so-called statin medications) affect the immune",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\nEC Arm\n\n1. Age greater than or equal to 18 years.\n2. Documented HIV-1 infection confirmed by enzyme-linked immunosorbent assay (ELISA) and Western blot tests (will not be repeated if performed previously at NIH).\n3. Categorized as a long term non-progressor EC as defined by vi",
+            "endpoints": [
+              "Changes in sCD14 After 9 Months of Treatment With Aspirin or Atorvastatin"
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT02081638"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04466241",
+            "title": "Combination Therapies to Reduce the Nasopharyngeal Carriage of SARS-CoV-2 and Improve the Outcome of COVID-19 Infection in Ivory Coast (INTENSE-COV): a Phase IIb Randomized Clinical Trial",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-11-27",
+            "completion_date": "2021-11-01",
+            "country": "Côte d’Ivoire",
+            "enrollment": 294,
+            "brief_summary": "In January 2020, the new SARS-CoV-2 coronavirus was identified in China. The disease caused by this coronavirus was named COVID-19 by the World Health Organization (WHO). Since March 11, 2020, the WHO has described the global situation of COVID-19 as a pandemic. In Côte d'Ivoire, as in other African countries, the number of cases is increasing exponentially.\n\nCoronaviruses are a family of viruses that cause illnesses ranging from the common cold to more severe pathologies. COVID-19 can result in",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients over 18 years of age.\n* With SARS-CoV-2 infection confirmed by specific PCR.\n* With clinical manifestations of the infection, such as fever or cough, or otolaryngologic (ORL) signs or respiratory difficulties, that started less than 7 days ago.\n* COVID-19 specific tre",
+            "endpoints": [
+              "Proportion of patients with undetectable nasopharyngeal swab SARS-CoV-2 PCR and C-reactive protein (CRP) < 27 mg/L at Day 11"
+            ],
+            "sponsor": "ANRS, Emerging Infectious Diseases",
+            "url": "https://clinicaltrials.gov/study/NCT04466241"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00017758",
+            "title": "The Effect of Efavirenz and Nelfinavir on the Pharmacokinetics of Hydroxymethylglutaryl Coenzyme A Reductase Inhibitors",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": 56,
+            "brief_summary": "The purpose of this study is to find out whether certain anti-HIV drugs (efavirenz \\[EFV\\] and nelfinavir \\[NFV\\]) affect the amount of certain fat-lowering drugs (atorvastatin, pravastatin, and simvastatin) in the blood.\n\nProtease inhibitors (PIs), a type of anti-HIV drug, are known to cause increased lipids (fats) in the blood of HIV-infected patients. EFV also is known to increase blood fats. HIV-infected patients who take PIs and/or EFV may need to take fat-lowering drugs to correct this pro",
+            "eligibility_criteria": "Inclusion Criteria\n\nVolunteers may be eligible for this study if they:\n\n* Are HIV-negative.\n* Are 18 to 60 years old.\n* Weigh at least 50 kg (110 lbs) and are within 30 percent of their ideal body weight.\n* Cannot have children (have reached menopause \\[change of life\\] for at least 24 straight mont",
+            "endpoints": [],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00017758"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00355251",
+            "title": "Study of the Influence of Atorvastatin in Plasma Viral Replication Given Prior to Antiretroviral Treatment Interruption in Patients With HIV-1 Infection and Viral Suppression.",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2006-07",
+            "completion_date": "2007-02",
+            "country": "Spain",
+            "enrollment": 5,
+            "brief_summary": "To determine the influence of atorvastatin on plasma viral replication when the latter is given before and during highly active anti-retroviral therapy (HAART) in patients with HIV infection and viral suppression.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\>= 18 years.\n2. Patients with chronic infection by HIV-1 in stable highly active antiretroviral treatment (\\>= 6 months).\n3. Undetectable plasma viral load (\\<50 copies/mL) in the last 3 determinations over the last 6 months.\n4. CD4 \\> 500 cells/mm\\>=3 in the last two de",
+            "endpoints": [
+              "The primary endpoint is viral load (HIV RNA) in plasma."
+            ],
+            "sponsor": "Germans Trias i Pujol Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00355251"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03515772",
+            "title": "Drug-drug Interactions Between Antiretroviral Drugs and Cardiovascular Drugs in Elderly Patients From the Swiss HIV Cohort Study",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2018-04-23",
+            "completion_date": "2019-08-29",
+            "country": "Switzerland",
+            "enrollment": 21,
+            "brief_summary": "Ageing is characterized by physiological changes, which can impact drug pharmacokinetics and thereby cause drug-drug interactions. This study aims to assess the pharmacokinetics of amlodipine, atorvastatin and rosuvastatin in the presence of darunavir/ritonavir (inhibitor of drug metabolizing enzymes and drug transporters), by comparison with dolutegravir (no inhibitory effects on cytochromes or transporters involved in the disposition of the evaluated co-medications), in order to characterize t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* documented HIV-infection\n* informed consent as documented by signature (Appendix Informed Consent Form)\n* included in the SHCS and followed-up in the HIV Clinic in Lausanne or in Basel\n* treatment with a HIV therapy including either once-daily ritonavir-boosted darunavir or do",
+            "endpoints": [
+              "Circulating exposure (AUC) to cardiovascular agent amlodipine",
+              "Circulating exposure (AUC) to cardiovascular agent atorvastatin",
+              "Circulating exposure (AUC) to cardiovascular agent rosuvastatin"
+            ],
+            "sponsor": "Centre Hospitalier Universitaire Vaudois",
+            "url": "https://clinicaltrials.gov/study/NCT03515772"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01138072",
+            "title": "A Phase I, Single-center, Drug Interaction Study Between Simvastatin, Atorvastatin, Rosuvastatin, and GSK2248761 in Healthy Subjects.",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2010-06",
+            "completion_date": "2010-08",
+            "country": "United States",
+            "enrollment": 14,
+            "brief_summary": "This study is a Phase I, open-label, single-sequence drug interaction study to evaluate the effect of repeated doses of GSK2248761 on the pharmacokinetics of simvastatin, atorvastatin, and rosuvastatin in healthy adult subjects. In this study, approximately 14 subjects will receive single doses of simvastatin, atorvastatin, and rosuvastatin on two occasions, once alone and once following administration of repeated doses of GSK2248761. Safety evaluations and serial PK samples will be collected du",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy as determined by a responsible and experienced physician, based on a medical evaluation including medical history, physical examination, vital signs, laboratory tests, and ECGs.\n* A subject with a clinical abnormality or laboratory parameters outside the reference rang",
+            "endpoints": [
+              "Plasma simvastatin and simvastatin acid Cmax, AUC(0-infinity) and AUC(0-t) following oral administration of a single dose of simvastatin 20mg alone and in combination with GSK2248761 200mg once daily.",
+              "Plasma atorvastatin Cmax, AUC(0-infinity) and AUC(0-t) following oral administration of a single dose of atorvastatin 20mg alone and in combination with GSK2248761 200mg once daily.",
+              "Plasma rosuvastatin Cmax, AUC(0-∞) and AUC(0-t) following oral administration of a single dose of rosuvastatin 10mg alone and in combination with GSK2248761 200mg once daily."
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT01138072"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01351025",
+            "title": "A Pilot Study Evaluating the Effect of Atorvastatin on Biomarkers of Inflammation, Coagulopathy, Angiogenesis, and T-lymphocyte Activation in HIV-1 Infected Individuals With Suppressed HIV-1 RNA and LDL Cholesterol < 130 mg/dL",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2011-04-14",
+            "completion_date": "2014-05",
+            "country": "United States, Puerto Rico",
+            "enrollment": 98,
+            "brief_summary": "ACTG A5275 was a prospective, double-blind, randomized, placebo-controlled cross-over design pilot study evaluating the effect of atorvastatin on biomarkers of inflammation, coagulopathy, angiogenesis, and T-lymphocyte activation in HIV-1 infected individuals with suppressed HIV-1 RNA on stable protease inhibitor based antiretroviral therapy with fasting LDL cholesterol \\< 130 mg/dL.\n\nAtorvastatin is a drug approved by the Food and Drug Administration (FDA) for treating high cholesterol. Atorvas",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected\n* Combination ART that includes any boosted PI regimen for at least 6 months prior to study entry\n* No plans to change the antiretroviral regimen in the next year\n* Must have been on the same HAART regimen for at least 12 weeks with no change prior to study entr",
+            "endpoints": [
+              "Difference Between [Change From Week 24 to Week 44] and [Change From Baseline to Week 20] in log10 IL-6",
+              "Difference Between [Change From Week 24 to Week 44] and [Change From Baseline to Week 20] in CD4+ T-cell Activation Percent",
+              "Difference Between [Change From Week 24 to Week 44] and [Change From Baseline to Week 20] in log10 D-dimer"
+            ],
+            "sponsor": "Advancing Clinical Therapeutics Globally for HIV/AIDS and Other Infections",
+            "url": "https://clinicaltrials.gov/study/NCT01351025"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06403787",
+            "title": "Effect of Implementing an Aerobic Training Program and Administering Ginkgo Biloba Extract on Plasma Concentrations of LDL and HDL in HIV Positive Patients Undergoing Antiretroviral Treatment at the HIV Unit of Hospital Civil Fray Antonio Alcalde",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2022-05-01",
+            "completion_date": "2024-04-01",
+            "country": "Mexico",
+            "enrollment": 28,
+            "brief_summary": "The administration of antiretroviral drugs (ART) has significantly prolonged the life expectancy of people living with human immunodeficiency virus (HIV) and delayed the progression towards Acquired Immune Deficiency Syndrome (AIDS). However, this has led to the emergence of other conditions, such as dyslipidemia, among individuals undergoing ART. Dyslipidemia is commonly managed with statin therapy, which has not been reported to have pharmacological interactions with ART. Additionally, ginkgo ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 18 to 60 years\n* Diagnosis of HIV-1 infection\n* Receiving antiretroviral therapy with a triple regimen (Biktarvy treatment)\n* Undetectable viral load (\\< 20 copies/mL) for the past 6 months CD4+ level \\> 200 cells/μL\n* Diagnosis of mixed dyslipidemia in the last three mon",
+            "endpoints": [
+              "Comparison of changes in serum lipid levels."
+            ],
+            "sponsor": "University of Guadalajara",
+            "url": "https://clinicaltrials.gov/study/NCT06403787"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03037372",
+            "title": "Statin Adjunct Therapy Among HAART-treated Adults in Sub-Saharan Africa: Equivalence of Atorvastatin and Rosuvastatin",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2017-06-01",
+            "completion_date": "2022-12-31",
+            "country": "N/A",
+            "enrollment": 320,
+            "brief_summary": "This study will determine whether 36 months of daily atorvastatin or rosuvastatin have equivalent effects in reduction of immune activation, inflammation and immune aging, when given as adjunct therapy among patients receiving antiretroviral therapy in an African cohort",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-positive individuals 18 years and older, that have initiated three first-line drug highly active antiretroviral therapy within three months within the Infectious Diseases Institute HIV treatment cohort\n* Individuals that provide written informed consent to participate in t",
+            "endpoints": [
+              "Similar rate of reduction of immune activation between atorvastatin and rosuvastatin arms (p<o.05)"
+            ],
+            "sponsor": "Makerere University",
+            "url": "https://clinicaltrials.gov/study/NCT03037372"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "31126301",
+            "title": "Statins and aspirin in the prevention of cardiovascular disease among HIV-positive patients between controversies and unmet needs: review of the literature and suggestions for a friendly use.",
+            "abstract": "As in non-infected subjects, statins and aspirin have a pivotal preventive role in reducing the cardiovascular related morbidity and mortality in HIV infected patients. The persistence of immune activation in these subjects, could contribute to accelerate atherosclerosis, therefore, these treatments that reduce inflammation could provide additional cardiovascular protection. However the current guidelines for the use of these drugs in general population are dissimilar, with important differences between American and European ones. Aim of the present position paper is to provide recommendations aimed to overcome the actual differences and limitations among the current ones and to adapt them to the needs of HIV infected patients.",
+            "journal": "AIDS research and therapy",
+            "year": "2019",
+            "authors": [
+              "Maggi P",
+              "De Socio G V",
+              "Cicalini S",
+              "D'Abbraccio M",
+              "Dettorre G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aspirin",
+              "Cardiovascular Diseases",
+              "HIV Infections",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Middle Aged",
+              "Practice Guidelines as Topic",
+              "Primary Prevention"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31126301/"
+          },
+          {
+            "pmid": "29770749",
+            "title": "Rosuvastatin and atorvastatin preserve renal function in HIV-1-infected patients with chronic kidney disease and hyperlipidaemia.",
+            "abstract": "Hyperlipidaemia is a risk factor for the progression of chronic kidney disease (CKD), which is a frequent comorbidity in patients with HIV-1 infection, but the renal effects of statins remain unclear.",
+            "journal": "HIV clinical trials",
+            "year": "2018",
+            "authors": [
+              "Calza Leonardo",
+              "Colangeli Vincenzo",
+              "Borderi Marco",
+              "Manfredi Roberto",
+              "Marconi Lorenzo"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "Fatty Acids, Omega-3",
+              "Female",
+              "Glomerular Filtration Rate",
+              "HIV Infections",
+              "Humans",
+              "Hyperlipidemias"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29770749/"
+          },
+          {
+            "pmid": "37450602",
+            "title": "An open label randomized controlled trial of atorvastatin versus aspirin in elite controllers and antiretroviral-treated people with HIV.",
+            "abstract": "Residual inflammation in people with HIV (PWH) despite suppression of HIV replication is associated with many comorbidities including cardiovascular disease. Targeting inflammation may decrease the risk of cardiovascular disease.",
+            "journal": "AIDS (London, England)",
+            "year": "2023",
+            "authors": [
+              "Mystakelis Harry A",
+              "Wilson Eleanor",
+              "Laidlaw Elizabeth",
+              "Poole April",
+              "Krishnan Sonya"
+            ],
+            "pub_types": [
+              "Randomized Controlled Trial",
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Female",
+              "Atorvastatin",
+              "Aspirin",
+              "Cardiovascular Diseases",
+              "HIV Infections",
+              "Anti-Retroviral Agents",
+              "CD4 Lymphocyte Count"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37450602/"
+          },
+          {
+            "pmid": "36549898",
+            "title": "Evaluating the effect of atorvastatin exposure and vitamin D levels on lipid outcomes in people with HIV-1 with suppressed HIV-1 RNA and LDL cholesterol <130 mg/dL.",
+            "abstract": "Cardiovascular disease (CVD) has become a leading cause of morbidity and mortality among people with HIV. Atorvastatin is known to reduce cardiovascular risk. We (1) compared atorvastatin concentrations between different boosted protease inhibitors (PIs) and with lipid outcomes and (2) compared pre-atorvastatin 25-OH vitamin D levels with atorvastatin concentrations and with lipid outcomes, in people with HIV with suppressed HIV-1 RNA and low-density lipoprotein cholesterol (LDL-C) <130 mg/dL.",
+            "journal": "HIV medicine",
+            "year": "2023",
+            "authors": [
+              "Rahman Farah",
+              "Brates Irena",
+              "Aweeka Francesca",
+              "Bosch Ronald J",
+              "Deitchman Amelia"
+            ],
+            "pub_types": [
+              "Randomized Controlled Trial",
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Male",
+              "Humans",
+              "Middle Aged",
+              "Female",
+              "Atorvastatin",
+              "Cholesterol, LDL",
+              "Vitamin D",
+              "HIV-1",
+              "Cross-Over Studies",
+              "HIV Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36549898/"
+          },
+          {
+            "pmid": "29804227",
+            "title": "Benefits and Risks of Statin Therapy in the HIV-Infected Population.",
+            "abstract": "HIV-infected patients face an increased risk for cardiovascular disease (CVD), estimated at 1.5- to 2-fold as compared to HIV-uninfected persons. This review provides a recent (within preceding 5 years) summary of the role of statin therapy and associated role in CVD risk reduction among HIV-infected patients on anti-retroviral therapy.",
+            "journal": "Current infectious disease reports",
+            "year": "2018",
+            "authors": [
+              "Mosepele Mosepele",
+              "Molefe-Baikai Onkabetse J",
+              "Grinspoon Steven K",
+              "Triant Virginia A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29804227/"
+          },
+          {
+            "pmid": "18991624",
+            "title": "Rosuvastatin, pravastatin, and atorvastatin for the treatment of hypercholesterolaemia in HIV-infected patients receiving protease inhibitors.",
+            "abstract": "Highly active antiretroviral therapy (HAART) including protease inhibitors (PIs) has been independently associated with an abnormal lipid profile, and recent studies have shown an increased risk of cardiovascular complications in patients with prolonged exposure to HAART. Aim of our open-label, randomized, prospective study is to evaluate the role of different statins in the management of PI-associated hypercholesterolaemia. Ninety-four adult patients on a stable PI-based antiretroviral therapy since at least 12 months, and presenting hypercholesterolaemia (total cholesterol level >250 mg/dL) of at least 3-month duration and unresponsive to a hypolipidaemic diet and physical exercise, were randomized to a hypolipidaemic treatment with rosuvastatin (10 mg once daily), pravastatin (20 mg once daily) or atorvastatin (10 mg once daily), and were followed-up for 12 months. Among the 85 subjects who completed the study, rosuvastatin was employed in 26 cases, pravastatin in 31, and atorvastat",
+            "journal": "Current HIV research",
+            "year": "2008",
+            "authors": [
+              "Calza Leonardo",
+              "Manfredi Roberto",
+              "Colangeli Vincenzo",
+              "Pocaterra Daria",
+              "Pavoni Michele"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "Cholesterol",
+              "Female",
+              "Fluorobenzenes",
+              "Follow-Up Studies",
+              "HIV Infections",
+              "HIV Protease Inhibitors",
+              "Heptanoic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18991624/"
+          },
+          {
+            "pmid": "41774493",
+            "title": "Atorvastatin suppresses HIV/antiretroviral drug-induced cardiac fibrosis and dysfunction in mice by blocking platelet TGFβ1 signaling.",
+            "abstract": "Cardiovascular disease (CVD), both atherosclerosis-related and heart failure with preserved ejection fraction (HFpEF) linked to cardiac fibrosis, contributes to morbidity and mortality in people with HIV (PWH) receiving antiretroviral therapy (ART). In the REPRIEVE trial, pitavastatin reduces atherosclerotic CVD risk to a magnitude inconsistent with pitavastatin's impact solely on LDL-cholesterol and inflammation. We hypothesized that HFpEF in PWH is related to HIV-induced fibrosis mediated by platelet TGFβ1, is accelerated by certain contemporary ART, and may also be inhibited by statins. ART drugs used in REPRIEVE, including a nucleoside/nucleotide, integrase inhibitor-based regimen (tenofovir (TDF), emtricitabine (FTC), and dolutegravir (DTG)), and the protease inhibitors ritonavir (RTV) and darunavir (DRV), and the impact of atorvastatin, were examined in two HIV mouse models: transgenic HIV-Tg26 mice and HIV-PDX mice engrafted with T cells isolated from PWH. HIV-Tg26 and HIV-PDX m",
+            "journal": "JCI insight",
+            "year": "2026",
+            "authors": [
+              "Subramani Kumar",
+              "Babii Denys",
+              "Cole Brienne",
+              "Afzal Tayyab A",
+              "Venkatesan Thamizhiniyan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41774493/"
+          },
+          {
+            "pmid": "27192322",
+            "title": "Drug therapies for HIV-related metabolic disorders.",
+            "abstract": "Human immunodeficiency virus (HIV) has become a chronic disease often associated with dyslipidaemia and insulin resistance. Combination antiretroviral therapy (cART) may contribute to metabolic disturbances, eventually leading to increased cardiovascular disease (CVR) in this population. Escalating interventions to decrease CVR include promoting a healthy lifestyle, such as quitting smoking, diet and regular exercise. If they do not achieve the goals, a change of cART should be considered, followed by or used concomitantly with the use of chemical therapies.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2016",
+            "authors": [
+              "Lamarca Karuna",
+              "García Sarasola Ana",
+              "Vidal Francesc",
+              "Domingo Pere"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cardiovascular Diseases",
+              "Dyslipidemias",
+              "HIV Infections",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Rosuvastatin Calcium",
+              "Simvastatin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27192322/"
+          },
+          {
+            "pmid": "25574964",
+            "title": "Effects of atorvastatin and pravastatin on immune activation and T-cell function in antiretroviral therapy-suppressed HIV-1-infected patients.",
+            "abstract": "This retrospective study was designed to assess statin effects on T-cell activation from HIV-infected individuals. Peripheral blood mononuclear cells from antiretroviral therapy suppressed HIV-infected individuals receiving atorvastatin or pravastatin were evaluated for T-cell activation, exhaustion and function. Atorvastatin was associated with a significant reduction in CD8 T-cell activation (HLA-DR, CD38/HLA-DR) and exhaustion (TIM-3, TIM-3/PD-1) whereas pravastatin had no effect. In contrast, pravastatin increased antigen specific interferon γ production. These results suggest a differential effect of statins on immune activation and function.",
+            "journal": "AIDS (London, England)",
+            "year": "2014",
+            "authors": [
+              "Overton Edgar Turner",
+              "Sterrett Sarah",
+              "Westfall Andrew O",
+              "Kahan Shannon M",
+              "Burkholder Greer"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Anti-Retroviral Agents",
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "HIV Infections",
+              "HIV-1",
+              "Heptanoic Acids",
+              "Humans",
+              "Immunologic Factors",
+              "Interferon-gamma",
+              "Lymphocyte Activation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25574964/"
+          },
+          {
+            "pmid": "25441397",
+            "title": "Atorvastatin reduces T-cell activation and exhaustion among HIV-infected cART-treated suboptimal immune responders in Uganda: a randomised crossover placebo-controlled trial.",
+            "abstract": "T-cell activation independently predicts mortality, poor immune recovery and non-AIDS illnesses during combination antiretroviral therapy (cART). Atorvastatin showed anti-immune activation effects among HIV-infected cART-naïve individuals. We investigated whether adjunct atorvastatin therapy reduces T-cell activation among cART-treated adults with suboptimal immune recovery.",
+            "journal": "Tropical medicine & international health : TM & IH",
+            "year": "2015",
+            "authors": [
+              "Nakanjako Damalie",
+              "Ssinabulya Isaac",
+              "Nabatanzi Rose",
+              "Bayigga Lois",
+              "Kiragga Agnes"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-HIV Agents",
+              "Atorvastatin",
+              "CD4 Lymphocyte Count",
+              "CD4-Positive T-Lymphocytes",
+              "CD8-Positive T-Lymphocytes",
+              "Cohort Studies",
+              "Cross-Over Studies",
+              "Double-Blind Method",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25441397/"
+          },
+          {
+            "pmid": "32281059",
+            "title": "Influence of Drug-Drug Interactions on the Pharmacokinetics of Atorvastatin and Its Major Active Metabolite ortho-OH-Atorvastatin in Aging People Living with HIV.",
+            "abstract": "People living with HIV (PLWH) are aging and experience age-related physiological changes and comorbidities. Atorvastatin is a widely prescribed lipid-lowering agent metabolized by cytochrome P450 (CYP) 3A4, whose hepatocyte uptake is facilitated by organic anion transporting polypeptide (OATP) 1B1/1B3. Inhibition or induction of this enzyme and hepatic transporter can increase or decrease atorvastatin exposure, respectively.",
+            "journal": "Clinical pharmacokinetics",
+            "year": "2020",
+            "authors": [
+              "Courlet Perrine",
+              "Decosterd Laurent A",
+              "Alves Saldanha Susana",
+              "Cavassini Matthias",
+              "Stader Felix"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aging",
+              "Atorvastatin",
+              "Drug Interactions",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32281059/"
+          },
+          {
+            "pmid": "22770622",
+            "title": "The safety and effectiveness of statins as treatment for HIV-dyslipidemia: the evidence so far and the future challenges.",
+            "abstract": "Statin therapy is widely used across the globe for the treatment and prevention of cardiovascular disease (CVD). It is well established that statin therapy is associated with significant decrease in low-density lipoprotein cholesterol (LDL-C) and plasma cholesterol levels. HIV-dyslipidemia is a common problem with extensive use of combination antiretroviral therapy (CART), and is associated with an increase in incidence of cardiovascular disease (CVD), resulting in hospital admission and surgery throughout the western healthcare systems.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2012",
+            "authors": [
+              "Ahmed Mohamed H",
+              "Al-Atta Ayman",
+              "Hamad Mahir A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-HIV Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "Cardiovascular Diseases",
+              "Cholesterol",
+              "Cholesterol, LDL",
+              "Drug Interactions",
+              "Dyslipidemias",
+              "HIV Infections",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22770622/"
+          },
+          {
+            "pmid": "32941476",
+            "title": "A randomized pilot trial to evaluate the benefit of the concomitant use of atorvastatin and Raltegravir on immunological markers in protease-inhibitor-treated subjects living with HIV.",
+            "abstract": "Optimization of antiretroviral therapy and anti-inflammatory treatments, such as statins, are among the strategies aimed at reducing metabolic disorders, inflammation and immune activation in people living with HIV (PLWH). We evaluated the potential benefit of combining both strategies.",
+            "journal": "PloS one",
+            "year": "2020",
+            "authors": [
+              "Negredo Eugènia",
+              "Jiménez Montse",
+              "Puig Jordi",
+              "Loste Cora",
+              "Pérez-Álvarez Núria"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-HIV Agents",
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "CD4-Positive T-Lymphocytes",
+              "CD8-Positive T-Lymphocytes",
+              "Female",
+              "HIV Infections",
+              "HIV Protease Inhibitors",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32941476/"
+          },
+          {
+            "pmid": "22345334",
+            "title": "A review of drug interactions with boceprevir and telaprevir: implications for HIV and transplant patients.",
+            "abstract": "Chronic hepatitis C virus (HCV) is a major problem affecting up to 170 million people worldwide. Two protease inhibitors have recently been approved that will revolutionize treatment. Our objective was to summarize and evaluate the literature pertaining to the pharmacokinetics of boceprevir and telaprevir, in order to provide clinicians with insight into the management of actual and potential drug interactions.",
+            "journal": "Annals of hepatology",
+            "year": "2012",
+            "authors": [
+              "Wilby Kyle J",
+              "Greanya Erica D",
+              "Ford Jo-Ann E",
+              "Yoshida Eric M",
+              "Partovi Nilufar"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "ATP Binding Cassette Transporter, Subfamily B, Member 1",
+              "Anti-HIV Agents",
+              "Cytochrome P-450 CYP3A",
+              "Cytochrome P-450 CYP3A Inhibitors",
+              "Drug Interactions",
+              "HIV Infections",
+              "Hepatitis C, Chronic",
+              "Humans",
+              "Immunocompromised Host",
+              "Immunosuppressive Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22345334/"
+          },
+          {
+            "pmid": "30704819",
+            "title": "Lipid Abnormalities in Persons Living With HIV Infection.",
+            "abstract": "Lipid abnormalities are prevalent among persons living with HIV infection and contribute to increasing the risk of cardiovascular events. Antiretroviral therapy (ART) is associated with lipid abnormalities, most commonly hypertriglyceridemia, but also increases in low-density lipoprotein cholesterol and total cholesterol. Different classes of ART, and different drugs within classes, have differing effects on lipid levels, but in general newer drugs have more favourable effects compared with older ones. Low-level inflammation and chronic immune activation act on lipids through a variety of mechanisms to make them more atherogenic. As a consequence, risk is higher than would be expected for any given cholesterol level. Clinical outcome trials of cholesterol-lowering therapies have not yet been completed in people living with HIV, so that treatment decisions depend on extrapolation from studies in uninfected populations. Traditional risk assessment tools underestimate cardiovascular risk ",
+            "journal": "The Canadian journal of cardiology",
+            "year": "2019",
+            "authors": [
+              "Waters David D",
+              "Hsue Priscilla Y"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Retroviral Agents",
+              "Cardiovascular Diseases",
+              "HIV Infections",
+              "Humans",
+              "Lipid Metabolism",
+              "Medication Therapy Management"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30704819/"
+          },
+          {
+            "pmid": "26658651",
+            "title": "Statins to improve cardiovascular outcomes in treated HIV infection.",
+            "abstract": "To evaluate evidence that statins reduce cardiovascular risk in patients living with HIV.",
+            "journal": "Current opinion in infectious diseases",
+            "year": "2016",
+            "authors": [
+              "Longenecker Chris T",
+              "Eckard Allison R",
+              "McComsey Grace A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Atorvastatin",
+              "Carotid Intima-Media Thickness",
+              "Coronary Disease",
+              "HIV Infections",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Insulin Resistance",
+              "Practice Guidelines as Topic",
+              "Practice Patterns, Physicians'",
+              "Precision Medicine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26658651/"
+          },
+          {
+            "pmid": "28364370",
+            "title": "Recommendations for Managing Drug-Drug Interactions with Statins and HIV Medications.",
+            "abstract": "The discovery of antiretroviral therapy (ART) for the treatment of human immunodeficiency virus (HIV) has enabled individuals to live longer. As a result, HIV is now often considered a chronic condition. However, as a result of the increase in longevity or the HIV treatment modalities themselves, individuals with HIV are at high risk for the development of atherosclerotic cardiovascular disease. Therefore, these patients should be optimized with pharmacologic therapy to lower their cardiovascular risk through the addition of statin therapy to their regimen. Unfortunately, many medications utilized to treat HIV interact with this class of agents, making prescribing of statin therapy in these patients challenging. While several classes of ARTs do not pose an increased risk of drug-drug interactions with statins, HIV treatment often requires several combinations of medications, enhancing the complexity and drug-drug interaction risk. Clinicians should be aware of interactions with statins",
+            "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+            "year": "2017",
+            "authors": [
+              "Wiggins Barbara S",
+              "Lamprecht Donald G",
+              "Page Robert L",
+              "Saseen Joseph J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Retroviral Agents",
+              "Drug Interactions",
+              "HIV",
+              "HIV Infections",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Risk"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28364370/"
+          },
+          {
+            "pmid": "23892238",
+            "title": "Comparative effectiveness of fish oil versus fenofibrate, gemfibrozil, and atorvastatin on lowering triglyceride levels among HIV-infected patients in routine clinical care.",
+            "abstract": "The goal of this study was to compare the effectiveness of fish oil, fenofibrate, gemfibrozil, and atorvastatin on reducing triglyceride (TG) levels among a large cohort of HIV-infected patients in clinical care.",
+            "journal": "Journal of acquired immune deficiency syndromes (1999)",
+            "year": "2013",
+            "authors": [
+              "Muñoz Monica A",
+              "Liu Wei",
+              "Delaney Joseph A C",
+              "Brown Elizabeth",
+              "Mugavero Michael J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Observational Study",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alabama",
+              "Atorvastatin",
+              "CD4-Positive T-Lymphocytes",
+              "California",
+              "Cohort Studies",
+              "Comparative Effectiveness Research",
+              "Drug Interactions",
+              "Female",
+              "Fenofibrate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23892238/"
+          },
+          {
+            "pmid": "35642121",
+            "title": "A Systematic Review of Randomized Clinical Trials on the Efficacy and Safety of Pitavastatin.",
+            "abstract": "A subpopulation of statin users such as subjects with chronic kidney disease (CKD), Human Immune virus (HIV), acute coronary syndrome (ACS), revascularization, metabolic syndrome, and/or diabetes may particularly benefit from pitavastatin pharmacotherapy.",
+            "journal": "Current reviews in clinical and experimental pharmacology",
+            "year": "2023",
+            "authors": [
+              "Sadeq Adel",
+              "Elnour Asim Ahmed",
+              "Farah Farah Hamad",
+              "Ramadan Azza",
+              "Baraka Mohamed A"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Atorvastatin",
+              "Rosuvastatin Calcium",
+              "Pravastatin",
+              "Cholesterol, LDL",
+              "Metabolic Syndrome",
+              "Cholesterol, HDL",
+              "Randomized Controlled Trials as Topic",
+              "Simvastatin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35642121/"
+          },
+          {
+            "pmid": "12875104",
+            "title": "HIV protease inhibitors and dyslipidemia.",
+            "abstract": "Highly active antiretroviral therapy (HAART) significantly prolongs the lives of HIV-infected patients. Current regimens may consist of a protease inhibitor (PI) combined with at least two or more other antiretroviral drugs. PI administration has been shown to be associated with alterations in plasma lipids (i.e. prompt and sustained increases in total cholesterol, low-density lipoprotein cholesterol, and triglycerides) and insulin levels that place PI-treated patients at risk for coronary heart disease (CHD). Because PI-associated dyslipidemia is generally asymptomatic and occurs in patients who are often younger than those traditionally at risk for CHD, the need for primary prevention of acute coronary events in these patients is often unappreciated. Statins form a significant component of pharmacotherapy for PI-associated dyslipidemia. However, because PIs and all statins except pravastatin are metabolized by the cytochrome P450 (CYP) system, co-administration of these agents produc",
+            "journal": "AIDS reviews",
+            "year": "2003",
+            "authors": [
+              "Clotet Bonaventura",
+              "Negredo Eugènia"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-HIV Agents",
+              "Atorvastatin",
+              "Drug Interactions",
+              "HIV Infections",
+              "HIV Protease Inhibitors",
+              "HIV-1",
+              "Heptanoic Acids",
+              "Humans",
+              "Hyperlipidemias",
+              "Hypolipidemic Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12875104/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Atorvastatin",
+          "disease": "HIV infectious disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Atorvastatin%20HIV%20infectious%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brain stem infarction",
+        "txgnn_score": 0.9930688142776488,
+        "txgnn_rank": 1513,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02225834",
+            "title": "Effects of Early Atorvastatin Treatment During the Acute Phase of Stroke on Immunoinflammatory Markers and Outcome in Patients With Acute Ischemic Stroke Classified as LAAS According TOAST Classification",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2011-11",
+            "completion_date": "2014-03",
+            "country": "Italy",
+            "enrollment": 50,
+            "brief_summary": "Recent clinical trials and meta-analyses of b-hydroxy-bmethylglutaryl coenzyme A (HMG-CoA) reductase inhibitors (statins) have demonstrated a significant reduction in ischemic stroke in patients with a history of coronary artery disease, both with and without elevations of serum cholesterol. Recent data suggest that statins have other beneficial properties in addition to the retardation of atherosclerosis. Asahi et al demonstred that Statins increased eNOS and tPA mRNA levels but did not change ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Eligible patients were men and women over 18 years of age who had an acute ischemic stroke with a symptom time onset \\< 48 hours\n\nExclusion Criteria:\n\n* Patients with inflammatory or infectious diseases, cancer, hematological diseases and severe renal or liver failure, as well",
+            "endpoints": [
+              "NIHSS score at 72 hour",
+              "differences in msRankin score"
+            ],
+            "sponsor": "University of Palermo",
+            "url": "https://clinicaltrials.gov/study/NCT02225834"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03176498",
+            "title": "The Effects of Human Umbilical Cord Mesenchymal Stem Cell Therapy on Neurological Function for Cerebral Infarction Patients in Convalescent Period.",
+            "phase": "PHASE1, PHASE2",
+            "status": "SUSPENDED",
+            "start_date": "2025-12-31",
+            "completion_date": "2026-12-31",
+            "country": "China",
+            "enrollment": 40,
+            "brief_summary": "This is a randomized, double-blind study. Human umbilical cord mesenchymal stem cells (hUC-MSC) will be treated on cerebral infarction patients, and evaluates their neurological function of convalescent period.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* proved cerebral infarction by CT or MRI.\n* no cerebrovascular disease before\n* signed informed consent form\n\nExclusion Criteria:\n\n* serious body and intracranial lesions (tumor, infection, etc.)\n* patients repeated cerebral infarction attacks\n* multi-foci of cerebral infarctio",
+            "endpoints": [
+              "Motor function analysis"
+            ],
+            "sponsor": "Sclnow Biotechnology Co., Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT03176498"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "30073508",
+            "title": "Atorvastatin Rejuvenates Neural Stem Cells Injured by Oxygen-Glucose Deprivation and Induces Neuronal Differentiation Through Activating the PI3K/Akt and ERK Pathways.",
+            "abstract": "Oxygen and glucose (OGD) deprivation is one of the most important pathogenic mechanisms in cerebral infarction and is widely used as an in vitro model for ischemic stroke. OGD also damages neural stem cells (NSCs), which are important in brain recovery after cerebral infarction. To enhance recovery, there have been many studies aimed at determining methods to protect NSCs after stroke. Because atorvastatin has diverse protective effects on neural cells, we studied whether it could rejuvenate NSCs injured by OGD. Primary cultured NSCs were exposed to OGD for 8 h, and the main characteristics of stem cells, such as survival, proliferation, migration, and differentiation, were evaluated to confirm the effect of OGD on NSCs. Next, cells were treated with various concentrations of atorvastatin with exposure to OGD for 8 h to confirm whether it could rejuvenate NSCs. OGD significantly affected the survival, proliferation, migration, and differentiation of NSCs. However, treatment with atorva",
+            "journal": "Molecular neurobiology",
+            "year": "2019",
+            "authors": [
+              "Choi Na-Young",
+              "Kim Ji Young",
+              "Hwang Mina",
+              "Lee Eun-Hye",
+              "Choi Hojin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Atorvastatin",
+              "Cell Death",
+              "Cell Differentiation",
+              "Cell Movement",
+              "Cell Proliferation",
+              "Cell Survival",
+              "Enzyme Activation",
+              "Glucose",
+              "MAP Kinase Signaling System"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30073508/"
+          },
+          {
+            "pmid": "29592977",
+            "title": "Artery of Percheron: an unusual stroke presentation.",
+            "abstract": "An 86-year-old woman was admitted with multiple episodes of transient loss of consciousness. She was initially treated for seizures, and stroke was not considered likely. MRI on the same day of admission showed acute bilateral medial thalamic infarcts in keeping with the Artery of Percheron (AOP) territory infarcts. Investigation for polycythaemia and thrombocytosis showed JAK2 positive myeloproliferative neoplasm.A diagnosis of AOP infarction is often missed or delayed because it is rare and presents with variable neurological symptoms. Initial imaging in the form of CT is often negative, and some report that initial MRI findings may also be normal.An awareness of a wide range of differential diagnoses alongside a multi-modality imaging approach is required to reach a diagnosis.Although there are several other case reports of AOP infarction in the literature, this is the first to present with transient symptoms initially mistaken for seizure activity.",
+            "journal": "BMJ case reports",
+            "year": "2018",
+            "authors": [
+              "Pitts-Tucker Toby",
+              "Small Jeremy"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged, 80 and over",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Anticholesteremic Agents",
+              "Aspirin",
+              "Atorvastatin",
+              "Cerebral Arteries",
+              "Clopidogrel",
+              "Diagnosis, Differential",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29592977/"
+          },
+          {
+            "pmid": "25754163",
+            "title": "Recurrent ischaemic stroke unveils polycythaemia vera.",
+            "abstract": "Polycythaemia vera is a recognised cause of ischaemic stroke. If not treated, this condition may result in recurrent strokes. This is a case of a 61-year-old Caucasian man presenting with the inability to ambulate for 3 days. Brain imaging revealed acute and chronic infarctions in the brain stem and the cerebrum. Polycythaemia vera was diagnosed and treated during the admission. The unique mechanisms and management issues of ischaemic stroke associated with polycythaemia vera are discussed.",
+            "journal": "BMJ case reports",
+            "year": "2015",
+            "authors": [
+              "Abdel-Rahman Islam",
+              "Murphy Christie"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aspirin",
+              "Atorvastatin",
+              "Bloodletting",
+              "Follow-Up Studies",
+              "Heptanoic Acids",
+              "Humans",
+              "Hydroxymethylglutaryl-CoA Reductase Inhibitors",
+              "Platelet Aggregation Inhibitors",
+              "Polycythemia Vera",
+              "Pyrroles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25754163/"
+          },
+          {
+            "pmid": "30386540",
+            "title": "A young woman with traumatic vertebral artery occlusion: a case report.",
+            "abstract": "Vertebral artery occlusion (VAO) may result from closed head or neck trauma and can be lifethreatening due to brain-stem and cerebellar infarction. CT angiography is recommended as a screening diagnostic tool in selected patients after blunt cervical trauma. A 24-year-old woman was admitted to our emergency department with left hemiplegia two days after motor vehicle collision. Final diagnosis of occlusion of the right vertebral artery was made in CT angiography. She was treated with anticoagulant for 4 days then discharged with 5/5 muscle forces. She was advised to continue warfarin and atorvastatin for her after discharge.",
+            "journal": "Journal of cardiovascular and thoracic research",
+            "year": "2018",
+            "authors": [
+              "Ghaffarzad Amir",
+              "Javadrashid Reza",
+              "Sadeghi-Hokmabadi Elyar",
+              "Jamal Arvanaghi Reza",
+              "Soleimanpour Hassan"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30386540/"
+          },
+          {
+            "pmid": "23860169",
+            "title": "Pure sensory deficit at the T3 sensory level as an isolated manifestation of lateral medullary infarction.",
+            "abstract": "",
+            "journal": "Neurology India",
+            "year": "2013",
+            "authors": [
+              "Xia Cheng",
+              "Wang Qi",
+              "Chen Hui-Sheng"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Anticholesteremic Agents",
+              "Antipyrine",
+              "Atorvastatin",
+              "Edaravone",
+              "Female",
+              "Free Radical Scavengers",
+              "Heptanoic Acids",
+              "Humans",
+              "Lateral Medullary Syndrome",
+              "Magnetic Resonance Imaging"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23860169/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Atorvastatin",
+          "disease": "brain stem infarction",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Atorvastatin%20brain%20stem%20infarction"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cholesterol-ester transfer protein deficiency",
+        "txgnn_score": 0.9924752116203308,
+        "txgnn_rank": 1657,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "18414186",
+            "title": "HDL metabolism and CETP inhibition.",
+            "abstract": "High density lipoprotein-cholesterol (HDL-C) concentration in the blood is independently and inversely associated with an increased risk of coronary heart disease. Some of the cholesterol-lowering drugs (niacin, fibrates, and statins) incidentally raise HDL-C. These drugs are not effective in causing major changes in HDL-C. Since the discovery of human genetic cholesteryl ester transfer protein (CETP) deficiency in a Japanese population with high levels of HDL-C and apolipoprotein A-I, CETP inhibition has become a novel strategy for raising HDL-C in humans. Mice, a species naturally lacking CETP, were transduced with the human CETP gene, which resulted in dose-related reductions in HDL-C. Rabbits, a species with naturally high levels of CETP, were fed a synthetic CETP inhibitor, JTT-705, leading to both a 90% increase in HDL-C and a 70% reduction in aortic atherosclerotic lesion area. Human intervention trials with a new potent and selective CETP inhibitor, torcetrapib, have taken plac",
+            "journal": "Cardiology in review",
+            "year": "2008",
+            "authors": [
+              "Barkowski Rakhi Shah",
+              "Frishman William H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticholesteremic Agents",
+              "Atherosclerosis",
+              "Cholesterol Ester Transfer Proteins",
+              "Cholesterol, HDL",
+              "Humans",
+              "Quinolines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18414186/"
+          },
+          {
+            "pmid": "31189741",
+            "title": "Efficacy and adverse reaction to different doses of atorvastatin in the treatment of type II diabetes mellitus.",
+            "abstract": "Background: Type II diabetes mellitus (T2DM), a persistent metabolic disorder, is primarily characterized by insulin resistance, relative insulin deficiency and dyslipidemia. Here, we aimed to investigate whether different doses of atorvastatin (ATV) affect rats with T2DM. A total of 110 Sprague-Dawley rats were successfully established as T2DM models. Methods: First, the total cholesterol, triglyceride (TG), high-/low-/very-low-density lipoprotein cholesterol (HDL-c/LDL-c/VLDL-c), alanine transaminase (ALT), aspartate aminotransferase (AST), blood urea nitrogen (BUN), creatinine (Cr), apolipoprotein Al (ApoA1) and apolipoprotein B (ApoB) levels in rat serum were analyzed. In addition, cholesteryl ester transfer protein (CETP) and retinol-binding protein 4 (RBP4) were also measured. Then, the incidence of adverse reactions was noted. Finally, the pathological study of liver and pancreatic tissues was performed. Results: Rats administered ATV at the doses of 40 and 80 mg/(kg·day) showed",
+            "journal": "Bioscience reports",
+            "year": "2019",
+            "authors": [
+              "Jiang Hua",
+              "Zheng Hong"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alanine Transaminase",
+              "Animals",
+              "Apolipoprotein A-I",
+              "Apolipoproteins B",
+              "Aspartate Aminotransferases",
+              "Atorvastatin",
+              "Blood Urea Nitrogen",
+              "Cholesterol",
+              "Cholesterol Ester Transfer Proteins",
+              "Creatinine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31189741/"
+          },
+          {
+            "pmid": "18331394",
+            "title": "Glutathione S-transferase null and cholesteryl ester transfer protein TaqI B polymorphisms and lipid response to atorvastatin in Greek dyslipidaemic patients.",
+            "abstract": "",
+            "journal": "Basic & clinical pharmacology & toxicology",
+            "year": "2008",
+            "authors": [
+              "Goulas Antonis",
+              "Kosmidou Maria",
+              "Hatzitolios Apostolos I",
+              "Molyva Dimitra",
+              "Fidani Liana"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anticholesteremic Agents",
+              "Atorvastatin",
+              "Cholesterol Ester Transfer Proteins",
+              "Female",
+              "Gene Silencing",
+              "Genetic Predisposition to Disease",
+              "Genotype",
+              "Glutathione Transferase",
+              "Greece",
+              "Heptanoic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18331394/"
+          },
+          {
+            "pmid": "17169247",
+            "title": "Will torcetrapib be the next big thing in coronary heart disease risk reduction?",
+            "abstract": "Scientists are seeking ways to increase high-density lipoprotein (HDL) cholesterol to lower coronary heart disease (CHD). Emerging from this search is torcetrapib, a partial inhibitor of cholesteryl ester transfer protein. Via this mechanism, cholesteryl ester is prevented from being transferred to apolipoprotein B-containing lipoproteins and is retained in HDL particles, where ostensibly it may be delivered directly to the liver for elimination. Proof that this may reduce atherosclerotic vascular disease is provided by population studies of cholesteryl ester transfer protein (CETP) deficiencies and single nucleotide polymorphisms of CETP, and experiments in animal models treated with torcetrapib. Torcetrapib effectively raises HDL cholesterol when used alone and when added to background therapy with atorvastatin. The drug appears to be well tolerated. Large surrogate and survival outcome trials are underway to document its impact on CHD.",
+            "journal": "Current atherosclerosis reports",
+            "year": "2007",
+            "authors": [
+              "McKenney James M",
+              "Hoekstra John A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anticholesteremic Agents",
+              "Coronary Disease",
+              "Forecasting",
+              "Humans",
+              "Quinolines",
+              "Risk"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17169247/"
+          },
+          {
+            "pmid": "21804130",
+            "title": "Effect of torcetrapib on glucose, insulin, and hemoglobin A1c in subjects in the Investigation of Lipid Level Management to Understand its Impact in Atherosclerotic Events (ILLUMINATE) trial.",
+            "abstract": "High-density lipoproteins have antidiabetic properties in vitro. Furthermore, elevated high-density lipoprotein levels accompanying a genetic deficiency of cholesteryl ester transfer protein are associated with decreased levels of plasma glucose. We now investigate effects on glucose homeostasis of inhibiting cholesteryl ester transfer protein with torcetrapib.",
+            "journal": "Circulation",
+            "year": "2011",
+            "authors": [
+              "Barter Philip J",
+              "Rye Kerry-Anne",
+              "Tardif Jean-Claude",
+              "Waters David D",
+              "Boekholdt S Matthijs"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anticholesteremic Agents",
+              "Atherosclerosis",
+              "Atorvastatin",
+              "Blood Glucose",
+              "Cholesterol, HDL",
+              "Diabetes Mellitus, Type 2",
+              "Dyslipidemias",
+              "Female",
+              "Glycated Hemoglobin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21804130/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Atorvastatin",
+          "disease": "cholesterol-ester transfer protein deficiency",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Atorvastatin%20cholesterol-ester%20transfer%20protein%20deficiency"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
+        "txgnn_score": 0.9920392036437988,
+        "txgnn_rank": 1747,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "11387232",
+            "title": "Growth hormone reduces plasma cholesterol in LDL receptor-deficient mice.",
+            "abstract": "Growth hormone (GH) has pleiotropic effects on cholesterol and lipoprotein metabolism. Pituitary GH is important for the normal regulation of hepatic LDL receptors (LDLR), for the enzymatic activity of bile acid regulatory cholesterol 7alpha-hydroxylase (C7alphaOH), and for the maintenance of resistance to dietary cholesterol. The present study aimed to determine whether GH has beneficial effects on plasma lipids and hepatic cholesterol metabolism in mice devoid of LDLR. Compared with wild-type controls, LDLR-deficient mice had approximately 250% elevated plasma total cholesterol and approximately 50% increased hepatic cholesterol levels; hepatic HMG CoA reductase activity was reduced by 70%, whereas C7alphaOH activity was increased by 40%. In LDLR mice, GH infusion reduced plasma cholesterol and triglycerides up to 40%, whereas HMG CoA reductase and C7alphaOH activities were stimulated by approximately 50% and 110% respectively. GH also stimulated HMG CoA reductase and C7alphaOH activ",
+            "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+            "year": "2001",
+            "authors": [
+              "Rudling M",
+              "Angelin B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Atorvastatin",
+              "Cholesterol",
+              "Cholesterol 7-alpha-Hydroxylase",
+              "Cholestyramine Resin",
+              "Growth Hormone",
+              "Heptanoic Acids",
+              "Hydroxymethylglutaryl CoA Reductases",
+              "Lipoproteins, HDL",
+              "Lipoproteins, LDL"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11387232/"
+          },
+          {
+            "pmid": "12810816",
+            "title": "Inhibition of ileal bile acid transport and reduced atherosclerosis in apoE-/- mice by SC-435.",
+            "abstract": "Blocking intestinal bile acid absorption by inhibiting the apical sodium codependent bile acid transporter (ASBT) is a target for increasing hepatic bile acid synthesis and reducing plasma LDL cholesterol. SC-435 was identified as a potent inhibitor of ASBT (IC50 = 1.5 nM) in cells transfected with the human ASBT gene. Dietary administration of 3 mg/kg to 30 mg/kg SC-435 to apolipoprotein E-/- (apoE-/-) mice increased fecal bile acid excretion by >2.5-fold. In vivo inhibition of ASBT also resulted in significant increases of hepatic mRNA levels for cholesterol 7alpha-hydroxylase and HMG-CoA reductase. Administration of 10 mg/kg SC-435 for 12 weeks to apoE-/- mice lowered serum total cholesterol by 35% and reduced aortic root lesion area by 65%. Treatment of apoE-/- mice also resulted in decreased expression of ileal bile acid binding protein and hepatic nuclear hormone receptor small heterodimer partner, direct target genes of the farnesoid X receptor (FXR), suggesting a possible role ",
+            "journal": "Journal of lipid research",
+            "year": "2003",
+            "authors": [
+              "Bhat B Ganesh",
+              "Rapp Stephen R",
+              "Beaudry Judith A",
+              "Napawan Nida",
+              "Butteiger Dustie N"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Apolipoproteins E",
+              "Arteriosclerosis",
+              "Atorvastatin",
+              "Bile Acids and Salts",
+              "Biological Transport",
+              "Cells, Cultured",
+              "Cricetinae",
+              "Cyclic N-Oxides",
+              "Enzyme Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12810816/"
+          },
+          {
+            "pmid": "12475897",
+            "title": "Pharmacological interference with intestinal bile acid transport reduces plasma cholesterol in LDL receptor/apoE deficiency.",
+            "abstract": "Reduction of plasma cholesterol by statins is fundamental to prevent coronary heart disease. Such therapy is often sub-optimal, however, particularly in patients with reduced LDL receptors (familial hypercholesterolemia), and novel or adjuvant therapies are therefore warranted. Cholesterol elimination is profoundly influenced by the rate of its conversion to bile acids (BA), regulated by the enzyme Cyp7a1. Induced fecal loss of BA by resin treatment reduces plasma cholesterol, presumably through induction of hepatic LDL receptors (LDLR). We here describe the effect of PR835, a drug belonging to a new class of lipid-lowering agents that inhibit the Slc10a2 protein, the intestinal transporter responsible for active uptake of BA. Treatment reduced plasma cholesterol by 40% in mice devoid of both the LDLR and its ligand, apoE, while triglycerides and HDL cholesterol were unchanged. Cyp7a1 enzyme activity and mRNA were induced several-fold, and hepatic HMG CoA reductase mRNA increased, mirr",
+            "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+            "year": "2003",
+            "authors": [
+              "Gälman Cecilia",
+              "Ostlund-Lindqvist Ann-Margret",
+              "Björquist Anna",
+              "Schreyer Sandra",
+              "Svensson Lennart"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Apolipoproteins E",
+              "Atorvastatin",
+              "Carrier Proteins",
+              "Cholesterol",
+              "Cholesterol 7-alpha-Hydroxylase",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Gene Expression Regulation",
+              "Heptanoic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12475897/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Atorvastatin",
+          "disease": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Atorvastatin%20hypercholesterolemia%20due%20to%20cholesterol%207alpha-hydroxylase%20deficiency"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+        "txgnn_score": 0.9912837743759156,
+        "txgnn_rank": 1869,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Atorvastatin",
+          "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Atorvastatin%20neurodevelopmental%20disorder%20with%20ataxic%20gait%2C%20absent%20speech%2C%20and%20decreased%20cortical%20white%20matter"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Atorvastatin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01076",
+    "name": "Atorvastatin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Atorvastatin"
+      },
+      "queried_at": "2026-03-10T13:21:55.176591",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Atorvastatin"
+      },
+      "queried_at": "2026-03-10T13:21:55.202891",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Atorvastatin"
+      },
+      "queried_at": "2026-03-10T13:21:58.661228",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-10T13:22:01.044113",
+      "status": "success",
+      "result_count": 34,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-10T13:22:06.064429",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-10T13:22:08.909640",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-10T13:22:16.280542",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-10T13:22:18.329214",
+      "status": "success",
+      "result_count": 22,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-10T13:22:22.505155",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-10T13:22:23.986402",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-10T13:22:30.226016",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-10T13:22:31.939668",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-10T13:22:36.440432",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-10T13:22:39.028924",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-10T13:22:43.800762",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "cholesterol-ester transfer protein deficiency"
+      },
+      "queried_at": "2026-03-10T13:22:45.441497",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "cholesterol-ester transfer protein deficiency"
+      },
+      "queried_at": "2026-03-10T13:22:50.818052",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "cholesterol-ester transfer protein deficiency"
+      },
+      "queried_at": "2026-03-10T13:22:52.654599",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "cholesterol-ester transfer protein deficiency"
+      },
+      "queried_at": "2026-03-10T13:22:56.429140",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency"
+      },
+      "queried_at": "2026-03-10T13:22:57.267690",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency"
+      },
+      "queried_at": "2026-03-10T13:23:05.564584",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency"
+      },
+      "queried_at": "2026-03-10T13:23:07.653884",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency"
+      },
+      "queried_at": "2026-03-10T13:23:10.810282",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-10T13:23:12.572097",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-10T13:23:19.660750",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-10T13:23:21.223457",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Atorvastatin",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-10T13:23:22.806651",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 6,
+    "created_at": "2026-03-10T13:23:22.812461"
+  }
+}

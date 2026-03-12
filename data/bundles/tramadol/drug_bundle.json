@@ -1,0 +1,754 @@
+{
+  "drug": {
+    "inn": "Tramadol",
+    "drugbank_id": "DB00193",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "acromesomelic dysplasia, Hunter-Thompson type",
+        "txgnn_score": 0.999924898147583,
+        "txgnn_rank": 26,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "acromesomelic dysplasia, Hunter-Thompson type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20acromesomelic%20dysplasia%2C%20Hunter-Thompson%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brachyolmia-amelogenesis imperfecta syndrome",
+        "txgnn_score": 0.9999196529388428,
+        "txgnn_rank": 29,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "brachyolmia-amelogenesis imperfecta syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20brachyolmia-amelogenesis%20imperfecta%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "myosclerosis",
+        "txgnn_score": 0.9999102354049684,
+        "txgnn_rank": 36,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "myosclerosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20myosclerosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brachyolmia",
+        "txgnn_score": 0.999897599220276,
+        "txgnn_rank": 44,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "brachyolmia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20brachyolmia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pseudoachondroplasia",
+        "txgnn_score": 0.9998331069946288,
+        "txgnn_rank": 70,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "pseudoachondroplasia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20pseudoachondroplasia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "spondyloarthropathy, susceptibility to",
+        "txgnn_score": 0.999740183353424,
+        "txgnn_rank": 97,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "spondyloarthropathy, susceptibility to",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20spondyloarthropathy%2C%20susceptibility%20to"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "juvenile idiopathic arthritis",
+        "txgnn_score": 0.9991907477378844,
+        "txgnn_rank": 270,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "20799760",
+            "title": "Ketoprofen pharmacokinetics, efficacy, and tolerability in pediatric patients.",
+            "abstract": "The NSAID ketoprofen is used widely in the management of inflammatory and musculoskeletal conditions, pain, and fever in children and adults. Pharmacokinetic studies show that drug exposure after a single intravenous dose is similar in children and adults (after dose normalization), and thus similar mg/kg bodyweight dosing may be used in children and adults. Ketoprofen crosses the blood-brain barrier and therefore has the potential to cause central analgesic effects. Ketoprofen has been investigated in children for the treatment of pain and fever, peri- and postoperative pain, and inflammatory pain conditions. The results of four clinical trials in febrile conditions with the oral syrup formulation indicate that ketoprofen is as effective as acetaminophen (paracetamol) and ibuprofen, allowing children to rapidly return to daily activities with improvements in sleep quality and appetite. Studies of ketoprofen in the management of postoperative pain indicate that ketoprofen is a highly e",
+            "journal": "Paediatric drugs",
+            "year": "2010",
+            "authors": [
+              "Kokki Hannu"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Fever",
+              "Humans",
+              "Inflammation",
+              "Ketoprofen",
+              "Perioperative Period"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20799760/"
+          },
+          {
+            "pmid": "12180751",
+            "title": "Coexistent sickle cell disease and juvenile rheumatoid arthritis: 2 cases with delayed diagnosis and severe destructive arthropathy.",
+            "abstract": "",
+            "journal": "The Journal of rheumatology",
+            "year": "2002",
+            "authors": [
+              "Eberhard B Anne"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anemia, Sickle Cell",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Diagnosis, Differential",
+              "Female",
+              "Humans",
+              "Joints",
+              "Mixed Connective Tissue Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12180751/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "juvenile idiopathic arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20juvenile%20idiopathic%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "juvenile arthritis due to defect in LACC1",
+        "txgnn_score": 0.9991835951805116,
+        "txgnn_rank": 272,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "juvenile arthritis due to defect in LACC1",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20juvenile%20arthritis%20due%20to%20defect%20in%20LACC1"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rheumatoid nodulosis",
+        "txgnn_score": 0.999171257019043,
+        "txgnn_rank": 274,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "rheumatoid nodulosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20rheumatoid%20nodulosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
+        "txgnn_score": 0.9990302324295044,
+        "txgnn_rank": 309,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tramadol",
+          "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tramadol%20rheumatoid%20factor-positive%20polyarticular%20juvenile%20idiopathic%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Tramadol",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00193",
+    "name": "Tramadol",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Tramadol"
+      },
+      "queried_at": "2026-03-10T12:02:10.978620",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Tramadol"
+      },
+      "queried_at": "2026-03-10T12:02:10.999724",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Tramadol"
+      },
+      "queried_at": "2026-03-10T12:02:26.302598",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:02:27.068422",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:02:30.834345",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:02:32.028694",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:02:33.695609",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T12:02:34.523924",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T12:02:39.053618",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T12:02:40.280702",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia-amelogenesis imperfecta syndrome"
+      },
+      "queried_at": "2026-03-10T12:02:42.418621",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "myosclerosis"
+      },
+      "queried_at": "2026-03-10T12:02:43.051390",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "myosclerosis"
+      },
+      "queried_at": "2026-03-10T12:02:46.970372",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "myosclerosis"
+      },
+      "queried_at": "2026-03-10T12:02:48.021822",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "myosclerosis"
+      },
+      "queried_at": "2026-03-10T12:02:49.896503",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia"
+      },
+      "queried_at": "2026-03-10T12:02:50.772335",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia"
+      },
+      "queried_at": "2026-03-10T12:02:54.819767",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia"
+      },
+      "queried_at": "2026-03-10T12:02:55.870412",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "brachyolmia"
+      },
+      "queried_at": "2026-03-10T12:02:57.070662",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:02:57.870183",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:03:03.304422",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:03:05.813872",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:03:07.081128",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:03:07.630384",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:03:11.876830",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:03:12.878881",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:03:14.351539",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:15.291617",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:19.300155",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:21.320429",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:24.542958",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:03:25.821137",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:03:31.377355",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:03:32.783681",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:03:34.342788",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:03:35.352171",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:03:39.408572",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:03:40.836401",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:03:42.248055",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:43.586418",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:47.991225",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:50.149187",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tramadol",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:03:51.470353",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:03:51.474953"
+  }
+}

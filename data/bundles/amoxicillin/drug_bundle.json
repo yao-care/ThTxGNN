@@ -1,0 +1,1218 @@
+{
+  "drug": {
+    "inn": "Amoxicillin",
+    "drugbank_id": "DB01060",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "hyperamylasemia",
+        "txgnn_score": 0.9963032007217408,
+        "txgnn_rank": 960,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "hyperamylasemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20hyperamylasemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "polyclonal hyperviscosity syndrome",
+        "txgnn_score": 0.9963032007217408,
+        "txgnn_rank": 961,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "polyclonal hyperviscosity syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20polyclonal%20hyperviscosity%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital analbuminemia",
+        "txgnn_score": 0.9959016442298888,
+        "txgnn_rank": 1053,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "congenital analbuminemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20congenital%20analbuminemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blood group incompatibility",
+        "txgnn_score": 0.9940282106399536,
+        "txgnn_rank": 1342,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "40350274",
+            "title": "[Campylobacter lari bacteremia during treatment of pure red cell aplasia following major ABO-mismatched hematopoietic stem cell transplantation].",
+            "abstract": "Campylobacter lari is a rare cause of bacteremia in Campylobacter spp. Clinical course and symptoms vary by report, and no standard approaches to antimicrobial selection and duration of treatment have been established. A 68-year-old man who underwent haploidentical hematopoietic stem cell transplantation (HSCT) from a major ABO-incompatible donor with post-transplant cyclophosphamide for myelodysplastic syndromes developed pure red cell anemia and post-transfusion iron overload. On day 360, the patient developed fever and spiral-shaped gram-negative bacteria were detected by blood culture. The isolate was identified as C. lari by mass spectrometry. The isolate was resistant to levofloxacin, and intravenous cefepime was given followed by maintenance therapy with oral amoxicillin. We here report the first case of C. lari bacteremia developing after allogeneic HSCT.",
+            "journal": "[Rinsho ketsueki] The Japanese journal of clinical hematology",
+            "year": "2025",
+            "authors": [
+              "Yoshimaru Ryo",
+              "Nakamura Hirotaka",
+              "Guo Yony-Mei",
+              "Chi Song-Gi",
+              "Minami Yousuke"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports",
+              "English Abstract"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Hematopoietic Stem Cell Transplantation",
+              "Aged",
+              "ABO Blood-Group System",
+              "Red-Cell Aplasia, Pure",
+              "Bacteremia",
+              "Campylobacter Infections",
+              "Anti-Bacterial Agents",
+              "Blood Group Incompatibility"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40350274/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "blood group incompatibility",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20blood%20group%20incompatibility"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "premalignant hematological system disease",
+        "txgnn_score": 0.9928591251373292,
+        "txgnn_rank": 1562,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "premalignant hematological system disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20premalignant%20hematological%20system%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "monoclonal gammopathy",
+        "txgnn_score": 0.9922260046005248,
+        "txgnn_rank": 1705,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00062231",
+            "title": "Oral Empirical Therapy of Fever in Low-Risk Neutropenic Cancer Patients: A Prospective, Double-Blind, Randomized, Multicenter Trial Comparing Monotherapy (Single Daily Dose Moxifloxacin) With Combination Therapy (Ciprofloxacin Plus Amoxicillin/Clavulanic Acid)",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2002-04",
+            "completion_date": "",
+            "country": "Turkey (Türkiye), Slovakia, Italy, Israel, Belgium, Germany, France, Switzerland",
+            "enrollment": 351,
+            "brief_summary": "RATIONALE: Antibiotics such as amoxicillin, ciprofloxacin, and moxifloxacin may be effective in preventing or controlling fever and neutropenia in patients with cancer. It is not yet known whether moxifloxacin alone is more effective than amoxicillin combined with ciprofloxacin in treating neutropenia and fever.\n\nPURPOSE: This randomized clinical trial is studying how well moxifloxacin works and compares it to ciprofloxacin together with amoxicillin in treating neutropenia and fever in patients ",
+            "eligibility_criteria": "DISEASE CHARACTERISTICS:\n\n* Diagnosis of cancer with developing febrile neutropenia\n\n  * Neutropenia defined as an absolute granulocyte count of less than 1,000/mm\\^3, expected to fall to less than 500/mm\\^3 within 24 hours, secondary to administration of chemotherapy and/or radiotherapy within the ",
+            "endpoints": [
+              "Response as measured by International Antimicrobial Therapy Group (IATG) specific criteria at the completion of allocated treatment"
+            ],
+            "sponsor": "European Organisation for Research and Treatment of Cancer - EORTC",
+            "url": "https://clinicaltrials.gov/study/NCT00062231"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "21908119",
+            "title": "[Pneumonia and Rothia dentocariosa].",
+            "abstract": "",
+            "journal": "Medecine et maladies infectieuses",
+            "year": "2011",
+            "authors": [
+              "Bousquet A",
+              "Soler C",
+              "Martinaud C",
+              "Join-Lambert O",
+              "Malfuson J-V"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Actinomycetales Infections",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Antineoplastic Combined Chemotherapy Protocols",
+              "Boronic Acids",
+              "Bortezomib",
+              "Female",
+              "Humans",
+              "Immunocompromised Host",
+              "Melphalan"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21908119/"
+          },
+          {
+            "pmid": "9030995",
+            "title": "\"Mediterranean lymphoma\" treated with antibiotics.",
+            "abstract": "We report a case of Mediterranean lymphoma treated with antibiotics. A 74-year-old woman visited the hospital due to abdominal pain. Endoscopic examination showed erosions and ulcerations on duodenal mucosa. Biopsy specimens histologically revealed massive infiltration of small-sized lymphocytes and plasma cells in subepithelial mucosa. Immunoperoxidase staining showed that the infiltrating cells were positively stained with anti-alpha heavy chain. Serum IgA concentration was elevated and immunoelectrophoresis of the serum demonstrated monoclonal protein composed of alpha heavy chain. During the antibiotic treatment her symptoms disappeared and serum IgA concentration was normalized. Endoscopic examination also showed healing of the duodenal ulceration. The similarities between Mediterranean lymphoma and gastric mucosa-associated lymphoid tissue (MALT) type lymphoma, both of which may be related to bacterial infection and can be treated with antibiotics, are discussed in this report.",
+            "journal": "Internal medicine (Tokyo, Japan)",
+            "year": "1996",
+            "authors": [
+              "Matsumoto S",
+              "Kinoshita Y",
+              "Fukuda H",
+              "Waki S",
+              "Asahara M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Amoxicillin",
+              "Drug Therapy, Combination",
+              "Duodenoscopy",
+              "Duodenum",
+              "Female",
+              "Humans",
+              "Immunoproliferative Small Intestinal Disease",
+              "Lymphoma, B-Cell, Marginal Zone",
+              "Metronidazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9030995/"
+          },
+          {
+            "pmid": "35619805",
+            "title": "Case Report: Disseminated Nocardiosis Caused by Nocardia vulneris in a Patient With Macroglobulinemia.",
+            "abstract": "This report describes a case of disseminated nocardiosis, caused by Nocardia vulneris, in a 61-year-old man with macroglobulinemia and presenting with repeated fever, cough, shortness of breath, and muscle pain. The isolated Nocardia strain was resistant to ciprofloxacin, but susceptible to amikacin, gentamicin, tobramycin, linezolid, trimethoprim-sulfamethoxazole, amoxicillin/clavulanic, moxifloxacin, ceftriaxone, cefotaxim, and imipenem. The patient was started on combined meropenem and doxycycline treatment, followed by trimethoprim-sulfamethoxazole, which was subsequently switched to a combination treatment of linezolid, amikacin, and trimethoprim-sulfamethoxazole. The patient recovered, and his condition remained stable. Although infection by Nocardia vulneris is rare, and it is easy to miss detection in clinical practice, clinicians should be aware of the possibility of this infection. In addition, the MIC value of the drug sensitivity test should be ascertained when there is a w",
+            "journal": "Frontiers in public health",
+            "year": "2022",
+            "authors": [
+              "Qiu Fulan",
+              "Ma Zhiyi",
+              "Zhong Rongrong",
+              "Huang Haonan",
+              "Wang Yuehua"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Research Support, Non-U.S. Gov't",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amikacin",
+              "Anti-Infective Agents",
+              "Humans",
+              "Linezolid",
+              "Male",
+              "Microbial Sensitivity Tests",
+              "Middle Aged",
+              "Nocardia",
+              "Nocardia Infections",
+              "Trimethoprim, Sulfamethoxazole Drug Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35619805/"
+          },
+          {
+            "pmid": "20513124",
+            "title": "High incidence of false-positive Aspergillus galactomannan test in multiple myeloma.",
+            "abstract": "Invasive aspergillosis (IA) remains one of the most significant causes of morbidity and mortality in patients with hematological malignancies undergoing chemotherapy and hematopoietic stem cell transplantation (HSCT), mainly due to the difficulty in its early diagnosis. Monitoring of galactomannan (GM) antigen, an exoantigen of Aspergillus, in the blood by sandwich ELISA is a useful and noninvasive method for early diagnosis of IA. The GM test has a sensitivity of 67-100% with a specificity of 81-99% in neutropenic patients and allogeneic transplant recipients [1-3]. Although it has been widely used as a diagnostic criterion for IA [4,5], one of the major limitations of this assay is false-positivity, particularly in pediatric patients [1], patients with graft-versus-host disease (GVHD) [6,7], and those taking dietary GM [8,9] or fungus-derived antibiotics, such as piperacillin-tazobactam (PIPC/TAZ) [10-12].",
+            "journal": "American journal of hematology",
+            "year": "2010",
+            "authors": [
+              "Mori Yasuo",
+              "Nagasaki Yoji",
+              "Kamezaki Kenjiro",
+              "Takenaka Katsuto",
+              "Iwasaki Hiromi"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Amoxicillin",
+              "Antibiotic Prophylaxis",
+              "Antigens, Fungal",
+              "Artifacts",
+              "Aspergillosis",
+              "Aspergillus",
+              "False Positive Reactions",
+              "Galactose",
+              "Hematologic Diseases",
+              "Hematologic Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20513124/"
+          },
+          {
+            "pmid": "18639371",
+            "title": "Consequence of therapy discontinuation in bisphosphonate-associated osteonecrosis of the jaws.",
+            "abstract": "We report a patient with bisphosphonate-associated osteonecrosis of the jaws who developed pathological fractures of the upper and lower extremities after the suspension of treatment with bisphosphonates. Temporary discontinuation of the drugs does not alter the clinical course of the disease, and could result in the recurrence of bone pain and the progression of metastases or osteolytic lesions.",
+            "journal": "The British journal of oral & maxillofacial surgery",
+            "year": "2009",
+            "authors": [
+              "Gallego Lorena",
+              "Junquera Luis"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amoxicillin-Potassium Clavulanate Combination",
+              "Anti-Infective Agents, Local",
+              "Bone Density Conservation Agents",
+              "Bone Neoplasms",
+              "Chlorhexidine",
+              "Debridement",
+              "Diphosphonates",
+              "Female",
+              "Humans",
+              "Hydrogen Peroxide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18639371/"
+          },
+          {
+            "pmid": "20015614",
+            "title": "Surgical management of bisphosphonate induced osteonecrosis of the jaws.",
+            "abstract": "Recent literature contains numerous articles on osteonecrosis of the jaws (ONJ) associated with bisphosphonate treatment (BPT), with most advocating a conservative approach to management. A prospective study was designed to review the surgical management of cases of ONJ that did not respond to conservative management. Forty patients, referred with ONJ that did not respond to conservative management, were treated surgically and followed up for 6 months to 4 years. Four patients were taking i.v. BPT as part of their bone cancer management and 16 were taking oral BPT for osteoporosis. The surgical management of ONJ involved antibiotic therapy, surgical debridement of all necrotic bone and tension-free primary closure. All 40 cases healed uneventfully with no wound breakdown during follow-up. Most of the literature supports the conservative management of ONJ, but the condition leaves the patient debilitated. Many cases do not respond to conservative management and the infection and bone de",
+            "journal": "International journal of oral and maxillofacial surgery",
+            "year": "2010",
+            "authors": [
+              "Williamson R A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents, Local",
+              "Bone Density Conservation Agents",
+              "Bone Neoplasms",
+              "Chlorhexidine",
+              "Clindamycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20015614/"
+          },
+          {
+            "pmid": "22092390",
+            "title": "Multiple myeloma vs. breast cancer patients with bisphosphonates-related osteonecrosis of the jaws: a comparative analysis of response to treatment and predictors of outcome.",
+            "abstract": "Multiple myeloma (MM) and breast cancer (BC) are the two most common diseases associated with bisphosphonates-related osteonecrosis of the jaws (BRONJ), for which different therapeutical approaches have been proposed. The aim of this study was to compare the clinical behaviour of BRONJ in patients with MM vs. BC and the time of healing in terms of clinical and symptomatological remission, following a standardized therapeutic protocol.",
+            "journal": "Journal of oral pathology & medicine : official publication of the International Association of Oral Pathologists and the American Academy of Oral Pathology",
+            "year": "2012",
+            "authors": [
+              "Fortuna Giulio",
+              "Ruoppo Elvira",
+              "Pollio Annamaria",
+              "Aria Massimo",
+              "Adamo Daniela"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Amoxicillin",
+              "Amoxicillin-Potassium Clavulanate Combination",
+              "Anti-Bacterial Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Bisphosphonate-Associated Osteonecrosis of the Jaw",
+              "Bone Density Conservation Agents",
+              "Breast Neoplasms",
+              "Diphosphonates",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22092390/"
+          },
+          {
+            "pmid": "20300878",
+            "title": "Regression of immunoproliferative small intestinal disease after eradication of Helicobacter pylori.",
+            "abstract": "A 20-year-old male presented with low-grade fever, abdominal pain, anorexia, and weight loss of 4-month duration. On examination, he was emaciated. Barium meal follow-through examination showed extensive nodularity and thickening of duodenal and jejunal folds. Contrast-enhanced computed tomography of the abdomen revealed extensive proximal small-bowel thickening with mesenteric lymphadenopathy. Upper gastrointestinal endoscopy and enteroscopy revealed thickening of folds with multiple small superficial ulceration involving antrum, duodenum, and jejunum. The duodenal and jejunal biopsy was suggestive of immunoproliferative small intestinal disease, stage 0 (Salem) or stage A (Galian). Antral biopsy showed presence of Helicobacter pylori infection. He underwent H. pylori eradication following which he had significant clinical improvement; repeat evaluation at 6 months showed dramatic improvement in his clinical, radiological, and histological parameters.",
+            "journal": "Journal of gastrointestinal cancer",
+            "year": "2010",
+            "authors": [
+              "Dutta Usha",
+              "Udawat Harsh",
+              "Noor Mohd Talha",
+              "Sidhu Gurbakhshish Singh",
+              "Kochhar Rakesh"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Clarithromycin",
+              "Doxycycline",
+              "Drug Therapy, Combination",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Humans",
+              "Immunoproliferative Small Intestinal Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20300878/"
+          },
+          {
+            "pmid": "8988128",
+            "title": "Regression of immunoproliferative small intestinal disease after eradication of Helicobacter pylori.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1997",
+            "authors": [
+              "Fischbach W",
+              "Tacke W",
+              "Greiner A",
+              "Konrad H",
+              "Müller-Hermelink"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Anti-Ulcer Agents",
+              "Antineoplastic Combined Chemotherapy Protocols",
+              "Clarithromycin",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Humans",
+              "Immunoproliferative Small Intestinal Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8988128/"
+          },
+          {
+            "pmid": "16253033",
+            "title": "Nonsecretory variant of immunoproliferative small intestinal disease: a case report with pathologic, immunophenotypic, and molecular findings.",
+            "abstract": "We report a case of the nonsecretory variant of immunoproliferative small intestinal disease involving the distal small bowel and the mesenteric and retroperitoneal lymph nodes in a 19-year-old woman from Mexico. This variant extranodal marginal zone B-cell lymphoma appeared similar in the different sites of involvement, with more interspersed large cells and greater plasmacytic differentiation present in intestinal specimens. Characteristic lymphoepithelial lesions and follicular colonization were seen in intestinal and lymph node sections, respectively. The neoplastic B cells were cytoplasmic immunoglobulin (Ig) A heavy-chain restricted and lacked surface and cytoplasmic light-chain expression by flow cytometric analysis. Serum and urine protein electrophoresis/immunofixation revealed hypogammaglobulinemia with no paraprotein. Molecular studies showed absence of immunoglobulin heavy-chain (IgH) gene rearrangement, with a nonfunctional clonotypic rearrangement of the kappa light-chain",
+            "journal": "Archives of pathology & laboratory medicine",
+            "year": "2005",
+            "authors": [
+              "Pai Reetesh K",
+              "Snider Warren K",
+              "Starkey Cindi R",
+              "Viswanatha David",
+              "Foucar M Kathryn"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "2-Pyridinylmethylsulfinylbenzimidazoles",
+              "Adult",
+              "Amoxicillin",
+              "Anti-Bacterial Agents",
+              "Benzimidazoles",
+              "Drug Therapy, Combination",
+              "Female",
+              "Gene Rearrangement, B-Lymphocyte, Light Chain",
+              "Humans",
+              "Immunophenotyping"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16253033/"
+          },
+          {
+            "pmid": "20185222",
+            "title": "Bisphosphonate-induced osteonecrosis of the jaw 32 months after interruption of zoledronate in a patient with multiple myeloma.",
+            "abstract": "",
+            "journal": "Journal of oral and maxillofacial surgery : official journal of the American Association of Oral and Maxillofacial Surgeons",
+            "year": "2010",
+            "authors": [
+              "Del Conte Alessandro",
+              "Bernardeschi Paolo",
+              "La Ferla Fabio",
+              "Turrisi Gina",
+              "D'Alessandro Michelina"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Amoxicillin-Potassium Clavulanate Combination",
+              "Anti-Bacterial Agents",
+              "Antineoplastic Combined Chemotherapy Protocols",
+              "Bone Density Conservation Agents",
+              "Diphosphonates",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Imidazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20185222/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "monoclonal gammopathy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20monoclonal%20gammopathy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hematological disease associated with an acquired peripheral neuropathy",
+        "txgnn_score": 0.991374671459198,
+        "txgnn_rank": 1851,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "hematological disease associated with an acquired peripheral neuropathy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20hematological%20disease%20associated%20with%20an%20acquired%20peripheral%20neuropathy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "septicemic plague",
+        "txgnn_score": 0.9912928938865662,
+        "txgnn_rank": 1867,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "37126899",
+            "title": "Traceability, virulence and antimicrobial resistance of Yersinia enterocolitica in two industrial cheese-making plants.",
+            "abstract": "Between 2018 and 2019, 309 environmental and food samples were collected from two industrial cheese-making plants located in Sardinia, in order to investigate Y. enterocolitica presence and to characterize the isolates. Y. enterocolitica isolates were further compared with isolates detected during a previous investigation from sheep and goat raw milk samples. Y. enterocolitica was detected in 7.4 % of the samples and the prevalence was higher, even if not significantly (P > 0.05) higher in non-food contact surface samples (10.2 %) than in food contact surface samples (3.8 %). The highest prevalence was detected in floor samples (13.5 %), followed by drain samples (7.2 %), which might serve as main harborage sites for further contamination. Y. enterocolitica was also detected in food contact surfaces, namely shelves of the Ricotta cooling room and packaging room, one cheese cutting machine surface and one raw milk filter sample. The biotype 1A isolates identified in this study were clas",
+            "journal": "International journal of food microbiology",
+            "year": "2023",
+            "authors": [
+              "Piras Francesca",
+              "Siddi Giuliana",
+              "Le Guern Anne-Sophie",
+              "Brémont Sylvie",
+              "Fredriksson-Ahomaa Maria"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Animals",
+              "Sheep",
+              "Yersinia enterocolitica",
+              "Anti-Bacterial Agents",
+              "Virulence",
+              "Cheese",
+              "Drug Resistance, Bacterial",
+              "Goats",
+              "Yersinia Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37126899/"
+          },
+          {
+            "pmid": "15086042",
+            "title": "Atypical pathogens and challenges in community-acquired pneumonia.",
+            "abstract": "Atypical organisms such as Mycoplasma pneumoniae, Chlamydia pneumoniae, and Legionella pneumophila are implicated in up to 40 percent of cases of community-acquired pneumonia. Antibiotic treatment is empiric and includes coverage for both typical and atypical organisms. Doxycycline, a fluoroquinolone with enhanced activity against Streptococcus pneumoniae, or a macrolide is appropriate for outpatient treatment of immunocompetent adult patients. Hospitalized adults should be treated with cefotaxime or ceftriaxone plus a macrolide, or with a fluoroquinolone alone. The same agents can be used in adult patients in intensive care units, although fluoroquinolone monotherapy is not recommended; ampicillin-sulbactam or piperacillin-tazobactam can be used instead of cefotaxime or ceftriaxone. Outpatient treatment of children two months to five years of age consists of high-dose amoxicillin given for seven to 10 days. A single dose of ceftriaxone can be used in infants when the first dose of ant",
+            "journal": "American family physician",
+            "year": "2004",
+            "authors": [
+              "Thibodeau Kristopher P",
+              "Viera Anthony J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Bioterrorism",
+              "Child",
+              "Community-Acquired Infections",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pneumonia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15086042/"
+          },
+          {
+            "pmid": "28643091",
+            "title": "Sylvatic Plague Vaccine Partially Protects Prairie Dogs (Cynomys spp.) in Field Trials.",
+            "abstract": "Sylvatic plague, caused by Yersinia pestis, frequently afflicts prairie dogs (Cynomys spp.), causing population declines and local extirpations. We tested the effectiveness of bait-delivered sylvatic plague vaccine (SPV) in prairie dog colonies on 29 paired placebo and treatment plots (1-59 ha in size; average 16.9 ha) in 7 western states from 2013 to 2015. We compared relative abundance (using catch per unit effort (CPUE) as an index) and apparent survival of prairie dogs on 26 of the 29 paired plots, 12 with confirmed or suspected plague (Y. pestis positive carcasses or fleas). Even though plague mortality occurred in prairie dogs on vaccine plots, SPV treatment had an overall positive effect on CPUE in all three years, regardless of plague status. Odds of capturing a unique animal were 1.10 (95% confidence interval [C.I.] 1.02-1.19) times higher per trap day on vaccine-treated plots than placebo plots in 2013, 1.47 (95% C.I. 1.41-1.52) times higher in 2014 and 1.19 (95% C.I. 1.13-1.",
+            "journal": "EcoHealth",
+            "year": "2017",
+            "authors": [
+              "Rocke Tonie E",
+              "Tripp Daniel W",
+              "Russell Robin E",
+              "Abbott Rachel C",
+              "Richgels Katherine L D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amoxicillin",
+              "Animals",
+              "Arizona",
+              "Colorado",
+              "Montana",
+              "Plague",
+              "Plague Vaccine",
+              "Rodent Diseases",
+              "Sciuridae",
+              "South Dakota"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28643091/"
+          },
+          {
+            "pmid": "3957763",
+            "title": "Bubonic plague in a cat.",
+            "abstract": "Bubonic plague was diagnosed in a cat. The diagnosis was made by isolation of bacteria from a ruptured bubo and by demonstration of an antibody titer to Yersinia pestis. The cat was treated successfully with amoxicillin and streptomycin. The entire veterinary staff was treated prophylactically with tetracycline.",
+            "journal": "Journal of the American Veterinary Medical Association",
+            "year": "1986",
+            "authors": [
+              "Raflo N L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cat Diseases",
+              "Cats",
+              "Plague",
+              "Yersinia pestis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3957763/"
+          },
+          {
+            "pmid": "30563467",
+            "title": "Rapid antimicrobial susceptibility testing and β-lactam-induced cell morphology changes of Gram-negative biological threat pathogens by optical screening.",
+            "abstract": "For Yersinia pestis, Burkholderia pseudomallei, and Burkholderia mallei, conventional broth microdilution (BMD) is considered the gold standard for antimicrobial susceptibility testing (AST) and, depending on the species, requires an incubation period of 16-20 h, or 24-48 h according to the Clinical and Laboratory Standards Institute (CLSI) guidelines. After a diagnosis of plague, melioidosis or glanders during an outbreak or after an exposure event, the timely distribution of appropriate antibiotics for treatment or post-exposure prophylaxis of affected populations could reduce mortality rates.",
+            "journal": "BMC microbiology",
+            "year": "2018",
+            "authors": [
+              "McLaughlin Heather P",
+              "Sue David"
+            ],
+            "pub_types": [
+              "Evaluation Study",
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Burkholderia mallei",
+              "Burkholderia pseudomallei",
+              "Ciprofloxacin",
+              "Doxycycline",
+              "Glanders",
+              "Humans",
+              "Imipenem",
+              "Melioidosis",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30563467/"
+          },
+          {
+            "pmid": "40772196",
+            "title": "Yersinia Is Not Just the Plague: A Case Report of Yersiniosis Caused by Yersinia enterocolitica.",
+            "abstract": "Yersinia enterocolitica is a Gram-negative bacterium that typically causes self-limiting gastrointestinal infections but can sometimes lead to systemic complications, particularly in immunocompromised hosts. This report describes a rare case of a 60-year-old farmer who developed enteric bacteremia, renal impairment, and pulmonary manifestations, likely due to the consumption of undercooked pork. Despite lacking common predisposing factors, the patient presented with a sore throat, joint pain, abdominal discomfort, and a characteristic erythematous rash. Extensive diagnostic workup, including blood cultures and autoimmune screening, yielded negative results. However, stool culture eventually identified Y. enterocolitica as the causative agent. The patient experienced worsening kidney function, respiratory distress, and significant abdominal findings on imaging, prompting consultations across multiple specialties. Treatment with doxycycline and amoxicillin led to clinical improvement, an",
+            "journal": "Cureus",
+            "year": "2025",
+            "authors": [
+              "Hashmi Shahnawaz",
+              "Majumder Sunrit",
+              "Gillani Zamad",
+              "Ali Mariyam"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40772196/"
+          },
+          {
+            "pmid": "21628541",
+            "title": "In vitro efficacy of antibiotics commonly used to treat human plague against intracellular Yersinia pestis.",
+            "abstract": "Yersinia pestis initiates infection as a facultative intracellular parasite in host macrophages; however, little is known about the efficacy of antibiotics commonly used to treat human plague against intracellular Y. pestis. Intracellular minimal bactericidal concentrations (MBCs) were determined using a high-throughput broth microdilution assay in which human THP-1 macrophage-like cells were infected with Y. pestis strain KIM6-2053.1+ and exposed to 2-fold serial dilutions of antibiotics for 24 h in 96-well plates. The numbers of CFU, upon which minimal bactericidal concentrations were based, were determined by counting \"microcolonies\" in wells of 96-well plates following lysis of tissue culture cells to release surviving Y. pestis, replica dilution, and plating in soft tryptic soy broth agar. For THP-1 cells, streptomycin and ciprofloxacin had comparable efficacies for intra- and extracellular Y. pestis, but the MBCs for chloramphenicol, gentamicin, doxycycline, and amoxicillin were ",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2011",
+            "authors": [
+              "Wendte Jered M",
+              "Ponnusamy Duraisamy",
+              "Reiber Deanna",
+              "Blair Jeffrey L",
+              "Clinkenbeard Kenneth D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amoxicillin",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Cell Line",
+              "Chloramphenicol",
+              "Ciprofloxacin",
+              "Doxycycline",
+              "Gentamicins",
+              "High-Throughput Screening Assays",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21628541/"
+          },
+          {
+            "pmid": "36284359",
+            "title": "Assessment of Helicobacter pylori positive infected patients according to Clarithromycin resistant 23S rRNA, rpl22 associated mutations and cyp2c19*1, *2, *3 genes pattern in the Early stage of Gastritis.",
+            "abstract": "Clarithromycin resistant Helicobacter pylori (CAM-R) is the main cause of standard triple therapy eradicating failure. Proton pump inhibitors (PPIs) directly pose bacteriocidic activity and prepare the optimum condition for Clarithromycin's best function. In counter with Poor metabolizer subjects, Homozygote Extensive Metabolizers have well characterized by treatment failure. Eventually, determination of CAM-R profile and estimation of PPIs metabolization rate support clinicians in better prescription. So, we explored Helicobacter pylori'mutations in 23S rRNA and rpl22 resistant genes, and cyp2c19 *1, *2, *3 allele variations, and PPIs metabolization patterns in patients, consequently the results reported to the physician.",
+            "journal": "BMC research notes",
+            "year": "2022",
+            "authors": [
+              "Maghami Atena Abedi",
+              "Mobarez Ashraf Mohabati",
+              "Yadegar Abbas",
+              "Nikkhah Maryam",
+              "Sadeghi Amir"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Clarithromycin",
+              "Helicobacter pylori",
+              "RNA, Ribosomal, 23S",
+              "Helicobacter Infections",
+              "Proton Pump Inhibitors",
+              "Amoxicillin",
+              "Aryl Hydrocarbon Hydroxylases",
+              "Drug Therapy, Combination",
+              "Gastritis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36284359/"
+          },
+          {
+            "pmid": "8203841",
+            "title": "Assessment of a fluoroquinolone, three beta-lactams, two aminoglycosides, and a cycline in treatment of murine Yersinia pestis infection.",
+            "abstract": "Amoxicillin, cefotaxime, ceftriaxone, gentamicin, doxycycline, and ofloxacin were active in vitro, like the reference drug streptomycin, against the virulent strain Yersinia pestis 6/69M. The comparative efficacies of these drugs in vivo were evaluated in a standardized and reproducible mouse model of systemic infection. Each antibiotic was injected intravenously once, at 24 h postinfection, and then repeatedly during 48 h. In vivo results were measured by counting the viable bacteria recovered from the whole spleens of mice sacrificed at selected times. All the drugs were manifestly successful; ceftriaxone, ofloxacine, and the reference drug were the most effective. Therefore, gentamicin and doxycycline could be used, depending on the clinical forms of the Y. pestis infection. Further investigations on beta-lactams, especially those used in the present study, could be carried out to confirm or not confirm their activities against Y. pestis. Ofloxacin appeared to be as active and to pe",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1994",
+            "authors": [
+              "Bonacorsi S P",
+              "Scavizzi M R",
+              "Guiyoule A",
+              "Amouroux J H",
+              "Carniel E"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Doxycycline",
+              "Drug Resistance, Microbial",
+              "Fluoroquinolones",
+              "Humans",
+              "Mice",
+              "Microbial Sensitivity Tests",
+              "Plague",
+              "Spleen"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8203841/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Amoxicillin",
+          "disease": "septicemic plague",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Amoxicillin%20septicemic%20plague"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Amoxicillin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01060",
+    "name": "Amoxicillin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Amoxicillin"
+      },
+      "queried_at": "2026-03-10T14:08:45.765826",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Amoxicillin"
+      },
+      "queried_at": "2026-03-10T14:08:45.776150",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Amoxicillin"
+      },
+      "queried_at": "2026-03-10T14:08:51.351203",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T14:08:53.450752",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T14:09:01.161270",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T14:09:02.623587",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T14:09:03.674912",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T14:09:04.976498",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T14:09:10.993280",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T14:09:12.413740",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T14:09:13.160760",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T14:09:13.920932",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T14:09:17.876315",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T14:09:19.091481",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T14:09:19.783622",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T14:09:20.406732",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T14:09:26.960004",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T14:09:28.379888",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T14:09:31.131338",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T14:09:32.056074",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T14:09:37.277689",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T14:09:39.121843",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T14:09:41.129711",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T14:09:42.407107",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T14:09:46.655775",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T14:09:47.669975",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "monoclonal gammopathy"
+      },
+      "queried_at": "2026-03-10T14:09:51.822869",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T14:09:53.720192",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T14:09:59.087725",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T14:10:00.593574",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "hematological disease associated with an acquired peripheral neuropathy"
+      },
+      "queried_at": "2026-03-10T14:10:01.627195",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T14:10:02.665862",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T14:10:08.212740",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T14:10:09.471235",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Amoxicillin",
+        "disease": "septicemic plague"
+      },
+      "queried_at": "2026-03-10T14:10:18.192572",
+      "status": "success",
+      "result_count": 9,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 8,
+    "created_at": "2026-03-10T14:10:18.206803"
+  }
+}

@@ -1,0 +1,2119 @@
+{
+  "drug": {
+    "inn": "Vancomycin",
+    "drugbank_id": "DB00512",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "diffuse scleroderma",
+        "txgnn_score": 0.9991949200630188,
+        "txgnn_rank": 267,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31541072",
+            "title": "Diffuse Exfoliative Rash with Sepsis and Eosinophilia: A Case of Erythroderma?",
+            "abstract": "<strong>BACKGROUND</strong> Erythroderma is an exfoliative dermatitis that manifests as generalized erythema and scaling that involves 90% of the body surface. If untreated, erythroderma can be fatal because of its metabolic burden and risk of secondary infections. <strong>CASE REPORT</strong> The patient was a 56-year-old male with prior rash attributed to group A Streptococcal cellulitis and discharged on Augmentin, Clindamycin with hydrocortisone cream, and Bactrim, but he had been noncompliant. He was admitted again for rash involving the face, torso, and extremities characterized by diffuse, desquamative, dry scales in morbilliform pattern. The patient was septic with Staphylococcus aureus bacteremia and compromised skin barrier. He was started on vancomycin and switched to Cefazolin IV due to concern for drug reaction. Autoimmune workup included antibodies for anti-Jo-1, anti-dsDNA, anti-centromere, and ANCA. However, only antinuclear antibody and scleroderma antibody were positi",
+            "journal": "The American journal of case reports",
+            "year": "2019",
+            "authors": [
+              "Cho Jake",
+              "Elyaman Selsabeel A",
+              "Avera Stephen A",
+              "Iyamu Kenneth"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Cellulitis",
+              "Dermatitis, Exfoliative",
+              "Eosinophilia",
+              "Glucocorticoids",
+              "Humans",
+              "Male",
+              "Medication Adherence",
+              "Middle Aged",
+              "Sepsis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31541072/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "diffuse scleroderma",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20diffuse%20scleroderma"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "paratyphoid fever",
+        "txgnn_score": 0.9984923601150512,
+        "txgnn_rank": 468,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "26905550",
+            "title": "Frequency of Blood Culture Isolates and their Antibiogram in a Teaching hospital.",
+            "abstract": "Bloodstream infections are associated with significant patient morbidity and mortality. Antimicrobial susceptibility patterns should guide the choice of empiric antimicrobial regimens for patients with bacteremia.",
+            "journal": "JNMA; journal of the Nepal Medical Association",
+            "year": "2014",
+            "authors": [
+              "Shrestha Subha",
+              "Amatya Ritu",
+              "Shrestha Raj Kumari",
+              "Shrestha Rajiv"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Child",
+              "Child, Preschool",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26905550/"
+          },
+          {
+            "pmid": "22801852",
+            "title": "Endogenous endophthalmitis caused by salmonella serotype B in an immunocompetent 12-year-old child.",
+            "abstract": "",
+            "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+            "year": "2012",
+            "authors": [
+              "Rachitskaya Aleksandra V",
+              "Flynn Harry W",
+              "Davis Janet L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ceftazidime",
+              "Child",
+              "Drug Therapy, Combination",
+              "Endophthalmitis",
+              "Eye Infections, Bacterial",
+              "Feces",
+              "Humans",
+              "Immunocompetence",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22801852/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "paratyphoid fever",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20paratyphoid%20fever"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "salmonellosis",
+        "txgnn_score": 0.998105764389038,
+        "txgnn_rank": 555,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06879184",
+            "title": "Master Study Protocol for the Cohort of the Specialist Network Infectious Diseases (SNID)",
+            "phase": "N/A",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-03-20",
+            "completion_date": "2030-06-30",
+            "country": "Germany",
+            "enrollment": 15000,
+            "brief_summary": "This observational study aims to collect standardized clinical data and biosamples from adults in university hospitals across Germany. The main goals are to create a cohort that combines clinical data, pathogen samples, and biosamples, with consent for future research. A pre-screening program tracks infection-related hospitalizations, helping detect pathogen changes early and respond quickly. Participants will be recruited if they have respiratory, bloodstream, gastrointestinal, emerging, or cen",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Fulfillment of all inclusion and no exclusion criteria for at least one module\n* Ability to perform all baseline visit data and biosample collections according to the study requirements no later than 48 hours (with an additional 48-hour period for weekends) after fulfilling al",
+            "endpoints": [
+              "Provision of clinical patient data and biosamples from highly relevant entities of infectious diseases for scientific projects, with no predefined specific outcome, but potentially applicable to various research objectives"
+            ],
+            "sponsor": "Goethe University",
+            "url": "https://clinicaltrials.gov/study/NCT06879184"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "29276051",
+            "title": "Discovery, research, and development of new antibiotics: the WHO priority list of antibiotic-resistant bacteria and tuberculosis.",
+            "abstract": "The spread of antibiotic-resistant bacteria poses a substantial threat to morbidity and mortality worldwide. Due to its large public health and societal implications, multidrug-resistant tuberculosis has been long regarded by WHO as a global priority for investment in new drugs. In 2016, WHO was requested by member states to create a priority list of other antibiotic-resistant bacteria to support research and development of effective drugs.",
+            "journal": "The Lancet. Infectious diseases",
+            "year": "2018",
+            "authors": [
+              "Tacconelli Evelina",
+              "Carrara Elena",
+              "Savoldi Alessia",
+              "Harbarth Stephan",
+              "Mendelson Marc"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Drug Resistance, Bacterial",
+              "Humans",
+              "Tuberculosis",
+              "World Health Organization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29276051/"
+          },
+          {
+            "pmid": "21279316",
+            "title": "[Nosocomial diarrhea].",
+            "abstract": "Hospital acquired or nosocomial diarrhea affects up to one third of hospitalized patients. It increases mortality rates as well as length and costs of the hospital stay. Drug side effects are the predominant cause of nosocomial diarrhea whilst clostridium difficile is the most common infectious agent, whose development is closely linked to antibiotic usage. The causal therapy of mild clostridium difficile infections is controversially discussed. Nevertheless, the use of Metronidazol for mild cases and of vancomycin for severe forms of the disease is recommended. Diarrhea outbreaks might be caused by viruses and less often by Salmonella and Listeria. Norovirus infections are of outstanding importance. Rehydration and isolation to prevent the spread of this highly contagious virus are the only reasonable options as we still lack a proper therapy.",
+            "journal": "Der Internist",
+            "year": "2011",
+            "authors": [
+              "Weis S",
+              "Grimm M"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cross Infection",
+              "Diarrhea",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21279316/"
+          },
+          {
+            "pmid": "30084095",
+            "title": "Clostridium difficile, the Difficult \"Kloster\" Fuelled by Antibiotics.",
+            "abstract": "Clostridium difficile is normally present in low numbers in a healthy adult gastro-intestinal tract (GIT). Drastic changes in the microbial population, e.g., dysbiosis caused by extensive treatment with antibiotics, stimulates the growth of resistant strains and the onset of C. difficile infection (CDI). Symptoms of infection varies from mild diarrhea to colitis (associated with dehydration and bleeding), pseudomembranous colitis with yellow ulcerations in the mucosa of the colon, to fulminant colitis (perforation of the gut membrane), and multiple organ failure. Inflamed epithelial cells and damaged mucosal tissue predisposes the colon to other opportunistic pathogens such as Clostridium perfringens, Staphylococcus aureus, Klebsiella oxytoca, Candida spp., and Salmonella spp. This may lead to small intestinal bacterial overgrowth (SIBO), sepsis, toxic megacolon, and even colorectal cancer. Many stains of C. difficile are resistant to metronidazole and vancomycin. Vaccination may be an",
+            "journal": "Current microbiology",
+            "year": "2019",
+            "authors": [
+              "Dicks Leon M T",
+              "Mikkelsen Lasse S",
+              "Brandsborg Erik",
+              "Marcotte Harold"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Clostridioides difficile",
+              "Clostridium Infections",
+              "Colitis",
+              "Drug Resistance, Bacterial",
+              "Dysbiosis",
+              "Fecal Microbiota Transplantation",
+              "Humans",
+              "Multiple Organ Failure",
+              "Probiotics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30084095/"
+          },
+          {
+            "pmid": "9688200",
+            "title": "Bacteriology of burns.",
+            "abstract": "A retrospective study was undertaken at University College of Medical Sciences and Guru Teg Bahadur Hospital, Delhi, to examine the bacterial isolates from the Burns unit and to determine the antibiograms of the isolates to commonly used antimicrobial agents. A total of 600 pus samples from as many patients received, over a period of 5 years (June 1993-June 1997) yielded 920) isolates. Pseudomonas spp. was the most common (36%) followed by Staphylococcus aureus (19%), Klebsiella spp. (15.54%), Proteus spp. (11.19%), Enterococcus faecalis (8.5%), Escherichia coli (5.10%), Acinetobacter spp. (1.1%), Salmonella senftenberg (0.8%) and other (3%). Pseudomonas spp. was the most susceptible to ceftazidime (83% susceptible) and cefoperazone (82% susceptible), whereas the drugs most effective in other Gram-negative organisms were amikacin, netilmicin and ciproflox. Vancomycin was effective in 100% of Gram-positive organisms. The infection of burn wounds with multiple organisms, with the superad",
+            "journal": "Burns : journal of the International Society for Burn Injuries",
+            "year": "1998",
+            "authors": [
+              "Revathi G",
+              "Puri J",
+              "Jain B K"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Burn Units",
+              "Burns",
+              "Child, Preschool",
+              "Cross Infection",
+              "Disease Outbreaks",
+              "Drug Resistance, Microbial",
+              "Drug Therapy, Combination",
+              "Gram-Negative Bacteria",
+              "Gram-Negative Bacterial Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9688200/"
+          },
+          {
+            "pmid": "23537612",
+            "title": "Antimicrobial resistance in Libya: 1970-2011.",
+            "abstract": "Resistance to antimicrobial agents is a major health problem that affects the whole world. Providing information on the past state of antimicrobial resistance in Libya may assist the health authorities in addressing the problem more effectively in the future. Information was obtained mainly from Highwire Press (including PubMed) search for the period 1970-2011 using the terms 'antibiotic resistance in Libya', 'antimicrobial resistance in Libya', 'tuberculosis in Libya', and 'primary and acquired resistance in Libya' in title and abstract. From 1970 to 2011 little data was available on antimicrobial resistance in Libya due to lack of surveillance and few published studies. Available data shows high resistance rates for Salmonella species in the late 1970s and has remained high to the present day. High prevalence rates (54-68%) of methicillin-resistant Staphylococcus aureus (MRSA) were reported in the last decade among S. aureus from patients with burns and surgical wound infections. No ",
+            "journal": "The Libyan journal of medicine",
+            "year": "2013",
+            "authors": [
+              "Ghenghesh Khalifa Sifaw",
+              "Rahouma Amal",
+              "Tawil Khaled",
+              "Zorgani Abdulaziz",
+              "Franka Ezzedin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Drug Resistance, Bacterial",
+              "Dysentery, Bacillary",
+              "Enterobacteriaceae Infections",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Humans",
+              "Klebsiella Infections",
+              "Klebsiella pneumoniae",
+              "Libya"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23537612/"
+          },
+          {
+            "pmid": "23380575",
+            "title": "Bacterial infections of the small intestine.",
+            "abstract": "The purpose of this study is to summarize the recent developments in small intestinal bacterial infections.",
+            "journal": "Current opinion in gastroenterology",
+            "year": "2013",
+            "authors": [
+              "Hodges Kim",
+              "Hecht Gail"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Clostridium Infections",
+              "Dysentery, Bacillary",
+              "Escherichia coli Infections",
+              "Humans",
+              "Intestine, Small",
+              "Salmonella Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23380575/"
+          },
+          {
+            "pmid": "22312978",
+            "title": "Colonization of a marker and field strain of Salmonella enteritidis and a marker strain of Salmonella typhimurium in vancomycin-pretreated and nonpretreated laying hens.",
+            "abstract": "This study was conducted to evaluate the influence of a vancomycin pretreatment on the ability of marker (nalidixic-acid resistant) Salmonella Enteritidis (SE(M)), field Salmonella Enteritidis (SE(E)), and marker Salmonella Typhimurium (ST(M)) strains to colonize within the intestinal and reproductive tracts and translocate to other organs of leghorn laying hens. In each of three trials, caged laying hens (76, 26, and 33 wk ofage) were divided into six groups designated to receive SE(M), SE(F), or ST(M), and half were pretreated with vancomycin (n = 11-12 hens). Vancomycin-treated hens received 10 mg vancomycin in saline/kilogram body weight orally for 5 days to inhibit Gram-positive bacteria within the intestines. On Day 6, all hens were concurrently challenged by oral, intravaginal, and intracolonal routes with Salmonella and placed into separate floor chambers by Salmonella strain. Two weeks postinoculation, all hens were euthanatized and the ceca, spleen, liver/gall bladder (LGB), ",
+            "journal": "Avian diseases",
+            "year": "2011",
+            "authors": [
+              "Hannah J F",
+              "Wilson J L",
+              "Cox N A",
+              "Richardson L J",
+              "Cason J A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Carrier State",
+              "Chickens",
+              "Female",
+              "Salmonella Infections, Animal",
+              "Salmonella enteritidis",
+              "Salmonella typhimurium",
+              "Vancomycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22312978/"
+          },
+          {
+            "pmid": "40092845",
+            "title": "Temporal Shifts in Etiological Agents and Trends in Antimicrobial Resistance of Bloodstream Infection in Southwest China from 2016 to 2023.",
+            "abstract": "The purpose of this study was to assess the frequency distribution of bacterial pathogens causing bloodstream infections (BSIs) as well as the characteristics of antibiotic susceptibility and resistance to gain a deeper understanding of the drug resistance situation in the southwest China.",
+            "journal": "Infection and drug resistance",
+            "year": "2025",
+            "authors": [
+              "Long Shanshan",
+              "Zhong Min",
+              "Huang Xiangning",
+              "Zhang Jie",
+              "Liu Xin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40092845/"
+          },
+          {
+            "pmid": "12807287",
+            "title": "Antibiotic resistance in animals.",
+            "abstract": "There is currently no systematic surveillance or monitoring of antibiotic resistance in Australian animals. Registration of antibiotics for use in animals is tightly controlled and has been very conservative. Fluoroquinolones have not been registered for use in food producing animals and other products have been removed from the market because of human health concerns. In the late 1970s, the Animal Health Committee coordinated a survey of resistance in Salmonella and Escherichia coli isolates from cattle, pigs and poultry and in bovine Staphylococcus aureus. Some additional information is available from published case reports. In samples collected prior to the withdrawal of avoparcin from the market, no vancomycin resistant Enterococcus faecium or Enterococcus faecalis were detected in samples collected from pigs, whereas some vanA enterococci, including E. faecium and E. faecalis, were found in chickens. No vanB enterococci were detected in either species. Virginiamycin resistance was",
+            "journal": "Communicable diseases intelligence quarterly report",
+            "year": "2003",
+            "authors": [
+              "Barton Mary D",
+              "Pratt Rachael",
+              "Hart Wendy S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animal Diseases",
+              "Animals",
+              "Animals, Domestic",
+              "Anti-Bacterial Agents",
+              "Australia",
+              "Bacteria",
+              "Bacterial Infections",
+              "Cats",
+              "Dogs",
+              "Drug Resistance, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12807287/"
+          },
+          {
+            "pmid": "15254022",
+            "title": "Pet animals as reservoirs of antimicrobial-resistant bacteria.",
+            "abstract": "Pet animal numbers have substantially increased in modern society and attention is increasingly devoted to pet welfare. Because of these changes, antimicrobial agents are frequently used in small animal veterinary practice, often including antimicrobial preparations used in human medicine, with heavy use of broad-spectrum agents such as aminopenicillins plus clavulanic acid, cephalosporins and fluoroquinolones. Several longitudinal studies conducted at veterinary hospitals have indicated that resistance to various antimicrobial agents has emerged amongst pet animal isolates of Staphylococcus intermedius, Escherichia coli and other bacteria, including species with a potential for zoonotic transmission and resistance phenotypes of clinical interest, such as methicillin-resistant Staphylococcus aureus, vancomycin-resistant enterococci and multidrug-resistant Salmonella Typhimurium DT104. Based on a review of the current literature, the role of pets in the dissemination of antimicrobial re",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "2004",
+            "authors": [
+              "Guardabassi Luca",
+              "Schwarz Stefan",
+              "Lloyd David H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Animals, Domestic",
+              "Bacteria",
+              "Bacterial Infections",
+              "Cats",
+              "Disease Reservoirs",
+              "Disease Transmission, Infectious",
+              "Dogs",
+              "Drug Resistance, Bacterial",
+              "Gene Transfer, Horizontal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15254022/"
+          },
+          {
+            "pmid": "37424793",
+            "title": "Bacterial distribution and drug resistance in blood samples of children in Jiangxi Region, 2017-2021.",
+            "abstract": "This study aims to investigate the distribution and drug resistance of bacteria in clinical blood culture specimens from children in Jiangxi province in recent years and to provide a foundation for preventing and treating bloodstream infection diseases in children.",
+            "journal": "Frontiers in cellular and infection microbiology",
+            "year": "2023",
+            "authors": [
+              "Zhou Yan",
+              "Zhou Shuping",
+              "Peng Jun",
+              "Min Liang",
+              "Chen Qiang"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Child",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Anti-Bacterial Agents",
+              "Ceftriaxone",
+              "Vancomycin",
+              "Coagulase",
+              "Drug Resistance, Bacterial",
+              "Bacteria",
+              "Staphylococcus aureus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37424793/"
+          },
+          {
+            "pmid": "33878397",
+            "title": "Bacterial zoonoses transmitted by household pets and as reservoirs of antimicrobial resistant bacteria.",
+            "abstract": "Numerous individuals are committed to growing pet creatures like cats, dogs, and rats etc., pay care for them and as a result of this, there's a boost of their populace in advanced culture. The close interaction between family pets and individuals offers ideal conditions for bacterial transmission. Distinctive sorts of antimicrobial agents are exploited for animal husbandry and studies have revealed that many bacteria have attained confrontation against them viz., Staphylococcus intermedius, Escherichia coli, methicillin-resistant Staphylococcus aureus, vancomycin-resistant Enterococci and multidrug-resistant Salmonella typhi etc. and a few of these are a prospective for zoonotic transmission. In the current review, the attention has been paid on how household pets, especially dogs disperse the antimicrobial resistance in contrast to that of food animals. A lot of evidences are accessible on food animals and nation-wide scrutiny programmes solely hub on food animals; therefore, for ste",
+            "journal": "Microbial pathogenesis",
+            "year": "2021",
+            "authors": [
+              "Bhat Aashaq Hussain"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Infective Agents",
+              "Bacteria",
+              "Bacterial Zoonoses",
+              "Cats",
+              "Dogs",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Prospective Studies",
+              "Rats",
+              "Staphylococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33878397/"
+          },
+          {
+            "pmid": "41389440",
+            "title": "Synergistic combinations of antimicrobial peptides and conventional antibiotics: A strategy to delay resistance emergence in World Health Organization priority bacteria.",
+            "abstract": "Antimicrobial resistance represents one of the most pressing global health challenges of the 21st century, significantly compromising the efficacy of conventional antibiotics. In response to this crisis, the World Health Organization has updated its 2024 list of priority bacterial pathogens-classified into critical-, high-, and medium-risk groups-based on their resistance mechanisms, clinical impact, and global dissemination. This comprehensive review explores the emerging therapeutic potential of antimicrobial peptides (AMPs) when used in synergistic combinations with conventional antibiotics. By dissecting the mechanistic interplay-ranging from membrane disruption and efflux pump inhibition to biofilm penetration and intracellular antibiotic delivery-we provide a structured analysis of how these dual strategies overcome specific resistance barriers. Special emphasis is given to the World Health Organization-designated pathogens such as Acinetobacter baumannii, Escherichia coli, Klebs",
+            "journal": "Pharmacological reviews",
+            "year": "2026",
+            "authors": [
+              "Roque-Borda Cesar Augusto",
+              "Zhang Qi",
+              "Nguyen Thi Phuong Truc",
+              "Nguyen Thi Thu Hoai",
+              "Medhi Himadri"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Anti-Bacterial Agents",
+              "Drug Synergism",
+              "Antimicrobial Peptides",
+              "World Health Organization",
+              "Animals",
+              "Bacteria",
+              "Drug Resistance, Bacterial",
+              "Bacterial Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41389440/"
+          },
+          {
+            "pmid": "38387832",
+            "title": "Antimicrobial Resistance in Selected Bacteria from Food Animals in New Zealand 2018-2022.",
+            "abstract": "Antimicrobial resistance (AMR) presents a significant threat to human health worldwide. One important source of antimicrobial-resistant infections in humans is exposure to animals or animal products. In a phased survey, we investigated AMR in 300 Escherichia coli isolates and 300 enterococci (Enterococcus faecalis and E. faecium) isolates each from the carcasses of poultry, pigs, very young calves, and dairy cattle (food animals); all Salmonella isolates from poultry, very young calves, and dairy cattle; and 300 Campylobacter (Campylobacter jejuni and C. coli) isolates from poultry. The highest resistance levels in E. coli were found for sulfamethoxazole, tetracycline, and streptomycin, for all food animals. Cefotaxime-resistant E. coli were not found and low resistance to ciprofloxacin, colistin, and gentamicin was observed. The majority of enterococci isolates from all food animals were bacitracin-resistant. Erythromycin- and/or tetracycline-resistant enterococci isolates were found ",
+            "journal": "Journal of food protection",
+            "year": "2024",
+            "authors": [
+              "Cornelius Angela J",
+              "Carr Samuel D",
+              "Bakker Sarah N",
+              "Haysom Iain W",
+              "Dyet Kristin H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Humans",
+              "Swine",
+              "Anti-Bacterial Agents",
+              "Escherichia coli",
+              "New Zealand",
+              "Drug Resistance, Bacterial",
+              "Campylobacter",
+              "Ciprofloxacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38387832/"
+          },
+          {
+            "pmid": "40474961",
+            "title": "Bacterial Epidemiology and Antimicrobial Resistance in Children in Shandong Province, China, 2017-2022: A Multicentre Retrospective Study.",
+            "abstract": "Bacterial antimicrobial resistance is becoming increasingly serious, but there are very limited studies in children. Shandong Province Pediatric bacterial & fungal Antimicrobial Resistance Surveillance System (SPARSS) program was established in 2017 to monitor and analyze the trends of bacterial epidemiology and antimicrobial resistance in children. Clinical bacterial isolates were collected from 59 tertiary hospital in Shandong Province China during 2017 to 2022.",
+            "journal": "Infection and drug resistance",
+            "year": "2025",
+            "authors": [
+              "Yang Shangmin",
+              "Wang Mengyuan",
+              "Wang Shifu"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40474961/"
+          },
+          {
+            "pmid": "21119862",
+            "title": "Escherichia coli and selected veterinary and zoonotic pathogens isolated from environmental sites in companion animal veterinary hospitals in southern Ontario.",
+            "abstract": "Hospital-based infection control in veterinary medicine is emerging and the role of the environment in hospital-acquired infections (HAI) in veterinary hospitals is largely unknown. This study was initiated to determine the recovery of Escherichia coli and selected veterinary and zoonotic pathogens from the environments of 101 community veterinary hospitals. The proportion of hospitals with positive environmental swabs were: E. coli--92%, Clostridium difficile--58%, methicillin-resistant Staphylococcus aureus (MRSA)--9%, CMY-2 producing E. coli--9%, methicillin-resistant Staphylococcus pseudintermedius--7%, and Salmonella--2%. Vancomycin-resistant Enterococcus spp., canine parvovirus, and feline calicivirus were not isolated. Prevalence of antimicrobial resistance in E. coli isolates was low. Important potential veterinary and human pathogens were recovered including Canadian epidemic strains MRSA-2 and MRSA-5, and C. difficile ribotype 027. There is an environmental reservoir of patho",
+            "journal": "The Canadian veterinary journal = La revue veterinaire canadienne",
+            "year": "2010",
+            "authors": [
+              "Murphy Colleen P",
+              "Reid-Smith Richard J",
+              "Boerlin Patrick",
+              "Weese J Scott",
+              "Prescott John F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Cats",
+              "Clostridioides difficile",
+              "Cross Infection",
+              "Disease Reservoirs",
+              "Dogs",
+              "Drug Resistance, Bacterial",
+              "Environmental Microbiology",
+              "Escherichia coli"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21119862/"
+          },
+          {
+            "pmid": "16228055",
+            "title": "Bloodstream infections in pediatric patients.",
+            "abstract": "Blood stream infection (BSI) is the leading cause of morbidity and mortality in pediatric patients. This study aims to describe the clinical, microbiological characteristics and outcome of BSI in pediatric patients.",
+            "journal": "Saudi medical journal",
+            "year": "2005",
+            "authors": [
+              "Babay Hanan A",
+              "Twum-Danso Kingsley",
+              "Kambal Abdelmageed M",
+              "Al-Otaibi Fawzia E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Age Distribution",
+              "Bacteremia",
+              "Blood-Borne Pathogens",
+              "Child",
+              "Child, Preschool",
+              "Cohort Studies",
+              "Female",
+              "Gram-Negative Bacterial Infections",
+              "Gram-Positive Bacterial Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16228055/"
+          },
+          {
+            "pmid": "36830330",
+            "title": "Antimicrobial Susceptibility Profile of Pathogenic and Commensal Bacteria Recovered from Cattle and Goat Farms.",
+            "abstract": "The use of antibiotics in food animals results to antimicrobial resistant bacteria that complicates the ability to treat infections. The purpose of this study was to investigate the prevalence of pathogenic and commensal bacteria in soil, water, manure, and milk from cattle and goat farms. A total of 285 environmental and 81 milk samples were analyzed for Enterobacteriaceae by using biochemical and PCR techniques. Susceptibility to antibiotics was determined by the Kirby-Bauer disk diffusion technique. A total of 15 different Enterobacteriaceae species were identified from goat and cattle farms. Manure had significantly higher (p < 0.05) Enterobacteriaceae (52.0%) than soil (37.2%), trough water (5.4%), and runoff water (5.4%). There was a significant difference (p < 0.05) in Enterobacteriaceae in goat milk (53.9%) and cow milk (46.2%). Enterobacteriaceae from environment showed 100% resistance to novobiocin, erythromycin, and vancomycin E. coli O157:H7, Salmonella spp., Enterococcus s",
+            "journal": "Antibiotics (Basel, Switzerland)",
+            "year": "2023",
+            "authors": [
+              "Mukuna Winnie",
+              "Aniume Tobenna",
+              "Pokharel Bharat",
+              "Khwatenge Collins",
+              "Basnet Ashesh"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36830330/"
+          },
+          {
+            "pmid": "28652197",
+            "title": "Emergence of drug resistant bacteria at the Hajj: A systematic review.",
+            "abstract": "Hajj is the annual mass gathering of Muslims, and is a reservoir and potential source of bacterial transmission. The emergence of bacterial transmission, including multi-drug resistance (MDR) bacteria, during Hajj has not been systematically assessed.",
+            "journal": "Travel medicine and infectious disease",
+            "year": "2017",
+            "authors": [
+              "Leangapichart Thongpan",
+              "Rolain Jean-Marc",
+              "Memish Ziad A",
+              "Al-Tawfiq Jaffar A",
+              "Gautret Philippe"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bacteria",
+              "Bacterial Infections",
+              "Carrier State",
+              "Communicable Diseases, Emerging",
+              "Crowding",
+              "Drug Resistance, Bacterial",
+              "Humans",
+              "Islam",
+              "Saudi Arabia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28652197/"
+          },
+          {
+            "pmid": "35765472",
+            "title": "Occurrence and antibiogram of multidrug-resistant Salmonella enterica isolated from dairy products in Libya.",
+            "abstract": "Foodborne illnesses are a serious challenge to human health and the economic sector. For example, salmonellosis remains a burden in developed and developing nations. Rapid and reliable molecular methods to identify Salmonella strains are essential for minimizing human infection. This study aimed to identify Salmonella spp. in raw milk and dairy products using conventional and molecular techniques and to test the antibiotic susceptibility of the isolated strains.",
+            "journal": "Veterinary world",
+            "year": "2022",
+            "authors": [
+              "Garbaj Aboubaker M",
+              "Gawella Tahani B Ben",
+              "Sherif Jihan A",
+              "Naas Hesham T",
+              "Eshamah Hanan L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35765472/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "salmonellosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20salmonellosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital analbuminemia",
+        "txgnn_score": 0.9978592991828918,
+        "txgnn_rank": 616,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "congenital analbuminemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20congenital%20analbuminemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "polyclonal hyperviscosity syndrome",
+        "txgnn_score": 0.9978589415550232,
+        "txgnn_rank": 618,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "polyclonal hyperviscosity syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20polyclonal%20hyperviscosity%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hyperamylasemia",
+        "txgnn_score": 0.9978589415550232,
+        "txgnn_rank": 619,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "hyperamylasemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20hyperamylasemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "typhoid fever",
+        "txgnn_score": 0.9975115060806274,
+        "txgnn_rank": 716,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "24757944",
+            "title": "The role of nanotechnology in combating multi-drug resistant bacteria.",
+            "abstract": "The development of antibiotics has played a significant role in combating the dreaded infectious disease such as tuberculosis, pneumonia, typhoid fever and meningitis in 20th century. However, the improper use of antibiotics led to the development of multidrug resistance (MDR) in microbial flora raising a global public health concern of 21st century. This unforeseen threat demands the development of new drugs and strategies for combating antibiotic resistance shown by many microbial species. Recent developments in nanotechnology to engineer nanoparticles with desired physicochemical properties have been projected as a new line of defense against MDR micro-organism. In this review, we summarized and discussed the recent development demonstrating the potential of nanomaterials to evade the MDR. Nanoparticles have shown effective antimicrobial activity against MDR bacteria, such as Acinetobacter baumanii, Pseudomonas aeruginosa, Klebsiella pneumoniae, Mycobacterium tuberculosis, vancomyci",
+            "journal": "Journal of nanoscience and nanotechnology",
+            "year": "2014",
+            "authors": [
+              "Singh Rajni",
+              "Smitha M S",
+              "Singh Surinder P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Bacterial Infections",
+              "Bacterial Physiological Phenomena",
+              "Cell Survival",
+              "Drug Resistance, Multiple, Bacterial",
+              "Humans",
+              "Nanoparticles",
+              "Particle Size"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24757944/"
+          },
+          {
+            "pmid": "37056604",
+            "title": "A Rare Case of Burkholderia Osteomyelitis Affecting the Hip Joint in an Adult.",
+            "abstract": "Burkholderia pseudomallei is a gram-negative bacillus. It is predominant in Southeast Asia and Australia. Melioidosis of the hip joint is a very rare condition. This case report is to the best of our knowledge, the only study showcasing an acute proximal femoral osteomyelitis of the hip joint caused by Burkholderia pseudomallei.",
+            "journal": "Journal of orthopaedic case reports",
+            "year": "2022",
+            "authors": [
+              "Jayakumar B",
+              "P Ajay James"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37056604/"
+          },
+          {
+            "pmid": "26905550",
+            "title": "Frequency of Blood Culture Isolates and their Antibiogram in a Teaching hospital.",
+            "abstract": "Bloodstream infections are associated with significant patient morbidity and mortality. Antimicrobial susceptibility patterns should guide the choice of empiric antimicrobial regimens for patients with bacteremia.",
+            "journal": "JNMA; journal of the Nepal Medical Association",
+            "year": "2014",
+            "authors": [
+              "Shrestha Subha",
+              "Amatya Ritu",
+              "Shrestha Raj Kumari",
+              "Shrestha Rajiv"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Bacteremia",
+              "Child",
+              "Child, Preschool",
+              "Drug Resistance, Bacterial",
+              "Escherichia coli",
+              "Escherichia coli Infections",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26905550/"
+          },
+          {
+            "pmid": "30057396",
+            "title": "Clostridium difficile infection in young people - 2 case reports.",
+            "abstract": "Clostridium difficile infection (CDI) remains one of the most important healthcare-associated infections of the last two decades. The pathogen is a Gram-positive, toxin-producing, anaerobic, rod-shaped and sporeforming bacterium; it is ubiquitous in the human environment. Transmission occurs by the fecal-oral route. The consequence of the action of bacterial toxins is initially a local inflammatory reaction, which then goes into systemic inflammation. Clinical presentation is varied; some patients are asymptomatic, in symptomatic form the main symptom is diarrhea of varying severity, which is sometimes accompanied by acute abdominal pain, nausea, vomiting and high fever. Risk factors of CDI include prior antibiotic use, increasing age and recent hospitalisation. Extremely rarely does CDI occur in immunocompetent patients under 30 years of age, even if previously treated with an antibiotic. Here presented are two untypical cases of CDI development in the lower age group, in the presence",
+            "journal": "Polski merkuriusz lekarski : organ Polskiego Towarzystwa Lekarskiego",
+            "year": "2018",
+            "authors": [
+              "Birczyńska Malwina",
+              "Czepiel Jacek",
+              "Pejka Katarzyna",
+              "Biesiada Grażyna",
+              "Jędrychowski Michał"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Ceftriaxone",
+              "Clostridioides difficile",
+              "Clostridium Infections",
+              "Female",
+              "Humans",
+              "Metronidazole",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30057396/"
+          },
+          {
+            "pmid": "21857055",
+            "title": "Sacroiliitis caused by Salmonella typhi: a case report.",
+            "abstract": "Sacroiliitis caused by Salmonella typhi is rare. In India, unilateral sacroiliitis is usually caused by tuberculosis. We report a 22-year-old man who presented with a high-grade fever and positive blood culture for Salmonella typhi. The patient was treated with intravenous vancomycin and levofloxacin for 15 days and then oral levofloxacin for 6 weeks.",
+            "journal": "Journal of orthopaedic surgery (Hong Kong)",
+            "year": "2011",
+            "authors": [
+              "Garg Bhavuk",
+              "Madan Mohit",
+              "Kumar Vijay",
+              "Malhotra Rajesh"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Blood Sedimentation",
+              "C-Reactive Protein",
+              "Diarrhea",
+              "Humans",
+              "Levofloxacin",
+              "Magnetic Resonance Imaging",
+              "Male",
+              "Ofloxacin",
+              "Pelvic Bones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21857055/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "typhoid fever",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20typhoid%20fever"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blood group incompatibility",
+        "txgnn_score": 0.9962678551673888,
+        "txgnn_rank": 966,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "22808724",
+            "title": "[Problems with identification of beta-hemolytic streptococcus resistant to bacitracin isolated from patients with pharyngitis].",
+            "abstract": "The genus Streptococcus comprises a number of species characterized by a differential pathogenic potential. These bacteria can be considered as members of microbial physiological flora but they can also cause mild infections or severe, life threatening conditions. The majority of infections of streptococcal etiology are caused by beta-hemolysing species. The predominant causative agent of bacterial pharyngitis is Streptococcus pyogenes. This species usually doesn't give rise to any identification difficulties due to the introduction the well determined diagnostic schemes. Problems concerning laboratory identification can be, however, associated with other species of beta-hemolysing streptococci isolated from patients with pharyngitis. These streptococci can demonstrate features similar to those of S. pyogenes and share the group antygen A, such as some strains of Streptococcus anginosus and Streptococcus dysgalactiae subsp. equisimilis. The determination of sensitivity to bacitracin, w",
+            "journal": "Medycyna doswiadczalna i mikrobiologia",
+            "year": "2012",
+            "authors": [
+              "Olender Alina",
+              "Łetowska Iwona",
+              "Karyński Michał",
+              "Kiernicka-Ciekot Katarzyna",
+              "Pels Katarzyna"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Bacitracin",
+              "Drug Resistance, Bacterial",
+              "Female",
+              "Humans",
+              "Male",
+              "Microbial Sensitivity Tests",
+              "Pharyngitis",
+              "Species Specificity",
+              "Streptococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22808724/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "blood group incompatibility",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20blood%20group%20incompatibility"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "streptococcal pneumonia",
+        "txgnn_score": 0.9960353970527648,
+        "txgnn_rank": 1008,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04464291",
+            "title": "An Epidemiological Survey to Establish the Spectrum of Circulating Serotypes of S. Pneumoniae, in Patients Older 18 Years: Healthy Carriage, Patients With Non-invasive and Invasive Pneumococcal Infections in the Russian Federation",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-06-01",
+            "completion_date": "2021-01-31",
+            "country": "Russia",
+            "enrollment": 500,
+            "brief_summary": "Pneumococcal conjugate vaccine was added to the National Immunization Program in Russia in 2014 which could affect the changes in pneumococcal serotypes in growing population. The purpose of this study is to determine the spectrum of serotypes of S. pneumoniae in patients older 18-years: in healthy carriage, in patients with non-invasive and invasive forms of pneumococcal infection. The patients will be divide into several groups: 18-64-years old, 65 years old and older, immunocompromised patien",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Clinically relevant causative isolate - The isolate must meet the laboratory criteria of S. pneumoniae and be considered the \"probable causative agent\" of infection.\n2. Isolates from patients older 18-years with pneumococcal acute otitis media\n3. Isolates from patients older ",
+            "endpoints": [
+              "Incidence of pneumococcal infection in the Russian Federation, caused by different serotypes of Streptococcus pneumoniae"
+            ],
+            "sponsor": "The Interregional Association for Clinical Microbiology and Antimicrobial Chemotherapy (IACMAC)",
+            "url": "https://clinicaltrials.gov/study/NCT04464291"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05395520",
+            "title": "Vancomycin Monitoring: Is AUC Monitoring Appropriate for More Than Just Serious MRSA Infections?",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2021-04-08",
+            "completion_date": "2024-04-08",
+            "country": "United States",
+            "enrollment": 146,
+            "brief_summary": "Vancomycin, a glycopeptide antibiotic, is commonly prescribed as initial therapy for hospitalized patients due to its broad gram-positive coverage. Vancomycin is used for the treatment and prevention of a variety of bacterial infections ranging from streptococcal to methicillin-resistant Staphylococcus aureus (MRSA) infections.1 Notable adverse effects of intravenous vancomycin include nephrotoxicity, ototoxicity and hypersensitivity reactions. Given its pharmacokinetic profile, therapeutic drug",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients hospitalized from June 2020- January 2021.\n* 18 years and older\n* At least 1 vancomycin trough concentration drawn at steady state\n* Organism with an MIC of 2 mg/L, if vancomycin was continued and in whom a steady state trough concentration was obtained\n\nExclusion Cri",
+            "endpoints": [
+              "Efficacy of trough and AUC vancomycin monitoring",
+              "• Determine differences in efficacy/clinical outcome and re-admission rates of AUC monitoring compared to trough monitoring in severe or deep-seeded infections (pneumonia, endocarditis, osteomyelitis or bacteremia)"
+            ],
+            "sponsor": "Methodist Health System",
+            "url": "https://clinicaltrials.gov/study/NCT05395520"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02538211",
+            "title": "The Role of the Intestinal Microbiome in Enteric and Systemic Vaccine Immune Responses",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2015-09",
+            "completion_date": "2017-02",
+            "country": "Netherlands",
+            "enrollment": 63,
+            "brief_summary": "The purpose of this study is to evaluate if the intestinal microbiota influences rotavirus vaccine immune responses in healthy adult volunteers.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy, as determined by a responsible physician, based on a medical evaluation including medical history, physical examination and laboratory tests carried out within 28 days prior to starting antibiotics (day -98). A subject with a clinical abnormality or laboratory paramet",
+            "endpoints": [
+              "Height of serum anti-rotavirus Immunoglobulin A (IgA) response"
+            ],
+            "sponsor": "Academisch Medisch Centrum - Universiteit van Amsterdam (AMC-UvA)",
+            "url": "https://clinicaltrials.gov/study/NCT02538211"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "27885969",
+            "title": "36th International Symposium on Intensive Care and Emergency Medicine : Brussels, Belgium. 15-18 March 2016.",
+            "abstract": "P001 - Sepsis impairs the capillary response within hypoxic capillaries and decreases erythrocyte oxygen-dependent ATP efflux R. M. Bateman, M. D. Sharpe, J. E. Jagger, C. G. Ellis P002 - Lower serum immunoglobulin G2 level does not predispose to severe flu. J. Solé-Violán, M. López-Rodríguez, E. Herrera-Ramos, J. Ruíz-Hernández, L. Borderías, J. Horcajada, N. González-Quevedo, O. Rajas, M. Briones, F. Rodríguez de Castro, C. Rodríguez Gallego P003 - Brain protective effects of intravenous immunoglobulin through inhibition of complement activation and apoptosis in a rat model of sepsis F. Esen, G. Orhun, P. Ergin Ozcan, E. Senturk, C. Ugur Yilmaz, N. Orhan, N. Arican, M. Kaya, M. Kucukerden, M. Giris, U. Akcan, S. Bilgic Gazioglu, E. Tuzun P004 - Adenosine a1 receptor dysfunction is associated with leukopenia: A possible mechanism for sepsis-induced leukopenia R. Riff, O. Naamani, A. Douvdevani P005 - Analysis of neutrophil by hyper spectral imaging - A preliminary report R. Takegawa, ",
+            "journal": "Critical care (London, England)",
+            "year": "2016",
+            "authors": [
+              "Bateman R. M.",
+              "Sharpe M. D.",
+              "Jagger J. E.",
+              "Ellis C. G.",
+              "Solé-Violán J."
+            ],
+            "pub_types": [
+              "Conference Proceedings"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27885969/"
+          },
+          {
+            "pmid": "36028454",
+            "title": "Antibiotic resistance rates and penicillin MIC distribution in patients with streptococcal pneumonia between 2013-2019, and use of antibiotics in clinical practice.",
+            "abstract": "The purpose of the present study is to investigate the antibiotic resistance rates and use of antibiotics in patients with streptococcal pneumonia in a reference tertiary care hospital for pulmonary diseases in Izmir, Turkey.",
+            "journal": "Indian journal of medical microbiology",
+            "year": "2022",
+            "authors": [
+              "Anar Ceyda",
+              "Biçmen Can",
+              "Güldaval Filiz",
+              "Atay Tuba",
+              "Gayaf Mine"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Clindamycin",
+              "Erythromycin",
+              "Humans",
+              "Levofloxacin",
+              "Linezolid",
+              "Microbial Sensitivity Tests",
+              "Moxifloxacin",
+              "Mycobacterium tuberculosis",
+              "Oxacillin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36028454/"
+          },
+          {
+            "pmid": "11028185",
+            "title": "[Pneumococcal antibiotic resistance].",
+            "abstract": "In 1875, 7 years prior to the description of the Koch bacillus, Klebs visualized the first Streptococcus pneumoniae in a pleural fluid. Since then, this organism has played a determinant role in biomedical science. From a biological point of view, it was largely implicated in the development of passive and active immunization by serotherapy and vaccination, respectively. Genetic transformation was also first observed in S. pneumoniae, leading to the discovery of DNA. From a clinical point of view, S. pneumoniae is still today a prime cause of otitis media in children and of pneumonia in all age groups, as well as a predominant cause of meningitis and bacteremia. In adults, bacteremia is still entailed with a mortality of over 25%. Although S. pneumoniae remained very sensitive to penicillin for many years, penicillin-resistance has emerged and increased dramatically over the last 15 years. During this period of time, the frequency of penicillin-resistant isolates has increased from < o",
+            "journal": "Revue medicale de la Suisse romande",
+            "year": "2000",
+            "authors": [
+              "Moreillon P",
+              "Wenger A",
+              "Caldelari I"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Child",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Molecular Epidemiology",
+              "Patient Selection",
+              "Penicillin Resistance",
+              "Pneumococcal Infections",
+              "Pneumococcal Vaccines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11028185/"
+          },
+          {
+            "pmid": "37424548",
+            "title": "Nasopharyngeal carriage and antimicrobial susceptibility profiles of Streptococcus pneumoniae among children with pneumonia and healthy children in Padang, Indonesia.",
+            "abstract": "Streptococcus pneumoniae is one of the pathogenic bacteria causing invasive pneumococcal diseases such as pneumonia, sepsis, and meningitis, which are commonly reported in children and adults. In this study, we investigated the nasopharyngeal carriage rates, serotype distribution, and antimicrobial susceptibility profiles of S. pneumoniae among children with pneumonia and healthy children under 5 years old in Padang, West Sumatra, Indonesia. Nasopharyngeal swabs were collected from 65 hospitalized children with pneumonia in a referral hospital and from 65 healthy children at two day-care centers from 2018 to 2019. S. pneumoniae was identified by conventional and molecular methods. Antibiotic susceptibility was performed with the disc diffusion method. Out of 130 children, S. pneumoniae strains were carried by 53% and 9.2 % in healthy children (35/65) and children with pneumonia (6/65), respectively. Serotype 19F was the most common serotype among the isolated strains (21%) followed by ",
+            "journal": "Access microbiology",
+            "year": "2023",
+            "authors": [
+              "Yani Finny Fitry",
+              "Julianty Riris Juita",
+              "Tafroji Wisnu",
+              "Linosefa Linosefa",
+              "Ihsan Indra"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37424548/"
+          },
+          {
+            "pmid": "38883355",
+            "title": "Perinatal group A streptococcal infection in vagina and its impact on pregnancy outcomes.",
+            "abstract": "To investigate the prevalence, antimicrobial susceptibility, and the effects on pregnancy and neonatal outcomes of Group A Streptococcal (GAS) infections in the vagina of perinatal women.",
+            "journal": "American journal of translational research",
+            "year": "2024",
+            "authors": [
+              "Song Min",
+              "Huang Xiaoge",
+              "Hou Yanmei",
+              "Yang Fang",
+              "Li Xiaoping"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38883355/"
+          },
+          {
+            "pmid": "27929242",
+            "title": "Community-Acquired Pneumonia in Adults: Diagnosis and Management.",
+            "abstract": "Community-acquired pneumonia is a leading cause of death. Risk factors include older age and medical comorbidities. Diagnosis is suggested by a history of cough, dyspnea, pleuritic pain, or acute functional or cognitive decline, with abnormal vital signs (e.g., fever, tachycardia) and lung examination findings. Diagnosis should be confirmed by chest radiography or ultrasonography. Validated prediction scores for pneumonia severity can guide the decision between outpatient and inpatient therapy. Using procalcitonin as a biomarker for severe infection may further assist with risk stratification. Most outpatients with community-acquired pneumonia do not require microbiologic testing of sputum or blood and can be treated empirically with a macrolide, doxycycline, or a respiratory fluoroquinolone. Patients requiring hospitalization should be treated with a fluoroquinolone or a combination of beta-lactam plus macrolide antibiotics. Patients with severe infection requiring admission to the in",
+            "journal": "American family physician",
+            "year": "2016",
+            "authors": [
+              "Kaysin Alexander",
+              "Viera Anthony J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetamides",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Community-Acquired Infections",
+              "Doxycycline",
+              "Drug Therapy, Combination",
+              "Female",
+              "Fluoroquinolones",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27929242/"
+          },
+          {
+            "pmid": "9404765",
+            "title": "Penicillin dosing for pneumococcal pneumonia.",
+            "abstract": "Most textbook authors still endorse penicillin G as the specific antibiotic of choice for pneumococcal pneumonia. However, problems with early precise etiologic diagnosis of pneumonia and the emergence of drug-resistant pneumococci cause penicillin to be seldom used for this purpose today. A third explanation for the infrequent use of penicillin is lack of clear consensus dosing guidelines. Emergence of pneumococci resistant to the newer cephalosporins and concerns about overuse of vancomycin, however, have prompted renewed interest in the development of precise, rapid methods for diagnosis of pneumococcal pneumonia with the implication that penicillin might be used more frequently. We review several issues concerning penicillin dosing: intermittent vs continuous therapy, high dose vs low dose, relationship of dose to resistance, and cost-effective pharmacology. An optimum \"high-dose\" regimen for life-threatening pneumococcal pneumonia in a 70-kg adult consists of a 3 million unit (mu)",
+            "journal": "Chest",
+            "year": "1997",
+            "authors": [
+              "Bryan C S",
+              "Talwani R",
+              "Stinson M S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Costs and Cost Analysis",
+              "Dose-Response Relationship, Drug",
+              "Humans",
+              "Infusions, Intravenous",
+              "Injections, Intramuscular",
+              "Injections, Intravenous",
+              "Penicillin G",
+              "Penicillins",
+              "Pneumonia, Pneumococcal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9404765/"
+          },
+          {
+            "pmid": "10501315",
+            "title": "Treatment of pneumococcal pneumonia.",
+            "abstract": "The emergence of Streptococcus pneumoniae strains with resistance to penicillin, macrolide, and other drugs has made the treatment of pneumococcal infections more complicated. Although resistance to penicillin has had a profound impact on the outcome of meningitis, it has had little impact on the mortality from pneumococcal pneumonia because the serum and pulmonary levels achieved with penicillin (or related drugs) are several times higher than the minimal inhibitory concentration of the strains. Thus, based on current levels of resistance to penicillin and cephalosporin, most patients with mild/moderate pneumococcal pneumonia may respond to oral amoxicillin, and most with severe pneumonia may be successfully treated with intravenous ceftriaxone, cefotaxime, or amoxicillin-clavulanic acid. It is of concern that patients infected with erythromycin-resistant pneumococci may not respond to therapy with a macrolide. In our opinion, except for well-selected patients, imipenem and vancomycin",
+            "journal": "Seminars in respiratory infections",
+            "year": "1999",
+            "authors": [
+              "Pallares R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Drug Resistance, Multiple",
+              "Female",
+              "Humans",
+              "Lactams",
+              "Male",
+              "Microbial Sensitivity Tests",
+              "Penicillins",
+              "Pneumonia, Pneumococcal",
+              "Streptococcus pneumoniae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10501315/"
+          },
+          {
+            "pmid": "27161775",
+            "title": "Staphylococcus aureus Community-acquired Pneumonia: Prevalence, Clinical Characteristics, and Outcomes.",
+            "abstract": "Prevalence of Staphylococcus aureus community-acquired pneumonia (CAP) and its clinical features remain incompletely understood, complicating empirical selection of antibiotics.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2016",
+            "authors": [
+              "Self Wesley H",
+              "Wunderink Richard G",
+              "Williams Derek J",
+              "Zhu Yuwei",
+              "Anderson Evan J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Centers for Disease Control and Prevention, U.S.",
+              "Community-Acquired Infections",
+              "Epidemiological Monitoring",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27161775/"
+          },
+          {
+            "pmid": "7742431",
+            "title": "Pneumococcal vertebral osteomyelitis.",
+            "abstract": "Vertebral osteomyelitis is an unusual complication of pneumococcal infection. This report describes a patient who presented with back pain and lower extremity weakness after bacteremic pneumococcal pneumonia. Magnetic resonance imaging showed destruction of the L-4-L-5 vertebral bodies and thecal sac compression, and Streptococcus pneumoniae was isolated from an aspirate of the disk space. We found only 10 other cases of pneumococcal vertebral osteomyelitis in a review of the literature. In these 11 cases the presentations were usually subacute, and the onset of back pain was insidious. Elevated erythrocyte sedimentation rates were commonly noted. Computed tomography and magnetic resonance imaging were most helpful in delineating the extent of involvement in patients seen in the last decade. Successful treatment included surgery alone in 2 cases that occurred before the antibiotic era, surgery plus 6 weeks of antibiotic therapy in 1, and antibiotics alone for 4 weeks to 7 months in 5. ",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "1995",
+            "authors": [
+              "Kutas L M",
+              "Duggan J M",
+              "Kauffman C A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Clindamycin",
+              "Humans",
+              "Intervertebral Disc",
+              "Lumbosacral Region",
+              "Magnetic Resonance Imaging",
+              "Male",
+              "Osteomyelitis",
+              "Pneumococcal Infections",
+              "Spinal Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7742431/"
+          },
+          {
+            "pmid": "16735146",
+            "title": "Antimicrobial resistance in gram-positive bacteria.",
+            "abstract": "Gram-positive bacteria are common causes of bloodstream and other infections in hospitalized patients in the United States, and the percentage of nosocomial bloodstream infections caused by antibiotic-resistant gram-positive bacteria is increasing. Methicillin-resistant Staphylococcus aureus (MRSA) and vancomycin-resistant enterococci (VRE) are of particular concern. In the United States, approximately 60% of staphylococcal infections in the intensive care unit are now caused by MRSA, and percentages continue to rise. Outbreaks of hospital-acquired MRSA (HA-MRSA) are typically the result of clonal spread by MRSA being transferred from patient to patient, frequently using healthcare personnel as intermediaries. HA-MRSA strains are generally multidrug resistant. Vancomycin is the standard treatment for serious MRSA infections, but a few cases of vancomycin-resistant S aureus (VRSA) have recently emerged in the United States. Community-acquired MRSA (CA-MRSA) is also increasing. Soft tiss",
+            "journal": "The American journal of medicine",
+            "year": "2006",
+            "authors": [
+              "Rice Louis B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cephalosporins",
+              "Community-Acquired Infections",
+              "Cross Infection",
+              "Drug Combinations",
+              "Drug Resistance, Bacterial",
+              "Enterococcus faecalis",
+              "Gastrointestinal Tract",
+              "Gram-Positive Bacteria",
+              "Gram-Positive Bacterial Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16735146/"
+          },
+          {
+            "pmid": "10720803",
+            "title": "Viridans-group streptococcal infections in immunocompromised hosts.",
+            "abstract": "Viridans streptococci, a diverse group of streptococcal species, are important causes of sepsis and pneumonia in the neutropenic host and sepsis and meningitis in the neonate. The oral mucosa is the most common portal of entry. Among the factors that predispose to development of viridans streptococcal sepsis are: profound neutropenia; mucositis, especially oral mucositis; cytarabine (Ara-C) therapy, which seems to have an effect beyond its association with mucositis; young age; and trimethoprim-sulphamethoxazole or quinolone administration. Fever is usually more than 39 degrees C and prolonged for several days even though blood cultures are typically negative after 24 h of therapy. The majority of patients recover uneventfully if appropriate therapy is initiated early. However, fulminant septic shock may occasional occur at onset. Delayed shock 2 or 3 days after presentation may also occur despite administration of microbiologically effective antibiotics. In severe cases, adult respira",
+            "journal": "International journal of antimicrobial agents",
+            "year": "2000",
+            "authors": [
+              "Shenep J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Humans",
+              "Immunocompromised Host",
+              "Infant, Newborn",
+              "Streptococcal Infections",
+              "Streptococcus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10720803/"
+          },
+          {
+            "pmid": "10712318",
+            "title": "Treatment of gram-positive nosocomial pneumonia. Prospective randomized comparison of quinupristin/dalfopristin versus vancomycin. Nosocomial Pneumonia Group.",
+            "abstract": "Nosocomial pneumonia is a frequent complication in hospitalized patients. Gram-positive pathogens, particularly Staphylococcus aureus, are responsible for the increasing frequency of nosocomial pneumonia. To evaluate the efficacy and safety of intravenous quinupristin/dalfopristin (Synercid) in the treatment of nosocomial pneumonia caused by gram-positive pathogens we conducted a prospective, randomized, open-label, international, multicenter, comparative clinical trial. Two hundred ninety-eight patients with nosocomial pneumonia were enrolled in 74 active centers in five countries: a subgroup of 171 (87 quinupristin/dalfopristin-treated and 84 vancomycin-treated patients) were evaluable for the major efficacy end points. One hundred fifty received 7.5 mg/kg of quinupristin/dalfopristin every 8 h; 148 patients received 1 g of vancomycin every 12 h. Aztreonam at a dose of 2 g every 8 h could be administered in both groups for coverage of gram-negative organisms, and tobramycin was added",
+            "journal": "American journal of respiratory and critical care medicine",
+            "year": "2000",
+            "authors": [
+              "Fagon J",
+              "Patrick H",
+              "Haas D W",
+              "Torres A",
+              "Gibert C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Cross Infection",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pneumonia, Pneumococcal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10712318/"
+          },
+          {
+            "pmid": "35794077",
+            "title": "Evaluation of appropriate vancomycin prescribing for the prevention of newborn group B streptococcal infections in a community hospital obstetrics service.",
+            "abstract": "The 2019 American College of Obstetricians and Gynecologists (ACOG) guidelines update for the prevention of perinatal group B Streptococcus (GBS) infections stipulate that vancomycin should be reserved to treat penicillin-allergic women at high risk for anaphylaxis with documented GBS resistance to clindamycin. Protocols and policies were adapted at the community hospital to incorporate these new guidelines. The primary objective of this research was to evaluate institutional compliance to these guidelines and secondarily, clinical outcomes.",
+            "journal": "Journal of perinatal medicine",
+            "year": "2022",
+            "authors": [
+              "Assabahi Amirah",
+              "Driggers Rita",
+              "Keeys Christopher A",
+              "Mader Alexa",
+              "Norris Paul"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Pregnancy",
+              "Infant, Newborn",
+              "Female",
+              "Humans",
+              "Vancomycin",
+              "Obstetrics",
+              "Hospitals, Community",
+              "Infectious Disease Transmission, Vertical",
+              "Pregnancy Complications, Infectious",
+              "Antibiotic Prophylaxis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35794077/"
+          },
+          {
+            "pmid": "10451005",
+            "title": "Unusual manifestations of invasive pneumococcal infection.",
+            "abstract": "Unusual pneumococcal infections occurred frequently in the preantibiotic age but rapidly declined with the advent of the antibiotic era. Unfortunately, the morbidity and mortality associated with invasive pneumococcal disease remain high despite antibiotic therapy and monumental advances in medical technology. The incidence of invasive pneumococcal disease has increased recently because of the onset of the human immunodeficiency virus (HIV) epidemic and the emergence of antibiotic-resistant pneumococcus. Robert Austrian described the clinical triad of pneumococcal pneumonia, meningitis, and endocarditis, a syndrome that now bears his name. Although seen infrequently today, unusual manifestations of pneumococcal infection such as those Austrian reported still occur. A review of these cases is warranted because, as drug-resistant organisms continue to emerge worldwide, more unusual pneumococcal infections will be seen. Streptococcus pneumoniae is responsible for a remarkable array of dis",
+            "journal": "The American journal of medicine",
+            "year": "1999",
+            "authors": [
+              "Taylor S N",
+              "Sanders C V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Drug Resistance, Microbial",
+              "Humans",
+              "MEDLINE",
+              "Pneumococcal Infections",
+              "Streptococcus pneumoniae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10451005/"
+          },
+          {
+            "pmid": "21661712",
+            "title": "Diagnosis and management of community-acquired pneumonia in adults.",
+            "abstract": "Community-acquired pneumonia is diagnosed by clinical features (e.g., cough, fever, pleuritic chest pain) and by lung imaging, usually an infiltrate seen on chest radiography. Initial evaluation should determine the need for hospitalization versus outpatient management using validated mortality or severity prediction scores. Selected diagnostic laboratory testing, such as sputum and blood cultures, is indicated for inpatients with severe illness but is rarely useful for outpatients. Initial outpatient therapy should include a macrolide or doxycycline. For outpatients with comorbidities or who have used antibiotics within the previous three months, a respiratory fluoroquinolone (levofloxacin, gemifloxacin, or moxifloxacin), or an oral beta-lactam antibiotic plus a macrolide should be used. Inpatients not admitted to an intensive care unit should receive a respiratory fluoroquinolone, or a beta-lactam antibiotic plus a macrolide. Patients with severe community-acquired pneumonia or who a",
+            "journal": "American family physician",
+            "year": "2011",
+            "authors": [
+              "Watkins Richard R",
+              "Lemonovich Tracy L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetamides",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Community-Acquired Infections",
+              "Diagnosis, Differential",
+              "Doxycycline",
+              "Drug Therapy, Combination",
+              "Fluoroquinolones",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21661712/"
+          },
+          {
+            "pmid": "31077649",
+            "title": "Antibiotic Use and Outcomes After Implementation of the Drug Resistance in Pneumonia Score in ED Patients With Community-Onset Pneumonia.",
+            "abstract": "To guide rational antibiotic selection in community-onset pneumonia, we previously derived and validated a novel prediction tool, the Drug-Resistance in Pneumonia (DRIP) score. In 2015, the DRIP score was integrated into an existing electronic pneumonia clinical decision support tool (ePNa).",
+            "journal": "Chest",
+            "year": "2019",
+            "authors": [
+              "Webb Brandon J",
+              "Sorensen Jeffrey",
+              "Mecham Ian",
+              "Buckel Whitney",
+              "Ooi Lilian"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Anti-Bacterial Agents",
+              "Antimicrobial Stewardship",
+              "Community-Acquired Infections",
+              "Decision Support Systems, Clinical",
+              "Drug Resistance, Bacterial",
+              "Emergency Service, Hospital",
+              "Escherichia coli Infections",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31077649/"
+          },
+          {
+            "pmid": "26248355",
+            "title": "In Vitro Activities of Tedizolid and Linezolid against Gram-Positive Cocci Associated with Acute Bacterial Skin and Skin Structure Infections and Pneumonia.",
+            "abstract": "Tedizolid is a novel, expanded-spectrum oxazolidinone with potent activity against a wide range of Gram-positive pathogens. A total of 425 isolates of Gram-positive bacteria were obtained consecutively from patients with acute bacterial skin and skin structure infections (ABSSSIs) or pneumonia. These isolates included methicillin-susceptible Staphylococcus aureus (MSSA) (n = 100), methicillin-resistant Staphylococcus aureus (MRSA) (n = 100), Streptococcus pyogenes (n = 50), Streptococcus agalactiae (n = 50), Streptococcus anginosus group (n = 75), Enterococcus faecalis (n = 50), and vancomycin-resistant enterococci (VRE) (Enterococcus faecium) (n = 50). The MICs of tedizolid and linezolid were determined by the agar dilution method. Tedizolid exhibited better in vitro activities than linezolid against MSSA (MIC90s, 0.5 versus 2 μg/ml), MRSA (MIC90s, 0.5 versus 2 μg/ml), S. pyogenes (MIC90s, 0.5 versus 2 μg/ml), S. agalactiae (MIC90s, 0.5 versus 2 μg/ml), Streptococcus anginosus group (",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2015",
+            "authors": [
+              "Chen Ko-Hung",
+              "Huang Yu-Tsung",
+              "Liao Chun-Hsing",
+              "Sheng Wang-Hui",
+              "Hsueh Po-Ren"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Anti-Bacterial Agents",
+              "Enterococcus faecalis",
+              "Enterococcus faecium",
+              "Gram-Positive Bacterial Infections",
+              "Humans",
+              "Linezolid",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Microbial Sensitivity Tests",
+              "Organophosphates"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26248355/"
+          },
+          {
+            "pmid": "9511075",
+            "title": "Quinupristin/dalfopristin: a review of its activity in experimental animal models of infection.",
+            "abstract": "Quinupristin/dalfopristin is a semisynthetic parenteral streptogramin combination consisting of two components, quinupristin (RP 57669) and dalfopristin (RP 54476), in a 30:70 (w/w) ratio. These compounds act synergically against many Gram-positive bacteria that cause severe infections. Several animal models have been used to study the in-vivo efficacy and pharmacodynamics of quinupristin/dalfopristin against infections caused by Staphylococcus aureus and Streptococcus spp. Studies of its efficacy in animal models of septicaemia, thigh infection, pneumonia and aortic endocarditis have shown it to be as active as vancomycin against S. aureus, including some methicillin-resistant strains (MRSA), and as active as high doses of amoxycillin against penicillin-resistant and multi-resistant strains of Streptococcus pneumoniae. Thus, quinupristin/dalforpristin appears to have potential as an alternative to vancomycin in the management of severe staphylococcal and streptococcal infections, incl",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1997",
+            "authors": [
+              "Carbon C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Chinchilla",
+              "Disease Models, Animal",
+              "Endocarditis, Bacterial",
+              "Lung Diseases",
+              "Mice",
+              "Rats",
+              "Sepsis",
+              "Virginiamycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9511075/"
+          },
+          {
+            "pmid": "16341681",
+            "title": "Antibiotic management of ventilator-associated pneumonia due to antibiotic-resistant gram-positive bacterial infection.",
+            "abstract": "Gram-positive cocci, in particular Staphylococcus aureus, account for as much as one-third of all cases of hospital-acquired pneumonia, and treatment has become increasingly complex as the proportion of resistant isolates has increased. Methicillin-resistant S. aureus is of particular concern because this pathogen is now associated with hospital-acquired, ventilator-associated, community-acquired, and healthcare-associated pneumonia. Antibiotic therapy for ventilator-associated pneumonia is challenging because it can be caused by multiple pathogens, which can be resistant to multiple drugs. This article reviews the epidemiology of ventilator-associated pneumonia and describes options for antibiotic treatment. Particular attention is paid to pneumonia due to methicillin-resistant S. aureus. Studies suggest that vancomycin, the traditional treatment for ventilator-associated pneumonia, may not be the best option for this type of pneumonia and that other antibiotics, such as linezolid and",
+            "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+            "year": "2005",
+            "authors": [
+              "Kollef M H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cross Infection",
+              "Drug Resistance, Bacterial",
+              "Equipment Contamination",
+              "Humans",
+              "Pneumonia, Pneumococcal",
+              "Pneumonia, Staphylococcal",
+              "Staphylococcus aureus",
+              "Streptococcus pneumoniae",
+              "Treatment Failure",
+              "Vancomycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16341681/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "streptococcal pneumonia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20streptococcal%20pneumonia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "premalignant hematological system disease",
+        "txgnn_score": 0.995391011238098,
+        "txgnn_rank": 1143,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Vancomycin",
+          "disease": "premalignant hematological system disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Vancomycin%20premalignant%20hematological%20system%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Vancomycin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00512",
+    "name": "Vancomycin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Vancomycin"
+      },
+      "queried_at": "2026-03-10T12:21:59.071647",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Vancomycin"
+      },
+      "queried_at": "2026-03-10T12:21:59.090981",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Vancomycin"
+      },
+      "queried_at": "2026-03-10T12:22:02.574065",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "diffuse scleroderma"
+      },
+      "queried_at": "2026-03-10T12:22:03.192276",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "diffuse scleroderma"
+      },
+      "queried_at": "2026-03-10T12:22:08.246520",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "diffuse scleroderma"
+      },
+      "queried_at": "2026-03-10T12:22:11.280658",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "diffuse scleroderma"
+      },
+      "queried_at": "2026-03-10T12:22:15.023167",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-10T12:22:16.069401",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-10T12:22:20.490015",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-10T12:22:22.171138",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "paratyphoid fever"
+      },
+      "queried_at": "2026-03-10T12:22:25.481906",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "salmonellosis"
+      },
+      "queried_at": "2026-03-10T12:22:26.131135",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "salmonellosis"
+      },
+      "queried_at": "2026-03-10T12:22:30.674228",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "salmonellosis"
+      },
+      "queried_at": "2026-03-10T12:22:32.954464",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "salmonellosis"
+      },
+      "queried_at": "2026-03-10T12:22:41.849875",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T12:22:42.830838",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T12:22:48.385895",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T12:22:50.439477",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-10T12:22:51.971640",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T12:22:52.757347",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T12:22:58.405487",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T12:23:01.307319",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-10T12:23:02.312832",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T12:23:03.554442",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T12:23:07.724898",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T12:23:10.388809",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-10T12:23:11.430809",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "typhoid fever"
+      },
+      "queried_at": "2026-03-10T12:23:12.247309",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "typhoid fever"
+      },
+      "queried_at": "2026-03-10T12:23:15.976247",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "typhoid fever"
+      },
+      "queried_at": "2026-03-10T12:23:17.251340",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "typhoid fever"
+      },
+      "queried_at": "2026-03-10T12:23:22.143305",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T12:23:22.906583",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T12:23:27.803434",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T12:23:29.452737",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "blood group incompatibility"
+      },
+      "queried_at": "2026-03-10T12:23:31.879040",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-10T12:23:33.386993",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-10T12:23:40.083854",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-10T12:23:41.771206",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-10T12:23:51.551729",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T12:23:52.426734",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T12:23:56.283906",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T12:23:58.308806",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Vancomycin",
+        "disease": "premalignant hematological system disease"
+      },
+      "queried_at": "2026-03-10T12:23:59.274252",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:23:59.292241"
+  }
+}

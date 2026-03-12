@@ -1,0 +1,1336 @@
+{
+  "drug": {
+    "inn": "Tretinoin",
+    "drugbank_id": "DB00755",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "rheumatoid nodulosis",
+        "txgnn_score": 0.9983727931976318,
+        "txgnn_rank": 501,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "rheumatoid nodulosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20rheumatoid%20nodulosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
+        "txgnn_score": 0.9982467889785768,
+        "txgnn_rank": 533,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20rheumatoid%20factor-positive%20polyarticular%20juvenile%20idiopathic%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "juvenile idiopathic arthritis",
+        "txgnn_score": 0.9979653358459472,
+        "txgnn_rank": 593,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "juvenile idiopathic arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20juvenile%20idiopathic%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "juvenile chronic polyarthritis",
+        "txgnn_score": 0.9977627992630004,
+        "txgnn_rank": 645,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "juvenile chronic polyarthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20juvenile%20chronic%20polyarthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "spondyloarthropathy, susceptibility to",
+        "txgnn_score": 0.9971202611923218,
+        "txgnn_rank": 802,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "spondyloarthropathy, susceptibility to",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20spondyloarthropathy%2C%20susceptibility%20to"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "juvenile arthritis due to defect in LACC1",
+        "txgnn_score": 0.995497226715088,
+        "txgnn_rank": 1125,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "juvenile arthritis due to defect in LACC1",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20juvenile%20arthritis%20due%20to%20defect%20in%20LACC1"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "osteoarthritis",
+        "txgnn_score": 0.9943920969963074,
+        "txgnn_rank": 1287,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "36542696",
+            "title": "Variants in ALDH1A2 reveal an anti-inflammatory role for retinoic acid and a new class of disease-modifying drugs in osteoarthritis.",
+            "abstract": "More than 40% of individuals will develop osteoarthritis (OA) during their lifetime, yet there are currently no licensed disease-modifying treatments for this disabling condition. Common polymorphic variants in ALDH1A2, which encodes the key enzyme for synthesis of all-trans retinoic acid (atRA), are associated with severe hand OA. Here, we sought to elucidate the biological significance of this association. We first confirmed that ALDH1A2 risk variants were associated with hand OA in the U.K. Biobank. Articular cartilage was acquired from 33 individuals with hand OA at the time of routine hand OA surgery. After stratification by genotype, RNA sequencing was performed. A reciprocal relationship between ALDH1A2 mRNA and inflammatory genes was observed. Articular cartilage injury up-regulated similar inflammatory genes by a process that we have previously termed mechanoflammation, which we believe is a primary driver of OA. Cartilage injury was also associated with a concomitant drop in ",
+            "journal": "Science translational medicine",
+            "year": "2022",
+            "authors": [
+              "Zhu Linyi",
+              "Kamalathevan Pragash",
+              "Koneva Lada A",
+              "Zarebska Jadwiga Miotla",
+              "Chanalaris Anastasios"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Mice",
+              "Animals",
+              "Tretinoin",
+              "Osteoarthritis",
+              "Cartilage, Articular",
+              "Knee Joint",
+              "Anti-Inflammatory Agents",
+              "Chondrocytes",
+              "Aldehyde Dehydrogenase 1 Family",
+              "Retinal Dehydrogenase"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36542696/"
+          },
+          {
+            "pmid": "40564983",
+            "title": "Study of Retinoic Acid-Induced Osteoarthritis: Integrating RNA-Sequencing, Network Pharmacology, Molecular Docking, and Experimental Validation.",
+            "abstract": "Osteoarthritis (OA) is a debilitating joint disorder characterized by cartilage degradation and disruption of chondrocyte homeostasis. Although retinoic acid (RA) has been used in OA models, its precise targets are not clear. A translational framework was employed, integrating RNA-sequencing results, network pharmacology prediction, computational ligand-receptor molecular docking, and biological experimental validation, to systematically elucidate RA's disease-modifying targets in OA pathogenesis. RNA-sequencing of RA-treated chondrocytes revealed 656 differentially expressed genes (DEGs). Protein-protein interaction (PPI) network analysis and functional enrichment [Gene Ontology (GO)/Kyoto Encyclopedia of Genes and Genomes (KEGG)] highlighted key pathways, including extracellular matrix (ECM) reorganization and PI3K-Akt-mediated mechanotransduction and others. Network pharmacology analysis identified 42 shared targets between RA and OA. PPI analysis and functional enrichment (GO/KEGG)",
+            "journal": "International journal of molecular sciences",
+            "year": "2025",
+            "authors": [
+              "Lu Tao",
+              "Liu Zi-Yi",
+              "Ge Yang-Shuo",
+              "Jiang Shuai-Yu",
+              "Zhao Qing-Ao"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Molecular Docking Simulation",
+              "Tretinoin",
+              "Osteoarthritis",
+              "Chondrocytes",
+              "Humans",
+              "Sequence Analysis, RNA",
+              "Network Pharmacology",
+              "Protein Interaction Maps",
+              "Animals",
+              "Gene Regulatory Networks"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40564983/"
+          },
+          {
+            "pmid": "15334469",
+            "title": "Characterization of and osteoarthritis susceptibility in ADAMTS-4-knockout mice.",
+            "abstract": "To determine the importance of the enzymatic activity of ADAMTS-4 in normal growth and development and to evaluate the role of ADAMTS-4 in the progression of osteoarthritis (OA).",
+            "journal": "Arthritis and rheumatism",
+            "year": "2004",
+            "authors": [
+              "Glasson Sonya S",
+              "Askew Roger",
+              "Sheppard Barbara",
+              "Carito Brenda A",
+              "Blanchet Tracey"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "ADAM Proteins",
+              "ADAMTS4 Protein",
+              "Aggrecans",
+              "Animals",
+              "Cartilage, Articular",
+              "Disease Progression",
+              "Extracellular Matrix Proteins",
+              "Interleukin-1",
+              "Lectins, C-Type",
+              "Metalloendopeptidases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15334469/"
+          },
+          {
+            "pmid": "7487094",
+            "title": "Self-diffusion monitors degraded cartilage.",
+            "abstract": "This article demonstrates that both the bulk water self-diffusion coefficient (D) and the spatially resolved variation in D for lesion canine cartilage due to osteoarthritis is increased by about 25% over that of surrounding cartilage. This increase in D can be mimicked by enzymatic degradation of cartilage with trypsin, hyaluronidase, and collagenase, or by mechanical means. However, it is established here using excised disks of living cartilage whose proteoglycan and collagen contents were manipulated by biochemical intervention in tissue culture that the diffusion measurement is not sensitive to the proteoglycan content of cartilage. Instead, self-diffusion appears to monitor mesoscopic (nonspecific) tissue damage. These results show that D, measured in a spatially resolved manner by pulsed field gradient nuclear magnetic resonance imaging, can localize regions of cartilage degradation.",
+            "journal": "Archives of biochemistry and biophysics",
+            "year": "1995",
+            "authors": [
+              "Xia Y",
+              "Farquhar T",
+              "Burton-Wurster N",
+              "Vernier-Singer M",
+              "Lust G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cartilage, Articular",
+              "Collagen",
+              "Diffusion",
+              "Dogs",
+              "Hyaluronoglucosaminidase",
+              "In Vitro Techniques",
+              "Male",
+              "Osteoarthritis",
+              "Proteoglycans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7487094/"
+          },
+          {
+            "pmid": "17075855",
+            "title": "Functional characterization of an orphan nuclear receptor, Rev-ErbAalpha, in chondrocytes and its potential role in osteoarthritis.",
+            "abstract": "To evaluate the expression and function of the orphan nuclear receptor Rev-ErbAalpha in articular cartilage and to investigate its role in osteoarthritis (OA).",
+            "journal": "Arthritis and rheumatism",
+            "year": "2006",
+            "authors": [
+              "Chaturvedi P",
+              "Pratta M",
+              "Steplewski K",
+              "Connor J",
+              "Kumar S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "ADAM Proteins",
+              "ADAMTS5 Protein",
+              "Animals",
+              "Antineoplastic Agents",
+              "Cartilage",
+              "Cattle",
+              "Cells, Cultured",
+              "Chondrocytes",
+              "DNA-Binding Proteins",
+              "Down-Regulation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17075855/"
+          },
+          {
+            "pmid": "15564068",
+            "title": "Cartilage degradation independent of MMP/aggrecanases.",
+            "abstract": "To identify and characterize a cartilage degradation mechanism that is independent of the proteolytic cleavages by matrix metalloproteinases (MMPs) and aggrecanases.",
+            "journal": "Osteoarthritis and cartilage",
+            "year": "2004",
+            "authors": [
+              "Sugimoto Kotaro",
+              "Iizawa Tomoko",
+              "Harada Hosami",
+              "Yamada Kazuyo",
+              "Katsumata Mutsumi"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aggrecans",
+              "Animals",
+              "Cartilage",
+              "Cattle",
+              "Collagen Type II",
+              "Endopeptidases",
+              "Extracellular Matrix Proteins",
+              "Glycosaminoglycans",
+              "Interleukin-1",
+              "Lectins, C-Type"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15564068/"
+          },
+          {
+            "pmid": "34745498",
+            "title": "Intra-Articular Injection of PRP in the Treatment of Knee Osteoarthritis Using Big Data.",
+            "abstract": "Observing data on the characteristics of intra-articular injection of sodium citrate for knee osteoarthritis is an important reference value for human safety and evacuation design. To address the problems of slow data collection and poor accuracy of results of knee osteoarthritis behavior, under intensive conditions of intra-articular injection for knee osteoarthritis, this paper designs a data mining-based feature extraction system for intra-articular injection of sodium citrate for knee osteoarthritis. Using the Hadoop architecture, we extract the basic data of human behavior in the two-dimensional plane by storing and stitching the collected continuous data and discriminate the behavioral categories of knee osteoarthritis. We collected a real dataset from 84 patients with knee osteoarthritis treated in our hospital from October 2019 to October 2020. The dataset was divided into 42 patients in the tretinoin group and 42 patients in the sodium glutamate group according to the randomiz",
+            "journal": "Journal of healthcare engineering",
+            "year": "2021",
+            "authors": [
+              "Lin Zhijin",
+              "He Ling"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Retracted Publication"
+            ],
+            "mesh_terms": [
+              "Big Data",
+              "Humans",
+              "Injections, Intra-Articular",
+              "Knee Joint",
+              "Osteoarthritis, Knee",
+              "Platelet-Rich Plasma",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34745498/"
+          },
+          {
+            "pmid": "11231277",
+            "title": "Expression and activity of ADAMTS-5 in synovium.",
+            "abstract": "ADAMTS proteinases, belonging to the adamalysin subfamily of metalloproteinases, have been implicated in a variety of cellular events such as morphogenesis, cell migration, angiogenesis, ovulation and extracellular matrix breakdown. Aggrecanase-1 (ADAMTS-4) and aggrecanase-2 (ADAMTS-5) have been identified in cartilage and are largely responsible for cartilage aggrecan breakdown. We have shown previously that synovium, the membrane lining diarthrodial joints, generates soluble aggrecanase activity. We report here the expression, localization and activity of ADAMTS-5 from human arthritic and bovine synovium. ADAMTS-5 was expressed constitutively in synovium with little or no transcriptional regulation by recombinant human interleukin-1 alpha or all-trans-retinoate, factors previously shown to upregulate aggrecanase activity in cartilage. Aggrecanase activity generated by synovium in vitro and recombinant ADAMTS-5 cleaved aggrecan extensively, resulting in aggrecan fragments similar to t",
+            "journal": "European journal of biochemistry",
+            "year": "2001",
+            "authors": [
+              "Vankemmelbeke M N",
+              "Holen I",
+              "Wilson A G",
+              "Ilic M Z",
+              "Handley C J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "ADAM Proteins",
+              "ADAMTS5 Protein",
+              "Aggrecans",
+              "Amino Acid Sequence",
+              "Animals",
+              "Arthritis, Rheumatoid",
+              "Blotting, Western",
+              "Cartilage",
+              "Cattle",
+              "Culture Media, Conditioned"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11231277/"
+          },
+          {
+            "pmid": "37418291",
+            "title": "Genome-Wide Association Studies to Drug: Identifying Retinoic Acid Metabolism Blocking Agents to Suppress Mechanoflammation in Osteoarthritis.",
+            "abstract": "Osteoarthritis (OA) is a highly prevalent debilitating joint disease for which there are currently no licensed disease-modifying treatments. The pathogenesis of OA is complex, involving genetic, mechanical, biochemical, and environmental factors. Cartilage injury, arguably the most important driving factor in OA development, is able to activate both protective and inflammatory pathways within the tissue. Recently, >100 genetic risk variants for OA have been identified through Genome Wide Association Studies, which provide a powerful tool to validate existing putative disease pathways and discover new ones. Using such an approach, hypomorphic variants within the aldehyde dehydrogenase 1 family member A2 (ALDH1A2) gene were shown to be associated with increased risk of severe hand OA. ALDH1A2 encodes the enzyme that synthesizes all-trans retinoic acid (atRA), an intracellular signaling molecule. This review summarizes the influence of the genetic variants on expression and function of AL",
+            "journal": "DNA and cell biology",
+            "year": "2023",
+            "authors": [
+              "Zhu Linyi",
+              "Vincent Tonia L"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Genome-Wide Association Study",
+              "Osteoarthritis",
+              "Retinoids",
+              "Tretinoin",
+              "Cartilage",
+              "Cartilage, Articular"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37418291/"
+          },
+          {
+            "pmid": "38302538",
+            "title": "Effect of a retinoic acid analogue on BMP-driven pluripotent stem cell chondrogenesis.",
+            "abstract": "Osteoarthritis is the most common degenerative joint condition, leading to articular cartilage (AC) degradation, chronic pain and immobility. The lack of appropriate therapies that provide tissue restoration combined with the limited lifespan of joint-replacement implants indicate the need for alternative AC regeneration strategies. Differentiation of human pluripotent stem cells (hPSCs) into AC progenitors may provide a long-term regenerative solution but is still limited due to the continued reliance upon growth factors to recapitulate developmental signalling processes. Recently, TTNPB, a small molecule activator of retinoic acid receptors (RARs), has been shown to be sufficient to guide mesodermal specification and early chondrogenesis of hPSCs. Here, we modified our previous differentiation protocol, by supplementing cells with TTNPB and administering BMP2 at specific times to enhance early development (referred to as the RAPID-E protocol). Transcriptomic analyses indicated that a",
+            "journal": "Scientific reports",
+            "year": "2024",
+            "authors": [
+              "Mancini Fabrizio E",
+              "Humphreys Paul E A",
+              "Woods Steven",
+              "Bates Nicola",
+              "Cuvertino Sara"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Chondrocytes",
+              "Tretinoin",
+              "Chondrogenesis",
+              "Pluripotent Stem Cells",
+              "Cell Differentiation",
+              "Cartilage, Articular",
+              "Collagen",
+              "Osteoarthritis",
+              "Benzoates"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38302538/"
+          },
+          {
+            "pmid": "9365097",
+            "title": "Osteoarthritic lesions: involvement of three different collagenases.",
+            "abstract": "To assess the presence of fibroblast collagenase (MMP-1), neutrophil collagenase (MMP-8), and collagenase 3 (MMP-13) in osteoarthritic (OA) cartilage, with particular emphasis on areas of macroscopic cartilage erosion.",
+            "journal": "Arthritis and rheumatism",
+            "year": "1997",
+            "authors": [
+              "Shlopov B V",
+              "Lie W R",
+              "Mainardi C L",
+              "Cole A A",
+              "Chubinskaya S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Animals",
+              "Base Sequence",
+              "Blotting, Northern",
+              "Cartilage, Articular",
+              "Collagenases",
+              "DNA Primers",
+              "Gene Expression",
+              "Humans",
+              "Interleukin-1"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9365097/"
+          },
+          {
+            "pmid": "10772242",
+            "title": "Expression of hyaluronan synthases in articular cartilage.",
+            "abstract": "To investigate the mRNA expression profiles of three mammalian hyaluronan synthases (HAS1, HAS2 and HAS3) in chondrocytes from normal (undiseased) animal cartilage and osteoarthritic human cartilage maintained in experimental culture systems and exposed to catabolic or anabolic stimuli provided by cytokines, growth factors and retinoic acid.",
+            "journal": "Osteoarthritis and cartilage",
+            "year": "2000",
+            "authors": [
+              "Hiscock D R",
+              "Caterson B",
+              "Flannery C R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aging",
+              "Animals",
+              "Cartilage, Articular",
+              "Cattle",
+              "Cells, Cultured",
+              "Chondrocytes",
+              "Glucuronosyltransferase",
+              "Humans",
+              "Hyaluronan Synthases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10772242/"
+          },
+          {
+            "pmid": "12606540",
+            "title": "Distinct transglutaminase 2-independent and transglutaminase 2-dependent pathways mediate articular chondrocyte hypertrophy.",
+            "abstract": "Altered chondrocyte differentiation, including development of chondrocyte hypertrophy, mediates osteoarthritis and pathologic articular cartilage matrix calcification. Similar changes in endochondral chondrocyte differentiation are essential for physiologic growth plate mineralization. In both articular and growth plate cartilages, chondrocyte hypertrophy is associated with up-regulated expression of certain protein-crosslinking enzymes (transglutaminases (TGs)) including the unique dual-functioning TG and GTPase TG2. Here, we tested if TG2 directly mediates the development of chondrocyte hypertrophic differentiation. To do so, we employed normal bovine chondrocytes and mouse knee chondrocytes from recently described TG2 knockout mice, which are phenotypically normal. We treated chondrocytes with the osteoarthritis mediator IL-1 beta, with the all-trans form of retinoic acid (ATRA), which promotes endochondral chondrocyte hypertrophy and pathologic calcification, and with C-type natriu",
+            "journal": "The Journal of biological chemistry",
+            "year": "2003",
+            "authors": [
+              "Johnson Kristen A",
+              "van Etten Deborah",
+              "Nanda Nisha",
+              "Graham Robert M",
+              "Terkeltaub Robert A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Alkaline Phosphatase",
+              "Animals",
+              "Calcinosis",
+              "Cartilage, Articular",
+              "Cattle",
+              "Cells, Cultured",
+              "Chondrocytes",
+              "Collagen Type X",
+              "Collagenases",
+              "Core Binding Factor Alpha 1 Subunit"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12606540/"
+          },
+          {
+            "pmid": "19248107",
+            "title": "Activation of cartilage matrix metalloproteinases by activated protein C.",
+            "abstract": "To investigate the role of activated protein C (APC) in cartilage degradation.",
+            "journal": "Arthritis and rheumatism",
+            "year": "2009",
+            "authors": [
+              "Jackson Miriam T",
+              "Smith Margaret M",
+              "Smith Susan M",
+              "Jackson Christopher J",
+              "Xue Meilang"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aggrecans",
+              "Animals",
+              "Antigens, CD",
+              "Cartilage, Articular",
+              "Cells, Cultured",
+              "Chondrocytes",
+              "Collagen",
+              "Disease Models, Animal",
+              "Endothelial Protein C Receptor",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19248107/"
+          },
+          {
+            "pmid": "15601852",
+            "title": "Role of the progressive ankylosis gene (ank) in cartilage mineralization.",
+            "abstract": "Mineralization of growth plate cartilage is a critical event during endochondral bone formation, which allows replacement of cartilage by bone. Ankylosis protein (Ank), which transports intracellular inorganic pyrophosphate (PP(i)) to the extracellular milieu, is expressed by hypertrophic and, especially highly, by terminally differentiated mineralizing growth plate chondrocytes. Blocking Ank transport activity or ank expression in terminally differentiated mineralizing growth plate chondrocytes led to increases of intra- and extracellular PP(i) concentrations, decreases of alkaline phosphatase (APase) expression and activity, and inhibition of mineralization, whereas treatment of these cells with the APase inhibitor levamisole led to an increase of extracellular PP(i) concentration and inhibition of mineralization. Ank-overexpressing hypertrophic nonmineralizing growth plate chondrocytes showed decreased intra- and extracellular PP(i) levels; increased mineralization-related gene expr",
+            "journal": "Molecular and cellular biology",
+            "year": "2005",
+            "authors": [
+              "Wang Wei",
+              "Xu Jinping",
+              "Du Bin",
+              "Kirsch Thorsten"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Alkaline Phosphatase",
+              "Amino Acid Sequence",
+              "Animals",
+              "Anthraquinones",
+              "Biological Transport",
+              "Blotting, Northern",
+              "Cartilage",
+              "Cell Differentiation",
+              "Cells, Cultured",
+              "Chickens"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15601852/"
+          },
+          {
+            "pmid": "12505482",
+            "title": "Runx2 expression and action in chondrocytes are regulated by retinoid signaling and parathyroid hormone-related peptide (PTHrP).",
+            "abstract": "Runx2 (also known as Cbfa1) is a transcription factor required for chondrocyte maturation and osteoblast differentiation. While there is information on the regulation of its expression during osteogenesis, much less is known about it during cartilage maturation. Here we asked whether Runx2 expression and function are affected by retinoic acid (RA) and parathyroid hormone-related peptide (PTHrP), which represent an important stimulator and inhibitor of chondrocyte maturation, respectively.",
+            "journal": "Osteoarthritis and cartilage",
+            "year": "2003",
+            "authors": [
+              "Iwamoto M",
+              "Kitagaki J",
+              "Tamamura Y",
+              "Gentili C",
+              "Koyama E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Blotting, Northern",
+              "Cartilage",
+              "Cells, Cultured",
+              "Chick Embryo",
+              "Chondrocytes",
+              "Core Binding Factor Alpha 1 Subunit",
+              "In Situ Hybridization",
+              "Keratolytic Agents",
+              "Neoplasm Proteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12505482/"
+          },
+          {
+            "pmid": "27001866",
+            "title": "Kinetic characterization and regulation of the human retinaldehyde dehydrogenase 2 enzyme during production of retinoic acid.",
+            "abstract": "Retinoic acid (RA) is an important regulator of embryogenesis and tissue homoeostasis. Perturbation of RA signalling causes developmental disorders, osteoarthritis, schizophrenia and several types of tumours. RA is produced by oxidation of retinaldehyde from vitamin A. The main enzyme producing RA in the early embryo is retinaldehyde dehydrogenase 2 (RALDH2, ALDH1A2). In the present study we describe in depth the kinetic properties and regulation of the human RALDH2 (hRALDH2) enzyme. We show that this enzyme produces RA using in vivo and in vitro assays. We studied the naturally occurring all-trans-, 9-cis- and 13-cis-retinaldehyde isomers as substrates of hRALDH2. Based on the values measured for the Michaelis-Menten constant Km and the maximal rate Vmax, in vitro hRALDH2 displays the same catalytic efficiency for their oxidation. We characterized two known inhibitors of the vertebrate RALDH2 and determined their kinetic parameters on hRALDH2. In addition, RA was studied as a possible",
+            "journal": "The Biochemical journal",
+            "year": "2016",
+            "authors": [
+              "Shabtai Yehuda",
+              "Jubran Halim",
+              "Nassar Taher",
+              "Hirschberg Joseph",
+              "Fainsod Abraham"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aldehyde Dehydrogenase 1 Family",
+              "DNA, Complementary",
+              "Enzyme Assays",
+              "Humans",
+              "Kinetics",
+              "Real-Time Polymerase Chain Reaction",
+              "Retinal Dehydrogenase",
+              "Retinaldehyde",
+              "Substrate Specificity",
+              "Tretinoin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27001866/"
+          },
+          {
+            "pmid": "15946654",
+            "title": "Retinoic acid blocks pro-inflammatory cytokine-induced matrix metalloproteinase production by down-regulating JNK-AP-1 signaling in human chondrocytes.",
+            "abstract": "The development of osteoarthritis (OA) has recently been implicated as a result of immune-mediated damage of chondrocytes and their supporting matrixes. Pro-inflammatory cytokines like interleukin (IL)-1 and tumor necrosis factor alpha (TNF-alpha) play pivotal roles in immunopathogenesis of OA. Because vitamins preserving anti-oxidative effects are suggested to provide protection in OA patients from joint damage, in the present study, we examined the effects and mechanisms of all-trans retinoic acid (t-RA) in suppressing pro-inflammatory cytokine-induced matrix metalloproteinases (MMPs) production in human chondrocytes. Chondrocytes were prepared from cartilage specimens of OA patients receiving total hip or total knee replacement. The protein concentration was measured by ELISA, the mRNA expression by reverse transcriptase-polymerase chain reaction, the protein expression by Western blotting, the transcription factor DNA-binding activity by electrophoretic mobility shift assay and the",
+            "journal": "Biochemical pharmacology",
+            "year": "2005",
+            "authors": [
+              "Ho Ling-Jun",
+              "Lin Leou-Chyr",
+              "Hung Li-Feng",
+              "Wang Shyu-Jye",
+              "Lee Chian-Her"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Chondrocytes",
+              "Cytokines",
+              "Down-Regulation",
+              "Humans",
+              "Inflammation Mediators",
+              "Matrix Metalloproteinase Inhibitors",
+              "Matrix Metalloproteinases",
+              "Mitogen-Activated Protein Kinase 8",
+              "Protease Inhibitors",
+              "Signal Transduction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15946654/"
+          },
+          {
+            "pmid": "12880584",
+            "title": "Effects of long-term exposure to glucosamine and mannosamine on aggrecan degradation in articular cartilage.",
+            "abstract": "To investigate the effect of long-term exposure to glucosamine or mannosamine on the catabolism of aggrecan by explant cultures of bovine articular cartilage maintained in the presence of retinoic acid.",
+            "journal": "Osteoarthritis and cartilage",
+            "year": "2003",
+            "authors": [
+              "Ilic M Z",
+              "Martinac B",
+              "Handley C J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aggrecans",
+              "Animals",
+              "Blotting, Western",
+              "Cartilage, Articular",
+              "Cattle",
+              "Culture Techniques",
+              "Endopeptidases",
+              "Extracellular Matrix Proteins",
+              "Glucosamine",
+              "Glycosaminoglycans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12880584/"
+          },
+          {
+            "pmid": "31542485",
+            "title": "Simvastatin induces differentiation in rabbit articular chondrocytes via Wnt/β-catenin pathway.",
+            "abstract": "Simvastatin is widely used as a specific inhibitor of 3-hydroxy-3-methyl-glutaryl-CoA reductase to reduce the levels of low-density lipoprotein cholesterol. However, its regulatory mechanism in chondrocyte differentiation is unclear. This study was conducted to evaluate the effects and signalling pathway of simvastatin on chondrocyte differentiation. We found that simvastatin induced chondrocyte differentiation, as confirmed by increased type II collagen expression and induced sulphated proteoglycan synthesis. Western blotting results showed that expression of type II collagen increased 6-fold in a dose-dependent manner compared with that in the control. Further, nuclear/cytosol fraction analysis revealed that simvastatin reduced the expression and translocation of β-catenin into the nucleus from the cytoplasm by approximately 50% compared with that in the control. A luciferase assay using a T cell factor/lymphoid enhancer factor reporter construct was performed to test the transcripti",
+            "journal": "European journal of pharmacology",
+            "year": "2019",
+            "authors": [
+              "Yu Seon-Mi",
+              "Han Yohan",
+              "Kim Song Ja"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Differentiation",
+              "Chondrocytes",
+              "Dose-Response Relationship, Drug",
+              "Gene Expression Regulation",
+              "Knee Joint",
+              "Rabbits",
+              "Simvastatin",
+              "Tretinoin",
+              "Wnt Signaling Pathway"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31542485/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "osteoarthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20osteoarthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pseudoachondroplasia",
+        "txgnn_score": 0.9934551119804382,
+        "txgnn_rank": 1441,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "pseudoachondroplasia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20pseudoachondroplasia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "acromesomelic dysplasia, Hunter-Thompson type",
+        "txgnn_score": 0.9930103421211244,
+        "txgnn_rank": 1525,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "acromesomelic dysplasia, Hunter-Thompson type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20acromesomelic%20dysplasia%2C%20Hunter-Thompson%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Quinquaud's folliculitis decalvans",
+        "txgnn_score": 0.9929509162902832,
+        "txgnn_rank": 1539,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "27814407",
+            "title": "An unusual case of folliculitis spinulosa decalvans.",
+            "abstract": "We report the case of a 24-year-old man who presented with pustules, atrophic scars, and alopecia on the scalp, along with follicular keratotic papules on the cheeks, chest, abdomen, back, lateral upper arms, thighs, and axillae, of 6 years' duration. A diagnosis of folliculitis spinulosa decalvans (FSD) was made based on the clinical manifestation and histopathological findings. Dental examination also revealed dental anomalies and a fissured tongue, which are not known to be related to FSD. We provide an overview of the characteristic findings of FSD as well as a review of previously reported cases.",
+            "journal": "Cutis",
+            "year": "2016",
+            "authors": [
+              "Fan Wenge",
+              "Zhang Qingsong",
+              "Song Linyi"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alopecia",
+              "Anti-Infective Agents",
+              "Clarithromycin",
+              "Dermatologic Agents",
+              "Diagnosis, Differential",
+              "Folliculitis",
+              "Fusidic Acid",
+              "Humans",
+              "Keratosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27814407/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Tretinoin",
+          "disease": "Quinquaud's folliculitis decalvans",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Tretinoin%20Quinquaud%27s%20folliculitis%20decalvans"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Tretinoin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00755",
+    "name": "Tretinoin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Tretinoin"
+      },
+      "queried_at": "2026-03-10T12:34:07.790519",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Tretinoin"
+      },
+      "queried_at": "2026-03-10T12:34:07.801603",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Tretinoin"
+      },
+      "queried_at": "2026-03-10T12:34:10.926765",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:34:11.763589",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:34:16.554821",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:34:18.310825",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-10T12:34:18.965775",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:19.954633",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:24.360221",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:25.461294",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:26.555691",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:27.239552",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:30.907969",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:32.158991",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-10T12:34:33.127308",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-10T12:34:34.055976",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-10T12:34:39.439261",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-10T12:34:40.840151",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-10T12:34:42.210689",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:34:43.133421",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:34:47.667640",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:34:48.964540",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "spondyloarthropathy, susceptibility to"
+      },
+      "queried_at": "2026-03-10T12:34:50.127997",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:34:51.186901",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:34:56.039640",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:34:57.451659",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "juvenile arthritis due to defect in LACC1"
+      },
+      "queried_at": "2026-03-10T12:34:59.041103",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-10T12:35:00.034167",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-10T12:35:06.620939",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-10T12:35:08.324605",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-10T12:35:13.405786",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:35:14.770220",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:35:17.899816",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:35:19.338100",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-10T12:35:20.988255",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:35:22.619352",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:35:28.373147",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:35:30.228616",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "acromesomelic dysplasia, Hunter-Thompson type"
+      },
+      "queried_at": "2026-03-10T12:35:31.138676",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T12:35:31.668665",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T12:35:35.947993",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T12:35:37.438442",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Tretinoin",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-10T12:35:40.120912",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:35:40.125019"
+  }
+}

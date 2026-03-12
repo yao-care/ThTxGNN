@@ -1,0 +1,1637 @@
+{
+  "drug": {
+    "inn": "Bupropion",
+    "drugbank_id": "DB01156",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "attention deficit-hyperactivity disorder",
+        "txgnn_score": 0.9999139308929444,
+        "txgnn_rank": 32,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04553263",
+            "title": "Relapse Prevention in Stimulant Use Disorder",
+            "phase": "EARLY_PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2023-06-11",
+            "completion_date": "2025-01-11",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The purpose of this study is to assess the relationship between bupropion, stimulant use and relapse, ADHD (Attention Deficit Hyperactivity Disorder), and measures of mood, drug craving, and inhibitory control in individuals enrolled in inpatient treatment for stimulant-use disorder with and without ADHD.\n\nThe experimenters hypothesize that Bupropion and Contrave (Bupropion/Naltrexone) will increase inhibitory control and decrease drug craving and depressive symptoms in recently abstinent stimul",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. English fluency (in order to provide informed consent and complete questionnaires)\n2. Age of 18-65 years inclusive\n3. Meeting DSM 5 criteria for Stimulant-use disorder\n4. Being 2-8 weeks abstinent from drugs of abuse other than nicotine (in cigarettes)\n5. Vital signs as follo",
+            "endpoints": [
+              "Stimulant use 1 month after leaving inpatient treatment (self-report)",
+              "Stimulant use 1 month after leaving inpatient treatment (urine toxicology)"
+            ],
+            "sponsor": "University of California, Los Angeles",
+            "url": "https://clinicaltrials.gov/study/NCT04553263"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00048360",
+            "title": "An 8-week, Multicenter, Randomized, Double-Blind, Placebo-Controlled, Flexible-Dose Comparison of Extended-Release Bupropion Hydrochloride 300-450 mg/Day to Assess the Efficacy, Safety, and Effects on Health Outcomes in the Treatment of Adults With Attention-Deficit/Hyperactivity Disorder",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2002-10",
+            "completion_date": "2003-06",
+            "country": "United States",
+            "enrollment": 162,
+            "brief_summary": "This is a placebo controlled study evaluating the efficacy and safety of medication in adults with Attention-Deficit Hyperactivity Disorder (ADHD).",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Patient must be diagnosed with ADHD.\n\nExclusion Criteria:\n\n* Patient has a current or past history of seizure disorder, brain injury, anorexia nervosa or bulimia.\n* Patient has a current diagnosis of Major Depressive Disorder (MDD).\n* Patient has a current primary diagnosis of",
+            "endpoints": [
+              "ADHD Rating Scale"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT00048360"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03326128",
+            "title": "High Dose Bupropion Treatment for Smoking Cessation - Pilot Study",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2021-09-01",
+            "completion_date": "2023-07-01",
+            "country": "United States",
+            "enrollment": 12,
+            "brief_summary": "This study aims to investigate the benefit of administering two differing doses of Bupropion (BUP) to smokers to assist with smoking cessation.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Smokes cigarettes daily for at least 1 year\n* Breath CO of 5 ppm or higher at Baseline visit\n* Age 21 - 65\n\nExclusion Criteria:\n\n* Possible drug contraindications (panic disorder, bipolar disorder, bulimia, anorexia, insomnia, suicidal ideation, alcohol withdrawal, seizures, s",
+            "endpoints": [
+              "Point Prevalence Abstinence (PPA) [change in abstinence reports will be assessed]"
+            ],
+            "sponsor": "University of Southern California",
+            "url": "https://clinicaltrials.gov/study/NCT03326128"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00330434",
+            "title": "Human CYP2B6: Induction by Ethanol and Polymorphisms",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2005-12",
+            "completion_date": "2008-04",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The two purposes of this study are\n\n1. to determine what effect the chronic and moderate/heavy drinking of alcoholic beverages has\n\n   1. on the blood level of bupropion and chlorzoxazone and their major breakdown products in the blood and\n   2. on the stimulant effect of bupropion and\n2. to determine what effect a normal and common (25% frequency) genetic variation of a specific liver enzyme (that breaks down bupropion) has\n\n   1. on the blood levels of bupropion and its major breakdown product",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy adults who are 21 - 55 years of age.\n* Either 1) Moderate-to-heavy drinkers who drink on average more than 14 but less than 28 drinks per week; OR 2) adults who normally abstain from drinking alcohol.\n\nExclusion Criteria:\n\n* Participants who are currently taking prescr",
+            "endpoints": [],
+            "sponsor": "Tufts University",
+            "url": "https://clinicaltrials.gov/study/NCT00330434"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00000268",
+            "title": "Cocaine Abuse and Attention Deficit Disorder",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "1995-05",
+            "completion_date": "1998-11",
+            "country": "United States",
+            "enrollment": 32,
+            "brief_summary": "The purpose of this study is to evaluate cocaine abuse and Attention Deficit Disorder",
+            "eligibility_criteria": "Inclusion Criteria:\n\ncurrent adult ADHD current cocaine dependence\n\nExclusion Criteria:\n\nno current major depression",
+            "endpoints": [
+              "Side effects",
+              "Craving",
+              "Drug use"
+            ],
+            "sponsor": "National Institute on Drug Abuse (NIDA)",
+            "url": "https://clinicaltrials.gov/study/NCT00000268"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00061087",
+            "title": "Treatment of Adult ADHD in Methadone Patients",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "1998-02",
+            "completion_date": "2004-10",
+            "country": "United States",
+            "enrollment": 115,
+            "brief_summary": "The purpose of this study is to treat Adult Attention Deficit Hyperactivity Disorder (ADHD) in methadone patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Individuals who meet DSM-IV criteria for opiate dependence and are currently maintained on methadone\n* Patients must meet DSM-IV criteria for persistent adult ADHD\n* Must be on stable methadone dose for at least 3 weeks\n* Individuals positive for HIV will not be excluded.\n\nExc",
+            "endpoints": [
+              "Cocaine use based on urine toxicology",
+              "ADHD symptom severity based on the ADHD Rating scale score"
+            ],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT00061087"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00936299",
+            "title": "Bupropion for ADHD in Adolescents With Substance Use Disorder",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2009-01",
+            "completion_date": "2013-05",
+            "country": "United States",
+            "enrollment": 105,
+            "brief_summary": "Attention deficit hyperactivity disorder (ADHD) is one of the most common co-occurring psychiatric disorders (30-50%) in adolescents with substance use disorders (SUD). Yet, little is known about the safety and efficacy of medications for ADHD in adolescents with SUD, since such youths have been excluded from most medication trials. Clinicians are therefore understandably reluctant to treat ADHD in substance abusing adolescents, often first referring such youths to substance treatment. Untreated",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Between the ages of 13 and 19, with a parent or legal guardian available to complete parental assessments for minors;\n* Meet DSM-IV diagnostic criteria for ADHD on the K-SADS-PL;\n* Schedule for Affective Disorders and Schizophrenia score ≥ 22 on the DSM-IV ADHD symptom checkli",
+            "endpoints": [
+              "Change in ADHD Rating Scale (ADHD-RS) Total Score",
+              "Change in Number of Days of Cigarette Smoking in Past 28 Days"
+            ],
+            "sponsor": "University of Colorado, Denver",
+            "url": "https://clinicaltrials.gov/study/NCT00936299"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01270555",
+            "title": "Efficacy Of Bupropion SR For Attention Deficit Hyperactivity Disorder (ADHD) In Adults With Recent Past or Current Substance Use Disorders",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "1999-05",
+            "completion_date": "",
+            "country": "N/A",
+            "enrollment": 32,
+            "brief_summary": "The investigators propose to conduct an open study to evaluate the efficacy and tolerability of Bupropion SR using clinically relevant doses in ADHD adults with a recent history of or current substance use disorders. We hypothesize that Bupropion SR will be effective in treating ADHD in this population.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female outpatients 18 years old or older, up to 60 years old.\n* Patients with the diagnosis of Attention Deficit Hyperactivity Disorder (ADHD), by DSM-IV, as manifested in clinical evaluation and confirmed by structured interview.\n* Patients within the past 6 months k",
+            "endpoints": [
+              "Attention Deficit Hyperactivity Disorder Rating Scale (ADHD-RS) Score",
+              "Self-reported Weekly Substance Use"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01270555"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "30097390",
+            "title": "Comparative efficacy and tolerability of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis.",
+            "abstract": "The benefits and safety of medications for attention-deficit hyperactivity disorder (ADHD) remain controversial, and guidelines are inconsistent on which medications are preferred across different age groups. We aimed to estimate the comparative efficacy and tolerability of oral medications for ADHD in children, adolescents, and adults.",
+            "journal": "The lancet. Psychiatry",
+            "year": "2018",
+            "authors": [
+              "Cortese Samuele",
+              "Adamo Nicoletta",
+              "Del Giovane Cinzia",
+              "Mohr-Jensen Christina",
+              "Hayes Adrian J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenergic alpha-2 Receptor Agonists",
+              "Adult",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bupropion",
+              "Central Nervous System Stimulants",
+              "Child",
+              "Clonidine",
+              "Dose-Response Relationship, Drug",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30097390/"
+          },
+          {
+            "pmid": "26601963",
+            "title": "Psychopharmacology of Attention-Deficit Hyperactivity Disorder: Effects and Side Effects.",
+            "abstract": "Attention-deficit hyperactivity disorder (ADHD) is a common psychiatric disorder in children which manifests with hyperactivity, impulsivity, and/or inattention. Several drugs are used in treatment of ADHD. Stimulants, atomoxetine, anti-depressants, and bupropion are common medications used in the treatment of ADHD. Stimulants are widely used as the first line treatment in children with ADHD. Their mechanism of action is the release of dopamine and norepinephrine in central nervous system. Methylphenidate is the most common stimulant used for the treatment of ADHD. Methylphenidate significantly reduces ADHD symptoms in children both at home and school and improves their social skills. Methylphenidate is safe in healthy children and has shown to have no cardiac side effects in these patients. Other medications include: Atomoxetine, Amphetamines, Clonidine, Melatonin, and anti-depressants. Effects, side effects, and mechanism of action these drugs have been discussed in this paper.",
+            "journal": "Current pharmaceutical design",
+            "year": "2016",
+            "authors": [
+              "Golmirzaei Javad",
+              "Mahboobi Hamidreza",
+              "Yazdanparast Maryam",
+              "Mushtaq Gohar",
+              "Kamal Mohammad A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Attention Deficit Disorder with Hyperactivity",
+              "Humans",
+              "Methylphenidate",
+              "Psychopharmacology"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26601963/"
+          },
+          {
+            "pmid": "39172673",
+            "title": "Attention-Deficit/Hyperactivity Disorder in Adults.",
+            "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is a neurodevelopmental disorder involving functionally disruptive inattentive and/or hyperactive/impulsive behaviors, such as being easily distracted, regularly failing to follow through on tasks, being restless, or often interrupting others. ADHD diagnosed in childhood often persists into adulthood, with 14.6% of U.S. adults meeting the Diagnostic and Statistical Manual of Mental Disorders, 5th ed., criteria for ADHD. When evaluating for adult ADHD, other mental disorders should be included in the differential diagnosis due to the substantial overlap of symptoms and ADHD concurrence with anxiety/stress, mood, personality, impulse control, and substance use disorders. An ADHD diagnosis requires a comprehensive clinical history and evaluation, patient symptom and function assessment (e.g., Adult ADHD Self-Report Scale, Conners Adult ADHD Rating Scales), and gathering of collateral information. Clinical guidelines recommend a subset of amp",
+            "journal": "American family physician",
+            "year": "2024",
+            "authors": [
+              "Olagunju Amanda E",
+              "Ghoddusi Faraz"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Central Nervous System Stimulants",
+              "Diagnosis, Differential",
+              "Methylphenidate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39172673/"
+          },
+          {
+            "pmid": "24259638",
+            "title": "A review of the pathophysiology, etiology, and treatment of attention-deficit hyperactivity disorder (ADHD).",
+            "abstract": "To review the pathophysiology, etiology, and treatment of attention-deficit hyperactivity disorder (ADHD).",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2014",
+            "authors": [
+              "Sharma Alok",
+              "Couture Justin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amphetamines",
+              "Atomoxetine Hydrochloride",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Drug Interactions",
+              "Humans",
+              "Methylphenidate",
+              "Propylamines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24259638/"
+          },
+          {
+            "pmid": "33085721",
+            "title": "Pharmacologic treatment of attention deficit hyperactivity disorder in adults: A systematic review and network meta-analysis.",
+            "abstract": "Attention deficit hyperactivity disorder (ADHD) affects approximately 3% of adults globally. Many pharmacologic treatments options exist, yet the comparative benefits and harms of individual treatments are largely unknown. We performed a systematic review and network meta-analysis to assess the relative effects of individual pharmacologic treatments for adults with ADHD.",
+            "journal": "PloS one",
+            "year": "2020",
+            "authors": [
+              "Elliott Jesse",
+              "Johnston Amy",
+              "Husereau Don",
+              "Kelly Shannon E",
+              "Eagles Caroline"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Amphetamine",
+              "Atomoxetine Hydrochloride",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bayes Theorem",
+              "Bupropion",
+              "Central Nervous System Stimulants",
+              "Dextroamphetamine",
+              "Drug-Related Side Effects and Adverse Reactions",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33085721/"
+          },
+          {
+            "pmid": "33245274",
+            "title": "The Effects of Drugs used for the Treatment of Attention Deficit Hyperactivity Disorder (ADHD) on Pregnancy Outcome and Breast-feeding: A Critical Review.",
+            "abstract": "Attention deficit/hyperactivity disorder (ADHD) is a neurobehavioral condition found in 5-10% of school-age children and in 2-5% of adults. Stimulants affecting the dopaminergic, noradrenergic and/or serotonergic systems are commonly used for treatment in children and adults, including women of childbearing age. The data on the effects of stimulants (methylphenidate and amphetamines) in pregnancy are generally reassuring, but methylphenidate might slightly increase the rate of cardiac malformations and of spontaneous abortions, while amphetamines might slightly increase the risk for premature birth, low birth weight and other pregnancy complications. Bupropion, a dopamine and norepinephrine reuptake inhibitor, when used as an antidepressant, appears to be safe in pregnancy. The data on the use of atomoxetine, guanfacine and clonidine in pregnancy are scarce. Importantly, there are practically no data on the long-term neurodevelopmental effects of most of these drugs. The published data",
+            "journal": "Current neuropharmacology",
+            "year": "2021",
+            "authors": [
+              "Ornoy Asher",
+              "Koren Gideon"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Breast Feeding",
+              "Central Nervous System Stimulants",
+              "Child",
+              "Female",
+              "Humans",
+              "Methylphenidate",
+              "Pharmaceutical Preparations",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33245274/"
+          },
+          {
+            "pmid": "37405312",
+            "title": "Bupropion Mediated Effects on Depression, Attention Deficit Hyperactivity Disorder, and Smoking Cessation.",
+            "abstract": "Bupropion had been in use since the late 1980s as an unconventional treatment for depression. Unlike other antidepressants, bupropion has no serotonergic activity and inhibits the reuptake of norepinephrine and dopamine. The drug has been used to treat depression, Attention Deficit Hyperactivity Disorder (ADHD), and smoking cessation. This investigation reviews the pharmacokinetic and pharmacodynamic effects of bupropion and its mechanisms of action and interactions with other drugs. We evaluated the efficacy of major on and off-label uses of bupropion, focusing on the indications, benefits, and adverse effects. Our review demonstrates that bupropion is superior to placebo and non-inferior to SSRIs such as escitalopram in treating major depressive disorder. More research is needed to determine positive patient-centered outcomes such as increases in quality of life. In the case of ADHD, the evidence for efficacy is mixed with poorly conducted randomized clinical trials, small sample siz",
+            "journal": "Health psychology research",
+            "year": "2023",
+            "authors": [
+              "Clark Austin",
+              "Tate Brendan",
+              "Urban Bretton",
+              "Schroeder Ryan",
+              "Gennuso Sonja"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37405312/"
+          },
+          {
+            "pmid": "38915262",
+            "title": "Current nonstimulant medications for adults with attention-deficit/hyperactivity disorder.",
+            "abstract": "Stimulants, including methylphenidate and amphetamines, are the first-line pharmacological treatment of ADHD in adults. However, in patients who do not respond or poorly tolerate stimulants, non-stimulant medications are usually recommended.",
+            "journal": "Expert review of neurotherapeutics",
+            "year": "2024",
+            "authors": [
+              "Brancati Giulio Emilio",
+              "Magnesa Anna",
+              "Acierno Donatella",
+              "Carli Marco",
+              "De Rosa Ugo"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Adult",
+              "Atomoxetine Hydrochloride",
+              "Central Nervous System Stimulants",
+              "Adrenergic Uptake Inhibitors",
+              "Antidepressive Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38915262/"
+          },
+          {
+            "pmid": "32845025",
+            "title": "Practitioner Review: Pharmacological treatment of attention-deficit/hyperactivity disorder symptoms in children and youth with autism spectrum disorder: a systematic review and meta-analysis.",
+            "abstract": "Clinically significant attention-deficit/hyperactivity disorder (ADHD) symptoms are common and impairing in children and youth with autism spectrum disorder(ASD). The aim of this systematic review and meta-analysis was to (a) evaluate the efficacy and safety of pharmacotherapy for the treatment of ADHD symptoms in ASD and (b) distil findings for clinical translation.",
+            "journal": "Journal of child psychology and psychiatry, and allied disciplines",
+            "year": "2021",
+            "authors": [
+              "Rodrigues Rebecca",
+              "Lai Meng-Chuan",
+              "Beswick Adam",
+              "Gorman Daniel A",
+              "Anagnostou Evdokia"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Atomoxetine Hydrochloride",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Autism Spectrum Disorder",
+              "Central Nervous System Stimulants",
+              "Child",
+              "Guanfacine",
+              "Humans",
+              "Methylphenidate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32845025/"
+          },
+          {
+            "pmid": "40203844",
+            "title": "Comparative cardiovascular safety of medications for attention-deficit hyperactivity disorder in children, adolescents, and adults: a systematic review and network meta-analysis.",
+            "abstract": "Concerns about the cardiovascular safety of medications used for the treatment of attention-deficit hyperactivity disorder (ADHD) remain. We aimed to compare the effects of pharmacological treatments for ADHD on haemodynamic values and electrocardiogram (ECG) parameters in children, adolescents, and adults.",
+            "journal": "The lancet. Psychiatry",
+            "year": "2025",
+            "authors": [
+              "Farhat Luis C",
+              "Lannes Alice",
+              "Del Giovane Cinzia",
+              "Parlatini Valeria",
+              "Garcia-Argibay Miguel"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review",
+              "Comparative Study",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Adolescent",
+              "Child",
+              "Adult",
+              "Central Nervous System Stimulants",
+              "Blood Pressure",
+              "Atomoxetine Hydrochloride",
+              "Electrocardiography",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40203844/"
+          },
+          {
+            "pmid": "25092688",
+            "title": "Attention-Deficit/Hyperactivity Disorder.",
+            "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is a neurobiological condition of childhood onset with the hallmarks of inattention, impulsivity, and hyperactivity. Inattention includes excessive daydreaming, disorganization, and being easily distracted. Impulsivity manifests as taking an action before fully thinking of the consequences. Hyperactivity includes an excessive rate of speech and motor activity. Complications of ADHD include academic failure, low self-esteem, poor work performance, substance abuse, criminal justice issues, and social problems. ADHD is predominately due to decreased activity in the frontal lobe. Dopamine and norepinephrine are the main neurotransmitters involved in the pathophysiology of ADHD. Pharmacological treatment of ADHD includes psychostimulants, norepinephrine reuptake inhibitors, α2 agonists, bupropion, and monoamine oxidase inhibitors. The most effective medications are the psychostimulants. Nonpharmacological treatment of ADHD includes coaching, p",
+            "journal": "Journal of pharmacy practice",
+            "year": "2014",
+            "authors": [
+              "Bokor Gyula",
+              "Anderson Peter D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Attention Deficit Disorder with Hyperactivity",
+              "Central Nervous System Stimulants",
+              "Child",
+              "Dopamine",
+              "Frontal Lobe",
+              "Humans",
+              "Norepinephrine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25092688/"
+          },
+          {
+            "pmid": "39096466",
+            "title": "Pharmacological Treatment of Binge Eating Disorder and Frequent Comorbid Diseases.",
+            "abstract": "Binge eating disorder (BED) is the most common specific eating disorder (ED). It is frequently associated with attention deficit hyperactivity disorder (ADHD), depression, bipolar disorder (BD), anxiety disorders, alcohol and nicotine use disorder, and obesity. The aim of this narrative review was to summarize the evidence for the pharmacological treatment of BED and its comorbid disorders. We recommend the ADHD medication lisdexamfetamine (LDX) and the antiepileptic and antimigraine drug topiramate for the pharmacological treatment of BED. However, only LDX is approved for the treatment of BED in some countries. Medications to treat diseases frequently comorbid with BED include atomoxetine and LDX for ADHD; citalopram, fluoxetine, sertraline, duloxetine, and venlafaxine for anxiety disorders and depression; aripiprazole for manic episodes of BD; lamotrigine, lirasidone and lumateperone for depressive episodes of BD; naltrexone for alcohol use disorder; bupropion for nicotine use disor",
+            "journal": "CNS drugs",
+            "year": "2024",
+            "authors": [
+              "Himmerich Hubertus",
+              "Bentley Jessica",
+              "McElroy Susan L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Binge-Eating Disorder",
+              "Comorbidity",
+              "Obesity",
+              "Attention Deficit Disorder with Hyperactivity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39096466/"
+          },
+          {
+            "pmid": "38950507",
+            "title": "Efficacy and safety of monoamine reuptake inhibitors in attention deficit hyperactivity disorder: A Bayesian network meta-analysis.",
+            "abstract": "The use of first-line drugs in clinical practice for attention deficit hyperactivity disorder (ADHD) is limited by their adverse effects. Many novel monoamine reuptake inhibitors (MRIs) with better safety profiles and comparable efficacy are also being tried for ADHD. This network meta-analysis (NMA) has evaluated the efficacy and safety of MRIs in ADHD. The data was extracted from 31 relevant clinical trials after a literature search on MEDLINE/PubMed, Embase, Scopus, Cochrane databases, and clinical trial registries. Quality assessment was performed using the risk of bias assessment tool (RoB2) by Cochrane Collaboration, and the random-effects model was used to estimate the effect size. Standardised mean difference (SMD) and 95% credible interval(95%CrI) were reported for the reduction in ADHD rating scale score. Network geometry was visualised, and node splitting was done for the closed triangles. Meta-regression was done for the duration of therapy. PRISMA-NMA guidelines were follo",
+            "journal": "Journal of psychiatric research",
+            "year": "2024",
+            "authors": [
+              "Maji Shampa",
+              "Mishra Archana",
+              "Ramasubbu Mathan Kumar",
+              "Mohapatra Debadatta",
+              "Maiti Rituparna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bayes Theorem",
+              "Neurotransmitter Uptake Inhibitors",
+              "Outcome Assessment, Health Care"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38950507/"
+          },
+          {
+            "pmid": "28965364",
+            "title": "Bupropion for attention deficit hyperactivity disorder (ADHD) in adults.",
+            "abstract": "Attention deficit hyperactivity disorder (ADHD) is a prevalent neurobiological condition, characterised by behavioral and cognitive symptoms such as inattention, impulsivity and/or excessive activity. The syndrome is commonly accompanied by psychiatric comorbidities and is associated with educational and occupational underachievement.Although psychostimulant medications are the mainstay of treatment for ADHD, not all adults respond optimally to, or can tolerate, these medicines. Thus, alternative non-stimulant treatment approaches for ADHD have been explored. One of these alternatives is bupropion, an aminoketone antidepressant and non-competitive antagonism of nicotinic acetylcholine receptors. Bupropion is registered for the treatment of depression and smoking cessation, but is also used off-label to treat ADHD.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2017",
+            "authors": [
+              "Verbeeck Wim",
+              "Bekkering Geertruida E",
+              "Van den Noortgate Wim",
+              "Kramers Cornelis"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bupropion",
+              "Central Nervous System Stimulants",
+              "Delayed-Action Preparations",
+              "Female",
+              "Humans",
+              "Male",
+              "Off-Label Use",
+              "Patient Dropouts"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28965364/"
+          },
+          {
+            "pmid": "27813651",
+            "title": "A Systematic Review of the Use of Bupropion for Attention-Deficit/Hyperactivity Disorder in Children and Adolescents.",
+            "abstract": "Attention-deficit/hyperactivity disorder (ADHD) is one of the most prevalent neuropsychiatric disorders of childhood and adolescence. Stimulants are usually the first choice of drug; however, as many as 20% of patients do not respond to them. Stimulants may also worsen comorbid sleep, mood, and anxiety disorders, and they are associated with problems of misuse and diversion. Bupropion, a dopamine and norepinephrine reuptake inhibitor, is a promising nonstimulant alternative with reports of positive outcomes for ADHD management in both adolescent and adult populations. This study systematically reviews clinical trials on the subject.",
+            "journal": "Journal of child and adolescent psychopharmacology",
+            "year": "2017",
+            "authors": [
+              "Ng Qin Xiang"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bupropion",
+              "Child",
+              "Dopamine Uptake Inhibitors",
+              "Humans",
+              "Methylphenidate",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27813651/"
+          },
+          {
+            "pmid": "39773705",
+            "title": "Pharmacological treatment in autism: a proposal for guidelines on common co-occurring psychiatric symptoms.",
+            "abstract": "The prevalence of autism spectrum disorder (ASD) has surged, with an estimated 1 in 36 eight-year-olds in the United States meeting criteria for ASD in 2020. Autistic individuals face elevated rates of co-occurring medical, psychiatric, and behavioral conditions compared to non-autistic individuals. The rising ASD-patient demand is increasingly outpacing the capacity of ASD-specialty clinics, resulting in urgent need for autism-competent providers in general practice settings. This work aims to empower healthcare providers, especially primary care providers (PCPs), with guidelines for the recognition and safe pharmacologic management of common co-occurring psychiatric and behavioral conditions in ASD.",
+            "journal": "BMC medicine",
+            "year": "2025",
+            "authors": [
+              "Manter Mariah A",
+              "Birtwell Kirstin B",
+              "Bath James",
+              "Friedman Nora D B",
+              "Keary Christopher J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Autism Spectrum Disorder",
+              "Practice Guidelines as Topic",
+              "Sleep Wake Disorders",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Depression",
+              "Comorbidity",
+              "Anxiety"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39773705/"
+          },
+          {
+            "pmid": "27738872",
+            "title": "An Evaluation on the Efficacy and Safety of Treatments for Attention Deficit Hyperactivity Disorder in Children and Adolescents: a Comparison of Multiple Treatments.",
+            "abstract": "Attention deficit hyperactivity disorder (ADHD) is one of the most common neurobehavioral disorders. We carried out this comparison of multiple treatments based on sufficient data in attempt to evaluate the efficacy and safety of ADHD medication for children and adolescents. PubMed, Embase and the Cochrane Database were used to search for relevant articles. Changes in the ADHD Rating Scale (ADHD-RS) scores and the Conners' Parent Rating Scale-Revised (CPRS) scores were used as outcomes for efficacy. Withdrawals due to all-cause, adverse effects and lack of efficacy were defined as primary outcomes evaluating the safety of such medications. Both pair-wise and network meta-analyses were performed. Efficacy and safety of atomoxetine (ATX), bupropion (BUP), clonidine hydrochloride (CLON), guanfacine extended release (GXR), lisdexamfetamine dimesylate (LDX), and methylphenidate (MPH) were evaluated. LDX has the highest efficacy and a relatively lower rate of adverse effects compared to BUP,",
+            "journal": "Molecular neurobiology",
+            "year": "2017",
+            "authors": [
+              "Li Ying",
+              "Gao Jie",
+              "He Shu",
+              "Zhang Yan",
+              "Wang Qiwei"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Atomoxetine Hydrochloride",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Child",
+              "Clonidine",
+              "Dextroamphetamine",
+              "Drug-Related Side Effects and Adverse Reactions",
+              "Female",
+              "Humans",
+              "Lisdexamfetamine Dimesylate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27738872/"
+          },
+          {
+            "pmid": "26693882",
+            "title": "Alternative pharmacological strategies for adult ADHD treatment: a systematic review.",
+            "abstract": "Adult Attention Deficit Hyperactivity Disorder (ADHD) is a prevalent psychiatric condition associated with high disability and frequent comorbidity. Current standard pharmacotherapy (methylphenidate and atomoxetine) improves ADHD symptoms in the short-term, but poor data were published about long-term treatment. In addition a number of patients present partial or no response to methylphenidate and atomoxetine. Research into the main database sources has been conducted to obtain an overview of alternative pharmacological approaches in adult ADHD patients. Among alternative compounds, amphetamines (mixed amphetamine salts and lisdexamfetamine) have the most robust evidence of efficacy, but they may be associated with serious side effects (e.g. psychotic symptoms or hypertension). Antidepressants, particularly those acting as noradrenaline or dopamine enhancers, have evidence of efficacy, but they should be avoided in patients with comorbid bipolar disorder. Finally metadoxine and lithium",
+            "journal": "Expert review of neurotherapeutics",
+            "year": "2016",
+            "authors": [
+              "Buoli Massimiliano",
+              "Serati Marta",
+              "Cahn Wiepke"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-Agonists",
+              "Adult",
+              "Amphetamines",
+              "Antidepressive Agents",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Benzhydryl Compounds",
+              "Bridged Bicyclo Compounds, Heterocyclic",
+              "Bupropion",
+              "Central Nervous System Stimulants",
+              "Desipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26693882/"
+          },
+          {
+            "pmid": "38433530",
+            "title": "Efficacy and safety of established and off-label ADHD drug therapies for cognitive impairment or attention-deficit hyperactivity disorder symptoms in bipolar disorder: A systematic review by the ISBD Targeting Cognition Task Force.",
+            "abstract": "Abnormalities in dopamine and norepinephrine signaling are implicated in cognitive impairments in bipolar disorder (BD) and attention-deficit hyperactivity disorder (ADHD). This systematic review by the ISBD Targeting Cognition Task Force therefore aimed to investigate the possible benefits on cognition and/or ADHD symptoms and safety of established and off-label ADHD therapies in BD.",
+            "journal": "Bipolar disorders",
+            "year": "2024",
+            "authors": [
+              "Miskowiak Kamilla W",
+              "Obel Zacharias K",
+              "Guglielmo Riccardo",
+              "Bonnin Caterina Del Mar",
+              "Bowie Christopher R"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bipolar Disorder",
+              "Cognitive Dysfunction",
+              "Central Nervous System Stimulants",
+              "Off-Label Use",
+              "Methylphenidate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38433530/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "attention deficit-hyperactivity disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20attention%20deficit-hyperactivity%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "attention deficit hyperactivity disorder, inattentive type",
+        "txgnn_score": 0.9998527765274048,
+        "txgnn_rank": 61,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9715472",
+            "title": "[Hyperkinetic syndrome (attention deficit-/hyperactivity disorder) in adulthood].",
+            "abstract": "The clinical picture of adult hyperkinetic syndrome (HKS) or attention deficit/hyperactivity disorder is nearly unknown in Germany. It can be estimated, that approximately one third of affected children also show symptoms as adults. In the combined type of the syndrome symptoms of inattention as well as of hyperactivity and impulsivity are present, a predominantly inattentive or hyperactive-impulsive type is possible. Retrospective diagnosis of HKS in childhood can be difficult. Disorganization, emotional disturbances and stress intolerance are common in adults with HKS as well as residual symptoms of learning disorders like dyslexia, dyscalculia and dysgraphia. In differential diagnosis especially affective, anxiety and antisocial personality disorders have to be considered, for which on the other side a frequent comorbidity with HKS is known. There is strong evidence for genetic transmission. Neurobiological findings revealed dysregulation of neurotransmitters. For treatment stimulan",
+            "journal": "Der Nervenarzt",
+            "year": "1998",
+            "authors": [
+              "Krause K H",
+              "Krause J",
+              "Trott G E"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Child",
+              "Follow-Up Studies",
+              "Humans",
+              "Personality Development",
+              "Psychotropic Drugs",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9715472/"
+          },
+          {
+            "pmid": "20051220",
+            "title": "A comparison of the efficacy of medications for adult attention-deficit/hyperactivity disorder using meta-analysis of effect sizes.",
+            "abstract": "Medications used to treat attention-deficit/hyperactivity disorder (ADHD) in adults have been well researched, but comparisons among drugs are hindered by the absence of direct comparative trials. Our objectives were to (1) estimate the effect size of the medications used to treat adult ADHD, (2) determine if differences in the designs of studies confound comparisons of medication efficacy, (3) quantify the evidence for differences in effect sizes among medications, and (4) see if features of study design influence estimates of efficacy.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2010",
+            "authors": [
+              "Faraone Stephen V",
+              "Glatt Stephen J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenergic Uptake Inhibitors",
+              "Adult",
+              "Age Factors",
+              "Atomoxetine Hydrochloride",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bupropion",
+              "Central Nervous System Stimulants",
+              "Diagnostic and Statistical Manual of Mental Disorders",
+              "Drug Administration Schedule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20051220/"
+          },
+          {
+            "pmid": "19023824",
+            "title": "Smoking cessation and inattention or hyperactivity/impulsivity: a post hoc analysis.",
+            "abstract": "Tobacco use is more prevalent and smoking cessation less likely among persons with attention deficit hyperactivity disorder (ADHD) than the general population. Evidence that tobacco use and nicotine hold divergent relationships with inattention and hyperactivity/impulsivity, the core symptoms of ADHD, prompted this post hoc investigation of abstinence patterns by type of ADHD symptoms. Subjects were 583 adult smokers treated openly with bupropion and nicotine patch during the initial 8-week phase of a maintenance treatment study. Using the ADHD Current Symptom Scale, clinically significant ADHD symptom subtypes, i.e., predominantly inattention (ADHD-inattention) and predominantly hyperactivity/impulsivity with or without inattention (ADHD-hyperactivity/impulsivity with or without inattention), were identified. The study outcome was abstinence status, verified by expired carbon monoxide </=8 parts per million, at five clinic visits from Week 1 through the end of treatment at Week 8. The",
+            "journal": "Nicotine & tobacco research : official journal of the Society for Research on Nicotine and Tobacco",
+            "year": "2008",
+            "authors": [
+              "Covey Lirio S",
+              "Manubay Jeanne",
+              "Jiang Huiping",
+              "Nortick Mariel",
+              "Palumbo Domenica"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Bupropion",
+              "Comorbidity",
+              "Compulsive Behavior",
+              "Dopamine Uptake Inhibitors",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19023824/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "attention deficit hyperactivity disorder, inattentive type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20attention%20deficit%20hyperactivity%20disorder%2C%20inattentive%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "faciodigitogenital syndrome",
+        "txgnn_score": 0.9998196959495544,
+        "txgnn_rank": 79,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "faciodigitogenital syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20faciodigitogenital%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "specific developmental disorder",
+        "txgnn_score": 0.9996545314788818,
+        "txgnn_rank": 128,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04815278",
+            "title": "NC Works4Health: Reducing Chronic Disease Risks in Socioeconomically Disadvantaged, Unemployed Populations",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2021-09-17",
+            "completion_date": "2025-11-30",
+            "country": "United States",
+            "enrollment": 455,
+            "brief_summary": "The proposed study, NC Works4Health (NCW4H), builds on the strengths of long-standing academic-community research partnerships between this UNC at Chapel Hill (UNC) team of investigators and key stakeholders across health, social service, employment, and economic development sectors. The overall goal of this study is to test the effectiveness of a multilevel intervention that can be readily adopted by communities to reduce chronic disease risks in socioeconomically disadvantaged populations by (",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* receiving DSS-E services\n* between the age of 18 and 64 years old\n* unemployed\n* fluent and able to read English\n\nExclusion Criteria:\n\n* receiving or applied for disability benefits\n* pregnant\n* Any of the following chronic conditions: severe high blood pressure (with a readin",
+            "endpoints": [
+              "Mean Psychological Distress Scores at Baseline",
+              "Mean Psychological Distress Scores at Month 3",
+              "Mean Psychological Distress Scores at Month 6"
+            ],
+            "sponsor": "University of North Carolina, Chapel Hill",
+            "url": "https://clinicaltrials.gov/study/NCT04815278"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01077596",
+            "title": "Post-marketing Carcinogenicity Study of Bupropion",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2008-06",
+            "completion_date": "2010-03",
+            "country": "N/A",
+            "enrollment": 50430,
+            "brief_summary": "There is a lack of toxicology data on one bupropion metabolite, and limited literature examining bupropion use and cancer risk. This study evaluates the association between bupropion exposure and the development of cancer of the prostate, breast, lung, colon/rectum, urinary bladder, and uterus by comparing the risk of cancer in bupropion users with other antidepressant users. Because there is no evidence that bupropion is associated with any particular cancer, we have chosen the six most common ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n\\-\n\nExclusion Criteria:\n\n* Cancers diagnosed within 12 months of initiation (i.e., new use) of antidepressant pharmacotherapy will be excluded to account for a minimum period for the development of cancer (cancer latency) and to be consistent with other studies of antidepressant",
+            "endpoints": [
+              "Number of Participants Diagnosed With Any of the Cancers Under Investigation Who Were Regularly Exposed to the Indicated Antidepressant"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT01077596"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "32777011",
+            "title": "Maternal Use of Specific Antidepressant Medications During Early Pregnancy and the Risk of Selected Birth Defects.",
+            "abstract": "Antidepressants are commonly used during pregnancy, but limited information is available about individual antidepressants and specific birth defect risks.",
+            "journal": "JAMA psychiatry",
+            "year": "2020",
+            "authors": [
+              "Anderson Kayla N",
+              "Lind Jennifer N",
+              "Simeone Regina M",
+              "Bobo William V",
+              "Mitchell Allen A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Adolescent",
+              "Adult",
+              "Bupropion",
+              "Case-Control Studies",
+              "Child",
+              "Female",
+              "Humans",
+              "Middle Aged",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32777011/"
+          },
+          {
+            "pmid": "31425490",
+            "title": "Synthetic Cathinones and Their Potential Interactions with Prescription Drugs.",
+            "abstract": "Substance use disorder often coexists with other psychiatric disorders, resulting in the simultaneous use of recreational and prescription drugs. The authors aimed to identify potential pharmacokinetic and pharmacodynamic interactions between new psychoactive substances of the cathinone class and specific prescription drugs.",
+            "journal": "Therapeutic drug monitoring",
+            "year": "2020",
+            "authors": [
+              "Contrucci Ramon R",
+              "Brunt Tibor M",
+              "Inan Funda",
+              "Franssen Eric J F",
+              "Hondebrink Laura"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Alkaloids",
+              "Anti-HIV Agents",
+              "Central Nervous System Stimulants",
+              "Cytochrome P-450 Enzyme System",
+              "Drug Interactions",
+              "Half-Life",
+              "Humans",
+              "Models, Biological",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31425490/"
+          },
+          {
+            "pmid": "37381161",
+            "title": "Clinical specificity profile for novel rapid acting antidepressant drugs.",
+            "abstract": "Mood disorders are recurrent/chronic diseases with variable clinical remission rates. Available antidepressants are not effective in all patients and often show a relevant response latency, with a range of adverse events, including weight gain and sexual dysfunction. Novel rapid agents were developed with the aim of overcoming at least in part these issues. Novel drugs target glutamate, gamma-aminobutyric acid, orexin, and other receptors, providing a broader range of pharmacodynamic mechanisms, that is, expected to increase the possibility of personalizing treatments on the individual clinical profile. These new drugs were developed with the aim of combining a rapid action, a tolerable profile, and higher effectiveness on specific symptoms, which were relatively poorly targeted by standard antidepressants, such as anhedonia and response to reward, suicidal ideation/behaviours, insomnia, cognitive deficits, and irritability. This review discusses the clinical specificity profile of new",
+            "journal": "International clinical psychopharmacology",
+            "year": "2023",
+            "authors": [
+              "Scala Mauro",
+              "Fanelli Giuseppe",
+              "De Ronchi Diana",
+              "Serretti Alessandro",
+              "Fabbri Chiara"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Major Depressive Disorder",
+              "Antidepressive Agents",
+              "Bupropion",
+              "Sleep Initiation and Maintenance Disorders",
+              "Comorbidity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37381161/"
+          },
+          {
+            "pmid": "32022784",
+            "title": "Novel Phenethylamines and Their Potential Interactions With Prescription Drugs: A Systematic Critical Review.",
+            "abstract": "The novel phenethylamines 4-fluoroamphetamine (4-FA) and 2,5-dimethoxy-4-bromophenethylamine (2C-B) fall in the top 10 most used new psychoactive substances (NPSs) among high-risk substance users. Various phenethylamines and NPS are also highly used in populations with mental disorders, depression, or attention deficit hyperactivity disorder (ADHD). Moreover, NPS use is highly prevalent among men and women with risky sexual behavior. Considering these specific populations and their frequent concurrent use of drugs, such as antidepressants, ADHD medication, and antiretrovirals, reports on potential interactions between these drugs, and phenethylamines 4-FA and 2C-B, were reviewed.",
+            "journal": "Therapeutic drug monitoring",
+            "year": "2020",
+            "authors": [
+              "Inan Funda",
+              "Brunt Tibor M",
+              "Contrucci Ramon R",
+              "Hondebrink Laura",
+              "Franssen Eric J F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Amphetamines",
+              "Antidepressive Agents",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Central Nervous System Stimulants",
+              "Depressive Disorder",
+              "Dimethoxyphenylethylamine",
+              "Drug Interactions",
+              "Humans",
+              "Phenethylamines",
+              "Prescription Drugs"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32022784/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "specific developmental disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20specific%20developmental%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "chondromyxoid fibroma",
+        "txgnn_score": 0.9996065497398376,
+        "txgnn_rank": 138,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "chondromyxoid fibroma",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20chondromyxoid%20fibroma"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "proximal 16p11.2 microdeletion syndrome",
+        "txgnn_score": 0.9975402355194092,
+        "txgnn_rank": 705,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "proximal 16p11.2 microdeletion syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20proximal%2016p11.2%20microdeletion%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hypervitaminosis",
+        "txgnn_score": 0.9969191551208496,
+        "txgnn_rank": 837,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "hypervitaminosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20hypervitaminosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "benign paroxysmal torticollis of infancy",
+        "txgnn_score": 0.9951937794685364,
+        "txgnn_rank": 1167,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "benign paroxysmal torticollis of infancy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20benign%20paroxysmal%20torticollis%20of%20infancy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "trigeminal nerve neoplasm",
+        "txgnn_score": 0.993230938911438,
+        "txgnn_rank": 1482,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "trigeminal nerve neoplasm",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20trigeminal%20nerve%20neoplasm"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "obsolete hypertelorism (disease)",
+        "txgnn_score": 0.9929713606834412,
+        "txgnn_rank": 1535,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupropion",
+          "disease": "obsolete hypertelorism (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupropion%20obsolete%20hypertelorism%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Bupropion",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01156",
+    "name": "Bupropion",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Bupropion"
+      },
+      "queried_at": "2026-03-10T12:55:41.557148",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Bupropion"
+      },
+      "queried_at": "2026-03-10T12:55:41.584775",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Bupropion"
+      },
+      "queried_at": "2026-03-10T12:56:01.596799",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-10T12:56:03.881284",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-10T12:56:09.944539",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-10T12:56:12.869617",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-10T12:56:17.995116",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-10T12:56:18.841894",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-10T12:56:22.644366",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-10T12:56:24.589090",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-10T12:56:28.431453",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-10T12:56:29.213261",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-10T12:56:33.016215",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-10T12:56:34.717208",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-10T12:56:35.842023",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-10T12:56:38.037029",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-10T12:56:43.124399",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-10T12:56:44.147554",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-10T12:56:48.349028",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-10T12:56:51.020724",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-10T12:56:55.381861",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-10T12:56:56.479323",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-10T12:56:59.345541",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "proximal 16p11.2 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:57:00.069938",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "proximal 16p11.2 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:57:06.172376",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "proximal 16p11.2 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:57:08.473155",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "proximal 16p11.2 microdeletion syndrome"
+      },
+      "queried_at": "2026-03-10T12:57:09.627490",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "hypervitaminosis"
+      },
+      "queried_at": "2026-03-10T12:57:12.131205",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "hypervitaminosis"
+      },
+      "queried_at": "2026-03-10T12:57:17.174173",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "hypervitaminosis"
+      },
+      "queried_at": "2026-03-10T12:57:19.055904",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "hypervitaminosis"
+      },
+      "queried_at": "2026-03-10T12:57:20.574414",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:57:21.576833",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:57:25.293932",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:57:26.388620",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T12:57:27.493490",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T12:57:28.535751",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T12:57:33.042776",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T12:57:34.222553",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T12:57:35.102086",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "obsolete hypertelorism (disease)"
+      },
+      "queried_at": "2026-03-10T12:57:36.071306",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "obsolete hypertelorism (disease)"
+      },
+      "queried_at": "2026-03-10T12:57:40.774250",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "obsolete hypertelorism (disease)"
+      },
+      "queried_at": "2026-03-10T12:57:42.046347",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupropion",
+        "disease": "obsolete hypertelorism (disease)"
+      },
+      "queried_at": "2026-03-10T12:57:44.433687",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:57:44.449467"
+  }
+}

@@ -1,0 +1,613 @@
+{
+  "drug": {
+    "inn": "Olanzapine",
+    "drugbank_id": "DB00334",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "benign paroxysmal torticollis of infancy",
+        "txgnn_score": 0.9953985810279846,
+        "txgnn_rank": 1142,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Olanzapine",
+          "disease": "benign paroxysmal torticollis of infancy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Olanzapine%20benign%20paroxysmal%20torticollis%20of%20infancy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "agoraphobia",
+        "txgnn_score": 0.9947475790977478,
+        "txgnn_rank": 1246,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "26635099",
+            "title": "Treatment-resistant panic disorder: a systematic review.",
+            "abstract": "The prevalence of panic disorder (PD) in the population is high and these patients have work impairment, high unemployment rates, seek medical treatment more frequently and have more hospitalizations than people without panic symptoms. Despite the availability of pharmacological, psychological and combined treatments, approximately one-third of all PD patients have persistent panic attacks and other PD symptoms after treatment.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2016",
+            "authors": [
+              "Freire Rafael C",
+              "Zugliani Morena M",
+              "Garcia Rafael F",
+              "Nardi Antonio E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Antipsychotic Agents",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Humans",
+              "Panic Disorder",
+              "Prospective Studies",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26635099/"
+          },
+          {
+            "pmid": "40946318",
+            "title": "Integrative Systematic Review on Pharmacological, Psychotherapeutic, and Neurostimulatory Treatment Options in Treatment-Resistant Anxiety Disorders.",
+            "abstract": "Treatment resistance in anxiety disorders (TR-ADs) constitutes a major clinical challenge conferring a considerable burden regarding quality of life and societal health costs.",
+            "journal": "Psychotherapy and psychosomatics",
+            "year": "2025",
+            "authors": [
+              "Schiele Miriam A",
+              "Fagan Harry A",
+              "Baldwin David S",
+              "Domschke Katharina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40946318/"
+          },
+          {
+            "pmid": "10739446",
+            "title": "Olanzapine and panic attacks.",
+            "abstract": "",
+            "journal": "The American journal of psychiatry",
+            "year": "2000",
+            "authors": [
+              "Etxebeste M",
+              "Aragüés E",
+              "Malo P",
+              "Pacheco L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Antipsychotic Agents",
+              "Benzodiazepines",
+              "Comorbidity",
+              "Female",
+              "Humans",
+              "Male",
+              "Olanzapine",
+              "Panic Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10739446/"
+          },
+          {
+            "pmid": "16415705",
+            "title": "Olanzapine augmentation in treatment-resistant panic disorder: a 12-week, fixed-dose, open-label trial.",
+            "abstract": "The purpose of our study was to evaluate the efficacy and tolerability of low-dose olanzapine augmentation in selective serotonin reuptake inhibitor (SSRI)-resistant panic disorder (PD) with or without agoraphobia. In this 12-week, open-label study, 31 adult outpatients with treatment-resistant PD who had previously failed to respond to SSRI treatment were treated with fixed dose of olanzapine (5 mg/d) in addition to SSRI. Efficacy was assessed using the Panic Attack and Anticipatory Anxiety Scale (PAAAS), the Agoraphobic Cognitions Questionnaire (ACQ), the Hamilton Rating Scale for Anxiety (HAM-A), the Hamilton Rating Scale for Depression (HAM-D), the Global Assessment of Functioning Scale (GAF), and the Clinical Global Impression of Improvement (CGI-I). Twenty-six patients completed the trial period with a dropout rate of 16.1%. At week 12, 21 patients were responders (81.8%), and an overall improvement on all rating scales was observed in all patients both with or without agoraphobi",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2006",
+            "authors": [
+              "Sepede Gianna",
+              "De Berardis Domenico",
+              "Gambi Francesco",
+              "Campanella Daniela",
+              "La Rovere Raffaella"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Antipsychotic Agents",
+              "Benzodiazepines",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Male",
+              "Olanzapine",
+              "Panic Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16415705/"
+          },
+          {
+            "pmid": "25012437",
+            "title": "Impact of comorbid anxiety disorders and obsessive-compulsive disorder on 24-month clinical outcomes of bipolar I disorder.",
+            "abstract": "This study investigated the impact of comorbid obsessive-compulsive disorder (OCD) and four anxiety disorders [panic disorder (PD), agoraphobia, social anxiety disorder (SAD), and generalized anxiety disorder (GAD)] on the clinical outcomes of bipolar disorder.",
+            "journal": "Journal of affective disorders",
+            "year": "2014",
+            "authors": [
+              "Kim Sung-Wan",
+              "Berk Lesley",
+              "Kulkarni Jayashri",
+              "Dodd Seetal",
+              "de Castella Anthony"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antipsychotic Agents",
+              "Anxiety Disorders",
+              "Bipolar Disorder",
+              "Comorbidity",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Obsessive-Compulsive Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25012437/"
+          },
+          {
+            "pmid": "15470803",
+            "title": "Olanzapine augmentation in panic disorder: a case report.",
+            "abstract": "Chronic and treatment refractory cases of panic disorder are not uncommon. We report on a man completely remitted from panic disorder after olanzapine and paroxetine combined treatment, and the possible modulating anti-anxiety effect of olanzapine is discussed. Olanzapine augmentation in panic and other anxiety disorders is deserving of more clinical attention.",
+            "journal": "Pharmacopsychiatry",
+            "year": "2004",
+            "authors": [
+              "Chao I L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Benzodiazepines",
+              "Drug Synergism",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Olanzapine",
+              "Panic Disorder",
+              "Paroxetine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15470803/"
+          },
+          {
+            "pmid": "17099612",
+            "title": "\"My new Alfa Romeo GT is not in the garage any more\": Cognitive behavioural therapy of panic disorder with agoraphobia co morbid with psychosis.",
+            "abstract": "This paper describes a case of co-morbid panic disorder and psychosis with a focus on the successful treatment of the panic disorder via a CBT approach. The patient has had only one episode of psychosis. The cognitive model of panic disorder is used as a template to consider this young man's psychotic experiences, in the context of some types of delusional beliefs, especially those involving the catastrophic and atypical misinterpretation of the physiological sensations associated with anxiety. This case emphasises the therapeutic value for certain patients of focussing therapy on the non-psychotic symptoms once the acute psychotic state has been managed.",
+            "journal": "Psychiatria Danubina",
+            "year": "2006",
+            "authors": [
+              "Gruber Ema N",
+              "Dordević Veljko",
+              "Biocina-Martić Sanja",
+              "Agius Mark"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Antipsychotic Agents",
+              "Atenolol",
+              "Benzodiazepines",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Diazepam",
+              "Hospitalization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17099612/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Olanzapine",
+          "disease": "agoraphobia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Olanzapine%20agoraphobia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "dysthymic disorder",
+        "txgnn_score": 0.9927613735198976,
+        "txgnn_rank": 1587,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "10578457",
+            "title": "Olanzapine safety and efficacy in patients with borderline personality disorder and comorbid dysthymia.",
+            "abstract": "Numerous medications have been tested in patients with borderline personality disorder (BPD) and/or schizotypal personality disorder (SPD). Although many of the medications tested have been demonstrated to be useful, no clear main treatment for BPD has emerged. Despite the efficacy of some of the medicines, acceptability and side effects have proven to be barriers to the use of medication. Therefore, an open-label olanzapine trial utilizing objective ratings was performed.",
+            "journal": "Biological psychiatry",
+            "year": "1999",
+            "authors": [
+              "Schulz S C",
+              "Camlin K L",
+              "Berry S A",
+              "Jesberger J A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antipsychotic Agents",
+              "Benzodiazepines",
+              "Borderline Personality Disorder",
+              "Brief Psychiatric Rating Scale",
+              "Consumer Product Safety",
+              "Dose-Response Relationship, Drug",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10578457/"
+          },
+          {
+            "pmid": "21154393",
+            "title": "Second-generation antipsychotics for major depressive disorder and dysthymia.",
+            "abstract": "Major depressive disorder (MDD) is a common condition with a lifetime prevalence of 15% to 18%, which leads to considerable suffering and disability. Some antipsychotics have been reported to induce remission in major depression, when added to an antidepressant.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2010",
+            "authors": [
+              "Komossa Katja",
+              "Depping Anna M",
+              "Gaudchau Andrea",
+              "Kissling Werner",
+              "Leucht Stefan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Amisulpride",
+              "Antidepressive Agents",
+              "Antipsychotic Agents",
+              "Aripiprazole",
+              "Benzodiazepines",
+              "Major Depressive Disorder",
+              "Dibenzothiazepines",
+              "Dysthymic Disorder",
+              "Humans",
+              "Olanzapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21154393/"
+          },
+          {
+            "pmid": "22938165",
+            "title": "Evidence-based options for treatment-resistant adult bipolar disorder patients.",
+            "abstract": "Many patients diagnosed with bipolar disorder (BD) respond incompletely or unsatisfactorily to available treatments. Given the potentially devastating nature of this prevalent disorder, there is a pressing need to improve clinical care of such patients.",
+            "journal": "Bipolar disorders",
+            "year": "2012",
+            "authors": [
+              "Poon Shi Hui",
+              "Sim Kang",
+              "Sum Min Yi",
+              "Kuswanto Carissa Nadia",
+              "Baldessarini Ross J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticonvulsants",
+              "Antipsychotic Agents",
+              "Behavior Therapy",
+              "Bipolar Disorder",
+              "Calcium Channel Blockers",
+              "Combined Modality Therapy",
+              "Deep Brain Stimulation",
+              "Depressive Disorder, Treatment-Resistant",
+              "Dopamine Agonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22938165/"
+          },
+          {
+            "pmid": "11920152",
+            "title": "The substituted benzamides and their clinical potential on dysthymia and on the negative symptoms of schizophrenia.",
+            "abstract": "In this paper the historical and scientific background that led to the use of substituted benzamides in two apparently unrelated clinical conditions namely dysthymic disorder and schizophrenia will be reviewed, in order to understand if a common mechanism of action may support this dual therapeutic indication. The dopaminergic antidepressant action of substituted benzamides such as sulpiride, has been proposed, since the late 1970s, by several authors and extensively explored in preclinical experiments by our group. In Italy the first marketing authorization obtained for the new substituted benzamide amisulpride, was with the sole indication of dysthymia and therefore a solid clinical experience exists in the use of substituted benzamides in mild forms of depression, with more than 1 000 000 patients being treated in the last 7 years. The proposed mechanism of action of substituted benzamides implies a selective modulation of the dopaminergic system in the mesocorticolimbic area, impor",
+            "journal": "Molecular psychiatry",
+            "year": "2002",
+            "authors": [
+              "Pani L",
+              "Gessa G L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amisulpride",
+              "Antidepressive Agents",
+              "Benzamides",
+              "Dysthymic Disorder",
+              "Humans",
+              "Receptors, Dopamine D1",
+              "Schizophrenia",
+              "Structure-Activity Relationship",
+              "Sulpiride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11920152/"
+          },
+          {
+            "pmid": "34727399",
+            "title": "Efficacy of amisulpride for depressive symptoms in individuals with mental disorders: A systematic review and meta-analysis.",
+            "abstract": "Depressive symptoms occur in several psychiatric disorders, often in the absence of a formal diagnosis of depression. We aimed to evaluate the efficacy and the tolerability of amisulpride, both alone and as augmentation therapy, in the treatment of depressive symptoms in individuals with any major psychiatric disorder.",
+            "journal": "Human psychopharmacology",
+            "year": "2021",
+            "authors": [
+              "Zangani Caroline",
+              "Giordano Barbara",
+              "Stein Hans-Christian",
+              "Bonora Stefano",
+              "D'Agostino Armando"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Amisulpride",
+              "Antipsychotic Agents",
+              "Depression",
+              "Major Depressive Disorder",
+              "Dysthymic Disorder",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34727399/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Olanzapine",
+          "disease": "dysthymic disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Olanzapine%20dysthymic%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Olanzapine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00334",
+    "name": "Olanzapine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Olanzapine"
+      },
+      "queried_at": "2026-03-10T13:53:56.749791",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Olanzapine"
+      },
+      "queried_at": "2026-03-10T13:53:56.808470",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Olanzapine"
+      },
+      "queried_at": "2026-03-10T13:54:27.366233",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T13:54:28.423693",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T13:54:34.604869",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T13:54:35.878222",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-10T13:54:39.193109",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T13:54:43.211092",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T13:54:50.697736",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T13:54:52.993172",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-10T13:54:58.796646",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-10T13:54:59.373477",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-10T13:55:06.539257",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-10T13:55:08.132061",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Olanzapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-10T13:55:11.036223",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 3,
+    "created_at": "2026-03-10T13:55:11.042884"
+  }
+}

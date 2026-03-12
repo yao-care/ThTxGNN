@@ -1,0 +1,2303 @@
+{
+  "drug": {
+    "inn": "Lorazepam",
+    "drugbank_id": "DB00186",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "trigeminal nerve neoplasm",
+        "txgnn_score": 0.9987058639526368,
+        "txgnn_rank": 409,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "trigeminal nerve neoplasm",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20trigeminal%20nerve%20neoplasm"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "insomnia (disease)",
+        "txgnn_score": 0.9979705214500428,
+        "txgnn_rank": 591,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07148843",
+            "title": "Cannabidiol as an Adjunct Treatment for Alcohol Withdrawal and Craving",
+            "phase": "PHASE2, PHASE3",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-04-01",
+            "completion_date": "2030-10-31",
+            "country": "United States",
+            "enrollment": 105,
+            "brief_summary": "Cannabidiol (CBD), one of the most prevalent cannabinoids in cannabis (marijuana) has been shown to reduce alcohol withdrawal symptoms in laboratory animals. In people without alcohol use disorder (AUD), CBD has been show to be effective in reducing anxiety, sleep problems, and seizures; all of these are common symptoms of alcohol withdrawal. This randomized placebo-controlled clinical trial will evaluate the potential of CBD to improve alcohol withdrawal symptoms and reduce craving during acute",
+            "eligibility_criteria": "Inclusion Criteria\n\n* Meets DSM-5 criteria Moderate or Severe Alcohol Use Disorder\n* Age 21-65\n* Report at least one prior episode of alcohol withdrawal symptoms at least one day in duration that caused significant impairment in functioning (i.e., unable to attend work or engage in typical activitie",
+            "endpoints": [
+              "Peak score on the Alcohol Withdrawal Symptom Checklist (AWSC)",
+              "Peak score on the Clinical Institute Withdrawal Assessment for Alcohol, revised (CIWA-Ar)",
+              "Average total sleep time (minutes) and wake after sleep onset as measured by wrist actigraphy"
+            ],
+            "sponsor": "Johns Hopkins University",
+            "url": "https://clinicaltrials.gov/study/NCT07148843"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01893632",
+            "title": "Gabapentin Treatment of Benzodiazepine Dependence",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2013-07",
+            "completion_date": "2016-04-01",
+            "country": "United States",
+            "enrollment": 2,
+            "brief_summary": "Benzodiazepine dependence is a growing public health problem for which very few evidenced-based treatment approaches are available. Approximately 683,000 individuals met past year criteria for sedative-hypnotic use disorders in the US during 2010, a prevalence greater than heroin or methamphetamine dependence. The most commonly prescribed sedative-hypnotic agents are the benzodiazepines. Chronic use induces pharmacodynamic tolerance in the GABA neurotransmitter system and individuals with physio",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Meets DSM-IV-TR criteria for BZD dependence\n2. Using BZDs a minimum of 5 days per week over the past 28 days\n3. Between the ages of 18 and 60\n4. Able to provide informed consent\n\nExclusion Criteria:\n\n1. Any current DSM-IV-TR Axis I psychiatric disorder, other than BZD depende",
+            "endpoints": [
+              "Abstinence From Benzodiazepine Use"
+            ],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT01893632"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02135198",
+            "title": "A Phase I Single Site, Single Dose, Randomised, Double-blind, Placebo Controlled 3-way Cross-over Biomarker Study Investigating the Effect of the GABA Modulator AZD7325 on Short Interval Intracortical Inhibition (SICI) in Healthy Volunteers",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2014-09",
+            "completion_date": "2015-08",
+            "country": "United Kingdom",
+            "enrollment": 12,
+            "brief_summary": "GABA (gamma-aminobutyric acid) is the main inhibitory compound in the human brain. Drugs that enhance its effects by binding on GABA receptors (e.g., benzodiazepines) are used to treat various diseases such as epilepsy, insomnia, anxiety or movement disorders. However, the use of these medications is often compromised due to their side effects, like sedation, cognitive impairment, and addiction.\n\nMany of these side effects have been linked to a particular type of GABA receptor (GABA A alpha 1). ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male adults aged 18 to 55 years (extremes are included)\n* A body weight resulting in a body mass index (BMI) of 18 - 30 kg/m2 (extremes included) using the formula BMI = body-weight \\[in kg\\] / body-height \\[in m\\]2\n* Able and willing to sign the Informed Consent Form prior to",
+            "endpoints": [
+              "Change in conventional measure of percentage short interval intracortical inhibition (SICI) at an interstimulus interval (ISI) of 2.5 ms and conditioning stimulus intensity of 70 percent of resting motor threshold"
+            ],
+            "sponsor": "University College, London",
+            "url": "https://clinicaltrials.gov/study/NCT02135198"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04396327",
+            "title": "A Randomized, Double-Blind, Single-Dose, 2-Way Cross-Over Study to Assess the Pharmacodynamic Effects of SM-1 vs. Active Comparator in a 3-Hour Phase Advance Model of Transient Insomnia",
+            "phase": "PHASE2",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2020-05-27",
+            "completion_date": "2020-06-30",
+            "country": "United States",
+            "enrollment": 14,
+            "brief_summary": "The purpose of this study is to investigate the effectiveness, safety and tolerability of a combination drug product (SM-1) containing diphenhydramine, zolpidem and lorazepam, in adult participants who sometimes have difficulty in falling asleep or staying asleep, but who do not have chronic insomnia. Participants will receive SM-1 or a combination of diphenhydramine and lorazepam during 2 one-night stays at a sleep center.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 25 and 55 years\n2. Body mass index (BMI) between 19 and 32 kg/m2\n3. Report previous history of occasional difficulty falling asleep or staying asleep, but not currently having difficulty sleeping;\n4. Regular, habitual bedtime between 21:00 and 24:00, routinely spend at le",
+            "endpoints": [
+              "Latency to Persistent Sleep (LPS)"
+            ],
+            "sponsor": "Sequential Medicine Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT04396327"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05693935",
+            "title": "A Multinational, Multicenter, Randomized, Double-Blind, Parallel-Group, Placebo-Controlled Study With an Open-Label, Long-Term Safety Phase to Evaluate the Efficacy, Safety, and Tolerability of Olanzapine for Extended-Release Injectable Suspension (TV-44749) for Subcutaneous Use as Treatment of Adult Patients With Schizophrenia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2023-01-24",
+            "completion_date": "2025-01-27",
+            "country": "Romania, Turkey (Türkiye), United States, Bulgaria, China",
+            "enrollment": 675,
+            "brief_summary": "The primary objective of this study is to evaluate the efficacy of TV-44749 in adult participants with schizophrenia.\n\nA key secondary objective is to further evaluate the efficacy of TV-44749 based on additional parameters in adult participants with schizophrenia.\n\nA secondary objective is to evaluate the safety and tolerability of TV-44749 in adult participants with schizophrenia\n\nAnother secondary objective of this study is to evaluate the efficacy of TV-44749 from baseline to endpoint in Per",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The participant has a current confirmed diagnosis of schizophrenia according to the DSM-5, for \\>1 year\n* The participant has exacerbation of schizophrenia that started ≤8 weeks prior to screening and would benefit from psychiatric hospitalization or continued hospitalization ",
+            "endpoints": [
+              "Double-blind Period: Change in the Positive and Negative Syndrome Scale (PANSS) Total Score From Baseline to Week 8"
+            ],
+            "sponsor": "Teva Branded Pharmaceutical Products R&D, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT05693935"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03405298",
+            "title": "Reducing Inappropriate Benzodiazepine Use Among Older Adults",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2018-02-08",
+            "completion_date": "2018-09-20",
+            "country": "United States",
+            "enrollment": 44,
+            "brief_summary": "The goal of this project is to reduce chronic benzodiazepine use through two approaches: direct patient education or direct patient education paired with additional support and encouragement from a behavioral health care manager.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* With a prescription BZD supply covering ≥20% of days in the preceding 12 months (\"chronic\").\n\nExclusion Criteria:\n\n* Patients with BZD supply \\<20% days in past 12 months\n* Patients with ICD-10 codes for dementia (derived from encounter diagnosis codes)\n* long-term care reside",
+            "endpoints": [
+              "Change in avg. daily dose of benzodiazepine prescribed in lorazepam-equivalent mg",
+              "Change in avg. daily dose of benzodiazepine prescribed in lorazepam-equivalent mg"
+            ],
+            "sponsor": "University of Michigan",
+            "url": "https://clinicaltrials.gov/study/NCT03405298"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06584513",
+            "title": "Implementing a Patient-centred and Evidence-based Intervention to Reduce BEnzodiazepine and Sedative-hypnotic Use to Improve Patient SAFEty and Quality of Care (BE-SAFE)",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2024-11-18",
+            "completion_date": "2026-02-01",
+            "country": "Spain, Norway, Belgium, Greece, Switzerland, Poland",
+            "enrollment": 470,
+            "brief_summary": "Among older adults (≥65 years), use of sleeping pills, such as benzodiazepines and other sedative-hypnotics, to treat sleep problems is common. While sleeping pills are effective in the first few weeks of use, their effect diminishes significantly after that. Especially older adults are susceptible to significant adverse effects of sleep pills, yet stopping sleeping pills remains challenging. BE-SAFE aims to conduct a randomised study testing a patient-centred intervention to reduce sleeping pil",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* ≥65 years old\n* BSH (ATC codes N05BA, N05CF, N05CD, and N03AE01) use on average ≥3 times a week during the last 3 months prior to providing informed consent, as self-reported by the patient or by the informal carer\n* Taking BSH for sleep problems, as self-reported by the patie",
+            "endpoints": [
+              "BSH discontinuation",
+              "Quality of sleep"
+            ],
+            "sponsor": "Insel Gruppe AG, University Hospital Bern",
+            "url": "https://clinicaltrials.gov/study/NCT06584513"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02530580",
+            "title": "A Phase I Single Site, Single Dose, Randomized, Double-blind, Placebo Controlled, 2-way Cross-over Biomarker Study Investigating the Effect of the GABA Modulator AZD7325 on Cutaneous Sensation in Healthy Volunteers",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2016-02",
+            "completion_date": "2016-07",
+            "country": "United Kingdom",
+            "enrollment": 12,
+            "brief_summary": "GABA (gamma-aminobutyric acid) is the main inhibitory neurotransmitter in the human brain. For years, drugs that enhance its effects (e.g., benzodiazepines such as diazepam/Valium) have been used to treat various diseases such as epilepsy, insomnia, anxiety or movement disorders. However, the use of these medications is often compromised because of their side effects, such as sleepiness, memory problems, and addiction.\n\nTherefore, effort has been made to develop drugs that act more selectively i",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male adults aged 18 to 55 years (extremes are included)\n* A body weight resulting in a body mass index (BMI) of 18-30 kg/m2 (extremes included) using the formula BMI = body-weight \\[in kg\\] / body-height \\[in m\\]2\n* Able and willing to sign the Informed Consent Form prior to s",
+            "endpoints": [
+              "Change in peak grip force in an object manipulation task"
+            ],
+            "sponsor": "University College, London",
+            "url": "https://clinicaltrials.gov/study/NCT02530580"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00826553",
+            "title": "Comparison of Polysomnographic Findings in Mechanically Ventilated Patients Sedated With α2 Agonists Versus GABA Agonists",
+            "phase": "PHASE1",
+            "status": "TERMINATED",
+            "start_date": "2009-01",
+            "completion_date": "2013-12",
+            "country": "United States",
+            "enrollment": 6,
+            "brief_summary": "The purpose of this study is to study the effect of two standard of care sedative medications on sleep stages and total sleep time. The investigators hypothesize that the α2 agonist, dexmedetomidine, will improve sleep quality by increasing N2 and N3 sleep as well as total sleep time when compared to GABA agonists.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients admitted to the medical intensive care unit who require mechanical ventilation and are sedated with a GABA agonist with the expectation of being mechanically ventilated for greater than 24 hours.\n\nExclusion Criteria:\n\n* Subjects who are less than 18 years\n* Subj",
+            "endpoints": [
+              "Time spent in standard sleep stages (N1, N2, N3, REM)."
+            ],
+            "sponsor": "Vanderbilt University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT00826553"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02671760",
+            "title": "A Randomized, Double-Blind, Single-Dose Study to Assess the Pharmacodynamic Effects of SM-1 Versus Comparator and Placebo in a 5 Hour Phase Advance Model of Insomnia in Adults Who Suffer From Short-Term Insomnia",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2016-02",
+            "completion_date": "2016-06",
+            "country": "N/A",
+            "enrollment": 39,
+            "brief_summary": "The purpose of this study is to evaluate the effect of a combination drug product containing diphenhydramine, zolpidem and lorazepam on total sleep time. Participants will be adults who sometimes have difficulty falling asleep or staying asleep, but who do not have chronic insomnia. The study involves 3 one-night stays in a sleep center in New York City.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Body mass index (BMI) between 19 and 32 kg/m2, inclusive;\n* Report occasional difficulty falling asleep or staying asleep;\n* Report a regular, habitual bedtime between 21:00 and 24:00, routinely spend at least 7.5 and no more than 9.0 hours in bed each night and observe a bedt",
+            "endpoints": [
+              "Total Sleep Time"
+            ],
+            "sponsor": "Sequential Medicine Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT02671760"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04572750",
+            "title": "Promoting Benzodiazepine Cessation Through an Electronically-delivered Patient Self-management Intervention",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2022-06-01",
+            "completion_date": "2024-07-03",
+            "country": "United States",
+            "enrollment": 170,
+            "brief_summary": "Benzodiazepines (e.g., Ativan, Xanax) are widely prescribed medications that are used mainly to treat anxiety and sleeping difficulties. Long-term use of benzodiazepine carries risks of physical dependence, addiction, falls and other accidents, and problems in thinking/concentrating. Researchers in Canada developed a printed self-help packet that enabled many individuals to reduce or cease taking benzodiazepines on their own. This study is designed to tailor that packet to the Veteran population",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Veterans having a VA primary care provider and taking prescribed benzodiazepines for at least 3 months\n* Have access to a smartphone, tablet, or computer\n\nExclusion Criteria:\n\n* Individuals diagnosed with schizophrenia, dementia, seizure disorder, and/or spinal cord injury\n* I",
+            "endpoints": [
+              "25% Reduction in Benzodiazepine Use",
+              "Cessation of Benzodiazepine Use"
+            ],
+            "sponsor": "VA Office of Research and Development",
+            "url": "https://clinicaltrials.gov/study/NCT04572750"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05606224",
+            "title": "The Effects and Mechanisms of Mindfulness Intervention for Emotional Distress: a Multicenter Randomized Controlled Trial",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2022-02-20",
+            "completion_date": "2023-08-30",
+            "country": "China",
+            "enrollment": 200,
+            "brief_summary": "Traditional offline interventions such as MBCT and MBSR have been implemented in treating patients with emotional disorders and obtained significantly improved clinical outcome. However, these offline interventions require the involvement of a therapist expertized in mindfulness and usually charge a high fee, which may not be accessible and cost-effective for lots of patients with psychological disorders. Fortunately, online self-help interventions can compensate for these disadvantages. Our res",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-65;\n* Diagnosis of emotional disorders, including anxiety disorders (e.g., panic disorder, social anxiety disorder, generalized anxiety disorder), and unipolar depression disorders;\n* If taking medication, haven't changed for at least 4 weeks before intervention onset, ",
+            "endpoints": [
+              "Change of mindfulness",
+              "Change of other-reported anxiety",
+              "Change of other-reported depression"
+            ],
+            "sponsor": "Peking University",
+            "url": "https://clinicaltrials.gov/study/NCT05606224"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03039842",
+            "title": "Combination of Dextromethorphan and Memantine in Treating Bipolar Disorder",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2013-01-01",
+            "completion_date": "2017-12-31",
+            "country": "Taiwan",
+            "enrollment": 300,
+            "brief_summary": "This is a research clinical trial of double-blind, stratified randomized, parallel group, two-centre study. It will be conducted in a total of 250\\~300 male and female subjects from the Department of Psychiatry at National Cheng Kung University Hospital. Eligible subjects will be psychiatric out- and in-patients, aged between 18\\~65 years old, who have psychiatric evaluation with clinically suspected of having bipolar II disorder and fulfill the inclusion and exclusion criteria. The add-on doubl",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A 2-day minimum for hypomania to diagnose bipolar II disorder\n* A total of Hamilton Rating Scale for Depression scored at least 18 or Young Mania Rating Scale scored at least 14 at the screening stage\n* Must allow to ensure acceptable compliance and visit\n\nExclusion Criteria:\n",
+            "endpoints": [
+              "treatment change assessed by plasma levels of cytokines (e.g., IL-6, IL-8)"
+            ],
+            "sponsor": "National Cheng-Kung University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03039842"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04109118",
+            "title": "Distress Tolerance and Benzodiazepine Discontinuation in Opioid Agonist Therapy, Phase 2",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-03-18",
+            "completion_date": "2021-07-08",
+            "country": "United States",
+            "enrollment": 4,
+            "brief_summary": "The proposed study is a clinical trial, designed to pilot test a Distress Tolerance-Benzodiazepine Discontinuation (DT-BD) intervention for patients on opioid agonist therapy who currently use benzodiazepines. The DT-BD intervention is an adjunctive psychosocial intervention in people seeking to discontinue (BZD) use. The goal of the study is to assess the applicability and feasibility of this intervention through treatment retention and qualitative interviews with four participants who are rece",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 18 or older\n2. Receiving OAT (methadone or buprenorphine) confirmed by toxicology testing for at least 90 days and on a steady dose for 2 consecutive weeks\n3. Regular BZD use defined by BZD use 3 or more times per week in past month by self-report and positive urine scree",
+            "endpoints": [
+              "Participant Acceptability of the Interventions",
+              "Number of Participants Who Rates the Intervention as Feasible"
+            ],
+            "sponsor": "Boston Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT04109118"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03331042",
+            "title": "A Randomized, Double-Blind, Single-Dose, 4-Way Crossover Study to Assess the Efficacy and Safety of SM-1 (50-mg Diphenhydramine, 5-mg Delayed-Release Zolpidem, and 0.5-mg Delayed-Release Lorazepam) Versus 2 Comparators (50-mg Diphenhydramine and 5-mg Delayed-Release Zolpidem; 50-mg Diphenhydramine and 0.5-mg Delayed-Release Lorazepam) and Placebo in a 5-Hour Phase Advance Model of Transient Insomnia.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2017-10-09",
+            "completion_date": "2018-03-22",
+            "country": "United States",
+            "enrollment": 85,
+            "brief_summary": "The purpose of this study is to investigate the effectiveness, safety and tolerability of a combination drug product (SM-1) containing diphenhydramine, zolpidem and lorazepam, in adult participants who sometimes have difficulty in falling asleep or staying asleep, but who do not have chronic insomnia. Participants will receive SM-1, or a combination of diphenhydramine and zolpidem, or a combination of diphenhydramine and lorazepam, or placebo during 4 one-night stays at a sleep center.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Signed written consent form.\n* Experienced at least 1 prior episode of transient insomnia meeting all of the following criteria: difficulty falling asleep or staying asleep; next day impairment or distress associated with the disturbed sleep; frequency of 1 to 7 nights per wee",
+            "endpoints": [
+              "Total Sleep Time (TST)"
+            ],
+            "sponsor": "Sequential Medicine Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT03331042"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06035003",
+            "title": "Mechanism of Mindfulness-Based Online Intervention in Enhancing Cognitive Flexibility: Thoughts as Thoughts",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2023-09-18",
+            "completion_date": "2024-02-28",
+            "country": "China",
+            "enrollment": 595,
+            "brief_summary": "Traditional offline interventions such as MBCT and MBSR have been implemented to treat patients with emotional disorders and obtained significantly improved clinical outcomes. However, these offline interventions require the involvement of a therapist expert in mindfulness and usually charge a high fee, which may not be accessible and cost-effective for lots of patients with psychological disorders. Fortunately, online self-help interventions can compensate for these disadvantages. Our research ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with scores greater than 21 on the Kessler Psychological Distress Scale.\n\nExclusion Criteria:\n\n* Subjects who could not access the Internet;\n* Subjects with insufficient Chinese ability;\n* Subjects who have participated in mindfulness based projects for more than 6 we",
+            "endpoints": [
+              "Weekly changes of Five Facet Mindfulness Questionnaire - Short Form during the intervention",
+              "Weekly changes of Patient Health Questionnaire during the intervention",
+              "Weekly changes of Chinese Perceived Stress Scale during the intervention"
+            ],
+            "sponsor": "Peking University",
+            "url": "https://clinicaltrials.gov/study/NCT06035003"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05891015",
+            "title": "Exploring the Mechanism of Mindfulness Intervention to Alleviate Emotional Distress in Patients With Emotional Disorders",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2023-06-20",
+            "completion_date": "2025-12-15",
+            "country": "China",
+            "enrollment": 200,
+            "brief_summary": "This study hopes to:\n\n1. explore whether offline and online mindfulness interventions can significantly alleviate individual emotional distress,experiential avoidance and improve cognitive flexibility,distress tolerance level.\n2. explore whether cognitive flexibility, distress tolerance and experiential avoidance are the mediators in mindfulness intervention to alleviate emotional distress, and to meet the principles of mechanism.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with scores greater than 21 on the Kessler Psychological Distress Scale.\n* Subjects have been diagnosed emotional disorders in the past 6 months.\n\nExclusion Criteria:\n\n* Subjects who could not access the Internet;\n* Subjects with insufficient Chinese ability;\n* Subjec",
+            "endpoints": [
+              "Weekly changes of Five Facet Mindfulness Questionnaire during the intervention",
+              "Weekly changes of Patient Health Questionnaire during the intervention",
+              "Weekly changes of Chinese Perceived Stress Scale during the intervention"
+            ],
+            "sponsor": "Peking University",
+            "url": "https://clinicaltrials.gov/study/NCT05891015"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05206747",
+            "title": "A Randomized Control Trial of the Effectiveness of Blue-blocking Glasses for Mania in Inpatients With Bipolar Disorder",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2022-09-07",
+            "completion_date": "2024-09-09",
+            "country": "Canada",
+            "enrollment": 42,
+            "brief_summary": "Mania is a serious condition. Symptoms of mania include decreased sleep, increased energy, changes in mood, thinking, and behavior. Dark therapy, which involves placing patients in a dark room for 14 hours overnight, can effectively treat mania, but is not practical. Dark therapy is also unpleasant. However, similar effects on the brain can be created from blocking only blue light with glasses. This preserves the wearer's ability to see and move safely. A trial of blue-blocking glasses for mania",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Be 18 to 70 years of age\n* Have a Diagnostic and Statistical Manual of Mental Disorders (5th Edition) defined manic symptoms that persist beyond the physiological effects of a substance\n* Be willing to have investigators obtain information from the treatment team and electroni",
+            "endpoints": [
+              "Change in the Young Mania Rating Scale"
+            ],
+            "sponsor": "Ottawa Hospital Research Institute",
+            "url": "https://clinicaltrials.gov/study/NCT05206747"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02648776",
+            "title": "Risk and Benefit Assessment of Hypnotic Agents for Sleep Disorders Among Elderly; A Prospective Cohort Study at a Taiwanese Academic Medical Center",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2016-01",
+            "completion_date": "2018-12",
+            "country": "Taiwan",
+            "enrollment": 1400,
+            "brief_summary": "The aims of this study are to (1) examine the medication use patterns of commonly prescribed hypnotics and the factors that were associated with the long-term and short-term use patterns among the elderly population in Taiwan; (2)investigate the associations of using hypnotics with the elderly patients' disease statuses, efficacy and safety, as well as its pharmacokinetic and pharmacogenetic characteristics;(3) determine the clinical, economic and humanistic outcomes of using hypnotics and the c",
+            "eligibility_criteria": "* Inclusion criteria\n\n  1. Patients who have received services in the outpatient departments in CMUH for at least six months persistently before the recruitment,\n  2. who are diagnosed with any types of sleep disorders within the outpatient medical records, using ICD-9 codes to identify.\n  3. who ha",
+            "endpoints": [
+              "Changes from baseline in sleep quality at 12 months",
+              "Number of participants with an occurrence of associated ADR"
+            ],
+            "sponsor": "China Medical University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02648776"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01343095",
+            "title": "A Randomized Controlled Trial of Direct Noise Reduction in the ICU Using Overnight Application of In-ear Earplugs or In-ear Earplugs Plus Noise-Canceling Headphones to Reduce the Incidence and Duration of ICU Delirium",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2011-05",
+            "completion_date": "2015-06",
+            "country": "United States",
+            "enrollment": 8,
+            "brief_summary": "This study seeks to examine the effects of overnight noise reduction in critically ill patients who are receiving mechanical ventilation. The investigators will randomly place subjects into one of three groups: 1) usual care 2) overnight earplugs 3) overnight earplugs and noise-canceling headphones. The investigators will monitor for safety, and will measure the amount of delirium experienced by subjects, record the amount of sedating and painkilling medicines required, and measure sleep quality",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients who are admitted to our MICU for at least 24 hours with at least 72 hours' additional expected stay in ICU, and who are mechanically ventilated\n\nExclusion Criteria:\n\n* severe to profound hearing loss\n* baseline use of hearing aids\n* eardrum perforation\n* severe ",
+            "endpoints": [
+              "Days Free of Delirium or Coma"
+            ],
+            "sponsor": "Wake Forest University Health Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT01343095"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01349907",
+            "title": "A 50-Week Open-Label, Flexible-Dose Trial of Asenapine Extension Treatment to P06107 in Pediatric Subjects With Acute Manic or Mixed Episodes Associated With Bipolar I Disorder",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2011-06-16",
+            "completion_date": "2014-09-05",
+            "country": "N/A",
+            "enrollment": 322,
+            "brief_summary": "This study will investigate the safety and tolerability of a flexible dosing regimen of asenapine for the long-term treatment of manic or mixed episodes associated with bipolar disorder I in children and adolescents who completed study P06107.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Completed study P06107 and demonstrated acceptable degree of compliance with medication, visits and other study requirements\n* Must be male or a female who is not of childbearing potential and is not sexually active or is using a medically accepted method of contraception; or ",
+            "endpoints": [
+              "Number of Participants Who Experienced Clinical or Laboratory Adverse Events"
+            ],
+            "sponsor": "Organon and Co",
+            "url": "https://clinicaltrials.gov/study/NCT01349907"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03338764",
+            "title": "A Double-Blind, Placebo-Controlled, Parallel Design Phase 3 Study to Assess the Efficacy, Safety, Tolerability, and Pattern of Use of SM-1 in Adult Subjects With a History of Transient Insomnia",
+            "phase": "PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2023-05",
+            "completion_date": "2023-12",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "The purpose of this study is to assess the efficacy and pattern of use of the combination drug product SM-1 in adults who sometimes have difficulty in falling asleep or staying asleep, but who do not have chronic insomnia. Participants will receive SM-1 or placebo to take at home as needed over the course of 3 months treatment period.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Experienced at least 1 prior episode of transient insomnia meeting all of the following criteria: difficulty falling asleep or staying asleep; next day impairment or distress associated with the disturbed sleep; frequency of 1 to 7 nights per week; duration of less than 1 mont",
+            "endpoints": [
+              "Subjective Total Sleep Time"
+            ],
+            "sponsor": "Sequential Medicine Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT03338764"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01584440",
+            "title": "A Phase 2, Randomized, Double-dummy, Double-blind, Placebo-controlled Study to Assess the Efficacy, Safety and Tolerability of AVP-923 (Dextromethorphan/Quinidine) for the Treatment of Symptoms of Agitation in Patients With Alzheimer's Disease.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2012-08-13",
+            "completion_date": "2014-07-30",
+            "country": "United States",
+            "enrollment": 220,
+            "brief_summary": "The objectives of the study are to evaluate the safety, tolerability and efficacy of AVP-923 compared to placebo, for the treatment of symptoms of agitation in participants with Alzheimer's Disease (AD).",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\nDiagnosis of probable Alzheimer's disease (AD).\n\nThe participant has clinically significant symptoms of agitation secondary to AD, that interfere with daily routine and for which a prescription medication is deemed indicated, in the opinion of the investigator.\n\nEither out-p",
+            "endpoints": [
+              "Change in the Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain Score From Day 1 (Stage 1 Baseline) to Day 36 (Stage 2 Baseline) and From Day 36 to Day 70"
+            ],
+            "sponsor": "Avanir Pharmaceuticals",
+            "url": "https://clinicaltrials.gov/study/NCT01584440"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "35087274",
+            "title": "Efficacy, Safety, and Drug-Drug Interactions for Insomnia Therapy in COVID-19 Patients.",
+            "abstract": "Coronavirus disease-19 (COVID-19) is a systemic viral infection. COVID-19 patients show diverse clinical presentations ranging from asymptomatic, mild symptoms to severe symptoms characterized by severe respiratory distress. Sleep disorders or insomnia is one of the psychiatric problems that arise during the COVID-19 pandemic. The term used to define this particular insomnia is coronasomnia or COVID-19 insomnia. Data show that the prevalence of this problem is increasing, especially in the confirmed COVID-19 patient group. Anti-insomnia drugs such as hypnotics, sedatives, and anxiolytics are the easiest option. As with drugs generally, anti-insomnia drugs are associated with various safety issues, especially in people with COVID-19. Therefore, their use may be hazardous. The literature review aims to make health practitioners aware of the anti-insomnia drugs that have the best efficacy and safety issues that are clinically relevant from the use of anti-insomnia drugs and the interactio",
+            "journal": "Journal of multidisciplinary healthcare",
+            "year": "2022",
+            "authors": [
+              "Saputra Billy Dwi",
+              "Levita Jutti",
+              "Mustarichie Resmi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35087274/"
+          },
+          {
+            "pmid": "30625122",
+            "title": "Drugs for chronic insomnia.",
+            "abstract": "",
+            "journal": "The Medical letter on drugs and therapeutics",
+            "year": "2018",
+            "authors": [],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Benzodiazepines",
+              "Chronic Disease",
+              "Cognitive Behavioral Therapy",
+              "Humans",
+              "Hypnotics and Sedatives",
+              "Plant Preparations",
+              "Receptors, Melatonin",
+              "Sleep Initiation and Maintenance Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30625122/"
+          },
+          {
+            "pmid": "41392764",
+            "title": "Bifidobacterium animalis subsp. lactis Bbm-19 ameliorates insomnia by remodeling the gut microbiota and restoring γ-aminobutyric acid and serotonin signaling.",
+            "abstract": "Insomnia is associated with dysregulation of the gut-brain axis, yet microbiome-targeted interventions remain underexplored. In this study, we investigated the effects of Bifidobacterium animalis subsp. lactis Bbm-19 (Bbm-19), a strain isolated from human breast milk, in a 4-chloro-DL-phenylalanine-induced mouse model of insomnia. Using integrated behavioral, neurochemical, immunological, and multi-omics approaches, this study demonstrates that insomnia is characterized by shortened sleep duration, prolonged sleep latency, anxiety-like behaviors, and reduced levels of serotonin and gamma-aminobutyric acid in the gut, serum, and brain. Administration of Bbm-19 significantly improved sleep parameters, reduced anxiety-like behaviors, and increased survival. Metagenomic and metabolomic analyses revealed that Bbm-19 restored gut microbiota balance, enriched beneficial taxa, including Muribaculaceae bacterium and Stercoribacter sp., and reprogrammed microbial metabolic modules, particularly ",
+            "journal": "Food & function",
+            "year": "2026",
+            "authors": [
+              "Wu Qiong",
+              "Gao Guangqi",
+              "Kwok Lai-Yu",
+              "Qiao Jiaqi",
+              "Wei Ziqing"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Gastrointestinal Microbiome",
+              "Animals",
+              "Serotonin",
+              "Mice",
+              "gamma-Aminobutyric Acid",
+              "Sleep Initiation and Maintenance Disorders",
+              "Male",
+              "Probiotics",
+              "Bifidobacterium animalis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41392764/"
+          },
+          {
+            "pmid": "10220122",
+            "title": "The use of lorazepam TID for chronic insomnia.",
+            "abstract": "Patients with primary insomnia typically complain of daytime fatigue and stress and have been shown to have long latencies on the Multiple Sleep Latency Test and increased whole body metabolism. However, typical treatment strategies for patients with insomnia rarely include any component to deal with these daytime symptoms. In the present study it was hypothesized that a 24-h treatment, lorazepam 0.5 mg TID, would be superior to an evening treatment, lorazepam 1.5 mg HS, in patients with primary insomnia. In a repeated measures crossover design, 12 patients with chronic insomnia received placebo or lorazepam 0.5 mg TID in one 4-night lab stay and placebo or lorazepam 1.5 mg HS in another lab stay. Both doses of medication were effective in improving objective and subjective measures of sleep and in reducing nocturnal whole body metabolic rate. Latencies on daytime nap testing were significantly reduced from a 14-min average to an average of 10 and 12 min, respectively, in the lorazepam",
+            "journal": "International clinical psychopharmacology",
+            "year": "1999",
+            "authors": [
+              "Bonnet M H",
+              "Arand D L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Analysis of Variance",
+              "Chronic Disease",
+              "Female",
+              "Humans",
+              "Lorazepam",
+              "Male",
+              "Middle Aged",
+              "Psychomotor Performance",
+              "Reaction Time"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10220122/"
+          },
+          {
+            "pmid": "36340306",
+            "title": "Management of Alcohol Withdrawal Syndrome in Patients with Alcoholic Liver Disease.",
+            "abstract": "Alcohol withdrawal syndrome (AWS) is a common condition that is seen in treatment-seeking patients with Alcohol use disorder (AUD) and alcoholic liver disease (ALD). AWS, which typically starts within 4-6 h of the last alcohol use, can range from mild symptoms such as insomnia, tremors, and autonomic hyperactivity to more severe symptoms such as seizures and delirium tremens. Clinical Institute Withdrawal Assessment Scale-Alcohol Revised (CIWA-Ar) is the most commonly used scale to assess AWS in clinical practice. The presence of moderate withdrawal as indicated by a score of more than 8 is an indication for pharmacotherapy. Lorazepam and oxazepam are preferred agents for the management of AWS in the setting of ALD. In severe ALD, benzodiazepines should be used cautiously with monitoring due to the risk of excessive sedation or precipitating hepatic encephalopathy.",
+            "journal": "Journal of clinical and experimental hepatology",
+            "year": "2022",
+            "authors": [
+              "Chand Prabhat Kumar",
+              "Panda Udit",
+              "Mahadevan Jayant",
+              "Murthy Pratima"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36340306/"
+          },
+          {
+            "pmid": "3280615",
+            "title": "Comparison of lorazepam and flurazepam as hypnotic agents in chronic insomniacs.",
+            "abstract": "Hypnotic efficacy and safety of 3 weeks of daily doses of 2 mg lorazepam or 30 mg flurazepam were compared in a double-blind cross-over study in eight chronic insomniacs between the ages of 29 and 60 years. Subjects were monitored in the sleep laboratory twice weekly for a total of 25 nights. Also, subjective estimates of sleep, vigilance tests, and adverse effects were recorded throughout the study. Findings indicated lorazepam performed better than flurazepam in most sleep parameters. With lorazepam there was improvement from baseline in percentage of sleep time (P less than .05); in total wake time after sleep onset (P less than .01) and in last third of night (P less than .05); in percentage of stage 2 (P less than .05) (weeks 1, 2, 3) and in percentage of night in stage 4 (weeks 2 and 3). Only total wake time from baseline improved (P less than .05) with flurazepam (week 2). Objective and subjective sleep parameters did not correlate well for either drug. Neither drug impaired REM",
+            "journal": "Journal of clinical pharmacology",
+            "year": "1988",
+            "authors": [
+              "McClure D J",
+              "Walsh J",
+              "Chang H",
+              "Olah A",
+              "Wilson R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Arousal",
+              "Chronic Disease",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Electroencephalography",
+              "Female",
+              "Flurazepam",
+              "Humans",
+              "Lorazepam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3280615/"
+          },
+          {
+            "pmid": "36692463",
+            "title": "Effects of tranquilization therapy in elderly patients suffering from chronic non-communicable diseases: A meta-analysis.",
+            "abstract": "The current meta-analysis searched the literature connected to different tranquilizers used to treat elderly people and assessed it in terms of dose, types of outcomes and adverse effects, to determine a safe and acceptable tranquilizer and its optimal dose. A systematic literature review was undertaken for randomized controlled trials, case-control, retrospective and prospective studies on the use of tranquilizers in elderly patients, using PubMed, Ebsco, SCOPUS and Web of Science. PICOS criteria were used to select studies, and pertinent event data was collected. This meta-analysis includes 16 randomized control trials spanning the years 2000 to 2022, using the data from 2224 patients. The trials that were included used various tranquilizers such as diazepam, alprazolam, temazepam and lorazepam, and indicated high treatment efficacy and low adverse effects. With a p-value of 0.853 for Egger's test and 0.13 for Begg's test, the current meta-analysis shows a minimal probability of publ",
+            "journal": "Acta pharmaceutica (Zagreb, Croatia)",
+            "year": "2023",
+            "authors": [
+              "Li Jing",
+              "Li Jing",
+              "Cui Yulan",
+              "Li Honggeng",
+              "Hou Xiaoxuan"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Meta-Analysis",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Humans",
+              "Diazepam",
+              "Epilepsy",
+              "Noncommunicable Diseases",
+              "Prospective Studies",
+              "Retrospective Studies",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36692463/"
+          },
+          {
+            "pmid": "23330992",
+            "title": "Understanding the pharmacokinetics of anxiolytic drugs.",
+            "abstract": "Anxiety disorders are considered the most common mental disorders and they can increase the risk for comorbid mood and substance use disorders, significantly contributing to the global burden of disease. For this reason, anxiolytics are the most prescribed psychoactive drugs, particularly in the Western world.",
+            "journal": "Expert opinion on drug metabolism & toxicology",
+            "year": "2013",
+            "authors": [
+              "Altamura Alfredo Carlo",
+              "Moliterno Donatella",
+              "Paletta Silvia",
+              "Maffini Michele",
+              "Mauri Massimo Carlo"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Amines",
+              "Anti-Anxiety Agents",
+              "Anticonvulsants",
+              "Anxiety Disorders",
+              "Atenolol",
+              "Benzodiazepines",
+              "Cyclohexanecarboxylic Acids",
+              "Gabapentin",
+              "Histamine Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23330992/"
+          },
+          {
+            "pmid": "39315391",
+            "title": "Benzodiazepine receipt in adults with psychogenic non-epileptic seizures in the USA.",
+            "abstract": "Characterising benzodiazepine (BZD) prescribing to individuals with psychogenic non-epileptic seizures (PNES) is important for optimising PNES outcomes, but existing data is lacking.",
+            "journal": "BMJ neurology open",
+            "year": "2024",
+            "authors": [
+              "Xu Kevin Young",
+              "Nascimento Fábio A",
+              "Lin Binx Yezhe",
+              "Park Tae Woo",
+              "Maust Donovan T"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39315391/"
+          },
+          {
+            "pmid": "15341891",
+            "title": "'Hypnotic' prescription patterns in a large managed-care population.",
+            "abstract": "Medical treatment of insomnia has declined over the past decade and, when treated, use of non-hypnotic medications has increased. This study assessed the characteristics of the prescriptions for insomnia and of the patients receiving those prescriptions.",
+            "journal": "Sleep medicine",
+            "year": "2004",
+            "authors": [
+              "Roehrs Timothy",
+              "Roth Thomas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents",
+              "Anxiety",
+              "Comorbidity",
+              "Depression",
+              "Dose-Response Relationship, Drug",
+              "Drug Prescriptions",
+              "Drug Utilization",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15341891/"
+          },
+          {
+            "pmid": "30625124",
+            "title": "Expanded table: Some oral hypnotics for chronic insomnia.",
+            "abstract": "",
+            "journal": "The Medical letter on drugs and therapeutics",
+            "year": "2018",
+            "authors": [],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Chronic Disease",
+              "Humans",
+              "Hypnotics and Sedatives",
+              "Sleep Initiation and Maintenance Disorders",
+              "Statistics as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30625124/"
+          },
+          {
+            "pmid": "40110386",
+            "title": "Trends in Benzodiazepine and Z-Drug Prescriptions in Eastern China (2015-2021).",
+            "abstract": "This study analyses trends in the prescription and usage of benzodiazepines (BZDs) and Z-drugs within specialised medical institutions and emergency outpatient services in China from 2015 to 2021, focusing on demographics and prescribing patterns to promote better management practices.",
+            "journal": "Alpha psychiatry",
+            "year": "2025",
+            "authors": [
+              "Deng Qian",
+              "Chen Hualiang"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40110386/"
+          },
+          {
+            "pmid": "25453732",
+            "title": "Benzodiazepine and sedative-hypnotic use among older seriously Ill veterans: choosing wisely?",
+            "abstract": "The 2014 American Geriatrics Society's Choosing Wisely list cautions against the use of any benzodiazepines or other sedative-hypnotics (BSHs) as initial treatments for agitation, insomnia, or delirium in older adults. Because these symptoms are prevalent among hospitalized patients, seriously ill older adults are at risk of receiving these potentially inappropriate medications. The objectives of this study were to understand the extent to which potentially inappropriate BSHs are being used in hospitalized, seriously ill, older veterans and to understand what clinical and sociodemographic characteristics are associated with potentially inappropriate BSH use.",
+            "journal": "Clinical therapeutics",
+            "year": "2014",
+            "authors": [
+              "Garrido Melissa M",
+              "Prigerson Holly G",
+              "Penrod Joan D",
+              "Jones Shatice C",
+              "Boockvar Kenneth S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Benzodiazepines",
+              "Critical Illness",
+              "Hospitalization",
+              "Hospitals, Veterans",
+              "Humans",
+              "Hypnotics and Sedatives",
+              "Inappropriate Prescribing",
+              "Logistic Models"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25453732/"
+          },
+          {
+            "pmid": "15633073",
+            "title": "[State of the art management of BPSD in dementia].",
+            "abstract": "To obtain a cross-sectional overview of therapeutic practice concerning non-cognitive, behavioral signs and symptoms of dementia (BPSD) in Germany, Austria, and Switzerland.",
+            "journal": "Psychiatrische Praxis",
+            "year": "2005",
+            "authors": [
+              "Rainer Michael K",
+              "Mucke Hermann A M",
+              "Masching Andreas J",
+              "Haushofer Manfred",
+              "Karger Martin"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alzheimer Disease",
+              "Attitude of Health Personnel",
+              "Austria",
+              "Comorbidity",
+              "Cross-Sectional Studies",
+              "Dementia",
+              "Germany",
+              "Health Surveys",
+              "Humans",
+              "Mental Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15633073/"
+          },
+          {
+            "pmid": "30618473",
+            "title": "A Case of Hyper Sexuality Probably Associated with Clozapine.",
+            "abstract": "Schizophrenia treatment needs to cover several psychological interventions and pharmacological treatment for stabilizing the disease course and decreasing relapses. Sexual side effects are a major hindrance to patients and lead to decreased adherence to therapy and reduced quality of life. Recently, several studies outlined that sexual dysfunction is one of the most distressing side effects of antipsychotics and a major cause of a poor quality of life. We hereby report a case of hypersexuality probably associated with clozapine in a middle-aged woman with schizoaffective disorder.",
+            "journal": "Psychopharmacology bulletin",
+            "year": "2018",
+            "authors": [
+              "Thomson Sereen Rose",
+              "Patil Navin",
+              "Ommurugan Balaji",
+              "Bhandary Rajesh Krishna"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30618473/"
+          },
+          {
+            "pmid": "19514972",
+            "title": "Microemulsion based intranasal delivery system for treatment of insomnia.",
+            "abstract": "The aim of this investigation was to prepare and characterize microemulsions/mucoadhesive microemulsions of Diazepam (D), Lorazepam (L) and Alprazolam (A), evaluate their pharmacodynamic performances by performing comparative sleep induction studies in male albino rats to assess their role in effective management of insomnia patients. Microemulsions of Diazepam (DME), Lorazepam (LME) and Alprazolam (AME) were prepared by titration method and characterized for drug content, globule size distribution and zeta potential, nasal toxicity and sleep induction. DME, LME and AME were transparent and stable with mean globule size and zeta potential in the range of 95.6 nm to 141.7 nm and -2.205 to -0.111 mV respectively. The prepared microemulsions exhibited reversible nasal toxicity. Onset of sleep and duration of sleep were observed in the following order: Lorazepam > Alprazolam>Diazepam. Faster onset of sleep following intranasal administration of microemulsions (<20 min) compared to oral adm",
+            "journal": "Drug delivery",
+            "year": "2009",
+            "authors": [
+              "Porecha Sheetal",
+              "shah Tapan",
+              "Jogani Viral",
+              "Naik Sachin",
+              "Misra Ambikanandan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intranasal",
+              "Alprazolam",
+              "Animals",
+              "Diazepam",
+              "Disease Models, Animal",
+              "Drug Compounding",
+              "Drug Delivery Systems",
+              "Humans",
+              "Lorazepam",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19514972/"
+          },
+          {
+            "pmid": "21801083",
+            "title": "Practical guidance for prescribing ziprasidone in acute manic or mixed episodes of bipolar I disorder.",
+            "abstract": "Limited information is available on the clinical issues and strategies for optimal clinical usage of ziprasidone in the treatment of adult patients with acute manic or mixed episodes of bipolar disorder.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2011",
+            "authors": [
+              "Cañas Fernando",
+              "Correll Christoph U",
+              "Fagiolini Andrea",
+              "Larmo Ilkka",
+              "Levy Pedro"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Antipsychotic Agents",
+              "Bipolar Disorder",
+              "Humans",
+              "Molecular Structure",
+              "Piperazines",
+              "Practice Guidelines as Topic",
+              "Randomized Controlled Trials as Topic",
+              "Thiazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21801083/"
+          },
+          {
+            "pmid": "15040803",
+            "title": "An assessment of quality of sleep and the use of drugs with sedating properties in hospitalized adult patients.",
+            "abstract": "Hospitalization can significantly disrupt sleeping patterns. In consideration of the previous reports of insomnia and apparent widespread use of benzodiazepines and other hypnotics in hospitalized patients, we conducted a study to assess quality of sleep and hypnotic drug use in our acute care adult patient population. The primary objectives of this study were to assess sleep disturbance and its determinants including the use of drugs with sedating properties.",
+            "journal": "Health and quality of life outcomes",
+            "year": "2004",
+            "authors": [
+              "Frighetto Luciana",
+              "Marra Carlo",
+              "Bandali Shakeel",
+              "Wilbur Kerry",
+              "Naumann Terryn"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antidepressive Agents",
+              "Canada",
+              "Chronic Disease",
+              "Drug Utilization Review",
+              "Female",
+              "Hospital Bed Capacity, 500 and over",
+              "Hospitalization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15040803/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "insomnia (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20insomnia%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "reading seizures",
+        "txgnn_score": 0.9963688850402832,
+        "txgnn_rank": 944,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "21951369",
+            "title": "Acute drug administration in epilepsy: a review.",
+            "abstract": "To review acute administration of drugs in epilepsy for indications other than status epilepticus.",
+            "journal": "CNS neuroscience & therapeutics",
+            "year": "2011",
+            "authors": [
+              "Wolf Peter"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticonvulsants",
+              "Epilepsy",
+              "Humans",
+              "Risk Reduction Behavior",
+              "Seizures, Febrile",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21951369/"
+          },
+          {
+            "pmid": "26630670",
+            "title": "Early-Onset Convulsive Seizures Induced by Brain Hypoxia-Ischemia in Aging Mice: Effects of Anticonvulsive Treatments.",
+            "abstract": "Aging is associated with an increased risk of seizures/epilepsy. Stroke (ischemic or hemorrhagic) and cardiac arrest related brain injury are two major causative factors for seizure development in this patient population. With either etiology, seizures are a poor prognostic factor. In spite of this, the underlying pathophysiology of seizure development is not well understood. In addition, a standardized treatment regimen with anticonvulsants and outcome assessments following treatment has yet to be established for these post-ischemic seizures. Previous studies have modeled post-ischemic seizures in adult rodents, but similar studies in aging/aged animals, a group that mirrors a higher risk elderly population, remain sparse. Our study therefore aimed to investigate early-onset seizures in aging animals using a hypoxia-ischemia (HI) model. Male C57 black mice 18-20-month-old underwent a unilateral occlusion of the common carotid artery followed by a systemic hypoxic episode (8% O2 for 30",
+            "journal": "PloS one",
+            "year": "2015",
+            "authors": [
+              "Wang Justin",
+              "Wu Chiping",
+              "Peng Jessie",
+              "Patel Nisarg",
+              "Huang Yayi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Age of Onset",
+              "Aging",
+              "Animals",
+              "Anticonvulsants",
+              "Cerebral Cortex",
+              "Disease Models, Animal",
+              "Hippocampus",
+              "Hypoxia-Ischemia, Brain",
+              "Injections, Intraperitoneal",
+              "Lorazepam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26630670/"
+          },
+          {
+            "pmid": "30877186",
+            "title": "Photosensitive epilepsy: Robust clinical efficacy of a selective GABA potentiator.",
+            "abstract": "The objective of this phase 2a study was to assess the activity of PF-06372865, a positive allosteric modulator (PAM) of α2/3/5 subunit-containing GABAA receptors with minimal activity at α1-containing receptors, which are believed to mediate many of the adverse events associated with benzodiazepines, in the epilepsy photosensitivity model as a proof-of-principle of efficacy.",
+            "journal": "Neurology",
+            "year": "2019",
+            "authors": [
+              "Gurrell Rachel",
+              "Gorman Donal",
+              "Whitlock Mark",
+              "Ogden Adam",
+              "Reynolds David S"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase II",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anticonvulsants",
+              "Cross-Over Studies",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Epilepsy, Reflex",
+              "Female",
+              "GABA Modulators",
+              "GABA-A Receptor Agonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30877186/"
+          },
+          {
+            "pmid": "11526976",
+            "title": "Role of central histaminergic system in lorazepam withdrawal syndrome in rats.",
+            "abstract": "Effects of histaminergic agonists and antagonists were investigated on withdrawal signs in lorazepam-dependent rats. Physical dependence was developed by giving lorazepam admixed with the food in the following dose schedule (in mg/kg given daily x days): 10 x 4, 20 x 4, 40 x 4, 80 x 4, and 120 x 7. The parameters observed during the periods of administration of lorazepam and after its withdrawal were spontaneous locomotor activity (SLA), reaction time to pain, foot shock aggression (FSA), and audiogenic seizures. During the withdrawal period, the rats were divided into groups of 10 each. Control-withdrawal group did not receive any drug. The drugs (in mg/kg administered intramuscularly)--L-histidine (50), histamine-N-methyl (2), promethazine (10), pheniramine (10), astemizole (10), and thioperamide (1)--were given separately in other groups daily during the withdrawal period. The withdrawal signs in control group were hyperkinesia, hyperaggression, and audiogenic seizures. L-Histidine,",
+            "journal": "Pharmacology, biochemistry, and behavior",
+            "year": "2001",
+            "authors": [
+              "Nath C",
+              "Gupta M B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acoustic Stimulation",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Epilepsy, Reflex",
+              "Histamine",
+              "Histamine Agonists",
+              "Histamine Antagonists",
+              "Lorazepam",
+              "Male",
+              "Motor Activity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11526976/"
+          },
+          {
+            "pmid": "11593256",
+            "title": "Lorazepam: an adjuvant therapy in patients with seizure and heliotaxis.",
+            "abstract": "Photosensitive epilepsy is a type of reflex epilepsy. Five percent of epileptics are photosensitive, i.e. they show photoconvulsive response (PCR) during intermittent photic stimulation. Patients with photogenic or photosensitive epilepsy have seizures with flickering light. They also exhibit heliotaxis. Sodium valproate and ethosuximide are the common drugs used. Even though benzodiazepines are useful, the specific effect of lorazepam is not mentioned. We report 5 cases of photosensitive epilepsy with inadequate response to usual antiepileptic drugs who had complete or near complete remission with lorazepam.",
+            "journal": "Neurology India",
+            "year": "2001",
+            "authors": [
+              "Oomman A",
+              "Madhusudanan M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anticonvulsants",
+              "Child",
+              "Epilepsy, Reflex",
+              "Female",
+              "Humans",
+              "Lorazepam",
+              "Male",
+              "Middle Aged",
+              "Sunlight"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11593256/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "reading seizures",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20reading%20seizures"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "startle epilepsy",
+        "txgnn_score": 0.9963143467903136,
+        "txgnn_rank": 953,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3743524",
+            "title": "Benzodiazepines in the treatment of children with epilepsy.",
+            "abstract": "Atonic seizures, atypical absence seizures, myoclonic seizures, tonic seizures, and infantile spasms are among the most difficult to control in children. Certain 1,4-benzodiazepines may be effective against these seizure types. Thus, clonazepam has been shown to reduce the frequency of absence, atypical absence, myoclonic, atonic, and complex partial seizures in children. Furthermore, both clonazepam and nitrazepam have been shown to be effective in the treatment of infantile spasms. However, their usefulness is limited by a deleterious effect on neurologic function, particularly on cognition. Controlled studies in animals and in adult patients and volunteers have demonstrated that clobazam has less neurotoxicity than 1,4-benzodiazepines and, in addition, may possess a psychotropic effect. Uncontrolled studies of clobazam in children suggest that this drug may be effective in the treatment of partial seizures, startle-induced seizures, infantile spasms, and Lennox-Gastaut syndrome. We ",
+            "journal": "Epilepsia",
+            "year": "1986",
+            "authors": [
+              "Farrell K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Anxiety Agents",
+              "Benzodiazepines",
+              "Benzodiazepinones",
+              "Child",
+              "Child, Preschool",
+              "Clobazam",
+              "Clonazepam",
+              "Diazepam",
+              "Drug Tolerance",
+              "Epilepsy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3743524/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "startle epilepsy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20startle%20epilepsy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "thinking seizures",
+        "txgnn_score": 0.9963143467903136,
+        "txgnn_rank": 954,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "30764",
+            "title": "Pharmacology of lorazepam.",
+            "abstract": "Lorazepam reduced conflict behavior in rats and monkeys, inhibited pentylenetetrazol- and electroshock-induced convulsions, suppressed footshock-induced fighting behavior, and prevented morphine-induced stimulation in mice at lower doses than other benzodiazepines tested. This behavioral profile suggests that lorazepam will be an active anti-anxiety agent in man at low doses.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1978",
+            "authors": [
+              "Gluckman M I",
+              "Stein L"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aggression",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Avoidance Learning",
+              "Behavior, Animal",
+              "Cats",
+              "Conditioning, Operant",
+              "Differential Threshold",
+              "Discrimination Learning",
+              "Dose-Response Relationship, Drug"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30764/"
+          },
+          {
+            "pmid": "19218022",
+            "title": "Emergency treatment of status epilepticus: current thinking.",
+            "abstract": "Current thinking about the acute treatment of status epilepticus (SE) emphasizes a more aggressive clinical approach to this common life-threatening neurologic emergency. In this review, the authors consider four concepts that can accelerate effective treatment of SE. These include (1) updating the definition of SE to make it more clinically relevant, (2) consideration of faster ways to initiate first-line benzodiazepine therapy in the prehospital environment, (3) moving to second-line agents more quickly in refractory status in the emergency department, and (4) increasing detection and treatment of unrecognized nonconvulsive SE in comatose neurologic emergency patients.",
+            "journal": "Emergency medicine clinics of North America",
+            "year": "2009",
+            "authors": [
+              "Millikan Dan",
+              "Rice Brian",
+              "Silbergleit Robert"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anesthesia, General",
+              "Anticonvulsants",
+              "Benzodiazepines",
+              "Electroencephalography",
+              "Emergency Medical Services",
+              "Emergency Service, Hospital",
+              "Humans",
+              "Lorazepam",
+              "Midazolam",
+              "Phenytoin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19218022/"
+          },
+          {
+            "pmid": "17675022",
+            "title": "Neonatal seizures: multicenter variability in current treatment practices.",
+            "abstract": "Standardized approaches to the treatment of neonatal seizures remain undeveloped. We assessed the type and number of anticonvulsants selected, blood levels attained, and postdischarge anticonvulsant treatment of neonatal seizures among five neonatal intensive care units in the United States between 2000-2003. Almost all of the 480 neonates (94%) with seizures were treated, initially with phenobarbital (82%), lorazepam (9%), phenytoin (2%), other anticonvulsants (1%), or a combination of the first two drugs (6%). While the majority of neonates were treated with one drug (59%), the number of anticonvulsants varied (P<0.0001), as did the peak serum phenobarbital levels (P<0.0001). The majority (75%) of survivors received anticonvulsant treatment after discharge. These neonates were more likely to have had abnormal electroencephalography or brain imaging, or to have needed a second anticonvulsant, compared with neonates whose drug therapy was discontinued. Anticonvulsant therapy is used in",
+            "journal": "Pediatric neurology",
+            "year": "2007",
+            "authors": [
+              "Bartha Agnes I",
+              "Shen Jessica",
+              "Katz Karol H",
+              "Mischel Rebecca E",
+              "Yap Katherine R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Consensus",
+              "Electroencephalography",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Intensive Care, Neonatal",
+              "Lorazepam",
+              "Male",
+              "Phenobarbital"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17675022/"
+          },
+          {
+            "pmid": "23097138",
+            "title": "Treatment of status epilepticus: an international survey of experts.",
+            "abstract": "As part of the development of the Neurocritical Care Society (NCS) Status Epilepticus (SE) Guidelines, the NCS SE Writing Committee conducted an international survey of SE experts.",
+            "journal": "Neurocritical care",
+            "year": "2013",
+            "authors": [
+              "Riviello James J",
+              "Claassen Jan",
+              "LaRoche Suzette M",
+              "Sperling Michael R",
+              "Alldredge Brian"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intravenous",
+              "Adult",
+              "Anticonvulsants",
+              "Child",
+              "Consensus",
+              "Expert Testimony",
+              "Humans",
+              "Hypnotics and Sedatives",
+              "Levetiracetam",
+              "Lorazepam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23097138/"
+          },
+          {
+            "pmid": "22926232",
+            "title": "Severe propylene glycol toxicity secondary to use of anti-epileptics.",
+            "abstract": "Propylene glycol toxicity presenting as high anion gap metabolic acidosis and osmolar gap has been extensively reported in literature, and most of them are secondary to intravenous lorazepam infusion. However, propylene glycol is used as a solvent in a number of medications that are frequently utilized in critical care setting, and hence one should be aware that the toxicity is possible from a variety of medication. Phenobarbital and phenytoin are one of those, and we hereby report a novel case of propylene glycol toxicity secondary to phenobarbital and phenytoin infusion in a patient with refractory status epilepticus. Furthermore, our patient had end-stage renal disease, which we think could have been an important precipitating factor for the toxicity. Because most of the symptoms from propylene glycol toxicity can mimic sepsis-which is very common in critical care unit patients-this life threatening scenario could be easily missed. Regular monitoring of osmolar gap is an easily avai",
+            "journal": "American journal of therapeutics",
+            "year": "2014",
+            "authors": [
+              "Pillai Unnikrishnan",
+              "Hothi Jatinder C",
+              "Bhat Zeenat Y"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acidosis",
+              "Anticonvulsants",
+              "Female",
+              "Humans",
+              "Kidney Failure, Chronic",
+              "Middle Aged",
+              "Osmolar Concentration",
+              "Phenobarbital",
+              "Phenytoin",
+              "Propylene Glycol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22926232/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "thinking seizures",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20thinking%20seizures"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "audiogenic seizures",
+        "txgnn_score": 0.9963143467903136,
+        "txgnn_rank": 955,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "21951369",
+            "title": "Acute drug administration in epilepsy: a review.",
+            "abstract": "To review acute administration of drugs in epilepsy for indications other than status epilepticus.",
+            "journal": "CNS neuroscience & therapeutics",
+            "year": "2011",
+            "authors": [
+              "Wolf Peter"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticonvulsants",
+              "Epilepsy",
+              "Humans",
+              "Risk Reduction Behavior",
+              "Seizures, Febrile",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21951369/"
+          },
+          {
+            "pmid": "10744342",
+            "title": "Effect of dopamine agonists and antagonists on the lorazepam withdrawal syndrome in rats.",
+            "abstract": "1. The effects of dopaminergic agonists and antagonists were investigated on withdrawal signs in lorazepam-dependent rats. Physical dependence was developed by giving lorazepam admixed with food in the following dose schedules: 10 x 4, 20 x 4, 40 x 4, 80 x 4 and 120 x 7 mg/kg, daily for x days. 2. The parameters observed during the periods of administration of lorazepam and after its withdrawal were spontaneous locomotor activity (SLA), reaction time to pain, foot shock aggression (FSA) and audiogenic seizures. 3. During the withdrawal period, rats were divided into groups of 10 rats each. One group did not receive any drug and served as the control withdrawal groups. Three other groups received, separately, one of the following dopamimetic drugs: (i) 200 mg/kg per day, i.m., L-dihydroxyphenylalanine (DOPA; +50 mg/kg per day, i.m., carbidopa); (ii) 2 mg/kg per day, i.m., amphetamine; or (iii) 1 mg/kg per day, i.m., apomorphine. The remaining groups received one of the following dopamin",
+            "journal": "Clinical and experimental pharmacology & physiology",
+            "year": "2000",
+            "authors": [
+              "Nath C",
+              "Saxena R C",
+              "Gupta M B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acoustic Stimulation",
+              "Aggression",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Dopamine Agonists",
+              "Dopamine Antagonists",
+              "Electroshock",
+              "Lorazepam",
+              "Male",
+              "Motor Activity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10744342/"
+          },
+          {
+            "pmid": "26630670",
+            "title": "Early-Onset Convulsive Seizures Induced by Brain Hypoxia-Ischemia in Aging Mice: Effects of Anticonvulsive Treatments.",
+            "abstract": "Aging is associated with an increased risk of seizures/epilepsy. Stroke (ischemic or hemorrhagic) and cardiac arrest related brain injury are two major causative factors for seizure development in this patient population. With either etiology, seizures are a poor prognostic factor. In spite of this, the underlying pathophysiology of seizure development is not well understood. In addition, a standardized treatment regimen with anticonvulsants and outcome assessments following treatment has yet to be established for these post-ischemic seizures. Previous studies have modeled post-ischemic seizures in adult rodents, but similar studies in aging/aged animals, a group that mirrors a higher risk elderly population, remain sparse. Our study therefore aimed to investigate early-onset seizures in aging animals using a hypoxia-ischemia (HI) model. Male C57 black mice 18-20-month-old underwent a unilateral occlusion of the common carotid artery followed by a systemic hypoxic episode (8% O2 for 30",
+            "journal": "PloS one",
+            "year": "2015",
+            "authors": [
+              "Wang Justin",
+              "Wu Chiping",
+              "Peng Jessie",
+              "Patel Nisarg",
+              "Huang Yayi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Age of Onset",
+              "Aging",
+              "Animals",
+              "Anticonvulsants",
+              "Cerebral Cortex",
+              "Disease Models, Animal",
+              "Hippocampus",
+              "Hypoxia-Ischemia, Brain",
+              "Injections, Intraperitoneal",
+              "Lorazepam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26630670/"
+          },
+          {
+            "pmid": "30877186",
+            "title": "Photosensitive epilepsy: Robust clinical efficacy of a selective GABA potentiator.",
+            "abstract": "The objective of this phase 2a study was to assess the activity of PF-06372865, a positive allosteric modulator (PAM) of α2/3/5 subunit-containing GABAA receptors with minimal activity at α1-containing receptors, which are believed to mediate many of the adverse events associated with benzodiazepines, in the epilepsy photosensitivity model as a proof-of-principle of efficacy.",
+            "journal": "Neurology",
+            "year": "2019",
+            "authors": [
+              "Gurrell Rachel",
+              "Gorman Donal",
+              "Whitlock Mark",
+              "Ogden Adam",
+              "Reynolds David S"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase II",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anticonvulsants",
+              "Cross-Over Studies",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Epilepsy, Reflex",
+              "Female",
+              "GABA Modulators",
+              "GABA-A Receptor Agonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30877186/"
+          },
+          {
+            "pmid": "10225031",
+            "title": "Evaluation of inhibitory effect of diphenhydramine on benzodiazepine dependence in rats.",
+            "abstract": "Effect of diphenhydramine was investigated on withdrawal signs in lorazepam dependent rats. Physical dependence was produced by giving lorazepam admixed with the food in the following dose schedule: 10 x 4, 20 x 4, 40 x 4, 80 x 4 and 120 x 7 (mg/kg, daily x days). The parameters observed during the periods of administration of lorazepam and after its withdrawal were spontaneous locomotor activity (SLA), body temperature, reaction time to pain, foot shock aggression (FSA) and audiogenic seizures. Diphenhydramine was administered orally in the dose schedules of once daily (10, 20 and 40 mg/kg) and twice daily (5, 10 and 20 mg/kg) in separate groups during the withdrawal period. The withdrawal signs observed in control group (without diphenhydramine) were hyperkinesia, hyperthermia, hyperaggression and audiogenic seizures. Hyperkinesia and hyperthermia were blocked in all the groups of diphenhydramine-treated rats. FSA was inhibited only by diphenhydramine (10 and 20 mg/kg) given twice da",
+            "journal": "Indian journal of physiology and pharmacology",
+            "year": "1997",
+            "authors": [
+              "Nath C",
+              "Patnaik G K",
+              "Saxena R C",
+              "Gupta M B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acoustic Stimulation",
+              "Administration, Oral",
+              "Aggression",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Body Temperature",
+              "Diphenhydramine",
+              "Female",
+              "Hypnotics and Sedatives",
+              "Lorazepam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10225031/"
+          },
+          {
+            "pmid": "6127668",
+            "title": "Some behavioral effects of chlorodesmethyldiazepam and lorazepam.",
+            "abstract": "Two benzodiazepine derivatives, chlorodesmethyldiazepam (CDD) and lorazepam (LOR) were compared in rats and mice in some behavioral tests. Both compounds similarly depressed audiogenic seizures, facilitated the behavior suppressed by punishment (conflict test) and produced muscle relaxant and sedative effects as measured in a rota-rod test. In low and moderate doses CDD paradoxically increased shock-induced fighting while in a higher dose it strongly reduced this behavioral pattern.",
+            "journal": "Polish journal of pharmacology and pharmacy",
+            "year": "1981",
+            "authors": [
+              "Kostowski W",
+              "Płaźnik A",
+              "Puciłowski O",
+              "Trzaskowska E",
+              "Lipińska T"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acoustic Stimulation",
+              "Aggression",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Behavior, Animal",
+              "Benzodiazepines",
+              "Diazepam",
+              "Humans",
+              "Lorazepam",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6127668/"
+          },
+          {
+            "pmid": "11526976",
+            "title": "Role of central histaminergic system in lorazepam withdrawal syndrome in rats.",
+            "abstract": "Effects of histaminergic agonists and antagonists were investigated on withdrawal signs in lorazepam-dependent rats. Physical dependence was developed by giving lorazepam admixed with the food in the following dose schedule (in mg/kg given daily x days): 10 x 4, 20 x 4, 40 x 4, 80 x 4, and 120 x 7. The parameters observed during the periods of administration of lorazepam and after its withdrawal were spontaneous locomotor activity (SLA), reaction time to pain, foot shock aggression (FSA), and audiogenic seizures. During the withdrawal period, the rats were divided into groups of 10 each. Control-withdrawal group did not receive any drug. The drugs (in mg/kg administered intramuscularly)--L-histidine (50), histamine-N-methyl (2), promethazine (10), pheniramine (10), astemizole (10), and thioperamide (1)--were given separately in other groups daily during the withdrawal period. The withdrawal signs in control group were hyperkinesia, hyperaggression, and audiogenic seizures. L-Histidine,",
+            "journal": "Pharmacology, biochemistry, and behavior",
+            "year": "2001",
+            "authors": [
+              "Nath C",
+              "Gupta M B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acoustic Stimulation",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Epilepsy, Reflex",
+              "Histamine",
+              "Histamine Agonists",
+              "Histamine Antagonists",
+              "Lorazepam",
+              "Male",
+              "Motor Activity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11526976/"
+          },
+          {
+            "pmid": "8707372",
+            "title": "Effect of calcium channel blockers on withdrawal syndrome of lorazepam in rats.",
+            "abstract": "Effects of calcium channel blockers were investigated on withdrawal signs in lorazepam dependent rats. Physical dependence was produced by giving lorazepam admixed with the food in the following dose schedule: 10 x 4, 20 x 4, 40 x 4, 80 x 4 and 120 x 7 (mg/kg daily x days). Parameters such as body weight, food intake, spontaneous locomotor activity (SLA), body temperature, reaction time to pain, foot shock-aggression (FSA) and audiogenic seizures were observed during the period of administration of lorazepam and after its withdrawal. Calcium channel blockers viz. verapamil, nifedipine and nimodipine in different doses were administered orally twice daily in separate groups during the withdrawal period. The withdrawal signs observed in control group (without calcium channel blockers) were hyperkinesia, hyperthermia, hyper-aggression and audiogenic seizures. The administration of verapamil (5-20 mg/kg), nifedipine (1.75-7 mg/kg) and nimodipine (5-20 mg/kg) during the withdrawal period of",
+            "journal": "The Indian journal of medical research",
+            "year": "1996",
+            "authors": [
+              "Gupta M B",
+              "Nath C",
+              "Patnaik G K",
+              "Saxena R C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acoustic Stimulation",
+              "Aggression",
+              "Animals",
+              "Body Temperature",
+              "Calcium Channel Blockers",
+              "Female",
+              "Lorazepam",
+              "Male",
+              "Motor Activity",
+              "Rats"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8707372/"
+          },
+          {
+            "pmid": "11593256",
+            "title": "Lorazepam: an adjuvant therapy in patients with seizure and heliotaxis.",
+            "abstract": "Photosensitive epilepsy is a type of reflex epilepsy. Five percent of epileptics are photosensitive, i.e. they show photoconvulsive response (PCR) during intermittent photic stimulation. Patients with photogenic or photosensitive epilepsy have seizures with flickering light. They also exhibit heliotaxis. Sodium valproate and ethosuximide are the common drugs used. Even though benzodiazepines are useful, the specific effect of lorazepam is not mentioned. We report 5 cases of photosensitive epilepsy with inadequate response to usual antiepileptic drugs who had complete or near complete remission with lorazepam.",
+            "journal": "Neurology India",
+            "year": "2001",
+            "authors": [
+              "Oomman A",
+              "Madhusudanan M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anticonvulsants",
+              "Child",
+              "Epilepsy, Reflex",
+              "Female",
+              "Humans",
+              "Lorazepam",
+              "Male",
+              "Middle Aged",
+              "Sunlight"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11593256/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "audiogenic seizures",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20audiogenic%20seizures"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "eating seizures",
+        "txgnn_score": 0.9963143467903136,
+        "txgnn_rank": 956,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "15123032",
+            "title": "Pseudoseizures and hysterical stridor.",
+            "abstract": "Differentiation of pseudoseizures from epileptic seizures and hysterical stridor from asthma is key to the treatment of patients. Both pseudoseizures and hysterical stridor are associated commonly with sexual abuse, eating disorders, depression, substance abuse, anxiety disorders, and personality disorders. Failure to reach an appropriate diagnosis results in inappropriate medical care including recurrent intubations, antiepileptic drugs, and excessive hospitalizations. This case represents the first instance of reported pseudoseizures in a patient with hysterical stridor secondary to childhood sexual abuse.",
+            "journal": "Epilepsy & behavior : E&B",
+            "year": "2004",
+            "authors": [
+              "Kaufman Kenneth R",
+              "Mohebati Arash",
+              "Sotolongo Anays"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Academic Medical Centers",
+              "Adult",
+              "Anti-Anxiety Agents",
+              "Anticonvulsants",
+              "Antidepressive Agents, Second-Generation",
+              "Asthma",
+              "Bronchodilator Agents",
+              "Child",
+              "Child Abuse, Sexual",
+              "Citalopram"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15123032/"
+          },
+          {
+            "pmid": "9888617",
+            "title": "Cyamemazine decreases ethanol intake in rats and convulsions during ethanol withdrawal syndrome in mice.",
+            "abstract": "The effect of cyamemazine a dopamine D2 receptor antagonist on voluntary ethanol consumption in rats and on ethanol withdrawal in mice was examined. Male Sprague-Dawley rats were tested in a free choice (water and 10% ethanol) experiment and consumed 5 g/kg ethanol daily. Rats were treated daily IP with cyamemazine (0.5, 1, or 2 mg/kg) or acamprosate (100 mg/kg) during 2 weeks. Both acamprosate and 1 mg/kg cyamemazine significantly decreased ethanol intake by 45% without affecting either fluid or food intake. The lowest dose of cyamemazine had no effect on alcohol intake but increased food intake. The highest dose had no effect on any variables. During the post-treatment period, only 1 mg/kg cyamemazine decreased both ethanol and fluid intakes. Mice were made dependent on alcohol using a chocolate fluid diet containing increasing concentrations of alcohol and withdrawn after 9 days. Mice were treated with cyamemazine (1 or 0.5 mg/kg, respectively) or with the same doses of lorazepam ac",
+            "journal": "Psychopharmacology",
+            "year": "1998",
+            "authors": [
+              "Naassila M",
+              "Legrand E",
+              "d'Alche-Birée F",
+              "Daoust M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alcohol Deterrents",
+              "Alcohol Drinking",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Antipsychotic Agents",
+              "Central Nervous System Depressants",
+              "Eating",
+              "Ethanol",
+              "Lorazepam",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9888617/"
+          },
+          {
+            "pmid": "28350718",
+            "title": "Serotonin Syndrome in a Pediatric Patient After Vilazodone Ingestion.",
+            "abstract": "Serotonin syndrome (SS) is a serious toxicity that manifests with symptoms such as tremor, hyperthermia, agitation, and altered mental status that may lead to seizures, coma, or death. Selective serotonin reuptake inhibitors may precipitate SS, particularly in combination with other drugs that possess serotonergic activity. We present a case of SS in a 14-month-old after an ingestion of the selective serotonin reuptake inhibitor vilazodone.",
+            "journal": "Pediatric emergency care",
+            "year": "2018",
+            "authors": [
+              "Laliberte Benjamin",
+              "Kishk Omayma A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Eating",
+              "Humans",
+              "Infant",
+              "Lorazepam",
+              "Serotonin Syndrome",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Vilazodone Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28350718/"
+          },
+          {
+            "pmid": "23640150",
+            "title": "Status epilepticus in a child secondary to ingestion of skin-lightening cream.",
+            "abstract": "The popularity of the Internet and online media has led to the increased availability of prescription-strength, skin-lightening products contributing to a rise in their use among people with various skin pigment disorders. These products may contain a wide variety of active ingredients such as heavy metals, hydroquinone, and corticosteroids that can be highly toxic, especially after prolonged application. For decades, there have been case reports of both corticosteroid and heavy metal toxicity related to skin-lightening cream use. We report a case of a child who developed status epilepticus after ingesting a skin-lightening solution containing 2% hydroquinone. The toxicodynamics of hydroquinone and its effects on the central nervous system are discussed.",
+            "journal": "Pediatric emergency care",
+            "year": "2013",
+            "authors": [
+              "Burns Jarrett M",
+              "Marino Andrew",
+              "Manno Mariann",
+              "Rhyee Sean",
+              "Boyer Edward W"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Ataxia",
+              "Eating",
+              "Emergencies",
+              "Humans",
+              "Hydroquinones",
+              "Infant",
+              "Intubation, Intratracheal",
+              "Lorazepam",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23640150/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "eating seizures",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20eating%20seizures"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "orgasm-induced seizures",
+        "txgnn_score": 0.9963143467903136,
+        "txgnn_rank": 957,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "orgasm-induced seizures",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20orgasm-induced%20seizures"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "micturation-induced seizures",
+        "txgnn_score": 0.9963143467903136,
+        "txgnn_rank": 958,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "micturation-induced seizures",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20micturation-induced%20seizures"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "acute encephalopathy with biphasic seizures and late reduced diffusion",
+        "txgnn_score": 0.9946958422660828,
+        "txgnn_rank": 1254,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Lorazepam",
+          "disease": "acute encephalopathy with biphasic seizures and late reduced diffusion",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Lorazepam%20acute%20encephalopathy%20with%20biphasic%20seizures%20and%20late%20reduced%20diffusion"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Lorazepam",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00186",
+    "name": "Lorazepam",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Lorazepam"
+      },
+      "queried_at": "2026-03-10T13:15:46.848307",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Lorazepam"
+      },
+      "queried_at": "2026-03-10T13:15:46.860410",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Lorazepam"
+      },
+      "queried_at": "2026-03-10T13:15:59.066490",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T13:16:01.121005",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T13:16:05.572790",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T13:16:06.778349",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-10T13:16:08.567352",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-10T13:16:24.365054",
+      "status": "success",
+      "result_count": 23,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-10T13:16:28.080099",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-10T13:16:29.020485",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-10T13:16:32.927138",
+      "status": "success",
+      "result_count": 18,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "reading seizures"
+      },
+      "queried_at": "2026-03-10T13:16:33.652823",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "reading seizures"
+      },
+      "queried_at": "2026-03-10T13:16:37.520637",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "reading seizures"
+      },
+      "queried_at": "2026-03-10T13:16:38.472795",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "reading seizures"
+      },
+      "queried_at": "2026-03-10T13:16:45.058016",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "startle epilepsy"
+      },
+      "queried_at": "2026-03-10T13:16:46.519299",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "startle epilepsy"
+      },
+      "queried_at": "2026-03-10T13:16:50.344025",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "startle epilepsy"
+      },
+      "queried_at": "2026-03-10T13:16:52.119078",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "startle epilepsy"
+      },
+      "queried_at": "2026-03-10T13:16:54.678455",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "thinking seizures"
+      },
+      "queried_at": "2026-03-10T13:16:55.504243",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "thinking seizures"
+      },
+      "queried_at": "2026-03-10T13:16:59.539044",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "thinking seizures"
+      },
+      "queried_at": "2026-03-10T13:17:01.202830",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "thinking seizures"
+      },
+      "queried_at": "2026-03-10T13:17:03.785199",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "audiogenic seizures"
+      },
+      "queried_at": "2026-03-10T13:17:04.348853",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "audiogenic seizures"
+      },
+      "queried_at": "2026-03-10T13:17:07.817960",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "audiogenic seizures"
+      },
+      "queried_at": "2026-03-10T13:17:09.670939",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "audiogenic seizures"
+      },
+      "queried_at": "2026-03-10T13:17:13.183731",
+      "status": "success",
+      "result_count": 9,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "eating seizures"
+      },
+      "queried_at": "2026-03-10T13:17:13.870149",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "eating seizures"
+      },
+      "queried_at": "2026-03-10T13:17:18.140698",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "eating seizures"
+      },
+      "queried_at": "2026-03-10T13:17:19.536111",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "eating seizures"
+      },
+      "queried_at": "2026-03-10T13:17:23.176793",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "orgasm-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:25.125107",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "orgasm-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:29.948162",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "orgasm-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:31.001214",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "orgasm-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:32.383048",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "micturation-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:33.558389",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "micturation-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:38.624025",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "micturation-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:40.321058",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "micturation-induced seizures"
+      },
+      "queried_at": "2026-03-10T13:17:41.719697",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "acute encephalopathy with biphasic seizures and late reduced diffusion"
+      },
+      "queried_at": "2026-03-10T13:17:43.221573",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "acute encephalopathy with biphasic seizures and late reduced diffusion"
+      },
+      "queried_at": "2026-03-10T13:17:47.824497",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "acute encephalopathy with biphasic seizures and late reduced diffusion"
+      },
+      "queried_at": "2026-03-10T13:17:49.421888",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Lorazepam",
+        "disease": "acute encephalopathy with biphasic seizures and late reduced diffusion"
+      },
+      "queried_at": "2026-03-10T13:17:51.288809",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T13:17:51.326047"
+  }
+}

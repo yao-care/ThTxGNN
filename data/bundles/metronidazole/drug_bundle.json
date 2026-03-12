@@ -1,0 +1,2532 @@
+{
+  "drug": {
+    "inn": "Metronidazole",
+    "drugbank_id": "DB00916",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "pneumocystosis",
+        "txgnn_score": 0.9998992681503296,
+        "txgnn_rank": 43,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01909076",
+            "title": "Implementing Opioid Risk Reduction Strategies Into Primary Care Practice",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2014-01",
+            "completion_date": "2016-03",
+            "country": "United States",
+            "enrollment": 53,
+            "brief_summary": "Prescription opioid misuse is a significant public health problem as well as a patient safety concern. Primary care providers are the leading prescribers of opioids for chronic pain, yet few providers follow standard practice guidelines regarding assessment and monitoring. The investigators propose a novel system change in delivery of primary care services to decrease misuse of and addiction to prescription opioids for patients with chronic pain.\n\nThe proposed intervention for the overall projec",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All PCPs (physicians, doctors of osteopathy, nurse practitioners, and physicians' assistants) at participating sites with 4 patients prescribed opioid treatment along with their patients greater than or equal to age 18 who have 1) 3 or more completed visits to the primary care",
+            "endpoints": [
+              "PCP adherence to chronic opioid therapy guidelines"
+            ],
+            "sponsor": "Boston Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT01909076"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06160947",
+            "title": "Impact of Chiropractic Care on Opioid Use Among Adults With Chronic Non-Cancer Spinal Pain: A Pilot Cluster Randomized Controlled Trial (ACCESS-DC Pilot)",
+            "phase": "NA",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-04-01",
+            "completion_date": "2028-03-31",
+            "country": "Canada",
+            "enrollment": 24,
+            "brief_summary": "The investigators will conduct a pilot cluster randomized controlled trial (RCT) of chiropractic care added to usual medical care, versus usual medical care alone, for adult patients prescribed opioid therapy for chronic non-cancer spinal pain at four community health centers (CHCs) in Canada. These centers provide services to communities and vulnerable populations with high unemployment rates, multiple co-morbidities, and high rates of chronic musculoskeletal disorders that are commonly managed",
+            "eligibility_criteria": "Inclusion Criteria:\n\nClusters\n\n* CHC in Canada\n* Roster of ≥ 3,500 patients\n* One or more opioid-reducing strategies implemented as part of their standard medical services (e.g., chart audits, tracked performance metrics related to high dose prescribing)\n\nParticipants\n\n* Adult patients (aged ≥ 18 ye",
+            "endpoints": [
+              "Participant Enrolment",
+              "Treatment Allocation",
+              "Refinement of Data Collection Methods"
+            ],
+            "sponsor": "McMaster University",
+            "url": "https://clinicaltrials.gov/study/NCT06160947"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02731716",
+            "title": "Transforming Primary Care Payment in Hawaii",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2016-04",
+            "completion_date": "2026-07",
+            "country": "N/A",
+            "enrollment": 117,
+            "brief_summary": "To design an innovative payment system that improves upon fee-for-service (FFS), incorporates behavioral economic principles, and improves work satisfaction among primary care physicians (PCPs) while improving quality and reducing health spending at the state level. Second, to test the incremental effectiveness of two additional interventions: (1) shared financial incentives between physicians and poorly controlled diabetes and (2) social comparisons ranking physicians on quality metric performa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HMSA physicians who are part of a Provider Organization that is participating in the payment transformation pilot.\n\nExclusion Criteria:\n\n* Any physician who is not part of a participating Provider Organization.",
+            "endpoints": [
+              "Improvement in Provider Performance"
+            ],
+            "sponsor": "University of Pennsylvania",
+            "url": "https://clinicaltrials.gov/study/NCT02731716"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06638099",
+            "title": "Increasing Use of Continuous Glucose Monitors Among Patients With Type 2 Diabetes",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2024-11-04",
+            "completion_date": "2026-06-30",
+            "country": "United States",
+            "enrollment": 318,
+            "brief_summary": "Study Overview:\n\nThis interventional study aims to assess whether training healthcare professionals (HCPs) increases the number of continuous glucose monitor (CGM) prescriptions for patients with Type 2 Diabetes in a Federally Qualified Health Center serving a predominantly Hispanic/Latino population.\n\nResearch Questions:\n\nDoes HCP training enhance CGM prescription rates in a primary care setting? Does receiving a CGM prescription lead to improved Type 2 Diabetes control, as measured by Hemoglob",
+            "eligibility_criteria": "Participant Eligibility:\n\nInclusion:\n\n* adults 18 years or older,\n* have been diagnosed with T2D at least one year prior to recruitment,\n* are a current patient of one of the three participating Innercare Clinics with no -\n* plans to discontinue their care at Innercare within the next 6 months,\n* ca",
+            "endpoints": [
+              "CGM prescription rates"
+            ],
+            "sponsor": "San Diego State University",
+            "url": "https://clinicaltrials.gov/study/NCT06638099"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03451630",
+            "title": "Leveraging Integrated Models of Care to Improve Patient-Centered Outcomes for Publicly-Insured Adults With Complex Health Care Needs",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2018-09-04",
+            "completion_date": "2022-11-30",
+            "country": "United States",
+            "enrollment": 1400,
+            "brief_summary": "Multiple chronic conditions (MCC) are widely recognized as the U.S. public health challenge of the 21st century. These physical and behavioral health conditions take a large toll on those living with chronic diseases, including many who are publicly insured, as well as caregivers and society. While evidence-based integrated care models can improve outcomes for individuals with MCC, such models have not yet been widely implemented. Insurance providers/payers have innovative system features that c",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Medicaid or dual-eligible (Medicare-Medicaid) adults, ages 21 years and older with Multiple Chronic Conditions (MCC).\n2. Have at least one physical health condition (e.g., cardiovascular disease, hypertension, COPD, diabetes).\n3. Have at least one additional physical or behav",
+            "endpoints": [
+              "Patient Activation",
+              "Change in Health Status",
+              "90-Day Hospital Readmission Rate"
+            ],
+            "sponsor": "University of Pittsburgh",
+            "url": "https://clinicaltrials.gov/study/NCT03451630"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05340426",
+            "title": "Porcine Kidney Xenotransplantation in Patients With End-Stage Kidney Disease",
+            "phase": "PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2024-01-31",
+            "completion_date": "2029-06-30",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The mismatch between organ supply and demand results in the deaths of thousands of Americans each year. Our research group aims to solve this unmitigated health care crisis by translating advances in xenotransplantation to humans and expanding organ supply in a sustainable fashion using genetically modified pigs as a source of organs. We propose here a phase I clinical trial of porcine kidney xenotransplantation into 20 people with end-stage kidney disease. Source donor animals are pigs with 10 ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Ages 18-75 years\n* Body mass index (BMI) 18-40 kg/m2\n* Waitlisted for kidney allotransplantation at UAB\n* Dialysis dependent\n* Proficient in the English language\n* Presence of risk factors for\n\n  * high wait list mortality, AND/OR\n  * anticipated or actual prolonged wait time ",
+            "endpoints": [
+              "Patient Survival After Porcine Transplant",
+              "Patient Survival After Porcine Transplant",
+              "Patient Survival After Porcine Transplant"
+            ],
+            "sponsor": "University of Alabama at Birmingham",
+            "url": "https://clinicaltrials.gov/study/NCT05340426"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06597123",
+            "title": "AI-Augmented Motivational Interviewing Training for Primary Care",
+            "phase": "NA",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-07-01",
+            "completion_date": "2028-06-30",
+            "country": "United States",
+            "enrollment": 150,
+            "brief_summary": "This study will examine the impact of training primary care providers (PCPs) in motivational interviewing (MI) using artificial intelligence (AI) to augment the training process. MI is a patient-centered approach to engaging patients in their own care. There will be a control group and two intervention groups, with the intervention groups receiving a different amount of MI training. The hypothesis is that the AI-augmented MI training will result in improved patient outcomes, improved clinician w",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Primary care providers (physicians, physician assistants, and nurse practitioners) employed in primary care practices of the Premier Physician Network of Premier Health (southwest Ohio) are eligible to participate.\n\nExclusion Criteria:\n\n* Eligible PCPs who opt to not provide i",
+            "endpoints": [
+              "MI Communication Metrics",
+              "MI Spirit"
+            ],
+            "sponsor": "Wright State University",
+            "url": "https://clinicaltrials.gov/study/NCT06597123"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02972203",
+            "title": "MINDFUL-PC: Integrating Mindfulness Into the Patient-Centered Medical Home - A Pilot Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2015-10",
+            "completion_date": "2018-08-30",
+            "country": "United States",
+            "enrollment": 87,
+            "brief_summary": "Specific aims for this pilot study are:\n\n(Behavioral health outcomes aim): Among primary care patients, compare the effectiveness of an 8-week mindfulness-based intervention (Mindfulness Training for Primary Care\\[MTPC\\]) vs. a 60-minute introduction to mindfulness plus referral to community resources on measures related to anxiety, depression, and stress, and self-management of chronic illness.\n\n(Medical Regimen Adherence Aim): Among primary care patients, compare the effectiveness of MTPC vs. ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Current CHA patient with an enrolled CHA primary care doctor.\n* CHA patients 18 years of age and older.\n* Able to tolerate and participate in interviews and engage in all procedures.\n* Able to give written consent in English OR willing and able to provide consent and complete ",
+            "endpoints": [
+              "Change in Perceived Stress Scale",
+              "Change in Patient Reported Outcomes Measurement Information System - Anxiety Short Form (PROMIS-ASF)",
+              "Change in Patient Reported Outcomes Measurement Information System - Depression Short Form (PROMIS-DSF)"
+            ],
+            "sponsor": "Cambridge Health Alliance",
+            "url": "https://clinicaltrials.gov/study/NCT02972203"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05892666",
+            "title": "The Right Care, for the Right Patient, at the Right Time, by the Right Provider: A Value-based Comparison of the Management of Ambulatory Patients With Acute Health Concerns in walk-in Clinics, Primary Care Physician Practices and Emergency Departments",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2023-06-15",
+            "completion_date": "2025-12-31",
+            "country": "Canada",
+            "enrollment": 4000,
+            "brief_summary": "INTRODUCTION Whereas low-acuity ambulatory patients have been cited as a source of emergency department (ED) overuse or misuse, it is argued that patient evaluation in the ED may end up being more cost-effective. The COVID-19 pandemic has complicated the debate by shifting primary care practices (PCP) and walk-in clinics (WIC) towards telemedicine, a consultation modality presumed to be more efficient under the circumstances.\n\nOBJECTIVES To compare, from patient and healthcare system perspective",
+            "eligibility_criteria": "We shall include patients:\n\n1. aged 18 years and over;\n2. seen in person or via telemedicine in an ED, a walk-in clinic, or the primary care practice where they are registered;\n3. ambulatory during the entire visit or consultation;\n4. with one of the following presenting complaints:\n\n   1. acute dia",
+            "endpoints": [
+              "Median PROM-ED scores"
+            ],
+            "sponsor": "CHU de Quebec-Universite Laval",
+            "url": "https://clinicaltrials.gov/study/NCT05892666"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03542084",
+            "title": "Impact of Endocrinology Auto-triggered E-consults on Glycemic Control",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2018-09-04",
+            "completion_date": "2020-08-30",
+            "country": "United States",
+            "enrollment": 305,
+            "brief_summary": "Diabetes currently affects 25.8 million people in the U.S. Patients with diabetes are generally managed, at least initially, by a primary care practitioner (PCP). As the prevalence of diabetes continues to rise, PCPs are under increased pressure to achieve recommended glycemic targets. Failure to achieve these targets has been shown to increase clinical complications and cost of care.\n\nEndocrinology referral is common for those patients not meeting A1c goals. Unfortunately, access to specialty e",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients with a PCP at Massachusetts General Hospital and HbA1c between 8-10 who have seen their PCP in the office within 18 months\n\nExclusion Criteria:\n\n* Terminal Illness\n* Prior visit with MGH diabetes center\n* Prior diabetes e-consult completed",
+            "endpoints": [
+              "Glycemic Control"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03542084"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03466866",
+            "title": "Randomized Controlled Trial of Preventing and Reducing Emergency Visits in Diabetes Through Education and Telehealth vs. Diabetes Education to Reduce Emergency Visits and Hospitalizations Over 12 Months in African Americans Americans",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2019-01-10",
+            "completion_date": "2023-09-30",
+            "country": "United States",
+            "enrollment": 156,
+            "brief_summary": "This RCT will compare the efficacy of Preventing and Reducing Emergency Visits in Diabetes through Education and Trust (PREVENT) vs. intensive home-based diabetes (DM) education \\[i.e., Enhanced Usual Care (EUC)\\] to reduce DM-related emergency department (ED) visits and/or hospitalizations over 12 months (primary outcome) in 230 blacks with diabetes, 50 years and older, after an ED visit. A moderation analysis will determine whether participants who reside in low- vs. high-need communities \\[de",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. African American race (self-identified)\n2. Age ≥ 40 years\n3. Type 1 or 2 DM\n4. A DM-related cause for the ED visit in the opinion of the ED physician\n5. Has a Jefferson PCP (participants receiving PREVENT will have a telehealth visit with their Jefferson PCP).\n\nExclusion Crit",
+            "endpoints": [
+              "Number of Incident Diabetes-related ED Visits and/or Hospitalizations"
+            ],
+            "sponsor": "Thomas Jefferson University",
+            "url": "https://clinicaltrials.gov/study/NCT03466866"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02571673",
+            "title": "Feasibility Study of the Head and Neck Survivorship Tool: Assessment and Recommendations (HN-STAR)",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-10-05",
+            "completion_date": "2023-02-15",
+            "country": "United States",
+            "enrollment": 65,
+            "brief_summary": "This study is being done to understand how survivors of head and neck cancer think they can make HN-STAR (the Survivor Self-Assessment, the survivorship clinic experience, and the Survivorship Care Plan the best it can be. Once the investigators have your input and input from other survivors, they can make changes to HN-STAR, so that they can test this tool in a larger study. The larger study will tell them whether using HN-STAR improves the care of head and neck cancer survivors.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAim 1: Part 1\n\n* Have completed treatment for head and neck cancer at least 1 year prior to survivorship visit and have no evidence of disease\n* Have a primary care provider\n* Be able to provide informed consent\n* Be able to speak and read English\n* Be at least 18 years old\n\nAim",
+            "endpoints": [
+              "Recommendations for Cancer Surveillance (Patient-reported Outcomes From the Survivor Self-Assessment)"
+            ],
+            "sponsor": "Memorial Sloan Kettering Cancer Center",
+            "url": "https://clinicaltrials.gov/study/NCT02571673"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04576715",
+            "title": "Promoting Recovery in Children Who Sustain a Mild Traumatic Brain Injury: mTBI Evaluation and Management (TEaM)",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2022-08-19",
+            "completion_date": "2027-01",
+            "country": "United States",
+            "enrollment": 1000,
+            "brief_summary": "The purpose of this study is to evaluate a multi-disciplinary, multi-setting intervention with the goal of improving outcomes for children who have experienced a mild traumatic brain injury (mTBI). The project aims to improve and support mTBI diagnosis and management, and improve critical decision making by clinicians during their interaction with the injured child, their family, and their school.",
+            "eligibility_criteria": "PROVIDER INCLUSION CRITERIA\n\n* Actively practicing physician or APP in the CHOA System\n* Primary practice in either ED, UC, and/or PCP\n\nPROVIDER EXCLUSION CRITERIA\n\n* Inability or unwillingness to provide written/electronic informed consent\n* Unable to fulfill study training / education requirements",
+            "endpoints": [
+              "Change in CLASS survey score",
+              "Change in Post-concussion symptom inventory (PCSI) total score",
+              "Change in Peds-QL score"
+            ],
+            "sponsor": "Emory University",
+            "url": "https://clinicaltrials.gov/study/NCT04576715"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02208947",
+            "title": "Consumer Engagement to Increase Advance Care Planning",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2014-04",
+            "completion_date": "2015-02",
+            "country": "United States",
+            "enrollment": 77,
+            "brief_summary": "The specific aims of the project are: 1) to test the effectiveness of consumer-directed financial incentives paired with provider-directed financial incentives, compared to provider-directed financial incentives alone, for increasing advance care planning (ACP) among Medicaid beneficiaries; and 2) to assess perceptions regarding the appropriateness of consumer-directed financial incentives for ACP among study participants. The investigators hypothesize that consumer-directed financial incentives",
+            "eligibility_criteria": "PCP Subject Inclusion Criteria:\n\n* Partnership HealthPlan of California Medicaid and/or Medicare provider\n\nPCP Subject Exclusion Criteria:\n\n* Prohibition by clinic director\n\nPatient Subject Inclusion Criteria:\n\n* Partnership HealthPlan of California Medicaid and/or Medicare enrollee;\n* Age 65+ or \\<",
+            "endpoints": [
+              "Advance care planning conversation with provider"
+            ],
+            "sponsor": "University of Pittsburgh",
+            "url": "https://clinicaltrials.gov/study/NCT02208947"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04463914",
+            "title": "Development and Testing of a Behavioral Activation Mobile Therapy for Elevated Depressive Symptoms",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2021-10-12",
+            "completion_date": "2024-03-29",
+            "country": "United States",
+            "enrollment": 649,
+            "brief_summary": "The purpose of this research study is to evaluate a mobile application (app) for depression treatment. Participants will be randomly assigned to either receive the mobile app, \"Moodivate\", or not. If provided with Moodivate, participants will be asked to use the app regularly, at least once per day, throughout the study duration. Participants will be asked to complete electronic questionnaire measures throughout the study period. Participation in this study will take about 12 weeks.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Elevated depressive symptoms, defined as a score of \\> 10 on the Patient Health Questionnaire-9 (PHQ-9)57\n* Age 18+\n* Currently own an iOS- or Android-compatible smartphone\n* Report willingness to utilize a mobile app for the treatment of depressed mood (response of \"yes\" on y",
+            "endpoints": [
+              "Mean Score of Depressive Symptoms"
+            ],
+            "sponsor": "Medical University of South Carolina",
+            "url": "https://clinicaltrials.gov/study/NCT04463914"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03826758",
+            "title": "E-DYNAMIC - Enhanced Dynamic Clinical Decision Support to Identify Patients With Chronic Kidney Disease and Improve Cardiovascular Health",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2021-01-01",
+            "completion_date": "2023-09-30",
+            "country": "United States",
+            "enrollment": 8000,
+            "brief_summary": "Chronic kidney disease (CKD) is a highly prevalent, poorly recognized and undertreated and increases risk of atherosclerotic cardiovascular disease (ASCVD) and mortality. ASCVD risk interventions such as statin medications are not effective if initiated when kidney disease is advanced. Thus, early recognition of CKD is important for effective ASCVD risk management. Patient centered medical homes (PCMH)s (clinics which include nurse educators, dietitians, pharmacists and social workers) were desi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All patients with chronic kidney disease (50 years and older, non-dialysis dependent and who had not received kidney transplant) seen by the primary care providers during the study period will be included in this study.\n* Practicing primary provider at any of the Edward Hines ",
+            "endpoints": [
+              "Proportion of a primary care providers' patients with chronic kidney disease (CKD) with clinically recognized chronic kidney disease (CKD).",
+              "Proportion of a primary care providers' patients with CKD prescribed at least two of the atherosclerotic cardiovascular disease- (ASCVD) CKD care metrics.",
+              "Proportion of patients who utilize at least two of the ASCVD-CKD care interventions."
+            ],
+            "sponsor": "Loyola University",
+            "url": "https://clinicaltrials.gov/study/NCT03826758"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04631120",
+            "title": "Team-based Technology-enabled Integrated Patient/Caregiver-focused Dementia Study",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2021-10",
+            "completion_date": "2026-10",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Dementia patients experience memory and other cognitive function deterioration leading to loss of independent function. Care required for dementia is multifactorial, spanning cognitive, behavioral, emotional, and physical symptoms, and complicates aspects of daily living. This places tremendous strain on caregivers who, in turn, experience their own increased physical and mental health needs. The current care model focuses primarily on patient pharmacological management but misses the mark on ca",
+            "eligibility_criteria": "Inclusion Criteria include:\n\n* Alzheimer's Disease or Vascular Dementia diagnosis provided by a study investigator\n* 2 or 3 on the Clinical Dementia Rating Scale at time of enrollment\n* Mini Mental Status Examination score of \\>10 or \\<25 administered at the time of enrollment\n* Willingness and abil",
+            "endpoints": [
+              "Days Alive and At Home"
+            ],
+            "sponsor": "Vanderbilt University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT04631120"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04198974",
+            "title": "The Canadian Underage Substance Use Prevention Trial",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2019-12-01",
+            "completion_date": "2022-06",
+            "country": "Canada",
+            "enrollment": 12500,
+            "brief_summary": "Despite having made some strides with respect to reducing adolescent drinking rates, illicit substance use and substance use disorders (SUDs) remain significantly above national targets for health promotion and disease prevention in Canada and the United States. Now, more than ever, there is a pressing need for effective substance abuse prevention in Canada, particularly for those most at risk of developing substance use problems including prescription drug misuse. Clearly, new approaches to pre",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Survey: All year 10 students with either active parental consent or youth assent (depending on local site requirements) will be eligible to participate in the survey\n* PreVenture: Eligibility will include assenting to study protocol and scoring one or more Standard Deviation (",
+            "endpoints": [
+              "Effectiveness (primary outcome): Severity of substance use problems",
+              "Implementation Facilitation (primary outcome): Severity of substance use problems"
+            ],
+            "sponsor": "St. Justine's Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04198974"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05256303",
+            "title": "Hospital-Level Care at Home for Acutely Ill Adults in Rural Settings: A Randomized Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2022-02-16",
+            "completion_date": "2024-01-17",
+            "country": "Canada, United States",
+            "enrollment": 160,
+            "brief_summary": "This study examines the implications of providing hospital-level care in rural homes.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatient clinical inclusion criteria:\n\n* \\>=18 years old\n* Any infectious process (e.g., pneumonia, diverticulitis, cellulitis, complicated urinary tract infection)\n* Heart failure exacerbation\n* Asthma and chronic obstructive pulmonary disease exacerbation\n* Atrial fibrillation ",
+            "endpoints": [
+              "Total cost, hospitalization"
+            ],
+            "sponsor": "Brigham and Women's Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05256303"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07203339",
+            "title": "Home-based Transcranial Direct Current Stimulation (tDCS) Compared to Duloxetine in the Treatment of Fibromyalgia: a Randomized Non-inferiority Clinical Trial (FIBROSTIM)",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2025-09-30",
+            "completion_date": "2028-12",
+            "country": "Brazil",
+            "enrollment": 610,
+            "brief_summary": "Fibromyalgia is characterized by widespread pain, fatigue, non-restorative sleep, and psychocognitive alterations, compromising quality of life and leading to absenteeism and early retirement. Up to 70% of patients discontinue treatment with antidepressants and anticonvulsants due to adverse effects or low efficacy, and more than 30% resort to opioid use. Given the treatment challenges and the scarcity of safe alternatives, there is growing interest in interventions such as transcranial direct c",
+            "eligibility_criteria": "Eligibility Criteria\n\nInclusion Criteria:\n\n* Woman aged between 18 and 75 years\n* Right-handed\n* Literate in reading and writing\n* Clinical diagnosis of fibromyalgia based on the American College of Rheumatology (ACR) 2010-2016 criteria\n* Numeric Pain Scale (NPS) score ≥ 4 on most days in the past 3",
+            "endpoints": [
+              "Evaluation of Pain Interference",
+              "Patient Global Impression of Improvement",
+              "Impact of fibromyalgia symptoms on quality of life"
+            ],
+            "sponsor": "Hospital de Clinicas de Porto Alegre",
+            "url": "https://clinicaltrials.gov/study/NCT07203339"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04418232",
+            "title": "Feasibility of a Novel Systems Approach for Improving Utilization of Alzheimer's Disease Services Among Latinos Attending Primary Care Practices",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2022-05-01",
+            "completion_date": "2024-08-20",
+            "country": "United States",
+            "enrollment": 243,
+            "brief_summary": "The research team will train primary care practitioners from Kansas City clinics to enhance skills in cultural competence, dementia detection, treatment and referral to a Health Navigator among Latinos 65 and older with dementia. The Health Navigator will provide patient/caregiver dyads referred by Alianza Latina providers with care management, psychosocial support and links to relevant community resources. Outcomes include feasibility and acceptability of 1) PCP training and 2) patient and care",
+            "eligibility_criteria": "Inclusion Criteria for care recipients within the dyad:\n\n* Identify as Latino\n* Community dwelling\n* Diagnosed with mild cognitive impairment or dementia\n* Have a caregiver 18 years old or older\n* Have co-participant with access to a privately-owned cell phone with a flat fee for text messages\n\nIncl",
+            "endpoints": [
+              "Provider Recruitment Feasibility",
+              "Provider Retention Feasibility",
+              "Provider Fidelity Feasibility 1"
+            ],
+            "sponsor": "University of Kansas Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT04418232"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07074379",
+            "title": "Endotherapy and/or Extracorporeal Shockwave Lithotripsy Versus Conservative Treatment in Painless Chronic Pancreatitis",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2025-07-21",
+            "completion_date": "2027-08-01",
+            "country": "China",
+            "enrollment": 126,
+            "brief_summary": "Chronic pancreatitis (CP) is caused by factors such as genetics and the environment, leading to the destruction of pancreatic tissue, infiltration of inflammatory cells, and progressive fibrosis of the pancreas. As the disease progresses, pancreatic tissue is damaged, resulting in impaired endocrine and exocrine functions, manifesting as symptoms like steatorrhea and diabetes. Pain associated with chronic pancreatitis (PACP) is the most common symptom in CP patients. Approximately 75% of patient",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adults aged 18-85 years.\n* Diagnosed with painless chronic pancreatitis.\n* No prior history of endoscopic retrograde cholangiopancreatography (ERCP) or extracorporeal shockwave lithotripsy (ESWL) treatment.\n\nExclusion Criteria:\n\n* Presence of complications requiring endoscopic",
+            "endpoints": [
+              "Acute Pancreatitis Incidence"
+            ],
+            "sponsor": "Changhai Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT07074379"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04258813",
+            "title": "Onco-primary Care Networking to Support TEAM-based Care - the ONE TEAM Study",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2021-06-14",
+            "completion_date": "2026-07-31",
+            "country": "United States",
+            "enrollment": 313,
+            "brief_summary": "The proposed ONE TEAM Study is an 18-month, cluster randomized controlled trial. This study will use a sequential multiple assignment randomized trial (SMART) design with a second randomization for the intervention group using a dynamic treatment regimen approach. The investigators propose to randomize 800 adults with newly-diagnosed selected cancers treated with curative intent (breast, prostate, colorectal, endometrial, non-small cell lung, and endometrial) and with \\>1 selected cardiovascular",
+            "eligibility_criteria": "Inclusion Criteria:\n\nA total of 800 individuals who fall under the following criteria will be enrolled:\n\n* Diagnosed with -\n\n  * Stage I-III breast \\[female\\], colorectal, endometrial (carcinomas), head/neck \\[H/N\\] and non-small cell lung cancer \\[NSCLC\\]\n  * Stage I-IV prostate cancer\n  * Organ tr",
+            "endpoints": [
+              "HEDIS quality measure of management hypertension",
+              "HEDIS quality measure of management of diabetes",
+              "HEDIS quality measure of management of statin use"
+            ],
+            "sponsor": "Duke University",
+            "url": "https://clinicaltrials.gov/study/NCT04258813"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "1545596",
+            "title": "Antiparasitic agents.",
+            "abstract": "In recent years, introduction of new and more effective agents has improved the overall therapy for parasitic infections. This field, however, is still plagued by numerous problems, including the development of resistance to antimicrobial agents (especially with malaria), unavailability of agents in the United States or lack of approval by the Food and Drug Administration, and major toxicities or lack of experience in pregnant women and children, which limits use in these groups of patients. Widespread resistance of Plasmodium falciparum to chloroquine and other agents has complicated the treatment and prophylaxis of this type of malaria. A combination of quinine and Fansidar is usually effective oral therapy for falciparum malaria; quinidine may be administered if intravenous therapy is needed. Mefloquine, which is currently recommended for prophylaxis against chloroquine-resistant P. falciparum, is also effective for single-dose oral treatment, although this regimen has not yet been ",
+            "journal": "Mayo Clinic proceedings",
+            "year": "1992",
+            "authors": [
+              "Rosenblatt J E"
+            ],
+            "pub_types": [
+              "Bibliography",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anthelmintics",
+              "Antimalarials",
+              "Antiprotozoal Agents",
+              "Humans",
+              "Intestinal Diseases, Parasitic",
+              "Malaria",
+              "Parasitic Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1545596/"
+          },
+          {
+            "pmid": "7355683",
+            "title": "Antiparasitic drugs.",
+            "abstract": "Antiprotozoan drugs of choice include: chloroquine for malaria; diiodohydroxyquin for asymptomatic intestinal amebiasis; metronidazole for acute amebic colitis, extraintestinal amebiasis and trichomoniasis; quinacrine for giardiasis; quinine-pyrimethamine-sulfadiazine for chloroquine-resistant falciparum malaria, and trimethoprim-sulfamethoxazole for pneumocystis pneumonia. Anthelmintic drugs of choice include: mebendazole for roundworm, pinworm, whipworm and hookworm infections; niclosamide for tapeworm infections, and thiabendazole for trichinosis.",
+            "journal": "American family physician",
+            "year": "1980",
+            "authors": [
+              "Yoshikawa T T"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anthelmintics",
+              "Antiprotozoal Agents",
+              "Humans",
+              "Nematode Infections",
+              "Parasitic Diseases",
+              "Protozoan Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7355683/"
+          },
+          {
+            "pmid": "1782741",
+            "title": "Pharmacokinetic justification of antiprotozoal therapy. A US perspective.",
+            "abstract": "Infections with parasitic protozoa have always been problems for the developing world and are becoming of greater importance to the developed world in this age of easy international travel. The major human protozoal diseases are summarised with an emphasis on their presentation in normal hosts and in immunocompromised individuals and current US drug treatment recommendations are discussed. Present antiprotozoal regimens are based either on a pharmacokinetic rationale or on clinical trial and error. Regimens based on trial and error include amphotericin B against leishmaniasis and arsenic against African trypanosomiasis. Regimens which are to some extent driven by pharmacokinetic or biochemical considerations include paromomycin and metronidazole against amoebiasis, sodium stibogluconate against leishmaniasis, halofantrine and mefloquine against malaria, dihydrofolate reductase (DHFR) inhibitors against Pneumocystis carinii and toxoplasmosis and aerosolised pentamidine against P. carini",
+            "journal": "Clinical pharmacokinetics",
+            "year": "1991",
+            "authors": [
+              "Berman J D",
+              "Fleckenstein L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antiprotozoal Agents",
+              "Humans",
+              "Protozoan Infections",
+              "United States"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1782741/"
+          },
+          {
+            "pmid": "26518395",
+            "title": "HIV-Related Opportunistic Infections Are Still Relevant in 2015.",
+            "abstract": "The incidence of HIV-related opportunistic infections (OIs) has declined in the United States with the increasing use of effective antiretroviral therapy for the treatment of HIV infection. However, the absolute number of patients with OIs remains high and there continues to be considerable associated mortality. OI guidelines from the National Institutes of Health, Centers for Disease Control and Prevention, and Infectious Diseases Society of America continue to be updated on a regular basis, several times per year, as optimal strategies for prevention and therapy evolve. Recommendations that have changed in these guidelines include: screening for cryptococcal antigen and treatment of asymptomatic antigenemia; empiric treatment of shigellosis infection in light of the recent spread of multidrug-resistant strains; the relative roles of vancomycin and metronidazole in diarrheal illness related to Clostridium difficile; and diagnosis of Pneumocystis jiroveci pneumonia (PCP; formerly Pneum",
+            "journal": "Topics in antiviral medicine",
+            "year": "2015",
+            "authors": [
+              "Masur Henry"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Anti-Retroviral Agents",
+              "Clostridioides difficile",
+              "Clostridium Infections",
+              "Dysentery, Bacillary",
+              "HIV Infections",
+              "Humans",
+              "Incidence",
+              "Meningitis, Cryptococcal",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26518395/"
+          },
+          {
+            "pmid": "2996829",
+            "title": "Treatment of infectious complications of acquired immunodeficiency syndrome.",
+            "abstract": "The infectious complications of the acquired immunodeficiency syndrome (AIDS) are discussed, and the conventional and nonconventional therapies used for these infections are reviewed. The infections most commonly encountered in patients with AIDS are Pneumocystis carinii pneumonia (58%), Candida esophagitis (31%), toxoplasmosis (21%), cytomegalovirus infections (15%), and herpes-simplex virus infections (12%). Pneumocystis carinii pneumonia is the most common life-threatening process in these patients. Trimethoprim-sulfamethoxazole (TMP-SMZ) is considered the drug of choice for its treatment. Oral candidiasis often indicates the progression to AIDS in the high-risk populations of homosexual or bisexual men, intravenous drug abusers, and individuals with hemophilia. Nystatin suspension is commonly used to treat oral candidiasis, while Candida esophagitis demands systemic therapy with ketoconazole. Toxoplasmosis most commonly manifests itself in patients with AIDS as a cerebral mass lesi",
+            "journal": "Clinical pharmacy",
+            "year": "1985",
+            "authors": [
+              "Furio M M",
+              "Wordell C J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Aspergillosis",
+              "Candidiasis",
+              "Coccidioidomycosis",
+              "Coccidiosis",
+              "Cytomegalovirus Infections",
+              "Giardiasis",
+              "Herpes Simplex",
+              "Herpes Zoster",
+              "Histoplasmosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2996829/"
+          },
+          {
+            "pmid": "6282154",
+            "title": "Pneumocystis carinii and cytomegalovirus pneumonia in a previously healthy adult.",
+            "abstract": "A case of Pneumocystis carinii pneumonia and cytomegalovirus infection occurring in a previously healthy adult male homosexual who was not receiving known immunosuppressive therapy is described. This 35-year-old man had been treated with metronidazole and tetracycline for an intermittent diarrheal illness of 5 months' duration. He was then admitted to the hospital where he was found to have a small infiltrate in the left lower lobe, and this process soon involved both lungs. Initially, Pneumocystis carinii infection and later cytomegalovirus infection were diagnosed by lung biopsy and culture. Peripheral blood lymphopenia was present and he had in vivo and in vitro abnormalities of his cellular immune responses. He was unresponsive to Bactrim as well as pentamidine and pyrimethamine therapy and died 7 wk after hospitalization.",
+            "journal": "The American review of respiratory disease",
+            "year": "1982",
+            "authors": [
+              "Spangenthal S",
+              "Beer D J",
+              "Snydman D R",
+              "Findlay S R",
+              "Rocklin R E"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cytomegalovirus Infections",
+              "Homosexuality",
+              "Humans",
+              "Immunity, Cellular",
+              "Male",
+              "Pneumonia, Pneumocystis",
+              "Pneumonia, Viral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6282154/"
+          },
+          {
+            "pmid": "2338506",
+            "title": "[Clinical courses and pathological findings in two gay male patients with acquired immunodeficiency syndrome infected in Japan].",
+            "abstract": "This is a report on the clinical courses and pathological findings in two gay male patients with acquired immunodeficiency syndrome (AIDS) infected in Japan. Case 1. A 39 year-old Japanese homosexual male was diagnosed as amebic dysentery complicated with liver abscess on admission. He was placed on Metronidazole with complete relief. Serological tests was positive for AIDS. On second admission, he was found to have pneumocystis carinii pneumonia (PCP) and cytomegalo-viral uveitis. Administration of Pentamidine was partially effective, however the therapy with Azidothimidine was discontinued by bone marrow suppression. On his third admission, he suffered from cryptococcal meningitis and therapy-resistant fungusemia. Finally he died of recurrent pneumonia regardless of appropriate therapies. Autopsy proved extended cryptococcal infection in the brain, meninx, lungs, liver and kidney, and cytomegalo-infection in the lungs, liver and kidney. Furthermore, atypical mycobacteriosis was found",
+            "journal": "Kansenshogaku zasshi. The Journal of the Japanese Association for Infectious Diseases",
+            "year": "1990",
+            "authors": [
+              "Takamizawa S",
+              "Kaito K",
+              "Hori S",
+              "Kikuchi A",
+              "Hashimoto T"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Adult",
+              "Cryptococcosis",
+              "Homosexuality",
+              "Humans",
+              "Japan",
+              "Male",
+              "Opportunistic Infections",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2338506/"
+          },
+          {
+            "pmid": "16496064",
+            "title": "Colon perforation with peritonitis in an acquired immunodeficiency syndrome patient due to cytomegalovirus and amoebic colitis.",
+            "abstract": "Invasive amoebiasis is rarely seen in human immunodeficiency virus (HIV)-infected individuals, even in endemic areas. By contrast, cytomegalovirus (CMV) disease is recognized as a major clinical problem in acquired immunodeficiency syndrome patients. A 34-year-old HIV-infected man with amoeba colitis, disseminated Mycobacterium avian complex and CMV infection with cecum perforation, presented with the initial symptoms of fever, shortness of breath and painful sensation when swallowing. He was treated with fluconazole, trimethoprim-sulfamethoxazole and hydrocortisone under the impression of esophageal candidiasis and Pneumocystis jiroveci pneumonia. However, diarrhea and abdominal pain developed on day 6 of hospitalization. Invasive amoebiasis and CMV colitis was diagnosed after examination of colon pathological specimens. Emergent laparotomy was performed. Right hemicolectomy with double barrel ileostomy and colostomy was done due to perforation of the cecum. Iodoquinol was given, foll",
+            "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+            "year": "2005",
+            "authors": [
+              "Tsai Hung-Chin",
+              "Lee Susan Shin-Jung",
+              "Wann Shue-Ren",
+              "Chen Yao-Shen",
+              "Chen Eng-Rin"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Adult",
+              "Colonic Diseases",
+              "Cytomegalovirus Infections",
+              "Dysentery, Amebic",
+              "Humans",
+              "Intestinal Perforation",
+              "Male",
+              "Peritonitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16496064/"
+          },
+          {
+            "pmid": "6771863",
+            "title": "Antimicrobial prophylaxis: a critique of recent trials.",
+            "abstract": "Most evaluations of antimicrobial prophylaxis have serious defects in design or fail to assess the clinical importance of observed differences. Reports that were published in the last decade and that meet stringent criteria indicate that antimicrobial prophylaxis is justified in few circumstances and nearly always only in very short courses, often just a single dose. These situations include vaginal hysterectomies (cephalosporin or penicillin), total abdominal hysterectomies (cephalosporin), high-risk cesarean sections (cephalosporin), elective colorectal surgery (oral erythromycin-neomycin, kanamycin-metronidazole, or doxycycline), vascular grafts of the abdominal aorta or lower extremity vasculature (cephalosporin), total hip replacement (cephalosporin or penicillinase-resistant penicillin), head and neck cancer surgery (cephalosporin), travelers' diarrhea (doxycycline), prevention of pneumonia due to Pneumocystis carinii in susceptible cancer patients (trimethoprim-sulfamethoxazole)",
+            "journal": "Reviews of infectious diseases",
+            "year": "1980",
+            "authors": [
+              "Hirschmann J V",
+              "Inui T S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Anti-Infective Agents, Urinary",
+              "Antidiarrheals",
+              "Antineoplastic Agents",
+              "Biliary Tract Surgical Procedures",
+              "Cardiac Surgical Procedures",
+              "Cesarean Section",
+              "Clinical Trials as Topic",
+              "Cross Infection"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6771863/"
+          },
+          {
+            "pmid": "2280469",
+            "title": "[Drugs used against protozoan infections in man].",
+            "abstract": "",
+            "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+            "year": "1990",
+            "authors": [
+              "Takada S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amebiasis",
+              "Aminoquinolines",
+              "Antiprotozoal Agents",
+              "Humans",
+              "Malaria",
+              "Metronidazole",
+              "Pneumonia, Pneumocystis",
+              "Pyrimethamine",
+              "Quinine",
+              "Suramin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2280469/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "pneumocystosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20pneumocystosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "punctate epithelial keratoconjunctivitis",
+        "txgnn_score": 0.9992740750312804,
+        "txgnn_rank": 246,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "punctate epithelial keratoconjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20punctate%20epithelial%20keratoconjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "ulcerative proctosigmoiditis",
+        "txgnn_score": 0.9987469911575316,
+        "txgnn_rank": 396,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9447214",
+            "title": "Management of inflammatory bowel disease.",
+            "abstract": "Patients with an inflammatory bowel disease, such as ulcerative colitis or Crohn's disease, have recurrent symptoms with considerable morbidity. Patient involvement and education are necessary components of effective management. Mild disease requires only symptomatic relief and dietary manipulation. Mild to moderate disease can be managed with 5-aminosalicylic acid compounds, including olsalazine and mesalamine. Mesalamine enemas and suppositories are useful in treating proctosigmoiditis. Antibiotics such as metronidazole may be required in patients with Crohn's disease. Corticosteroids are beneficial in patients with more severe symptoms, but side effects limit their use, particularly for chronic therapy. Immunosuppressant therapy may be considered in patients with refractory disease that is not amenable to surgery. Inflammatory bowel disease in pregnant women can be managed with 5-aminosalicylic acid compounds and corticosteroids. Since longstanding inflammatory bowel disease (especi",
+            "journal": "American family physician",
+            "year": "1998",
+            "authors": [
+              "Botoman V A",
+              "Bonner G F",
+              "Botoman D A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Anti-Bacterial Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Colitis, Ulcerative",
+              "Crohn Disease",
+              "Decision Trees",
+              "Female",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Inflammatory Bowel Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9447214/"
+          },
+          {
+            "pmid": "29204849",
+            "title": "Human intestinal spirochetosis mimicking ulcerative colitis.",
+            "abstract": "Human intestinal spirochetosis (HIS) is a colorectal infection caused by the Brachyspira species of intestinal spirochetes, whose pathogenicity in humans remains unclear owing to the lack of or mild symptoms. We monitored the 5-year clinical course of a woman diagnosed with HIS in whom ulcerative colitis (UC) had been suspected. Following a positive fecal occult blood test, she underwent a colonoscopic examination at a local clinic where she was diagnosed with \"right-sided\" UC concomitant with incidentally detected HIS, and was referred to our hospital. Colonoscopic, histopathological, and cytological examination revealed localized erosive colitis in the ascending and the right transverse colon concomitant with HIS resembling skip lesions of UC. Initially, we chose the wait-and-watch approach; however, she gradually developed bloody diarrhea. Metronidazole improved her abdominal symptoms, as well as her colonoscopic and histopathological findings, suggesting that HIS was responsible fo",
+            "journal": "Clinical journal of gastroenterology",
+            "year": "2018",
+            "authors": [
+              "Nishii Shin",
+              "Higashiyama Masaaki",
+              "Ogata Sho",
+              "Komoto Shunsuke",
+              "Ito Suguru"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Infective Agents",
+              "Brachyspira",
+              "Colitis",
+              "Colitis, Ulcerative",
+              "Colonoscopy",
+              "Diagnosis, Differential",
+              "Diarrhea",
+              "Female",
+              "Gram-Negative Bacterial Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29204849/"
+          },
+          {
+            "pmid": "1350043",
+            "title": "[Drug therapy of chronic inflammatory bowel disease--reliable standards and new developments].",
+            "abstract": "The standard therapy of ulcerative colitis and Crohn's disease is based on the treatment with corticosteroids, sulfasalazine and 5-aminosalicylic acid (mesalazine). Depending on the localization and the extent of bowel inflammation these drugs are given topically (proctosigmoiditis, left-side colitis) or systemically (total and subtotal colitis). Azathioprin and metronidazole are considered to be reserve drugs (the latter one having proven to be effective only in Crohn's disease). During the last years, the efficacy of several new agents has been investigated. At present, their routine administration cannot be advised. The clinical usefulness of new topical corticosteroids showing both high antiinflammatory effect and no or at least minor systemic side effects is promising.",
+            "journal": "Leber, Magen, Darm",
+            "year": "1992",
+            "authors": [
+              "Fischbach W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Aminosalicylic Acids",
+              "Azathioprine",
+              "Colitis, Ulcerative",
+              "Crohn Disease",
+              "Humans",
+              "Mercaptopurine",
+              "Mesalamine",
+              "Sulfasalazine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1350043/"
+          },
+          {
+            "pmid": "8210985",
+            "title": "Incidence and characteristics of pouchitis in the Kock continent ileostomy and the pelvic pouch.",
+            "abstract": "The incidence, the median time to first appearance, and the clinical pattern of pouchitis were prospectively studied in 180 patients operated on for ulcerative proctocolitis with a continent ileostomy (CI; 84 patients) and a pelvic pouch (PP; 96 patients). Median follow-up for CI patients was 8.5 years (range, 2-15 years) and for PP patients, 5 years (range, 1-8 years). Pouchitis, with symptoms severe enough to require treatment, developed in 33% (28 of 84) of CI and 47% (45 of 96) of PP patients. The cumulative risk of developing one or more episodes of pouchitis over a 5-year follow-up was 34% in CI patients and 51% in PP patients. The median time to first appearance of pouchitis was 5 and 12 months, respectively. Eighty-six per cent of CI patients with pouchitis (24 of 28) and 71% of PP patients (32 of 45) experienced their initial episode within the first 2 years. Sixty-four per cent (18 of 28) of the CI patients and 76% (34 of 45) of PP patients had one single or a few short-lasti",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1993",
+            "authors": [
+              "Svaninger G",
+              "Nordgren S",
+              "Oresland T",
+              "Hultén L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Incidence",
+              "Inflammation",
+              "Intestinal Mucosa",
+              "Male",
+              "Metronidazole",
+              "Postoperative Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8210985/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "ulcerative proctosigmoiditis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20ulcerative%20proctosigmoiditis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "nocardiosis",
+        "txgnn_score": 0.998550832271576,
+        "txgnn_rank": 452,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06594133",
+            "title": "Longitudinal and Cross-sectional Analysis of Pulmonary Microbiota in Lung Transplant Recipients Infected With Nocardia: A Single-center Retrospective Study",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2023-01-01",
+            "completion_date": "2024-09-01",
+            "country": "China",
+            "enrollment": 68,
+            "brief_summary": "This retrospective observational study aims to explore the impact of Nocardia infection on the pulmonary microbiota of lung transplant recipients (LTRs). The study will analyze both cross-sectional and longitudinal data from patients diagnosed with Nocardia pneumonia, comparing microbial composition and diversity between infected and non-infected groups. This research seeks to provide insights into the relationship between pulmonary microbiota alterations and clinical outcomes in LTRs.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Lung transplant recipients\n* Diagnosed with Nocardia pneumonia (for the study group)\n* Age ≥ 18 years\n\nExclusion Criteria:\n\n* Patients with incomplete medical records\n* Patients who survived ≤ 3 days after transplantation\n* Patients lost to follow-up",
+            "endpoints": [
+              "Pulmonary Microbiota Diversity in Nocardia-infected Lung Transplant Recipients"
+            ],
+            "sponsor": "Guangzhou Institute of Respiratory Disease",
+            "url": "https://clinicaltrials.gov/study/NCT06594133"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38245682",
+            "title": "Brain abscess caused by Actinomyces turicensis in a non-immunocompromised adult patient: a case report and systematic review of the literature.",
+            "abstract": "Actinomyces turicensis is rarely responsible of clinically relevant infections in human. Infection is often misdiagnosed as malignancy, tuberculosis, or nocardiosis, therefore delaying the correct identification and treatment. Here we report a case of a 55-year-old immunocompetent adult with brain abscess caused by A. turicensis. A systematic review of A. turicensis infections was performed.",
+            "journal": "BMC infectious diseases",
+            "year": "2024",
+            "authors": [
+              "Imeneo Alessandra",
+              "Rindi Lorenzo Vittorio",
+              "Di Lorenzo Andrea",
+              "Cavasio Rosario Alessandro",
+              "Vitale Pietro"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Canada",
+              "Adult",
+              "Brain Abscess",
+              "Actinomycosis",
+              "Actinomycetaceae",
+              "Actinomyces",
+              "Humans",
+              "Anti-Bacterial Agents",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38245682/"
+          },
+          {
+            "pmid": "38021684",
+            "title": "Cerebral Abscess Due to Nocardia beijingensis Associated With HIV: Case Report and Mini Review.",
+            "abstract": "Brain abscesses are severe focal infections of the central nervous system. We report the case of a 37-year-old patient with a recent diagnosis of HIV, who presented with weakness in the left arm that progressed to left hemiplegia, ipsilateral paresthesia, holo cranial headache, fever accompanied by chills, and left tonic-clonic movements. A craniectomy and lesion resection were performed along with antimicrobial treatment. Subsequently, the patient persisted with left hemiplegia, which significantly improved after the procedure and gradually through physical physiotherapy. During the investigation, we complete medical history, physical examination, Image tests, laboratory tests, and cultures. After the finalization of the approach, the final diagnosis was a brain abscess due to Nocardia beijingensis associated with HIV. The patient was managed with anticonvulsants: levetiracetam, antimicrobials: ceftriaxone, trimethoprim/sulfamethoxazole, metronidazole, and vancomycin, Craniotomy plus ",
+            "journal": "Cureus",
+            "year": "2023",
+            "authors": [
+              "Nieves Perez Cesar A",
+              "Sánchez Pérez María José",
+              "Vargas Ana S",
+              "Franco Maria A",
+              "Molina Obana Miguel C"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38021684/"
+          },
+          {
+            "pmid": "41414683",
+            "title": "Nocardia farcinica brain abscess in an immunocompetent patient with isolated hemianopsia.",
+            "abstract": "Nocardia farcinica is an uncommon cause of brain abscess, most often in immunocompromised hosts. Increasingly, cases in immunocompetent individuals are reported, but diagnosis remains challenging and mortality is high.",
+            "journal": "Acta clinica Belgica",
+            "year": "2025",
+            "authors": [
+              "Hoornaert N",
+              "De Geyter D",
+              "Pijpen S",
+              "Van der Straeten R",
+              "Van Laethem J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41414683/"
+          },
+          {
+            "pmid": "40898498",
+            "title": "Recurrent breast abscess caused by Lawsonella clevelandensis: A case report and literature review.",
+            "abstract": "Lawsonella clevelandensis is a gram-positive bacterium, partially acid-fast, strictly anaerobic, nonspore-forming, and catalase-positive. This microorganism was once overlooked in clinical microbiology due to its stringent growth requirements in laboratory cultures, but it has recently attracted recognition as a potential pathogen. Available reports implicate Lawsonella clevelandensis infection with abscess formation, including breast, spinal, abdominal, and deep soft tissue abscesses. Here, we present a case of recurrent breast abscess caused by Lawsonella clevelandensis infection.",
+            "journal": "Medicine",
+            "year": "2025",
+            "authors": [
+              "Liu Yuzhen",
+              "Yue Xu",
+              "Zhou Yujun",
+              "Wang Junling",
+              "Yang Fang"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Middle Aged",
+              "Abscess",
+              "Recurrence",
+              "Anti-Bacterial Agents",
+              "Breast Diseases",
+              "Gram-Positive Bacterial Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40898498/"
+          },
+          {
+            "pmid": "16683177",
+            "title": "Nocardia brain abscesses in a male patient with SLE: successful outcome despite delay in diagnosis.",
+            "abstract": "We report a 37-year-old African-American man with systemic lupus erythematosus (SLE) diagnosed in May 2001 when he presented with biopsy-proven nephritis. He had been treated intermittently from May 2001 to November 2004 with intravenously (i.v.) administered cyclophosphamide and high doses of prednisone due to unrelenting proteinuria. In November 2004, he was admitted to the hospital because of deterioration of renal function and massive proteinuria (21 g dl(-1) 24 h(-1)) and treated with pulses of methylprednisolone and two courses of i.v. administered cyclophosphamide. His hospital course was complicated by cellulitis and bacteremia with Pseudomonas spp. and Streptococcus bovis. He was discharged on prednisone 60 mg daily, ciprofloxacin, augmentin, and hemodialysis. He was readmitted a week later with new onset of seizure activity, slurred speech, and left-sided hemiparesis. Magnetic resonance imaging of the brain revealed multiple ringlike enhancing foci in the frontal and occipita",
+            "journal": "Clinical rheumatology",
+            "year": "2007",
+            "authors": [
+              "Justiniano Maria",
+              "Glorioso Sarah",
+              "Dold Sylvia",
+              "Espinoza Luis R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Brain Abscess",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Lupus Erythematosus, Systemic",
+              "Male",
+              "Nocardia Infections",
+              "Nocardia asteroides",
+              "Seizures",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16683177/"
+          },
+          {
+            "pmid": "17112915",
+            "title": "A case of isolated Nocardia asteroides brain abscess in a kidney transplant recipient.",
+            "abstract": "Because of the immunosuppressive drugs used after organ transplantation, there is an increased rate of certain infections and malignancies. Nocardia brain abscess is a rare condition, seen most commonly among immunocompromised patients. It may be confused with intracranial tumors and requires long-term combined antibiotic therapy after drainage.",
+            "journal": "Transplantation proceedings",
+            "year": "2006",
+            "authors": [
+              "Oztürk S",
+              "Tufan F",
+              "Alişir S",
+              "Görçin S",
+              "Güven D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antifungal Agents",
+              "Brain Abscess",
+              "Female",
+              "Humans",
+              "Immunosuppressive Agents",
+              "Kidney Failure, Chronic",
+              "Kidney Transplantation",
+              "Magnetic Resonance Imaging",
+              "Metronidazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17112915/"
+          },
+          {
+            "pmid": "17168173",
+            "title": "N. paucivorans infection presenting as a brain abscess.",
+            "abstract": "",
+            "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+            "year": "2006",
+            "authors": [
+              "Khan Shah-Naz Hayat",
+              "Sanche Stephen E",
+              "Robinson Christopher A",
+              "Pirouzmand Farhad"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Brain Abscess",
+              "Brain Neoplasms",
+              "Diagnosis, Differential",
+              "Humans",
+              "Hypertension",
+              "Male",
+              "Metronidazole",
+              "Middle Aged",
+              "Nocardia Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17168173/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "nocardiosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20nocardiosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "postmenopausal atrophic vaginitis",
+        "txgnn_score": 0.9984233379364014,
+        "txgnn_rank": 485,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "30463825",
+            "title": "Application of conjugated estrogen cream in the treatment of postmenopausal atrophic vaginitis.",
+            "abstract": "To observe and analyze the effect of conjugated estrogen cream in the treatment of postmenopausal atrophic vaginitis. The 160 patients clearly diagnosed with postmenopausal atrophic vaginitis and treated in our hospital were selected as subjects and divided into study group and reference group with equal number of cases. The reference group was treated with compound metronidazole suppository, while the study group was treated with conjugated estrogen cream. The treatment efficacy of the two groups was compared and observed. Comparison of estradiol and folliclestimulating hormone levels after treatment in the two groups show that the study group has obvious advantage over the reference group, p<0.05; comparison of vagina cleanliness in the two groups after treatment shows the study group is significantly superior to the reference group, p<0.05; comparison of incidence of adverse reactions in the two groups shows that the study group has lower incidence, with statistical significance in ",
+            "journal": "Pakistan journal of pharmaceutical sciences",
+            "year": "2018",
+            "authors": [
+              "Li Dongyan",
+              "Bai Wenpei"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intravaginal",
+              "Aged",
+              "Atrophic Vaginitis",
+              "Estradiol",
+              "Estrogens, Conjugated (USP)",
+              "Female",
+              "Follicle Stimulating Hormone",
+              "Humans",
+              "Metronidazole",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30463825/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "postmenopausal atrophic vaginitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20postmenopausal%20atrophic%20vaginitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Cryptococcal meningitis",
+        "txgnn_score": 0.9982655644416808,
+        "txgnn_rank": 530,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "26518395",
+            "title": "HIV-Related Opportunistic Infections Are Still Relevant in 2015.",
+            "abstract": "The incidence of HIV-related opportunistic infections (OIs) has declined in the United States with the increasing use of effective antiretroviral therapy for the treatment of HIV infection. However, the absolute number of patients with OIs remains high and there continues to be considerable associated mortality. OI guidelines from the National Institutes of Health, Centers for Disease Control and Prevention, and Infectious Diseases Society of America continue to be updated on a regular basis, several times per year, as optimal strategies for prevention and therapy evolve. Recommendations that have changed in these guidelines include: screening for cryptococcal antigen and treatment of asymptomatic antigenemia; empiric treatment of shigellosis infection in light of the recent spread of multidrug-resistant strains; the relative roles of vancomycin and metronidazole in diarrheal illness related to Clostridium difficile; and diagnosis of Pneumocystis jiroveci pneumonia (PCP; formerly Pneum",
+            "journal": "Topics in antiviral medicine",
+            "year": "2015",
+            "authors": [
+              "Masur Henry"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Anti-Retroviral Agents",
+              "Clostridioides difficile",
+              "Clostridium Infections",
+              "Dysentery, Bacillary",
+              "HIV Infections",
+              "Humans",
+              "Incidence",
+              "Meningitis, Cryptococcal",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26518395/"
+          },
+          {
+            "pmid": "16291277",
+            "title": "Intracerebral CSF collection mimicking cerebral abscess in a patient suffering from cryptococcal meningitis.",
+            "abstract": "We report a case of a large intracerebral CSF collection formed along the course of the catheter of an ommaya-type reservoir (Medtronic 12 mm), implanted in a patient suffered from cryptococcal meningitis in the frame of CLL. This collection was at first diagnosed as intracerebral abscess but emergency craniotomy proves clear CSF collection with no signs of infection. We describe the case and we discuss the issue of CSF pressure pathophysiology and changes in flow dynamics, to patients with cryptococcal meningitis.",
+            "journal": "The Journal of infection",
+            "year": "2005",
+            "authors": [
+              "Vakis Antonis",
+              "Koutentakis Dimitris",
+              "Karabetsos Dimitris",
+              "Ntouros Demosthenes"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acyclovir",
+              "Aged",
+              "Amphotericin B",
+              "Anti-Infective Agents",
+              "Brain Abscess",
+              "Ceftriaxone",
+              "Cerebrospinal Fluid",
+              "Cerebrospinal Fluid Pressure",
+              "Diagnosis, Differential",
+              "Drainage"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16291277/"
+          },
+          {
+            "pmid": "16194638",
+            "title": "Host to an intruder.",
+            "abstract": "",
+            "journal": "The American journal of medicine",
+            "year": "2005",
+            "authors": [
+              "Stephens Scott",
+              "Brown Cynthia D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Adult",
+              "Animals",
+              "Antiprotozoal Agents",
+              "Diarrhea",
+              "Giardia lamblia",
+              "Giardiasis",
+              "Humans",
+              "Lactose Intolerance",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16194638/"
+          },
+          {
+            "pmid": "2338506",
+            "title": "[Clinical courses and pathological findings in two gay male patients with acquired immunodeficiency syndrome infected in Japan].",
+            "abstract": "This is a report on the clinical courses and pathological findings in two gay male patients with acquired immunodeficiency syndrome (AIDS) infected in Japan. Case 1. A 39 year-old Japanese homosexual male was diagnosed as amebic dysentery complicated with liver abscess on admission. He was placed on Metronidazole with complete relief. Serological tests was positive for AIDS. On second admission, he was found to have pneumocystis carinii pneumonia (PCP) and cytomegalo-viral uveitis. Administration of Pentamidine was partially effective, however the therapy with Azidothimidine was discontinued by bone marrow suppression. On his third admission, he suffered from cryptococcal meningitis and therapy-resistant fungusemia. Finally he died of recurrent pneumonia regardless of appropriate therapies. Autopsy proved extended cryptococcal infection in the brain, meninx, lungs, liver and kidney, and cytomegalo-infection in the lungs, liver and kidney. Furthermore, atypical mycobacteriosis was found",
+            "journal": "Kansenshogaku zasshi. The Journal of the Japanese Association for Infectious Diseases",
+            "year": "1990",
+            "authors": [
+              "Takamizawa S",
+              "Kaito K",
+              "Hori S",
+              "Kikuchi A",
+              "Hashimoto T"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Adult",
+              "Cryptococcosis",
+              "Homosexuality",
+              "Humans",
+              "Japan",
+              "Male",
+              "Opportunistic Infections",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2338506/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "Cryptococcal meningitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20Cryptococcal%20meningitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "papillary conjunctivitis",
+        "txgnn_score": 0.9976121187210084,
+        "txgnn_rank": 684,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "papillary conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20papillary%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "myiasis",
+        "txgnn_score": 0.9975466132164,
+        "txgnn_rank": 702,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "40093442",
+            "title": "Management of Malignant Wound Myiasis in Advanced Head‑and‑Neck Cancer Patients: A Prospective Observational Study.",
+            "abstract": "Our findings highlight the significance of regularly assessing wounds and related symptoms in patients with head and neck cancer. This study found that systemic treatment with anti-helmenthic such as Ivermectin and Albendazole combined with broad spectrum antibiotics and turpentine oil dressing helps in removal of maggots, early recovery, ease of agony, and other related symptoms. However, more comprehensive studies are required to demonstrate the efficient management of malignant wound myiasis. 10 patients with advanced head and neck cancer presented with maggots either from wound site, scalp, oral cavity or nostril, with ECOG score 3 or less were enrolled in this study. Symptoms were assessed using Edmonton Symptom Assessment Scale (ESAS) and Wound was assessed by Wound Assessment Tool, at baseline and then at days 1, 3, 5, and 7. Tab Albendazole 400 mg once daily, turpentine oil for dressing three times daily for five days, Tab Ivermectin 12 mg and Broad-Spectrum Antibiotics- Tab Am",
+            "journal": "Indian journal of otolaryngology and head and neck surgery : official publication of the Association of Otolaryngologists of India",
+            "year": "2025",
+            "authors": [
+              "Mishra Vishal",
+              "Saifi Aamir Malick",
+              "Mitra Priyam",
+              "Agarwal Arjun",
+              "Meharchandani Monika"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40093442/"
+          },
+          {
+            "pmid": "32756975",
+            "title": "Bloody Diarrhea Caused by Intestinal Myiasis in an Infant: A Case Report and Review of Pediatric Literature.",
+            "abstract": "Intestinal myiasis caused by fly larvae parasitic in gastrointestinal tract was rare reported in children. We reported an infant with bloody diarrhea caused by intestinal myiasis. A 1 year and 7 months old boy presented with the only symptom of bloody diarrhea of unknown origin. In the second week of onset, numerous moving worms were observed in the bloody stool after bowel preparation with polyethylene glycol for colonoscopy. The bloody diarrhea disappeared after 1 week of combined therapy with albendazole and metronidazole. On follow-up after 6 months, the patient remained well without bloody diarrhea. In conclusion, intestinal myiasis being a rare disease that is very challenging to diagnose, physicians should remember it when they receive cases of bloody diarrhea with non-specific symptoms without any apparent cause.",
+            "journal": "Journal of tropical pediatrics",
+            "year": "2021",
+            "authors": [
+              "Chen Xiu-Qi",
+              "Zhang Kang-Ling",
+              "Shan Qing-Wen"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Child",
+              "Diarrhea",
+              "Humans",
+              "Infant",
+              "Larva",
+              "Male",
+              "Myiasis",
+              "Rare Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32756975/"
+          },
+          {
+            "pmid": "35718295",
+            "title": "Severe Vaginal Myiasis: Successful Management With Ivermectin.",
+            "abstract": "Myiasis refers to infestation of living animals or humans by maggots or fly larvae. Urogenital myiasis is a rare condition that is linked to poor sanitary conditions and limited access to healthcare and with few published case reports. Here, we describe the case of a 67-year-old homeless woman with multiple comorbidities, who presented with extensive vaginal myiasis requiring inpatient management with ivermectin, ceftriaxone, and metronidazole and daily larvae extraction and debridement. The relevance of this case is providing a report of a successful management with ivermectin of a case of severe vaginal myiasis. Severe cases of vaginal myiasis can require repeated debridement of necrotic tissue and systemic antibiotics in addition to antiparasitic medication. People living under poor sanitary conditions and with poor hygienic practices are at increased risk for severe vaginal myiasis.",
+            "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+            "year": "2022",
+            "authors": [
+              "Payán-Gómez César",
+              "Cabal-Herrera Ana María",
+              "Caicedo-Rosales Jurany Andrea",
+              "Saldarriaga-Gil Wilmar"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Animals",
+              "Antiparasitic Agents",
+              "Female",
+              "Humans",
+              "Ivermectin",
+              "Larva",
+              "Myiasis",
+              "Vagina"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35718295/"
+          },
+          {
+            "pmid": "40255705",
+            "title": "Oral Myiasis Caused by Musca domestica Larvae.",
+            "abstract": "Myiasis refers to the infestation of human and animal tissues by fly larvae. Oral myiasis is a relatively rare condition typically affecting individuals with low socio-economic status and poor hygiene. This case report describes a 21-year-old male patient with a history of chronic smoking and ischemic stroke, who developed oral myiasis following intubation for glioblastoma surgery. After 10 days post-operation, multiple larvae were identified in the oral cavity. Manual extraction and treatment with metronidazole were performed, leading to initial healing. However, the patient subsequently developed respiratory infection and septic shock, ultimately resulting in death. The report highlights the importance of prevention over treatment, emphasizing individual hygiene and collective measures to control house fly populations and improve living conditions. Effective management of myiasis requires awareness of predisposing factors and timely intervention to avoid serious complications.",
+            "journal": "Cureus",
+            "year": "2025",
+            "authors": [
+              "Akrim Yassine",
+              "El Hakkouni Awatif"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40255705/"
+          },
+          {
+            "pmid": "23716834",
+            "title": "Is it Lucio Phenomenon or Necrotic Erythema Nodosum Leprosum?",
+            "abstract": "Lucio phenomenon (LP) or erythema necroticans is a relatively rare, peculiar reaction pattern occurring in untreated lepromatous (LL) or borderline lepromatous (BL) leprosy cases. A 38-year-old male, a cook by occupation, was referred to the dermatology clinic from otolaryngology department with blistering over both the hands and feet of 2 days duration. He had been admitted 1 week back with epistaxis and nasopharyngeal myiasis in otolaryngology department. He was started on systemic antibiotics gentamycin, crystalline penicillin, and metronidazole with nasal instillation of turpentine oil 2 drops 6 times a day. Two days later, he had developed edema with painless hemorrhagic blistering over the dorsum of left hand followed by involvement of the right hand, dorsa of both feet, and both the earlobes within a day. Histopathology of the blister showed sub-epidermal blister, with necrotizing leukocytoclastic vasculitis of papillary dermal vessels with thrombosis, numerous acid-fast bacilli",
+            "journal": "Indian journal of dermatology",
+            "year": "2013",
+            "authors": [
+              "Ranugha Pss",
+              "Chandrashekar Laxmisha",
+              "Kumari Rashmi",
+              "Thappa Devinder M",
+              "Badhe Bhawana"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23716834/"
+          },
+          {
+            "pmid": "15462515",
+            "title": "[An unusual case in Belgium of intestinal myiasis due to Eristalis tenax].",
+            "abstract": "We report an unusual case in Belgium of indigenous intestinal myiasis caused by Eristalis tenax during canicular summer 2003 in a 36 year old man living in Belgium. This patient complain near its general practitioner about diarrhea and intestinal rumbles. Larvae emitted on several occasions were identified as Eristalis tenax larvae. Socio-economical status of the patient and atmospheric conditions seems to be related to this observation. Clinical evolution has been spontaneously and quickly positive. An empirical treatment with an association of metronidazole and nifuroxazide was however prescribed.",
+            "journal": "Acta clinica Belgica",
+            "year": "2004",
+            "authors": [
+              "Dubois E",
+              "Durieux M",
+              "Franchimont M M",
+              "Hermant P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Animals",
+              "Belgium",
+              "Diptera",
+              "Feces",
+              "Humans",
+              "Intestinal Diseases, Parasitic",
+              "Male",
+              "Myiasis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15462515/"
+          },
+          {
+            "pmid": "19090392",
+            "title": "A case of external ophthalmomyiasis in a deployed U.K. soldier.",
+            "abstract": "Infestation of the eye by larval fly forms (ophthalmomyiasis) is rarely seen in the Western world. We present the case of a 21 year old British soldier who developed external ophthalmomyiasis during an operational tour of southern Afghanistan. This case report and discussion illustrates the potential for ophthalmomyiasis in personnel deployed to this theatre; the possibility of infestation without an identifiable episode of exposure; the importance of proper assessment and follow-up in order to identify sight-threatening complications; and the balance between optimal patient care and the risks inherent to casualty evacuation demanded by modern day stability operations.",
+            "journal": "Journal of the Royal Army Medical Corps",
+            "year": "2008",
+            "authors": [
+              "Stacey M J",
+              "Blanch R J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Afghan Campaign 2001-",
+              "Animals",
+              "Antinematodal Agents",
+              "Antiprotozoal Agents",
+              "Blepharitis",
+              "Humans",
+              "Male",
+              "Mebendazole",
+              "Metronidazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19090392/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cap polyposis",
+        "txgnn_score": 0.9972803592681884,
+        "txgnn_rank": 765,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "34185178",
+            "title": "Cap polyposis treated with laparoscopic-assisted total proctocolectomy and ileal J-pouch anal anastomosis: a case report.",
+            "abstract": "Cap polyposis (CP) is extremely rare in Japan, and there is no established cure. We report a case in which CP was improved by surgical treatment.",
+            "journal": "Surgical case reports",
+            "year": "2021",
+            "authors": [
+              "Minagawa Tomohiro",
+              "Ikeuchi Hiroki",
+              "Kusunoki Kurando",
+              "Kuwahara Ryuichi",
+              "Horio Yuki"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34185178/"
+          },
+          {
+            "pmid": "29867933",
+            "title": "Dysbiosis-Associated Polyposis of the Colon-Cap Polyposis.",
+            "abstract": "Cap polyposis is a rare gastrointestinal disease characterized by multiple inflammatory polyps located between the distal colon and the rectum. Despite the lack of clarity regarding its pathogenesis, mucosal prolapse, chronic inflammatory responses, and Helicobacter pylori infection are considered key contributors to the development of this disease entity. Although it is now generally accepted that dysbiosis of gut microbiota is associated with intestinal and extra-intestinal diseases, alterations of intestinal microbiota have been poorly defined in cap polyposis. Here, we report a patient with H. pylori-negative cap polyposis who was successfully treated with antibiotics and exhibited dramatic alterations in intestinal microbiota composition after antibiotic treatment. The patient was treated with oral administration of ampicillin and metronidazole and showed regression of cap polyposis 6 months after antibiotic treatment. Fecal microbiota analysis using the next-generation sequencing",
+            "journal": "Frontiers in immunology",
+            "year": "2018",
+            "authors": [
+              "Okamoto Kazuki",
+              "Watanabe Tomohiro",
+              "Komeda Yoriaki",
+              "Okamoto Ayana",
+              "Minaga Kosuke"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Ampicillin",
+              "Anti-Bacterial Agents",
+              "Asymptomatic Diseases",
+              "Bacteria",
+              "Colon",
+              "Colonic Polyps",
+              "Dysbiosis",
+              "Feces",
+              "Gastrointestinal Diseases",
+              "Gastrointestinal Microbiome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29867933/"
+          },
+          {
+            "pmid": "15610079",
+            "title": "Possible relationship between Helicobacter pylori infection and cap polyposis of the colon.",
+            "abstract": "Cap polyposis is a rarely encountered disease characterized by multiple distinctive inflammatory colonic polyps located from the rectum to the distal colon. The etiology of this disease is still unknown, and no specific treatment has been established.",
+            "journal": "Helicobacter",
+            "year": "2004",
+            "authors": [
+              "Akamatsu Taiji",
+              "Nakamura Naoshi",
+              "Kawamura Yoko",
+              "Shinji Akihiro",
+              "Tateiwa Nobuyuki"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Female",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Humans",
+              "Intestinal Mucosa",
+              "Intestinal Polyposis",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15610079/"
+          },
+          {
+            "pmid": "38873995",
+            "title": "Cap polyposis refractory to drug treatment, including infliximab.",
+            "abstract": "Cap polyposis is a rare disease characterized by the presence of inflammatory polyps with an adherent fibrin sheath (\"cap\"), in variable number and size, in the rectum and sigmoid. It presents with tenesmus, mucous stools and rectorrhagia. There is currently no standardized treatment, having been treated empirically with aminosalicylates, oral or rectal steroids, metronidazole, H. pylori eradication therapy and infliximab with variable results. In refractory cases, endoscopic resection of polyps may be used and surgery may even be necessary. We present the case of a 36-year-old patient diagnosed in our center with cap polyposis, refractory to both pharmacological and endoscopic treatment, and therefore treatment with infliximab was decided out of indication. The case we present is the fourth case of cap polyposis treated with infliximab available in the current literature and highlights the difficulty of achieving a clinical response with pharmacological treatment, including biologic d",
+            "journal": "Revista espanola de enfermedades digestivas",
+            "year": "2025",
+            "authors": [
+              "Moreno Pimentel Claudia",
+              "Galindo García Cristina",
+              "Ariza Estepa Macarena",
+              "Naranjo Llamas María Eloísa",
+              "Palomar Ávila Claudia"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Colonoscopy",
+              "Gastrointestinal Agents",
+              "Infliximab",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38873995/"
+          },
+          {
+            "pmid": "24949613",
+            "title": "A case of cap polyposis remission by betamethasone enema after antibiotics therapy including Helicobacter pylori eradication.",
+            "abstract": "We report the case of a 58-year-old woman who was referred to our hospital due to frequent bloody mucus diarrhea. She was diagnosed with cap polyposis based on typical endoscopic and histological findings. Colonoscopy revealed multiple, reddish, mucus-capped polypoid lesions from the rectum to the sigmoid colon. A pathological examination revealed that the polyps were covered by erosive and inflamed granulation tissue with decreased crypt cells. Laboratory data indicated positive values for Helicobacter pylori immunoglobulin G antibody and hypoproteinemia. Metronidazole, H. pylori eradication, and levofloxacin therapies were not effective; however, the subsequent administration of betamethasone enema dramatically improved the clinical symptoms and endoscopic findings. The hypoproteinemia was normalized after the therapy. The dose of the betamethasone enema was tapered gradually, and no recurrence was observed 6 months after discontinuation of the treatment. This case suggests that beta",
+            "journal": "Journal of gastrointestinal and liver diseases : JGLD",
+            "year": "2014",
+            "authors": [
+              "Suzuki Hideo",
+              "Sato Masashi",
+              "Akutsu Daisuke",
+              "Sugiyama Hiroaki",
+              "Sato Taiki"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Betamethasone",
+              "Colonoscopy",
+              "Enema",
+              "Female",
+              "Glucocorticoids",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Humans",
+              "Intestinal Polyposis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24949613/"
+          },
+          {
+            "pmid": "12141801",
+            "title": "Does metronidazole cure cap polyposis by its antiinflammatory actions instead of by its antibiotic action? A case study.",
+            "abstract": "",
+            "journal": "Digestive diseases and sciences",
+            "year": "2002",
+            "authors": [
+              "Shimizu Kayoko",
+              "Koga Hideki",
+              "Iida Mitsuo",
+              "Yao Takashi",
+              "Hirakawa Katsuya"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Anti-Inflammatory Agents",
+              "Child",
+              "Colon",
+              "Colonic Polyps",
+              "Colonoscopy",
+              "Female",
+              "Humans",
+              "Intestinal Mucosa",
+              "Metronidazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12141801/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "cap polyposis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20cap%20polyposis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "ulceration of vulva",
+        "txgnn_score": 0.9972366094589232,
+        "txgnn_rank": 782,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "24252167",
+            "title": "Crohn's disease of the vulva.",
+            "abstract": "Crohn's disease (CD) of the vulva is a rare, yet under recognized condition. Fistulae arising from the digestive tract account for the greater part of genital lesions in CD. However, cutaneous so-called metastatic lesions of the vulva have been reported in the literature. They are clinically challenging for gastroenterologists as well as for gynecologists, with numerous differential diagnoses, especially among venereal diseases, and require a multidisciplinary approach. The most frequently observed features of the disease are labial swelling, vulvar ulcers, and hypertrophic lesions. Biopsy samples for histological study are mandatory, in order to establish the diagnosis of vulvar CD. Treatment options include oral prolonged courses of metronidazole and systemic immunosuppressive therapy such as corticosteroids and azathioprine, with promising data published on the efficacy of infliximab. Surgery remains restricted to medical treatment failures or resection of unsightly lesions. Prospec",
+            "journal": "Journal of Crohn's & colitis",
+            "year": "2014",
+            "authors": [
+              "Barret Maximilien",
+              "de Parades Vincent",
+              "Battistella Maxime",
+              "Sokol Harry",
+              "Lemarchand Nicolas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abscess",
+              "Crohn Disease",
+              "Female",
+              "Humans",
+              "Hypertrophy",
+              "Ulcer",
+              "Vulva",
+              "Vulvar Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24252167/"
+          },
+          {
+            "pmid": "6835740",
+            "title": "Cutaneous amebiasis.",
+            "abstract": "An infant with cutaneous amebiasis of the vulva and amebic liver abscess is described. Epidemiologic investigations and serologic studies were crucial in establishing the diagnosis. The vulvar amebic ulcers responded dramatically to metronidazole therapy. Cutaneous amebiasis is a rare complication of Entamoeba histolytica infection which should be considered in the differential diagnosis of perineovulvar or penile ulcers. Cutaneous amebiasis may also occur on the abdominal wall surrounding a draining hepatic abscess, colostomy site, or laparotomy incision.",
+            "journal": "Pediatrics",
+            "year": "1983",
+            "authors": [
+              "Rimsza M E",
+              "Berg R A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amebiasis",
+              "Antiparasitic Agents",
+              "Female",
+              "Humans",
+              "Infant",
+              "Liver Abscess, Amebic",
+              "Metronidazole",
+              "Skin Diseases, Parasitic",
+              "Skin Ulcer",
+              "Vulvar Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6835740/"
+          },
+          {
+            "pmid": "31464920",
+            "title": "Low-dose methotrexate-induced vulvar edema: A case report.",
+            "abstract": "Methotrexate (MTX) is an antimetabolite of folic acid, which is used for management of ectopic pregnancy. MTX-related toxicity may include cutaneous mucosal damage, bone marrow suppression, gastrointestinal disorders (gastritis, diarrhea, hematitis), liver and kidney function damage, pulmonary toxicity, cardiac toxicity, and nerve toxicity. However, it is not usual for vulvar edema induced by low-dose methotrexate.",
+            "journal": "Medicine",
+            "year": "2019",
+            "authors": [
+              "Jia Guifeng",
+              "Chai Wei",
+              "He Zhiwei",
+              "Liu Xiaojing",
+              "Wen Yan"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abdominal Pain",
+              "Administration, Oral",
+              "Adult",
+              "China",
+              "Female",
+              "Glycyrrhizic Acid",
+              "Humans",
+              "Injections, Intramuscular",
+              "Materia Medica",
+              "Methotrexate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31464920/"
+          },
+          {
+            "pmid": "28948431",
+            "title": "Vulvar involvement in pediatric Crohn's disease: a systematic review.",
+            "abstract": "The aim of the study is to report a systematic review (from 2000 to 2017) of all pediatric cases of vulvar Crohn's disease (VCD) and to highlight the key-points for a correct diagnosis and management of this rare condition.",
+            "journal": "Archives of gynecology and obstetrics",
+            "year": "2018",
+            "authors": [
+              "Granese Roberta",
+              "Calagna Gloria",
+              "Morabito Giuliana",
+              "Carriero Carmine",
+              "Perino Antonio"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Administration, Topical",
+              "Child",
+              "Crohn Disease",
+              "Edema",
+              "Female",
+              "Humans",
+              "Metronidazole",
+              "Perineum",
+              "Vulva"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28948431/"
+          },
+          {
+            "pmid": "37844980",
+            "title": "Successful multidisciplinary treatment of the rare pathology of vulvar Crohn's disease.",
+            "abstract": "A woman in her 50s with a medical history of rheumatoid arthritis (RA) and hypothyroidism presented with 3 months of vaginal pain and swelling. Physical examination showed vulvar oedema and erythema, ulcerations of the inferior vulva that extended to the buttocks and introitus with erythema and superficial erosions. MR pelvis showed a fibroid in the uterus but otherwise was unremarkable. Biopsies of the vagina showed extensive acute and chronic inflammation, necrosis and granulomas without concern for malignancy, which was consistent with a diagnosis of cutaneous Crohn's disease. MR enterography, upper endoscopy and colonoscopy revealed no gastrointestinal manifestations of Crohn's. She was treated initially with corticosteroids and metronidazole as well as vulvectomy and graft placement. Azathioprine was added to her regimen due to lack of response; however, despite 6 weeks of this therapy, the ulcerations did not heal thus infliximab was initiated. After 8 weeks the lesions had compl",
+            "journal": "BMJ case reports",
+            "year": "2023",
+            "authors": [
+              "Al Yacoub Raed",
+              "Brown Kelcie",
+              "Ladna Michael"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Crohn Disease",
+              "Infliximab",
+              "Azathioprine",
+              "Granuloma",
+              "Vulvitis",
+              "Dermatitis",
+              "Ulcer",
+              "Erythema"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37844980/"
+          },
+          {
+            "pmid": "3526048",
+            "title": "[Cutaneous Crohn disease].",
+            "abstract": "The term \"metastatic\" Crohn's disease is used to define the cutaneous lesions, distant from the gastrointestinal tract and separated from other ulcerations by normal skin, showing granulomatous histology. A case of Crohn's disease with metastatic ulcerations of the vulva, perineum, submammary folds, groins and abdominal fold is presented. In the literature only 26 similar cases were found. Cutaneous manifestations associated to Crohn's disease, its classification and treatment are commented. The excellent response of our case to metronidazole is stressed.",
+            "journal": "Medicina cutanea ibero-latino-americana",
+            "year": "1986",
+            "authors": [
+              "Zampese M S",
+              "Bakos L",
+              "Kuhl I C",
+              "Wissbluth M L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Crohn Disease",
+              "Female",
+              "Humans",
+              "Metronidazole",
+              "Skin Diseases",
+              "Vaginal Diseases",
+              "Vulvar Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3526048/"
+          },
+          {
+            "pmid": "21572806",
+            "title": "Chronic linear ulcerations of the inguino-crural and buttocks folds.",
+            "abstract": "Vulvo-perineal Crohn's disease is a rare condition either when it is isolated or associated with digestive manifestations. In the former condition named metastatic Crohn's disease, it may constitute a diagnostic challenge and may be confused especially with other infectious or inflammatory disorders. We report a case of vulvo-perineal Crohn's disease in a 46-year-old woman. A 46-year-old woman was diagnosed with a vulvo-perineal Crohn's disease without digestive involvement. There was a chronic edema of the vulva with linear ulcerations on the inguino-crural regions and the buttocks fold, of 3 years. Treatment with metronidazole (1 g/day for 6 months) led to almost complete healing of the ulcerations with a sustained result. Physicians must be aware of the diverse manifestations and confusing presentations of vulvo-perineal Crohn's disease.",
+            "journal": "Indian journal of dermatology",
+            "year": "2011",
+            "authors": [
+              "Khaled Aida",
+              "Ezzine-Sebai Nadia",
+              "Fazaa Becima",
+              "Zeglaoui Faten",
+              "Zermani Rachida"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21572806/"
+          },
+          {
+            "pmid": "25687208",
+            "title": "Vulval Crohn's disease: a clinical study of 22 patients.",
+            "abstract": "Vulval Crohn's disease [VCD] is a challenging condition that can occur without gastrointestinal Crohn's disease [GCD]. We reviewed the clinical features and effects of therapy in a cohort of 22 patients with VCD to determine whether the presence of GCD affected the clinical presentation and treatment response. Of these, 64% had GCD and 65% of these presented with GCD prior to VCD. Fissuring, ulceration, and scarring were more common in those with VCD alone. Potent and ultra-potent topical steroids showed benefit in most patients. There was no clear evidence of sustained remission with metronidazole. Azathioprine was the most commonly used oral immunosuppressive agent, with an efficacy of 57%. Patients with both VCD and GCD had a better clinical response compared with those with VCD alone [70% and 25%, respectively]. Infliximab and adalimumab were effective in 56% and 71% of patients, respectively. Excision of redundant tissue was helpful in four patients. The absence of GCD may delay t",
+            "journal": "Journal of Crohn's & colitis",
+            "year": "2015",
+            "authors": [
+              "Laftah Zainab",
+              "Bailey Clare",
+              "Zaheri Shirin",
+              "Setterfield Jane",
+              "Fuller Lucinda Claire"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adalimumab",
+              "Adolescent",
+              "Adult",
+              "Anti-Inflammatory Agents",
+              "Azathioprine",
+              "Child",
+              "Crohn Disease",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25687208/"
+          },
+          {
+            "pmid": "8840708",
+            "title": "Amoebiasis of the female genital tract: a case report.",
+            "abstract": "In 1994, a 56-year-old Burmese woman presented with bloody discharge per vaginam had undergone pelvic examination disclosing multiple small ulcerated and friable lesions with contact bleeding at vulva, vagina and cervix. Wet smears from vaginal discharge showed typical Entamoeba histolytica trophozoites. The patient was treated with metronidazole 750 mg three times daily for 7 days, resulting in complete recovery of the lesions in 10 days. The pathology, risk factors, diagnosis and management of the disease are discussed.",
+            "journal": "The journal of obstetrics and gynaecology research",
+            "year": "1996",
+            "authors": [
+              "Nopdonrattakoon L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amebiasis",
+              "Antitrichomonal Agents",
+              "Female",
+              "Genital Diseases, Female",
+              "Humans",
+              "Metronidazole",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8840708/"
+          },
+          {
+            "pmid": "2611176",
+            "title": "Deep and acute vulval ulceration. Case report.",
+            "abstract": "",
+            "journal": "British journal of obstetrics and gynaecology",
+            "year": "1989",
+            "authors": [
+              "Davidson F",
+              "Gnaanachelvan K",
+              "Marsden R A",
+              "Cooke M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Infective Agents, Urinary",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Metronidazole",
+              "Trimethoprim, Sulfamethoxazole Drug Combination",
+              "Ulcer",
+              "Vulva",
+              "Vulvar Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2611176/"
+          },
+          {
+            "pmid": "4739732",
+            "title": "[Case report on the diagnosis of trichomonas ulcers].",
+            "abstract": "",
+            "journal": "Zeitschrift fur Haut- und Geschlechtskrankheiten",
+            "year": "1973",
+            "authors": [
+              "Rytter M",
+              "Buchholz W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Diagnosis, Differential",
+              "Female",
+              "Humans",
+              "Metronidazole",
+              "Penicillins",
+              "Pregnancy",
+              "Pregnancy Complications, Infectious",
+              "Sexually Transmitted Diseases",
+              "Skin Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4739732/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metronidazole",
+          "disease": "ulceration of vulva",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metronidazole%20ulceration%20of%20vulva"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Metronidazole",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00916",
+    "name": "Metronidazole",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Metronidazole"
+      },
+      "queried_at": "2026-03-10T11:59:54.009238",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Metronidazole"
+      },
+      "queried_at": "2026-03-10T11:59:54.025157",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Metronidazole"
+      },
+      "queried_at": "2026-03-10T12:00:04.103685",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-10T12:00:09.141601",
+      "status": "success",
+      "result_count": 23,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-10T12:00:13.305311",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-10T12:00:14.827762",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-10T12:00:18.239936",
+      "status": "success",
+      "result_count": 10,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:00:18.980741",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:00:22.116307",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:00:23.299263",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "punctate epithelial keratoconjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:00:24.267133",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulcerative proctosigmoiditis"
+      },
+      "queried_at": "2026-03-10T12:00:25.167139",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulcerative proctosigmoiditis"
+      },
+      "queried_at": "2026-03-10T12:00:30.316008",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulcerative proctosigmoiditis"
+      },
+      "queried_at": "2026-03-10T12:00:31.468283",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulcerative proctosigmoiditis"
+      },
+      "queried_at": "2026-03-10T12:00:35.205866",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-10T12:00:36.437745",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-10T12:00:40.285861",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-10T12:00:42.591420",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-10T12:00:47.919441",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T12:00:49.029779",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T12:00:52.843107",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T12:00:55.304855",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T12:00:57.289197",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "Cryptococcal meningitis"
+      },
+      "queried_at": "2026-03-10T12:00:58.033456",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "Cryptococcal meningitis"
+      },
+      "queried_at": "2026-03-10T12:01:02.121286",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "Cryptococcal meningitis"
+      },
+      "queried_at": "2026-03-10T12:01:03.521465",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "Cryptococcal meningitis"
+      },
+      "queried_at": "2026-03-10T12:01:06.578716",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:01:07.876486",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:01:10.797813",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:01:13.278434",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-10T12:01:14.424979",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-10T12:01:15.217803",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-10T12:01:19.017118",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-10T12:01:20.139393",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-10T12:01:24.691031",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "cap polyposis"
+      },
+      "queried_at": "2026-03-10T12:01:25.633323",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "cap polyposis"
+      },
+      "queried_at": "2026-03-10T12:01:30.541935",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "cap polyposis"
+      },
+      "queried_at": "2026-03-10T12:01:31.484044",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "cap polyposis"
+      },
+      "queried_at": "2026-03-10T12:01:33.825045",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulceration of vulva"
+      },
+      "queried_at": "2026-03-10T12:01:34.296627",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulceration of vulva"
+      },
+      "queried_at": "2026-03-10T12:01:38.093773",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulceration of vulva"
+      },
+      "queried_at": "2026-03-10T12:01:41.551036",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metronidazole",
+        "disease": "ulceration of vulva"
+      },
+      "queried_at": "2026-03-10T12:01:43.727860",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 10,
+    "created_at": "2026-03-10T12:01:43.731360"
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "drug": {
+    "inn": "Ivermectin",
+    "drugbank_id": "DB00602",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "vulvovaginal candidiasis",
+        "txgnn_score": 0.9994907379150392,
+        "txgnn_rank": 172,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "vulvovaginal candidiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20vulvovaginal%20candidiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "esophageal candidiasis",
+        "txgnn_score": 0.997319519519806,
+        "txgnn_rank": 757,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "35835488",
+            "title": "Disseminated strongyloidiasis after prolonged treatment with corticosteroids.",
+            "abstract": "Strongyloides stercoralis is a helminth found in the soil and transmitted to humans through larval penetration of the skin. It is endemic across most of the tropical regions of the world. Infection with S. stercoralis commonly causes minimal or mild symptoms. This case report describes an interesting final diagnosis for a woman presenting with persistent nausea, vomiting and epigastric pain. Her evaluation included imaging and oesophagogastroduodenoscopy with biopsy. Her biopsy results revealed oesophageal candidiasis and disseminated strongyloidiasis. Important historical clues in this case included previous prolonged treatment with steroids, recent diagnosis of gram-negative bacteraemia, prior residence in Rwanda, and unknown predeparture treatment for S. stercoralis She was ultimately treated with fluconazole and ivermectin with marked improvement in her symptoms.",
+            "journal": "BMJ case reports",
+            "year": "2022",
+            "authors": [
+              "Mahoney Caitlin",
+              "Brown Carina Murphy",
+              "McIntyre Brittany",
+              "Neal Sara"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Animals",
+              "Female",
+              "Humans",
+              "Ivermectin",
+              "Strongyloides stercoralis",
+              "Strongyloidiasis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35835488/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "esophageal candidiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20esophageal%20candidiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "anogenital human papillomavirus infection",
+        "txgnn_score": 0.9947538375854492,
+        "txgnn_rank": 1245,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "anogenital human papillomavirus infection",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20anogenital%20human%20papillomavirus%20infection"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "vulvovaginitis",
+        "txgnn_score": 0.9936321377754213,
+        "txgnn_rank": 1411,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "vulvovaginitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20vulvovaginitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neonatal candidiasis",
+        "txgnn_score": 0.9925429821014404,
+        "txgnn_rank": 1638,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "neonatal candidiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20neonatal%20candidiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital candidiasis",
+        "txgnn_score": 0.9925429821014404,
+        "txgnn_rank": 1639,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "10098288",
+            "title": "Crusted scabies in two immunocompromised children: successful treatment with oral ivermectin.",
+            "abstract": "Two immunodeficient children, aged 4 and 12 years, with crusted scabies were successfully treated with a single oral dose of ivermectin (200 micrograms/kg). One child had been diagnosed in infancy with an undefined congenital T cell immunodeficiency and the other with chronic mucocutaneous candidiasis. Both had failed to respond to conventional topical therapy. In view of the excellent therapeutic response and absence of side-effects, ivermectin should be considered in the treatment of recalcitrant crusted scabies in children.",
+            "journal": "The Australasian journal of dermatology",
+            "year": "1999",
+            "authors": [
+              "Patel A",
+              "Hogan P",
+              "Walder B"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Antinematodal Agents",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Immunocompromised Host",
+              "Ivermectin",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10098288/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "congenital candidiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20congenital%20candidiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "candida glabrata",
+        "txgnn_score": 0.9925429821014404,
+        "txgnn_rank": 1640,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "candida glabrata",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20candida%20glabrata"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "postmenopausal atrophic vaginitis",
+        "txgnn_score": 0.9917615652084352,
+        "txgnn_rank": 1795,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "postmenopausal atrophic vaginitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20postmenopausal%20atrophic%20vaginitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "candidiasis, invasive",
+        "txgnn_score": 0.9916353225708008,
+        "txgnn_rank": 1813,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ivermectin",
+          "disease": "candidiasis, invasive",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ivermectin%20candidiasis%2C%20invasive"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Ivermectin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00602",
+    "name": "Ivermectin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Ivermectin"
+      },
+      "queried_at": "2026-03-10T14:01:25.158963",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Ivermectin"
+      },
+      "queried_at": "2026-03-10T14:01:25.168582",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Ivermectin"
+      },
+      "queried_at": "2026-03-10T14:01:33.030105",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:33.995510",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:39.244407",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:40.470966",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:41.182171",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "esophageal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:42.590038",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "esophageal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:46.735178",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "esophageal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:48.184264",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "esophageal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:01:50.469910",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "anogenital human papillomavirus infection"
+      },
+      "queried_at": "2026-03-10T14:01:51.935061",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "anogenital human papillomavirus infection"
+      },
+      "queried_at": "2026-03-10T14:01:56.115231",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "anogenital human papillomavirus infection"
+      },
+      "queried_at": "2026-03-10T14:01:57.098308",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "anogenital human papillomavirus infection"
+      },
+      "queried_at": "2026-03-10T14:01:58.534650",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginitis"
+      },
+      "queried_at": "2026-03-10T14:01:59.602721",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginitis"
+      },
+      "queried_at": "2026-03-10T14:02:04.308674",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginitis"
+      },
+      "queried_at": "2026-03-10T14:02:07.028722",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "vulvovaginitis"
+      },
+      "queried_at": "2026-03-10T14:02:10.183471",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "neonatal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:11.449924",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "neonatal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:17.437121",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "neonatal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:19.533598",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "neonatal candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:20.957954",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "congenital candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:22.085629",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "congenital candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:27.531206",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "congenital candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:29.583881",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "congenital candidiasis"
+      },
+      "queried_at": "2026-03-10T14:02:33.600124",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candida glabrata"
+      },
+      "queried_at": "2026-03-10T14:02:34.359054",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candida glabrata"
+      },
+      "queried_at": "2026-03-10T14:02:39.164271",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candida glabrata"
+      },
+      "queried_at": "2026-03-10T14:02:40.485133",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candida glabrata"
+      },
+      "queried_at": "2026-03-10T14:02:43.094779",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T14:02:43.909978",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T14:02:49.785989",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T14:02:50.825613",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "postmenopausal atrophic vaginitis"
+      },
+      "queried_at": "2026-03-10T14:02:52.351597",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candidiasis, invasive"
+      },
+      "queried_at": "2026-03-10T14:02:53.068979",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candidiasis, invasive"
+      },
+      "queried_at": "2026-03-10T14:02:58.750302",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candidiasis, invasive"
+      },
+      "queried_at": "2026-03-10T14:03:01.044718",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ivermectin",
+        "disease": "candidiasis, invasive"
+      },
+      "queried_at": "2026-03-10T14:03:02.105783",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.99,
+    "indications_found": 9,
+    "created_at": "2026-03-10T14:03:02.119305"
+  }
+}
