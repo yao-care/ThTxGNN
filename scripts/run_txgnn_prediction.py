@@ -79,7 +79,7 @@ def main():
 
     if result is not None and len(result) > 0:
         print("\n預測完成！")
-        print(f"結果檔案: data/processed/txgnn_dl_predictions.csv")
+        print(f"結果檔案: data/processed/txgnn_dl_predictions.csv.gz")
         print(f"Checkpoint: data/processed/txgnn_checkpoint.csv")
     else:
         print("\n預測未產生結果，請檢查藥品映射資料。")

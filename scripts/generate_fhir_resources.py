@@ -158,7 +158,7 @@ def main():
 
     # 2. 載入預測結果
     print("2. 載入預測結果...")
-    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv"
+    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv.gz"
 
     if not candidates_path.exists():
         print(f"   找不到預測結果: {candidates_path}")

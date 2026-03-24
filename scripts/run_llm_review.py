@@ -60,7 +60,7 @@ def main():
     parser.add_argument(
         "--input",
         "-i",
-        default="data/processed/repurposing_candidates.csv",
+        default="data/processed/repurposing_candidates.csv.gz",
         help="Input predictions CSV",
     )
     parser.add_argument(
