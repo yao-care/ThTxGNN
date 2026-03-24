@@ -15,7 +15,7 @@ DATA_DIR = PROJECT_ROOT / "data"
 
 def load_data():
     """Load ThTxGNN data."""
-    dl_predictions = pd.read_csv(DATA_DIR / "processed" / "txgnn_dl_predictions.csv")
+    dl_predictions = pd.read_csv(DATA_DIR / "processed" / "txgnn_dl_predictions.csv.gz")
     drug_mapping = pd.read_csv(DATA_DIR / "processed" / "drug_mapping.csv")
     indication_mapping = pd.read_csv(DATA_DIR / "processed" / "indication_mapping.csv")
     return dl_predictions, drug_mapping, indication_mapping

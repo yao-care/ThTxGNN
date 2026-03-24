@@ -116,7 +116,7 @@ def main():
     # 儲存各階段結果
     drug_mapping.to_csv(output_dir / "drug_mapping.csv", index=False)
     indication_mapping.to_csv(output_dir / "indication_mapping.csv", index=False)
-    candidates.to_csv(output_dir / "repurposing_candidates.csv", index=False)
+    candidates.to_csv(output_dir / "repurposing_candidates.csv.gz", index=False)
 
     print(f"   drug_mapping.csv: {len(drug_mapping)} 筆")
     print(f"   indication_mapping.csv: {len(indication_mapping)} 筆")

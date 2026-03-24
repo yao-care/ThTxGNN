@@ -41,7 +41,7 @@ def get_prediction_drugs(
 ) -> list[dict]:
     """Get list of drugs with predictions, sorted by prediction count."""
     if predictions_path is None:
-        predictions_path = Path("data/processed/txgnn_dl_predictions.csv")
+        predictions_path = Path("data/processed/txgnn_dl_predictions.csv.gz")
 
     df = pd.read_csv(predictions_path)
 

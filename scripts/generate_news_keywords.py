@@ -132,7 +132,7 @@ def main():
 
     # Load predictions
     print("1. Loading predictions...")
-    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv"
+    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv.gz"
 
     if not candidates_path.exists():
         print(f"   Predictions not found: {candidates_path}")
@@ -163,7 +163,7 @@ def main():
     # Compile output
     output = {
         "version": "1.0.0",
-        "generated_from": "repurposing_candidates.csv",
+        "generated_from": "repurposing_candidates.csv.gz",
         "drug_count": len(drug_keywords),
         "disease_count": len(disease_keywords),
         "drugs": drug_keywords,
