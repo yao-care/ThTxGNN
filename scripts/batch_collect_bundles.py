@@ -9,7 +9,7 @@ Usage:
     python scripts/batch_collect_bundles.py --limit 10
 
     # Collect specific drugs
-    python scripts/batch_collect_bundles.py --drugs "Amlodipine,Metformin,Aspirin"
+    python scripts/batch_collect_bundles.py --drugs "Warfarin,Minoxidil,Aspirin"
 
     # Collect all drugs with high-confidence predictions
     python scripts/batch_collect_bundles.py --all --min-score 0.99
@@ -64,6 +64,54 @@ def get_prediction_drugs(
         drug_stats = drug_stats.head(limit)
 
     return drug_stats.to_dict("records")
+
+
+def get_mapping_drugs(
+    mapping_path: Path | None = None,
+    offset: int = 0,
+    limit: int | None = None,
+) -> list[dict]:
+    """Get list of unique mapped drugs from drug_mapping.csv."""
+    if mapping_path is None:
+        mapping_path = Path("data/processed/drug_mapping.csv")
+
+    df = pd.read_csv(mapping_path)
+
+    # Find the success column (映射成功 or mapping_success)
+    success_col = None
+    for col in ["mapping_success", "映射成功"]:
+        if col in df.columns:
+            success_col = col
+            break
+
+    # Find the ingredient column
+    ingredient_col = None
+    for col in ["normalized_ingredient", "標準化成分", "drug_ingredient"]:
+        if col in df.columns:
+            ingredient_col = col
+            break
+
+    if success_col and ingredient_col:
+        df = df[df[success_col] == True]
+        drugs = df[ingredient_col].dropna().unique()
+    else:
+        # Fallback: use drugbank_id mapped rows
+        df = df[df["drugbank_id"].notna()]
+        for col in ["normalized_ingredient", "標準化成分", "drug_ingredient", "ingredient"]:
+            if col in df.columns:
+                drugs = df[col].dropna().unique()
+                break
+        else:
+            drugs = []
+
+    drug_list = [{"drug_name": d} for d in sorted(drugs)]
+
+    if offset > 0:
+        drug_list = drug_list[offset:]
+    if limit:
+        drug_list = drug_list[:limit]
+
+    return drug_list
 
 
 def collect_single_drug(drug_name: str, top_n: int = 10, min_score: float = 0.99) -> dict:
@@ -126,12 +174,15 @@ def main():
     parser.add_argument("--top-n", type=int, default=10, help="Top N predictions per drug")
     parser.add_argument("--output", type=str, help="Output JSON file for results")
     parser.add_argument("--skip-existing", action="store_true", help="Skip drugs with existing bundles")
+    parser.add_argument("--from-mapping", action="store_true", help="Get drugs from drug_mapping.csv instead of DL predictions")
 
     args = parser.parse_args()
 
     # Get drug list
     if args.drugs:
         drugs = [{"drug_name": d.strip()} for d in args.drugs.split(",")]
+    elif args.from_mapping:
+        drugs = get_mapping_drugs(offset=args.offset, limit=args.limit)
     elif args.all or args.limit:
         drugs = get_prediction_drugs(min_score=args.min_score, offset=args.offset, limit=args.limit)
     else:
@@ -148,9 +199,9 @@ def main():
         ]
         skipped = original_count - len(drugs)
         if skipped > 0:
-            print(f"ข้าม {skipped} bundles ที่มีอยู่แล้ว")
+            print(f"跳過 {skipped} 個已存在的 bundles")
 
-    print(f"กำลังประมวลผล {len(drugs)} ยา (offset={args.offset})...")
+    print(f"Processing {len(drugs)} drugs (offset={args.offset})...")
     print("-" * 60)
 
     results = []
@@ -175,14 +226,14 @@ def main():
     success = sum(1 for r in results if r["status"] == "success")
     total_ddi = sum(r["ddi_count"] for r in results)
     total_ind = sum(r["indication_count"] for r in results)
-    print(f"เสร็จสิ้น: {success}/{len(drugs)} สำเร็จ")
-    print(f"รวม DDI: {total_ddi}, รวมข้อบ่งใช้: {total_ind}")
+    print(f"完成: {success}/{len(drugs)} 成功")
+    print(f"總計 DDI: {total_ddi}, 總計適應症: {total_ind}")
 
     # Save results
     if args.output:
         output_path = Path(args.output)
         output_path.write_text(json.dumps(results, indent=2, ensure_ascii=False))
-        print(f"บันทึกผลลัพธ์: {output_path}")
+        print(f"結果已儲存: {output_path}")
 
     return results
 
