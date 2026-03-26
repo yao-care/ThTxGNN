@@ -1,0 +1,787 @@
+{
+  "drug": {
+    "inn": "Cephalexin",
+    "drugbank_id": "DB00567",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "chronic otitis media",
+        "txgnn_score": 0.9855168461799622,
+        "txgnn_rank": 2837,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "chronic otitis media",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20chronic%20otitis%20media"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "suppurative otitis media",
+        "txgnn_score": 0.985321581363678,
+        "txgnn_rank": 2858,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "suppurative otitis media",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20suppurative%20otitis%20media"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "middle ear disease",
+        "txgnn_score": 0.9851951003074646,
+        "txgnn_rank": 2871,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "middle ear disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20middle%20ear%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "otosalpingitis",
+        "txgnn_score": 0.984666109085083,
+        "txgnn_rank": 2953,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "otosalpingitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20otosalpingitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "non-suppurative otitis media",
+        "txgnn_score": 0.9843244552612304,
+        "txgnn_rank": 3007,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "non-suppurative otitis media",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20non-suppurative%20otitis%20media"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "allergic otitis media",
+        "txgnn_score": 0.9826998710632324,
+        "txgnn_rank": 3281,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9470025",
+            "title": "Hypersensitivity myocarditis caused by an allergic reaction to cefaclor.",
+            "abstract": "An adolescent girl was seen with acute heart failure 6 days after the onset of a viral illness and otitis media treated with cefaclor. An endomyocardial biopsy specimen revealed active myocarditis with an eosinophilic infiltrate typical of hypersensitivity myocarditis. The patient showed dramatic improvement within 48 hours after withdrawal of the drug and administration of corticosteroids and immunoglobulin.",
+            "journal": "The Journal of pediatrics",
+            "year": "1998",
+            "authors": [
+              "Beghetti M",
+              "Wilson G J",
+              "Bohn D",
+              "Benson L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Biopsy",
+              "Cefaclor",
+              "Cephalosporins",
+              "Child",
+              "Drug Hypersensitivity",
+              "Female",
+              "Humans",
+              "Myocarditis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9470025/"
+          },
+          {
+            "pmid": "10103342",
+            "title": "Anaphylactic reaction to oral cefaclor in a child.",
+            "abstract": "Adverse drug reactions are a common clinical problem. It has been estimated that 6% to 15% of hospitalized patients experience some sort of adverse drug reaction. Clinical manifestations of adverse drug reactions include skin rash; a serum sickness-like reaction; drug fever; pulmonary, hepatic, and renal involvement; and systemic anaphylaxis. Many of these adverse events are not immunologically mediated. Actual allergic or immunologic drug reactions probably account for <25% of adverse drug reactions overall. Antibiotics are one of the major contributors to drug hypersensitivity. Cefaclor, an oral second-generation cephalosporin with a beta-lactam ring, is used against various infectious diseases of the respiratory tract, especially in children. Several cases of cefaclor hypersensitivity have been reported. The most common presentations are either erythematous or papular eruptions, although serum sickness-like reactions have also been described. Anaphylactic reactions, although rare, h",
+            "journal": "Pediatrics",
+            "year": "1999",
+            "authors": [
+              "Grouhi M",
+              "Hummel D",
+              "Roifman C M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Anaphylaxis",
+              "Cefaclor",
+              "Cephalosporins",
+              "Child, Preschool",
+              "Drug Eruptions",
+              "Humans",
+              "Male",
+              "Otitis Media"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10103342/"
+          },
+          {
+            "pmid": "6837048",
+            "title": "[Report of experiences with the oral cephalosporin-derivative cephaclor in respiratory tract infections].",
+            "abstract": "The oral cephalosporin derivative Cefaclor was administered to 22 patients with respiratory tract infections at a daily dosage of 3 x 500 mg. The average duration of the Cefaclor therapy was 10 days. In all patients improvement of the clinical picture and of objective criteria, such as fever, cough and sputum was observed. It was not possible to objectivate side effects by laboratory parameters. Gastrointestinal disturbances and allergic symptoms were only present in individual cases but did not significantly influence the clinical efficacy of Cefaclor.",
+            "journal": "Wiener medizinische Wochenschrift (1946)",
+            "year": "1983",
+            "authors": [
+              "Spath P"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Bronchitis",
+              "Cefaclor",
+              "Cephalexin",
+              "Drug Tolerance",
+              "Female",
+              "Humans",
+              "Laryngitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6837048/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "allergic otitis media",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20allergic%20otitis%20media"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "middle ear cholesterol granuloma",
+        "txgnn_score": 0.9816566109657288,
+        "txgnn_rank": 3465,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "middle ear cholesterol granuloma",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20middle%20ear%20cholesterol%20granuloma"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hyperamylasemia",
+        "txgnn_score": 0.9809581637382508,
+        "txgnn_rank": 3566,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "hyperamylasemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20hyperamylasemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "polyclonal hyperviscosity syndrome",
+        "txgnn_score": 0.9809581637382508,
+        "txgnn_rank": 3567,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "polyclonal hyperviscosity syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20polyclonal%20hyperviscosity%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital analbuminemia",
+        "txgnn_score": 0.9779732823371888,
+        "txgnn_rank": 3957,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Cephalexin",
+          "disease": "congenital analbuminemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Cephalexin%20congenital%20analbuminemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Cephalexin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00567",
+    "name": "Cephalexin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Cephalexin"
+      },
+      "queried_at": "2026-03-24T15:20:16.805801",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Cephalexin"
+      },
+      "queried_at": "2026-03-24T15:20:16.807641",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Cephalexin"
+      },
+      "queried_at": "2026-03-24T15:20:23.204668",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "chronic otitis media"
+      },
+      "queried_at": "2026-03-24T15:20:23.753499",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "chronic otitis media"
+      },
+      "queried_at": "2026-03-24T15:20:34.604971",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "chronic otitis media"
+      },
+      "queried_at": "2026-03-24T15:20:39.609427",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "chronic otitis media"
+      },
+      "queried_at": "2026-03-24T15:20:46.299929",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:20:51.916047",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:20:54.919497",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:20:59.923467",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:21:02.928358",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear disease"
+      },
+      "queried_at": "2026-03-24T15:21:07.932035",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear disease"
+      },
+      "queried_at": "2026-03-24T15:21:12.940870",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear disease"
+      },
+      "queried_at": "2026-03-24T15:21:17.944886",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear disease"
+      },
+      "queried_at": "2026-03-24T15:21:22.950131",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "otosalpingitis"
+      },
+      "queried_at": "2026-03-24T15:21:27.954302",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "otosalpingitis"
+      },
+      "queried_at": "2026-03-24T15:21:32.957798",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "otosalpingitis"
+      },
+      "queried_at": "2026-03-24T15:21:37.961652",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "otosalpingitis"
+      },
+      "queried_at": "2026-03-24T15:21:40.981555",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "non-suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:21:43.985656",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "non-suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:21:57.679624",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "non-suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:22:02.986919",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "non-suppurative otitis media"
+      },
+      "queried_at": "2026-03-24T15:22:05.646413",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "allergic otitis media"
+      },
+      "queried_at": "2026-03-24T15:22:06.180301",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "allergic otitis media"
+      },
+      "queried_at": "2026-03-24T15:22:11.616679",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "allergic otitis media"
+      },
+      "queried_at": "2026-03-24T15:22:12.273525",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "allergic otitis media"
+      },
+      "queried_at": "2026-03-24T15:22:15.088517",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear cholesterol granuloma"
+      },
+      "queried_at": "2026-03-24T15:22:15.866042",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear cholesterol granuloma"
+      },
+      "queried_at": "2026-03-24T15:22:19.789138",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear cholesterol granuloma"
+      },
+      "queried_at": "2026-03-24T15:22:20.521832",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "middle ear cholesterol granuloma"
+      },
+      "queried_at": "2026-03-24T15:22:25.528821",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-24T15:22:26.007057",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-24T15:22:32.178897",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-24T15:22:33.090922",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "hyperamylasemia"
+      },
+      "queried_at": "2026-03-24T15:22:35.551659",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-24T15:22:37.524873",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-24T15:22:44.829901",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-24T15:22:45.624400",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "polyclonal hyperviscosity syndrome"
+      },
+      "queried_at": "2026-03-24T15:22:50.630489",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-24T15:22:51.424213",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-24T15:22:58.055567",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-24T15:23:03.061262",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Cephalexin",
+        "disease": "congenital analbuminemia"
+      },
+      "queried_at": "2026-03-24T15:23:08.065136",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:23:08.065276"
+  }
+}

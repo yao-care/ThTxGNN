@@ -1,0 +1,1197 @@
+{
+  "drug": {
+    "inn": "Enoxaparin",
+    "drugbank_id": "DB01225",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "thrombophilia due to protein C deficiency, autosomal recessive",
+        "txgnn_score": 0.9957667589187622,
+        "txgnn_rank": 1082,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "thrombophilia due to protein C deficiency, autosomal recessive",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20thrombophilia%20due%20to%20protein%20C%20deficiency%2C%20autosomal%20recessive"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "primary release disorder of platelets",
+        "txgnn_score": 0.9890828132629396,
+        "txgnn_rank": 2198,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05895136",
+            "title": "A Novel COMBinATorial Therapy With Albumin and Enoxaparin in Patients With Decompensated Cirrhosis at High-risk of Poor Outcome (COMBAT Trial).",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2024-07-01",
+            "completion_date": "2025-09",
+            "country": "Italy, France, Spain, United Kingdom, Germany",
+            "enrollment": 90,
+            "brief_summary": "The goal of this clinical trial is to determine primarily whether a combinatorial therapy based on the administration of human albumin and enoxaparin is safe and effective in patients with decompensated cirrhosis discharged from the hospital. The main questions it aims to answer are:\n\n* Is this combinatorial therapy safe and tolerable?\n* Is this combinatorial therapy effective?\n* does this combinatorial therapy cost more or less than standard medical therapy? Participants will attend to study vi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 80 years.\n2. Patients with decompensated cirrhosis admitted to hospital due to AD according to the EASL-CLIF criteria (rapid onset of ascites, hepatic encephalopathy, portal hypertensive-related gastrointestinal bleeding, bacterial infection, or any combina",
+            "endpoints": [
+              "To assess the safety and tolerability of the combinatorial therapy in terms of TEAE (pulmonary edema, major bleeding and/or thrombocytopenia"
+            ],
+            "sponsor": "European Foundation for Study of Chronic Liver Failure",
+            "url": "https://clinicaltrials.gov/study/NCT05895136"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04808895",
+            "title": "Multicenter Randomized, Double-blind, Placebo-controlled, Clinical Trial of Acetylsalicylic Acid in the Prevention of Severe SARS-CoV2 Pneumonia in Hospitalised Patients (Asperum)",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2021-04-01",
+            "completion_date": "2021-08-31",
+            "country": "Italy",
+            "enrollment": 204,
+            "brief_summary": "Inflammatory diseases favour the onset of venous thromboembolic events in hospitalized patients. Thromboprophylaxis with a fixed dose of heparin/low molecular weight heparin (LMWH) is recommended if concomitant inflammatory disease. In severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) pneumonia an inflammation-dependent thrombotic process occurs and platelet activation may promote thrombosis and amplify inflammation, as indicated by previous experimental evidence, and the similarities ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* in a medical area ward dedicated to Covid-19 patients\n* Positivity by RT\\_PCR of the search for genetic material of SARS-CoV2\n* Covid-19 pneumonia with moderate clinical picture based on clinical parameters\n* O2 saturation\\> 94% with maximum FiO2 32%\n* Respiratory acts \\<30 / ",
+            "endpoints": [
+              "Prevention of clinical worsening",
+              "Prevention of lung function worsening",
+              "Prevention of death"
+            ],
+            "sponsor": "Azienda Ospedaliera Universitaria Integrata Verona",
+            "url": "https://clinicaltrials.gov/study/NCT04808895"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05293132",
+            "title": "The Effect of Montelukast Versus Co Enzyme Q10 on the Clinical Outcome of Patients With Sepsis",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2022-02-01",
+            "completion_date": "2023-06-01",
+            "country": "Egypt",
+            "enrollment": 90,
+            "brief_summary": "Sepsis is a leading cause of morbidity and mortality in intensive care units. Sepsis is a life-threatening organ dysfunction linked to a dysregulated host response to infection. It leads to overwhelming of systemic inflammation causing release of proinflammatory cytokines, which trigger overproduction of reactive oxygen species. Several animal studies with sepsis proved the effectiveness of montelukast and coenzyme Q10 as anti-inflammatory and antioxidants in preventing end organ damage, deterio",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAge \\>18 years old.\n\n* Males and females\n* Confirmed diagnosis of sepsis according to the third sepsis definition which include documented or suspected infection, plus an acute change in total SOFA score ≥ 2 points\n\nExclusion Criteria:\n\n* Pregnancy\n* A severe moribund state\n* An",
+            "endpoints": [
+              "Twenty-eight-day mortality"
+            ],
+            "sponsor": "Ain Shams University",
+            "url": "https://clinicaltrials.gov/study/NCT05293132"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01863134",
+            "title": "Clinical Effects of Eptifibatide Administration in High Risk Patients Presenting With Non-ST Segment Elevation Acute Coronary Syndrome (NSTE-ACS) Requiring Urgent Coronary Artery Bypass Graft Surgery in Short- and Long-Term Follow-up",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-01",
+            "completion_date": "2010-12",
+            "country": "Poland, United States",
+            "enrollment": 140,
+            "brief_summary": "1. INTRODUCTION\n\n   Through last couple of years the number of patients treated for acute coronary event without persistent ST segment elevation in ECG has been growing.\n\n   This is probably an effect of improving diagnostics of myocardial infraction without persistent ST segment elevation in ECG, due to routine Troponin serum level evaluation and better primary prevention.\n\n   This fact makes the search for the optimal treatment for patients with acute coronary event without persistent ST segme",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have a typical anginal pain lasting at least 20 min., but no longer than 24h.\n* ECG confirming ischaemia\n* ST segment depression \\>= 1,0 mm in at least 2 leads, or,\n* negative T waves \\>= 2,0 mm in at least 2 leads.\n* Positive troponin I (TnI).\n* Subjects must de",
+            "endpoints": [
+              "Major Adverse Cardiac and Cerebrovascular Events (MACCE)"
+            ],
+            "sponsor": "Medical University of Silesia",
+            "url": "https://clinicaltrials.gov/study/NCT01863134"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04486508",
+            "title": "Intermediate-dose Versus Standard Prophylactic Anticoagulation In cRitically-ill pATIents With COVID-19: An opeN Label Randomized Controlled Trial---A Randomized Trial of Atorvastatin vs. Placebo In Critically-ill Patients With COVID-19",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-07-30",
+            "completion_date": "2021-07-05",
+            "country": "Iran",
+            "enrollment": 600,
+            "brief_summary": "In a 2x2 factorial design randomized controlled trial, the investigators aim to elaborate the safety and efficacy of two pharmacological regimens on outcomes of critically-ill patients with COVID-19. The first randomization entails open-label assignment to intermediate versus standard dose prophylactic anticoagulation. The investigators hypothesize that intermediate dose compared with standard prophylactic dose anticoagulation will have a superior efficacy with respect to a composite of venous t",
+            "eligibility_criteria": "Inclusion Criteria for Anticoagulation Hypothesis\n\n1. Adult patients (≥18 years), with polymerase chain reaction (PCR)-confirmed COVID-19 admitted to ICU within 7 days of initial hospitalization , who do not have another firm indication for anticoagulation (such as mechanical valve, high-risk atrial",
+            "endpoints": [
+              "a composite of acute VTE, arterial thrombosis, treatment with ECMO, or all-cause mortality"
+            ],
+            "sponsor": "Rajaie Cardiovascular Medical and Research Center",
+            "url": "https://clinicaltrials.gov/study/NCT04486508"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00457002",
+            "title": "A Phase 3 Randomized, Double-Blind, Parallel-group, Multi-center Study of the Safety and Efficacy of Apixaban for Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Subjects During and Following Hospitalization.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2007-06",
+            "completion_date": "2011-05",
+            "country": "Hungary, Norway, Italy, South Africa, Ukraine, United Kingdom, United States, Brazil, Argentina, India, Poland, Singapore, Philippines, Czechia, Sweden, Spain, Taiwan, Russia, Germany, Netherlands, Turkey (Türkiye), Mexico, Chile, Peru, Hong Kong, Denmark, Australia, Israel, France, Austria, Belgium, Malaysia, South Korea, Colombia, Canada",
+            "enrollment": 6758,
+            "brief_summary": "The purpose of this study is to learn if apixaban can prevent blood clots in the leg (deep vein thrombosis \\[DVT\\]) and lung (pulmonary embolism \\[PE\\]) that sometimes occur within patients hospitalized for acute medical illness, and to learn how apixaban compares to enoxaparin (Lovenox®) for preventing these clots. The safety of apixaban will also be studied.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* men and non-pregnant, non-breastfeeding women\n* 40 years or older\n* hospitalized with congestive heart failure or acute respiratory failure\n* infection (without septic shock)\n* acute rheumatic disorder\n* inflammatory bowel disease\n\nExclusion Criteria:\n\n* patients with venous t",
+            "endpoints": [
+              "Incidence of Composite of Adjudicated Total Venous Thromboembolism (VTE) and VTE-related Death During the Intended Treatment Period - Primary Efficacy Population",
+              "Incidence of Major Bleeding During the Treatment Period in Treated Participants",
+              "Incidence of Clinically Relevant Non-Major (CRNM) Bleeding During the Treatment Period in Treated Participants"
+            ],
+            "sponsor": "Bristol-Myers Squibb",
+            "url": "https://clinicaltrials.gov/study/NCT00457002"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04528888",
+            "title": "Steroids and Unfractionated Heparin in Critically Ill Patients With Pneumonia From COVID-19 Infection. A Multicenter, Interventional, Randomized, Three Arms Study Design",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2020-11-25",
+            "completion_date": "2021-07-30",
+            "country": "Italy",
+            "enrollment": 210,
+            "brief_summary": "SARS-CoV-2 infection seems to induce in most critical cases an excessive and aberrant hyper-inflammatory host immune response that is associated with a so-called \"cytokine storm\", moreover pro-thrombotic derangements of haemostatic system is another common finding in most severe forms of COVID19 infections, which may be explained by the activation of coagulative cascade primed by inflammatory stimuli, in line with what is observed in many other forms of sepsis. Targeting inflammatory responses e",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Positive SARS-CoV-2 diagnostic (on pharyngeal swab of deep airways material)\n2. Positive pressure ventilation (either non-invasive or invasive) from \\> 24 hours\n3. Invasive mechanical ventilation from \\< 96 hours\n4. P/F ratio \\< 150\n5. D-dimer level \\> 6 x upper limit of loca",
+            "endpoints": [
+              "All-cause mortality at day 28"
+            ],
+            "sponsor": "University of Modena and Reggio Emilia",
+            "url": "https://clinicaltrials.gov/study/NCT04528888"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05129800",
+            "title": "Efficacy of Platelet-rich Plasma Versus Mesotherapy With Recombinant Growth Factors and Stem Cell Conditioned Media in Androgenetic Alopecia: A Retrospective Study.",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-01-01",
+            "completion_date": "2022-01-30",
+            "country": "N/A",
+            "enrollment": 72,
+            "brief_summary": "This is a comparative retrospective study of the efficacy of platelet-rich plasma injections and injections with commercial products advertised to promote hair regrowth for patients with androgenetic alopecia.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who underwent either PRP or mesotherapy at our dermatology clinic during 1/1/2011 and 30/12/2020\n* Male patients with a clinical/ trichoscopic/ histologic diagnosis of androgenetic alopecia (stage II to V according to the Hamilton-Norwood Scale)\n* Female patients with",
+            "endpoints": [
+              "Change in hair thickness at 3 months at at 6 months from baseline",
+              "Change in hair density at 3 months and at 6 months from baseline",
+              "Change in hair count at 3 months and at 6 months from baseline"
+            ],
+            "sponsor": "Faculty Hospital Kralovske Vinohrady",
+            "url": "https://clinicaltrials.gov/study/NCT05129800"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01729559",
+            "title": "Venous Thromboembolic Prophylaxis After Major Trauma: A Randomized Controlled Trial of Three Times a Day Unfractionated Heparin Versus Twice a Day Enoxaparin",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-11",
+            "completion_date": "2014-10",
+            "country": "United States",
+            "enrollment": 495,
+            "brief_summary": "The rate of venous thromboembolic events in trauma patients at high risk for deep vein thrombosis and pulmonary embolism receiving low dose unfractionated heparin every 8 hours will be equivalent or less than a similar group of patients given a standard every 12 hour dose of low molecular weight heparin.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Admitted to Scripps Mercy Trauma Service\n* ≥18 Years old\n* Stratified to either Significant or Highest risk of VTE by ACCP guidelines\n\nExclusion Criteria:\n\n* Estimated Injury Severity Score (ISS) ≤9\n* Likely to be discharged before hospital day 7\n* Systemic coagulopathy define",
+            "endpoints": [
+              "Lower Extremity Deep Vein Thrombosis",
+              "Pulmonary Embolus"
+            ],
+            "sponsor": "Scripps Health",
+            "url": "https://clinicaltrials.gov/study/NCT01729559"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00250471",
+            "title": "A Randomized Trial to Evaluate the Relative Protection Against Post-PCI Microvascular Dysfunction and Post-PCI Ischemia Among Anti-Platelet and Anti-Thrombotic Agents",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-05",
+            "completion_date": "2004-09",
+            "country": "N/A",
+            "enrollment": 900,
+            "brief_summary": "The primary purpose of this study was to compare the efficacy and safety of bivalirudin to eptifibatide (with or without unfractionated heparin or enoxaparin)given to subjects at high risk for heart attack and other cardiovascular complications who will undergo surgery to open up blocked arteries in the heart.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Chest paing/discomfort that occurs at rest and lasts at least 10 minutes and have at least one of the following high-risk features:\n\n  * diabetes\n  * elevated cardiac proteins in the blood (indicating acute coronary syndrome)\n* Be willing and able to give informed consent\n\nExc",
+            "endpoints": [
+              "Efficacy: Improved Coronary Flow Reserve",
+              "Safety: TIMI major hemorrhage within 48 hours after randomizing in the trial or hosptial discharge, which ever occurs first."
+            ],
+            "sponsor": "Millennium Pharmaceuticals, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00250471"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "27885969",
+            "title": "36th International Symposium on Intensive Care and Emergency Medicine : Brussels, Belgium. 15-18 March 2016.",
+            "abstract": "P001 - Sepsis impairs the capillary response within hypoxic capillaries and decreases erythrocyte oxygen-dependent ATP efflux R. M. Bateman, M. D. Sharpe, J. E. Jagger, C. G. Ellis P002 - Lower serum immunoglobulin G2 level does not predispose to severe flu. J. Solé-Violán, M. López-Rodríguez, E. Herrera-Ramos, J. Ruíz-Hernández, L. Borderías, J. Horcajada, N. González-Quevedo, O. Rajas, M. Briones, F. Rodríguez de Castro, C. Rodríguez Gallego P003 - Brain protective effects of intravenous immunoglobulin through inhibition of complement activation and apoptosis in a rat model of sepsis F. Esen, G. Orhun, P. Ergin Ozcan, E. Senturk, C. Ugur Yilmaz, N. Orhan, N. Arican, M. Kaya, M. Kucukerden, M. Giris, U. Akcan, S. Bilgic Gazioglu, E. Tuzun P004 - Adenosine a1 receptor dysfunction is associated with leukopenia: A possible mechanism for sepsis-induced leukopenia R. Riff, O. Naamani, A. Douvdevani P005 - Analysis of neutrophil by hyper spectral imaging - A preliminary report R. Takegawa, ",
+            "journal": "Critical care (London, England)",
+            "year": "2016",
+            "authors": [],
+            "pub_types": [
+              "Conference Proceedings"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27885969/"
+          },
+          {
+            "pmid": "19875000",
+            "title": "[Dabigatran (Pradaxa): efficacy and safety].",
+            "abstract": "There is considerable interest in developing new, orally available anticoagulants for the prevention and treatment of thrombotic disorders. In Europe, the low-molecular-weight heparins (LMWHs) are more commonly prescribed for thrombosis prevention, but require parenteral administration, platelets monitoring twice a week during the first month. Furthermore, LMWH are not synthetic. All of these characteristics can be an obstacle to optimal patient care, particularly when outpatient dosing is required after early discharge. New oral anticoagulants that require no monitoring and can be administered in a fixed dose without drug-drug and drug-food interactions would clearly offer practical advantages if shown to be safe and effective. dabigatran étexilate, a new oral, direct thrombin inhibitor, is the prodrug of the active compound dabigatran, which binds reversibly to thrombin with high affinity and specificity. This agent has a rapid onset of action, a predictable and reproducible that per",
+            "journal": "Annales francaises d'anesthesie et de reanimation",
+            "year": "2009",
+            "authors": [
+              "Rosencher N",
+              "Bellamy L"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anticoagulants",
+              "Benzimidazoles",
+              "Clinical Trials as Topic",
+              "Dabigatran",
+              "Humans",
+              "Pyridines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19875000/"
+          },
+          {
+            "pmid": "24458049",
+            "title": "The impact of preinjury anticoagulants and prescription antiplatelet agents on outcomes in older patients with traumatic brain injury.",
+            "abstract": "Anticoagulants and prescription antiplatelet (ACAP) agents widely used by older adults have the potential to adversely affect traumatic brain injury (TBI) outcomes. We hypothesized that TBI patients on preinjury ACAP agents would have worse outcomes than non-ACAP patients.",
+            "journal": "The journal of trauma and acute care surgery",
+            "year": "2014",
+            "authors": [
+              "Peck Kimberly A",
+              "Calvo Richard Y",
+              "Schechter Mark S",
+              "Sise C Beth",
+              "Kahl Jessica E"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Aged",
+              "Aged, 80 and over",
+              "Anticoagulants",
+              "Brain Injuries",
+              "Cause of Death",
+              "Cohort Studies",
+              "Disease Progression",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24458049/"
+          },
+          {
+            "pmid": "30018843",
+            "title": "Palliative Chemotherapy: Does It Only Provide False Hope? The Role of Palliative Care in a Young Patient With Newly Diagnosed Metastatic Adenocarcinoma.",
+            "abstract": "Case Study A 48-year-old female with recent diagnosis of adenocarcinoma of unknown origin and metastatic disease to the peritoneum initially presented to a nearby academic hospital with abdominal pain. She underwent exploratory laparotomy with tumor debulking surgery at that time. Shortly thereafter, she was readmitted to the same hospital with evidence of partial small bowel obstruction and treated conservatively with bowel rest, nasogastric (NG) tube placement, and intravenous (IV) fluid administration. Eventually the NG tube was removed, and she was discharged home. The following day, she received cycle one of palliative chemotherapy with cisplatin and gemcitabine at her local outpatient oncology clinic. She experienced persistent nausea and intermittent vomiting throughout the night and presented to our local community hospital for evaluation. At the time of admission, she was passing minimal flatus and had passed only a small bowel movement that morning. She had experienced nausea",
+            "journal": "Journal of the advanced practitioner in oncology",
+            "year": "2017",
+            "authors": [
+              "Doverspike Lisa",
+              "Kurtz Sharyn",
+              "Selvaggi Kathy"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30018843/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "primary release disorder of platelets",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20primary%20release%20disorder%20of%20platelets"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly",
+        "txgnn_score": 0.9862719774246216,
+        "txgnn_rank": 2701,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20atypical%20hemolytic-uremic%20syndrome%20with%20thrombomodulin%20anomaly"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pseudo-von Willebrand disease",
+        "txgnn_score": 0.9849773645401,
+        "txgnn_rank": 2901,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "pseudo-von Willebrand disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20pseudo-von%20Willebrand%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neuropathy, painful",
+        "txgnn_score": 0.9830309152603148,
+        "txgnn_rank": 3232,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "neuropathy, painful",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20neuropathy%2C%20painful"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "thrombotic thrombocytopenic purpura",
+        "txgnn_score": 0.9673405289649964,
+        "txgnn_rank": 5224,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "23867189",
+            "title": "Multidisciplinary approach in pregnancy-associated thrombotic thrombocytopenic purpura: a case report.",
+            "abstract": "",
+            "journal": "Blood transfusion = Trasfusione del sangue",
+            "year": "2014",
+            "authors": [
+              "Lucania Gaetano",
+              "Camiolo Emanuele",
+              "Carmina Maria G",
+              "Fiandaca Teresa",
+              "Indovina Alessandro"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antibodies, Monoclonal, Murine-Derived",
+              "Anticoagulants",
+              "Cesarean Section",
+              "Combined Modality Therapy",
+              "Enoxaparin",
+              "Female",
+              "Hemorrhage",
+              "Heparin",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23867189/"
+          },
+          {
+            "pmid": "34267062",
+            "title": "Absence of exaggerated pharmacology by recombinant ADAMTS13 in the rat and monkey.",
+            "abstract": "Insufficiency of ADAMTS13 (a disintegrin and metalloprotease with thrombospondin motif repeats-13) is the cause of thrombotic thrombocytopenic purpura (TTP) and contributes in microangiopathy in sickle cell disease (SCD). Recombinant ADAMTS13 effectively cleaves prothrombotic ultra-large von Willebrand factor (VWF) multimers. It is being tested as replacement therapy for TTP, and at supra-physiologic concentrations, for moderating vaso-occlusive crisis in SCD. Deficiencies of VWF, or concomitant treatment with antithrombotic drugs, could pose risks for increased bleeds in these patient populations. The purpose of the experiments was to evaluate the potential of exaggerated pharmacology and temporary bleeding risks associated with rADAMTS13 administration. We utilized safety studies in monkey and tested the effects of administering maximum-feasible doses of rADAMTS13 on nonclinical safety and spontaneous or aggressive bleeds in the rat model. Evaluation of pharmacokinetics, toxicity pro",
+            "journal": "Blood coagulation & fibrinolysis : an international journal in haemostasis and thrombosis",
+            "year": "2022",
+            "authors": [
+              "Rossato Paolo",
+              "Glantschnig Helmut",
+              "Leidenmühler Peter",
+              "Kopic Alexandra",
+              "Ruthsatz Tanja"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "ADAM Proteins",
+              "ADAMTS13 Protein",
+              "Animals",
+              "Haplorhini",
+              "Humans",
+              "Purpura, Thrombotic Thrombocytopenic",
+              "Rats",
+              "von Willebrand Factor"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34267062/"
+          },
+          {
+            "pmid": "36035549",
+            "title": "Primary Cerebral Venous Thrombosis in a Patient with Immune Thrombocytopenic Purpura.",
+            "abstract": "Immune thrombocytopenic purpura is an autoimmune hematological disorder characterized by low platelet level due to its destruction through autoimmune antibodies. Cerebral venous thrombosis is a serious condition defined by a thrombosis in the cerebral venous sinuses that occurs mostly in the presence of a hypercoagulable state. Hemorrhage and thrombosis are processes with a paradoxical etiology; thus, the association between these two conditions seems to be extremely rare. Case Presentation. We herein report a case of a 19-year-old female with a chief compliant of generalized tonic-clonic episode, severe headache, and blurred vision. Physical examination was significant for a bilateral Babinski's sign and severe bilateral papilledema. Laboratory workup, computed tomography, and magnetic resonance imaging were normal except for severe thrombocytopenia. Magnetic resonance venography was diagnostic for cerebral venous thrombosis. Her past medical history was significant for immune thrombo",
+            "journal": "Case reports in neurological medicine",
+            "year": "2022",
+            "authors": [
+              "Farfouti M Taher",
+              "Masri Christina",
+              "Ghabally Mike",
+              "Roumieh George"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36035549/"
+          },
+          {
+            "pmid": "24261025",
+            "title": "A review of the literature on three extraintestinal complications of ulcerative colitis: an ulcerative colitis flare complicated by Budd-Chiari syndrome, cerebral venous thrombosis and idiopathic thrombocytopenia.",
+            "abstract": "Extraintestinal manifestations are well described and recognized in association with ulcerative colitis. Immunologically mediated and thrombotic events are among the more rare manifestations associated with flares. These manifestations include Budd-Chiari syndrome, idiopathic thrombocytopenia, and cerebral venous thrombosis. A 22 year-old male with a three-year history of ulcerative colitis presented with worsening hematochezia, fatigue, headache and upper respiratory symptoms. Laboratory evaluation demonstrated a platelet count of 24 x 10(9)/L (normal baseline platelet count noted 3 months prior) and hemoglobin of 8.6 x 10(9)/L. Imaging demonstrated hepatic venous thrombosis consistent with Budd-Chiari syndrome and cerebral venous thrombosis. Based on peripheral smear analysis and eventual marked response to steroids, a diagnosis of idiopathic thrombocytopenia was made. He was started on prednisone 40mg daily with brisk improvement in both his ulcerative colitis flare and his platelet",
+            "journal": "Acta gastro-enterologica Belgica",
+            "year": "2013",
+            "authors": [
+              "Jaqua Nathan T",
+              "Stratton Amy",
+              "Yaccobe Lior",
+              "Tahir Usman",
+              "Kenny Patrick"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Budd-Chiari Syndrome",
+              "Colitis, Ulcerative",
+              "Diagnosis, Differential",
+              "Humans",
+              "Intracranial Thrombosis",
+              "Male",
+              "Purpura, Thrombocytopenic, Idiopathic",
+              "Tomography, X-Ray Computed",
+              "Ultrasonography, Doppler",
+              "Young Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24261025/"
+          },
+          {
+            "pmid": "16015423",
+            "title": "Life-threatening hypercoagulable state following splenectomy in ITP: successful management with aggressive antithrombotic therapy and danazol.",
+            "abstract": "A life-threatening hypercoagulable state (HCS) is reported that developed after splenectomy in idiopathic thrombocytopenic purpura (ITP). A 50-year-old active male was rejected for blood donation because of an incidental finding of low platelet counts, 40,000/uL. The diagnosis was ITP. Although asymptomatic, he underwent splenectomy because of poor response to steroids and intravenous (IV) gamma globulin. One month after splenectomy, he suffered pulmonary emboli without deep venous embolism (DVT), followed by bilateral DVT, threatening amputation of the legs. Emergency thrombolysis, insertion of stent, and IV heparin saved his legs. Extensive workup for HCS was negative. IV heparin was withheld for colonoscopy for possible gastrointestinal neoplasm, at which time DVT recurred, necessitating another thrombolysis and heparin infusion. He was discharged on enoxaparin, antiplatelet therapy, and danazol. Platelet hyperactivation, characterized by high platelet microparticles (PMP) and CD62P",
+            "journal": "Clinical and applied thrombosis/hemostasis : official journal of the International Academy of Clinical and Applied Thrombosis/Hemostasis",
+            "year": "2005",
+            "authors": [
+              "Tiede Maike P",
+              "Ahn Eugene R",
+              "Jy Wenche",
+              "Scagnelli Thomas",
+              "Bidot Carlos J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Blood Coagulation Disorders",
+              "Danazol",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Postoperative Complications",
+              "Purpura, Thrombocytopenic, Idiopathic",
+              "Splenectomy",
+              "Thrombolytic Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16015423/"
+          },
+          {
+            "pmid": "17728525",
+            "title": "A case of deep vein thrombosis and pulmonary thromboembolism after intravenous immunoglobulin therapy.",
+            "abstract": "Although high-dose intravenous immunoglobulin (IVIG) is generally considered a safe medication for various immune-mediated diseases, thrombotic events have been reported as a complication of the therapy. We report a case who developed thrombotic complications after receiving IVIG. A 56-yr-old woman with idiopathic thrombocytopenic purpura received IVIG at a dose of 400 mg/kg/day for five days. Three days after the administration of IVIG, the patient developed painful edema in the left leg. Lower extremity doppler ultrasound revealed deep vein thrombosis in the left leg. Chest computed tomography (CT) scan demonstrated a filling defect indicating thromboembolism of the right pulmonary artery. After three weeks of enoxaparin therapy, her symptoms and pulmonary embolism on CT improved. This case suggests clinicians should be cautious in the development of thromboembolism by administration of IVIG, especially in patients with thrombophilia.",
+            "journal": "Journal of Korean medical science",
+            "year": "2007",
+            "authors": [
+              "Lee Yu Ji",
+              "Shin Jae Uk",
+              "Lee Jeeyun",
+              "Kim Kihyun",
+              "Kim Won Seog"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Immunoglobulins, Intravenous",
+              "Middle Aged",
+              "Pulmonary Embolism",
+              "Purpura, Thrombocytopenic, Idiopathic",
+              "Venous Thrombosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17728525/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "thrombotic thrombocytopenic purpura",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20thrombotic%20thrombocytopenic%20purpura"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "retinal telangiectasia",
+        "txgnn_score": 0.9068433046340942,
+        "txgnn_rank": 10537,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "retinal telangiectasia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20retinal%20telangiectasia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "arteriosclerotic retinopathy",
+        "txgnn_score": 0.8982312679290771,
+        "txgnn_rank": 11188,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "arteriosclerotic retinopathy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20arteriosclerotic%20retinopathy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "retinal microaneurysm",
+        "txgnn_score": 0.8982312679290771,
+        "txgnn_rank": 11189,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "retinal microaneurysm",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20retinal%20microaneurysm"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "vertebral artery occlusion",
+        "txgnn_score": 0.8939874768257141,
+        "txgnn_rank": 11501,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "27489392",
+            "title": "A Case of May-Thurner Syndrome.",
+            "abstract": "May-Thurner syndrome is the condition of the left common iliac vein being compressed between the right common iliac artery and the associated vertebral body. This condition has been linked to spontaneous episodes of deep vein thrombosis (DVT), especially in women aged 20-50, and it may contribute to the slightly higher tendency to develop left-sided (~56%) versus right-sided DVTs. A 50-year-old morbidly obese (BMI 42.7 kg/m2) female presented to the emergency room with acute left leg pain. Past medical history included asthma. Patient is employed as a helper in home health services; no recent history of travel and no history suggestive of hereditary thrombophilia. Prior tobacco use was noted. Patient was admitted to the medical floors and investigated for DVT. Ultrasound Doppler imaging of both legs demonstrated left-sided occlusive DVT in the popliteal, superficial femoral, common femoral veins with extension into the external iliac vein. Imaging in the right leg was unremarkable. Pat",
+            "journal": "Carle selected papers",
+            "year": "2016",
+            "authors": [
+              "Calvaresi Emilia",
+              "Swaminathan Mahesh",
+              "Jokela Janet"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27489392/"
+          },
+          {
+            "pmid": "32507079",
+            "title": "Bow Hunter's Syndrome in Children: A Review of the Literature and Presentation of a New Case in a 12-Year-Old Girl.",
+            "abstract": "Bow hunter's syndrome, or occlusion of the vertebral artery with head rotation leading to ischemia and sometimes stroke, is rarely described in children. The authors review the literature and present a new case.",
+            "journal": "Journal of child neurology",
+            "year": "2020",
+            "authors": [
+              "Golomb Meredith R",
+              "Ducis Katrina A",
+              "Martinez Mesha L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anticoagulants",
+              "Arterial Occlusive Diseases",
+              "Cerebral Angiography",
+              "Child",
+              "Child, Preschool",
+              "Decompression, Surgical",
+              "Female",
+              "Head Movements",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32507079/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Enoxaparin",
+          "disease": "vertebral artery occlusion",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Enoxaparin%20vertebral%20artery%20occlusion"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Enoxaparin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01225",
+    "name": "Enoxaparin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Enoxaparin"
+      },
+      "queried_at": "2026-03-24T16:25:47.368670",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Enoxaparin"
+      },
+      "queried_at": "2026-03-24T16:25:47.370609",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Enoxaparin"
+      },
+      "queried_at": "2026-03-24T16:25:51.953540",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:25:52.367932",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:25:55.614436",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:25:56.358015",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:25:57.418717",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:25:58.134583",
+      "status": "success",
+      "result_count": 10,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:26:01.905230",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:26:02.437869",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:26:05.107309",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:26:05.604236",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:26:08.905030",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:26:09.656413",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:26:10.630661",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:26:11.112913",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:26:14.514683",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:26:14.622146",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:26:15.503846",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:26:15.975175",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:26:19.222909",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:26:19.939066",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:26:20.812974",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombotic thrombocytopenic purpura"
+      },
+      "queried_at": "2026-03-24T16:26:21.354070",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombotic thrombocytopenic purpura"
+      },
+      "queried_at": "2026-03-24T16:26:24.504538",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombotic thrombocytopenic purpura"
+      },
+      "queried_at": "2026-03-24T16:26:24.752513",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "thrombotic thrombocytopenic purpura"
+      },
+      "queried_at": "2026-03-24T16:26:27.360157",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:26:27.759787",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:26:31.213488",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:26:31.686226",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:26:32.703991",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:26:33.270201",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:26:36.655410",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:26:36.675117",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:26:37.506726",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:26:37.975024",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:26:41.360883",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:26:41.906402",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:26:42.934985",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:26:43.459122",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:26:47.131094",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:26:47.656446",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Enoxaparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:26:50.013617",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:26:50.014853"
+  }
+}

@@ -1,0 +1,2750 @@
+{
+  "drug": {
+    "inn": "Nifedipine",
+    "drugbank_id": "DB01115",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "migraine with brainstem aura",
+        "txgnn_score": 0.926340401172638,
+        "txgnn_rank": 8878,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "1423566",
+            "title": "A double-blind controlled study of nifedipine as an abortive treatment in acute attacks of migraine with aura.",
+            "abstract": "Patients with migraine with aura treated each of six acute attacks with either nifedipine or vehicle administered in double-blind, randomized form. Two modes of administration were studied. Both increased the intensity of headaches compared to vehicle. We conclude that nifedipine is not useful as an abortive treatment of migraine with aura.",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "1992",
+            "authors": [
+              "Hoffert M J",
+              "Scholz M J",
+              "Kanter R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adult",
+              "Double-Blind Method",
+              "Humans",
+              "Middle Aged",
+              "Migraine Disorders",
+              "Nifedipine",
+              "Sensation Disorders",
+              "Treatment Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1423566/"
+          },
+          {
+            "pmid": "1353873",
+            "title": "[Calcium channel blockers and prevention of migraine].",
+            "abstract": "Calcium antagonists have been proposed for the prophylactic treatment of migraine because of their putative vasodilating antispasmodic effect and of their action against the cellular consequences of brain hypoxia. Published reports of controlled double-blind studies of calcium antagonists for the prophylactic treatment of migraine are reviewed herein. The effectiveness of verapamil, diltiazem, and nifedipine in this indication cannot be considered as firmly demonstrated, when problems with trial design and the amount of available data are taken into account. Nimodipine failed to demonstrate significant effectiveness in migraine with or without an aura. In contrast, the ability of a diphenylpiperazine, flunarizine, to decrease the incidence of migraine attacks in patients with common or classical migraine has been firmly demonstrated, although there is less evidence of this agent's effectiveness on the duration and severity of attacks. The percentage of patients who respond to flunarizi",
+            "journal": "Pathologie-biologie",
+            "year": "1992",
+            "authors": [
+              "Montastruc J L",
+              "Senard J M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Clinical Trials as Topic",
+              "Diltiazem",
+              "Flunarizine",
+              "Humans",
+              "Migraine Disorders",
+              "Nifedipine",
+              "Nimodipine",
+              "Verapamil"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1353873/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "migraine with brainstem aura",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20migraine%20with%20brainstem%20aura"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "migraine disorder",
+        "txgnn_score": 0.9179635643959044,
+        "txgnn_rank": 9585,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01431326",
+            "title": "Pharmacokinetics of Understudied Drugs Administered to Children Per Standard of Care",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-11",
+            "completion_date": "2019-11",
+            "country": "Israel, Singapore, United States, United Kingdom, Canada",
+            "enrollment": 3520,
+            "brief_summary": "Understudied drugs will be administered to children per standard of care as prescribed by their treating caregiver and only biological sample collection during the time of drug administration will be involved. A total of approximately 7000 children aged \\<21 years who are receiving these drugs for standard of care will be enrolled and will be followed for up a maximum of 90 days. The goal of this study is to characterize the pharmacokinetics of understudied drugs for which specific dosing recomm",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\) Children (\\< 21 years of age) who are receiving understudied drugs of interest per standard of care as prescribed by their treating caregiver\n\nExclusion Criteria:\n\n* 1\\) Failure to obtain consent/assent (as indicated)\n* 2\\) Known pregnancy as determined via interview or te",
+            "endpoints": [
+              "Composite of pharmacokinetic outcomes for understudied drugs in children"
+            ],
+            "sponsor": "Duke University",
+            "url": "https://clinicaltrials.gov/study/NCT01431326"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03949478",
+            "title": "An Initial Clinical Study to Treat Postictal Symptoms",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2021-02-01",
+            "completion_date": "2025-03-01",
+            "country": "Canada",
+            "enrollment": 90,
+            "brief_summary": "This study will evaluate the effect of ibuprofen or nifedipine on post-seizure hypoperfusion and neurological deficits in patients with epilepsy. One group will receive ibuprofen, another will receive nifedipine, and anther placebo.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* age \\> 16 yrs, frequent seizures (\\>1 per week) and cognitive ability sufficient to complete neuropsychological testing.\n\nExclusion Criteria:\n\n* multiple seizure onset zones, contraindications to CT or MR imaging, any contraindication to ibuprofen or nifedipine, as well as cur",
+            "endpoints": [
+              "Postictal blood flow"
+            ],
+            "sponsor": "University of Calgary",
+            "url": "https://clinicaltrials.gov/study/NCT03949478"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "30600979",
+            "title": "Migraine Headache Prophylaxis.",
+            "abstract": "Migraines impose significant health and financial burdens. Approximately 38% of patients with episodic migraines would benefit from preventive therapy, but less than 13% take prophylactic medications. Preventive medication therapy reduces migraine frequency, severity, and headache-related distress. Preventive therapy may also improve quality of life and prevent the progression to chronic migraines. Some indications for preventive therapy include four or more headaches a month, eight or more headache days a month, debilitating headaches, and medication-overuse headaches. Identifying and managing environmental, dietary, and behavioral triggers are useful strategies for preventing migraines. First-line medications established as effective based on clinical evidence include divalproex, topiramate, metoprolol, propranolol, and timolol. Medications such as amitriptyline, venlafaxine, atenolol, and nadolol are probably effective but should be second-line therapy. There is limited evidence for",
+            "journal": "American family physician",
+            "year": "2019",
+            "authors": [
+              "Ha Hien",
+              "Gonzalez Annika"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Combined Modality Therapy",
+              "Humans",
+              "Migraine Disorders",
+              "Secondary Prevention"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30600979/"
+          },
+          {
+            "pmid": "2759851",
+            "title": "Drug-related headache.",
+            "abstract": "A survey was made of 10,506 reports to the WHO Collaboration Centre for International Drug Monitoring from five countries concerning headache, migraine, aggravated migraine and intracranial hypertension associated with drugs. The ten drugs most frequently reported to be associated with headache were indomethacin, nifedipine, cimetidine, atenolol, trimethoprim-sulphamethoxazole, zimeldine, glyceryl trinitrate, isosorbide dinitrate, zomepirac and ranitidine. Regarding migraine, oral contraceptives were also among the most implicated drugs. Most reports of intracranial hypertension concerned tetracyclines, isotretinoin and trimethoprim-sulphamethoxazole. Vasodilatation and salt and water retention with subsequent redistribution of intracranial fluid seem to be common mechanisms underlying drug-related headache. For certain frequently reported drugs, however, the mechanisms of the headache are unknown.",
+            "journal": "Headache",
+            "year": "1989",
+            "authors": [
+              "Askmark H",
+              "Lundberg P O",
+              "Olsson S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Drug-Related Side Effects and Adverse Reactions",
+              "Headache",
+              "Humans",
+              "Migraine Disorders",
+              "Pseudotumor Cerebri"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2759851/"
+          },
+          {
+            "pmid": "8349477",
+            "title": "Comparison of the efficacy between flunarizine and nifedipine in the prophylaxis of migraine.",
+            "abstract": "Several calcium channel blockers have been evaluated in controlled clinical studies and some hold considerable promise for future. Efficacy in migraine prophylaxis has been claimed for drugs belonging to all three classes of calcium channel blockers (nifedipine-like, verapamil-like, and flunarizine-like), but the extent and quality of the evidence varies, and a comparison of efficacy between different calcium channel blockers has not been reported.",
+            "journal": "Headache",
+            "year": "1993",
+            "authors": [
+              "Lamsudin R",
+              "Sadjimin T"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Double-Blind Method",
+              "Female",
+              "Flunarizine",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Migraine Disorders",
+              "Nifedipine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8349477/"
+          },
+          {
+            "pmid": "8773038",
+            "title": "Nifedipine in migraine and tension headache: a randomised double blind crossover study.",
+            "abstract": "Nifedipine was evaluated in the prophylaxis of 28 patients each of migraine and tension headache using a double blind cross over design with random allocation to drug or placebo group. The duration of the trial was 3 months with a 2 week run-in period and 2 week wash-oat period separating two treatment periods of 4 weeks each. A satisfactory response was obtained in 71.4% of migraineurs (p < 0.001) and 28.6% of patients with tension headache (p = N.S). Minor side effects were observed in 5 patients. Nifedipine is a useful agent for the management of migraine as it reduces frequency and severity of pain but the drug cannot be recommended for tension headache.",
+            "journal": "The Journal of the Association of Physicians of India",
+            "year": "1995",
+            "authors": [
+              "Shukla R",
+              "Garg R K",
+              "Nag D",
+              "Ahuja R C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Calcium Channel Blockers",
+              "Cross-Over Studies",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Female",
+              "Humans",
+              "Male",
+              "Migraine Disorders",
+              "Nifedipine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8773038/"
+          },
+          {
+            "pmid": "1970289",
+            "title": "Beta-adrenoceptor blockers and calcium antagonists in the prophylaxis and treatment of migraine.",
+            "abstract": "Based on published reports of controlled double-blind studies, the efficacy of beta-receptor blockers and calcium antagonists in the prophylactic treatment of migraine is reviewed. Taking into consideration problems in trial design and evaluation of the effects of treatment, and the amount of documentation, it may be concluded that propranolol, metoprolol, timolol, nadolol and atenolol have been shown to reduce the frequency of migraine attacks in patients with common as well as classical migraine. The effect on duration and intensity of migraine attacks is less clear. Treatment effect is generally seen within 4 weeks, but seems to increase with time. Nonselective beta-receptor blockers as well as drugs selective for beta1-receptors may be effective, and their efficacy is comparable to that of other active antimigraine drugs. Available studies do not exclude the fact that beta-receptor blockers with partial agonist activity (intrinsic sympathomimetic activity) have an effect, but sugge",
+            "journal": "Drugs",
+            "year": "1990",
+            "authors": [
+              "Andersson K E",
+              "Vinge E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Animals",
+              "Calcium Channel Blockers",
+              "Humans",
+              "Migraine Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1970289/"
+          },
+          {
+            "pmid": "2036669",
+            "title": "Responders and non-responders to metoprolol, propranolol and nifedipine treatment in migraine prophylaxis: a dose-range study based on time-series analysis.",
+            "abstract": "The aim of the present study was to ascertain, on the basis of single case statistics and time-series analysis, responder and non-responder rates for metoprolol, propranolol and nifedipine in migraine prophylaxis. In addition, an attempt was made to identify the dose relationship for the various drugs on headache parameters. In a double-blind dose-finding study, 58 patients were treated in five consecutive dosage steps each lasting 1-3 months. All patients kept a headache diary before, during and after treatment. Serum drug levels were also determined. The data were assessed by time-series analysis, as well as by multiple regression and analysis of variance. A significant improvement was noted in 54.4% of patients with migraine during treatment with metoprolol. The study did not confirm the high success rates in migraine prophylaxis of nifedipine and propranolol quoted in the literature. Administration of nifedipine led to an increase in migraine attacks in 71% of the patients. Nifedip",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "1991",
+            "authors": [
+              "Gerber W D",
+              "Diener H C",
+              "Scholz E",
+              "Niederberger U"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Analysis of Variance",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Metoprolol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2036669/"
+          },
+          {
+            "pmid": "2425960",
+            "title": "Calcium channel antagonists and the treatment of migraine.",
+            "abstract": "Despite ongoing dispute over the pathophysiologic basis of migraine, the vasospastic theory of pathogenesis has brought to the forefront a promising class of new antimigraine agents, the Ca2+ channel antagonists. Voltage-dependent Ca2+ channels, integral membrane proteins that permit extracellular Ca2+ to enter cells down their electrical and concentration gradients, have a universal role in stimulus-response coupling in excitable cells. Thus, they participate in translating electrical excitation into secretory and contractile events. Ca2+ channel antagonists, a structurally diverse group of organic compounds, inhibit ion flux through voltage-dependent Ca2+ channels by binding to specific, channel-associated drug receptor sites and thereby reduce the frequency of channel opening in response to membrane depolarization. Ca2+ channels in cardiac muscle, smooth muscle, and neurons all exhibit high affinity for Ca2+ channel antagonists, although neurons also contain a population of drug-res",
+            "journal": "Clinical neuropharmacology",
+            "year": "1986",
+            "authors": [
+              "Greenberg D A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Calcium",
+              "Calcium Channel Blockers",
+              "Cinnarizine",
+              "Diltiazem",
+              "Flunarizine",
+              "Humans",
+              "Ion Channels",
+              "Kinetics",
+              "Migraine Disorders",
+              "Nicotinic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2425960/"
+          },
+          {
+            "pmid": "40580307",
+            "title": "Efficacy and safety of calcium channel blockers in migraine management; a systematic review.",
+            "abstract": "Numerous innovative treatment approaches have been developed to treat migraine, one of the most upsetting disorders. However, the optimal strategy for managing migraines remains unclear. The calcium channel blockers have demonstrated some positive effects on migraine attacks. In this systematic review, we tried to gather data on the efficacy and safety of these drugs to reach a more precise conclusion.",
+            "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+            "year": "2025",
+            "authors": [
+              "Ghiami Hamed",
+              "Parsapour Mohammadsalman",
+              "Khalilzadeh Sahba",
+              "Rahmani Hanieh",
+              "Omidkhoda Navid"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Migraine Disorders",
+              "Calcium Channel Blockers",
+              "Flunarizine",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40580307/"
+          },
+          {
+            "pmid": "2644581",
+            "title": "Nifedipine in the prophylaxis of classic migraine: a crossover, double-masked, placebo-controlled study of headache frequency and side effects.",
+            "abstract": "Twenty-four patients with classic migraine attacks were treated with either nifedipine or placebo for up to 12 weeks. No significant differences were observed between the nifedipine (2.1 +/- 0.2) and placebo (2.3 +/- 0.2) treatment groups in the monthly frequency of headaches. However, the incidence of side effects was significantly greater (p less than 0.001) in the nifedipine (54% of patients) than in the placebo (8% of patients) treatment groups.",
+            "journal": "Neurology",
+            "year": "1989",
+            "authors": [
+              "McArthur J C",
+              "Marek K",
+              "Pestronk A",
+              "McArthur J",
+              "Peroutka S J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Humans",
+              "Migraine Disorders",
+              "Nifedipine",
+              "Placebos"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2644581/"
+          },
+          {
+            "pmid": "6472409",
+            "title": "Nifedipine in the treatment of migraine headache and amaurosis fugax in patients with systemic lupus erythematosus.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "1984",
+            "authors": [
+              "Miller F W",
+              "Santoro T J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Blindness",
+              "Female",
+              "Humans",
+              "Lupus Erythematosus, Systemic",
+              "Male",
+              "Migraine Disorders",
+              "Nifedipine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6472409/"
+          },
+          {
+            "pmid": "1353873",
+            "title": "[Calcium channel blockers and prevention of migraine].",
+            "abstract": "Calcium antagonists have been proposed for the prophylactic treatment of migraine because of their putative vasodilating antispasmodic effect and of their action against the cellular consequences of brain hypoxia. Published reports of controlled double-blind studies of calcium antagonists for the prophylactic treatment of migraine are reviewed herein. The effectiveness of verapamil, diltiazem, and nifedipine in this indication cannot be considered as firmly demonstrated, when problems with trial design and the amount of available data are taken into account. Nimodipine failed to demonstrate significant effectiveness in migraine with or without an aura. In contrast, the ability of a diphenylpiperazine, flunarizine, to decrease the incidence of migraine attacks in patients with common or classical migraine has been firmly demonstrated, although there is less evidence of this agent's effectiveness on the duration and severity of attacks. The percentage of patients who respond to flunarizi",
+            "journal": "Pathologie-biologie",
+            "year": "1992",
+            "authors": [
+              "Montastruc J L",
+              "Senard J M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Clinical Trials as Topic",
+              "Diltiazem",
+              "Flunarizine",
+              "Humans",
+              "Migraine Disorders",
+              "Nifedipine",
+              "Nimodipine",
+              "Verapamil"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1353873/"
+          },
+          {
+            "pmid": "4016932",
+            "title": "Pupillary and vascular effects of calcium antagonists in migraine.",
+            "abstract": "In migraine patients the effect of calcium antagonists (flunarizine, verapamil and nifedipine) on both venous and pupillary neuromuscular functions, as well as on blood pressure have been evaluated. A single oral dose of flunarizine (10 mg) and verapamil infusion (50 micrograms/ml/min) increased venous compliance. Verapamil also counteracted dose-dependent dopamine induced venoconstriction. Nifedipine (10 mg orally) reduced mean arterial pressure in upright position in migraineurs but not in controls. In addition, chronic treatment with flunarizine (10 mg for 2 weeks) induced a transient miotic effect and a reduction of tyramine induced mydriasis. These findings demonstrated that calcium antagonists affect vascular and extravascular structures. It is postulated that, in migraine, calcium entry blockers may prevent exaggerated responses to catecholaminergic stimulation.",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "1985",
+            "authors": [
+              "Fanciullacci M",
+              "Boccuni M",
+              "Pietrini U",
+              "Cangi F",
+              "Gatto G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Blood Pressure",
+              "Calcium Channel Blockers",
+              "Cinnarizine",
+              "Flunarizine",
+              "Humans",
+              "Migraine Disorders",
+              "Nifedipine",
+              "Pupil",
+              "Vasoconstriction",
+              "Verapamil"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4016932/"
+          },
+          {
+            "pmid": "26246657",
+            "title": "Nimodipine in otolaryngology: from past evidence to clinical perspectives.",
+            "abstract": "As L-type voltage-gated calcium channels (VGCCs) control Ca(2+) influx and depolarisation of cardiac and vascular smooth muscle, they represent a specific therapeutic target for calcium channel blockers (CCBs), which are approved and widely used to treat hypertension, myocardial ischaemia and arrhythmias. L-type currents also play a role in calcium entry in the sensory cells of the inner ear. In hair cells of both cochlea and labyrinth, calcium cytoplasmic influx is the first physiological process that activates complex intracellular enzymatic reactions resulting in neurotransmitter release. Excessive calcium ion entry into sensory cells, as a consequence of L-VGCCs malfunction is responsible for over-activation of phospholipase A2 and C, protein kinase II and C, nitric oxide synthase and both endonucleases and depolymerases, which can cause membrane damage and cellular death if the cytoplasmic buffering capacity is overcome. Nimodipine, a highly lipophilic 1-4 dihydropyridine that eas",
+            "journal": "Acta otorhinolaryngologica Italica : organo ufficiale della Societa italiana di otorinolaringologia e chirurgia cervico-facciale",
+            "year": "2015",
+            "authors": [
+              "Monzani D",
+              "Genovese E",
+              "Pini L A",
+              "Di Berardino F",
+              "Alicandri Ciufelli M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Calcium Channel Blockers",
+              "Humans",
+              "Migraine Disorders",
+              "Nimodipine",
+              "Otorhinolaryngologic Diseases",
+              "Vertigo",
+              "Vestibular Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26246657/"
+          },
+          {
+            "pmid": "15449971",
+            "title": "Interactions between grapefruit juice and cardiovascular drugs.",
+            "abstract": "Grapefruit juice can alter oral drug pharmacokinetics by different mechanisms. Irreversible inactivation of intestinal cytochrome P450 (CYP) 3A4 is produced by commercial grapefruit juice given as a single normal amount (e.g. 200-300 mL) or by whole fresh fruit segments. As a result, presystemic metabolism is reduced and oral drug bioavailability increased. Enhanced oral drug bioavailability can occur 24 hours after juice consumption. Inhibition of P-glycoprotein (P-gp) is a possible mechanism that increases oral drug bioavailability by reducing intestinal and/or hepatic efflux transport. Recently, inhibition of organic anion transporting polypeptides by grapefruit juice was observed in vitro; intestinal uptake transport appeared decreased as oral drug bioavailability was reduced. Numerous medications used in the prevention or treatment of coronary artery disease and its complications have been observed or are predicted to interact with grapefruit juice. Such interactions may increase ",
+            "journal": "American journal of cardiovascular drugs : drugs, devices, and other interventions",
+            "year": "2004",
+            "authors": [
+              "Bailey David G",
+              "Dresser George K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Beverages",
+              "Cardiovascular Agents",
+              "Cardiovascular Diseases",
+              "Citrus paradisi",
+              "Food-Drug Interactions",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15449971/"
+          },
+          {
+            "pmid": "3319491",
+            "title": "'Second generation' dihydropyridine calcium antagonists. Greater vascular selectivity and some unique applications.",
+            "abstract": "The newer dihydropyridine calcium antagonists are structurally related to nifedipine, but may provide greater vascular selectivity and wider clinical utility. Five new dihydropyridines-nisoldipine, nicardipine, nimodipine, felodipine and nitrendipine-are reviewed with regard to their preclinical pharmacology, haemodynamic effects and clinical indications. Nisoldipine is a potent arterial vasodilator with minimal electrophysiological and negative inotropic effects. Although data are still preliminary, the drug has shown some efficacy in both exertional angina and essential hypertension. The dosing interval is not yet clearly established, but may be twice daily. Utility in congestive heart failure awaits confirmation, but preliminary studies are promising. Nicardipine is an especially potent peripheral, cerebral and coronary arterial vasodilator that causes 10-fold less myocardial depression in animals than nifedipine, and may provide important cardioprotective effects during ischaemia. ",
+            "journal": "Drugs",
+            "year": "1987",
+            "authors": [
+              "Freedman D D",
+              "Waters D D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Calcium Channel Blockers",
+              "Cardiovascular Diseases",
+              "Dihydropyridines",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3319491/"
+          },
+          {
+            "pmid": "2654067",
+            "title": "Nifedipine versus propranolol for the initial prophylaxis of migraine.",
+            "abstract": "We conducted a randomized open-labeled study of nifedipine versus propranolol for the initial prophylaxis of migraine. Propranolol was effective in 67% of patients (12/18) and well tolerated. Nifedipine was effective in only 30% of patients (6/20). The lack of overall efficacy of nifedipine was attributable to a high incidence of side effects, including an unusual symptom complex resembling erythromelalgia. These side effects led 45% (9/20) of the nifedipine patients to withdraw from the study within two weeks. By contrast, no patient (0/18) withdrew from the study within the first 2 weeks of propranolol therapy. We conclude that nifedipine is not an agent of first choice for the prophylaxis of migraine.",
+            "journal": "Headache",
+            "year": "1989",
+            "authors": [
+              "Albers G W",
+              "Simon L T",
+              "Hamik A",
+              "Peroutka S J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Clinical Trials as Topic",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Migraine Disorders",
+              "Nifedipine",
+              "Propranolol",
+              "Random Allocation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2654067/"
+          },
+          {
+            "pmid": "23295260",
+            "title": "Propranolol-induced relaxation in the rat basilar artery.",
+            "abstract": "Propranolol is a non-selective beta-adrenergic receptor blocker used in the treatment of cardiovascular diseases and migraine prophylaxis. Although it has been shown that propranolol dilates the peripheral arteries of rat, its action in the central nervous system vasculature has not been investigated. In this study, the effects of propranolol in rat basilar artery were investigated. Basilar arteries from male Wistar rats were examined in a myograph system. The relaxant effects of propranolol, pindolol, atenolol, pizotifen and methysergide were examined in basilar arteries precontracted by serotonin or PGF2α. Only propranolol and pizotifen induced vasorelaxations; the pD2 values were 5.23±0.13 and 5.94±0.03; respectively. The vasorelaxation induced by propranolol and pizotifen was not affected by endothelium or the presence of l-NOARG and/or indomethacin. The calcium channel blocking activity of propranolol and pizotifen was compared with that of nifedipine in a calcium free solution wi",
+            "journal": "Vascular pharmacology",
+            "year": "2013",
+            "authors": [
+              "Cekic Edip G",
+              "Soydan Guray",
+              "Guler Sebile",
+              "Babaoglu Melih O",
+              "Tuncer Meral"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Animals",
+              "Antihypertensive Agents",
+              "Basilar Artery",
+              "Calcium",
+              "Calcium Channel Blockers",
+              "Calcium Channels, L-Type",
+              "Dose-Response Relationship, Drug",
+              "Male",
+              "Migraine Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23295260/"
+          },
+          {
+            "pmid": "6377247",
+            "title": "Promising uses of calcium-channel blocking agents.",
+            "abstract": "It is not surprising that calcium-channel blocking agents, which have numerous effects on various physiologic systems, have been employed for several \"unapproved\" uses. This manuscript reviews reports that have appeared within the last two years describing unapproved cardiovascular and noncardiovascular uses of the three available calcium-channel blocking agents. The cardiovascular uses discussed include hypertensive emergencies, pulmonary hypertension, congestive heart failure, aortic insufficiency, Raynaud's phenomenon, migraine headaches, antiplatelet effects and cardiac surgery. Areas of noncardiovascular use include muscular dystrophy, achalasia, esophageal spasm, dysmenorrhea, preterm labor, asthma, hyperuricemia, mania and depression and endocrinologic and oncologic conditions. While some of the data appear promising, other reports are conflicting and contradictory. Furthermore, because much of the information comes from poorly controlled trials or anecdotal reports, even the mo",
+            "journal": "Pharmacotherapy",
+            "year": "1984",
+            "authors": [
+              "Bussey H I",
+              "Talbert R L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aortic Valve Insufficiency",
+              "Asthma",
+              "Calcium Channel Blockers",
+              "Endocrine Glands",
+              "Esophageal Achalasia",
+              "Heart Failure",
+              "Humans",
+              "Hypertension",
+              "Hypertension, Pulmonary",
+              "Migraine Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6377247/"
+          },
+          {
+            "pmid": "3692828",
+            "title": "Treatment of complicated migraine with sublingual nifedipine.",
+            "abstract": "",
+            "journal": "Headache",
+            "year": "1987",
+            "authors": [
+              "Goldner J A",
+              "Levitt L P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Sublingual",
+              "Adolescent",
+              "Electroencephalography",
+              "Female",
+              "Humans",
+              "Migraine Disorders",
+              "Nifedipine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3692828/"
+          },
+          {
+            "pmid": "15849674",
+            "title": "[Ergotism. A case report and review of the literature].",
+            "abstract": "Ergotism is characterised by an intensive generalised vasoconstriction of small and large blood vessels. The symptoms derive from the regional ischemia caused by the vasospasm produced by ergotamine. Nowadays, ergotism is almost exclusively due to the excessive ingestion of ergotamine tartrate used in the treatment of migraine. The main treatment consists in withdrawing the medication.",
+            "journal": "Revista de neurologia",
+            "year": "2005",
+            "authors": [
+              "Ruano-Calderón L A",
+              "Zermeño-Pohls F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Ergotamines",
+              "Ergotism",
+              "Extremities",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Migraine Disorders",
+              "Vasoconstriction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15849674/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "migraine disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20migraine%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "txgnn_score": 0.7775958180427551,
+        "txgnn_rank": 20297,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "33862277",
+            "title": "Hypoxia and brain aging: Neurodegeneration or neuroprotection?",
+            "abstract": "The absolute reliance of the mammalian brain on oxygen to generate ATP renders it acutely vulnerable to hypoxia, whether at high altitude or in clinical settings of anemia or pulmonary disease. Hypoxia is pivotal to the pathogeneses of myriad neurological disorders, including Alzheimer's, Parkinson's and other age-related neurodegenerative diseases. Conversely, reduced environmental oxygen, e.g. sojourns or residing at high altitudes, may impart favorable effects on aging and mortality. Moreover, controlled hypoxia exposure may represent a treatment strategy for age-related neurological disorders. This review discusses evidence of hypoxia's beneficial vs. detrimental impacts on the aging brain and the molecular mechanisms that mediate these divergent effects. It draws upon an extensive literature search on the effects of hypoxia/altitude on brain aging, and detailed analysis of all identified studies directly comparing brain responses to hypoxia in young vs. aged humans or rodents. Spe",
+            "journal": "Ageing research reviews",
+            "year": "2021",
+            "authors": [
+              "Burtscher Johannes",
+              "Mallet Robert T",
+              "Burtscher Martin",
+              "Millet Grégoire P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Humans",
+              "Aging",
+              "Brain",
+              "Hypoxia",
+              "Neuroprotection"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33862277/"
+          },
+          {
+            "pmid": "37328448",
+            "title": "N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Cancer via NAT10/SEPT9/HIF-1α Positive Feedback Loop.",
+            "abstract": "Anti-angiogenic therapy has long been considered a promising strategy for solid cancers. Intrinsic resistance to hypoxia is a major cause for the failure of anti-angiogenic therapy, but the underlying mechanism remains unclear. Here, it is revealed that N4-acetylcytidine (ac4C), a newly identified mRNA modification, enhances hypoxia tolerance in gastric cancer (GC) cells by promoting glycolysis addiction. Specifically, acetyltransferase NAT10 transcription is regulated by HIF-1α, a key transcription factor of the cellular response to hypoxia. Further, acRIP-sequencing, Ribosome profiling sequencing, RNA-sequencing, and functional studies confirm that NAT10 in turn activates the HIF-1 pathway and subsequent glucose metabolism reprogramming by mediating SEPT9 mRNA ac4C modification. The formation of the NAT10/SEPT9/HIF-1α positive feedback loop leads to excessive activation of the HIF-1 pathway and induces glycolysis addiction. Combined anti-angiogenesis and ac4C inhibition attenuate hyp",
+            "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+            "year": "2023",
+            "authors": [
+              "Yang Qingbin",
+              "Lei Xuetao",
+              "He Jiayong",
+              "Peng Yanmei",
+              "Zhang Yihao"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Stomach Neoplasms",
+              "Feedback",
+              "Glycolysis",
+              "RNA, Messenger",
+              "Hypoxia",
+              "N-Terminal Acetyltransferases",
+              "Cytidine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37328448/"
+          },
+          {
+            "pmid": "34618295",
+            "title": "Cognitive impairment caused by hypoxia: from clinical evidences to molecular mechanisms.",
+            "abstract": "Hypoxia is a state of reduced oxygen supply and excessive oxygen consumption. According to the duration of hypoxic period, it can be classified as acute and chronic hypoxia. Both acute and chronic hypoxia could induce abundant neurological deficits. Although there have been significant advances in the pathophysiological injuries, few studies have focused on the cognitive dysfunction. In this review, we focused on the clinical evidences and molecular mechanisms of cognitive impairment under acute and chronic hypoxia. Hypoxia can impair several cognitive domains such as attention, learning and memory, procession speed and executive function, which are similar in acute and chronic hypoxia. The severity of cognitive deficit correlates with the duration and degree of hypoxia. Recovery can be achieved after acute hypoxia, while sequelae or even dementia can be observed after chronic hypoxia, perhaps due to the different molecular mechanisms. Cardiopulmonary compensatory response, glycolysis,",
+            "journal": "Metabolic brain disease",
+            "year": "2022",
+            "authors": [
+              "Wang Xiaoyin",
+              "Cui Lili",
+              "Ji Xunming"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cognition Disorders",
+              "Cognitive Dysfunction",
+              "Hippocampus",
+              "Humans",
+              "Hypoxia",
+              "Neurofibrillary Tangles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34618295/"
+          },
+          {
+            "pmid": "33278780",
+            "title": "Altered glucose metabolism and cell function in keloid fibroblasts under hypoxia.",
+            "abstract": "Keloids exhibit metabolic reprogramming including enhanced glycolysis and attenuated oxidative phosphorylation. Hypoxia induces a series of protective responses in mammalian cells. However, the metabolic phenotype of keloid fibroblasts under hypoxic conditions remains to be elucidated. The present study aimed to investigate glycolytic activity, mitochondrial function and morphology, and the HIF1α and PI3K/AKT signaling pathways in keloid fibroblasts (KFB) under hypoxic conditions. Our results showed that hypoxia promoted proliferation, migration invasion and collagen synthesis and inhibited apoptosis in KFB. The mRNA levels, protein expressions and enzyme activities of glycolytic enzymes in KFB were higher than those in normal skin fibroblasts (NFB) under normoxia. Moreover, hypoxia remarkedly upregulated glycolysis in KFB. Decreased activities of mitochondrial complexes and abnormal mitochondria were detected in KFB under normoxic conditions and the damage was aggravated by hypoxia. A",
+            "journal": "Redox biology",
+            "year": "2021",
+            "authors": [
+              "Wang Qifei",
+              "Wang Pu",
+              "Qin Zelian",
+              "Yang Xin",
+              "Pan Bailin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Hypoxia",
+              "Fibroblasts",
+              "Glucose",
+              "Glycolysis",
+              "Hypoxia",
+              "Keloid",
+              "Phosphatidylinositol 3-Kinases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33278780/"
+          },
+          {
+            "pmid": "21328446",
+            "title": "Hypoxia-mediated biological control.",
+            "abstract": "When oxygen demand is greater than oxygen supply, cells need to rapidly adjust their metabolism in order for the tissue to survive. Oxygen sensing by an organism influences a host of processes including growth, development, metabolism, pH homeostasis, and angiogenesis. Hypoxia also contributes to a wide number of human diseases including vascular disease, inflammatory conditions and cancer. Recently, major advances have been made in understanding the response of cells and tissues to hypoxia with the goal of providing mechanistic insight and novel therapeutic targets. In this article we review both the normal biological effects of hypoxia as well as the alterations that occur in specific disease conditions with an emphasis on the cell signaling and gene transcription mechanisms that underlie the changes associated with chronic hypoxia. Comparisons of studies in the fields of cardiac ischemia and tumor angiogenesis reveal the complexities within the microenvironment that control response",
+            "journal": "Journal of cellular biochemistry",
+            "year": "2011",
+            "authors": [
+              "Cassavaugh Jessica",
+              "Lounsbury Karen M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Gene Expression Regulation",
+              "Humans",
+              "Hydrogen-Ion Concentration",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Myocardial Ischemia",
+              "Neoplasm Metastasis",
+              "Neoplasms",
+              "Neovascularization, Pathologic",
+              "Oxygen"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21328446/"
+          },
+          {
+            "pmid": "31706510",
+            "title": "DUBs, Hypoxia, and Cancer.",
+            "abstract": "Alterations in protein ubiquitylation and hypoxia are commonly associated with cancer. Ubiquitylation is carried out by three sequentially acting ubiquitylating enzymes and can be opposed by deubiquitinases (DUBs), which have emerged as promising drug targets. Apart from protein localization and activity, ubiquitylation regulates degradation of proteins, among them hypoxia-inducible factors (HIFs). Thereby, various E3 ubiquitin ligases and DUBs regulate HIF abundance. Conversely, several E3s and DUBs are regulated by hypoxia. While hypoxia is a powerful HIF regulator, less is known about hypoxia-regulated DUBs and their impact on HIFs. Here, we review current knowledge about the relationship of E3s, DUBs, and hypoxia signaling. We also discuss the reciprocal regulation of DUBs by hypoxia and use of DUB-specific drugs in cancer.",
+            "journal": "Trends in cancer",
+            "year": "2019",
+            "authors": [
+              "Mennerich Daniela",
+              "Kubaichuk Kateryna",
+              "Kietzmann Thomas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Deubiquitinating Enzymes",
+              "Homeostasis",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Neoplasms",
+              "Oxygen",
+              "Protein Transport",
+              "Proteolysis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31706510/"
+          },
+          {
+            "pmid": "34535359",
+            "title": "Therapeutic Modification of Hypoxia.",
+            "abstract": "Regions of reduced oxygenation (hypoxia) are a characteristic feature of virtually all animal and human solid tumours. Numerous preclinical studies, both in vitro and in vivo, have shown that decreasing oxygen concentration induces resistance to radiation. Importantly, hypoxia in human tumours is a negative indicator of radiotherapy outcome. Hypoxia also contributes to resistance to other cancer therapeutics, including immunotherapy, and increases malignant progression as well as cancer cell dissemination. Consequently, substantial effort has been made to detect hypoxia in human tumours and identify realistic approaches to overcome hypoxia and improve cancer therapy outcomes. Hypoxia-targeting strategies include improving oxygen availability, sensitising hypoxic cells to radiation, preferentially killing these cells, locating the hypoxic regions in tumours and increasing the radiation dose to those areas, or applying high energy transfer radiation, which is less affected by hypoxia. De",
+            "journal": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+            "year": "2021",
+            "authors": [
+              "Horsman M R",
+              "Sørensen B S",
+              "Busk M",
+              "Siemann D W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Hypoxia",
+              "Humans",
+              "Hypoxia",
+              "Neoplasms",
+              "Oxygen"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34535359/"
+          },
+          {
+            "pmid": "11172576",
+            "title": "Mechanisms of hypoxemia.",
+            "abstract": "The definitions of hypoxemia and hypoxia, and basic pulmonary anatomy and oxygen delivery are reviewed. Low ambient oxygen, hypoventilation, ventilation-perfusion mismatch, and right-to-left shunt, the four basic mechanisms of hypoxemia are described in detail with patient examples. For the sake of completion, a fifth mechanism of hypoxemia that is rarely seen in human disease is described. Because getting oxygen into the blood stream is only half the story, mechanisms of tissue hypoxia in the setting of adequate oxygen exchange from the lungs to the blood are discussed. An algorithm is proposed for diagnosing patients who present with hypoxia.",
+            "journal": "Respiratory care clinics of North America",
+            "year": "2000",
+            "authors": [
+              "Henig N R",
+              "Pierson D J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Algorithms",
+              "Cell Hypoxia",
+              "Child, Preschool",
+              "Decision Trees",
+              "Diagnosis, Differential",
+              "Female",
+              "Hemodynamics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11172576/"
+          },
+          {
+            "pmid": "40347693",
+            "title": "Hypoxia in multiple sclerosis.",
+            "abstract": "Low oxygen availability (hypoxia) is a prominent but poorly understood feature in multiple sclerosis (MS). Whether hypoxia causes or drives MS pathology and symptoms or whether it is a consequence of other pathological events, such as inflammation and vascular dysfunction, is unknown. Here, we summarize the available literature on the interplay between hypoxia and both pathological and symptomatic features of MS. Severe environmental hypoxia (i.e., altitude) may trigger or facilitate MS-related events, possibly by exacerbating tissue hypoxia in the central nervous system. Accordingly, increasing oxygen supply can mitigate pathological and clinical parameters in MS models. In contrast, stimulating the endogenous hypoxia response and adaptation systems by controlled exposure to hypoxia (hypoxia conditioning) renders the central nervous system more resistant to hypoxic insults, thereby attenuating pathology and symptomatology in MS models. Overlapping mechanisms likely play a role in the ",
+            "journal": "Redox biology",
+            "year": "2025",
+            "authors": [
+              "Burtscher Johannes",
+              "Motl Robert W",
+              "Berek Klaus",
+              "Ehrenreich Hannelore",
+              "Kopp Martin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Multiple Sclerosis",
+              "Humans",
+              "Hypoxia",
+              "Animals",
+              "Oxygen",
+              "Central Nervous System"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40347693/"
+          },
+          {
+            "pmid": "40815459",
+            "title": "[Considerations on hypoxia and altitude].",
+            "abstract": "Hypoxia associated with altitude is known as hypobaric hypoxia and it is related to the decrease in barometric pressure and inspired oxygen pressure; as they decrease, hypoxia increases. High altitude inhabitants acclimatise-adapt with morphological, physiological and genetic changes over generations. There are major differences between high altitude, moderate altitude and sea level. The characteristics of inhabitants of places with moderate altitude have been considered similar to those who live at sea level. However, hypobaric hypoxia is present and oxygenation is lower than at sea level, and it is still unknown what other changes may be caused by hypobaric hypoxia at this altitude.",
+            "journal": "Revista medica del Instituto Mexicano del Seguro Social",
+            "year": "2025",
+            "authors": [
+              "Santos-Martínez Luis Efrén"
+            ],
+            "pub_types": [
+              "Editorial",
+              "English Abstract"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Altitude",
+              "Hypoxia",
+              "Altitude Sickness",
+              "Acclimatization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40815459/"
+          },
+          {
+            "pmid": "4585366",
+            "title": "[Cerebral hypoxia].",
+            "abstract": "",
+            "journal": "Revista medica de Chile",
+            "year": "1973",
+            "authors": [
+              "Ferrer S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adenosine Diphosphate",
+              "Adenosine Monophosphate",
+              "Adenosine Triphosphate",
+              "Animals",
+              "Brain",
+              "Brain Edema",
+              "Humans",
+              "Hypercapnia",
+              "Hypoxia, Brain",
+              "Ischemic Attack, Transient"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4585366/"
+          },
+          {
+            "pmid": "36100192",
+            "title": "Research progress on tumor hypoxia-associative nanomedicine.",
+            "abstract": "Hypoxia at the solid tumor site is generally related to the unrestricted proliferation and metabolism of cancerous cells, which can cause tumor metastasis and aggravate tumor progression. Besides, hypoxia plays a substantial role in tumor treatment, and it is one of the main reasons that malignant tumors are difficult to cure and have a poor prognosis. On account of the tumor specific hypoxic environment, many hypoxia-associative nanomedicine have been proposed for tumor treatment. Considering the enhanced targeting effect, designing hypoxia-associative nanomedicine can not only minimize the adverse effects of drugs on normal tissues, but also achieve targeted therapy at the lesion site. Mostly, there can be three strategies for the treatment of hypoxic tumor, including improvement of hypoxic environment, hypoxia responsive drug release and hypoxia activated prodrug. The review describes the design principle and applications of tumor hypoxia-associative nanomedicine in recent years, an",
+            "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+            "year": "2022",
+            "authors": [
+              "Xu Xiao-Xue",
+              "Chen Si-Yi",
+              "Yi Ning-Bo",
+              "Li Xin",
+              "Chen Si-Lin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hypoxia",
+              "Nanomedicine",
+              "Neoplasms",
+              "Prodrugs",
+              "Tumor Hypoxia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36100192/"
+          },
+          {
+            "pmid": "8817697",
+            "title": "Hypoxia and brain development.",
+            "abstract": "Hypoxia threatens brain function during the entire life-span starting from early fetal age up to senescence. This review compares the short-term, long-term and life-spanning effects of fetal chronic hypoxia and neonatal anoxia on several behavioural paradigms including novelty-induced spontaneous and learning behaviours. Furthermore, it reveals that perinatal hypoxia is an additional threat to neurodegeneration and decline of cognitive and other behaviours during the aging process. Prenatal hypoxia evokes a temporary delay of ingrowth of cholinergic and serotonergic fibres into the hippocampus and neocortex, and causes an enhanced neurodegeneration of 5-HT-ir axons during aging. Neonatal anoxia suppresses hippocampal ChAT activity and up-regulates muscarinic receptor sites for 3H-QNB and 3H-pirenzepine binding in the hippocampus in the early postnatal age. The altered development of axonal arborization and pre- and postsynaptic cholinergic functions may be an important underlying mecha",
+            "journal": "Progress in neurobiology",
+            "year": "1996",
+            "authors": [
+              "Nyakas C",
+              "Buwalda B",
+              "Luiten P G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Behavior",
+              "Brain",
+              "Humans",
+              "Hypoxia",
+              "Neurotransmitter Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8817697/"
+          },
+          {
+            "pmid": "27146279",
+            "title": "Hypoxic mechanisms in primary headaches.",
+            "abstract": "Background Hypoxia causes secondary headaches such as high-altitude headache (HAH) and headache due to acute mountain sickness. These secondary headaches mimic primary headaches such as migraine, which suggests a common link. We review and discuss the possible role of hypoxia in migraine and cluster headache. Methods This narrative review investigates the current level of knowledge on the relation of hypoxia in migraine and cluster headache based on epidemiological and experimental studies. Findings Epidemiological studies suggest that living in high-altitude areas increases the risk of migraine and especially migraine with aura. Human provocation models show that hypoxia provokes migraine with and without aura, whereas cluster headache has not been reliably induced by hypoxia. Possible pathophysiological mechanisms include hypoxia-induced release of nitric oxide and calcitonin gene-related peptide, cortical spreading depression and leakage of the blood-brain barrier. Conclusion There ",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "2017",
+            "authors": [
+              "Britze Josefine",
+              "Arngrim Nanna",
+              "Schytz Henrik Winther",
+              "Ashina Messoud"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cluster Headache",
+              "Humans",
+              "Hypoxia",
+              "Migraine Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27146279/"
+          },
+          {
+            "pmid": "37915135",
+            "title": "Regulation of CMGC kinases by hypoxia.",
+            "abstract": "Hypoxia, a widespread occurrence observed in various malignant tumors, results from rapid tumor growth that outpaces the oxygen supply. Tumor hypoxia precipitates several effects on tumor biology; these include activating angiogenesis, intensifying invasiveness, enhancing the survival of tumor cells, suppressing anti-tumor immunity, and fostering resistance to therapy. Aligned with the findings that correlate CMGC kinases with the regulation of Hypoxia-Inducible Factor (HIF), a pivotal modulator, reports also indicate that hypoxia governs the activity of CMGC kinases, including DYRK1 kinases. Prolyl hydroxylation of DYRK1 kinases by PHD1 constitutes a novel mechanism of kinase maturation and activation. This modification \"primes\" DYRK1 kinases for subsequent tyrosine autophosphorylation, a vital step in their activation cascade. This mechanism adds a layer of intricacy to comprehending the regulation of CMGC kinases, and underscores the complex interplay between distinct post-translati",
+            "journal": "BMB reports",
+            "year": "2023",
+            "authors": [
+              "Kim KyeongJin",
+              "Lee Sang Bae"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hypoxia",
+              "Neoplasms",
+              "Phosphorylation",
+              "Cell Hypoxia",
+              "Protein Processing, Post-Translational",
+              "Hypoxia-Inducible Factor 1, alpha Subunit",
+              "Tumor Microenvironment"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37915135/"
+          },
+          {
+            "pmid": "24557798",
+            "title": "Translation in progress: hypoxia.",
+            "abstract": "",
+            "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+            "year": "2014",
+            "authors": [
+              "Roach Robert C",
+              "Wagner Peter D",
+              "Hackett Peter H"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Introductory Journal Article"
+            ],
+            "mesh_terms": [
+              "Acclimatization",
+              "Altitude",
+              "Animals",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Oxygen",
+              "Signal Transduction",
+              "Translational Research, Biomedical"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24557798/"
+          },
+          {
+            "pmid": "27423661",
+            "title": "Hypoxia in tissue repair and fibrosis.",
+            "abstract": "Hypoxia and hypoxia signalling through the transcription factor hypoxia inducible factor-1 (HIF-1), play an important role in normal tissue repair processes. Tissue injury generally produces at least the transient loss of normal vascular perfusion and the resulting hypoxia induces the expression of many genes that allow the tissue to adapt to hypoxia, to start the repair process and, in time, to re-establish oxygen delivery to the tissue. In most cases, transient hypoxia and the activation of the HIF-1 pathway are beneficial and promote the repair process, producing tissue that might not perfectly reform its original architecture but that has its function substantially restored. However, in some cases of chronic injury, chronic hypoxia and pathological repair, the hypoxia pathway might be responsible for driving the process of fibrosis and can lead to excessive scarring and compromised organ function.",
+            "journal": "Cell and tissue research",
+            "year": "2016",
+            "authors": [
+              "Darby Ian A",
+              "Hewitson Tim D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Disease",
+              "Fibrosis",
+              "Humans",
+              "Hypoxia",
+              "Organ Specificity",
+              "Oxygen",
+              "Wound Healing"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27423661/"
+          },
+          {
+            "pmid": "37572528",
+            "title": "Inverse correlation between Alzheimer's disease and cancer from the perspective of hypoxia.",
+            "abstract": "Sporadic Alzheimer's disease and cancer remain epidemiologically inversely related, and exploring the reverse pathogenesis is important for our understanding of both. Cognitive dysfunctions in Alzheimer's disease (AD) might result from the depletion of adaptive reserves in the brain. Energy storage in the brain is limited and is dynamically regulated by neurovascular and neurometabolic coupling. The research on neurodegenerative diseases has been dominated by the neurocentric view that neuronal defects cause the diseases. However, the proposal of the 2-hit vascular hypothesis in AD led us to focus on alterations in the vasculature, especially hypoperfusion. Chronic hypoxia is a feature shared by AD and cancer. It is interesting how contradicting chronic hypoxia's effects on both cancer and AD are. In this article, we discuss the potential links between the 2 diseases' etiology, from comparable upstream circumstances to diametrically opposed downstream effects. We suggest opposing poten",
+            "journal": "Neurobiology of aging",
+            "year": "2023",
+            "authors": [
+              "Su Zhan",
+              "Zhang Guimei",
+              "Li Xiangting",
+              "Zhang Haining"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alzheimer Disease",
+              "Brain",
+              "Hypoxia",
+              "Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37572528/"
+          },
+          {
+            "pmid": "28493839",
+            "title": "Hypoxia inducible factors in hepatocellular carcinoma.",
+            "abstract": "Hepatocellular carcinoma is one of the most prevalent and lethal cancers with limited therapeutic options. Pathogenesis of this disease involves tumor hypoxia and the activation of hypoxia inducible factors. In this review, we describe the current understanding of hypoxia signaling pathway and summarize the expression, function and target genes of hypoxia inducible factors in hepatocellular carcinoma. We also highlight the recent progress in hypoxia-targeted therapeutic strategies in hepatocellular carcinoma and discuss further the future efforts for the study of hypoxia and/or hypoxia inducible factors in this deadly disease.",
+            "journal": "Oncotarget",
+            "year": "2017",
+            "authors": [
+              "Chen Chu",
+              "Lou Tao"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Biomarkers",
+              "Carcinoma, Hepatocellular",
+              "Energy Metabolism",
+              "Gene Expression Regulation, Neoplastic",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Liver Neoplasms",
+              "Molecular Targeted Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28493839/"
+          },
+          {
+            "pmid": "31961750",
+            "title": "Hypoxia and Innate Immunity: Keeping Up with the HIFsters.",
+            "abstract": "Recent years have witnessed an emergence of interest in understanding metabolic changes associated with immune responses, termed immunometabolism. As oxygen is central to all aerobic metabolism, hypoxia is now recognized to contribute fundamentally to inflammatory and immune responses. Studies from a number of groups have implicated a prominent role for oxygen metabolism and hypoxia in innate immunity of healthy tissue (physiologic hypoxia) and during active inflammation (inflammatory hypoxia). This inflammatory hypoxia emanates from a combination of recruited inflammatory cells (e.g., neutrophils, eosinophils, and monocytes), high rates of oxidative metabolism, and the activation of multiple oxygen-consuming enzymes during inflammation. These localized shifts toward hypoxia have identified a prominent role for the transcription factor hypoxia-inducible factor (HIF) in the regulation of innate immunity. Such studies have provided new and enlightening insight into our basic understandin",
+            "journal": "Annual review of immunology",
+            "year": "2020",
+            "authors": [
+              "Colgan Sean P",
+              "Furuta Glenn T",
+              "Taylor Cormac T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dendritic Cells",
+              "Disease Management",
+              "Disease Susceptibility",
+              "Energy Metabolism",
+              "Gene Expression Regulation",
+              "Host-Pathogen Interactions",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31961750/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "pulmonary hypertension owing to lung disease and/or hypoxia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20pulmonary%20hypertension%20owing%20to%20lung%20disease%20and/or%20hypoxia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pulmonary hypertension with unclear multifactorial mechanism",
+        "txgnn_score": 0.7775958180427551,
+        "txgnn_rank": 20298,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "pulmonary hypertension with unclear multifactorial mechanism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20pulmonary%20hypertension%20with%20unclear%20multifactorial%20mechanism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "malignant hypertensive renal disease",
+        "txgnn_score": 0.7657333016395569,
+        "txgnn_rank": 21297,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "malignant hypertensive renal disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20malignant%20hypertensive%20renal%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "malignant renovascular hypertension",
+        "txgnn_score": 0.7657333016395569,
+        "txgnn_rank": 21298,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "8672020",
+            "title": "Malignant hypertension in children in India.",
+            "abstract": "Malignant hypertension is now an uncommon entity in the western world but still remains a significant problem in India. Therefore we studied the aetiological spectrum, management, and outcome of these patients.",
+            "journal": "Nephrology, dialysis, transplantation : official publication of the European Dialysis and Transplant Association - European Renal Association",
+            "year": "1996",
+            "authors": [
+              "Kumar P",
+              "Arora P",
+              "Kher V",
+              "Rai P K",
+              "Gulati S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Angioplasty",
+              "Antihypertensive Agents",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Hypertension, Malignant",
+              "Hypertension, Renovascular",
+              "India"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8672020/"
+          },
+          {
+            "pmid": "14692134",
+            "title": "[Renovascular hypertension in a child with type 1 neurofibromatosis].",
+            "abstract": "Arterial hypertension in pediatric patients with neurofibromatosis type 1 (NF 1) is usually due to renal artery stenosis (RAS) mainly involving the proximal part of the vessel. The treatment modalities are highly individualized. In severe and/or bilateral RAS, antihypertensive drugs are either ineffective or have the potential risk for acute renal failure, while percutaneous transluminal angioplasty (PTA) has limited success due to the ostial localization of RAS and the tough fibrotic tissue involved that is refractory to dilatation Renal autotransplantation has potential advantages when medical control and PTA/or bypass techniques failed. Here we report 5 year-old girl with NF 1 and hyponatremic hypertensive syndrome due to severe bilateral disease, occluded proximal part of the right artery and ostial stenosis (80%) of the left one. Only left kidney was identified on 99 m Tc DTPA, but the right one was visualized on the renal ultrasonography and in the late phase of arterial renograp",
+            "journal": "Srpski arhiv za celokupno lekarstvo",
+            "year": "2003",
+            "authors": [
+              "Peco-Antić Amira",
+              "Krstić Zoran",
+              "Borić Zivko",
+              "Sagić Dragan",
+              "Kostić Mirjana"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Hypertension, Renovascular",
+              "Neurofibromatosis 1",
+              "Renal Artery Obstruction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14692134/"
+          },
+          {
+            "pmid": "6085384",
+            "title": "Mode of antihypertensive action of nitrendipine.",
+            "abstract": "The antihypertensive effect of nitrendipine cannot be explained only by its reduction of the increased peripheral vascular resistance. In contrast to the antihypertensive vasodilators, nitrendipine improves impaired renal function and prevents generalized vasculopathy in hypertensive animals. Chronic treatment with nitrendipine prevents spontaneous (Okamoto rats) and salt-induced (Dahl rats) hypertension and cardiac hypertrophy. In rats with established hypertension, nitrendipine normalizes blood pressure, reduces cardiac hypertrophy, and improves renal ischaemia. In salt-induced malignant hypertension in stroke-prone spontaneously hypertensive rats, nitrendipine only slightly reduces blood pressure but dramatically improves survival and prevents vascular lesions in the heart, brain, and kidneys. Nitrendipine reduces the intracellular availability of calcium ions in vascular smooth muscle responsible for the increased peripheral and renovascular resistance in hypertension. Moreover, in",
+            "journal": "Journal of cardiovascular pharmacology",
+            "year": "1984",
+            "authors": [
+              "Kazda S",
+              "Garthoff B",
+              "Luckhaus G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aging",
+              "Animals",
+              "Antihypertensive Agents",
+              "Blood Pressure",
+              "Diet",
+              "Dihydralazine",
+              "Heart",
+              "Hypertension",
+              "Hypertension, Malignant",
+              "Kidney"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6085384/"
+          },
+          {
+            "pmid": "966384",
+            "title": "Hypotensive action and increased plasma renin activity by Ca2+ antagonist (Nifedipine) in hypertensive patients.",
+            "abstract": "The Ca2+ antagonistic coronary vasodilator, Nifedipine, was sublingually administered by a dose of 30 mg to 19 patients with hypertension. Blood pressure of patients with with essential hypertension (n=14) decreased from 177 +/- 24 to 123 +/- 13 mmHg systolic and from 108 +/- 12 to 80 +/- 11 mmHg diastolic (mean +/- SD) (p less than 0.01). Plasma renin activity (PRA) increased significantly from 0.73 +/- 0.62 to 1.50 +/- 1.02 ng/ml/h (p less than 0.05). The same tendency was observed in malignant and renovascular hypertension. In primary aldosteronism (n = 2), blood pressure decreased but PRA did not increase. Hypotensive action and increased plasma renin activity by Ca2+ antagonist, Nifedipine, were clearly demonstrated in patients with hypertension.",
+            "journal": "Japanese heart journal",
+            "year": "1976",
+            "authors": [
+              "Aoki K",
+              "Yoshida T",
+              "Kato S",
+              "Tazumi K",
+              "Sato I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Calcium",
+              "Heart Rate",
+              "Humans",
+              "Hypertension",
+              "Middle Aged",
+              "Nifedipine",
+              "Pyridines",
+              "Renin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/966384/"
+          },
+          {
+            "pmid": "3481633",
+            "title": "Calcium antagonism and protection of tissues from calcium damage.",
+            "abstract": "Calcium antagonism of nifedipine, nitrendipine or nisoldipine prevented salt-induced hypertension, renovascular damage and mortality in Dahl salt-sensitive (S) rats. The calcium agonist BAY K 8644 accelerated the development of salt-induced hypertension in S rats. In some S rats on a low-salt diet BAY K 8644 induced renovascular damage without sustained hypertension. In stroke-prone spontaneously hypertensive rats (SHRSP) on a normal diet the natural appearance of stroke was correlated with an increased calcium content in brain and kidney tissue. Nimodipine prevented stroke and the increase in brain calcium content without affecting the high blood pressure. A similar protective effect without substantial influence on high blood pressure was achieved by bilateral parathyroidectomy. Hypertension-associated vascular damage does not necessarily depend on the systemic intravascular pressure. In malignant hypertension the deleterious calcium overload in tissues may be activated or inhibited ",
+            "journal": "Journal of hypertension. Supplement : official journal of the International Society of Hypertension",
+            "year": "1987",
+            "authors": [
+              "Kazda S",
+              "Grunt M",
+              "Hirth C",
+              "Preis W",
+              "Stasch J P"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Blood Pressure",
+              "Calcium",
+              "Calcium Channel Blockers",
+              "Drug Evaluation, Preclinical",
+              "Hypertension",
+              "Male",
+              "Parathyroid Glands",
+              "Rats",
+              "Rats, Inbred SHR"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3481633/"
+          },
+          {
+            "pmid": "10224210",
+            "title": "Solitary renal myofibromatosis: an unusual cause of infantile hypertension.",
+            "abstract": "Renovascular disease accounts for the vast majority of cases of infantile hypertension with complications resulting from umbilical arterial catheterization predominating in the neonatal period and fibrodysplastic lesions of the renal artery predominating outside the neonatal period. We report a previously undescribed cause of renovascular hypertension: solitary renal myofibromatosis.",
+            "journal": "Pediatrics",
+            "year": "1999",
+            "authors": [
+              "Kasaragod A B",
+              "Lucia M S",
+              "Lum G M",
+              "Caldwell S",
+              "Stork L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cardiomyopathy, Dilated",
+              "Humans",
+              "Hypertension, Renovascular",
+              "Infant",
+              "Kidney",
+              "Kidney Diseases",
+              "Male",
+              "Myofibromatosis",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10224210/"
+          },
+          {
+            "pmid": "18454714",
+            "title": "[High blood pressure due to aortic coarctation and renal artery stenosis in a teenager with type 1 neurofibromatosis].",
+            "abstract": "Hypertension affect about 1% of patients with neurofibromatosis type 1 (NF1). Major causes are concomitant pheocromocytoma in adults and renovascular hypertension in children. In most cases, NF1 is associated with renal artery stenosis, smooth cell proliferation and advential fibrosis. We describe a 16 year old girl with hypertension complicating NF1 secondary to severe coarctation of abdominal aorta and tight stenosis of right renal artery, a very uncommon case. She was first diagnosed when she was 3-years-old and managed with antihypertensive drugs (atenolol, hidralazine and nifedipine); she experienced progressive uncontrollable hypertension but no symptoms, thus she was admitted to repeat studies. Laboratory evaluation (including creatinine, serum electrolytes, urinalysis, urine catecholamines and creatinine clearance) was normal Percutaneous transfemoral magnetic resonance angiography disclosed severe coarctation of abdominal aorta, functional occlusion of superior mesenteric arte",
+            "journal": "Nefrologia : publicacion oficial de la Sociedad Espanola Nefrologia",
+            "year": "2008",
+            "authors": [
+              "Pardo R",
+              "Somalo L",
+              "Málaga S",
+              "Santos F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Aortic Coarctation",
+              "Female",
+              "Humans",
+              "Hypertension",
+              "Neurofibromatosis 1",
+              "Renal Artery Obstruction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18454714/"
+          },
+          {
+            "pmid": "7349176",
+            "title": "[Nifedipine in the therapy of secondary hypertension].",
+            "abstract": "",
+            "journal": "Bollettino della Societa italiana di cardiologia",
+            "year": "1981",
+            "authors": [
+              "Bartorelli A",
+              "Fiorentini C",
+              "Fabbiocchi F",
+              "Loaldi A",
+              "Guazzi M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Gland Neoplasms",
+              "Humans",
+              "Hyperaldosteronism",
+              "Hypertension",
+              "Hypertension, Renovascular",
+              "Nifedipine",
+              "Pheochromocytoma",
+              "Pyridines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7349176/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "malignant renovascular hypertension",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20malignant%20renovascular%20hypertension"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Braddock syndrome",
+        "txgnn_score": 0.7396140694618225,
+        "txgnn_rank": 23467,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "Braddock syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20Braddock%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "tendinitis",
+        "txgnn_score": 0.7051000595092773,
+        "txgnn_rank": 26242,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "25358401",
+            "title": "Uniaxial repetitive mechanical overloading induces influx of extracellular calcium and cytoskeleton disruption in human tenocytes.",
+            "abstract": "Tendon calcification is common in the Achilles tendon, and injuries affect not only athletes, but also the general population. However, the underlying cellular mechanisms are not yet fully understood. In this study, we isolated healthy human tenocytes and subjected them to uniaxial mechanical stretching (at 1.0 Hz) for various stretch times (4 h, 8 h, 12 h) or magnitudes (0%, 4%, 8%, 12%). The extracellular calcium chelator EGTA, calcium channel inhibitor MnCl2, nifedipine, or various doses of exogenous calcium were administered to these cells with or without mechanical overloading. The intracellular calcium concentration was determined by using a Fluo-3/AM fluorescence probe, and the cytoskeleton was revealed by F-actin Phalloidin staining. The intracellular calcium concentration increased in a magnitude- and time-dependent manner following stretching. These increases were suppressed by EGTA, MnCl2, or nifedipine. Additionally, cytoskeleton F-actin was disrupted significantly by stret",
+            "journal": "Cell and tissue research",
+            "year": "2015",
+            "authors": [
+              "Chen Wan",
+              "Deng Yinshuan",
+              "Zhang Jiqiang",
+              "Tang Kanglai"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Achilles Tendon",
+              "Actins",
+              "Adult",
+              "Analysis of Variance",
+              "Calcium",
+              "Calcium Channel Blockers",
+              "Calcium Channels",
+              "Chelating Agents",
+              "Cytoskeleton",
+              "Extracellular Space"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25358401/"
+          },
+          {
+            "pmid": "8391227",
+            "title": "The effects of halothane and isoflurane on slowly inactivating sodium current in canine cardiac Purkinje cells.",
+            "abstract": "The effects of halothane (0.45 and 0.9 mM, equivalent to 0.7 and 1.5 vol%, respectively) and isoflurane (0.56 and 1.23 mM, equivalent to 0.9 and 2.0 vol%) on slowly inactivating Na+ current were examined by whole-cell voltage-clamp techniques. This approach allows evaluation of the role of anesthetic inhibition of inward Na+ current on the action potentials of canine Purkinje fibers isolated from the false tendons. Cells were superfused with Tyrode's solution containing nifedipine and Ni2+ to block Ca2+ channel currents and internally dialyzed with Cs+ to block outward K+ currents. Veratridine (0.5 microM) was used throughout the experiments to enhance the slow Na+ current. Na+ current was elicited by depolarizing pulses from a holding potential of -100 mV to stepwise (10 mV increments) more positive membrane potentials and measured at 200 ms after initiation of the voltage pulse before, during, and after exposure to anesthetics. Slowly inactivating Na+ current showed threshold activat",
+            "journal": "Anesthesia and analgesia",
+            "year": "1993",
+            "authors": [
+              "Eskinder H",
+              "Supan F D",
+              "Turner L A",
+              "Kampine J P",
+              "Bosnjak Z J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Action Potentials",
+              "Animals",
+              "Dogs",
+              "Halothane",
+              "Heart",
+              "Isoflurane",
+              "Potassium",
+              "Purkinje Fibers",
+              "Sodium Channels"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8391227/"
+          },
+          {
+            "pmid": "6482510",
+            "title": "On the therapeutic mechanism of Mg2+ in digitoxic arrhythmias and the role of cardiac glycosides in Mg depletion.",
+            "abstract": "In 9 (of 17 attempted) experiments (8 aborted due to premature tissue death), transmembrane electrical activity was recorded from canine false tendons superfused with Mg-free Tyrode's solution to simulate hypomagnesemia. Oscillatory after-potentials (OAP) developed similar to those seen after exposure to 2 X 10(-7) M ouabain, a short-lasting (0.5-1 time the duration of an action potential) OAP that often reached threshold superimposed on a long-lasting (3-4 times as long as the short) OAP. Both forms of OAP were shown to be Ca2+-dependent, as both were prevented by 10(-7) M nifedipine, but only the short OAP were abolished by nifedipine once they had appeared, while high (5 mM = 10 times normal) Mg2+ both prevented and terminated short and long OAP in digitoxic preparations. Results suggest that cardiac glycosides may deplete Mg from the myocardium. The mechanism of the therapeutic action of Mg2+ in digitalis intoxication is discussed in light of its involvement in Ca2+ sequestration b",
+            "journal": "Magnesium",
+            "year": "1984",
+            "authors": [
+              "Moe B H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Arrhythmias, Cardiac",
+              "Calcium",
+              "Cardiac Glycosides",
+              "Digitoxin",
+              "Dogs",
+              "Female",
+              "Heart",
+              "Magnesium",
+              "Magnesium Deficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6482510/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "tendinitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20tendinitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "common cold",
+        "txgnn_score": 0.7016329169273376,
+        "txgnn_rank": 26535,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31808732",
+            "title": "Chilblains.",
+            "abstract": "Idiopathic chilblain is a relatively common yet poorly recognized acrosyndrome. This literature review aims to better understand and draw attention to this disorder. Chilblain is a localized inflammation of the skin that occurs on exposure to cold but non-freezing wet weather. It usually resolves spontaneously. The etiology is uncertain, but vasospasm seems to play a role in this abnormal reaction to cold. Diagnosis is most often based on clinical presentation, but a skin biopsy can be useful in dubious cases. In histology, dermal edema and an inflammatory infiltrate are usually present. A distribution of the infiltrate particularly around the eccrine gland is typical. Systemic symptoms and underlying autoimmune disease should be screened. Avoiding cold and keeping extremities warm is the first recommendation for management, as well as smoking cessation. Calcium channel blockers (in particular nifedipine) seems to be the treatment that has been most evaluated in chilblains. However, th",
+            "journal": "VASA. Zeitschrift fur Gefasskrankheiten",
+            "year": "2020",
+            "authors": [
+              "Nyssen Astrid",
+              "Benhadou Farida",
+              "Magnée Marc",
+              "André Josette",
+              "Koopmansch Caroline"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Biopsy",
+              "Chilblains",
+              "Cold Temperature",
+              "Humans",
+              "Skin",
+              "Vasoconstriction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31808732/"
+          },
+          {
+            "pmid": "15309214",
+            "title": "[Raynaud's phenomenon].",
+            "abstract": "Raynaud's phenomenon (RP) is a vasospastic disorder characterized by episodic color changes of blanching, cyanosis, and hyperemia in response to cold and/or emotional stress. Although most typically noted in the fingers, the circulation of the toes, ears, nose and tongue is also frequently affected. Population studies have shown that RP in adults is more common in women than men, with prevalence estimates ranging from 4% to 30%. Geographic variations in the prevalence reflect differences in climate. RP may be a primary or a secondary process. LeRoy and Medsger suggested criteria for primary RP: symmetric attacks, the absence of tissue necrosis, ulceration or gangrene, the absence of a secondary cause, negative antinuclear antibodies, normal nailfold capillaroscopy and a normal erythrocyte sedimentation rate. Secondary RP is characterized by an age of onset of more than 30 years, painful and asymmetric attacks, ischemic skin lesions, positive autoantibodies, capillaroscopic abnormalitie",
+            "journal": "Reumatismo",
+            "year": "2004",
+            "authors": [
+              "Zeni S",
+              "Ingegnoli F"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenergic alpha-Antagonists",
+              "Adult",
+              "Age Factors",
+              "Antihypertensive Agents",
+              "Calcium Channel Blockers",
+              "Child",
+              "Connective Tissue Diseases",
+              "Cross-Sectional Studies",
+              "Diagnosis, Differential"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15309214/"
+          },
+          {
+            "pmid": "15730335",
+            "title": "Pulmonary oedema of immersion.",
+            "abstract": "Acute pulmonary oedema has been described in individuals participating in three aquatic activities: (i) scuba diving; (ii) breath-hold diving; and (iii) endurance swimming. In this review, 60 published cases have been compiled for comparison. Variables considered included: age; past medical history; activity; water depth, type (salt or fresh) and temperature; clinical presentation; investigations; management; and outcome. From these data, we conclude that a similar phenomenon is occurring among scuba, breath-hold divers and swimmers. The pathophysiology is likely a pulmonary overperfusion mechanism. High pulmonary capillary pressures lead to extravasation of fluid into the interstitium. This overperfusion is caused by the increase in ambient pressure, peripheral vasoconstriction from ambient cold, and increased pulmonary blood flow resulting from exercise. Affected individuals are typically healthy males and females. Older individuals may be at higher risk. The most common symptoms are",
+            "journal": "Sports medicine (Auckland, N.Z.)",
+            "year": "2005",
+            "authors": [
+              "Koehle Michael S",
+              "Lepawsky Michael",
+              "McKenzie Donald C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Diving",
+              "Humans",
+              "Physical Endurance",
+              "Pulmonary Edema",
+              "Risk Factors",
+              "Swimming"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15730335/"
+          },
+          {
+            "pmid": "9118818",
+            "title": "Pharmacotherapy of Raynaud's phenomenon.",
+            "abstract": "Primary Raynaud's phenomenon is common, particularly in younger women, and may be familial. Vasospasm is not confined to the digits and may involve, for example, the tongue and nose, and also visceral organs like the heart, oesophagus or lung and cerebral circulation. Symptoms tend to be milder in primary compared with secondary Raynaud's phenomenon, which is associated with other disorders such as the connective tissue diseases. Indeed, the severity of symptoms often acts as the predictor for the much later onset of the associated systemic disease. Occupational Raynaud's phenomenon is related to the use of vibrating instruments, and a significant proportion of patients may be cured by an early change in job. In those over 60 years of age, Raynaud's phenomenon is commonly a result of atherosclerotic obstructive arterial disease, and screening for and treatment of the risk factors is appropriate. The best-studied mechanisms in Raynaud's phenomenon involve the blood and vascular endothel",
+            "journal": "Drugs",
+            "year": "1996",
+            "authors": [
+              "Belch J J",
+              "Ho M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Calcium Channel Blockers",
+              "Female",
+              "Fingers",
+              "Gloves, Protective",
+              "Hot Temperature",
+              "Humans",
+              "Microcirculation",
+              "Prostaglandins",
+              "Raynaud Disease",
+              "Vasodilator Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9118818/"
+          },
+          {
+            "pmid": "21985216",
+            "title": "Skin conditions in figure skaters, ice-hockey players and speed skaters: part II - cold-induced, infectious and inflammatory dermatoses.",
+            "abstract": "Participation in ice-skating sports, particularly figure skating, ice hockey and speed skating, has increased in recent years. Competitive athletes in these sports experience a range of dermatological injuries related to mechanical factors: exposure to cold temperatures, infectious agents and inflammation. Part I of this two part review discussed the mechanical dermatoses affecting ice-skating athletes that result from friction, pressure, and chronic irritation related to athletic equipment and contact with surfaces. Here, in Part II, we review the cold-induced, infectious and inflammatory skin conditions observed in ice-skating athletes. Cold-induced dermatoses experienced by ice-skating athletes result from specific physiological effects of cold exposure on the skin. These conditions include physiological livedo reticularis, chilblains (pernio), Raynaud phenomenon, cold panniculitis, frostnip and frostbite. Frostbite, that is the literal freezing of tissue, occurs with specific sympt",
+            "journal": "Sports medicine (Auckland, N.Z.)",
+            "year": "2011",
+            "authors": [
+              "Tlougan Brook E",
+              "Mancini Anthony J",
+              "Mandell Jenny A",
+              "Cohen David E",
+              "Sanchez Miguel R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cold Temperature",
+              "Deficiency Diseases",
+              "Feeding and Eating Disorders",
+              "Hockey",
+              "Humans",
+              "Skating",
+              "Skin Diseases",
+              "Skin Diseases, Infectious",
+              "Sports Equipment",
+              "Sports Medicine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21985216/"
+          },
+          {
+            "pmid": "24482037",
+            "title": "Calcium channel blockers for primary Raynaud's phenomenon.",
+            "abstract": "Calcium channel blockers are the most commonly prescribed drugs for people with primary Raynaud's phenomenon. Primary Raynaud's phenomenon is a common condition characterised by an exaggerated vasospastic response to cold or emotion: classically the digits (fingers and toes) turn white, then blue, then red.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2014",
+            "authors": [
+              "Ennis Holly",
+              "Anderson Marina E",
+              "Wilkinson Jack",
+              "Herrick Ariane L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Calcium Channel Blockers",
+              "Humans",
+              "Nicardipine",
+              "Nifedipine",
+              "Randomized Controlled Trials as Topic",
+              "Raynaud Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24482037/"
+          },
+          {
+            "pmid": "26914257",
+            "title": "Calcium channel blockers for primary Raynaud's phenomenon.",
+            "abstract": "Calcium channel blockers are the most commonly prescribed drugs for people with primary Raynaud's phenomenon. Primary Raynaud's phenomenon is a common condition characterised by an exaggerated vasospastic response to cold or emotion: classically the digits (fingers and toes) turn white, then blue, then red. This is an update of the review first published in 2014.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2016",
+            "authors": [
+              "Ennis Holly",
+              "Hughes Michael",
+              "Anderson Marina E",
+              "Wilkinson Jack",
+              "Herrick Ariane L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Calcium Channel Blockers",
+              "Humans",
+              "Nicardipine",
+              "Nifedipine",
+              "Randomized Controlled Trials as Topic",
+              "Raynaud Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26914257/"
+          },
+          {
+            "pmid": "11096527",
+            "title": "Raynaud's Phenomenon.",
+            "abstract": "Raynaud's phenomenon may be primary (idiopathic) or secondary. Primary Raynaud's phenomenon is very common in young women, especially in cool climates. Treatment of patients with primary disease is usually much more successful than treatment of patients with secondary disease. Most patients respond to conservative measures. Reassurance that they will not lose digits or limbs is helpful. They should avoid instigating vasospastic attacks, which are usually caused by cold plus pressure on the digits. Reflex sympathetic vasoconstriction can be avoided by wearing warm clothing, including hats. Mittens are more protective than gloves, which separate the fingers. Many patients find chemical hand and foot warmers very useful. Pavlovian conditioning and biofeedback may be helpful if the patient is willing to spend the time. Underlying disease should be treated or instigating causes avoided in secondary Raynaud's phenomenon. In the more severe cases of primary Raynaud's phenomenon as well as in ",
+            "journal": "Current treatment options in cardiovascular medicine",
+            "year": "2000",
+            "authors": [
+              "Coffman JD"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11096527/"
+          },
+          {
+            "pmid": "17352512",
+            "title": "The diagnosis and treatment of Raynaud's phenomenon: a practical approach.",
+            "abstract": "Raynaud's phenomenon is a common disorder with vasospasm of the digital arteries causing pallor with cyanosis and/or rubor. It can be primary (idiopathic), where it is not associated with other diseases, or secondary to several diseases or conditions, including connective tissue diseases, such as scleroderma and systemic lupus erythematosus. Raynaud's is often mild enough to not require treatment; however, with secondary Raynaud's there is not only vasospasm but also fixed blood vessel defects so the ischaemia can be more severe. Complications can include digital ulcers and could, rarely, lead to amputation. Treatment is often non-pharmacological including avoiding cold and smoking cessation. Calcium channel antagonists, such as nifedipine, are often considered when treatment is needed; however, adverse effects of these drugs can include hypotension, vasodilatation, peripheral oedema and headaches. Other treatments have been studied in randomised, controlled trials including classes of",
+            "journal": "Drugs",
+            "year": "2007",
+            "authors": [
+              "Pope Janet E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Calcium Channel Blockers",
+              "Humans",
+              "Raynaud Disease",
+              "Smoking Cessation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17352512/"
+          },
+          {
+            "pmid": "33422171",
+            "title": "What is the Best Way to Treat Patients with Raynaud's Phenomenon and a Tendency towards Hypotension?",
+            "abstract": "Episodes of excessive vasospasm are common in patients with Raynaud's phenomenon (RP). Pharmacological treatment may often result in side-effects such as hypotension, leading to discontinuation of treatment. Review of therapeutic interventions with regard to tendency towards hypotension was done in medical databases including PubMed, Scopus, and Medline to summarize the current state of the knowledge. Despite the episodes of blood pressure drops caused by hypotension, calcium channel blockers (CCB) have been widely used in RP as first-line treatment medication. The use of other CCB apart from nifedipine is controversial due to the variety of results in clinical trials. A clinical study comparing the efficacy and tolerability of losartan with nifedipine revealed a significant reduction in RP severity, frequency of episodes, and reported adverse effects. Application of oral sildenafil 100 mg/d as an add-on therapy increased microvascular blood flow in secondary RP, while being well-toler",
+            "journal": "Acta dermatovenerologica Croatica : ADC",
+            "year": "2020",
+            "authors": [
+              "Drobek Hanna Helena",
+              "Porwolik Mateusz",
+              "Pietrauszka Kornelia",
+              "Miziołek Bartosz",
+              "Bergler-Czop Beata"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antihypertensive Agents",
+              "Calcium Channel Blockers",
+              "Humans",
+              "Hypotension",
+              "Losartan",
+              "Nifedipine",
+              "Nitroglycerin",
+              "Raynaud Disease",
+              "Sildenafil Citrate",
+              "Smoking Cessation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33422171/"
+          },
+          {
+            "pmid": "37838733",
+            "title": "Efficacy analysis of minimally invasive surgery for Raynaud's syndrome.",
+            "abstract": "Raynaud's syndrome (RS), also referred to as Raynaud's phenomenon, is a vasospastic disorder causing episodic color changes in extremities upon exposure to cold or stress. These manifestations, either primary Raynaud's phenomenon (PRP) or associated with connective tissue diseases like systemic sclerosis (SSc) as secondary Raynaud's phenomenon (SRP), affect the quality of life. Current treatments range from calcium channel blockers to innovative surgical interventions, with evolving efficacy and safety profiles.",
+            "journal": "BMC surgery",
+            "year": "2023",
+            "authors": [
+              "Yu Fengwei",
+              "Liu Yongtao",
+              "Zhang Chengnian",
+              "Pang Botao",
+              "Zhang Daijie"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Retrospective Studies",
+              "Quality of Life",
+              "Prospective Studies",
+              "Raynaud Disease",
+              "Minimally Invasive Surgical Procedures",
+              "Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37838733/"
+          },
+          {
+            "pmid": "32482519",
+            "title": "Effect of Calcium-Channel Blockade on the Cold-Induced Vasodilation Response.",
+            "abstract": "Cold-induced vasodilation (CIVD) is seen in the extremities during exposure to cold. A strong vasodilation response has been associated with a decreased risk of cold injury. Increasing CIVD might further decrease this risk. The calcium-channel blocker nifedipine causes vasodilation and is used to treat Raynaud's syndrome and chilblains. Nifedipine is also used for high altitude pulmonary edema and could potentially serve a dual purpose in preventing frostbite. The effects of nifedipine on CIVD have not been studied.",
+            "journal": "Wilderness & environmental medicine",
+            "year": "2020",
+            "authors": [
+              "Milliner Brendan H A",
+              "Brant-Zawadzki Graham",
+              "McIntosh Scott E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Calcium Channel Blockers",
+              "Cold Temperature",
+              "Female",
+              "Fingers",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Nifedipine",
+              "Utah"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32482519/"
+          },
+          {
+            "pmid": "25185456",
+            "title": "Acupuncture in subjects with cold hands sensation: study protocol for a randomized controlled trial.",
+            "abstract": "Cold hands sensation is a common disorder within the Korean population. Many Korean family physicians believe that it is a mild early manifestation of Raynaud's phenomenon (RP), or may be related to RP. RP is characterized by reversible digital vasospasm provoked by cold temperatures and/or emotional stress, and doctors often prescribe medications that are used in treatment of RP for subjects with cold hands. However, this has not shown a clear benefit, and these medications can cause unwanted side effects. It is also reported that traditional Korean medicine, including acupuncture, is widely used to treat cold hands, although the current level of evidence for this approach is also poor and to date, there have been no published randomized controlled clinical trials (RCTs) evaluating the efficacy and safety of acupuncture for cold hands. We have therefore designed a pilot RCT to obtain information for the design of a further full-scale trial.",
+            "journal": "Trials",
+            "year": "2014",
+            "authors": [
+              "Seo Jung-Chul",
+              "Lee Hyun-jong",
+              "Kwak Min-Ah",
+              "Park Sung-Hoon",
+              "Shin ImHee"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acupuncture Therapy",
+              "Blood Flow Velocity",
+              "Body Temperature Regulation",
+              "Clinical Protocols",
+              "Cold Temperature",
+              "Epoprostenol",
+              "Feasibility Studies",
+              "Hand",
+              "Heart Rate",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25185456/"
+          },
+          {
+            "pmid": "19097597",
+            "title": "Vascular response of Raynaud's phenomenon to nifedipine or herbal medication (duhuo-tisheng tang with danggui-sini tang): a preliminary study.",
+            "abstract": "Raynaud's phenomenon (RP) is a common manifestation in connective tissue diseases. Calcium channel antagonists are most effective and frequently used for treating RP. This study compared the efficacy, digital vascular response, and tolerability between nifedipine and a combination of 2 Chinese herbal medications (duhuo-tisheng tang and danggui-sini tang) for treating RP.",
+            "journal": "Chang Gung medical journal",
+            "year": "2008",
+            "authors": [
+              "Wu Yeong-Jian Jan",
+              "Luo Shue-Fen",
+              "Yang Sien-Hung",
+              "Chen Ji-Yih",
+              "Yu Kuang-Hui"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Blood Vessels",
+              "Calcium Channel Blockers",
+              "Drugs, Chinese Herbal",
+              "Female",
+              "Humans",
+              "Male",
+              "Nifedipine",
+              "Raynaud Disease"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19097597/"
+          },
+          {
+            "pmid": "27765744",
+            "title": "Ion channel mechanisms of rat tail artery contraction-relaxation by menthol involving, respectively, TRPM8 activation and L-type Ca2+ channel inhibition.",
+            "abstract": "Transient receptor potential melastatin 8 (TRPM8) is the principal cold and menthol receptor channel. Characterized primarily for its cold-sensing role in sensory neurons, it is expressed and functional in several nonneuronal tissues, including vasculature. We previously demonstrated that menthol causes variable mechanical responses (vasoconstriction, vasodilatation, or biphasic reactions) in isolated arteries, depending on vascular tone. Here we aimed to dissect the specific ion channel mechanisms and corresponding Ca2+ signaling pathways underlying such complex responses to menthol and other TRPM8 ligands in rat tail artery myocytes using patch-clamp electrophysiology, confocal Ca2+ imaging, and ratiometric Ca2+ recording. Menthol (300 μM, a concentration typically used to induce TRPM8 currents) strongly inhibited L-type Ca2+ channel current (L-ICa) in isolated myocytes, especially its sustained component, most relevant for depolarization-induced vasoconstriction. In contraction stud",
+            "journal": "American journal of physiology. Heart and circulatory physiology",
+            "year": "2016",
+            "authors": [
+              "Melanaphy Donal",
+              "Johnson Christopher D",
+              "Kustov Maxim V",
+              "Watson Conall A",
+              "Borysova Lyudmyla"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anilides",
+              "Animals",
+              "Antipruritics",
+              "Arteries",
+              "Calcium Channels, L-Type",
+              "Calcium Signaling",
+              "Immunohistochemistry",
+              "Menthol",
+              "Muscle Contraction",
+              "Muscle Relaxation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27765744/"
+          },
+          {
+            "pmid": "23356736",
+            "title": "Major cluster of chilblain cases in a cold dry Western Australian winter.",
+            "abstract": "Primary chilblains are an idiopathic cold-induced vasculopathy affecting the soft tissues of the hands and feet. Secondary chilblains occur in different forms of vasculitis and chronic autoimmune connective tissue disorders. Idiopathic chilblains are rarely reported in children and may generate significant anxiety to doctors and patients. We describe a cluster of idiopathic chilblains encountered over the winter of 2010 in Perth, Western Australia.",
+            "journal": "Journal of paediatrics and child health",
+            "year": "2013",
+            "authors": [
+              "Larkins Nicholas",
+              "Murray Kevin J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Chilblains",
+              "Child",
+              "Child, Preschool",
+              "Cold Temperature",
+              "Databases, Factual",
+              "Female",
+              "Humans",
+              "Humidity",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23356736/"
+          },
+          {
+            "pmid": "3430658",
+            "title": "Treatment of ciguatera fish poisoning with amitriptyline and nifedipine.",
+            "abstract": "Ciguatera fish poisoning is the most common fish poisoning in the United States. Symptoms involve the gastrointestinal, cardiovascular and neurological systems. No known treatment exists. We explore the therapeutic effect of amitriptyline in two patients and nifedipine in one patient. Amitriptyline demonstrated resolution of most symptoms except for heat/cold reversal in one patient and heat/cold reversal, pruritus and headache in the second patient. We then used nifedipine in the second patient and noted only the resolution of his headaches. We recommend further study of these agents for the treatment of ciguatera fish poisoning.",
+            "journal": "Journal of toxicology. Clinical toxicology",
+            "year": "1987",
+            "authors": [
+              "Calvert G M",
+              "Hryhorczuk D O",
+              "Leikin J B"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Amitriptyline",
+              "Animals",
+              "Ciguatera Poisoning",
+              "Female",
+              "Fishes, Poisonous",
+              "Gastrointestinal Diseases",
+              "Humans",
+              "Male",
+              "Marine Toxins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3430658/"
+          },
+          {
+            "pmid": "15060268",
+            "title": "Raynaud's phenomenon of the nipple: a treatable cause of painful breastfeeding.",
+            "abstract": "Maurice Raynaud first described the vasospasm of arterioles in 1862, and Raynaud's phenomenon is now felt to be common, affecting up to 20% of women of childbearing age. Raynaud's phenomenon has been reported to affect the nipples of breastfeeding mothers and is recognized by many lactation experts as a treatable cause of painful breastfeeding. In 1997, Lawlor-Smith and Lawlor-Smith reported 5 women with Raynaud's phenomenon associated with breastfeeding, but there are few other case reports, and none report the possible relationship between Raynaud's phenomenon of the nipple and previous breast surgery. We report 12 women who breastfed 14 infants, all of whom were seen in 1 pediatric practice and 1 lactation consultation center in San Francisco, California, within the past 3 years. Of the 12 women, 11 were seen between June 2002 and May 2003. All women suffered from extremely painful breastfeeding, with symptoms precipitated by cold temperatures and associated with blanching of the ni",
+            "journal": "Pediatrics",
+            "year": "2004",
+            "authors": [
+              "Anderson Jane E",
+              "Held Nancy",
+              "Wright Kara"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Breast Diseases",
+              "Breast Feeding",
+              "Candidiasis",
+              "Diagnostic Errors",
+              "Female",
+              "Humans",
+              "Nifedipine",
+              "Nipples",
+              "Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15060268/"
+          },
+          {
+            "pmid": "3266459",
+            "title": "[Systemic scleroderma in children].",
+            "abstract": "A new case of systemic scleroderma in a child is reported. The frequency of this disease is much lower than focal scleroderma and than other connective diseases in childhood. Kidney and heart involvement is much less common than in adults. Raynaud's phenomenon and scleroderma however, as in this case, are often severe. The appropriate treatment has to be efficient towards sclerosis (D-penicillamine, corticosteroids), Raynaud's phenomenon (protection from cold, nifedipine) and other manifestations (prevention of gastric ulceration, physical therapy) and should consider every possible adverse effect on a growing organism.",
+            "journal": "Archives francaises de pediatrie",
+            "year": "1988",
+            "authors": [
+              "Plantin P",
+              "Gavanou J",
+              "Le Fur J M",
+              "Guillet G"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Antibodies, Antinuclear",
+              "Child",
+              "Humans",
+              "Lung Diseases",
+              "Male",
+              "Raynaud Disease",
+              "Scleroderma, Systemic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3266459/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "common cold",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20common%20cold"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "myositis fibrosa",
+        "txgnn_score": 0.6815117597579956,
+        "txgnn_rank": 28283,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Nifedipine",
+          "disease": "myositis fibrosa",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Nifedipine%20myositis%20fibrosa"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Nifedipine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01115",
+    "name": "Nifedipine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Nifedipine"
+      },
+      "queried_at": "2026-03-24T16:51:42.235602",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Nifedipine"
+      },
+      "queried_at": "2026-03-24T16:51:42.236894",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Nifedipine"
+      },
+      "queried_at": "2026-03-24T16:51:43.092144",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine with brainstem aura"
+      },
+      "queried_at": "2026-03-24T16:51:43.492167",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine with brainstem aura"
+      },
+      "queried_at": "2026-03-24T16:51:54.730290",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine with brainstem aura"
+      },
+      "queried_at": "2026-03-24T16:51:56.682158",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine with brainstem aura"
+      },
+      "queried_at": "2026-03-24T16:51:58.907474",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine disorder"
+      },
+      "queried_at": "2026-03-24T16:51:59.952692",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine disorder"
+      },
+      "queried_at": "2026-03-24T16:52:03.546978",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine disorder"
+      },
+      "queried_at": "2026-03-24T16:52:04.161727",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "migraine disorder"
+      },
+      "queried_at": "2026-03-24T16:52:07.339975",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:52:07.984051",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:52:11.340236",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:52:11.811199",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:52:15.107053",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:52:15.642320",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:52:19.132422",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:52:19.760045",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:52:20.829770",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:52:21.229629",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:52:28.599743",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:52:30.881057",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:52:31.854320",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:52:32.298948",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:52:35.906089",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:52:36.530797",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:52:38.949994",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:52:39.461250",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:52:42.730345",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:52:43.282266",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:52:44.391838",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "tendinitis"
+      },
+      "queried_at": "2026-03-24T16:52:44.907182",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "tendinitis"
+      },
+      "queried_at": "2026-03-24T16:52:48.189099",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "tendinitis"
+      },
+      "queried_at": "2026-03-24T16:52:48.281310",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "tendinitis"
+      },
+      "queried_at": "2026-03-24T16:52:50.588150",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:52:51.110487",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:52:54.490700",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:52:55.002336",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:52:57.823630",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "myositis fibrosa"
+      },
+      "queried_at": "2026-03-24T16:52:58.345415",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "myositis fibrosa"
+      },
+      "queried_at": "2026-03-24T16:53:02.247934",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "myositis fibrosa"
+      },
+      "queried_at": "2026-03-24T16:53:02.845491",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Nifedipine",
+        "disease": "myositis fibrosa"
+      },
+      "queried_at": "2026-03-24T16:53:03.730797",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:53:03.732171"
+  }
+}

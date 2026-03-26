@@ -1,0 +1,2886 @@
+{
+  "drug": {
+    "inn": "Primaquine",
+    "drugbank_id": "DB01087",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "myiasis",
+        "txgnn_score": 0.9975513815879822,
+        "txgnn_rank": 700,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "wound myiasis",
+        "txgnn_score": 0.9972680807113647,
+        "txgnn_rank": 770,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "wound myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20wound%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "furuncular myiasis",
+        "txgnn_score": 0.9972680807113647,
+        "txgnn_rank": 771,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "furuncular myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20furuncular%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "creeping myiasis",
+        "txgnn_score": 0.9972680807113647,
+        "txgnn_rank": 772,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "creeping myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20creeping%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "toxoplasmosis",
+        "txgnn_score": 0.996384859085083,
+        "txgnn_rank": 940,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "toxoplasmosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20toxoplasmosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "nocardiosis",
+        "txgnn_score": 0.994215190410614,
+        "txgnn_rank": 1312,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "nocardiosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20nocardiosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "malaria",
+        "txgnn_score": 0.9938327074050904,
+        "txgnn_rank": 1369,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04368910",
+            "title": "A Phase III Randomised, Double-blind, Double-dummy, Comparative Study to Assess the Safety and Efficacy of Pyronaridine Artesunate (180:60 mg) Versus Chloroquine (155 mg) in Children and Adult Patients in Korea With Acute P. Vivax Malaria",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2007-09-06",
+            "completion_date": "2010-11-15",
+            "country": "South Korea",
+            "enrollment": 30,
+            "brief_summary": "The primary objective of this clinical study is to compare the efficacy and safety of the fixed combination of pyronaridine artesunate (180:60 mg) with that of standard chloroquine therapy in children and adults with acute, uncomplicated Plasmodium vivax (P. vivax) malaria",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Male or female patients between the age of 3 and 60 years, inclusive.\n2. Body weight between 20 kg and 90 kg with no clinical evidence of severe malnutrition.\n3. Presence of acute uncomplicated P. vivax mono-infection confirmed by:\n\n   1. Fever, as defined by axillary/tympani",
+            "endpoints": [
+              "Crude Cure Rate on Day 14"
+            ],
+            "sponsor": "Medicines for Malaria Venture",
+            "url": "https://clinicaltrials.gov/study/NCT04368910"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02592408",
+            "title": "A Study to Assess Current Standard Malaria Treatment Guidelines and Evaluate Recently Developed G6PD Diagnostic Tools in the Republic of the Sudan",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2015-11",
+            "completion_date": "2016-05",
+            "country": "Sudan",
+            "enrollment": 320,
+            "brief_summary": "This is a randomized controlled trial to assess the efficacy and safety of the national malaria treatment guidelines, asses the efficacy and safety of artesunate and sulphadoxine - pyrimethamine (AS+SP) for treatment in uncomplicated P. falciparum and P. vivax malaria and the hematologic effect of 14 days routine primaquine based radical cure in patients suffering from a P. vivax or mixed infection.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 12 months\n* P. vivax or P. falciparum mono-infection or P. vivax / P. falciparum mixed infection\n* Presence of axillary temperature ≥ 37.5°C or history of fever during the past 24 hrs\n* Able to tolerate oral medication\n* Able and willing to comply with the study protocol",
+            "endpoints": [
+              "The recurrence of parasitaemia within 42 days of follow in P. falciparum infections",
+              "The recurrence of parasitaemia within 42 days of follow in P. vivax infections"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT02592408"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07060404",
+            "title": "Pharmacokinetics of Primaquine and Tafenoquine in Lactating Women - Towards Equitable Radical Cure of Vivax Malaria",
+            "phase": "PHASE2, PHASE3",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-04",
+            "completion_date": "2027-05",
+            "country": "Papua New Guinea",
+            "enrollment": 60,
+            "brief_summary": "In Papua New Guinea, administration of primaquine (PQ) or tafenoquine (TQ) to breastfeeding mothers is contraindicated during the first six months postpartum, when infants are recommended to be exclusively breastfed, because of a lack of comprehensive pharmacokinetic data on PQ/TQ neonatal and infant exposure via breast milk. The therapeutic restriction of PQ/TQ use in lactating women during the first six months postpartum effectively translates into \\~10% of females being excluded from radical ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 years of age\n2. Both mother and infant have G6PD activity \\>70% (normal activity; SD Biosensor)\n3. They have no significant co-morbidity\n4. Delivered a live singleton baby within past 48-hours\n5. Rapid diagnostic test negative for malaria\n6. No history of hypersensitivity",
+            "endpoints": [
+              "Pharmacokinetic: Distribution half -life",
+              "Pharmacokinetic: Termination elimination half-life",
+              "Pharmacokinetic: Absorption half-life"
+            ],
+            "sponsor": "Curtin University",
+            "url": "https://clinicaltrials.gov/study/NCT07060404"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06392152",
+            "title": "G6PD Deficiency Prevalence and Targeted Elimination of Residual Plasmodium Vivax Hypnozoites in Community: Township Level Implementation in Banmauk and Moe Mauk, Myanmar",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2019-07-01",
+            "completion_date": "2024-12-31",
+            "country": "Burma",
+            "enrollment": 1208,
+            "brief_summary": "Plasmodium vivax has become the predominant species in the Greater Mekong Subregion and is a major challenge for regional malaria elimination. Mass primaquine administration has played a decisive role in malaria elimination in many temperate zone countries, but its efficacy in tropical areas remains to be evaluated. This study aims to assess the efficacy of targeted primaquine mass treatment (TPT) for eliminating P. vivax malaria in northern Myanmar.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Residents in study villages\n* Male/ female\n* Consent to participate\n\nExclusion Criteria:\n\n* Low Hb%\n* G6PD deficiency\n* pregnant women,\n* breastfeeding mothers and\n* children under 7 years",
+            "endpoints": [
+              "Infection prevalence at 3-month intervals estimated through cross-sectional surveys",
+              "Monthly malaria incidence by passive case detection"
+            ],
+            "sponsor": "Myanmar Health Network Organization",
+            "url": "https://clinicaltrials.gov/study/NCT06392152"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00330902",
+            "title": "Randomized Trial of Sulfadoxine-Pyrimethamine Plus Artesunate (SP+AS) Versus SP+AS Plus Primaquine for Clearance of Low Density P. Falciparum Infection in Eastern Sudan",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-01",
+            "completion_date": "2004-11",
+            "country": "Sudan",
+            "enrollment": 104,
+            "brief_summary": "In areas of seasonal malaria transmission, treatment of carriers of malaria parasites, whose parasitaemia persists at very low levels throughout the dry season, could be a useful strategy for malaria control in areas with a short transmission season. We did a randomized trial to compare two regimens for clearance of low level parasitaemia in the dry season.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* infection with P.falciparum detected by PCR\n\nExclusion Criteria:\n\n* pregnancy\n* severe anaemia\n* fever or other signs of illness\n* history of allergy to sulfa drugs\n* presence of other species of Plasmodium detected by microscopy",
+            "endpoints": [
+              "P.falciparum parasitaemia detected by PCR on days 3,7 and 14."
+            ],
+            "sponsor": "London School of Hygiene and Tropical Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT00330902"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05690841",
+            "title": "FocaL Mass Drug Administration for Vivax Malaria Elimination (FLAME): a Pragmatic Cluster Randomized Controlled Trial in Peru",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-10-14",
+            "completion_date": "2027-05-01",
+            "country": "Peru",
+            "enrollment": 7530,
+            "brief_summary": "FLAME is an open-label cluster-randomized controlled trial that aims to determine the effectiveness of focal mass drug administration (fMDA) to reduce the incidence of Plasmodium vivax malaria in the Loreto Department in Peru. Standard interventions, including symptomatic and asymptomatic screening for malaria infections, provision of insecticide-treated bednets, and environmental transmission monitoring, will be compared to clusters of villages randomized to receive anti-malarial drugs.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Cluster eligibility\n\n   * Within 8 hours transport of Iquitos\n   * Incidence \\<250/1000 and \\>2 cases year prior to trial\n   * Population size (\\<650)\n2. Chloroquine (CQ) eligibility\n\n   * Resides in neighboring household but within 200 m of Pv index case in the past 2 years\n",
+            "endpoints": [
+              "Cumulative Incidence of Plasmodium vivax infections"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT05690841"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05232227",
+            "title": "Primaquine Double Dose for Radical Cure of Plasmodium Vivax in Colombia",
+            "phase": "PHASE2, PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2023-01-20",
+            "completion_date": "2023-10-30",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "Primaquine (PQ) is the only widely available treatment to prevent P. vivax relapses. World Health Organization recommends increased PQ doses in East Asia and Oceania, frequently relapsing strains. In 2005, the Centers for Diseases Control and Prevention began also recommending higher dose PQ to treat infections from all parts of the world.\n\nIn Latin America, PQ for a radical cure has been largely implemented as 3.5 mg/kg over 14 days (standard dose, long-course, PQsd14) or 3.5 mg/kg over 7 days ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥5 years\n* Fever (T≥37.5 ⁰C, oral) and/or history of fever in the previous 48 hours\n* P. vivax mono-infection\n* Normal G6PD status using Biosensor™ (SD Bioline, ROK) (G6PD activity ≥ 70% of the adjusted male median (AMM))\n* Written informed consent\n* Living in the study ar",
+            "endpoints": [
+              "Incidence risk of microscopy-detectable P. vivax infections"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT05232227"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01743820",
+            "title": "Phase 2a Dose Escalation Study of the Efficacy, Safety, and Pharmacokinetics of Low Dose Primaquine for Gametocytocidal Activity Against P. Falciparum in Sub-Saharan Africa and South East Asia",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2013-09",
+            "completion_date": "2014-12",
+            "country": "Mali",
+            "enrollment": 81,
+            "brief_summary": "The purpose of this study is to evaluate the safety, efficacy, and pharmacokinetics of low single-dose primaquine for gametocidal activity against P.falciparum among adult glucose-6-phosphate dehydrogenase (G6PD)-normal malaria patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male\n* Age \\>= 18 years and \\< 50 years\n* Malaria blood thick film positive\n* Presence of gametocytes on thick blood film\n* Agrees to admission to study ward for 26 hours post diagnosis and available for follow up visits\n* No allergies to study drugs\n* Hemoglobin \\>= 8 g/dl\n* ",
+            "endpoints": [
+              "mosquito infectivity assessed through membrane feeding"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT01743820"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02721186",
+            "title": "Effectiveness of Mass Drug Administration (MDA) for Reducing Seasonal Malaria Transmission Towards Its Elimination in Hotspot Areas in Zanzibar - a Cluster-randomised Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2016-04-30",
+            "completion_date": "2017-09-30",
+            "country": "Tanzania",
+            "enrollment": 22500,
+            "brief_summary": "The overall aim of this study is to determine the effectiveness of two rounds of mass drug administration (MDA) with dihydroartemisinin-piperaquine (DHAp) + single low dose (SLD) primaquine for reducing seasonal malaria transmission in Shehias considered hotspots on Unguja Island, Zanzibar.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Permanent or temporary resident of study Shehias (i.e., persons who stayed in the selected household the night before the interview)\n* Provision of informed consent (refusal must be recorded)\n* Age \\>6 months\n\nExclusion Criteria:\n\n* Women pregnant in first trimester (assessed ",
+            "endpoints": [
+              "Cumulative notified malaria incidence in the MDA and control Shehias"
+            ],
+            "sponsor": "Karolinska Institutet",
+            "url": "https://clinicaltrials.gov/study/NCT02721186"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02090036",
+            "title": "Efficacy and Safety of a Single Low-dose Primaquine Added to Standard Artemether-lumefantrine Treatment for the Clearance of Plasmodium Falciparum Gametocytes.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2014-07",
+            "completion_date": "2014-11",
+            "country": "Tanzania",
+            "enrollment": 220,
+            "brief_summary": "The purpose of this study is to assess efficacy and safety of a single low-dose Primaquine added to standard artemether/lumefantrine treatment for the clearance of Plasmodium falciparum gametocytes among patients with uncomplicated malaria aged 1 year and above regardless of their G6PD status.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age of 1 year and above and neither pregnant nor breast feeding.\n* Weight over 10 kg.\n* Body temperature ≥37.5°C) or history of fever in the last 24 hours.\n* P. falciparum mono-infection.\n\nExclusion Criteria:\n\n* Evidence of severe illness malaria or danger signs.\n* Known aller",
+            "endpoints": [
+              "Number of days per treatment arm for gametocytes to become undetectable using Quantitative nucleic acid sequence based assay (QT-NASBA)."
+            ],
+            "sponsor": "Muhimbili University of Health and Allied Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT02090036"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01935882",
+            "title": "A Double Blind Randomized Controlled Trial to Assess the Efficacy and Safety of Low Dose Primaquine for Clearance of Gametocytes in Asymptomatic Individuals Infected With P. Falciparum in Burkina Faso",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-09",
+            "completion_date": "2015-07",
+            "country": "Burkina Faso",
+            "enrollment": 360,
+            "brief_summary": "Primaquine (PQ) is currently the only available drug that can clear mature transmission stages of P. falciparum parasites. PQ was previously shown to clear gametocytes that persist after artemisinin-combination therapy. However, there are safety concerns about the use of PQ at the currently recommended dose of 0.75mg/kg in individuals who are glucose-6-phosphate dehydrogenase (G6PD) deficient. PQ causes transient but significant haemolysis in G6PD deficient individuals; this side-effect is dose ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\> 2 years and \\<15 years\n2. Weight over 10kg\n3. P. falciparum parasitaemia \\>1,000 parasites and \\<200,000 parasites/µl\n4. P. falciparum gametocytes detected by microscopy\n5. Normal G6PD enzyme function\n6. Informed consent by legally acceptable representative\n\nExclusion ",
+            "endpoints": [
+              "Gametocyte carriage"
+            ],
+            "sponsor": "London School of Hygiene and Tropical Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT01935882"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01708876",
+            "title": "Artesunate-mefloquine vs Chloroquine in Patients With Acute Uncomplicated P. Knowlesi and P. Vivax Malaria: a Randomized Open Label Trial in Sabah, Malaysia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-10",
+            "completion_date": "2014-12",
+            "country": "Malaysia",
+            "enrollment": 250,
+            "brief_summary": "Preliminary studies have supported the background efficacy of local standard anti-malarial medications in the treatment of uncomplicated knowlesi malaria, however this has not been tested systematically and there are no current WHO treatment guidelines for this infection. There are both health cost benefits to a more rapidly acting agent, and due to difficulties with microscopic identification there may be more effective treatment for all malaria species if an aligned treatment guideline could b",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients at least 1 year of age and weighing more than 10kg\n* Microscopic diagnosis of Plasmodium species infection\n* Negative P. falciparum malaria rapid diagnostic test (histidine rich protein 2)\n* Fever (temperature 37.5°C) or history of fever in the last 48",
+            "endpoints": [
+              "Parasite clearance"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT01708876"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01365598",
+            "title": "Evaluation of the Efficacy and Safety of Primaquine for Clearance of Gametocytes in Uncomplicated Falciparum Malaria in Uganda",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2011-12",
+            "completion_date": "2013-05",
+            "country": "Uganda",
+            "enrollment": 468,
+            "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of lower doses of primaquine compared to the dose recommended by the WHO for reducing P. falciparum gametocytes in the infected human host to prevent transmission of falciparum malaria to the anopheles mosquito vector.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\>/= 1 year and \\</= 10 years\n* Weight over 10kg\n* Fever \\>38 degrees C (tympanic) or history of fever in the last 24 hours\n* P. falciparum parasitaemia \\<500 000/µl\n* Normal G6PD enzyme function\n\nExclusion Criteria:\n\n* Enrolled in another study\n* Evidence of severe illnes",
+            "endpoints": [
+              "Mean number of days to gametocyte clearance (gametocyte clearance time, GCT)",
+              "Mean (+/- SD) maximal fall in Hb (g/dL) from enrollment to day 28 of follow-up"
+            ],
+            "sponsor": "London School of Hygiene and Tropical Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT01365598"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04280692",
+            "title": "Safety and Feasibility of a Malaria Transmission Model in Semi-immune Kenyan Adults Using Plasmodium Falciparum Sporozoites",
+            "phase": "PHASE1, PHASE2",
+            "status": "SUSPENDED",
+            "start_date": "2022-08-22",
+            "completion_date": "2026-08",
+            "country": "Kenya",
+            "enrollment": 44,
+            "brief_summary": "This is to develop a model to test the efficacy of vaccines and/or drugs designed to block transmission of malaria to mosquitoes and to identify the targets of transmission-blocking immunity to malaria.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy adults aged 18 to 45 years.\n2. Able and willing (in the Investigator's opinion) to comply with all study requirements.\n3. Informed consent.\n4. Use of effective method of contraception for duration of study (women only). We will ask the female volunteers to come with t",
+            "endpoints": [
+              "Safety and optimisation of sporozoite dose for infections success in individuals with moderate-high malaria exposure",
+              "Prevalence of gametocytes"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT04280692"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02491606",
+            "title": "Evaluation of Weekly Tafenoquine (SB 252263 / WR 238605) Compared to Placebo for Chemosuppression of Plasmodium Falciparum in Western Kenya",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "1997-05",
+            "completion_date": "1998-09",
+            "country": "N/A",
+            "enrollment": 249,
+            "brief_summary": "This study is a phase 2b, placebo controlled, randomized, blinded study of the efficacy of WR 238605, a new primaquine analog, compared to placebo as chemosuppression of P. falciparum malaria in Nyanza Province, western Kenya.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Healthy subjects (male or female)\n2. Age of 18-55 years\n3. Residing in one of the study villages of the Nyanza Province for the entire study\n\nExclusion Criteria:\n\n1. Any cardiovascular, liver, neurologic, or renal functional abnormality which in the opinion of the clinical in",
+            "endpoints": [
+              "Prophylactic outcome."
+            ],
+            "sponsor": "U.S. Army Medical Research and Development Command",
+            "url": "https://clinicaltrials.gov/study/NCT02491606"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03352843",
+            "title": "Single Low-dose Primaquine Efficacy and Safety for Treatment of Uncomplicated Plasmodium Falciparum Malaria Based on Cytochrome P450 2D6 Activity in Bagamoyo District, Tanzania.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2019-06-11",
+            "completion_date": "2020-02-28",
+            "country": "Tanzania",
+            "enrollment": 157,
+            "brief_summary": "Background: The World Health Organization has recommended addition of a 0.25 mg/kg single-dose primaquine (PQ) to standard artemisinin-based combination therapy (ACT) for elimination of malaria in low transmission-settings and for containment in areas threatened by artemisinin resistance. However, PQ metabolism is dependent on a highly polymorphic cytochrome P450 (CYP) 2D6 isoenzyme which probably compromises the drugs' safety and efficacy, particularly in individuals with reduced isoenzyme acti",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age from 1 to 10 years\n* Weight ≥ 10 kg\n* Body temperature ≥ 37.5°C or history of fever in the last 24 hours\n* Microscopy confirmed P. falciparum mono-infection\n* Parasitemia level of 2000 - 200000/µL\n* Ability to swallow oral medication\n* Ability and willingness to abide by t",
+            "endpoints": [
+              "Safety of single low-dose primaquine."
+            ],
+            "sponsor": "Tropical Pesticides Research Institute, Tanzania",
+            "url": "https://clinicaltrials.gov/study/NCT03352843"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04698980",
+            "title": "Evaluation of the STANDARD G6PD Rapid Test for Assaying the Enzymatic Activity of G6PD in French Guiana",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2021-05-05",
+            "completion_date": "2022-12-31",
+            "country": "French Guiana",
+            "enrollment": 150,
+            "brief_summary": "In French Guiana, malaria is endemic and two species predominate: P. falciparum and P. vivax. The treatments against Plasmodium vivax malaria are: nivaquine for 3 days against circulating blood parasites and primaquine for 14 days against parasites dormant in the liver. Primaquine can cause iatrogenic hemolytic anemias in patients with favism, i.e. G6PD deficiency. This anemia can be severe enough to cause the death of the deficient patient. Thus, the WHO and HCSP recommendations indicate that a",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* People with a known level of G6PD activity.\n* People or their legal representatives who have received information on the research and have signed a written consent to participate in the study\n* People aged over 18 for the \"intermediate\" and \"normal\" categories,\n* People aged t",
+            "endpoints": [
+              "Sensitivity and specificity of the STANDARD G6PD test"
+            ],
+            "sponsor": "Institut Pasteur",
+            "url": "https://clinicaltrials.gov/study/NCT04698980"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02223871",
+            "title": "A Proof-of-concept Study to Assess the Effect of ACT-451840 Against Early Plasmodium Falciparum Blood Stage Infection in Healthy Subjects",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2014-06",
+            "completion_date": "2014-07",
+            "country": "Australia",
+            "enrollment": 8,
+            "brief_summary": "This was a single-center study using induced blood stage malaria infection to characterize the activity of ACT-451840 against early Plasmodium falciparum blood stage infection",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Body weight, minimum 50 kg, body mass index 18-32 kg/m\\^2.\n* Certified healthy by detailed medical history and physical examination.\n* Normal vital signs.\n* Normal standard 12-lead electrocardiograph (ECG).\n* Laboratory parameters within normal range, unless the investigator c",
+            "endpoints": [
+              "Drug-specific Parasite Reduction Ratio (PRR48) of ACT-451840 Over 48 Hours Using a Standardized Approach"
+            ],
+            "sponsor": "Idorsia Pharmaceuticals Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT02223871"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02389374",
+            "title": "A Study to Assess Safety of Current Standard Malaria Treatment and an Assessment of Glucose-6-dehydrogenase Status in South-east Bangladesh",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2014-08",
+            "completion_date": "2015-03",
+            "country": "N/A",
+            "enrollment": 181,
+            "brief_summary": "This is a study assessing safety and efficacy of current national guidelines for the treatment of uncomplicated malaria in Bangladesh as well as to assess the G6PD status among the enrolled patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 12 months\n* P. vivax or P. falciparum monoinfection or P.v. / P.f. mixed infection\n* Presence of axillary temperature ≥ 37.5°C or history of fever during the past 24 hrs\n* Ability to swallow oral medication.\n* Ability and willingness to comply with the study protocol for",
+            "endpoints": [
+              "The Proportion of Adverse and Serious Adverse Events Following Unsupervised Primaquine Treatment"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT02389374"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05044637",
+            "title": "Phase IIB Study to Evaluate Primaquine Safety and Tolerability for Radical Cure of Uncomplicated Plasmodium Vivax Malaria in Children < 15 Years-old (CHILDPRIM)",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-08-26",
+            "completion_date": "2025-01-07",
+            "country": "Brazil",
+            "enrollment": 100,
+            "brief_summary": "The main determinant of primaquine efficacy is the total dose of primaquine administered, rather than the dosing schedule. Infants and children younger than 4 years of age are at a higher risk of frequent relapses than older age groups, which may lead to severe anaemia. In view of this issue, after Glucose-6-phosphate dehydrogenase (G6PD) testing, WHO recommends the use of a low dose (0·25 mg/kg of bodyweight) of primaquine for 14 days in infants aged 6 months and older, as a follow-up treatment",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Infection with P.vivax parasitaemia;\n* ≥ 6 months and ˂ 15 years of age;\n* Body weight ≥ 5 Kg;\n* Hb \\> 7 g/dL\n* presence of axillary temperature \\>37.5 Celsius or history of fever during the past 48 hours;\n* ability to swallow oral medication;\n* Absence of severe malnutrition ",
+            "endpoints": [
+              "Safety - Adverse Event",
+              "Efficacy - Radical cure"
+            ],
+            "sponsor": "Fundação de Medicina Tropical Dr. Heitor Vieira Dourado",
+            "url": "https://clinicaltrials.gov/study/NCT05044637"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02020330",
+            "title": "An Open-label Randomized Controlled Trial to Evaluate the Effectiveness and Safety of a 3 Day Versus 5 Day Course of Artemether-lumefantrine for the Treatment of Uncomplicated Falciparum Malaria in Myanmar",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-11-25",
+            "completion_date": "2015-03-25",
+            "country": "Burma",
+            "enrollment": 150,
+            "brief_summary": "This is a randomised two arm study, comparing artemether-lumefantrine 3 days and 5 days treatment. Patients will be randomised in blocks of ten to one of the two treatment arms. The standard regimen is twice daily for three days with a delay of at least eight hours between the first and second doses. A single of primaquine will be given to all patients on the first day of treatment for gametocytocidal activity. The initial treatment will be given under supervision, all other subsequent doses wil",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age ≥ 6 year\n2. Symptomatic malaria infection, i.e. history of fever or presence of fever \\>37.5°C\n3. Microscopic confirmation of asexual stages of P. falciparum (may be mixed with non-falciparum species) with parasitaemia PFT≥5/500 WBC\n4. Written informed consent given to pa",
+            "endpoints": [
+              "proportion of patients with detectable parasitaemia"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT02020330"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04073953",
+            "title": "Metabolism and Pharmacokinetics of Primaquine Enantiomers in G6PD Deficient Human Volunteers Receiving a Five Day Dose Regimen",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2020-09-01",
+            "completion_date": "2023-09-01",
+            "country": "United States",
+            "enrollment": 18,
+            "brief_summary": "This study is a single center, prospective, cross-over phase 1 trial. Eighteen subjects will be enrolled in the study evaluating the metabolism, pharmacokinetic behavior and tolerability of primaquine enantiomers and placebo over the course of 5 days.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* G6PD deficient, otherwise normal healthy adults aged 18 to 65\n\nExclusion Criteria:\n\n* Known history of liver, kidney or hematological disease (other than G6PD deficiency)\n* Known history of cardiac disease, non-sinus rhythm arrhythmia or QT prolongation\n* Autoimmune disorders\n",
+            "endpoints": [
+              "Change in Methemoglobin concentration in blood from baseline"
+            ],
+            "sponsor": "University of Mississippi, Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT04073953"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03726593",
+            "title": "Multicenter Therapeutic Efficacy Assessment of Pyronaridine-Artesunate (Pyramax®) and New Drug Combinations With Atovaquone-Proguanil for the Treatment of Uncomplicated P. Falciparum Malaria in Cambodia",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2018-10-04",
+            "completion_date": "2022-12-30",
+            "country": "Cambodia",
+            "enrollment": 252,
+            "brief_summary": "Investigators are conducting this study due to recent reports of many of existing malaria drugs becoming less effective for treatment of malaria. The drugs may not always kill all the parasites, therefore not all patients with malaria are being cured. The main objective of the study is to find out which malaria drugs and what drug combinations are still effective in Cambodia, an area of multi-drug resistance where 4-5 artemisinin-based combination therapies have shown inadequate response, below ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Understands Khmer spoken language\n* Male or female (18 to 70 years old)\n* Microscopic confirmation of asexual stages of Pf or mixed infection with Pf, with baseline asexual parasite densities between 100/µL to 200,000/µL\n* Able to take oral medications\n* Hemoglobin on day of e",
+            "endpoints": [
+              "42-day polymerase chain reaction (PCR) corrected adequate clinical and parasitological response (ACPR), following treatment with ASPY and new drug combinations (AP+ACTs)."
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT03726593"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03241901",
+            "title": "\"Aiming at Prolonging the Therapeutic Life Span of Artemisinin-based Combination Therapies (ACT) in an Era of Imminent Plasmodium Falciparum Resistance in Bagamoyo District, Tanzania - New Strategies With Old Tools\"",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2017-07-27",
+            "completion_date": "2018-02-17",
+            "country": "Tanzania",
+            "enrollment": 280,
+            "brief_summary": "This clinical trial evaluates the advantage of prolonging the therapeutic life span of Artemether-lumefantrine from 3 days to 6 days, and addition of single low dose of Primaquine 0.25mg/kg. The study will have two arms, one that will receive standard treatment of uncomplicated malaria with Artemether-lumefantrine, and the other arm will receive the prolonged dose of 6 days together with single low dose primaquine. This approach is expected to provide strategies for malaria control in an era of ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age more than 1 year and less than 65 years.\n2. Weight 10 kg and above;\n3. Body temperature ≥37.5°C or history of fever in the last 24 hours;\n4. Microscopy determined asexual P. falciparum mono-infection regardless of parasitemia\n5. Normal - corrected QT Interval in Baseline ",
+            "endpoints": [
+              "Parasite Clearance Times",
+              "Parasite Clearance Times"
+            ],
+            "sponsor": "Muhimbili University of Health and Allied Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT03241901"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02851108",
+            "title": "Safety of Artesunate-amodiaquine Combined With Methylene Blue or Primaquine for Falciparum Malaria Treatment in African Children: A Randomised Controlled Trial",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2016-10",
+            "completion_date": "2017-02",
+            "country": "Burkina Faso",
+            "enrollment": 100,
+            "brief_summary": "Safety of artesunate-amodiaquine combined with methylene blue or primaquine for falciparum malaria treatment in African children: A randomised controlled trial\n\nElimination has become the goal of malaria programmes in an increasing number of endemic countries and regions. As resistance against artemisinin compounds has recently started to emerge in South-East Asia, there is a clear need to develop alternative malaria drug combinations. Adding another anti-malarial with a short half-life such as ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Weight ≥ 6 kg\n* Uncomplicated malaria caused by P. falciparum\n* Asexual parasites ≥ 2 000/µl and ≤ 100 000/µl\n* Axillary temperature ≥ 37.5°C or a history of fever during the last 24 hours\n* Burkinabe nationality\n* Permanent residence in the study area with no intention of lea",
+            "endpoints": [
+              "Change in Haemoglobin Compared to the Baseline"
+            ],
+            "sponsor": "Heidelberg University",
+            "url": "https://clinicaltrials.gov/study/NCT02851108"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05540470",
+            "title": "Radical CUREfor MAlaria Among Highly Mobile and Hard-to-reach Populations in the Guyanese Shield",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2022-09-12",
+            "completion_date": "2025-04-25",
+            "country": "Suriname, Brazil",
+            "enrollment": 1991,
+            "brief_summary": "The investigators are proposing a new malaria control strategy to reach the group of garimpeiros not reached by the usual actions of the health services. As it is a complex strategy, several evaluation mechanisms have been designed. The main characteristics of the research are:\n\n* Access to the target population: our target population is represented by miners active and mobile in the south of the Guiana Shield, between Amapá (Brazil), French Guiana (France) and Suriname. To overcome the obstacle",
+            "eligibility_criteria": "Inclusion Criteria for PART and Malakit:\n\n* Be 18 years of age or older\n* Agree to participate in the study\n* Have an actual involvement in gold mining activities (having been to the garimpo in the last year or planning to enter the garimpo in the following month), regardless of country\n* No symptom",
+            "endpoints": [
+              "Effectiveness focus",
+              "Implementation focus"
+            ],
+            "sponsor": "Centre Hospitalier de Cayenne",
+            "url": "https://clinicaltrials.gov/study/NCT05540470"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04666350",
+            "title": "Clinical Investigation Study to Evaluate the Consistency and Reproducibility of Two Consecutive Mosquito Feeding Assays in Adults With Varying Plasmodium Falciparum Gametocyte Densities",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2021-03-09",
+            "completion_date": "2021-12-20",
+            "country": "Kenya",
+            "enrollment": 42,
+            "brief_summary": "The proposed trial design has been developed to assess the consistency and reproducibility of two consecutive direct skin feeding assays (DSFA) at 24-hour interval.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Provision of signed or thumb printed and dated informed consent form\n* Stated willingness to comply with all study procedures and availability for the duration of the study\n* Male or female aged between 18 years and 55 years inclusive.\n* Resident within the study area\n* In goo",
+            "endpoints": [
+              "Oocyst Prevalence"
+            ],
+            "sponsor": "PATH",
+            "url": "https://clinicaltrials.gov/study/NCT04666350"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02528279",
+            "title": "Prospective Assessment of Relapse Characteristics of Plasmodium Ovale and Antimalarial Treatment Efficacy of Artemether-lumefantrine for Mixed Species and Non-falciparum Malaria in Gabon",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2014-10",
+            "completion_date": "2016-10",
+            "country": "Gabon",
+            "enrollment": 50,
+            "brief_summary": "Malaria is a protozoan infection transmitted by anopheline mosquitoes. The most severe forms are caused by Plasmodium (P) falciparum and to a much lesser extent by P. vivax.\n\nAlthough the interest in research on malaria has increased during the last years, yet little research is conducted on the \"neglected\" malaria species P. ovale and P. malariae. P. ovale being first described in 1922, it still remains unclear whether it displays dormant pre-erythrocytic liver stages, so called hypnozoites, or",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients older than 1 year\n* Presence of uncomplicated malaria infection confirmed by: fever or history of fever in the previous 3 days, and positive microscopy of P. malariae, P. ovale or mixed infection with parasite density \\> 10 - 200000/µl of blood\n* Reside",
+            "endpoints": [
+              "Adequate clinical and parasitological response (WHO criteria for antimalarial drug trials)"
+            ],
+            "sponsor": "Albert Schweitzer Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02528279"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02691910",
+            "title": "Efficacy of Chloroquine (CQ) Alone Compared to Concomitant CQ and Primaquine (PQ) for the Treatment of Uncomplicated Plasmodium Vivax Infection",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2014-08",
+            "completion_date": "2015-09",
+            "country": "Brazil",
+            "enrollment": 204,
+            "brief_summary": "This is a randomized open-label trial to evaluate the efficacy of chloroquine (CQ) alone compared to chloroquine+primaquine (CQ+PQ) in the treatment of uncomplicated malaria caused by Plasmodium vivax infection in a endemic area in the westernmost part of the Amazon Basin of Brazil. The duration of follow up for evaluating CQ efficacy as a schizonticidal drug was 28 days. The duration of complete follow up to detect recurrent P. vivax infections by passive surveillance was six months. All patien",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Slide-confirmed mono-infection with P. vivax\n* Age \\> 5 years\n* Ability to swallow oral medication\n* Axillary temperature ≥ 37.5º C or history of fever during the previous 48 hours\n* Patient or caregiver agrees to comply with the study protocol (including blood collections and",
+            "endpoints": [
+              "Early treatment failure"
+            ],
+            "sponsor": "Oswaldo Cruz Foundation",
+            "url": "https://clinicaltrials.gov/study/NCT02691910"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07281443",
+            "title": "Mass Drug Administration and Targeted Control Against Carriage to Reduce Plasmodium Transmission in the Sahel - Administration de Masse d'Antipaludiques et Lutte ciblée Contre le Portage Pour REduire la Transmission de Plasmodium au Sahel",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2024-09-23",
+            "completion_date": "2027-12",
+            "country": "Senegal",
+            "enrollment": 18000,
+            "brief_summary": "Strategies implemented since 2010 by the Senegalese National Malaria Control Program (NMCP) enabled a reduction of malaria transmission. However, malaria incidence increased again in recent years, especially in the \"red zone\" of Kedougou, Kolda and Tambacounda regions. Neighbouring Sahelian countries also documented an increase in malaria incidence in the same period. Current interventions include : long-lasting insecticidal nets, free diagnostic and treatment of clinical malaria, home-based cas",
+            "eligibility_criteria": "Randomisation unit : cluster, defined as village or group of eligible villages \\<3km from each other\n\nVILLAGE-LEVEL CRITERIA Inclusion\n\n* in Kedougou health district\n* population \\<1500 inhabitants\n* \\>5km from international border\n* \\>3km from a town with 1500 inhabitants or higher\n* \\>3km from ano",
+            "endpoints": [
+              "Plasmodium falciparum carriage reservoir at the end of the high transmission season (step 0)",
+              "Plasmodium falciparum carriage reservoir at the end of the high transmission season (step 1)",
+              "Plasmodium falciparum carriage reservoir at the end of the high transmission season (step 2)"
+            ],
+            "sponsor": "Institut de Recherche pour le Developpement",
+            "url": "https://clinicaltrials.gov/study/NCT07281443"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02052323",
+            "title": "Study to Determine the Efficacy of Artesunate-mefloquine Combination Therapy for the Treatment of Uncomplicated P. Falciparum Malaria in Thailand",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2013-10",
+            "completion_date": "2015-10",
+            "country": "Thailand",
+            "enrollment": 48,
+            "brief_summary": "The purposes of this study is to determine parasitological clearance rates by microscopy for the 72-hour period after first artesunate dose in subjects with uncomplicated P. falciparum malaria.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Thai or non-Thai, otherwise healthy, male or female, aged from 5 years to 65 years inclusive\n* Acute uncomplicated P. falciparum malaria monoinfection, confirmed by positive blood smear\n* Asexual P. falciparum parasitaemia of 1,000 to 200,000 parasites/µL, confirmed on a thin ",
+            "endpoints": [
+              "Parasite clearance rate"
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT02052323"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01074905",
+            "title": "A Randomised Open Label Study Comparing the Efficacy of Chloroquine/Primaquine, Chloroquine and Artesunate in the Treatment of Vivax Malaria Along the Thai-Burmese Border",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2010-05",
+            "completion_date": "2012-10",
+            "country": "Thailand",
+            "enrollment": 655,
+            "brief_summary": "This is a randomised open label trial with follow up for 1 year. 660 adults and children above 6 months diagnosed with acute Plasmodium vivax will be randomised into 3 groups, either chloroquine, artesunate, or chloroquine/primaquine therapy. Participants will be screened on the day of inclusion then followed weekly for 8 visits and every 4 weeks until week 52. The primary objective of the study is to compare the efficacy of the WHO and Thai Ministry of Public Health recommended radical curative",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adults and children \\> 6 months\n* Weight \\> 7 kg for children\n* Have not had primaquine since last Pv episode\n* Participant (or parent/guardian if \\< 18 years old) is willing and able to give written informed consent\n* Microscopic diagnosis of Plasmodium vivax mono-infection\n*",
+            "endpoints": [
+              "The first recurrence of Plasmodium vivax malaria"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT01074905"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01288820",
+            "title": "Comparison of the Efficacy and Safety of Two ACTs Plus Primaquine for Uncomplicated Plasmodium Vivax Malaria in North Sumatera, Indonesia: 1 Year Followup",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2011-01",
+            "completion_date": "2012-04",
+            "country": "Indonesia",
+            "enrollment": 331,
+            "brief_summary": "This randomized clinical trial will be conducted in subjects with uncomplicated Plasmodium vivax malaria during November 2010 to March 2012. The aim of the study is to compare the efficacy and safety of artesunate-amodiaquine plus primaquine (AS-AQ + PQ) and dihydroartemisinin-piperaquine plus primaquine (DHP + PQ) in uncomplicated vivax malaria. The significance of the study is to find alternative drug for treating patients with vivax malaria in case the standard treatment is not available or b",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Both sex\n* Age \\> 1 year\n* Fever (axillary temp ≥ 37.5oC) or history of fever during the preceding 48 hours\n* Uncomplicated Plasmodium vivax confirm by microscopic examination\n* Asexual parasite ≥ 250/µL blood\n* Absence of clinical condition that need hospitalization\n* No hist",
+            "endpoints": [
+              "Assessment of cure rate of both arms AS-AQ + PQ and DHP+PQ"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT01288820"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01392014",
+            "title": "Effectiveness of Dihydroartemisinin-piperaquine With or Without Primaquine on Gametocytes Plasmodium Falciparum in Mesoendemic Area of Indonesia",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2008-12",
+            "completion_date": "2010-10",
+            "country": "Indonesia",
+            "enrollment": 374,
+            "brief_summary": "Artemisinin-based combination therapy (ACT) has been known to be controversial for stopping malaria transmission.The addition of primaquine (PQ) - the only drug commercially available that kills mature transmission stage - to such treatments might be necessary to eliminate this stage. A study is conducted to evaluate the efficacy of dihydroartemisinin-piperaquine (DHP) regimens with or without PQ on the sexual and asexual stages of P. falciparum in Sumatra, Indonesia.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* age ≥ 4 years old\n* parasite count ≥ 1,000 asexual parasites/µL\n* normal glucose-6-phosphate dehydrogenase enzyme level based on qualitative test (Trinity Biotech® no 203, USA)\n* hemoglobin level ≥ 8 gr/dL as measured by Hemoque® apparatus;\n* have the ability to return for 42-",
+            "endpoints": [
+              "Development of sexual stages of P.falciparum"
+            ],
+            "sponsor": "Indonesia University",
+            "url": "https://clinicaltrials.gov/study/NCT01392014"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01668433",
+            "title": "Open Label Randomized Controlled Trial Pharmacokinetic and Vitro Transmission Blocking Activities Study of Primaquine Compare to Methylene Blue in Healthy Volunteer Both G6PD Normal and G6PD Deficiency",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2013-07",
+            "completion_date": "2014-10",
+            "country": "Thailand",
+            "enrollment": 20,
+            "brief_summary": "The emergence of partial artemisinin resistance in Plasmodium falciparum on the Cambodia-Thai border and more recently on the Myanmar-Thai border jeopardizes the renewed global efforts of control and elimination of malaria. Containment of this severe threat requires reduction of transmission of the resistant phenotype by adding gametocytocidal drugs to the treatment of falciparum malaria. Mathematical models also predict that transmission blocking will be required if the goal of malaria eliminat",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. For G6PD normal group, healthy males and females as judged by a physician with no abnormality identified on a medical evaluation including medical history and physical examination with laboratory diagnosis of G6PD normal.\n\n   For G6PD deficient group, healthy males with labor",
+            "endpoints": [
+              "Pharmacokinetic profile of Primaquine",
+              "Pharmacokinetic profile of Carboxyprimaquine",
+              "Pharmacokinetic profile of Methylene blue"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT01668433"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01849640",
+            "title": "Active Surveillance for P. Falciparum Drug Resistance With Assessment of Transmission Blocking Activity of Single Dose Primaquine in Cambodia",
+            "phase": "NA",
+            "status": "SUSPENDED",
+            "start_date": "2012-12",
+            "completion_date": "2016-06",
+            "country": "Cambodia",
+            "enrollment": 150,
+            "brief_summary": "This is a two-arm, open label Treatment Study comparing the efficacy, safety, tolerability and pharmacokinetics of a three-day course of Dihydroartemisinin-Piperaquine (DP) with or without single-dose primaquine in patients with uncomplicated Plasmodium falciparum malaria. On the last day of DP therapy, volunteers will be randomized to receive either a single 45 mg dose of primaquine (PQ) or DP treatment only (no primaquine).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Volunteer with uncomplicated P. falciparum malaria (volunteers with mixed P. falciparum and P. vivax infections may be enrolled), 18-65 years of age\n2. Baseline asexual parasite density between 1,000-200,000 parasites/uL\n3. Able to provide informed consent\n4. Available and ag",
+            "endpoints": [
+              "Clinical efficacy of DP"
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT01849640"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02453308",
+            "title": "A Multi-centre, Open-label Randomised Trial to Assess the Efficacy, Safety and Tolerability of Triple Artemisinin-based Combination Therapies (TACTs) Com-pared to Artemisinin-based Combination Therapies (ACTs) in Uncomplicated Falciparum Malaria and to Map the Geographical Spread of Artemisinin and Partner Drug Resistance",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-08",
+            "completion_date": "2018-03",
+            "country": "Burma, Vietnam, India, Democratic Republic of the Congo, Cambodia, Laos, Thailand, Bangladesh",
+            "enrollment": 1110,
+            "brief_summary": "This study is an open-label randomised trial comparing standard ACT treatment with matching triple artemisinin-based combination therapies (TACTs), evaluating efficacy in safety and tolerability. The estimated total sample size is 2040 patients from 16 sites in Asia and 1 site in Africa. There are 2 arm study groups that have 2 treatment arms each.\n\nStudy group A:\n\nA.1: Artemether-lumefantrine for 3 days. versus: A.2: Artemether-lumefantrine for 3 days plus Amodiaquine for 3 days.\n\nStudy group B",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged from 6 months to 65 years old\n* Acute uncomplicated P. falciparum malaria, confirmed by positive blood smear with asexual forms of P. falciparum (or mixed with non-falciparum species)\n* Asexual P. falciparum parasitaemia: 5,000 to 200,000/uL, de-termined o",
+            "endpoints": [
+              "PCR corrected efficacy defined as adequate clinical and parasitological response (ACPR)"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT02453308"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05879224",
+            "title": "Feasibility of High Daily Dose Short Course Primaquine After G6PD Testing for the Radical Cure of Plasmodium Vivax Malaria",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2023-08-07",
+            "completion_date": "2025-12-17",
+            "country": "Indonesia",
+            "enrollment": 2999,
+            "brief_summary": "The proportion of malaria that is the Plasmodium vivax species is increasing in Indonesia. Reducing vivax malaria will require innovative solutions to cure both the blood and liver stages of the disease. This study will evaluate of the feasibility of implementing point-of-care glucose-6-phosphate dehydrogenase deficiency (G6PD) testing. This will be followed by high dose, short course primaquine treatment regimens for patients with vivax malaria, and combined with patient education, surveillance",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with vivax malaria\n\nExclusion Criteria:\n\n* Patients who are pregnant\n* Patients who are breastfeeding\n* Patients with a Hb \\<8g/dL\n* Patients with a previous adverse reaction to primaquine\n* Patient with severe malaria",
+            "endpoints": [
+              "Proportion of patients experiencing at least one Serious Adverse Event (SAE) during treatment",
+              "Proportion of patients experiencing at least one Adverse Event of Special Interest(AESI) during treatment",
+              "Proportion of patients with P. vivax malaria who correctly receive all components of the revised case management package"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT05879224"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04241705",
+            "title": "Evaluation of the Effect of Targeted Mass Drug Administration and Reactive Case Detection on Malaria Transmission and Elimination in East Hararghe Zone, Oromia, Ethiopia",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2020-01-20",
+            "completion_date": "2022-01-20",
+            "country": "Ethiopia",
+            "enrollment": 48960,
+            "brief_summary": "Reactive and proactive case detection measures are widely implemented by national malaria elimination programs globally. Similarly, the Ethiopian Federal Ministry of Health decided to include reactive case detection (RCD) and targeted mass drug administration (tMDA) approaches as part of their elimination strategy, along with rigorous evaluation. This study aims to evaluate the impact on annual parasite incidence (API) and cost-effectiveness of implementing tMDA and RCD within a 100-meter radius",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Woreda-level: Of the 19 woredas with malaria risk, the ten woredas with the highest annual parasite incidence (API) in 2018 will be eligible for the study.\n* For Kebeles:\n\n  * Kebeles in East Hararghe Zone targeted for implementation of elimination activities by the Ethiopian ",
+            "endpoints": [
+              "Change in malaria annual parasite incidence (API)"
+            ],
+            "sponsor": "Armauer Hansen Research Institute, Ethiopia",
+            "url": "https://clinicaltrials.gov/study/NCT04241705"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05052502",
+            "title": "Targeting High-risk Populations With Enhanced Reactive Focal Mass Drug Administration: A Study to Assess the Effectiveness and Feasibility for Plasmodium Falciparum and Plasmodium Vivax Malaria in Thailand",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2020-11-01",
+            "completion_date": "2022-03-31",
+            "country": "Thailand",
+            "enrollment": 49118,
+            "brief_summary": "This study assesses the effectiveness of reactive focal mass drug administration (rfMDA), targeting both village and forest working populations, compared to control for reducing the health promotion hospital-level (sub-district) incidence and prevalence of P. falciparum and P. vivax within five provinces in Thailand.",
+            "eligibility_criteria": "Inclusion Criteria for rfMDA:\n\n* Index cases: Presented as a confirmed malaria case to an intervention health facility or village malaria worker, and lives in a village within a selected intervention subdistrict, or worked or spent at least one night at a forest or forest-fringe site in the past 30 ",
+            "endpoints": [
+              "Confirmed P. falciparum and P. vivax malaria parasite incidence",
+              "PCR-based P. falciparum and P. vivax parasite prevalence in sampled sub-districts"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT05052502"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01838902",
+            "title": "Primaquine's Gametocytocidal Efficacy in Malaria Asymptomatic Carriers Treated With Dihydroartemisinin-piperaquine in The Gambia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-08",
+            "completion_date": "2015-10",
+            "country": "The Gambia",
+            "enrollment": 467,
+            "brief_summary": "In this study, the investigators are interested to know if lower doses of Primaquine together with dihydroartemisinin-piperaquine can produce a similar effect of clearing both sexual and asexual parasites in asymptomatic carriers compared to the recommended dose of primaquine but with a decreased risk of haemolysis.\n\nChildren (\\> 1 year) and adults with normal Glucose-6-phosphate dehydrogenase enzyme levels but with asexual Plasmodium falciparum parasites on the day of screening will be invited ",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAge ≥1 year\n\n* Weight \\>10 Kg\n* P. falciparum mono-infection, density of at least 20 parasites/μL\n* Axillary temperature \\< 37.5ºC\n* Resident in the study area and willingness to reside for the duration of the study\n* Written informed consent (plus an assent in children \\>12year",
+            "endpoints": [
+              "Prevalence of P. falciparum gametocyte carriers (QT-NASBA)"
+            ],
+            "sponsor": "London School of Hygiene and Tropical Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT01838902"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03355664",
+            "title": "A Multi-centre, Open-label Randomised Trial to Assess the Efficacy, Safety and Tolerability of the Triple ACT Artemether-lumefantrine+Amodiaquine (AL+AQ) Compared to the ACT Artemether-lumefantrine (AL) in Uncomplicated Falciparum Malaria in Cambodia and Vietnam",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-03-19",
+            "completion_date": "2020-03-04",
+            "country": "Cambodia, Vietnam",
+            "enrollment": 310,
+            "brief_summary": "This study is a multi-centre, open-label randomised trial to assess the efficacy, safety and tolerability of the Triple ACT artemether-lumefantrine+amodiaquine (AL+AQ) compared to the ACT artemether-lumefantrine (AL) in uncomplicated falciparum malaria in Cambodia and Vietnam. The estimated total sample size is 600 patients from 2 sites in Cambodia and 2 sites in Vietnam. There are 2 treatment arms Arm 1: Artemether-lumefantrine for 3 days Arm 2: Artemether-lumefantrine for 3 days plus Amodiaqui",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged from 2 years to 65 years old\n* Acute uncomplicated P. falciparum malaria, confirmed by positive blood smear with asexual forms of P. falciparum (or mixed with non-falciparum species)\n* Asexual P. falciparum parasitaemia: 16 to 200,000/microlitre, determine",
+            "endpoints": [
+              "Polymerase Chain Reaction Corrected Efficacy Defined as Adequate Clinical and Parasitological Response (ACPR) by Study Arm"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT03355664"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02696928",
+            "title": "Feasibility of Methylene Blue-based Combination Therapy in the Radical Treatment of Adult Patients With Plasmodium Vivax Malaria in Ethiopia: a Randomised Controlled Pilot Trial",
+            "phase": "PHASE2",
+            "status": "WITHDRAWN",
+            "start_date": "2016-04",
+            "completion_date": "2018-01",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "Feasibility of methylene blue-based combination therapy in the radical treatment of adult patients with Plasmodium vivax malaria in Ethiopia: a randomised controlled pilot trial\n\nStudy rationale:\n\nElimination has become the goal of malaria programmes in an increasing number of endemic countries and regions. Primaquine (PQ) is the only registered drug for radical cure of Plasmodium vivax malaria. Prolonged PQ-based combination therapy carries safety concerns and resistance to chloroquine (CQ) and",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥18 years\n* Uncomplicated P. vivax monoinfection (asexual parasite count \\>250/µl)\n* Axillary temperature ≥ 37.5°C or history of fever during last 48 hours\n* Ability to tolerate oral drug therapy\n* Written informed consent of patient\n* Permanent residence in the study area",
+            "endpoints": [
+              "Study feasibility"
+            ],
+            "sponsor": "Heidelberg University",
+            "url": "https://clinicaltrials.gov/study/NCT02696928"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01662700",
+            "title": "An Open Label Randomized Comparison of Two Antimalarial Drugs Regimens in Patient With Plasmodium Vivax Malaria in Thailand",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2012-10",
+            "completion_date": "2014-12",
+            "country": "Thailand",
+            "enrollment": 120,
+            "brief_summary": "In Thailand, the proportion of P.vivax infection has now been increasing and is equal to Plasmodium falciparum since 1998. The incidence of P.vivax has recently been reported as 20 per 1000 population per year. Unlike Plasmodium falciparum, P.vivax infection rarely develops into complicated malaria and death is unusual. However, P.vivax has a dormant stage (the hypnozoite) that persists in the human liver and may cause relapse weeks, months, or even years later. Therefore, P.vivax infection is c",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged from 18 years to 65 years old who can come to the study hospital for follow up in case of re-infection\n* Acute uncomplicated malaria with P.vivax infection, confirmed by positive blood smear with asexual forms of P. vivax with parasitaemia \\> 1,000 parasit",
+            "endpoints": [
+              "Parasite Clearance Rate",
+              "Relapse rate of P. vivax"
+            ],
+            "sponsor": "Mahidol University",
+            "url": "https://clinicaltrials.gov/study/NCT01662700"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06923592",
+            "title": "Serological Testing and Treatment for Plasmodium Vivax Malaria: a Cluster-Randomised Trial in Ethiopia and Madagascar",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2025-05-12",
+            "completion_date": "2027-04-28",
+            "country": "Madagascar, Ethiopia",
+            "enrollment": 19200,
+            "brief_summary": "The resilience of P. vivax to malaria elimination efforts is due to its ability to form dormant liver stages (hypnozoites) that reactivate weeks to months after the initial infection causing recurrent episodes of malaria (relapses) and ongoing parasite transmission. Relapses account for a majority of recurrent infections and clinical cases of P. vivax malaria, and therefore have a significant effect on morbidity at the individual level.\n\nWith current technology, it is not possible to directly me",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participant will remain in the study area for at least the next month.\n* Participant is older than 12 months\n\nExclusion Criteria:\n\n• Participant is unwilling to participate.",
+            "endpoints": [
+              "Proportion of individuals with PCR detectable P. vivax blood-stage infections 6 months after the second round of PvSeroTAT or 6 months after the second round of blood sampling in the control clusters."
+            ],
+            "sponsor": "London School of Hygiene and Tropical Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT06923592"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04411836",
+            "title": "Effectiveness of Novel Approaches to Radical Cure With Tafenoquine and Primaquine - a Randomized Controlled Trial in P. Vivax Patients",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2021-04-25",
+            "completion_date": "2024-09-30",
+            "country": "Indonesia, Cambodia, Pakistan, Ethiopia",
+            "enrollment": 960,
+            "brief_summary": "Health care facility based, randomized, controlled, open label, superiority trial with 3 arms",
+            "eligibility_criteria": "Inclusion Criteria\n\n* P. vivax peripheral parasitaemia (mono-infection) as determined by microscopy\n* G6PD normal status (G6PD activity ≥ 70% of the adjusted male median as determined by the Biosensor™ (SD Biosensor, ROK))\n* Fever (temperature ≥37.5⁰C) or history of fever in the preceding 48 hours\n*",
+            "endpoints": [
+              "Incidence risk any P vivax PQ7 / PQ14"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT04411836"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00509015",
+            "title": "Mass-Drug Administration With a Gametocytocidal Drug Combination, a Model for a Transmission Blocking Vaccine",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2008-02",
+            "completion_date": "2008-08",
+            "country": "Tanzania",
+            "enrollment": 6000,
+            "brief_summary": "In the 1950s, the WHO included mass drug administration (MDA) with antimalarial drugs as a tool for malaria control in 'exceptional conditions when conventional control strategies have failed'. Subsequently, MDA has received little attention until the introduction of artemisinin based combination therapy (ACT). The principle aim of MDA is to interrupt malaria transmission by clearing the population of sexual stage parasites, gametocytes, prior to the transmission season. Gametocytes are essentia",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* permanent resident of the research area\n* age \\>1 years\n\nExclusion Criteria:\n\n* severe anemia\n* pregnancy",
+            "endpoints": [
+              "malaria morbidity by active and passive case detection.",
+              "asexual parasite prevalence and density by microscopy, rapid diagnostic test and molecular QT-NASBA",
+              "gametocyte prevalence and density by QT-NASBA and microscopy"
+            ],
+            "sponsor": "Radboud University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT00509015"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02653898",
+            "title": "Defining Effective, Appropriate, Implementable Strategies for Malaria Elimination in Military Forces in Cambodia as a Model for Mobile Populations",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2016-01",
+            "completion_date": "2021-12",
+            "country": "Cambodia",
+            "enrollment": 1050,
+            "brief_summary": "Antimalarial drug resistance has reached critical levels on the Thai-Cambodian border. Many have begun advocating for concerted malaria elimination efforts in Cambodia. However, there is currently no consensus on how malaria elimination is to be achieved with the tools available.\n\nIn this study, the investigators will conduct operational research with the Royal Cambodian Armed Forces (RCAF) and National Malaria Center (CNM) to quantify the relative effectiveness of the two major interventional a",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Military volunteers aged 18-65 years of age plus their dependents \\> 2 years of age, eligible for care at an RCAF facility, or otherwise eligible Cambodian civilians at risk for contracting malaria who live within the designated geographical areas\n2. Able to give informed con",
+            "endpoints": [
+              "The absolute risk reduction based on the proportion of subjects remaining malaria-free at the end of 6 months between the study arms as diagnosed by PCR-corrected malaria microscopy"
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT02653898"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01500980",
+            "title": "Infection-Treatment-Vaccination for Plasmodium Falciparum",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2011-12",
+            "completion_date": "2012-11",
+            "country": "United States",
+            "enrollment": 36,
+            "brief_summary": "The purpose of this study is to determine if sterile, protective immunity to malaria can be induced by malaria parasite exposure limited to the early liver stage of the parasite lifecycle.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and non-pregnant females age 18 to 50 years\n* Good general health status as demonstrated by medical history, physical exam, and screening laboratory test performed within 90 days of enrollment\n* Ability and willingness to provide informed consent\n* No laboratory evidence ",
+            "endpoints": [
+              "Microscopic evaluation of peripheral blood smears",
+              "qRT-PCR",
+              "Number of subjects with adverse events"
+            ],
+            "sponsor": "Seattle Children's Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01500980"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03934450",
+            "title": "Metabolism and Pharmacokinetics of Primaquine Enantiomers in Human Volunteers Receiving a Seven Day Dose Regimen",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2018-08-17",
+            "completion_date": "2019-05-01",
+            "country": "United States",
+            "enrollment": 36,
+            "brief_summary": "To investigate the comparative tolerability, metabolism and pharmacokinetics of individual enantiomers of PQ in healthy human volunteers, receiving study drug over the course of 7 days.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Normal, healthy adults aged 18 to 65 years\n\nExclusion Criteria:\n\n* Known history of liver, kidney or hematological disease\n* Known history of cardiac disease, Non Sinus Rhythm arrhythmia or QT prolongation\n* Autoimmune disorders\n* Report of an active infection\n* Evidence of G6",
+            "endpoints": [
+              "Change in Methemoglobin concentration in blood from baseline"
+            ],
+            "sponsor": "University of Mississippi, Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT03934450"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "35353968",
+            "title": "Primaquine and Plasmodium vivax Malaria Recurrence in Brazil.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "2022",
+            "authors": [
+              "Greenwood Brian",
+              "Drakeley Chris"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Antimalarials",
+              "Brazil",
+              "Humans",
+              "Malaria, Vivax",
+              "Primaquine",
+              "Reinfection"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35353968/"
+          },
+          {
+            "pmid": "28417346",
+            "title": "[Role of primaquine in malaria control and elimination in French-speaking Africa].",
+            "abstract": "Primaquine, an 8-aminoquinoline, is a relatively unknown and underutilized drug in French-speaking African countries. It acts against the liver stage parasites of all human malaria species, asexual blood stages of Plasmodium vivax and, to a lesser degree, Plasmodium falciparum; P. falciparum mature gametocytes, and P. vivax and Plasmodium ovale hypnozoites. Gastrointestinal disturbances are its most common side effects. The clinical utility of primaquine is limited due to its hematological side effects in individuals with glucose-6-phosphate dehydrogenase (G6PD) deficiency and other contraindications (pregnant woman, breastfeeding woman, infants less than 6 months old). In the light of the recent recommendations of the World Health Organization (WHO), we propose to examine how primaquine can be used in French-speaking Africa to improve malaria control and move towards malaria elimination. Two indications supported by the WHO are of relevance in Africa. First, artemisinin-based combinat",
+            "journal": "Bulletin de la Societe de pathologie exotique (1990)",
+            "year": "2017",
+            "authors": [
+              "Briolant S",
+              "Pradines B",
+              "Basco L K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Africa",
+              "Africa, Northern",
+              "Disease Eradication",
+              "Humans",
+              "Infection Control",
+              "Language",
+              "Malaria, Falciparum",
+              "Malaria, Vivax",
+              "Plasmodium falciparum",
+              "Plasmodium vivax"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28417346/"
+          },
+          {
+            "pmid": "22152065",
+            "title": "Primaquine in vivax malaria: an update and review on management issues.",
+            "abstract": "Primaquine was officially licensed as an anti-malarial drug by the FDA in 1952. It has remained the only FDA licensed drug capable of clearing the intra-hepatic schizonts and hypnozoites of Plasmodium vivax. This update and review focuses on five major aspects of primaquine use in treatment of vivax malaria, namely: a) evidence of efficacy of primaquine for its current indications; b) potential hazards of its widespread use, c) critical analysis of reported resistance against primaquine containing regimens; d) evidence for combining primaquine with artemisinins in areas of chloroquine resistance; and e) the potential for replacement of primaquine with newer drugs.",
+            "journal": "Malaria journal",
+            "year": "2011",
+            "authors": [
+              "Fernando Deepika",
+              "Rodrigo Chaturaka",
+              "Rajapakse Senaka"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aminoquinolines",
+              "Antimalarials",
+              "Artemisinins",
+              "Chloroquine",
+              "Clinical Trials as Topic",
+              "Drug Resistance",
+              "Glycogen Storage Disease Type I",
+              "Hemolysis",
+              "Humans",
+              "Malaria, Vivax"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22152065/"
+          },
+          {
+            "pmid": "29672516",
+            "title": "Use of primaquine and glucose-6-phosphate dehydrogenase deficiency testing: Divergent policies and practices in malaria endemic countries.",
+            "abstract": "Primaquine is the only available antimalarial drug that kills dormant liver stages of Plasmodium vivax and Plasmodium ovale malarias and therefore prevents their relapse ('radical cure'). It is also the only generally available antimalarial that rapidly sterilises mature P. falciparum gametocytes. Radical cure requires extended courses of primaquine (usually 14 days; total dose 3.5-7 mg/kg), whereas transmissibility reduction in falciparum malaria requires a single dose (formerly 0.75 mg/kg, now a single low dose [SLD] of 0.25 mg/kg is recommended). The main adverse effect of primaquine is dose-dependent haemolysis in glucose 6-phosphate dehydrogenase (G6PD) deficiency, the most common human enzymopathy. X-linked mutations conferring varying degrees of G6PD deficiency are prevalent throughout malaria-endemic regions. Phenotypic screening tests usually detect <30% of normal G6PD activity, identifying nearly all male hemizygotes and female homozygotes and some heterozygotes. Unfortunatel",
+            "journal": "PLoS neglected tropical diseases",
+            "year": "2018",
+            "authors": [
+              "Recht Judith",
+              "Ashley Elizabeth A",
+              "White Nicholas J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antimalarials",
+              "Chloroquine",
+              "Female",
+              "Glucosephosphate Dehydrogenase Deficiency",
+              "Hemolysis",
+              "Humans",
+              "Malaria",
+              "Male",
+              "Practice Guidelines as Topic",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29672516/"
+          },
+          {
+            "pmid": "25943156",
+            "title": "Origins and implications of neglect of G6PD deficiency and primaquine toxicity in Plasmodium vivax malaria.",
+            "abstract": "Most of the tens of millions of clinical attacks caused by Plasmodium vivax each year likely originate from dormant liver forms called hypnozoites. We do not systematically attack that reservoir because the only drug available, primaquine, is poorly suited to doing so. Primaquine was licenced for anti-relapse therapy in 1952 and became available despite threatening patients having an inborn deficiency of glucose-6-phosphate dehydrogenase (G6PD) with acute haemolytic anaemia. The standard method for screening G6PD deficiency, the fluorescent spot test, has proved impractical where most malaria patients live. The blind administration of daily primaquine is dangerous, but so too are the relapses invited by withholding treatment. Absent G6PD screening, providers must choose between risking harm by the parasite or its treatment. How did this dilemma escape redress in science, clinical medicine and public health? This review offers critical historic reflection on the neglect of this serious ",
+            "journal": "Pathogens and global health",
+            "year": "2015",
+            "authors": [
+              "Baird Kevin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anemia",
+              "Antimalarials",
+              "Chemical and Drug Induced Liver Injury",
+              "Glucosephosphate Dehydrogenase Deficiency",
+              "Humans",
+              "Liver",
+              "Malaria, Vivax",
+              "Primaquine",
+              "Primary Prevention",
+              "Recurrence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25943156/"
+          },
+          {
+            "pmid": "27039396",
+            "title": "Primaquine plus artemisinin combination therapy for reduction of malaria transmission: promise and risk.",
+            "abstract": "Reduction of gametocyte transmission from humans to mosquitoes is a key component of malaria elimination. The study by Gonçalves and colleagues provides valuable new data on how the addition of low-dose primaquine to artemether-lumefantrine affects reduction of gametocytemia and transmission of gametocytes to mosquitoes in asymptomatically Plasmodium falciparum-infected children without G6PD deficiency, and on the degree to which low-dose primaquine affects hemoglobin levels in these children. The study sets the stage for future research required for consideration of an artemisinin combination therapy (ACT)-primaquine regimen in mass drug administration campaigns. Future studies will need to evaluate toxicity in adults and G6PD deficient persons, assess gametocyte transmission from adults, evaluate different ACT drugs with primaquine, and assess the implications of \"rare\" toxicities in large treatment populations, such as hemolysis requiring blood transfusion. The study highlights both",
+            "journal": "BMC medicine",
+            "year": "2016",
+            "authors": [
+              "John Chandy C"
+            ],
+            "pub_types": [
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antimalarials",
+              "Artemisinins",
+              "Child",
+              "Disease Transmission, Infectious",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Malaria, Falciparum",
+              "Plasmodium falciparum",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27039396/"
+          },
+          {
+            "pmid": "24499628",
+            "title": "Blocking malaria transmission to Anopheles mosquitoes using artemisinin derivatives and primaquine: a systematic review and meta-analysis.",
+            "abstract": "Among the currently used drugs in malaria case management, artemisinin derivatives and primaquine have an impact on the transmissible stages of Plasmodium falciparum. Hence, they reduce the transmission of the parasite from the patient to the mosquitoes. The present study aimed to assess evidence for this hypothesis from controlled trials.",
+            "journal": "Parasites & vectors",
+            "year": "2013",
+            "authors": [
+              "Abay Solomon Mequanente"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anopheles",
+              "Antimalarials",
+              "Artemisinins",
+              "Humans",
+              "Malaria, Falciparum",
+              "Plasmodium falciparum",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24499628/"
+          },
+          {
+            "pmid": "40867022",
+            "title": "CYP2D6 Genotype and Primaquine Treatment in Patients with Malaria, Venezuela.",
+            "abstract": "We determined CYP2D6*4 and CYP2D6* genotypes and metabolizer phenotypes in 96 patients with suspected malaria in Venezuela and found intermediate or poor metabolizer phenotypes in ≈25% of cases. Nine of 44 malaria patients had Plasmodium vivax recurrence. Public health authorities should evaluate the benefits of increasing total doses of primaquine for treatment.",
+            "journal": "Emerging infectious diseases",
+            "year": "2025",
+            "authors": [
+              "Pacheco César",
+              "Hernández-Acosta Adán",
+              "Pulido Narviz",
+              "Ceballos Yvanna",
+              "Saavedra Daniel"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Primaquine",
+              "Venezuela",
+              "Cytochrome P-450 CYP2D6",
+              "Genotype",
+              "Antimalarials",
+              "Female",
+              "Male",
+              "Adult",
+              "Malaria, Vivax"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40867022/"
+          },
+          {
+            "pmid": "25363455",
+            "title": "Primaquine: the risks and the benefits.",
+            "abstract": "Primaquine is the only generally available anti-malarial that prevents relapse in vivax and ovale malaria, and the only potent gametocytocide in falciparum malaria. Primaquine becomes increasingly important as malaria-endemic countries move towards elimination, and although it is widely recommended, it is commonly not given to malaria patients because of haemolytic toxicity in subjects who are glucose-6-phosphate dehydrogenase (G6PD) deficient (gene frequency typically 3-30% in malaria endemic areas; >180 different genetic variants). In six decades of primaquine use in approximately 200 million people, 14 deaths have been reported. Confining the estimate to reports with known denominators gives an estimated mortality of one in 621,428 (upper 95% CI: one in 407,807). All but one death followed multiple dosing to prevent vivax malaria relapse. Review of dose-response relationships and clinical trials of primaquine in G6PD deficiency suggests that the currently recommended WHO single low ",
+            "journal": "Malaria journal",
+            "year": "2014",
+            "authors": [
+              "Ashley Elizabeth A",
+              "Recht Judith",
+              "White Nicholas J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antimalarials",
+              "Glucosephosphate Dehydrogenase Deficiency",
+              "Hemolysis",
+              "Humans",
+              "Malaria, Falciparum",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25363455/"
+          },
+          {
+            "pmid": "28279180",
+            "title": "Primaquine-thiazolidinones block malaria transmission and development of the liver exoerythrocytic forms.",
+            "abstract": "Primaquine is an anti-malarial used to prevent Plasmodium vivax relapses and malaria transmission. However, PQ metabolites cause haemolysis in patients deficient in the enzyme glucose-6-phosphate dehydrogenase (G6PD). Fifteen PQ-thiazolidinone derivatives, synthesized through one-post reactions from primaquine, arenealdehydes and mercaptoacetic acid, were evaluated in parallel in several biological assays, including ability to block malaria transmission to mosquitoes.",
+            "journal": "Malaria journal",
+            "year": "2017",
+            "authors": [
+              "Aguiar Anna Caroline C",
+              "Figueiredo Flávio Jr B",
+              "Neuenfeldt Patrícia D",
+              "Katsuragawa Tony H",
+              "Drawanz Bruna B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Line, Tumor",
+              "Chickens",
+              "Chlorocebus aethiops",
+              "Erythrocytes",
+              "Glucosephosphate Dehydrogenase",
+              "Hemolysis",
+              "Hep G2 Cells",
+              "Humans",
+              "Malaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28279180/"
+          },
+          {
+            "pmid": "40813102",
+            "title": "Single low-dose primaquine for malaria control in Africa: a systematic review of safety, efficacy and implementation barriers.",
+            "abstract": "Since 2012, the WHO has recommended a single low dose of primaquine (SLDPQ, 0.25 mg/kg) alongside artemisinin-based combination therapies (ACTs) to block Plasmodium falciparum transmission and combat artemisinin resistance. Despite its proven benefits, SLDPQ adoption in African malaria policies remains limited. We conducted a systematic review of studies published between 2012 and 2023 on the safety, efficacy and implementation of SLDPQ in Africa. Following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, we searched 7 databases and screened 819 records. Eligible studies focused on SLDPQ co-administered with ACTs for treating uncomplicated P. falciparum malaria in African contexts. Data were extracted and analysed from 41 studies, including 15 randomised controlled trials (RCTs) and 26 non-trial studies. SLDPQ was found to be safe and well-tolerated, including in glucose-6-phosphate dehydrogenase deficiency individuals and children under 5. Eight RCTs ",
+            "journal": "BMJ global health",
+            "year": "2025",
+            "authors": [
+              "Ye Tianle",
+              "Caspar Emmanuelle",
+              "Niyomwungere Denis",
+              "Ouedraogo Alphonse",
+              "Thiebaut Lucas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Primaquine",
+              "Humans",
+              "Antimalarials",
+              "Africa",
+              "Malaria, Falciparum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40813102/"
+          },
+          {
+            "pmid": "37562555",
+            "title": "Primaquine and chloroquine nano-sized solid dispersion-loaded dissolving microarray patches for the improved treatment of malaria caused by Plasmodium vivax.",
+            "abstract": "Malaria is a global parasitic infection that leads to substantial illness and death. The most commonly-used drugs for treatment of malaria vivax are primaquine and chloroquine, but they have limitations, such as poor adherence due to frequent oral administration and gastrointestinal side effects. To overcome these limitations, we have developed nano-sized solid dispersion-based dissolving microarray patches (MAPs) for the intradermal delivery of these drugs. In vitro testing showed that these systems can deliver to skin and receiver compartment up to ≈60% of the payload for CQ-based dissolving MAPs and a total of ≈42% of drug loading for PQ-based dissolving MAPs. MAPs also displayed acceptable biocompatibility in cell tests. Pharmacokinetic studies in rats showed that dissolving MAPs could deliver sustained plasma levels of both PQ and CQ for over 7 days. Efficacy studies in a murine model for malaria showed that mice treated with PQ-MAPs and CQ-MAPs had reduced parasitaemia by up to 9",
+            "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+            "year": "2023",
+            "authors": [
+              "Anjani Qonita Kurnia",
+              "Volpe-Zanutto Fabiana",
+              "Hamid Khuriah Abdul",
+              "Sabri Akmal Hidayat Bin",
+              "Moreno-Castellano Natalia"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Rats",
+              "Primaquine",
+              "Chloroquine",
+              "Plasmodium vivax",
+              "Antimalarials",
+              "Malaria, Vivax"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37562555/"
+          },
+          {
+            "pmid": "39558343",
+            "title": "Chloroquine-primaquine therapeutic response and safety in patients with uncomplicated Plasmodium vivax malaria in the Colombian Amazon region.",
+            "abstract": "In Colombia, published studies on the treatment of uncomplicated Plasmodium vivax malaria with chloroquine-primaquine are scarce. The aim of this study was to evaluate the therapeutic response to two treatment regimens at the 28-day follow-up and the occurrence of adverse events in patients with P. vivax malaria.",
+            "journal": "Malaria journal",
+            "year": "2024",
+            "authors": [
+              "Calderón-Ruiz Paula",
+              "Velez-Tobón Gabriel",
+              "Bolívar-Hernández Sebastian",
+              "Murcia-Montaño Luz Mila",
+              "Tobón-Castaño Alberto"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Clinical Trial"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Malaria, Vivax",
+              "Primaquine",
+              "Chloroquine",
+              "Colombia",
+              "Male",
+              "Adult",
+              "Antimalarials",
+              "Female",
+              "Young Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39558343/"
+          },
+          {
+            "pmid": "26880088",
+            "title": "UK malaria treatment guidelines 2016.",
+            "abstract": "1.Malaria is the tropical disease most commonly imported into the UK, with 1300-1800 cases reported each year, and 2-11 deaths. 2. Approximately three quarters of reported malaria cases in the UK are caused by Plasmodium falciparum, which is capable of invading a high proportion of red blood cells and rapidly leading to severe or life-threatening multi-organ disease. 3. Most non-falciparum malaria cases are caused by Plasmodium vivax; a few cases are caused by the other species of plasmodium: Plasmodium ovale, Plasmodium malariae or Plasmodium knowlesi. 4. Mixed infections with more than one species of parasite can occur; they commonly involve P. falciparum with the attendant risks of severe malaria. 5. There are no typical clinical features of malaria; even fever is not invariably present. Malaria in children (and sometimes in adults) may present with misleading symptoms such as gastrointestinal features, sore throat or lower respiratory complaints. 6. A diagnosis of malaria must alwa",
+            "journal": "The Journal of infection",
+            "year": "2016",
+            "authors": [
+              "Lalloo David G",
+              "Shingadia Delane",
+              "Bell David J",
+              "Beeching Nicholas J",
+              "Whitty Christopher J M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antimalarials",
+              "Artemisinins",
+              "Artesunate",
+              "Breast Feeding",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Malaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26880088/"
+          },
+          {
+            "pmid": "34216464",
+            "title": "Relapse of Plasmodium vivax and Plasmodium ovale Malaria With and Without Primaquine Treatment in a Nonendemic Area.",
+            "abstract": "The effect of primaquine in preventing Plasmodium vivax relapses from dormant stages is well established. For Plasmodium ovale, the relapse characteristics and the use of primaquine is not as well studied. We set to evaluate the relapsing properties of these 2 species, in relation to primaquine use among imported malaria cases in a nonendemic setting.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2022",
+            "authors": [
+              "Wångdahl Andreas",
+              "Sondén Klara",
+              "Wyss Katja",
+              "Stenström Christine",
+              "Björklund David"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antimalarials",
+              "Chronic Disease",
+              "Humans",
+              "Malaria",
+              "Malaria, Vivax",
+              "Plasmodium ovale",
+              "Plasmodium vivax",
+              "Primaquine",
+              "Recurrence",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34216464/"
+          },
+          {
+            "pmid": "30379233",
+            "title": "Levels of primaquine and carboxyprimaquine in patients with malaria vivax from the Brazilian Amazon basin.",
+            "abstract": "In the last two years, a substantial increase in the number of malaria vivax cases has occurred in the Brazilian Amazon basin. The adequate exposure of hypnozoites to primaquine is a matter of interest as these dormant forms are responsible for the maintenance or even the increase of malaria burden in endemic areas. The aim of this study was to estimate the levels of primaquine and carboxyprimaquine in whole blood samples of patients with P. vivax treated with chloroquine and an abbreviated regimen of primaquine (0.5 mg/kg/d for 7 days), with adequate clinical and parasitological outcomes after 180 days of follow-up. A total of 40 male patients met the criteria for inclusion in the study. Primaquine and carboxyprimaquine were measured by high-performance liquid chromatography. The levels of primaquine in whole blood samples ranged from 40-238 ng/mL, 42-196 ng/mL and 42-150 ng/mL on days 1, 3 and 7. The levels of carboxyprimaquine in whole blood samples ranged from 87-234 ng/mL, 96-252 ",
+            "journal": "Revista do Instituto de Medicina Tropical de Sao Paulo",
+            "year": "2018",
+            "authors": [
+              "Mello Amanda Gabryelle Nunes Cardoso",
+              "Vieira Michelle Valéria Dias Ferreira",
+              "Sena Luann Wendel Pereira de",
+              "Paixão Thiago Portal da",
+              "Pinto Ana Carla Godinho"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antimalarials",
+              "Brazil",
+              "Chromatography, High Pressure Liquid",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination",
+              "Follow-Up Studies",
+              "Humans",
+              "Malaria, Vivax",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30379233/"
+          },
+          {
+            "pmid": "8443039",
+            "title": "Interactions among primaquine, malaria infection and other antimalarials in Thai subjects.",
+            "abstract": "1. The pharmacokinetics of rac-primaquine (45 mg base) and its principal plasma metabolite, carboxyprimaquine have been investigated in healthy Thai adults prior to and following a single oral dose of mefloquine (10 mg kg-1). 2. Primaquine was rapidly absorbed, attaining peak plasma concentrations (median and range) of 167 (113-532) micrograms l-1 in 2 (1-4) h. Thereafter, concentrations declined rapidly with an apparent terminal half-life of 6.1 (1.7-16.1) h and an oral clearance (CLpo) of 33.1 (17.6-49.3) l h-1. Administration of mefloquine had no effect on the values of any of these parameters at the 5% level of significance [Cmax 229 (114-503) micrograms l-1; tmax 3 (2-4) h; t1/2,z 3.9 (1.7-13.5) h; CLpo 34.0 (21.7-49.0) l h-1]. 3. The carboxylic acid metabolite of primaquine achieved maximum concentrations (median and range) of 890 (553-3634) micrograms l-1 at 6 (3-16) h. Thereafter, plasma concentrations of carboxyprimaquine declined to 346 (99-918) micrograms l-1 at 24 h. AUC (0",
+            "journal": "British journal of clinical pharmacology",
+            "year": "1993",
+            "authors": [
+              "Edwards G",
+              "McGrath C S",
+              "Ward S A",
+              "Supanaranond W",
+              "Pukrittayakamee S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Administration, Oral",
+              "Adult",
+              "Drug Interactions",
+              "Humans",
+              "Malaria, Falciparum",
+              "Male",
+              "Mefloquine",
+              "Primaquine",
+              "Quinine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8443039/"
+          },
+          {
+            "pmid": "28440745",
+            "title": "Primaquine in Plasma and Methemoglobinemia in Patients with Malaria Due to Plasmodium vivax in the Brazilian Amazon Basin.",
+            "abstract": "AbstractPrimaquine is the only licensed drug available for the elimination of Plasmodium vivax hypnozoites. Methemoglobinemia is currently reported in the course of treatment. There is evidence that metabolites of primaquine formed by the cytochrome pathway are responsible for methemoglobin formation; a genetic polymorphism of cytochrome isoforms; and a potential influence of gender in the activities of these enzymes requiring the establishment of dose × response curves profiles in different population groups. Concentrations of primaquine in plasma and methemoglobin levels were investigated in 54 patients with malaria due to P. vivax during the course of the standard regimen of chloroquine with primaquine (0.25 mg/kg/day for 14 days). All study subjects lived in an endemic area of the Brazilian Amazon Basin. The blood samples were collected before initiation of treatment and 3 hours (range 2-4 hours) after the administration of antimalarial drugs on days 2, 7, and 14. Plasma primaquine",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "2017",
+            "authors": [
+              "Vieira José Luiz",
+              "Ferreira Michelle E S",
+              "Ferreira Michelle V D",
+              "Gomes Margarete M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Antimalarials",
+              "Brazil",
+              "Chloroquine",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Malaria, Vivax"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28440745/"
+          },
+          {
+            "pmid": "34905220",
+            "title": "Mechanistic Modeling of Primaquine Pharmacokinetics, Gametocytocidal Activity, and Mosquito Infectivity.",
+            "abstract": "Clinical studies have shown that adding a single 0.25 mg base/kg dose of primaquine to standard antimalarial regimens rapidly sterilizes Plasmodium falciparum gametocytes. However, the mechanism of action and overall impact on malaria transmission is still unknown. Using data from 81 adult Malians with P. falciparum gametocytemia who received the standard dihydroartemisinin-piperaquine treatment course and were randomized to receive either a single dose of primaquine between 0.0625 and 0.5 mg base/kg or placebo, we characterized the pharmacokinetic-pharmacodynamic relationships for transmission blocking activity. Both gametocyte clearance and mosquito infectivity were assessed. A mechanistically linked pharmacokinetic-pharmacodynamic model adequately described primaquine and carboxy-primaquine pharmacokinetics, gametocyte dynamics, and mosquito infectivity at different clinical doses of primaquine. Primaquine showed a dose-dependent gametocytocidal effect that precedes clearance. A sin",
+            "journal": "Clinical pharmacology and therapeutics",
+            "year": "2022",
+            "authors": [
+              "Chotsiri Palang",
+              "Mahamar Almahamoudou",
+              "Hoglund Richard M",
+              "Koita Fanta",
+              "Sanogo Koualy"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antimalarials",
+              "Artemisinins",
+              "Culicidae",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Malaria, Falciparum",
+              "Piperazines",
+              "Plasmodium falciparum",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34905220/"
+          },
+          {
+            "pmid": "15494911",
+            "title": "Primaquine therapy for malaria.",
+            "abstract": "Primaquine is the only available drug for preventing relapse of malaria, and confusion surrounds its use. This review examines the wide range of clinical applications of primaquine described in the medical literature between 1946 and 2004. The risk of relapse of Plasmodium vivax malaria without primaquine therapy ranged from 5% to 80% or more, depending largely upon geographic location. Supervision of therapy profoundly impacts the risk of relapse, and almost all reports of malaria resistant to primaquine are associated with lack of such supervision. We nonetheless suspect that there is widespread resistance to the standard course of primaquine therapy, which is 15 mg primaquine base daily for 14 days. Clinical evidence confirms that a course of 15 mg daily for just 5 days, a regimen widely used in areas where malaria is endemic, has no discernible efficacy. This review supports a recommendation for a regimen of 0.5 mg/kg primaquine daily for 14 days, on the basis of superior efficacy ",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2004",
+            "authors": [
+              "Baird J Kevin",
+              "Hoffman Stephen L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antimalarials",
+              "Drug Resistance",
+              "Humans",
+              "Malaria",
+              "Plasmodium",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15494911/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "malaria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20malaria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pneumocystosis",
+        "txgnn_score": 0.9932457804679872,
+        "txgnn_rank": 1481,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00000717",
+            "title": "The Safety and Efficacy of Clindamycin and Primaquine in the Treatment of Mild - Moderate Pneumocystis Carinii Pneumonia in Patients With AIDS",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "1991-11",
+            "country": "United States",
+            "enrollment": 50,
+            "brief_summary": "To determine the safety and effectiveness of clindamycin and primaquine in the treatment of mild Pneumocystis carinii pneumonia (PCP) in AIDS patients.\n\nAs many as 80 percent of AIDS patients experience at least one episode of PCP and about one-third of these patients have a recurrence of the disease. Drugs currently used for treatment of acute PCP are toxic to the majority of AIDS patients. The combination of clindamycin and primaquine reduces the numbers of PCP organisms in laboratory tests an",
+            "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Oral antiemetics.\n\nPatients must have the following for inclusion:\n\n* HIV positive by ELISA, p24 antigen or culture.\n* Pneumocystis carinii pneumonia (PCP).\n* Patients must have an (A-a) DO2 \\< 40 mmHg on room air.\n* Willingness to sign an info",
+            "endpoints": [],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00000717"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00636935",
+            "title": "Oral Corticosteroids Therapy and Interstitial Fibrosis in Patients With Pneumocystis Jirovecii Pneumonia (PCP) and pO2 of >70 at Presentation.",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2008-02",
+            "completion_date": "2013-08",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "To explore the effects of corticosteroid therapy on pulmonary fibrosis and potentially pneumothorax in patients with mild PCP (pO2 \\>70mmHg) combined with the standard of care treatment of antibiotic therapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV Infection,\n* Hospital admission for suspected PCP,\n* Confirmatory test for PCP (bronchoscopy with bronchoalveolar lavage), pO2\\>70 mmHg or pO2\\<70 mmHg while breathing room air,\n* 18 years or older\n\nExclusion Criteria:\n\n* Contraindications to corticosteroid therapy,\n* Unab",
+            "endpoints": [
+              "Changes in pulmonary function testing and DLCO measurements in patients with PCP and pO2 > 70 mmHg."
+            ],
+            "sponsor": "George Washington University",
+            "url": "https://clinicaltrials.gov/study/NCT00636935"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06691321",
+            "title": "Efficacy of Caspofungin for Pneumocystis Jirovecii Pneumonia in People Living With HIV/AIDS.",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2023-08-01",
+            "completion_date": "2025-09-01",
+            "country": "Mexico",
+            "enrollment": 60,
+            "brief_summary": "Pneumocystis jirovecii pneumonia is a significant concern in peaple with HIV/AIDS, often severe and potentially fatal. While trimethoprim/sulfamethoxazole remains the primary treatment, safety concerns exist with alternative options. Research on Pneumocystis jirovecii's beta-D glucan composition has prompted investigations into echinocandins like caspofungin, showing promise in murine models and some positive results in human studies. Evaluating caspofungin's efficacy through observational studi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of probable or proven PCP, according to its diagnostic classification (refer to classification at the end of this section).\n* Have clinical laboratory and virological diagnostic laboratory studies at the time of admission.\n\n  * Classification criteria for Pneumonia b",
+            "endpoints": [
+              "Mortality by group at a 30-day follow up."
+            ],
+            "sponsor": "Instituto Nacional de Enfermedades Respiratorias",
+            "url": "https://clinicaltrials.gov/study/NCT06691321"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04328688",
+            "title": "Clindamycin - Trimethoprim/Sulfamethoxazole for Pneumocystis Jiroveci Pneumonia After Solid Organ Transplantation Population (CTSTOP)",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2017-09-01",
+            "completion_date": "2019-09-30",
+            "country": "China",
+            "enrollment": 30,
+            "brief_summary": "PCP is one of the common opportunistic infections in patients with HIV and non-HIV-associated immunodeficiency.With the increasing number of solid organ transplantation, how to effectively treat severe PCP after solid organ transplantation has become an urgent problem to be solved.In general, Atovaquone, Dapsone, and Clindamycin-primaquine can be used as second-line alternatives when TMP-SMX fails to treat HIV-PCP. Therefore, the objective of this study is to preliminarily investigate the safety",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* PJP after solid organ transplantation.\n\nExclusion Criteria:\n\n* renal failure,heart failure,tumor recurrence",
+            "endpoints": [
+              "oxygenation index",
+              "length of ICU stay"
+            ],
+            "sponsor": "Shanghai Zhongshan Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04328688"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07357103",
+            "title": "Positioning Second-line Therapies for Pneumocystis Jirovecii Pneumonia (PCP Alternatives) [A Branch of the Initial Treatment Domain of the SPIRIT-PCP Platform]",
+            "phase": "PHASE4",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-03",
+            "completion_date": "2029-09",
+            "country": "N/A",
+            "enrollment": 416,
+            "brief_summary": "The usual first treatment for Pneumocystis jirovecii pneumonia (PCP) is an antibiotic called trimethoprim-sulfamethoxazole (TMP-SMX). However, some patients cannot take this medication because of allergies, side effects, or lack of response.\n\nThis study asks the question:\n\nWhen TMP-SMX cannot be used, which alternative treatment for PCP provides the best balance of effectiveness and safety?",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Immunocompromised patients (including but not limited to HIV, solid organ transplant, solid tumors, hematological transplant and malignancies, systemic diseases, chemotherapy, long term corticosteroid use, and immunosuppressive therapies, as well as primary immunodeficiencies)",
+            "endpoints": [
+              "Hierarchical composite outcome"
+            ],
+            "sponsor": "McGill University Health Centre/Research Institute of the McGill University Health Centre",
+            "url": "https://clinicaltrials.gov/study/NCT07357103"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00000640",
+            "title": "A Phase III Comparative Study of Dapsone / Trimethoprim and Clindamycin / Primaquine Versus Trimethoprim / Sulfamethoxazole in the Treatment of Mild-to-Moderate PCP in Patients With AIDS",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "",
+            "completion_date": "1994-09",
+            "country": "United States",
+            "enrollment": 290,
+            "brief_summary": "To evaluate the effectiveness of two oral treatments for mild to moderate Pneumocystis carinii pneumonia (PCP): dapsone/trimethoprim or clindamycin/primaquine as compared to a standard treatment program of sulfamethoxazole/trimethoprim (SMX/TMP) to assess the tolerance of these two alternative treatments as compared to the standard treatment of SMX/TMP. Per 09/09/92 amendment, to assess the efficacy and tolerance of these two alternative treatments in patients who are intolerant to SMX/TMP.\n\nThe",
+            "eligibility_criteria": "Inclusion Criteria\n\nConcurrent Medication:\n\nAllowed:\n\n* Erythropoietin.\n* Maintenance treatment with investigational triazoles (e.g., itraconazole).\n* Antiemetics for nausea/vomiting, antihistamines for rash/pruritus, antipyretics for systemic symptoms (fever, headache, etc.) should be used for trea",
+            "endpoints": [],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00000640"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "33870843",
+            "title": "Pneumocystis jirovecii: a review with a focus on prevention and treatment.",
+            "abstract": "Introduction: Pneumocystis jirovecii (PJ) is an opportunistic fungal pathogen that can cause severe pneumonia in immunocompromised hosts. Risk factors for Pneumocystis jirovecii pneumonia (PJP) include HIV, organ transplant, malignancy, certain inflammatory or rheumatologic conditions, and associated therapies and conditions that result in cell-mediated immune deficiency. Clinical signs of PJP are nonspecific and definitive diagnosis requires direct detection of the organism in lower respiratory secretions or tissue. First-line therapy for prophylaxis and treatment remains trimethoprim-sulfamethoxazole (TMP-SMX), though intolerance or allergy, and rarely treatment failure, may necessitate alternate therapeutics, such as dapsone, pentamidine, atovaquone, clindamycin, primaquine and most recently, echinocandins as adjunctive therapy. In people living with HIV (PLWH), adjunctive corticosteroid use in treatment has shown a mortality benefit.Areas covered: This review article covers the epi",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2021",
+            "authors": [
+              "Weyant R Benson",
+              "Kabbani Dima",
+              "Doucette Karen",
+              "Lau Cecilia",
+              "Cervera Carlos"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pentamidine",
+              "Pneumocystis carinii",
+              "Pneumonia, Pneumocystis",
+              "Retrospective Studies",
+              "Trimethoprim, Sulfamethoxazole Drug Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33870843/"
+          },
+          {
+            "pmid": "27550993",
+            "title": "ECIL guidelines for treatment of Pneumocystis jirovecii pneumonia in non-HIV-infected haematology patients.",
+            "abstract": "The initiation of systemic antimicrobial treatment of Pneumocystis jirovecii pneumonia (PCP) is triggered by clinical signs and symptoms, typical radiological and occasionally laboratory findings in patients at risk of this infection. Diagnostic proof by bronchoalveolar lavage should not delay the start of treatment. Most patients with haematological malignancies present with a severe PCP; therefore, antimicrobial therapy should be started intravenously. High-dose trimethoprim/sulfamethoxazole is the treatment of choice. In patients with documented intolerance to this regimen, the preferred alternative is the combination of primaquine plus clindamycin. Treatment success should be first evaluated after 1 week, and in case of clinical non-response, pulmonary CT scan and bronchoalveolar lavage should be repeated to look for secondary or co-infections. Treatment duration typically is 3 weeks and secondary anti-PCP prophylaxis is indicated in all patients thereafter. In patients with critic",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "2016",
+            "authors": [
+              "Maschmeyer Georg",
+              "Helweg-Larsen Jannik",
+              "Pagano Livio",
+              "Robin Christine",
+              "Cordonnier Catherine"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline"
+            ],
+            "mesh_terms": [
+              "Administration, Intravenous",
+              "Antifungal Agents",
+              "Clindamycin",
+              "Hematologic Neoplasms",
+              "Humans",
+              "Pneumocystis carinii",
+              "Pneumonia, Pneumocystis",
+              "Primaquine",
+              "Trimethoprim, Sulfamethoxazole Drug Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27550993/"
+          },
+          {
+            "pmid": "36969352",
+            "title": "Pneumocystis jiroveci Pneumonia: A Review of Management in Human Immunodeficiency Virus (HIV) and Non-HIV Immunocompromised Patients.",
+            "abstract": "Pneumocystis jirovecii pneumonia is an opportunistic fungal infection that was mainly associated with pneumonia in patients with advanced human immunodeficiency virus (HIV) disease. There has been a decline in Pneumocystis jirovecii pneumonia incidence in HIV since the introduction of antiretroviral medications. However, its incidence is increasing in non-HIV immunocompromised patients including those with solid organ transplantation, hematopoietic stem cell transplantation, solid organ tumors, autoimmune deficiencies, and primary immunodeficiency disorders. We aim to review and summarize the etiology, epidemiology, clinical presentation, diagnosis, and management of Pneumocystis jirovecii pneumonia in HIV, and non-HIV patients. HIV patients usually have mild-to-severe symptoms, while non-HIV patients present with a rapidly progressing disease. Induced sputum or bronchoalveolar lavage fluid can be used to make a definitive diagnosis of Pneumocystis jirovecii pneumonia. Trimethoprim-sul",
+            "journal": "Avicenna journal of medicine",
+            "year": "2023",
+            "authors": [
+              "Ibrahim Atif",
+              "Chattaraj Asmi",
+              "Iqbal Qamar",
+              "Anjum Ali",
+              "Rehman Mohammad Ebad Ur"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36969352/"
+          },
+          {
+            "pmid": "18971152",
+            "title": "Pneumocystis pneumonia.",
+            "abstract": "Pneumocystis pneumonia (PcP) in humans is caused by Pneumocystis jirovecii, which has recently been reclassified as a fungus because its cell wall composition and nucleotide sequences are more similar to those of fungi. PcP occurs only in immunocompromised individuals such as those with AIDS. Despite the use of highly active antiretroviral therapy, PcP remains the leading opportunistic infection in AIDS patients. Based on nucleotide sequence variations in the internal transcribed spacer region of rRNA genes, more than 60 different types of P. jirovecii have been identified. Although type differences do not appear to correlate with the clinical characteristics of PcP, nucleotide sequence variations of the organism have been useful in epidemiologic studies. As a result, some recurrent infections are found to be due to re-infection with new types, and outbreaks due to the same types of P. jirovecii have been identified. Initial diagnosis of PcP is usually based on symptoms and chest radio",
+            "journal": "Journal of the Formosan Medical Association = Taiwan yi zhi",
+            "year": "2008",
+            "authors": [
+              "Lu Jang-Jih",
+              "Lee Chao-Hung"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18971152/"
+          },
+          {
+            "pmid": "39732393",
+            "title": "Comparative efficacy and safety of treatment regimens for Pneumocystis jirovecii pneumonia in people living with HIV: a systematic review and network meta-analysis of randomized controlled trials.",
+            "abstract": "Pneumocystis jirovecii pneumonia (PCP) is a serious opportunistic infection in people living with HIV (PWH) who have low CD4 counts. Despite its side effects, trimethoprim-sulfamethoxazole (TMP-SMX) is currently considered the primary treatment for PCP.",
+            "journal": "Clinical microbiology and infection : the official publication of the European Society of Clinical Microbiology and Infectious Diseases",
+            "year": "2025",
+            "authors": [
+              "Hatzl Stefan",
+              "Posch Florian",
+              "Scholz Laura",
+              "Geiger Christina",
+              "Kriegl Lisa"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review",
+              "Comparative Study",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pneumonia, Pneumocystis",
+              "Randomized Controlled Trials as Topic",
+              "Pneumocystis carinii",
+              "HIV Infections",
+              "Trimethoprim, Sulfamethoxazole Drug Combination",
+              "Treatment Outcome",
+              "AIDS-Related Opportunistic Infections",
+              "Anti-Bacterial Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39732393/"
+          },
+          {
+            "pmid": "24913163",
+            "title": "Scalable preparation and differential pharmacologic and toxicologic profiles of primaquine enantiomers.",
+            "abstract": "Hematotoxicity in individuals genetically deficient in glucose-6-phosphate dehydrogenase (G6PD) activity is the major limitation of primaquine (PQ), the only antimalarial drug in clinical use for treatment of relapsing Plasmodium vivax malaria. PQ is currently clinically used in its racemic form. A scalable procedure was developed to resolve racemic PQ, thus providing pure enantiomers for the first time for detailed preclinical evaluation and potentially for clinical use. These enantiomers were compared for antiparasitic activity using several mouse models and also for general and hematological toxicities in mice and dogs. (+)-(S)-PQ showed better suppressive and causal prophylactic activity than (-)-(R)-PQ in mice infected with Plasmodium berghei. Similarly, (+)-(S)-PQ was a more potent suppressive agent than (-)-(R)-PQ in a mouse model of Pneumocystis carinii pneumonia. However, at higher doses, (+)-(S)-PQ also showed more systemic toxicity for mice. In beagle dogs, (+)-(S)-PQ caused",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2014",
+            "authors": [
+              "Nanayakkara N P Dhammika",
+              "Tekwani Babu L",
+              "Herath H M T Bandara",
+              "Sahu Rajnish",
+              "Gettayacamin Montip"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antimalarials",
+              "Dogs",
+              "Erythrocyte Transfusion",
+              "Erythrocytes",
+              "Female",
+              "Glucosephosphate Dehydrogenase Deficiency",
+              "Hemolysis",
+              "Humans",
+              "Lethal Dose 50"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24913163/"
+          },
+          {
+            "pmid": "8503615",
+            "title": "[Clindamycin and primaquine in the treatment of pulmonary pneumocystosis in a HIV-positive female patient].",
+            "abstract": "",
+            "journal": "Annales de medecine interne",
+            "year": "1993",
+            "authors": [
+              "Zouiten F",
+              "Bouslama K",
+              "Gastli M",
+              "Tiouiri H",
+              "Battikh R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Acquired Immunodeficiency Syndrome",
+              "Adult",
+              "Clindamycin",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Pneumonia, Pneumocystis",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8503615/"
+          },
+          {
+            "pmid": "19879509",
+            "title": "Pneumocystis pneumonia in children.",
+            "abstract": "Pneumocystis pneumonia (PCP) is a life-threatening infection in immunocompromised children with quantitative and qualitative defects in T lymphocytes. At risk are children with lymphoid malignancies, HIV infection, corticosteroid therapy, transplantation and primary immunodeficiency states. Diagnosis is established through direct examination or polymerase chain reaction (PCR) from respiratory secretions. Trimethoprim-sulphamethoxazole is used for initial therapy in most patients, while pentamidine, atovaquone, clindamycin plus primaquine, and dapsone plus trimethoprim are alternatives. Prophylaxis of high-risk patients reduces but does not eliminate the risk of PCP. Improved understanding of the pathogenesis of PCP is important for future advances against this life-threatening infection.",
+            "journal": "Paediatric respiratory reviews",
+            "year": "2009",
+            "authors": [
+              "Pyrgos Vasilios",
+              "Shoham Shmuel",
+              "Roilides Emmanuel",
+              "Walsh Thomas J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Infective Agents",
+              "Child",
+              "Humans",
+              "Immunocompromised Host",
+              "Pneumonia, Pneumocystis",
+              "Treatment Outcome",
+              "Trimethoprim, Sulfamethoxazole Drug Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19879509/"
+          },
+          {
+            "pmid": "2060532",
+            "title": "Clindamycin and primaquine as primary treatment for mild and moderately severe Pneumocystis carinii pneumonia in patients with AIDS.",
+            "abstract": "The combination of clindamycin and primaquine was investigated as primary treatment for mild or moderately severe Pneumocystis carinii pneumonia (alveolar-arterial oxygen gradient less than 40 torr) in 36 AIDS patients. All patients were treated with primaquine 30 mg (base) orally for 21 days. The first 22 patients were treated with clindamycin 900 mg i.v. q8h for the first 10 days, followed by clindamycin 450 mg q6h orally for 11 days. Twenty of these 22 patients (91%) showed a marked clinical response by day 7. Four patients were later withdrawn from the study due to toxicity. An additional 14 patients were treated with an entirely oral regimen of clindamycin and primaquine. Thirteen of the 14 patients (93%) showed a marked therapeutic response and 12 (86%) successfully completed treatment. The combination of clindamycin and primaquine appears to be an effective and well-tolerated treatment for mild to moderately severe Pneumocystis carinii pneumonia in AIDS patients.",
+            "journal": "European journal of clinical microbiology & infectious diseases : official publication of the European Society of Clinical Microbiology",
+            "year": "1991",
+            "authors": [
+              "Black J R",
+              "Feinberg J",
+              "Murphy R L",
+              "Fass R J",
+              "Carey J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Administration, Oral",
+              "Clindamycin",
+              "Humans",
+              "Injections, Intravenous",
+              "Pilot Projects",
+              "Pneumonia, Pneumocystis",
+              "Primaquine",
+              "Remission Induction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2060532/"
+          },
+          {
+            "pmid": "3261959",
+            "title": "Activity of clindamycin with primaquine against Pneumocystis carinii in vitro and in vivo.",
+            "abstract": "The combination of primaquine with clindamycin is effective in both in vitro and in vivo models of Pneumocystis infection. Primaquine alone at concentrations from 10 to 300 micrograms/ml reduced the numbers of organisms in cultures to less than 7% of control. Significant inhibition was observed down to 0.1 microgram/ml. Clindamycin at 5 micrograms/ml was ineffective alone. Combinations of clindamycin and primaquine in culture at various concentrations were effective, but there was no evidence of true synergy. In rats with established Pneumocystis pneumonia, clindamycin alone at 5 or 225 mg/kg was ineffective. Primaquine alone at 0.5 or 2 mg/kg did not significantly affect the numbers of organisms remaining. The combination of 0.5 mg of primaquine per kg and 225 mg of clindamycin per kg was effective for therapy, lowering the numbers of organisms in the lungs by about 90%. The combination of 2 mg of primaquine per kg and 225 mg of clindamycin per kg was more effective, lowering the numb",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1988",
+            "authors": [
+              "Queener S F",
+              "Bartlett M S",
+              "Richardson J D",
+              "Durkin M M",
+              "Jay M A"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cells, Cultured",
+              "Clindamycin",
+              "Female",
+              "Pneumocystis",
+              "Pneumonia, Pneumocystis",
+              "Primaquine",
+              "Rats",
+              "Rats, Inbred Strains"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3261959/"
+          },
+          {
+            "pmid": "18930565",
+            "title": "Primaquine revisited six decades after its discovery.",
+            "abstract": "Primaquine was firstly synthesized in 1946 in the USA, and is the most representative member of the anti-malarial 8-aminoquinolines. Six decades have passed and primaquine is still the only transmission-blocking anti-malarial clinically available, displaying a marked activity against gametocytes of all species of human malaria, including multi-resistant Plasmodium falciparum strains. Primaquine is also effective against all exoerythrocytic forms of the parasite and is used in conjunction with other anti-malarials for the treatment of vivax and ovale malaria. However, primaquine is often associated with serious adverse effects, in consequence of its toxic metabolites. 5-Hydroxyprimaquine or 6-methoxy-8-aminoquinoline has been considered to be directly responsible for complications such as hemolytic anemia. Primaquine toxicity is aggravated in people deficient of 6-glucose phosphate dehydrogenase or glutathione synthetase. Adverse effects are further amplified by the fact that primaquine",
+            "journal": "European journal of medicinal chemistry",
+            "year": "2009",
+            "authors": [
+              "Vale Nuno",
+              "Moreira Rui",
+              "Gomes Paula"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antimalarials",
+              "Humans",
+              "Plasmodium falciparum",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18930565/"
+          },
+          {
+            "pmid": "2321069",
+            "title": "Clindamycin/primaquine therapy and secondary prophylaxis against Pneumocystis carinii pneumonia in patients with AIDS.",
+            "abstract": "We found a program of intravenous and subsequent oral clindamycin, combined with oral primaquine, to be effective for Pneumocystis carinii pneumonia in nine patients with AIDS. The pneumonias were either primary or recurrent and sometimes severe, with cavity formation and/or pneumothorax. Maintenance therapy at lowered dose by mouth was effective in preventing recurrence in seven patients. One patient died of other opportunistic infections on day 24, and therapy was discontinued in another on day 11 because of skin rash. We conclude that clindamycin/primaquine is effective for therapy of P carinii pneumonia in patients with AIDS, as well as for long-term secondary prophylaxis at lowered dosage.",
+            "journal": "Southern medical journal",
+            "year": "1990",
+            "authors": [
+              "Kay R",
+              "DuBois R E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Administration, Oral",
+              "Adult",
+              "Clindamycin",
+              "Drug Administration Schedule",
+              "Drug Evaluation",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Infusions, Intravenous",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2321069/"
+          },
+          {
+            "pmid": "8086551",
+            "title": "Clindamycin and primaquine therapy for mild-to-moderate episodes of Pneumocystis carinii pneumonia in patients with AIDS: AIDS Clinical Trials Group 044.",
+            "abstract": "The objective of this prospective, noncomparative study was to assess the safety and efficacy of clindamycin and primaquine therapy for mild-to-moderate pneumocystis pneumonia (defined as a difference of < 40 mm Hg between the alveolar and the arterial oxygen determinations) in patients with AIDS. In the first part of the study, 22 patients were treated with iv clindamycin (900 mg every 8 hours) for the first 10 days, and then their therapy was switched to oral clindamycin (450 mg every 6 hours) for an additional 11 days. In the second part of the study, 38 patients were treated entirely with oral clindamycin (600 mg every 8 hours). All patients were treated with oral primaquine base (30 mg once daily). Fifty-five (92%) of 60 patients responded to the study treatment. Forty-six (77%) of 60 patients completed a full course of therapy. Of the nine patients with treatment-limiting toxic effects, four had only a mild rash. This study indicates that the combination of clindamycin and primaq",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "1994",
+            "authors": [
+              "Black J R",
+              "Feinberg J",
+              "Murphy R L",
+              "Fass R J",
+              "Finkelstein D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Acquired Immunodeficiency Syndrome",
+              "Administration, Oral",
+              "Adolescent",
+              "Adult",
+              "Clindamycin",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8086551/"
+          },
+          {
+            "pmid": "8061837",
+            "title": "Simultaneous determination of primaquine and carboxyprimaquine in plasma using high-performance liquid chromatography with electrochemical detection.",
+            "abstract": "A selective and sensitive high-performance liquid chromatographic method with electrochemical detection is described for the simultaneous quantitation of primaquine and carboxyprimaquine, its primary metabolite, in plasma. After addition of internal standard, plasma was deproteinized by addition of acetonitrile. Nitrogen-dried supernatants, resuspended in mobile phase were analyzed on a C8 reversed-phase column. Limits of detection for primaquine and carboxyprimaquine were 2 and 5 ng/ml with quantitation limits of 5 and 20 ng/ml, respectively. None of 47 tested antimicrobial agents interfered. In contrast to previously reported methods, the assay sensitivity and specificity are sufficient to permit quantitation of primaquine in plasma for pharmacokinetics following low dose (30 mg, base) oral administration of primaquine, typically used in the treatment of malaria and Pneumocystis carinii pneumonia.",
+            "journal": "Journal of chromatography. B, Biomedical applications",
+            "year": "1994",
+            "authors": [
+              "Dean R A",
+              "Ochieng W",
+              "Black J",
+              "Queener S F",
+              "Bartlett M S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Chromatography, High Pressure Liquid",
+              "Drug Combinations",
+              "Electrochemistry",
+              "Humans",
+              "Indicators and Reagents",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8061837/"
+          },
+          {
+            "pmid": "2121456",
+            "title": "Therapy and prophylaxis of systemic protozoan infections.",
+            "abstract": "This article summarises current therapy and prophylaxis for Pneumocystis carinii, Toxoplasma gondii, Leishmania species, African trypanosomes (Trypanosoma brucei gambiense and T. b. rhodesiense), and American trypanosome (Trypanosoma cruzi) infections. Each agent and the disease it causes is briefly reviewed, and current data on the structure, mode of action, indications for treatment, dosage, administration, duration of therapy, efficacy, toxicity, and necessary monitoring during therapy are discussed for each drug. Drugs considered include cotrimoxazole (trimethoprim + sulfamethoxazole), pentamidine, dapsone (diaphenylsulfone), trimetrexate, eflornithine (DFMO), and primaquine/clindamycin and pyrimethamine/sulphonamide combinations for Pneumocystis pneumonia; pyrimethamine/sulfadiazine, spiramycin, and clindamycin for toxoplasmosis; pentavalent antimonials ('Pentostam' and 'Glucantime'), pentamidine, amphotericin B, allopurinol, ketoconazole, and itraconazole for leishmaniasis; suram",
+            "journal": "Drugs",
+            "year": "1990",
+            "authors": [
+              "Van Voorhis W C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Chagas Disease",
+              "Humans",
+              "Leishmaniasis",
+              "Pneumonia, Pneumocystis",
+              "Protozoan Infections",
+              "Toxoplasmosis",
+              "Trypanosomiasis, African"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2121456/"
+          },
+          {
+            "pmid": "11582865",
+            "title": "[Primaquine].",
+            "abstract": "",
+            "journal": "Medecine tropicale : revue du Corps de sante colonial",
+            "year": "2001",
+            "authors": [
+              "Nicolas X",
+              "Bohand X",
+              "Rapp C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Contraindications",
+              "Humans",
+              "Malaria",
+              "Pneumonia, Pneumocystis",
+              "Primaquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11582865/"
+          },
+          {
+            "pmid": "8879855",
+            "title": "Trimethoprim-sulfamethoxazole and hypouricemia.",
+            "abstract": "Hypouricemia has been reported in a substantial fraction of patients with AIDS and attributed to an HIV-related renal urate transport defect. We tested the alternative hypothesis that hypouricemia was associated with the administration of high-dose trimethoprim-sulfamethoxazole (TMP-SMX).",
+            "journal": "Clinical nephrology",
+            "year": "1996",
+            "authors": [
+              "Chertow G M",
+              "Seifter J L",
+              "Christiansen C L",
+              "O'Donnell W J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Adult",
+              "Anti-Infective Agents",
+              "Case-Control Studies",
+              "Cohort Studies",
+              "Female",
+              "Hodgkin Disease",
+              "Humans",
+              "Male",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8879855/"
+          },
+          {
+            "pmid": "9770152",
+            "title": "Clindamycin with primaquine vs. Trimethoprim-sulfamethoxazole therapy for mild and moderately severe Pneumocystis carinii pneumonia in patients with AIDS: a multicenter, double-blind, randomized trial (CTN 004). CTN-PCP Study Group.",
+            "abstract": "This double-blind, randomized, multicenter trial compared clindamycin/primaquine (Cm/Prq) with trimethoprim-sulfamethoxazole (TMP-SMZ) as therapy for AIDS-related Pneumocystis carinii pneumonia (PCP). Forty-five patients received clindamycin (450 mg four times daily [q.i.d.]) and primaquine (15 mg of base/d); 42 received TMP-SMZ (320 mg/1,600 mg q.i.d. if weight of > or = 60 kg or 240 mg/1,200 mg q.i.d. if weight of < 60 kg) plus placebo primaquine. Overall, the efficacy of Cm/Prq was similar to that of TMP-SMZ (success rate, 76% vs. 79%, respectively); Cm/Prq was associated with fewer adverse events (P = .04), less steroid use (P = .18), and more rashes (P = .07). These differences were even greater for patients with PaO2 of > 70 mm Hg (P = .02, P = .04, and P = .02, respectively). For patients with PaO2 of < or = 70 mm Hg (23 Cm/Prq recipients and 21 TMP-SMZ recipients), the efficacy of Cm/Prq was similar to that of TMP-SMZ (success rate, 74% vs. 76%, respectively); Cm/Prq was associ",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "1998",
+            "authors": [
+              "Toma E",
+              "Thorne A",
+              "Singer J",
+              "Raboud J",
+              "Lemieux C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Adult",
+              "Anti-Infective Agents",
+              "Clindamycin",
+              "Double-Blind Method",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Male",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9770152/"
+          },
+          {
+            "pmid": "36160421",
+            "title": "The medication for pneumocystis pneumonia with glucose-6-phosphate dehydrogenase deficiency patients.",
+            "abstract": "Pneumocystis pneumonia (PCP) is an opportunity acquired infection, which is usually easy to occur in patients with AIDS, organ transplantation, and immunosuppressive drugs. The prevention and treatment must be necessary for PCP patients with immunocompromise. And the oxidants are currently a typical regimen, including sulfanilamide, dapsone, primaquine, etc. Glucose-6-phosphate dehydrogenase (G6PD) deficiency is an X-linked gene-disease that affects about 400 million people worldwide. The lack of G6PD in this population results in a decrease in intracellular glutathione synthesis and a weakening of the detoxification ability of the oxidants. As a result, oxidants can directly damage haemoglobin in red blood cells, inducing methemoglobin and hemolysis. When patients with G6PD deficiency have low immunity, they are prone to PCP infection, so choosing drugs that do not induce hemolysis is essential. There are no clear guidelines to recommend the drug choice of this kind of population at h",
+            "journal": "Frontiers in pharmacology",
+            "year": "2022",
+            "authors": [
+              "Zhang Ziyu",
+              "Li Qinhui",
+              "Shen Xiaoyan",
+              "Liao Lankai",
+              "Wang Xia"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36160421/"
+          },
+          {
+            "pmid": "2035974",
+            "title": "Prevention and treatment of Pneumocystis carinii pneumonia.",
+            "abstract": "Several drugs are now available for the treatment and prevention of Pneumocystis carinii pneumonia. These include trimethoprim-sulfamethoxazole and pentamidine isethionate as first-line drugs and dapsone-trimethoprim, trimetrexate, piritrexim, fansidar, difluoromethylornithine, and clindamycin plus primaquine as drugs in later stages of clinical development. A hydroxynaphthoquinone, called 566C80, offers promise in preclinical studies. The use of corticosteroids in the supportive management of P. carinii pneumonitis is undergoing clinical study.",
+            "journal": "Annual review of medicine",
+            "year": "1991",
+            "authors": [
+              "Hughes W T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pneumonia, Pneumocystis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2035974/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "pneumocystosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20pneumocystosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "tinea corporis",
+        "txgnn_score": 0.9874918460845948,
+        "txgnn_rank": 2468,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9809726",
+            "title": "Drug overdoses with antimalarial agents: prescribing and dispensing errors.",
+            "abstract": "",
+            "journal": "JAMA",
+            "year": "1998",
+            "authors": [
+              "Lobel H O",
+              "Coyne P E",
+              "Rosenthal P J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Antifungal Agents",
+              "Antimalarials",
+              "Drug Overdose",
+              "Female",
+              "Humans",
+              "Malaria, Vivax",
+              "Male",
+              "Medication Errors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9809726/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "tinea corporis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20tinea%20corporis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blastomycosis",
+        "txgnn_score": 0.9836492538452148,
+        "txgnn_rank": 3109,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Primaquine",
+          "disease": "blastomycosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Primaquine%20blastomycosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Primaquine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01087",
+    "name": "Primaquine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Primaquine"
+      },
+      "queried_at": "2026-03-24T16:24:25.676751",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Primaquine"
+      },
+      "queried_at": "2026-03-24T16:24:25.679882",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Primaquine"
+      },
+      "queried_at": "2026-03-24T16:24:29.830842",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:30.301138",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:33.803886",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:34.870095",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:35.871122",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:36.352664",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:39.653517",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:40.277444",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:41.128096",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:41.583756",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:49.056743",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:49.705552",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:50.583311",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:52.354362",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:55.855033",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:56.505229",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T16:24:57.426915",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T16:24:57.857597",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T16:25:01.355037",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T16:25:01.415972",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T16:25:02.271314",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-24T16:25:02.704359",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-24T16:25:06.177772",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-24T16:25:06.669611",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "nocardiosis"
+      },
+      "queried_at": "2026-03-24T16:25:07.927475",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T16:25:10.427622",
+      "status": "success",
+      "result_count": 50,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T16:25:14.054794",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T16:25:14.571183",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T16:25:18.415075",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-24T16:25:18.956410",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-24T16:25:22.104108",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-24T16:25:22.805224",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "pneumocystosis"
+      },
+      "queried_at": "2026-03-24T16:25:25.766199",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T16:25:26.281316",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T16:25:29.456049",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T16:25:30.156249",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T16:25:32.308393",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T16:25:32.758797",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T16:25:36.456107",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T16:25:37.105309",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Primaquine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T16:25:37.977382",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:25:37.979108"
+  }
+}

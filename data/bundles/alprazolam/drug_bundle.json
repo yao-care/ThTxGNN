@@ -1,0 +1,2903 @@
+{
+  "drug": {
+    "inn": "Alprazolam",
+    "drugbank_id": "DB00404",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "insomnia (disease)",
+        "txgnn_score": 0.9980814456939696,
+        "txgnn_rank": 562,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01893632",
+            "title": "Gabapentin Treatment of Benzodiazepine Dependence",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2013-07",
+            "completion_date": "2016-04-01",
+            "country": "United States",
+            "enrollment": 2,
+            "brief_summary": "Benzodiazepine dependence is a growing public health problem for which very few evidenced-based treatment approaches are available. Approximately 683,000 individuals met past year criteria for sedative-hypnotic use disorders in the US during 2010, a prevalence greater than heroin or methamphetamine dependence. The most commonly prescribed sedative-hypnotic agents are the benzodiazepines. Chronic use induces pharmacodynamic tolerance in the GABA neurotransmitter system and individuals with physio",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Meets DSM-IV-TR criteria for BZD dependence\n2. Using BZDs a minimum of 5 days per week over the past 28 days\n3. Between the ages of 18 and 60\n4. Able to provide informed consent\n\nExclusion Criteria:\n\n1. Any current DSM-IV-TR Axis I psychiatric disorder, other than BZD depende",
+            "endpoints": [
+              "Abstinence From Benzodiazepine Use"
+            ],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT01893632"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00266409",
+            "title": "A Multicenter, Randomized, Open-label, Parallel Design Trial to Compare Time to Response in the Symptoms of Anxiety to Concomitant Treatment With Niravam™ and an SSRI or SNRI to Treatment With an SSRI or SNRI Alone in Subjects With Generalized Anxiety Disorder or Panic Disorder",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-10",
+            "completion_date": "2006-06",
+            "country": "United States",
+            "enrollment": 418,
+            "brief_summary": "An 8-week, open-label trial in 848 subjects at 212 sites to compare time to response in symptoms of anxiety in subjects treated with Niravam™ and a newly prescribed Selective Serotonin Reuptake Inhibitor (SSRI)or Serotonin and Norepinephrine Reuptake Inhibitor (SNRI) to that in subjects treated with a newly prescribed SSRI/SNRI alone. Subjects must be at least 18 years of age and positive for Generalized Anxiety Disorder (GAD)or Panic Disorder. Subjects will be randomized to receive concomitant ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Must be at least 18 years of age.\n* Diagnosed by the Investigator with primary Generalized Anxiety Disorder (GAD) and/or primary Panic Disorder with or without agoraphobia, either primary episode or recurrence, and is positive for GAD or Panic Disorder by the MHS (Mental Healt",
+            "endpoints": [
+              "Cumulative Percent of Participants Showing a Response in the Symptoms of Anxiety (Decrease in Total Hamilton Anxiety (HAM-A) -Score of >=50%) in the Intent-to-treat Population (Kaplan-Meier-estimates)",
+              "Cumulative Percent of Participants Showing a Response in the Symptoms of Anxiety (Decrease in Total Hamilton Anxiety (HAM-A) -Score of >=50%) in the Per Protocol Population (Kaplan-Meier-estimates)"
+            ],
+            "sponsor": "UCB Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT00266409"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01146600",
+            "title": "Clarithromycin for the Treatment of Hypersomnia",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-07",
+            "completion_date": "2012-09",
+            "country": "United States",
+            "enrollment": 26,
+            "brief_summary": "The term 'hypersomnia' describes a group of symptoms that includes severe daytime sleepiness and sleeping long periods of time (more than 10 hours per night). Sometimes, hypersomnia is caused by a problem with the quality of sleep occurring at night, for instance when nighttime sleep is disrupted by frequent breathing pauses. In other cases, however, hypersomnia occurs even when nighttime sleep is of good quality. These cases of hypersomnia are presumed to be a symptom of brain dysfunction, and ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Hypersomnia (meeting clinical criteria for Idiopathic hypersomnia with or without long sleep time, narcolepsy lacking cataplexy, or symptomatic hypersomnia not meeting ICSD criteria)\n* evidence for GABA-related abnormality, as demonstrated by in-house, in vitro assay\n* age \\> ",
+            "endpoints": [
+              "Psychomotor Vigilance Task (PVT) Reaction Time"
+            ],
+            "sponsor": "Emory University",
+            "url": "https://clinicaltrials.gov/study/NCT01146600"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04572750",
+            "title": "Promoting Benzodiazepine Cessation Through an Electronically-delivered Patient Self-management Intervention",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2022-06-01",
+            "completion_date": "2024-07-03",
+            "country": "United States",
+            "enrollment": 170,
+            "brief_summary": "Benzodiazepines (e.g., Ativan, Xanax) are widely prescribed medications that are used mainly to treat anxiety and sleeping difficulties. Long-term use of benzodiazepine carries risks of physical dependence, addiction, falls and other accidents, and problems in thinking/concentrating. Researchers in Canada developed a printed self-help packet that enabled many individuals to reduce or cease taking benzodiazepines on their own. This study is designed to tailor that packet to the Veteran population",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Veterans having a VA primary care provider and taking prescribed benzodiazepines for at least 3 months\n* Have access to a smartphone, tablet, or computer\n\nExclusion Criteria:\n\n* Individuals diagnosed with schizophrenia, dementia, seizure disorder, and/or spinal cord injury\n* I",
+            "endpoints": [
+              "25% Reduction in Benzodiazepine Use",
+              "Cessation of Benzodiazepine Use"
+            ],
+            "sponsor": "VA Office of Research and Development",
+            "url": "https://clinicaltrials.gov/study/NCT04572750"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03327506",
+            "title": "Efficacity of Hypnosis Versus Premedication for the Management of Perioperative Anxiety in Gynecological Surgery",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2018-11-27",
+            "completion_date": "2021-12",
+            "country": "France",
+            "enrollment": 128,
+            "brief_summary": "The aim of this study is to evaluate the efficacy of an hypnosis session, performed on the eve of a laparoscopic gynecological surgery, on the level of immediate preoperative anxiety measured by State-Trait Anxiety Index (STAI-Y) self-administered questionnaire compared to premedication by alprazolam®.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient's age: over 18 years\n* Patient care and follow-up at the regional maternity center of Nancy (CHRU of Nancy)\n* Female patient for whom gynecological laparoscopic surgery is programmed and lasting longer than 1 hour (ovarian cyst, laparoscopy infertility, laparoscopic pr",
+            "endpoints": [
+              "Preoperative Anxiety score evaluated by STAI-Y"
+            ],
+            "sponsor": "Central Hospital, Nancy, France",
+            "url": "https://clinicaltrials.gov/study/NCT03327506"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01584440",
+            "title": "A Phase 2, Randomized, Double-dummy, Double-blind, Placebo-controlled Study to Assess the Efficacy, Safety and Tolerability of AVP-923 (Dextromethorphan/Quinidine) for the Treatment of Symptoms of Agitation in Patients With Alzheimer's Disease.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2012-08-13",
+            "completion_date": "2014-07-30",
+            "country": "United States",
+            "enrollment": 220,
+            "brief_summary": "The objectives of the study are to evaluate the safety, tolerability and efficacy of AVP-923 compared to placebo, for the treatment of symptoms of agitation in participants with Alzheimer's Disease (AD).",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\nDiagnosis of probable Alzheimer's disease (AD).\n\nThe participant has clinically significant symptoms of agitation secondary to AD, that interfere with daily routine and for which a prescription medication is deemed indicated, in the opinion of the investigator.\n\nEither out-p",
+            "endpoints": [
+              "Change in the Neuropsychiatric Inventory (NPI) Agitation/Aggression Domain Score From Day 1 (Stage 1 Baseline) to Day 36 (Stage 2 Baseline) and From Day 36 to Day 70"
+            ],
+            "sponsor": "Avanir Pharmaceuticals",
+            "url": "https://clinicaltrials.gov/study/NCT01584440"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02648776",
+            "title": "Risk and Benefit Assessment of Hypnotic Agents for Sleep Disorders Among Elderly; A Prospective Cohort Study at a Taiwanese Academic Medical Center",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2016-01",
+            "completion_date": "2018-12",
+            "country": "Taiwan",
+            "enrollment": 1400,
+            "brief_summary": "The aims of this study are to (1) examine the medication use patterns of commonly prescribed hypnotics and the factors that were associated with the long-term and short-term use patterns among the elderly population in Taiwan; (2)investigate the associations of using hypnotics with the elderly patients' disease statuses, efficacy and safety, as well as its pharmacokinetic and pharmacogenetic characteristics;(3) determine the clinical, economic and humanistic outcomes of using hypnotics and the c",
+            "eligibility_criteria": "* Inclusion criteria\n\n  1. Patients who have received services in the outpatient departments in CMUH for at least six months persistently before the recruitment,\n  2. who are diagnosed with any types of sleep disorders within the outpatient medical records, using ICD-9 codes to identify.\n  3. who ha",
+            "endpoints": [
+              "Changes from baseline in sleep quality at 12 months",
+              "Number of participants with an occurrence of associated ADR"
+            ],
+            "sponsor": "China Medical University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02648776"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "insomnia (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20insomnia%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "benign paroxysmal torticollis of infancy",
+        "txgnn_score": 0.9960662722587584,
+        "txgnn_rank": 998,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "benign paroxysmal torticollis of infancy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20benign%20paroxysmal%20torticollis%20of%20infancy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "agoraphobia",
+        "txgnn_score": 0.9955600500106812,
+        "txgnn_rank": 1114,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00634790",
+            "title": "An Open-label Study to Assess the Safety and Tolerability of Xanax XR in the Treatment of Adolescents With Panic Disorder or Anxiety With Panic Attacks",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2004-05",
+            "completion_date": "2004-10",
+            "country": "United States",
+            "enrollment": 49,
+            "brief_summary": "The purpose of this study is to assess the long-term safety and tolerability of alprazolam extended release (XR) in adolescents with panic disorder, with or without agoraphobia, or in anxiety disorder with panic attacks. Efficacy, population pharmacokinetics of alprazolam XR and the relationship between alprazolam XR plasma concentrations and efficacy outcomes will also be evaluated.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must meet one of the following 6 diagnoses: a. A current diagnosis of panic disorder with or without agoraphobia; b. Generalized anxiety disorder with a history of at least one panic attack in the course of their illness; c. Social anxiety disorder (social phobia) wit",
+            "endpoints": [
+              "Endpoint change from baseline to Week 24 in Digit Symbol-Coding Test, immediate recall, and delayed recall",
+              "Baseline-to-peak Physician's Withdrawal Checklist change score during 6-week taper off alprazolam",
+              "The incidence of treatment-emergent adverse event during treatment with alprazolam XR"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00634790"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01330472",
+            "title": "An Open Label, Randomized, Single Dose, Crossover Pivotal Bioequivalence Study Of Xanax XR Tablet 3 mg (Sourced From Caguas) Versus Xanax XR Tablet 3 mg (Sourced From Barceloneta) In Healthy Subjects",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2011-05",
+            "completion_date": "2011-06",
+            "country": "Singapore",
+            "enrollment": 16,
+            "brief_summary": "Study to evaluate if Xanax sustained release tablets manufactured at two different sites provide similar drug levels in the blood.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male and/or female subjects between the ages of 20 and 55 years, inclusive.\n* An informed consent document signed and dated by the subject.\n\nExclusion Criteria:\n\n* Evidence or history of clinically significant abnormality.\n* A positive urine drug screen.\n* Subjects who",
+            "endpoints": [
+              "Area under the curve from time zero to infinity (AUCinf) of alprazolam",
+              "Peak plasma conc (Cmax) of alprazolam"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT01330472"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38014714",
+            "title": "Pharmacological treatments in panic disorder in adults: a network meta-analysis.",
+            "abstract": "A panic attack is a discrete period of fear or anxiety that has a rapid onset and reaches a peak within 10 minutes. The main symptoms involve bodily systems, such as racing heart, chest pain, sweating, shaking, dizziness, flushing, churning stomach, faintness and breathlessness. Other recognised panic attack symptoms involve fearful cognitions, such as the fear of collapse, going mad or dying, and derealisation (the sensation that the world is unreal). Panic disorder is common in the general population with a prevalence of 1% to 4%. The treatment of panic disorder includes psychological and pharmacological interventions, including antidepressants and benzodiazepines.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2023",
+            "authors": [
+              "Guaiana Giuseppe",
+              "Meader Nicholas",
+              "Barbui Corrado",
+              "Davies Simon Jc",
+              "Furukawa Toshi A"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Panic Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Paroxetine",
+              "Fluoxetine",
+              "Venlafaxine Hydrochloride",
+              "Serotonin and Noradrenaline Reuptake Inhibitors",
+              "Alprazolam",
+              "Clomipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38014714/"
+          },
+          {
+            "pmid": "2963053",
+            "title": "The Hamilton Anxiety Scale: reliability, validity and sensitivity to change in anxiety and depressive disorders.",
+            "abstract": "The Hamilton Anxiety Scale (HAM-A) was tested for reliability and validity in two different samples, one sample (n = 97) defined by anxiety disorders, the other sample (n = 101) defined by depressive disorders. The reliability and the concurrent validity of the HAM-A and its subscales proved to be sufficient. Internal validity tested by latent structure analysis was insufficient. The major problems with the HAM-A are that (1) anxiolytic and antidepressant effects cannot be clearly distinguished; (2) the subscale of somatic anxiety is strongly related to somatic side effects. The applicability of the HAM-A in anxiolytic treatment studies is therefore limited. More specific anxiety scales are needed.",
+            "journal": "Journal of affective disorders",
+            "year": "1988",
+            "authors": [
+              "Maier W",
+              "Buller R",
+              "Philipp M",
+              "Heuser I"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Amitriptyline",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Depressive Disorder",
+              "Humans",
+              "Imipramine",
+              "Panic",
+              "Psychological Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2963053/"
+          },
+          {
+            "pmid": "2859580",
+            "title": "Monoamine oxidase inhibitors and alprazolam in the treatment of panic disorder and agoraphobia.",
+            "abstract": "This article reviews the evidence on the efficacy of monoamine oxidase inhibitors (MAOIs) and of alprazolam in the treatment of panic disorder and agoraphobia. It also presents guidelines to the clinician on how to implement these treatments in practice.",
+            "journal": "The Psychiatric clinics of North America",
+            "year": "1985",
+            "authors": [
+              "Sheehan D V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Anxiety Disorders",
+              "Benzodiazepines",
+              "Cheese",
+              "Diet",
+              "Drug-Related Side Effects and Adverse Reactions",
+              "Fear",
+              "Humans",
+              "Hypertension"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2859580/"
+          },
+          {
+            "pmid": "7802851",
+            "title": "Safety and side-effects of alprazolam. Controlled study in agoraphobia with panic disorder.",
+            "abstract": "The widespread use of benzodiazepines has led to increasing recognition of their unwanted effects. The efficacy of alprazolam and placebo in panic disorder with agoraphobia, and the side-effect and adverse effect profiles of both drug groups were measured.",
+            "journal": "The British journal of psychiatry : the journal of mental science",
+            "year": "1994",
+            "authors": [
+              "O'Sullivan G H",
+              "Noshirvani H",
+              "Başoğlu M",
+              "Marks I M",
+              "Swinson R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7802851/"
+          },
+          {
+            "pmid": "3282479",
+            "title": "Alprazolam in panic disorder and agoraphobia: results from a multicenter trial. III. Discontinuation effects.",
+            "abstract": "Preliminary reports of discontinuation of alprazolam therapy in patients with panic disorder have revealed worsening of symptoms despite gradual withdrawal of medication. In this study, 126 patients with panic disorder and phobic avoidance received either alprazolam or placebo in doses of 2 to 10 mg daily for eight weeks. The medication was tapered over a period of four weeks, and patients were observed for another two weeks after all medication was discontinued. Sixty of the 63 alprazolam-treated patients and 49 of the 63 placebo-treated patients entered the taper and discontinuation study. After improvement in the active treatment period, the alprazolam-treated group had significant relapse between the first and last week of taper. However, during the second postdiscontinuation week, outcome scores were not significantly different from those of the placebo-treated group who did not deteriorate during taper. Twenty-seven percent of the alprazolam-treated group reported a rebound of pa",
+            "journal": "Archives of general psychiatry",
+            "year": "1988",
+            "authors": [
+              "Pecknold J C",
+              "Swinson R P",
+              "Kuch K",
+              "Lewis C P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Drug Administration Schedule",
+              "Fear",
+              "Female",
+              "Humans",
+              "Male",
+              "Outcome and Process Assessment, Health Care"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3282479/"
+          },
+          {
+            "pmid": "2651490",
+            "title": "Alprazolam, propranolol, and placebo in the treatment of panic disorder and agoraphobia with panic attacks.",
+            "abstract": "Fifty-five patients completed a 5-week double-blind study comparing alprazolam, propranolol, and placebo in the treatment of panic disorder and agoraphobia with panic attacks. There was no concomitant behavioral treatment. Patient and therapist rating scales included Sheehan's Panic and Anxiety Attack Scales, the Marks-Sheehan Phobia Scale, the Hamilton Anxiety Scale, the Hamilton Depression Scale, and the Side Effects Checklist. The results generally support the efficacy of alprazolam, but not propranolol, in the treatment of panic disorder and agoraphobia with panic attacks. The significance of the results are discussed, as well as a number of the unique aspects of our procedures and patient population.",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "1989",
+            "authors": [
+              "Munjack D J",
+              "Crocker B",
+              "Cabe D",
+              "Brown R",
+              "Usigli R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Fear",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2651490/"
+          },
+          {
+            "pmid": "9259039",
+            "title": "Agoraphobia and panic disorder: 3.5 years after alprazolam and/or exposure treatment.",
+            "abstract": "Long-term follow-ups after controlled studies of exposure therapy for agoraphobia/panic are few. Most of these studies found that improvement during treatment persists to the end of follow-up.",
+            "journal": "Psychotherapy and psychosomatics",
+            "year": "1997",
+            "authors": [
+              "Kiliç C",
+              "Noshirvani H",
+              "Başoğlu M",
+              "Marks I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Panic Disorder",
+              "Psychotherapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9259039/"
+          },
+          {
+            "pmid": "8101126",
+            "title": "Alprazolam and exposure alone and combined in panic disorder with agoraphobia. A controlled study in London and Toronto.",
+            "abstract": "A cross-national randomised trial of alprazolam for chronic panic disorder with agoraphobia was run. Compared with previous trials it had three new features: an exposure therapy contrast group, a six-month treatment-free follow-up, and a low rate of early placebo drop-outs ('non-evaluables'). The dose of alprazolam was high (5 mg/day). The 154 patients had eight weeks of: alprazolam and exposure (combined treatment); or alprazolam and relaxation (a psychological placebo); or placebo and exposure; or placebo and relaxation (double placebo). Drug taper was from weeks 8 to 16. Follow-up was to week 43. Results were similar at both sites. Treatment integrity was good. All four treatment groups, including double placebo, improved well on panic throughout. On non-panic measures, by the end of treatment, both alprazolam and exposure were effective, but exposure had twice the effect size of alprazolam. During taper and follow-up, gains after alprazolam were lost, while gains after exposure wer",
+            "journal": "The British journal of psychiatry : the journal of mental science",
+            "year": "1993",
+            "authors": [
+              "Marks I M",
+              "Swinson R P",
+              "Başoğlu M",
+              "Kuch K",
+              "Noshirvani H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Agoraphobia",
+              "Alprazolam",
+              "Arousal",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8101126/"
+          },
+          {
+            "pmid": "2681171",
+            "title": "Anxiety and alcoholism.",
+            "abstract": "Patients with alcohol dependence commonly experience symptoms of anxiety, depression, and insomnia. It is essential that clinicians recognize and treat anxiety disorders in alcoholic patients. Panic attacks with and without agoraphobia are especially prevalent among alcoholics and their families. Treatments of choice for panic disorder are the monoamine oxidase inhibitors, as well as tricyclic antidepressants and the benzodiazepine alprazolam. Benzodiazepines seem to be effective in controlling two pathophysiologic characteristics of alcohol withdrawal--noradrenergic and hypothalamic-pituitary-adrenocortical overactivity. They also can be used to prevent and treat withdrawal seizures and delirium tremens. They are not indicated for the treatment of alcohol dependence per se.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1989",
+            "authors": [
+              "Linnoila M I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alcoholism",
+              "Anxiety Disorders",
+              "Ethanol",
+              "Humans",
+              "Substance Withdrawal Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2681171/"
+          },
+          {
+            "pmid": "3282478",
+            "title": "Alprazolam in panic disorder and agoraphobia: results from a multicenter trial. I. Efficacy in short-term treatment.",
+            "abstract": "Following promising preliminary evidence, the benzodiazepine-derivative alprazolam was studied in a large, placebo-controlled, eight-week, flexible-dose trial in patients with agoraphobia with panic attacks and panic disorder. Of 526 patients, 481 completed three weeks of treatment; however, significantly more placebo (102/234) than alprazolam (21/247) recipients subsequently dropped out of the trial, primarily citing ineffectiveness (of placebo) as the reason. Alprazolam was found to be effective and well tolerated. There were significant alprazolam-placebo differences in improvement for (1) spontaneous and situational panic attacks, (2) phobic fears, (3) avoidance behavior, (4) anxiety, and (5) secondary disability, all significant by the end of week 1. At the primary comparison point (week 4), 82% of the patients receiving alprazolam were rated moderately improved or better vs 43% of the placebo group. At that point, 50% of the alprazolam recipients vs 28% of placebo recipients were",
+            "journal": "Archives of general psychiatry",
+            "year": "1988",
+            "authors": [
+              "Ballenger J C",
+              "Burrows G D",
+              "DuPont R L",
+              "Lesser I M",
+              "Noyes R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Fear",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3282478/"
+          },
+          {
+            "pmid": "7892364",
+            "title": "Memory functions, alprazolam and exposure therapy: a controlled longitudinal study of agoraphobia with panic disorder.",
+            "abstract": "Benzodiazepines (BZs) produce transient anterograde amnesia when given to normal subjects. The present longitudinal study assessed whether BZs impair memory functions in a clinically anxious group. Eighty-two agoraphobics with panic disorder were randomly allocated to one of four treatment groups resulting from a combination of two drug treatments (alprazolam or placebo) and two psychological treatments (exposure or relaxation). Of these, 38 subjects were assessed on a range of objective and subjective indices of memory and mood at three time points: before treatment, after 8 weeks of treatment and again at 24 weeks when patients had been free of medication from 5-8 weeks. Alprazolam produced pronounced impairments on a word recall task. At the 24-week medication-free follow-up, alprazolam patients were still impaired on the task compared with placebo patients. Alprazolam did not impair performance on an implicit memory task and did not affect digit span. Differences between psychologi",
+            "journal": "Psychological medicine",
+            "year": "1994",
+            "authors": [
+              "Curran H V",
+              "Bond A",
+              "O'Sullivan G",
+              "Bruce M",
+              "Marks I"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Affect",
+              "Agoraphobia",
+              "Alprazolam",
+              "Arousal",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Double-Blind Method",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7892364/"
+          },
+          {
+            "pmid": "3358644",
+            "title": "Alprazolam in panic disorder and agoraphobia: results from a multicenter trial. II. Patient acceptance, side effects, and safety.",
+            "abstract": "In a multicenter placebo-controlled study, the safety, side effects, and patient acceptance of alprazolam for the treatment of panic disorder and agoraphobia were examined. A total of 525 patients meeting DSM-III criteria for agoraphobia with panic attacks or panic disorder were randomly assigned to receive alprazolam or placebo, which they took for eight weeks. The mean daily dose at the end of the study was 5.7 mg of alprazolam or 7.5 capsules of placebo daily. Potentially serious reactions to alprazolam occurred in ten of 263 subjects who received the drug. These included acute intoxication (three), hepatitis (two), mania (two), amnesia (one), aggressive behavior (one), and depression (one). Treatment-related side effects that were worse in patients taking alprazolam than in those taking placebo included sedation, fatigue, ataxia, slurred speech, and amnesia. Sedation was the most frequent but tended to subside with dose reduction or continued administration of the drug. Patient acc",
+            "journal": "Archives of general psychiatry",
+            "year": "1988",
+            "authors": [
+              "Noyes R",
+              "DuPont R L",
+              "Pecknold J C",
+              "Rifkin A",
+              "Rubin R T"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Ataxia",
+              "Chemical and Drug Induced Liver Injury",
+              "Fatigue",
+              "Fear",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3358644/"
+          },
+          {
+            "pmid": "1415824",
+            "title": "Alprazolam plasma concentrations and treatment response in panic disorder and agoraphobia.",
+            "abstract": "The authors' goal was to evaluate the relationship between plasma concentrations of alprazolam and both treatment response and side effects in patients with panic disorder and agoraphobia.",
+            "journal": "The American journal of psychiatry",
+            "year": "1992",
+            "authors": [
+              "Lesser I M",
+              "Lydiard R B",
+              "Antal E",
+              "Rubin R T",
+              "Ballenger J C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Clinical Protocols",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Drug Monitoring",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1415824/"
+          },
+          {
+            "pmid": "2144315",
+            "title": "Treatment of panic and agoraphobia. An integrative review.",
+            "abstract": "There is now agreement about the clinical features of panic disorder and agoraphobia but less agreement about treatment because of controversy over whether the disorder is primarily biological or psychological. The authors were requested to produce an impartial review for continuing education and peer review. We chose to do this by using a quantitative review procedure, by providing a bibliography of studies, and by a literature review. We found that symptoms of panic and phobia did not change significantly while on wait-list control or while receiving placebo. The evidence for the efficacy of the low-potency benzodiazepines or of monoamine oxidase inhibitors was limited. It was also clear that only limited improvement can be expected from behavior therapies that do not involve exposure to the symptoms of panic or to the feared situation. Symptoms of panic, as well as the frequency of spontaneous panic, were shown to be substantially improved following imipramine, high-potency benzodia",
+            "journal": "The Journal of nervous and mental disease",
+            "year": "1990",
+            "authors": [
+              "Mattick R P",
+              "Andrews G",
+              "Hadzi-Pavlovic D",
+              "Christensen H"
+            ],
+            "pub_types": [
+              "Bibliography",
+              "Clinical Trial",
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Behavior Therapy",
+              "Bibliographies as Topic",
+              "Clinical Trials as Topic",
+              "Combined Modality Therapy",
+              "Fear",
+              "Follow-Up Studies",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2144315/"
+          },
+          {
+            "pmid": "7921716",
+            "title": "Alprazolam and exposure for panic disorder with agoraphobia. Attribution of improvement to medication predicts subsequent relapse.",
+            "abstract": "Patients with panic disorder plus agoraphobia had 8 weeks of drug treatment (alprazolam or placebo) plus psychological treatment (exposure or relaxation). At the end of treatment at week 8, 40 patients who had become much/very much improved rated how much their gains were attributable to medication or to their own efforts. During the tapering-off to week 16, and treatment-free follow-up to week 43, patients who at week 8 had attributed their gains to medication and felt less confident in coping without tablets had more severe withdrawal symptoms and greater loss of gains than did patients who at week 8 had attributed their gains to their own efforts during treatment. Baseline illness severity, greater age, higher expectations from drug treatment, and more side-effects of drugs during treatment all predicted more external attributions (i.e. to the effect of drugs) but did not independently predict relapse. Patients on alprazolam compared with placebo had more drug attributions. Though d",
+            "journal": "The British journal of psychiatry : the journal of mental science",
+            "year": "1994",
+            "authors": [
+              "Başoğlu M",
+              "Marks I M",
+              "Kiliç C",
+              "Brewin C R",
+              "Swinson R P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Arousal",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7921716/"
+          },
+          {
+            "pmid": "2873609",
+            "title": "A comparison of alprazolam and imipramine in the treatment of agoraphobia and panic disorder.",
+            "abstract": "",
+            "journal": "Psychopharmacology bulletin",
+            "year": "1986",
+            "authors": [
+              "Rizley R",
+              "Kahn R J",
+              "McNair D M",
+              "Frankenthaler L M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Anxiety",
+              "Benzodiazepines",
+              "Clinical Trials as Topic",
+              "Fear",
+              "Humans",
+              "Imipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2873609/"
+          },
+          {
+            "pmid": "21869686",
+            "title": "The efficacy and safety of alprazolam versus other benzodiazepines in the treatment of panic disorder.",
+            "abstract": "We performed a meta-analysis of all single- or double-blind, randomized controlled trials comparing alprazolam to another benzodiazepine in the treatment of adult patients meeting the Diagnostic and Statistical Manual of Mental Disorders, Third or Fourth Edition, criteria for panic disorder or agoraphobia with panic attacks. Eight studies met inclusion criteria, describing a total of at least 631 randomized patients. In the pooled results, there were no significant differences in efficacy between alprazolam and the comparator benzodiazepines on any of the prespecified outcomes: improvement in mean panic attack frequency (between-arm weighted mean difference of 0.6 panic attacks per week; 95% confidence interval [CI], -0.3 to 1.6), improvement in Hamilton Anxiety Rating Scale score (weighted mean difference of 0.8 points; 95% CI, -0.5 to 2.1), and proportion of patients free of panic attacks at the final evaluation (pooled relative risk, 1.1; 95% CI, 0.9-1.4). Statistical heterogeneity ",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2011",
+            "authors": [
+              "Moylan Steven",
+              "Staples John",
+              "Ward Stephanie Alison",
+              "Rogerson Jan",
+              "Stein Dan J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Benzodiazepines",
+              "Humans",
+              "Panic Disorder",
+              "Psychiatric Status Rating Scales",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21869686/"
+          },
+          {
+            "pmid": "2660772",
+            "title": "The 'efficacy' of alprazolam in panic disorder and agoraphobia: a critique of recent reports.",
+            "abstract": "",
+            "journal": "Archives of general psychiatry",
+            "year": "1989",
+            "authors": [
+              "Marks I M",
+              "De Albuquerque A",
+              "Cottraux J",
+              "Gentil V",
+              "Greist J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Fear",
+              "Humans",
+              "Outcome and Process Assessment, Health Care",
+              "Panic",
+              "Patient Dropouts"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2660772/"
+          },
+          {
+            "pmid": "6150561",
+            "title": "Agoraphobia and panic disorder: treatment with alprazolam.",
+            "abstract": "",
+            "journal": "Texas medicine",
+            "year": "1984",
+            "authors": [
+              "Mark S L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Benzodiazepines",
+              "Fear",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6150561/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "agoraphobia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20agoraphobia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "attention deficit-hyperactivity disorder",
+        "txgnn_score": 0.989490807056427,
+        "txgnn_rank": 2130,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "30083378",
+            "title": "Alprazolam-induced dose-dependent anorgasmia: case analysis.",
+            "abstract": "Sexual dysfunctions are associated with multiple medical and psychiatric disorders, as well as pharmacotherapies used to treat these disorders. Although sexual dysfunctions negatively affect both quality of life and treatment adherence, patients infrequently volunteer these symptoms and clinicians do not pose directed questions to determine their presence or severity. This issue is especially important in psychiatric patients, for whom most common psychotropics may cause sexual dysfunctions (antidepressants, antipsychotics, anxiolytics and mood-stabilising agents). There is limited literature addressing benzodiazepines, and alprazolam in particular.",
+            "journal": "BJPsych open",
+            "year": "2018",
+            "authors": [
+              "Kaufman Kenneth R",
+              "Coluccio Melissa",
+              "Linke Michelle",
+              "Noonan Elizabeth",
+              "Babalola Ronke"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30083378/"
+          },
+          {
+            "pmid": "32413536",
+            "title": "Differential effects of alprazolam against methylphenidate-induced neurobehavioral alterations.",
+            "abstract": "In the previous decade, abuse of several types of prescription drugs, particularly anxiolytics, opioid analgesics, and stimulants has increased significantly worldwide. Methylphenidate (MPH) and Alprazolam (ALZ) are extensively used drugs for the treatment of attention deficit hyperactivity disorder (ADHD) and anxiety disorders, respectively. However, these drugs have a high risk of being misused or abused alone, and their combination in some peculiar cases has shown their deleterious effects. In this study, we evaluated the extent of damage both these drugs (MPH and ALZ) may cause in the brain at different dosages.",
+            "journal": "Physiology & behavior",
+            "year": "2020",
+            "authors": [
+              "Dutt Meenu",
+              "Dharavath Ravinder Naik",
+              "Kaur Tanzeer",
+              "Chopra Kanwaljit",
+              "Sharma Shweta"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Alprazolam",
+              "Animals",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Central Nervous System Stimulants",
+              "Female",
+              "Methylphenidate",
+              "Rats",
+              "Rats, Wistar"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32413536/"
+          },
+          {
+            "pmid": "27007452",
+            "title": "Quetiapine Addiction in an Adolescent.",
+            "abstract": "",
+            "journal": "Journal of child and adolescent psychopharmacology",
+            "year": "2016",
+            "authors": [
+              "Kolli Venkata",
+              "Mary Hind",
+              "Garcia-Delgar Blanca",
+              "Coffey Barbara J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Alprazolam",
+              "Antipsychotic Agents",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Humans",
+              "Male",
+              "Quetiapine Fumarate",
+              "Substance-Related Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27007452/"
+          },
+          {
+            "pmid": "6442440",
+            "title": "Evaluating drug effects on children's cognitive functioning.",
+            "abstract": "In our studies of drug therapy in child psychiatry disorders, we have been using a battery of tests to monitor any effects of medication on the various components of cognitive processing. Our intention was to measure skills required by the children for successful classroom performance. We have used this test battery approach in open clinical trials of bupropion (Wellbutrin) and of alprazolam (Xanax) with child psychiatry patients. On no single test was the effect of bupropion vs placebo significant; however, there was no indication of any cognitive deterioration with bupropion. Group performance with alprazolam was more variable, and again no individual test showed significant changes with medication. These initial applications of the cognitive battery indicate that bupropion, a new antidepressant and alprazolam, an anxiolytic have no adverse effects on cognition at therapeutically effective doses.",
+            "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+            "year": "1984",
+            "authors": [
+              "Ferguson H B",
+              "Simeon J G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Alprazolam",
+              "Attention Deficit Disorder with Hyperactivity",
+              "Benzodiazepines",
+              "Bupropion",
+              "Child",
+              "Child Behavior Disorders",
+              "Clinical Trials as Topic",
+              "Humans",
+              "Neuropsychological Tests",
+              "Propiophenones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6442440/"
+          },
+          {
+            "pmid": "23144164",
+            "title": "Trends in the utilisation of psychotropic medications in Australia from 2000 to 2011.",
+            "abstract": "This study examined longitudinal trends in the dispensing of psychotropic medications in Australia from January 2000 to December 2011.",
+            "journal": "The Australian and New Zealand journal of psychiatry",
+            "year": "2013",
+            "authors": [
+              "Stephenson Chris P",
+              "Karanges Emily",
+              "McGregor Iain S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents",
+              "Antipsychotic Agents",
+              "Australia",
+              "Central Nervous System Stimulants",
+              "Drug Utilization",
+              "Humans",
+              "Hypnotics and Sedatives",
+              "Longitudinal Studies",
+              "Psychotropic Drugs"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23144164/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "attention deficit-hyperactivity disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20attention%20deficit-hyperactivity%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "attention deficit hyperactivity disorder, inattentive type",
+        "txgnn_score": 0.986227810382843,
+        "txgnn_rank": 2707,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "attention deficit hyperactivity disorder, inattentive type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20attention%20deficit%20hyperactivity%20disorder%2C%20inattentive%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "obsessive-compulsive disorder",
+        "txgnn_score": 0.9823957085609436,
+        "txgnn_rank": 3332,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "12600700",
+            "title": "The open field as a paradigm to measure the effects of drugs on anxiety-like behaviors: a review.",
+            "abstract": "The open field is a very popular animal model of anxiety-like behavior. An overview of the literature on the action elicited by effective or putative anxiolytics in animal subjected to this procedure indicates that classical treatments such as benzodiazepine receptor full agonists or 5-HT(1A) receptor full or partial agonists elicit an anxiolytic-like effect in this procedure in most cases (approximately 2/3). However, compounds (triazolobenzodiazepines such as adinazolam and alprazolam, selective serotonin reuptake inhibitors) that have a different spectrum of therapeutic efficacy in anxiety disorders such as panic attacks, generalized anxiety disorder or obsessive-compulsive disorder were poorly effective as anxiolytics in the open field test, suggesting that this paradigm may not model features of anxiety disorders. The procedure is also relevant for the study of compounds endowed with anxiogenic effects, as such effects were detected after treatments with benzodiazepine receptor in",
+            "journal": "European journal of pharmacology",
+            "year": "2003",
+            "authors": [
+              "Prut Laetitia",
+              "Belzung Catherine"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Anxiety",
+              "Behavior, Animal",
+              "Humans",
+              "Ligands",
+              "Models, Animal",
+              "Receptors, GABA-A",
+              "Receptors, Neuropeptide",
+              "Receptors, Serotonin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12600700/"
+          },
+          {
+            "pmid": "22204483",
+            "title": "Treatment strategies of obsessive-compulsive disorder and panic disorder/agoraphobia.",
+            "abstract": "Anxiety disorders represent the most prevalent psychiatric disorders. In addition, a considerable burden is associated with them, not only for individual sufferers, but also for the health care system. However, many patients who might benefit from treatment are not diagnosed or treated. This may partly be due to lack of awareness of the anxiety disorders by primary care practitioners and by the sufferers themselves. In addition, the stigma still associated with psychiatric disorders and lack of confidence in psychiatric treatments are factors leading to no/under recognition and treatment, or the use of unnecessary or inappropriate treatments. This paper aims to provide a comprehensive review of recommendations for the pharmacological treatment of two common anxiety disorders, in particular obsessive-compulsive disorder (OCD) and panic disorder (PD). The first-line treatments of OCD include medium-high doses of selective serotonin reuptake inhibitors (SSRIs) and clomipramine, a tricycli",
+            "journal": "Current topics in medicinal chemistry",
+            "year": "2012",
+            "authors": [
+              "Marazziti Donatella",
+              "Carlini Marina",
+              "Dell'Osso Liliana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents, Tricyclic",
+              "Clomipramine",
+              "Cognitive Behavioral Therapy",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Hydroxyzine",
+              "Monoamine Oxidase Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22204483/"
+          },
+          {
+            "pmid": "3708519",
+            "title": "Obsessive compulsive disorder.",
+            "abstract": "",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "1986",
+            "authors": [
+              "Hardy J L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Alprazolam",
+              "Benzodiazepines",
+              "Female",
+              "Humans",
+              "Middle Aged",
+              "Obsessive-Compulsive Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3708519/"
+          },
+          {
+            "pmid": "2859581",
+            "title": "Generalized anxiety disorder.",
+            "abstract": "This article discusses generalized anxiety disorder in terms of its defining characteristics, its relationship to other psychiatric disorders, its psychobiology, and its treatment. Although generalized anxiety disorder is frequently encountered in general practice, it has been less systematically investigated than the more dramatic forms of anxiety disorders such as panic disorder and phobias. It is concluded that although not as sharply defined as implied by DSM-III, generalized anxiety disorder appears to be a useful diagnostic category.",
+            "journal": "The Psychiatric clinics of North America",
+            "year": "1985",
+            "authors": [
+              "Hoehn-Saric R",
+              "McLeod D R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Alprazolam",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Barbiturates",
+              "Benzodiazepines",
+              "Buspirone",
+              "Diagnosis, Differential"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2859581/"
+          },
+          {
+            "pmid": "6143507",
+            "title": "Alprazolam as treatment for a case of obsessive-compulsive disorder.",
+            "abstract": "Because of the anxiety accompanying his obsessions and a prior panic attack, an obsessive-compulsive man was given alprazolam, which reduced his obsessions and eliminated his compulsions. The authors discuss links between obsessive-compulsive disorder and other psychiatric disorders.",
+            "journal": "The American journal of psychiatry",
+            "year": "1984",
+            "authors": [
+              "Tesar G E",
+              "Jenike M A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Anxiety Disorders",
+              "Benzodiazepines",
+              "Humans",
+              "Male",
+              "Obsessive-Compulsive Disorder",
+              "Panic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6143507/"
+          },
+          {
+            "pmid": "23324513",
+            "title": "Antidepressant-selective gynecomastia.",
+            "abstract": "To describe what we believe is the first reported case of synergistic gynecomastia during treatment of depressive and anxiety disorders when sertraline was added to a stable medication regimen including duloxetine, rosuvastatin, and amlodipine.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2013",
+            "authors": [
+              "Kaufman Kenneth R",
+              "Podolsky Dina",
+              "Greenman Danielle",
+              "Madraswala Rehman"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Amlodipine",
+              "Antidepressive Agents",
+              "Major Depressive Disorder",
+              "Dose-Response Relationship, Drug",
+              "Drug Interactions",
+              "Drug Therapy, Combination",
+              "Duloxetine Hydrochloride",
+              "Fluorobenzenes",
+              "Gynecomastia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23324513/"
+          },
+          {
+            "pmid": "12516310",
+            "title": "World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for the pharmacological treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders.",
+            "abstract": "In this report, recommendations for the pharmacological treatment of anxiety and obsessive-compulsive disorders are presented, based on available randomized, placebo- or comparator-controlled clinical studies. Selective serotonin reuptake inhibitors (SSRIs) are the first-line treatment for panic disorder. Tri2-cyclic antidepressants (TCAs) are equally effective, but they are less well tolerated than the SSRIs. In treatment-resistant cases, benzodiazepines like alprazolam may be used when the patient does not have a history of dependency and tolerance. Due to possible serious side effects and interactions with other drugs and food components, the irreversible monamine oxidase inhibitor (MAOI) phenelzine should be used only when first-line drugs have failed. In generalised anxiety disorder, venlafaxine and SSRIs can be recommended, while buspirone and imipramine may be alternatives. For social phobia, SSRIs are recommended for the first line, and MAOIs, moclobemide and benzodiazepines as",
+            "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+            "year": "2002",
+            "authors": [
+              "Bandelow Borwin",
+              "Zohar Josef",
+              "Hollander Eric",
+              "Kasper Siegfried",
+              "Möller Hans-Jürgen"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Anxiety Agents",
+              "Anxiety Disorders",
+              "Biological Psychiatry",
+              "Humans",
+              "Societies, Medical"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12516310/"
+          },
+          {
+            "pmid": "30083378",
+            "title": "Alprazolam-induced dose-dependent anorgasmia: case analysis.",
+            "abstract": "Sexual dysfunctions are associated with multiple medical and psychiatric disorders, as well as pharmacotherapies used to treat these disorders. Although sexual dysfunctions negatively affect both quality of life and treatment adherence, patients infrequently volunteer these symptoms and clinicians do not pose directed questions to determine their presence or severity. This issue is especially important in psychiatric patients, for whom most common psychotropics may cause sexual dysfunctions (antidepressants, antipsychotics, anxiolytics and mood-stabilising agents). There is limited literature addressing benzodiazepines, and alprazolam in particular.",
+            "journal": "BJPsych open",
+            "year": "2018",
+            "authors": [
+              "Kaufman Kenneth R",
+              "Coluccio Melissa",
+              "Linke Michelle",
+              "Noonan Elizabeth",
+              "Babalola Ronke"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30083378/"
+          },
+          {
+            "pmid": "7905781",
+            "title": "Innovative uses of benzodiazepines in psychiatry.",
+            "abstract": "Over the last three decades, a greater understanding of the phenomenology and etiology of illness has fostered progress in psychopharmacology. While research has yielded important new psychopharmacologic compounds, the field continues to benefit from the discovery of innovative clinical applications of established agents. For instance, benzodiazepines--among the most commonly used medications in the pharmacopoeia--have demonstrated their efficacy in the treatment of a wide variety of syndromes. Recently, much attention has focused on the use of high-potency benzodiazepines (for example, clonazepam, alprazolam, lorazepam) in the treatment of panic disorder and mania. This paper presents the uses of benzodiazepines to treat other conditions, including psychotic and agitated states, social phobia, obsessive-compulsive disorder, pain syndromes, seizures, drug withdrawal and side-effects induced by antidepressants and neuroleptics.",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "1993",
+            "authors": [
+              "Pollack M H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Anxiety Agents",
+              "Arousal",
+              "Benzodiazepines",
+              "Drug Interactions",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Mental Disorders",
+              "Substance Withdrawal Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7905781/"
+          },
+          {
+            "pmid": "7592263",
+            "title": "Psychopharmacology in child and adolescent psychiatry: a review of the past seven years. Part II.",
+            "abstract": "To present a critical overview of the selected literature published in the past 7 years on the efficacy and safety of psychoactive agents in conduct disorder, schizophrenia, separation anxiety disorder, selective mutism, obsessive-compulsive disorder, panic disorder, major depressive disorder, bipolar disorder, and sleep and eating disorders.",
+            "journal": "Journal of the American Academy of Child and Adolescent Psychiatry",
+            "year": "1995",
+            "authors": [
+              "Campbell M",
+              "Cueva J E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Alprazolam",
+              "Anticonvulsants",
+              "Antipsychotic Agents",
+              "Anxiety, Separation",
+              "Bipolar Disorder",
+              "Carbamazepine",
+              "Child",
+              "Child Behavior Disorders",
+              "Child, Preschool"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7592263/"
+          },
+          {
+            "pmid": "8509358",
+            "title": "Therapeutic strategies for the patient with treatment-resistant anxiety.",
+            "abstract": "Outcome of anxiety disorder treatment with psychotherapy and medication is generally as good as or better than that of other psychiatric illnesses. Nevertheless, refractory cases occur. The first step in approaching the treatment-resistant patient with an anxiety disorder is to be certain that the treatment has been adequate. Failure to provide an adequate dose of medication for adequate periods of time may be the most common cause of \"treatment resistance.\" The second step is to reconsider the diagnosis and/or determine if new diagnoses have emerged since the original consultation. Depression and substance abuse are especially likely to complicate anxiety disorders. Several studies have shown that concomitant personality disorders (axis II) increase the occurrence of resistance to standard treatment and must be addressed through psychotherapy. Last, a variety of possible underlying medical conditions, including thyroid disorder, arrhythmia, and complex partial seizure, should be consi",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1993",
+            "authors": [
+              "Coplan J D",
+              "Tiffon L",
+              "Gorman J M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anxiety Disorders",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Comorbidity",
+              "Depressive Disorder",
+              "Humans",
+              "Psychotherapy",
+              "Psychotropic Drugs",
+              "Substance-Related Disorders",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8509358/"
+          },
+          {
+            "pmid": "8099578",
+            "title": "Psychopharmacologic treatment of anxiety disorders in adolescents and children.",
+            "abstract": "Anxiety disorder is more prevalent than attention deficit disorder in children and adolescents, but its current drug treatment is based on inconclusive findings. Treatment of separation anxiety disorder without comorbidity has barely been studied. School absenteeism is often treated with tricyclic antidepressants and benzodiazepines, but the efficacy data are only suggestive for benzodiazepines and not encouraging for antidepressants. Overanxious disorder appears to be responsive to benzodiazepines in open trials but not in controlled studies, and buspirone may have promise. The evidence is weak for treating avoidant disorder with alprazolam or buspirone and for treating panic disorder with antidepressants or benzodiazepines. There are no adequate trials of monoamine oxidase inhibitors. Obsessive compulsive disorder is well documented to respond to clomipramine, but it leaves considerable residual symptoms; fluoxetine also appears to be effective. The anxiety and aggression of post-tra",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1993",
+            "authors": [
+              "Popper C W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Age Factors",
+              "Anti-Anxiety Agents",
+              "Anxiety Disorders",
+              "Anxiety, Separation",
+              "Buspirone",
+              "Child",
+              "Clinical Trials as Topic",
+              "Combined Modality Therapy",
+              "Comorbidity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8099578/"
+          },
+          {
+            "pmid": "11869778",
+            "title": "The comorbidity of bipolar and anxiety disorders: prevalence, psychobiology, and treatment issues.",
+            "abstract": "Although symptoms of anxiety as well as anxiety disorders commonly occur in patients with bipolar disorder, the pathophysiologic, theoretical, and clinical significance of their co-occurrence has not been well studied.",
+            "journal": "Journal of affective disorders",
+            "year": "2002",
+            "authors": [
+              "Freeman Marlene P",
+              "Freeman Scott A",
+              "McElroy Susan L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Antimanic Agents",
+              "Anxiety Disorders",
+              "Bipolar Disorder",
+              "Comorbidity",
+              "Diagnosis, Differential",
+              "Humans",
+              "Prevalence",
+              "Prognosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11869778/"
+          },
+          {
+            "pmid": "15078112",
+            "title": "Issues in the clinical use of benzodiazepines: potency, withdrawal, and rebound.",
+            "abstract": "Low and medium potency benzodiazepines were initially introduced for the treatment of insomnia and anxiety. Their therapeutic actions as anxiolytics, sedative hypnotics, anticonvulsants, and muscle relaxants (with their low toxicity) have led to their use as first-line treatments, and they have become one of the most prescribed classes of drugs. Novel therapeutic uses of benzodiazepines were discovered with the introduction of the high-potency benzodiazepines (e.g., alprazolam, clonazepam, and lorazepam). They were found to be effective in treating panic disorder and panic attacks with or without agoraphobia, as add-on therapy to selective serotonin reuptake inhibitors in the treatment of obsessive-compulsive disorder and panic disorders, and as adjunctive therapy in treating patients with acute mania or acute agitation. High-potency benzodiazepines have replaced low and medium potency benzodiazepines in all benzodiazepine clinical indications due to their greater therapeutic effects a",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2004",
+            "authors": [
+              "Chouinard Guy"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amnesia",
+              "Anti-Anxiety Agents",
+              "Anxiety",
+              "Benzodiazepines",
+              "Bipolar Disorder",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Panic Disorder",
+              "Psychomotor Agitation",
+              "Recurrence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15078112/"
+          },
+          {
+            "pmid": "2906319",
+            "title": "Recent advances in the psychopharmacological treatment of anxiety disorders.",
+            "abstract": "The authors review recent progress in the pharmacological treatment of anxiety disorders. Most research within the last five years has focused on panic disorder; the findings include support for the usefulness of imipramine and clomipramine and probably other agents; evidence that the benzodiazepines alprazolam, diazepam, lorazepam, and clonazepam are approximately equally effective as antipanic agents; and high variability in relapse rates after discontinuation of drug treatment. Further work is required to determine whether buspirone and other forthcoming serotonin agonist drugs have a role in treating panic disorder and other anxiety disorders. For generalized anxiety disorder, scientific studies do not support the effectiveness of beta blocker; tricyclics may be potentially useful. Psychopharmacological treatments for social phobia, obsessive-compulsive disorder, and posttraumatic stress disorder are also reviewed.",
+            "journal": "Hospital & community psychiatry",
+            "year": "1988",
+            "authors": [
+              "Lydiard R B",
+              "Roy-Byrne P P",
+              "Ballenger J C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Anxiety Agents",
+              "Anxiety Disorders",
+              "Humans",
+              "Panic",
+              "Phobic Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2906319/"
+          },
+          {
+            "pmid": "6151647",
+            "title": "Psychopharmacology of the anxiety disorders.",
+            "abstract": "Although anxiety is a familiar part of all our lives, pathologic anxiety states that lead to occupational and social dysfunction require medical treatment. Currently, the anxiety disorders are divided into nonphobic and phobic disorders. However, recent studies suggest that the disorders should be divided into three symptom groups: (1) generalized anxiety, (2) episodes with severe panic anxiety (panic attacks) plus generalized anxiety or even phobic avoidance, and (3) phobic anxiety and avoidance (alone, without panic attacks). This grouping is highly predictive of response to antianxiety medications. The generalized anxiety group responds well to psychosocial/psychotherapy treatments and to the antianxiety BZs. Many people with nonpanic, nonphobic (situational or generalized) anxiety only require simple psychotherapy or other nonpharmacologic methods to manage their anxiety. However, if the anxious patient is becoming dysfunctional or symptomatology is severe or persistent enough to w",
+            "journal": "The Psychiatric clinics of North America",
+            "year": "1984",
+            "authors": [
+              "Ballenger J C"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Benzodiazepines",
+              "Desensitization, Psychologic",
+              "Drug Interactions",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6151647/"
+          },
+          {
+            "pmid": "16699602",
+            "title": "The search for new off-label indications for antidepressant, antianxiety, antipsychotic and anticonvulsant drugs.",
+            "abstract": "Most drugs are prescribed for several illnesses, but it took several years for psychotropic drugs to have multiple clinical indications. Our search for serotonergic drugs in affective illnesses and related disorders led to new off-label indications for fluoxetine, sertraline, tryptophan, clonazepam, alprazolam, tomoxetine, buproprion, duloxetine, risperidone and gabapentin. Various clinical trial designs were used for these proof-of-concept studies. Novel therapeutic uses of benzodiazepines, such as in panic disorder and mania, were found with the introduction of 2 high-potency benzodiazepines, clonazepam and alprazolam, which were thought to have serotonergic properties. Our initial clinical trials of fluoxetine and sertraline led to their approved indications in the treatment of obsessive-compulsive disorder, and our trials of gabapentin led to new indications in anxiety disorders (generalized anxiety, panic attack and social phobia) and sleep disorders (insomnia).",
+            "journal": "Journal of psychiatry & neuroscience : JPN",
+            "year": "2006",
+            "authors": [
+              "Chouinard Guy"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Anticonvulsants",
+              "Antidepressive Agents",
+              "Antipsychotic Agents",
+              "Anxiety",
+              "Humans",
+              "Mental Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16699602/"
+          },
+          {
+            "pmid": "7625464",
+            "title": "Clinical aspects of chronic use of alprazolam and lorazepam.",
+            "abstract": "The authors' goal was to determine the clinical characteristics of persistent users of alprazolam or lorazepam who wished to discontinue their medication.",
+            "journal": "The American journal of psychiatry",
+            "year": "1995",
+            "authors": [
+              "Romach M",
+              "Busto U",
+              "Somer G",
+              "Kaplan H L",
+              "Sellers E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Alprazolam",
+              "Ambulatory Care",
+              "Anxiety Disorders",
+              "Depressive Disorder",
+              "Drug Administration Schedule",
+              "Female",
+              "Humans",
+              "Lorazepam",
+              "Male",
+              "Mental Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7625464/"
+          },
+          {
+            "pmid": "11686052",
+            "title": "[Alpha-interferon and mental disorders].",
+            "abstract": "The interferon alpha stands as a reference both in oncology and virology. But its efficiency is limited by frequent somatic as well as neuropsychic side effects. As a matter of fact, the reduction or the ending of a chemotherapy treatment come chiefly from the psychiatric complications caused by the use of interferon. For about 30% of patients, various psychic disorders are noticed: personality disorders, mood disorders, anxiety states, suicidal tendencies, manic and psychotic symptoms. We thus propose a review which shall be completed by a discussion on wether the interferon is responsible or not of the appearance of the described mental disorders. We shall conclude with a synthesis of the proposed practical management when confronted with such disorders. Psychiatric complications under interferon-Alpha. The appearance of psychiatric complications caused by interferon has been the subject of many publications. They have also raised the question of the toxicity mechanism which is still",
+            "journal": "L'Encephale",
+            "year": "2001",
+            "authors": [
+              "Debien C",
+              "De Chouly De Lenclave M B",
+              "Foutrein P",
+              "Bailly D"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adaptation, Psychological",
+              "Adjuvants, Immunologic",
+              "Anxiety Disorders",
+              "Bipolar Disorder",
+              "Depressive Disorder",
+              "Humans",
+              "Interferon-alpha",
+              "Mental Disorders",
+              "Psychoses, Substance-Induced",
+              "Suicide, Attempted"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11686052/"
+          },
+          {
+            "pmid": "2865869",
+            "title": "[New proposals for the development of the concepts of neurotic anxiety, major depression and panic attack].",
+            "abstract": "An accumulation of research results, laboratory and clinic, leads to revise the classification of disorders of anxious nature (anxiety disorders according to the DSM-III). An empirical confirmation allows to separate anxious states from panic attack and phobic behavior constituting a component separated from generalized anxiety, exaggerated emotional reactions to stress agents and obsessive-compulsive disorders. The response to pharmacotherapeutic agents and the important number of anxiety depression and mixed depression tends to make permeable the separating line between the nosological entities anxiety and depression. The observations of subjects suffering from endogenous anxiety obliges to revise the classification by introducing three varieties of neurotic anxiety: phobic endogenous anxiety, endogenous anxiety without phobic formation, and exogenous anxiety. Endogenous anxiety is close to the concept of anxious thymopathy. By its pragmatic conception, modifications obtained by psyc",
+            "journal": "Acta psychiatrica Belgica",
+            "year": "1985",
+            "authors": [
+              "Xhenseval B"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents",
+              "Anxiety",
+              "Anxiety Disorders",
+              "Benzodiazepines",
+              "Depressive Disorder",
+              "Diagnosis, Differential",
+              "Fear"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2865869/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "obsessive-compulsive disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20obsessive-compulsive%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "chondromyxoid fibroma",
+        "txgnn_score": 0.9811586141586304,
+        "txgnn_rank": 3539,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "chondromyxoid fibroma",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20chondromyxoid%20fibroma"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "specific developmental disorder",
+        "txgnn_score": 0.98023921251297,
+        "txgnn_rank": 3681,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05925140",
+            "title": "Comparative LUSZ Therapeutic Study of Antiviral, Antiretroviral, and Immunosuppressive Treatments in Hospitalized COVID-19 Patients With High-Risk Factors, Biomarkers, and Disease Progression.",
+            "phase": "PHASE1",
+            "status": "UNKNOWN",
+            "start_date": "2020-03-28",
+            "completion_date": "2025-12-30",
+            "country": "Lebanon",
+            "enrollment": 1000,
+            "brief_summary": "This study aims first to assess the efficacy, safety, and effectiveness of the LUSZ COVID-19 therapy consisting of a comparative study of three different treatment approaches: antiviral, antiretroviral, and immunosuppressive IL-6 receptor antagonist, and second to identify high-risk factors and biomarkers associated with fatal outcomes in hospitalized COVID-19 patients. The study seeks to validate a novel predictive scoring model for disease progression and evaluate the impact of these treatment",
+            "eligibility_criteria": "Eligibility Criteria for Hospitalized Patients:\n\nInclusion criteria:\n\n* Age ≥ 18 years.\n* Gender-neutral\n* Fulfills WHO case definition, including a positive PCR for COVID-19 from any specimen (e.g., nasopharyngeal, throat, saliva, urine, stool, and other bodily fluid).\n* Not received any therapy (r",
+            "endpoints": [
+              "Mortality rate",
+              "Clinical improvement rate"
+            ],
+            "sponsor": "Lebanese University",
+            "url": "https://clinicaltrials.gov/study/NCT05925140"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03702803",
+            "title": "Efficacy and Safety Study of a IMSS Developed Phytopharmaceutical for the Treatment of Anxiety. Double Blind and Randomized Clinical Trial Controlled With Alprazolam",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2016-03-16",
+            "completion_date": "2020-10-19",
+            "country": "Mexico",
+            "enrollment": 122,
+            "brief_summary": "The investigator's group at the Mexican Institute of Social Security has worked for more than 20 years in the scientific research of the plant species Galphimia glauca Cav., which is used in Mexican Traditional Medicine for the treatment of mental disorders. With the obtained results it was possible the development of a phytopharmaceutical elaborated with the extract of this plant, which was standardized in its content of Galphimine-B (G-B). This new compound is a nor, seco-triterpene, which pos",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes\n* Eighteen years of age and older\n* Clinical diagnosis of Generalized Anxiety Disorder\n* Eighteen points or more on Hamilton Anxiety Scale\n* Without previous treatment for this disease (for at least one month before).\n* In case of being women of reproduc",
+            "endpoints": [
+              "Therapeutic efficacy: improvement of the clinical condition higher than 90%. It will be measured by means of the Hamilton Rating Scale for Anxiety."
+            ],
+            "sponsor": "Coordinación de Investigación en Salud, Mexico",
+            "url": "https://clinicaltrials.gov/study/NCT03702803"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "30891943",
+            "title": "Use of benzodiazepine medications during pregnancy and potential risk for birth defects, National Birth Defects Prevention Study, 1997-2011.",
+            "abstract": "Benzodiazepine medications can be used to treat anxiety, a condition affecting 15% of women of childbearing age in the United States. Studies have shown conflicting results for the association between benzodiazepine use during pregnancy and birth defects.",
+            "journal": "Birth defects research",
+            "year": "2019",
+            "authors": [
+              "Tinker Sarah C",
+              "Reefhuis Jennita",
+              "Bitsko Rebecca H",
+              "Gilboa Suzanne M",
+              "Mitchell Allen A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Adolescent",
+              "Adult",
+              "Benzodiazepines",
+              "Case-Control Studies",
+              "Congenital Abnormalities",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Logistic Models"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30891943/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "specific developmental disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20specific%20developmental%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "faciodigitogenital syndrome",
+        "txgnn_score": 0.9795330166816713,
+        "txgnn_rank": 3766,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "faciodigitogenital syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20faciodigitogenital%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "phobic disorder",
+        "txgnn_score": 0.974706768989563,
+        "txgnn_rank": 4341,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03220113",
+            "title": "Safety and Efficacy of De-Novo Algorithm and Formula in the Treatment of Patients With Intractable Chronic Craniofacial Neuralgia, or Chronic Migraine Headaches.",
+            "phase": "PHASE1, PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2017-07-01",
+            "completion_date": "2019-07-01",
+            "country": "United States",
+            "enrollment": 100,
+            "brief_summary": "The purpose of the study is assessment of the safety and efficacy of the De-Novo therapy in the treatment of craniofacial neuralgia and migraine headaches.This is an open-label study of simultaneous administration of combination of dexamethasone, lidocaine, and thiamine into the trigeminal nerve branches as well as greater and lesser occipital nerve bilaterally in one session.\n\nPatients who meet the exclusion and inclusion criteria are eligible for trial if they have experienced chronic migraine",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* • Age: 10-90 years\n\n  * Ability to describe headache and its symptoms\n  * Ability to read, comprehend, and legibly and reliably record information\n  * Ability to provide written, informed consent, and respond to pre and post treatment questionnaires, children's guardian accept",
+            "endpoints": [
+              "Assessment of the safety to the De-Novo treatment formula in study patients"
+            ],
+            "sponsor": "Corona Doctors Medical Clinics, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT03220113"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05737511",
+            "title": "Efficacy of Hydroxyzine Versus Treatment as Usual for Panic Disorder: An Eight-Week, Open Label, Pilot, Randomized Controlled Trial.",
+            "phase": "PHASE4",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2023-12-30",
+            "completion_date": "2026-12-30",
+            "country": "N/A",
+            "enrollment": 80,
+            "brief_summary": "The aim of this study is to evaluate the efficacy of hydroxyzine compared to treatment as usual (TAU) for patients with panic disorder. By conducting a pilot study, we hope to provide initial data on the feasibility and potential impact of hydroxyzine for this population. This will inform the design and power calculations of a larger, more comprehensive study in the future.\n\nObjectives:\n\nTo assess the feasibility of conducting a randomized controlled trial (RCT) of hydroxyzine for panic disorder",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The study will recruit adult patients (18 years and older)\n* Confirmed diagnosis of the panic disorder according to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5).\n* Participants will be included if they have had at least one panic attack per week for the la",
+            "endpoints": [
+              "Change in Panic Disorder Severity Scale (PDSS) Mean Score"
+            ],
+            "sponsor": "Sultan Qaboos University",
+            "url": "https://clinicaltrials.gov/study/NCT05737511"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00555139",
+            "title": "Double-blind, Randomized, Placebo and Alprazolam-controlled Three-period Crossover Incomplete Block Design Study to Compare Putative Anxiolytic-like fRMI Activity of GW876008 and GSK561679 After Single-dose Administration in Subjects With Social Anxiety Disorder (SAD)",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2007-03-27",
+            "completion_date": "2008-01-10",
+            "country": "Spain",
+            "enrollment": 35,
+            "brief_summary": "To compare by neuroimaging techniques and public speaking, the way social anxiety patients respond after the administration of GW876008, GSK561679, alprazolam and placebo",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Outpatient with a primary diagnosis of Social Anxiety\n* LSAS score of 50 or more.\n* Men or women who are between 18 and 64 years of age. Women will be included in this study only if the reproductive toxicology data available at the time of study start will allow their inclusio",
+            "endpoints": [
+              "Changes of fMRI activation in amygdala of subjects with SAD during an emotional task after having received different compounds. Change in the VAS score in response to Public Speaking stress after having received different compounds."
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT00555139"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "2963053",
+            "title": "The Hamilton Anxiety Scale: reliability, validity and sensitivity to change in anxiety and depressive disorders.",
+            "abstract": "The Hamilton Anxiety Scale (HAM-A) was tested for reliability and validity in two different samples, one sample (n = 97) defined by anxiety disorders, the other sample (n = 101) defined by depressive disorders. The reliability and the concurrent validity of the HAM-A and its subscales proved to be sufficient. Internal validity tested by latent structure analysis was insufficient. The major problems with the HAM-A are that (1) anxiolytic and antidepressant effects cannot be clearly distinguished; (2) the subscale of somatic anxiety is strongly related to somatic side effects. The applicability of the HAM-A in anxiolytic treatment studies is therefore limited. More specific anxiety scales are needed.",
+            "journal": "Journal of affective disorders",
+            "year": "1988",
+            "authors": [
+              "Maier W",
+              "Buller R",
+              "Philipp M",
+              "Heuser I"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Amitriptyline",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Depressive Disorder",
+              "Humans",
+              "Imipramine",
+              "Panic",
+              "Psychological Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2963053/"
+          },
+          {
+            "pmid": "2859581",
+            "title": "Generalized anxiety disorder.",
+            "abstract": "This article discusses generalized anxiety disorder in terms of its defining characteristics, its relationship to other psychiatric disorders, its psychobiology, and its treatment. Although generalized anxiety disorder is frequently encountered in general practice, it has been less systematically investigated than the more dramatic forms of anxiety disorders such as panic disorder and phobias. It is concluded that although not as sharply defined as implied by DSM-III, generalized anxiety disorder appears to be a useful diagnostic category.",
+            "journal": "The Psychiatric clinics of North America",
+            "year": "1985",
+            "authors": [
+              "Hoehn-Saric R",
+              "McLeod D R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Alprazolam",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Barbiturates",
+              "Benzodiazepines",
+              "Buspirone",
+              "Diagnosis, Differential"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2859581/"
+          },
+          {
+            "pmid": "21869686",
+            "title": "The efficacy and safety of alprazolam versus other benzodiazepines in the treatment of panic disorder.",
+            "abstract": "We performed a meta-analysis of all single- or double-blind, randomized controlled trials comparing alprazolam to another benzodiazepine in the treatment of adult patients meeting the Diagnostic and Statistical Manual of Mental Disorders, Third or Fourth Edition, criteria for panic disorder or agoraphobia with panic attacks. Eight studies met inclusion criteria, describing a total of at least 631 randomized patients. In the pooled results, there were no significant differences in efficacy between alprazolam and the comparator benzodiazepines on any of the prespecified outcomes: improvement in mean panic attack frequency (between-arm weighted mean difference of 0.6 panic attacks per week; 95% confidence interval [CI], -0.3 to 1.6), improvement in Hamilton Anxiety Rating Scale score (weighted mean difference of 0.8 points; 95% CI, -0.5 to 2.1), and proportion of patients free of panic attacks at the final evaluation (pooled relative risk, 1.1; 95% CI, 0.9-1.4). Statistical heterogeneity ",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2011",
+            "authors": [
+              "Moylan Steven",
+              "Staples John",
+              "Ward Stephanie Alison",
+              "Rogerson Jan",
+              "Stein Dan J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Benzodiazepines",
+              "Humans",
+              "Panic Disorder",
+              "Psychiatric Status Rating Scales",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21869686/"
+          },
+          {
+            "pmid": "2040715",
+            "title": "Alprazolam levels and response in panic disorder: preliminary results.",
+            "abstract": "Fifty-five young adult patients completed a study comparing alprazolam, propranolol, and placebo in the treatment of panic disorder and agoraphobia with panic attacks. Twenty completed 5 weeks of treatment with alprazolam. No concomitant psychological treatment was administered. Plasma alprazolam levels were determined at baseline and at the end of the trial by means of automated gas chromatography. These levels were significantly correlated with dose (p = 0.001). Dividing the data into quartiles based on alprazolam concentration, no direct, linear relationship was found between alprazolam levels and response (as defined by a criterion of zero panic attacks). However, analysis of the combined middle two quartiles versus the combined upper and lower quartiles showed a positive trend toward a curvilinear relationship; i.e., there was a greater response rate within the 18-62 ng/ml concentration range than in the combined 0-17 plus 63-107 ng/ml range, (chi 2 = 2.4; p = 0.12). The findings ",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "1991",
+            "authors": [
+              "Wincor M Z",
+              "Munjack D J",
+              "Palmer R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Chromatography, Gas",
+              "Female",
+              "Humans",
+              "Male",
+              "Panic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2040715/"
+          },
+          {
+            "pmid": "3282479",
+            "title": "Alprazolam in panic disorder and agoraphobia: results from a multicenter trial. III. Discontinuation effects.",
+            "abstract": "Preliminary reports of discontinuation of alprazolam therapy in patients with panic disorder have revealed worsening of symptoms despite gradual withdrawal of medication. In this study, 126 patients with panic disorder and phobic avoidance received either alprazolam or placebo in doses of 2 to 10 mg daily for eight weeks. The medication was tapered over a period of four weeks, and patients were observed for another two weeks after all medication was discontinued. Sixty of the 63 alprazolam-treated patients and 49 of the 63 placebo-treated patients entered the taper and discontinuation study. After improvement in the active treatment period, the alprazolam-treated group had significant relapse between the first and last week of taper. However, during the second postdiscontinuation week, outcome scores were not significantly different from those of the placebo-treated group who did not deteriorate during taper. Twenty-seven percent of the alprazolam-treated group reported a rebound of pa",
+            "journal": "Archives of general psychiatry",
+            "year": "1988",
+            "authors": [
+              "Pecknold J C",
+              "Swinson R P",
+              "Kuch K",
+              "Lewis C P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Drug Administration Schedule",
+              "Fear",
+              "Female",
+              "Humans",
+              "Male",
+              "Outcome and Process Assessment, Health Care"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3282479/"
+          },
+          {
+            "pmid": "7802851",
+            "title": "Safety and side-effects of alprazolam. Controlled study in agoraphobia with panic disorder.",
+            "abstract": "The widespread use of benzodiazepines has led to increasing recognition of their unwanted effects. The efficacy of alprazolam and placebo in panic disorder with agoraphobia, and the side-effect and adverse effect profiles of both drug groups were measured.",
+            "journal": "The British journal of psychiatry : the journal of mental science",
+            "year": "1994",
+            "authors": [
+              "O'Sullivan G H",
+              "Noshirvani H",
+              "Başoğlu M",
+              "Marks I M",
+              "Swinson R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7802851/"
+          },
+          {
+            "pmid": "2651490",
+            "title": "Alprazolam, propranolol, and placebo in the treatment of panic disorder and agoraphobia with panic attacks.",
+            "abstract": "Fifty-five patients completed a 5-week double-blind study comparing alprazolam, propranolol, and placebo in the treatment of panic disorder and agoraphobia with panic attacks. There was no concomitant behavioral treatment. Patient and therapist rating scales included Sheehan's Panic and Anxiety Attack Scales, the Marks-Sheehan Phobia Scale, the Hamilton Anxiety Scale, the Hamilton Depression Scale, and the Side Effects Checklist. The results generally support the efficacy of alprazolam, but not propranolol, in the treatment of panic disorder and agoraphobia with panic attacks. The significance of the results are discussed, as well as a number of the unique aspects of our procedures and patient population.",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "1989",
+            "authors": [
+              "Munjack D J",
+              "Crocker B",
+              "Cabe D",
+              "Brown R",
+              "Usigli R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Fear",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2651490/"
+          },
+          {
+            "pmid": "8101126",
+            "title": "Alprazolam and exposure alone and combined in panic disorder with agoraphobia. A controlled study in London and Toronto.",
+            "abstract": "A cross-national randomised trial of alprazolam for chronic panic disorder with agoraphobia was run. Compared with previous trials it had three new features: an exposure therapy contrast group, a six-month treatment-free follow-up, and a low rate of early placebo drop-outs ('non-evaluables'). The dose of alprazolam was high (5 mg/day). The 154 patients had eight weeks of: alprazolam and exposure (combined treatment); or alprazolam and relaxation (a psychological placebo); or placebo and exposure; or placebo and relaxation (double placebo). Drug taper was from weeks 8 to 16. Follow-up was to week 43. Results were similar at both sites. Treatment integrity was good. All four treatment groups, including double placebo, improved well on panic throughout. On non-panic measures, by the end of treatment, both alprazolam and exposure were effective, but exposure had twice the effect size of alprazolam. During taper and follow-up, gains after alprazolam were lost, while gains after exposure wer",
+            "journal": "The British journal of psychiatry : the journal of mental science",
+            "year": "1993",
+            "authors": [
+              "Marks I M",
+              "Swinson R P",
+              "Başoğlu M",
+              "Kuch K",
+              "Noshirvani H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Agoraphobia",
+              "Alprazolam",
+              "Arousal",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8101126/"
+          },
+          {
+            "pmid": "2859580",
+            "title": "Monoamine oxidase inhibitors and alprazolam in the treatment of panic disorder and agoraphobia.",
+            "abstract": "This article reviews the evidence on the efficacy of monoamine oxidase inhibitors (MAOIs) and of alprazolam in the treatment of panic disorder and agoraphobia. It also presents guidelines to the clinician on how to implement these treatments in practice.",
+            "journal": "The Psychiatric clinics of North America",
+            "year": "1985",
+            "authors": [
+              "Sheehan D V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Anxiety Disorders",
+              "Benzodiazepines",
+              "Cheese",
+              "Diet",
+              "Drug-Related Side Effects and Adverse Reactions",
+              "Fear",
+              "Humans",
+              "Hypertension"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2859580/"
+          },
+          {
+            "pmid": "3282478",
+            "title": "Alprazolam in panic disorder and agoraphobia: results from a multicenter trial. I. Efficacy in short-term treatment.",
+            "abstract": "Following promising preliminary evidence, the benzodiazepine-derivative alprazolam was studied in a large, placebo-controlled, eight-week, flexible-dose trial in patients with agoraphobia with panic attacks and panic disorder. Of 526 patients, 481 completed three weeks of treatment; however, significantly more placebo (102/234) than alprazolam (21/247) recipients subsequently dropped out of the trial, primarily citing ineffectiveness (of placebo) as the reason. Alprazolam was found to be effective and well tolerated. There were significant alprazolam-placebo differences in improvement for (1) spontaneous and situational panic attacks, (2) phobic fears, (3) avoidance behavior, (4) anxiety, and (5) secondary disability, all significant by the end of week 1. At the primary comparison point (week 4), 82% of the patients receiving alprazolam were rated moderately improved or better vs 43% of the placebo group. At that point, 50% of the alprazolam recipients vs 28% of placebo recipients were",
+            "journal": "Archives of general psychiatry",
+            "year": "1988",
+            "authors": [
+              "Ballenger J C",
+              "Burrows G D",
+              "DuPont R L",
+              "Lesser I M",
+              "Noyes R"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Fear",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3282478/"
+          },
+          {
+            "pmid": "1415824",
+            "title": "Alprazolam plasma concentrations and treatment response in panic disorder and agoraphobia.",
+            "abstract": "The authors' goal was to evaluate the relationship between plasma concentrations of alprazolam and both treatment response and side effects in patients with panic disorder and agoraphobia.",
+            "journal": "The American journal of psychiatry",
+            "year": "1992",
+            "authors": [
+              "Lesser I M",
+              "Lydiard R B",
+              "Antal E",
+              "Rubin R T",
+              "Ballenger J C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Clinical Protocols",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Drug Monitoring",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1415824/"
+          },
+          {
+            "pmid": "1862730",
+            "title": "Efficacy and safety of alprazolam, imipramine and placebo in treating panic disorder. A Scandinavian multicenter study.",
+            "abstract": "As part of the cross-national collaborative panic study, a double-blind comparison of alprazolam, imipramine and placebo was performed in Scandinavian outpatients with panic disorder according to DSM-III; 41 patients were randomly allocated to each drug. Doses were increased for 3 weeks to an average of about 6 mg alprazolam, 150 mg imipramine and a corresponding number of placebo capsules, which were then given for 5 weeks. No more than supportive psychotherapy was given. Key symptoms were rated weekly. The drugs were tapered for 4 or 8 weeks and the patients were followed up for 6 months. Compliance at 3 weeks was 95% for alprazolam, 83% for imipramine and 88% for placebo; at 8 weeks 95% for alprazolam, 73% for imipramine and 46% for placebo. At 3 weeks plasma determination showed that the proportion taking diazepam outside the protocol was 0% for alprazolam, 19% for imipramine and 31% for placebo; at 8 weeks the corresponding proportions were 3%, 11% and 16%. Intention-to-treat anal",
+            "journal": "Acta psychiatrica Scandinavica. Supplementum",
+            "year": "1991",
+            "authors": [
+              "Andersch S",
+              "Rosenberg N K",
+              "Kullingsjö H",
+              "Ottosson J O",
+              "Bech P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Arousal",
+              "Child",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Imipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1862730/"
+          },
+          {
+            "pmid": "9259039",
+            "title": "Agoraphobia and panic disorder: 3.5 years after alprazolam and/or exposure treatment.",
+            "abstract": "Long-term follow-ups after controlled studies of exposure therapy for agoraphobia/panic are few. Most of these studies found that improvement during treatment persists to the end of follow-up.",
+            "journal": "Psychotherapy and psychosomatics",
+            "year": "1997",
+            "authors": [
+              "Kiliç C",
+              "Noshirvani H",
+              "Başoğlu M",
+              "Marks I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Panic Disorder",
+              "Psychotherapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9259039/"
+          },
+          {
+            "pmid": "3358644",
+            "title": "Alprazolam in panic disorder and agoraphobia: results from a multicenter trial. II. Patient acceptance, side effects, and safety.",
+            "abstract": "In a multicenter placebo-controlled study, the safety, side effects, and patient acceptance of alprazolam for the treatment of panic disorder and agoraphobia were examined. A total of 525 patients meeting DSM-III criteria for agoraphobia with panic attacks or panic disorder were randomly assigned to receive alprazolam or placebo, which they took for eight weeks. The mean daily dose at the end of the study was 5.7 mg of alprazolam or 7.5 capsules of placebo daily. Potentially serious reactions to alprazolam occurred in ten of 263 subjects who received the drug. These included acute intoxication (three), hepatitis (two), mania (two), amnesia (one), aggressive behavior (one), and depression (one). Treatment-related side effects that were worse in patients taking alprazolam than in those taking placebo included sedation, fatigue, ataxia, slurred speech, and amnesia. Sedation was the most frequent but tended to subside with dose reduction or continued administration of the drug. Patient acc",
+            "journal": "Archives of general psychiatry",
+            "year": "1988",
+            "authors": [
+              "Noyes R",
+              "DuPont R L",
+              "Pecknold J C",
+              "Rifkin A",
+              "Rubin R T"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Ataxia",
+              "Chemical and Drug Induced Liver Injury",
+              "Fatigue",
+              "Fear",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3358644/"
+          },
+          {
+            "pmid": "8151049",
+            "title": "Predictors of response to alprazolam and placebo in patients with panic disorder.",
+            "abstract": "Date from a panic disorder treatment study with 506 patients, comparing alprazolam and placebo in a double-blind manner for 8 weeks, were analyzed to identify demographic and clinical characteristics of the patients that might predict response to treatment. The strongest predictors of response to alprazolam were age over 40, and lower baseline levels of anxiety and phobic symptoms. Predictors of response to placebo were weaker and, in addition to lower levels anxiety and panic attacks, included a lack of previous psychiatric treatment.",
+            "journal": "Journal of affective disorders",
+            "year": "1994",
+            "authors": [
+              "Woodman C L",
+              "Noyes R",
+              "Ballenger J C",
+              "Lydiard R B",
+              "Sievers G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alprazolam",
+              "Arousal",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Panic Disorder",
+              "Personality Inventory"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8151049/"
+          },
+          {
+            "pmid": "2902321",
+            "title": "Agoraphobia.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1988",
+            "authors": [],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Behavior Therapy",
+              "Humans",
+              "Imipramine",
+              "Phobic Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2902321/"
+          },
+          {
+            "pmid": "7892364",
+            "title": "Memory functions, alprazolam and exposure therapy: a controlled longitudinal study of agoraphobia with panic disorder.",
+            "abstract": "Benzodiazepines (BZs) produce transient anterograde amnesia when given to normal subjects. The present longitudinal study assessed whether BZs impair memory functions in a clinically anxious group. Eighty-two agoraphobics with panic disorder were randomly allocated to one of four treatment groups resulting from a combination of two drug treatments (alprazolam or placebo) and two psychological treatments (exposure or relaxation). Of these, 38 subjects were assessed on a range of objective and subjective indices of memory and mood at three time points: before treatment, after 8 weeks of treatment and again at 24 weeks when patients had been free of medication from 5-8 weeks. Alprazolam produced pronounced impairments on a word recall task. At the 24-week medication-free follow-up, alprazolam patients were still impaired on the task compared with placebo patients. Alprazolam did not impair performance on an implicit memory task and did not affect digit span. Differences between psychologi",
+            "journal": "Psychological medicine",
+            "year": "1994",
+            "authors": [
+              "Curran H V",
+              "Bond A",
+              "O'Sullivan G",
+              "Bruce M",
+              "Marks I"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Affect",
+              "Agoraphobia",
+              "Alprazolam",
+              "Arousal",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Double-Blind Method",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7892364/"
+          },
+          {
+            "pmid": "22204483",
+            "title": "Treatment strategies of obsessive-compulsive disorder and panic disorder/agoraphobia.",
+            "abstract": "Anxiety disorders represent the most prevalent psychiatric disorders. In addition, a considerable burden is associated with them, not only for individual sufferers, but also for the health care system. However, many patients who might benefit from treatment are not diagnosed or treated. This may partly be due to lack of awareness of the anxiety disorders by primary care practitioners and by the sufferers themselves. In addition, the stigma still associated with psychiatric disorders and lack of confidence in psychiatric treatments are factors leading to no/under recognition and treatment, or the use of unnecessary or inappropriate treatments. This paper aims to provide a comprehensive review of recommendations for the pharmacological treatment of two common anxiety disorders, in particular obsessive-compulsive disorder (OCD) and panic disorder (PD). The first-line treatments of OCD include medium-high doses of selective serotonin reuptake inhibitors (SSRIs) and clomipramine, a tricycli",
+            "journal": "Current topics in medicinal chemistry",
+            "year": "2012",
+            "authors": [
+              "Marazziti Donatella",
+              "Carlini Marina",
+              "Dell'Osso Liliana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Alprazolam",
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents, Tricyclic",
+              "Clomipramine",
+              "Cognitive Behavioral Therapy",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Hydroxyzine",
+              "Monoamine Oxidase Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22204483/"
+          },
+          {
+            "pmid": "7921716",
+            "title": "Alprazolam and exposure for panic disorder with agoraphobia. Attribution of improvement to medication predicts subsequent relapse.",
+            "abstract": "Patients with panic disorder plus agoraphobia had 8 weeks of drug treatment (alprazolam or placebo) plus psychological treatment (exposure or relaxation). At the end of treatment at week 8, 40 patients who had become much/very much improved rated how much their gains were attributable to medication or to their own efforts. During the tapering-off to week 16, and treatment-free follow-up to week 43, patients who at week 8 had attributed their gains to medication and felt less confident in coping without tablets had more severe withdrawal symptoms and greater loss of gains than did patients who at week 8 had attributed their gains to their own efforts during treatment. Baseline illness severity, greater age, higher expectations from drug treatment, and more side-effects of drugs during treatment all predicted more external attributions (i.e. to the effect of drugs) but did not independently predict relapse. Patients on alprazolam compared with placebo had more drug attributions. Though d",
+            "journal": "The British journal of psychiatry : the journal of mental science",
+            "year": "1994",
+            "authors": [
+              "Başoğlu M",
+              "Marks I M",
+              "Kiliç C",
+              "Brewin C R",
+              "Swinson R P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Alprazolam",
+              "Arousal",
+              "Combined Modality Therapy",
+              "Desensitization, Psychologic",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7921716/"
+          },
+          {
+            "pmid": "1862734",
+            "title": "Alprazolam, imipramine and placebo treatment of panic disorder: predicting therapeutic response.",
+            "abstract": "Factors that predicted the outcome of drug treatment (alprazolam or imipramine) of panic disorder were studied in a sample of 123 Scandinavian patients participating in a multicenter placebo-controlled 8-week trial. The attrition rate was 95% for alprazolam, 73% for imipramine and 46% for placebo. For the intention-to-treat and 3-week-completer samples, drugs and anxiety symptoms at baseline were the best predictors of improvement on the Global Improvement Scale and on symptom scales focusing on panic attacks, phobic behavior and anticipatory anxiety. For completers of the 8-week trial, only baseline scores predicted outcome. Generally, more severe symptoms at baseline predicted a worse outcome. A subsample of patients had a marked placebo response. Avoidance, sex, age, childhood psychopathology and previous treatment experience had no or only a weak impact on the outcome. The relationship between panic disorder and mood disorder is presented elsewhere.",
+            "journal": "Acta psychiatrica Scandinavica. Supplementum",
+            "year": "1991",
+            "authors": [
+              "Rosenberg R",
+              "Bech P",
+              "Mellergård M",
+              "Ottosson J O"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alprazolam",
+              "Anxiety Disorders",
+              "Double-Blind Method",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Imipramine",
+              "Male",
+              "Panic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1862734/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Alprazolam",
+          "disease": "phobic disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Alprazolam%20phobic%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Alprazolam",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00404",
+    "name": "Alprazolam",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Alprazolam"
+      },
+      "queried_at": "2026-03-24T16:18:27.178977",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Alprazolam"
+      },
+      "queried_at": "2026-03-24T16:18:27.181905",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Alprazolam"
+      },
+      "queried_at": "2026-03-24T16:18:27.693779",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-24T16:18:28.666270",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-24T16:18:32.047166",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-24T16:18:32.592926",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "insomnia (disease)"
+      },
+      "queried_at": "2026-03-24T16:18:33.391581",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:18:33.794545",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:18:37.121562",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:18:37.444170",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:18:38.366657",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:18:38.893681",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:18:42.192907",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:18:42.340495",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:18:45.362572",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-24T16:18:45.841409",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-24T16:18:49.073070",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-24T16:18:49.696711",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit-hyperactivity disorder"
+      },
+      "queried_at": "2026-03-24T16:18:53.318678",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-24T16:18:53.843858",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-24T16:18:57.093726",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-24T16:18:57.965183",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "attention deficit hyperactivity disorder, inattentive type"
+      },
+      "queried_at": "2026-03-24T16:18:58.942893",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:18:59.461840",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:19:02.843560",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:19:03.356647",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:19:06.063795",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-24T16:19:06.693603",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-24T16:19:13.517888",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-24T16:19:18.523935",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "chondromyxoid fibroma"
+      },
+      "queried_at": "2026-03-24T16:19:19.794330",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-24T16:19:20.220343",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-24T16:19:23.823707",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-24T16:19:24.450948",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "specific developmental disorder"
+      },
+      "queried_at": "2026-03-24T16:19:26.773103",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-24T16:19:27.250020",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-24T16:19:30.614209",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-24T16:19:31.197610",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "faciodigitogenital syndrome"
+      },
+      "queried_at": "2026-03-24T16:19:32.052961",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:19:32.494523",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:19:35.643846",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:19:35.844493",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Alprazolam",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:19:38.805039",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:19:38.807227"
+  }
+}

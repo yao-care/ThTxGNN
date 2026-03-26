@@ -1,0 +1,2620 @@
+{
+  "drug": {
+    "inn": "Mirtazapine",
+    "drugbank_id": "DB00370",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "Ohdo syndrome and variants",
+        "txgnn_score": 0.994175374507904,
+        "txgnn_rank": 1321,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "Ohdo syndrome and variants",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20Ohdo%20syndrome%20and%20variants"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blepharophimosis - intellectual disability syndrome, Ohdo type",
+        "txgnn_score": 0.9911453127861024,
+        "txgnn_rank": 1893,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20blepharophimosis%20-%20intellectual%20disability%20syndrome%2C%20Ohdo%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "benign paroxysmal torticollis of infancy",
+        "txgnn_score": 0.9911382794380188,
+        "txgnn_rank": 1894,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "benign paroxysmal torticollis of infancy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20benign%20paroxysmal%20torticollis%20of%20infancy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "ligneous conjunctivitis",
+        "txgnn_score": 0.989420771598816,
+        "txgnn_rank": 2140,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "ligneous conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20ligneous%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "childhood apraxia of speech",
+        "txgnn_score": 0.9869553446769714,
+        "txgnn_rank": 2571,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "childhood apraxia of speech",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20childhood%20apraxia%20of%20speech"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "dysthymic disorder",
+        "txgnn_score": 0.986373782157898,
+        "txgnn_rank": 2683,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00080158",
+            "title": "Treatment of Adolescent Suicide Attempters (TASA)",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-03",
+            "completion_date": "2007-06",
+            "country": "United States",
+            "enrollment": 120,
+            "brief_summary": "The purpose of this study is to compare the effects of three types of treatments for depressed teenagers who have attempted suicide.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* At least one suicide attempt or interrupted attempt within the past 45 days\n* Continuously reside with a primary caretaker (parent, legal guardian, foster parent) for at least 6 months that can provide legal consent",
+            "endpoints": [],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT00080158"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04437485",
+            "title": "eIMPACT-DM Pilot Trial: Depression Treatment to Reduce the Excess Diabetes Risk of People With Depression and Prediabetes",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2020-10-14",
+            "completion_date": "2022-08-29",
+            "country": "United States",
+            "enrollment": 46,
+            "brief_summary": "This pilot randomized controlled trial seeks: (1) to determine the preliminary efficacy of our modernized collaborative care intervention for depression in improving the diabetes risk markers of hemoglobin A1c and insulin resistance and (2) to explore whether somatic depressive symptoms - i.e., hyperphagia (increased appetite/weight) and/or hypersomnia (increased sleep) - moderate the effect of the eIMPACT-DM intervention on diabetes risk markers.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Current primary care patient in Eskenazi Health\n* Age ≥18 years\n* Depressive disorder at screening\n* Prediabetes at screening\n\nExclusion Criteria:\n\n* History of type 1 or type 2 diabetes\n* Major inflammatory conditions: HIV/AIDS, chronic kidney disease, systemic inflammatory d",
+            "endpoints": [
+              "Hemoglobin A1c at 6 Months"
+            ],
+            "sponsor": "Indiana University",
+            "url": "https://clinicaltrials.gov/study/NCT04437485"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02458690",
+            "title": "eIMPACT Trial: Modernized Collaborative Care to Reduce the Excess CVD Risk of Older Depressed Patients",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2015-07",
+            "completion_date": "2021-03",
+            "country": "United States",
+            "enrollment": 216,
+            "brief_summary": "The objective of this randomized controlled trial is to evaluate whether the investigators modernized IMPACT intervention for depression (eIMPACT), delivered before the onset of cardiovascular disease (CVD), reduces the risk of future CVD. Participants will be primary care patients who are depressed but do not have a history of CVD. Half of the participants will receive standard depression treatment in primary care (usual care), and the other half will receive one year of eIMPACT, a collaborativ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Primary care patients\n* Age ≥ 50 years\n* Current depressive disorder\n* Elevated cardiovascular disease risk\n\nExclusion Criteria:\n\n* History of clinical cardiovascular disease\n* Presence of the following chronic disorders: HIV/AIDS, chronic kidney disease, systemic inflammatory",
+            "endpoints": [
+              "Brachial Artery Flow-Mediated Dilation (FMD) at 12 Months"
+            ],
+            "sponsor": "Indiana University",
+            "url": "https://clinicaltrials.gov/study/NCT02458690"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "36999619",
+            "title": "Antidepressants for the treatment of depression in people with cancer.",
+            "abstract": "Major depression and other depressive conditions are common in people with cancer. These conditions are not easily detectable in clinical practice, due to the overlap between medical and psychiatric symptoms, as described by diagnostic manuals such as the Diagnostic and Statistical Manual of Mental Disorders (DSM) and International Classification of Diseases (ICD). Moreover, it is particularly challenging to distinguish between pathological and normal reactions to such a severe illness. Depressive symptoms, even in subthreshold manifestations, have a negative impact in terms of quality of life, compliance with anticancer treatment, suicide risk and possibly the mortality rate for the cancer itself. Randomised controlled trials (RCTs) on the efficacy, tolerability and acceptability of antidepressants in this population are few and often report conflicting results.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2023",
+            "authors": [
+              "Vita Giovanni",
+              "Compri Beatrice",
+              "Matcham Faith",
+              "Barbui Corrado",
+              "Ostuzzi Giovanni"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Antidepressive Agents",
+              "Antidepressive Agents, Tricyclic",
+              "Depression",
+              "Major Depressive Disorder",
+              "Mirtazapine",
+              "Neoplasms",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36999619/"
+          },
+          {
+            "pmid": "10446741",
+            "title": "Mirtazapine: other indications.",
+            "abstract": "During the last decade, it became evident that antidepressants may represent a useful treatment option for a variety of primary psychiatric disorders other than depression. Improved understanding of both underlying etiology of these disorders and pharmacologic modes of action of available treatments has led to an improvement in conditions such as panic disorder, generalized anxiety disorder, obsessive-compulsive disorder, posttraumatic stress disorder, and premenstrual dysphoric disorder. In addition, evidence is accumulating that some new antidepressants may be of therapeutic value in treatment of some subtypes of depressive disorder previously unresponsive to treatment or difficult to treat, such as seasonal affective disorder, depression with atypical features, and recurrent brief depression. Mirtazapine is an antidepressant with mode of action different from other currently available antidepressants. A review of currently available data of mirtazapine's use in indications other tha",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1999",
+            "authors": [
+              "Falkai P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Depressive Disorder",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Menopause"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10446741/"
+          },
+          {
+            "pmid": "10569129",
+            "title": "Dysthymic disorder: treatment with mirtazapine.",
+            "abstract": "Dysthymic disorder is a form of chronic depression which often has its onset in childhood or adolescence and is generally persistent throughout life. Although originally hypothesized to be preferentially treated with psychotherapy, recent pharmacological studies support the use of antidepressants to treat patients with dysthymic disorder. Mirtazapine is an antidepressant which has been recently released on the U.S. market. We studied the effects of 15 to 45 mg of mirtazapine in 15 patients with dysthymic disorder on an open label basis over a 10-week period. Four patients discontinued treatment because of sedation. Mirtazapine was effective and well tolerated in the remaining patients.",
+            "journal": "Depression and anxiety",
+            "year": "1999",
+            "authors": [
+              "Dunner D L",
+              "Hendrickson H E",
+              "Bea C",
+              "Budech C B",
+              "O'Connor E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Dose-Response Relationship, Drug",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Middle Aged",
+              "Mirtazapine",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10569129/"
+          },
+          {
+            "pmid": "21057250",
+            "title": "Delayed-onset mirtazapine-related leukopenia and rechallenge.",
+            "abstract": "",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2010",
+            "authors": [
+              "Dholakia Rashesh",
+              "Schleifer Steven J",
+              "Ahmad Yasir J",
+              "Narang Ishdeepsingh S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Dose-Response Relationship, Drug",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Leukopenia",
+              "Mianserin",
+              "Mirtazapine",
+              "Stress Disorders, Post-Traumatic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21057250/"
+          },
+          {
+            "pmid": "26742677",
+            "title": "Subjective hypnotic efficacy of Trazodone and Mirtazapine in patients with chronic insomnia: a retrospective, comparative study.",
+            "abstract": "To compare the efficacy of two sedating antidepressants, trazodone and mirtazapine, for the treatment of chronic insomnia.",
+            "journal": "Archives italiennes de biologie",
+            "year": "2015",
+            "authors": [
+              "Savarese Mariantonietta",
+              "Carnicelli Mafalda",
+              "Cardinali Valentina",
+              "Mogavero Maria Paola",
+              "Federico Francesco"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antidepressive Agents",
+              "Autosuggestion",
+              "Female",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26742677/"
+          },
+          {
+            "pmid": "21527126",
+            "title": "Efficacy of antidepressants for dysthymia: a meta-analysis of placebo-controlled randomized trials.",
+            "abstract": "The authors sought to determine the efficacy of antidepressants in dysthymic disorder and to compare antidepressant and placebo response rates between major depressive disorder (MDD) and dysthymic disorder.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2011",
+            "authors": [
+              "Levkovitz Yeciel",
+              "Tedeschini Enrico",
+              "Papakostas George I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Confidence Intervals",
+              "Major Depressive Disorder",
+              "Double-Blind Method",
+              "Dysthymic Disorder",
+              "Humans",
+              "Odds Ratio",
+              "Randomized Controlled Trials as Topic",
+              "Regression Analysis",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21527126/"
+          },
+          {
+            "pmid": "11310816",
+            "title": "Algorithm for the treatment of chronic depression.",
+            "abstract": "Chronic depression, which is marked by a course of illness lasting 2 years or more, encompasses 4 subtypes of depressive illness: (1) chronic major depressive disorder, (2) dysthymic disorder, (3) dysthymic disorder with major depressive disorder (\"double depression\"), and (4) major depressive disorder with poor interepisodic recovery (i.e., in incomplete remission). In the 1990s, chronic depression had a reported prevalence rate of 3% to 5% and accounted for 30% to 35% of all cases of depression in the United States. The authors present an algorithm modified from the Texas Medication Algorithm Project for patients with chronic depression. This treatment algorithm recommends a progression of steps or stages in treating chronic depression. The first stage is monotherapy with the selective serotonin reuptake inhibitors, nefazodone, bupropion sustained release, venlafaxine extended release, mirtazapine, or psychotherapy. Later options include combination therapy, electroconvulsive therapy",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2001",
+            "authors": [
+              "Trivedi M H",
+              "Kleiber B A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Algorithms",
+              "Antidepressive Agents",
+              "Chronic Disease",
+              "Clinical Trials as Topic",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Depressive Disorder",
+              "Drug Administration Schedule",
+              "Electroconvulsive Therapy",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11310816/"
+          },
+          {
+            "pmid": "18833439",
+            "title": "[Combining venlafaxine and mirtazapine for the treatment of major depression with dysthymia--\"double depression\"].",
+            "abstract": "",
+            "journal": "Revista brasileira de psiquiatria (Sao Paulo, Brazil : 1999)",
+            "year": "2008",
+            "authors": [
+              "Ladeira Rodolfo Braga",
+              "Cunha Fernando Toledo",
+              "Salgado João Vinícius",
+              "Teixeira Antônio Lúcio",
+              "Nicolato Rodrigo"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Antidepressive Agents, Tricyclic",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Drug Therapy, Combination",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Mianserin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18833439/"
+          },
+          {
+            "pmid": "17323021",
+            "title": "[Depression in family practice].",
+            "abstract": "",
+            "journal": "Medizinische Klinik (Munich, Germany : 1983)",
+            "year": "2007",
+            "authors": [
+              "Elstner Samuel",
+              "Burian Ronald",
+              "Diefenbacher Albert"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Aged",
+              "Antidepressive Agents, Tricyclic",
+              "Cognitive Behavioral Therapy",
+              "Depressive Disorder",
+              "Dysthymic Disorder",
+              "Family Practice",
+              "Female",
+              "Humans",
+              "Interview, Psychological"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17323021/"
+          },
+          {
+            "pmid": "31265070",
+            "title": "Antidepressants Reduced Risk of Mortality in Patients With Diabetes Mellitus: A Population-Based Cohort Study in Taiwan.",
+            "abstract": "The effect of antidepressant (ATD) use on mortality in patients with diabetes mellitus (DM) has not yet been sufficiently studied, although comorbid depression is common in this population.",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "2019",
+            "authors": [
+              "Chen Hong-Ming",
+              "Yang Yao-Hsu",
+              "Chen Ko-Jung",
+              "Lee Yena",
+              "McIntyre Roger S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antidepressive Agents",
+              "Antidepressive Agents, Tricyclic",
+              "Cohort Studies",
+              "Comorbidity",
+              "Depressive Disorder",
+              "Major Depressive Disorder",
+              "Diabetes Mellitus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31265070/"
+          },
+          {
+            "pmid": "15183602",
+            "title": "Reboxetine adjunct for partial or nonresponders to antidepressant treatment.",
+            "abstract": "To investigate the usefulness of the combination therapy with two antidepressants from different pharmacological families in treatment-resistant depressive patients.",
+            "journal": "Journal of affective disorders",
+            "year": "2004",
+            "authors": [
+              "Rubio Gabriel",
+              "San Luis",
+              "López-Muñoz Francisco",
+              "Alamo Cecilio"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Major Depressive Disorder",
+              "Drug Resistance",
+              "Drug Therapy, Combination",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15183602/"
+          },
+          {
+            "pmid": "10986577",
+            "title": "Panic attacks during discontinuation of mirtazepine.",
+            "abstract": "",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "2000",
+            "authors": [
+              "Klesmer J",
+              "Sarcevic A",
+              "Fomari V"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Appendectomy",
+              "Dysthymic Disorder",
+              "Hernia, Umbilical",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Middle Aged",
+              "Mirtazapine",
+              "Panic Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10986577/"
+          },
+          {
+            "pmid": "9671349",
+            "title": "Hypomania associated with mirtazapine augmentation of sertraline.",
+            "abstract": "",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1998",
+            "authors": [
+              "Soutullo C A",
+              "McElroy S L",
+              "Keck P E"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "1-Naphthylamine",
+              "Ambulatory Care",
+              "Antipsychotic Agents",
+              "Bipolar Disorder",
+              "Depressive Disorder",
+              "Drug Interactions",
+              "Drug Therapy, Combination",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9671349/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "dysthymic disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20dysthymic%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "agoraphobia",
+        "txgnn_score": 0.9860127568244934,
+        "txgnn_rank": 2741,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "33424664",
+            "title": "Pharmacotherapy of Anxiety Disorders: Current and Emerging Treatment Options.",
+            "abstract": "Anxiety disorders are the most prevalent psychiatric disorders and a leading cause of disability. While there continues to be expansive research in posttraumatic stress disorder (PTSD), depression and schizophrenia, there is a relative dearth of novel medications under investigation for anxiety disorders. This review's first aim is to summarize current pharmacological treatments (both approved and off-label) for panic disorder (PD), generalized anxiety disorder (GAD), social anxiety disorder (SAD), and specific phobias (SP), including selective serotonin reuptake inhibitors (SSRIs), serotonin norepinephrine reuptake inhibitors (SNRIs), azapirones (e.g., buspirone), mixed antidepressants (e.g., mirtazapine), antipsychotics, antihistamines (e.g., hydroxyzine), alpha- and beta-adrenergic medications (e.g., propranolol, clonidine), and GABAergic medications (benzodiazepines, pregabalin, and gabapentin). Posttraumatic stress disorder and obsessive-compulsive disorder are excluded from this ",
+            "journal": "Frontiers in psychiatry",
+            "year": "2020",
+            "authors": [
+              "Garakani Amir",
+              "Murrough James W",
+              "Freire Rafael C",
+              "Thom Robyn P",
+              "Larkin Kaitlyn"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33424664/"
+          },
+          {
+            "pmid": "11430175",
+            "title": "Depression and anxiety disorders.",
+            "abstract": "Depressive and anxiety disorders are common problems facing obstetrician-gynecologists. Although psychiatric disorders are equally common in men and women, women are at least twice as likely to present with depressive disorders and most anxiety disorders. The depressive disorders include major depression, dysthymia, seasonal affective disorder, and premenstrual dysphoric disorder. The anxiety disorders are panic disorder (with and without agoraphobia), generalized anxiety disorder, social phobia, obsessive compulsive disorder, and PTSD. One must diagnose and manage depressive and anxiety disorders during pregnancy, the purpureum, and while breastfeeding. General treatment principles include assessing suicide risk, psychotherapy, pharmacologic treatment, and an appropriate medical work-up for depressive and anxiety disorders. The SSRIs are the first-line treatment for most depressive and anxiety disorders because of data supporting their efficacy, the minimal need for dosage titration, ",
+            "journal": "Obstetrics and gynecology clinics of North America",
+            "year": "2001",
+            "authors": [
+              "Brown C S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Anxiety Disorders",
+              "Depression",
+              "Depression, Postpartum",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Panic Disorder",
+              "Pregnancy",
+              "Premenstrual Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11430175/"
+          },
+          {
+            "pmid": "11460893",
+            "title": "Separation anxiety disorder in children and adolescents: epidemiology, diagnosis and management.",
+            "abstract": "This paper provides an overview of the phenomenology, longitudinal outcome data, assessment and management of separation anxiety disorder (SAD) in children and adolescents. SAD is qualitatively different from early worries, and is characterised by an abnormal reactivity to real or imagined separation from attachment figures, which significantly interferes with daily activities and developmental tasks. Different epidemiological studies indicate a prevalence of 4 to 5% in children and adolescents. In contrast to other anxiety disorders, 50 to 75% of children with SAD come from homes of low socioeconomic status. The severity of symptomatology ranges from anticipatory uneasiness to full-blown anxiety about separation, but children are usually brought to the clinician when SAD results in school refusal or somatic symptoms. School refusal is reported in about 75% of children with SAD, and SAD is reported to occur in up to 80% of children with school refusal. Longitudinal studies have suggest",
+            "journal": "CNS drugs",
+            "year": "2001",
+            "authors": [
+              "Masi G",
+              "Mucci M",
+              "Millepiedi S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antidepressive Agents",
+              "Anxiety, Separation",
+              "Benzodiazepines",
+              "Child",
+              "Child, Preschool",
+              "Cognitive Behavioral Therapy",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11460893/"
+          },
+          {
+            "pmid": "29034101",
+            "title": "Lamotrigine-induced sexual dysfunction and non-adherence: case analysis with literature review.",
+            "abstract": "Optimal anti-epileptic drug (AED) treatment maximises therapeutic response and minimises adverse effects (AEs). Key to therapeutic AED treatment is adherence. Non-adherence is often related to severity of AEs. Frequently, patients do not spontaneously report, and clinicians do not specifically query, critical AEs that lead to non-adherence, including sexual dysfunction. Sexual dysfunction prevalence in patients with epilepsy ranges from 40 to 70%, often related to AEDs, epilepsy or mood states. This case reports lamotrigine-induced sexual dysfunction leading to periodic non-adherence.",
+            "journal": "BJPsych open",
+            "year": "2017",
+            "authors": [
+              "Kaufman Kenneth R",
+              "Coluccio Melissa",
+              "Sivaraaman Kartik",
+              "Campeas Miriam"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29034101/"
+          },
+          {
+            "pmid": "12490773",
+            "title": "Mirtazapine in the treatment of panic disorder: an open-label trial.",
+            "abstract": "The aim of this open label trial was to evaluate mirtazapine tolerability and effectiveness in controlling symptomatology of patients with panic disorder. Forty-five patients with panic disorder, with or without agoraphobia, 11 of them with a comorbid diagnosis of major depression, were included. Patients were assessed with a structured psychiatric interview and their symptomatology evaluated with specific psychometric scales. Three study participants dropped out due to adverse events. Mirtazapine was administered at an established dose of 30 mg daily for 3 months. Patients were assessed at weeks 2 and 4, and then at monthly intervals. All psychometric measures showed statistically significant reductions in total scores at the rated time points, with a pronounced decline in number and intensity of panic attacks and anticipatory anxiety throughout the study. Mirtazapine was well tolerated as signified by the low discontinuation rate (6.3%), and all patients showed a significant symptoma",
+            "journal": "International clinical psychopharmacology",
+            "year": "2003",
+            "authors": [
+              "Sarchiapone M",
+              "Amore M",
+              "De Risio S",
+              "Carli V",
+              "Faia V"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Comorbidity",
+              "Depressive Disorder",
+              "Female",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Middle Aged",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12490773/"
+          },
+          {
+            "pmid": "11712626",
+            "title": "The effect of mirtazapine in panic disorder: an open label pilot study with a single-blind placebo run-in period.",
+            "abstract": "In this open label pilot study, we studied the efficacy of mirtazapine (Remeron) in panic disorder. Twenty-eight patients with a DSM-IV diagnosis of panic disorder, with or without agoraphobia (10 males/18 females), were included and 19 patients completed the study. The 15-week trial started with a 3-week single-blind placebo run-in period. After this run-in period, the 12-week active treatment phase started. As primary efficacy measures, we studied the decrease in the number of full symptom panic attacks and the number of patients completely free of panic during the last 3 weeks of the study. Seventy-four percent of the patients were considered responders, according to a decrease of at least 50% in panic attack frequency. All primary and secondary efficacy measures showed a significant improvement from the second week of active treatment onwards to endpoint. The main side-effects were different from the usual side-effects in selective serotonin reuptake inhibitors (SSRIs) (initial dro",
+            "journal": "International clinical psychopharmacology",
+            "year": "2001",
+            "authors": [
+              "Boshuisen M L",
+              "Slaap B R",
+              "Vester-Blokland E D",
+              "den Boer J A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Female",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Mirtazapine",
+              "Panic Disorder",
+              "Pilot Projects",
+              "Psychiatric Status Rating Scales"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11712626/"
+          },
+          {
+            "pmid": "21920711",
+            "title": "Baseline depression severity as a predictor of single and combination antidepressant treatment outcome: results from the CO-MED trial.",
+            "abstract": "The objective of this manuscript is to report associations between baseline depressive severity and (1) baseline sociodemographic and clinical characteristics, (2) treatment outcomes, and (3) differential outcomes for three treatment groups. Six hundred and sixty-five outpatients with nonpsychotic, major depressive disorder were prospectively randomized to treatment with either a selective serotonin reuptake inhibitor (SSRI) monotherapy (escitalopram plus placebo) or one of two antidepressant medication combinations (bupropion-sustained release plus escitalopram, or venlafaxine-extended release plus mirtazapine). For purposes of these analyses, participants were divided into four groups based on baseline severity by the 16-item Quick Inventory of Depressive Symptomatology - Self-Report (QIDS-SR(16)) total score: mild (0-10) [N=81], moderate (11-15) [N=238], severe (16-20) [N=260] and very severe (21-27) [N=67]. Treatment outcomes at 12 and 28weeks were compared among the four severity ",
+            "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+            "year": "2012",
+            "authors": [
+              "Friedman Edward S",
+              "Davis Lori L",
+              "Zisook Sidney",
+              "Wisniewski Stephen R",
+              "Trivedi Madhukar H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antidepressive Agents",
+              "Bupropion",
+              "Citalopram",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21920711/"
+          },
+          {
+            "pmid": "11892720",
+            "title": "Heart rate variability as predictor of nonresponse to mirtazapine in panic disorder: a preliminary study.",
+            "abstract": "Using spectral analysis of heart rate, several studies have shown that panic disorder patients are characterized by a reduced heart rate variability (HRV), indicative of abnormalities in autonomous nervous system (ANS) function. We recently reported that patients with panic disorder, who did not respond to pharmacotherapy, were characterized at baseline by a higher heart rate. In this study, ANS functioning is investigated as a possible predictor of nonresponse to pharmacotherapy. Twenty-eight medication-free panic disorder patients entered a 12-week open-label treatment study with mirtazapine. Five-minute HRV recordings were obtained before treatment and were analysed using spectral analysis. The data of 17 patients could be used. The total spectrum and low frequency power of responders to mirtazapine were significantly higher than those of nonresponders. Our findings suggest that nonresponders to short-term mirtazapine treatment are characterized at baseline by a lowered output of th",
+            "journal": "International clinical psychopharmacology",
+            "year": "2002",
+            "authors": [
+              "Slaap B R",
+              "Boshuisen M L",
+              "van Roon A M",
+              "den Boer J A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Antidepressive Agents, Tricyclic",
+              "Electrocardiography",
+              "Female",
+              "Heart Rate",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11892720/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "agoraphobia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20agoraphobia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "phobic disorder",
+        "txgnn_score": 0.9858554005622864,
+        "txgnn_rank": 2778,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05737511",
+            "title": "Efficacy of Hydroxyzine Versus Treatment as Usual for Panic Disorder: An Eight-Week, Open Label, Pilot, Randomized Controlled Trial.",
+            "phase": "PHASE4",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2023-12-30",
+            "completion_date": "2026-12-30",
+            "country": "N/A",
+            "enrollment": 80,
+            "brief_summary": "The aim of this study is to evaluate the efficacy of hydroxyzine compared to treatment as usual (TAU) for patients with panic disorder. By conducting a pilot study, we hope to provide initial data on the feasibility and potential impact of hydroxyzine for this population. This will inform the design and power calculations of a larger, more comprehensive study in the future.\n\nObjectives:\n\nTo assess the feasibility of conducting a randomized controlled trial (RCT) of hydroxyzine for panic disorder",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The study will recruit adult patients (18 years and older)\n* Confirmed diagnosis of the panic disorder according to the Diagnostic and Statistical Manual of Mental Disorders (DSM-5).\n* Participants will be included if they have had at least one panic attack per week for the la",
+            "endpoints": [
+              "Change in Panic Disorder Severity Scale (PDSS) Mean Score"
+            ],
+            "sponsor": "Sultan Qaboos University",
+            "url": "https://clinicaltrials.gov/study/NCT05737511"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07333027",
+            "title": "Effects of Loneliness in the Treatment of Depression",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2026-02-05",
+            "completion_date": "2027-09",
+            "country": "Germany",
+            "enrollment": 200,
+            "brief_summary": "The goal of this prospective study is to better understand the link between loneliness and depression in the inpatient psychiatric treatment of depression. It aims to answer:\n\nDo lonely and not lonely persons benefit the same way from inpatient depression treatment? Is loneliness a clinical relevant factor in inpatient treatment of depression? What are the underlying biopsychosocial mechanisms?\n\nParticipants will be asked to do some\n\n* self-report questionnaires\n* clinical interview\n* biosamplin",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* primary diagnosis of depression according to ICD-10 (F32 or F33), as diagnosed by a physician or clinical psychologist in conjunction with the M.I.N.I. Mini-International Neuropsychiatric Interview diagnostic tools\n* inpatient elective or emergency admission to one of the two ",
+            "endpoints": [
+              "Depression",
+              "Loneliness",
+              "Depression"
+            ],
+            "sponsor": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+            "url": "https://clinicaltrials.gov/study/NCT07333027"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "phobic disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20phobic%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "melancholia",
+        "txgnn_score": 0.9833047389984132,
+        "txgnn_rank": 3186,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01916824",
+            "title": "Effects of Treatment on Decision-making in Major Depression",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2013-08",
+            "completion_date": "2015-12",
+            "country": "United States",
+            "enrollment": 53,
+            "brief_summary": "In this trial, fifty participants with current major depressive disorder who are not receiving an antidepressant medication and fifty healthy controls will complete questionnaires and computerized tasks to assess their decision-making styles. There will be three visits for depressed patients and two for healthy controls (the first and third visits). The first visit will involve interviews and questionnaires to assess the participant's level of depression, medical history and quality of life. Par",
+            "eligibility_criteria": "Inclusion Criteria for MDD Subjects:\n\n1. Male or female, age 18-65\n2. Primary Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV TR) Diagnosis of Major Depressive Disorder.\n3. Has a 17-item Hamilton depression rating scale (HDRS-17) score \\>=16.\n4. Ability t",
+            "endpoints": [
+              "Money Earned"
+            ],
+            "sponsor": "Emory University",
+            "url": "https://clinicaltrials.gov/study/NCT01916824"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "36253442",
+            "title": "Antidepressants for the treatment of adults with major depressive disorder in the maintenance phase: a systematic review and network meta-analysis.",
+            "abstract": "A systematic review and random-effects model network meta-analysis were conducted to compare the efficacy, acceptability, tolerability, and safety of antidepressants to treat adults with major depressive disorder (MDD) in the maintenance phase. This study searched the PubMed, Cochrane Library, and Embase databases and included only double-blind, randomized, placebo-controlled trials with an enrichment design: patients were stabilized on the antidepressant of interest during the open-label study and then randomized to receive the same antidepressant or placebo. The outcomes were the 6-month relapse rate (primary outcome, efficacy), all-cause discontinuation (acceptability), discontinuation due to adverse events (tolerability), and the incidence of individual adverse events. The risk ratio with a 95% credible interval was calculated. The meta-analysis comprised 34 studies (n = 9384, mean age = 43.80 years, and %females = 68.10%) on 20 antidepressants (agomelatine, amitriptyline, bupropio",
+            "journal": "Molecular psychiatry",
+            "year": "2023",
+            "authors": [
+              "Kishi Taro",
+              "Ikuta Toshikazu",
+              "Sakuma Kenji",
+              "Okuya Makoto",
+              "Hatano Masakazu"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Research Support, Non-U.S. Gov't",
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Adult",
+              "Major Depressive Disorder",
+              "Duloxetine Hydrochloride",
+              "Sertraline",
+              "Citalopram",
+              "Venlafaxine Hydrochloride",
+              "Vortioxetine",
+              "Fluoxetine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36253442/"
+          },
+          {
+            "pmid": "27289172",
+            "title": "Comparative efficacy and tolerability of antidepressants for major depressive disorder in children and adolescents: a network meta-analysis.",
+            "abstract": "Major depressive disorder is one of the most common mental disorders in children and adolescents. However, whether to use pharmacological interventions in this population and which drug should be preferred are still matters of controversy. Consequently, we aimed to compare and rank antidepressants and placebo for major depressive disorder in young people.",
+            "journal": "Lancet (London, England)",
+            "year": "2016",
+            "authors": [
+              "Cipriani Andrea",
+              "Zhou Xinyu",
+              "Del Giovane Cinzia",
+              "Hetrick Sarah E",
+              "Qin Bin"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Amitriptyline",
+              "Antidepressive Agents",
+              "Bayes Theorem",
+              "Child",
+              "Citalopram",
+              "Clomipramine",
+              "Confounding Factors, Epidemiologic",
+              "Major Depressive Disorder",
+              "Desipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27289172/"
+          },
+          {
+            "pmid": "39340349",
+            "title": "Mirtazapine blood levels and antidepressant response.",
+            "abstract": "Therapeutic drug monitoring (TDM) is an important tool for treatment optimisation. Its usefulness has recently been demonstrated for some first-line antidepressants; however, few studies have been reported on the relationship between blood levels of mirtazapine and its antidepressant effects. The aim of this study was to investigate the association between blood concentration of mirtazapine and antidepressant response.",
+            "journal": "International journal of psychiatry in clinical practice",
+            "year": "2024",
+            "authors": [
+              "De Donatis Domenico",
+              "Verrastro Marco",
+              "Fanelli Giuseppe",
+              "Fabbri Chiara",
+              "Maniscalco Ignazio"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Mirtazapine",
+              "Male",
+              "Female",
+              "Middle Aged",
+              "Adult",
+              "Mianserin",
+              "Drug Monitoring",
+              "Antidepressive Agents, Tricyclic",
+              "Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39340349/"
+          },
+          {
+            "pmid": "15569912",
+            "title": "Mirtazapine and breast-feeding.",
+            "abstract": "",
+            "journal": "The American journal of psychiatry",
+            "year": "2004",
+            "authors": [
+              "Aichhorn Wolfgang",
+              "Whitworth Alexandra B",
+              "Weiss Ulrike",
+              "Stuppaeck Christoph"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Breast Feeding",
+              "Depression, Postpartum",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Mianserin",
+              "Milk, Human",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15569912/"
+          },
+          {
+            "pmid": "16236049",
+            "title": "Mirtazapine-induced arthralgia.",
+            "abstract": "With this article, we intend to corroborate the assumed association between mirtazapine and arthralgia by presentation of eight case reports, and we describe a possible mechanism of action.",
+            "journal": "British journal of clinical pharmacology",
+            "year": "2005",
+            "authors": [
+              "Passier Anneke",
+              "van Puijenbroek Eugène"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Arthralgia",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Middle Aged",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16236049/"
+          },
+          {
+            "pmid": "40449742",
+            "title": "Consistent differential effects of bupropion and mirtazapine in major depression.",
+            "abstract": "Patients with major depression exhibit heterogeneous symptom profiles and variable responses to antidepressants. Most clinical trials rely on aggregate outcomes such as total symptom severity or remission rates, which often obscure meaningful differences in treatment response.",
+            "journal": "Journal of affective disorders",
+            "year": "2025",
+            "authors": [
+              "Strobl Eric V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Comparative Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Mirtazapine",
+              "Bupropion",
+              "Major Depressive Disorder",
+              "Mianserin",
+              "Male",
+              "Female",
+              "Venlafaxine Hydrochloride",
+              "Adult",
+              "Antidepressive Agents, Second-Generation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40449742/"
+          },
+          {
+            "pmid": "26631373",
+            "title": "Mirtazapine in pregnancy and lactation - A systematic review.",
+            "abstract": "Depression is common in pregnancy and associated with increased risk of adverse effects for the neonate. Treatment and prevention options include antidepressant therapy. The aim of this paper was to review the literature on safety of mirtazapine during pregnancy and lactation. In 31 papers a total of 390 cases of neonates exposed to mirtazapine during pregnancy or lactation have been described. There might be an association between mirtazapine and spontaneous abortion, however, this might be attributable to underlying psychiatric disease. An increased risk of major neonatal malformations associated with mirtazapine in pregnancy has not been reported. Although one study showed a nearly significant increase in occurrence of respiratory problems and hypoglycaemia, no indication of causality could be given. No other significant adverse effects on neonates were reported. Limited available data, four papers on 11 exposed neonates, suggest that use of mirtazapine during breastfeeding is safe ",
+            "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+            "year": "2016",
+            "authors": [
+              "Smit Mirte",
+              "Dolman Koert M",
+              "Honig A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Breast Feeding",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Lactation",
+              "Mianserin",
+              "Mirtazapine",
+              "Pregnancy",
+              "Pregnancy Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26631373/"
+          },
+          {
+            "pmid": "10446741",
+            "title": "Mirtazapine: other indications.",
+            "abstract": "During the last decade, it became evident that antidepressants may represent a useful treatment option for a variety of primary psychiatric disorders other than depression. Improved understanding of both underlying etiology of these disorders and pharmacologic modes of action of available treatments has led to an improvement in conditions such as panic disorder, generalized anxiety disorder, obsessive-compulsive disorder, posttraumatic stress disorder, and premenstrual dysphoric disorder. In addition, evidence is accumulating that some new antidepressants may be of therapeutic value in treatment of some subtypes of depressive disorder previously unresponsive to treatment or difficult to treat, such as seasonal affective disorder, depression with atypical features, and recurrent brief depression. Mirtazapine is an antidepressant with mode of action different from other currently available antidepressants. A review of currently available data of mirtazapine's use in indications other tha",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1999",
+            "authors": [
+              "Falkai P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Depressive Disorder",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Menopause"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10446741/"
+          },
+          {
+            "pmid": "12404669",
+            "title": "Tolerability and safety aspects of mirtazapine.",
+            "abstract": "The tolerability and safety profile of the noradrenergic and specific serotonergic antidepressant (NaSSA) mirtazapine reflects its unique pharmacological profile. The 5-HT(2) blocking effect contributes towards its anxiolytic effects and benefits on sleep, as well as preventing the sexual dysfunction that may occur with non-specific stimulation of the serotonin system by drugs such as the selective serotonin reuptake inhibitors (SSRIs). In addition, 5-HT(3) blockade by mirtazapine helps to prevent nausea and vomiting. Weight gain is the most commonly reported side-effect of mirtazapine, although there is evidence to suggest that this is not a significant problem during long-term treatment. In conclusion, mirtazapine has a good tolerability and safety profile that demonstrates several benefits over other antidepressants.",
+            "journal": "Human psychopharmacology",
+            "year": "2002",
+            "authors": [
+              "Nutt David J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-Antagonists",
+              "Antidepressive Agents",
+              "Body Weight",
+              "Depressive Disorder",
+              "Humans",
+              "Mianserin",
+              "Mirtazapine",
+              "Serotonin Antagonists",
+              "Sexual Behavior",
+              "Sleep"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12404669/"
+          },
+          {
+            "pmid": "8930006",
+            "title": "The effects of mirtazapine on central noradrenergic and serotonergic neurotransmission.",
+            "abstract": "Mirtazapine is a new antidepressant with a unique mode of action: it preferentially blocks the noradrenergic alpha2-auto- and heteroreceptors held responsible for controlling noradrenaline and serotonin release. In addition, mirtazapine has a low affinity for serotonin (5-HT)1A receptors but potently blocks 5-HT2 and 5-HT3 receptors. It increases serotonergic cell-firing in the dorsal raphe and 5-HT release in the hippocampus as measured by microdialysis. These effects are explained by noradrenergic enhancement of 5-HT cell-firing and blockade of noradrenaline-mediated inhibition of hippocampal 5-HT release. Because mirtazapine blocks 5-HT2 and 5-HT3 receptors, only 5-HT1-mediated transmission is enhanced. The noradrenergic activation and the consequent indirect enhancement of serotonergic transmission most probably underlie the marked therapeutic activity of mirtazapine. The blockade of 5-HT2 and 5-HT3 receptors prevents development of the side effects associated with non-selective 5-",
+            "journal": "International clinical psychopharmacology",
+            "year": "1995",
+            "authors": [
+              "de Boer T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-2 Receptor Antagonists",
+              "Animals",
+              "Antidepressive Agents, Tricyclic",
+              "Arousal",
+              "Autoreceptors",
+              "Brain",
+              "Depressive Disorder",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Mianserin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8930006/"
+          },
+          {
+            "pmid": "40616802",
+            "title": "Antidepressant Therapy and Depression Disorder.",
+            "abstract": "Introduction: Treatment-resistant depression represents a serious clinical problem and a significant public health challenge. Research highlights the importance of combining selective serotonin reuptake inhibitors (SSRIs) with antidepressants that act as antagonists of presynaptic α2-autoreceptors and α2-heteroreceptors, such as Mianserin, Trazodone, and Mirtazapine. Aim: to evaluate the effectiveness of combined therapy using Mirtazapine (α2-autoreceptor antagonist) and Sertraline (serotonin reuptake inhibitor) in treating depression. Materials and Methods: This prospective study included 30 patients of both sexes, aged between 21 and 39 years, diagnosed with depressive disorder (F32). Patients were evaluated at the private psychiatric institution \"Dr. Zora Mitic\" over a period of three months. Participants were assessed at baseline and after one and three months of treatment with combined antidepressant therapy consisting of Mirtazapine (15-30 mg/day) and Sertraline (50-100 mg/day). ",
+            "journal": "Prilozi (Makedonska akademija na naukite i umetnostite. Oddelenie za medicinski nauki)",
+            "year": "2025",
+            "authors": [
+              "Trajanovska Aneta Spasovska",
+              "Pereska Zanina",
+              "Mitic Zora"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Female",
+              "Adult",
+              "Mirtazapine",
+              "Prospective Studies",
+              "Sertraline",
+              "Young Adult",
+              "Treatment Outcome",
+              "Antidepressive Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40616802/"
+          },
+          {
+            "pmid": "19404867",
+            "title": "Mirtazapine and hyperpigmentation.",
+            "abstract": "",
+            "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+            "year": "2009",
+            "authors": [
+              "Mendhekar Dattatreya",
+              "Inamdar Amir"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Major Depressive Disorder",
+              "Dermatitis, Phototoxic",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Humans",
+              "Hyperpigmentation",
+              "Mianserin",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19404867/"
+          },
+          {
+            "pmid": "12211889",
+            "title": "Functional dyspepsia and mirtazapine.",
+            "abstract": "",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "2002",
+            "authors": [
+              "Lee Sang-Yeol",
+              "Rho Seung-Ho",
+              "Choi Suck-Che"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Major Depressive Disorder",
+              "Dyspepsia",
+              "Female",
+              "Humans",
+              "Limbic System",
+              "Mianserin",
+              "Middle Aged",
+              "Mirtazapine",
+              "Severity of Illness Index"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12211889/"
+          },
+          {
+            "pmid": "19731817",
+            "title": "[Mirtazapine--pharmacologic action and clinical advantages].",
+            "abstract": "Mirtazapine is an effective antidepressant with unique and special mechanism of action characterized by high response and remission rates, relatively early onest of action and favourable side-effect profile. The present paper reviews some special points of the clinical use of mirtazapine, which is on the market in Hungary for almost 10 years, including its sleep-improving and anxiolytic effets. This review will also touch the management of the most commonly occuring side-effects.",
+            "journal": "Neuropsychopharmacologia Hungarica : a Magyar Pszichofarmakologiai Egyesulet lapja = official journal of the Hungarian Association of Psychopharmacology",
+            "year": "2009",
+            "authors": [
+              "Rihmer Zoltán",
+              "Purebl György"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-Antagonists",
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents, Second-Generation",
+              "Depression",
+              "Major Depressive Disorder",
+              "Humans",
+              "Mianserin",
+              "Mirtazapine",
+              "Sleep",
+              "Sleep Initiation and Maintenance Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19731817/"
+          },
+          {
+            "pmid": "25689290",
+            "title": "Mirtazapine in pregnancy and lactation: data from a case series.",
+            "abstract": "Depression is a common disorder in pregnancy and associated with adverse effects for both mother and neonate. Pharmacological treatment and prevention options include mirtazapine. In a series of 56 cases, we investigated neonatal outcome after intrauterine exposure to mirtazapine and exposure through lactation in the first days postpartum.No increase in any neonatal complication was observed. None of the infants exposed to mirtazapine in the first trimester were born with a major malformation. Of the 54 infants exposed to mirtazapine in the third trimester, 14 were diagnosed with poor neonatal adaptation syndrome (PNAS). This incidence (25.9%) is similar to the incidence of PNAS after intrauterine exposure to other antidepressants. The incidence of PNAS after exposure to mirtazapine was significantly diminished in children who were partially or fully breastfed (18.6% versus 54.5%, P = 0.024).",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2015",
+            "authors": [
+              "Smit Mirte",
+              "Wennink Hanneke",
+              "Heres Marion",
+              "Dolman Koert M",
+              "Honig Adriaan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Breast Feeding",
+              "Cohort Studies",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Lactation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25689290/"
+          },
+          {
+            "pmid": "30194544",
+            "title": "Other Antidepressants.",
+            "abstract": "This chapter addresses the following FDA-approved medications for the treatment of major depressive disorder available for use in the United States including bupropion, mirtazapine, trazodone, vortioxetine, and vilazodone. These medications do not belong to one of the previously featured classes of antidepressants discussed in the preceding chapters. Each medication featured in this chapter has a unique structure and properties that target diverse receptors in the central nervous system. These diverse targets are distinct from other classes of medications used to treat major depressive disorder. This chapter will provide an overview of each medication's indication for use, history of development, pharmacology, metabolism, dosing recommendations, onset of action, use in special populations, safety and tolerability, adverse effects, potential interactions with additional medications, and data regarding possible overdose with available treatments.Bupropion was initially developed for its ",
+            "journal": "Handbook of experimental pharmacology",
+            "year": "2019",
+            "authors": [
+              "Schwasinger-Schmidt T E",
+              "Macaluso M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Major Depressive Disorder",
+              "Humans",
+              "Mirtazapine",
+              "Serotonin",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30194544/"
+          },
+          {
+            "pmid": "28923677",
+            "title": "Mirtazapine-associated pancreatitis.",
+            "abstract": "",
+            "journal": "Medicina clinica",
+            "year": "2018",
+            "authors": [
+              "Navarro Dávila Marco Antonio",
+              "Shihadeh Leydimar Anmad",
+              "Plasencia García Inmaculada"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Aged, 80 and over",
+              "Antidepressive Agents",
+              "Causality",
+              "Major Depressive Disorder",
+              "Female",
+              "Humans",
+              "Mirtazapine",
+              "Pancreatitis, Acute Necrotizing"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28923677/"
+          },
+          {
+            "pmid": "10446735",
+            "title": "Mirtazapine: clinical overview.",
+            "abstract": "There is currently available evidence that suggests that drugs combining 2 synergistic mechanisms of action (e.g., enhancement of both noradrenergic and serotonergic neurotransmission) may yield superior therapeutic efficacy compared with a single therapeutic mechanism of highly selective agents such as selective serotonin reuptake inhibitors (SSRIs). The differences in antidepressant efficacy favoring dual-acting drugs may exist in particular for 3 difficult-to-treat groups of patients: those with endogenous depression, those with severe depression, or hospitalized depressed patients. Mirtazapine differs from other new dual-acting antidepressants by not being a reuptake inhibitor. Its antidepressant activity may be related to a direct enhancement of noradrenergic neurotransmission by blockade of alpha2-autoreceptors. The rapid increase in serotonin (5-HT) synaptic levels by blockade of alpha2-heteroreceptors indirectly enhances 5-HT1A-mediated neurotransmission since 5-HT2 and 5-HT3 a",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1999",
+            "authors": [
+              "Gorman J M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-Antagonists",
+              "Aged",
+              "Antidepressive Agents, Tricyclic",
+              "Clomipramine",
+              "Controlled Clinical Trials as Topic",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Humans",
+              "Meta-Analysis as Topic",
+              "Mianserin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10446735/"
+          },
+          {
+            "pmid": "10572352",
+            "title": "Cost-effectiveness of mirtazapine compared to amitriptyline and fluoxetine in the treatment of moderate and severe depression in austria.",
+            "abstract": "This study estimated the cost-effectiveness of mirtazapine, compared to amitriptyline and fluoxetine, in the management of moderate and severe depression in Austria, as well as the costs related to the discontinuation of antidepressant treatment from the perspective of the Austrian Sick Funds (Gebietskrankenkassen). The economic analyses were based on a meta-analysis of four randomised clinical trials comparing mirtazapine with amitriptyline, and on a six week comparative trial of mirtazapine and fluoxetine which was extrapolated to six months using assumptions derived from the literature. Decision models of the treatment paths and associated resource use attributable to managing moderate and severe depression in Austria were developed from clinical trial data, information on Austrian clinical practice obtained from interviews with an Austrian Delphi panel (comprising psychiatrists and GPs), and from published literature. The models were used to estimate the expected costs to the Gebie",
+            "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
+            "year": "1999",
+            "authors": [
+              "Brown M C",
+              "Nimmerrichter A A",
+              "Guest J F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amitriptyline",
+              "Antidepressive Agents, Second-Generation",
+              "Antidepressive Agents, Tricyclic",
+              "Austria",
+              "Cost-Benefit Analysis",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Drug Hypersensitivity",
+              "Fluoxetine",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10572352/"
+          },
+          {
+            "pmid": "9597349",
+            "title": "New antidepressants and the cytochrome P450 system: focus on venlafaxine, nefazodone, and mirtazapine.",
+            "abstract": "This review critically evaluates recent information on the cytochrome P450 system, with an emphasis on drug interactions involving antidepressant medications, particularly venlafaxine, nefazodone, and mirtazapine.",
+            "journal": "Depression and anxiety",
+            "year": "1998",
+            "authors": [
+              "Owen J R",
+              "Nemeroff C B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Antidepressive Agents, Tricyclic",
+              "Cyclohexanols",
+              "Cytochrome P-450 Enzyme Inhibitors",
+              "Cytochrome P-450 Enzyme System",
+              "Depressive Disorder",
+              "Humans",
+              "Isoenzymes",
+              "Mianserin",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9597349/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "melancholia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20melancholia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neurotic depression",
+        "txgnn_score": 0.9824196100234984,
+        "txgnn_rank": 3327,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04446039",
+            "title": "Comparison of Antidepressants in the Real-World: Retrospective Cohort Study Using Big Data",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2022-07-04",
+            "completion_date": "2022-11-03",
+            "country": "South Korea",
+            "enrollment": 370212,
+            "brief_summary": "The primary purpose of this study is to investigate medication utilization pattern and risk of adverse outcomes among commonly used antidepressants by using nationwide claims database, in order to assess overall clinical benefit of antidepressant therapy in real-world practice.",
+            "eligibility_criteria": "Inclusion Criteria\n\nPatients must meet all of the following inclusion criteria to be eligible for inclusion in the study:\n\n1. Patients aged 18 years or older on the index date\n2. Patients who had at least one inpatient claim or two outpatient claims in the intake period with any of the following dia",
+            "endpoints": [
+              "Medication Possession Ratio (MPR) During First 180 Days of Treatment",
+              "Persistence During First 180 Days of Treatment",
+              "Percentage of Participants Who Discontinued Treatment in the First 90 Days From the Index Date"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT04446039"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "36253442",
+            "title": "Antidepressants for the treatment of adults with major depressive disorder in the maintenance phase: a systematic review and network meta-analysis.",
+            "abstract": "A systematic review and random-effects model network meta-analysis were conducted to compare the efficacy, acceptability, tolerability, and safety of antidepressants to treat adults with major depressive disorder (MDD) in the maintenance phase. This study searched the PubMed, Cochrane Library, and Embase databases and included only double-blind, randomized, placebo-controlled trials with an enrichment design: patients were stabilized on the antidepressant of interest during the open-label study and then randomized to receive the same antidepressant or placebo. The outcomes were the 6-month relapse rate (primary outcome, efficacy), all-cause discontinuation (acceptability), discontinuation due to adverse events (tolerability), and the incidence of individual adverse events. The risk ratio with a 95% credible interval was calculated. The meta-analysis comprised 34 studies (n = 9384, mean age = 43.80 years, and %females = 68.10%) on 20 antidepressants (agomelatine, amitriptyline, bupropio",
+            "journal": "Molecular psychiatry",
+            "year": "2023",
+            "authors": [
+              "Kishi Taro",
+              "Ikuta Toshikazu",
+              "Sakuma Kenji",
+              "Okuya Makoto",
+              "Hatano Masakazu"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Research Support, Non-U.S. Gov't",
+              "Journal Article",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Adult",
+              "Major Depressive Disorder",
+              "Duloxetine Hydrochloride",
+              "Sertraline",
+              "Citalopram",
+              "Venlafaxine Hydrochloride",
+              "Vortioxetine",
+              "Fluoxetine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36253442/"
+          },
+          {
+            "pmid": "40449742",
+            "title": "Consistent differential effects of bupropion and mirtazapine in major depression.",
+            "abstract": "Patients with major depression exhibit heterogeneous symptom profiles and variable responses to antidepressants. Most clinical trials rely on aggregate outcomes such as total symptom severity or remission rates, which often obscure meaningful differences in treatment response.",
+            "journal": "Journal of affective disorders",
+            "year": "2025",
+            "authors": [
+              "Strobl Eric V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Comparative Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Mirtazapine",
+              "Bupropion",
+              "Major Depressive Disorder",
+              "Mianserin",
+              "Male",
+              "Female",
+              "Venlafaxine Hydrochloride",
+              "Adult",
+              "Antidepressive Agents, Second-Generation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40449742/"
+          },
+          {
+            "pmid": "27289172",
+            "title": "Comparative efficacy and tolerability of antidepressants for major depressive disorder in children and adolescents: a network meta-analysis.",
+            "abstract": "Major depressive disorder is one of the most common mental disorders in children and adolescents. However, whether to use pharmacological interventions in this population and which drug should be preferred are still matters of controversy. Consequently, we aimed to compare and rank antidepressants and placebo for major depressive disorder in young people.",
+            "journal": "Lancet (London, England)",
+            "year": "2016",
+            "authors": [
+              "Cipriani Andrea",
+              "Zhou Xinyu",
+              "Del Giovane Cinzia",
+              "Hetrick Sarah E",
+              "Qin Bin"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Amitriptyline",
+              "Antidepressive Agents",
+              "Bayes Theorem",
+              "Child",
+              "Citalopram",
+              "Clomipramine",
+              "Confounding Factors, Epidemiologic",
+              "Major Depressive Disorder",
+              "Desipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27289172/"
+          },
+          {
+            "pmid": "40616802",
+            "title": "Antidepressant Therapy and Depression Disorder.",
+            "abstract": "Introduction: Treatment-resistant depression represents a serious clinical problem and a significant public health challenge. Research highlights the importance of combining selective serotonin reuptake inhibitors (SSRIs) with antidepressants that act as antagonists of presynaptic α2-autoreceptors and α2-heteroreceptors, such as Mianserin, Trazodone, and Mirtazapine. Aim: to evaluate the effectiveness of combined therapy using Mirtazapine (α2-autoreceptor antagonist) and Sertraline (serotonin reuptake inhibitor) in treating depression. Materials and Methods: This prospective study included 30 patients of both sexes, aged between 21 and 39 years, diagnosed with depressive disorder (F32). Patients were evaluated at the private psychiatric institution \"Dr. Zora Mitic\" over a period of three months. Participants were assessed at baseline and after one and three months of treatment with combined antidepressant therapy consisting of Mirtazapine (15-30 mg/day) and Sertraline (50-100 mg/day). ",
+            "journal": "Prilozi (Makedonska akademija na naukite i umetnostite. Oddelenie za medicinski nauki)",
+            "year": "2025",
+            "authors": [
+              "Trajanovska Aneta Spasovska",
+              "Pereska Zanina",
+              "Mitic Zora"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Female",
+              "Adult",
+              "Mirtazapine",
+              "Prospective Studies",
+              "Sertraline",
+              "Young Adult",
+              "Treatment Outcome",
+              "Antidepressive Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40616802/"
+          },
+          {
+            "pmid": "19453203",
+            "title": "Mirtazapine: a review of its use in major depression and other psychiatric disorders.",
+            "abstract": "Mirtazapine (Remeron, Zispin) is a noradrenergic and specific serotonergic antidepressant (NaSSA) that is approved in many counties for use in the treatment of major depression. Monotherapy with mirtazapine 15-45 mg/day leads to rapid and sustained improvements in depressive symptoms in patients with major depression, including the elderly. It is as effective as other antidepressants and may have a more rapid onset of action than selective serotonin reuptake inhibitors (SSRIs). Furthermore, it may also have a higher sustained remission rate than amitriptyline. Preliminary data suggest that mirtazapine may also be effective in the treatment of anxiety disorders (including post-traumatic stress disorder, panic disorder and social anxiety disorder), obsessive-compulsive disorder, undifferentiated somatoform disorder and, as add-on therapy, in schizophrenia, although large, well designed trials are needed to confirm these findings. Mirtazapine is generally well tolerated in patients with d",
+            "journal": "CNS drugs",
+            "year": "2009",
+            "authors": [
+              "Croom Katherine F",
+              "Perry Caroline M",
+              "Plosker Greg L"
+            ],
+            "pub_types": [
+              "Evaluation Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Databases, Bibliographic",
+              "Major Depressive Disorder",
+              "Humans",
+              "Mianserin",
+              "Mirtazapine",
+              "Psychiatric Status Rating Scales"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19453203/"
+          },
+          {
+            "pmid": "16236049",
+            "title": "Mirtazapine-induced arthralgia.",
+            "abstract": "With this article, we intend to corroborate the assumed association between mirtazapine and arthralgia by presentation of eight case reports, and we describe a possible mechanism of action.",
+            "journal": "British journal of clinical pharmacology",
+            "year": "2005",
+            "authors": [
+              "Passier Anneke",
+              "van Puijenbroek Eugène"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Arthralgia",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Middle Aged",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16236049/"
+          },
+          {
+            "pmid": "10446741",
+            "title": "Mirtazapine: other indications.",
+            "abstract": "During the last decade, it became evident that antidepressants may represent a useful treatment option for a variety of primary psychiatric disorders other than depression. Improved understanding of both underlying etiology of these disorders and pharmacologic modes of action of available treatments has led to an improvement in conditions such as panic disorder, generalized anxiety disorder, obsessive-compulsive disorder, posttraumatic stress disorder, and premenstrual dysphoric disorder. In addition, evidence is accumulating that some new antidepressants may be of therapeutic value in treatment of some subtypes of depressive disorder previously unresponsive to treatment or difficult to treat, such as seasonal affective disorder, depression with atypical features, and recurrent brief depression. Mirtazapine is an antidepressant with mode of action different from other currently available antidepressants. A review of currently available data of mirtazapine's use in indications other tha",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1999",
+            "authors": [
+              "Falkai P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Clinical Trials as Topic",
+              "Depressive Disorder",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Menopause"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10446741/"
+          },
+          {
+            "pmid": "39340349",
+            "title": "Mirtazapine blood levels and antidepressant response.",
+            "abstract": "Therapeutic drug monitoring (TDM) is an important tool for treatment optimisation. Its usefulness has recently been demonstrated for some first-line antidepressants; however, few studies have been reported on the relationship between blood levels of mirtazapine and its antidepressant effects. The aim of this study was to investigate the association between blood concentration of mirtazapine and antidepressant response.",
+            "journal": "International journal of psychiatry in clinical practice",
+            "year": "2024",
+            "authors": [
+              "De Donatis Domenico",
+              "Verrastro Marco",
+              "Fanelli Giuseppe",
+              "Fabbri Chiara",
+              "Maniscalco Ignazio"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Mirtazapine",
+              "Male",
+              "Female",
+              "Middle Aged",
+              "Adult",
+              "Mianserin",
+              "Drug Monitoring",
+              "Antidepressive Agents, Tricyclic",
+              "Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39340349/"
+          },
+          {
+            "pmid": "15569912",
+            "title": "Mirtazapine and breast-feeding.",
+            "abstract": "",
+            "journal": "The American journal of psychiatry",
+            "year": "2004",
+            "authors": [
+              "Aichhorn Wolfgang",
+              "Whitworth Alexandra B",
+              "Weiss Ulrike",
+              "Stuppaeck Christoph"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Breast Feeding",
+              "Depression, Postpartum",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Mianserin",
+              "Milk, Human",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15569912/"
+          },
+          {
+            "pmid": "27327217",
+            "title": "Mirtazapine in comorbid major depression and an alcohol use disorder: A double-blind placebo-controlled pilot trial.",
+            "abstract": "This was a first double-blind, placebo-controlled pilot study to evaluate the efficacy of the novel antidepressant medication mirtazapine for treating both the depressive symptoms and the level of alcohol consumption of subjects with comorbid major depressive disorder and an alcohol use disorder (MDD/AUD). The results of two previous studies of mirtazapine in MDD/AUD subjects had suggested efficacy for mirtazapine for decreasing their level of depressive symptoms, but level of alcohol consumption had not been assessed in those studies. All subjects in this 12-week pilot study were randomized to either mirtazapine or placebo, and also received motivational enhancement therapy. Between-group analyses involving the outcome measures of depressive symptoms, level of alcohol consumption, and level of alcohol craving indicated no significant differences between groups, possibly because of limited sample size. However, within-group t tests in the mirtazapine group showed a significant decrease",
+            "journal": "Psychiatry research",
+            "year": "2016",
+            "authors": [
+              "Cornelius Jack R",
+              "Chung Tammy",
+              "Douaihy Antoine B",
+              "Kirisci Levent",
+              "Glance Jody"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alcohol Drinking",
+              "Alcohol-Related Disorders",
+              "Antidepressive Agents",
+              "Comorbidity",
+              "Depression",
+              "Major Depressive Disorder",
+              "Double-Blind Method",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27327217/"
+          },
+          {
+            "pmid": "18289144",
+            "title": "Effectiveness of mirtazapine for nausea and insomnia in cancer patients with depression.",
+            "abstract": "The purpose of the present paper was to evaluate the effectiveness of mirtazapine orally disintegrating tablets for nausea and sleep disturbance, which are common and distressing symptoms of cancer.",
+            "journal": "Psychiatry and clinical neurosciences",
+            "year": "2008",
+            "authors": [
+              "Kim Sung-Wan",
+              "Shin Il-Seon",
+              "Kim Jae-Min",
+              "Kim Young-Chul",
+              "Kim Kyu-Sik"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adjustment Disorders",
+              "Administration, Oral",
+              "Adult",
+              "Aged",
+              "Antidepressive Agents, Tricyclic",
+              "Depressive Disorder",
+              "Major Depressive Disorder",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18289144/"
+          },
+          {
+            "pmid": "30168031",
+            "title": "Orthorexia nervosa and comorbid depression successfully treated with mirtazapine: a case report.",
+            "abstract": "Orthorexia nervosa (ON) is a recently proposed eating disordered behaviour characterized by an obsessional or exaggerated fixation on healthy eating. The published literature is scarce regarding its classification, clinical presentation, management and long-term outcomes. Herein, we present the clinical and follow-up findings of an 18-year-old woman with ON comorbid with depression, successfully treated with mirtazapine. The patient had a 12-month history of obsessional behaviours for \"healthy food\", characterized by suppression of sugar and fat from her diet, tightly counted meal calorie content, eating only self-made meals, avoidance of eating in public, unacceptance of other person's opinions on diet, social isolation and a weight loss of 15 kg (body mass index of 16.2 kg/m2). A score of 19-points was initially obtained on the ORTO-15 questionnaire, suggesting the presence of orthorexic tendencies and behaviours. The patient also reported a 1-month history of depressed mood, anxiety",
+            "journal": "Eating and weight disorders : EWD",
+            "year": "2020",
+            "authors": [
+              "Lopes Rui",
+              "Melo Raquel",
+              "Dias Pereira Bernardo"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antidepressive Agents",
+              "Major Depressive Disorder",
+              "Feeding and Eating Disorders",
+              "Female",
+              "Humans",
+              "Mirtazapine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30168031/"
+          },
+          {
+            "pmid": "18299900",
+            "title": "Mirtazapine improves sleep and lowers anxiety and depression in cancer patients: superiority over imipramine.",
+            "abstract": "This study aimed to compare the effectiveness of mirtazapine and imipramine on not only the distressing symptoms of cancer patients such as pain, nausea, vomiting, appetite loss, and sleep disturbances but also depressive and anxiety symptoms.",
+            "journal": "Supportive care in cancer : official journal of the Multinational Association of Supportive Care in Cancer",
+            "year": "2008",
+            "authors": [
+              "Cankurtaran Eylem Sahin",
+              "Ozalp Elvan",
+              "Soygur Haldun",
+              "Akbiyik Derya Iren",
+              "Turhan Levent"
+            ],
+            "pub_types": [
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adaptation, Psychological",
+              "Adjustment Disorders",
+              "Adrenergic alpha-Antagonists",
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Major Depressive Disorder",
+              "Female",
+              "Histamine H1 Antagonists",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18299900/"
+          },
+          {
+            "pmid": "10333982",
+            "title": "Review of the results from clinical studies on the efficacy, safety and tolerability of mirtazapine for the treatment of patients with major depression.",
+            "abstract": "Mirtazapine is a presynaptic alpha-2 antagonist that has dual action by increasing noradrenergic and serotonergic neurotransmission. The enhancement of serotonergic neurotransmission is specifically mediated via 5-HT1 receptors because mirtazapine is a postsynaptic serotonergic 5-HT2 and 5-HT3 antagonist. In addition, mirtazapine has only a weak affinity for 5-HT1 receptors and has very weak muscarinic anticholinergic and histamine (H1) antagonist properties. As a consequence of its unique pharmacodynamic properties, mirtazapine is an effective, safe and well-tolerated addition to the antidepressant armamentarium. Mirtazapine is well absorbed from the gastrointestinal tract following oral administration, and it is extensively metabolized in the liver to four metabolites via demethylation and hydroxylation, followed by glucuronide conjugation. The unconjugated desmethyl metabolite is pharmacologically less active than the parent compound. Mirtazapine lacks auto-induction of hepatic isoe",
+            "journal": "Journal of affective disorders",
+            "year": "1998",
+            "authors": [
+              "Fawcett J",
+              "Barkin R L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Age Factors",
+              "Aged",
+              "Antidepressive Agents, Second-Generation",
+              "Clinical Trials as Topic",
+              "Comorbidity",
+              "Depressive Disorder",
+              "Epinephrine",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10333982/"
+          },
+          {
+            "pmid": "10446735",
+            "title": "Mirtazapine: clinical overview.",
+            "abstract": "There is currently available evidence that suggests that drugs combining 2 synergistic mechanisms of action (e.g., enhancement of both noradrenergic and serotonergic neurotransmission) may yield superior therapeutic efficacy compared with a single therapeutic mechanism of highly selective agents such as selective serotonin reuptake inhibitors (SSRIs). The differences in antidepressant efficacy favoring dual-acting drugs may exist in particular for 3 difficult-to-treat groups of patients: those with endogenous depression, those with severe depression, or hospitalized depressed patients. Mirtazapine differs from other new dual-acting antidepressants by not being a reuptake inhibitor. Its antidepressant activity may be related to a direct enhancement of noradrenergic neurotransmission by blockade of alpha2-autoreceptors. The rapid increase in serotonin (5-HT) synaptic levels by blockade of alpha2-heteroreceptors indirectly enhances 5-HT1A-mediated neurotransmission since 5-HT2 and 5-HT3 a",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1999",
+            "authors": [
+              "Gorman J M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-Antagonists",
+              "Aged",
+              "Antidepressive Agents, Tricyclic",
+              "Clomipramine",
+              "Controlled Clinical Trials as Topic",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Humans",
+              "Meta-Analysis as Topic",
+              "Mianserin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10446735/"
+          },
+          {
+            "pmid": "10572352",
+            "title": "Cost-effectiveness of mirtazapine compared to amitriptyline and fluoxetine in the treatment of moderate and severe depression in austria.",
+            "abstract": "This study estimated the cost-effectiveness of mirtazapine, compared to amitriptyline and fluoxetine, in the management of moderate and severe depression in Austria, as well as the costs related to the discontinuation of antidepressant treatment from the perspective of the Austrian Sick Funds (Gebietskrankenkassen). The economic analyses were based on a meta-analysis of four randomised clinical trials comparing mirtazapine with amitriptyline, and on a six week comparative trial of mirtazapine and fluoxetine which was extrapolated to six months using assumptions derived from the literature. Decision models of the treatment paths and associated resource use attributable to managing moderate and severe depression in Austria were developed from clinical trial data, information on Austrian clinical practice obtained from interviews with an Austrian Delphi panel (comprising psychiatrists and GPs), and from published literature. The models were used to estimate the expected costs to the Gebie",
+            "journal": "European psychiatry : the journal of the Association of European Psychiatrists",
+            "year": "1999",
+            "authors": [
+              "Brown M C",
+              "Nimmerrichter A A",
+              "Guest J F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amitriptyline",
+              "Antidepressive Agents, Second-Generation",
+              "Antidepressive Agents, Tricyclic",
+              "Austria",
+              "Cost-Benefit Analysis",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Drug Hypersensitivity",
+              "Fluoxetine",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10572352/"
+          },
+          {
+            "pmid": "26631373",
+            "title": "Mirtazapine in pregnancy and lactation - A systematic review.",
+            "abstract": "Depression is common in pregnancy and associated with increased risk of adverse effects for the neonate. Treatment and prevention options include antidepressant therapy. The aim of this paper was to review the literature on safety of mirtazapine during pregnancy and lactation. In 31 papers a total of 390 cases of neonates exposed to mirtazapine during pregnancy or lactation have been described. There might be an association between mirtazapine and spontaneous abortion, however, this might be attributable to underlying psychiatric disease. An increased risk of major neonatal malformations associated with mirtazapine in pregnancy has not been reported. Although one study showed a nearly significant increase in occurrence of respiratory problems and hypoglycaemia, no indication of causality could be given. No other significant adverse effects on neonates were reported. Limited available data, four papers on 11 exposed neonates, suggest that use of mirtazapine during breastfeeding is safe ",
+            "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+            "year": "2016",
+            "authors": [
+              "Smit Mirte",
+              "Dolman Koert M",
+              "Honig A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Breast Feeding",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Lactation",
+              "Mianserin",
+              "Mirtazapine",
+              "Pregnancy",
+              "Pregnancy Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26631373/"
+          },
+          {
+            "pmid": "38019131",
+            "title": "Sertraline with desvenlafaxine and sertraline with mirtazapine as treatment initiation in MDD patients with moderate to severe depression and effect on inflammatory markers.",
+            "abstract": "This study evaluated the effect of sertraline with desvenlafaxine and sertraline with mirtazapine on HAM-D score and inflammatory markers (IL-6 and TNF-α levels) in major depressive disorder.",
+            "journal": "International journal of psychiatry in clinical practice",
+            "year": "2024",
+            "authors": [
+              "Arockiaraj Norman",
+              "Gupta Rachna",
+              "Ahmad Rafat",
+              "Halder Sumita",
+              "Bhatia M S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Sertraline",
+              "Mirtazapine",
+              "Adult",
+              "Desvenlafaxine Succinate",
+              "Male",
+              "Female",
+              "Major Depressive Disorder",
+              "Middle Aged",
+              "Young Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38019131/"
+          },
+          {
+            "pmid": "7919944",
+            "title": "Double-blind study of mirtazapine and placebo in hospitalized patients with major depression.",
+            "abstract": "The purpose of the present 6-week multicenter dose finding study was to compare the efficacy and tolerability of mirtazapine (preferentially presynaptic alpha 2-adrenergic receptor blocker) to placebo in hospitalized patients with major depression. The clinical efficacy was evaluated with the Hamilton Depression Scale (HAM-D), Montgomery-Asberg Depression Rating Scale (MADRS), Beck Self-Rating Depression Scale, Global Assessment Scale (GAS), and Brief Psychiatric Rating Scale (BPRS). The side effects were recorded on a checklist of emergent symptoms (ROSE) and physical examinations, ECG, clinical chemistry, and hematology tests were carried out. The dosages of mirtazapine were gradually raised from 15 mg to 50 mg. One hundred and fourteen patients were included. Twenty-two patients (37%) in mirtazapine group and 24 (44%) in the placebo group were prematurely withdrawn from the study mainly due to inadequate efficacy. The decrease in HAM-D and MADRS was generally more pronounced in the ",
+            "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+            "year": "1994",
+            "authors": [
+              "Vartiainen H",
+              "Leinonen E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-2 Receptor Antagonists",
+              "Adult",
+              "Antidepressive Agents, Tricyclic",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Mianserin",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7919944/"
+          },
+          {
+            "pmid": "19193341",
+            "title": "Mirtazapine versus other antidepressants in the acute-phase treatment of adults with major depression: systematic review and meta-analysis.",
+            "abstract": "To conduct a comprehensive, systematic review and meta-analysis of the efficacy and tolerability of mirtazapine over other antidepressants in the acute-phase treatment of major depression.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2008",
+            "authors": [
+              "Watanabe Norio",
+              "Omori Ichiro M",
+              "Nakagawa Atsuo",
+              "Cipriani Andrea",
+              "Barbui Corrado"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Major Depressive Disorder",
+              "Humans",
+              "Mianserin",
+              "Mirtazapine",
+              "Randomized Controlled Trials as Topic",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19193341/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mirtazapine",
+          "disease": "neurotic depression",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mirtazapine%20neurotic%20depression"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Mirtazapine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00370",
+    "name": "Mirtazapine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Mirtazapine"
+      },
+      "queried_at": "2026-03-24T16:43:12.476289",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Mirtazapine"
+      },
+      "queried_at": "2026-03-24T16:43:12.478203",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Mirtazapine"
+      },
+      "queried_at": "2026-03-24T16:43:13.627184",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:43:14.024657",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:43:17.394862",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:43:17.923302",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:43:18.798077",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:43:19.198424",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:43:22.469314",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:43:22.672479",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:43:23.687612",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:43:24.119008",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:43:27.320980",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:43:27.520955",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:43:28.400288",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:43:28.822649",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:43:36.273037",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:43:36.786531",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:43:37.694152",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:43:38.168666",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:43:45.738122",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:43:47.285868",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:43:48.470565",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:43:48.988349",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:43:52.247641",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:43:52.276025",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:43:54.910070",
+      "status": "success",
+      "result_count": 13,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:43:55.434009",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:43:59.227024",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:43:59.771300",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:44:03.437834",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:44:03.990979",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:44:07.053539",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:44:07.591126",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "phobic disorder"
+      },
+      "queried_at": "2026-03-24T16:44:10.597922",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:44:11.020903",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:44:14.750336",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:44:15.288722",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:44:18.274463",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:44:18.984503",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:44:23.822358",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:44:24.355206",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mirtazapine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:44:28.039442",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:44:28.041834"
+  }
+}

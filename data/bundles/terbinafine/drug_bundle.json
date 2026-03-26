@@ -1,0 +1,2507 @@
+{
+  "drug": {
+    "inn": "Terbinafine",
+    "drugbank_id": "DB00857",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "furuncular myiasis",
+        "txgnn_score": 0.967360496520996,
+        "txgnn_rank": 5218,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "furuncular myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20furuncular%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "creeping myiasis",
+        "txgnn_score": 0.967360496520996,
+        "txgnn_rank": 5219,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "creeping myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20creeping%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "wound myiasis",
+        "txgnn_score": 0.967360496520996,
+        "txgnn_rank": 5220,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "wound myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20wound%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "myiasis",
+        "txgnn_score": 0.962085485458374,
+        "txgnn_rank": 5773,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cutaneous candidiasis",
+        "txgnn_score": 0.950414776802063,
+        "txgnn_rank": 6817,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "9593126",
+            "title": "In vitro activities of terbinafine against cutaneous isolates of Candida albicans and other pathogenic yeasts.",
+            "abstract": "Terbinafine is active in vitro against a wide range of pathogenic fungi, including dermatophytes, molds, dimorphic fungi, and some yeasts, but earlier studies indicated that the drug had little activity against Candida albicans. In contrast, clinical studies have shown topical and oral terbinafine to be active in cutaneous candidiasis and Candida nail infections. In order to define the anti-Candida activity of terbinafine, we tested the drug against 350 fresh clinical isolates and additional strains by using a broth dilution assay standardized according to the guidelines of the National Committee for Clinical Laboratory Standards (NCCLS) M27-A assay. Terbinafine was found to have an MIC of 1 microg/ml for reference C. albicans strains. For 259 clinical isolates, the MIC at which 50% of the isolates are inhibited (MIC50) of terbinafine was 1 microg/ml (fluconazole, 0.5 microg/ml), and the MIC90 was 4 microg/ml (fluconazole, 1 microg/ml). Terbinafine was highly active against Candida par",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "1998",
+            "authors": [
+              "Ryder N S",
+              "Wagner S",
+              "Leitner I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Candida",
+              "Candida albicans",
+              "Dermatomycoses",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Naphthalenes",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9593126/"
+          },
+          {
+            "pmid": "1372222",
+            "title": "Terbinafine. A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic potential in superficial mycoses.",
+            "abstract": "Terbinafine is an orally and topically active allylamine antifungal agent with a primarily fungicidal action in vitro. Its spectrum of in vitro activity includes a broad range of dermatophyte, filamentous, dimorphic and dematiaceous fungi, and some yeast species. In clinical trials, mycological and overall efficacy rates of around 90 and 80%, respectively, have been achieved in cutaneous dermatophyte infections (tinea corporis/cruris and tinea pedis) with terbinafine, administered either orally (250 or 500 mg/day) or topically (a 1% cream applied twice daily). Similar rates of cure have been obtained with oral terbinafine in dermatophyte nail infections after relatively short treatment periods ranging from 3 to 12 months. Topical terbinafine has been effective in approximately 80% of patients with cutaneous candidiasis or pityriasis versicolor. Few comparative data have been published, but generally oral terbinafine appeared to be at least as effective as oral griseofulvin or ketoconaz",
+            "journal": "Drugs",
+            "year": "1992",
+            "authors": [
+              "Balfour J A",
+              "Faulds D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Dermatomycoses",
+              "Humans",
+              "Naphthalenes",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1372222/"
+          },
+          {
+            "pmid": "8763460",
+            "title": "Cutaneous mycoses in children.",
+            "abstract": "This article describes common cutaneous mycoses in children: mucocutaneous candidiasis, pityriasis versicolor, tinea corporis, tinea pedis, onychomycosis and tinea capitis. Topical therapy is effective in tinea corporis and pedis, pityriasis versicolor and cutaneous candidiasis. It is ineffective in tinea capitis, in immunocompromised children and onychomycosis. Griseofulvin has been the main treatment until now in children, but it is only fungistatic, may cause interactions and has to be given for long periods. Ketoconazole has not been widely accepted for use in children because of hepatotoxicity and it is not an effective as griseofulvin. There are few data on paediatric use of fluconazole, although it is available in liquid form, has an excellent safety profile and may become important for treating paediatric mycoses. Similarly, there are only limited data on itraconazole in this area, with most experience in tinea capitis. There is only a 100-mg capsule available, which is not eas",
+            "journal": "The British journal of dermatology",
+            "year": "1996",
+            "authors": [
+              "Elewski B E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Antifungal Agents",
+              "Child",
+              "Dermatomycoses",
+              "Humans",
+              "Infant, Newborn"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8763460/"
+          },
+          {
+            "pmid": "10865916",
+            "title": "Terbinafine: broad new spectrum of indications in several subcutaneous and systemic and parasitic diseases.",
+            "abstract": "Immunocompromised patients are at risk of contracting serious fungal infections. The emergence of acquired resistance to azole treatment by opportunistic fungal organisms is increasing and poses a major therapeutic challenge. Treatment of some deep cutaneous and subcutaneous mycoses remains unresolved, relapses are frequent, lack of tolerability of the antifungal drugs becomes an obstacle, and, unfortunately, surgery is, in some cases, the last option. The development of allylamine antifungals, of which terbinafine is the most effective to date, may help to resolve this situation. In vitro, terbinafine is highly active against a broad spectrum of pathogenic fungi. Clinical studies have shown that terbinafine is effective in the treatment of both cutaneous and lymphocutaneous sporotrichosis, and in several patterns of disseminated and refractory aspergillosis. Patients with chromoblastomycosis, and other mycoses (phaeohyphomycosis, maduromycosis, and mucormycosis) have also been success",
+            "journal": "Mycoses",
+            "year": "1999",
+            "authors": [
+              "Pérez A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Aspergillosis",
+              "Candidiasis",
+              "Chromoblastomycosis",
+              "Dermatomycoses",
+              "Humans",
+              "Leishmaniasis, Cutaneous",
+              "Mycoses",
+              "Naphthalenes",
+              "Sporotrichosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10865916/"
+          },
+          {
+            "pmid": "15030322",
+            "title": "Terbinafine in the treatment of onychomycosis: a review of its efficacy in high-risk populations and in patients with nondermatophyte infections.",
+            "abstract": "The prevalence of onychomycosis is higher in certain high-risk populations, such as the immunocompromised, diabetics and human immunodeficiency virus (HIV)-positive patients. These patients can also develop onychomycosis due to nondermatophyte fungi. Although the efficacy of terbinafine is well demonstrated in the treatment of conventional dermatophyte nail infection, there are few data on the efficacy of terbinafine in high-risk patient groups or in nondermatophyte fungi, which can be difficult to treat.",
+            "journal": "The British journal of dermatology",
+            "year": "2004",
+            "authors": [
+              "Cribier B J",
+              "Bakshi R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Candidiasis, Cutaneous",
+              "Diabetes Complications",
+              "HIV Infections",
+              "Humans",
+              "Immunosuppression Therapy",
+              "Kidney Transplantation",
+              "Naphthalenes",
+              "Onychomycosis",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15030322/"
+          },
+          {
+            "pmid": "37387447",
+            "title": "Recalcitrant cutaneous fungal infections-A growing problem.",
+            "abstract": "The incidence and prevalence of recalcitrant cutaneous fungal infections is on the rise. Terbinafine-resistant Trichophyton has not only been widespread in India, but has also been reported in countries spread throughout the globe. Strains of yeasts such as Malassezia and Candida, which exist both as commensals and as pathogens to the human skin, have also been found to develop resistance to antifungals. Non-dermatophyte moulds which can colonize and infect damaged nails are especially difficult to treat, not only due to resistance, but also because of poor drug penetration of hard keratin. Psychosocial factors such as the indiscriminate broad-spectrum antifungal use in agriculture and in medicine, and poor adherence to hygienic measures to break the chain of infection contribute to the development of antifungal resistance. Such environments encourage fungi to develop various resistance mechanisms to withstand antifungal treatment. These include: (a) alteration of the drug target, (b) ",
+            "journal": "The Australasian journal of dermatology",
+            "year": "2023",
+            "authors": [
+              "Koh Xuan Qi",
+              "Pan Jiun Yit"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Antifungal Agents",
+              "Echinocandins",
+              "Dermatomycoses",
+              "Terbinafine",
+              "Candidiasis, Vulvovaginal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37387447/"
+          },
+          {
+            "pmid": "28196318",
+            "title": "Common Skin Conditions in Children: Skin Infections.",
+            "abstract": "Skin infections account for a significant subset of dermatologic conditions of childhood. Common cutaneous viral infections in children include warts, molluscum contagiosum, hand-foot-and-mouth disease, and herpes simplex. Although viral infections are self-limited and often only mildly symptomatic, they can cause anxiety, embarrassment, and health care use. Recognition of their common and atypical presentations is necessary to differentiate them from other skin conditions of similar morphology. Impetigo, cellulitis, and abscess comprise the majority of childhood bacterial skin infections and are treated with topical or systemic antibiotics that cover group A Streptococcus and Staphylococcus aureus. Common fungal dermatologic infections in children are oral and genital candidiasis, tinea capitis, and tinea corporis. Management consists of topical and systemic antifungals, including nystatin, triazoles, terbinafine, griseofulvin, and imidazoles. Scabies is the most common parasitic skin",
+            "journal": "FP essentials",
+            "year": "2017",
+            "authors": [
+              "Rayala Brian Z",
+              "Morrell Dean S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Dermatomycoses",
+              "Disease Notification",
+              "Family Practice",
+              "Humans",
+              "Skin Diseases, Bacterial",
+              "Skin Diseases, Infectious",
+              "Skin Diseases, Parasitic",
+              "Skin Diseases, Viral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28196318/"
+          },
+          {
+            "pmid": "38407662",
+            "title": "Isolated Cutaneous Granuloma Caused by Candida Parapsilosis: Case Report and Literature Review.",
+            "abstract": "Candidal granuloma is an uncommon type of deep chronic cutaneous candidiasis. Candida albican is the most common causative pathogen for candidal granuloma. We report herein the original case of a 69-year-old Chinese woman presented with a 3-year of painful cutaneous lesion on the back of left hand. Physical examination revealed a 4 × 5 cm large infiltrative reddish plaque with unclear boundaries. The yellow-white crusts were observed on the uneven surface of plaque. Histopathological examination of biopsy tissue revealed that yeast cells and the horizontal section of hyphae in the dermis by hematoxylin eosin staining and periodic acid-Schiff staining. Finally, the pathogen was identified as Candida parapsilosis by mycological examination and molecular identification. The patient was treated with itraconazole oral 200 mg twice daily combined with topical terbinafine hydrochloride cream for 2 months. The lesions were fully resolved and no recurrence was observed. Since the cutaneous infe",
+            "journal": "Mycopathologia",
+            "year": "2024",
+            "authors": [
+              "Yang Xinyu",
+              "Jin Xingji",
+              "Yang Zhusheng",
+              "Wang Youxue",
+              "Wei Aihua"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Aged",
+              "Candida parapsilosis",
+              "Granuloma",
+              "Cellulitis",
+              "Candida",
+              "Candidiasis, Chronic Mucocutaneous",
+              "Candidiasis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38407662/"
+          },
+          {
+            "pmid": "34898894",
+            "title": "Common Antifungal Drugs in Pregnancy: Risks and Precautions.",
+            "abstract": "Fungal skin infections are on the rise in India, and pregnant women are not immune to them. They are one of the commonest causes of secondary pruritus in pregnancy and can worsen the quality of life. Cutaneous dermatophytic infections have seen a recent emergence as a public health problem in India with increasing incidence as well as failure to appropriately respond to treatment. Vaginal candidiasis may cause obstetric and perinatal complications such as chorioamnionitis, premature rupture of membranes, preterm labor and neonatal candidiasis. Antifungal drugs are commonly prescribed in pregnancy. The common oral antifungals used are fluconazole, ketoconazole, itraconazole, terbinafine and griseofulvin; whereas the common topical antifungals are azoles, ciclopirox oleamine, terbinafine, amongst others. There have been reports of congenital abnormalities in the fetus and spontaneous abortions attributed to oral antifungals. Prescribing antifungal drugs in pregnancy needs careful conside",
+            "journal": "Journal of obstetrics and gynaecology of India",
+            "year": "2021",
+            "authors": [
+              "Patel Madhuri A",
+              "Aliporewala Veeral M",
+              "Patel Disha A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34898894/"
+          },
+          {
+            "pmid": "19942790",
+            "title": "[Guidelines for diagnosis and treatment of mucocutaneous candidiasis].",
+            "abstract": "This document summarizes current knowledge about diagnosis and treatment of candidiasis affecting the skin and oral mucosa. Several clinical forms of mucocutaneous candidiasis are distinguished depending on a patient's age and infected site, e.g. Candida intertrigo, erythema mycoticum infantile, erosio interdigitalis blastomycetica, candidal paronychia and onychia, Candida onychomycosis, and oral candidiasis. The diagnosis of candidiasis is confirmed by observation of mycelial forms on microscopic examination. Since Candida yeasts (especially C. albicans) are normal inhabitants of the skin and oral mucosa, it must always be noted that positive culture does not always indicate the presence of candidal infection. The pathogenicity of Candida species is relatively low, and some special conditions are required for tissue invasion by the fungus. Predisposing factors, such as disturbances of the cutaneous and mucosal microenvironment and systemic or local immunosuppression, should be checked",
+            "journal": "Nihon Ishinkin Gakkai zasshi = Japanese journal of medical mycology",
+            "year": "2009",
+            "authors": [
+              "Katoh Takuro"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Administration, Topical",
+              "Antifungal Agents",
+              "Candida albicans",
+              "Candidiasis, Chronic Mucocutaneous",
+              "Drug Administration Schedule",
+              "Humans",
+              "Imidazoles",
+              "Ketoconazole",
+              "Microscopy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19942790/"
+          },
+          {
+            "pmid": "29164434",
+            "title": "Isolated Cutaneous Granuloma Caused by Candida glabrata: A Rare Case Report and Literature Review.",
+            "abstract": "The incidence of candidiasis due to non-albicans Candida species (especially Candida glabrata) has significantly increased in recent decades. Candida glabrata often invades immunocompromised hosts and causes systemic or mucosal infections, whereas cutaneous infections are rarely reported. We present a rare case of cutaneous infection caused by C. glabrata and review all similar cases available in the PubMed database. A patient was admitted to the hospital with a 2-month history of a plaque on the face. Histopathological examination displayed typical infectious granulomas in the deep dermis, and the pathogen was finally confirmed as C. glabrata using a series of microbial examinations (fungal culture, biochemical test, and PCR-directed sequencing). The patient was completely cured after 4 months of treatment with oral itraconazole combined with topical terbinafine. We reviewed similar reports of cutaneous infection caused by C. glabrata. All the data suggested that an accurate diagnosis",
+            "journal": "Mycopathologia",
+            "year": "2018",
+            "authors": [
+              "Fan Yibin",
+              "Pan Weili",
+              "Wang Guizhen",
+              "Huang Youming",
+              "Li Yali"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Candida glabrata",
+              "Candidiasis",
+              "Facial Dermatoses",
+              "Female",
+              "Granuloma",
+              "Histocytochemistry",
+              "Humans",
+              "Microbiological Techniques",
+              "Microscopy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29164434/"
+          },
+          {
+            "pmid": "2689015",
+            "title": "Clinical efficacy and tolerability of terbinafine (Lamisil)--a new topical and systemic fungicidal drug for treatment of dermatomycoses.",
+            "abstract": "Terbinafine (Lamisil) is the newest compound within a class of antimycotic drugs called allylamines. It is active against a broad range of dermatophytes and yeasts and exerts its fungicidal action by inhibiting squalene epoxidation during sterol synthesis in fungal membranes. Effective therapy (complete cure or mycological cure with minimal signs and symptoms) has been observed in 70-90% of 1200 patients treated topically with 1% cream for tinea corporis/cruris, tinea pedis, cutaneous candidiasis and pityriasis versicolor. Cure in patients treated systemically (125 mg b.i.d. orally) has been documented to be 75-90% in tinea corporis and chronic tinea pedis (plantar type), 60-70% in cutaneous candidiasis, and 90-100% in onychomycosis. Particularly noteworthy is the low rate of relapse of infection after cure of chronic dermatophyte infections, since frequent relapse is a recognized problem with presently available antifungal drugs. Terbinafine is ineffective when used systemically for p",
+            "journal": "Clinical and experimental dermatology",
+            "year": "1989",
+            "authors": [
+              "Villars V",
+              "Jones T C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Administration, Topical",
+              "Antifungal Agents",
+              "Clinical Trials as Topic",
+              "Dermatomycoses",
+              "Humans",
+              "Naphthalenes",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2689015/"
+          },
+          {
+            "pmid": "16989127",
+            "title": "[Use of topical antifungal agents].",
+            "abstract": "Topical antifungal agents are not absorbed when given orally. They act by direct contact on the fungus, this type of action requires the simultaneous presence of antifungal and fungus for a minimum of time. There are a large number of compounds belonging to different families of antifungals: polyens, azoles, allylamine and morpholine and antiseptic substances. The treatment of oropharyngeal candidiasis is based on topical antifungal agents: amphotericin B or nystatin, imidazoles such as clotrimazole or miconazole. Systemic antifungal agents are indicated in case or poor compliance to topical agents, in prophylaxis of highly relapsing disease, in oesophageal candidiasis and in Candida onychomycosis. A topical antifungal agent is the first choice to treat Candida intertrigo. In any case predisposing factors should be eradicated or amended. Infection to Malassezia spp. are treated topically with azoles or selenium sulphur. Oral ketoconazole is an alternative in severe cases. Dermatophytos",
+            "journal": "Therapie",
+            "year": "2006",
+            "authors": [
+              "Dupont Bertrand"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Infective Agents, Local",
+              "Antifungal Agents",
+              "Candidiasis, Cutaneous",
+              "Dermatomycoses",
+              "Humans",
+              "Mycoses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16989127/"
+          },
+          {
+            "pmid": "10439936",
+            "title": "Terbinafine. An update of its use in superficial mycoses.",
+            "abstract": "Terbinafine is an allylamine antifungal agent which has fungicidal activity against a wide variety of dermatophytes, moulds and certain dimorphic fungi, and fungistatic activity against Candida albicans. Oral terbinafine 250 mg/day is effective in the treatment of superficial dermatophyte infections such as onychomycosis, tinea pedis and tinea corporis/cruris, generally achieving mycological cure in > 80% of patients. The drug is also effective in children with tinea capitis when administered orally in the dosage range 62.5 to 250 mg/day for 4 weeks. Comparative data indicate that oral terbinafine is more effective than continuous or intermittent intraconazole in dermatophyte onychomycosis, and is as effective as itraconazole 400 mg/day in tinea pedis. The drug has shown greater efficacy than griseofulvin in dermatophyte onychomycosis, tinea pedis and tinea corporis/cruris, and comparable efficacy in children with tinea capitis. Additionally, oral terbinafine is more effective than ket",
+            "journal": "Drugs",
+            "year": "1999",
+            "authors": [
+              "McClellan K J",
+              "Wiseman L R",
+              "Markham A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antifungal Agents",
+              "Dermatomycoses",
+              "Humans",
+              "Naphthalenes",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10439936/"
+          },
+          {
+            "pmid": "24292130",
+            "title": "[Photo quiz: Dermatomycosis].",
+            "abstract": "",
+            "journal": "Medical mycology journal",
+            "year": "2013",
+            "authors": [
+              "Hata Yasuki"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Antifungal Agents",
+              "Candida albicans",
+              "Candidiasis, Cutaneous",
+              "Diagnostic Errors",
+              "Female",
+              "Foot Dermatoses",
+              "Humans",
+              "Itraconazole",
+              "Microscopy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24292130/"
+          },
+          {
+            "pmid": "35992679",
+            "title": "Antifungal susceptibility pattern of Candida isolated from cutaneous candidiasis patients in eastern Guangdong region: A retrospective study of the past 10 years.",
+            "abstract": "Cutaneous candidiasis is one of the most prevalent mycotic infections caused by Candida species. The severity of infection mounts faster when the species shows antifungal resistance. In the current retrospective study, we aimed to analyze the occurrence, causes of cutaneous candidiasis, and antifungal susceptibility pattern of Candida isolates from Skin and Venereal Diseases Prevention and Control Hospital of Shantou, located in eastern Guangdong, China. The laboratory data of all patients (n = 3,113) suffering from various skin and venereal infections during January 2012 to December 2021 was analyzed through Excel and GraphPad prism. Our analysis indicate that cutaneous candidiasis was 22.29% (n = 694), of which 78.53% (n = 554) of patients were males and 21.47% (n = 149) of patients were females. The median age of patients with cutaneous candidiasis was 38-year [interquartile range (30-48)]. Most cases occurred in the adult age group (19-50  years). Regarding the species type, the Ca",
+            "journal": "Frontiers in microbiology",
+            "year": "2022",
+            "authors": [
+              "Bilal Hazrat",
+              "Hou Bing",
+              "Shafiq Muhammad",
+              "Chen Xinyu",
+              "Shahid Muhammad Akbar"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35992679/"
+          },
+          {
+            "pmid": "8706596",
+            "title": "Itraconazole. A reappraisal of its pharmacological properties and therapeutic use in the management of superficial fungal infections.",
+            "abstract": "Itraconazole is an orally administered triazole antifungal agent. Its spectrum of activity includes dermatophyte, dimorphic and dematiaceous fungi, yeasts, and some moulds. In clinical trials, mycological cure was attained in approximately 70 to 80, > or = 70 and > or = 80% of patients with, respectively, fingernail and toenail onychomycosis (200 mg/day for 3 months), dermatophytosis (100 mg/day for 2 to 4 weeks) and vaginal candidiasis (400 mg/day for 1 day or 200 mg/day for 3 days). Approximately 20 to 30% of patients with onychomycosis may relapse after completion of therapy; relapse rate data are limited for the other indications. Recently developed intermittent regimens of itraconazole (400 mg/day for 1 week per month for 3 to 4 months) appear to have similar efficacy to standard regimens in the treatment of onychomycosis. Shorter, higher dosage itraconazole treatment regimens (200 or 400 mg/day for 1 week) are also beneficial in dermatomycoses. Discrepancies and limitations of st",
+            "journal": "Drugs",
+            "year": "1996",
+            "authors": [
+              "Haria M",
+              "Bryson H M",
+              "Goa K L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Absorption",
+              "Antifungal Agents",
+              "Dosage Forms",
+              "Drug Interactions",
+              "Humans",
+              "Immunocompromised Host",
+              "Itraconazole",
+              "Kidney Diseases",
+              "Liver Diseases",
+              "Mycoses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8706596/"
+          },
+          {
+            "pmid": "28680976",
+            "title": "Lamisil, a potent alternative antifungal drug for otomycosis.",
+            "abstract": "Otomycosis is an acute, subacute or chronic fungal infection of the pinna, the external auditory meatus and the ear canal caused mainly by several species of saprophytic fungi. Lamisil (Terbinafine) is an allylamine antifungal agent, that is used both in the topical and oral administration for the treatment of dermatophytosis, cutaneous candidiasis, and the pityriasis versicolor. We investigated the in vitro activity of clotrimazole, miconazole, nystatin, and Lamisil against the agents of otomycosis.",
+            "journal": "Current medical mycology",
+            "year": "2015",
+            "authors": [
+              "Zarei Mahmoudabadi A",
+              "Seifi Z",
+              "Gharaghani M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28680976/"
+          },
+          {
+            "pmid": "8722840",
+            "title": "Common superficial fungal infections in patients with AIDS.",
+            "abstract": "Superficial mycotic infections such as seborrheic dermatitis, tinea pedis, tinea corporis, and onychomycosis are common in patients infected with human immunodeficiency virus (HIV). In communities where HIV infections are frequent, some of these clinical presentations serve as markers of the stage of HIV infection. The diagnosis of superficial fungal infection in HIV-positive patients may be difficult because of atypical clinical manifestations. Therefore, to ensure a correct diagnosis, skin scrapings should be collected for potassium hydroxide preparations and cultures. Most forms of dermatophytosis in HIV-positive patients respond well to many topical antifungal agents, such as azoles, terbinafine, and ciclopirox olamine. If the disease is chronic and extensive, then ketoconazole, fluconazole, and itraconazole are each effective.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "1996",
+            "authors": [
+              "Aly R",
+              "Berger T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Antifungal Agents",
+              "Candidiasis, Cutaneous",
+              "Dermatomycoses",
+              "Folliculitis",
+              "Humans",
+              "Malassezia",
+              "Male",
+              "Pruritus Ani",
+              "Tinea Versicolor"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8722840/"
+          },
+          {
+            "pmid": "19391293",
+            "title": "Fungal nail infections: diagnosis and management.",
+            "abstract": "1) Fungal nail infection, or onychomycosis, mainly affects toenails. Infections are generally asymptomatic. Spontaneous regressions, but also complications, appear to be rare. Discomfort and cosmetic complaint are occasionally reported; 2) After a review of the literature based on the standard Prescrire procedure, we examined the diagnosis and management of fungal nail infections; 3) Clinical signs of fungal nail infections are non-specific. Alternative diagnoses include psoriasis and nail microtrauma. Nail hyperkeratosis and leukonychia are useful diagnostic pointers. Matrix involvement has important implications in the choice of treatment; 4) Detection of fungal structures by direct examination of a nail sample is strongly suggestive of fungal nail infection. In contrast, cases of negative direct examination with positive culture must be interpreted with caution, as contamination is frequent; 5) Antifungal lacquers (5% amorolfine and 8% ciclopirox) applied to the nails cure about 30%",
+            "journal": "Prescrire international",
+            "year": "2009",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Administration, Topical",
+              "Antifungal Agents",
+              "Azoles",
+              "Candidiasis",
+              "Drug Therapy, Combination",
+              "Griseofulvin",
+              "Humans",
+              "Lacquer",
+              "Naphthalenes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19391293/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "cutaneous candidiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20cutaneous%20candidiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "toxoplasmosis",
+        "txgnn_score": 0.947925627231598,
+        "txgnn_rank": 7021,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "34553102",
+            "title": "Nanoliposome-loaded antifungal drugs for dermal administration: A review.",
+            "abstract": "Cutaneous fungal infections are the fourth most common health problem, which involves approximately one billion people worldwide. Drug delivery to the skin seems to be the best choice for superficial fungal infections. Topical formulations can release a sufficient amount of drug in therapeutical concentrations and permeate higher layers of the skin like the stratum corneum. As the outermost layer of the epidermis, the stratum corneum prevents the drug from penetrating the skin. Liposomes, especially nanosized as topical drug delivery systems to the skin, can show various functions depending on their size, lipids and cholesterol components, the percent of ingredients, lamellarity, and surface charge. Nanoliposomes can increase permeation through the stratum corneum, decrease systemic effects with their localizing actions, and overcome many dermal drug delivery obstacles. Antifungal drugs, such as croconazole, econazole, fluconazole, ketoconazole, terbinafine hydrochloride, tolnaftate, a",
+            "journal": "Current medical mycology",
+            "year": "2021",
+            "authors": [
+              "Asadi Peyman",
+              "Mehravaran Ahmad",
+              "Soltanloo Nahid",
+              "Abastabar Mahdi",
+              "Akhtari Javad"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34553102/"
+          },
+          {
+            "pmid": "37941162",
+            "title": "Molecular typing of a collection of Iranian clinical Trichophyton tonsurans isolates based on the non-transcribed spacer region of rDNA and antifungal susceptibility testing of the species.",
+            "abstract": "Wrestling, considered the national sport of Iran, has gained immense popularity among Iranians. Wrestlers frequently encounter skin conditions, with dermatophyte fungal infections, particularly tinea gladiatorum (TG), being a common issue. TG, caused by the Trichophyton genus, has emerged as a major health concern for wrestlers and other contact sport athletes worldwide. This study aimed to assess the genotypic diversity and antifungal susceptibility of Trichophyton tonsurans isolates responsible for TG in Iranian wrestlers from Mazandaran province, northern Iran.",
+            "journal": "Mycoses",
+            "year": "2024",
+            "authors": [
+              "Faeli Leila",
+              "Kermani Firoozeh",
+              "Rezaei-Matehkolaei Ali",
+              "Ilkit Macit",
+              "Valadan Reza"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "DNA, Ribosomal",
+              "Iran",
+              "Itraconazole",
+              "Middle Eastern People",
+              "Molecular Typing",
+              "Terbinafine",
+              "Tinea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37941162/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "toxoplasmosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20toxoplasmosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blastomycosis",
+        "txgnn_score": 0.9175817966461182,
+        "txgnn_rank": 9619,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "30380772",
+            "title": "Therapy of Non-Dermatophytic Mycoses in Animals.",
+            "abstract": "This review focuses on aspects of antimycotic therapy specific to veterinary medicine. In the first part, drug availability, limited mostly by economic consideration but also by clinical applicability and specific adverse effects, is described for polyenes, 5 fluorocytosine, azoles, echinocandins and terbinafine. In the second part, current knowledge and experience in the treatment of selected fungal infections are overviewed. These mycoses include disseminated mold infections in small animals (dogs and cats) and avian species, upper respiratory tract infections of small animals (sino-nasal and sino-orbital aspergillosis) and horses (guttural pouch mycosis), eumycetoma, infections caused by dimorphic fungi, (blastomycosis, histoplasmosis, coccidioidomycosis, paracoccidioidomycosis and sporothrichosis) and by yeasts and yeast-like microorganism (Cryptococcus spp. and Malassezia pachydermatis).",
+            "journal": "Journal of fungi (Basel, Switzerland)",
+            "year": "2018",
+            "authors": [
+              "Elad Daniel"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30380772/"
+          },
+          {
+            "pmid": "10886159",
+            "title": "Paracoccidioidomycosis (South American blastomycosis) successfully treated with terbinafine: first case report.",
+            "abstract": "We describe a 63-year-old man who presented with painful malodorous lesions in the perianal, perineal and scrotal regions. Following definitive diagnosis of paracoccidioidomycosis, he was treated initially with trimethoprim/sulphamethoxazole, but there was no clinical improvement. He then received terbinafine (Lamisil) 250 mg twice daily for 6 months. There was rapid resolution of all lesions and complete relief of symptoms, without any associated side-effects. The patient remains clinically well and without any evidence of infection 2 years after discontinuation of terbinafine treatment.",
+            "journal": "The British journal of dermatology",
+            "year": "2000",
+            "authors": [
+              "Ollague J M",
+              "de Zurita A M",
+              "Calero G"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Naphthalenes",
+              "Paracoccidioidomycosis",
+              "Perineum",
+              "Scrotum",
+              "Terbinafine",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10886159/"
+          },
+          {
+            "pmid": "21124205",
+            "title": "A case of blastomycosis-like pyoderma caused by mixed infection of Staphylococcus epidermidis and Trichophyton rubrum.",
+            "abstract": "Blastomycosis-like pyoderma (BLP) is a type of chronic pyoderma characterized histologically by specific epidermal changes namely: pseudoepitheliomatous hyperplasia and intraepithelial abscesses. These epidermal changes are also seen in blastomycosis (referred to as deep dermatophytosis in North America). Here, we describe the case of a 53-year-old male with prurigo nodularis, diabetes, and chronic lymphocytic leukemia who presented with multiple yellowish-red colored papules that coalesced to form a vegetating plaque. In addition to the typical features of BLP, spores with budding were seen histopathologically in a biopsy specimen. Cultures of a skin specimen grew Staphylococcus epidermidis and Trichophyton rubrum. Antibiotic therapy was effective but failed to eliminate the lesion until antifungal therapy using terbinafine was administered concurrently. Past reports suggest that BLP is mainly caused by bacterial infection, but our case suggests that fungal infection can also be invol",
+            "journal": "The American Journal of dermatopathology",
+            "year": "2011",
+            "authors": [
+              "Ouchi Takeshi",
+              "Tamura Mai",
+              "Nishimoto Shuhei",
+              "Sato Tomotaka",
+              "Ishiko Akira"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antifungal Agents",
+              "Blastomycosis",
+              "Dermatomycoses",
+              "Humans",
+              "Immunocompromised Host",
+              "Male",
+              "Middle Aged",
+              "Pyoderma",
+              "Skin Diseases, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21124205/"
+          },
+          {
+            "pmid": "32182114",
+            "title": "Upper Airway Obstruction Due to Primary Laryngeal Blastomycosis in a Dog.",
+            "abstract": "A 9 yr old female spayed Labrador retriever presented for progressive dyspnea. Inspiratory stridor and inspiratory and expiratory dyspnea were present, consistent with an upper airway obstruction. A laryngeal exam revealed severe thickening of the arytenoid cartilages and masses associated with the arytenoids. A tracheostomy tube was placed, and the masses were biopsied. Histopathology showed pyogranulomatous inflammation secondary to Blastomyces dermatitidis. The dog was initially treated with amphotericin B and terbinafine in the hospital until the airway obstruction resolved and the tracheostomy tube could be removed. The dog experienced complete recovery after long-term treatment with itraconazole and terbinafine. This is the first report of laryngeal obstruction secondary to primary laryngeal blastomycosis in a dog. Blastomycosis should be considered for cases of obstructive laryngeal disease, and a good outcome can be achieved with antifungal treatment.",
+            "journal": "Journal of the American Animal Hospital Association",
+            "year": "2020",
+            "authors": [
+              "Van Vertloo Laura R",
+              "Gettinger Melissa R",
+              "Naiman Jaron H",
+              "Haynes Joseph S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Airway Obstruction",
+              "Amphotericin B",
+              "Animals",
+              "Antifungal Agents",
+              "Blastomyces",
+              "Blastomycosis",
+              "Diagnosis, Differential",
+              "Dog Diseases",
+              "Dogs",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32182114/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "blastomycosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20blastomycosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "tinea manuum",
+        "txgnn_score": 0.9011437296867372,
+        "txgnn_rank": 10932,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "39567411",
+            "title": "Dermatophytes: Update on Clinical Epidemiology and Treatment.",
+            "abstract": "Dermatophytes represent the largest and most common group of fungal infections, impacting 25% of the global population. Among them, Trichophyton rubrum has emerged as the predominant species, responsible for a range of conditions such as tinea corporis, tinea pedis, onychomycosis, tinea cruris, and tinea manuum. Although dermatophyte incidence varies geographically, there is a noticeable rise in cases caused by T. indotineae, a strain that exhibits resistance to terbinafine. In the past decade zoophilic dermatophyte T. mentagophytes genotype VII (now known as T. interdigitale) gains a growing importance, due to its increasing frequency, the severity of the clinical manifestation and mode of transmission. Tinea infections present with various clinical symptoms and can affect individuals of all ages, from tinea pedis in adults to tinea capitis in children. Among adults globally, tinea unguium (onychomycosis) is the most common form of dermatophytosis, affecting 5.5% of the general popula",
+            "journal": "Mycopathologia",
+            "year": "2024",
+            "authors": [
+              "Barac Aleksandra",
+              "Stjepanovic Mihailo",
+              "Krajisnik Snjezana",
+              "Stevanovic Goran",
+              "Paglietti Bianca"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "Tinea",
+              "COVID-19",
+              "Terbinafine",
+              "Drug Resistance, Fungal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39567411/"
+          },
+          {
+            "pmid": "1911319",
+            "title": "Successful 2-week treatment with terbinafine (Lamisil) for moccasin tinea pedis and tinea manuum.",
+            "abstract": "A new orally active antifungal agent, terbinafine, was used in the treatment of tinea pedis ('dry type' or moccasin type) and tinea manuum. Fifty-three adults over the age of 16 years with fungal infections of the feet and/or hands were treated with either oral terbinafine, 250 mg, or placebo, once daily for 2 weeks. The diagnosis of fungal infection was confirmed by examination of skin scrapings by microscopy and culture. Of these, 28 patients were evaluable for efficacy. At 8 weeks, 12 out of 14 (86%) patients who received terbinafine were mycologically negative (microscopy and culture) compared to one out of 14 (7%) patients on placebo (P less than 0.001, Fishers exact test, one-sided). At the end of the study 71% of patients in the terbinafine group were judged to have received effective therapy compared to 0% in the placebo group (P less than 0.001). Terbinafine was well tolerated, and more side-effects were seen in the placebo group.",
+            "journal": "The British journal of dermatology",
+            "year": "1991",
+            "authors": [
+              "White J E",
+              "Perkins P J",
+              "Evans E G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antifungal Agents",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Foot Dermatoses",
+              "Hand Dermatoses",
+              "Humans",
+              "Naphthalenes",
+              "Terbinafine",
+              "Tinea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1911319/"
+          },
+          {
+            "pmid": "15679673",
+            "title": "Tinea manuum bullosa.",
+            "abstract": "We report a case of tinea manuum bullosa in a 36-year-old male, a crop and livestock farmer by trade. The lesion, resembling contact dermatitis, was located in the palm of the right hand. We isolated Trichophyton verrucosum. No other skin lesion was detected. Blood chemistry and immunology test results were normal. Treatment with terbinafine 250 mg day(-1) led to clinical and mycological healing.",
+            "journal": "Mycoses",
+            "year": "2005",
+            "authors": [
+              "Aste N",
+              "Pau M",
+              "Aste N"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agriculture",
+              "Blister",
+              "Hand",
+              "Hand Dermatoses",
+              "Humans",
+              "Male",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15679673/"
+          },
+          {
+            "pmid": "40024788",
+            "title": "Terbinafine-Resistant Dermatophytes Isolated in Japan.",
+            "abstract": "An epidemiological study of terbinafine (TBF)-resistant dermatophytes was conducted in 2023 as a follow-up to our 2020 and 2022 surveys. Dermatophytes were isolated in 2023 from the same dermatology clinics in Tokyo, Saitama, Shizuoka, and Kumamoto, Japan, as in the previous studies. In total, 311 isolates (122 Trichophyton interdigitale isolates, 1 Trichophyton indotineae isolate, and 188 Trichophyton rubrum isolates) were obtained from 311 human cases of dermatophytosis (195 tinea pedis cases, 54 tinea unguium cases, 28 tinea corporis cases, 27 tinea cruris cases, and 7 tinea manuum cases). Ten strains (1 T. interdigitale strain and 9 T. rubrum strains) were found to be resistant to TBF, and susceptible to efinaconazole, itraconazole, luliconazole, and ravuconazole. The isolation rate of TBF-resistant strains was 2.3% in 2020, 1.4% in 2022, and 3.2% in 2023. We determined the sequences of the squalene epoxidase-encoding gene in 10 TBF-resistant strains, and found that all strains har",
+            "journal": "Medical mycology journal",
+            "year": "2025",
+            "authors": [
+              "Nojo Honoka",
+              "Hiruma Junichiro",
+              "Noguchi Hiromitsu",
+              "Shimizu Tatsuya",
+              "Hiruma Masataro"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Terbinafine",
+              "Japan",
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "Drug Resistance, Fungal",
+              "Tinea",
+              "Microbial Sensitivity Tests",
+              "Trichophyton",
+              "Squalene Monooxygenase"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40024788/"
+          },
+          {
+            "pmid": "38980103",
+            "title": "Tineas caused by hedgehogs due to Trichophyton erinacei an ascending agent of dermatophytosis.",
+            "abstract": "",
+            "journal": "Expert review of anti-infective therapy",
+            "year": "2024",
+            "authors": [
+              "Bonifaz Alexandro",
+              "Lumbán-Ramírez Paola",
+              "Frías-de-León María Guadalupe",
+              "Vidaurri de la Cruz Helena"
+            ],
+            "pub_types": [
+              "Editorial"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38980103/"
+          },
+          {
+            "pmid": "38551112",
+            "title": "Dermatophytes and skin dermatophytoses in Southeast Asia-First epidemiological survey from Cambodia.",
+            "abstract": "Dermatomycoses count to the most frequent dermatoses in Cambodia.",
+            "journal": "Mycoses",
+            "year": "2024",
+            "authors": [
+              "Uhrlaß Silke",
+              "Mey Sithach",
+              "Koch Daniela",
+              "Mütze Hanna",
+              "Krüger Constanze"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Arthrodermataceae",
+              "Cambodia",
+              "Tinea",
+              "Hand Dermatoses",
+              "Trichophyton",
+              "Tinea Pedis",
+              "Dermatomycoses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38551112/"
+          },
+          {
+            "pmid": "18479501",
+            "title": "The significance of itraconazole for treatment of fungal infections of skin, nails and mucous membranes.",
+            "abstract": "Itraconazole is an antifungal drug from the triazole group with distinct in vitro activity against dermatophytes, yeasts and some molds. Itraconazole has a primarily fungistatic activity. Itraconazole accumulates in the stratum corneum and in nail material due to its high affinity to keratin, as well as in sebum and vaginal mucosa. Together with terbinafine and fluconazole, itraconazole belongs to the modern highly effective systemic antifungal drugs with a favorable risk-benefit ratio and for this reason is a preferred therapy option for fungal infections of skin, nails and mucous membranes. Compared to terbinafine in the treatment of fingernail and toenail fungal infections, itraconazole offers the advantage of a broad antifungal spectrum and better effectiveness against onychomycosis caused by yeasts yet appears inferior with regard to the more common dermatophyte infections. Itraconazole constitutes an important therapy option, along with fluconazole, terbinafine, ketoconazole and ",
+            "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+            "year": "2009",
+            "authors": [
+              "Korting Hans Christian",
+              "Schöllmann Claudia"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Clinical Trials as Topic",
+              "Dermatomycoses",
+              "Humans",
+              "Itraconazole",
+              "Mucous Membrane",
+              "Nail Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18479501/"
+          },
+          {
+            "pmid": "33439506",
+            "title": "Epidemiological study of terbinafine-resistant dermatophytes isolated from Japanese patients.",
+            "abstract": "Terbinafine (TRF) has been used in the treatment of fungal infections for more than 20 years. Recently, TRF-resistant Trichophyton interdigitale and T. rubrum strains have been isolated from human patients worldwide. However, an epidemiological study of TRF-resistant strains in Japanese patients has not been investigated. In the present study, antifungal susceptibility testing was performed on clinical isolates from Japanese patients to assess TRF-resistance patterns of T. interdigitale and T. rubrum strains. We also sequenced the squalene epoxidase (SQLE) encoding gene of TRF-resistant T. rubrum strains. Two hundred and ten T. interdigitale and T. rubrum clinical isolates were obtained from 210 human cases of tinea pedis, tinea corporis, tinea unguium, tinea cruris, tinea manuum, tinea faciei and tinea capitis in Tokyo, Saitama, Chiba, Hyogo and Kumamoto, Japan, in 2020. Five T. rubrum isolates (N74, N79, N99, H30 and K2) grew on Sabouraud's dextrose agar (SDA) containing 1 mg/L of TR",
+            "journal": "The Journal of dermatology",
+            "year": "2021",
+            "authors": [
+              "Hiruma Junichiro",
+              "Noguchi Hiromitsu",
+              "Hase Midori",
+              "Tokuhisa Yumie",
+              "Shimizu Tatsuya"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "Drug Resistance, Fungal",
+              "Hand Dermatoses",
+              "Humans",
+              "Japan",
+              "Terbinafine",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33439506/"
+          },
+          {
+            "pmid": "24981469",
+            "title": "Trichophyton species of Arthroderma benhamiae - a new infectious agent in dermatology.",
+            "abstract": "In Germany, infections due to the zoophilic dermatophyte Trichophyton (T.) species of Arthroderma benhamiae are being more frequently diagnosed. The source of infection of this emerging pathogen overlaps with that of the zoophilic species T. interdigitale. The most common source are guinea pigs. T. species of Arthroderma benhamiae causes inflammatory dermatophytosis in children and adolescents. In addition to tinea capitis, it may cause both tinea corporis, tinea manus and frequently tinea faciei. In Germany, T. species of Arthroderma benhamiae is a frequent zoophilic dermatophyte, which in regions is probably more frequent than Microsporum canis. The mycological identification of the isolates with their yellow stained colonies is based on their macroscopic and microscopic features. However, some exhibit colony features consistent with those of T. interdigitale. These strains only can be identified unambiguously by means of molecular techniques. Using detection methods such as PCR-ELIS",
+            "journal": "Journal der Deutschen Dermatologischen Gesellschaft = Journal of the German Society of Dermatology : JDDG",
+            "year": "2014",
+            "authors": [
+              "Nenoff Pietro",
+              "Uhrlaß Silke",
+              "Krüger Constanze",
+              "Erhard Marcel",
+              "Hipler Uta-Christina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antifungal Agents",
+              "Dermatomycoses",
+              "Guinea Pigs",
+              "Humans",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24981469/"
+          },
+          {
+            "pmid": "26369643",
+            "title": "Molecular Characterization and In Vitro Antifungal Susceptibility of 316 Clinical Isolates of Dermatophytes in Iran.",
+            "abstract": "Dermatophytosis is a common mycotic infection of the skin, nail, and hair, associated with major public health concern worldwide. Various species of dermatophytes show significant differences in susceptibility to antifungals. Here, we present the antifungal susceptibility of a large collection of molecularly identified dermatophyte isolates obtained from tropical region of south of Iran. A total of 9485 patients clinically suspected to have cutaneous fungal infections were examined. Dermatophytosis was confirmed in 1502 cases by direct microscopy and culture. Three hundred and sixteen isolates recovered in culture were identified to species level using PCR sequencing of ITS region and RFLP. Tinea corporis was the most prevalent type of clinical manifestation (35.2 %), followed by tinea cruris (17 %), tinea capitis (12.8 %), tinea pedis (11.3 %), tinea manuum (11 %), tinea unguium (6.9 %), and tinea barbae (5.8 %). Trichophyton interdigitale was the most common isolate (49.36 %), follow",
+            "journal": "Mycopathologia",
+            "year": "2016",
+            "authors": [
+              "Ansari Saham",
+              "Hedayati Mohammad T",
+              "Zomorodian Kamiar",
+              "Pakshir Keyvan",
+              "Badali Hamid"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "Child",
+              "Child, Preschool",
+              "DNA, Fungal",
+              "DNA, Ribosomal Spacer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26369643/"
+          },
+          {
+            "pmid": "10940119",
+            "title": "Tinea manus treated with 1-week itraconazole vs. terbinafine.",
+            "abstract": "",
+            "journal": "International journal of dermatology",
+            "year": "2000",
+            "authors": [
+              "Gupta A K",
+              "De Doncker P",
+              "Degreef H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antifungal Agents",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Itraconazole",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10940119/"
+          },
+          {
+            "pmid": "28004227",
+            "title": "Trichophyton rubrum Infection Characterized by Majocchi's Granuloma and Deeper Dermatophytosis: Case Report and Review of Published Literature.",
+            "abstract": "Infections caused by Trichophyton rubrum are very common in dermatological disease. It most often appears as superficial cutaneous mycosis, such as tinea manuum, tinea pedis, and tinea corporis. However, deep infection caused by T. rubrum was rarely reported. We describe a case of mixed type of deep infection caused by T. rubrum in a 45-year-old man with no significant immunodeficiency. This patient had a history of onychomycosis on the toenails without regular treatment for nearly 6 years. And, he had erythema, papule, and nodules on the submandibular area, neck, and chest for almost 1 year. After treated with intravenous infusion of cefotiam for 2 weeks, the lesion aggravated. The fungal direct microscopic examination of pyogenic fluid was positive, and the fungal cultures that produced reddish-brown and yellow pigment showed cottony, wooly, and white colony. After the DNA sequencing, it was identified as T. rubrum. We gave the patient oral terbinafine 250 mg per day and bifonazole c",
+            "journal": "Mycopathologia",
+            "year": "2017",
+            "authors": [
+              "Su Huilin",
+              "Li Li",
+              "Cheng Benlin",
+              "Zhu Junhao",
+              "Zhang Qiangqiang"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Dermatomycoses",
+              "Granuloma",
+              "Humans",
+              "Male",
+              "Microbiological Techniques",
+              "Microscopy",
+              "Middle Aged",
+              "Sequence Analysis, DNA",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28004227/"
+          },
+          {
+            "pmid": "40514259",
+            "title": "Optimising the detection of Trichophyton indotineae and its prevalence in a large Australian laboratory.",
+            "abstract": "The aim of this study was to estimate the prevalence of Trichophyton indotineae, an emerging drug-resistant fungus, in specimens submitted for dermatophyte examination at a large laboratory in Melbourne, Australia, from January to June 2024, and to examine approaches for best laboratory practice for detection of this species. T. indotineae has not been previously isolated at our laboratory. We examined all skin and hair specimens (nail specimens were excluded) ​for dermatophyte presence by microscopy and culture; species identification was performed by routine phenotypic methods. Trichophyton interdigitale, Trichophyton mentagrophytes and Trichophyton isolates identified to genus level only, which were urease-negative or urease-indeterminate after 7 days, underwent internal transcribed spacer (ITS) region sequencing for definitive identification. A total of 202 Trichophyton isolates from 202 specimens (196 patients) were studied. The most common site of infection was the foot (tinea pe",
+            "journal": "Pathology",
+            "year": "2025",
+            "authors": [
+              "Chua Kyra Y L",
+              "Halliday Catriona L",
+              "Mason Amber",
+              "Vogrin Sara",
+              "Knox James"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Prevalence",
+              "Australia",
+              "Trichophyton",
+              "Tinea",
+              "Male",
+              "Female",
+              "Adult",
+              "Middle Aged",
+              "Child"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40514259/"
+          },
+          {
+            "pmid": "41250813",
+            "title": "The First Isolation of Multiple Antifungal-Drug-Resistant Trichophyton Rubrum in China and the Novel Resistance Mechanism.",
+            "abstract": "This study reports the first isolation of a multidrug-resistant Trichophyton rubrum strain in China, characterizing its drug resistance profile and mechanisms.",
+            "journal": "Mycoses",
+            "year": "2025",
+            "authors": [
+              "Song Ge",
+              "Xie Wenting",
+              "Kong Xue",
+              "Zheng Hailin",
+              "Tsui Clement K M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Humans",
+              "China",
+              "Microbial Sensitivity Tests",
+              "Tinea",
+              "Phylogeny",
+              "Drug Resistance, Multiple, Fungal",
+              "Whole Genome Sequencing",
+              "Arthrodermataceae",
+              "Polymorphism, Single Nucleotide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41250813/"
+          },
+          {
+            "pmid": "29435597",
+            "title": "[Hedgehog fungi in a dermatological office in Munich : Case reports and review].",
+            "abstract": "Patient 1: After contact to a central European hedgehog (Erinaceus europaeus), a 50-year-old female with atopy developed erythrosquamous tinea manus on the thumb and thenar eminence of the right hand. The patient had previously been scalded by hot steam at the affected site. The zoophilic dermatophyte Trichophyton erinacei could be cultured from the hedgehog as well as from scrapings from the woman's skin. Antifungal treatment of the hedgehog was initiated using 2 weekly cycles of itraconazole solution (0.1 ml/kg body weight, BW). In addition, every other day enilconazole solution was used for topical treatment. The patient was treated with ciclopirox olamine cream and oral terbinafine 250 mg daily for 2 weeks, which led to healing of the Tinea manus .Patient 2: An 18-year-old woman presented for emergency consultation with rimmed, papulous, vesicular and erosive crusted skin lesions of the index finger, and an erythematous dry scaling round lesion on the thigh. The patient worked at a",
+            "journal": "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete",
+            "year": "2018",
+            "authors": [
+              "Kargl A",
+              "Kosse B",
+              "Uhrlaß S",
+              "Koch D",
+              "Krüger C"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Animals",
+              "Arthrodermataceae",
+              "Female",
+              "Germany",
+              "Hedgehogs",
+              "Humans",
+              "Middle Aged",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29435597/"
+          },
+          {
+            "pmid": "31580504",
+            "title": "A prickly souvenir from a hedgehog café: tinea manuum secondary to Trichophyton erinacei via international spread.",
+            "abstract": "",
+            "journal": "Clinical and experimental dermatology",
+            "year": "2020",
+            "authors": [
+              "De Brito M",
+              "Halliday C",
+              "Dutta B",
+              "Fanning E",
+              "Kossard S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Animals",
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "Biopsy",
+              "Blister",
+              "Diagnosis, Differential",
+              "Female",
+              "Hand Dermatoses",
+              "Hedgehogs"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31580504/"
+          },
+          {
+            "pmid": "30120492",
+            "title": "[Trichophyton mentagrophytes-from snow leopard to man : A molecular approach for uncovering the chain of infection].",
+            "abstract": "Sources of infection for Trichophyton (T.) mentagrophytes-a zoophilic dermatophyte-comprise pet rodents (guinea pigs, mice, rabbits) and sometimes cats. Human infections due to dermatophytes after contact with zoo animals, however, are extreme rare. Four zoo keepers from Basel Zoo were diagnosed to suffer from tinea manus and tinea corporis due to T. mentagrophytes. The 22-year-old daughter of one zoo keeper was also infected with tinea corporis after having worked in the snow leopard section for one day. The strain of the index patient was confirmed by a direct uniplex-PCR-EIA and sequence analysis of the ribosomal internal transcribed spacer (ITS) region (18S rRNA, ITS1, 5.8S rRNA, ITS2, 28S rRNA) as T. mentagrophytes. Three young snow leopards from Basel Zoo were identified as the origin of the fungal skin infection. The transmission occurred due to direct contact of the zoo keepers with the young snow leopards when removing hedgehog ticks (Ixodes hexagonus). Two adult snow leopards",
+            "journal": "Der Hautarzt; Zeitschrift fur Dermatologie, Venerologie, und verwandte Gebiete",
+            "year": "2018",
+            "authors": [
+              "Grob H",
+              "Wyss F",
+              "Wenker C",
+              "Uhrlaß S",
+              "Krüger C"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Animals",
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "Dermatomycoses",
+              "Humans",
+              "Male",
+              "Panthera",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30120492/"
+          },
+          {
+            "pmid": "12780715",
+            "title": "Onychomycosis due to Onychocola canadensis.",
+            "abstract": "Onychocola canadensis is an uncommon nondermatophyte mould which can occasionally cause onychomycosis, and rarely, tinea manuum. It typically affects elderly individuals, some of whom have been farmers, in temperate climates. We describe a patient with onychomycosis due to this organism. She failed to respond to a 12-week course of terbinafine 250 mg o.d.",
+            "journal": "Clinical and experimental dermatology",
+            "year": "2003",
+            "authors": [
+              "O'Donoghue N B",
+              "Moore M K",
+              "Creamer D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Antifungal Agents",
+              "Drug Resistance, Fungal",
+              "Female",
+              "Foot Dermatoses",
+              "Humans",
+              "Mitosporic Fungi",
+              "Naphthalenes",
+              "Onychomycosis",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12780715/"
+          },
+          {
+            "pmid": "10938522",
+            "title": "[Dermatophytosis of the external auditory meatus].",
+            "abstract": "Dermatophytosis of the external auditory meatus is believed to be a fairly rare disease. In the past three and a half years we have had seven cases of dermatophytosis in the external auditory meatus. All cases except one were associated with tinea of other lesions. Case 1: A 44-year-old man had tinea of the auricle, tinea pedis and tinea unguium. Case 2: A 14-year-old boy, the son of case 1 had no tinea elsewhere on his body, including the auricle. He scratched the auditory meatus with an earpick which his father had used. Case 3: A 62-year-old man had tinea of the auricle, tinea pedis and tinea unguium. Case 4: A 50-year-old man had tinea of the auricle, tinea pedis and tinea unguium. Case 5: A 36-year-old man had tinea of the auricle, tinea pedis, tinea unguium and tinea cruris. Case 6: A 30-year-old woman had tinea of the auricle. Case 7: A 68-year-old man had tinea of the auricle, tinea pedis, tinea unguium and tinea manuum. Endoscopic examination (except for cases 4 and 7) reveale",
+            "journal": "Nihon Ishinkin Gakkai zasshi = Japanese journal of medical mycology",
+            "year": "2000",
+            "authors": [
+              "Morishita N",
+              "Oshima A",
+              "Ninomiya J",
+              "Hamaguchi T",
+              "Takiuchi I"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Ear, External",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Tinea"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10938522/"
+          },
+          {
+            "pmid": "23889168",
+            "title": "A different kind of hedgehog pathway: tinea manus due to Trichophyton erinacei transmitted by an African pygmy hedgehog (Atelerix albiventris).",
+            "abstract": "The unusual case of a 29-year-old woman with tinea manus caused by infection due to Trichophyton erinacei is described. The patient presented with marked erosive inflammation of the entire fifth finger of her right hand. Mycological and genomic diagnostics resulted in identification of T. erinacei as the responsible pathogen, which had been transmitted by a domestic African pygmy hedgehog, Atelerix albiventris. Upon prolonged treatment with topical and systemic antifungal agents skin lesions slowly resolved. This case illustrates that the increasingly popular keeping of extraordinary pets such as hedgehogs may bear the risk of infections with uncommon dermatophytes.",
+            "journal": "Mycoses",
+            "year": "2014",
+            "authors": [
+              "Weishaupt Julia",
+              "Kolb-Mäurer Annette",
+              "Lempert Sigrid",
+              "Nenoff Pietro",
+              "Uhrlaß Silke"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antifungal Agents",
+              "Female",
+              "Hand",
+              "Hedgehogs",
+              "Humans",
+              "Tinea",
+              "Treatment Outcome",
+              "Trichophyton",
+              "Zoonoses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23889168/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "tinea manuum",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20tinea%20manuum"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "echinococcus granulosus infectious disease",
+        "txgnn_score": 0.8606355786323547,
+        "txgnn_rank": 13966,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "echinococcus granulosus infectious disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20echinococcus%20granulosus%20infectious%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "superficial mycosis",
+        "txgnn_score": 0.8447420597076416,
+        "txgnn_rank": 15104,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05578950",
+            "title": "Comparative Study Between Pulse Therapy With Oral Itraconazole Versus Continuous Oral Terbinafine Therapy for Treatment of Onychomycosis",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2022-03-01",
+            "completion_date": "2022-08-31",
+            "country": "Pakistan",
+            "enrollment": 100,
+            "brief_summary": "Nail fungus, often known as onychomycosis (OM), can attack either the toenails or the fingernails. Onychomycosis can affect the matrix, the nail bed, or the nail plate. Though not fatal, onychomycosis is a significant condition that can impede a person's mobility and ability to work. Onychomycosis's wide-ranging emotional and social impacts can have a serious negative impact on patients' well-being.\n\nWhite superficial onychomycosis (WSO), proximal subungual onychomycosis (PSO), endonyx onychomyc",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients age between 18 and 60 years\n* patients positive for fungus via direct microscopy due to identification of hyphae or blastospores on the toe nails\n* patients having positive fungal culture\n* patients who had not applied any topical agent to the target toe nail for the ",
+            "endpoints": [
+              "effectiveness of pulse therapy of itraconazole and continuous therapy of terbinafine for the treatment of onychomycosis as assessed by ONYCHOMYCOSIS SEVERITY INDEX (OSI)"
+            ],
+            "sponsor": "Combined Military Hospital Abbottabad",
+            "url": "https://clinicaltrials.gov/study/NCT05578950"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38623728",
+            "title": "An update on antifungal resistance in dermatophytosis.",
+            "abstract": "The reports of resistance to antifungal agents used for treating onychomycosis and other superficial fungal infections are increasing. This rise in antifungal resistance poses a public health challenge that requires attention.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2024",
+            "authors": [
+              "Gupta Aditya K",
+              "Mann Avantika",
+              "Polla Ravi Shruthi",
+              "Wang Tong"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Humans",
+              "Drug Resistance, Fungal",
+              "Microbial Sensitivity Tests",
+              "Tinea",
+              "Mutation",
+              "Arthrodermataceae",
+              "Terbinafine",
+              "Itraconazole",
+              "Onychomycosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38623728/"
+          },
+          {
+            "pmid": "40613321",
+            "title": "Trichophyton indotineae: Epidemiology, antifungal resistance and antifungal stewardship strategies.",
+            "abstract": "There has been a recent shift in the epidemiology of superficial fungal infections (tinea, dermatophytosis, dermatomycoses). Trichophyton indotineae is an emerging dermatophyte species of significant global concern for its contagious nature and antifungal drug resistance. This scoping review includes available clinical and laboratory assessments of T. indotineae to provide a comprehensive up-to-date overview of its epidemiology, clinical manifestations, diagnostic approaches, antifungal susceptibility patterns, resistance mechanisms and management strategies. We discuss T. indotineae resistance against standard and newer antifungals (terbinafine, griseofulvin and triazoles including fluconazole, itraconazole, voriconazole and posaconazole). In particular, the terbinafine susceptibility profile of T. indotineae can be linked to squalene epoxidase (SQLE) single-nucleotide variations. For diagnosis, it is not possible to separate T. indotineae from other members of the T. mentagrophytes c",
+            "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+            "year": "2026",
+            "authors": [
+              "Gupta Aditya K",
+              "Susmita",
+              "Nguyen Hien C",
+              "Liddy Amanda",
+              "Talukder Mesbah"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Antifungal Agents",
+              "Tinea",
+              "Drug Resistance, Fungal",
+              "Trichophyton",
+              "Antimicrobial Stewardship"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40613321/"
+          },
+          {
+            "pmid": "17908006",
+            "title": "Antifungal agents.",
+            "abstract": "The four main classes of antifungal drugs are the polyenes, azoles, allylamines and echinocandins. Clinically useful \"older\" agents include topical azole formulations (for superficial yeast and dermatophyte infections), first-generation triazoles (fluconazole and itraconazole, for a range of superficial and invasive fungal infections), amphotericin B formulations (for a broad range of invasive fungal infections) and terbinafine (for dermatophyte infections). Clinically important \"newer\" agents include members of the echinocandin class (eg, caspofungin) and second-generation triazoles (eg, voriconazole and posaconazole). Voriconazole and posaconazole have broad-spectrum activity against yeasts and moulds, including Aspergillus species. Posaconazole is the only azole drug with activity against zygomycete fungi. Caspofungin and the other echinocandins are effective in treating Candida and Aspergillus infections. The azoles are relatively safe, but clinicians should be aware of drug-drug i",
+            "journal": "The Medical journal of Australia",
+            "year": "2007",
+            "authors": [
+              "Chen Sharon C A",
+              "Sorrell Tania C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Drug Interactions",
+              "Drug Therapy, Combination",
+              "Echinocandins",
+              "Fluconazole",
+              "Flucytosine",
+              "Half-Life",
+              "Humans",
+              "Itraconazole",
+              "Mycoses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17908006/"
+          },
+          {
+            "pmid": "39114868",
+            "title": "Antifungal resistance in dermatophytes - review of the epidemiology, diagnostic challenges and treatment strategies for managing Trichophyton indotineae infections.",
+            "abstract": "There is an increasing number of reports of Trichophyton indotineae infections. This species is usually poorly responsive to terbinafine.",
+            "journal": "Expert review of anti-infective therapy",
+            "year": "2024",
+            "authors": [
+              "Gupta Aditya K",
+              "Wang Tong",
+              "Mann Avantika",
+              "Polla Ravi Shruthi",
+              "Talukder Mesbah"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Humans",
+              "Drug Resistance, Fungal",
+              "Tinea",
+              "Trichophyton",
+              "Arthrodermataceae",
+              "Terbinafine",
+              "Itraconazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39114868/"
+          },
+          {
+            "pmid": "1372222",
+            "title": "Terbinafine. A review of its pharmacodynamic and pharmacokinetic properties, and therapeutic potential in superficial mycoses.",
+            "abstract": "Terbinafine is an orally and topically active allylamine antifungal agent with a primarily fungicidal action in vitro. Its spectrum of in vitro activity includes a broad range of dermatophyte, filamentous, dimorphic and dematiaceous fungi, and some yeast species. In clinical trials, mycological and overall efficacy rates of around 90 and 80%, respectively, have been achieved in cutaneous dermatophyte infections (tinea corporis/cruris and tinea pedis) with terbinafine, administered either orally (250 or 500 mg/day) or topically (a 1% cream applied twice daily). Similar rates of cure have been obtained with oral terbinafine in dermatophyte nail infections after relatively short treatment periods ranging from 3 to 12 months. Topical terbinafine has been effective in approximately 80% of patients with cutaneous candidiasis or pityriasis versicolor. Few comparative data have been published, but generally oral terbinafine appeared to be at least as effective as oral griseofulvin or ketoconaz",
+            "journal": "Drugs",
+            "year": "1992",
+            "authors": [
+              "Balfour J A",
+              "Faulds D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Dermatomycoses",
+              "Humans",
+              "Naphthalenes",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1372222/"
+          },
+          {
+            "pmid": "22474120",
+            "title": "Superficial fungal infections.",
+            "abstract": "Tinea capitis, tinea corporis, and pityriasis versicolor are common superficial fungal infections in the pediatric population. • Tinea capitis is the most common dermatophyte infection worldwide. In North America, the cause is almost exclusively T tonsurans. Diagnosis of tinea capitis usually can be made by clinical features alone, especially when occipital or postauricular lymphadenopathy is present. Skin scrapings prepared with potassium hydroxide for microscopic examination, or a cotton swab for fungal culture, usually are diagnostic. • Treatment of tinea capitis requires systemic antifungal therapy. Terbinafine and griseofulvin are both effective against T tonsurans and are FDA-approved for this indication in children. • Adjunctive topical therapy for the patient and household contacts decreases transmission of this infection. • Topical antifungal therapy usually is effective for tinea corporis and pityriasis versicolor. However, recurrences of pityriasis versicolor are common.",
+            "journal": "Pediatrics in review",
+            "year": "2012",
+            "authors": [
+              "Kelly Brendan P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Child",
+              "Dermatomycoses",
+              "Global Health",
+              "Humans",
+              "Tinea",
+              "Tinea Capitis",
+              "Tinea Versicolor"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22474120/"
+          },
+          {
+            "pmid": "20930700",
+            "title": "Sporotrichosis: an update.",
+            "abstract": "Sporotrichosis is the most frequent and worldwide distributed subcutaneous mycoses. The aim of this article is to review the most recent aspects of sporotrichosis about its epidemiology, etiologic agents, mycologic characteristics, clinical features, diagnosis and treatment. The causative agents of sporotrichosis belong to five well defined species of dimorphic fungi of the called Sporothrix schenckii complex. Sporotrichosis and its etiologic agents have specific endemic areas, but it is possible to find epidemics of the disease in practically every continent, the entrance via is cutaneous due to the inoculation of the fungi into the skin after a traumatism and less frequent due to respiratory way. Clinical manifestations are widely variable, with important involvement of the skin and the superficial lymphatic system, but also with affection of the mucosa and some organs like lungs, bones and joints. Nowadays sporotrichosis is considered a true zoonosis with important changes related t",
+            "journal": "Giornale italiano di dermatologia e venereologia : organo ufficiale, Societa italiana di dermatologia e sifilografia",
+            "year": "2010",
+            "authors": [
+              "Bonifaz A",
+              "Vázquez-González D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Sporotrichosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20930700/"
+          },
+          {
+            "pmid": "38841996",
+            "title": "Safety and efficacy of new generation azole antifungals in the management of recalcitrant superficial fungal infections and onychomycosis.",
+            "abstract": "Terbinafine is considered the gold standard for treating skin fungal infections and onychomycosis. However, recent reports suggest that dermatophytes are developing resistance to terbinafine and the other traditional antifungal agents, itraconazole and fluconazole. When there is resistance to terbinafine, itraconazole or fluconazole, or when these agents cannot used, for example, due to potential drug interactions with the patient's current medications, clinicians may need to consider off-label use of new generation azoles, such as voriconazole, posaconazole, fosravuconazole, or oteseconazole. It is essential to emphasize that we do not advocate the use of newer generation azoles unless traditional agents such as terbinafine, itraconazole, or fluconazole have been thoroughly evaluated as first-line therapies.",
+            "journal": "Expert review of anti-infective therapy",
+            "year": "2024",
+            "authors": [
+              "Gupta Aditya K",
+              "Talukder Mesbah",
+              "Shemer Avner",
+              "Galili Eran"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Antifungal Agents",
+              "Onychomycosis",
+              "Azoles",
+              "Drug Resistance, Fungal",
+              "Dermatomycoses",
+              "Off-Label Use",
+              "Drug Interactions",
+              "Arthrodermataceae"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38841996/"
+          },
+          {
+            "pmid": "12537173",
+            "title": "Dermatophyte infections.",
+            "abstract": "Dermatophytes are fungi that require keratin for growth. These fungi can cause superficial infections of the skin, hair, and nails. Dermatophytes are spread by direct contact from other people (anthropophilic organisms), animals (zoophilic organisms), and soil (geophilic organisms), as well as indirectly from fomites. Dermatophyte infections can be readily diagnosed based on the history, physical examination, and potassium hydroxide (KOH) microscopy. Diagnosis occasionally requires Wood's lamp examination and fungal culture or histologic examination. Topical therapy is used for most dermatophyte infections. Cure rates are higher and treatment courses are shorter with topical fungicidal allylamines than with fungistatic azoles. Oral therapy is preferred for tinea capitis, tinea barbae, and onychomycosis. Orally administered griseofulvin remains the standard treatment for tinea capitis. Topical treatment of onychomycosis with ciclopirox nail lacquer has a low cure rate. For onychomycosis",
+            "journal": "American family physician",
+            "year": "2003",
+            "authors": [
+              "Hainer Barry L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Arthrodermataceae",
+              "Clinical Trials as Topic",
+              "Dermatomycoses",
+              "Diagnosis, Differential",
+              "Humans",
+              "Hydroxides",
+              "Potassium Compounds"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12537173/"
+          },
+          {
+            "pmid": "12956204",
+            "title": "The efficacy and safety of terbinafine in children.",
+            "abstract": "In summary, terbinafine is a broad-spectrum allylamine, which has been used to treat superficial fungal infections including onychomycosis, and some systemic mycoses in adults. With a fungicidal activity, low minimum inhibitory concentration value, and high selectivity for fungal squalene epoxidase, terbinafine has demonstrated good efficacy in superficial fungal infections. Its lipophilic nature provides excellent, widespread absorption into hair, skin, and nails where it can eradicate fungal infection. Terbinafine has been shown to be effective and safe in several studies of the treatment of tinea capitis and onychomycosis in children. When treating Trichophyton tinea capitis the length of therapy may be 2 or 4 weeks. Microsporum tinea capitis may require somewhat higher or longer doses of terbinafine for adequate efficacy. These regimens still tend to be shorter than treatment with griseofulvin, and terbinafine may provide a higher compliance and a more cost-effective means of manag",
+            "journal": "Dermatologic clinics",
+            "year": "2003",
+            "authors": [
+              "Gupta Aditya K",
+              "Cooper Elizabeth A",
+              "Lynde Charles W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Antifungal Agents",
+              "Child",
+              "Child Welfare",
+              "Drug Administration Schedule",
+              "Griseofulvin",
+              "Humans",
+              "Naphthalenes",
+              "Onychomycosis",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12956204/"
+          },
+          {
+            "pmid": "14761128",
+            "title": "The efficacy and safety of terbinafine in children.",
+            "abstract": "Terbinafine is an allylamine antifungal agent that has been effective and safe in the treatment of superficial and some deep mycotic infections in adults. An increasing amount of data is available where terbinafine has been used in the paediatric population to treat superficial fungal infections, in particular tinea capitis. The data suggest that terbinafine is effective and safe using treatment regimens that involve short duration therapy, leading to an increased compliance and providing a cost-effective means of treating paediatric superficial fungal infections such as tinea capitis. Terbinafine has been approved for the treatment of tinea capitis in many countries worldwide, and provides good efficacy rates for Trichophyton tinea capitis using shorter regimens than the gold standard griseofulvin. The adverse events profile for children is similar to that in adults with few adverse effects associated with its use. The evidence favours the use of terbinafine in the treatment of superf",
+            "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+            "year": "2003",
+            "authors": [
+              "Gupta A K",
+              "Adamiak A",
+              "Cooper E A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Age Factors",
+              "Antifungal Agents",
+              "Biological Availability",
+              "Child",
+              "Child, Preschool",
+              "Dermatomycoses",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14761128/"
+          },
+          {
+            "pmid": "30734680",
+            "title": "Tinea Imbricata: An Overview.",
+            "abstract": "Tinea imbricata is a chronic superficial mycosis caused mainly by Trichophyton concentricum. The condition mainly affects individuals living in primitive and isolated environment in developing countries and is rarely seen in developed countries. Physicians in nonendemic areas might not be aware of this fungal infection.",
+            "journal": "Current pediatric reviews",
+            "year": "2019",
+            "authors": [
+              "Leung Alexander K C",
+              "Leong Kin F",
+              "Lam Joseph M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Diagnosis, Differential",
+              "Humans",
+              "Skin",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30734680/"
+          },
+          {
+            "pmid": "11155585",
+            "title": "Systemic antifungal therapy.",
+            "abstract": "Systemic antifungal therapy for superficial mycoses has advanced greatly since the introduction of griseofulvin in 1958. The discovery of the azole antifungal compounds, ketoconazole, itraconazole, and fluconazole, allowed for a broader spectrum of treatment and a shorter treatment duration. Terbinafine, through a unique mechanism of action, has a fungicidal power not seen previously in the other antifungals. It is important to use our knowledge of the pharmacology in combination with clinical experience and cost of therapy in order to select the proper drug. The search to identify new oral antifungal agents should continue, since none of the five currently used drugs fulfill the criteria of the \"ideal\" antifungal.",
+            "journal": "Dermatologic clinics",
+            "year": "2001",
+            "authors": [
+              "Moossavi M",
+              "Bagheri B",
+              "Scher R K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Antifungal Agents",
+              "Dermatomycoses",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11155585/"
+          },
+          {
+            "pmid": "40372083",
+            "title": "In vitro activity of novel antifungals, natamycin, and terbinafine against Fusarium.",
+            "abstract": "The genus Fusarium includes several trans-kingdom pathogens, infecting plants, animals, and humans, with widespread occurrence. Invasive Fusarium infections are often destructive due to their prevalence in critically ill patients. Furthermore, severe superficial infections, like keratitis or endophthalmitis with potential loss of vision, are rising in incidence globally. Infections are difficult to treat due to the intrinsic resistance of Fusarium against echinocandins and often high minimal inhibitory concentrations (MICs) for azoles. In this article, we assessed the in vitro activity of the novel antifungals olorofim, manogepix, rezafungin, and ibrexafungerp, as well as the established but nonstandard drugs, natamycin and terbinafine, against a large set of molecularly identified clinical Fusarium isolates via EUCAST microdilution. The tested isolates represent the clinically most relevant species of the F. solani (FSSC), F. oxysporum (FOSC), F. fujikuroi (FFSC), F. incarnatum-equise",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2025",
+            "authors": [
+              "Garbe Enrico",
+              "Ullah Ahsan",
+              "Aldejohann Alexander Maximilian",
+              "Kurzai Oliver",
+              "Janevska Slavica"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Terbinafine",
+              "Fusarium",
+              "Antifungal Agents",
+              "Microbial Sensitivity Tests",
+              "Natamycin",
+              "Humans",
+              "Fusariosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40372083/"
+          },
+          {
+            "pmid": "9704209",
+            "title": "Pediatric antifungal therapy.",
+            "abstract": "The most common superficial dermatophyte infections in children involve the scalp, skin, and nails. Griseofulvin has traditionally served as the standard of care for scalp and nail infections, but an increasing proportion of tinea capitis infections are proving refractory or very slowly responsive to treatment. This article will review new antifungal therapies available and their future role in the treatment of pediatric dermatophyte infections. As these new agents are not yet FDA approved for use in the pediatric dermatophyte infections, the practitioner must be aware of possible risks and benefits of such drugs, and counsel families appropriately regarding \"off-label\" use.",
+            "journal": "Dermatologic clinics",
+            "year": "1998",
+            "authors": [
+              "Friedlander S F",
+              "Suarez S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "Child",
+              "Dermatomycoses",
+              "Drug Interactions",
+              "Female",
+              "Fluconazole",
+              "Griseofulvin",
+              "Humans",
+              "Itraconazole",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9704209/"
+          },
+          {
+            "pmid": "25502847",
+            "title": "Generalized superficial mycosis caused by Trichophyton raubitschekii in China: case report and review of the literature.",
+            "abstract": "This is a generalized superficial mycosis case from which Trichophyton raubitschekii was isolated. A male adult was presented with a 3-year history of fingernail and toenail changes, and a 50-day history of severe and multiple skin lesions. He also complained of intense itching. T. raubitschekii was identified from every skin lesion (trunk, extremities and nail) through microscopic examination, physiological experiment and DNA sequencing. Generalized superficial mycosis was diagnosed and treated by administering a combination of oral (terbinafine tablets) and topical (naftifine hydrochloride and ketoconazole cream) antimycotic drugs. After treatment, the patient was cured and no recurrence has been observed.",
+            "journal": "Mycopathologia",
+            "year": "2015",
+            "authors": [
+              "Zhang Hao",
+              "Xiong Xincai",
+              "Liu Ting",
+              "Ran Yuping"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antifungal Agents",
+              "China",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25502847/"
+          },
+          {
+            "pmid": "10939306",
+            "title": "Onychomycosis in the elderly.",
+            "abstract": "Onychomycosis is found more frequently in the elderly, and in more males than females. Onychomycosis of the toes is usually caused by dermatophytes, most commonly Trichophyton rubrum and T. mentagrophytes. The most common clinical presentations are distal and lateral subungual onychomycosis (which usually affects the great/first toe) and white superficial onychomycosis (which generally involves the third/fourth toes). Only about 50% of all abnormal-appearing nails are due to onychomycosis. In the remainder, trauma to the nail, psoriasis and conditions such as lichen planus should be considered in the differential diagnosis. Therefore, the clinical impression of onychomycosis should be confirmed by mycological examination, whenever possible. The management of onychomycosis may include no therapy, palliative treatment with mechanical or chemical debridement, topical antifungal therapy, oral antifungal agents or a combination of treatment modalities. In the US, the only new oral agents ap",
+            "journal": "Drugs & aging",
+            "year": "2000",
+            "authors": [
+              "Gupta A K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Aged",
+              "Antifungal Agents",
+              "Humans",
+              "Onychomycosis",
+              "Palliative Care",
+              "Patient Education as Topic",
+              "Prevalence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10939306/"
+          },
+          {
+            "pmid": "15230889",
+            "title": "Tinea imbricata or Tokelau.",
+            "abstract": "Tinea imbricata (TI) or Tokelau is a superficial mycosis caused by Trichophyton concentricum, an anthropophilic dermatophyte. It is endemic in some islands of the South Pacific (Polynesia), South-East Asia, Central and South America, and Mexico, and is most often seen in individuals living in primitive and isolated conditions. The skin lesions are characteristically concentric and lamellar (imbricata: in Latin, tiled) plaques of scale. Predisposing conditions include humidity, inheritance, and immunologic factors. The diagnosis is usually made on clinical grounds, supported by skin scrapings and culture. Tokelau is a chronic and highly relapsing disease and, although no first-line treatment exists, best results are obtained with oral griseofulvin and terbinafine and a topical combination of keratolytic ointments, such as Whitfield's. TI is a disease model that allows the correlation of a series of environmental, genetic, immunologic, and therapeutic conditions.",
+            "journal": "International journal of dermatology",
+            "year": "2004",
+            "authors": [
+              "Bonifaz Alexandro",
+              "Archer-Dubon Carla",
+              "Saúl Amado"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Mexico",
+              "Tinea",
+              "Trichophyton"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15230889/"
+          },
+          {
+            "pmid": "10509936",
+            "title": "Itraconazole and terbinafine in perspective: from petri dish to patient.",
+            "abstract": "To compare the antifungal activity of itraconazole and terbinafine in vitro and to relate them to their experimental in vivo activity and to their efficacy in patients with superficial fungal infections (tinea pedis and onychomycosis).",
+            "journal": "Journal of the European Academy of Dermatology and Venereology : JEADV",
+            "year": "1999",
+            "authors": [
+              "De Doncker P"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antifungal Agents",
+              "Clinical Trials as Topic",
+              "Foot Dermatoses",
+              "Humans",
+              "In Vitro Techniques",
+              "Itraconazole",
+              "Naphthalenes",
+              "Onychomycosis",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10509936/"
+          },
+          {
+            "pmid": "11499331",
+            "title": "The safety and efficacy of terbinafine in patients with diabetes and patients who are HIV positive.",
+            "abstract": "Superficial fungal infections are commonly encountered in dermatologic practices. Their incidence is increasing because of the use of immunosuppressive drugs, an aging population, and the increased prevalence of diabetes mellitus and human immunodeficiency virus (HIV) infection. Topical antifungal therapy typically has been the treatment of choice for uncomplicated dermatophytoses of the skin, such as tinea pedis and tinea cruris. However, these infections may be particularly difficult to treat in high-risk patients, such as those who have diabetes or who are HIV positive. In patients with HIV, dermatophytoses tend to be more extensive and generally require oral antifungal therapy. The allylamine terbinafine has a proven safety record and no significant drug interactions. We review the clinical experience with terbinafine in diabetic and HIV-positive subjects and conclude that terbinafine is safe and has a low drug interaction potential in these high-risk cohort studies.",
+            "journal": "Cutis",
+            "year": "2001",
+            "authors": [
+              "Elewski B",
+              "Smith S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "AIDS-Related Opportunistic Infections",
+              "Antifungal Agents",
+              "Clinical Trials as Topic",
+              "Dermatomycoses",
+              "Diabetes Complications",
+              "Diabetes Mellitus",
+              "Humans",
+              "Immunocompromised Host",
+              "Naphthalenes",
+              "Terbinafine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11499331/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Terbinafine",
+          "disease": "superficial mycosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Terbinafine%20superficial%20mycosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Terbinafine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00857",
+    "name": "Terbinafine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Terbinafine"
+      },
+      "queried_at": "2026-03-24T15:23:18.306495",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Terbinafine"
+      },
+      "queried_at": "2026-03-24T15:23:18.309122",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Terbinafine"
+      },
+      "queried_at": "2026-03-24T15:23:23.359038",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:24.676480",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:31.722553",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:32.406228",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:37.411979",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:38.103646",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:44.663057",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:49.668229",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:50.912280",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:23:51.452249",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:24:02.029206",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:24:05.015796",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:24:11.886753",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:24:12.529731",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:24:17.264570",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:24:18.827356",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:24:26.504652",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "cutaneous candidiasis"
+      },
+      "queried_at": "2026-03-24T15:24:26.981166",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "cutaneous candidiasis"
+      },
+      "queried_at": "2026-03-24T15:24:31.054477",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "cutaneous candidiasis"
+      },
+      "queried_at": "2026-03-24T15:24:31.834174",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "cutaneous candidiasis"
+      },
+      "queried_at": "2026-03-24T15:24:35.063189",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T15:24:35.732826",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T15:24:39.269535",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T15:24:39.992923",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "toxoplasmosis"
+      },
+      "queried_at": "2026-03-24T15:24:42.708247",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T15:24:43.272204",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T15:24:47.813680",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T15:24:48.585613",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "blastomycosis"
+      },
+      "queried_at": "2026-03-24T15:24:51.988682",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "tinea manuum"
+      },
+      "queried_at": "2026-03-24T15:24:52.503715",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "tinea manuum"
+      },
+      "queried_at": "2026-03-24T15:24:56.363846",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "tinea manuum"
+      },
+      "queried_at": "2026-03-24T15:24:57.016026",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "tinea manuum"
+      },
+      "queried_at": "2026-03-24T15:25:00.612839",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T15:25:01.265190",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T15:25:05.503702",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T15:25:06.006568",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T15:25:06.883892",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "superficial mycosis"
+      },
+      "queried_at": "2026-03-24T15:25:07.373783",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "superficial mycosis"
+      },
+      "queried_at": "2026-03-24T15:25:13.560414",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "superficial mycosis"
+      },
+      "queried_at": "2026-03-24T15:25:18.566061",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Terbinafine",
+        "disease": "superficial mycosis"
+      },
+      "queried_at": "2026-03-24T15:25:21.767340",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:25:21.769358"
+  }
+}

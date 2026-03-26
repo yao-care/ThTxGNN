@@ -1,0 +1,2186 @@
+{
+  "drug": {
+    "inn": "Heparin",
+    "drugbank_id": "DB01109",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "thrombophilia due to protein C deficiency, autosomal recessive",
+        "txgnn_score": 0.9928800463676452,
+        "txgnn_rank": 1555,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "thrombophilia due to protein C deficiency, autosomal recessive",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20thrombophilia%20due%20to%20protein%20C%20deficiency%2C%20autosomal%20recessive"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "primary release disorder of platelets",
+        "txgnn_score": 0.990594744682312,
+        "txgnn_rank": 1981,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00043940",
+            "title": "Anticoagulant Therapy With Bivalirudin in the Performance of PCI in Patients With Heparin-Induced Thrombocytopenia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "1999-04",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": 50,
+            "brief_summary": "Primary Objective:\n\nTo assess the safety of bivalirudin as an alternative anticoagulant therapy for patients with new or previous heparin-induced thrombocytopenia (HIT) / heparin-induced thrombocytopenia and thrombosis syndrome (HITTS) undergoing percutaneous coronary intervention (PCI). This will be measured by the composite incidence of major bleeding events during administration or within 48 hours after stopping bivalirudin (or at hospital discharge, whichever occurs first). The components of",
+            "eligibility_criteria": "INCLUSION:\n\n* Males and females at least 18 years of age,\n* Be able to provide written informed consent,\n* Need anticoagulation for percutaneous coronary intervention (angioplasty, rotational atherectomy, directional coronary atherectomy, transluminal extraction catheter, or coronary stent),\n* New d",
+            "endpoints": [
+              "Major bleeding events"
+            ],
+            "sponsor": "The Medicines Company",
+            "url": "https://clinicaltrials.gov/study/NCT00043940"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05895136",
+            "title": "A Novel COMBinATorial Therapy With Albumin and Enoxaparin in Patients With Decompensated Cirrhosis at High-risk of Poor Outcome (COMBAT Trial).",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2024-07-01",
+            "completion_date": "2025-09",
+            "country": "Italy, France, Spain, United Kingdom, Germany",
+            "enrollment": 90,
+            "brief_summary": "The goal of this clinical trial is to determine primarily whether a combinatorial therapy based on the administration of human albumin and enoxaparin is safe and effective in patients with decompensated cirrhosis discharged from the hospital. The main questions it aims to answer are:\n\n* Is this combinatorial therapy safe and tolerable?\n* Is this combinatorial therapy effective?\n* does this combinatorial therapy cost more or less than standard medical therapy? Participants will attend to study vi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 18 and 80 years.\n2. Patients with decompensated cirrhosis admitted to hospital due to AD according to the EASL-CLIF criteria (rapid onset of ascites, hepatic encephalopathy, portal hypertensive-related gastrointestinal bleeding, bacterial infection, or any combina",
+            "endpoints": [
+              "To assess the safety and tolerability of the combinatorial therapy in terms of TEAE (pulmonary edema, major bleeding and/or thrombocytopenia"
+            ],
+            "sponsor": "European Foundation for Study of Chronic Liver Failure",
+            "url": "https://clinicaltrials.gov/study/NCT05895136"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01519518",
+            "title": "A Randomised Controlled Trial to Compare Unfractionated Heparin Versus Bivalirudin in the Treatment of Patients With a Clinical Diagnosis of ST-Segment Elevation Myocardial Infarction Events - For Planned Management With Primary PCI",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-02",
+            "completion_date": "2013-12",
+            "country": "United Kingdom",
+            "enrollment": 1829,
+            "brief_summary": "The purpose of this study is to compare unfractionated heparin (UFH) and bivalirudin in the performance and subsequent outcomes of Primary percutaneous coronary intervention. This will be a pragmatic trial. Interventional procedures will be performed to reflect current and evolving standards, including predominant radial access. All patients will be treated with routine oral anti-platelet therapy pre-procedure. GP IIb/IIIa inhibitors will be reserved for 'bail out' treatment only.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All patients presenting with a suspected myocardial infarction event with PPCI as the proposed index reperfusion strategy will be included in the trial\n\nExclusion Criteria:\n\n* ≤ 18 years of age\n* Known intolerance, hypersensitivity or contraindication to any trial medication\n*",
+            "endpoints": [
+              "Major Adverse Cardiac Events (MACE) in Terms of the Incidence of All Cause Mortality, Cerebrovascular Accident, Re-infarction and Additional Unplanned Target Lesion Revascularization",
+              "Type 3-5 Bleeding According to BARC (Bleeding Academic Research Consortium)Definition"
+            ],
+            "sponsor": "Liverpool Heart and Chest Hospital NHS Foundation Trust",
+            "url": "https://clinicaltrials.gov/study/NCT01519518"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04808895",
+            "title": "Multicenter Randomized, Double-blind, Placebo-controlled, Clinical Trial of Acetylsalicylic Acid in the Prevention of Severe SARS-CoV2 Pneumonia in Hospitalised Patients (Asperum)",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2021-04-01",
+            "completion_date": "2021-08-31",
+            "country": "Italy",
+            "enrollment": 204,
+            "brief_summary": "Inflammatory diseases favour the onset of venous thromboembolic events in hospitalized patients. Thromboprophylaxis with a fixed dose of heparin/low molecular weight heparin (LMWH) is recommended if concomitant inflammatory disease. In severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) pneumonia an inflammation-dependent thrombotic process occurs and platelet activation may promote thrombosis and amplify inflammation, as indicated by previous experimental evidence, and the similarities ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* in a medical area ward dedicated to Covid-19 patients\n* Positivity by RT\\_PCR of the search for genetic material of SARS-CoV2\n* Covid-19 pneumonia with moderate clinical picture based on clinical parameters\n* O2 saturation\\> 94% with maximum FiO2 32%\n* Respiratory acts \\<30 / ",
+            "endpoints": [
+              "Prevention of clinical worsening",
+              "Prevention of lung function worsening",
+              "Prevention of death"
+            ],
+            "sponsor": "Azienda Ospedaliera Universitaria Integrata Verona",
+            "url": "https://clinicaltrials.gov/study/NCT04808895"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05293132",
+            "title": "The Effect of Montelukast Versus Co Enzyme Q10 on the Clinical Outcome of Patients With Sepsis",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2022-02-01",
+            "completion_date": "2023-06-01",
+            "country": "Egypt",
+            "enrollment": 90,
+            "brief_summary": "Sepsis is a leading cause of morbidity and mortality in intensive care units. Sepsis is a life-threatening organ dysfunction linked to a dysregulated host response to infection. It leads to overwhelming of systemic inflammation causing release of proinflammatory cytokines, which trigger overproduction of reactive oxygen species. Several animal studies with sepsis proved the effectiveness of montelukast and coenzyme Q10 as anti-inflammatory and antioxidants in preventing end organ damage, deterio",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAge \\>18 years old.\n\n* Males and females\n* Confirmed diagnosis of sepsis according to the third sepsis definition which include documented or suspected infection, plus an acute change in total SOFA score ≥ 2 points\n\nExclusion Criteria:\n\n* Pregnancy\n* A severe moribund state\n* An",
+            "endpoints": [
+              "Twenty-eight-day mortality"
+            ],
+            "sponsor": "Ain Shams University",
+            "url": "https://clinicaltrials.gov/study/NCT05293132"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00911300",
+            "title": "An International, Multicentre, Randomised, Open, Controlled, Two-parallel Group, Phase II Pilot Study to Evaluate the Efficacy and Safety of ARIXTRA™ for Anticoagulation of Patients With Atrial Fibrillation Undergoing Electric Cardioversion Following Transesophageal Echocardiography",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2009-08",
+            "completion_date": "2011-09",
+            "country": "France, Germany",
+            "enrollment": 349,
+            "brief_summary": "The purpose of this study is to test whether Fondaparinux is effective and safe to prevent thromboembolic events (like for example strokes) and bleeding events in patients who undergo a normalisation of their heart rhythm disturbance. Fondaparinux will be compared with Heparin and tablets containing Vitamin-K-Antagonists (Phenprocoumon, Fluindione, or Warfarin).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients aged at least 18 years with atrial fibrillation (AF) meeting at least one of the following criteria (a, b, c): a. Acute clinical symptoms (like palpitations, chest pain, dyspnea, fatigue, lightheadedness, or syncope) for at least 48 hours and AF on base",
+            "endpoints": [
+              "Number of Participants With at Least One Event of Cerebral Neurologic Event, Systemic Thromboembolism, Death From Any Cause, and/or Major Bleeding Until the End of Treatment (EOT) Plus 4 Days"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT00911300"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07127718",
+            "title": "Decreasing Leptospirosis Emergence Through Prognosis and Treatment Optimization (DeLEPTO) Project 1: Preventive Strategies for Early and Late Complications of Leptospirosis",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2024-04-12",
+            "completion_date": "2026-03",
+            "country": "Philippines",
+            "enrollment": 678,
+            "brief_summary": "The goal of this clinical trial is to learn if complement factor I (CFI) works to predict development of complications in participants with leptospirosis. It will also learn if plasma transfusion, hemoperfusion, and extracorporeal membrane oxygenation works to treat participants with leptospirosis. The main questions it aims to answer are:\n\n* Does a low level of CFI predict the development of lung damage in participants with leptospirosis?\n* Does plasma tranfusion lower the chances of participan",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects with acute fever (38ºC for at least two days) and at least one of the following: myalgia, jaundice, headache, meningeal irritation, oliguria, conjunctival suffusion\n* Who have a microscopic agglutination test (MAT) that indicates a single serum sample MAT titer greate",
+            "endpoints": [
+              "Determination of CFI levels via qPCR and via ELISA",
+              "Hospital Days",
+              "Occurrence of Mortality"
+            ],
+            "sponsor": "National Kidney and Transplant Institute, Philippines",
+            "url": "https://clinicaltrials.gov/study/NCT07127718"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01863134",
+            "title": "Clinical Effects of Eptifibatide Administration in High Risk Patients Presenting With Non-ST Segment Elevation Acute Coronary Syndrome (NSTE-ACS) Requiring Urgent Coronary Artery Bypass Graft Surgery in Short- and Long-Term Follow-up",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2005-01",
+            "completion_date": "2010-12",
+            "country": "Poland, United States",
+            "enrollment": 140,
+            "brief_summary": "1. INTRODUCTION\n\n   Through last couple of years the number of patients treated for acute coronary event without persistent ST segment elevation in ECG has been growing.\n\n   This is probably an effect of improving diagnostics of myocardial infraction without persistent ST segment elevation in ECG, due to routine Troponin serum level evaluation and better primary prevention.\n\n   This fact makes the search for the optimal treatment for patients with acute coronary event without persistent ST segme",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have a typical anginal pain lasting at least 20 min., but no longer than 24h.\n* ECG confirming ischaemia\n* ST segment depression \\>= 1,0 mm in at least 2 leads, or,\n* negative T waves \\>= 2,0 mm in at least 2 leads.\n* Positive troponin I (TnI).\n* Subjects must de",
+            "endpoints": [
+              "Major Adverse Cardiac and Cerebrovascular Events (MACCE)"
+            ],
+            "sponsor": "Medical University of Silesia",
+            "url": "https://clinicaltrials.gov/study/NCT01863134"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00073580",
+            "title": "Angiomax in Patients With HIT/HITTS Type II Undergoing Off-PUMP CABG",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-10",
+            "completion_date": "",
+            "country": "United States",
+            "enrollment": 88,
+            "brief_summary": "The purpose of this study is to examine the safety and efficacy of Angiomax as an anticoagulation in patients with heparin-induced thrombocytopenia (HIT)/heparin-induced thrombocytopenia with thrombosis syndrome (HITTS) undergoing off-pump coronary artery bypass (OPCAB) surgery.",
+            "eligibility_criteria": "Inclusion:\n\n* Be at least 18 years of age.\n* Be accepted for OPCAB graft surgery (repeat CABG eligible)\n* New diagnosis or history of objectively documented HIT/HITTS Type II, defined as:\n\n  1. Positive heparin-induced platelet aggregation (HIPA) or other functional assay for HIT or immunoassay for ",
+            "endpoints": [
+              "Primary Endpoint"
+            ],
+            "sponsor": "The Medicines Company",
+            "url": "https://clinicaltrials.gov/study/NCT00073580"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07183605",
+            "title": "Central Catheter Anti-Xa Sampling Study for Accurate aNalysis and Reliable Dosage Assessment",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2025-09-22",
+            "completion_date": "2026-10",
+            "country": "France",
+            "enrollment": 30,
+            "brief_summary": "The goal is to investigate whether blood samples drawn from a central venous catheter can provide reliable measurements of unfractionated heparin (UFH) anti-Xa activity, compared to the standard method of peripheral vein puncture, in intensive care unit (ICU) patients receiving continuous intravenous UFH.\n\nTo evaluate the reliability of central venous blood sampling, the study will compare anti-Xa activity levels obtained simultaneously from two different types of blood draws: one from a periphe",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Person (or support person/relative if unable to do so) who has agreed to participate in the study\n* 18 years of age or older\n* Hospitalized in intensive care medicine\n* Having a central venous catheter with at least three lumens (internal jugular, subclavian or femoral) alread",
+            "endpoints": [
+              "Difference in anti-Xa activity values between the two sampling sites."
+            ],
+            "sponsor": "Centre Hospitalier Régional d'Orléans",
+            "url": "https://clinicaltrials.gov/study/NCT07183605"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04441996",
+            "title": "Therapeutic Plasma Exchange for COVID-19-associated Hyperviscosity",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2020-07-17",
+            "completion_date": "2021-03-18",
+            "country": "United States",
+            "enrollment": 20,
+            "brief_summary": "Many patients with Coronavirus Disease 2019 (COVID-19) have atypical blood clots. These blood clots can occur in either veins or arteries and be large, like in stroke or heart attack, or very tiny, called microthrombi. Some patients with COVID-19 even have blood clots despite being on anti-clotting medications. Blood with increased viscosity does not flow through the body normally, in the same way that syrup, a highly viscous liquid, and water, a minimally viscous liquid, flow differently. The r",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 18 years\n* Patients admitted to the ICU at Emory University Hospital, Emory University Hospital Midtown, or Emory Saint Joseph's Hospital\n* Evidence of COVID-19 infection documented by a laboratory test either by one of the following:\n\n  * A diagnostic test (e.g., nasoph",
+            "endpoints": [
+              "Plasma Viscosity",
+              "Cumulative Incidence of Adverse Events"
+            ],
+            "sponsor": "Emory University",
+            "url": "https://clinicaltrials.gov/study/NCT04441996"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04486508",
+            "title": "Intermediate-dose Versus Standard Prophylactic Anticoagulation In cRitically-ill pATIents With COVID-19: An opeN Label Randomized Controlled Trial---A Randomized Trial of Atorvastatin vs. Placebo In Critically-ill Patients With COVID-19",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-07-30",
+            "completion_date": "2021-07-05",
+            "country": "Iran",
+            "enrollment": 600,
+            "brief_summary": "In a 2x2 factorial design randomized controlled trial, the investigators aim to elaborate the safety and efficacy of two pharmacological regimens on outcomes of critically-ill patients with COVID-19. The first randomization entails open-label assignment to intermediate versus standard dose prophylactic anticoagulation. The investigators hypothesize that intermediate dose compared with standard prophylactic dose anticoagulation will have a superior efficacy with respect to a composite of venous t",
+            "eligibility_criteria": "Inclusion Criteria for Anticoagulation Hypothesis\n\n1. Adult patients (≥18 years), with polymerase chain reaction (PCR)-confirmed COVID-19 admitted to ICU within 7 days of initial hospitalization , who do not have another firm indication for anticoagulation (such as mechanical valve, high-risk atrial",
+            "endpoints": [
+              "a composite of acute VTE, arterial thrombosis, treatment with ECMO, or all-cause mortality"
+            ],
+            "sponsor": "Rajaie Cardiovascular Medical and Research Center",
+            "url": "https://clinicaltrials.gov/study/NCT04486508"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00457002",
+            "title": "A Phase 3 Randomized, Double-Blind, Parallel-group, Multi-center Study of the Safety and Efficacy of Apixaban for Prophylaxis of Venous Thromboembolism in Acutely Ill Medical Subjects During and Following Hospitalization.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2007-06",
+            "completion_date": "2011-05",
+            "country": "Hungary, Norway, Italy, South Africa, Ukraine, United Kingdom, United States, Brazil, Argentina, India, Poland, Singapore, Philippines, Czechia, Sweden, Spain, Taiwan, Russia, Germany, Netherlands, Turkey (Türkiye), Mexico, Chile, Peru, Hong Kong, Denmark, Australia, Israel, France, Austria, Belgium, Malaysia, South Korea, Colombia, Canada",
+            "enrollment": 6758,
+            "brief_summary": "The purpose of this study is to learn if apixaban can prevent blood clots in the leg (deep vein thrombosis \\[DVT\\]) and lung (pulmonary embolism \\[PE\\]) that sometimes occur within patients hospitalized for acute medical illness, and to learn how apixaban compares to enoxaparin (Lovenox®) for preventing these clots. The safety of apixaban will also be studied.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* men and non-pregnant, non-breastfeeding women\n* 40 years or older\n* hospitalized with congestive heart failure or acute respiratory failure\n* infection (without septic shock)\n* acute rheumatic disorder\n* inflammatory bowel disease\n\nExclusion Criteria:\n\n* patients with venous t",
+            "endpoints": [
+              "Incidence of Composite of Adjudicated Total Venous Thromboembolism (VTE) and VTE-related Death During the Intended Treatment Period - Primary Efficacy Population",
+              "Incidence of Major Bleeding During the Treatment Period in Treated Participants",
+              "Incidence of Clinically Relevant Non-Major (CRNM) Bleeding During the Treatment Period in Treated Participants"
+            ],
+            "sponsor": "Bristol-Myers Squibb",
+            "url": "https://clinicaltrials.gov/study/NCT00457002"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05521776",
+            "title": "Impact of First-trimester Preeclampsia Screening on Perinatal and Maternal Morbidity : a Multicenter Randomized Trial",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2023-03-06",
+            "completion_date": "2026-03-06",
+            "country": "France",
+            "enrollment": 14500,
+            "brief_summary": "The purpose of this study is to determine whether first-trimester screening for preeclampsia based on the FMF algorithm (a combination of maternal clinical, sonographic and biochemical parameters), improves maternal or perinatal health.",
+            "eligibility_criteria": "Inclusion Criteria :\n\n* Pregnancy between 11 and 14 WG\n* Age ≥18 years\n* Affiliated to or beneficiary of a health insurance system (including AME)\n* Signed informed consent\n\nExclusion Criteria :\n\n* Gestational age \\<11 WG and \\>14 WG\n* Known ectopic pregnancy\n* Known non-ongoing pregnancy\n* Known mu",
+            "endpoints": [
+              "Severe perinatal morbidity"
+            ],
+            "sponsor": "Assistance Publique - Hôpitaux de Paris",
+            "url": "https://clinicaltrials.gov/study/NCT05521776"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00879957",
+            "title": "Comparison of Heparin vs. no Heparin on Duration of Peripherally Inserted Central Catheter Patency in Neonates",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2010-01",
+            "completion_date": "2011-05",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "Background: Heparin is an anticoagulant commonly used in the neonatal population as a means to prevent catheter related occlusion and malfunction by thrombosis (clot). Given the recent overdoses of infants using heparin, there is concern as to whether heparin should be used in peripherally inserted central venous catheters (PICC). Scientific evidence comparing the duration of use of heparin versus no heparin in PICCs is conflicting.\n\nPurpose: The purpose of this study is to evaluate the effect o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Neonates admitted to the Neonatal Intensive Care Unit (NICU) at University Hospital in San Antonio, Texas who require a percutaneous central venous catheter, as determined by the attending neonatologist.\n\nExclusion Criteria:\n\n* Evidence of bleeding (prolonged aPTT)\n* Recent se",
+            "endpoints": [
+              "The primary outcome will be duration of catheter patency, as defined by the length of time between insertion and removal of the PICC due to catheter occlusion."
+            ],
+            "sponsor": "The University of Texas Health Science Center at San Antonio",
+            "url": "https://clinicaltrials.gov/study/NCT00879957"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04528888",
+            "title": "Steroids and Unfractionated Heparin in Critically Ill Patients With Pneumonia From COVID-19 Infection. A Multicenter, Interventional, Randomized, Three Arms Study Design",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2020-11-25",
+            "completion_date": "2021-07-30",
+            "country": "Italy",
+            "enrollment": 210,
+            "brief_summary": "SARS-CoV-2 infection seems to induce in most critical cases an excessive and aberrant hyper-inflammatory host immune response that is associated with a so-called \"cytokine storm\", moreover pro-thrombotic derangements of haemostatic system is another common finding in most severe forms of COVID19 infections, which may be explained by the activation of coagulative cascade primed by inflammatory stimuli, in line with what is observed in many other forms of sepsis. Targeting inflammatory responses e",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Positive SARS-CoV-2 diagnostic (on pharyngeal swab of deep airways material)\n2. Positive pressure ventilation (either non-invasive or invasive) from \\> 24 hours\n3. Invasive mechanical ventilation from \\< 96 hours\n4. P/F ratio \\< 150\n5. D-dimer level \\> 6 x upper limit of loca",
+            "endpoints": [
+              "All-cause mortality at day 28"
+            ],
+            "sponsor": "University of Modena and Reggio Emilia",
+            "url": "https://clinicaltrials.gov/study/NCT04528888"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04778917",
+            "title": "Observation and Treatment of Pulmonary Microthrombosis in Childhood Pneumonia With Elevated D-dimer",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2014-12",
+            "completion_date": "2018-02",
+            "country": "China",
+            "enrollment": 124,
+            "brief_summary": "Objective\n\n1\\. Master the clinical feathers, imaging features and laboratory diagnosis characteristics and economic costs of children pneumonia with higher D-dimer:\n\n1. Compare the characteristics of different groups of children in the course of the disease，clinicalsymptoms and signs;\n2. All the children in the study need to do enhanced CT, to observe if there were intrapulmonary vascular thrombosis and necrosis pneumonia signs;\n3. compared changes of coagulation index beside D-dimer.\n\n2\\. Compa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of simple pneumonia\n* Age 28 days to 18 years\n\nExclusion Criteria:\n\n* With congenital heart disease\n* With kidney disease\n* With blood system diseases\n* With paralysis\n* With muscle tension\n* With fracture,\n* With a family history of thrombotic disease\n* Wit",
+            "endpoints": [
+              "Lung imaging absorption improvement time after treatment",
+              "Time to improve cough symptoms",
+              "Heat retreat time"
+            ],
+            "sponsor": "Capital Institute of Pediatrics, China",
+            "url": "https://clinicaltrials.gov/study/NCT04778917"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04817332",
+            "title": "A Randomised Double-blind Placebo-controlled Trial of Brensocatib (INS1007) in Patients With Severe COVID-19",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-06-05",
+            "completion_date": "2021-02-28",
+            "country": "United Kingdom",
+            "enrollment": 406,
+            "brief_summary": "COVID-19 is a respiratory disease caused by a novel coronavirus (SARS-CoV-2) and causes substantial morbidity and mortality. There is currently no vaccine to prevent infection with SARS-CoV-2 and no therapeutic agent to treat COVID-19. This clinical trial is designed to evaluate the potential of Brensocatib (INS1007) as a novel host directed therapy for the treatment of adult patients hospitalized with COVID-19. The investigators hypothesise that Brensocatib, by blocking damaging neutrophil prot",
+            "eligibility_criteria": "Inclusion Criteria:\n\n6.1. Inclusion criteria\n\n• Male or female\n\n* ≥16 years of age\n* SARS-CoV-2 infection (clinically suspected+ or laboratory confirmed\\*).\n* Admitted to hospital as in-patient less than 96 hours prior to randomisation\\^\n* Illness of any duration, and at least one of the following:\n",
+            "endpoints": [
+              "Comparison of Participant Clinical Status Between Treatment Arms"
+            ],
+            "sponsor": "University of Dundee",
+            "url": "https://clinicaltrials.gov/study/NCT04817332"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03632148",
+            "title": "In Vitro Evaluation of the Effect of HepaStem in the Coagulation Activity in Blood of Patients With Liver Disease.",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2017-12-20",
+            "completion_date": "2019-12-30",
+            "country": "Belgium",
+            "enrollment": 9,
+            "brief_summary": "Liver MSCs or Adult Derived Human Liver Stem/progenitor Cells (ADHLSCs) infusions are currently being developed as a therapeutic medicinal product for the treatment of different liver defects. Nevertheless, a main concern for clinicians and health authorities is the risk of therapy-induced thrombosis, which has been reported in several patients after intravenous infusion. Previous studies showed in fact that most MSCs express a procoagulant activity. ADHLSCs could be used to treat acute de-compe",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* acute de-compensated cirrhotic patients\n\nExclusion Criteria:\n\n* anticoagulant treatment except for prophylactic heparin treatment\n* coagulopathy\n* thrombosis\n* cancer",
+            "endpoints": [
+              "Blood parameters in tubing loop model",
+              "Fibrin formation in thrombodynamics"
+            ],
+            "sponsor": "Cliniques universitaires Saint-Luc- Université Catholique de Louvain",
+            "url": "https://clinicaltrials.gov/study/NCT03632148"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07005661",
+            "title": "Multicenter, Prospective, Randomized Controlled Trial of Autologous Platelet Rich Plasma (PRP) Use in Open Surgery for Type A Aortic Dissection",
+            "phase": "PHASE2, PHASE3",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-06-30",
+            "completion_date": "2028-10-31",
+            "country": "N/A",
+            "enrollment": 250,
+            "brief_summary": "The goal of this clinical trial is to determine if autologous platelet rich plasma (PRP) can reduce the need for blood transfusions in patients undergoing open surgery for Type A aortic dissection. It will also evaluate the potential organ-protective effects of autologous PRP. The main questions it aims to answer are:\n\n1. Does PRP reduce the amount of allogeneic red blood cell transfusions for participants?\n2. Does PRP administration provide protective effects on organs (heart, liver, lungs, kid",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Undergoing open surgery for type A aortic dissection (TAAD);\n2. Body weight between 60-100 kg; hemoglobin (Hb) \\> 120 g/L; platelet count (PLT) ≥ 120 × 10⁹/L;\n3. Able to understand the purpose of the study, voluntarily participate, and sign the informed consent form.\n\nExclusi",
+            "endpoints": [
+              "Units of Allogeneic RBC Transfusion Within 24 Hours Perioperatively"
+            ],
+            "sponsor": "Beijing Anzhen Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT07005661"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01241903",
+            "title": "Early Use of Rosuvastatin (Crestor) in Acute Coronary Syndromes: Targeting Platelet-Leukocyte Interactions",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2011-06",
+            "completion_date": "2014-02",
+            "country": "United States",
+            "enrollment": 54,
+            "brief_summary": "The central hypothesis for this work is that platelet - leukocyte interactions play a critical role in the pathogenesis of acute ischemic events. The primary objective of the study is to determine if early, high-dose administration of the HMG-CoA reductase inhibitor rosuvastatin in the setting of acute coronary syndrome and percutaneous coronary intervention exerts beneficial vascular effects by reducing platelet - leukocyte interactions.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects must be between 18 and 80 years old.\n2. Subjects must be willing and able to give informed consent\n3. A woman of child-bearing potential who is currently sexually active must agree to use a medically accepted method of contraception while receiving protocol-specified",
+            "endpoints": [
+              "Platelet - Leukocyte Aggregates"
+            ],
+            "sponsor": "University of Kentucky",
+            "url": "https://clinicaltrials.gov/study/NCT01241903"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01270139",
+            "title": "Plasmonic Photothermal Therapy of Flow-Limiting Atherosclerotic Lesions With Silica-Gold Nanoparticles: a First-in-Man Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-04-01",
+            "completion_date": "2016-08-01",
+            "country": "Russia, Netherlands",
+            "enrollment": 180,
+            "brief_summary": "The investigators hypothesize that the nanoburning is a very challenging technique to demolish and reverse the plaque especially in combination with stem cell technologies promising the functional restoration of the vessel wall.\n\nThe completed (in July 2012) interventional three arms (n=180) first-in-man trial (the NANOM-FIM trial) assessed (NCT01270139) the safety and feasibility of two delivery techniques for nanoparticles (NP), and plasmonic photothermal therapy (PPTT) of atherosclerotic lesi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* age 45-65 years old\n* male and female\n* single- or multi-vessel CAD with flow-limiting lesions\n* no indications for coronary artery bypass surgery (CABG)\n* stable angina with indications for percutaneous coronary interventions (PCI)\n* NYHA (New York Heart Association) I-III fu",
+            "endpoints": [
+              "Total Atheroma Volume",
+              "MACE (Major Adverse Cardiovascular Events)-Free Survival"
+            ],
+            "sponsor": "Ural State Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT01270139"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03148912",
+            "title": "Optimizing the Diagnosis of Heparin Induced Thrombocytopenia Using Quantified Anti-Platelet Factor 4 Immunological Testing: A Pilot Multicentre Cohort Study",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2018-11-23",
+            "completion_date": "2022-12",
+            "country": "Canada",
+            "enrollment": 180,
+            "brief_summary": "Multicentre (Ottawa and Halifax) prospective cohort study using a diagnostic approach in patients clinically suspected to have HIT that combines pretest probability assessment with quantitative interpretation of anti-PF4 assay.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient with clinical suspicion of HIT by treating physician\n\nExclusion Criteria:\n\n1. Less than 18 years of age;\n2. Prior diagnosis of HIT ever;\n3. Patient enrolled within preceding 100 days;\n4. Functional/ confirmatory platelet activation results available at the time of enro",
+            "endpoints": [
+              "Recruitment",
+              "False negative management failures"
+            ],
+            "sponsor": "Ottawa Hospital Research Institute",
+            "url": "https://clinicaltrials.gov/study/NCT03148912"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00222352",
+            "title": "Diagnosis and Treatment of Acute Coronary Syndromes in the Emergency Department: The Impact of Rapid Bedside cTnI Testing on Outcomes",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2004-12",
+            "completion_date": "2007-03",
+            "country": "United States",
+            "enrollment": 2000,
+            "brief_summary": "In a randomized, controlled clinical trial, point-of care testing at the bedside using the cardiac biomarker troponin I in ED patients with possible ACS will be compared to traditional testing of this assay for myocardial necrosis obtained in the central laboratory. Our hypothesis: point-of-care testing for troponin I will decrease the time for disposition of patients with possible ACS in the emergency setting and decrease the time required for administering appropriate therapies for these patie",
+            "eligibility_criteria": "Inclusion criteria\n\n* Age \\>21 years old\n* Chest pain or other symptoms that lead to drawing cardiac bio-markers for possible ACS diagnosis\n\nExclusion criteria\n\n* Presentation with chest pain in the presence of a tachydysrhythmia (ventricular tachycardia, supraventricular tachycardia, or rapid atria",
+            "endpoints": [
+              "Time to disposition from the ED"
+            ],
+            "sponsor": "University of Cincinnati",
+            "url": "https://clinicaltrials.gov/study/NCT00222352"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06565364",
+            "title": "Immunogenicity and Thrombotic Potential of Circulating Protamine-heparin Complexes in Cardiac Surgery Patients",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2019-01-07",
+            "completion_date": "2023-03-31",
+            "country": "Austria",
+            "enrollment": 160,
+            "brief_summary": "The primary aim of this study was to describe the prevalence and time course of the occurrence of protamine/heparin antibodies in patients undergoing cardiac surgery on cardiopulmonary bypass.\n\nThe second aim was to identify triggers of immunization.\n\nThe third aim of this study was to evaluate a potential clinical impact of protamine/heparin antibodies and their platelet-activating properties leading to thromboembolism and other adverse outcomes.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* age ≥ 18 years\n* cardiac surgery on cardiopulmonary bypass\n\nExclusion Criteria:\n\n* cardiac surgery without cardiopulmonary bypass\n* age \\< 18 years\n* no written consent",
+            "endpoints": [
+              "prevalence of protamine/heparin antibodies"
+            ],
+            "sponsor": "Medical University of Vienna",
+            "url": "https://clinicaltrials.gov/study/NCT06565364"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06096116",
+            "title": "Phase 3, Double-blind, Placebo-controlled, Multicentre Study on the Efficacy and Safety of Human Plasma Derived Antithrombin (Atenativ) in Heparin-Resistant Patients Scheduled to Undergo Cardiac Surgery Necessitating Cardiopulmonary Bypass",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-08-21",
+            "completion_date": "2028-03",
+            "country": "Slovenia, France, Austria, Lithuania, Czechia, Romania, United States, United Kingdom, Canada",
+            "enrollment": 120,
+            "brief_summary": "The primary objective of this study is to evaluate the efficacy of two different doses of Atenativ, versus placebo, in restoring and maintaining heparin responsiveness in adult patients undergoing cardiac surgery necessitating cardiopulmonary bypass (CPB)",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Planned cardiac surgery with CPB\n2. Heparin-resistant patients (pre-CPB Hemochron ACT less than 480 s in the measurement taken between 2-5 minutes following intravenous administration of 500 U/kg UFH)\n3. Patients between 18 and 85 years of age, inclusive\n4. Freely given writt",
+            "endpoints": [
+              "Restoring heparin responsiveness"
+            ],
+            "sponsor": "Octapharma",
+            "url": "https://clinicaltrials.gov/study/NCT06096116"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01178333",
+            "title": "Heparin-Induced Thrombocytopenia - Retrospective Analysis of Data on Incidence and Outcomes Study (HIT-RADIO Study)",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2010-06",
+            "completion_date": "2010-12",
+            "country": "United States",
+            "enrollment": 668,
+            "brief_summary": "HIT-RADIO is a study of patients who had a positive heparin PF-4 antibody test between 1/21/2008 and 9/25/2008 at selected hospitals. The study will collect and analyse information that is already in the patients' medical records. Information about laboratory values (such as platelet counts), treatments (such as medications), and outcomes (such as blood clots, amputation, and death) will be included.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All subjects with a positive heparin PF-4 antibody test occurring between 1/21/2008 and 9/25/2008\n* Medical record available for the admission during which the positive heparin PF-4 antibody test was obtained\n\nExclusion Criteria:\n\n* None",
+            "endpoints": [
+              "Time to Occurrence of a Composite Triple Endpoint Consisting of Death, Limb Amputation/Gangrene, and New Thrombosis",
+              "Time to Occurrence of a Composite Triple Endpoint Consisting of Death, Limb Amputation/Gangrene, and New Thrombosis"
+            ],
+            "sponsor": "Carelon Research",
+            "url": "https://clinicaltrials.gov/study/NCT01178333"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01729559",
+            "title": "Venous Thromboembolic Prophylaxis After Major Trauma: A Randomized Controlled Trial of Three Times a Day Unfractionated Heparin Versus Twice a Day Enoxaparin",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-11",
+            "completion_date": "2014-10",
+            "country": "United States",
+            "enrollment": 495,
+            "brief_summary": "The rate of venous thromboembolic events in trauma patients at high risk for deep vein thrombosis and pulmonary embolism receiving low dose unfractionated heparin every 8 hours will be equivalent or less than a similar group of patients given a standard every 12 hour dose of low molecular weight heparin.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Admitted to Scripps Mercy Trauma Service\n* ≥18 Years old\n* Stratified to either Significant or Highest risk of VTE by ACCP guidelines\n\nExclusion Criteria:\n\n* Estimated Injury Severity Score (ISS) ≤9\n* Likely to be discharged before hospital day 7\n* Systemic coagulopathy define",
+            "endpoints": [
+              "Lower Extremity Deep Vein Thrombosis",
+              "Pulmonary Embolus"
+            ],
+            "sponsor": "Scripps Health",
+            "url": "https://clinicaltrials.gov/study/NCT01729559"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00250471",
+            "title": "A Randomized Trial to Evaluate the Relative Protection Against Post-PCI Microvascular Dysfunction and Post-PCI Ischemia Among Anti-Platelet and Anti-Thrombotic Agents",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-05",
+            "completion_date": "2004-09",
+            "country": "N/A",
+            "enrollment": 900,
+            "brief_summary": "The primary purpose of this study was to compare the efficacy and safety of bivalirudin to eptifibatide (with or without unfractionated heparin or enoxaparin)given to subjects at high risk for heart attack and other cardiovascular complications who will undergo surgery to open up blocked arteries in the heart.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Chest paing/discomfort that occurs at rest and lasts at least 10 minutes and have at least one of the following high-risk features:\n\n  * diabetes\n  * elevated cardiac proteins in the blood (indicating acute coronary syndrome)\n* Be willing and able to give informed consent\n\nExc",
+            "endpoints": [
+              "Efficacy: Improved Coronary Flow Reserve",
+              "Safety: TIMI major hemorrhage within 48 hours after randomizing in the trial or hosptial discharge, which ever occurs first."
+            ],
+            "sponsor": "Millennium Pharmaceuticals, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00250471"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00329433",
+            "title": "The Use of Desirudin Versus Heparin for Thrombosis Prophylaxis in Cardiothoracic Surgery Patients",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2006-05",
+            "completion_date": "2008-10",
+            "country": "United States",
+            "enrollment": 120,
+            "brief_summary": "A blood clot in the veins, also known as deep venous thrombosis (DVT), is one of the most common complications after surgery. This may result in death if a clot breaks off and travel to the lungs; this is referred to as pulmonary embolism (PE). After heart surgery the incidence of DVT ranges from 20-48% and following lung surgery the incidence is 19-26%. In order to decrease the likelihood of this complication, patients receive by injection a blood thinning medicine. Heparin is the usual medicin",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are scheduled for elective Cardiac or Thoracic Surgery.\n* Age \\> 18 years of age.\n\nExclusion Criteria:\n\n* Patients with a clinical suspicion or a documented history of DVT/PE\n* Patients who may require anticoagulation during the post-op period. (i.e. Patients with",
+            "endpoints": [
+              "The Primary Outcome Measure Was the Number of Participants With New Heparin Platelet Factor 4 (HIT Positive) Antibodies in Each Group Within 30 Days Following Surgery."
+            ],
+            "sponsor": "Washington University School of Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT00329433"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "primary release disorder of platelets",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20primary%20release%20disorder%20of%20platelets"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pseudo-von Willebrand disease",
+        "txgnn_score": 0.986504852771759,
+        "txgnn_rank": 2656,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "pseudo-von Willebrand disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20pseudo-von%20Willebrand%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly",
+        "txgnn_score": 0.9674378633499146,
+        "txgnn_rank": 5215,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20atypical%20hemolytic-uremic%20syndrome%20with%20thrombomodulin%20anomaly"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neuropathy, painful",
+        "txgnn_score": 0.9612725377082824,
+        "txgnn_rank": 5844,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00445328",
+            "title": "Prospective Randomized Phase IV Open Label Comparative Study Of Dalteparin vs Unfractionated Heparin For The Prevention Of Venous Thromboembolism (VTE) In Hospitalized Acutely Ill Medical Patients.",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2007-06",
+            "completion_date": "2008-07",
+            "country": "India",
+            "enrollment": 84,
+            "brief_summary": "The purpose of this study is to compare the efficacy and safety of dalteparin vs unfractionated heparin for the prevention of VTE (Venous Thromboembolism) in hospitalized acutely ill medical patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged greater than or equal to 18 years\n* Acute medical condition with a projected hospitalization of greater than or equal to 4 days and had less than or equal to 3 days of prior immobilization for more than two thirds of the day\n* Acute congestive heart failure Class III-IV p",
+            "endpoints": [
+              "Confirmed Thromboembolic Events",
+              "Composite of Objectively Verified Thromboembolic Events"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00445328"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01518205",
+            "title": "HELP-Apheresis in Diabetic Ischemic Foot Treatment (H.A.D.I.F): a RCTrial to Evaluate the Effect of LDL-apheresis on the Recovery of Diabetic Ulcers in Patients With Peripheral Vasculopathy Not Susceptible to Revascularization.",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-02",
+            "completion_date": "2015-12",
+            "country": "Italy",
+            "enrollment": 13,
+            "brief_summary": "Diabetic foot (DF) is a common, severe and costly complication of diabetes. DF is underlied by neuropathy, atherosclerosis of distal arteries and infection, which result in tissue ulcers and necrosis. Alterations in microcirculatory function and in blood rheology may concur in causing tissue damage.\n\nIn recent years there has been accumulating evidence that LDL apheresis (LA) does not only reduce cholesterol but also has a series of pleiotropic effects that improve the microcirculation, increasi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diabetic patients\n* Ischemic diabetic ulcers (class I, II and III Texas Wound Classification System);\n* documented peripheral vasculopathy with at least a previous event of failed revascularization (no ulcer healing).\n\nExclusion Criteria:\n\n* Patient refusal to participate\n* BM",
+            "endpoints": [
+              "Proportion of subjects obtaining the ulcer healing (Class 0A according to TEXAS classification) after 12 month from the study starts."
+            ],
+            "sponsor": "Universita di Verona",
+            "url": "https://clinicaltrials.gov/study/NCT01518205"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00765063",
+            "title": "A 6 Month, Prospective, Open-Label Multiple Center Extension Trial To Evaluate The Long Term Safety And Sustained Efficacy Of Fragmin In The Treatment Of Chronic Foot Ulcers In Diabetic Patients With Peripheral Arterial Occlusive Disease",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-10",
+            "completion_date": "2010-10",
+            "country": "Norway, Italy, Poland, Ukraine, Austria, Belgium, Czechia, Sweden, Greece, Russia, Denmark, Germany, United Kingdom, Canada",
+            "enrollment": 62,
+            "brief_summary": "The primary objective of this 6 month open-label extension trial is to evaluate long-term safety and tolerability of dalteparin in treatment of chronic neuroischaemic foot ulcers in diabetic patients with peripheral arterial occlusive disease (PAOD) and peripheral neuropathy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must have completed the 6 month study duration in the A6301083 study.\n* Subjects must have a positive ulcer treatment response, defined as a reduction in the study ulcer area size (ie, ulcer area reduction \\>0%) at Visit 8 (EOT Visit) from baseline in the A6301083 stu",
+            "endpoints": [
+              "Number of All Hemorrhages",
+              "Number of Major Hemorrhages",
+              "Number of Minor Hemorrhages"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00765063"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00662831",
+            "title": "A 6 Month, Prospective, Randomized, Double Blind, Placebo-Controlled, Parallel Group, Multiple Center Trial To Evaluate The Efficacy And Safety Of Fragmin In The Treatment Of Chronic Neuroischaemic Foot Ulcers In Diabetic Patients",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-04",
+            "completion_date": "2010-10",
+            "country": "Norway, Italy, Poland, Ukraine, Austria, Lithuania, Belgium, United Kingdom, Czechia, Russia, Sweden, Greece, Finland, Denmark, Germany, Spain, Canada",
+            "enrollment": 276,
+            "brief_summary": "The purpose of the study isto see the effect of Fragmin on the healing of diabetic foot ulcers by determining the number of subjects with ≥50% reduction in ulcer surface area including intact skin healing.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects 18 years of age with type 1 or type 2 diabetes.\n* Subjects with peripheral occlusive arterial disease (PAOD) and a neuropathy disability score (NDS) of \\>3\n\nExclusion Criteria:\n\n* Subjects who have undergone vascular reconstruction or angioplasty less t",
+            "endpoints": [
+              "Number of Participants With Greater Than or Equal to 50 Percent Reduction in Ulcer Surface Area Including Intact Skin Healing"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00662831"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06003998",
+            "title": "Intraperitoneal Irinotecan With Concomitant FOLFOX and Bevacizumab for Patients With Unresectable Colorectal Peritoneal Metastases",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2022-12-27",
+            "completion_date": "2025-01-01",
+            "country": "Netherlands",
+            "enrollment": 85,
+            "brief_summary": "The rationale of the current study is that the addition of intraperitoneal irinotecan (75 mg) to palliative systemic therapy is feasible and safe, and might result in an increased overall and progression free survival in patients with unresectable colorectal peritoneal metastases. The primary objectives are to explore the overall survival for the addition of intraperitoneal irinotecan (75 mg) to palliative systemic therapy in patients with unresectable colorectal peritoneal metastases. Secondary",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Histologically confirmed colorectal cancer;\n* Radiologically and clinically or pathologically confirmed unresectable colorectal peritoneal metastases (e.g. PCI \\>20, extensive small bowel involvement, unresectable disease due to anatomical location);\n* WHO performance score of",
+            "endpoints": [
+              "Overall survival"
+            ],
+            "sponsor": "Catharina Ziekenhuis Eindhoven",
+            "url": "https://clinicaltrials.gov/study/NCT06003998"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "27474498",
+            "title": "Involvement of high mobility group box 1 in the development and maintenance of chemotherapy-induced peripheral neuropathy in rats.",
+            "abstract": "Given that high mobility group box 1 (HMGB1), a nuclear protein, once released to the extracellular space, promotes nociception, we asked if inactivation of HMGB1 prevents or reverses chemotherapy-induced painful neuropathy in rats and also examined possible involvement of Toll-like receptor 4 (TLR4) and the receptor for advanced glycation endproduct (RAGE), known as targets for HMGB1. Painful neuropathy was produced by repeated i.p. administration of paclitaxel or vincristine in rats. Nociceptive threshold was determined by the paw pressure method and/or von Frey test in the hindpaw. Tissue protein levels were determined by immunoblotting. Repeated i.p. administration of the anti-HMGB1-neutralizing antibody or recombinant human soluble thrombomodulin (rhsTM), known to inactivate HMGB1, prevented the development of hyperalgesia and/or allodynia induced by paclitaxel or vincristine in rats. A single i.p. or intraplantar (i.pl.) administration of the antibody or rhsTM reversed the chemot",
+            "journal": "Toxicology",
+            "year": "2016",
+            "authors": [
+              "Nishida Takeshi",
+              "Tsubota Maho",
+              "Kawaishi Yudai",
+              "Yamanishi Hiroki",
+              "Kamitani Natsuki"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antibodies, Neutralizing",
+              "Antineoplastic Agents",
+              "Disease Models, Animal",
+              "Ganglia, Spinal",
+              "HMGB1 Protein",
+              "Hyperalgesia",
+              "Male",
+              "Paclitaxel",
+              "Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27474498/"
+          },
+          {
+            "pmid": "25765490",
+            "title": "Spinal RyR2 pathway regulated by the RNA-binding protein HuD induces pain hypersensitivity in antiretroviral neuropathy.",
+            "abstract": "The antiretroviral toxic neuropathy, a distal sensory polyneuropathy associated with antiretroviral treatment, is a frequently occurring neurological complication during treatment of patients with AIDS and often leads to discontinuation of antiretroviral therapy. The mechanisms by which antiretroviral drugs contribute to the development of neuropathic pain are not known. Using drugs that reduce intracellular calcium ions (Ca(2+)), we investigated the hypothesis that altered cytosolic Ca(2+) concentration contributes to the 2',3'-dideoxycytidine (ddC)-evoked painful neuropathy. Administration of ddC induced mechanical and cold allodynia, which were abolished by intrathecal administration of TMB-8, a blocker of Ca(2+) release from intracellular stores, and by ryanodine, a RyR antagonist. Treatment with the IP3R antagonist heparin prevented mechanical allodynia with no effect on thermal response. To further clarify the pathway involved, we investigated the role of HuD, a RNA binding prote",
+            "journal": "Experimental neurology",
+            "year": "2015",
+            "authors": [
+              "Sanna M D",
+              "Peroni D",
+              "Quattrone A",
+              "Ghelardini C",
+              "Galeotti N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Analgesics, Non-Narcotic",
+              "Animals",
+              "Anti-HIV Agents",
+              "Apomorphine",
+              "Calcium Channel Blockers",
+              "Cell Line, Tumor",
+              "Disease Models, Animal",
+              "Dopamine Agonists",
+              "Dopamine Uptake Inhibitors",
+              "ELAV Proteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25765490/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "neuropathy, painful",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20neuropathy%2C%20painful"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "retinal telangiectasia",
+        "txgnn_score": 0.9488118886947632,
+        "txgnn_rank": 6939,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "29068144",
+            "title": "Branch retinal artery occlusion as a clinical manifestation of hereditary haemorrhagic telangiectasia (Osler-Weber-Rendu syndrome) in pregnancy.",
+            "abstract": "",
+            "journal": "Acta ophthalmologica",
+            "year": "2018",
+            "authors": [
+              "Askim Andreas J",
+              "Thrane Alexander S",
+              "Giaever Petter",
+              "Andersen Rune",
+              "Krohn Jørgen"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Dalteparin",
+              "Echocardiography",
+              "Embolization, Therapeutic",
+              "Female",
+              "Fibrinolytic Agents",
+              "Humans",
+              "Magnetic Resonance Imaging",
+              "Pregnancy",
+              "Pregnancy Complications, Cardiovascular"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29068144/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "retinal telangiectasia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20retinal%20telangiectasia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "arteriosclerotic retinopathy",
+        "txgnn_score": 0.9452416896820068,
+        "txgnn_rank": 7243,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "arteriosclerotic retinopathy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20arteriosclerotic%20retinopathy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "retinal microaneurysm",
+        "txgnn_score": 0.9452416896820068,
+        "txgnn_rank": 7244,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "27680610",
+            "title": "A large right ventricular mass in a 42-year-old female marathon runner.",
+            "abstract": "",
+            "journal": "European heart journal",
+            "year": "2017",
+            "authors": [
+              "Dougoud Svetlana",
+              "Valsangiacomo Buechel Emanuela",
+              "Kellenberger Christian J",
+              "Mayer Kurt A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Video-Audio Media"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Anticoagulants",
+              "Arrhythmogenic Right Ventricular Dysplasia",
+              "Defibrillators, Implantable",
+              "Echocardiography",
+              "Electrocardiography, Ambulatory",
+              "Female",
+              "Heart Diseases",
+              "Heparin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27680610/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "retinal microaneurysm",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20retinal%20microaneurysm"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "vertebral artery occlusion",
+        "txgnn_score": 0.9422468543052672,
+        "txgnn_rank": 7488,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05228262",
+            "title": "Study on Vascular Function, Sarcopenia and Pain in Treated Postmenopausal Osteoporosis",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2022-02-15",
+            "completion_date": "2027-02-01",
+            "country": "France",
+            "enrollment": 150,
+            "brief_summary": "This study aims to follow a cohort of osteoporotic patients treated with anti-osteoporotic drugs and to evaluate the impact of these treatments on the osteoporosis-cardiovascular-sarcopenia triad and on pain.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged 50 years or older with postmenopausal osteoporosis, whether fractured or not, requiring initiation of treatment with antiosteoporotic drugs (bisphosphonates, raloxifene, teriparatide, denosumab and others to come for this indication, including romosozumab), either o",
+            "endpoints": [
+              "Endothelial dysfunction measured by FMD (Flow-Mediated Dilation) in patients with anti-osteoporotic treatment",
+              "Endothelial dysfunction measured by FMD (Flow-Mediated Dilation) in patients with anti-osteoporotic treatment",
+              "Endothelial dysfunction measured by FMD (Flow-Mediated Dilation) in patients with anti-osteoporotic treatment"
+            ],
+            "sponsor": "University Hospital, Clermont-Ferrand",
+            "url": "https://clinicaltrials.gov/study/NCT05228262"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05328154",
+            "title": "Effects of the Combination of Magnesium Bisphosphonates Versus Bisphosphonates Alone on Bone Remodeling: Randomized Pilot Clinical Trial",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2022-06-28",
+            "completion_date": "2024-12-19",
+            "country": "France",
+            "enrollment": 45,
+            "brief_summary": "Randomized pilot clinical trial to demonstrate superiority of bisphosphonate-magnesium combination over bisphosphonates alone in postmenopausal osteoporosis in slowing bone remodeling as assessed by C-terminal telopeptide of bone collagen type 1 (CTX) dosage.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Women aged 50 years or older, with postmenopausal osteoporosis, fractured or not, requiring initiation of injectable bisphosphonate therapy as part of their care.\n* Able to give informed consent to participate in the research.\n* Affiliation to a Social Security system.\n\nExclus",
+            "endpoints": [
+              "C-terminal telopeptides of collagen type 1 (CTX) dosage",
+              "C-terminal telopeptides of collagen type 1 (CTX) dosage"
+            ],
+            "sponsor": "University Hospital, Clermont-Ferrand",
+            "url": "https://clinicaltrials.gov/study/NCT05328154"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06947720",
+            "title": "Research on Ultrasound Diagnostic Criteria for Intracranial and Extracranial Arterial Serial Stenosis",
+            "phase": "N/A",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-09-01",
+            "completion_date": "2027-06-30",
+            "country": "China",
+            "enrollment": 700,
+            "brief_summary": "This study utilized different hemodynamic parameters of transcranial color-coded Doppler (TCCD) and transcranial Doppler (TCD) to conduct ultrasonic grading evaluation on middle cerebral artery (MCA) stenosis severity in patients with severe extracranial internal carotid artery stenosis, as well as intracranial V4 segment stenosis severity in patients with severe vertebral artery (VA) origin stenosis. The aim was to establish ultrasonic diagnostic criteria and provide reference basis for clinica",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients diagnosed by carotid ultrasound with severe stenosis of the extracranial segment of the internal carotid artery or severe stenosis of the initial segment of the unilateral vertebral artery;\n2. Perform stent placement surgery within 2 weeks of ultrasound examination, ",
+            "endpoints": [
+              "Ultrasound diagnostic criteria for serial stenosis",
+              "The occurrence of the endpoint event"
+            ],
+            "sponsor": "Xuanwu Hospital, Beijing",
+            "url": "https://clinicaltrials.gov/study/NCT06947720"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01980316",
+            "title": "Phase 4 Study of Argatroban for Preventing Restenosis After Extracranial Vertebral Artery Stenting",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2010-04",
+            "completion_date": "2013-07",
+            "country": "China",
+            "enrollment": 114,
+            "brief_summary": "Argatroban is a selective thrombin inhibitor, and previous study had suggested that argatroban use post percutaneous coronary intervention could potentially prevent reocclusion. But there has no study on large sample of argatroban treated restenosis vertebral artery stenting. This study will test the safety and efficacy of the argatroban on prevent Occlusion and Restenosis in patients with Extracranial vertebral Artery Stenting.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* For Extracranial vertebral Artery lesion, stenting was considered for symptomatic stenosis≥50% or asymptomatic stenosis≥70%;\n* Successfully had intracranial or extracranial artery stenting.\n\nExclusion Criteria:\n\n* Evidence of hemorrhagic brain infarction, intracranial and extr",
+            "endpoints": [
+              "restenosis"
+            ],
+            "sponsor": "Jinling Hospital, China",
+            "url": "https://clinicaltrials.gov/study/NCT01980316"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01767051",
+            "title": "Children Follow-up of PCOS Women.Cardiovascular Health in Offspring of PCOS Mothers",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2012-11",
+            "completion_date": "2014-12",
+            "country": "Netherlands",
+            "enrollment": 74,
+            "brief_summary": "Polycystic ovary syndrome (PCOS) is a complex and frequent disorder with a heterogeneous clinical presentation varying throughout life, from birth up to post-menopause. Although mostly known for its reproductive consequences, PCOS is associated with metabolic abnormalities related to insulin resistance and obesity. Children born from PCOS mothers are considered to be at risk for early insulin resistance, leading to development of PCOS and metabolic abnormalities in childhood and adolescence. Obe",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy Children\n* Children participating in WHISTLER study or children of PCOS mothers\n* Aged 2.5-4 years or 6-8 years\n\nExclusion Criteria:\n\n* Language barrier\n* Children with a history of a heart defect\n* Children with a respiratory infection or respiratory infection two wee",
+            "endpoints": [
+              "Pulse wave velocity (age 2.5-4 years)",
+              "Echocardiography (age 2.5-4 years)",
+              "Anthropometry (both age categories)"
+            ],
+            "sponsor": "UMC Utrecht",
+            "url": "https://clinicaltrials.gov/study/NCT01767051"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "31673459",
+            "title": "Traumatic Vertebral Artery Dissection and Basilar Artery Occlusion/Stroke in a 7-Year-Old Child: A Case Report.",
+            "abstract": "Vertebral artery dissection (VAD) followed by basilar artery occlusion/stroke (BAO/BAS) is a rare but potentially life-threatening complication. We present a case report of a 7-year-old boy with VAD complicated by BAO/BAS 4 days after falling off a scooter. Symptoms included left-sided weakness and facial droop preceded by a 20-minute episode of altered sensorium. Magnetic resonance imaging showed ischemic changes in the left posterior inferior cerebellum and right pons. Computed tomography angiogram confirmed dissection of the left vertebral artery with occlusion/thrombosis of the basilar artery. Heparinization for 96 hours, followed by 6 months of low-molecular weight heparin injection, resulted in improvement of his neurological symptoms.",
+            "journal": "Journal of pediatric intensive care",
+            "year": "2019",
+            "authors": [
+              "Phung Binh",
+              "Shah Trusha"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31673459/"
+          },
+          {
+            "pmid": "30801621",
+            "title": "Antiplatelet Therapy vs Anticoagulation Therapy in Cervical Artery Dissection: The Cervical Artery Dissection in Stroke Study (CADISS) Randomized Clinical Trial Final Results.",
+            "abstract": "Extracranial carotid and vertebral artery dissection is an important cause of stroke, particularly in younger individuals. In some but not all observational studies, it has been associated with a high risk of recurrent stroke. Both antiplatelet agents (APs) and anticoagulants (ACs) are used to reduce stroke risk, but whether 1 treatment strategy is more effective is unknown.",
+            "journal": "JAMA neurology",
+            "year": "2019",
+            "authors": [
+              "Markus Hugh S",
+              "Levi Christopher",
+              "King Alice",
+              "Madigan Jeremy",
+              "Norris John"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Anticoagulants",
+              "Aspirin",
+              "Carotid Artery, Internal, Dissection",
+              "Clopidogrel",
+              "Dipyridamole",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30801621/"
+          },
+          {
+            "pmid": "25845811",
+            "title": "Extracranial vertebral artery dissection in children: natural history and management.",
+            "abstract": "The objective of this study is to describe clinical and imaging presentation and outcome in extracranial vertebral artery dissection.",
+            "journal": "Neuroradiology",
+            "year": "2015",
+            "authors": [
+              "Simonnet Hina",
+              "Deiva Kumaran",
+              "Bellesme Céline",
+              "Cabasson Sébastien",
+              "Husson Béatrice"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anticoagulants",
+              "Aspirin",
+              "Cerebral Angiography",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Heparin, Low-Molecular-Weight",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25845811/"
+          },
+          {
+            "pmid": "2521745",
+            "title": "Noncoronary angioplasty.",
+            "abstract": "PTA is an established method of revascularization in a variety of medical conditions. It is performed for specific morphologic and clinical indications. PTA is the procedure of choice in Fontaine stage IIB through IV lower extremity ischemia due to iliac and/or femoropopliteal stenosis or short occlusion. Its role is less certain in infrapopliteal disease, although current studies have begun to establish long-term effectiveness. PTA is the procedure of choice for renal revascularization in renovascular hypertension due to fibromuscular disease or non-ostial atherosclerosis, selected cases of renal artery stenosis associated with renal insufficiency, and transplant renal artery stenosis. It is also useful in treating the renovascular component of complex hypertension and may be indicated in severe renal artery stenosis (75%-99%), even in the absence of clinically demonstrable RVHTN. PTA has limited applications in the venous system and only short-term success in the treatment of stenose",
+            "journal": "Radiology",
+            "year": "1989",
+            "authors": [
+              "Becker G J",
+              "Katzen B T",
+              "Dake M D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Angioplasty, Balloon",
+              "Aspirin",
+              "Constriction, Pathologic",
+              "Heparin",
+              "Humans",
+              "Nifedipine",
+              "Nitroglycerin",
+              "Vascular Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2521745/"
+          },
+          {
+            "pmid": "32838672",
+            "title": "Endovascular Recanalization for Nonacute Intracranial Vertebral Artery Occlusion According to a New Classification.",
+            "abstract": "Endovascular recanalization for patients with nonacute intracranial vertebral artery occlusion remains clinically challenging. We aim to evaluate the feasibility and safety of endovascular recanalization for nonacute intracranial vertebral artery occlusion and propose a new angiographic classification.",
+            "journal": "Stroke",
+            "year": "2020",
+            "authors": [
+              "Gao Feng",
+              "Sun Xuan",
+              "Zhang Huijun",
+              "Ma Ning",
+              "Mo Dapeng"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Angiography, Digital Subtraction",
+              "Angioplasty, Balloon",
+              "Cerebral Angiography",
+              "Computed Tomography Angiography",
+              "Dual Anti-Platelet Therapy",
+              "Endovascular Procedures",
+              "Feasibility Studies",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32838672/"
+          },
+          {
+            "pmid": "38169875",
+            "title": "Calciphylaxis, beware the ophthalmic mimic: A case series.",
+            "abstract": "We present two atypical cases of calciphylaxis presenting with ocular ischemic pathology - both without the hallmark cutaneous manifestations - to raise awareness of this rare yet highly disabling condition.",
+            "journal": "Clinical nephrology. Case studies",
+            "year": "2023",
+            "authors": [
+              "Guymer Chelsea",
+              "Jahan Sadia",
+              "Bahrami Bobak",
+              "Sia David",
+              "Tan Bee Qung"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38169875/"
+          },
+          {
+            "pmid": "25587466",
+            "title": "A vertebral artery dissection with basilar artery occlusion in a child.",
+            "abstract": "This paper presents the case report of an 11-year-old boy with an acute dissection with thrombosis of the left vertebral artery and thrombosis of the basilar artery. The patient was treated with acute systemic thrombolysis, followed by intra-arterial thrombolysis, without any clinical improvement, showing left hemiplegia, bilateral clonus, hyperreflexia, and impaired consciousness. MRI indicated persistent thrombosis of the arteria basilaris with edema and ischemia of the right brainstem. Heparinization for 72 hours, followed by a two-week LMWH treatment and subsequent oral warfarin therapy, resulted in a lasting improvement of the symptoms. Vertebral artery dissection after minor trauma is rare in children. While acute basilar artery occlusion as a complication is even more infrequent, it is potentially fatal, which means that prompt diagnosis and treatment are imperative. The lack of class I recommendation guidelines for children regarding treatment of vertebral artery dissection and",
+            "journal": "Case reports in emergency medicine",
+            "year": "2014",
+            "authors": [
+              "Devue Katleen",
+              "Van Ingelgem Annemie",
+              "De Keukeleire Katrien",
+              "De Leeuw Marc"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25587466/"
+          },
+          {
+            "pmid": "17288890",
+            "title": "Cervicocranial arterial dissection.",
+            "abstract": "Cervicocranial arterial dissection (CCAD) occurs when there is a tear in the intimal layer of the carotid or vertebral arteries with subsequent extravasation of blood into the subintimal layers. The dissection may be extradural, intradural, or extend over both segments. The contents of the subintimal layers are highly thrombogenic, and thus, embolism, vessel stenosis, or occlusion may follow. Symptoms of dissection may be caused by local injury to the blood vessel or by ischemia to the retina or brain. Thus, dissection should always be considered in patients who present with Horner syndrome associated with ipsilateral headache, carotidynia, ocular pain, or amaurosis fugax. Rare neuro-ophthalmologic presentations of dissection include anterior and posterior ischemic optic neuropathy; central retinal artery occlusion; ophthalmic artery occlusion; transient ophthalmoparesis; and third, fourth, or sixth cranial nerve palsy. The most common serious complication of dissection is ischemic str",
+            "journal": "Current treatment options in neurology",
+            "year": "2007",
+            "authors": [
+              "Shah Qaisar",
+              "Messé Steven R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17288890/"
+          },
+          {
+            "pmid": "37680919",
+            "title": "Parent artery occlusion for cerebral infarction after spontaneous recanalization in traumatic vertebral artery: A case report.",
+            "abstract": "There is no established treatment strategy for traumatic vertebral artery occlusion that does not require cervical spine repair surgery.",
+            "journal": "Surgical neurology international",
+            "year": "2023",
+            "authors": [
+              "Kinosada Masanori",
+              "Ikeda Hiroyuki",
+              "Uezato Minami",
+              "Yokochi Yasunori",
+              "Kaneko Ryosuke"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37680919/"
+          },
+          {
+            "pmid": "31901498",
+            "title": "Dissection of the Vertebral Artery Fenestration Limb Presenting with Occlusion After Rupture.",
+            "abstract": "Dissection of a vertebral artery (VA) fenestration is extremely rare. We herein present the first case of a patient who presented with the dissection of a VA fenestration limb accompanied by occlusion after rupture, who was treated with internal trapping of the dissected limb and the parent artery proximal to the fenestration.",
+            "journal": "World neurosurgery",
+            "year": "2020",
+            "authors": [
+              "Ikeda Hiroyuki",
+              "Sano Noritaka",
+              "Torikoshi Sadaharu",
+              "Otsuka Ryotaro",
+              "Tsujimoto Yoshitaka"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aneurysm, Ruptured",
+              "Arterial Occlusive Diseases",
+              "Cerebral Angiography",
+              "Embolization, Therapeutic",
+              "Endovascular Procedures",
+              "Humans",
+              "Magnetic Resonance Angiography",
+              "Male",
+              "Middle Aged",
+              "Retreatment"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31901498/"
+          },
+          {
+            "pmid": "19704385",
+            "title": "Blunt vertebral artery injuries in the era of computed tomographic angiographic screening: incidence and outcomes from 8,292 patients.",
+            "abstract": "Blunt injuries to the vertebral artery (BVI) are rare. Recent improvements in the multidetector computer tomography (MDCT) technology and increased use of screening protocols have led to a greater number of these injuries identified. Well-defined treatment recommendations are still lacking, and it is unclear whether screening and treatment lead to improved outcome.",
+            "journal": "The Journal of trauma",
+            "year": "2009",
+            "authors": [
+              "Berne John D",
+              "Norwood Scott H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anticoagulants",
+              "Cerebral Angiography",
+              "Female",
+              "Humans",
+              "Incidence",
+              "Male",
+              "Platelet Aggregation Inhibitors",
+              "Tomography, X-Ray Computed",
+              "Treatment Outcome",
+              "Vertebral Artery"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19704385/"
+          },
+          {
+            "pmid": "7661389",
+            "title": "Vertebral artery injury presenting with signs of middle cerebral artery occlusion. A case report.",
+            "abstract": "Therapeutic manipulation of the neck has been shown to produced injury to the vertebral artery. The clinical syndromes produced by this arterial insufficiency generally reflect dysfunction of the brainstem or cerebellum. The authors present a case of such injury that presented with clinical findings, namely, hemiparesis and aphasia, suggestive of involvement of the dominant middle cerebral artery. These findings may have been the result of disruption of flow through the posterior cerebral artery to the thalamus, internal capsule, and cerebral peduncles.",
+            "journal": "Angiology",
+            "year": "1995",
+            "authors": [
+              "Sternbach G",
+              "Cohen M",
+              "Goldschmid D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aphasia",
+              "Cerebral Arterial Diseases",
+              "Chiropractic",
+              "Female",
+              "Hemiplegia",
+              "Heparin",
+              "Humans",
+              "Neurologic Examination",
+              "Physical Examination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7661389/"
+          },
+          {
+            "pmid": "8736412",
+            "title": "Vertebral artery dissection: issues in diagnosis and management.",
+            "abstract": "Vertebral artery dissection is an uncommon cause of stroke in children. Accuracy of diagnosis by magnetic resonance angiography (MRA) instead of invasive transfemoral angiography (TFA) has been controversial. The need for anticoagulation and duration of such therapy is also arguable. We report 2 boys with vertebral artery dissection: one, aged 7 years, presented with hemiparesis and seizures and the other, aged 4 years, presented with ataxia. Each boy's initial MRA was not interpreted as delineating occlusive lesions to explain the posterior circulation infarcts visualized on computed tomography and magnetic resonance imaging scans. However, subsequent MRAs were suspicious for vertebral artery dissection, which was confirmed by TFA. Both children were treated with anticoagulation therapy. The first patient continued to manifest evidence of new infarcts despite treatment (initially with aspirin alone, followed by anticoagulation with heparin and warfarin), and is now maintained on a com",
+            "journal": "Pediatric neurology",
+            "year": "1996",
+            "authors": [
+              "Khurana D S",
+              "Bonnemann C G",
+              "Dooling E C",
+              "Ouellette E M",
+              "Buonanno F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aortic Dissection",
+              "Anticoagulants",
+              "Child",
+              "Humans",
+              "Intracranial Aneurysm",
+              "Magnetic Resonance Angiography",
+              "Magnetic Resonance Imaging",
+              "Male",
+              "Tomography, X-Ray Computed",
+              "Vertebral Artery"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8736412/"
+          },
+          {
+            "pmid": "27890763",
+            "title": "Positional Occlusion of Vertebral Artery Due to Cervical Spondylosis as Rare Cause of Wake-up Stroke: Report of Two Cases.",
+            "abstract": "Positional compression of the vertebral artery (VA) owing to cervical spondylosis is an uncommon cause of stroke. We report two cases of cervical spondylosis causing wake-up stroke, which is extremely rare.",
+            "journal": "World neurosurgery",
+            "year": "2017",
+            "authors": [
+              "Nishikawa Hirofumi",
+              "Miya Fumitaka",
+              "Kitano Yotaro",
+              "Mori Genshin",
+              "Shimizu Shigetoshi"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Cerebral Angiography",
+              "Computed Tomography Angiography",
+              "Decompression, Surgical",
+              "Female",
+              "Humans",
+              "Image Processing, Computer-Assisted",
+              "Magnetic Resonance Imaging",
+              "Pregnancy",
+              "Spondylosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27890763/"
+          },
+          {
+            "pmid": "31763345",
+            "title": "Lateral Medullary Syndrome Due to Left Vertebral Artery Occlusion in a Boy Postflexion Neck Injury.",
+            "abstract": "Lateral medullary syndrome is rare in pediatrics. It is characterized by neurological deficits due to an ischemic lesion in the lateral medulla. The authors describe a 17-year-old boy who developed lateral medullary syndrome in the context of a hyperflexion neck injury while diving in shallow water with traumatic vascular injury. He had \"crossed\" neurological deficits above and below the neck. His magnetic resonance angiography showed intra- and extracranial left vertebral artery occlusion and his magnetic resonance imaging showed signal abnormality involving the left lateral medulla and inferomedial cerebellum in keeping with an infarct secondary to left vertebral artery and left posterior inferior cerebellar artery occlusion. Good neurological recovery was observed on heparin therapy started after surgical treatment of traumatic injury. To our knowledge, this is the first reported case of lateral medullary syndrome in a pediatric population related to a flexion neck injury. The autho",
+            "journal": "Child neurology open",
+            "year": "2019",
+            "authors": [
+              "Alawadhi Abdulla",
+              "Saint-Martin Christine",
+              "Sabapathy Christine",
+              "Sebire Guillaume",
+              "Shevell Michael"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31763345/"
+          },
+          {
+            "pmid": "35818687",
+            "title": "Right cerebellar stroke with a right vertebral artery occlusion following an embolization of the right glomus tympanicum tumor: Case report with literature review.",
+            "abstract": "A 35-year-old female presented with episodes of frequent dizziness, ear fullness, and right ear tinnitus for 12 months. Head imaging revealed a right glomus tympanicum tumor. She underwent pre-operative endovascular embolization of the glomus tympanicum tumor with surgical, cyanoacrylate-based glue. Immediately after the procedure, she developed drowsiness and severe pain in the right temporal region. Further investigations revealed a right cerebellar stroke in the posterior inferior cerebellar artery territory. She was treated with intravenous heparin, followed by one year of oral anticoagulation. With rehabilitation, she significantly recovered from her post embolization stroke. However, the tumor was resected at another institution. Ten years later, follow-up imaging indicated a gradual increase in the size of the glomus jugulare tumor compressing the nearby critical vascular structures. She subsequently received radiation therapy to treat the residual tumor. Currently, she has no n",
+            "journal": "Journal of cerebrovascular and endovascular neurosurgery",
+            "year": "2022",
+            "authors": [
+              "Kajtazi Naim I",
+              "Manzoor Muhammad Usman",
+              "Ghamdi Juman Al",
+              "Zahrani Hanadi Al",
+              "Suwaidan Faisal Al"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35818687/"
+          },
+          {
+            "pmid": "18646627",
+            "title": "[Case of vertebral artery occlusion caused by transverse process fracture of C7].",
+            "abstract": "Traumatic vertebral artery injuries are frequently accompanied by cervical spine injury. Transverse process fracture from C6 to C1 has been reported as a high risk factor for vertebral artery injury. We report a rare case of vertebral artery occlusion caused by transverse process fracture of C7. A 22-year-old man was admitted to our hospital after a motor-cycle accident. Neurological examination revealed almost normal findings. Axial computed tomography (CT) at the C7 level revealed soft-tissue swelling of the neck and right transverse process fracture. Further, a bony fragment protruding in the anterolateral direction was observed. Magnetic resonance (MR) image showed normal findings. MR angiography (MRA) revealed right vertebral artery occlusion at the V1 segment. Vertebral artery angiography revealed right vertebral artery occlusion, normal basilar artery, and retrograde flow of the right vertebral artery. The patient was treated with heparin and aspirin and discharged 28 days after",
+            "journal": "Brain and nerve = Shinkei kenkyu no shinpo",
+            "year": "2008",
+            "authors": [
+              "Takeuchi Satoru",
+              "Takasato Yoshio",
+              "Masaoka Hiroyuki",
+              "Hayakawa Takanori",
+              "Otani Naoki"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Accidents, Traffic",
+              "Adult",
+              "Arterial Occlusive Diseases",
+              "Aspirin",
+              "Cervical Vertebrae",
+              "Heparin",
+              "Humans",
+              "Magnetic Resonance Angiography",
+              "Male",
+              "Spinal Fractures"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18646627/"
+          },
+          {
+            "pmid": "16488240",
+            "title": "Vertebral artery injury after blunt cervical trauma: an update.",
+            "abstract": "Vertebral artery injury (VAI) after blunt cervical trauma has been considered to be rare. The incidence of VAI has increased dramatically within the last decade after a heightened awareness of this entity on the part of spine surgeons. Diagnostic or therapeutic guidelines for VAI have not been established fully, however.",
+            "journal": "Surgical neurology",
+            "year": "2006",
+            "authors": [
+              "Inamasu Joji",
+              "Guiot Bernard H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Angiography, Digital Subtraction",
+              "Anticoagulants",
+              "Cerebral Infarction",
+              "Humans",
+              "Neck Injuries",
+              "Vertebral Artery",
+              "Vertebrobasilar Insufficiency",
+              "Whiplash Injuries",
+              "Wounds, Nonpenetrating"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16488240/"
+          },
+          {
+            "pmid": "35403591",
+            "title": "Recanalization and Functional Outcome in Patients with Cervico-cephalic Arterial Dissections.",
+            "abstract": "Cervico-cephalic arterial dissections (CeAD) are an important cause of stroke in young patients. This study aimed to determine the frequency and predictors of recanalization in spontaneous CeAD and to study the effect of recanalization on functional outcomes.",
+            "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+            "year": "2023",
+            "authors": [
+              "Wadhwa Ankur",
+              "Almekhlafi Mohammed",
+              "Menon Bijoy K",
+              "Demchuk Andrew M",
+              "Bal Simerpreet"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Ischemic Stroke",
+              "Dissection, Blood Vessel",
+              "Stroke",
+              "Magnetic Resonance Imaging",
+              "Hypertension",
+              "Treatment Outcome",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35403591/"
+          },
+          {
+            "pmid": "19342928",
+            "title": "Management and outcomes of patients undergoing surgery for traumatic cervical fracture-subluxation associated with an asymptomatic vertebral artery injury.",
+            "abstract": "Retrospective clinical series.",
+            "journal": "Journal of spinal disorders & techniques",
+            "year": "2009",
+            "authors": [
+              "Sack Jayson A",
+              "Etame Arnold B",
+              "Shah Gaurang V",
+              "La Marca Frank",
+              "Park Paul"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Cerebrovascular Trauma",
+              "Cervical Vertebrae",
+              "Cohort Studies",
+              "Female",
+              "Humans",
+              "Internal Fixators",
+              "Joint Dislocations",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19342928/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "vertebral artery occlusion",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20vertebral%20artery%20occlusion"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "breast fibrocystic disease",
+        "txgnn_score": 0.9319545030593872,
+        "txgnn_rank": 8419,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3368198",
+            "title": "DNA distributions in human normal, precancerous and cancerous breast tissue. II. Differences in heparin mediated changes in DNA distributions.",
+            "abstract": "DNA distributions were recorded flow cytometrically (FCM) in human normal, precancerous (P1 characterized by ductal hyperplasia and/or lobular hyperplasia, and P2 characterized by carcinomata lobularia in situ and intraductal carcinoma) and malignant breast tissues. Heparin, a polyanion, mediated two changes: (a) a time-dependent increase in fluorescence intensity (IFI) considered to be inversely proportional to the proliferative activity. IFI was significantly lower in carcinomas than in P2, in normal and in P1 tissues; it identified a highly and a poorly heparin-sensitive subgroup of carcinomas, which differed in respect to histological type and tumor stage distribution; (b) a time-dependent increase in the percentage of recorded DNA aneuploid cells (IAC) at the expense of DNA diploid cells in mixed cell population. IAC is considered to correspond to cell membrane permeability. DNA aneuploid cell populations homogeneous in respect to DNA - index (DI) seem to be heterogeneous in respe",
+            "journal": "Oncology",
+            "year": "1988",
+            "authors": [
+              "Weiss H",
+              "Kunde D",
+              "Streller B"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aneuploidy",
+              "Breast",
+              "Breast Neoplasms",
+              "Carcinoma",
+              "Cell Cycle",
+              "DNA",
+              "DNA, Neoplasm",
+              "Female",
+              "Fibrocystic Breast Disease",
+              "Flow Cytometry"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3368198/"
+          },
+          {
+            "pmid": "2444863",
+            "title": "Allergic etiology of benign fibrocystic changes of the breast.",
+            "abstract": "We postulate that fibrocystic changes in the female breast are the end result of a series of biochemical events initiated by the mast cell degranulation products histamine and heparin. Two mechanisms are proposed which could lead to mast cell degranulation in breast tissue. First, low progesterone levels lead to decreased intracellular cAMP levels in mast cells which enhance mast cell degranulation. Second, low progesterone levels lead to increased solubilization of breast collagen during tissue turnover. Susceptible individuals may undergo an allergic reaction to soluble collagen resulting in further mast cell degranulation. The degranulation products histamine and heparin may stimulate increased stromal proliferation and vascularization respectively. We provide evidence for the occurrence of histamine release by demonstrating an increased incidence of allergic symptoms in white women with fibrocystic breast changes.",
+            "journal": "Medical hypotheses",
+            "year": "1987",
+            "authors": [
+              "Smith C J",
+              "Leggett A M",
+              "Lefante J J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Collagen",
+              "Female",
+              "Fibrocystic Breast Disease",
+              "Heparin",
+              "Histamine Release",
+              "Humans",
+              "Hypersensitivity",
+              "Mast Cells",
+              "Models, Biological"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2444863/"
+          },
+          {
+            "pmid": "11694309",
+            "title": "Determination of BRCA2 oncosuppressor protein expression in human mammary cells by affinity perfusion high-performance chromatography.",
+            "abstract": "In this work, we report a method for the determination of BRCA2 oncosuppressor protein in human mammary cells by affinity perfusion chromatography. This method involves labeling proteins with [(35)S]-methionine. The isolation and purification of DNA-binding proteins was performed by affinity chromatography on Heparin POROS 20HE. BRCA2 proteins, known to act in the transcriptional control and in DNA repair activity, are included in the DNA-binding proteins. Specific immunoprecipitation was performed with anti-BRCA2 antibodies, and the immune complex [(35)S-BRCA2 proteins/anti-BRCA2 antibodies] was isolated by affinity chromatography on a Protein A POROS column. This procedure allows the determination of the percentage of BRCA2 among the DNA-binding proteins and the quantitation of the difference of expression of BRCA2 oncosuppressor protein in breast carcinoma cells and in normal breast cells treated or untreated with phytoestrogens, such as daidzein or genistein.",
+            "journal": "Journal of biochemical and biophysical methods",
+            "year": "2001",
+            "authors": [
+              "Vissac C",
+              "Antoine-Vincent D",
+              "Maurizis J C",
+              "Bignon Y J",
+              "Bernard-Gallon D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antibodies",
+              "Antigen-Antibody Complex",
+              "BRCA2 Protein",
+              "Breast",
+              "Breast Neoplasms",
+              "Cells, Cultured",
+              "Chromatography, Affinity",
+              "Chromatography, High Pressure Liquid",
+              "Estrogens, Non-Steroidal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11694309/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Heparin",
+          "disease": "breast fibrocystic disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Heparin%20breast%20fibrocystic%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Heparin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01109",
+    "name": "Heparin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Heparin"
+      },
+      "queried_at": "2026-03-24T16:31:28.689811",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Heparin"
+      },
+      "queried_at": "2026-03-24T16:31:28.691614",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Heparin"
+      },
+      "queried_at": "2026-03-24T16:31:31.308078",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:31:31.709037",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:31:34.972868",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:31:35.513532",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "thrombophilia due to protein C deficiency, autosomal recessive"
+      },
+      "queried_at": "2026-03-24T16:31:36.370854",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:31:37.471590",
+      "status": "success",
+      "result_count": 30,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:31:40.609407",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:31:41.135618",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "primary release disorder of platelets"
+      },
+      "queried_at": "2026-03-24T16:31:47.609686",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:31:48.084204",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:31:51.637660",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:31:52.160072",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "pseudo-von Willebrand disease"
+      },
+      "queried_at": "2026-03-24T16:31:53.526833",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:31:54.059435",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:31:57.359691",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:31:57.914274",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "atypical hemolytic-uremic syndrome with thrombomodulin anomaly"
+      },
+      "queried_at": "2026-03-24T16:31:59.109676",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:32:00.378588",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:32:03.668275",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:32:04.260795",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "neuropathy, painful"
+      },
+      "queried_at": "2026-03-24T16:32:06.692818",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:32:07.123828",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:32:10.510480",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:32:11.010953",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal telangiectasia"
+      },
+      "queried_at": "2026-03-24T16:32:13.259318",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:32:13.674141",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:32:16.830392",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:32:17.460881",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "arteriosclerotic retinopathy"
+      },
+      "queried_at": "2026-03-24T16:32:18.334230",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:32:18.909648",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:32:22.463270",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:32:23.111344",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "retinal microaneurysm"
+      },
+      "queried_at": "2026-03-24T16:32:25.309774",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:32:26.015098",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:32:29.409745",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:32:30.029853",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "vertebral artery occlusion"
+      },
+      "queried_at": "2026-03-24T16:32:33.320103",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "breast fibrocystic disease"
+      },
+      "queried_at": "2026-03-24T16:32:33.859293",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "breast fibrocystic disease"
+      },
+      "queried_at": "2026-03-24T16:32:37.060232",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "breast fibrocystic disease"
+      },
+      "queried_at": "2026-03-24T16:32:37.768296",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Heparin",
+        "disease": "breast fibrocystic disease"
+      },
+      "queried_at": "2026-03-24T16:32:40.011682",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:32:40.012822"
+  }
+}

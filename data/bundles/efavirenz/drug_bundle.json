@@ -1,0 +1,2537 @@
+{
+  "drug": {
+    "inn": "Efavirenz",
+    "drugbank_id": "DB00625",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "simian immunodeficiency virus infection",
+        "txgnn_score": 0.9979514479637146,
+        "txgnn_rank": 597,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00863668",
+            "title": "Decay Kinetics of HIV With the Integrase Inhibitor Raltegravir",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2009-03",
+            "completion_date": "2011-03",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The reduction with antiretroviral therapy (ART) of HIV RNA in blood, and HIV RNA in infected cells and in viruses associated with the follicular dendritic cell (FDC) network in lymphatic tissues, typically follows a two-phase pattern of decline. The half-life of the first-phase is about 1 day and that of the second phase is about 14 days, with comparable estimates for first-phase decay in SIV-infected rhesus macaques.\n\nWhile substantial evidence supports the current view that first-phase decay r",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV positive (proven serologically at the time of screen, unless evidence for seroconversion)\n* Evidence of recent (proven seroconversion within 4 months) or acute infection (HIV antibody negative, HIV RNA positive), or CD4 T Cells \\> 350 in peripheral blood and plasma viral l",
+            "endpoints": [
+              "Rate of HIV mRNA Decline Measured in Peripheral Blood",
+              "Rate of HIV mRNA Expression Decline Measured in Lymphatic Tissues",
+              "CD4+ T Cell Number Increase in Peripheral Blood Over Time"
+            ],
+            "sponsor": "University of Minnesota",
+            "url": "https://clinicaltrials.gov/study/NCT00863668"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "35856680",
+            "title": "Quantitative Imaging Analysis of the Spatial Relationship between Antiretrovirals, Reverse Transcriptase Simian-Human Immunodeficiency Virus RNA, and Fibrosis in the Spleens of Nonhuman Primates.",
+            "abstract": "Although current antiretroviral therapy (ART) has increased life expectancy, a cure for human immunodeficiency virus (HIV) remains elusive due to the persistence of the virus in tissue reservoirs. In the present study, we sought to elucidate the relationship between antiretrovirals (ARVs) and viral expression in the spleen. We performed mass spectrometry imaging (MSI) of 6 different ARVs, RNAscope in situ hybridization of viral RNA, and immunohistochemistry of three different fibrosis markers in the spleens of 8 uninfected and 10 reverse transcriptase simian-human immunodeficiency virus (RT-SHIV)-infected rhesus macaques (infected for 6 weeks) that had been dosed for 10 days with combination ART. Using MATLAB, computational quantitative imaging analysis was performed to evaluate the spatial and pharmacological relationships between the 6 ARVs, viral RNA, and fibrotic deposition. In these spleens, >50% of the spleen tissue area was not covered by any detectable ARV response (any concent",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2022",
+            "authors": [
+              "Devanathan Aaron S",
+              "White Nicole R",
+              "Desyaterik Yury",
+              "De la Cruz Gabriela",
+              "Nekorchuk Michael"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Retroviral Agents",
+              "Fibrosis",
+              "HIV",
+              "HIV Infections",
+              "HIV Reverse Transcriptase",
+              "Humans",
+              "Macaca mulatta",
+              "Maraviroc",
+              "RNA, Viral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35856680/"
+          },
+          {
+            "pmid": "21084490",
+            "title": "Genetic diversity of simian immunodeficiency virus encoding HIV-1 reverse transcriptase persists in macaques despite antiretroviral therapy.",
+            "abstract": "The impact of antiretroviral therapy (ART) on the genetics of simian immunodeficiency virus (SIV) or human immunodeficiency virus (HIV) populations has been incompletely characterized. We analyzed SIV genetic variation before, during, and after ART in a macaque model. Six pigtail macaques were infected with an SIV/HIV chimeric virus, RT-SHIV(mne), in which SIV reverse transcriptase (RT) was replaced by HIV-1 RT. Three animals received a short course of efavirenz (EFV) monotherapy before combination ART was started. All macaques received 20 weeks of tenofovir, emtricitabine, and EFV. Plasma virus populations were analyzed by single-genome sequencing. Population diversity was measured by average pairwise difference, and changes in viral genetics were assessed by phylogenetic and panmixia analyses. After 20 weeks of ART, viral diversity was not different from pretherapy viral diversity despite more than 10,000-fold declines in viremia, indicating that, within this range, there is no relat",
+            "journal": "Journal of virology",
+            "year": "2011",
+            "authors": [
+              "Kearney Mary",
+              "Spindler Jon",
+              "Shao Wei",
+              "Maldarelli Frank",
+              "Palmer Sarah"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, N.I.H., Intramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Retroviral Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "Cluster Analysis",
+              "Disease Models, Animal",
+              "Evolution, Molecular",
+              "Genetic Variation",
+              "HIV Reverse Transcriptase",
+              "Macaca",
+              "Phylogeny"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21084490/"
+          },
+          {
+            "pmid": "15328115",
+            "title": "Efavirenz therapy in rhesus macaques infected with a chimera of simian immunodeficiency virus containing reverse transcriptase from human immunodeficiency virus type 1.",
+            "abstract": "The specificity of nonnucleoside reverse transcriptase (RT) inhibitors (NNRTIs) for the RT of human immunodeficiency virus type 1 (HIV-1) has prevented the use of simian immunodeficiency virus (SIV) in the study of NNRTIs and NNRTI-based highly active antiretroviral therapy. However, a SIV-HIV-1 chimera (RT-SHIV), in which the RT from SIVmac239 was replaced with the RT-encoding region from HIV-1, is susceptible to NNRTIs and is infectious to rhesus macaques. We have evaluated the antiviral activity of efavirenz against RT-SHIV and the emergence of efavirenz-resistant mutants in vitro and in vivo. RT-SHIV was susceptible to efavirenz with a mean effective concentration of 5.9 +/- 4.5 nM, and RT-SHIV variants selected with efavirenz in cell culture displayed 600-fold-reduced susceptibility. The efavirenz-resistant mutants of RT-SHIV had mutations in RT similar to those of HIV-1 variants that were selected under similar conditions. Efavirenz monotherapy of RT-SHIV-infected macaques produc",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2004",
+            "authors": [
+              "Hofman Michael J",
+              "Higgins Joanne",
+              "Matthews Timothy B",
+              "Pedersen Niels C",
+              "Tan Chalet"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Alkynes",
+              "Animals",
+              "Benzoxazines",
+              "CD4-CD8 Ratio",
+              "Chimera",
+              "Cyclopropanes",
+              "DNA Primers",
+              "DNA, Viral",
+              "Drug Resistance, Viral",
+              "Flow Cytometry"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15328115/"
+          },
+          {
+            "pmid": "22933296",
+            "title": "Ultrasensitive allele-specific PCR reveals rare preexisting drug-resistant variants and a large replicating virus population in macaques infected with a simian immunodeficiency virus containing human immunodeficiency virus reverse transcriptase.",
+            "abstract": "It has been proposed that most drug-resistant mutants, resulting from a single-nucleotide change, exist at low frequency in human immunodeficiency virus type 1 (HIV-1) and simian immunodeficiency virus (SIV) populations in vivo prior to the initiation of antiretroviral therapy (ART). To test this hypothesis and to investigate the emergence of resistant mutants with drug selection, we developed a new ultrasensitive allele-specific PCR (UsASP) assay, which can detect drug resistance mutations at a frequency of ≥0.001% of the virus population. We applied this assay to plasma samples obtained from macaques infected with an SIV variant containing HIV-1 reverse transcriptase (RT) (RT-simian-human immunodeficiency [SHIV](mne)), before and after they were exposed to a short course of efavirenz (EFV) monotherapy. We detected RT inhibitor (RTI) resistance mutations K65R and M184I but not K103N in 2 of 2 RT-SHIV-infected macaques prior to EFV exposure. After three doses over 4 days of EFV monothe",
+            "journal": "Journal of virology",
+            "year": "2012",
+            "authors": [
+              "Boltz Valerie F",
+              "Ambrose Zandrea",
+              "Kearney Mary F",
+              "Shao Wei",
+              "Kewalramani Vineet N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, N.I.H., Intramural",
+              "Research Support, Non-U.S. Gov't",
+              "Validation Study"
+            ],
+            "mesh_terms": [
+              "Alkynes",
+              "Alleles",
+              "Animals",
+              "Benzoxazines",
+              "Cyclopropanes",
+              "Drug Resistance, Viral",
+              "HIV Reverse Transcriptase",
+              "Macaca nemestrina",
+              "Mutation",
+              "Polymerase Chain Reaction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22933296/"
+          },
+          {
+            "pmid": "21289110",
+            "title": "Human immunodeficiency virus type 1 and related primate lentiviruses engage clathrin through Gag-Pol or Gag.",
+            "abstract": "The Gag-Pol polyprotein of human immunodeficiency virus type 1 (HIV-1) is not required for efficient viral particle production. However, premature termination codons in pol, particularly in the integrase (IN)-coding region, can markedly impair HIV-1 particle formation, apparently due to the premature activation of the viral protease (PR). We now report that the IN domain of Gag-Pol is required for the incorporation of clathrin into HIV-1 virions. Significantly, PR-dependent effects of point mutations in IN on particle production correlated strictly with their effects on clathrin incorporation. A possible interpretation of these findings is that certain IN mutations impair particle production in a PR-dependent manner by promoting Gag-Pol dimerization, which also occludes a binding site for clathrin. Consistently with this model, the reverse transcriptase (RT) inhibitor efavirenz, which is thought to promote Gag-Pol dimerization, inhibited the incorporation of clathrin into HIV-1 virions",
+            "journal": "Journal of virology",
+            "year": "2011",
+            "authors": [
+              "Popov Sergei",
+              "Strack Bettina",
+              "Sanchez-Merino Victor",
+              "Popova Elena",
+              "Rosin Heike"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Clathrin",
+              "HIV-1",
+              "HIV-2",
+              "Humans",
+              "Lentiviruses, Primate",
+              "Protein Binding",
+              "Simian Immunodeficiency Virus",
+              "Virion",
+              "Virus Assembly"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21289110/"
+          },
+          {
+            "pmid": "15564466",
+            "title": "In vitro characterization of a simian immunodeficiency virus-human immunodeficiency virus (HIV) chimera expressing HIV type 1 reverse transcriptase to study antiviral resistance in pigtail macaques.",
+            "abstract": "Antiviral resistance is a significant obstacle in the treatment of human immunodeficiency virus type 1 (HIV-1)-infected individuals. Because nonnucleoside reverse transcriptase inhibitors (NNRTIs) specifically target HIV-1 reverse transcriptase (RT) and do not effectively inhibit simian immunodeficiency virus (SIV) RT, the development of animal models to study the evolution of antiviral resistance has been problematic. To facilitate in vivo studies of NNRTI resistance, we examined whether a SIV that causes immunopathogenesis in pigtail macaques could be made sensitive to NNRTIs. Two simian-human immunodeficiency viruses (SHIVs) were derived from the genetic background of SIV(mne): SIV-RT-YY contains RT substitutions intended to confer NNRTI susceptibility (V181Y and L188Y), and RT-SHIV(mne) contains the entire HIV-1 RT coding region. Both mutant viruses grew to high titers in vitro but had reduced fitness relative to wild-type SIV(mne). Although the HIV-1 RT was properly processed into",
+            "journal": "Journal of virology",
+            "year": "2004",
+            "authors": [
+              "Ambrose Zandrea",
+              "Boltz Valerie",
+              "Palmer Sarah",
+              "Coffin John M",
+              "Hughes Stephen H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Amino Acid Sequence",
+              "Animals",
+              "Anti-HIV Agents",
+              "Cell Line",
+              "Disease Models, Animal",
+              "Drug Resistance, Viral",
+              "HIV Infections",
+              "HIV Reverse Transcriptase",
+              "HIV-1",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15564466/"
+          },
+          {
+            "pmid": "19195672",
+            "title": "Characterization of vaginal transmission of a simian human immunodeficiency virus (SHIV) encoding the reverse transcriptase gene from HIV-1 in Chinese rhesus macaques.",
+            "abstract": "Replication competent recombinant simian-human immunodeficiency virus encoding the reverse transcriptase gene (RT SHIV) from HIV-1 was characterized for vaginal transmission in rhesus macaques. RT SHIV was shown to transmit efficiently via the vaginal route in macaques with detectable plasma viremia persisting for a year in some animals. Analyses of virus load in tissues of infected animals revealed accumulation of viral RNA in lymph nodes and spleen with levels correlating with plasma viremia. RT-SHIV was inhibited by dapivirine, nevirapine, efavirenz and tenofovir in vitro, although the effect was less pronounced with tenofovir. Virus isolated from infected animals at early and later time points had limited changes in RT sequences and exhibited similar sensitivity to RT inhibitors as the challenge virus. The vaginal transmission of RT SHIV demonstrated here suggests this virus may possibly be used in the nonhuman primate model for limited evaluation of RT inhibitors applied vaginally",
+            "journal": "Virology",
+            "year": "2009",
+            "authors": [
+              "Pal Ranajit",
+              "Nuttall Jeremy",
+              "Galmin Lindsey",
+              "Weiss Deborah",
+              "Chung Hye-Kyung"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-HIV Agents",
+              "Female",
+              "HIV",
+              "HIV Infections",
+              "HIV Reverse Transcriptase",
+              "Humans",
+              "Lymph Nodes",
+              "Macaca mulatta",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19195672/"
+          },
+          {
+            "pmid": "15919889",
+            "title": "Suppression of virus load by highly active antiretroviral therapy in rhesus macaques infected with a recombinant simian immunodeficiency virus containing reverse transcriptase from human immunodeficiency virus type 1.",
+            "abstract": "We have modeled highly active antiretroviral therapy (HAART) for AIDS in rhesus macaques infected with a chimera (RT-SHIV) of simian immunodeficiency virus containing reverse transcriptase from human immunodeficiency virus type-1 (HIV-1). Seven RT-SHIV-infected macaques were treated with a combination of efavirenz (200 mg orally once daily), lamivudine (8 mg/kg subcutaneously once daily), and tenofovir (30 mg/kg subcutaneously once daily). Plasma viral RNA levels in all animals were reduced by more than 1,000-fold after 4 weeks and, in six of the seven animals, were reduced to undetectable levels after 10 weeks. Virus loads increased slightly between 12 and 16 weeks of treatment, associated with problems with the administration of efavirenz. After a change in the method of efavirenz administration, virus loads declined again and remained undetectable in the majority of animals for the duration of therapy. Treatment was stopped for three animals after 36 weeks of therapy, and virus load",
+            "journal": "Journal of virology",
+            "year": "2005",
+            "authors": [
+              "North Thomas W",
+              "Van Rompay Koen K A",
+              "Higgins Joanne",
+              "Matthews Timothy B",
+              "Wadford Debra A"
+            ],
+            "pub_types": [
+              "Evaluation Study",
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antiretroviral Therapy, Highly Active",
+              "Disease Models, Animal",
+              "HIV Infections",
+              "HIV Reverse Transcriptase",
+              "HIV-1",
+              "Humans",
+              "Macaca mulatta",
+              "Recombination, Genetic",
+              "Simian Acquired Immunodeficiency Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15919889/"
+          },
+          {
+            "pmid": "19889213",
+            "title": "RT-SHIV subpopulation dynamics in infected macaques during anti-HIV therapy.",
+            "abstract": "To study the dynamics of wild-type and drug-resistant HIV-1 RT variants, we developed a methodology that follows the fates of individual genomes over time within the viral quasispecies. Single genome sequences were obtained from 3 pigtail macaques infected with a recombinant simian immunodeficiency virus containing the RT coding region from HIV-1 (RT-SHIV) and treated with short-course efavirenz monotherapy 13 weeks post-infection followed by daily combination antiretroviral therapy (ART) beginning at week 17. Bioinformatics tools were constructed to trace individual genomes from the beginning of infection to the end of the treatment.",
+            "journal": "Retrovirology",
+            "year": "2009",
+            "authors": [
+              "Shao Wei",
+              "Kearney Mary",
+              "Maldarelli Frank",
+              "Mellors John W",
+              "Stephens Robert M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Alkynes",
+              "Animals",
+              "Anti-HIV Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "Benzoxazines",
+              "Biodiversity",
+              "Cluster Analysis",
+              "Cyclopropanes",
+              "Drug Resistance, Viral",
+              "HIV-1"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19889213/"
+          },
+          {
+            "pmid": "24777106",
+            "title": "Enhanced antiretroviral therapy in rhesus macaques improves RT-SHIV viral decay kinetics.",
+            "abstract": "Using an established nonhuman primate model, rhesus macaques were infected intravenously with a chimeric simian immunodeficiency virus (SIV) consisting of SIVmac239 with the human immunodeficiency virus type 1 (HIV-1) reverse transcriptase from clone HXBc2 (RT-SHIV). The impacts of two enhanced (four- and five-drug) highly active antiretroviral therapies (HAART) on early viral decay and rebound were determined. The four-drug combination consisted of an integrase inhibitor, L-870-812 (L-812), together with a three-drug regimen comprising emtricitabine [(-)-FTC], tenofovir (TFV), and efavirenz (EFV). The five-drug combination consisted of one analog for each of the four DNA precursors {using TFV, (-)-FTC, (-)-β-D-(2R,4R)-1,3-dioxolane-2,6-diaminopurine (amdoxovir [DAPD]), and zidovudine (AZT)}, together with EFV. A cohort treated with a three-drug combination of (-)-FTC, TFV, and EFV served as treated controls. Daily administration of a three-, four-, or five-drug combination of antiretr",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2014",
+            "authors": [
+              "North Thomas W",
+              "Villalobos Andradi",
+              "Hurwitz Selwyn J",
+              "Deere Jesse D",
+              "Higgins Joanne"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-HIV Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "Drug Combinations",
+              "Kinetics",
+              "Macaca mulatta",
+              "RNA, Viral",
+              "Recurrence",
+              "Simian Acquired Immunodeficiency Syndrome",
+              "Simian Immunodeficiency Virus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24777106/"
+          },
+          {
+            "pmid": "20668516",
+            "title": "Viral decay kinetics in the highly active antiretroviral therapy-treated rhesus macaque model of AIDS.",
+            "abstract": "To prevent progression to AIDS, persons infected with human immunodeficiency virus type 1 (HIV-1) must remain on highly active antiretroviral therapy (HAART) indefinitely since this modality does not eradicate the virus. The mechanisms involved in viral persistence during HAART are poorly understood, but an animal model of HAART could help elucidate these mechanisms and enable studies of HIV-1 eradication strategies. Due to the specificity of non-nucleoside reverse transcriptase (RT) inhibitors (NNRTIs) for HIV-1, we have used RT-SHIV, a chimeric virus of simian immunodeficiency virus with RT from HIV-1. This virus is susceptible to NNRTIs and causes an AIDS-like disease in rhesus macaques. In this study, two groups of HAART-treated, RT-SHIV-infected macaques were analyzed to determine viral decay kinetics. In the first group, viral loads were monitored with a standard TaqMan RT-PCR assay with a limit of detection of 50 viral RNA copies per mL. Upon initiation of HAART, viremia decayed",
+            "journal": "PloS one",
+            "year": "2010",
+            "authors": [
+              "Deere Jesse D",
+              "Higgins Joanne",
+              "Cannavo Elda",
+              "Villalobos Andradi",
+              "Adamson Lourdes"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Alkynes",
+              "Animals",
+              "Antiretroviral Therapy, Highly Active",
+              "Benzoxazines",
+              "Chromatography, High Pressure Liquid",
+              "Cyclopropanes",
+              "HIV Reverse Transcriptase",
+              "HIV-1",
+              "Macaca",
+              "Macaca mulatta"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20668516/"
+          },
+          {
+            "pmid": "26559632",
+            "title": "Well-mixed plasma and tissue viral populations in RT-SHIV-infected macaques implies a lack of viral replication in the tissues during antiretroviral therapy.",
+            "abstract": "Determining the anatomic compartments that contribute to plasma HIV-1 is critical to understanding the sources of residual viremia during combination antiretroviral therapy (ART). We analyzed viral DNA and RNA populations in the plasma and tissues from macaques infected with SIV containing HIV-1 RT (RT-SHIV) to identify possible sources of persistent viremia and to investigate the effect of ART on viral replication in tissues. Tissues were collected at necropsy from four pigtailed macaques infected for 30 weeks with a diverse population of RT-SHIV. Two animals (6760 and 8232) were untreated and two animals (8030 and 8272) were treated with efavirenz, tenofovir, and emtricitabine for 20 weeks.",
+            "journal": "Retrovirology",
+            "year": "2015",
+            "authors": [
+              "Kearney Mary F",
+              "Anderson Elizabeth M",
+              "Coomer Charles",
+              "Smith Luke",
+              "Shao Wei"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, N.I.H., Intramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-HIV Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "Bone Marrow",
+              "Brain",
+              "DNA, Viral",
+              "Disease Models, Animal",
+              "Drug Resistance, Viral",
+              "HIV Infections",
+              "Lung"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26559632/"
+          },
+          {
+            "pmid": "20032180",
+            "title": "Viral sanctuaries during highly active antiretroviral therapy in a nonhuman primate model for AIDS.",
+            "abstract": "Highly active antiretroviral therapy (HAART) enables long-term suppression of plasma HIV-1 loads in infected persons, but low-level virus persists and rebounds following cessation of therapy. During HAART, this virus resides in latently infected cells, such as resting CD4(+) T cells, and in other cell types that may support residual virus replication. Therapeutic eradication will require elimination of virus from all reservoirs. We report here a comprehensive analysis of these reservoirs in fluids, cells, and tissues in a rhesus macaque model that mimics HAART in HIV-infected humans. This nonhuman primate model uses RT-SHIV, a chimera of simian immunodeficiency virus containing the HIV-1 reverse transcriptase (RT). Methods were developed for extraction, preamplification, and real-time PCR analyses of viral DNA (vDNA) and viral RNA (vRNA) in tissues from RT-SHIV-infected macaques. These methods were used to identify viral reservoirs in RT-SHIV-infected macaques treated with a potent HAA",
+            "journal": "Journal of virology",
+            "year": "2010",
+            "authors": [
+              "North Thomas W",
+              "Higgins Joanne",
+              "Deere Jesse D",
+              "Hayes Timothy L",
+              "Villalobos Andradi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-HIV Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "CD4-Positive T-Lymphocytes",
+              "DNA, Viral",
+              "Disease Models, Animal",
+              "HIV Infections",
+              "HIV Reverse Transcriptase",
+              "HIV-1",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20032180/"
+          },
+          {
+            "pmid": "15040537",
+            "title": "Susceptibility of HIV-2, SIV and SHIV to various anti-HIV-1 compounds: implications for treatment and postexposure prophylaxis.",
+            "abstract": "Limited information is available on the activity of antiretroviral drugs against human immunodeficiency virus type 2 (HIV-2) and simian immunodeficiency virus (SIV) strains to guide their use in treatment or prophylaxis. We evaluated the antiviral activity of 16 approved drugs and one experimental drug, AMD3100, against two wild-type HIV-2 (ROD and EHO) isolates, two strains of SIV (mac251 and B670), and two strains of simian-human immunodeficiency virus (SHIV) that contain the reverse transcriptase (RTSHIV) or envelope glycoprotein (SHIV89.6) of human immunodeficiency virus type 1 (HIV-1) in a SIV(mac239) background. Drug susceptibility was measured conventionally by the MT-4/MTT assay, and results were analysed as fold changes in 50% effective concentration (EC50) relative to the EC50 for HIV-1 (IIIB). The nucleoside reverse transcriptase inhibitors (NRTIs) zidovudine, lamivudine, stavudine, didanosine, zalcitabine and abacavir as well as the nucleotide reverse transcriptase inhibito",
+            "journal": "Antiviral therapy",
+            "year": "2004",
+            "authors": [
+              "Witvrouw Myriam",
+              "Pannecouque Christophe",
+              "Switzer William M",
+              "Folks Thomas M",
+              "De Clercq Erik"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amino Acid Sequence",
+              "Animals",
+              "Anti-HIV Agents",
+              "Consensus Sequence",
+              "HIV",
+              "HIV Reverse Transcriptase",
+              "HIV-2",
+              "Humans",
+              "Microbial Sensitivity Tests",
+              "Molecular Sequence Data"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15040537/"
+          },
+          {
+            "pmid": "17045247",
+            "title": "Acyclic nucleoside phosphonates: past, present and future. Bridging chemistry to HIV, HBV, HCV, HPV, adeno-, herpes-, and poxvirus infections: the phosphonate bridge.",
+            "abstract": "Twenty years following the description of the broad-spectrum antiviral activity of S-9-(3-hydroxy-2-phosphonylmethoxypropyl)adenine [(S)-HPMPA] [De Clercq E, Holý A, Rosenberg I, Sakuma T, Balzarini J, Maudgal PC. A novel selective broad-spectrum anti-DNA virus agent. Nature 1986;323:464-7], the acyclic nucleoside phosphonates have acquired a prominent therapeutic position: (i) cidofovir in the treatment of papilloma-, herpes-, adeno- and poxvirus infections, (ii) adefovir in the treatment of chronic hepatitis B virus (HBV) infections, and (iii) tenofovir in the treatment of human immunodeficiency virus (HIV) infections (AIDS). Although formally approved only for the treatment of human cytomegalovirus (HCMV) retinitis in AIDS patients, cidofovir has been used successfully in the treatment of various other DNA virus infections, particularly human papilloma virus (HPV)-associated lesions. Adefovir dipivoxil has become a standard therapy for HBV infections, especially when resistant to la",
+            "journal": "Biochemical pharmacology",
+            "year": "2007",
+            "authors": [
+              "De Clercq E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adenine",
+              "Animals",
+              "Antiviral Agents",
+              "Cidofovir",
+              "Cytosine",
+              "HIV",
+              "Hepacivirus",
+              "Hepatitis B virus",
+              "Humans",
+              "Organophosphonates"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17045247/"
+          },
+          {
+            "pmid": "24505452",
+            "title": "Residual viremia in an RT-SHIV rhesus macaque HAART model marked by the presence of a predominant plasma clone and a lack of viral evolution.",
+            "abstract": "Highly active antiretroviral therapy (HAART) significantly reduces HIV-1 replication and prevents progression to AIDS. However, residual low-level viremia (LLV) persists and long-lived viral reservoirs are maintained in anatomical sites. These reservoirs permit a recrudescence of viremia upon cessation of therapy and thus HAART must be maintained indefinitely. HIV-1 reservoirs include latently infected resting memory CD4⁺ T-cells and macrophages which may contribute to residual viremia. It has not been conclusively determined if a component of LLV may also be due to residual replication in cells with sub-therapeutic drug levels and/or long-lived chronically infected cells. In this study, RT-SHIV(mac239) diversity was characterized in five rhesus macaques that received a five-drug HAART regimen [tenofovir, emtricitabine, zidovudine, amdoxovir, (A, C, T, G nucleoside analogs) and the non-nucleoside reverse transcriptase (RT) inhibitor efavirenz]. Before maximal viral load suppression, lo",
+            "journal": "PloS one",
+            "year": "2014",
+            "authors": [
+              "Kauffman Robert C",
+              "Villalobos Andradi",
+              "Bowen Joanne H",
+              "Adamson Lourdes",
+              "Schinazi Raymond F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Retroviral Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "Disease Models, Animal",
+              "Female",
+              "Gene Frequency",
+              "HIV Reverse Transcriptase",
+              "HIV-1",
+              "Humans",
+              "Macaca mulatta"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24505452/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "simian immunodeficiency virus infection",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20simian%20immunodeficiency%20virus%20infection"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "feline acquired immunodeficiency syndrome",
+        "txgnn_score": 0.9979514479637146,
+        "txgnn_rank": 598,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01263015",
+            "title": "A Randomized, Double-Blind Study of the Safety and Efficacy of GSK1349572 Plus Abacavir/Lamivudine Fixed-Dose Combination Therapy Administered Once Daily Compared to Atripla Over 96 Weeks in HIV-1 Infected Antiretroviral Therapy Naive Adult Subjects",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2011-02-01",
+            "completion_date": "2015-12-03",
+            "country": "Italy, France, Belgium, United Kingdom, Romania, Spain, United States, Denmark, Germany, Australia, Canada, Netherlands",
+            "enrollment": 844,
+            "brief_summary": "The purpose of this trial is to assess the non-inferior antiviral activity of GSK1349572 50 mg plus Abacavir/Lamivudine once daily versus Efavirenz/Emtricitabine/Tenofovir disoproxil fumarate (ATRIPLA® a trade mark of Bristol-Myers Squibb and Gilead Sciences LLC) over 48 weeks; non-inferiority will also be tested at Week 96. This study will be conducted in HIV-1 infected ART-naïve adult subjects. Long term antiviral activity, tolerability, safety, and development of viral resistance will be eval",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Screening plasma HIV-1 RNA ≥1000 c/mL\n* Antiretroviral-naïve (≤ 10 days of prior therapy with any antiretroviral agent following a diagnosis of HIV-1 infection)\n* Ability to understand and sign a written informed consent form\n* Willingness to use approved methods of contracept",
+            "endpoints": [
+              "Proportion of Subjects Responding Based on Plasma HIV-1 RNA <50 c/mL at Week 48"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT01263015"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00951015",
+            "title": "A Phase IIb Study to Select a Once Daily Dose of GSK1349572 Administered With Either Abacavir/Lamivudine or Tenofovir/Emtricitabine in HIV-1 Infected Antiretroviral Therapy Naive Adult Subjects",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2009-07-30",
+            "completion_date": "2016-12-22",
+            "country": "Italy, France, Russia, United States, Spain, Germany",
+            "enrollment": 208,
+            "brief_summary": "This Phase IIb study in HIV-infected antiretroviral naive subjects will select an optimal once daily dose of GSK1349572 from a range of doses for future evaluation.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected male or female adults at least 18 years of age. Women capable of becoming pregnant must use appropriate contraception during the study (as defined by the protocol);\n* HIV-1 infection with a screening plasma HIV-1 RNA greater than or equal to 1000copies/mL;\n* CD4",
+            "endpoints": [
+              "Number of Participants With Human Immunodeficiency Virus Type 1 (HIV-1) Ribonucleic Acid (RNA) <50 Copies/Milliliter (c/mL) at Week 16"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT00951015"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "38031646",
+            "title": "Biochemical and structural comparisons of non-nucleoside reverse transcriptase inhibitors against feline and human immunodeficiency viruses.",
+            "abstract": "Feline immunodeficiency virus (FIV) causes an acquired immunodeficiency-like syndrome in cats. FIV is latent. No effective treatment has been developed for treatment the infected cats. The first and second generations non-nucleoside reverse transcriptase inhibitors (NNRTIs) for HIV treatment, nevirapine (NVP) and efavirenz (EFV), and rilpivirine (RPV), were used to investigate the potential of NNRTIs for treatment of FIV infection.",
+            "journal": "Journal of veterinary science",
+            "year": "2023",
+            "authors": [
+              "Rattanabunyong Siriluk",
+              "Choengpanya Khuanjarat",
+              "Suwattanasophon Chonticha",
+              "Kiriwan Duangnapa",
+              "Wolschann Peter"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cats",
+              "Animals",
+              "Humans",
+              "Reverse Transcriptase Inhibitors",
+              "Anti-HIV Agents",
+              "Molecular Docking Simulation",
+              "HIV-1",
+              "Rilpivirine",
+              "Nevirapine",
+              "HIV Reverse Transcriptase"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38031646/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "feline acquired immunodeficiency syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20feline%20acquired%20immunodeficiency%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+        "txgnn_score": 0.9976970553398132,
+        "txgnn_rank": 658,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20neurodevelopmental%20disorder%20with%20ataxic%20gait%2C%20absent%20speech%2C%20and%20decreased%20cortical%20white%20matter"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "obsolete familial combined hyperlipidemia",
+        "txgnn_score": 0.977194845676422,
+        "txgnn_rank": 4053,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "obsolete familial combined hyperlipidemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20obsolete%20familial%20combined%20hyperlipidemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "AIDS related complex",
+        "txgnn_score": 0.9689990282058716,
+        "txgnn_rank": 5039,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02670772",
+            "title": "A Randomised, Double-Blind, Multi-Centre, Parallel-Group Phase 3b Study to Demonstrate Non-inferiority of Stavudine (20 mg Twice Daily) Compared With Tenofovir Disoproxil Fumarate (300 mg Once Daily) When Administered in Combination With Lamivudine and Efavirenz in Antiretroviral-Naive Patients Infected With HIV-1",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-07",
+            "completion_date": "2015-12",
+            "country": "India, South Africa, Uganda",
+            "enrollment": 1077,
+            "brief_summary": "The purpose of this study is to demonstrate whether low dose stavudine (d4T) is non-inferior (in terms of both viral suppression and toxicity) to tenofovir (TDF) after 2 years of HIV treatment.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is male or female aged ≥18 years (upper limit of \\<65 years in India)\n* Patient has a documented laboratory diagnosis of infection with HIV-1 (positive enzyme-linked immunosorbent assay HIV-1 antibody test) at screening or from previous records\n* Patient has a life exp",
+            "endpoints": [
+              "Number of participants with undetectable plasma HIV-1 RNA levels",
+              "Number of participants with adverse events related to treatment"
+            ],
+            "sponsor": "University of Witwatersrand, South Africa",
+            "url": "https://clinicaltrials.gov/study/NCT02670772"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02178592",
+            "title": "ING117175: a Phase IIIb, Randomized, Open-label Study of the Safety and Efficacy of Dolutegravir or Efavirenz Each Administered With Two NRTIs in HIV-1-infected Antiretroviral Therapy-naïve Adults Starting Treatment for Rifampicin-sensitive Tuberculosis",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-01-23",
+            "completion_date": "2020-03-06",
+            "country": "Brazil, Argentina, Mexico, South Africa, Peru, Thailand, Russia",
+            "enrollment": 113,
+            "brief_summary": "HIV/Tuberculosis (TB) co-infection have profound effects on the host's immune system. TB is the most common cause of death in patients with HIV worldwide. Rifamycins (such as rifampicin \\[RIF\\]) are an important component of TB therapy because of their unique activity. The problem is that most protease inhibitors (PI) and non-nucleoside reverse transcriptase inhibitors (NNRTI) used to treat HIV have significant drug-drug interactions with RIF that can lead to reduced concentrations of these agen",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subject or the subject's legal representative is willing and able to understand and provide signed and dated written informed consent prior to Screening\n* Adult subject (at least 18 years of age) with plasma HIV-1 RNA\\>=1000 copies/ milliliter (mL) at Screening\n* CD4+ cell cou",
+            "endpoints": [
+              "Percentage of Participants With Plasma Human Immunodeficiency Virus-1 Ribonucleic Acid (HIV-1 RNA) < 50 Copies/Milliliter at Week 48 in DTG Arm Using the Modified United States (US) Food and Drug Administration (FDA) Snapshot Algorithm"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02178592"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00001119",
+            "title": "A Study of the Effects of Combination Antiretroviral Therapy in Acute HIV-1 Infection With an Emphasis on Immunological Responses",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "1999-10",
+            "completion_date": "",
+            "country": "United States, Australia",
+            "enrollment": 288,
+            "brief_summary": "The purpose of this study is to find out whether these powerful combinations of anti-HIV drugs are safe and effective for use in patients in the early stages of HIV infection and to find out how patients' immune systems react to HIV and anti-HIV drugs.\n\nDoctors generally treat patients in the early stages of HIV infection with the same anti-HIV drugs taken by patients who have had HIV for a long time. These drugs lower the level of HIV in the blood. However, doctors do not know whether patients ",
+            "eligibility_criteria": "Inclusion Criteria\n\nPatients may be eligible for the main study if they:\n\n* Became infected with HIV within the last 120 days.\n* Are at least age 16 and have written consent of a parent or guardian if under 18.\n* Are willing to practice abstinence or use barrier methods of birth control, such as con",
+            "endpoints": [],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00001119"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02946762",
+            "title": "Z 31501 - Treatment as Prevention (TasP) in Correctional Facilities in Zambia and South Africa",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2016-02-01",
+            "completion_date": "2018-03-31",
+            "country": "Zambia",
+            "enrollment": 419,
+            "brief_summary": "At correctional facilities in Zambia and South Africa, a cross-sectional study design will be used to characterize the full continuum of integrated HIV/TB care under Treatment as Prevention (TasP), and will enrich this approach by: 1) using individual-level cohort data for HIV-infected inmates to assess ART uptake under TasP/Universal Test and Treat (UTT), as well as 6-month virological suppression and retention in care for inmates initiating ART; and 2) mixed methods to identify health-system, ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Previously known or newly diagnosed HIV-infected inmates\n* Not on ART\n* No documented release date within 30 days of enrollment\n* Incarcerated in an adult correctional ward at one of the three study sites.",
+            "endpoints": [
+              "Proportion of inmates with HIV-infection who were assessed for and offered ART initiation under TasP/UTT"
+            ],
+            "sponsor": "University of North Carolina, Chapel Hill",
+            "url": "https://clinicaltrials.gov/study/NCT02946762"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04487145",
+            "title": "DPART Study: Dihydroartemisinin-Piperaquine in the Context of Antiretroviral Therapy",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2020-11-23",
+            "completion_date": "2022-04-11",
+            "country": "Uganda",
+            "enrollment": 194,
+            "brief_summary": "Open-label prospective intensive pharmacokinetic study of dihydroartemisinin-piperaquine (DP) in HIV-infected children on efavirenz (EFV)-, lopinavir/ritonavir (LPV/r)-, or dolutegravir (DTG)-based antiretroviral therapy (ART) and HIV-uninfected children not on ART. All children will be malaria-uninfected at the time of enrollment.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAll participants:\n\n* Agreement to come to clinic for all follow-up PK and safety evaluations\n* Provision of informed consent.\n\nHIV-infected participants:\n\n* Residency within 30km of Mulago Hospital.\n* Confirmed HIV infection (confirmed positive rapid HIV test or HIV RNA as per\n*",
+            "endpoints": [
+              "AUC0-42day in 3-dose Study",
+              "QTcF in 3-dose Study",
+              "AUC0-day28 in 3-dose Study"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT04487145"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "AIDS related complex",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20AIDS%20related%20complex"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital human immunodeficiency virus",
+        "txgnn_score": 0.9689990282058716,
+        "txgnn_rank": 5040,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01641809",
+            "title": "A Phase IIb, Dose Ranging Study of Oral GSK1265744 in Combination With Nucleoside Reverse Transcriptase Inhibitors for Induction of Human Immunodeficiency Virus -1 (HIV-1) Virologic Suppression Followed by an Evaluation of Maintenance of Virologic Suppression When Oral GSK1265744 is Combined With Oral Rilpivirine in HIV-1 Infected, Antiretroviral Therapy Naive Adult Subjects",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2012-08-06",
+            "completion_date": "2019-01-15",
+            "country": "United States, Canada",
+            "enrollment": 244,
+            "brief_summary": "The study is designed to select a dose of GSK1265744 primarily on the basis of antiviral activity and tolerability in HIV-1 infected, antiretroviral naive subjects.\n\nThis study consists of two parts:\n\nInduction Phase: Approximately 200 subjects will be randomized (50 subjects in each of the 4 treatment arms). The Induction Phase consists of a 24 week dose-ranging evaluation of GSK1265744 at blinded doses of 10 mg, 30 mg and 60 mg once-daily and a control arm of open-label efavirenz (EFV) 600 mg ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected male or female subjects \\>= 18 years of age\n* Screening plasma HIV-1 RNA \\>=1000 c/mL\n* CD4+ cell count \\>=200 cells/millimeter (mm)\\^3\n* ART-naive defined as having =\\<10 days of prior therapy with any antiretroviral agent following a diagnosis of HIV-1 infecti",
+            "endpoints": [
+              "Percentage of Participants With HIV-1 Ribonucleic Acid (RNA) <50 Copies/Milliliter (mL) at Week 48 Using the Missing, Switch, Discontinuation Equals Failure (MSDF) Algorithm"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT01641809"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02178592",
+            "title": "ING117175: a Phase IIIb, Randomized, Open-label Study of the Safety and Efficacy of Dolutegravir or Efavirenz Each Administered With Two NRTIs in HIV-1-infected Antiretroviral Therapy-naïve Adults Starting Treatment for Rifampicin-sensitive Tuberculosis",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-01-23",
+            "completion_date": "2020-03-06",
+            "country": "Brazil, Argentina, Mexico, South Africa, Peru, Thailand, Russia",
+            "enrollment": 113,
+            "brief_summary": "HIV/Tuberculosis (TB) co-infection have profound effects on the host's immune system. TB is the most common cause of death in patients with HIV worldwide. Rifamycins (such as rifampicin \\[RIF\\]) are an important component of TB therapy because of their unique activity. The problem is that most protease inhibitors (PI) and non-nucleoside reverse transcriptase inhibitors (NNRTI) used to treat HIV have significant drug-drug interactions with RIF that can lead to reduced concentrations of these agen",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subject or the subject's legal representative is willing and able to understand and provide signed and dated written informed consent prior to Screening\n* Adult subject (at least 18 years of age) with plasma HIV-1 RNA\\>=1000 copies/ milliliter (mL) at Screening\n* CD4+ cell cou",
+            "endpoints": [
+              "Percentage of Participants With Plasma Human Immunodeficiency Virus-1 Ribonucleic Acid (HIV-1 RNA) < 50 Copies/Milliliter at Week 48 in DTG Arm Using the Modified United States (US) Food and Drug Administration (FDA) Snapshot Algorithm"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02178592"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02652260",
+            "title": "Phase IIb, Double-Blinded, Multicenter, Randomized Study to Assess the Effect on Central Nervous System (CNS) Toxicity of Switching From ATRIPLA™ (Efavirenz, Tenofovir, Emtricitabine) to MK-1439A (Doravirine, Tenofovir, Lamivudine) in Virologically-Suppressed Subjects.",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2016-03-04",
+            "completion_date": "2024-02-07",
+            "country": "N/A",
+            "enrollment": 86,
+            "brief_summary": "This study aims to evaluate a switch from fixed dose combination (FDC) treatment with ATRIPLA\\^TM for 12 weeks prior to screening to FDC treatment with Doravirine, Tenofovir, Lamivudine (MK-1439A) in virologically-suppressed, human immunodeficiency virus type 1 (HIV-1)-infected participants. The primary hypothesis is that switching from ATRIPLA\\^TM to Doravirine, Tenofovir, Lamivudine results in a lower proportion of participants with at least one CNS toxicity of at least Grade 2 intensity at We",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* is taking ATRIPLA™, generic versions of ATRIPLA™, or the components of ATRIPLA™ (EFV,TDF plus emtricitabine),\n* has documentation of HIV-1 ribonucleic acid (RNA) \\< 50 copies/mL during the 12 weeks prior to screening while on ATRIPLA™.\n* has plasma HIV-1 RNA levels below the l",
+            "endpoints": [
+              "Percentage of Participants With at Least One Central Nervous System (CNS) Toxicity of at Least Grade 2 Intensity at Week 12"
+            ],
+            "sponsor": "Merck Sharp & Dohme LLC",
+            "url": "https://clinicaltrials.gov/study/NCT02652260"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02951052",
+            "title": "A Phase III, Randomized, Multicenter, Parallel-group, Non-inferiority, Open-label Study Evaluating the Efficacy, Safety, and Tolerability of Switching to Long-acting Cabotegravir Plus Long-acting Rilpivirine From Current INI- NNRTI-, or PI-based Antiretroviral Regimen in HIV-1-infected Adults Who Are Virologically Suppressed",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2016-10-28",
+            "completion_date": "2029-12-31",
+            "country": "Argentina, Italy, Mexico, South Africa, France, Sweden, Spain, South Korea, Russia, United States, Germany, Australia, Canada",
+            "enrollment": 618,
+            "brief_summary": "The Antiretroviral Therapy as Long Acting Suppression (ATLAS) study is being conducted to establish if human immunodeficiency virus type-1 (HIV-1) infected adult subjects with current viral suppression on a regimen with 2 nucleoside reverse transcriptase inhibitors (NRTIs) plus a third agent, remain suppressed upon switching to a two-drug intramuscular (IM) long-acting (LA) regimen of cabotegravir (CAB) and rilpivirine (RPV). This is a Phase 3, multi-phase, randomized, open label, active-control",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 years or older (or ≥19 where required by local regulatory agencies), at the time of signing the informed consent.\n* Must be on uninterrupted current regimen (either the initial or second ARV regimen) for at least 6 months prior to Screening. Any prior switch, defined a",
+            "endpoints": [
+              "Number of Participants With Virologic Failure (HIV-1 Ribonucleic Acid [RNA] >=50 Copies Per Millilter [mL]) Using Snapshot Algorithm at Week 48"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02951052"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04518228",
+            "title": "Pharmacokinetic Properties of Antiretroviral and Anti-Tuberculosis Drugs During Pregnancy and Postpartum",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2021-09-01",
+            "completion_date": "2025-07-10",
+            "country": "Uganda, Brazil, India, South Africa, Puerto Rico, Kenya, Thailand, United States",
+            "enrollment": 205,
+            "brief_summary": "The purpose of this study is to evaluate the pharmacokinetic (PK) properties of antiretroviral (ARV) and anti-tuberculosis (TB) drugs administered during pregnancy and postpartum.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nComponent 1: Pregnant WLHIV receiving oral ARVs and no TB drugs, and their infants\n\n* Mother is of legal age or otherwise able to provide independent informed consent as determined by site standard operating procedures (SOPs) and consistent with site institutional review board (",
+            "endpoints": [
+              "Number of women who meet area under the curve (AUC) target in second trimester (2T)",
+              "Number of women who meet area under the curve (AUC) target in third trimester (3T)",
+              "Number of women who meet area under the curve (AUC) in postpartum (PP)"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT04518228"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01231555",
+            "title": "Phase 2b Study to Select a Once Daily Oral Dose of GSK2248761 Administered With Tenofovir/Emtricitabine or Abacavir/Lamivudine in HIV-1 Infected Antiretroviral Therapy Naive Adult Subjects",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2010-11-18",
+            "completion_date": "2011-07-04",
+            "country": "France, Spain, Germany",
+            "enrollment": 23,
+            "brief_summary": "This 96 week, Phase 2b study in 150 HIV-1 infected antiretroviral (ART) naive adult subjects consists of a dose-ranging evaluation of GSK2248761 at blinded doses of 100 mg and 200 mg once daily with a control arm of open-label efavirenz (EFV) 600 mg once daily. The background ART for all 3 arms will be chosen by the Investigators and will be either abacavir/lamivudine \\[ABC/3TC\\] or tenofovir/emtricitabine \\[TDF/FTC\\] fixed dose combination (FDC) tablets. Antiviral activity, safety, PK, and deve",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected adults greater than or equal to 18 years of age. A female is eligible to enter and participate in the study if she is (1) Non-childbearing potential, (2) Child-bearing potential, with a negative pregnancy test at screen and Day 1 and agrees to use protocol-speci",
+            "endpoints": [
+              "Number of Participants With Plasma HIV-1 RNA Below 50 Copies/mL as a Function of Viral Load",
+              "Number of Participants With Serious Adverse Events (SAEs) and Adverse Events (AEs)"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT01231555"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00162097",
+            "title": "Pharmacokinetics of Efavirenz During Treatment of HIV-1 Infected Subjects With Hepatic Impairment.",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2004-11",
+            "completion_date": "2008-03",
+            "country": "Italy, United States",
+            "enrollment": 21,
+            "brief_summary": "The purpose of the study was to assess the steady-state pharmacokinetics (PK) of efavirenz (EFV) in human immunodeficiency virus type 1 (HIV-1) infected subjects on stable antiretroviral regimens containing EFV, and having selected degrees of hepatic impairment or normal hepatic function.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infection with or without Hepatitis B or C infection\n* Stable antiretroviral regimen containing efavirenz and nucleoside/nucleotide reverse transcriptase inhibitors (NRTI) for at least 1 month\n* Mild, moderate or severe hepatic impairment with hepatic cirrhosis\n\nExclusio",
+            "endpoints": [
+              "Maximum Plasma Concentration (Cmax)",
+              "Minimum Plasma Concentration (Cmin)",
+              "Area Under the Plasma Concentration-time Curve Over the Dosing Interval of 24 Hours (AUC[TAU])"
+            ],
+            "sponsor": "Bristol-Myers Squibb",
+            "url": "https://clinicaltrials.gov/study/NCT00162097"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02397096",
+            "title": "A Phase III Multicenter, Open-Label, Randomized Study to Evaluate a Switch to MK-1439A in HIV-1-Infected Subjects Virologically Suppressed on a Regimen of a Ritonavir-boosted Protease Inhibitor and Two Nucleoside Reverse Transcriptase Inhibitors (NRTIs)",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-06-09",
+            "completion_date": "2023-09-05",
+            "country": "N/A",
+            "enrollment": 673,
+            "brief_summary": "The multicenter, open label, randomized study will evaluate the safety and efficacy of a switch to MK-1439A (MK-1439 \\[doravirine\\] plus lamivudine and tenofovir disoproxil fumarate) in HIV-1-infected participants virologically suppressed on a protocol-specified antiretroviral regimen. The primary hypothesis is that a switch to doravirine, tenofovir, lamivudine will be non-inferior to continuation of the regimen at Screening for 24 weeks, as assessed by the proportion of participants maintaining",
+            "eligibility_criteria": "Inclusion Criteria:\n\nInclusion Criteria include, but are not limited to:\n\n* Have plasma Human Immunodeficiency Virus-1 Ribonucleic Acid (HIV-1 RNA) levels below the limit of quantification (BLoQ) (\\<40 copies/mL by the Abbott RealTime HIV-1 Assay as determined by the central laboratory) at the scree",
+            "endpoints": [
+              "Percentage of Participants Maintaining Human Immunodeficiency Virus-1 Ribonucleic Acid (HIV-1 RNA) <50 Copies/mL"
+            ],
+            "sponsor": "Merck Sharp & Dohme LLC",
+            "url": "https://clinicaltrials.gov/study/NCT02397096"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00197145",
+            "title": "A Phase III, Randomized, Double-blind, Placebo-controlled, Multicenter, Parallel Group Study to Compare the Efficacy and Safety of GW873140 400mg BID in Combination With a Ritonavir-containing Optimized Background Therapy (OBT) Regimen Versus Placebo Plus OBT Over 48 Weeks.",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2005-07-21",
+            "completion_date": "2007-09-11",
+            "country": "United States, Puerto Rico, Canada",
+            "enrollment": 24,
+            "brief_summary": "The purpose of this study is to evaluate the safety and efficacy of the CCR5 antagonist GW873140 or placebo in combination with an optimized background regimen in treatment-experienced HIV-infected subjects with R5-tropic virus",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-infected.\n* Screening viral load at least 5000copies/mL.\n* R5-tropic only virus at screening.\n* Total prior antiretroviral experience of at least 3 months and documented resistance to at least one drug in each of the following classes: nucleoside reverse transcriptase inhi",
+            "endpoints": [
+              "Number of Participants With Plasma HIV-1 RNA <400 Copies Per Milliliter (Copies /mL) at Week 24 and 48",
+              "Average Area Under the Curve Minus Baseline (AAUCMB) of Plasma HIV-1 RNA Through the Entire Study Period",
+              "Number of Participants With >= 1.0 log10 Copies/mL Decrease in Plasma HIV-1 RNA From Baseline Over Time"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT00197145"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00936195",
+            "title": "Safety and Efficacy of the Universal Use of EFV-TDF-FTC and AZT-3TC-LPV/r Combinations in Pregnant and Breastfeeding Women to Prevent mother-to Child Transmission of HIV-1 o, Resource-limited Settings: A Multicentre Randomized Phase 3 Clinical Trial",
+            "phase": "PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2010-01",
+            "completion_date": "2013-06",
+            "country": "Côte d’Ivoire, Zambia",
+            "enrollment": 0,
+            "brief_summary": "To assess the maternal and infant safety of a single daily fixed-dose combination of TDF/FTC/EFV (Atripla®), compared to the association of LPV/r (Kaletra® or Aluvia®) and 3TC/ZDV (Combivir®) given to African women to prevent overall MTCT in populations practicing breastfeeding.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* being pregnant, presenting in at least the 20th week of pregnancy and no later than 2 weeks before the expected term;\n* at least 18 years of age;\n* diagnosed as infected with HIV-1 only;\n* not currently taking any ARV drugs;\n* having not been exposed to NVP in the 6 months pre",
+            "endpoints": [
+              "cumulative occurence of : -adverse pregnancy outcomes (spontaneous abortion, stillbirth, congenital abnormality requiring surgical correction in children < 1 yr of age); -paediatric HIV infection; -infant mortality"
+            ],
+            "sponsor": "French National Agency for Research on AIDS and Viral Hepatitis",
+            "url": "https://clinicaltrials.gov/study/NCT00936195"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00364793",
+            "title": "An Open-label Study of Liquid and Sprinkled Formulations of Efavirenz Administered in Combination With Didanosine and Emtricitabine in HIV-infected Infants and Children 3 Months to 6 Years of Age.",
+            "phase": "PHASE1, PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2007-02",
+            "completion_date": "2013-07",
+            "country": "Argentina, Mexico, South Africa, Panama, Thailand, Colombia",
+            "enrollment": 56,
+            "brief_summary": "The primary purpose of this study is to find the dose of Efavirenz for young children. The safety and how the medication is tolerated will also be studied.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected; \\>=3 months of age to \\<=6 years of age (at time of treatment); screening plasma viral load \\>=1000 copies/mL\n\nExclusion Criteria:\n\n* Genotypic or phenotypic resistance to EFV, ddl, or FTC/lamivudine (3TC) at screening",
+            "endpoints": [
+              "Maximum Observed Plasma Concentration (Cmax) and Plasma Concentration 24 Hours Post-dose (Cmin) of EFV at Week 2 - Pharmacokinetic Evaluable Population",
+              "Area Under the Plasma Concentration Time Curve (AUC) Over One Dosing Interval From Time Zero to 24 Hours Post-dose(TAU) at Week 2 - Pharmacokinetic Evaluable Population",
+              "Apparent Oral Clearance (CLT/F) of EFV at Week 2 - Pharmacokinetic Evaluable Population"
+            ],
+            "sponsor": "Bristol-Myers Squibb",
+            "url": "https://clinicaltrials.gov/study/NCT00364793"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02249962",
+            "title": "Option B+: ART Safety and Durability During First and Subsequent Pregnancies",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-05",
+            "completion_date": "2020-09",
+            "country": "Malawi",
+            "enrollment": 12011,
+            "brief_summary": "To characterize safety, durability, antiretroviral treatment (ART) resistance, and clinical outcomes for mothers and infants exposed to the efavirenz-based Option B+ regimen for Prevention of Mother to Child Transmission (PMTCT) and HIV treatment in Malawi.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female age ≥16 (includes adults and emancipated minors)\n* HIV positive by 2 rapid tests approved by the Malawi Ministry of Health\n* Willingness to provide informed consent\n\nExclusion Criteria:\n\n* Female \\<16 years\n* HIV negative\n* Incapable of providing informed consent",
+            "endpoints": [
+              "Proportion of participants with failure on Option B+ first-line treatment"
+            ],
+            "sponsor": "University of North Carolina, Chapel Hill",
+            "url": "https://clinicaltrials.gov/study/NCT02249962"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01467479",
+            "title": "An Open Label,Phase 3 Study of Telaprevir in Combination With Peginterferon Alfa 2a (Pegasys®) and Ribavirin (Copegus®) in Subjects Coinfected With Genotype 1 Hepatitis C Virus and Human Immunodeficiency Virus Type 1(HCV/HIV-1)",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2011-12",
+            "completion_date": "2014-02",
+            "country": "Puerto Rico, Canada, United States, Spain, Germany",
+            "enrollment": 185,
+            "brief_summary": "The purpose of this study is to treat human immunodeficiency virus (HIV) and Hepatitis C Virus (HCV) co-infected subjects with telaprevir, pegylated interferon alfa-2a (Peg-IFN-alfa-2a), and ribavirin (RBV) to achieve undetectable hepatitis C virus ribonucleic acid (HCV RNA) 12 weeks after the last planned dose of study drug.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must have chronic, genotype 1a or 1b, hepatitis C with HCV RNA greater than (\\>) 1000 international units per milliliter (IU/mL)\n* Population A: HCV Pegylated interferon (Peg-IFN)/RBV treatment naive (received no prior HCV therapy)or Peg-IFN/RBV prior treatment wi",
+            "endpoints": [
+              "Percentage of Participants With Sustained Viral Response 12 Weeks After Last Planned Dose of Study Drug (SVR12)"
+            ],
+            "sponsor": "Vertex Pharmaceuticals Incorporated",
+            "url": "https://clinicaltrials.gov/study/NCT01467479"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02422797",
+            "title": "A Phase III, Randomized, Multicenter, Parallel-group, Non-inferiority Study Evaluating the Efficacy, Safety, and Tolerability of Switching to Dolutegravir Plus Rilpivirine From Current INI-, NNRTI-, or PI-based Antiretroviral Regimen in HIV-1-infected Adults Who Are Virologically Suppressed",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-04-21",
+            "completion_date": "2023-05-25",
+            "country": "Argentina, Italy, France, United Kingdom, Spain, Taiwan, Russia, United States, Germany, Australia, Canada",
+            "enrollment": 518,
+            "brief_summary": "The aim of this study was to determine if virologically suppressed, human immunodeficiency virus type 1 (HIV-1) infected adults on an antiretroviral regimen (including 2 nucleoside reverse transcriptase inhibitors \\[NRTIs\\] plus a third agent) remain suppressed upon switching to a two-drug regimen with dolutegravir (DTG) + rilpivirine (RPV). The study primarily assessed the non-inferiority antiviral activity of switching to DTG + RPV once daily compared to the continuation of current antiretrovi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must have been able to understand and comply with protocol requirements, instructions, and restrictions.\n* Participants must have been likely to complete the study as planned.\n* Participants must have been considered appropriate candidates for participation in an ",
+            "endpoints": [
+              "Percentage of Participants With Plasma HIV-1 RNA <50 c/mL at Week 48 Using Snapshot Algorithm"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02422797"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02415595",
+            "title": "A Phase 2b Randomized, Active-Controlled, Double-Blind Trial to Investigate Safety, Efficacy, and Dose-response of BMS-955176, Given on a Backbone of Tenofovir/Emtricitabine, in Treatment-Naive HIV-1 Infected Adults",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2015-05-12",
+            "completion_date": "2017-08-21",
+            "country": "Argentina, Italy, Chile, Mexico, France, Poland, South Africa, United Kingdom, United States, Germany, Spain, Canada",
+            "enrollment": 210,
+            "brief_summary": "The purpose of this study is to find at least one dose of BMS-955176 that will be safe, effective and tolerable for HIV-1 infected treatment naive adults.",
+            "eligibility_criteria": "For more information regarding BMS clinical trial participation, please visit www.BMSStudyConnect.com.\n\nInclusion Criteria:\n\n* Men and non-pregnant women, at least 18 years of age\n* Antiretroviral treatment-naïve; defined as no current or previous exposure to \\> 1 week of an antiretroviral drug\n* Pl",
+            "endpoints": [
+              "Number of Participants With Plasma HIV-1 Ribonucleic Acid (RNA) <40 Copies Per Milliliter (c/mL) at Week 24 Using Food and Drug Administration (FDA) Snapshot Algorithm"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02415595"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05883761",
+            "title": "Assessment of Birth Outcomes in Eswatini After Transition to Dolutegravir-based Treatment",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2021-09-07",
+            "completion_date": "2023-09-30",
+            "country": "Eswatini",
+            "enrollment": 50075,
+            "brief_summary": "The goal of this observational study is to assess the birth outcomes of HIV-positive women delivering in hospitals in Eswatini who are receiving dolutegravir (DTG) or other anti-retroviral (ARV) drug regimens. The main question the study aims to answer is, what is the proportion of neural tube defects among live and stillborn infants delivered by:\n\n* HIV-positive women on DTG at conception\n* HIV-negative women\n* HIV-positive women on non-DTG ARV at conception\n\nParticipants will be interviewed fo",
+            "eligibility_criteria": "Surveillance component includes all deliveries/admissions as defined in study population description. For a subset of the population recruited for additional data collection:\n\nInclusion Criteria:\n\n* women whose live or stillborn infant has birth defect as identified by a midwife or other clinician a",
+            "endpoints": [
+              "Proportion of neural tube defects (NTDs) among live and stillborn infants delivered by HIV-positive women on DTG at conception.",
+              "Proportion of neural tube defects (NTDs) among live and stillborn infants delivered by HIV-negative women",
+              "Proportion of neural tube defects (NTDs) among live and stillborn infants delivered by HIV-positive women on non-DTG ARV at conception"
+            ],
+            "sponsor": "Elizabeth Glaser Pediatric AIDS Foundation",
+            "url": "https://clinicaltrials.gov/study/NCT05883761"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00100048",
+            "title": "Multicenter, Double-Blind, Randomized, Dose Ranging Study to Compare the Safety and Activity of MK0518 Plus Tenofovir and Lamivudine (3TC) Versus Efavirenz Plus Tenofovir and Lamivudine (3TC) in ART-Naive, HIV-Infected Patients",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2005-01",
+            "completion_date": "2010-07",
+            "country": "N/A",
+            "enrollment": 206,
+            "brief_summary": "This is a study that will investigate the safety and efficacy of an investigational drug in Human immunodeficiency virus (HIV) infected patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient must be HIV positive who must have received less than 7 days total of any antiretroviral therapy (HIV related therapy)\n\nExtension Studies:\n\n* First extension: Patient completed the 48-week base study\n* Second extension: Patient completed the first 144-week extension st",
+            "endpoints": [
+              "Change From Baseline in Plasma Human Immunodeficiency Virus (HIV) Ribonucleic Acid (RNA) on Day 10 (Cohort I)",
+              "Number of Patients With Clinical Adverse Experiences (CAEs) and Number of Patients With Serious CAEs at Day 10 (Cohort I)",
+              "Number of Participants With HIV RNA Levels Below 400 Copies/mL at Week 24 (Cohort II)"
+            ],
+            "sponsor": "Merck Sharp & Dohme LLC",
+            "url": "https://clinicaltrials.gov/study/NCT00100048"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02429791",
+            "title": "A Phase III, Randomized, Multicenter, Parallel-group, Non-inferiority Study Evaluating the Efficacy, Safety, and Tolerability of Switching to Dolutegravir Plus Rilpivirine From Current INI-, NNRTI-, or PI-based Antiretroviral Regimen in HIV-1-Infected Adults Who Are Virologically Suppressed",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-04-14",
+            "completion_date": "2023-05-30",
+            "country": "Argentina, Italy, France, Belgium, United Kingdom, Spain, Taiwan, Russia, United States, Germany, Australia, Canada, Netherlands",
+            "enrollment": 510,
+            "brief_summary": "The aim of this study was to determine if virologically suppressed human immunodeficiency virus type 1 (HIV-1) infected adults on an antiretroviral regimen (including 2 nucleoside reverse transcriptase inhibitors \\[NRTIs\\] plus a third agent) remain suppressed upon switching to a two-drug regimen with dolutegravir (DTG) + rilpivirine (RPV). The study primarily assessed the non-inferiority antiviral activity of switching to DTG + RPV once daily compared to continuation of current antiretroviral r",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participants must have been able to understand and comply with protocol requirements, instructions, and restrictions.\n* Participants must have been likely to complete the study as planned.\n* Participants must have been considered appropriate candidates for participation in an ",
+            "endpoints": [
+              "Percentage of Participants With Plasma HIV-1 RNA <50 c/mL at Week 48 Using Snapshot Algorithm"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02429791"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02105987",
+            "title": "201147: a Phase IIIb, Randomized, Open-label Study of the Safety, Efficacy, and Tolerability of Switching to a Fixed-dose Combination of Abacavir/Dolutegravir/ Lamivudine From Current Antiretroviral Regimen Compared With Continuation of the Current Antiretroviral Regimen in HIV-1 Infected Adults Who Are Virologically Suppressed, The STRIIVING Study.",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2014-04",
+            "completion_date": "2015-12",
+            "country": "United States, Puerto Rico, Canada",
+            "enrollment": 555,
+            "brief_summary": "This study is a 48-week, Phase IIIb, randomly assigned, open-label, active-controlled, multicenter, parallel group, non-inferiority study. This study is designed to demonstrate the non-inferior antiviral activity of switching to the Abacavir (ABC) 600 milligrams (mg)/Dolutegravir(DTG) 50 mg/Lamivudine (3TC) 300 mg fixed-dose combination (FDC) compared with continuing the subject's current suppressive regimen through 24 weeks. The study will be conducted in approximately 538 Human Immunodeficienc",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Be able to understand and comply with protocol requirements, instructions, and restrictions;\n* Be likely to complete the study as planned;\n* Be considered appropriate candidates for participation in an investigative clinical trial with oral medication (e.g., no active substanc",
+            "endpoints": [
+              "Number of Participants With Plasma HIV-1 Ribonucleic Acid (RNA) <50 Copies Per Milliliter (c/mL) at Week 24 Using the Snapshot Algorithm"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02105987"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03299049",
+            "title": "A Phase IIIb, Randomized, Multicenter, Parallel-group, Non-inferiority, Open-label Study Evaluating the Efficacy, Safety, and Tolerability of Long-acting Cabotegravir Plus Long-acting Rilpivirine Administered Every 8 Weeks or Every 4 Weeks in HIV-1-infected Adults Who Are Virologically Suppressed",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2017-10-27",
+            "completion_date": "2029-12-31",
+            "country": "Argentina, Italy, Mexico, South Africa, France, Sweden, Spain, South Korea, Russia, United States, Germany, Australia, Canada",
+            "enrollment": 1049,
+            "brief_summary": "This Antiretroviral Therapy as Long Acting Suppression every 2 Months (ATLAS-2M) study is designed to demonstrate the non-inferior antiviral activity and safety of CAB LA + RPV LA administered every 8 weeks (Q8W) compared to CAB LA + RPV LA administered every 4 weeks (Q4W) over a 48-week treatment period in approximately 1020 adult HIV-1 infected subjects. Subjects will be divided in 2 groups; Group 1 will include subjects receiving current anti-retroviral (ART) standard of care (SOC) therapy wh",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who will be able to understand and comply with protocol requirements, instructions, and restrictions.\n* Understand the long term commitment to the study and be likely to complete the study as planned\n* Be considered as an appropriate candidate for participation in an ",
+            "endpoints": [
+              "Percentage of Participants With Plasma Human Immunodeficiency Virus-ribonucleic Acid (HIV-RNA) >=50 Copies Per Milliliter (c/mL) as Per Food and Drug Administration (FDA) Snapshot Algorithm at Week 48"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT03299049"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00369941",
+            "title": "A Multicenter, Double-Blind, Randomized, Active-Controlled Study to Evaluate the Safety and Antiretroviral Activity of MK-0518 Versus Efavirenz in Treatment Naive HIV-Infected Patients, Each in Combination With TRUVADA™",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2006-08",
+            "completion_date": "2012-02",
+            "country": "N/A",
+            "enrollment": 566,
+            "brief_summary": "This study will investigate the safety and efficacy of MK-0518 versus efavirenz, in combination with TRUVADA, as a therapy for Human Immunodeficiency Virus (HIV)-infected patients not previously treated.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participant is a male or female at least 18 years of age\n* Participant is HIV positive\n* Participant is naïve to antiretroviral therapy (ART) and has not received any ART\n\nExclusion Criteria:\n\n* Participant has received approved or experimental antiretroviral agents in the pas",
+            "endpoints": [
+              "Number of Participants Who Achieved Human Immunodeficiency Virus (HIV) Ribonucleic Acid (RNA) <50 Copies/mL at Week 48",
+              "Number of Participants With Clinical Adverse Experiences (CAEs) at Week 48",
+              "Number of Participants With Serious CAEs at Week 48"
+            ],
+            "sponsor": "Merck Sharp & Dohme LLC",
+            "url": "https://clinicaltrials.gov/study/NCT00369941"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01458132",
+            "title": "WEUSKOP5522: Observational Drug Exposure Registry for Long-Term Follow-Up of Subjects Exposed to GSK2248761",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-07-29",
+            "completion_date": "2013-04-30",
+            "country": "N/A",
+            "enrollment": 19,
+            "brief_summary": "The World Health Organization has estimated that as many as 10% of the population worldwide may at some point experience at least one seizure. The percentage with active epilepsy is from 0.4% to 1%. From 40% to 65% of patients with HIV infection have been estimated to have some neurological involvement; the percentage reaches as high as 70% to 80% when post-mortem assessments are included. Estimates of the percentage of HIV-infected patients with seizure occurrence have varied widely, with one r",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects who were previously randomized in the Phase 2b studies SGN113399 or SGN113404 and received GSK2248761\n\nExclusion Criteria:\n\n* N/A",
+            "endpoints": [
+              "Number of Participants With Occurrence of Seizure"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT01458132"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00042289",
+            "title": "Pharmacokinetic Properties of Antiretroviral and Related Drugs During Pregnancy and Postpartum",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2003-06-09",
+            "completion_date": "2020-09-30",
+            "country": "Brazil, Argentina, South Africa, Botswana, Puerto Rico, Thailand, United States, Tanzania",
+            "enrollment": 1578,
+            "brief_summary": "IMPAACT P1026s is a Phase IV prospective clinical study to evaluate the pharmacokinetics (PKs) of antiretroviral (ARV) and tuberculosis (TB) medications in pregnant women and their infants. (Pharmacokinetics are the various interactions between a drug and the body.) This study also evaluated the PKs of certain ARVs in postpartum women before and after starting hormonal contraceptives. The PKs of these drugs were evaluated by measuring the amount of medicine present in blood and/or vaginal secret",
+            "eligibility_criteria": "Maternal Inclusion Criteria:\n\n* Participant must belong to one of the following 5 groups:\n\n  1. HIV-infected pregnant women greater than or equal to 20 weeks gestation NOT on TB treatment receiving one or more of the ARV drugs/drug combinations specified in the protocol\n  2. HIV-infected pregnant wo",
+            "endpoints": [
+              "PK Parameter: Area Under the Curve From 0 to 12 Hours (AUC12) With Median (IQR) for ARVs and TB Drugs",
+              "PK Parameter: Area Under the Curve From 0 to 12 Hours (AUC12) With Median (Range) for ARVs and TB Drugs",
+              "PK Parameter: Area Under the Curve From 0 to 12 Hours (AUC12) With Geometric Mean (95% CI) for ARVs and TB Drugs"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00042289"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00951015",
+            "title": "A Phase IIb Study to Select a Once Daily Dose of GSK1349572 Administered With Either Abacavir/Lamivudine or Tenofovir/Emtricitabine in HIV-1 Infected Antiretroviral Therapy Naive Adult Subjects",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2009-07-30",
+            "completion_date": "2016-12-22",
+            "country": "Italy, France, Russia, United States, Spain, Germany",
+            "enrollment": 208,
+            "brief_summary": "This Phase IIb study in HIV-infected antiretroviral naive subjects will select an optimal once daily dose of GSK1349572 from a range of doses for future evaluation.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-1 infected male or female adults at least 18 years of age. Women capable of becoming pregnant must use appropriate contraception during the study (as defined by the protocol);\n* HIV-1 infection with a screening plasma HIV-1 RNA greater than or equal to 1000copies/mL;\n* CD4",
+            "endpoints": [
+              "Number of Participants With Human Immunodeficiency Virus Type 1 (HIV-1) Ribonucleic Acid (RNA) <50 Copies/Milliliter (c/mL) at Week 16"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT00951015"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04158713",
+            "title": "Chemoprevention With Monthly IPTp With Dihydroartemisinin-piperaquine for Malaria in HIV-infected Pregnant Participants on Daily Cotrimoxazole in Kenya and Malawi: a Multi-centre Placebo-controlled Trial",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2019-11-11",
+            "completion_date": "2022-08-30",
+            "country": "Kenya",
+            "enrollment": 898,
+            "brief_summary": "2.3.3 Short technical protocol summary Background: Pregnant women represent a vulnerable population for malaria. HIV-infected women are particularly at risk. In HIV-infected pregnant women, WHO recommends daily cotrimoxazole (CTX), an antifolate drug, for malaria chemoprevention and prophylaxis against opportunistic infection. However, there is cross-resistance with sulphadoxine-pyrimethamine (SP), and high levels of antifolate resistance threatens the antimalarial effect of CTX. Recent trials w",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* HIV-infected pregnant women between 16-28 weeks' gestation\n* Viable singleton pregnancy\n* On or eligible for cARTs and CTX\n* A resident of the study area\n* Willing to adhere to scheduled and unscheduled study visit procedures\n* Willing to deliver in a study clinic or hospital\n",
+            "endpoints": [
+              "Cumulative incidence of malaria infection"
+            ],
+            "sponsor": "Liverpool School of Tropical Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT04158713"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00102960",
+            "title": "A Phase III, Randomized, Open-Label Trial to Evaluate Strategies for Providing Antiretroviral Therapy to Infants Shortly After Primary Infection in a Resource Poor Setting",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2005-07",
+            "completion_date": "2013-01",
+            "country": "N/A",
+            "enrollment": 377,
+            "brief_summary": "The purpose of this study is to compare the effects of anti-HIV drug courses of different lengths in infants who became HIV infected at birth.",
+            "eligibility_criteria": "Inclusion Criteria for Infants:\n\nNOTE: Per Letter of Amendment dated 04/04/07, Part B of this study is no longer recruiting participants. Per Letter of Amendment dated 09/16/08 Arm 1 of this study is longer recruiting.\n\n* HIV infected\n* Antiretroviral naive. Infants who have previously received anti",
+            "endpoints": [
+              "Time to Failure of First Line Therapy or Death",
+              "Number of Participants Who Experienced Immunological Failure Defined as Failure of CD4% to Reach 20% or CD4% Falls Below 20% on Two Occasions, Within 4 Weeks, at Any Time After the First 24 Weeks of Therapy (Initial Therapy or Restart)",
+              "Number of Participants Who Experienced Regimen-limiting ART Drug Toxicity"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT00102960"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02938520",
+            "title": "A Phase III, Randomized, Multicenter, Parallel-group, Open-Label Study Evaluating the Efficacy, Safety, and Tolerability of Long-Acting Intramuscular Cabotegravir and Rilpivirine for Maintenance of Virologic Suppression Following Switch From an Integrase Inhibitor Single Tablet Regimen in HIV-1 Infected Antiretroviral Therapy Naive Adult Participants",
+            "phase": "PHASE3",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2016-10-27",
+            "completion_date": "2029-12-31",
+            "country": "South Africa, United Kingdom, Russia, Japan, United States, Spain",
+            "enrollment": 631,
+            "brief_summary": "The First Long-Acting Injectable Regimen (FLAIR) study is being conducted to establish if human immunodeficiency virus type-1 (HIV-1) infected adult participants whose virus is virologically suppressed on an integrase inhibitor single tablet regimen (INI STR) will remain suppressed after switching to a two-drug intramuscular (IM) long-acting (LA) regimen of cabotegravir (CAB) and rilpivirine (RPV). In this study, the INI STR will be limited to abacavir/dolutegravir/lamivudine (ABC/DTG/3TC). FLAI",
+            "eligibility_criteria": "Inclusion Criteria: - HIV-1 infected, ART-naive men or women aged 18 years or greater at the time of signing the informed consent. - HIV-1 infection as documented by Screening plasma HIV-1 RNA \\>=1000 c/mL; - Antiretroviral-naive (\\<=10 days of prior therapy with any antiretroviral agent following a",
+            "endpoints": [
+              "Percentage of Participants With Virologic Failure (HIV-1 Ribonucleic Acid [RNA] >=50 Copies Per Millilter [mL]) Using Snapshot Algorithm at Week 48"
+            ],
+            "sponsor": "ViiV Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT02938520"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03048422",
+            "title": "Phase III Study of the Virologic Efficacy and Safety of Dolutegravir-Containing Versus Efavirenz-Containing Antiretroviral Therapy Regimens in HIV-1-Infected Pregnant Women and Their Infants",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-01-19",
+            "completion_date": "2020-10-03",
+            "country": "Uganda, Brazil, India, South Africa, Botswana, Zimbabwe, Thailand, United States, Tanzania",
+            "enrollment": 643,
+            "brief_summary": "The purpose of this study was to compare the virologic efficacy and safety of three antiretroviral (ARV) regimens, dolutegravir plus emtricitabine/tenofovir alafenamide, dolutegravir plus emtricitabine/tenofovir disoproxil fumarate, and efavirenz/emtricitabine/tenofovir disoproxil fumarate in pregnant women living with HIV-1 and to compare the safety of these regimens for their infants.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Mother is able to provide written informed consent for her and her infant's participation in this study\n* Mother has confirmed HIV-1 infection based on documented testing of two samples collected at different time points:\n\n  * Sample #1 may be tested using any of the following",
+            "endpoints": [
+              "Percentage of Mothers With HIV-1 RNA Viral Load Less Than 200 Copies/mL at Delivery",
+              "Percentage of Mother-infant Pairs With an Adverse Pregnancy Outcome",
+              "Cumulative Probability of Women Experiencing Grade 3 or Higher Adverse Event"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT03048422"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01441063",
+            "title": "Pilot Study of Tocilizumab in Patients With Symptomatic Kaposi Sarcoma Herpesvirus (KSHV) - Associated Multicentric Castleman Disease",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2011-09-13",
+            "completion_date": "2020-10-05",
+            "country": "United States",
+            "enrollment": 8,
+            "brief_summary": "Background:\n\n\\- Kaposi's sarcoma-associated herpes virus (KSHV)-associated multicentric Castleman disease (KSHV-MCD) is caused by a herpes virus known as KSHV. This disease can also cause several other cancers, including Kaposi sarcoma. People with KSHV-MCD often have symptoms like fever, weight and muscle loss, and fluid in the legs or abdomen. Tocilizumab may be able to block the chemicals in the body that cause KSHV-MCD symptoms. Researchers want to test this drug and other anti-virus drugs t",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n* Pathologically confirmed Kaposi sarcoma (KS)-associated herpes virus multi-centric Castleman disease (KSHV-MCD)\n* Age greater than or equal to 18\n* At least one clinical symptom probably or definitely attributed to KSHV-MCD\n* Intermittent or persistent fever for at least 1 we",
+            "endpoints": [
+              "Percentage of Participants With an Overall Clinical Benefit Response"
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT01441063"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "31595301",
+            "title": "Analysis of Pharmacovigilance Databases for Dolutegravir Safety in Pregnancy.",
+            "abstract": "The Botswana Tsepamo study reported neural tube defects (NTDs) in 4 of 426 (0.94%) infants of women receiving preconception dolutegravir (DTG) antiretroviral therapy (ART) vs 14 of 11 300 (0.12%) receiving preconception non-DTG ART. Data are needed to investigate this potential safety signal. Clinicians, patients, and pharmaceutical companies can report adverse drug reactions (ADRs) to pharmacovigilance databases. Data from ADRs reported to various pharmacovigilance databases were searched for NTDs.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2020",
+            "authors": [
+              "van De Ven Nikolien S",
+              "Pozniak Anton L",
+              "Levi Jacob A",
+              "Clayden Polly",
+              "Garratt Anna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Botswana",
+              "Databases, Factual",
+              "Female",
+              "HIV Infections",
+              "Heterocyclic Compounds, 3-Ring",
+              "Humans",
+              "Oxazines",
+              "Pharmacovigilance",
+              "Piperazines",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31595301/"
+          },
+          {
+            "pmid": "33541012",
+            "title": "Does antiretroviral therapy cause congenital malformations? A systematic review and meta-analysis.",
+            "abstract": "This meta-analysis investigated the risk of congenital anomalies among infants of human immunodeficiency virus-infected pregnant women who were exposed to antiretroviral therapy (ART).",
+            "journal": "Epidemiology and health",
+            "year": "2021",
+            "authors": [
+              "Alemu Fekadu Mazengia",
+              "Yalew Alemayehu Worku"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Anti-Retroviral Agents",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Infant",
+              "Pregnancy",
+              "Pregnancy Complications, Infectious",
+              "Prenatal Exposure Delayed Effects",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33541012/"
+          },
+          {
+            "pmid": "20539252",
+            "title": "Birth defects among children born to human immunodeficiency virus-infected women: pediatric AIDS clinical trials protocols 219 and 219C.",
+            "abstract": "Some studies have detected associations between in utero antiretroviral therapy (ARV) exposure and birth defects but evidence is inconclusive.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2010",
+            "authors": [
+              "Brogly Susan B",
+              "Abzug Mark J",
+              "Watts D Heather",
+              "Cunningham Coleen K",
+              "Williams Paige L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Acquired Immunodeficiency Syndrome",
+              "Adolescent",
+              "Adult",
+              "Alkynes",
+              "Anti-Retroviral Agents",
+              "Benzoxazines",
+              "Congenital Abnormalities",
+              "Cyclopropanes",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20539252/"
+          },
+          {
+            "pmid": "39742354",
+            "title": "Subsequent pregnancies in the IMPAACT 2010/VESTED Trial: high rate of adverse outcomes in women living with HIV.",
+            "abstract": "Women with HIV (WHIV) have higher risks of adverse pregnancy outcomes, particularly in the absence of antiretroviral treatment(ART), and timing of ART may impact risk.",
+            "journal": "Journal of acquired immune deficiency syndromes (1999)",
+            "year": "2024",
+            "authors": [
+              "Fairlie Lee",
+              "Brummel Sean",
+              "Ziemba Lauren",
+              "Coletti Anne",
+              "Chinula Lameck"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Pregnancy",
+              "Young Adult",
+              "Abortion, Spontaneous",
+              "Alkynes",
+              "Anti-HIV Agents",
+              "Benzoxazines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39742354/"
+          },
+          {
+            "pmid": "24849471",
+            "title": "Safety of efavirenz in the first trimester of pregnancy: an updated systematic review and meta-analysis.",
+            "abstract": "Primate studies and some observational human data have raised concern regarding an association of first-trimester efavirenz exposure with central nervous system congenital anomalies. The objective of this review is to update evidence on efavirenz safety in HIV-infected pregnant women to inform revision of the 2013 WHO guidelines for antiretroviral therapy in low and middle-income countries.",
+            "journal": "AIDS (London, England)",
+            "year": "2014",
+            "authors": [
+              "Ford Nathan",
+              "Mofenson Lynne",
+              "Shubber Zara",
+              "Calmy Alexandra",
+              "Andrieux-Meyer Isabelle"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Alkynes",
+              "Benzoxazines",
+              "Central Nervous System Diseases",
+              "Cyclopropanes",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Infectious Disease Transmission, Vertical",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24849471/"
+          },
+          {
+            "pmid": "29912896",
+            "title": "Comparative safety and effectiveness of perinatal antiretroviral therapies for HIV-infected women and their children: Systematic review and network meta-analysis including different study designs.",
+            "abstract": "Nearly all newly infected children acquire Human Immunodeficiency virus (HIV) via mother-to-child transmission (MTCT) during pregnancy, labour or breastfeeding from untreated HIV-positive mothers. Antiretroviral therapy (ART) is the standard care for pregnant women with HIV. However, evidence of ART effectiveness and harms in infants and children of HIV-positive pregnant women exposed to ART has been largely inconclusive. The aim of our systematic review and network meta-analysis (NMA) was to evaluate the comparative safety and effectiveness of ART drugs in children exposed to maternal HIV and ART (or no ART/placebo) across different study designs.",
+            "journal": "PloS one",
+            "year": "2018",
+            "authors": [
+              "Veroniki Areti Angeliki",
+              "Antony Jesmin",
+              "Straus Sharon E",
+              "Ashoor Huda M",
+              "Finkelstein Yaron"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Network Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Female",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Pregnancy",
+              "Abnormalities, Drug-Induced",
+              "Alkynes",
+              "Anti-HIV Agents",
+              "Benzoxazines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29912896/"
+          },
+          {
+            "pmid": "33027153",
+            "title": "Growth and Neurodevelopment Outcomes in HIV-, Tenofovir-, and Efavirenz-Exposed Breastfed Infants in the PMTCT Option B+ Program in Malawi.",
+            "abstract": "Pregnant and breastfeeding women in Option B+ in Malawi received antiretroviral drugs (ARVs) containing efavirenz (EFV) and tenofovir disoproxil fumarate (TDF). However, effects on growth, renal, bone metabolism, and neurodevelopment of long-term exposure to low doses of these drugs through breast milk in HIV-exposed infants are unclear.",
+            "journal": "Journal of acquired immune deficiency syndromes (1999)",
+            "year": "2021",
+            "authors": [
+              "Kapito-Tembo Atupele P",
+              "Bauleni Andy",
+              "Wesevich Austin",
+              "Ongubo Dennis",
+              "Hosseinipour Mina C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Alkynes",
+              "Anti-HIV Agents",
+              "Benzoxazines",
+              "Breast Feeding",
+              "Cyclopropanes",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Infant",
+              "Infant, Newborn"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33027153/"
+          },
+          {
+            "pmid": "31329379",
+            "title": "Neural-Tube Defects and Antiretroviral Treatment Regimens in Botswana.",
+            "abstract": "A preliminary safety signal for neural-tube defects was previously reported in association with dolutegravir exposure from the time of conception, which has affected choices of antiretroviral treatment (ART) for human immunodeficiency virus (HIV)-infected women of reproductive potential. The signal can now be evaluated with data from follow-up of additional pregnancies.",
+            "journal": "The New England journal of medicine",
+            "year": "2019",
+            "authors": [
+              "Zash Rebecca",
+              "Holmes Lewis",
+              "Diseko Modiegi",
+              "Jacobson Denise L",
+              "Brummel Sean"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Retroviral Agents",
+              "Botswana",
+              "Congenital Abnormalities",
+              "Drug Therapy, Combination",
+              "Female",
+              "Fetus",
+              "HIV Infections",
+              "HIV Integrase Inhibitors",
+              "Heterocyclic Compounds, 3-Ring"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31329379/"
+          },
+          {
+            "pmid": "24152769",
+            "title": "Exploring the pathophysiology behind the more common genetic and acquired lipodystrophies.",
+            "abstract": "Lipodystrophies are an immense group of genetic or acquired metabolic disorders that are characterized by varying degrees of body fat loss and in some instances localized accumulation of subcutaneous fat. Lipodystrophies are often tightly linked with profound metabolic complications; this strong bond emphasizes and reinforces the significance of adipose tissue as a dynamic endocrine organ. The extent of fat loss determines the severity of associated metabolic complications such as diabetes mellitus, hypertriglyceridemia and hepatic steatosis. The lipodystrophies can be divided into generalized, partial or local, depending on the degree and locality of the observable fat loss; moreover, the generalized and partial divisions can be partitioned further into inherited or acquired forms. The major genetic factors in the generalized forms of the lipodystrophies, particularly Congenital generalized lipodystrophy (CGL)-Berardinelli-Seip syndrome, are the AGPAT2, BSCL2, caveolin 1 (CAV1) and po",
+            "journal": "Journal of human genetics",
+            "year": "2014",
+            "authors": [
+              "Nolis Tom"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Lipodystrophy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24152769/"
+          },
+          {
+            "pmid": "15794723",
+            "title": "The safety of antiretroviral drugs in pregnancy.",
+            "abstract": "Advances in HIV therapy and mother-to-child transmission (MTCT) prophylaxis have led to increasing use of antiretroviral drugs in pregnancy. Highly active antiretroviral therapy in pregnancy has been associated with prematurity, pre-eclampsia and gestational diabetes. Women may be at increased risk of nevirapine-associated hepatotoxicity but whether or not pregnancy is an additional risk is uncertain. Although animal studies suggest a possibility of congenital abnormalities with specific antiretrovirals, such as efavirenz, results from registries and cohort studies do not support an excess of congenital malformations associated with in utero antiretroviral exposure. Concerns regarding the health of uninfected, antiretroviral-exposed children include the potential for cancers, mitochondrial disease and haematological abnormalities. However, the absence of any excess mortality in large observational cohort studies of uninfected, antiretroviral therapy-exposed children born to HIV-infecte",
+            "journal": "Expert opinion on drug safety",
+            "year": "2005",
+            "authors": [
+              "Thorne Claire",
+              "Newell Marie-Louise"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Acidosis, Lactic",
+              "Anemia",
+              "Animals",
+              "Anti-Retroviral Agents",
+              "Chemical and Drug Induced Liver Injury",
+              "Female",
+              "HIV Infections",
+              "Hematopoiesis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15794723/"
+          },
+          {
+            "pmid": "28410249",
+            "title": "When could new antiretrovirals be recommended for national treatment programmes in low-income and middle-income countries: results of a WHO Think Tank.",
+            "abstract": "To discuss barriers and opportunities for the introduction of new antiretrovirals into national treatment programmes in low-income and middle-income countries to support further treatment scale-up. Invitees to a WHO Think Tank in February 2017 evaluated recently published results.",
+            "journal": "Current opinion in HIV and AIDS",
+            "year": "2017",
+            "authors": [
+              "Vitoria Marco",
+              "Ford Nathan",
+              "Clayden Polly",
+              "Pozniak Anton L",
+              "Hill Andrew M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-HIV Agents",
+              "Developing Countries",
+              "Drug Interactions",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28410249/"
+          },
+          {
+            "pmid": "15010553",
+            "title": "Antenatal and neonatal antiretroviral therapy in HIV-infected women and their infants: a review of safety issues.",
+            "abstract": "Specific interventions to prevent mother-to-child transmission (MTCT) include antiretroviral therapy, elective caesarean section and avoidance of breastfeeding. Rates of MTCT below 1-2% are now achievable in developed country settings. However, although the vast majority of infants born to HIV infected mothers are protected from acquisition of infection, most are exposed to antiretroviral drugs for which there is only limited information on toxicity. Increasing use of complex and potent combinations of antiretroviral drugs in pregnancy, particularly during the period of organogenesis, has raised many questions relating to pregnancy outcome and safety issues for the exposed children, both in the short and longer term. A shorter duration of pregnancy has been reported to be associated with taking protease inhibitors in pregnancy, particularly prolonged and early use, but this has been an inconsistent finding. Risk of congenital abnormalities may be increased with exposure to specific ant",
+            "journal": "Medycyna wieku rozwojowego",
+            "year": "2003",
+            "authors": [
+              "Thorne Claire",
+              "Newell Marie-Louise"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alkynes",
+              "Anti-HIV Agents",
+              "Benzoxazines",
+              "Clinical Trials as Topic",
+              "Congenital Abnormalities",
+              "Cyclopropanes",
+              "Drug Therapy, Combination",
+              "Female",
+              "HIV Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15010553/"
+          },
+          {
+            "pmid": "19165088",
+            "title": "Antiretroviral therapy and congenital abnormalities in infants born to HIV-infected women in the UK and Ireland, 1990-2007.",
+            "abstract": "To explore the rate of reported congenital abnormalities in infants exposed to antiretroviral therapy in utero.",
+            "journal": "AIDS (London, England)",
+            "year": "2009",
+            "authors": [
+              "Townsend Claire L",
+              "Willey Barbara A",
+              "Cortina-Borja Mario",
+              "Peckham Catherine S",
+              "Tookey Pat A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Abortion, Eugenic",
+              "Adult",
+              "Anti-HIV Agents",
+              "Antiretroviral Therapy, Highly Active",
+              "Drug Administration Schedule",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Infant, Newborn"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19165088/"
+          },
+          {
+            "pmid": "22695300",
+            "title": "Bilateral oblique facial clefts and extremity anomaly in an infant after intrauterine efavirenz exposure and review of its teratogenic risk.",
+            "abstract": "Congenital anomalies may be caused by genetic or environmental factors or a combination of both. Oblique facial clefts are very rare congenital deformities. The occurrence of facial clefts and an extremity anomaly suggests a common underlying cause. Lateral oro-ocular clefts do not occur along normal developmental planes and may be part of the amnion disruption complex sequence. Our objective was to report a case of this very event, which also followed an unusual intrauterine exposure and review the literature on the teratogenic risk of efavirenz.",
+            "journal": "AIDS (London, England)",
+            "year": "2012",
+            "authors": [
+              "Shanske Alan L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Acquired Immunodeficiency Syndrome",
+              "Adult",
+              "Alkynes",
+              "Anti-HIV Agents",
+              "Benzoxazines",
+              "Child of Impaired Parents",
+              "Cleft Palate",
+              "Craniofacial Dysostosis",
+              "Cyclopropanes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22695300/"
+          },
+          {
+            "pmid": "33484098",
+            "title": "Coadministration of ARV (Atripla) and Topiramate disrupts quail cardiac neural crest cell migration.",
+            "abstract": "Congenital anomalies such as ventricular septal defects and truncus communis have been reported with the prenatal use of antiretroviral therapy. The mechanism of antiretroviral therapy teratogenicity is unclear and is therefore the focus of this study. Some human immunodeficiency virus patients on antiretrovirals are placed on antiepileptic drugs which are also teratogenic. The interactive effects arising from this therapeutic combination may affect their teratogenic propensity through their effects on neural crest cell migration.",
+            "journal": "Birth defects research",
+            "year": "2021",
+            "authors": [
+              "Tshabalala Thabiso",
+              "Nkomozepi Pilani",
+              "Ihunwo Amadi Ogonda",
+              "Mbajiorgu Felix"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Movement",
+              "Efavirenz, Emtricitabine, Tenofovir Disoproxil Fumarate Drug Combination",
+              "Female",
+              "Humans",
+              "Neural Crest",
+              "Pregnancy",
+              "Quail",
+              "Topiramate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33484098/"
+          },
+          {
+            "pmid": "33666186",
+            "title": "Pregnancy outcomes following exposure to efavirenz based antiretroviral therapy in indian women.",
+            "abstract": "Mother-to-child transmission of HIV has witnessed a significant reduction due to effective antiretroviral therapy (ART). Efavirenz has been introduced as a part of ART since last few years in the national Prevention of Parent to Child Transmission (PPTCT) program for pregnant women living with HIV. However, data related to adverse pregnancy outcomes associated with efavirenz-based ART are limited in the Indian scenario. The present study evaluated pregnancy outcomes in HIV-infected pregnant women who were given efavirenz-based ART during pregnancy.",
+            "journal": "Indian journal of pharmacology",
+            "year": "2020",
+            "authors": [
+              "Mishra Rajesh Kumar",
+              "Chakravarty Rony",
+              "Siddique Nilopher",
+              "Pandey Kirit Rajendra"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Alkynes",
+              "Anti-HIV Agents",
+              "Benzoxazines",
+              "Cyclopropanes",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "India",
+              "Infant, Low Birth Weight"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33666186/"
+          },
+          {
+            "pmid": "21983213",
+            "title": "Prevalence of congenital anomalies in infants with in utero exposure to antiretrovirals.",
+            "abstract": "Although use of efficacious interventions, including antiretrovirals (ARVs), has dramatically reduced the rate of mother-to-child transmission of human immunodeficiency virus, the safety of in utero ARV exposure remains of concern.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2012",
+            "authors": [
+              "Knapp Katherine M",
+              "Brogly Susan B",
+              "Muenz Daniel G",
+              "Spiegel Hans M L",
+              "Conway Daniel H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Retroviral Agents",
+              "Congenital Abnormalities",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Infant, Newborn",
+              "Male",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21983213/"
+          },
+          {
+            "pmid": "21084995",
+            "title": "Pregnancy outcomes in women exposed to efavirenz and nevirapine: an appraisal of the IeDEA West Africa and ANRS Databases, Abidjan, Côte d'Ivoire.",
+            "abstract": "An increasing number of HIV-infected women become pregnant while receiving efavirenz (EFV). We compared the pregnancy outcomes of women exposed to EFV and to nevirapine (NVP) during the first trimester.",
+            "journal": "Journal of acquired immune deficiency syndromes (1999)",
+            "year": "2011",
+            "authors": [
+              "Ekouevi Didier K",
+              "Coffie Patrick A",
+              "Ouattara Eric",
+              "Moh Raoul",
+              "Amani-Bosse Clarisse"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Abortion, Induced",
+              "Abortion, Spontaneous",
+              "Adult",
+              "Africa, Western",
+              "Alkynes",
+              "Anti-HIV Agents",
+              "Benzoxazines",
+              "Cyclopropanes",
+              "Female",
+              "HIV Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21084995/"
+          },
+          {
+            "pmid": "16265639",
+            "title": "Prenatal exposure to fluconazole: an identifiable dysmorphic phenotype.",
+            "abstract": "Fluconazole is a triazole antifungal used to treat mycotic infections. Fluconazole is reported to act as a teratogen when used continuously at a dosage of 400-800 mg daily. Fluconazole embryopathy was previously reported in 4 cases. The common features that were also seen in the current case include multiple synostosis (including craniosynostosis and digital synostosis), congenital heart defects, skeletal anomalies, and recognizable dysmorphic facial features.",
+            "journal": "Birth defects research. Part A, Clinical and molecular teratology",
+            "year": "2005",
+            "authors": [
+              "Lopez-Rangel Elena",
+              "Van Allen Margot Isham"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Drug-Induced",
+              "Abnormalities, Multiple",
+              "Antifungal Agents",
+              "Female",
+              "Fluconazole",
+              "HIV Infections",
+              "Humans",
+              "Infant, Newborn",
+              "Male",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16265639/"
+          },
+          {
+            "pmid": "24445829",
+            "title": "First trimester exposure to antiretroviral therapy and risk of birth defects.",
+            "abstract": "Use of antiretroviral (ARV) drugs during pregnancy has been associated with an increased risk of birth defects, but the evidence remains inconclusive.",
+            "journal": "The Pediatric infectious disease journal",
+            "year": "2014",
+            "authors": [
+              "Phiri Kelesitse",
+              "Hernandez-Diaz Sonia",
+              "Dugan Kate B",
+              "Williams Paige L",
+              "Dudley Judith A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Retroviral Agents",
+              "Congenital Abnormalities",
+              "Female",
+              "HIV Infections",
+              "Humans",
+              "Infant, Newborn",
+              "Maternal-Fetal Exchange",
+              "Pregnancy",
+              "Pregnancy Complications, Infectious"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24445829/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "congenital human immunodeficiency virus",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20congenital%20human%20immunodeficiency%20virus"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "fibroma of prostate",
+        "txgnn_score": 0.953800082206726,
+        "txgnn_rank": 6513,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "fibroma of prostate",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20fibroma%20of%20prostate"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Brenner tumor",
+        "txgnn_score": 0.9506869912147522,
+        "txgnn_rank": 6797,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "Brenner tumor",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20Brenner%20tumor"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "benign reproductive system neoplasm",
+        "txgnn_score": 0.950185477733612,
+        "txgnn_rank": 6837,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "benign reproductive system neoplasm",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20benign%20reproductive%20system%20neoplasm"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "benign prostate phyllodes tumor",
+        "txgnn_score": 0.9464017748832704,
+        "txgnn_rank": 7131,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Efavirenz",
+          "disease": "benign prostate phyllodes tumor",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Efavirenz%20benign%20prostate%20phyllodes%20tumor"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Efavirenz",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00625",
+    "name": "Efavirenz",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Efavirenz"
+      },
+      "queried_at": "2026-03-24T16:49:10.691350",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Efavirenz"
+      },
+      "queried_at": "2026-03-24T16:49:10.692682",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Efavirenz"
+      },
+      "queried_at": "2026-03-24T16:49:11.679317",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T16:49:12.141481",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T16:49:16.058945",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T16:49:16.682088",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T16:49:19.537025",
+      "status": "success",
+      "result_count": 16,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T16:49:20.093592",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T16:49:23.380258",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T16:49:23.881315",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T16:49:26.196771",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-24T16:49:26.681550",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-24T16:49:30.008009",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-24T16:49:30.540156",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"
+      },
+      "queried_at": "2026-03-24T16:49:31.613818",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "obsolete familial combined hyperlipidemia"
+      },
+      "queried_at": "2026-03-24T16:49:32.431946",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "obsolete familial combined hyperlipidemia"
+      },
+      "queried_at": "2026-03-24T16:49:39.651219",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "obsolete familial combined hyperlipidemia"
+      },
+      "queried_at": "2026-03-24T16:49:40.282447",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "obsolete familial combined hyperlipidemia"
+      },
+      "queried_at": "2026-03-24T16:49:41.182199",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "AIDS related complex"
+      },
+      "queried_at": "2026-03-24T16:49:42.543235",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "AIDS related complex"
+      },
+      "queried_at": "2026-03-24T16:49:45.879508",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "AIDS related complex"
+      },
+      "queried_at": "2026-03-24T16:49:47.690217",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "AIDS related complex"
+      },
+      "queried_at": "2026-03-24T16:49:48.528353",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "congenital human immunodeficiency virus"
+      },
+      "queried_at": "2026-03-24T16:49:50.001593",
+      "status": "success",
+      "result_count": 29,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "congenital human immunodeficiency virus"
+      },
+      "queried_at": "2026-03-24T16:49:53.207279",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "congenital human immunodeficiency virus"
+      },
+      "queried_at": "2026-03-24T16:49:53.781653",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "congenital human immunodeficiency virus"
+      },
+      "queried_at": "2026-03-24T16:49:56.540521",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "fibroma of prostate"
+      },
+      "queried_at": "2026-03-24T16:49:56.929305",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "fibroma of prostate"
+      },
+      "queried_at": "2026-03-24T16:50:00.479839",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "fibroma of prostate"
+      },
+      "queried_at": "2026-03-24T16:50:00.999464",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "fibroma of prostate"
+      },
+      "queried_at": "2026-03-24T16:50:01.880133",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "Brenner tumor"
+      },
+      "queried_at": "2026-03-24T16:50:02.288441",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "Brenner tumor"
+      },
+      "queried_at": "2026-03-24T16:50:06.040977",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "Brenner tumor"
+      },
+      "queried_at": "2026-03-24T16:50:06.690800",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "Brenner tumor"
+      },
+      "queried_at": "2026-03-24T16:50:07.528542",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign reproductive system neoplasm"
+      },
+      "queried_at": "2026-03-24T16:50:08.054548",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign reproductive system neoplasm"
+      },
+      "queried_at": "2026-03-24T16:50:11.242325",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign reproductive system neoplasm"
+      },
+      "queried_at": "2026-03-24T16:50:11.450509",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign reproductive system neoplasm"
+      },
+      "queried_at": "2026-03-24T16:50:12.486285",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign prostate phyllodes tumor"
+      },
+      "queried_at": "2026-03-24T16:50:12.928681",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign prostate phyllodes tumor"
+      },
+      "queried_at": "2026-03-24T16:50:16.292068",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign prostate phyllodes tumor"
+      },
+      "queried_at": "2026-03-24T16:50:16.458442",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Efavirenz",
+        "disease": "benign prostate phyllodes tumor"
+      },
+      "queried_at": "2026-03-24T16:50:17.490627",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:50:17.492482"
+  }
+}

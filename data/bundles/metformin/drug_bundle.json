@@ -1,0 +1,1308 @@
+{
+  "drug": {
+    "inn": "Metformin",
+    "drugbank_id": "DB00331",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "focal stiff limb syndrome",
+        "txgnn_score": 0.9944726824760436,
+        "txgnn_rank": 1277,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "focal stiff limb syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20focal%20stiff%20limb%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "classic stiff person syndrome",
+        "txgnn_score": 0.9944726824760436,
+        "txgnn_rank": 1278,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "classic stiff person syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20classic%20stiff%20person%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "opsismodysplasia",
+        "txgnn_score": 0.994040310382843,
+        "txgnn_rank": 1337,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "opsismodysplasia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20opsismodysplasia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "thiamine-responsive dysfunction syndrome",
+        "txgnn_score": 0.9939635396003724,
+        "txgnn_rank": 1348,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "thiamine-responsive dysfunction syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20thiamine-responsive%20dysfunction%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "drug-induced localized lipodystrophy",
+        "txgnn_score": 0.9906297326087952,
+        "txgnn_rank": 1974,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "drug-induced localized lipodystrophy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20drug-induced%20localized%20lipodystrophy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "centrifugal lipodystrophy",
+        "txgnn_score": 0.9898937344551086,
+        "txgnn_rank": 2076,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "centrifugal lipodystrophy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20centrifugal%20lipodystrophy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pressure-induced localized lipoatrophy",
+        "txgnn_score": 0.9895954728126526,
+        "txgnn_rank": 2119,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "pressure-induced localized lipoatrophy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20pressure-induced%20localized%20lipoatrophy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pancreatic agenesis",
+        "txgnn_score": 0.9891045093536376,
+        "txgnn_rank": 2190,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "22843556",
+            "title": "Diabetes and pancreatic cancer.",
+            "abstract": "Epidemiological studies clearly indicate that the risk of pancreatic cancer (PC) is increased in diabetic patients, but most studies focus on overall diabetes or type 2 diabetes mellitus (T2DM), and there are few studies on the risks of type 1 and type 3c (secondary) diabetes. Possible mechanisms for increased cancer risk in diabetes include cellular proliferative effects of hyperglycemia, hyperinsulinemia, and abnormalities in insulin/IGF receptor pathways. Recently, insulin and insulin secretagogues have been observed to increase the PC risk, while metformin treatment reduces the cancer risk in diabetic subjects. In addition, anticancer drugs used to treat PC may either cause diabetes or worsen coexisting diabetes. T3cDM has emerged as a major subset of diabetes and may have the highest risk of pancreatic carcinoma especially in patients with chronic pancreatitis. T3cDM is also a consequence of PC in at least 30% of patients. Distinguishing T3cDM from the more prevalent T2DM among ne",
+            "journal": "Endocrine-related cancer",
+            "year": "2012",
+            "authors": [
+              "Cui YunFeng",
+              "Andersen Dana K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antineoplastic Agents",
+              "Diabetes Complications",
+              "Diabetes Mellitus",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Insulin",
+              "Metformin",
+              "Obesity",
+              "Pancreatic Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22843556/"
+          },
+          {
+            "pmid": "11030470",
+            "title": "Nateglinide.",
+            "abstract": "Nateglinide is a novel D-phenylalanine derivative that inhibits ATP-sensitive K+ channels in pancreatic beta-cells in the presence of glucose and thereby stimulates the prandial release of insulin. Nateglinide reduces fasting and mealtime blood glucose levels in animals, healthy volunteers, and patients with type 2 (non-insulin-dependent) diabetes mellitus, and produces prompt prandial insulin responses with return to baseline insulin levels between meals. In randomised, double-blind 24-week studies in patients with type 2 diabetes, oral nateglinide 120 mg 3 times daily before meals improved glycaemic control significantly relative to placebo. Nateglinide 120 mg plus metformin 500 mg, both 3 times daily, conferred greater glycaemic improvement than either drug given alone, and nateglinide 60 or 120 mg 3 times daily plus metformin 1 g twice daily was superior to metformin plus placebo. Nateglinide 120 mg 3 times daily significantly reduced hyperglycaemia relative to placebo in a 16-week",
+            "journal": "Drugs",
+            "year": "2000",
+            "authors": [
+              "Dunn C J",
+              "Faulds D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Clinical Trials as Topic",
+              "Cyclohexanes",
+              "Diabetes Mellitus, Type 2",
+              "Humans",
+              "Hypercalcemia",
+              "Hypoglycemic Agents",
+              "Insulin",
+              "Insulin Secretion",
+              "Nateglinide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11030470/"
+          },
+          {
+            "pmid": "14561576",
+            "title": "Metformin-induced cholestatic hepatitis.",
+            "abstract": "To report a case of metformin-induced cholestatic hepatitis.",
+            "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+            "year": "2003",
+            "authors": [
+              "Nammour Fadel E",
+              "Fayad Nabil F",
+              "Peikin Steven R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Blood Glucose",
+              "Chemical and Drug Induced Liver Injury",
+              "Cholangiography",
+              "Diabetes Mellitus, Type 2",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Jaundice, Obstructive",
+              "Liver",
+              "Liver Function Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14561576/"
+          },
+          {
+            "pmid": "18827867",
+            "title": "Combination treatment in the management of type 2 diabetes: focus on vildagliptin and metformin as a single tablet.",
+            "abstract": "Vildagliptin is a potent and selective inhibitor of dipeptidyl peptidase-IV (DPP-4), orally active, that improves glycemic control in patients with type 2 diabetes (T2DM) primarily by enhancing pancreatic (alpha and beta) islet function. Thus vildagliptin has been shown both to improve insulin secretion and to suppress the inappropriate glucagon secretion seen in patients with T2DM. Vildagliptin reduces HbA(1c) when given as monotherapy, without weight gain and with minimal hypoglycemia, or in combination with the most commonly prescribed classes of oral hypoglycemic drugs: metformin, a sulfonylurea, a thiazolidinedione, or insulin. Metformin, with a different mode of action not addressing beta-cell dysfunction, has been used for about 50 years and still represents the universal first line therapy of all guidelines. However, given the multiple pathophysiological abnormalities in T2DM and the progressive nature of the disease, intensification of therapy with combinations is typically re",
+            "journal": "Vascular health and risk management",
+            "year": "2008",
+            "authors": [
+              "Halimi Serge",
+              "Schweizer Anja",
+              "Minic Biljana",
+              "Foley James",
+              "Dejager Sylvie"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adamantane",
+              "Body Weight",
+              "Diabetes Mellitus, Type 2",
+              "Dipeptidyl-Peptidase IV Inhibitors",
+              "Disease Progression",
+              "Drug Combinations",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Insulin Resistance",
+              "Islets of Langerhans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18827867/"
+          },
+          {
+            "pmid": "40819996",
+            "title": "Type 3c diabetes associated with chronic pancreatitis: A narrative review.",
+            "abstract": "Diabetes associated with pancreatic diseases is termed Type 3c DM (T3cDM). This is a unique entity that shares characteristics of both Type 1 and Type 2 diabetes and has its own characteristics. The prevalence of T3cDM in the western population is less than 10 % of all diabetic patients. The most common cause of T3cDM is chronic pancreatitis (CP) followed by causes such as pancreatic ductal adenocarcinoma, pancreatic agenesis, cystic fibrosis, hemochromatosis, pancreatic resections, and acute necrotizing pancreatitis. In this review, we discuss T3cDM associated with CP. The broad mechanisms related to the development of T3cDM includes insulin deficiency, hepatic insulin resistance, peripheral insulin resistance, and reduced incretin effect. Although insulin deficiency (resulting from secretory defect, islet loss, and gut microbial dysbiosis) and hepatic insulin resistance have been understood, the role of peripheral insulin resistance and impaired incretin effect warrants further valid",
+            "journal": "Pancreatology : official journal of the International Association of Pancreatology (IAP) ... [et al.]",
+            "year": "2025",
+            "authors": [
+              "Rasheed Abdul",
+              "Galande Sheethal",
+              "Farheen Shagufta",
+              "Mitnala Sasikala",
+              "Nageshwar Reddy D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pancreatitis, Chronic",
+              "Diabetes Mellitus",
+              "Insulin Resistance"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40819996/"
+          },
+          {
+            "pmid": "9506190",
+            "title": "Type II diabetes mellitus.",
+            "abstract": "Type II diabetes is a common disorder whose prevalence is increasing in the United States and throughout the world. Type II diabetes is also associated with several other metabolic abnormalities such as central obesity, hypertension, and dyslipidemia, which contributes to the very high rate of cardiovascular morbidity and mortality. The main pathologic defects in diabetes consist of excessive hepatic glucose production, peripheral insulin resistance, and defective beta-cell secretory function. The duration and severity of the hyperglycemia dictate the microvascular complications, no matter what the etiology of the glucose intolerance, and the goals of therapy should be similar to those of insulin-dependent type I diabetic patients. Initiation of nonpharmacologic therapy should be started as soon as the diagnosis is made. Pharmacologic agents should be initiated if the glycemic goals are not met with a 3-month trial of diet and exercise. The cornerstone of therapy consists of a regular ",
+            "journal": "Advances in internal medicine",
+            "year": "1998",
+            "authors": [
+              "Edelman S V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Blood Glucose",
+              "Cost Savings",
+              "Diabetes Mellitus, Type 2",
+              "Diabetic Angiopathies",
+              "Dietary Carbohydrates",
+              "Dietary Fats",
+              "Dietary Proteins",
+              "Drug Combinations",
+              "Exercise Therapy",
+              "Global Health"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9506190/"
+          },
+          {
+            "pmid": "35898377",
+            "title": "The Role of Type 2 Diabetes in Pancreatic Cancer.",
+            "abstract": "The incidence of type 2 diabetes mellitus (T2DM) and its potential complications, such as cancers, are increasing worldwide at an astounding rate. There are many factors such as obesity, diabetes, alcohol consumption, and the adoption of sedentary lifestyles that are driving pancreatic cancer (PC) to become one of the leading causes of cancer mortality in the United States. PC is notorious for its generic symptoms and late-stage presentation with rapid metastasis. The connection between T2DM and the risk of PC development is multifaceted and complex. Some of the proposed theories reveal that chronic inflammation, insulin resistance, hyperinsulinemia, hyperglycemia, and abnormalities in the insulin and insulin-like growth factor axis (IGF) contribute to the disease association between these two conditions. This literature review aims to highlight relevant studies and explore the molecular mechanisms involved in the etiology of diabetes and its impact on PC development, as well as the ro",
+            "journal": "Cureus",
+            "year": "2022",
+            "authors": [
+              "George Sheeba",
+              "Jean-Baptiste Wilford",
+              "Yusuf Ali Amina",
+              "Inyang Bithaiah",
+              "Koshy Feeba Sam"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35898377/"
+          },
+          {
+            "pmid": "20376506",
+            "title": "Epidemiological aspects of neoplasms in diabetes.",
+            "abstract": "Glucose metabolism represents a complex system, and several components of the regulatory metabolic pathways may induce abnormalities in cellular growth and regulation. The strongest evidence of an association between glucose metabolism alterations and cancer derives from cohort studies, showing increased cancer incidence and mortality in the presence of diabetes. In particular, several studies clearly indicate an association between type 2 diabetes and the risk of colorectal, pancreatic, and breast cancer. An increased risk of liver, gastric, and endometrial malignancies has also been suggested. Type 1 diabetes is associated with an elevated risk of female reproductive organs and gastric cancers. The risk of malignancies is also increased at earlier stages of glucose metabolism abnormalities, with a linear relationship between cancer risk and plasma insulin levels, usually elevated in the presence of metabolic syndrome or diabetes. The prevalence of diabetes and obesity is rapidly incr",
+            "journal": "Acta diabetologica",
+            "year": "2010",
+            "authors": [
+              "Nicolucci Antonio"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antineoplastic Agents",
+              "Breast Neoplasms",
+              "Carcinoma, Hepatocellular",
+              "Case-Control Studies",
+              "Cell Division",
+              "Cohort Studies",
+              "Colorectal Neoplasms",
+              "Diabetes Complications",
+              "Diabetes Mellitus, Type 2",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20376506/"
+          },
+          {
+            "pmid": "29304290",
+            "title": "Effects of metformin on insulin resistance and metabolic disorders in tumor-bearing rats with advanced cachexia.",
+            "abstract": "Metformin (MET) is widely used in the correction of insulin (INS) resistance and metabolic abnormalities in type 2 diabetes. However, its effect on INS resistance and metabolic disorders associated with cancer cachexia is not established. We investigated the MET effects, isolated or associated with INS, on INS resistance and metabolic changes induced by Walker-256 tumor in rats with advanced cachexia. MET (500 mg·kg-1, oral) and MET + INS (1.0 IU·kg-1, s.c.) were administered for 12 days, starting on the day of tumor cell inoculation. Tumor-bearing rats showed adipose and muscle mass wasting, body mass loss, anorexia, decreased Akt phosphorylation in retroperitoneal and mesenteric adipose tissue, peripheral INS resistance, hypoinsulinemia, reduced INS content and secretion from pancreatic islets, and also inhibition of glycolysis, gluconeogenesis, and glycogenolysis in liver. MET and MET + INS treatments did not prevent these changes. It can be concluded that treatments with MET and ME",
+            "journal": "Canadian journal of physiology and pharmacology",
+            "year": "2018",
+            "authors": [
+              "de Fatima Silva Flaviane",
+              "Ortiz-Silva Milene",
+              "Galia Winny Beatriz de Souza",
+              "Cassolla Priscila",
+              "da Silva Francemilson Goulart"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cachexia",
+              "Insulin",
+              "Insulin Resistance",
+              "Male",
+              "Metformin",
+              "Neoplasms",
+              "Proto-Oncogene Proteins c-akt",
+              "Rats",
+              "Rats, Wistar"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29304290/"
+          },
+          {
+            "pmid": "24991150",
+            "title": "Effect of combined treatment with clozapine and metformin on fasting blood glucose, insulin level, and expression of the glucose transporter-2 (GLUT2) in Sprague-Dawley rats.",
+            "abstract": "Antipsychotic medications can cause an increase in blood glucose and the development of type II diabetes. Metformin may ameliorate these side effects.",
+            "journal": "Shanghai archives of psychiatry",
+            "year": "2013",
+            "authors": [
+              "Gao Lan",
+              "Wang Gaohua",
+              "Liu Hao",
+              "Yan Chaohui"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24991150/"
+          },
+          {
+            "pmid": "39598440",
+            "title": "Sustainable Intervention: Grape Pomace Flour Ameliorates Fasting Glucose and Mitigates Streptozotocin-Induced Pancreatic Damage in a Type 2 Diabetes Animal Model.",
+            "abstract": "Background/Objectives: Type 2 Diabetes Mellitus (T2DM) is characterized by hyperglycemia, increased risk of cardiovascular diseases, and oxidative imbalances. This study aimed to investigate the impact of dietary supplementations with 'Arinto' grape pomace flour (GPF) (WGPF) and 'Touriga Nacional' GPF (RGPF) in an animal model of T2DM. Methods: T2DM was induced by a high-fat diet (HFD) for 28 days and a single dose of streptozotocin (STZ) (35 mg/kg) on the 21st day. Forty adult male Wistar rats were divided into five groups: Control (CT), T2DM, T2DM + Metformin (250 mg/kg), T2DM + 10% 'Arinto' GPF (WGPF), and T2DM + 10% 'Touriga Nacional' GPF (RGPF). On the 21st day of the experimental protocol, animals were submitted to an oral glucose tolerance test. An oral glucose tolerance test, oxidative stress parameters, biochemical analysis, and pancreas histological analyses were performed. Results: T2DM impaired glucose tolerance, elevated serum triglycerides and cholesterol, increased oxida",
+            "journal": "Pharmaceuticals (Basel, Switzerland)",
+            "year": "2024",
+            "authors": [
+              "Piccoli Raphaela Cassol",
+              "Simões William Sanabria",
+              "Custódio Solange Vega",
+              "Goularte Kelen Cristiane Machado",
+              "Luduvico Karina Pereira"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39598440/"
+          },
+          {
+            "pmid": "12149047",
+            "title": "Rosiglitazone: a review of its use in the management of type 2 diabetes mellitus.",
+            "abstract": "Rosiglitazone, a thiazolidinedione with a different side chain from those of troglitazone and pioglitazone, reduces plasma glucose levels and glucose production and increases glucose clearance in patients with type 2 diabetes mellitus. Insulin sensitivity, pancreatic beta-cell function and surrogate markers of cardiovascular risk factors are significantly improved by rosiglitazone. Double-blind trials of 8 to 26 weeks of rosiglitazone 4 or 8 mg/day monotherapy indicate significant decreases in fasting plasma glucose (-2 to -3 mmol/L with 8 mg/day) and glycosylated haemoglobin levels [HbA(1c); -0.6 to -0.7% (-0.8 to -1.1% in drug-naive patients) with 8 mg/day]. Significant decreases in hyperglycaemic markers occurred when rosiglitazone was combined with metformin (HbA(1c) -0.8 to -1.0%), a sulphonylurea (-1.4%) or insulin (-1.2%) for 26 weeks versus little change with active comparator monotherapy. Efficacy was maintained in trials of < or = 2 years, and was also apparent in various eth",
+            "journal": "Drugs",
+            "year": "2002",
+            "authors": [
+              "Wagstaff Antona J",
+              "Goa Karen L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Aged",
+              "Area Under Curve",
+              "Diabetes Mellitus, Type 2",
+              "Drug Interactions",
+              "Half-Life",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Intestinal Absorption",
+              "Liver"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12149047/"
+          },
+          {
+            "pmid": "18038714",
+            "title": "Effect of metformin and rosiglitazone in a prepubertal boy with Alström syndrome.",
+            "abstract": "Alström syndrome (AS) is an autosomal recessive disorder characterized by progressive pigmentary retinopathy, sensorineural hearing loss, fatty liver infiltration, obesity, insulin resistance and early-onset type 2 diabetes mellitus (DM2). Early onset of insulin resistance and DM2 are key components of this syndrome.",
+            "journal": "Journal of pediatric endocrinology & metabolism : JPEM",
+            "year": "2007",
+            "authors": [
+              "Sinha Sunil K",
+              "Bhangoo Amrit",
+              "Anhalt Henry",
+              "Maclaren Noel",
+              "Marshall Jan D"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Multiple",
+              "Child",
+              "Diabetes Mellitus, Type 2",
+              "Drug Therapy, Combination",
+              "Fatty Liver",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Insulin Resistance",
+              "Male",
+              "Metformin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18038714/"
+          },
+          {
+            "pmid": "12489380",
+            "title": "Insulin resistance, diabetes, and the adipocyte.",
+            "abstract": "The etiology, natural history, and relationship of insulin resistance to type 2 diabetes mellitus and the effects of insulin-sensitizing agents are described. Insulin resistance results from a combination of genetic and environmental factors and contributes to type 2 diabetes mellitus, dyslipidemia, hypertension, central (abdominal) obesity, and cardiovascular disease. Insulin resistance does not necessarily progress to impaired glucose tolerance or diabetes because insulin secretion by normal pancreatic beta cells can increase to compensate for reduced physiological activity. Diabetes may develop in insulin-resistant persons with inherited secretory and glucose-sensing defects in beta cells. The pathogenesis of diabetes appears to involve a progressive decrease in beta-cell mass, potentially triggered by abnormalities in adipocytokine release from intraabdominal fat cells. Metformin and the thiazolidinediones are used to treat insulin resistance, but their actions differ. Metformin re",
+            "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+            "year": "2002",
+            "authors": [
+              "Stolar Mark W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adipocytes",
+              "Animals",
+              "Diabetes Mellitus, Type 2",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Insulin Resistance",
+              "Islets of Langerhans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12489380/"
+          },
+          {
+            "pmid": "37318524",
+            "title": "Roflumilast ameliorates diabetic nephropathy in rats through down-regulation of JAK/STAT signaling pathway.",
+            "abstract": "Roflumilast is a potent selective inhibitor of the phosphodiesterase-4 enzyme which greatly manifest an anti-inflammatory activity in chronic obstructive pulmonary patients. Inflammation is a prominent factor in the prevalence of diabetic nephropathy, one of the most prevalent microvascular complications of Diabetes Mellitus. The present study was undertaken to assess the potential role of roflumilast in diabetic nephropathy. The model was developed by feeding a high-fat diet for four weeks and following streptozotocin (30 mg/kg) injection intraperitoneally. The rats with > 13.8 mmol/L blood glucose were treated with roflumilast (0.25, 0.5, 1 mg/kg) and standard metformin (100 mg/kg) orally once a day for eight weeks. Roflumilast (1 mg/kg) remarkably improved renal damage, indicated by an increase in 16% albumin, a decrease in 5% serum creatinine, 12% BUN, 19% HbA1c, and 34% blood glucose. It also significantly improves the oxidative stress levels, which was indicated by a decrease in ",
+            "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+            "year": "2023",
+            "authors": [
+              "Patel Priyal",
+              "Patel Sandip",
+              "Chudasama Piyush",
+              "Soni Shailesh",
+              "Raval Manan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Rats",
+              "Animals",
+              "Diabetic Nephropathies",
+              "Rats, Sprague-Dawley",
+              "Blood Glucose",
+              "Janus Kinases",
+              "Down-Regulation",
+              "Signal Transduction",
+              "Diabetes Mellitus, Experimental"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37318524/"
+          },
+          {
+            "pmid": "15955371",
+            "title": "Pathophysiology of type 2 diabetes: rationale for different oral antidiabetic treatment strategies.",
+            "abstract": "Type 2 diabetes mellitus is a chronic metabolic disorder that results from defects in both insulin secretion and insulin action. Both insulin resistance and beta-cell failure are genetically determined to some extent; however, environmental factors contribute to exacerbate both abnormalities. Type 2 diabetic individuals are also characterised by reduced beta-cell mass likely due to increased cellular apoptosis. The early use of insulin therapy in type 2 diabetes may prove beneficial to prevent further beta-cell loss and need for exogenous insulin. Treatment options with oral agents are quite diverse, including insulin sensitizers, alpha-glucosidase inhibitors, and beta-cell secretagogues. Although in recent years the emphasis on initial therapy has been shifting from insulin secretagogues to insulin sensitizers such as metformin and thiazolidinediones, questions remain as to genetic and/or phenotypic factors may dictate a different choice of the first antidiabetic drug to be used. It i",
+            "journal": "Diabetes research and clinical practice",
+            "year": "2005",
+            "authors": [
+              "Giorgino Francesco",
+              "Laviola Luigi",
+              "Leonardini Anna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Blood Glucose",
+              "Diabetes Mellitus, Type 2",
+              "Glucagon",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Insulin",
+              "Insulin Secretion",
+              "Islets of Langerhans",
+              "Triglycerides"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15955371/"
+          },
+          {
+            "pmid": "18259965",
+            "title": "Metformin-induced lactic acidosis and acute pancreatitis precipitated by diuretic, celecoxib, and candesartan-associated acute kidney dysfunction.",
+            "abstract": "Polypharmacy may lead to synergistic complications from the different medications. We report the case of a 50-year-old woman who was prescribed 11 drugs, including a diuretic, celecoxib, metformin, and candesartan, and who developed acute kidney dysfunction while on these drugs, manifesting as severe proteinuria, acute azotemia, hyperkalemia. The kidney injury caused the accumulation of metformin, leading to lactic acidosis and acute pancreatitis. Sodium bicarbonate hemodialysis not only improved the metabolic abnormalities but also hastened the removal of metformin.",
+            "journal": "Clinical toxicology (Philadelphia, Pa.)",
+            "year": "2008",
+            "authors": [
+              "Audia Pat",
+              "Feinfeld Donald A",
+              "Dubrow Alan",
+              "Winchester James F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acidosis, Lactic",
+              "Acute Disease",
+              "Acute Kidney Injury",
+              "Angiotensin II Type 1 Receptor Blockers",
+              "Benzimidazoles",
+              "Biphenyl Compounds",
+              "Celecoxib",
+              "Cyclooxygenase Inhibitors",
+              "Diuretics",
+              "Drug Interactions"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18259965/"
+          },
+          {
+            "pmid": "11727406",
+            "title": "Insulin therapy in type 2 diabetes.",
+            "abstract": "Type 2 diabetes is a common disorder often accompanied by numerous metabolic abnormalities leading to a high risk of cardiovascular morbidity and mortality. Results from the UKPDS have confirmed that intensive glucose control delays the onset and retards the progression of microvascular disease and possibly of macrovascular disease in patients with type 2 diabetes. In the early stages of the disease, insulin resistance plays a major role in the development of hyperglycemia and other metabolic abnormalities, and patients with type 2 diabetes often benefit from measures to improve insulin sensitivity such as weight loss, dietary changes, and exercise. Later, the use of oral insulin secretagogues and insulin sensitizers as monotherapy and in combination helps maintain glycemia for varying periods of time. Ultimately, because of the progressive nature of the disease and the progressive decline in pancreatic beta-cell function, insulin therapy is almost always obligatory to achieve optimal ",
+            "journal": "Endocrinology and metabolism clinics of North America",
+            "year": "2001",
+            "authors": [
+              "Mudaliar S",
+              "Edelman S V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Blood Glucose",
+              "Blood Glucose Self-Monitoring",
+              "Diabetes Mellitus, Type 2",
+              "Drug Delivery Systems",
+              "Humans",
+              "Hypoglycemic Agents",
+              "Insulin",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11727406/"
+          },
+          {
+            "pmid": "10905481",
+            "title": "Metformin restores insulin secretion altered by chronic exposure to free fatty acids or high glucose: a direct metformin effect on pancreatic beta-cells.",
+            "abstract": "Because metformin affects glucose and free fatty acid (FFA) metabolism in peripheral insulin target tissues, we investigated the effect of this drug in restoring a normal secretory pattern in rat pancreatic islets whose function has been impaired by chronic exposure to elevated FFA or glucose concentrations. We cultured rat pancreatic islets with or without FFA (2 mmol/l oleate/palmitate 2:1) or high glucose (16.7 mmol/l) concentrations in the presence or absence of metformin (0.25-12.5 microg/ml) and then measured insulin release, glucose utilization, glucose, and FFA oxidation. When compared with control islets, islets exposed to high FFA or glucose concentrations showed an increased basal and a decreased glucose-induced insulin release. In islets cultured for an additional 24 h with FFA or glucose in the presence of metformin (2.5 microg/ml), both basal and glucose-induced insulin secretions were restored. Both glucose utilization and glucose oxidation were altered in islets pre-exp",
+            "journal": "Diabetes",
+            "year": "2000",
+            "authors": [
+              "Patanè G",
+              "Piro S",
+              "Rabuazzo A M",
+              "Anello M",
+              "Vigneri R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dose-Response Relationship, Drug",
+              "Fatty Acids, Nonesterified",
+              "Glucose",
+              "Hypoglycemic Agents",
+              "In Vitro Techniques",
+              "Insulin",
+              "Insulin Secretion",
+              "Islets of Langerhans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10905481/"
+          },
+          {
+            "pmid": "29209957",
+            "title": "Salvianolate Reduces Glucose Metabolism Disorders in Dimethylnitrosamine-Induced Cirrhotic Rats.",
+            "abstract": "To evaluate the preventive effect of salvianolate (Sal B) on glucose metabolism disorders of dimethylnitrosamine (DMN)-induced cirrhotic rats.",
+            "journal": "Chinese journal of integrative medicine",
+            "year": "2018",
+            "authors": [
+              "Tang Li-Rui",
+              "Tao Yan-Yan",
+              "Liu Cheng-Hai",
+              "Wang Hai-Nan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dimethylnitrosamine",
+              "Glucose",
+              "Glucose Tolerance Test",
+              "Insulin Resistance",
+              "Liver",
+              "Liver Cirrhosis, Experimental",
+              "Liver Glycogen",
+              "Male",
+              "Metformin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29209957/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "pancreatic agenesis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20pancreatic%20agenesis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "idiopathic localized lipodystrophy",
+        "txgnn_score": 0.9890411496162416,
+        "txgnn_rank": 2203,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "idiopathic localized lipodystrophy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20idiopathic%20localized%20lipodystrophy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "homozygous familial hypercholesterolemia",
+        "txgnn_score": 0.9229803085327148,
+        "txgnn_rank": 9158,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "37160786",
+            "title": "Glucagon-like peptide-1 analog therapy in rare genetic diseases: monogenic obesity, monogenic diabetes, and spinal muscular atrophy.",
+            "abstract": "Implementing genetic analyses have unraveled rare alterations causing early-onset obesity and complications, in whom treatment is challenging. We aimed to report on the effects of adjuvant off-label therapy with liraglutide, glucagon-like peptide-1 analogue (GLP-1a), in rare genetic diagnoses.",
+            "journal": "Acta diabetologica",
+            "year": "2023",
+            "authors": [
+              "Zaitoon Hussein",
+              "Lubetzky Ronit",
+              "Amir Achiya Z",
+              "Moran-Lev Hadar",
+              "Sagi Liora"
+            ],
+            "pub_types": [
+              "Review",
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Child",
+              "Humans",
+              "Male",
+              "Young Adult",
+              "Diabetes Mellitus, Type 2",
+              "Glucagon-Like Peptide 1",
+              "Glucagon-Like Peptide-1 Receptor",
+              "Hypoglycemic Agents",
+              "Liraglutide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37160786/"
+          },
+          {
+            "pmid": "3377878",
+            "title": "The antidiabetic drug metformin decreases cholesterol metabolism in cultured human fibroblasts.",
+            "abstract": "The effect of the hypoglycemic biguanide drug Metformin was investigated after a 72 h pretreatment of human cultured fibroblasts. Metformin induced a moderate increase in low density lipoprotein binding, uptake and internalization (25% increase after treatment with 5 X 10(-4) M of drug). A decrease in sterol, fatty acid and triacyglycerol synthesis from sodium acetate was observed after pretreatment with the drug, with a dose-dependent effect in the range of 5 X 10(-5) to 5 X 10(-4) M (50% reduction of sterol synthesis after treatment with Metformin 5 X 10(-4) M). This effect was also observed in fibroblasts from a patient with homozygous familial hypercholesterolemia. Cholesterol esterification studied by incorporation of radiolabeled oleic acid was reduced by Metformin (40% of control after treatment with Metformin 5 X 10(-4) M) whereas incorporation into triacylglycerols was less impaired. These effects of Metformin on cholesterol metabolism were observed either in the presence or i",
+            "journal": "Atherosclerosis",
+            "year": "1988",
+            "authors": [
+              "Mazière J C",
+              "Mazière C",
+              "Mora L",
+              "Gardette J",
+              "Salmon S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cells, Cultured",
+              "Cholesterol",
+              "Depression, Chemical",
+              "Fibroblasts",
+              "Humans",
+              "Hydroxymethylglutaryl CoA Reductases",
+              "In Vitro Techniques",
+              "Metformin",
+              "Receptors, LDL",
+              "Sterol O-Acyltransferase"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3377878/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metformin",
+          "disease": "homozygous familial hypercholesterolemia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metformin%20homozygous%20familial%20hypercholesterolemia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Metformin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00331",
+    "name": "Metformin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Metformin"
+      },
+      "queried_at": "2026-03-24T16:15:40.681396",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Metformin"
+      },
+      "queried_at": "2026-03-24T16:15:40.682654",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Metformin"
+      },
+      "queried_at": "2026-03-24T16:15:45.728675",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "focal stiff limb syndrome"
+      },
+      "queried_at": "2026-03-24T16:15:50.734255",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "focal stiff limb syndrome"
+      },
+      "queried_at": "2026-03-24T16:15:55.739464",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "focal stiff limb syndrome"
+      },
+      "queried_at": "2026-03-24T16:15:56.484119",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "focal stiff limb syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:01.490977",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "classic stiff person syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:02.032224",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "classic stiff person syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:08.698905",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "classic stiff person syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:09.410053",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "classic stiff person syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:10.360033",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "opsismodysplasia"
+      },
+      "queried_at": "2026-03-24T16:16:10.934886",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "opsismodysplasia"
+      },
+      "queried_at": "2026-03-24T16:16:19.138325",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "opsismodysplasia"
+      },
+      "queried_at": "2026-03-24T16:16:21.889461",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "opsismodysplasia"
+      },
+      "queried_at": "2026-03-24T16:16:22.745918",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "thiamine-responsive dysfunction syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:23.137798",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "thiamine-responsive dysfunction syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:26.789219",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "thiamine-responsive dysfunction syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:26.910831",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "thiamine-responsive dysfunction syndrome"
+      },
+      "queried_at": "2026-03-24T16:16:27.810151",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "drug-induced localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:28.262925",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "drug-induced localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:31.666017",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "drug-induced localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:32.795503",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "drug-induced localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:33.721812",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "centrifugal lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:34.240247",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "centrifugal lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:37.772944",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "centrifugal lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:38.492006",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "centrifugal lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:39.490252",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pressure-induced localized lipoatrophy"
+      },
+      "queried_at": "2026-03-24T16:16:40.004226",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pressure-induced localized lipoatrophy"
+      },
+      "queried_at": "2026-03-24T16:16:43.790891",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pressure-induced localized lipoatrophy"
+      },
+      "queried_at": "2026-03-24T16:16:45.005955",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pressure-induced localized lipoatrophy"
+      },
+      "queried_at": "2026-03-24T16:16:45.903758",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pancreatic agenesis"
+      },
+      "queried_at": "2026-03-24T16:16:46.358916",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pancreatic agenesis"
+      },
+      "queried_at": "2026-03-24T16:16:49.490694",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pancreatic agenesis"
+      },
+      "queried_at": "2026-03-24T16:16:50.170933",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "pancreatic agenesis"
+      },
+      "queried_at": "2026-03-24T16:16:53.120529",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "idiopathic localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:53.519725",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "idiopathic localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:56.906776",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "idiopathic localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:57.500820",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "idiopathic localized lipodystrophy"
+      },
+      "queried_at": "2026-03-24T16:16:58.370569",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "homozygous familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-24T16:16:58.890698",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "homozygous familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-24T16:17:02.420329",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "homozygous familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-24T16:17:02.543523",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metformin",
+        "disease": "homozygous familial hypercholesterolemia"
+      },
+      "queried_at": "2026-03-24T16:17:04.902791",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:17:04.904071"
+  }
+}

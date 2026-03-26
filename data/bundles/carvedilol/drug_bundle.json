@@ -1,0 +1,2760 @@
+{
+  "drug": {
+    "inn": "Carvedilol",
+    "drugbank_id": "DB01136",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "malignant renovascular hypertension",
+        "txgnn_score": 0.9954645037651062,
+        "txgnn_rank": 1128,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "malignant renovascular hypertension",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20malignant%20renovascular%20hypertension"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "malignant hypertensive renal disease",
+        "txgnn_score": 0.9954645037651062,
+        "txgnn_rank": 1129,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "malignant hypertensive renal disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20malignant%20hypertensive%20renal%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pulmonary hypertension with unclear multifactorial mechanism",
+        "txgnn_score": 0.995400607585907,
+        "txgnn_rank": 1140,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "pulmonary hypertension with unclear multifactorial mechanism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20pulmonary%20hypertension%20with%20unclear%20multifactorial%20mechanism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "txgnn_score": 0.995400607585907,
+        "txgnn_rank": 1141,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "33862277",
+            "title": "Hypoxia and brain aging: Neurodegeneration or neuroprotection?",
+            "abstract": "The absolute reliance of the mammalian brain on oxygen to generate ATP renders it acutely vulnerable to hypoxia, whether at high altitude or in clinical settings of anemia or pulmonary disease. Hypoxia is pivotal to the pathogeneses of myriad neurological disorders, including Alzheimer's, Parkinson's and other age-related neurodegenerative diseases. Conversely, reduced environmental oxygen, e.g. sojourns or residing at high altitudes, may impart favorable effects on aging and mortality. Moreover, controlled hypoxia exposure may represent a treatment strategy for age-related neurological disorders. This review discusses evidence of hypoxia's beneficial vs. detrimental impacts on the aging brain and the molecular mechanisms that mediate these divergent effects. It draws upon an extensive literature search on the effects of hypoxia/altitude on brain aging, and detailed analysis of all identified studies directly comparing brain responses to hypoxia in young vs. aged humans or rodents. Spe",
+            "journal": "Ageing research reviews",
+            "year": "2021",
+            "authors": [
+              "Burtscher Johannes",
+              "Mallet Robert T",
+              "Burtscher Martin",
+              "Millet Grégoire P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Humans",
+              "Aging",
+              "Brain",
+              "Hypoxia",
+              "Neuroprotection"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33862277/"
+          },
+          {
+            "pmid": "37328448",
+            "title": "N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Cancer via NAT10/SEPT9/HIF-1α Positive Feedback Loop.",
+            "abstract": "Anti-angiogenic therapy has long been considered a promising strategy for solid cancers. Intrinsic resistance to hypoxia is a major cause for the failure of anti-angiogenic therapy, but the underlying mechanism remains unclear. Here, it is revealed that N4-acetylcytidine (ac4C), a newly identified mRNA modification, enhances hypoxia tolerance in gastric cancer (GC) cells by promoting glycolysis addiction. Specifically, acetyltransferase NAT10 transcription is regulated by HIF-1α, a key transcription factor of the cellular response to hypoxia. Further, acRIP-sequencing, Ribosome profiling sequencing, RNA-sequencing, and functional studies confirm that NAT10 in turn activates the HIF-1 pathway and subsequent glucose metabolism reprogramming by mediating SEPT9 mRNA ac4C modification. The formation of the NAT10/SEPT9/HIF-1α positive feedback loop leads to excessive activation of the HIF-1 pathway and induces glycolysis addiction. Combined anti-angiogenesis and ac4C inhibition attenuate hyp",
+            "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+            "year": "2023",
+            "authors": [
+              "Yang Qingbin",
+              "Lei Xuetao",
+              "He Jiayong",
+              "Peng Yanmei",
+              "Zhang Yihao"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Stomach Neoplasms",
+              "Feedback",
+              "Glycolysis",
+              "RNA, Messenger",
+              "Hypoxia",
+              "N-Terminal Acetyltransferases",
+              "Cytidine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37328448/"
+          },
+          {
+            "pmid": "34618295",
+            "title": "Cognitive impairment caused by hypoxia: from clinical evidences to molecular mechanisms.",
+            "abstract": "Hypoxia is a state of reduced oxygen supply and excessive oxygen consumption. According to the duration of hypoxic period, it can be classified as acute and chronic hypoxia. Both acute and chronic hypoxia could induce abundant neurological deficits. Although there have been significant advances in the pathophysiological injuries, few studies have focused on the cognitive dysfunction. In this review, we focused on the clinical evidences and molecular mechanisms of cognitive impairment under acute and chronic hypoxia. Hypoxia can impair several cognitive domains such as attention, learning and memory, procession speed and executive function, which are similar in acute and chronic hypoxia. The severity of cognitive deficit correlates with the duration and degree of hypoxia. Recovery can be achieved after acute hypoxia, while sequelae or even dementia can be observed after chronic hypoxia, perhaps due to the different molecular mechanisms. Cardiopulmonary compensatory response, glycolysis,",
+            "journal": "Metabolic brain disease",
+            "year": "2022",
+            "authors": [
+              "Wang Xiaoyin",
+              "Cui Lili",
+              "Ji Xunming"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cognition Disorders",
+              "Cognitive Dysfunction",
+              "Hippocampus",
+              "Humans",
+              "Hypoxia",
+              "Neurofibrillary Tangles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34618295/"
+          },
+          {
+            "pmid": "33278780",
+            "title": "Altered glucose metabolism and cell function in keloid fibroblasts under hypoxia.",
+            "abstract": "Keloids exhibit metabolic reprogramming including enhanced glycolysis and attenuated oxidative phosphorylation. Hypoxia induces a series of protective responses in mammalian cells. However, the metabolic phenotype of keloid fibroblasts under hypoxic conditions remains to be elucidated. The present study aimed to investigate glycolytic activity, mitochondrial function and morphology, and the HIF1α and PI3K/AKT signaling pathways in keloid fibroblasts (KFB) under hypoxic conditions. Our results showed that hypoxia promoted proliferation, migration invasion and collagen synthesis and inhibited apoptosis in KFB. The mRNA levels, protein expressions and enzyme activities of glycolytic enzymes in KFB were higher than those in normal skin fibroblasts (NFB) under normoxia. Moreover, hypoxia remarkedly upregulated glycolysis in KFB. Decreased activities of mitochondrial complexes and abnormal mitochondria were detected in KFB under normoxic conditions and the damage was aggravated by hypoxia. A",
+            "journal": "Redox biology",
+            "year": "2021",
+            "authors": [
+              "Wang Qifei",
+              "Wang Pu",
+              "Qin Zelian",
+              "Yang Xin",
+              "Pan Bailin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Hypoxia",
+              "Fibroblasts",
+              "Glucose",
+              "Glycolysis",
+              "Hypoxia",
+              "Keloid",
+              "Phosphatidylinositol 3-Kinases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33278780/"
+          },
+          {
+            "pmid": "21328446",
+            "title": "Hypoxia-mediated biological control.",
+            "abstract": "When oxygen demand is greater than oxygen supply, cells need to rapidly adjust their metabolism in order for the tissue to survive. Oxygen sensing by an organism influences a host of processes including growth, development, metabolism, pH homeostasis, and angiogenesis. Hypoxia also contributes to a wide number of human diseases including vascular disease, inflammatory conditions and cancer. Recently, major advances have been made in understanding the response of cells and tissues to hypoxia with the goal of providing mechanistic insight and novel therapeutic targets. In this article we review both the normal biological effects of hypoxia as well as the alterations that occur in specific disease conditions with an emphasis on the cell signaling and gene transcription mechanisms that underlie the changes associated with chronic hypoxia. Comparisons of studies in the fields of cardiac ischemia and tumor angiogenesis reveal the complexities within the microenvironment that control response",
+            "journal": "Journal of cellular biochemistry",
+            "year": "2011",
+            "authors": [
+              "Cassavaugh Jessica",
+              "Lounsbury Karen M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Gene Expression Regulation",
+              "Humans",
+              "Hydrogen-Ion Concentration",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Myocardial Ischemia",
+              "Neoplasm Metastasis",
+              "Neoplasms",
+              "Neovascularization, Pathologic",
+              "Oxygen"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21328446/"
+          },
+          {
+            "pmid": "31706510",
+            "title": "DUBs, Hypoxia, and Cancer.",
+            "abstract": "Alterations in protein ubiquitylation and hypoxia are commonly associated with cancer. Ubiquitylation is carried out by three sequentially acting ubiquitylating enzymes and can be opposed by deubiquitinases (DUBs), which have emerged as promising drug targets. Apart from protein localization and activity, ubiquitylation regulates degradation of proteins, among them hypoxia-inducible factors (HIFs). Thereby, various E3 ubiquitin ligases and DUBs regulate HIF abundance. Conversely, several E3s and DUBs are regulated by hypoxia. While hypoxia is a powerful HIF regulator, less is known about hypoxia-regulated DUBs and their impact on HIFs. Here, we review current knowledge about the relationship of E3s, DUBs, and hypoxia signaling. We also discuss the reciprocal regulation of DUBs by hypoxia and use of DUB-specific drugs in cancer.",
+            "journal": "Trends in cancer",
+            "year": "2019",
+            "authors": [
+              "Mennerich Daniela",
+              "Kubaichuk Kateryna",
+              "Kietzmann Thomas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Deubiquitinating Enzymes",
+              "Homeostasis",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Neoplasms",
+              "Oxygen",
+              "Protein Transport",
+              "Proteolysis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31706510/"
+          },
+          {
+            "pmid": "34535359",
+            "title": "Therapeutic Modification of Hypoxia.",
+            "abstract": "Regions of reduced oxygenation (hypoxia) are a characteristic feature of virtually all animal and human solid tumours. Numerous preclinical studies, both in vitro and in vivo, have shown that decreasing oxygen concentration induces resistance to radiation. Importantly, hypoxia in human tumours is a negative indicator of radiotherapy outcome. Hypoxia also contributes to resistance to other cancer therapeutics, including immunotherapy, and increases malignant progression as well as cancer cell dissemination. Consequently, substantial effort has been made to detect hypoxia in human tumours and identify realistic approaches to overcome hypoxia and improve cancer therapy outcomes. Hypoxia-targeting strategies include improving oxygen availability, sensitising hypoxic cells to radiation, preferentially killing these cells, locating the hypoxic regions in tumours and increasing the radiation dose to those areas, or applying high energy transfer radiation, which is less affected by hypoxia. De",
+            "journal": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+            "year": "2021",
+            "authors": [
+              "Horsman M R",
+              "Sørensen B S",
+              "Busk M",
+              "Siemann D W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Hypoxia",
+              "Humans",
+              "Hypoxia",
+              "Neoplasms",
+              "Oxygen"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34535359/"
+          },
+          {
+            "pmid": "11172576",
+            "title": "Mechanisms of hypoxemia.",
+            "abstract": "The definitions of hypoxemia and hypoxia, and basic pulmonary anatomy and oxygen delivery are reviewed. Low ambient oxygen, hypoventilation, ventilation-perfusion mismatch, and right-to-left shunt, the four basic mechanisms of hypoxemia are described in detail with patient examples. For the sake of completion, a fifth mechanism of hypoxemia that is rarely seen in human disease is described. Because getting oxygen into the blood stream is only half the story, mechanisms of tissue hypoxia in the setting of adequate oxygen exchange from the lungs to the blood are discussed. An algorithm is proposed for diagnosing patients who present with hypoxia.",
+            "journal": "Respiratory care clinics of North America",
+            "year": "2000",
+            "authors": [
+              "Henig N R",
+              "Pierson D J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Algorithms",
+              "Cell Hypoxia",
+              "Child, Preschool",
+              "Decision Trees",
+              "Diagnosis, Differential",
+              "Female",
+              "Hemodynamics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11172576/"
+          },
+          {
+            "pmid": "40347693",
+            "title": "Hypoxia in multiple sclerosis.",
+            "abstract": "Low oxygen availability (hypoxia) is a prominent but poorly understood feature in multiple sclerosis (MS). Whether hypoxia causes or drives MS pathology and symptoms or whether it is a consequence of other pathological events, such as inflammation and vascular dysfunction, is unknown. Here, we summarize the available literature on the interplay between hypoxia and both pathological and symptomatic features of MS. Severe environmental hypoxia (i.e., altitude) may trigger or facilitate MS-related events, possibly by exacerbating tissue hypoxia in the central nervous system. Accordingly, increasing oxygen supply can mitigate pathological and clinical parameters in MS models. In contrast, stimulating the endogenous hypoxia response and adaptation systems by controlled exposure to hypoxia (hypoxia conditioning) renders the central nervous system more resistant to hypoxic insults, thereby attenuating pathology and symptomatology in MS models. Overlapping mechanisms likely play a role in the ",
+            "journal": "Redox biology",
+            "year": "2025",
+            "authors": [
+              "Burtscher Johannes",
+              "Motl Robert W",
+              "Berek Klaus",
+              "Ehrenreich Hannelore",
+              "Kopp Martin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Multiple Sclerosis",
+              "Humans",
+              "Hypoxia",
+              "Animals",
+              "Oxygen",
+              "Central Nervous System"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40347693/"
+          },
+          {
+            "pmid": "40815459",
+            "title": "[Considerations on hypoxia and altitude].",
+            "abstract": "Hypoxia associated with altitude is known as hypobaric hypoxia and it is related to the decrease in barometric pressure and inspired oxygen pressure; as they decrease, hypoxia increases. High altitude inhabitants acclimatise-adapt with morphological, physiological and genetic changes over generations. There are major differences between high altitude, moderate altitude and sea level. The characteristics of inhabitants of places with moderate altitude have been considered similar to those who live at sea level. However, hypobaric hypoxia is present and oxygenation is lower than at sea level, and it is still unknown what other changes may be caused by hypobaric hypoxia at this altitude.",
+            "journal": "Revista medica del Instituto Mexicano del Seguro Social",
+            "year": "2025",
+            "authors": [
+              "Santos-Martínez Luis Efrén"
+            ],
+            "pub_types": [
+              "Editorial",
+              "English Abstract"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Altitude",
+              "Hypoxia",
+              "Altitude Sickness",
+              "Acclimatization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40815459/"
+          },
+          {
+            "pmid": "4585366",
+            "title": "[Cerebral hypoxia].",
+            "abstract": "",
+            "journal": "Revista medica de Chile",
+            "year": "1973",
+            "authors": [
+              "Ferrer S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adenosine Diphosphate",
+              "Adenosine Monophosphate",
+              "Adenosine Triphosphate",
+              "Animals",
+              "Brain",
+              "Brain Edema",
+              "Humans",
+              "Hypercapnia",
+              "Hypoxia, Brain",
+              "Ischemic Attack, Transient"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4585366/"
+          },
+          {
+            "pmid": "36100192",
+            "title": "Research progress on tumor hypoxia-associative nanomedicine.",
+            "abstract": "Hypoxia at the solid tumor site is generally related to the unrestricted proliferation and metabolism of cancerous cells, which can cause tumor metastasis and aggravate tumor progression. Besides, hypoxia plays a substantial role in tumor treatment, and it is one of the main reasons that malignant tumors are difficult to cure and have a poor prognosis. On account of the tumor specific hypoxic environment, many hypoxia-associative nanomedicine have been proposed for tumor treatment. Considering the enhanced targeting effect, designing hypoxia-associative nanomedicine can not only minimize the adverse effects of drugs on normal tissues, but also achieve targeted therapy at the lesion site. Mostly, there can be three strategies for the treatment of hypoxic tumor, including improvement of hypoxic environment, hypoxia responsive drug release and hypoxia activated prodrug. The review describes the design principle and applications of tumor hypoxia-associative nanomedicine in recent years, an",
+            "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+            "year": "2022",
+            "authors": [
+              "Xu Xiao-Xue",
+              "Chen Si-Yi",
+              "Yi Ning-Bo",
+              "Li Xin",
+              "Chen Si-Lin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hypoxia",
+              "Nanomedicine",
+              "Neoplasms",
+              "Prodrugs",
+              "Tumor Hypoxia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36100192/"
+          },
+          {
+            "pmid": "8817697",
+            "title": "Hypoxia and brain development.",
+            "abstract": "Hypoxia threatens brain function during the entire life-span starting from early fetal age up to senescence. This review compares the short-term, long-term and life-spanning effects of fetal chronic hypoxia and neonatal anoxia on several behavioural paradigms including novelty-induced spontaneous and learning behaviours. Furthermore, it reveals that perinatal hypoxia is an additional threat to neurodegeneration and decline of cognitive and other behaviours during the aging process. Prenatal hypoxia evokes a temporary delay of ingrowth of cholinergic and serotonergic fibres into the hippocampus and neocortex, and causes an enhanced neurodegeneration of 5-HT-ir axons during aging. Neonatal anoxia suppresses hippocampal ChAT activity and up-regulates muscarinic receptor sites for 3H-QNB and 3H-pirenzepine binding in the hippocampus in the early postnatal age. The altered development of axonal arborization and pre- and postsynaptic cholinergic functions may be an important underlying mecha",
+            "journal": "Progress in neurobiology",
+            "year": "1996",
+            "authors": [
+              "Nyakas C",
+              "Buwalda B",
+              "Luiten P G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Behavior",
+              "Brain",
+              "Humans",
+              "Hypoxia",
+              "Neurotransmitter Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8817697/"
+          },
+          {
+            "pmid": "27146279",
+            "title": "Hypoxic mechanisms in primary headaches.",
+            "abstract": "Background Hypoxia causes secondary headaches such as high-altitude headache (HAH) and headache due to acute mountain sickness. These secondary headaches mimic primary headaches such as migraine, which suggests a common link. We review and discuss the possible role of hypoxia in migraine and cluster headache. Methods This narrative review investigates the current level of knowledge on the relation of hypoxia in migraine and cluster headache based on epidemiological and experimental studies. Findings Epidemiological studies suggest that living in high-altitude areas increases the risk of migraine and especially migraine with aura. Human provocation models show that hypoxia provokes migraine with and without aura, whereas cluster headache has not been reliably induced by hypoxia. Possible pathophysiological mechanisms include hypoxia-induced release of nitric oxide and calcitonin gene-related peptide, cortical spreading depression and leakage of the blood-brain barrier. Conclusion There ",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "2017",
+            "authors": [
+              "Britze Josefine",
+              "Arngrim Nanna",
+              "Schytz Henrik Winther",
+              "Ashina Messoud"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cluster Headache",
+              "Humans",
+              "Hypoxia",
+              "Migraine Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27146279/"
+          },
+          {
+            "pmid": "37915135",
+            "title": "Regulation of CMGC kinases by hypoxia.",
+            "abstract": "Hypoxia, a widespread occurrence observed in various malignant tumors, results from rapid tumor growth that outpaces the oxygen supply. Tumor hypoxia precipitates several effects on tumor biology; these include activating angiogenesis, intensifying invasiveness, enhancing the survival of tumor cells, suppressing anti-tumor immunity, and fostering resistance to therapy. Aligned with the findings that correlate CMGC kinases with the regulation of Hypoxia-Inducible Factor (HIF), a pivotal modulator, reports also indicate that hypoxia governs the activity of CMGC kinases, including DYRK1 kinases. Prolyl hydroxylation of DYRK1 kinases by PHD1 constitutes a novel mechanism of kinase maturation and activation. This modification \"primes\" DYRK1 kinases for subsequent tyrosine autophosphorylation, a vital step in their activation cascade. This mechanism adds a layer of intricacy to comprehending the regulation of CMGC kinases, and underscores the complex interplay between distinct post-translati",
+            "journal": "BMB reports",
+            "year": "2023",
+            "authors": [
+              "Kim KyeongJin",
+              "Lee Sang Bae"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hypoxia",
+              "Neoplasms",
+              "Phosphorylation",
+              "Cell Hypoxia",
+              "Protein Processing, Post-Translational",
+              "Hypoxia-Inducible Factor 1, alpha Subunit",
+              "Tumor Microenvironment"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37915135/"
+          },
+          {
+            "pmid": "24557798",
+            "title": "Translation in progress: hypoxia.",
+            "abstract": "",
+            "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+            "year": "2014",
+            "authors": [
+              "Roach Robert C",
+              "Wagner Peter D",
+              "Hackett Peter H"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Introductory Journal Article"
+            ],
+            "mesh_terms": [
+              "Acclimatization",
+              "Altitude",
+              "Animals",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Oxygen",
+              "Signal Transduction",
+              "Translational Research, Biomedical"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24557798/"
+          },
+          {
+            "pmid": "27423661",
+            "title": "Hypoxia in tissue repair and fibrosis.",
+            "abstract": "Hypoxia and hypoxia signalling through the transcription factor hypoxia inducible factor-1 (HIF-1), play an important role in normal tissue repair processes. Tissue injury generally produces at least the transient loss of normal vascular perfusion and the resulting hypoxia induces the expression of many genes that allow the tissue to adapt to hypoxia, to start the repair process and, in time, to re-establish oxygen delivery to the tissue. In most cases, transient hypoxia and the activation of the HIF-1 pathway are beneficial and promote the repair process, producing tissue that might not perfectly reform its original architecture but that has its function substantially restored. However, in some cases of chronic injury, chronic hypoxia and pathological repair, the hypoxia pathway might be responsible for driving the process of fibrosis and can lead to excessive scarring and compromised organ function.",
+            "journal": "Cell and tissue research",
+            "year": "2016",
+            "authors": [
+              "Darby Ian A",
+              "Hewitson Tim D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Disease",
+              "Fibrosis",
+              "Humans",
+              "Hypoxia",
+              "Organ Specificity",
+              "Oxygen",
+              "Wound Healing"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27423661/"
+          },
+          {
+            "pmid": "37572528",
+            "title": "Inverse correlation between Alzheimer's disease and cancer from the perspective of hypoxia.",
+            "abstract": "Sporadic Alzheimer's disease and cancer remain epidemiologically inversely related, and exploring the reverse pathogenesis is important for our understanding of both. Cognitive dysfunctions in Alzheimer's disease (AD) might result from the depletion of adaptive reserves in the brain. Energy storage in the brain is limited and is dynamically regulated by neurovascular and neurometabolic coupling. The research on neurodegenerative diseases has been dominated by the neurocentric view that neuronal defects cause the diseases. However, the proposal of the 2-hit vascular hypothesis in AD led us to focus on alterations in the vasculature, especially hypoperfusion. Chronic hypoxia is a feature shared by AD and cancer. It is interesting how contradicting chronic hypoxia's effects on both cancer and AD are. In this article, we discuss the potential links between the 2 diseases' etiology, from comparable upstream circumstances to diametrically opposed downstream effects. We suggest opposing poten",
+            "journal": "Neurobiology of aging",
+            "year": "2023",
+            "authors": [
+              "Su Zhan",
+              "Zhang Guimei",
+              "Li Xiangting",
+              "Zhang Haining"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alzheimer Disease",
+              "Brain",
+              "Hypoxia",
+              "Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37572528/"
+          },
+          {
+            "pmid": "28493839",
+            "title": "Hypoxia inducible factors in hepatocellular carcinoma.",
+            "abstract": "Hepatocellular carcinoma is one of the most prevalent and lethal cancers with limited therapeutic options. Pathogenesis of this disease involves tumor hypoxia and the activation of hypoxia inducible factors. In this review, we describe the current understanding of hypoxia signaling pathway and summarize the expression, function and target genes of hypoxia inducible factors in hepatocellular carcinoma. We also highlight the recent progress in hypoxia-targeted therapeutic strategies in hepatocellular carcinoma and discuss further the future efforts for the study of hypoxia and/or hypoxia inducible factors in this deadly disease.",
+            "journal": "Oncotarget",
+            "year": "2017",
+            "authors": [
+              "Chen Chu",
+              "Lou Tao"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Biomarkers",
+              "Carcinoma, Hepatocellular",
+              "Energy Metabolism",
+              "Gene Expression Regulation, Neoplastic",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Liver Neoplasms",
+              "Molecular Targeted Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28493839/"
+          },
+          {
+            "pmid": "31961750",
+            "title": "Hypoxia and Innate Immunity: Keeping Up with the HIFsters.",
+            "abstract": "Recent years have witnessed an emergence of interest in understanding metabolic changes associated with immune responses, termed immunometabolism. As oxygen is central to all aerobic metabolism, hypoxia is now recognized to contribute fundamentally to inflammatory and immune responses. Studies from a number of groups have implicated a prominent role for oxygen metabolism and hypoxia in innate immunity of healthy tissue (physiologic hypoxia) and during active inflammation (inflammatory hypoxia). This inflammatory hypoxia emanates from a combination of recruited inflammatory cells (e.g., neutrophils, eosinophils, and monocytes), high rates of oxidative metabolism, and the activation of multiple oxygen-consuming enzymes during inflammation. These localized shifts toward hypoxia have identified a prominent role for the transcription factor hypoxia-inducible factor (HIF) in the regulation of innate immunity. Such studies have provided new and enlightening insight into our basic understandin",
+            "journal": "Annual review of immunology",
+            "year": "2020",
+            "authors": [
+              "Colgan Sean P",
+              "Furuta Glenn T",
+              "Taylor Cormac T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dendritic Cells",
+              "Disease Management",
+              "Disease Susceptibility",
+              "Energy Metabolism",
+              "Gene Expression Regulation",
+              "Host-Pathogen Interactions",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31961750/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "pulmonary hypertension owing to lung disease and/or hypoxia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20pulmonary%20hypertension%20owing%20to%20lung%20disease%20and/or%20hypoxia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Braddock syndrome",
+        "txgnn_score": 0.9936760067939758,
+        "txgnn_rank": 1400,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "Braddock syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20Braddock%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "chronic pulmonary heart disease",
+        "txgnn_score": 0.94551283121109,
+        "txgnn_rank": 7212,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01656005",
+            "title": "Evaluation of Effects of Chronic Dose Exposure to Cardioselective and Non-cardioselective Beta Blockers on Measures of Cardiopulmonary Function in Moderate to Severe COPD.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2012-08",
+            "completion_date": "2016-07",
+            "country": "United Kingdom",
+            "enrollment": 18,
+            "brief_summary": "Beta blockers are a type of medication mainly used for heart disease. They are commonly used to treat 'angina' and to prevent heart attacks. Patients with COPD are more likely to suffer from heart disease and so already benefit from this treatment for this reason. In addition to this, new research suggests that there may be further benefit of using beta blockers for COPD, even without also having heart disease.\n\nThe reason why beta blockers are not widely used in COPD at present is because of th",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Moderate to severe COPD (GOLD stage 2 and 3)\n* FEV1 30-80% predicted\n* No exacerbation in previous 3 months\n* Smoking history ≥ 10 pack years\n* Oxygen saturations≥ 92% on room air at rest\n* ECG demonstrating sinus rhythm\n\nExclusion Criteria:\n\n* Use of domiciliary oxygen\n* Hist",
+            "endpoints": [
+              "Change in airway resistance at 5HZ (R5) using impulse oscillometry from baseline."
+            ],
+            "sponsor": "University of Dundee",
+            "url": "https://clinicaltrials.gov/study/NCT01656005"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03370835",
+            "title": "Randomized Open-Label Crossover Trial Comparing Tolerability of a Cardioselective Beta-Blocker (Metoprolol-Succinate-ER) and a Non-Cardioselective Beta-Blocker (Carvedilol) in Patients With Chronic Obstructive Pulmonary Disease",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2004-06",
+            "completion_date": "2008-06",
+            "country": "United States",
+            "enrollment": 21,
+            "brief_summary": "Use of beta-blockers has proven beneficial in patients with hypertension, heart failure, and in people who have suffered a heart attack. The use in patients who have Chronic Obstructive Pulmonary Disease (COPD) and reactive airway disease, however, has been limited due to possible side effects such as worsening of lung function or increasing airway spasms and asthma attacks. The purpose of this study is to find out if patients with COPD can tolerate being on a beta-blocker at doses recommended f",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 40 years of age or older\n* Mild to moderate COPD as defined by the American Thoracic Society\n* Current treatment with a beta-blocker for either hypertension, myocardial infarction, or congestive heart failure.\n\nExclusion Criteria:\n\n* Recent (within 30 days) COPD exacerbation o",
+            "endpoints": [
+              "Percent Change in FEV1"
+            ],
+            "sponsor": "VA Greater Los Angeles Healthcare System",
+            "url": "https://clinicaltrials.gov/study/NCT03370835"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00517725",
+            "title": "Nebivolol Versus Bisoprolol Versus Carvedilol in Heart Failure: Effects on Exercise Capacity and Hypoxia, Chemoreceptor Response, Pulmonary Function",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2007-07",
+            "completion_date": "2010-05",
+            "country": "Italy",
+            "enrollment": 60,
+            "brief_summary": "The investigators test the hypothesis that different beta-blockers had a different influence on chemoreceptor response and lung diffusion capacity.\n\nBoth could influence exercise capacity in normoxic as well as hypoxic conditions.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic heart failure patients in stable clinical condition\n\nExclusion Criteria:\n\n* No comorbidity\n* NYHA class IV",
+            "endpoints": [
+              "exercise capacity"
+            ],
+            "sponsor": "Centro Cardiologico Monzino",
+            "url": "https://clinicaltrials.gov/study/NCT00517725"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06697353",
+            "title": "ROVER Japan/ Real-world Outcomes of Patients Treated With Vericiguat in Japanese Routine Care: a Retrospective Cohort Study Using a Hospital Administrative Database",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2024-11-01",
+            "completion_date": "2025-09-19",
+            "country": "Japan",
+            "enrollment": 4936,
+            "brief_summary": "This is an observational study in which data already collected from people with chronic heart failure is studied.\n\nChronic HFrEF is a long-term condition where the left side of the heart does not pump blood out to the body as well as it should. Blood and fluid may collect in the lungs, blood vessels, and tissues causing shortness of breath or tiredness. Over time, heart failure can lead to other serious medical conditions that may result in hospital stays or even death.\n\nThe study drug, vericigu",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatients who initiate vericiguat (identified by Anatomical Therapeutic Chemical \\[ATC\\] code C01DX22, generic name and receipt code \\[to be defined in the SAP\\]) between September 2021 and July 2024\n\n* Patients who have diagnosis code of HF (identified by World Health Organizati",
+            "endpoints": [
+              "Incidence rates of clinical outcomes in patients who initiate vericiguat"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT06697353"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03646357",
+            "title": "BEtablocker Treatment After Acute Myocardial Infarction in Patients Without Reduced Left Ventricular Systolic Function (BETAMI)",
+            "phase": "PHASE4",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2018-10-01",
+            "completion_date": "2035-12-10",
+            "country": "Norway",
+            "enrollment": 2895,
+            "brief_summary": "The study aims to investigate whether oral betablocker (BB) therapy is superior to no such treatment following an acute myocardial infarction (AMI).",
+            "eligibility_criteria": "Inclusion Criteria\n\nTo be eligible for inclusion in the study, subjects must fulfill the following criteria at inclusion:\n\n* 18 years or older\n* Diagnosed with an acute MI type I according to the \"Universal Definition of MI\" (Defined as a detection of a rise and/or fall of cardiac biomarker value, p",
+            "endpoints": [
+              "A composite of death of any cause, recurrent myocardial infarction, incident heart failure, coronary revascularization, ischemic stroke, malignant ventricular arrhythmia including resuscitated cardiac arrest of cardiac origin"
+            ],
+            "sponsor": "Oslo University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03646357"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00292162",
+            "title": "Radiofrequency Ablation for Atrial Fibrillation in Advanced Chronic Heart Failure",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-01",
+            "completion_date": "2009-07",
+            "country": "United Kingdom",
+            "enrollment": 41,
+            "brief_summary": "Heart failure is a condition that occurs when the heart muscle weakens and no longer contracts normally. Half of these patients have an irregularity of heart rhythm called atrial fibrillation (AF). Patients with both heart failure and AF spend more time in hospital, and die earlier than those with heart failure alone. AF is difficult to treat with conventional methods in patients with heart failure. Radiofrequency ablation is a new technique used to cure AF. The investigators aim to establish if",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Informed consent\n* Persistent atrial fibrillation (AF)\n* New York Heart Association (NYHA) II, III and IV chronic heart failure (CHF) despite optimal medical therapy for at least 3 months\n* left ventricular ejection fraction (LVEF) \\<35% - as measured by radionuclide ventricul",
+            "endpoints": [
+              "Change in Left Ventricular Ejection Fraction by Magnetic Resonance Imaging (MRI)%",
+              "Baseline Left Ventricular Ejection Fraction by Magnetic Resonance Imaging (MRI)",
+              "Left Ventricular Ejection Fraction by Magnetic Resonance Imaging (MRI)at 6 Months"
+            ],
+            "sponsor": "NHS Greater Glasgow and Clyde",
+            "url": "https://clinicaltrials.gov/study/NCT00292162"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00384566",
+            "title": "The CAMERA Study: CArvedilol MEtoprolol Respiratory Assessment Investigator Trial",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2005-06",
+            "completion_date": "2008-04",
+            "country": "Australia",
+            "enrollment": 0,
+            "brief_summary": "This study looks at the effect of two drugs (carvedilol and metoprolol) which are used for patients with CHF (chronic heart failure).\n\nThese agents are beta-blockers and, although effective in heart failure, may cause increases in airways tone and thus limit air getting into the lower parts of the lungs. Carvedilol is more active at blocking the receptor that opens up the airways and therefore theoretically may be more likely to reduce airways tone than metoprolol, although this has never been s",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* males and females over 18 years of age\n* Documented CHF (NYHA class II-IV symptoms)\n* Airflow obstruction defined as patients with symptomatic obstructive respiratory disease as manifest by any of the following Symptoms of wheeze, primarily attributed to airflow obstruction Re",
+            "endpoints": [
+              "Respiratory function",
+              "NYHA class with the use of the 7 point scale (Packer).",
+              "Minnesota \"living with Heart Failure\" questionnaire."
+            ],
+            "sponsor": "The Alfred",
+            "url": "https://clinicaltrials.gov/study/NCT00384566"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05580510",
+            "title": "\"An Open-label Clinical Trial to Evaluate the Safety and Efficacy of Empagliflozin and Sacubitril/Valsartan in Adult Patients With Chronic Heart Failure With Reduced Ejection Fraction Associated With Congenital Heart Disease\"",
+            "phase": "PHASE2, PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2023-02-06",
+            "completion_date": "2024-03-29",
+            "country": "Mexico",
+            "enrollment": 160,
+            "brief_summary": "The treatment of adult patients with congenital heart disease (ACHD) and heart failure (HF) represents a great challenge since, to date, there is no standardized guideline for this specific population. Although new treatments for HF have been proposed, such as Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors and neprilisin and angiotensin receptor inhibitors, the benefit of these drugs in patients with HF associated with congenital heart disease in adults has not yet been demonstrated. For this",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* NYHA functional class II-IV\n* Diagnosis of CHD: repaired, palliated or without previous treatment\n* Systemic ventricular ejection fraction \\<40%\n* Without unplanned hospital admissions within 3 months prior to randomization\n* The participant is willing and able to give informe",
+            "endpoints": [
+              "3D echocardiographic systemic ventricular end-diastolic volume index",
+              "3D echocardiographic systemic ventricular end-systolic volume index"
+            ],
+            "sponsor": "Instituto Nacional de Cardiologia Ignacio Chavez",
+            "url": "https://clinicaltrials.gov/study/NCT05580510"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00878384",
+            "title": "A Randomised Trial to Assess Catheter Ablation Versus Rate-Control in the Management of Persistent Atrial Fibrillation in Chronic Heart Failure",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-04",
+            "completion_date": "2012-07",
+            "country": "United Kingdom",
+            "enrollment": 52,
+            "brief_summary": "It is still uncertain what the best treatment is for patients who have both atrial fibrillation (AF) and heart failure. The aim of the study is to help identify the optimal treatment for patients with these two significant medical conditions. This will be performed by comparing two alternative strategies for AF management: catheter ablation (to restore normal rhythm) and medical therapy (to control heart rate, but not aiming ro restore normal rhythm). After random assignment, the effect of each ",
+            "eligibility_criteria": "Inclusion criteria:\n\n* Age ≥ 18 years, \\< 80years\n* NYHA II-IV symptoms\n* Impairment of left ventricular systolic function (left ventricular ejection fraction estimated as ≤ 35% by radionuclide ventriculography)\n* Documented AF lasting for at least 7 days (persistent or permanent AF)\n\nExclusion crit",
+            "endpoints": [
+              "Peak oxygen consumption at cardiopulmonary exercise test"
+            ],
+            "sponsor": "Royal Brompton & Harefield NHS Foundation Trust",
+            "url": "https://clinicaltrials.gov/study/NCT00878384"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02120339",
+            "title": "Beta Blockers in Pulmonary Arterial Hypertension (PAH) A Pilot Study of Efficacy and Safety",
+            "phase": "PHASE1",
+            "status": "TERMINATED",
+            "start_date": "2014-05",
+            "completion_date": "2016-06",
+            "country": "United States",
+            "enrollment": 5,
+            "brief_summary": "Estimate the effect of chronic beta-adrenergic receptor blockade with carvedilol on RV function in patients with PAH.\n\nAssess the safety and tolerability of chronic carvedilol therapy in patients with PAH",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Subjects will be eligible to participate in the study if all of the following conditions exist:\n2. Age \\> 18 years\n3. WHO category 1 pulmonary arterial hypertension (Dana Point 2008)\n4. WHO functional class II-III\n5. RVEF by cardiac MRI \\< 40%\n6. Mean pulmonary artery pressur",
+            "endpoints": [
+              "Mean change in RVEF"
+            ],
+            "sponsor": "University of Minnesota",
+            "url": "https://clinicaltrials.gov/study/NCT02120339"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03778554",
+            "title": "Danish Trial of Beta Blocker Treatment After Myocardial Infarction Without Reduced Ejection Fraction (DANBLOCK)",
+            "phase": "PHASE4",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2018-12-17",
+            "completion_date": "2035-12-10",
+            "country": "Denmark",
+            "enrollment": 2760,
+            "brief_summary": "To determine whether long-term treatment with oral betablocker therapy after myocardial infarction in patient with no heart failure reduces the composite outcome of recurrent MI, all-cause mortality, revascularisation with percutaneous coronary intervention or coronary artery bypass graft, ischemic stroke, incident heart failure, or malignant ventricular arrhythmia including resuscitated cardiac arrest of cardiac origin.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Left ventricular ejection fraction \\> 40%\n* Myocardial infarction (MI) within previous two weeks\n\nThe diagnosis of acute MI must meet the Universal European Society of Cardiology (ESC) definition of MI\n\nExclusion Criteria:\n\n* Clinical evidence of heart failure at the time of d",
+            "endpoints": [
+              "A composite of all-cause mortality, recurrent MI, revascularisation with PCI or CABG, ischemic stroke, incident heart failure, or malignant ventricular arrhythmia including resuscitated cardiac arrest of cardiac origin."
+            ],
+            "sponsor": "Bispebjerg Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03778554"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00924833",
+            "title": "Comparison of the Cardiovascular, Metabolic and Respiratory Effects of Nebivolol and Carvedilol at High Altitude in Healthy Subjects.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2006-05",
+            "completion_date": "2006-11",
+            "country": "Italy",
+            "enrollment": 27,
+            "brief_summary": "Exposure of healthy subjects to high altitude hypoxia elicits changes in cardiovascular, respiratory and metabolic features as weel as in exercise performance similar, for some aspects, to those observed in chronic heart failure. Exposure to high altitude hypoxia represents a suitable model to assess different treatments proposed for this pathological condition. Our aim was to evaluate the impact of two different third-generation beta-blockers used in heart failure (carvedilol and nebivolol) on ",
+            "eligibility_criteria": "Inclusion Criteria\n\n* Men or women of any racial background\n* healthy\n* sealevel resident\n* age \\>= 18 years, =\\< 65 years\n* SBP\\< 130 mmHg and DBP\\< 80 mmHg, average of two measures at the sceening visit\n* FG \\< 100 mg/dl (5.6 mmol/l)\n* BMI \\< 25\n* written informed consent signed\n\nExclusion Criteri",
+            "endpoints": [
+              "Peak Exercise Oxygen Consumption",
+              "Delta Peak Exercise Oxygen Consumption Time 1 Versus Time 3",
+              "Peak Exercise Minute Ventilation"
+            ],
+            "sponsor": "Istituto Auxologico Italiano",
+            "url": "https://clinicaltrials.gov/study/NCT00924833"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "31521680",
+            "title": "Diagnostic and Therapeutic Gaps in Patients With Heart Failure and Chronic Obstructive Pulmonary Disease.",
+            "abstract": "Heart failure (HF) and chronic obstructive pulmonary disease (COPD) coincide in a significant number of patients. Recent population-based registries suggest that spirometry is largely underused in patients with HF to diagnose comorbid COPD and that patients with COPD frequently do not receive the recommended beta-blocker (BB) treatment. This state-of-the-art review summarizes: 1) current challenges in the implementation of recommended spirometry for COPD diagnosis in patients with HF; and 2) current underuse and underdosing of BBs in patients with HF and COPD despite guideline recommendations. Open issues in the therapeutic management of patients with HF and COPD are discussed in the third section, including the use of the nonselective BB carvedilol, target BB doses in patients with HF and COPD, BB and bronchodilator management during HF hospitalization with and without COPD exacerbation, and the use of BBs in patients with COPD with right HF or free from cardiovascular disease. The wh",
+            "journal": "JACC. Heart failure",
+            "year": "2019",
+            "authors": [
+              "Canepa Marco",
+              "Franssen Frits M E",
+              "Olschewski Horst",
+              "Lainscak Mitja",
+              "Böhm Michael"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Adrenal Cortex Hormones",
+              "Adrenergic beta-Agonists",
+              "Adrenergic beta-Antagonists",
+              "Angiotensin Receptor Antagonists",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Bronchodilator Agents",
+              "Disease Progression",
+              "Diuretics",
+              "Guideline Adherence"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31521680/"
+          },
+          {
+            "pmid": "29159953",
+            "title": "Relationship between heart failure, concurrent chronic obstructive pulmonary disease and beta-blocker use: a Danish nationwide cohort study.",
+            "abstract": "To compare the hazard of all-cause, chronic obstructive pulmonary disease (COPD) and heart failure (HF) hospitalization in carvedilol vs. metoprolol/bisoprolol/nebivolol users with COPD and concurrent HF from 2009 to 2012, and to evaluate the use and persistence in treatment of these β-blockers, their impact on the risk of COPD-related hospitalization, and the factors important for their selection.",
+            "journal": "European journal of heart failure",
+            "year": "2018",
+            "authors": [
+              "Sessa Maurizio",
+              "Mascolo Annamaria",
+              "Mortensen Rikke Nørmark",
+              "Andersen Mikkel Porsborg",
+              "Rosano Giuseppe Massimo Claudio"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-1 Receptor Agonists",
+              "Aged",
+              "Bisoprolol",
+              "Carvedilol",
+              "Cause of Death",
+              "Comorbidity",
+              "Denmark",
+              "Drug Therapy, Combination",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29159953/"
+          },
+          {
+            "pmid": "32000982",
+            "title": "Metoprolol Versus Carvedilol in Patients With Heart Failure, Chronic Obstructive Pulmonary Disease, Diabetes Mellitus, and Renal Failure.",
+            "abstract": "This study compared the survival and the risk of heart failure (HF), chronic obstructive pulmonary disease (COPD), diabetes mellitus (DM), hypoglycemia, and renal failure (RF) hospitalizations in geriatric patients exposed to carvedilol or metoprolol. Data sources were Danish administrative registers. Patients aged ≥65 and having HF, COPD, and DM were followed for 1 year from the first β-blocker prescription redemption. Patients' characteristics were used to 1:1 propensity score match carvedilol and metoprolol users. A Cox regression model was used to compute the hazard ratio (HR) of study outcomes. For statistically significant associations, a conditional inference tree was used to assess predictors most associated with the outcome. In total, 1,424 patients were included. No statistically significant differences were observed for survival (HR 0.86; 95% confidence interval [CI] 0.67 to 1.11, p = 0.240) between carvedilol/metoprolol users. The same applied to COPD (HR 0.88; 95% CI 0.75 ",
+            "journal": "The American journal of cardiology",
+            "year": "2020",
+            "authors": [
+              "Sessa Maurizio",
+              "Rasmussen Daniel Bech",
+              "Jensen Magnus Thorsten",
+              "Kragholm Kristian",
+              "Torp-Pedersen Christian"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adrenergic alpha-1 Receptor Antagonists",
+              "Adrenergic beta-1 Receptor Antagonists",
+              "Aged",
+              "Carvedilol",
+              "Comorbidity",
+              "Denmark",
+              "Female",
+              "Follow-Up Studies",
+              "Heart Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32000982/"
+          },
+          {
+            "pmid": "18294490",
+            "title": "Chronic obstructive pulmonary disease in heart failure. Prevalence, therapeutic and prognostic implications.",
+            "abstract": "Patients with heart failure (HF) frequently have comorbidities. Frequency, prognostic, and therapeutic implications of chronic obstructive pulmonary disease (COPD) in HF are largely unknown. We aimed to assess the prevalence and prognostic implications of COPD in a sample of stable patients with HF and to determine the frequency of beta-blocker (bB) use and rate of withdrawal according to COPD coexistence.",
+            "journal": "American heart journal",
+            "year": "2008",
+            "authors": [
+              "Mascarenhas Joana",
+              "Lourenço Patrícia",
+              "Lopes Ricardo",
+              "Azevedo Ana",
+              "Bettencourt Paulo"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Carbazoles",
+              "Carvedilol",
+              "Cause of Death",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Follow-Up Studies",
+              "Forced Expiratory Volume",
+              "Heart Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18294490/"
+          },
+          {
+            "pmid": "31391573",
+            "title": "Beta-blocker choice and exchangeability in patients with heart failure and chronic obstructive pulmonary disease: an Italian register-based cohort study.",
+            "abstract": "Clinical guidelines suggest that for patients with heart failure and concurrent chronic obstructive pulmonary disease (COPD), metoprolol/bisoprolol/nebivolol should be preferred over carvedilol. However, studies suggest a high proportion of carvedilol usage that remains unexplained. Therefore, we aimed to investigate the predictors of carvedilol choice in patients with heart failure and COPD that were naïve to carvedilol or metoprolol/bisoprolol/nebivolol. Caserta Local Health Unit databases (Italy) were used as data sources. Age, sex, chronic/acute comorbidities, and co-medications were included in a logistic regression model to assess predictors of carvedilol choice. Chronic comorbidities include those defined in the Elixhauser comorbidity index and all hospitalizations within two years prior to the first beta-blocker prescription. Comedications include all redeemed prescriptions within one year prior to the beta-blocker prescription. Kernel density estimations were used to assess th",
+            "journal": "Scientific reports",
+            "year": "2019",
+            "authors": [
+              "Sessa Maurizio",
+              "Mascolo Annamaria",
+              "Rasmussen Daniel Bech",
+              "Kragholm Kristian",
+              "Jensen Magnus Thorsten"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Aged, 80 and over",
+              "Atrioventricular Block",
+              "Bisoprolol",
+              "Carvedilol",
+              "Cerebrovascular Disorders",
+              "Cohort Studies",
+              "Comorbidity",
+              "Drug Prescriptions"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31391573/"
+          },
+          {
+            "pmid": "15358010",
+            "title": "Therapeutic update: non-selective beta- and alpha-adrenergic blockade in patients with coexistent chronic obstructive pulmonary disease and chronic heart failure.",
+            "abstract": "Patients with chronic heart failure (CHF) have a resting restrictive ventilatory defect. Any type of exercise requires patients with CHF to markedly increase their minute ventilation. Patients with chronic obstructive pulmonary disease (COPD) have airflow obstruction that leads to dynamic lung hyperinflation and reduced ventilatory response to exercise. Because exercise is associated with abnormally high minute ventilation in patients with CHF and with a limited minute ventilation increase in patients with COPD, functional capacity is severely impaired in patients with coexistent CHF and COPD. Optimal treatment of both conditions is a prerequisite to maximally improve functional capacity in patients with CHF and COPD. Unfortunately, beta-adrenergic blockade, the current cornerstone of CHF therapy, is frequently omitted in patients with CHF and COPD for fear of inducing bronchoconstriction. Furthermore, when prescribed, beta-adrenergic blockade is often attempted with a moderate dose of",
+            "journal": "Journal of the American College of Cardiology",
+            "year": "2004",
+            "authors": [
+              "Sirak Tseday E",
+              "Jelic Sanja",
+              "Le Jemtel Thierry H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-Antagonists",
+              "Adrenergic beta-Antagonists",
+              "Bronchoconstriction",
+              "Bronchodilator Agents",
+              "Carbazoles",
+              "Carvedilol",
+              "Chronic Disease",
+              "Heart Failure",
+              "Humans",
+              "Propanolamines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15358010/"
+          },
+          {
+            "pmid": "26844454",
+            "title": "Carvedilol, Bisoprolol, and Metoprolol Use in Patients With Coexistent Heart Failure and Chronic Obstructive Pulmonary Disease.",
+            "abstract": "Beta (β)-blockers are under-prescribed in patients with heart failure (HF) and concurrent chronic obstructive pulmonary disease (COPD) due to concerns about adverse pulmonary effects and a poor understanding of the effects of these drugs. We aimed to evaluate the survival effects of β-blockers in patients with coexistent HF and COPD. Using the Taiwan National Health Insurance Research Database, we conducted a nationwide population-based study. Patients with coexistent HF and COPD diagnosed between 2000 and 2009 were enrolled. Doses of the 3 β-blockers proven to be beneficial to HF (carvedilol, bisoprolol, and metoprolol) during the study period were extracted. The primary endpoint was cumulative survival. Patients were followed until December 31, 2009. The study included 11,558 subjects, with a mean follow-up period of 4.07 years. After adjustment for age, sex, comorbidities, and severity of HF and COPD, bisoprolol use showed a dose-response survival benefit [low dose: adjusted hazard ",
+            "journal": "Medicine",
+            "year": "2016",
+            "authors": [
+              "Su Vincent Yi-Fong",
+              "Chang Yu-Sheng",
+              "Hu Yu-Wen",
+              "Hung Man-Hsin",
+              "Ou Shuo-Ming"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Bisoprolol",
+              "Carbazoles",
+              "Carvedilol",
+              "Contraindications",
+              "Female",
+              "Heart Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26844454/"
+          },
+          {
+            "pmid": "12490274",
+            "title": "Tolerability of carvedilol in patients with heart failure and concomitant chronic obstructive pulmonary disease or asthma.",
+            "abstract": "A substantial proportion of the population with congestive heart failure (CHF) has concomitant airway disease. Little information exists on the tolerability of carvedilol in patients with chronic obstructive pulmonary disease (COPD). In this study, we assessed the tolerability and efficacy of carvedilol in patients with CHF and concomitant COPD or asthma.",
+            "journal": "The Journal of heart and lung transplantation : the official publication of the International Society for Heart Transplantation",
+            "year": "2002",
+            "authors": [
+              "Kotlyar Eugene",
+              "Keogh Anne M",
+              "Macdonald Peter S",
+              "Arnold Ruth H",
+              "McCaffrey Dermot J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Adult",
+              "Aged",
+              "Asthma",
+              "Carbazoles",
+              "Carvedilol",
+              "Chi-Square Distribution",
+              "Cohort Studies",
+              "Comorbidity",
+              "Dose-Response Relationship, Drug"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12490274/"
+          },
+          {
+            "pmid": "20413026",
+            "title": "Differences between beta-blockers in patients with chronic heart failure and chronic obstructive pulmonary disease: a randomized crossover trial.",
+            "abstract": "The purpose of this study was to determine the respiratory, hemodynamic, and clinical effects of switching between beta1-selective and nonselective beta-blockers in patients with chronic heart failure (CHF) and chronic obstructive pulmonary disease (COPD).",
+            "journal": "Journal of the American College of Cardiology",
+            "year": "2010",
+            "authors": [
+              "Jabbour Andrew",
+              "Macdonald Peter S",
+              "Keogh Anne M",
+              "Kotlyar Eugene",
+              "Mellemkjaer Soren"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Bisoprolol",
+              "Carbazoles",
+              "Carvedilol",
+              "Chronic Disease",
+              "Cross-Over Studies",
+              "Echocardiography"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20413026/"
+          },
+          {
+            "pmid": "22015086",
+            "title": "Differences between bisoprolol and carvedilol in patients with chronic heart failure and chronic obstructive pulmonary disease: a randomized trial.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) frequently coexists in patients with chronic heart failure (CHF) and is a key factor for beta blocker underprescription and underdosing. This study compared effects of bisoprolol and carvedilol in patients with both conditions.",
+            "journal": "Respiratory medicine",
+            "year": "2011",
+            "authors": [
+              "Lainscak Mitja",
+              "Podbregar Matej",
+              "Kovacic Dragan",
+              "Rozman Janez",
+              "von Haehling Stephan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Antihypertensive Agents",
+              "Bisoprolol",
+              "Carbazoles",
+              "Carvedilol",
+              "Chronic Disease",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Forced Expiratory Volume"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22015086/"
+          },
+          {
+            "pmid": "18257600",
+            "title": "Use of beta-adrenoceptor antagonists in older patients with chronic obstructive pulmonary disease and cardiovascular co-morbidity: safety issues.",
+            "abstract": "The incidence of and mortality from both chronic obstructive pulmonary disease (COPD) and cardiovascular disease (CVD) increase with age. In addition, the average age of patients with COPD and CVD is also increasing as a result of improvements in both pharmacological and non-pharmacological treatments. Coronary artery disease is a compelling indication for beta-adrenoceptor antagonist use in a population in whom beta-adrenoceptor antagonism is often viewed as contraindicated. beta-Adrenoceptor antagonists have been proven to improve cardiovascular morbidity and mortality but have been under-utilized in patients with COPD with concomitant CVD because of a fear of bronchoconstriction and adverse effects, particularly in the elderly. The advanced age of patients with COPD and CVD, along with the sheer number of patients with these diseases, necessitates that clinicians understand the treatment of these co-morbidities using seemingly conflicting therapy in the form of beta-adrenoceptor ago",
+            "journal": "Drugs & aging",
+            "year": "2008",
+            "authors": [
+              "Andrus Miranda R",
+              "Loyed Joyce V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Age Factors",
+              "Aged",
+              "Cardiovascular Diseases",
+              "Clinical Trials as Topic",
+              "Heart Failure",
+              "Humans",
+              "Meta-Analysis as Topic",
+              "Pulmonary Disease, Chronic Obstructive"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18257600/"
+          },
+          {
+            "pmid": "17561440",
+            "title": "Lung function with carvedilol and bisoprolol in chronic heart failure: is beta selectivity relevant?",
+            "abstract": "Carvedilol is a beta-blocker with similar affinity for beta1- and beta2 receptors, while bisoprolol has higher beta1 affinity. The respiratory system is characterized by beta2-receptor prevalence. Airway beta receptors regulate bronchial tone and alveolar beta receptors regulate alveolar fluid re-absorption which influences gas diffusion.",
+            "journal": "European journal of heart failure",
+            "year": "2007",
+            "authors": [
+              "Agostoni Piergiuseppe",
+              "Contini Mauro",
+              "Cattadori Gaia",
+              "Apostolo Anna",
+              "Sciomer Susanna"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Bisoprolol",
+              "Carbazoles",
+              "Carvedilol",
+              "Chronic Disease",
+              "Cross-Over Studies",
+              "Double-Blind Method",
+              "Exercise",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17561440/"
+          },
+          {
+            "pmid": "35135688",
+            "title": "Cardioselective Versus Nonselective β-Blockers After Myocardial Infarction in Adults With Chronic Obstructive Pulmonary Disease.",
+            "abstract": "To investigate which types of β-blockers have better efficacy and safety profiles in patients with concomitant chronic obstructive pulmonary disease (COPD) and myocardial infarction (MI) to address concerns about use of β-blockers in COPD.",
+            "journal": "Mayo Clinic proceedings",
+            "year": "2022",
+            "authors": [
+              "Chung Chang-Min",
+              "Lin Ming-Shyan",
+              "Chang Shih-Tai",
+              "Wang Po-Chang",
+              "Yang Teng-Yao"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Adult",
+              "Heart Failure",
+              "Hospitalization",
+              "Humans",
+              "Myocardial Infarction",
+              "Pulmonary Disease, Chronic Obstructive"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35135688/"
+          },
+          {
+            "pmid": "23795728",
+            "title": "Considerations on safety and treatment of patients with chronic heart failure at high altitude.",
+            "abstract": "Prognosis and quality of life of chronic heart failure (HF) patients have greatly improved over the last decade. Consequently, many patients are willing to spend leisure time at altitude, usually <3500 m, but their safety in doing so is undefined. HF is a syndrome that often has relevant co-morbidities, such as pulmonary hypertension, COPD, unstable cardiac ischemia, and anemia. HF co-morbidities may per se impede a safe stay at altitude. Exercise at simulated altitude is associated with a reduction in performance, which is greater in HF patients than in normal subjects and greater in patients with most severe HF. In normal subjects, the reduction in performance is ∼2% every 1000 m altitude increase, whereas it is 4% and 10% in HF patients with normal or slightly diminished exercise capacity and in HF patients with markedly diminished exercise capacity. On-field experience with HF patients at altitude is limited to subjects driven to altitude (3454 m) for a few hours. The data showed a",
+            "journal": "High altitude medicine & biology",
+            "year": "2013",
+            "authors": [
+              "Agostoni Piergiuseppe"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adaptation, Physiological",
+              "Adrenergic beta-Antagonists",
+              "Altitude",
+              "Chronic Disease",
+              "Exercise Tolerance",
+              "Heart Failure",
+              "Humans",
+              "Leisure Activities"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23795728/"
+          },
+          {
+            "pmid": "27792991",
+            "title": "Protective effects of bisoprolol against myocardial injury and pulmonary dysfunction in patients with chronic heart failure.",
+            "abstract": "This study was designed to elucidate differences in effects of 2 beta blockers, bisoprolol and carvedilol, in patients with chronic heart failure.",
+            "journal": "International journal of cardiology",
+            "year": "2017",
+            "authors": [
+              "Toyoda Shigeru",
+              "Haruyama Akiko",
+              "Inami Shu",
+              "Amano Hirohisa",
+              "Arikawa Takuo"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-1 Receptor Antagonists",
+              "Aged",
+              "Bisoprolol",
+              "Cardiotonic Agents",
+              "Chronic Disease",
+              "Female",
+              "Follow-Up Studies",
+              "Forced Expiratory Volume",
+              "Heart Failure",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27792991/"
+          },
+          {
+            "pmid": "25784798",
+            "title": "Impact of β-blocker selectivity on long-term outcomes in congestive heart failure patients with chronic obstructive pulmonary disease.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is present in approximately one-third of all congestive heart failure (CHF) patients, and is a key cause of underprescription and underdosing of β-blockers, largely owing to concerns about precipitating respiratory deterioration. For these reasons, the aim of this study was to evaluate the impact of β-blockers on the long-term outcomes in CHF patients with COPD. In addition, we compared the effects of two different β-blockers, carvedilol and bisoprolol.",
+            "journal": "International journal of chronic obstructive pulmonary disease",
+            "year": "2015",
+            "authors": [
+              "Kubota Yoshiaki",
+              "Asai Kuniya",
+              "Furuse Erito",
+              "Nakamura Shunichi",
+              "Murai Koji"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-1 Receptor Antagonists",
+              "Aged",
+              "Aged, 80 and over",
+              "Bisoprolol",
+              "Carbazoles",
+              "Carvedilol",
+              "Disease Progression",
+              "Disease-Free Survival",
+              "Female",
+              "Heart Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25784798/"
+          },
+          {
+            "pmid": "21980961",
+            "title": "Nebivolol for the treatment of heart failure.",
+            "abstract": "Heart failure (HF) is a common and disabling disease with a high prevalence in the elderly. Beta-blockers are among the mainstay therapies of HF because they antagonize the deleterious effects of the chronic activation of sympathetic nervous system. In large randomized clinical trials, bisoprolol, carvedilol and metoprolol reduced mortality and cardiovascular hospital admission and, hence, are included in current guidelines for HF treatment.",
+            "journal": "Expert opinion on investigational drugs",
+            "year": "2011",
+            "authors": [
+              "Riva Nicoletta",
+              "Lip Gregory Y H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-1 Receptor Antagonists",
+              "Adrenergic beta-Antagonists",
+              "Benzopyrans",
+              "Clinical Trials as Topic",
+              "Ethanolamines",
+              "Heart Failure",
+              "Humans",
+              "Nebivolol",
+              "Sympathetic Nervous System"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21980961/"
+          },
+          {
+            "pmid": "12383572",
+            "title": "Beta-blocker therapy influences the hemodynamic response to inotropic agents in patients with heart failure: a randomized comparison of dobutamine and enoximone before and after chronic treatment with metoprolol or carvedilol.",
+            "abstract": "We compared the hemodynamic effects of dobutamine and enoximone administration before and after long-term beta-blocker therapy with metoprolol or carvedilol in patients with chronic heart failure (HF).",
+            "journal": "Journal of the American College of Cardiology",
+            "year": "2002",
+            "authors": [
+              "Metra Marco",
+              "Nodari Savina",
+              "D'Aloia Antonio",
+              "Muneretto Claudio",
+              "Robertson Alastair D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Agonists",
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Carbazoles",
+              "Cardiotonic Agents",
+              "Carvedilol",
+              "Chronic Disease",
+              "Dobutamine",
+              "Drug Interactions",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12383572/"
+          },
+          {
+            "pmid": "31265635",
+            "title": "Erratum: Carvedilol, Bisoprolol, and Metoprolol Use in Patients With Coexistent Heart Failure and Chronic Obstructive Pulmonary Disease: Erratum.",
+            "abstract": "[This corrects the article DOI: 10.1097/MD.0000000000002427.].",
+            "journal": "Medicine",
+            "year": "2016",
+            "authors": [],
+            "pub_types": [
+              "Published Erratum"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31265635/"
+          },
+          {
+            "pmid": "23108482",
+            "title": "The effect of carvedilol treatment on chronic heart failure in pediatric patients with dilated cardiomyopathy: a prospective, randomized-controlled study.",
+            "abstract": "This study aimed to evaluate the clinical efficacy and safety of carvedilol for pediatric patients with chronic heart failure caused by dilated cardiomyopathy. Seven pediatric medical centers participated in this prospective study. Pediatric patients (n = 89) were randomly divided into an experimental group (carvedilol treatment) and a control group (conventional treatment). The analysis excluded 12 patients lost during the follow-up period. Carvedilol was added to the therapy of the experimental group after at least 1 month of basic treatment with digoxin, an angiotensin-converting-enzyme inhibitor, and diuretics. The control patients received the same basic treatment but did not receive carvedilol. The initial dose of carvedilol was 0.1 (mg/kg day), and the dose was doubled every 2 weeks until the maximum tolerated dose or 0.8 (mg/kg day) was achieved. The tolerated dose was maintained for 6 months. The Ross scales and echocardiographic parameters including left ventricular diastolic",
+            "journal": "Pediatric cardiology",
+            "year": "2013",
+            "authors": [
+              "Huang Meirong",
+              "Zhang Xu",
+              "Chen Shubao",
+              "Sun Yuping",
+              "Xiao Yanyan"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Carbazoles",
+              "Cardiomyopathy, Dilated",
+              "Cardiotonic Agents",
+              "Carvedilol",
+              "Child, Preschool",
+              "Chronic Disease",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Drug Therapy, Combination"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23108482/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "chronic pulmonary heart disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20chronic%20pulmonary%20heart%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "obsolete susceptibility to ischemic stroke",
+        "txgnn_score": 0.6864573955535889,
+        "txgnn_rank": 27854,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "obsolete susceptibility to ischemic stroke",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20obsolete%20susceptibility%20to%20ischemic%20stroke"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cerebrovascular disorder",
+        "txgnn_score": 0.6807770133018494,
+        "txgnn_rank": 28369,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00295542",
+            "title": "Prognostic Value of Ambulatory Blood Pressure Monitoring in the Prediction of Cardiovascular Events and Effects of Chronotherapy in Relation to Risk (the MAPEC Study).",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2000-03",
+            "completion_date": "2009-04",
+            "country": "Spain",
+            "enrollment": 3344,
+            "brief_summary": "The MAPEC study was designed to investigate whether normalizing the circadian blood pressure profile towards a more dipper pattern (increasing the diurnal/nocturnal ratio of blood pressure) by the use of Chronotherapy (that is, taking into account the time of day of administration of antihypertensive medications) reduces cardiovascular risk.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Essential hypertension\n\nExclusion Criteria:\n\n* AIDS\n* shift workers\n* secondary hypertension\n* intolerant to ABPM",
+            "endpoints": [
+              "Prognostic value of ABPM, impact of changes in ambulatory BP and impact of circadian time of antihypertensive treatment in cardiovascular, cerebrovascular and renal risk assessment."
+            ],
+            "sponsor": "University of Vigo",
+            "url": "https://clinicaltrials.gov/study/NCT00295542"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02795910",
+            "title": "Integrated Primary Care for Diabetes and Cardiovascular Disease in Less Developed Countries: Pragmatic Trial of the Practical Approach to Care Kit",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2017-04-01",
+            "completion_date": "2019-03-31",
+            "country": "Brazil",
+            "enrollment": 40577,
+            "brief_summary": "This study will evaluate a complex intervention based on a patient management tool (PMT), combined with educational outreach to primary care doctors, nurses and other health workers, in the Brazilian city of Florianopolis. The intervention is aimed at improving the quality of primary health care and health outcomes, in adults with diabetes and cardiovascular disease (CVD). The effectiveness of the intervention will be assessed by randomly allocating 48 primary care clinics to receive the interve",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 35 years and over in July 2016\n* Diagnosis of hypertension (ICD-10 code I10-I15), ischaemic heart disease (ICD-10 code I20-I25), heart failure (ICD-10 code I50), cerebrovascular disease (ICD-10 code I60-I69), or diabetes mellitus (ICD-10 code E10-E14) ever recorded since J",
+            "endpoints": [
+              "Cardiovascular risk and diabetes testing",
+              "Systolic blood pressure"
+            ],
+            "sponsor": "University of Sao Paulo General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02795910"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00741585",
+            "title": "Prognostic Value of the Circadian Pattern of Ambulatory Blood Pressure for Multiple Risk Assessment",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2008-09-01",
+            "completion_date": "2018-06-30",
+            "country": "Spain",
+            "enrollment": 21983,
+            "brief_summary": "The HYGIA study was designed to investigate prospectively\n\n1. the prognostic value of ambulatory blood pressure (BP) monitoring among subjects primarily evaluated at primary care settings\n2. the impact of changes in ambulatory BP during follow-up in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n3. the influence of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk in hypertensive patients\n4. the prevalence of an altered",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female subjects ≥18 years of age.\n* High-normal BP or essential hypertension.\n* Any subject with recommendation for evaluation with ABPM according to the 2007 European Guidelines.\n* Informed consent to participate in the study prior to any study procedures.\n\nExclusion ",
+            "endpoints": [
+              "To evaluate the impact of circadian time of treatment in cardiovascular, cerebrovascular, metabolic, and renal risk assessment."
+            ],
+            "sponsor": "University of Vigo",
+            "url": "https://clinicaltrials.gov/study/NCT00741585"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "17667215",
+            "title": "Metabolic syndrome: treatment of hypertensive patients.",
+            "abstract": "Metabolic syndrome (MetSyndr), a constellation of abnormalities [obesity, glucose intolerance, insulin resistance (IR), dyslipidemia (low HDL-cholesterol, high LDL-cholesterol and triglycerides (TG)], and elevated blood pressure (BP)], increases the risk of cardiovascular (CV) disease and premature death. From 10% to 30% of the adult population in industrialized countries has MetSyndr, which effectively predicts the development of type 2 diabetes mellitus (T2D) and CV disease. Because of the complex etiology of MetSyndr, a multi-targeted, integrated therapeutic approach is required to simultaneously treat high BP, obesity, lipid disorders and T2D (if present), to fully protect CV, cerebrovascular and renal systems. If lifestyle modification (weight control, diet, exercise, smoking cessation, moderation of alcohol intake) is ineffective, pharmaco-theraphy should be added to treat simultaneously the lipid- and non-lipid CV risk factors. Patients with HTN and MetSyndr should be started on",
+            "journal": "American journal of therapeutics",
+            "year": "2007",
+            "authors": [
+              "Israili Zafar H",
+              "Lyoussi Badiâa",
+              "Hernández-Hernández Rafael",
+              "Velasco Manuel"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Angiotensin II Type 1 Receptor Blockers",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Antihypertensive Agents",
+              "Diabetes Mellitus, Type 2",
+              "Dyslipidemias",
+              "Health Behavior",
+              "Humans",
+              "Hypertension",
+              "Insulin Resistance",
+              "Metabolic Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17667215/"
+          },
+          {
+            "pmid": "32829669",
+            "title": "Antihypertensive Drugs and Risk of Depression: A Nationwide Population-Based Study.",
+            "abstract": "Hypertension, cardiovascular diseases, and cerebrovascular diseases are associated with an increased risk of depression, but it remains unclear whether treatment with antihypertensive agents decreases or increases this risk. The effects of individual drugs are also unknown. We used Danish population-based registers to systematically investigate whether the 41 most used individual antihypertensive drugs were associated with an altered risk of incident depression. Analyses of diuretics were included for comparisons. Participants were included in the study in January 2005 and followed until December 2015. Two different outcome measures were included: (1) a diagnosis of depressive disorder at a psychiatric hospital as an inpatient or outpatient and (2) a combined measure of a diagnosis of depression or use of antidepressants. Continued use of classes of angiotensin agents, calcium antagonists, and β-blockers was associated with significantly decreased rates of depression, whereas diuretic ",
+            "journal": "Hypertension (Dallas, Tex. : 1979)",
+            "year": "2020",
+            "authors": [
+              "Kessing Lars Vedel",
+              "Rytgaard Helene Charlotte",
+              "Ekstrøm Claus Thorn",
+              "Torp-Pedersen Christian",
+              "Berk Michael"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Antidepressive Agents",
+              "Antihypertensive Agents",
+              "Calcium Channel Blockers",
+              "Denmark",
+              "Depressive Disorder",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32829669/"
+          },
+          {
+            "pmid": "15127885",
+            "title": "Amlodipine and carvedilol prevent cytotoxicity in cortical neurons isolated from stroke-prone spontaneously hypertensive rats.",
+            "abstract": "We previously reported that vitamin E prevents apoptosis in neurons during cerebral ischemia and reperfusion in stroke-prone spontaneously hypertensive rats (SHRSP). In this paper, we analyzed the effects of antihypertensives as well as vitamin E, which were added to neuron cultures after reoxygenation (20% O2) following hypoxia (1% O2). When added after hypoxia before reoxygenation, vitamin E conferred significant protection to neuronal cells. It was also shown that vitamin E conferred complete protection from neural cell death when added hypoxia and again before reoxygenation. At higher concentrations of vitamin E, strong neuroprotection was observed. Moreover, we verified that pretreatment with either amlodipine, carvedilol or dipyridamole consistently prevented cell death during hypoxia and reoxygenation (H/R). On the other hand, nilvadipine, a dihydropyridine-type calcium entry blocker, had no apparent effect on neuroprotection during H/R. The order of neuroprotective potency was ",
+            "journal": "Hypertension research : official journal of the Japanese Society of Hypertension",
+            "year": "2004",
+            "authors": [
+              "Yamagata Kazuo",
+              "Ichinose Shizuko",
+              "Tagami Motoki"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amlodipine",
+              "Animals",
+              "Antioxidants",
+              "Carbazoles",
+              "Carvedilol",
+              "Cell Death",
+              "Cell Hypoxia",
+              "Cells, Cultured",
+              "Cerebral Cortex",
+              "Dipyridamole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15127885/"
+          },
+          {
+            "pmid": "20451690",
+            "title": "Why beta-blockers should not be used as first choice in uncomplicated hypertension.",
+            "abstract": "In the past 4 decades, beta blockers (BBs) have been widely used in the treatment of uncomplicated hypertension and are still recommended as first-line agents in national and international guidelines. Their putative cardioprotective properties, however, derive from the extrapolation into primary prevention of data relative to the reduction of mortality observed in the 1970s in patients with previous myocardial infarctions. In the past 5 years, a critical reanalysis of older trials, together with several meta-analyses, has shown that in patients with uncomplicated hypertension BBs exert a relatively weak effect in reducing stroke compared to placebo or no treatment, do not have any protective effect with regard to coronary artery disease and, compared to other drugs, such as calcium channel blockers, renin-angiotensin-aldosterone system inhibitors or thiazide diuretics, show evidence of worse outcomes, particularly with regard to stroke. Several reasons can explain their reduced cardiop",
+            "journal": "The American journal of cardiology",
+            "year": "2010",
+            "authors": [
+              "De Caterina Alberto Ranieri",
+              "Leone Antonio Maria"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Antihypertensive Agents",
+              "Cardiovascular Diseases",
+              "Evidence-Based Medicine",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Hypertension",
+              "Male",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20451690/"
+          },
+          {
+            "pmid": "36219954",
+            "title": "Carvedilol Reduces the Neuronal Apoptosis after Ischemic Stroke by Modulating Activator of Transcription 3 Expression in vitro.",
+            "abstract": "Cerebral ischemia is divided into local cerebral ischemia and diffuse cerebral ischemia. The etiology of localized cerebral ischemia includes middle cerebral artery embolism; stenosis, occlusion, or thrombosis of extracranial internal carotid artery or vertebral artery; and cerebral artery spasm. The causes of diffuse cerebral ischemia include cardiac arrest, hypotension, anemia, and hypoglycemia. However, the underlying mechanism is still unclear. In this study, we demonstrated that activator of transcription 3 (ATF3) is a hubgene in IS by bioinformatics analysis. The expression of ATF3 was increased in PC12 cells with oxygen-glucose deprivation/reoxygenation (OGD/R) treatment. ATF3 deficiency inhibited cell viability and induced cell apoptosis, whereas ATF3 overexpression showed the opposite role in cell viability and cell apoptosis. Moreover, Carvedilol as a compound targeting ATF3 also facilitated cell viability and reduced cell apoptosis. ATF3 deficiency retarded the increase in c",
+            "journal": "Developmental neuroscience",
+            "year": "2023",
+            "authors": [
+              "Zheng Zhao",
+              "Hou Fei",
+              "He Guodong",
+              "Jiang Fengfeng",
+              "Bao Xiang"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Rats",
+              "Animals",
+              "Ischemic Stroke",
+              "Carvedilol",
+              "Apoptosis",
+              "Brain Ischemia",
+              "PC12 Cells",
+              "Oxygen",
+              "Cell Survival"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36219954/"
+          },
+          {
+            "pmid": "16810470",
+            "title": "Ventricular hypertrophy and hypertension: prognostic elements and implications for management.",
+            "abstract": "Left ventricular hypertrophy (LVH) is a strong, independent predictor of cardiovascular events and all-cause mortality. Patients with LVH are at increased risk for stroke, coronary heart disease, congestive heart failure, and sudden cardiac death. Hypertension is a major influence on the development of LVH. The prognostic power of LVH is likely multifactorial. LVH represents both a manifestation of the effects of hypertension and other cardiac risk factors over time as well as an intrinsic condition causing pathologic changes in cardiac structure and function. Angiotensin II plays a central role in the development of LVH. Several antihypertensive treatments, especially angiotensin II receptor blockers, can reverse LVH and improve cardiovascular outcomes independent of blood pressure reduction. Further studies are required to determine if these agents should become first-line therapy for all patients with hypertension and LVH.",
+            "journal": "Herz",
+            "year": "2006",
+            "authors": [
+              "Krauser Daniel G",
+              "Devereux Richard B"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic Antagonists",
+              "Angiotensin II",
+              "Angiotensin II Type 1 Receptor Blockers",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Antihypertensive Agents",
+              "Benzimidazoles",
+              "Benzoates",
+              "Carbazoles",
+              "Carvedilol",
+              "Chi-Square Distribution"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16810470/"
+          },
+          {
+            "pmid": "7832432",
+            "title": "Carvedilol, a new antihypertensive drug with unique antioxidant activity: potential role in cerebroprotection.",
+            "abstract": "The antioxidant activities of carvedilol have been demonstrated in a wide variety of test systems, including (i) physicochemical (EPR studies), (ii) biochemical (measurement of lipid peroxidation and endogenous antioxidant depletion), (iii) cellular, and (iv) in vivo. The antioxidant activity of carvedilol clearly emanates from the carbazole moiety which is unique to carvedilol. The antioxidant activity resides equally in both of the enantiomers of carvedilol, as well as in some of its metabolites which are devoid of either the alpha 1-adrenoceptor blocking activity or beta-adrenoceptor blocking activity. This novel antioxidant property of carvedilol may account, at least in part, for its cerebroprotection. The data discussed in this article suggest that carvedilol may not only provide effective and safe antihypertensive therapy and therefore reduce a major risk factor for stroke, but will also be better able to provide additional benefits to patients by protecting against oxygen free ",
+            "journal": "Annals of the New York Academy of Sciences",
+            "year": "1994",
+            "authors": [
+              "Yue T L",
+              "Lysko P G",
+              "Barone F C",
+              "Gu J L",
+              "Ruffolo R R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antihypertensive Agents",
+              "Antioxidants",
+              "Brain",
+              "Carbazoles",
+              "Carvedilol",
+              "Cerebrovascular Disorders",
+              "Free Radical Scavengers",
+              "Gerbillinae",
+              "Heart"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7832432/"
+          },
+          {
+            "pmid": "15960297",
+            "title": "Effect of carvedilol on neuronal survival and poly(ADP-ribose) polymerase activity in hippocampus after transient forebrain ischemia.",
+            "abstract": "Carvedilol a beta-adrenoreceptor antagonist with potent antioxidant properties raises high expectations in therapy of ischemia. In this study the effect of carvedilol on neuronal survival after transient forebrain ischemia in gerbils was investigated. The role of poly(ADP-ribose) polymerase (PARP-1) in this process was evaluated. Our data indicated that carvedilol administered subcutaneously in a dose of 7 or 70 mg/kg b.w. directly after 5 min of transient forebrain ischemia protects significant population of neurons in hippocampal area CA1, but has no effect after induction of prolonged 10 min ischemia. Carvedilol significantly decreased PARP activity in hippocampus that was markedly increased after both 15 min and 4 days of reperfusion following 5 min of ischemia. Moreover, carvedilol prevented NAD+ depletion after ischemic-reperfusion insult. These results indicated that carvedilol protects neurons against death and suggested that suppression of PARP activity during reperfusion coul",
+            "journal": "Acta neurobiologiae experimentalis",
+            "year": "2005",
+            "authors": [
+              "Strosznajder Robert P",
+              "Jesko Henryk",
+              "Dziewulska Jolanta"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Analysis of Variance",
+              "Animals",
+              "Carbazoles",
+              "Carvedilol",
+              "Cell Survival",
+              "Disease Models, Animal",
+              "Dose-Response Relationship, Drug",
+              "Gerbillinae",
+              "Hippocampus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15960297/"
+          },
+          {
+            "pmid": "31544227",
+            "title": "Perioperative beta-blockers for preventing surgery-related mortality and morbidity in adults undergoing cardiac surgery.",
+            "abstract": "Randomized controlled trials (RCTs) have yielded conflicting results regarding the ability of beta-blockers to influence perioperative cardiovascular morbidity and mortality. Thus routine prescription of these drugs in unselected patients remains a controversial issue. A previous version of this review assessing the effectiveness of perioperative beta-blockers in cardiac and non-cardiac surgery was last published in 2018. The previous review has now been split into two reviews according to type of surgery. This is an update and assesses the evidence in cardiac surgery only.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2019",
+            "authors": [
+              "Blessberger Hermann",
+              "Lewis Sharon R",
+              "Pritchard Michael W",
+              "Fawcett Lizzy J",
+              "Domanovits Hans"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Arrhythmias, Cardiac",
+              "Bradycardia",
+              "Cardiac Surgical Procedures",
+              "Cerebrovascular Disorders",
+              "Humans",
+              "Hypotension",
+              "Morbidity",
+              "Myocardial Infarction",
+              "Myocardial Ischemia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31544227/"
+          },
+          {
+            "pmid": "1440712",
+            "title": "Neuroprotective effects of carvedilol, a new antihypertensive agent, in cultured rat cerebellar neurons and in gerbil global brain ischemia.",
+            "abstract": "Free radical generation mediates part of the ischemic neuronal damage caused by the excitatory amino acid glutamate. Carvedilol, a novel multiple-action antihypertensive agent, has been shown to scavenge free radicals and inhibit lipid peroxidation in swine heart and rat brain homogenates. Therefore, we studied the neuroprotective effect of carvedilol on cultured cerebellar neurons and on CA1 hippocampal neurons of gerbils exposed to brain ischemia.",
+            "journal": "Stroke",
+            "year": "1992",
+            "authors": [
+              "Lysko P G",
+              "Lysko K A",
+              "Yue T L",
+              "Webb C L",
+              "Gu J L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antihypertensive Agents",
+              "Brain Ischemia",
+              "Carbazoles",
+              "Carvedilol",
+              "Cells, Cultured",
+              "Cerebellum",
+              "Gerbillinae",
+              "Granulocytes",
+              "Hippocampus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1440712/"
+          },
+          {
+            "pmid": "17336720",
+            "title": "Carvedilol protects better against vascular events than metoprolol in heart failure: results from COMET.",
+            "abstract": "We explored whether vascular protection by carvedilol could contribute to its superior effects in the treatment of heart failure (HF) compared with metoprolol tartrate in the COMET (Carvedilol Or Metoprolol European Trial) study.",
+            "journal": "Journal of the American College of Cardiology",
+            "year": "2007",
+            "authors": [
+              "Remme Willem J",
+              "Torp-Pedersen Christian",
+              "Cleland John G F",
+              "Poole-Wilson Philip A",
+              "Metra Marco"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Angina, Unstable",
+              "Carbazoles",
+              "Carvedilol",
+              "Death, Sudden, Cardiac",
+              "Double-Blind Method",
+              "Female",
+              "Heart Failure",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17336720/"
+          },
+          {
+            "pmid": "31391573",
+            "title": "Beta-blocker choice and exchangeability in patients with heart failure and chronic obstructive pulmonary disease: an Italian register-based cohort study.",
+            "abstract": "Clinical guidelines suggest that for patients with heart failure and concurrent chronic obstructive pulmonary disease (COPD), metoprolol/bisoprolol/nebivolol should be preferred over carvedilol. However, studies suggest a high proportion of carvedilol usage that remains unexplained. Therefore, we aimed to investigate the predictors of carvedilol choice in patients with heart failure and COPD that were naïve to carvedilol or metoprolol/bisoprolol/nebivolol. Caserta Local Health Unit databases (Italy) were used as data sources. Age, sex, chronic/acute comorbidities, and co-medications were included in a logistic regression model to assess predictors of carvedilol choice. Chronic comorbidities include those defined in the Elixhauser comorbidity index and all hospitalizations within two years prior to the first beta-blocker prescription. Comedications include all redeemed prescriptions within one year prior to the beta-blocker prescription. Kernel density estimations were used to assess th",
+            "journal": "Scientific reports",
+            "year": "2019",
+            "authors": [
+              "Sessa Maurizio",
+              "Mascolo Annamaria",
+              "Rasmussen Daniel Bech",
+              "Kragholm Kristian",
+              "Jensen Magnus Thorsten"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Aged, 80 and over",
+              "Atrioventricular Block",
+              "Bisoprolol",
+              "Carvedilol",
+              "Cerebrovascular Disorders",
+              "Cohort Studies",
+              "Comorbidity",
+              "Drug Prescriptions"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31391573/"
+          },
+          {
+            "pmid": "10950380",
+            "title": "The novel beta-blocker, carvedilol, provides neuroprotection in transient focal stroke.",
+            "abstract": "Increasing evidence supports a role for oxidative stress, proinflammatory cytokines, and apoptosis in the pathophysiology of focal ischemic stroke. Previous studies have found that the multi-action drug, carvedilol, is a mixed adrenergic antagonist, and that it behaves as an antioxidant and inhibits apoptosis. In the current study, the authors investigated whether carvedilol provides protection in focal cerebral ischemia and whether this protection is associated with reduced apoptosis and the downregulation of the inflammatory cytokines, tumor necrosis factor-alpha (TNF-alpha) and interleukin- 1beta (IL-1beta). Male Sprague-Dawley rats were subjected to transient middle cerebral artery occlusion (MCAO) by an intraluminal filament technique. Carvedilol (1, 3, and 10 mg/kg) was injected daily subcutaneously 2 or 4 days before the induction of ischemia. Neurologic scores, infarct volumes, TUNEL staining, and mRNA levels of TNF-alpha and IL-1beta were assessed at 24 hours reperfusion. The ",
+            "journal": "Journal of cerebral blood flow and metabolism : official journal of the International Society of Cerebral Blood Flow and Metabolism",
+            "year": "2000",
+            "authors": [
+              "Savitz S I",
+              "Erhardt J A",
+              "Anthony J V",
+              "Gupta G",
+              "Li X"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Animals",
+              "Apoptosis",
+              "Brain",
+              "Carbazoles",
+              "Carvedilol",
+              "Cerebral Cortex",
+              "Cerebral Infarction",
+              "Cerebrovascular Circulation",
+              "Interleukin-1"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10950380/"
+          },
+          {
+            "pmid": "20609697",
+            "title": "One size does not fit all: the role of vasodilating beta-blockers in controlling hypertension as a means of reducing cardiovascular and stroke risk.",
+            "abstract": "Beta-blockers have played a key role in the management of hypertension-related cardiovascular disease for decades, and continue to be recommended as a mainstay of therapy in national guidelines statements. Recent data have shown less optimal reductions in total mortality, CVD mortality, and CVD events with beta-blockers compared with renin-angiotensin system-blocking agents or calcium channel blockers. The beta-blocker class, however, spans a wide range of agents, and the growing concern about the risk-benefit profile of beta-blockers should not be generalized to later-generation vasodilating beta-blockers such as carvedilol and nebivolol. A growing database from hypertension studies confirms the clinical efficacy and safety of vasodilating beta-blockers, and outcome studies indicate that these agents can play an important role in global CVD reduction in patients with hypertensive or ischemic heart failure.",
+            "journal": "The American journal of medicine",
+            "year": "2010",
+            "authors": [
+              "Basile Jan N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Benzopyrans",
+              "Ethanolamines",
+              "Humans",
+              "Hypertension",
+              "Nebivolol",
+              "Risk Assessment",
+              "Stroke",
+              "Vasodilator Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20609697/"
+          },
+          {
+            "pmid": "30404981",
+            "title": "Repurposing of Approved Cardiovascular Drugs against Ischemic Cerebrovascular Disease by Disease-Disease Associated Network-Assisted Prediction.",
+            "abstract": "Stroke is one of the leading causes of death and disability globally, while intravenous thrombolysis with recombinant tissue plasminogen activator remains the only Food and Drug Administration (FDA)-approved therapy for ischemic stroke. The attempts to develop new treatments for acute ischemic stroke meet costly and spectacularly disappointing results, which requires both long time and high costs, whereas repurposing of safe existing drugs to new indications provides a cost-effective and not time-consuming alternative. Vascular protection is a promising strategy for improving stroke outcome, as vascular function is critical to both cardiovascular diseases (CVD) and ischemic cerebrovascular disease (ICD). Vascular function related biological processes and pathways maybe the critical associations between CVD and ICD. In this study, a multi-database, in silico target identification, gene function enrichment, and network pharmacology analysis integration approach was proposed and applied t",
+            "journal": "Chemical & pharmaceutical bulletin",
+            "year": "2019",
+            "authors": [
+              "Zhao Qin-Qin",
+              "Li Xiang",
+              "Luo Li-Ping",
+              "Qian Yi",
+              "Liu Yi-Lin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Brain Ischemia",
+              "Cardiovascular Agents",
+              "Cerebrovascular Disorders",
+              "Databases, Factual",
+              "Drug Repositioning",
+              "Gene Regulatory Networks",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30404981/"
+          },
+          {
+            "pmid": "17386169",
+            "title": "[Study of carvedilol on plaque stability in carotid atherosclerotic rabbits transfected by p53 gene].",
+            "abstract": "To investigate the effects of carvedilol on stabilizing atherosclerosis plaque.",
+            "journal": "Zhonghua xin xue guan bing za zhi",
+            "year": "2007",
+            "authors": [
+              "Guan Yun-yuan",
+              "Ye Bing-hua",
+              "Lu Hui-he",
+              "Sheng Zhen-qiang",
+              "Zhang Li"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animal Feed",
+              "Animals",
+              "Apoptosis",
+              "Carbazoles",
+              "Carotid Artery Diseases",
+              "Carvedilol",
+              "Genes, p53",
+              "Humans",
+              "Male",
+              "Metoprolol"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17386169/"
+          },
+          {
+            "pmid": "1974501",
+            "title": "Effects of carvedilol on cerebral blood flow and its autoregulation in previous stroke patients with hypertension.",
+            "abstract": "We studied the effects of oral carvedilol (20 mg/day) on cerebral blood flow (CBF) and CBF autoregulation in ten previous stroke patients with hypertension. Measurement of CBF was done by the argon inhalation method. CBF autoregulation was also studied by the (A-V)O2 method after stepwise reduction in systemic blood pressure. After 1 week of carvedilol administration, the mean arterial blood pressure showed an 18% decrease, with no significant changes in CBF, CBF autoregulation, or other cerebral circulation parameters. From these findings, it can be said that carvedilol is a potent antihypertensive agent that does not affect cerebral circulation parameters.",
+            "journal": "European journal of clinical pharmacology",
+            "year": "1990",
+            "authors": [
+              "Kuriyama Y",
+              "Nakamura M",
+              "Kyougoku I",
+              "Sawada T"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Blood Pressure",
+              "Carbazoles",
+              "Carbon Dioxide",
+              "Carvedilol",
+              "Cerebrovascular Circulation",
+              "Cerebrovascular Disorders",
+              "Female",
+              "Heart Rate",
+              "Homeostasis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1974501/"
+          },
+          {
+            "pmid": "29447733",
+            "title": "Stroke Risk in Patients With Reduced Ejection Fraction After Myocardial Infarction Without Atrial Fibrillation.",
+            "abstract": "Stroke can occur after myocardial infarction (MI) in the absence of atrial fibrillation (AF).",
+            "journal": "Journal of the American College of Cardiology",
+            "year": "2018",
+            "authors": [
+              "Ferreira João Pedro",
+              "Girerd Nicolas",
+              "Gregson John",
+              "Latar Ichraq",
+              "Sharma Abhinav"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Atrial Fibrillation",
+              "Carvedilol",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Myocardial Infarction",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29447733/"
+          },
+          {
+            "pmid": "16931677",
+            "title": "Beta-adrenoreceptor antagonists attenuate brain injury after transient focal ischemia in rats.",
+            "abstract": "Beta-adrenoreceptor antagonists experimentally reduce cardiac and renal injury after ischemia and are also clinically useful for myocardial infarction and severe burns. In addition, beta-adrenoreceptor antagonists provide neuroprotective effects after focal cerebral ischemia in experimental settings. We conducted the present study to compare the neuroprotective effects of several beta-adrenoreceptor antagonists in rat transient focal cerebral ischemia. Halothane-anesthetized normothermic adult male Sprague-Dawley rats were subjected to 2 h of middle cerebral artery occlusion using the intraluminal suture technique confirmed by laser Doppler flowmetry. Rats received an IV infusion of saline 0.5 mL/h, propranolol 100 microg x kg(-1) x min(-1), carvedilol 4 microg x kg(-1) x min(-1), esmolol 200 microg x kg(-1) x min(-1), or landiolol 50 microg x kg(-1) x min(-1) (n = 6 in each group). Infusion was initiated 30 min before middle cerebral artery occlusion and continued for 24 h. Additional",
+            "journal": "Anesthesia and analgesia",
+            "year": "2006",
+            "authors": [
+              "Goyagi Toru",
+              "Kimura Tetsu",
+              "Nishikawa Toshiaki",
+              "Tobe Yoshitsugu",
+              "Masaki Yoko"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Anesthesia",
+              "Anesthetics, Inhalation",
+              "Animals",
+              "Brain",
+              "Carbazoles",
+              "Carvedilol",
+              "Halothane",
+              "Ischemic Attack, Transient",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16931677/"
+          },
+          {
+            "pmid": "21035578",
+            "title": "The foundation role of beta blockers across the cardiovascular disease spectrum: a year 2009 update.",
+            "abstract": "Hypertension is a risk factor for myocardial infarction (MI), stroke, and heart failure and precedes heart failure in 91% of cases. This becomes even more important considering that the number of Americans with hypertension increased from 65 million in 2005 to 72 million in 2007. If blood pressure is effectively controlled this risk can be minimized-blood pressure reductions as small as 2 mm Hg have been shown to reduce the risk of cardiovascular events by up to 10%. There is also strong evidence that blood pressure targets for populations at high risk of cardiovascular disease, including those with diabetes, coronary artery disease, and chronic kidney disease, should be lower than 140/90 mm Hg. The number and type of antihypertensive drugs have increased dramatically from 28 diuretics in 1972 to over 125 agents today, including fixed dose combination dosage forms. Beta blockers have been available for the treatment of hypertension since the 1960s. However, there has been resistance to",
+            "journal": "The American journal of medicine",
+            "year": "2010",
+            "authors": [
+              "Black Henry R",
+              "Greenberg Barry H",
+              "Weber Michael A"
+            ],
+            "pub_types": [
+              "Interactive Tutorial",
+              "Research Support, Non-U.S. Gov't",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Antihypertensive Agents",
+              "Benzopyrans",
+              "Carbazoles",
+              "Cardiovascular Diseases",
+              "Carvedilol",
+              "Ethanolamines",
+              "Humans",
+              "Hypertension",
+              "Myocardial Infarction"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21035578/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "cerebrovascular disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20cerebrovascular%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "ocular tuberculosis",
+        "txgnn_score": 0.6119885444641113,
+        "txgnn_rank": 35371,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "ocular tuberculosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20ocular%20tuberculosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brain stem infarction",
+        "txgnn_score": 0.5972135066986084,
+        "txgnn_rank": 37045,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03418961",
+            "title": "Prospective Observational Cohort Study of Patients With Metastatic HER-2+ Breast Cancer at Risk of Cardiac Toxicity",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2017-11-01",
+            "completion_date": "2027-09-15",
+            "country": "Saudi Arabia, United States, Puerto Rico, South Korea",
+            "enrollment": 491,
+            "brief_summary": "This trial has two cohorts of patients with human epidermal growth factor receptor (HER)-2-positive breast cancer that has spread to other places in the body. All patients must be receiving trastuzumab-based treatment. Both cohorts are being observed for cardiac toxicity. The largest cohort (currently open to accrual) is observational, and contains patients who are taking a beta blocker, ACE inhibitor, or ARB as well as their trastuzumab-based treatment. The goal is to understand how common card",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* STEP 1 REGISTRATION\n\nPatients must:\n\n1. Have metastatic breast cancer, AND\n2. Be initiating within 11 calendar days of Step 1 Registration OR be continuing trastuzumab-based HER-2 targeted therapy without concurrent anthracyclines, AND\n3. Be receiving the trastuzumab-based HER",
+            "endpoints": [
+              "Time to the first identification of cardiac dysfunction"
+            ],
+            "sponsor": "SWOG Cancer Research Network",
+            "url": "https://clinicaltrials.gov/study/NCT03418961"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03775096",
+            "title": "The Effect of Adrenergic Blocker Therapy on Cardiac and Striatal Transporter Uptake in Pre-Motor and Symptomatic Parkinson's Disease",
+            "phase": "PHASE2",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2019-04-04",
+            "completion_date": "2026-07-01",
+            "country": "United States",
+            "enrollment": 15,
+            "brief_summary": "REM Behavior Sleep Disorder (RBD) is a sleep disorder causing people to 'act out' their dreams. A high percentage of individuals with idiopathic RBD (iRBD) are known to develop conditions affecting the neurons in the brain such as Parkinson's disease (PD). Based on the increased risk to develop PD, individuals with iRBD are currently considered ideal candidates for therapies that can possibly protects brain cells, due to the critical window of opportunity to intervene early before brain cell los",
+            "eligibility_criteria": "Inclusion Criteria:\n\nMale or female of age between 50 and 85 years at time of enrollment.\n\nDiagnosis of idiopathic REM sleep behavior disorder (iRBD) or Diagnosis of hyposmia. Diagnosis of RBD will be, established either as 'definite RBD' according to the criteria proposed by the International Class",
+            "endpoints": [
+              "123I-MIBG reuptake changes"
+            ],
+            "sponsor": "Cedars-Sinai Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT03775096"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Carvedilol",
+          "disease": "brain stem infarction",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Carvedilol%20brain%20stem%20infarction"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Carvedilol",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01136",
+    "name": "Carvedilol",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Carvedilol"
+      },
+      "queried_at": "2026-03-24T16:58:52.573355",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Carvedilol"
+      },
+      "queried_at": "2026-03-24T16:58:52.574992",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Carvedilol"
+      },
+      "queried_at": "2026-03-24T16:58:53.235526",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:58:53.684319",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:58:56.941069",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:58:57.587856",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:58:59.035274",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:58:59.444463",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:59:02.713037",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:59:03.356768",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:59:04.286692",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:59:04.692554",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:59:07.936452",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:59:08.158793",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:59:09.134874",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:59:09.645303",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:59:13.435637",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:59:14.386662",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:59:20.669803",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:59:21.086874",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:59:24.387468",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:59:24.899879",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:59:25.747749",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:59:26.647407",
+      "status": "success",
+      "result_count": 12,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:59:29.913420",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:59:30.488126",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:59:33.252429",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "obsolete susceptibility to ischemic stroke"
+      },
+      "queried_at": "2026-03-24T16:59:33.761096",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "obsolete susceptibility to ischemic stroke"
+      },
+      "queried_at": "2026-03-24T16:59:36.938212",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "obsolete susceptibility to ischemic stroke"
+      },
+      "queried_at": "2026-03-24T16:59:37.441264",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "obsolete susceptibility to ischemic stroke"
+      },
+      "queried_at": "2026-03-24T16:59:38.337500",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "cerebrovascular disorder"
+      },
+      "queried_at": "2026-03-24T16:59:40.236135",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "cerebrovascular disorder"
+      },
+      "queried_at": "2026-03-24T16:59:43.538408",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "cerebrovascular disorder"
+      },
+      "queried_at": "2026-03-24T16:59:44.121030",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "cerebrovascular disorder"
+      },
+      "queried_at": "2026-03-24T16:59:46.773032",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "ocular tuberculosis"
+      },
+      "queried_at": "2026-03-24T16:59:47.393921",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "ocular tuberculosis"
+      },
+      "queried_at": "2026-03-24T16:59:50.544062",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "ocular tuberculosis"
+      },
+      "queried_at": "2026-03-24T16:59:51.262980",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "ocular tuberculosis"
+      },
+      "queried_at": "2026-03-24T16:59:52.136956",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-24T16:59:52.819954",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-24T16:59:56.140326",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-24T16:59:56.838041",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Carvedilol",
+        "disease": "brain stem infarction"
+      },
+      "queried_at": "2026-03-24T16:59:57.748778",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:59:57.750314"
+  }
+}

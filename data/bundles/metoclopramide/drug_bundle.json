@@ -1,0 +1,3241 @@
+{
+  "drug": {
+    "inn": "Metoclopramide",
+    "drugbank_id": "DB01233",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "gastric ulcer (disease)",
+        "txgnn_score": 0.9993184804916382,
+        "txgnn_rank": 231,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05746377",
+            "title": "Premedication With Metoclopramide in Upper Gastrointestinal Bleeds a Prospective Double Blinded Single Center Randomized Control Trial in a Small Community Hospital",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2023-05-20",
+            "completion_date": "2024-06",
+            "country": "United States",
+            "enrollment": 60,
+            "brief_summary": "The goal of this clinical trial is to test if metoclopramide can improve effectiveness of endoscopic intervention in upper gastrointestinal (GI) bleeds. The main questions the investigators hope to answer is\n\nDoes metoclopramide lessen the need for repeat endoscopy, interventional radiology intervention or surgery in cases of upper GI bleed?\n\nDoes metoclopramide improve visibility of the GI walls in cases of upper GI bleed?",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18 and above\n* Admitted to ER or inpatient services at Javon Bea Hospital MercyHealth Riverside\n* Present with upper GI bleeding defined as fresh and bright red hematemesis, coffee-ground hematemesis or melena\n* Plan to undergo EGD within 24 hours since admission or since ",
+            "endpoints": [
+              "Need for repeat endoscopy, Interventional Radiology Intervention or Surgery due to poor visibility",
+              "Toronto Upper Gastroenterology Cleaning Score (TUGS)"
+            ],
+            "sponsor": "Mercy Health System",
+            "url": "https://clinicaltrials.gov/study/NCT05746377"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03747107",
+            "title": "Pharmacist and Data Driven Quality Improvement in Primary Care",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2020-09-16",
+            "completion_date": "2021-06-30",
+            "country": "United Kingdom",
+            "enrollment": 19,
+            "brief_summary": "P-DQIP is an intervention to improve prescribing safety in primary care. The 'intervention' is a health board quality improvement programme that will be implemented across all practices in one National Health Service (NHS) board in Scotland (Tayside), and comprises the following components:\n\ni. Case finding of patients with drug therapy risks via the P-DQIP informatics tool ii. Decision support for clinicians when conducting medication reviews via the P-DQIP informatics tool iii. Support from pr",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* General practices in NHS Tayside, who use the Vision electronic medical record software and agree to the extraction of data from medical records for monitoring and evaluation purposes\n\nExclusion Criteria:\n\n* General practices using electronic medical record software other than",
+            "endpoints": [
+              "Initially targeted drug therapy risks in patients aged 75 years or older"
+            ],
+            "sponsor": "University of Dundee",
+            "url": "https://clinicaltrials.gov/study/NCT03747107"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "19225",
+            "title": "Drugs in the treatment of gastric and duodenal ulcer.",
+            "abstract": "",
+            "journal": "Drugs",
+            "year": "1977",
+            "authors": [
+              "Langman M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amylopectin",
+              "Antacids",
+              "Bismuth",
+              "Carbenoxolone",
+              "Cholestyramine Resin",
+              "Duodenal Ulcer",
+              "Estrogens",
+              "Fatty Acids, Unsaturated",
+              "Glycyrrhiza",
+              "Histamine H2 Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19225/"
+          },
+          {
+            "pmid": "6336644",
+            "title": "Metoclopramide: pharmacology and clinical application.",
+            "abstract": "Metoclopramide antagonizes the effect of dopamine in the central nervous system and other organ systems. Metoclopramide's effect on the medullary chemoreceptor trigger zone makes it useful as a routine anti-emetic and in preventing vomiting induced by antineoplastic drugs, particularly cisplatin. Metoclopramide's gastrointestinal smooth muscle stimulatory effects are related to its ability to antagonize the inhibitory neurotransmitter, dopamine; to augment acetylcholine release and sensitize the muscarinic receptors of the gastrointestinal smooth muscle; and to coordinate gastric-pyloric-small intestinal motor function. The indications for which metoclopramide is approved in the United States are reviewed. Adverse effects, which may occur in up to 20% of patients, include drowsiness, lassitude, and akathisia; all are usually mild, transient, and reversible. Tremor, dystonic reactions, and extrapyramidal effects are infrequent; breast enlargement, galactorrhea, and menstrual irregularit",
+            "journal": "Annals of internal medicine",
+            "year": "1983",
+            "authors": [
+              "Albibi R",
+              "McCallum R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anorexia Nervosa",
+              "Antiemetics",
+              "Diabetes Mellitus",
+              "Dopamine Antagonists",
+              "Endocrine Glands",
+              "Gastric Emptying",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Intestinal Obstruction",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6336644/"
+          },
+          {
+            "pmid": "2730234",
+            "title": "Effect of metoclopramide on gastric ulceration and secretion in albino rats.",
+            "abstract": "The antiulcer and antisecretory effects of metoclopramide were studied in aspirin-induced and pylorus-ligated gastric ulcers. The effects were compared with ranitidine (10 mg/kg, orally). The effect of propantheline alone and in combination with metoclopramide was studied against aspirin-induced gastric ulcers only. Metoclopramide (20 mg and 50 mg/kg) produced an ulcer protective effect both in aspirin-induced and pylorus-ligated experimental models. Its ulcer protective effect against aspirin-induced and pylorus-ligated gastric ulcers was comparable to ranitidine. Metoclopramide reduced the volume of gastric secretion but did not alter the total acidity; however, significant reduction in free acidity was noted. The ulcer protective effect of metoclopramide appeared to have multiple mechanisms like reduction in gastric secretion and free acidity, increased gastric emptying and cytoprotective action.",
+            "journal": "Archives internationales de pharmacodynamie et de therapie",
+            "year": "1989",
+            "authors": [
+              "Gupta R K",
+              "Kulshrestha V K",
+              "Sharma M L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Ulcer Agents",
+              "Aspirin",
+              "Female",
+              "Gastric Acid",
+              "Gastric Mucosa",
+              "Male",
+              "Metoclopramide",
+              "Propantheline",
+              "Pylorus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2730234/"
+          },
+          {
+            "pmid": "6436177",
+            "title": "Metoclopramide and experimentally-induced gastric ulceration in guinea-pigs.",
+            "abstract": "Anti-gastric activity of metoclopramide was studied in guinea pigs using three different models of gastric ulceration. The effect of metoclopramide on gastric acidity was also studied. It was observed that metoclopramide affords protection against all types of experimentally induced gastric ulceration, without affecting the gastric acid secretion. The protective effect, therefore, is probably due to its ability to promote gastric drainage and to prevent the pyloric reflux, thus preventing corrosive effects of bile and acid on the stomach mucosa.",
+            "journal": "Indian journal of physiology and pharmacology",
+            "year": "1984",
+            "authors": [
+              "Manekar M S",
+              "Pandit R H",
+              "Joshi M A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Ulcer Agents",
+              "Aspirin",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Gastric Acidity Determination",
+              "Guinea Pigs",
+              "Histamine",
+              "Ligation",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6436177/"
+          },
+          {
+            "pmid": "16807979",
+            "title": "Effects of metoclopramide and ranitidine on preoperative gastric contents in day-case surgery.",
+            "abstract": "This prospective, randomized, double-blinded study was performed to evaluate the effects of intravenous metoclopramide and ranitidine on preoperative gastric contents in outpatients receiving intravenous anesthesia for laparoscopic gynecologic surgery. Fifteen minutes before the induction of anesthesia, the Z-M group (n=20) received 50 mg ranitidine and 10 mg metoclopramide intravenously and the control group (n=20) received the same volume of normal saline. Before the surgery, a 14-F multiorifice nasogastric tube was inserted to aspirate the gastric contents of patients under sedation with propofol and midazolam. The mean pH values of the gastric fluid were 2.7 +/- 2.0 (SD) [median 1.6 (range: 1.2-7.2)] in the control group, and 6.1 +/- 1.9 [median 6.8 (range 1.4-7.8)] in the Z-M group. The mean aspirated volumes (mL) were 15.3 +/- 10.4 (SD) [median 11.0 (range: 5.0-44.0)] in the control group, and 6.9 +/- 10.0 (SD) [median 4.5 (range: 0-38.0)] in the Z-M group. There were significant",
+            "journal": "Yonsei medical journal",
+            "year": "2006",
+            "authors": [
+              "Hong Jeong-Yeon"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Ambulatory Surgical Procedures",
+              "Anti-Ulcer Agents",
+              "Antiemetics",
+              "Humans",
+              "Injections, Intravenous",
+              "Metoclopramide",
+              "Pneumonia, Aspiration",
+              "Preoperative Care",
+              "Ranitidine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16807979/"
+          },
+          {
+            "pmid": "797497",
+            "title": "Drugs, diseases and altered gastric emptying.",
+            "abstract": "Drugs are usually given orally. They are not absorbed to any extent from the stomach but may be absorbed very rapidly from the small intestine. Thus factors influencing the rate of gastric emptying may alter the rate of absorption of most if not all orally administered drugs. Food, hormones, posture, peritoneal irritation, severe pain, gastric ulcer, diabetes and other metabolic diseases, as well as drugs such as alcohol, anticholinergics, narcotic analgesics, ganglion blocking drugs, antacids and metoclopramide all influence the rate of gastric emptying and they will, in turn, change the rate of absorption of another drug. In most instances, increasing the rate of gastric emptying and gastro-intestinal motility increases the rate of absorption of a drug but, for digoxin and riboflavin, increased gastrointestinal motility is associated with a decrease in the rate of absorption. Delayed drug absorption due to altered gastric emptying usually results in therapeutic failure, especially if",
+            "journal": "Clinical pharmacokinetics",
+            "year": "1976",
+            "authors": [
+              "Nimmo W S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Food",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Intestinal Absorption",
+              "Metoclopramide",
+              "Pharmaceutical Preparations",
+              "Stomach",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/797497/"
+          },
+          {
+            "pmid": "11879596",
+            "title": "Functional (Nonulcer) Dyspepsia.",
+            "abstract": "Functional (nonulcer) dyspepsia refers to upper abdominal pain or discomfort with or without symptoms of early satiety, nausea, or vomiting with no definable organic cause. The current Rome II criteria help to diagnose functional dyspepsia and avoid misdiagnosis of gastroesophageal reflux disease and irritable bowel syndrome as functional dyspepsia. Assessment of gastric emptying with scintigraphy or breath testing may be useful in identifying delayed gastric emptying in patients with dyspeptic symptoms and may be helpful in patient management. Electrogastrography is a noninvasive test that evaluates for gastric dysrhythmias. Satiety testing is being evaluated as an indirect test for impaired fundic relaxation and visceral hypersensitivity. The symptom response to Helicobacter pylori therapy in patients with functional dyspepsia and a negative endoscopy examination but a positive H. pylori test is marginal. Lifestyle modifications often are suggested for initial treatment of functional",
+            "journal": "Current treatment options in gastroenterology",
+            "year": "2002",
+            "authors": [
+              "Panganamamula Kashyap V.",
+              "Fisher Robert S.",
+              "Parkman Henry P."
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11879596/"
+          },
+          {
+            "pmid": "6659560",
+            "title": "Diabetes and the stomach.",
+            "abstract": "Abnormalities in the function of the stomach in patients with long-standing diabetes mellitus, usually insulin-dependent, may provide difficult management problems. There is a reduced frequency of peptic ulcer disease in diabetics. Gastric atrophy, often with parietal cell antibodies, is common and the frequency of pernicious anemia with its expected intrinsic factor antibodies is increased. Gastric analysis results have been conflicting but generally suggest that long-standing diabetics have lower acid levels than normals, possibly secondary to vagal neuropathy. Gastric atony occurring in a small but significant number of patients with longstanding insulin-dependent diabetes, usually with a clinically apparent peripheral neuropathy, has been associated with upper abdominal discomfort, vomiting, and a clinical picture of gastric outlet obstruction. Various degrees of subclinical delays in gastric emptying are probably present in many asymptomatic patients and, indeed, are underemphasiz",
+            "journal": "The Yale journal of biology and medicine",
+            "year": "1983",
+            "authors": [
+              "Saltzman M B",
+              "McCallum R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Barium",
+              "Diabetes Mellitus",
+              "Diabetic Neuropathies",
+              "Gastric Acid",
+              "Gastric Emptying",
+              "Humans",
+              "Metoclopramide",
+              "Peristalsis",
+              "Stomach Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6659560/"
+          },
+          {
+            "pmid": "28652516",
+            "title": "Gastric emptying after artificial ulceration in rats: differences due to the site of the ulcer and the effects of prokinetic drugs.",
+            "abstract": "Background This study aimed to evaluate the effects of the position of an acetic acid-induced gastric ulcer and the effects of prokinetic drugs on gastric emptying. Materials and Methods Male Sprague-Dawley rats were used in this study. Acetic acid ulcers were induced either in the region between the fundus and pylorus on the anterior wall of the stomach or in the glandular region on the greater curvature of the stomach to determine whether there were regional differences in the effect of the ulcers. Gastric emptying was evaluated with a breath test using [1-13C] acetic acid. In addition, the effects of the prokinetic drugs, metoclopramide and mosapride, on gastric emptying were also evaluated. Results Acetic acid induced ulcers in the region between the fundus and pylorus on the anterior wall of the stomach significantly delayed gastric emptying as compared with control rats, but not the acetic acid induced ulcers in the glandular region on the greater curvature of the stomach. Metocl",
+            "journal": "Journal of smooth muscle research = Nihon Heikatsukin Gakkai kikanshi",
+            "year": "2017",
+            "authors": [
+              "Uchida Masayuki",
+              "Kobayashi Orie",
+              "Shimizu Kimiko"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetic Acid",
+              "Animals",
+              "Benzamides",
+              "Breath Tests",
+              "Dose-Response Relationship, Drug",
+              "Gastric Emptying",
+              "Gastric Fundus",
+              "Kinetics",
+              "Male",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28652516/"
+          },
+          {
+            "pmid": "18097282",
+            "title": "Gastric and enteric involvement in progressive systemic sclerosis.",
+            "abstract": "Progressive systemic sclerosis (PSS) is a chronic multisystem disease characterized by excess deposition of connective tissue in skin and internal organs, associated with microvasculature changes and immunologic abnormalities. Involvement of the gastrointestinal tract may occur in 2 stages, a neuropathic disorder followed by a myopathy. Gastric emptying is delayed in 10% to 75% of patients and correlates with symptoms of early satiety, bloating, and emesis. Compliance of the fundus is increased although perception of fullness is normal. Myoelectric abnormalities have been found in some studies. Treatments include metoclopramide, cisapride, and erythromycin. Bleeding from telangiectasias and watermelon stomach is treated endoscopically. Small bowel involvement in PSS occurs in 17% to 57% of patients. The migrating motor complexes are reduced or absent, predisposing to bacterial overgrowth. Malabsorption may also be due to pancreatic insufficiency. Barium enemas demonstrate pancolonic in",
+            "journal": "Journal of clinical gastroenterology",
+            "year": "2008",
+            "authors": [
+              "Ebert Ellen C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anal Canal",
+              "Biofeedback, Psychology",
+              "Colon",
+              "Gastric Emptying",
+              "Humans",
+              "Intestine, Small",
+              "Lumbosacral Plexus",
+              "Malabsorption Syndromes",
+              "Peptic Ulcer Perforation",
+              "Pneumatosis Cystoides Intestinalis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18097282/"
+          },
+          {
+            "pmid": "4779253",
+            "title": "Bile reflux in gastric ulcer: the effect of smoking, metoclopramide and carbenoxolone sodium.",
+            "abstract": "",
+            "journal": "Current medical research and opinion",
+            "year": "1973",
+            "authors": [
+              "Dippy J E",
+              "Rhodes J",
+              "Cross S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anti-Inflammatory Agents",
+              "Bile",
+              "Female",
+              "Glycyrrhiza",
+              "Humans",
+              "Male",
+              "Metoclopramide",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4779253/"
+          },
+          {
+            "pmid": "6106882",
+            "title": "[Conservative treatment of gastric ulcer].",
+            "abstract": "",
+            "journal": "Medizinische Klinik",
+            "year": "1980",
+            "authors": [
+              "Lux G",
+              "Rösch W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aluminum",
+              "Antacids",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Carbenoxolone",
+              "Domperidone",
+              "Gefarnate",
+              "Glycyrrhiza",
+              "Histamine H2 Antagonists",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6106882/"
+          },
+          {
+            "pmid": "12825960",
+            "title": "Current concepts in diabetic gastroparesis.",
+            "abstract": "Diabetic gastroparesis is a common and debilitating condition affecting millions of patients with diabetes mellitus worldwide. Although gastroparesis in diabetes has been known clinically for more than 50 years, treatment options remain very limited. Until recently, the scientific literature has offered few clues regarding the precise aetiology of gastric dysfunction in diabetes.Up to 50% of patients with diabetes may experience postprandial abdominal pain, nausea, vomiting and bloating secondary to gastric dysfunction. There is no clear association between length of disease and the onset of delayed gastric emptying. Gastroparesis affects both type 1 (insulin dependent) and type 2 (non- insulin dependent) forms of diabetes. Diagnosis requires identifying the proper symptom complex, while excluding other entities (peptic ulcer disease, rheumatological diseases, medication effects). The diagnosis of gastroparesis may be confirmed by demonstrating gastric emptying delay during a 4-hour sc",
+            "journal": "Drugs",
+            "year": "2003",
+            "authors": [
+              "Smith D Scott",
+              "Ferris Christopher D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diabetes Complications",
+              "Drugs, Investigational",
+              "Gastrointestinal Agents",
+              "Gastroparesis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12825960/"
+          },
+          {
+            "pmid": "8527013",
+            "title": "A risk-benefit assessment of cisapride in the treatment of gastrointestinal disorders.",
+            "abstract": "Cisapride is a substituted benzamide compound that stimulates motor activity in all segments of the gastrointestinal tract by enhancing the release of acetylcholine from the enteric nervous system. Cisapride is administered orally in the treatment of gastro-oesophageal reflux disease, functional dyspepsia, gastroparesis, chronic intestinal pseudo-obstruction syndromes and chronic constipation. In gastro-oesophageal reflux disease in both adults and children, cisapride provides symptomatic improvement and mucosal healing. Long term treatment with cisapride is effective in the prevention of relapse of oesophagitis. Cisapride improves gastric emptying rates and improves symptoms in patients with gastroparesis of various origins. Unlike domperidone and metoclopramide, long term administration of cisapride seems to result in persistently enhanced gastric emptying. Cisapride is also effective in improving symptoms in patients with functional dyspepsia. In comparative studies in patients with",
+            "journal": "Drug safety",
+            "year": "1995",
+            "authors": [
+              "Tack J",
+              "Coremans G",
+              "Janssens J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Cisapride",
+              "Gastric Emptying",
+              "Gastrointestinal Diseases",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Intestinal Absorption",
+              "Piperidines",
+              "Serotonin Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8527013/"
+          },
+          {
+            "pmid": "1387939",
+            "title": "[Disorders of gastric emptying].",
+            "abstract": "Disorders of gastric emptying are observed in many clinical situations. Their symptoms are diverse and correlate poorly with the objective abnormalities of gastric emptying. The underlying mechanism consists of abnormalities of basal electrical rhythm, fundic compliance, post-prandial antral motricity and, above all, antro-pyloro-duodenal co-ordination, associated to varying degrees. Among possible causes 3 clinical situations predominate: diabetes mellitus, functional gastrointestinal disorders (idiopathic dyspepsia) and sequelae of gastric surgery where retention of solids and accelerated evacuation of liquids may coexist in the same patient. Treatment of gastric incontinence rests, almost exclusively, on dietary measures, but several drugs, such as metoclopramide, domperidone and cisapride, are available to treat gastric stasis. Other compounds, notably motilin agonists (erythromycin and its derivatives) are currently being evaluated and will reinforce this therapeutic armentarium i",
+            "journal": "Presse medicale (Paris, France : 1983)",
+            "year": "1992",
+            "authors": [
+              "Jian R"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cisapride",
+              "Diabetes Complications",
+              "Domperidone",
+              "Dyspepsia",
+              "Gastric Emptying",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Metoclopramide",
+              "Piperidines",
+              "Postoperative Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1387939/"
+          },
+          {
+            "pmid": "775822",
+            "title": "[Therapy of gastric and duodenal ulcer with Metoclopramide].",
+            "abstract": "",
+            "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+            "year": "1976",
+            "authors": [
+              "Leonhardt L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Clinical Trials as Topic",
+              "Duodenal Ulcer",
+              "Female",
+              "Humans",
+              "Indomethacin",
+              "Male",
+              "Metoclopramide",
+              "Recurrence",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/775822/"
+          },
+          {
+            "pmid": "6782467",
+            "title": "[Influence of domperidone and metoclopramide on serum gastrin levels and gastric acid secretion (author's transl)].",
+            "abstract": "The influence of Domperidone and Metoclopramide on the Serum Gastrin Level and Gastric Acid Secretion was investigated in a crossed, randomized double blind study in 12 male subjects aged 29 years on the average and presenting a healthy stomach. Neither after Domperidone nor after Metoclopramide could a significant change in Gastrin Level and Acid Secretion be observed. Since both Domperidone and Metoclopramide exert a motility promoting but not secretagogue effect on the upper gastrointestinal tract, both drugs are suitable for the treatment of disordered motility and evacuation related to ulcer disease, as well as for the treatment of postoperative gastroatonia.",
+            "journal": "MMW, Munchener medizinische Wochenschrift",
+            "year": "1981",
+            "authors": [
+              "Schneider J A",
+              "Bauer H",
+              "Doenicke A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antiemetics",
+              "Benzimidazoles",
+              "Domperidone",
+              "Gastric Acid",
+              "Gastrins",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Male",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6782467/"
+          },
+          {
+            "pmid": "8744935",
+            "title": "Postoperative gastric motility, secretory function, and pre- and postoperative carbohydrate metabolic states in esophageal cancer patients.",
+            "abstract": "This study was undertaken to assess postoperative gastric motility and gastric acid secretion, and pre- and postoperative carbohydrate metabolism in patients with esophageal cancer. The gastric motility was compared among 3 different reconstruction routes in 26 patients who were divided into 2 groups according to the duration of postoperative follow-up; group A, 3 months or less; and group B, 18 months or more. The routes used for subtotal resection of the stomach were the posterior mediastinal, retrosternal, and subcutaneous routes. All patients showed positive resting pressure in the esophagus, but peristaltic waves did not reach the gastric tube at dry swallowing in any patients and peristaltic waves appeared after eating pudding only in 1 patient in group B. The resting pressure and gastric emptying time were similar among reconstruction routes, but the incidence and amplitude of metoclopramide (MCP)-induced peristaltic waves were significantly higher in group B than in group A. Fu",
+            "journal": "Acta medica Okayama",
+            "year": "1996",
+            "authors": [
+              "Ishizuka S",
+              "Kamikawa Y",
+              "Naomoto Y",
+              "Tanaka N",
+              "Orita K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Blood Glucose",
+              "Carcinoma, Squamous Cell",
+              "Esophageal Neoplasms",
+              "Female",
+              "Gastric Juice",
+              "Gastrointestinal Motility",
+              "Glucagon",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8744935/"
+          },
+          {
+            "pmid": "8095331",
+            "title": "Refractory peptic lesions. Therapeutic strategies for ulcers and reflux esophagitis that resist standard regimens.",
+            "abstract": "In some patients, peptic lesions fail to heal after 2 to 3 months of standard histamine2 (H2) receptor antagonist or sucralfate (Carafate) therapy. Noncompliance with prescribed treatment, cigarette smoking, gastric acid hypersecretory states (including Zollinger-Ellison syndrome), Helicobacter pylori infection, the use of nonsteroidal anti-inflammatory drugs, abdominal radiation therapy, and malignant tumors are all causes of refractory disease. Treatment options include high-dose H2 receptor antagonist therapy or switching to a more potent drug or one with a different mechanism of action. Occasionally, drug combinations (eg, H2 receptor antagonist plus misoprostol [Cytotec] for gastric ulcers or H2 receptor antagonist plus metoclopramide [Octamide, Reglan] for reflux disease) are effective. Triple-drug therapy for H pylori infection with refractory duodenal ulcers may allow healing and dramatically decrease recurrence rates. When surgery is required, vagotomy and antrectomy is probab",
+            "journal": "Postgraduate medicine",
+            "year": "1993",
+            "authors": [
+              "Netchvolodoff C V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Chronic Disease",
+              "Clinical Protocols",
+              "Combined Modality Therapy",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer",
+              "Esophagitis, Peptic",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Histamine H2 Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8095331/"
+          },
+          {
+            "pmid": "793063",
+            "title": "Postoperative alkaline reflux gastritis.",
+            "abstract": "1. The syndrome of reflux gastritis is produced by the actions of bile and upper intestinal and pancreatic secretions alone or in combination on an altered gastric mucosa. 2. The triad of epigastric pain unrelieved by antacids, bilious vomiting, and weight loss, particularly after a gastric operation should make one suspect this syndrome. Anemia due to loss of blood and dysphagia occur less frequently. 3. The definitive diagnosis is made by endoscopy. Barium studies are of less value. Acid secretory studies are not diagnostic and are of academic interest. 4. Medical treatment utilizes antacids and cholestyramine alone or together. Good, long-lasting results with these are infrequent. Despite these results, medical treatment should be tried first. 5. Surgical treatment consists of diversion of the biliary and upper intestinal secretions from the stomach and doing a vagotomy with or without a distal gastric resection to prevent a marginal ulcer from developing. 6. The two most popular op",
+            "journal": "The Surgical clinics of North America",
+            "year": "1976",
+            "authors": [
+              "Cooperman A M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cholestyramine Resin",
+              "Gastritis",
+              "Gastroenterostomy",
+              "Humans",
+              "Metoclopramide",
+              "Postgastrectomy Syndromes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/793063/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "gastric ulcer (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20gastric%20ulcer%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "gastroduodenitis",
+        "txgnn_score": 0.9990105628967284,
+        "txgnn_rank": 314,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "gastroduodenitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20gastroduodenitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "peptic ulcer disease",
+        "txgnn_score": 0.998511016368866,
+        "txgnn_rank": 459,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3059051",
+            "title": "Metaclopramide neurotoxicity.",
+            "abstract": "",
+            "journal": "Journal of the South Carolina Medical Association (1975)",
+            "year": "1988",
+            "authors": [
+              "Santos A",
+              "Arana G"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Aged",
+              "Basal Ganglia Diseases",
+              "Diagnosis, Differential",
+              "Duodenal Ulcer",
+              "Dyskinesia, Drug-Induced",
+              "Female",
+              "Humans",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3059051/"
+          },
+          {
+            "pmid": "6336644",
+            "title": "Metoclopramide: pharmacology and clinical application.",
+            "abstract": "Metoclopramide antagonizes the effect of dopamine in the central nervous system and other organ systems. Metoclopramide's effect on the medullary chemoreceptor trigger zone makes it useful as a routine anti-emetic and in preventing vomiting induced by antineoplastic drugs, particularly cisplatin. Metoclopramide's gastrointestinal smooth muscle stimulatory effects are related to its ability to antagonize the inhibitory neurotransmitter, dopamine; to augment acetylcholine release and sensitize the muscarinic receptors of the gastrointestinal smooth muscle; and to coordinate gastric-pyloric-small intestinal motor function. The indications for which metoclopramide is approved in the United States are reviewed. Adverse effects, which may occur in up to 20% of patients, include drowsiness, lassitude, and akathisia; all are usually mild, transient, and reversible. Tremor, dystonic reactions, and extrapyramidal effects are infrequent; breast enlargement, galactorrhea, and menstrual irregularit",
+            "journal": "Annals of internal medicine",
+            "year": "1983",
+            "authors": [
+              "Albibi R",
+              "McCallum R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anorexia Nervosa",
+              "Antiemetics",
+              "Diabetes Mellitus",
+              "Dopamine Antagonists",
+              "Endocrine Glands",
+              "Gastric Emptying",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Intestinal Obstruction",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6336644/"
+          },
+          {
+            "pmid": "6659560",
+            "title": "Diabetes and the stomach.",
+            "abstract": "Abnormalities in the function of the stomach in patients with long-standing diabetes mellitus, usually insulin-dependent, may provide difficult management problems. There is a reduced frequency of peptic ulcer disease in diabetics. Gastric atrophy, often with parietal cell antibodies, is common and the frequency of pernicious anemia with its expected intrinsic factor antibodies is increased. Gastric analysis results have been conflicting but generally suggest that long-standing diabetics have lower acid levels than normals, possibly secondary to vagal neuropathy. Gastric atony occurring in a small but significant number of patients with longstanding insulin-dependent diabetes, usually with a clinically apparent peripheral neuropathy, has been associated with upper abdominal discomfort, vomiting, and a clinical picture of gastric outlet obstruction. Various degrees of subclinical delays in gastric emptying are probably present in many asymptomatic patients and, indeed, are underemphasiz",
+            "journal": "The Yale journal of biology and medicine",
+            "year": "1983",
+            "authors": [
+              "Saltzman M B",
+              "McCallum R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Barium",
+              "Diabetes Mellitus",
+              "Diabetic Neuropathies",
+              "Gastric Acid",
+              "Gastric Emptying",
+              "Humans",
+              "Metoclopramide",
+              "Peristalsis",
+              "Stomach Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6659560/"
+          },
+          {
+            "pmid": "579607",
+            "title": "Symposium on peptic ulcer disease. 1. Medical treatment of peptic ulcer.",
+            "abstract": "The conventional treatment of peptic ulcer disease with special dietary regimens, antacids or anticholinergics has been found wanting. Recently introduced agents show considerable promise in the benefit they can render. Carbenoxolone accelerates the healing of gastric ulcers by increasing gastric mucosal resistance. Cimetidine, a histamine HI-receptor antagonist, is an effective suppressant of acid secretion and therefore promotes healing of duodenal ulcers. Metoclopramide hastens gastric emptying and increases the tone of the gastroesophageal sphincter, and is valuable in cases of reflux esophagitis and gastric ulcer.",
+            "journal": "Canadian journal of surgery. Journal canadien de chirurgie",
+            "year": "1978",
+            "authors": [
+              "Jeejeebhoy K N"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antacids",
+              "Carbenoxolone",
+              "Cimetidine",
+              "Duodenal Ulcer",
+              "Guanidines",
+              "Humans",
+              "Metoclopramide",
+              "Milk",
+              "Parasympatholytics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/579607/"
+          },
+          {
+            "pmid": "1441547",
+            "title": "[Non-ulcer dyspepsia].",
+            "abstract": "The definition, classification, pathophysiology, diagnosis and treatment of functional disturbances of the upper part of the digestive tract called \"non-ulcer dyspepsia\" are described. Attention is called to the frequency of these disorders, and stress is laid on the role of digestive tract motor function tests in the knowledge of the pathophysiology and effective treatment. In the therapeutic proposals the authors prefer the use of prokinetic drugs, especially metoclopramide, domperidone and cisapridine.",
+            "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+            "year": "1992",
+            "authors": [
+              "Paradowski L",
+              "Semianów-Wejchert J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Age Factors",
+              "Diagnosis, Differential",
+              "Dyspepsia",
+              "Female",
+              "Humans",
+              "Male",
+              "Peptic Ulcer",
+              "Sex Factors",
+              "Terminology as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1441547/"
+          },
+          {
+            "pmid": "8095331",
+            "title": "Refractory peptic lesions. Therapeutic strategies for ulcers and reflux esophagitis that resist standard regimens.",
+            "abstract": "In some patients, peptic lesions fail to heal after 2 to 3 months of standard histamine2 (H2) receptor antagonist or sucralfate (Carafate) therapy. Noncompliance with prescribed treatment, cigarette smoking, gastric acid hypersecretory states (including Zollinger-Ellison syndrome), Helicobacter pylori infection, the use of nonsteroidal anti-inflammatory drugs, abdominal radiation therapy, and malignant tumors are all causes of refractory disease. Treatment options include high-dose H2 receptor antagonist therapy or switching to a more potent drug or one with a different mechanism of action. Occasionally, drug combinations (eg, H2 receptor antagonist plus misoprostol [Cytotec] for gastric ulcers or H2 receptor antagonist plus metoclopramide [Octamide, Reglan] for reflux disease) are effective. Triple-drug therapy for H pylori infection with refractory duodenal ulcers may allow healing and dramatically decrease recurrence rates. When surgery is required, vagotomy and antrectomy is probab",
+            "journal": "Postgraduate medicine",
+            "year": "1993",
+            "authors": [
+              "Netchvolodoff C V"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Chronic Disease",
+              "Clinical Protocols",
+              "Combined Modality Therapy",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer",
+              "Esophagitis, Peptic",
+              "Helicobacter Infections",
+              "Helicobacter pylori",
+              "Histamine H2 Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8095331/"
+          },
+          {
+            "pmid": "3043493",
+            "title": "Reflux esophagitis. Diagnosis, pathophysiology, and management.",
+            "abstract": "Reflux esophagitis is a common disorder in which esophageal inflammation is caused by the reflux of gastric contents. The diagnostic approach includes documentation that reflux is present, that the patient's symptoms are caused by the reflux, and that esophageal mucosal damage has occurred. Therapy is guided by the current multifactorial pathophysiology model, which includes efficacy of the antireflux mechanism, volume of gastric fluid, potency of refluxed material, esophageal clearance, and tissue resistance factors. Although recurrences are common, treatment with life style changes supplemented with combinations of liquid antacids, H2 blockers, sucralfate, bethanechol, and metoclopramide is usually effective.",
+            "journal": "Primary care",
+            "year": "1988",
+            "authors": [
+              "Crump W J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diagnosis, Differential",
+              "Esophagitis, Peptic",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3043493/"
+          },
+          {
+            "pmid": "6124198",
+            "title": "Gastroesophageal reflux. Pathogenesis, diagnosis, and therapy.",
+            "abstract": "In recent years, considerable new information has become available on the pathogenesis, diagnosis and therapy of gastroesophageal reflux. Gastric contents, mucosal resistance, esophageal acid clearance, and gastric emptying are now recognized, along with incompetency of the lower esophageal sphincter, as contributing factors to gastroesophageal reflux disease. The potential tests for reflux are reviewed and the diagnostic accuracy of each is evaluated. A diagnostic approach to the patient with reflux symptoms is outlined that considers the sensitivity and specificity of these various tests as well as their availability to the generalist and gastrointestinal specialist. Finally, an overview of the current therapy for reflux disease summarizes the controlled studies in the medical literature.",
+            "journal": "Annals of internal medicine",
+            "year": "1982",
+            "authors": [
+              "Richter J E",
+              "Castell D O"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alginates",
+              "Antacids",
+              "Barium Sulfate",
+              "Bethanechol",
+              "Bethanechol Compounds",
+              "Cimetidine",
+              "Esophagitis, Peptic",
+              "Esophagogastric Junction",
+              "Esophagoscopy",
+              "Esophagus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6124198/"
+          },
+          {
+            "pmid": "7134843",
+            "title": "Reflux esophagitis.",
+            "abstract": "",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1982",
+            "authors": [
+              "Teilum D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Biopsy",
+              "Cholestyramine Resin",
+              "Cimetidine",
+              "Endoscopy",
+              "Esophagitis, Peptic",
+              "Esophagogastric Junction",
+              "Fiber Optic Technology",
+              "Gastric Acid",
+              "Gastric Emptying"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7134843/"
+          },
+          {
+            "pmid": "8527013",
+            "title": "A risk-benefit assessment of cisapride in the treatment of gastrointestinal disorders.",
+            "abstract": "Cisapride is a substituted benzamide compound that stimulates motor activity in all segments of the gastrointestinal tract by enhancing the release of acetylcholine from the enteric nervous system. Cisapride is administered orally in the treatment of gastro-oesophageal reflux disease, functional dyspepsia, gastroparesis, chronic intestinal pseudo-obstruction syndromes and chronic constipation. In gastro-oesophageal reflux disease in both adults and children, cisapride provides symptomatic improvement and mucosal healing. Long term treatment with cisapride is effective in the prevention of relapse of oesophagitis. Cisapride improves gastric emptying rates and improves symptoms in patients with gastroparesis of various origins. Unlike domperidone and metoclopramide, long term administration of cisapride seems to result in persistently enhanced gastric emptying. Cisapride is also effective in improving symptoms in patients with functional dyspepsia. In comparative studies in patients with",
+            "journal": "Drug safety",
+            "year": "1995",
+            "authors": [
+              "Tack J",
+              "Coremans G",
+              "Janssens J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Cisapride",
+              "Gastric Emptying",
+              "Gastrointestinal Diseases",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Intestinal Absorption",
+              "Piperidines",
+              "Serotonin Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8527013/"
+          },
+          {
+            "pmid": "12825960",
+            "title": "Current concepts in diabetic gastroparesis.",
+            "abstract": "Diabetic gastroparesis is a common and debilitating condition affecting millions of patients with diabetes mellitus worldwide. Although gastroparesis in diabetes has been known clinically for more than 50 years, treatment options remain very limited. Until recently, the scientific literature has offered few clues regarding the precise aetiology of gastric dysfunction in diabetes.Up to 50% of patients with diabetes may experience postprandial abdominal pain, nausea, vomiting and bloating secondary to gastric dysfunction. There is no clear association between length of disease and the onset of delayed gastric emptying. Gastroparesis affects both type 1 (insulin dependent) and type 2 (non- insulin dependent) forms of diabetes. Diagnosis requires identifying the proper symptom complex, while excluding other entities (peptic ulcer disease, rheumatological diseases, medication effects). The diagnosis of gastroparesis may be confirmed by demonstrating gastric emptying delay during a 4-hour sc",
+            "journal": "Drugs",
+            "year": "2003",
+            "authors": [
+              "Smith D Scott",
+              "Ferris Christopher D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diabetes Complications",
+              "Drugs, Investigational",
+              "Gastrointestinal Agents",
+              "Gastroparesis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12825960/"
+          },
+          {
+            "pmid": "1974182",
+            "title": "Clinical pharmacokinetics of drugs used in the treatment of gastrointestinal diseases (Part I).",
+            "abstract": "Drug treatment of gastrointestinal diseases, which was previously limited to the use of antacids, anticholinergics, antispasmodics, cathartics and laxatives, has changed markedly over the past decade. Histamine H2-receptor antagonists (e.g. cimetidine, ranitidine and more recently famotidine and nizatidine) have revolutionised the treatment of peptic acid disorders, but their role is currently challenged by muscarinic-M1-receptor antagonists (e.g. pirenzepine), proton pump inhibitors (e.g. omeprazole), prostaglandin analogues and site-protective drugs (e.g. colloidal bismuth subcitrate and sucralfate). Newer antiemetics with prokinetic properties (e.g. metoclopramide, domperidone and cisapride) have also been introduced in the management of gastrointestinal motility disturbances, and new anti-inflammatory salicylates (e.g. olsalazine and mesalazine) have been developed for the treatment of chronic inflammatory bowel diseases. Finally, diphenoxylate and loperamide have gained wide clini",
+            "journal": "Clinical pharmacokinetics",
+            "year": "1990",
+            "authors": [
+              "Lauritsen K",
+              "Laursen L S",
+              "Rask-Madsen J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Antiemetics",
+              "Gastrointestinal Agents",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Parasympatholytics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1974182/"
+          },
+          {
+            "pmid": "17327741",
+            "title": "Gastrointestinal motility and prokinetics in the critically ill.",
+            "abstract": "Enteral nutrition is frequently unsuccessful in the critically ill due to gastrointestinal dysfunction. Current treatment strategies are often disappointing. In this article upper gastrointestinal function in health together with abnormalities seen during critical illness are reviewed, and potential therapeutic options summarized.",
+            "journal": "Current opinion in critical care",
+            "year": "2007",
+            "authors": [
+              "Chapman Marianne J",
+              "Nguyen Nam Q",
+              "Fraser Robert J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cisapride",
+              "Critical Care",
+              "Enteral Nutrition",
+              "Erythromycin",
+              "Esophagitis, Peptic",
+              "Gastric Emptying",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Metoclopramide",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17327741/"
+          },
+          {
+            "pmid": "1387939",
+            "title": "[Disorders of gastric emptying].",
+            "abstract": "Disorders of gastric emptying are observed in many clinical situations. Their symptoms are diverse and correlate poorly with the objective abnormalities of gastric emptying. The underlying mechanism consists of abnormalities of basal electrical rhythm, fundic compliance, post-prandial antral motricity and, above all, antro-pyloro-duodenal co-ordination, associated to varying degrees. Among possible causes 3 clinical situations predominate: diabetes mellitus, functional gastrointestinal disorders (idiopathic dyspepsia) and sequelae of gastric surgery where retention of solids and accelerated evacuation of liquids may coexist in the same patient. Treatment of gastric incontinence rests, almost exclusively, on dietary measures, but several drugs, such as metoclopramide, domperidone and cisapride, are available to treat gastric stasis. Other compounds, notably motilin agonists (erythromycin and its derivatives) are currently being evaluated and will reinforce this therapeutic armentarium i",
+            "journal": "Presse medicale (Paris, France : 1983)",
+            "year": "1992",
+            "authors": [
+              "Jian R"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cisapride",
+              "Diabetes Complications",
+              "Domperidone",
+              "Dyspepsia",
+              "Gastric Emptying",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Metoclopramide",
+              "Piperidines",
+              "Postoperative Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1387939/"
+          },
+          {
+            "pmid": "18097282",
+            "title": "Gastric and enteric involvement in progressive systemic sclerosis.",
+            "abstract": "Progressive systemic sclerosis (PSS) is a chronic multisystem disease characterized by excess deposition of connective tissue in skin and internal organs, associated with microvasculature changes and immunologic abnormalities. Involvement of the gastrointestinal tract may occur in 2 stages, a neuropathic disorder followed by a myopathy. Gastric emptying is delayed in 10% to 75% of patients and correlates with symptoms of early satiety, bloating, and emesis. Compliance of the fundus is increased although perception of fullness is normal. Myoelectric abnormalities have been found in some studies. Treatments include metoclopramide, cisapride, and erythromycin. Bleeding from telangiectasias and watermelon stomach is treated endoscopically. Small bowel involvement in PSS occurs in 17% to 57% of patients. The migrating motor complexes are reduced or absent, predisposing to bacterial overgrowth. Malabsorption may also be due to pancreatic insufficiency. Barium enemas demonstrate pancolonic in",
+            "journal": "Journal of clinical gastroenterology",
+            "year": "2008",
+            "authors": [
+              "Ebert Ellen C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anal Canal",
+              "Biofeedback, Psychology",
+              "Colon",
+              "Gastric Emptying",
+              "Humans",
+              "Intestine, Small",
+              "Lumbosacral Plexus",
+              "Malabsorption Syndromes",
+              "Peptic Ulcer Perforation",
+              "Pneumatosis Cystoides Intestinalis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18097282/"
+          },
+          {
+            "pmid": "6372664",
+            "title": "Alkaline reflux gastritis and esophagitis.",
+            "abstract": "Alkaline reflux (bile) gastritis and esophagitis result from mucosal injury by duodenal contents. Bile gastritis occurs after gastric surgery, cholecystectomy, ampullary sphincteroplasty, and, rarely, in nonoperated patients. Diagnostic features include chronic, continuous epigastric pain, exacerbated by eating, bilious vomiting, weight loss, iron deficiency anemia, achlorhydria, gastritis, and intragastric bile. The pathophysiology probably relates to excess enterogastric reflux and bile-induced mucosal damage. There is no perfect diagnostic test, but chemical and scintigraphic documentation of enterogastric reflux, as well as provocative testing with alkali solutions, are promising new techniques. Medical therapy with antacids, H2 antagonists, bile salt absorbants, and metoclopramide has been without significant benefit. Prostaglandins and sucralfate are now being evaluated. Surgical therapy that diverts duodenal contents away from the stomach is usually of benefit in appropriately s",
+            "journal": "Annual review of medicine",
+            "year": "1984",
+            "authors": [
+              "Nath B J",
+              "Warshaw A L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alkalies",
+              "Bile Reflux",
+              "Biliary Tract Diseases",
+              "Esophagitis, Peptic",
+              "Gastrectomy",
+              "Gastritis",
+              "Humans",
+              "Postoperative Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6372664/"
+          },
+          {
+            "pmid": "6106882",
+            "title": "[Conservative treatment of gastric ulcer].",
+            "abstract": "",
+            "journal": "Medizinische Klinik",
+            "year": "1980",
+            "authors": [
+              "Lux G",
+              "Rösch W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aluminum",
+              "Antacids",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Carbenoxolone",
+              "Domperidone",
+              "Gefarnate",
+              "Glycyrrhiza",
+              "Histamine H2 Antagonists",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6106882/"
+          },
+          {
+            "pmid": "15259526",
+            "title": "Evaluation and management of nonulcer dyspepsia.",
+            "abstract": "When no organic cause for dyspepsia is found, the condition generally is considered to be functional, or idiopathic. Nonulcer dyspepsia can cause a variety of symptoms, including abdominal pain, bloating, nausea, and vomiting. Many patients with nonulcer dyspepsia have multiple somatic complaints, as well as symptoms of anxiety and depression. Extensive diagnostic testing is not recommended, except in patients with serious risk factors such as dysphagia, protracted vomiting, anorexia, melena, anemia, or a palpable mass. In these patients, endoscopy should be considered to exclude gastroesophageal reflux disease, peptic or duodenal ulcer, and gastric cancer. In patients without risk factors, consideration should be given to empiric therapy with a prokinetic agent (e.g., metoclopramide), an acid suppressant (histamine-H2 receptor antagonist), or an antimicrobial agent with activity against Helicobacter pylori. Treatment of patients with H. pylori infection and nonulcer dyspepsia (rather ",
+            "journal": "American family physician",
+            "year": "2004",
+            "authors": [
+              "Dickerson Lori M",
+              "King Dana E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Dyspepsia",
+              "Endoscopy, Digestive System",
+              "Gastrointestinal Agents",
+              "Gastrointestinal Diseases",
+              "Humans",
+              "Mental Disorders",
+              "Psychotropic Drugs"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15259526/"
+          },
+          {
+            "pmid": "2514484",
+            "title": "[The effect of metoclopramide on the acid and pepsin secretion of patients with chronic gastritis and peptic ulcer].",
+            "abstract": "The authors studied the effect of single intakes of metoclopramide on the acid and pepsin secretion in patients with chronic gastritis and duodenal ulcer. Peroral intake of 20 mg of metoclopramide during histamine-stimulated gastric secretion resulted in a distinct reduction of H ions and an insignificant reduction of pepsin secretion. Cerucal-initiated inhibition of acidity is accompanied by reduction of potassium concentration.",
+            "journal": "Vrachebnoe delo",
+            "year": "1989",
+            "authors": [
+              "Skliarov E Ia",
+              "Makara V Z"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chronic Disease",
+              "Drug Evaluation",
+              "Female",
+              "Gastric Acid",
+              "Gastric Juice",
+              "Gastritis",
+              "Histamine",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2514484/"
+          },
+          {
+            "pmid": "19225",
+            "title": "Drugs in the treatment of gastric and duodenal ulcer.",
+            "abstract": "",
+            "journal": "Drugs",
+            "year": "1977",
+            "authors": [
+              "Langman M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amylopectin",
+              "Antacids",
+              "Bismuth",
+              "Carbenoxolone",
+              "Cholestyramine Resin",
+              "Duodenal Ulcer",
+              "Estrogens",
+              "Fatty Acids, Unsaturated",
+              "Glycyrrhiza",
+              "Histamine H2 Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19225/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "peptic ulcer disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20peptic%20ulcer%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "gastrojejunal ulcer",
+        "txgnn_score": 0.9978072047233582,
+        "txgnn_rank": 629,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "6336644",
+            "title": "Metoclopramide: pharmacology and clinical application.",
+            "abstract": "Metoclopramide antagonizes the effect of dopamine in the central nervous system and other organ systems. Metoclopramide's effect on the medullary chemoreceptor trigger zone makes it useful as a routine anti-emetic and in preventing vomiting induced by antineoplastic drugs, particularly cisplatin. Metoclopramide's gastrointestinal smooth muscle stimulatory effects are related to its ability to antagonize the inhibitory neurotransmitter, dopamine; to augment acetylcholine release and sensitize the muscarinic receptors of the gastrointestinal smooth muscle; and to coordinate gastric-pyloric-small intestinal motor function. The indications for which metoclopramide is approved in the United States are reviewed. Adverse effects, which may occur in up to 20% of patients, include drowsiness, lassitude, and akathisia; all are usually mild, transient, and reversible. Tremor, dystonic reactions, and extrapyramidal effects are infrequent; breast enlargement, galactorrhea, and menstrual irregularit",
+            "journal": "Annals of internal medicine",
+            "year": "1983",
+            "authors": [
+              "Albibi R",
+              "McCallum R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anorexia Nervosa",
+              "Antiemetics",
+              "Diabetes Mellitus",
+              "Dopamine Antagonists",
+              "Endocrine Glands",
+              "Gastric Emptying",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Intestinal Obstruction",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6336644/"
+          },
+          {
+            "pmid": "3059051",
+            "title": "Metaclopramide neurotoxicity.",
+            "abstract": "",
+            "journal": "Journal of the South Carolina Medical Association (1975)",
+            "year": "1988",
+            "authors": [
+              "Santos A",
+              "Arana G"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Aged",
+              "Basal Ganglia Diseases",
+              "Diagnosis, Differential",
+              "Duodenal Ulcer",
+              "Dyskinesia, Drug-Induced",
+              "Female",
+              "Humans",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3059051/"
+          },
+          {
+            "pmid": "1441547",
+            "title": "[Non-ulcer dyspepsia].",
+            "abstract": "The definition, classification, pathophysiology, diagnosis and treatment of functional disturbances of the upper part of the digestive tract called \"non-ulcer dyspepsia\" are described. Attention is called to the frequency of these disorders, and stress is laid on the role of digestive tract motor function tests in the knowledge of the pathophysiology and effective treatment. In the therapeutic proposals the authors prefer the use of prokinetic drugs, especially metoclopramide, domperidone and cisapridine.",
+            "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+            "year": "1992",
+            "authors": [
+              "Paradowski L",
+              "Semianów-Wejchert J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Age Factors",
+              "Diagnosis, Differential",
+              "Dyspepsia",
+              "Female",
+              "Humans",
+              "Male",
+              "Peptic Ulcer",
+              "Sex Factors",
+              "Terminology as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1441547/"
+          },
+          {
+            "pmid": "19225",
+            "title": "Drugs in the treatment of gastric and duodenal ulcer.",
+            "abstract": "",
+            "journal": "Drugs",
+            "year": "1977",
+            "authors": [
+              "Langman M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amylopectin",
+              "Antacids",
+              "Bismuth",
+              "Carbenoxolone",
+              "Cholestyramine Resin",
+              "Duodenal Ulcer",
+              "Estrogens",
+              "Fatty Acids, Unsaturated",
+              "Glycyrrhiza",
+              "Histamine H2 Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19225/"
+          },
+          {
+            "pmid": "6659560",
+            "title": "Diabetes and the stomach.",
+            "abstract": "Abnormalities in the function of the stomach in patients with long-standing diabetes mellitus, usually insulin-dependent, may provide difficult management problems. There is a reduced frequency of peptic ulcer disease in diabetics. Gastric atrophy, often with parietal cell antibodies, is common and the frequency of pernicious anemia with its expected intrinsic factor antibodies is increased. Gastric analysis results have been conflicting but generally suggest that long-standing diabetics have lower acid levels than normals, possibly secondary to vagal neuropathy. Gastric atony occurring in a small but significant number of patients with longstanding insulin-dependent diabetes, usually with a clinically apparent peripheral neuropathy, has been associated with upper abdominal discomfort, vomiting, and a clinical picture of gastric outlet obstruction. Various degrees of subclinical delays in gastric emptying are probably present in many asymptomatic patients and, indeed, are underemphasiz",
+            "journal": "The Yale journal of biology and medicine",
+            "year": "1983",
+            "authors": [
+              "Saltzman M B",
+              "McCallum R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Barium",
+              "Diabetes Mellitus",
+              "Diabetic Neuropathies",
+              "Gastric Acid",
+              "Gastric Emptying",
+              "Humans",
+              "Metoclopramide",
+              "Peristalsis",
+              "Stomach Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6659560/"
+          },
+          {
+            "pmid": "3043493",
+            "title": "Reflux esophagitis. Diagnosis, pathophysiology, and management.",
+            "abstract": "Reflux esophagitis is a common disorder in which esophageal inflammation is caused by the reflux of gastric contents. The diagnostic approach includes documentation that reflux is present, that the patient's symptoms are caused by the reflux, and that esophageal mucosal damage has occurred. Therapy is guided by the current multifactorial pathophysiology model, which includes efficacy of the antireflux mechanism, volume of gastric fluid, potency of refluxed material, esophageal clearance, and tissue resistance factors. Although recurrences are common, treatment with life style changes supplemented with combinations of liquid antacids, H2 blockers, sucralfate, bethanechol, and metoclopramide is usually effective.",
+            "journal": "Primary care",
+            "year": "1988",
+            "authors": [
+              "Crump W J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diagnosis, Differential",
+              "Esophagitis, Peptic",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3043493/"
+          },
+          {
+            "pmid": "7982184",
+            "title": "Comparison of the efficacy, safety, and pharmacokinetics of controlled release and immediate release metoclopramide for the management of chronic nausea in patients with advanced cancer.",
+            "abstract": "The short elimination half-life of metoclopramide necessitates frequent administration for optimal relief of nausea. This study compares a newly developed controlled release preparation of metoclopramide (CRM) and immediate release metoclopramide (IRM) with respect to efficacy, safety, and pharmacokinetics in patients with chronic nausea associated with advanced cancer.",
+            "journal": "Cancer",
+            "year": "1994",
+            "authors": [
+              "Bruera E D",
+              "MacEachern T J",
+              "Spachynski K A",
+              "LeGatt D F",
+              "MacDonald R N"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Clinical Trial, Phase I",
+              "Clinical Trial, Phase II",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Chronic Disease",
+              "Delayed-Action Preparations",
+              "Double-Blind Method",
+              "Humans",
+              "Metoclopramide",
+              "Nausea",
+              "Neoplasms",
+              "Prospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7982184/"
+          },
+          {
+            "pmid": "6124198",
+            "title": "Gastroesophageal reflux. Pathogenesis, diagnosis, and therapy.",
+            "abstract": "In recent years, considerable new information has become available on the pathogenesis, diagnosis and therapy of gastroesophageal reflux. Gastric contents, mucosal resistance, esophageal acid clearance, and gastric emptying are now recognized, along with incompetency of the lower esophageal sphincter, as contributing factors to gastroesophageal reflux disease. The potential tests for reflux are reviewed and the diagnostic accuracy of each is evaluated. A diagnostic approach to the patient with reflux symptoms is outlined that considers the sensitivity and specificity of these various tests as well as their availability to the generalist and gastrointestinal specialist. Finally, an overview of the current therapy for reflux disease summarizes the controlled studies in the medical literature.",
+            "journal": "Annals of internal medicine",
+            "year": "1982",
+            "authors": [
+              "Richter J E",
+              "Castell D O"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alginates",
+              "Antacids",
+              "Barium Sulfate",
+              "Bethanechol",
+              "Bethanechol Compounds",
+              "Cimetidine",
+              "Esophagitis, Peptic",
+              "Esophagogastric Junction",
+              "Esophagoscopy",
+              "Esophagus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6124198/"
+          },
+          {
+            "pmid": "7134843",
+            "title": "Reflux esophagitis.",
+            "abstract": "",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1982",
+            "authors": [
+              "Teilum D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Biopsy",
+              "Cholestyramine Resin",
+              "Cimetidine",
+              "Endoscopy",
+              "Esophagitis, Peptic",
+              "Esophagogastric Junction",
+              "Fiber Optic Technology",
+              "Gastric Acid",
+              "Gastric Emptying"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7134843/"
+          },
+          {
+            "pmid": "1551349",
+            "title": "Lack of effect of metoclopramide and domperidone on esophageal peristalsis and esophageal acid clearance in reflux esophagitis. A randomized, double-blind study.",
+            "abstract": "The acute effects of oral metoclopramide (40 mg/day) and domperidone (80 mg/day) on esophageal motor activity and acid reflux were assessed in a randomized, double-blind, placebo-controlled study in 20 patients with erosive reflux esophagitis. Esophageal motor function was assessed by standard manometry with wet swallows, and reflux events were evaluated by ambulatory 24-hr pH-monitoring. Both drugs caused a significant (P less than 0.05) increase in lower esophageal sphincter pressure lasting at least 120 min. However, neither esophageal body motility, duration of esophageal exposure to acid, nor esophageal clearance were effected by drug administration in comparison to placebo. Side effects were reported in two patients who received metoclopramide, while no adverse effects occurred after domperidone intake. In conclusion, the so-called motility agents metoclopramide and domperidone have few acute effects on esophageal motility in patients with erosive reflux esophagitis.",
+            "journal": "Digestive diseases and sciences",
+            "year": "1992",
+            "authors": [
+              "Grande L",
+              "Lacima G",
+              "Ros E",
+              "García-Valdecasas J C",
+              "Fuster J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Domperidone",
+              "Double-Blind Method",
+              "Esophagitis, Peptic",
+              "Esophagogastric Junction",
+              "Esophagus",
+              "Female",
+              "Gastric Acid",
+              "Humans",
+              "Hydrogen-Ion Concentration"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1551349/"
+          },
+          {
+            "pmid": "654252",
+            "title": "[Combined administration of metoclopramide, scopolan and proacid in the treatment of chronic duodenal ulcer].",
+            "abstract": "",
+            "journal": "Wiadomosci lekarskie (Warsaw, Poland : 1960)",
+            "year": "1978",
+            "authors": [
+              "Tkaczewski W",
+              "Chojnacki J",
+              "Dziekański S",
+              "Szeszko A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aluminum",
+              "Aluminum Hydroxide",
+              "Butylscopolammonium Bromide",
+              "Chronic Disease",
+              "Drug Therapy, Combination",
+              "Duodenal Ulcer",
+              "Female",
+              "Glycine",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/654252/"
+          },
+          {
+            "pmid": "8527013",
+            "title": "A risk-benefit assessment of cisapride in the treatment of gastrointestinal disorders.",
+            "abstract": "Cisapride is a substituted benzamide compound that stimulates motor activity in all segments of the gastrointestinal tract by enhancing the release of acetylcholine from the enteric nervous system. Cisapride is administered orally in the treatment of gastro-oesophageal reflux disease, functional dyspepsia, gastroparesis, chronic intestinal pseudo-obstruction syndromes and chronic constipation. In gastro-oesophageal reflux disease in both adults and children, cisapride provides symptomatic improvement and mucosal healing. Long term treatment with cisapride is effective in the prevention of relapse of oesophagitis. Cisapride improves gastric emptying rates and improves symptoms in patients with gastroparesis of various origins. Unlike domperidone and metoclopramide, long term administration of cisapride seems to result in persistently enhanced gastric emptying. Cisapride is also effective in improving symptoms in patients with functional dyspepsia. In comparative studies in patients with",
+            "journal": "Drug safety",
+            "year": "1995",
+            "authors": [
+              "Tack J",
+              "Coremans G",
+              "Janssens J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Ulcer Agents",
+              "Cisapride",
+              "Gastric Emptying",
+              "Gastrointestinal Diseases",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Intestinal Absorption",
+              "Piperidines",
+              "Serotonin Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8527013/"
+          },
+          {
+            "pmid": "4779253",
+            "title": "Bile reflux in gastric ulcer: the effect of smoking, metoclopramide and carbenoxolone sodium.",
+            "abstract": "",
+            "journal": "Current medical research and opinion",
+            "year": "1973",
+            "authors": [
+              "Dippy J E",
+              "Rhodes J",
+              "Cross S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Anti-Inflammatory Agents",
+              "Bile",
+              "Female",
+              "Glycyrrhiza",
+              "Humans",
+              "Male",
+              "Metoclopramide",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4779253/"
+          },
+          {
+            "pmid": "1387939",
+            "title": "[Disorders of gastric emptying].",
+            "abstract": "Disorders of gastric emptying are observed in many clinical situations. Their symptoms are diverse and correlate poorly with the objective abnormalities of gastric emptying. The underlying mechanism consists of abnormalities of basal electrical rhythm, fundic compliance, post-prandial antral motricity and, above all, antro-pyloro-duodenal co-ordination, associated to varying degrees. Among possible causes 3 clinical situations predominate: diabetes mellitus, functional gastrointestinal disorders (idiopathic dyspepsia) and sequelae of gastric surgery where retention of solids and accelerated evacuation of liquids may coexist in the same patient. Treatment of gastric incontinence rests, almost exclusively, on dietary measures, but several drugs, such as metoclopramide, domperidone and cisapride, are available to treat gastric stasis. Other compounds, notably motilin agonists (erythromycin and its derivatives) are currently being evaluated and will reinforce this therapeutic armentarium i",
+            "journal": "Presse medicale (Paris, France : 1983)",
+            "year": "1992",
+            "authors": [
+              "Jian R"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cisapride",
+              "Diabetes Complications",
+              "Domperidone",
+              "Dyspepsia",
+              "Gastric Emptying",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Metoclopramide",
+              "Piperidines",
+              "Postoperative Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1387939/"
+          },
+          {
+            "pmid": "17327741",
+            "title": "Gastrointestinal motility and prokinetics in the critically ill.",
+            "abstract": "Enteral nutrition is frequently unsuccessful in the critically ill due to gastrointestinal dysfunction. Current treatment strategies are often disappointing. In this article upper gastrointestinal function in health together with abnormalities seen during critical illness are reviewed, and potential therapeutic options summarized.",
+            "journal": "Current opinion in critical care",
+            "year": "2007",
+            "authors": [
+              "Chapman Marianne J",
+              "Nguyen Nam Q",
+              "Fraser Robert J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cisapride",
+              "Critical Care",
+              "Enteral Nutrition",
+              "Erythromycin",
+              "Esophagitis, Peptic",
+              "Gastric Emptying",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Metoclopramide",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17327741/"
+          },
+          {
+            "pmid": "6106882",
+            "title": "[Conservative treatment of gastric ulcer].",
+            "abstract": "",
+            "journal": "Medizinische Klinik",
+            "year": "1980",
+            "authors": [
+              "Lux G",
+              "Rösch W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aluminum",
+              "Antacids",
+              "Anti-Ulcer Agents",
+              "Benzimidazoles",
+              "Carbenoxolone",
+              "Domperidone",
+              "Gefarnate",
+              "Glycyrrhiza",
+              "Histamine H2 Antagonists",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6106882/"
+          },
+          {
+            "pmid": "2730234",
+            "title": "Effect of metoclopramide on gastric ulceration and secretion in albino rats.",
+            "abstract": "The antiulcer and antisecretory effects of metoclopramide were studied in aspirin-induced and pylorus-ligated gastric ulcers. The effects were compared with ranitidine (10 mg/kg, orally). The effect of propantheline alone and in combination with metoclopramide was studied against aspirin-induced gastric ulcers only. Metoclopramide (20 mg and 50 mg/kg) produced an ulcer protective effect both in aspirin-induced and pylorus-ligated experimental models. Its ulcer protective effect against aspirin-induced and pylorus-ligated gastric ulcers was comparable to ranitidine. Metoclopramide reduced the volume of gastric secretion but did not alter the total acidity; however, significant reduction in free acidity was noted. The ulcer protective effect of metoclopramide appeared to have multiple mechanisms like reduction in gastric secretion and free acidity, increased gastric emptying and cytoprotective action.",
+            "journal": "Archives internationales de pharmacodynamie et de therapie",
+            "year": "1989",
+            "authors": [
+              "Gupta R K",
+              "Kulshrestha V K",
+              "Sharma M L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Ulcer Agents",
+              "Aspirin",
+              "Female",
+              "Gastric Acid",
+              "Gastric Mucosa",
+              "Male",
+              "Metoclopramide",
+              "Propantheline",
+              "Pylorus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2730234/"
+          },
+          {
+            "pmid": "6372664",
+            "title": "Alkaline reflux gastritis and esophagitis.",
+            "abstract": "Alkaline reflux (bile) gastritis and esophagitis result from mucosal injury by duodenal contents. Bile gastritis occurs after gastric surgery, cholecystectomy, ampullary sphincteroplasty, and, rarely, in nonoperated patients. Diagnostic features include chronic, continuous epigastric pain, exacerbated by eating, bilious vomiting, weight loss, iron deficiency anemia, achlorhydria, gastritis, and intragastric bile. The pathophysiology probably relates to excess enterogastric reflux and bile-induced mucosal damage. There is no perfect diagnostic test, but chemical and scintigraphic documentation of enterogastric reflux, as well as provocative testing with alkali solutions, are promising new techniques. Medical therapy with antacids, H2 antagonists, bile salt absorbants, and metoclopramide has been without significant benefit. Prostaglandins and sucralfate are now being evaluated. Surgical therapy that diverts duodenal contents away from the stomach is usually of benefit in appropriately s",
+            "journal": "Annual review of medicine",
+            "year": "1984",
+            "authors": [
+              "Nath B J",
+              "Warshaw A L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alkalies",
+              "Bile Reflux",
+              "Biliary Tract Diseases",
+              "Esophagitis, Peptic",
+              "Gastrectomy",
+              "Gastritis",
+              "Humans",
+              "Postoperative Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6372664/"
+          },
+          {
+            "pmid": "18097282",
+            "title": "Gastric and enteric involvement in progressive systemic sclerosis.",
+            "abstract": "Progressive systemic sclerosis (PSS) is a chronic multisystem disease characterized by excess deposition of connective tissue in skin and internal organs, associated with microvasculature changes and immunologic abnormalities. Involvement of the gastrointestinal tract may occur in 2 stages, a neuropathic disorder followed by a myopathy. Gastric emptying is delayed in 10% to 75% of patients and correlates with symptoms of early satiety, bloating, and emesis. Compliance of the fundus is increased although perception of fullness is normal. Myoelectric abnormalities have been found in some studies. Treatments include metoclopramide, cisapride, and erythromycin. Bleeding from telangiectasias and watermelon stomach is treated endoscopically. Small bowel involvement in PSS occurs in 17% to 57% of patients. The migrating motor complexes are reduced or absent, predisposing to bacterial overgrowth. Malabsorption may also be due to pancreatic insufficiency. Barium enemas demonstrate pancolonic in",
+            "journal": "Journal of clinical gastroenterology",
+            "year": "2008",
+            "authors": [
+              "Ebert Ellen C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anal Canal",
+              "Biofeedback, Psychology",
+              "Colon",
+              "Gastric Emptying",
+              "Humans",
+              "Intestine, Small",
+              "Lumbosacral Plexus",
+              "Malabsorption Syndromes",
+              "Peptic Ulcer Perforation",
+              "Pneumatosis Cystoides Intestinalis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18097282/"
+          },
+          {
+            "pmid": "775822",
+            "title": "[Therapy of gastric and duodenal ulcer with Metoclopramide].",
+            "abstract": "",
+            "journal": "ZFA. Zeitschrift fur Allgemeinmedizin",
+            "year": "1976",
+            "authors": [
+              "Leonhardt L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Clinical Trials as Topic",
+              "Duodenal Ulcer",
+              "Female",
+              "Humans",
+              "Indomethacin",
+              "Male",
+              "Metoclopramide",
+              "Recurrence",
+              "Stomach Ulcer"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/775822/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "gastrojejunal ulcer",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20gastrojejunal%20ulcer"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "peptic ulcer perforation",
+        "txgnn_score": 0.9978072047233582,
+        "txgnn_rank": 630,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "18097282",
+            "title": "Gastric and enteric involvement in progressive systemic sclerosis.",
+            "abstract": "Progressive systemic sclerosis (PSS) is a chronic multisystem disease characterized by excess deposition of connective tissue in skin and internal organs, associated with microvasculature changes and immunologic abnormalities. Involvement of the gastrointestinal tract may occur in 2 stages, a neuropathic disorder followed by a myopathy. Gastric emptying is delayed in 10% to 75% of patients and correlates with symptoms of early satiety, bloating, and emesis. Compliance of the fundus is increased although perception of fullness is normal. Myoelectric abnormalities have been found in some studies. Treatments include metoclopramide, cisapride, and erythromycin. Bleeding from telangiectasias and watermelon stomach is treated endoscopically. Small bowel involvement in PSS occurs in 17% to 57% of patients. The migrating motor complexes are reduced or absent, predisposing to bacterial overgrowth. Malabsorption may also be due to pancreatic insufficiency. Barium enemas demonstrate pancolonic in",
+            "journal": "Journal of clinical gastroenterology",
+            "year": "2008",
+            "authors": [
+              "Ebert Ellen C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anal Canal",
+              "Biofeedback, Psychology",
+              "Colon",
+              "Gastric Emptying",
+              "Humans",
+              "Intestine, Small",
+              "Lumbosacral Plexus",
+              "Malabsorption Syndromes",
+              "Peptic Ulcer Perforation",
+              "Pneumatosis Cystoides Intestinalis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18097282/"
+          },
+          {
+            "pmid": "8931825",
+            "title": "Influence of pathophysiology, severity, and cost on the medical management of gastroesophageal reflux disease.",
+            "abstract": "This article summarizes the pathophysiology of gastroesophageal reflux disease (GERD) and the wide spectrum in disease and symptom severity as they influence the selection of cost-effective treatment strategies. The vast majority of patients with GERD have mild symptoms, no gross endoscopic evidence of esophagitis, and little risk of developing complications. More than 85% of patients with GERD symptoms have uncomplicated disease. Diffuse ulcerations or complications (grade III or IV esophagitis) occur in only 3.5% of patients < 65 years of age. However, some patients with GERD can develop severe complications, including esophageal obstruction, significant blood loss, and, in rare circumstances, perforation. Furthermore, adenocarcinoma of the esophagus, which is increasing in incidence faster than any other cancer, is caused by GERD. Although severe ulcerations are uncommon in young patients, they occur in 20-30% of patients over age 65. Patients with ulcerative esophagitis are not onl",
+            "journal": "American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists",
+            "year": "1996",
+            "authors": [
+              "Reynolds J C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Ulcer Agents",
+              "Cisapride",
+              "Drug Interactions",
+              "Drug Therapy, Combination",
+              "Esophagitis, Peptic",
+              "Gastroesophageal Reflux",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8931825/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "peptic ulcer perforation",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20peptic%20ulcer%20perforation"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "duodenal obstruction",
+        "txgnn_score": 0.9754819273948668,
+        "txgnn_rank": 4248,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04905147",
+            "title": "Randomized Controlled Trials of Efficacy of Mosapride on Recovery of Intestinal Motility After Elective Colorectal Cancer Surgery",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2021-07-01",
+            "completion_date": "2023-11-30",
+            "country": "Thailand",
+            "enrollment": 44,
+            "brief_summary": "Postoperative ileus (POI) is one of the most common causes of prolonged hospital stays after abdominal surgery. The pathophysiology of POI is multifactorial and complex.It is known to be associated with sympathetic neural reflexes,local and systemic inflammatory mediators,and changes invarious neural and hormonal transmitters.Sympathetic (adrenergic) hyperactivity results in reduction of propulsive motility,and an increase in sphinctertone.Parasympathetic (cholinergic) hypoactivity results in ad",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients who are undergoing elective colorectal cancer surgery at Ramathibodi hospital both open and laparoscopic surgery.\n* Both male and female who age between 15 to 70 years old.\n* Physical status American Society of Anesthesiologists (ASA) classification1-2-3.\n\nExclusion C",
+            "endpoints": [
+              "Postoperative time to the first passage of flatus.",
+              "Postoperative time to the first passage of flatus.",
+              "Postoperative time to the first passage of flatus."
+            ],
+            "sponsor": "Mahidol University",
+            "url": "https://clinicaltrials.gov/study/NCT04905147"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "duodenal obstruction",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20duodenal%20obstruction"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "achlorhydria",
+        "txgnn_score": 0.9751033186912536,
+        "txgnn_rank": 4298,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "6372664",
+            "title": "Alkaline reflux gastritis and esophagitis.",
+            "abstract": "Alkaline reflux (bile) gastritis and esophagitis result from mucosal injury by duodenal contents. Bile gastritis occurs after gastric surgery, cholecystectomy, ampullary sphincteroplasty, and, rarely, in nonoperated patients. Diagnostic features include chronic, continuous epigastric pain, exacerbated by eating, bilious vomiting, weight loss, iron deficiency anemia, achlorhydria, gastritis, and intragastric bile. The pathophysiology probably relates to excess enterogastric reflux and bile-induced mucosal damage. There is no perfect diagnostic test, but chemical and scintigraphic documentation of enterogastric reflux, as well as provocative testing with alkali solutions, are promising new techniques. Medical therapy with antacids, H2 antagonists, bile salt absorbants, and metoclopramide has been without significant benefit. Prostaglandins and sucralfate are now being evaluated. Surgical therapy that diverts duodenal contents away from the stomach is usually of benefit in appropriately s",
+            "journal": "Annual review of medicine",
+            "year": "1984",
+            "authors": [
+              "Nath B J",
+              "Warshaw A L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alkalies",
+              "Bile Reflux",
+              "Biliary Tract Diseases",
+              "Esophagitis, Peptic",
+              "Gastrectomy",
+              "Gastritis",
+              "Humans",
+              "Postoperative Complications"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6372664/"
+          },
+          {
+            "pmid": "6370777",
+            "title": "The physiology and pathophysiology of gastric emptying in humans.",
+            "abstract": "",
+            "journal": "Gastroenterology",
+            "year": "1984",
+            "authors": [
+              "Minami H",
+              "McCallum R W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Achlorhydria",
+              "Anemia, Pernicious",
+              "Anorexia Nervosa",
+              "Gastric Emptying",
+              "Gastritis, Atrophic",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Metoclopramide",
+              "Paralysis",
+              "Scleroderma, Systemic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6370777/"
+          },
+          {
+            "pmid": "2575792",
+            "title": "Drug therapy of reflux oesophagitis: an update.",
+            "abstract": "The various therapeutic approaches for reflux oesophagitis are to enhance oesophageal clearance, to coat damaged tissue, to increase the competence of the reflux barrier, to reduce the volume and pH of gastric contents, and to improve gastric emptying and pyloric sphincter competence. Unfortunately, drug therapy of reflux oesophagitis is not yet ideal. Of the prokinetic agents, cisapride is the only drug with proven benefit. Single-agent therapy with the H2-receptor antagonists or sucralfate results in similar degrees of symptom relief and healing. Rapid symptom relief and healing are achieved by omeprazole; however, the significance of sustained achlorhydria remains to be established. Dinnertime dosing of cimetidine appears to be a rational method of suppressing late-evening gastric acidity. Patients with severe or recalcitrant disease should not be treated with conventional therapy alone; the results of controlled studies of combination therapy with the H2-receptor antagonists and su",
+            "journal": "Scandinavian journal of gastroenterology. Supplement",
+            "year": "1989",
+            "authors": [
+              "Tytgat G N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Bethanechol",
+              "Bethanechol Compounds",
+              "Cisapride",
+              "Domperidone",
+              "Esophagitis, Peptic",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Metoclopramide",
+              "Omeprazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2575792/"
+          },
+          {
+            "pmid": "6777131",
+            "title": "Dysfunctions of the stomach with gastric ulceration.",
+            "abstract": "Factors implicated in the pathogenesis of gastric ulcer were studied simultaneously in seven patients with strictly defined type 1 gastric ulcer (single benign ulcer above the incisura of the stomach) and in six healthy controls. After ingestion of an ordinary solid-liquid meal, patients with gastric ulcer demonstrated gastric hyposecretion of acid, pepsin, and water; delayed gastric emptying of solids with normal emptying of liquids; and increased intragastric concentrations of bile acids. These functional abnormalities appear to be interrelated. Metoclopramide, administered orally in a double-blind fashion, ameliorated the defect in the emptying of solids and the high concentrations of bile acid in the gastric contents. The ability of this drug to break this interdependent cycle suggests the need for further clinical investigation.",
+            "journal": "Digestive diseases and sciences",
+            "year": "1980",
+            "authors": [
+              "Miller L J",
+              "Malagelada J R",
+              "Longstreth G F",
+              "Go V L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Achlorhydria",
+              "Adult",
+              "Aged",
+              "Bile Acids and Salts",
+              "Body Water",
+              "Female",
+              "Gastric Emptying",
+              "Gastric Juice",
+              "Gastric Mucosa",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6777131/"
+          },
+          {
+            "pmid": "32441",
+            "title": "[Drug therapy of chronic gastritis].",
+            "abstract": "",
+            "journal": "Lakartidningen",
+            "year": "1978",
+            "authors": [
+              "Dotevall G"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Achlorhydria",
+              "Carbenoxolone",
+              "Chronic Disease",
+              "Gastritis",
+              "Glutamates",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32441/"
+          },
+          {
+            "pmid": "4803606",
+            "title": "[A new possibility for routine x-ray examination of the small intestine].",
+            "abstract": "",
+            "journal": "Wiener Zeitschrift fur innere Medizin und ihre Grenzgebiete",
+            "year": "1973",
+            "authors": [
+              "Stellamor K"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Achlorhydria",
+              "Biliary Tract Diseases",
+              "Colonic Diseases",
+              "Contrast Media",
+              "Gastrointestinal Motility",
+              "Humans",
+              "Intestinal Diseases",
+              "Intestine, Small",
+              "Liver Cirrhosis",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4803606/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "achlorhydria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20achlorhydria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hiatus hernia (disease)",
+        "txgnn_score": 0.9737128019332886,
+        "txgnn_rank": 4442,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07138235",
+            "title": "Complications of Laparoscopic Hiatal Hernia Repair Complicated by Gastroesophageal Reflux Disease Using the ERAS Protocol",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2016-10-01",
+            "completion_date": "2025-08-01",
+            "country": "N/A",
+            "enrollment": 106,
+            "brief_summary": "Nissen fundoplication with cruroraphy performed according to ERAS protocols in patients with HH complicated by GERD.",
+            "eligibility_criteria": "Inclusion Criteria: were clinically significant hiatal hernia complicated by GERD, confirmed endoscopically and by radiological methods, age from 18 to 80 years and ineffectiveness of drug therapy for more than 6 months.\n\n\\-\n\nExclusion Criteria: were patients who had previously undergone surgery on ",
+            "endpoints": [
+              "decreased complication rate and high patient satisfaction"
+            ],
+            "sponsor": "Osh State University",
+            "url": "https://clinicaltrials.gov/study/NCT07138235"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "6124198",
+            "title": "Gastroesophageal reflux. Pathogenesis, diagnosis, and therapy.",
+            "abstract": "In recent years, considerable new information has become available on the pathogenesis, diagnosis and therapy of gastroesophageal reflux. Gastric contents, mucosal resistance, esophageal acid clearance, and gastric emptying are now recognized, along with incompetency of the lower esophageal sphincter, as contributing factors to gastroesophageal reflux disease. The potential tests for reflux are reviewed and the diagnostic accuracy of each is evaluated. A diagnostic approach to the patient with reflux symptoms is outlined that considers the sensitivity and specificity of these various tests as well as their availability to the generalist and gastrointestinal specialist. Finally, an overview of the current therapy for reflux disease summarizes the controlled studies in the medical literature.",
+            "journal": "Annals of internal medicine",
+            "year": "1982",
+            "authors": [
+              "Richter J E",
+              "Castell D O"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Alginates",
+              "Antacids",
+              "Barium Sulfate",
+              "Bethanechol",
+              "Bethanechol Compounds",
+              "Cimetidine",
+              "Esophagitis, Peptic",
+              "Esophagogastric Junction",
+              "Esophagoscopy",
+              "Esophagus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6124198/"
+          },
+          {
+            "pmid": "10826020",
+            "title": "Gastroesophageal reflux disease: diagnosis and management.",
+            "abstract": "Gastroesophageal reflux disease (GERD) is defined as the presence of symptoms and/or tissue damage resulting from the reflux of gastric contents into the esophagus. It occurs as a result of transient or persistent reduction in lower esophageal sphincter (LES) pressure, influenced to some degree by the presence or absence of a hiatal hernia, and the failure of the usual clearance mechanisms that normally rid the distal esophagus of noxious materials. Heartburn and regurgitation are the most common symptoms, but extraesophageal symptoms related to aspiration may occur. The clinical presentation itself is often diagnostic, but techniques such as endoscopy, barium swallow, and pH monitoring are confirmatory. Management generally involves life-style changes with or without added pharmacologic therapy. A small percentage of patients require antireflux surgery. Pharmacologic management options include acid-neutralizing agents such as antacids and alginate, prokinetic agents such as metoclopra",
+            "journal": "Journal of the Association for Academic Minority Physicians : the official publication of the Association for Academic Minority Physicians",
+            "year": "2000",
+            "authors": [
+              "Scott V F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Gastroesophageal Reflux",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10826020/"
+          },
+          {
+            "pmid": "2917298",
+            "title": "Chronic cough and gastroesophageal reflux.",
+            "abstract": "We reviewed the charts of 20 patients with chronic cough of unknown cause who had been referred to a tertiary care respiratory centre from 1980 to 1984 to determine whether gastroesophageal reflux (GER) was a contributing factor. Fifteen of the patients complained of symptoms suggestive of GER: radiologic investigation of the upper gastrointestinal tract revealed hiatus hernia and GER in four, hiatus hernia alone in three, GER alone in two, decreased esophageal peristalsis in one and normal findings in four. Fibreoptic bronchoscopy in the four former smokers and one nonsmoker showed diffuse mucosal erythema. A chest x-ray film in one patient showed an infiltrate at the base of the right lung; transbronchial biopsy revealed vegetable material, which confirmed pulmonary aspiration. A 3-month course of medical antireflux treatment (dietary and lifestyle changes, elevation of the head of the bed and administration of cimetidine, antacid and metoclopramide) relieved the chronic cough in 14 ",
+            "journal": "CMAJ : Canadian Medical Association journal = journal de l'Association medicale canadienne",
+            "year": "1989",
+            "authors": [
+              "Fitzgerald J M",
+              "Allen C J",
+              "Craven M A",
+              "Newhouse M T"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chronic Disease",
+              "Cough",
+              "Diagnosis, Differential",
+              "Esophagus",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Hydrogen-Ion Concentration",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2917298/"
+          },
+          {
+            "pmid": "8246209",
+            "title": "Congenital esophageal hiatal hernia in the Chinese shar-pei dog.",
+            "abstract": "Esophageal hiatal hernia was diagnosed in 11 young Chinese Shar-Pei dogs between October 1985 and July 1991. The dogs ranged in age from 2 to 11 months and included 3 females and 8 males. The most common clinical signs were regurgitation, vomiting, and hypersalivation. Physical examination was normal in 6 dogs; abnormal physical examination findings in the other 5 dogs included fever, dehydration, hypersalivation, and pulmonary wheezes and crackles. Laboratory evaluation was significant only for neutrophilia in 5 dogs. A diagnosis of hiatal hernia was made on the basis of survey thoracic radiographic and/or barium esophagram findings of displacement of the esophagogastric junction and stomach into the thoracic cavity; the diagnosis was confirmed by surgery in 9 dogs and at necropsy in 2 dogs. Megaesophagus (n = 7), gastroesophageal reflux (n = 4), and esophageal hypomotility (n = 1) were additional findings in some dogs. Aspiration pneumonia was diagnosed in 7 of the dogs. Medical ther",
+            "journal": "Journal of veterinary internal medicine",
+            "year": "1993",
+            "authors": [
+              "Callan M B",
+              "Washabau R J",
+              "Saunders H M",
+              "Kerr L",
+              "Prymak C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Animals",
+              "Barium Radioisotopes",
+              "Breeding",
+              "Cimetidine",
+              "Dog Diseases",
+              "Dogs",
+              "Esophagus",
+              "Female",
+              "Hernia, Hiatal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8246209/"
+          },
+          {
+            "pmid": "1079940",
+            "title": "Common gastroenterological problems. II.--Sliding hiatus hernia.",
+            "abstract": "A sliding hiatus hernia is a common radiological finding and is not always relevant to the patient's symptoms. The possibility of an alternative explantation for the complaint of retrosternal pain or dyspepsia should always be considered, and when anaemia is present the site of occult blood loss is often lower in the gastrointestinal tract. The majority of patient's with symptomatic gastro-oesophageal reflux can be controlled with medical measures. Surgical intervention in cases of uncomplicated hiatus hernia should be recommended only after careful preoperative assessment and even then a satisfactory result cannot be absolutely guaranteed.",
+            "journal": "The Practitioner",
+            "year": "1975",
+            "authors": [
+              "Salter R H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Diagnosis, Differential",
+              "Diet, Reducing",
+              "Dietary Fats",
+              "Gastroesophageal Reflux",
+              "Gastrointestinal Hemorrhage",
+              "Heart Diseases",
+              "Hernia, Diaphragmatic",
+              "Hernia, Hiatal",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1079940/"
+          },
+          {
+            "pmid": "903073",
+            "title": "[Therapy of gastroesophageal reflux].",
+            "abstract": "In spite of numerous experimental and clinical studies the pathogenesis of the disease resulting from pathological gastroesophageal reflux is yet unsettled. The importance of hiatus hernia has been questioned. The disturbed function of the lower esophageal sphincter does not always explain the occurrence of increased gastroesophageal reflux. there is no correlation between symptoms (pyrosis) and the typical esophageal mucosal changes which are best demonstrated by means of endoscopy. Guided biopsy is usually not necessary. Medical therapy consists in application of antacids, most effectively in combination with alginic acid. Further help can be expected from stimulation of the lower esophageal sphincter with metoclopramide and/or cholinergic drugs. Further measures are elevation of the head of the bed (30 degrees), reduction of body weight if necessary (to reduce intraabdominal pressure) and a high protein, low fat diet. Operative intervention (fundoplicatio) is rarely indicated, mostl",
+            "journal": "Fortschritte der Medizin",
+            "year": "1977",
+            "authors": [
+              "Ottenjann R"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antacids",
+              "Bethanechol Compounds",
+              "Gastroesophageal Reflux",
+              "Humans",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/903073/"
+          },
+          {
+            "pmid": "9322175",
+            "title": "What is your diagnosis? Sliding hiatal hernia.",
+            "abstract": "",
+            "journal": "The Journal of small animal practice",
+            "year": "1997",
+            "authors": [
+              "van Dongen P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cat Diseases",
+              "Cats",
+              "Cimetidine",
+              "Drug Therapy, Combination",
+              "Gastrointestinal Agents",
+              "Hernia, Hiatal",
+              "Male",
+              "Metoclopramide",
+              "Radiography"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9322175/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "hiatus hernia (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20hiatus%20hernia%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cascade stomach",
+        "txgnn_score": 0.970897614955902,
+        "txgnn_rank": 4805,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "20519576",
+            "title": "Cell specific dopamine modulation of the transient potassium current in the pyloric network by the canonical D1 receptor signal transduction cascade.",
+            "abstract": "Dopamine (DA) modifies the motor pattern generated by the pyloric network in the stomatogastric ganglion (STG) of the spiny lobster, Panulirus interruptus, by directly acting on each of the circuit neurons. The 14 pyloric neurons fall into six cell types, and DA actions are cell type specific. The transient potassium current mediated by shal channels (I(A)) is a common target of DA modulation in most cell types. DA shifts the voltage dependence of I(A) in opposing directions in pyloric dilator (PD) versus lateral pyloric (LP) neurons. The mechanism(s) underpinning cell-type specific DA modulation of I(A) is unknown. DA receptors (DARs) can be classified as type 1 (D1R) or type 2 (D2R). D1Rs and D2Rs are known to increase and decrease intracellular cAMP concentrations, respectively. We hypothesized that the opposing DA effects on PD and LP I(A) were due to differences in DAR expression patterns. In the present study, we found that LP expressed somatodendritic D1Rs that were concentrated",
+            "journal": "Journal of neurophysiology",
+            "year": "2010",
+            "authors": [
+              "Zhang Hongmei",
+              "Rodgers Edmund W",
+              "Krenz Wulf-Dieter C",
+              "Clark Merry C",
+              "Baro Deborah J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "8-Bromo Cyclic Adenosine Monophosphate",
+              "Action Potentials",
+              "Animals",
+              "Colforsin",
+              "Cyclic AMP",
+              "Dopamine",
+              "Dopamine Antagonists",
+              "Dose-Response Relationship, Drug",
+              "Drug Interactions",
+              "Electric Stimulation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20519576/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "cascade stomach",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20cascade%20stomach"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "gastric dilatation",
+        "txgnn_score": 0.970897614955902,
+        "txgnn_rank": 4806,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05342818",
+            "title": "Neostigmine Effect on Gastric Residual Volume on Mechanically Ventilated Patients in the Intensive Care Unit. A Comparative Controlled Study by Ondansetron",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2022-04-15",
+            "completion_date": "2022-10-17",
+            "country": "Saudi Arabia",
+            "enrollment": 90,
+            "brief_summary": "One big problem in mechanically ventilated ICU patients is delayed gastric emptying. Delayed gastric emptying in these patients, causes intolerance and high gastric residual volume (GRV) that can lead to abdominal distention, vomiting, increased aspiration risk and consequently increased the length of hospital stay.\n\nIn this study, investigators will evaluate Neostigmine's effect in reducing GRV in mechanically ventilated patients and compare its effect with metoclopramide and Ondansetron\n\n.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Mechanically ventilated ICU patients\n* With nasogastric tube feeding\n* Gastric Residual Volume \\>120 mL (3hours after the last gavage)\n\nExclusion Criteria:\n\n* History of diabetes\n* Heart block\n* Bradycardia (heart rate \\<60/min)\n* Systolic blood pressure less than 90 mm Hg\n* R",
+            "endpoints": [
+              "Evaluation of Gastric Residual Volume(GRV)",
+              "Volume of the gastric antrum"
+            ],
+            "sponsor": "Tanta University",
+            "url": "https://clinicaltrials.gov/study/NCT05342818"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03963180",
+            "title": "Coffee Consumption for Intestinal Function Recovery After Laparoscopic Gynecologic Surgery: a Randomized Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-05-27",
+            "completion_date": "2019-12-31",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 100,
+            "brief_summary": "Minimally invasive surgery (MIS) has revolutionized women's healthcare. Laparoscopy is an excellent route of MIS. Today, laparoscopic surgery is one of the major procedure in the management of a gynecologic disease. It has revealed benefits of decreased morbidity, earlier discharged, and quicker return to normal daily activities, and shorter hospital when compared to abdominal approach.\n\nPostoperative ileus (POI) defined as an uncomplicated ileus occurring following surgery, resolving spontaneou",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatients underwent total laparoscopic hysterectomy with or without additional surgery \\*salpingo-oophorectomy,\n\n* salpingectomy,\n* pelvic and/or para-aortic lymphadenectomy\n\nExclusion Criteria:\n\n* patients with hypersensitivity or allergy to caffeine/ coffee,\n* patients with thy",
+            "endpoints": [
+              "Time to first passage of flatus"
+            ],
+            "sponsor": "Erzincan Military Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT03963180"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04467528",
+            "title": "Efficacy of Electroacupuncture as an Adjunctive Treatment in Gastrointestinal Motility in Patients After Abdominal Surgery",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2020-04-27",
+            "completion_date": "2021-03-31",
+            "country": "Taiwan",
+            "enrollment": 80,
+            "brief_summary": "In Taiwan, the number of patients who underwent abdominal surgery that attributed to gastrointestinal diseases, gynecological diseases, and cancer is increasing. Practically, some of the patients have unsatisfactory response to conventional medical treatment, which result in abnormal gastrointestinal function, prolonged bedtime, and increased hospital stay, as well as an increased risk of infection. Therefore, search for an effective and safe treatment that could be integrated to current medical",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. more than 20 years old.\n2. Underwent abdominal surgery within one month\n3. Meet one or both of the following indications\n\n   1. Participants have abdominal distension after abdominal surgery which affects gastrointestinal motility. After medical treatment, the visual pain sca",
+            "endpoints": [
+              "Visual Analogue Scale",
+              "Daily feeding volume",
+              "Gastric residual volume"
+            ],
+            "sponsor": "China Medical University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04467528"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02528760",
+            "title": "To Determine the Role of Prokinetics in Feed Intolerance in Critically Ill Cirrhosis- A Randomized Placebo Controlled Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2015-09-24",
+            "completion_date": "2017-08-31",
+            "country": "India",
+            "enrollment": 83,
+            "brief_summary": "1. All patients with chronic liver disease admitted in ICU (Intensive Care Unit) to be screened.\n2. Patients fulfilling criteria for feed intolerance to be included in the study.\n3. Patients to undergo routine biochemical and hematological testing including CBC, KFT, LFT, PT/INR, electrolytes baseline and daily along with ABG (Arterial Blood gas) analysis.\n4. Patients with ascites to be tested for presence or absence of SBP (Spontaneous Bacterial Peritonitis).\n5. Cultures to be sent as based on ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Patients who develop new onset feed intolerance to enteral nutrition\n\nExclusion Criteria:\n\n1. Any patient with current or past surgical abdomen including mechanical obstruction, mesenteric ischemia, perforation or requiring abdominal surgery.\n2. Patients receiving enteral nu",
+            "endpoints": [
+              "Resolution of feed intolerance at 24 hours with improvement in 3 or more points and initiation of entral feeding."
+            ],
+            "sponsor": "Institute of Liver and Biliary Sciences, India",
+            "url": "https://clinicaltrials.gov/study/NCT02528760"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "8915440",
+            "title": "Effect of metoclopramide on fed-state gastric myoelectric and motor activity in dogs.",
+            "abstract": "To investigate the effects of metoclopramide, a putative gastroprokinetic agent, on dogs that had recovered from gastric dilatation-volvulus (GDV), a disorder characterized by delayed gastric emptying.",
+            "journal": "American journal of veterinary research",
+            "year": "1996",
+            "authors": [
+              "Hall J A",
+              "Solie T N",
+              "Seim H B",
+              "Twedt D C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dog Diseases",
+              "Dogs",
+              "Eating",
+              "Female",
+              "Gastric Emptying",
+              "Gastrointestinal Motility",
+              "Male",
+              "Metoclopramide",
+              "Stomach"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8915440/"
+          },
+          {
+            "pmid": "25013085",
+            "title": "Medical treatment of 145 cases of gastric dilatation in rabbits.",
+            "abstract": "Gastric dilatation is an acute and life-threatening condition in pet rabbits commonly caused by an intestinal obstruction with pellets of compressed hair. Surgery is normally considered to be the treatment of choice to alleviate the obstruction. However, for various reasons such as restrictions by the owner, a high anaesthetic risk due to the critical condition of the patient or concurrent diseases, surgical treatment may be impossible. In a three-year period, 145 cases of gastric dilatation were treated medically with a combination of metoclopramide, metamizole, balanced fluid electrolyte solution with glucose and syringe feeding. No gender or breed predisposition could be noted. Four animals were euthanased, three of them directly after diagnosis. Eleven animals died, eight of them on the day of presentation. The medical treatment was successful in 130 cases (89 per cent) with a mean treatment time of three days. The animals were released from hospital when eating and defecating norm",
+            "journal": "The Veterinary record",
+            "year": "2014",
+            "authors": [
+              "Schuhmann B",
+              "Cope I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dipyrone",
+              "Drug Therapy, Combination",
+              "Electrolytes",
+              "Feeding Methods",
+              "Female",
+              "Fluid Therapy",
+              "Gastric Dilatation",
+              "Glucose",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25013085/"
+          },
+          {
+            "pmid": "3215813",
+            "title": "Abomasal dilatation and emptying defect in a flock of Suffolk ewes.",
+            "abstract": "Abomasal dilatation and emptying defect was identified in 14 of 130 Suffolk sheep from a single flock in northern California. Abomasal dilatation and emptying defect was diagnosed in 13 of the sheep between November 1986 and April 1987. All affected sheep were ewes and in all, the condition developed during the lambing season. Clinical signs consisted of chronic anorexia and weight loss. Laboratory data from affected ewes reflected concurrent disease and was not helpful in diagnosis of the disease. Necropsy of 13 affected ewes revealed a distended, ingesta-filled abomasum in all of them. The brain stem of 6 ewes was examined, and lesions suggestive of scrapie were not observed. Pedigree analysis determined that in this flock, abomasal dilatation and emptying defect development was independent of sire. A relationship between the age of affected ewes and the disease was not found. Treatment was unsuccessful in 13 ewes, but 1 recovered after treatment with metoclopramide.",
+            "journal": "Journal of the American Veterinary Medical Association",
+            "year": "1988",
+            "authors": [
+              "Ruegg P L",
+              "George L W",
+              "East N E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abomasum",
+              "Animals",
+              "California",
+              "Disease Outbreaks",
+              "Female",
+              "Gastric Dilatation",
+              "Gastric Emptying",
+              "Sheep",
+              "Sheep Diseases",
+              "Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3215813/"
+          },
+          {
+            "pmid": "810202",
+            "title": "Pharmaco-radiology in barium examinations with special reference to glucagon.",
+            "abstract": "The reasons for and objections to the use of drugs as adjuncts in barium meal and follow-through examinations are briefly reviewed. Physiological factors related to gastric emptying are considered, including the volume, temperature and osmolarity. The drugs considered include those that speed gastric emptying and small bowel transit such as metoclopramide, those that delay gastric emptying such as propantheline and gastrointestinal hormones such as glucagon. Glucagon first produces gastric and duodenal dilatation and subsequently speeds transit through the small bowel. The indications, contra-indications and side effects of these drugs are also considered and tabulated.",
+            "journal": "The British journal of radiology",
+            "year": "1975",
+            "authors": [
+              "Kreel L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Barium Sulfate",
+              "Cholecystokinin",
+              "Digestive System",
+              "Digestive System Physiological Phenomena",
+              "Duodenum",
+              "Gastrointestinal Motility",
+              "Glucagon",
+              "Humans",
+              "Ilium",
+              "Methacholine Compounds"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/810202/"
+          },
+          {
+            "pmid": "7433886",
+            "title": "The effect of antral distension in healthy subjects on betazole-stimulated gastric acid secretion and the plasma concentration of immunoreactive neurotensin.",
+            "abstract": "Antral distension in seven healthy subjects had the same inhibitory effect, approximately 20% inhibition, on gastric acid secretion stimulated by pentagastrin and betazole (Histalog). The plasma concentration of neurotensin in peripheral venous blood was unchanged during antral distension in healthy subjects. The plasma concentration of neurotensin in portal blood was also unchanged during antral distension in anaesthetized duodenal ulcer patients and in non-ulcer patients. The inhibition of pentagastrin-stimulated gastric acid secretion by balloon distension of the antrum was unchanged by preceding intramuscular injection of metoclopramide. The inhibitory effect of antral distension on gastric acid secretion in healthy subjects does not seem to be mediated by secretin, cholecystokinin, bulbogastrone, neurotensin, or a dopaminergic mechanism.",
+            "journal": "Scandinavian journal of gastroenterology",
+            "year": "1980",
+            "authors": [
+              "Schöön I M",
+              "Bloom S R",
+              "Olbe L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Betazole",
+              "Cholelithiasis",
+              "Dilatation",
+              "Duodenal Ulcer",
+              "Female",
+              "Gastric Juice",
+              "Humans",
+              "Male",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7433886/"
+          },
+          {
+            "pmid": "3778059",
+            "title": "Metoclopramide suppositories in the treatment of diabetic gastroparesis.",
+            "abstract": "Gastroparesis diabeticorum is a common complication that develops in patients with diabetes mellitus. Although the pathogenesis remains unclear, the clinical symptoms of nausea, vomiting, and gastric dilatation frequently respond to metoclopramide hydrochloride, an agent that stimulates gastric emptying in addition to acting centrally as an antiemetic. Occasionally, patients are encountered whose severe gastroparesis is unresponsive to oral metoclopramide and who require intravenous therapy or drainage procedures (eg, pyloroplasty or gastrojejunostomy). Rectal administration of metoclopramide successfully controlled the clinical symptoms of gastroparesis diabeticorum in an outpatient after failure of oral dosing, thus avoiding the need for intravenous therapy. Gastric emptying studies and serum metoclopramide levels following a 25-mg rectal dose of metoclopramide hydrochloride verified the efficacy of therapy.",
+            "journal": "Archives of internal medicine",
+            "year": "1986",
+            "authors": [
+              "Trapnell B C",
+              "Mavko L E",
+              "Birskovich L M",
+              "Falko J M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Diabetes Mellitus, Type 1",
+              "Female",
+              "Gastric Emptying",
+              "Humans",
+              "Metoclopramide",
+              "Stomach Diseases",
+              "Suppositories"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3778059/"
+          },
+          {
+            "pmid": "3803138",
+            "title": "Gastroparesis after radiation. Successful treatment with carbachol.",
+            "abstract": "Following abdominal radiation, a 16-year-old male developed persistent vomiting, metabolic alkalosis, and cachexia secondary to gastric stasis, atony, and dilatation in the absence of mechanical obstruction. Fluoroscopically and manometrically, antral motility was found to be severely impaired. Antral motor activity was not influenced by metoclopramide, but stimulated by carbachol. During oral maintenance carbachol therapy, gastric emptying of food was restored and sufficient oral nutrition could be resumed. The improvement persisted even after termination of therapy four months later. Systematic investigations on the effects of abdominal radiation on gastrointestinal motility appear to be necessary.",
+            "journal": "Digestive diseases and sciences",
+            "year": "1986",
+            "authors": [
+              "Layer P",
+              "Demol P",
+              "Hotz J",
+              "Goebell H"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Carbachol",
+              "Dysgerminoma",
+              "Gastric Emptying",
+              "Humans",
+              "Male",
+              "Metoclopramide",
+              "Orchiectomy",
+              "Paralysis",
+              "Postoperative Care"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3803138/"
+          },
+          {
+            "pmid": "2750039",
+            "title": "Metaclopramide for preventing watery mouth.",
+            "abstract": "",
+            "journal": "The Veterinary record",
+            "year": "1989",
+            "authors": [
+              "Stewart M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Abomasum",
+              "Animals",
+              "Cattle",
+              "Cattle Diseases",
+              "Female",
+              "Gastric Dilatation",
+              "Metoclopramide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2750039/"
+          },
+          {
+            "pmid": "7193534",
+            "title": "A peculiar toxicity manifested by platinum(II)amines in rats: gastric distension after intraperitoneal administration.",
+            "abstract": "Metoclopramide i.p. reduces the gastric distension consistently seen in rats given cisplatin i.p. at effective immunosuppressant doses (6 mg/kg). Many other immunosuppressant/oncolytic platinum amines also engendered gastric distension but certain dimers and 1,2-cyclohexanediaminoplatinum (II) compounds did not. This phenomenon appears to be due to paralysis of gastric emptying (without appetite suppression).",
+            "journal": "Chemico-biological interactions",
+            "year": "1981",
+            "authors": [
+              "Roos I A",
+              "Fairlie D P",
+              "Whitehouse M W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cisplatin",
+              "Female",
+              "Gastric Dilatation",
+              "Injections, Intraperitoneal",
+              "Metoclopramide",
+              "Rats"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7193534/"
+          },
+          {
+            "pmid": "6732493",
+            "title": "Endoscopic dilation of late stomal stenosis. Its use following gastric surgery for morbid obesity.",
+            "abstract": "We have observed 16 cases of stomal stenosis occurring late after gastric surgery for morbid obesity. In one patient no stoma was apparent in the pouch on radiographic or endoscopic examination and reoperation was required for complete obstruction. We dilated stenoses in the remaining 15 patients. Stenosis in the three earliest patients in our series were dilated with Eder-Puestow dilators. All subsequent patients have received endoscopic dilation with pneumatic balloon catheters. Ten patients remain asymptomatic following dilation. Two patients have occasional vomiting, which is ameliorated by metoclopramide hydrochloride, despite a sufficiently patent stoma. Two patients with a torsion of the stoma received no benefit from dilation, and one patient with a sufficiently patent stoma has experienced frequent vomiting. Surgery has been repeated in the latter three patients. The technique of endoscopic pneumatic balloon catheter dilation is a safe and effective means of dilating stomal st",
+            "journal": "Archives of surgery (Chicago, Ill. : 1960)",
+            "year": "1984",
+            "authors": [
+              "Wolper J C",
+              "Messmer J M",
+              "Turner M A",
+              "Sugerman H J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Catheterization",
+              "Constriction, Pathologic",
+              "Dilatation",
+              "Gastroscopy",
+              "Humans",
+              "Obesity",
+              "Postoperative Complications",
+              "Stomach"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6732493/"
+          },
+          {
+            "pmid": "5494634",
+            "title": "[Use of Metoclopramide in the digestive pathology of scoliosis].",
+            "abstract": "",
+            "journal": "Journal de medecine de Lyon",
+            "year": "1970",
+            "authors": [
+              "Fauchet M R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Amides",
+              "Antiemetics",
+              "Benzoates",
+              "Female",
+              "Gastric Dilatation",
+              "Gastrointestinal Diseases",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5494634/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Metoclopramide",
+          "disease": "gastric dilatation",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Metoclopramide%20gastric%20dilatation"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Metoclopramide",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01233",
+    "name": "Metoclopramide",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Metoclopramide"
+      },
+      "queried_at": "2026-03-24T16:04:28.728012",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Metoclopramide"
+      },
+      "queried_at": "2026-03-24T16:04:28.728635",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Metoclopramide"
+      },
+      "queried_at": "2026-03-24T16:04:31.021493",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric ulcer (disease)"
+      },
+      "queried_at": "2026-03-24T16:04:31.631104",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric ulcer (disease)"
+      },
+      "queried_at": "2026-03-24T16:04:35.628624",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric ulcer (disease)"
+      },
+      "queried_at": "2026-03-24T16:04:36.173588",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric ulcer (disease)"
+      },
+      "queried_at": "2026-03-24T16:04:39.106326",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-24T16:04:39.622770",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-24T16:04:42.851449",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-24T16:04:43.394552",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastroduodenitis"
+      },
+      "queried_at": "2026-03-24T16:04:44.242029",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer disease"
+      },
+      "queried_at": "2026-03-24T16:04:44.872237",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer disease"
+      },
+      "queried_at": "2026-03-24T16:04:48.031562",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer disease"
+      },
+      "queried_at": "2026-03-24T16:04:48.233574",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer disease"
+      },
+      "queried_at": "2026-03-24T16:04:51.027548",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-24T16:04:51.543672",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-24T16:04:54.992541",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-24T16:04:55.637486",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastrojejunal ulcer"
+      },
+      "queried_at": "2026-03-24T16:04:58.163356",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-24T16:04:58.648206",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-24T16:05:02.687265",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-24T16:05:03.275616",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "peptic ulcer perforation"
+      },
+      "queried_at": "2026-03-24T16:05:05.674678",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-24T16:05:06.125517",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-24T16:05:09.373549",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-24T16:05:10.027377",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "duodenal obstruction"
+      },
+      "queried_at": "2026-03-24T16:05:15.037050",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "achlorhydria"
+      },
+      "queried_at": "2026-03-24T16:05:15.434914",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "achlorhydria"
+      },
+      "queried_at": "2026-03-24T16:05:18.823230",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "achlorhydria"
+      },
+      "queried_at": "2026-03-24T16:05:19.474964",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "achlorhydria"
+      },
+      "queried_at": "2026-03-24T16:05:21.974645",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "hiatus hernia (disease)"
+      },
+      "queried_at": "2026-03-24T16:05:22.423513",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "hiatus hernia (disease)"
+      },
+      "queried_at": "2026-03-24T16:05:25.781972",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "hiatus hernia (disease)"
+      },
+      "queried_at": "2026-03-24T16:05:26.394628",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "hiatus hernia (disease)"
+      },
+      "queried_at": "2026-03-24T16:05:33.777795",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "cascade stomach"
+      },
+      "queried_at": "2026-03-24T16:05:35.777409",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "cascade stomach"
+      },
+      "queried_at": "2026-03-24T16:05:39.188424",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "cascade stomach"
+      },
+      "queried_at": "2026-03-24T16:05:39.779541",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "cascade stomach"
+      },
+      "queried_at": "2026-03-24T16:05:42.080549",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric dilatation"
+      },
+      "queried_at": "2026-03-24T16:05:43.472829",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric dilatation"
+      },
+      "queried_at": "2026-03-24T16:05:46.793316",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric dilatation"
+      },
+      "queried_at": "2026-03-24T16:05:47.326744",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Metoclopramide",
+        "disease": "gastric dilatation"
+      },
+      "queried_at": "2026-03-24T16:05:49.875371",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:05:49.876270"
+  }
+}

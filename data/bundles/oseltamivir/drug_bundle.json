@@ -1,0 +1,3072 @@
+{
+  "drug": {
+    "inn": "Oseltamivir",
+    "drugbank_id": "DB00198",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "pyelonephritis",
+        "txgnn_score": 0.9784804582595824,
+        "txgnn_rank": 3879,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "26033556",
+            "title": "[Influenza and pregnancy].",
+            "abstract": "Influenza is a respiratory disease caused by influenza viruses. The virus is responsible for pandemics by emergence of new viral strains, then for seasonal flu by antigenic drift. Seasonal flu is more frequent and severe in pregnant women, with increased risk of pneumonia and increased risk of hospitalization (but no increased death reported). Pandemic flu is more severe in pregnant women, with increased risk of pneumonia and increased mortality. Influenza vaccination is recommended for all women who are or will be pregnant (in any trimester) during influenza season. After closed contact with a flu case or in case of symptoms compatible with flu, early oseltamivir-based treatment (prophylactic in the first situation, curative in the latter one) is recommended, at any term of pregnancy. The occurrence of flu symptoms in a pregnant woman requires medical evaluation to confirm the diagnosis or identify any alternative infection requiring appropriate therapy like listeriosis, chorioamnioti",
+            "journal": "Presse medicale (Paris, France : 1983)",
+            "year": "2015",
+            "authors": [
+              "Gabas Thomas",
+              "Leruez-Ville Marianne",
+              "Le Mercier Delphine",
+              "Lortholary Olivier",
+              "Lecuit Marc"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Influenza Vaccines",
+              "Influenza, Human",
+              "Pregnancy",
+              "Pregnancy Complications, Infectious"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26033556/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "pyelonephritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20pyelonephritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "disorder of tyrosine metabolism",
+        "txgnn_score": 0.9669127464294434,
+        "txgnn_rank": 5284,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "23675925",
+            "title": "Emergence of oseltamivir resistance: control and management of influenza before, during and after the pandemic.",
+            "abstract": "Neuraminidase inhibitors (NAIs), such as oseltamivir and zanamivir, are the medicines of choice against influenza A or B. Oseltamivir resistance can be conferred by a single point missense mutation from histidine to tyrosine at position 275 (H275Y) of the neuraminidase gene. Oseltamivir resistance in seasonal influenza A/H1N1 strains rose markedly during the 2007-2008 season. Furthermore, oseltamivir resistant (OsR) strains of pandemic influenza A/H1N1 2009 (influenza A(H1N1)pdm09) have been increasingly isolated, although the majority remain sensitive. These OsR strains retain virulence, replicative fitness and transmissibility from person to person, with outbreaks reported. Treatment options in those at risk of severe or complicated disease are limited to zanamivir which is only licenced in those over the age of 5 years; of further concern, strains demonstrating low level resistance to both oseltamivir and zanamivir have been reported. Strategies to reduce emergence of resistant stra",
+            "journal": "Infectious disorders drug targets",
+            "year": "2013",
+            "authors": [
+              "Dixit Rashmi",
+              "Khandaker Gulam",
+              "Ilgoutz Scott",
+              "Rashid Harunor",
+              "Booy Robert"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antibiotic Prophylaxis",
+              "Antiviral Agents",
+              "Child",
+              "Dose-Response Relationship, Drug",
+              "Drug Resistance, Viral",
+              "Enzyme Inhibitors",
+              "Global Health",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23675925/"
+          },
+          {
+            "pmid": "27029067",
+            "title": "Neuraminidase-1: a novel therapeutic target in multistage tumorigenesis.",
+            "abstract": "Several of the growth factors and their receptor tyrosine kinases (RTK) such as epidermal growth factor (EGF), platelet-derived growth factor (PDGF), fibroblast growth factor (FGF), vascular endothelial growth factor (VEGF), nerve growth factor (NGF) and insulin are promising candidate targets for cancer therapy. Indeed, tyrosine kinase inhibitors (TKI) have been developed to target these growth factors and their receptors, and have demonstrated dramatic initial responses in cancer therapy. Yet, most patients ultimately develop TKI drug resistance and relapse. It is essential in the clinical setting that the targeted therapies are to circumvent multistage tumorigenesis, including genetic mutations at the different growth factor receptors, tumor neovascularization, chemoresistance of tumors, immune-mediated tumorigenesis and the development of tissue invasion and metastasis. Here, we identify a novel receptor signaling platform linked to EGF, NGF, insulin and TOLL-like receptor (TLR) ac",
+            "journal": "Oncotarget",
+            "year": "2016",
+            "authors": [
+              "Haxho Fiona",
+              "Neufeld Ronald J",
+              "Szewczuk Myron R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Breast Neoplasms",
+              "Carcinogenesis",
+              "Cell Survival",
+              "Disease Progression",
+              "Drug Resistance, Neoplasm",
+              "Enzyme Activation",
+              "ErbB Receptors",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27029067/"
+          },
+          {
+            "pmid": "25727669",
+            "title": "A surface plasmon resonance assay for measurement of neuraminidase inhibition, sensitivity of wild-type influenza neuraminidase and its H274Y mutant to the antiviral drugs zanamivir and oseltamivir.",
+            "abstract": "Antiviral resistance is currently monitored by a labelled enzymatic assay, which can give inconsistent results because of the short half-life of the labelled product, and variations in assay conditions. In this paper, we describe a competitive surface plasmon resonance (SPR) inhibition assay for measuring the sensitivities of wild-type neuraminidase (WT NA) and the H274Y (histidine 274 tyrosine) NA mutant to antiviral drugs. The two NA isoforms were expressed in High-five™ (Trichoplusia ni) insect cells. A spacer molecule (1,6-hexanediamine (HDA)) was conjugated to the 7-hydroxyl group of zanamivir, and the construct (HDA-zanamivir) was immobilized onto a SPR sensor chip to obtain a final immobilization response of 431 response units. The immobilized HDA-zanamivir comprised a bio-specific ligand for the WT and mutant proteins. The effects of the natural substrate (sialic acid) and two inhibitors (zanamivir and oseltamivir) on NA binding to the immobilized ligand were studied. The proce",
+            "journal": "Journal of molecular recognition : JMR",
+            "year": "2015",
+            "authors": [
+              "Somasundaram Balaji",
+              "Fee Conan J",
+              "Fredericks Rayleen",
+              "Watson Andrew J A",
+              "Fairbanks Antony J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antiviral Agents",
+              "Cell Line",
+              "Enzyme Inhibitors",
+              "Humans",
+              "Influenza, Human",
+              "Inhibitory Concentration 50",
+              "Insecta",
+              "Mutation",
+              "Neuraminidase"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25727669/"
+          },
+          {
+            "pmid": "21367898",
+            "title": "Effect of an asparagine-to-serine mutation at position 294 in neuraminidase on the pathogenicity of highly pathogenic H5N1 influenza A virus.",
+            "abstract": "Like the histidine-to-tyrosine substitution at position 274 in neuraminidase (NA H274Y), an asparagine-to-serine mutation at position 294 in this protein (NA N294S) confers oseltamivir resistance to highly pathogenic H5N1 influenza A viruses. However, unlike viruses with the NA H274Y mutation, the properties of viruses possessing NA N294S are not well understood. Here, we assessed the effect of the NA N294S substitution on the replication and pathogenicity of human H5N1 viruses and on the efficacy of the NA inhibitors oseltamivir and zanamivir in mouse and ferret models. Although NA N294S-possessing H5N1 viruses were attenuated in mice and ferrets compared to their oseltamivir-sensitive counterparts, one of the infected ferrets died from systemic infection, demonstrating the potential lethality in ferrets of oseltamivir-resistant H5N1 viruses with the NA N294S substitution. The efficacy of oseltamivir, but not that of zanamivir, against an NA N294S-possessing virus was substantially im",
+            "journal": "Journal of virology",
+            "year": "2011",
+            "authors": [
+              "Kiso Maki",
+              "Ozawa Makoto",
+              "Le Mai Thi Quynh",
+              "Imai Hirotaka",
+              "Takahashi Kei"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Amino Acid Substitution",
+              "Animals",
+              "Antiviral Agents",
+              "Asparagine",
+              "Disease Models, Animal",
+              "Drug Resistance, Viral",
+              "Female",
+              "Ferrets",
+              "Influenza A Virus, H5N1 Subtype",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21367898/"
+          },
+          {
+            "pmid": "12103431",
+            "title": "The H274Y mutation in the influenza A/H1N1 neuraminidase active site following oseltamivir phosphate treatment leave virus severely compromised both in vitro and in vivo.",
+            "abstract": "Oseltamivir carboxylate is a potent and specific inhibitor of influenza A and B neuraminidase (NA). Oseltamivir phosphate, the ethyl ester prodrug of oseltamivir carboxylate, is the first orally active NA inhibitor available for the prophylaxis and treatment of influenza A and B. It offers an improvement over amantadine and rimantadine which are active only against influenza A and rapidly generate resistant virus. The emergence of virus resistant to oseltamivir carboxylate in the treatment of naturally acquired influenza infection is low (about 1%). The types of NA mutation to arise are sub-type specific and largely predicted from in vitro drug selection studies. A substitution of the conserved histidine at position 274 for tyrosine in the NA active site has been selected via site directed mutagenesis, serial passage in culture under drug pressure in H1N1 and during the treatment of experimental H1N1 infection in man. Virus carrying H274Y NA enzyme selected in vivo has reduced sensitiv",
+            "journal": "Antiviral research",
+            "year": "2002",
+            "authors": [
+              "Ives J A L",
+              "Carr J A",
+              "Mendel D B",
+              "Tai C Y",
+              "Lambkin R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetamides",
+              "Amino Acid Substitution",
+              "Animals",
+              "Antiviral Agents",
+              "Body Weight",
+              "Cell Line",
+              "Disease Models, Animal",
+              "Drug Resistance, Viral",
+              "Ferrets",
+              "Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12103431/"
+          },
+          {
+            "pmid": "21323171",
+            "title": "Monitoring of the h275y mutation in pandemic influenza A(H1N1) 2009 strains isolated in Malaysia.",
+            "abstract": "Abstract. The 2009 pandemic influenza A(H1N1) infection in Malaysia was first reported in May 2009 and oseltamivir was advocated for confirmed cases in postexposure prophylaxis. However, there are cases of oseltamivir-resistance reported among H1N1-positive patients in other countries. Resistance is due to substitution of histidine by tyrosine at residue 275 (H275Y) of neuraminidase (NA). In this study, we have employed Sanger sequencing method to investigate the occurrence of mutations in NA segments of 67 pandemic 2009 A(H1N1) viral isolates from Malaysian patients that could lead to probable oseltamivir resistance. The sequencing analysis did not yield mutation at residue 275 for all 67 isolates indicating that our viral isolates belong to the wild type and do not confer resistance to oseltamivir.",
+            "journal": "The Southeast Asian journal of tropical medicine and public health",
+            "year": "2011",
+            "authors": [
+              "Suppiah Jeyanthi",
+              "Yusof Mohd Apandi",
+              "Othman Khairul Azuan",
+              "Saraswathy T S",
+              "Thayan Ravindran"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amino Acid Substitution",
+              "Antiviral Agents",
+              "Disease Outbreaks",
+              "Drug Resistance, Viral",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype",
+              "Influenza, Human",
+              "Malaysia",
+              "Mutation, Missense",
+              "Neuraminidase"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21323171/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "disorder of tyrosine metabolism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20disorder%20of%20tyrosine%20metabolism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "teratogenic Pierre Robin syndrome",
+        "txgnn_score": 0.9612160325050354,
+        "txgnn_rank": 5852,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "teratogenic Pierre Robin syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20teratogenic%20Pierre%20Robin%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "disorder of phenylalanine metabolism",
+        "txgnn_score": 0.9574310779571532,
+        "txgnn_rank": 6163,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31067470",
+            "title": "Naproxen Exhibits Broad Anti-influenza Virus Activity in Mice by Impeding Viral Nucleoprotein Nuclear Export.",
+            "abstract": "Naproxen is a non-steroidal anti-inflammatory drug that has previously been shown to exert antiviral activity against influenza A virus by inhibiting nucleoprotein (NP) binding to RNA. Here, we show that naproxen is a potential broad, multi-mechanistic anti-influenza virus therapeutic, as it inhibits influenza B virus replication both in vivo and in vitro. The anti-influenza B virus activity of naproxen is more efficient than that of the commonly used neuraminidase inhibitor oseltamivir in mice. Furthermore, the NP of influenza B virus (BNP) has a higher binding affinity to naproxen than influenza A virus NP (ANP). Specifically, naproxen targets the NP at residues F209 (BNP) and Y148 (ANP). This interaction antagonizes the nuclear export of NP normally mediated by the host export protein CRM1. This study reveals a crucial mechanism of broad-spectrum anti-influenza virus activity of naproxen, suggesting that the existing drug naproxen may be used as an anti-influenza drug.",
+            "journal": "Cell reports",
+            "year": "2019",
+            "authors": [
+              "Zheng Weinan",
+              "Fan Wenhui",
+              "Zhang Shuang",
+              "Jiao Pengtao",
+              "Shang Yingli"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Active Transport, Cell Nucleus",
+              "Animals",
+              "Antiviral Agents",
+              "Cell Line",
+              "Cell Nucleus",
+              "Chickens",
+              "Dogs",
+              "Female",
+              "Humans",
+              "Influenza B virus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31067470/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "disorder of phenylalanine metabolism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20disorder%20of%20phenylalanine%20metabolism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+        "txgnn_score": 0.9509997367858888,
+        "txgnn_rank": 6742,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20tetrahydrobiopterin-responsive%20hyperphenylalaninemia/phenylketonuria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "staphylococcus aureus infection",
+        "txgnn_score": 0.95048189163208,
+        "txgnn_rank": 6811,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "41436991",
+            "title": "Pediatric necrotizing pneumonia caused by mixed infection with influenza A virus and Panton-Valentine Leucocidin-producing Staphylococcus aureus: case report and literature review.",
+            "abstract": "Mixed infection with influenza A virus (IAV) and Staphylococcus aureus (S. aureus) is a serious concern in children. S. aureus, particularly Panton-Valentine Leucocidin (PVL)-producing strains, is a known cause of severe, necrotizing complications. We reported three cases of severe necrotizing pneumonia caused by PVL-positive S. aureus and IAV infection from March to April in 2023.",
+            "journal": "BMC pediatrics",
+            "year": "2025",
+            "authors": [
+              "Chen Yuanyuan",
+              "Wang Yuqi",
+              "Tao Xiaofen",
+              "Zhou Mingming",
+              "Sheng Yuanjian"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Case Reports",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pneumonia, Necrotizing",
+              "Influenza, Human",
+              "Leukocidins",
+              "Exotoxins",
+              "Bacterial Toxins",
+              "Male",
+              "Staphylococcus aureus",
+              "Influenza A virus",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41436991/"
+          },
+          {
+            "pmid": "39242687",
+            "title": "Clinical presentations and diagnostic approaches of pediatric necrotizing tracheobronchitis with influenza A virus and Staphylococcus aureus co-infections.",
+            "abstract": "In March 2023, our pediatric intensive care unit (PICU) retrospectively examined six cases of pediatric necrotizing tracheobronchitis (NTB), focusing on co-infections with influenza A virus (IAV) and Staphylococcus aureus (S. aureus). This study aimed to elucidate NTB's clinical characteristics, diagnostics, and therapeutic approaches. Diagnostics included symptom assessment, microbiological testing that confirmed all patients were positive for IAV H1N1 with a predominant S. aureus co-infection, and bronchoscopy. The patients predominantly exhibited fever, cough, and dyspnea. Laboratory analysis revealed decreased lymphocyte counts and elevated infection markers like C-reactive protein and procalcitonin. Chest computed tomography (CT) scans detected tracheobronchial obstructions in half of the cases, while bronchoscopy showed severe mucosal congestion, edema, necrosis, and purulent-hemorrhagic exudates. Treatments encompassed comprehensive strategies like oxygen therapy, intubation, br",
+            "journal": "Scientific reports",
+            "year": "2024",
+            "authors": [
+              "Hu Chanchan",
+              "Zhang Nan",
+              "Xu Dan",
+              "Chen Zhenjie",
+              "Yu Jia"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Coinfection",
+              "Male",
+              "Female",
+              "Staphylococcal Infections",
+              "Influenza, Human",
+              "Child, Preschool",
+              "Tracheitis",
+              "Bronchitis",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39242687/"
+          },
+          {
+            "pmid": "36549394",
+            "title": "PI3K/AKT-mediated autophagy inhibition facilitates mast cell activation to enhance severe inflammatory lung injury in influenza A virus- and secondary Staphylococcus aureus-infected mice.",
+            "abstract": "Influenza A virus infection causes considerable morbidity and mortality each year globally, and secondary bacterial infection further exacerbates the severity and fatality of the initial viral infection. Mast cells have substantial roles in protecting the respiratory tract mucosa, while their role in viral and bacterial co-infection remains unclear. The present study revealed that secondary Staphylococcus aureus infection significantly aggravated the activation of mast cells during the initial H1N1 infection both in vivo and in vitro, which was closely related to the increased inflammatory lung injury and mortality. Meanwhile, the secondary S. aureus infection suppressed autophagy and promoted inflammatory mediators released by mast cells through activating the PI3K/Akt signaling pathway. Blocking PI3K/Akt pathway by LY294002, an inhibitor of Akt phosphorylation, could rescue autophagy and inhibit the release of inflammatory mediators. Furthermore, based on the influenza A viral and se",
+            "journal": "Antiviral research",
+            "year": "2023",
+            "authors": [
+              "Tang Yuling",
+              "Su Ruijing",
+              "Gu Qingyue",
+              "Hu Yanxin",
+              "Yang Hanchun"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Humans",
+              "Influenza, Human",
+              "Influenza A virus",
+              "Staphylococcus aureus",
+              "Lung Injury",
+              "Proto-Oncogene Proteins c-akt",
+              "Phosphatidylinositol 3-Kinases",
+              "Mast Cells"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36549394/"
+          },
+          {
+            "pmid": "30706119",
+            "title": "Challenges in severe community-acquired pneumonia: a point-of-view review.",
+            "abstract": "Severe community-acquired pneumonia (SCAP) is still associated with substantial morbidity and mortality. In this point-of-view review paper, a group of experts discuss the main controversies in SCAP: the role of severity scores to guide patient settings of care and empiric antibiotic therapy; the emergence of pathogens outside the core microorganisms of CAP; viral SCAP; the best empirical treatment; septic shock as the most lethal complication; and the need for new antibiotics.",
+            "journal": "Intensive care medicine",
+            "year": "2019",
+            "authors": [
+              "Torres Antoni",
+              "Chalmers James D",
+              "Dela Cruz Charles S",
+              "Dominedò Cristina",
+              "Kollef Marin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Community-Acquired Infections",
+              "Drug Resistance, Bacterial",
+              "Enterobacteriaceae",
+              "Humans",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Pneumonia",
+              "Severity of Illness Index",
+              "beta-Lactamases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30706119/"
+          },
+          {
+            "pmid": "32498998",
+            "title": "Feature selection based multivariate time series forecasting: An application to antibiotic resistance outbreaks prediction.",
+            "abstract": "Antimicrobial resistance has become one of the most important health problems and global action plans have been proposed globally. Prevention plays a key role in these actions plan and, in this context, we propose the use of Artificial Intelligence, specifically Time Series Forecasting techniques, for predicting future outbreaks of Methicillin-resistant Staphylococcus aureus (MRSA). Infection incidence forecasting is approached as a Feature Selection based Time Series Forecasting problem using multivariate time series composed of incidence of Staphylococcus aureus Methicillin-sensible and MRSA infections, influenza incidence and total days of therapy of both of Levofloxacin and Oseltamivir antimicrobials. Data were collected from the University Hospital of Getafe (Spain) from January 2009 to January 2018, using months as time granularity. The main contributions of the work are the following: the applications of wrapper feature selection methods where the search strategy is based on mul",
+            "journal": "Artificial intelligence in medicine",
+            "year": "2020",
+            "authors": [
+              "Jiménez Fernando",
+              "Palma José",
+              "Sánchez Gracia",
+              "Marín David",
+              "Francisco Palacios M D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Artificial Intelligence",
+              "Disease Outbreaks",
+              "Drug Resistance, Microbial",
+              "Forecasting",
+              "Humans",
+              "Methicillin-Resistant Staphylococcus aureus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32498998/"
+          },
+          {
+            "pmid": "41032955",
+            "title": "Characterization and bioevaluation of radioiodinated oseltamivir phosphate for inflammation imaging as a new perspective.",
+            "abstract": "This study explores the dual antibacterial and imaging capabilities of radioiodinated Oseltamivir phosphate [131I]IodoTam for distinguishing infection from sterile inflammation. Oseltamivir phosphate (Tamiflu) was successfully labeled with iodine-131 via electrophilic substitution, achieving a high radiochemical yield (96.5 ± 1.2 %) under optimal conditions: 100 μg Tam, 100 μg chloramine-T, pH 4, 30-min incubation at room temperature, 25 °C. Quality control confirmed tracer purity through TLC and HPLC techniques. The in vitro antibacterial activity of Tamiflu was evaluated using a standard agar disk diffusion test against Staphylococcus aureus. A clear dose-dependent inhibition was observed, with zones measuring 10-24 mm in diameter at increasing Tamiflu doses (5-50 μg), exceeding the positive control (vancomycin 50 μg, 16 mm zone). Additionally, bacterial binding tests showed substantial uptake of [131I]IodoTam by S. aureus (56 ± 0.32 %), highlighting its potential targeting ability. ",
+            "journal": "Bioorganic chemistry",
+            "year": "2025",
+            "authors": [
+              "Challan Safaa B",
+              "Abd El-Kareem Mamoun S M",
+              "Rashad A M",
+              "Khater S I"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Staphylococcus aureus",
+              "Oseltamivir",
+              "Anti-Bacterial Agents",
+              "Animals",
+              "Iodine Radioisotopes",
+              "Inflammation",
+              "Microbial Sensitivity Tests",
+              "Mice",
+              "Molecular Structure",
+              "Dose-Response Relationship, Drug"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41032955/"
+          },
+          {
+            "pmid": "39263669",
+            "title": "Necrotizing pneumonia secondary to Influenza A (H1N1) coinfection with Staphylococcus aureus: A case report.",
+            "abstract": "This study aims to enhance understanding of necrotizing pneumonia and toxic shock syndrome by analyzing an adult case of community-acquired necrotizing pneumonia caused by co-infection of Influenza A (H1N1) and Staphylococcus aureus with LukS-PV and LukF-PV virulence factor genes.",
+            "journal": "IDCases",
+            "year": "2024",
+            "authors": [
+              "Chen Huibin",
+              "Duan Hui",
+              "Zhao Jinling",
+              "Sun Kang",
+              "Shan Keji"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39263669/"
+          },
+          {
+            "pmid": "38904365",
+            "title": "Molecular surveillance of influenza A virus in Saudi Arabia: whole-genome sequencing and metagenomic approaches.",
+            "abstract": "Outbreaks of influenza A viruses are generally seasonal and cause annual epidemics worldwide. Due to their frequent reassortment and evolution, annual surveillance is of paramount importance to guide vaccine strategies. The aim of this study was to explore the molecular epidemiology of influenza A virus and nasopharyngeal microbiota composition in infected patients in Saudi Arabia. A total of 103 nasopharyngeal samples from 2015 and 12 samples from 2022 were collected from patients positive for influenza A. Sequencing of influenza A as well as metatranscriptomic analysis of the nasopharyngeal microbiota was conducted using Oxford Nanopore sequencing. Phylogenetic analysis of hemagglutinin, neuraminidase segments, and concatenated influenza A genomes was performed using MEGA7. Whole-genome sequencing analysis revealed changing clades of influenza A virus: from 6B.1 in 2015 to 5a.2a in 2022. One sample containing the antiviral resistance-mediating mutation S247N toward oseltamivir and za",
+            "journal": "Microbiology spectrum",
+            "year": "2024",
+            "authors": [
+              "Dandachi Iman",
+              "Alrezaihi Abdulrahman",
+              "Amin Dashty",
+              "AlRagi Nurah",
+              "Alhatlani Bader"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Saudi Arabia",
+              "Influenza, Human",
+              "Phylogeny",
+              "Male",
+              "Nasopharynx",
+              "Whole Genome Sequencing",
+              "Female",
+              "Adult",
+              "Metagenomics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38904365/"
+          },
+          {
+            "pmid": "33762439",
+            "title": "Repurposed drugs block toxin-driven platelet clearance by the hepatic Ashwell-Morell receptor to clear Staphylococcus aureus bacteremia.",
+            "abstract": "Staphylococcus aureus (SA) bloodstream infections cause high morbidity and mortality (20 to 30%) despite modern supportive care. In a human bacteremia cohort, we found that development of thrombocytopenia was correlated to increased mortality and increased α-toxin expression by the pathogen. Platelet-derived antibacterial peptides are important in bloodstream defense against SA, but α-toxin decreased platelet viability, induced platelet sialidase to cause desialylation of platelet glycoproteins, and accelerated platelet clearance by the hepatic Ashwell-Morell receptor (AMR). Ticagrelor (Brilinta), a commonly prescribed P2Y12 receptor inhibitor used after myocardial infarction, blocked α-toxin-mediated platelet injury and resulting thrombocytopenia, thereby providing protection from lethal SA infection in a murine intravenous challenge model. Genetic deletion or pharmacological inhibition of AMR stabilized platelet counts and enhanced resistance to SA infection, and the anti-influenza s",
+            "journal": "Science translational medicine",
+            "year": "2021",
+            "authors": [
+              "Sun Josh",
+              "Uchiyama Satoshi",
+              "Olson Joshua",
+              "Morodomi Yosuke",
+              "Cornax Ingrid"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bacteremia",
+              "Blood Platelets",
+              "Humans",
+              "Mice",
+              "Pharmaceutical Preparations",
+              "Staphylococcal Infections",
+              "Staphylococcus aureus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33762439/"
+          },
+          {
+            "pmid": "21171187",
+            "title": "Bronchoscopic findings in a child with pandemic novel H1N1 influenza A and methicillin-resistant Staphylococcus aureus.",
+            "abstract": "The spectrum of disease with pandemic novel H1N1 influenza A (2009) virus ranges from non-febrile, mild upper respiratory tract infection to severe or fatal pneumonia. We report the bronchoscopic findings associated with a fatal case of H1N1 influenza A associated with co-infection with methicillin-resistant Staphylococcus aureus (MRSA) in a previously healthy child, which were more severe than those previously described as associated with seasonal influenza infection alone. The severity of the airway pathology seen on bronchoscopy in this patient may be due to a unique effect of the H1N1 influenza A virus or may be as a result of a destructive synergism between this virus and bacteria such as MRSA.",
+            "journal": "Pediatric pulmonology",
+            "year": "2011",
+            "authors": [
+              "Sharp Jack K",
+              "Hereth James",
+              "Fasanello Joseph"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Bronchoscopy",
+              "Child",
+              "Fatal Outcome",
+              "Female",
+              "Fibrinolytic Agents",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype",
+              "Influenza, Human",
+              "Lung"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21171187/"
+          },
+          {
+            "pmid": "29173887",
+            "title": "Highlights from IDWeek 2017.",
+            "abstract": "",
+            "journal": "The Lancet. Infectious diseases",
+            "year": "2017",
+            "authors": [
+              "Cleghorn Sean"
+            ],
+            "pub_types": [
+              "Conference Proceedings",
+              "News"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antiviral Agents",
+              "Bacteremia",
+              "Clostridioides difficile",
+              "Cystitis",
+              "Drinking",
+              "Drug Administration Schedule",
+              "Dysbiosis",
+              "Humans",
+              "Influenza Vaccines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29173887/"
+          },
+          {
+            "pmid": "32061999",
+            "title": "Ceftaroline for severe community-acquired pneumonia: A real-world two-centre experience in Italy and Spain.",
+            "abstract": "Ceftaroline is one of latest additions to the armamentarium for treating community-acquired pneumonia (CAP). This study aimed to describe the outcome of severe CAP (SCAP) in a cohort of hospitalised patients treated with ceftaroline.",
+            "journal": "International journal of antimicrobial agents",
+            "year": "2020",
+            "authors": [
+              "Bassetti Matteo",
+              "Russo Alessandro",
+              "Cilloniz Catia",
+              "Giacobbe Daniele Roberto",
+              "Vena Antonio"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Cephalosporins",
+              "Community-Acquired Infections",
+              "Female",
+              "Humans",
+              "Italy",
+              "Male",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Microbial Sensitivity Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32061999/"
+          },
+          {
+            "pmid": "32590802",
+            "title": "Community-acquired pneumonia caused by methicillin-resistant Staphylococcus aureus in a Chinese adult: A case report.",
+            "abstract": "Methicillin-resistant Staphylococcus aureus (MRSA) has been established as an important cause of severe community-acquired pneumonia (CAP) with very high mortality. Panton-Valentine leukocidin (PVL) producing MRSA has been reported to be associated with necrotizing pneumonia and worse outcome. The incidence of community-acquired MRSA (CA-MRSA) pneumonia is very low, as only a few CA-MRSA pneumonia cases were reported in the last few years. We present a case of severe CAP caused by PVL-positive MRSA with ensuing septic shock.",
+            "journal": "Medicine",
+            "year": "2020",
+            "authors": [
+              "Xia Huan",
+              "Gao Jinying",
+              "Xiu Ming",
+              "Li Dan"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-Bacterial Agents",
+              "Cough",
+              "Healthcare-Associated Pneumonia",
+              "Humans",
+              "Hypokinesia",
+              "Linezolid",
+              "Male",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Mezlocillin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32590802/"
+          },
+          {
+            "pmid": "30691434",
+            "title": "A severe case of Streptococcal pyogenes empyema following influenza A infection.",
+            "abstract": "Any immunological mechanisms induced by influenza virus could cause severe secondary bacterial superinfection such as those by Streptococcus pyogenes [group A streptococcus (GAS)], Streptococcus pneumoniae or Staphylococcus aureus. Over recent years, the frequency of pleural empyema has increased in children with influenza infection. We present a severe case of acute empyema caused by S.pyogenes after influenza A infection.",
+            "journal": "BMC pulmonary medicine",
+            "year": "2019",
+            "authors": [
+              "Asai Nobuhiro",
+              "Suematsu Hiroyuki",
+              "Sakanashi Daisuke",
+              "Kato Hideo",
+              "Hagihara Mao"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Antiviral Agents",
+              "Coinfection",
+              "Empyema, Pleural",
+              "Female",
+              "Humans",
+              "Influenza, Human",
+              "Pleural Effusion",
+              "Streptococcal Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30691434/"
+          },
+          {
+            "pmid": "20831976",
+            "title": "Fulminant fatal swine influenza (H1N1): Myocarditis, myocardial infarction, or severe influenza pneumonia?",
+            "abstract": "The swine influenza (H1N1) pandemic began in Mexico and rapidly spread worldwide. As is the case with pandemic influenza A, the majority of early deaths have been in young healthy adults. The complications of pandemic H1N1 have been reported from several centers. Noteworthy has been the relative rarity of bacterial coinfection in bacterial pneumonia in hospitalized adults with H1N1 pneumonia. Simultaneous bacterial community-acquired pneumonia due to methicillin-sensitive Staphylococcus aureus or community-acquired methicillin resistant S. aureus and subsequent bacterial community-acquired pneumonia due to S. pneumoniae or Haemophilus influenzae have been reportedly rare (0.4%-4% of well-documented cases). Cardiac complications of H1N1 infection have been uncommon. Young healthy adults without a cardiac history who have H1N1 and chest pain usually have either acute myocardial infarction or acute myocarditis. Cardiac symptomatology with H1N1 often overshadows pulmonary manifestations, t",
+            "journal": "Heart & lung : the journal of critical care",
+            "year": "2010",
+            "authors": [
+              "Cunha Burke A",
+              "Syed Uzma",
+              "Mickail Nardeen"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetamides",
+              "Acids, Carbocyclic",
+              "Adult",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Cyclopentanes",
+              "Fatal Outcome",
+              "Guanidines",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20831976/"
+          },
+          {
+            "pmid": "30602510",
+            "title": "Understanding the Components, Calculation, and Impact of Monthly and Seasonal Variation of the Standardized Antimicrobial Utilization Ratio (SAAR).",
+            "abstract": "This study sought to characterize the impact of 3 types of variation on the Standardized Antimicrobial Administration Ratio (SAAR) utilizing local National Healthcare Safety Network (NHSN) data. SAAR and antimicrobial days per 1,000 days present (AD/1000DP) were compiled monthly for Northwestern Memorial Hospital from 2014 to 2016. Antimicrobial consumption was aggregated into agent categories (via NHSN criteria). Month-to-month changes in SAAR and AD/1000DP were evaluated. Azithromycin and oseltamivir AD/1000DP from 2012 through 2017 were explored for seasonal variation. A sensitivity analysis was performed to explore the effect of seasonality and altered consumption at other hypothetical hospitals on the SAAR. Across agent categories for both the intensive care unit (n = 4) and general wards (n = 4), the average matched-month percent change in AD/1000DP was correlated with the corresponding change in SAAR (coefficient of determination of 0.99). The monthly mean ± standard deviation (",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2019",
+            "authors": [
+              "Avedissian Sean N",
+              "Rhodes Nathaniel J",
+              "Liu Jiajun",
+              "Aljefri Doaa",
+              "Postelnick Michael J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Antimicrobial Stewardship",
+              "Azithromycin",
+              "Humans",
+              "Inappropriate Prescribing",
+              "Length of Stay",
+              "Methicillin-Resistant Staphylococcus aureus",
+              "Oseltamivir",
+              "Retrospective Studies",
+              "Seasons"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30602510/"
+          },
+          {
+            "pmid": "20633930",
+            "title": "Swine influenza (H1N1) and acute appendicitis.",
+            "abstract": "During the swine influenza (H1N1) pandemic that began in 2009, many hospitalized adults had gastrointestinal symptoms. The most common symptoms associated with swine influenza (H1N1) were nausea, vomiting, or diarrhea. In the experience of the authors, swine influenza was not complicated by abdominal pain. There are a wide variety of infectious and non-infectious disorders that may present with a pain in the right lower quadrant, mimicking appendicitis, ie, pseudoappendicitis. Influenza predisposes to some types of bacterial infection, eg, influenza pneumonia may be complicated by simultaneous Staphylococcus aureus community-acquired pneumonia or subsequent community-acquired pneumonia due to Haemophilus influenzae or Streptococcus pneumoniae. It remains unclear if there is direct involvement of the appendix, ie, pseudoappendicitis as occurs with measles or if influenza itself somehow predisposes to increased frequency/severity of bacterial appendicitis. German clinicians first noted a",
+            "journal": "Heart & lung : the journal of critical care",
+            "year": "2010",
+            "authors": [
+              "Cunha Burke A",
+              "Pherez Francisco M",
+              "Durie Nicole"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abdominal Pain",
+              "Acute Disease",
+              "Adolescent",
+              "Antiviral Agents",
+              "Appendicitis",
+              "Comorbidity",
+              "Female",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype",
+              "Influenza, Human"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20633930/"
+          },
+          {
+            "pmid": "17447512",
+            "title": "Successful thoracoscopic treatment of severe bilateral empyema in an infant.",
+            "abstract": "We report a case of rapid progression of bilateral pyothorax exacerbated by viral influenza in an infant. The patient, an 11-month-old girl, was diagnosed with viral influenza, and oseltamivir phosphate was administered. However, after only 4 days the influenza was followed by rapid progression of methicillin-susceptible Staphylococcus aureus (MSSA) pneumonia and pyothorax, resulting in disseminated intravascular coagulation. Because thoracentesis and antibiotics could not control the pyothorax, a serious condition, we performed bilateral video-assisted thoracoscopic decortication on the eighth hospital day. She recovered with excellent lung expansion and was discharged on the 37th hospital day.",
+            "journal": "General thoracic and cardiovascular surgery",
+            "year": "2007",
+            "authors": [
+              "Tanaka Kei",
+              "Mizobuchi Teruaki",
+              "Fujiwara Taiki",
+              "Saito Tomoyasu",
+              "Hiramoto Ryugo"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Disseminated Intravascular Coagulation",
+              "Drainage",
+              "Empyema, Pleural",
+              "Female",
+              "Humans",
+              "Infant",
+              "Influenza A virus",
+              "Influenza, Human",
+              "Pneumonia, Staphylococcal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17447512/"
+          },
+          {
+            "pmid": "19587337",
+            "title": "Forever unprepared--the predictable unpredictability of pathogens.",
+            "abstract": "",
+            "journal": "The New England journal of medicine",
+            "year": "2009",
+            "authors": [
+              "Sepkowitz Kent A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Birds",
+              "Disease Outbreaks",
+              "Drug Resistance, Viral",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype",
+              "Influenza in Birds",
+              "Influenza, Human",
+              "Methicillin-Resistant Staphylococcus aureus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19587337/"
+          },
+          {
+            "pmid": "26829851",
+            "title": "[EFFECTIVENESS OF FULLERENE-(TRIS-AMINOCAPRONIC ACID) HYDRATE IN THE MODEL OF EXPERIMENTAL VIRAL-BACTERIAL PNEUMONIA OF MICE].",
+            "abstract": "Study the effectiveness of the substance and various drug formulations of fullerene-(tris-aminocapronic acid) hydrate (FTAAH onwards) in the model of experimental viral-bacterial pneumonia of mice.",
+            "journal": "Zhurnal mikrobiologii, epidemiologii i immunobiologii",
+            "year": "2015",
+            "authors": [
+              "Falynskova I N",
+              "Leonova E I",
+              "Fedyakina I T",
+              "Makhmudova N R",
+              "Lepekha L N"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Chemistry, Pharmaceutical",
+              "Disease Models, Animal",
+              "Fullerenes",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype",
+              "Lung",
+              "Mice",
+              "Oseltamivir",
+              "Pneumonia, Bacterial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26829851/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "staphylococcus aureus infection",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20staphylococcus%20aureus%20infection"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency",
+        "txgnn_score": 0.9393114447593688,
+        "txgnn_rank": 7743,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20cardioencephalomyopathy%2C%20fatal%20infantile%2C%20due%20to%20cytochrome%20c%20oxidase%20deficiency"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pneumonia",
+        "txgnn_score": 0.9213646650314332,
+        "txgnn_rank": 9294,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03238612",
+            "title": "A Double-blind Randomised Controlled Trial on Flufenamic Acid for Hospitalised Influenza Infection",
+            "phase": "PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2018-01-08",
+            "completion_date": "2020-10-31",
+            "country": "Hong Kong",
+            "enrollment": 200,
+            "brief_summary": "It is well recognized that respiratory viruses cause substantial disease burden every year. Among all known respiratory viruses, influenza virus is the greatest cause of disability-adjusted life years lost, excess hospitalizations, and deaths in the elderly and patients with chronic illness. These patients are frequently hospitalized for pneumonia secondary to these respiratory viral infection. Recently, macrolide antimicrobial clarithromycin and flufenamic acid (FFA) have been shown to inhibit ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Recruited subjects include all adult patients ≥18 years hospitalised for virologically confirmed influenza infection.\n2. Auditory temperature ≥38°C with at least one of the following symptoms (cough, sputum production, sore-throat, nasal discharge, myalgia, headache or fatigu",
+            "endpoints": [
+              "Mortality"
+            ],
+            "sponsor": "The University of Hong Kong",
+            "url": "https://clinicaltrials.gov/study/NCT03238612"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00707941",
+            "title": "Efficacy of Oseltamivir in Reducing the Duration of Clinical Illness, Viral Shedding, and Transmissibility Reduction Within Households Among Participants in an Influenza Disease Burden Surveillance Cohort in Urban Dhaka, Bangladesh",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-05",
+            "completion_date": "2011-03",
+            "country": "Bangladesh",
+            "enrollment": 1190,
+            "brief_summary": "Background In preparation for a global influenza pandemic, there is an urgent need for representative data from populations and settings where the pandemic is most likely to arise. There are no data on oseltamivir efficacy from Asian urban slum populations concerning duration of illness and viral shedding, nor whether efficacy depends on starting treatment \\< 48 hours or ≥ 48 hours after illness onset. Finally, there are no data on the capacity of the drug, in such settings, to affect household ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Persons at least one year old residing in randomly selected households with at least one major illness sign, or if absent at least two minor illness signs who are rapid test positive for either influenza A or influenza B.\n\nExclusion Criteria:\n\n* Persons with a history of non-f",
+            "endpoints": [
+              "Duration of clinical illness among patients treated with oseltamivir vs placebo < 48 hours as well as ≥48 hours after illness onset",
+              "Duration of viral shedding among all treatment groups vs placebo",
+              "Compare the risk of transmission to household contacts by treatment group vs placebo"
+            ],
+            "sponsor": "International Centre for Diarrhoeal Disease Research, Bangladesh",
+            "url": "https://clinicaltrials.gov/study/NCT00707941"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04973462",
+            "title": "Evaluation of The Efficacy of Triazavirin Versus Oseltamivir in Egyptian Patients Infected With Coronavirus Disease 2019 (COVID-19)",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2021-08-01",
+            "completion_date": "2021-12-30",
+            "country": "Egypt",
+            "enrollment": 80,
+            "brief_summary": "The aim of this study is to evaluate the efficacy and safety (side effects and / or adverse effects) of Triazavirin and Oseltamivir as treatment of Coronavirus Disease 2019 in Egyptian patients in military hospitals.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults from 18 to 60 years old who signed informed consent;\n2. Laboratory confirmed SARS-CoV-2 infection by real-time RT-PCR.\n3. Chest computed tomography (CT) imaging-confirmed lung damage, including multiple small plaques and stromal changes in the lungs, which are obvious ",
+            "endpoints": [
+              "Physicians Global Assessment to measure the baseline COVID-19 signs and symptoms"
+            ],
+            "sponsor": "Ain Shams University",
+            "url": "https://clinicaltrials.gov/study/NCT04973462"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04457609",
+            "title": "Application of Umbilical Cord Mesenchymal Stem Cells as Adjuvant Therapy for Critically-Ill COVID-19 Patients",
+            "phase": "PHASE1",
+            "status": "UNKNOWN",
+            "start_date": "2020-07",
+            "completion_date": "2020-09",
+            "country": "Indonesia",
+            "enrollment": 40,
+            "brief_summary": "Novel Coronavirus (2019nCoV) or Severe Acute Respiratory Syndrome-Coronavirus-2 (SARS-CoV-2) that causes Coronavirus Disease 2019, or known as Covid-19 has recently become a global health emergency since it was first detected in Wuhan, the People Republic of China in December 2019. Since then, the prevalence has rapidly increased worldwide. In Indonesia, by the end of April 2020, around 10,000 patients have been tested positive for Covid-19 infection, with a case fatality rate of around 8%.\n\nThe",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients aged 18-95 years old\n* Confirmed for diagnosis of Covid-19 through RT-PCR from nasopharyngeal swab and/or bronchoalveolar lavage for patients under intubation\n* Laboratory results showed leukopenia and lymphopenic\n* Chest radiography shows pneumonia appearance and/or ",
+            "endpoints": [
+              "Clinical improvement: Presence of dyspnea",
+              "Clinical improvement: presence of sputum",
+              "Clinical improvement: fever"
+            ],
+            "sponsor": "Indonesia University",
+            "url": "https://clinicaltrials.gov/study/NCT04457609"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01508884",
+            "title": "Efficacy and Effectiveness of Intradermal Trivalent Influenza Vaccine With Topical Imiquimod, a Double Blind Randomized Controlled Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-01",
+            "completion_date": "2012-12",
+            "country": "Hong Kong",
+            "enrollment": 93,
+            "brief_summary": "Despite the WHO International Health Regulations Emergency Committee declared an end to the 2009 H1N1 pandemic globally, the emergence of the novel 2009 H1N1 virus in March 2009 has affected more than 214 countries with at least 18000 deaths \\[1\\]. Patients with chronic underlying illness and extreme of ages are at risk of developing severe disease and complications \\[2-3\\]. Resistance to oseltamivir has also been reported \\[4\\]. Therefore, vaccination with the 2010/2011 trivalent influenza vacc",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All adult patients at the age of 21 or above with chronic illness and given written informed consent\n* Subjects must be available to complete the study and comply with study procedures. Willingness to allow for serum samples to be stored beyond the study period, for potential ",
+            "endpoints": [
+              "Seroconversion rate"
+            ],
+            "sponsor": "The University of Hong Kong",
+            "url": "https://clinicaltrials.gov/study/NCT01508884"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02954354",
+            "title": "A Phase 3, Multicenter, Randomized, Double-blind Study of a Single Dose of S-033188 (Baloxavir Marboxil) Compared With Placebo or Oseltamivir 75 mg Twice Daily for 5 Days in Otherwise Healthy Patients With Influenza",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2016-12-08",
+            "completion_date": "2017-04-24",
+            "country": "N/A",
+            "enrollment": 1436,
+            "brief_summary": "The primary objective of this study is to evaluate the efficacy of a single, oral dose of baloxavir marboxil compared with placebo by measuring the time to alleviation of symptoms in patients with uncomplicated influenza virus infection.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients who are able to understand the study and comply with all study procedures, and willing to provide written informed consent/assent prior to the predose examinations appropriately. As for adolescent patients, informed consent/assent of voluntary participation should be",
+            "endpoints": [
+              "Time to Alleviation of Symptoms in Participants Randomized to Baloxavir or Placebo",
+              "Time to Alleviation of Symptoms in Adults Randomized to Baloxavir or Oseltamivir"
+            ],
+            "sponsor": "Shionogi Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT02954354"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04530422",
+            "title": "Efficacy of Sofosbuvir Plus Ledipasvir in Egyptian Patients With COVID-19 Compared to Standard Treatment",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-04-15",
+            "completion_date": "2020-07-23",
+            "country": "Egypt",
+            "enrollment": 250,
+            "brief_summary": "Currently there is no known effective therapy or vaccine for treatment of SARS-CoV-2, highlighting urgency around identifying effective therapies.\n\nThis study aiming to evaluate the anti-HCV medications efficacy \"Sofosbuvir-Ledipasvir\" in treatment of moderate cases with SARS-COV-2 infection, in comparison to the standard treatment (hydroxychloroquine, oseltamivir and azithromycin).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pneumonic patients with SARS-COV-2 infection confirmed to be positive by RT-PCR; and demonstrated moderate cases criteria (fever \"measured temperature of at least 38 °C\", lower respiratory symptoms \"cough, shortness of breath\" and imaging-confirmed pneumonia\").\n* Female patien",
+            "endpoints": [
+              "Therapeutic success (cured)",
+              "28 days in hospital mortality"
+            ],
+            "sponsor": "Almaza Military Fever Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04530422"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03684044",
+            "title": "A Phase III, Randomized, Double-Blind Placebo-Controlled, Multicenter Study To Evaluate the Efficacy and Safety of Baloxavir Marboxil in Combination With Standard-of-Care Neuraminidase Inhibitor in Hospitalized Participants With Severe Influenza",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2019-01-08",
+            "completion_date": "2020-03-16",
+            "country": "Ukraine, New Zealand, Finland, United States, Japan, Estonia, Brazil, Argentina, China, Singapore, Czechia, Sweden, Germany, Netherlands, Turkey (Türkiye), Bulgaria, Mexico, Peru, Hong Kong, Serbia, Australia, Israel, France, Belgium, Romania, South Korea, Spain, Canada",
+            "enrollment": 363,
+            "brief_summary": "This study will evaluate the efficacy, safety, and pharmacokinetics of baloxavir marboxil in combination with a standard-of-care (SOC) neuraminidase inhibitor (NAI) (i.e., oseltamivir, zanamivir, or peramivir) compared with a matching placebo in combination with a SOC NAI in hospitalized patients with influenza.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult participants: Signed informed consent by any participant capable of giving consent, or, where the participant is not capable of giving consent, by his or her legal/authorized representative\n* Adolescent participants not able to legally consent: written informed consent f",
+            "endpoints": [
+              "Time to Clinical Improvement"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT03684044"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01032837",
+            "title": "A Randomized, Multicenter Trial of Oseltamivir [Tamiflu] Doses of 75 mg for 5 or 10 Days Versus 150 mg for 5 or 10 Days to Evaluate the Effect on the Duration of Viral Shedding in Influenza Patients With Pandemic (H1N1) 2009",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2009-11",
+            "completion_date": "2010-10",
+            "country": "United States",
+            "enrollment": 102,
+            "brief_summary": "This randomized, double-blind, multi-center study of Tamiflu (Oseltamivir) will evaluate the efficacy against viral activity, the effectiveness in resolving the disease symptoms, and the safety and tolerability in patients with influenza. Patients with (H1N1) 2009 influenza strain or influenza A are eligible for this study. Patients will be randomized to one of four treatment regimens. Patients will receive oral doses of either 75 mg (adults) or 150 mg (adults) of study drug twice daily for 5 or",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric, adolescent and adult patients \\>/=1 year of age\n* Fever \\>/=37.8 degrees C or at least one respiratory symptom (cough, coryza, sore throat, or rhinitis)\n* Positive rapid diagnostic test for pandemic (H1N1) 2009 virus or influenza A in the 24 hours prior to the first",
+            "endpoints": [
+              "Time to Cessation of Viral Shedding"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT01032837"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00867139",
+            "title": "A Pilot, Randomized Study Comparing the Safety, Tolerability and Pharmacokinetics of Combination Therapy (Amantadine, Ribavirin, Oseltamivir) Versus Neuraminidase Inhibitor Monotherapy to Influenza Virus Infected Immunocompromised Patients",
+            "phase": "PHASE1, PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2009-03",
+            "completion_date": "2010-01",
+            "country": "United States",
+            "enrollment": 7,
+            "brief_summary": "The purpose of this study is to assess the safety and tolerability of triple combination antiviral drug (TCAD) for use in immunocompromised patients with Influenza A infection, and to gain data on the effectiveness of TCAD",
+            "eligibility_criteria": "Inclusion Criteria:\n\ni. Inclusion criteria for randomized arms (both needed):\n\n1. Age ≥7 years, male or female; AND\n2. Influenza infection (i.e. upper respiratory tract infection)\n\nii. Inclusion criteria for open-label arm (at least one criteria required):\n\n1. Young age (1-6 years) with any influenz",
+            "endpoints": [
+              "Number of Participants With Adverse Events (AEs), Drug Specific AEs or AEs Resulting in Treatment Interruption"
+            ],
+            "sponsor": "Fred Hutchinson Cancer Center",
+            "url": "https://clinicaltrials.gov/study/NCT00867139"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00545532",
+            "title": "A Double-Blind, Randomized, Stratified Multi-Center Trial Evaluating Conventional and Double Dose Oseltamivir in the Treatment of Immunocompromised Patients With Influenza",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-02-04",
+            "completion_date": "2017-05-02",
+            "country": "Hungary, Guatemala, Italy, South Africa, Ukraine, United Kingdom, United States, Estonia, Brazil, Argentina, Poland, Latvia, Czechia, Spain, Germany, Switzerland, Bulgaria, Mexico, Chile, Lithuania, Israel, France, Belgium, Romania, Colombia, Canada",
+            "enrollment": 228,
+            "brief_summary": "This 2-arm study will investigate the safety and tolerability of oseltamivir for the treatment of influenza in immunocompromised participants and characterize the effects of oseltamivir in immunocompromised participants on the development of resistant influenza virus. Eligible immunocompromised participants with laboratory-confirmed influenza will be randomized to receive either conventional dose (30 milligrams \\[mg\\] to 75 mg twice daily orally \\[po\\], depending on age and weight) or double dos",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Rapid diagnostic test, PCR, or viral culture positive for influenza in the 96 hours prior to first dose\n* Immunocompromised participants with primary or secondary immunodeficiency\n* Symptoms suggestive of influenza-like illness\n* Use of an effective contraceptive, as specified",
+            "endpoints": [
+              "Percentage of Participants With Adverse Events",
+              "Percentage of Participants Who Developed Viral Resistance to Oseltamivir",
+              "Percentage of Participants With Tissue Rejection or Graft Versus Host Disease (GVHD)"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT00545532"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04365764",
+            "title": "Effect of Treatments in Patients Hospitalized for Severe COVID-19 Pneumonia: a Multicenter Cohort Study",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2020-03-14",
+            "completion_date": "2022-12-31",
+            "country": "France",
+            "enrollment": 400,
+            "brief_summary": "Several treatments have been used in during the Covid-19 pandemic of 2020. Using patients' registries from several hospitals in Paris, the investigators retrospectively analyzed associations between specific treatments, including but not limited to vaccines targeted against SARS-CoV-2, hydroxychloroquine, azithromycin, remdesivir, baricitinib, tocilizumab, sarilumab, lopinavir/ritonavir and oseltamivir; and clinical outcomes including, death and mechanical ventilation.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* admitted for severe Covid-19 pneumonia (i.e. requiring O2-support more than 6L/min with SpO2\\<96%)\n\nExclusion Criteria:\n\n* patients who were previously in ICU\n* patients already hospitalized prior to study start date\n* patients in palliative care\n* lack of consent",
+            "endpoints": [
+              "Composite of death and mechanical ventilation"
+            ],
+            "sponsor": "Groupe Hospitalier Pitie-Salpetriere",
+            "url": "https://clinicaltrials.gov/study/NCT04365764"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02964871",
+            "title": "Rapid Assessment of and Prophylaxis for Influenza in Dwellers of Long-term Care Facilities",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2016-11",
+            "completion_date": "2019-10-31",
+            "country": "N/A",
+            "enrollment": 20,
+            "brief_summary": "RAPID-LTCF is a stratified, block-randomized controlled trial to assess the effectiveness of a simple ARI case definition, rapid influenza diagnostic test (RIDT) with wireless transmission of results, and provision of infection control guidance when influenza is detected. Because of the nature of the intervention, blinding is not possible. Sites will be initially recruited for a study of \"respiratory infections within LTCFs.\" After acceptance into the study, sites will be matched in terms of bed",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Any resident of one of the 10 LTCF intervention facilities with two acute respiratory infection symptoms (rhinorrhea/runny nose, nasal congestion, sore throat, cough or fever).\n\nExclusion Criteria:\n\n* None",
+            "endpoints": [
+              "Number of influenza antiviral treatment courses provided during the 4-month influenza seasons in RAPID-LTCF vs. control LTCF",
+              "Number of influenza antiviral prophylaxis courses provided during the 4-month influenza season in RAPID-LTCF vs. control LTCF",
+              "Number of respiratory infection-related hospitalizations in RAPID-LTCF vs control LTCF during the 4-month influenza season"
+            ],
+            "sponsor": "University of Wisconsin, Madison",
+            "url": "https://clinicaltrials.gov/study/NCT02964871"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03629184",
+            "title": "A Multicenter, Randomized, Double-Blind, Active (Oseltamivir)-Controlled Study to Assess the Safety, Pharmacokinetics, and Efficacy of Baloxavir Marboxil in Otherwise Healthy Pediatric Patients 1 to <12 Years of Age With Influenza-Like Symptoms",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-11-20",
+            "completion_date": "2019-04-03",
+            "country": "Israel, Costa Rica, Poland, Mexico, Russia, United States, Spain",
+            "enrollment": 173,
+            "brief_summary": "This study will evaluate the safety, pharmacokinetics, and efficacy of baloxavir marboxil compared with oseltamivir in a single influenza episode in otherwise healthy pediatric participants (i.e., 1 to \\<12 years of age) with influenza-like symptoms.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 1 to \\< 12 years at randomization (Day 1).\n* Written informed consent/assent for study participation obtained from participant's parents or legal guardian, with assent as appropriate by the participant, depending on the patient's level of understanding\n* Participant able ",
+            "endpoints": [
+              "Percentage of Participants With Adverse Events (AEs) and Serious Adverse Events (SAEs)"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT03629184"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05170009",
+            "title": "Randomized Double-blind, Placebo-controlled Single Center Pilot Study to Evaluate the Efficacy and Safety of Baloxavir in Combination With Oseltamivir in Adult Allogeneic Bone Marrow Transplant Recipients With Influenza",
+            "phase": "PHASE2, PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2022-04-22",
+            "completion_date": "2024-02-07",
+            "country": "United States",
+            "enrollment": 2,
+            "brief_summary": "This is a randomized, double-blind, placebo-controlled pilot study of the efficacy and safety of baloxavir in combination with oseltamivir (standard of care) for the treatment of influenza in allogeneic stem cell transplant patients. Although there are no data about this treatment option currently available, the investigator hypothesizes that combination therapy may be more effective in clearing influenza virus infection and decreasing the rate of emergence of resistant influenza in immunocompro",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients: Signed informed consent by any patient capable of giving consent, or, where the patient is not capable of giving consent, by his or her legal/authorized representative\n* Age greater than or equal to 18 years at the time of signing the Informed Consent Form/Asse",
+            "endpoints": [
+              "Change of Influenza Viral RNA Loads From Baseline at the End of Treatment as Measured by Quantitative Real Time Polymerase Chain Reaction.",
+              "Between-treatment-arm Difference in the Change of Influenza Viral RNA Loads From Baseline at the End of Treatment as Measured by Quantitative Real Time Polymerase Chain Reaction.",
+              "Between-treatment-arm Difference in the Change of Influenza Viral RNA Loads From Baseline at the End of Treatment as Measured by Influenza Plaque Assay (Replicating Virus)."
+            ],
+            "sponsor": "Weill Medical College of Cornell University",
+            "url": "https://clinicaltrials.gov/study/NCT05170009"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01620307",
+            "title": "Adjuvant Treatment With a mTOR Inhibitor, Rapamune Improves Outcomes of Severe H1N1 Pneumonia With Acute Respiratory Failure",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2009-06",
+            "completion_date": "2011-12",
+            "country": "N/A",
+            "enrollment": 38,
+            "brief_summary": "Severe H1N1 pneumonia with acute respiratory failure shows hyperactive immune cells infiltration of lung. Rapamune, a mTOR inhibitor, modulates the immune response by blocking activation of T- and B-cells. To investigate the clinical efficiency of rapamune in severe H1N1 pneumonia with respiratory failure, this study was conducted.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* H1N1 patients with severe hypoxemia \\[alveolar-arterial oxygen gradient, (A-a) O2 gradient, \\> 200 mmHg\\] requiring ventilator support were included to randomization.\n\nExclusion Criteria:\n\n* severity of illness and multiple organ dysfunction (MOD) were assessed within 24 hours",
+            "endpoints": [
+              "liberation of ventilator"
+            ],
+            "sponsor": "Chang Gung Memorial Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01620307"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01227967",
+            "title": "A Randomized Double-Blind Phase 2 Study Comparing the Efficacy, Safety, and Tolerability of Combination Antivirals (Amantadine, Ribavirin, Oseltamivir) Versus Oseltamivir for the Treatment of Influenza in Adults at Risk for Complications",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-09",
+            "completion_date": "2017-03-30",
+            "country": "Argentina, Mexico, Thailand, United States, Australia",
+            "enrollment": 881,
+            "brief_summary": "Seasonal influenza is responsible for many hospitalizations and deaths each year, despite effective antiviral treatments. Some individuals have medical conditions such as heart or lung diseases that make them particularly at risk of severe influenza infections that may result in hospitalization or death. Oseltamivir (Tamiflu) is used most often to treat flu, but there are still many hospitalizations, complications, and deaths even with treatment. This study evaluated the use of combination antiv",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\nEnrollment (Screening)\n\n1. Signed informed consent prior to initiation of any study procedures\n2. Presence of an underlying medical condition(s) that might increase risk of complications from influenza\n3. History of an influenza-like illness defined as:\n\n   * One or more respi",
+            "endpoints": [
+              "Percentage of Participants With Virus Detectable by Quantitative PCR (qPCR) in Nasopharyngeal (NP) Swabs"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT01227967"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02927431",
+            "title": "A Phase II, Global, Randomized Study to Evaluate the Efficacy and Safety of Danirixin (GSK1325756) Co-administered With a Standard-of-care Antiviral (Oseltamivir), in the Treatment of Adults Hospitalized With Influenza",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2017-01-19",
+            "completion_date": "2017-05-24",
+            "country": "Russia, Sweden, United States, Romania",
+            "enrollment": 10,
+            "brief_summary": "Danirixin (DNX) is a novel, selective, and reversible antagonist of the C-X-C chemokine receptor (CXCR) 2 and has been shown to decrease neutrophil transmigration and activation to areas of inflammation. An intravenous (IV) formulation of DNX hydrobromide (HBr) is being developed as an anti-inflammatory agent for treatment of adults hospitalized with influenza (IFV). While early therapy with antivirals decreases severity and duration of symptoms of influenza, there are no drugs that have demonst",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adults 18 years (as per local laws) of age and older at the time of signing the informed consent.\n* Presence of fever (\\>=38.0 degree Celsius \\[\\>=100.4 degree Fahrenheit\\] by any route) at Baseline (enrollment) or history of fever/feverishness during the 48 hours prior.\n* Oxy",
+            "endpoints": [
+              "Time to Clinical Response (TTCR)"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT02927431"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02369159",
+            "title": "A Phase 3, Randomized, Open Label, Active-controlled Study to Evaluate the Safety, Pharmacokinetics and Effectiveness of IV Peramivir Compared to Oral Oseltamivir in Pediatric Subjects With Acute Uncomplicated Influenza",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-03-11",
+            "completion_date": "2020-05-14",
+            "country": "South Africa, United States",
+            "enrollment": 137,
+            "brief_summary": "This study will evaluate the safety, pharmacokinetics and effectiveness of a single dose of IV peramivir compared to a standard 5 day course of oral oseltamivir in the treatment of pediatric subjects with acute uncomplicated influenza.",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\n1. Clinical signs and symptoms consistent with acute influenza infection consisting of an oral temperature ≥ 100°F (37.8°C) or rectal temperature ≥ 101.3ºF (≥ 38.5ºC) with at least one respiratory symptom (cough or rhinitis) OR Positive influenza determined by PCR or Rapid A",
+            "endpoints": [
+              "Safety and Tolerability, as Measured by the Number of Participants Experiencing Adverse Events."
+            ],
+            "sponsor": "BioCryst Pharmaceuticals",
+            "url": "https://clinicaltrials.gov/study/NCT02369159"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04361422",
+            "title": "Evaluation of the Safety and Efficacy of Isotretinoin in Treatment of COVID-19: Clinical Study",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2020-12-01",
+            "completion_date": "2021-12",
+            "country": "N/A",
+            "enrollment": 300,
+            "brief_summary": "Contributors:\n\nLamia Elgarhy, Sabah El-Gaeish 1, Eman Hamed 2 , Wagdy Fathy2 Department of Dermatology, Department of Pharmacology1 , Faculty of Medicine, Tanta University, Department of Chest, Faculty of Medicine, Suez Canal University2.\n\nAbstract:\n\nThe COVID-19 pandemic caused by SARS-COV-2 has infected over 2,000,000 people causing over 150,000 deaths. A key host cellular protein required for the virus entry is angiotensin-converting enzyme 2 (ACE2) whose expression has been demonstrated in m",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical and laboratory diagnosis of COVID-19.\n* Age range 18-40\n\nExclusion Criteria:\n\n1. Hypercholesterolemia\n2. Hypertriglyceridemia\n3. Liver disease\n4. Renal disease\n5. Sjögren syndrome\n6. Pregnancy\n7. Lactation\n8. Depressive disorder\n9. Contraindications for hormonal contr",
+            "endpoints": [
+              "Clinical clearance"
+            ],
+            "sponsor": "Tanta University",
+            "url": "https://clinicaltrials.gov/study/NCT04361422"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04353180",
+            "title": "Isotretinoin in Treatment of COVID-19 (Randomized)",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2021-08",
+            "completion_date": "2021-11",
+            "country": "Egypt",
+            "enrollment": 100000,
+            "brief_summary": "Assessment the Activity Value of Isotretinoin (13- Cis-Retinoic Acid ) in the Treatment of COVID-19\n\nMahmoud ELkazzaz(1),Tamer Haydara(2), Mohamed Abdelaal(3), Abedelaziz Elsayed(4) ,Yousry Abo-amer(5), Hesham Attia(6), Quan Liu(7)' Tim Duong(8) and Heba Sahyon(9)\n\n1. Department of chemistry and biochemistry, Faculty of Science, Damietta University, Egypt.\n2. Department of Internal Medicine, Faculty of Medicine, Kafrelsheikh University, Egypt\n3. Department of Cardiothoracic Surgery, Faculty of M",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAdult SARI patients with 2019-ncov infection confirmed by PCR; Absolute value of lymphocytes \\< 0. 6x 109/L; Severe respiratory failure within 48 hours and requires admission to ICU. (severe respiratory failure was defined as PaO2/FiO2 \\< 200 mmHg and was supported by positive p",
+            "endpoints": [
+              "lung injury score"
+            ],
+            "sponsor": "Kafrelsheikh University",
+            "url": "https://clinicaltrials.gov/study/NCT04353180"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04297462",
+            "title": "Efficacy of Different Regimens in Influenza Postexposure Chemoprophylaxis With Oral Neuraminidase Inhibitor in Children",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2016-11-17",
+            "completion_date": "2020-12-31",
+            "country": "Poland",
+            "enrollment": 50,
+            "brief_summary": "Although the vaccination is the preferred method of influenza prevention, there are some occasions on which a postexposure prophylaxis (PEP) is required. Two neuraminidase inhibitors (NAIs) may be used in chemoprophylaxis in children: oral oseltamivir, and inhaled zanamivir. Both, oseltamivir and zanamivir, are effective in treatment and in prophylaxis of influenza, and the efficacy is calculated to reach 70-90%. Oseltamivir is used more frequently, since zanamivir is licensed in older children ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients hospitalized at the Pediatric Ward\n* age: 0-18 years old\n* confirmed contact with a person diagnosed with influenza\n* patient's, patient's parent/tutor's informed consent\n\nExclusion Criteria:\n\n* lack of an informed consent\n* more than 48 hours after the first contact ",
+            "endpoints": [
+              "Postexposure chemoprophylaxis efficacy",
+              "Oseltamivir safety",
+              "Postexposure chemoprophylaxis costs"
+            ],
+            "sponsor": "Centre of Postgraduate Medical Education",
+            "url": "https://clinicaltrials.gov/study/NCT04297462"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04349241",
+            "title": "Efficacy and Safety of Favipiravir in Management of COVID-19",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-04-18",
+            "completion_date": "2020-06-20",
+            "country": "Egypt",
+            "enrollment": 100,
+            "brief_summary": "Randomized controlled interventional trial (Clinical Trial) phase 3 to assess the safety and efficacy of favipiravir versus the standard care therapy in the treatment of patients with COVID-19.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatients aged between 18 and 80 years.\n\nPatients with confirmed COVID-19 documented by a diagnostic laboratory test (e.g., nasopharyngeal swab) at the time of illness.\n\nAnd Have mild to moderate symptoms according to the national protocol classification of patients.\n\nExclusion C",
+            "endpoints": [
+              "Viral clearance",
+              "Clinical improvement"
+            ],
+            "sponsor": "Ain Shams University",
+            "url": "https://clinicaltrials.gov/study/NCT04349241"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01156701",
+            "title": "Prophylactic Efficacy of Relenza Against Influenza A and B",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2009-07",
+            "completion_date": "2010-05",
+            "country": "N/A",
+            "enrollment": 171705,
+            "brief_summary": "In response to the European regulatory authorities, GSK is conducting a post-marketing observational study to assess the efficacy of Relenza when used as prophylaxis against influenza.\n\nSPECIFIC AIMS\n\n1. Determine the frequency of patients who received Relenza from October 2006 through April 2009, and among them the number who have no concurrent diagnosis of influenza, i.e., those receiving Relenza for prophylaxis, and among these the number who have a family member with a medical visit for infl",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 5 years or older\n* At least 6 months of continuous follow up time\n* Received Relenza without a diagnosis of influenza\n\nExclusion Criteria:\n\n* Sex unknown\n* Year of birth is missing\n* Date of dispensing or service date preceded the year of birth\n* Age at index date is less than",
+            "endpoints": [
+              "Number of Patients With Influenza"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT01156701"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00936013",
+            "title": "Antiviral and Chinese Medicinal Herbs Treatment on Novel Influenza A (H1N1) Virus Pneumonia: Multi-centre, Prospective, Randomized Controlled Study",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2009-08",
+            "completion_date": "2011-07",
+            "country": "China",
+            "enrollment": 400,
+            "brief_summary": "The purpose of the study is to determine whether the combination treatment of Chinese medicinal herbs and oseltamivir is more effective than single oseltamivir in treating novel influenza A (H1N1) pneumonia.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed novel influenza A(H1N1) case with laboratory evidence\n* 70 ys ≥ age ≥14ys\n* Within 72hr after the onset of symptoms(body temperature≥37.5℃ with at least one respiratory symptom (cough, sore throat, or nasal symptom)\n* New lung infiltration showed by chest radiology(x",
+            "endpoints": [
+              "Efficacy rate in 5 days (defined as failure: SaO2<90% at room air or temperature elevated continuously)"
+            ],
+            "sponsor": "Capital Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT00936013"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05568654",
+            "title": "Reducing Antimicrobial Overuse Through Targeted Therapy for Patients With Community-Acquired Pneumonia",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2022-11-01",
+            "completion_date": "2026-06-30",
+            "country": "United States",
+            "enrollment": 12500,
+            "brief_summary": "The purpose of this study is to reduce the exposure of broad-spectrum antimicrobials by optimizing the rapid detection of CAP pathogens and improving rates of de-escalation following negative cultures. To accomplish this, we will perform a 3-year, pragmatic, multicenter 2 X 2 factorial cluster randomized controlled trial with four arms: a) rapid diagnostic testing b) pharmacist-led de-escalation c) rapid diagnostic testing + pharmacist-led de-escalation and d) usual care",
+            "eligibility_criteria": "Inclusion Criteria for patient's records:\n\n1. Men or women greater than or equal to 18 years of age\n2. Admitted to a participating (i.e. enrolled and randomized) hospital\n3. Admitting diagnosis of pneumonia\n\nExclusion Criteria:\n\n1. Admission to intensive care unit within 24 hours of hospital admissi",
+            "endpoints": [
+              "Number of days of broad-spectrum antibiotic therapy"
+            ],
+            "sponsor": "The Cleveland Clinic",
+            "url": "https://clinicaltrials.gov/study/NCT05568654"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03378479",
+            "title": "A Phase iv, Interventional, Non-blinded, Randomized Controlled Multicenter Study of Posaconazole Prophylaxis for the Prevention of Influenza-associated Aspergillosis (IAA) in Critically Ill Patients",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2017-12-27",
+            "completion_date": "2021-03-30",
+            "country": "Belgium, France, Netherlands",
+            "enrollment": 88,
+            "brief_summary": "The objective of this study is to deliver proof of concept that antifungal prophylaxis can reduce the incidence of Influenza Associated Aspergillosis (IAA) in ICU (intensive care unit) patients with severe influenza.\n\nThe investigators will perform an interventional non-blinded randomized controlled multicentric proof-of-concept study in patients with severe influenza admitted to the ICU. Patients will be randomized to the posaconazole prophylaxis group or to the SOC (standard of care) group. Os",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Written informed consent must be obtained from the patient or his/her legal representative prior to any study procedures\n2. Adult patient (≥ 18 years)\n3. PCR-confirmed influenza based on nasopharyngeal swab (NS), bronchial aspirate (BA) or broncho-alveolar lavage (BAL) within",
+            "endpoints": [
+              "Number of Participants With IAA-infection at ICU Discharge"
+            ],
+            "sponsor": "Universitaire Ziekenhuizen KU Leuven",
+            "url": "https://clinicaltrials.gov/study/NCT03378479"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02532283",
+            "title": "A Phase 2, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Pharmacokinetics, Safety, and Antiviral Activity of JNJ-63623872 in Combination With Oseltamivir in Adult and Elderly Hospitalized Patients With Influenza A Infection",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2015-12-11",
+            "completion_date": "2017-03-15",
+            "country": "Turkey (Türkiye), Brazil, France, Singapore, Belgium, Malaysia, Sweden, Hong Kong, Spain, New Zealand, United States, Germany, Australia, Canada, Netherlands",
+            "enrollment": 102,
+            "brief_summary": "The purpose of this study is to evaluate the Pharmacokinetic parameters of JNJ-63623872 in combination with oseltamivir in elderly participants (aged 65 to \\<= 85 years) compared to adults (aged 18 to \\<= 64 years) with influenza A infection.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Participant requires hospitalization to treat influenza infection and/or to treat complications of influenza infection\n* Participant tested positive for influenza A infection within 1 day of signing of the informed consent form (ICF)/assent form using a polymerase chain reacti",
+            "endpoints": [
+              "Maximum Observed Plasma Concentration (Cmax) of Pimodivir",
+              "Minimum Observed Plasma Concentration (Cmin) of Pimodivir",
+              "Area Under the Plasma Concentration-time Curve From Time of Administration to 12 Hours After Dosing (AUC [0-12]) of Pimodivir"
+            ],
+            "sponsor": "Janssen Research & Development, LLC",
+            "url": "https://clinicaltrials.gov/study/NCT02532283"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01804946",
+            "title": "Multicentre Open Label Comparative Parallel-group Randomized Clinical Trial of Clinical Efficiency and Safety of Ergoferon in Treatment of Influenza",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2011-02",
+            "completion_date": "2014-10",
+            "country": "Russia",
+            "enrollment": 161,
+            "brief_summary": "The purpose of this study is:\n\n* to assess clinical efficiency of Ergoferon for treatment of influenza\n* to assess safety of Ergoferon for treatment of influenza\n* to compare efficiency of Ergoferon and Tamiflu for treatment of influenza",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients of both sexes aged from 18 to 60 inclusively.\n2. Patients with body temperature \\>37,8°C at the moment of examination by the doctor; with at least one catarrh symptom (cough, rhinitis, sore throat) and one intoxication symptom (myalgia, fever/hyperhidrosis, malaise, ",
+            "endpoints": [
+              "Percentage of Patients With Normal Body Temperature"
+            ],
+            "sponsor": "Materia Medica Holding",
+            "url": "https://clinicaltrials.gov/study/NCT01804946"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02282384",
+            "title": "A Randomized Controlled Trial of Oseltamivir in Outpatients With Chronic Pulmonary Disease: a Pilot Study",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2014-10",
+            "completion_date": "2015-03",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "The proposed pilot study will provide needed data to establish the feasibility of a conducting a large randomized controlled trial as to the effectiveness of the use of oseltamivir early in the course of influenza in outpatients with chronic pulmonary disease.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinic patients with physician diagnosed chronic obstructive pulmonary disease\n* respirologist-diagnosed non-cystic fibrosis bronchiectasis and pulmonary fibrosis (based on appropriate clinical, exposure, and radiological criteria as per American Thoracic Society guidelines)\n*",
+            "endpoints": [
+              "non-elective admission to hospital"
+            ],
+            "sponsor": "McMaster University",
+            "url": "https://clinicaltrials.gov/study/NCT02282384"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06693362",
+            "title": "A Multicenter, Randomized, Double-Blind, Placebo-Controlled Clinical Study to Evaluate the Safety and Efficacy of Uterine Blood Mesenchymal Stem Cells (SC01009) Injection for the Treatment of Severe Pneumonia Caused by Viruses",
+            "phase": "PHASE1",
+            "status": "RECRUITING",
+            "start_date": "2025-01-20",
+            "completion_date": "2028-06-30",
+            "country": "China",
+            "enrollment": 60,
+            "brief_summary": "This study is a multicenter, randomized, double-blind, placebo-controlled clinical trial to evaluate the safety and efficacy of Menstrual blood-derived Mesenchymal Stem Cells (SC01009) injection for the treatment of severe pneumonia caused by viruses. The purpose of the study is to assess the safety and efficacy of SC01009 injection in combination with standard treatment in patients with severe pneumonia caused by viruses. Viral pneumonia refers to acute inflammation of the lung parenchyma and/o",
+            "eligibility_criteria": "Inclusion Criteria: Patients must meet all of the following criteria to be eligible for this trial:\n\n1. Aged between 18 and 85 years, regardless of gender;\n2. Meet the 2018 primary care diagnostic criteria for severe community-acquired pneumonia (CAP) in adults in China; (Diagnosed according to the ",
+            "endpoints": [
+              "Incidence of AE/SAE",
+              "Infusion reactions",
+              "Inflammatory markers"
+            ],
+            "sponsor": "Ruijin Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06693362"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04516915",
+            "title": "Prospective, Randomized, Parallel-Group, Open-Label Study to Evaluate the Efficacy and Safety of IMU-838, in Combination With Oseltamivir, in Adults With COVID-19",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2020-06-15",
+            "completion_date": "2022-09-21",
+            "country": "United Kingdom",
+            "enrollment": 38,
+            "brief_summary": "To evaluate whether time-to-improvement is significantly better in IMU-838 plus Oseltamivir (IONIC Intervention) and standard care vs. Oseltamivir and standard care in adult subjects with coronavirus disease (COVID-19)",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Male or non-pregnant female patients at least 18 years old 2. Severe Acute Respiratory Syndrome Coronavirus (SARS-CoV)-2 infection, either:\n\n  * Confirmed cases: prospective participants who test positive to a validated specific SARS-CoV-2 nucleic acid test or has the viru",
+            "endpoints": [
+              "To evaluate whether time-to-improvement is significantly better in IMU-838 plus Oseltamivir (IONIC Intervention) vs. Oseltamivir alone in adult subjects with COVID-19"
+            ],
+            "sponsor": "University Hospitals Coventry and Warwickshire NHS Trust",
+            "url": "https://clinicaltrials.gov/study/NCT04516915"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01248715",
+            "title": "Title: Effectiveness of Empiric Antiviral Treatment for Hospitalized Community Acquired Pneumonia During the Influenza Season (U18)",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2010-11",
+            "completion_date": "2016-05",
+            "country": "United States",
+            "enrollment": 1107,
+            "brief_summary": "Current guidelines recommend early initiation of empiric antibiotic therapy to cover typical and atypical bacteria that may cause community-acquired pneumonia (CAP). Influenza antiviral therapy in patients with suspected or confirmed influenza. However, many clinicians do not suspect influenza among patients with CAP or other acute lower respiratory tract illness (LRTI) and often do not test for influenza. Additionally, results from currently available diagnostic tests for influenza may be delay",
+            "eligibility_criteria": "Inclusion Criteria:\n\nFor oseltamivir and standard of care groups:\n\n* 18 years of age or older\n* No oseltamivir or zanamivir ordered in hospital admission orders\n* Meets criteria for acute LRTI\n* Signed informed consent.\n\nExclusion Criteria:\n\nFor oseltamivir and standard of care groups:\n\n* Oseltamivi",
+            "endpoints": [
+              "Number of Participants With Clinical Failure (Failure to Reach Clinical Stability)",
+              "Number of Participants to Transfer to ICU After 24 h",
+              "Number of Participants That Required Re-hospitalization"
+            ],
+            "sponsor": "University of Louisville",
+            "url": "https://clinicaltrials.gov/study/NCT01248715"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02561169",
+            "title": "A Randomized Controlled Trial of Oseltamivir in High-Risk Patients Presenting to the Emergency Department With Influenza",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2015-12",
+            "completion_date": "2016-03",
+            "country": "Canada",
+            "enrollment": 1,
+            "brief_summary": "A multi-centre, randomized, placebo controlled, trial. Participants will be patients either ≥65 years or with one or more high risk conditions presenting to one of four academic emergency departments in Edmonton or Calgary with influenza-like illness. The investigators will test for influenza using a point-of-care rapid test and if positive for influenza participants will be randomized to oseltamivir or placebo and followed prospectively. The primary outcome will be hospitalization.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Outpatient at the University of Alberta Hospital, the Northeast Community Centre, Foothills Medical Centre, Rockyview General Hospital emergency departments\n* ≥ 18 years of age\n* ≥ 65 years of age OR chronic cardiac or pulmonary disorders (including bronchopulmonary dysplasia,",
+            "endpoints": [
+              "Non-elective Hospitalizations (number of hospitalizations)",
+              "Length of non-elective hospitalization (days)"
+            ],
+            "sponsor": "McMaster University",
+            "url": "https://clinicaltrials.gov/study/NCT02561169"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03900988",
+            "title": "A Randomized, Double Blind, Placebo Controlled Trial of Intravenous N-acetylcysteine and Oseltamivir Versus Intravenous 5% Dextrose and Oseltamivir in Adults Hospitalized With Influenza Complicated by Lower Respiratory Tract Infection.",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2023-05-08",
+            "completion_date": "2025-12-31",
+            "country": "Hong Kong",
+            "enrollment": 160,
+            "brief_summary": "Seasonal influenza epidemics are important causes of morbidity and mortality. Cytokine dysregulation, with high levels of pro-inflammatory cytokines, occurs in patients with severe influenza. Early therapy with a neuraminidase inhibitor (NAI) is associated with better outcome in patients hospitalized with influenza, but significant mortality occurs despite use of antivirals. N-acetylcysteine (NAC) is a modified form of the amino acid cysteine, with anti-oxidant properties. NAC was shown to inhib",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* influenza A and B virus infections confirmed by polymerase chain reaction (PCR) and/or immunofluorescence assays,\n* hospitalized for the management of severe manifestations of influenza,\n* initiation of oseltamivir,\n* clinical evidence of lower respiratory tract infection (e.g",
+            "endpoints": [
+              "Normalization of respiratory status in day"
+            ],
+            "sponsor": "Chinese University of Hong Kong",
+            "url": "https://clinicaltrials.gov/study/NCT03900988"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05648448",
+            "title": "ADaptive ASsessment of TReatments for influenzA: A Phase 2 Multi-centre Adaptive Randomised Platform Trial to Assess Antiviral Pharmacodynamics in Early Symptomatic Influenza Infection (AD ASTRA)",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2023-02-22",
+            "completion_date": "2027-01-01",
+            "country": "Laos, Nepal, Brazil, Thailand",
+            "enrollment": 3000,
+            "brief_summary": "This trial will use a previously validated platform, to quantitatively assess antiviral effects in low-risk patients with high viral burdens and uncomplicated influenza, to determine in-vivo antiviral activity. In this randomised, open-label, controlled, group sequential, adaptive, platform trial, we will compare the performance of available influenza antivirals, and those with potential activity, relative to the control (no treatment) and each other.\n\nAD ASTRA study is supported by the Wellcome",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient understands the procedures and requirements and is willing and able to give informed consent for full participation in the study\n* Adults, male or female, aged 18 to 60 years at time of consent.\n* Early symptomatic Influenza (A or B); at least one reported symptom of i",
+            "endpoints": [
+              "Rate of viral clearance for currently available drugs and those with potential activity"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT05648448"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06774859",
+            "title": "A Phase III, Randomized, Open-Label, Active-Controlled Study to Assess the Safety, Pharmacokinetics, and Efficacy of Baloxavir Marboxil in Chinese Pediatric Patients 1 to <12 Years of Age With Influenza Symptoms",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2024-10-27",
+            "completion_date": "2025-05-08",
+            "country": "China",
+            "enrollment": 100,
+            "brief_summary": "The purpose of this study is to evaluate the safety of a single dose baloxavir marboxil compared with 5 days of oseltamivir administered twice a day (BID) in Chinese pediatric participants aged 1 to \\< 12 years with influenza symptoms.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A participant who has a diagnosis of influenza virus infection and meets all the following conditions:\n\n  * Fever ≥ 38°C (tympanic temperature) at screening\n  * At least one of the respiratory symptoms of influenza virus infection\n* A rapid influenza diagnostic test (RIDT) or ",
+            "endpoints": [
+              "Number of Adverse Events (AEs) and Serious Adverse Events (SAEs)"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT06774859"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04523090",
+            "title": "The C3 Nitazoxanide for Mild to Moderate COVID-19 in HIV-infected and HIV-uninfected Adults With Enhanced Risk: a Double-blind, Randomised, Placebo-controlled Trial in a Resource-poor Setting",
+            "phase": "PHASE2, PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2020-08-27",
+            "completion_date": "2022-08-12",
+            "country": "South Africa",
+            "enrollment": 322,
+            "brief_summary": "COVID-19 due to SARS-CoV-2 infection is a rapidly escalating global pandemic for which there is no proven effective treatment. COVID-19 is multi-dimensional disease caused by viral cytopathic effects and host-mediated immunopathology. Therapeutic approaches should logically be based on interventions that have direct anti-viral effects and favourably modulate the host immune response. Thus, an optimal drug regimen in ambulatory patients should collectively (i) target and reduce viral replication,",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults \\>18 years of age.\n2. Confirmed COVID-19 on antigen testing\\* and/or RT-PCR using NP or OP swabs (or sputum or another sample e.g. stool).\n\n   * Only SAHPRA approved antigen tests will be used to identify COVID-19. A positive antigen detection test will be valid provid",
+            "endpoints": [
+              "Time specific disease severity"
+            ],
+            "sponsor": "University of Cape Town",
+            "url": "https://clinicaltrials.gov/study/NCT04523090"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02469298",
+            "title": "A Randomized, Double-blind, Placebo Controlled Study to Evaluate the Safety, Tolerability and Clinical Effect of Oral Danirixin (GSK1325756) in the Treatment of Healthy Adults With Acute, Uncomplicated Influenza (201682)",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2015-06-01",
+            "completion_date": "2016-04-25",
+            "country": "South Africa, United States, Australia",
+            "enrollment": 45,
+            "brief_summary": "Study 201682 is a Phase IIa, randomized, double blind, placebo-controlled four arm outpatient study evaluating the safety, tolerability and clinical effect of danirixin or danirixin + oseltamivir combination in comparison to placebo or oseltamivir twice daily for 5 days in otherwise healthy adults with laboratory confirmed influenza infection. Danirixin is a selective and reversible C-X-C Chemokine Receptor 2 (CXCR2) antagonist that inhibits neutrophil transmigration and activation to areas of i",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Between 18 and 64 years of age inclusive, at the time of signing the informed consent;\n* Onset of influenza-like illness symptoms within 48 hours prior to study enrollment. Onset of symptoms is defined as the time when the subject's temperature was measured as elevated (\\>=38.",
+            "endpoints": [
+              "Number of Participants With Adverse Events (AE) and Serious Adverse Events (SAE)",
+              "Change From Baseline in Hematology Parameters-Basophils, Eosinophils, Lymphocytes, Monocytes, Total Neutrophils (Total Absolute Neutrophil Count [Total ANC]), Platelet Count and White Blood Cell (WBC) Count",
+              "Change From Baseline in Hematology Parameters- Hemoglobin"
+            ],
+            "sponsor": "GlaxoSmithKline",
+            "url": "https://clinicaltrials.gov/study/NCT02469298"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02949011",
+            "title": "A Phase 3, Multicenter, Randomized, Double-blind Study of a Single Dose of S-033188 Compared With Placebo or Oseltamivir 75 mg Twice Daily for 5 Days in Patients With Influenza at High Risk of Influenza Complications",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2017-01-11",
+            "completion_date": "2018-04-20",
+            "country": "N/A",
+            "enrollment": 2184,
+            "brief_summary": "The primary objective of this study is to evaluate the efficacy of a single, oral dose of baloxavir marboxil compared with placebo by measuring the time to improvement of influenza symptoms in patients with influenza presenting within 48 hours of symptom onset.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients or their legal guardians who provide written informed consent to participate in the study on a voluntary basis. For adolescent patients, informed consent/assent of voluntary participation should be obtained in accordance with local requirements.\n2. Male or female pat",
+            "endpoints": [
+              "Time to Improvement of Influenza Symptoms"
+            ],
+            "sponsor": "Shionogi Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT02949011"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04338698",
+            "title": "Pakistan Randomized and Observational Trial to Evaluate Coronavirus Treatment",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-04-22",
+            "completion_date": "2020-11-22",
+            "country": "Pakistan",
+            "enrollment": 550,
+            "brief_summary": "To evaluate the effectiveness of Hydroxychloroquine Sulfate (200 mg orally 8hr thrice a day for 5 days) vs oseltamivir (75 mg orally twice a day for 5 days) vs Azithromycin (500 mg orally daily on day 1, followed by 250 mg orally twice a day on days 2-5) alone and in combination (in all seven groups), in clearing the coronavirus nucleic acid from throat and nasal swab and in bringing about clinical improvement on day 7 of follow-up (primary outcomes).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Confirmed SARS-CoV-2 (COVID-19) infection by a positive test result\n2. Either gender\n3. Symptomatic for example fever, dry Cough, difficulty to breathe\n\nExclusion Criteria:\n\n1. Confirmed absence of SARS-CoV-2 (COVID-19) infection by a negative test result\n2. Have chronic cond",
+            "endpoints": [
+              "Laboratory Result",
+              "Clinical Outcome"
+            ],
+            "sponsor": "University of Health Sciences Lahore",
+            "url": "https://clinicaltrials.gov/study/NCT04338698"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04558463",
+            "title": "The Effectivity and Safety of Favipiravir Compared to Oseltamivir as Adjuvant Therapy for COVID-19: An Open Label Trial",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2020-04-16",
+            "completion_date": "2020-10-30",
+            "country": "Indonesia",
+            "enrollment": 100,
+            "brief_summary": "This study aims to analyze the effectiveness and safety of Avigan® (favipiravir) compared to Oseltamivir as an adjuvant therapy among adult COVID-19 patients. This study will be conducted in a hospital setting, recruiting adult COVID-19 patients with mild, moderate, and severe symptoms. Subjects will be randomly given Favipiravir or Oseltamivir as an adjuvant therapy to standard COVID-19 treatment. Patients will be followed up for 21 days after the first dose of intervention given. The primary o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. adult patients aged 18-75 years old\n2. Patients with COVID-19 showing symptoms and confirmed with positive RT PCR test AND OR COVID-19 IgM/IgG rapid test\n3. No history of favipiravir or oseltamivir allergy\n4. Consented to participate in the trial.\n\nExclusion Criteria:\n\n1. Pre",
+            "endpoints": [
+              "Clinical radiologic changes",
+              "Percentage of RT-PCR test convertion"
+            ],
+            "sponsor": "Indonesia University",
+            "url": "https://clinicaltrials.gov/study/NCT04558463"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01314911",
+            "title": "A Randomized Double-Blind Study Comparing Oseltamivir Versus Placebo for the Treatment of Influenza in Low Risk Adults",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2011-04",
+            "completion_date": "2017-11-18",
+            "country": "Argentina, United States, Thailand",
+            "enrollment": 716,
+            "brief_summary": "People who are infected with the influenza virus may develop respiratory illnesses, such as pneumonia, or other life-threatening complications. Currently, there are four antiviral medications that are used to treat influenza. This study will examine one of these medications, oseltamivir, to examine how it affects the shedding of influenza virus in infected people.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent prior to initiation of any study procedures\n* History of an influenza-like illness defined as:\n\n  1\\) One or more respiratory symptom (cough, sore throat, or nasal symptoms)\n* Onset of illness no more than 48 hours before screening, defined as when the",
+            "endpoints": [
+              "Percentage of Participants With Virus Detectable by Quantitative PCR (qPCR) in Nasopharyngeal (NP) Swabs at Day 3 -- Team Collected Samples"
+            ],
+            "sponsor": "National Institute of Allergy and Infectious Diseases (NIAID)",
+            "url": "https://clinicaltrials.gov/study/NCT01314911"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04374903",
+            "title": "Hydroxychloroquine in Combination With Sirolimus and Dexamethasone for Treating COVID-19 PatiEnts: A Pilot, Multicenter Randomized Open-Label Trial",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2022-04-01",
+            "completion_date": "2022-04-01",
+            "country": "Jordan",
+            "enrollment": 0,
+            "brief_summary": "COVID-19 caused an unprecedented international crisis. There is an urgent need for an effective regimen to cure this illness. Anecdotal data and some prospective results suggested a role of antimalarial drugs (chloroquine and hydroxychloroquine) in the treatment of this disease with best available data showing value of adding azithromycin. Based on drug repurposing studies done by our team and others, we identified the autophagy/apoptosis pathway as a major target for intervention. Based on in-s",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and non-pregnant female patients 18 years of age or older\n* Positive RT-PCR for SARS-CoV-2.\n* Fever (oral T≥39 C within 24 hours of enrollment), Tachypnea (resting respiratory rate ≥ 28/min) and/or Oxygen saturation (Sao2) ≤ 93% on room air.\n* Ability to read, understand ",
+            "endpoints": [
+              "Time to Clinical improvement (TTCI)"
+            ],
+            "sponsor": "King Hussein Cancer Center",
+            "url": "https://clinicaltrials.gov/study/NCT04374903"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01306773",
+            "title": "Convalescent Plasma Treatment in Patients With Severe 2009 H1N1 Infection: a Prospective Cohort Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-12",
+            "completion_date": "2010-12",
+            "country": "China",
+            "enrollment": 80,
+            "brief_summary": "Treatment of severe 2009 H1N1 infection with convalescent plasma will reduce mortality.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* adult patients ≥ 18 years old with written informed consent given by patient or next-of-kin\n* laboratory confirmatory diagnosis of 2009 H1N1 infection by positive RT-PCR from respiratory specimens\n* required intensive care within 7 days of onset of symptoms\n\nExclusion Criteria",
+            "endpoints": [
+              "Death"
+            ],
+            "sponsor": "The University of Hong Kong",
+            "url": "https://clinicaltrials.gov/study/NCT01306773"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00958776",
+            "title": "A Phase 3, Multicenter, Randomized, Double-blind, Controlled Study to Evaluate the Efficacy and Safety of Peramivir Administered Intravenously in Addition to Standard of Care Compared to Standard of Care Alone in Adults and Adolescents Who Are Hospitalized Due to Serious Influenza",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2009-11",
+            "completion_date": "2013-10",
+            "country": "Hungary, South Africa, Ukraine, United States, Brazil, Argentina, India, Poland, Latvia, Czechia, Lebanon, Russia, Germany, Slovakia, Bulgaria, Chile, Peru, Bosnia and Herzegovina, Serbia, Israel, Belgium, United Kingdom, Canada",
+            "enrollment": 405,
+            "brief_summary": "A Phase 3, multicenter, randomized, double-blind, controlled study to evaluate the efficacy and safety of peramivir administered intravenously in addition to standard of care compared to standard of care alone in adults and adolescents who are hospitalized due to serious influenza.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥12 years of age, male or female.\n* Able to provide informed consent, or for whom consent may be provided by guardian, unless informed consent provided by a guardian or a legally authorized representative is not consistent with applicable local or ethical concerns, procedu",
+            "endpoints": [
+              "Time to Clinical Resolution (Kaplan-Meier Estimate)"
+            ],
+            "sponsor": "BioCryst Pharmaceuticals",
+            "url": "https://clinicaltrials.gov/study/NCT00958776"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00705406",
+            "title": "A Phase II, Multicenter, Randomized, Placebo -Controlled, Study To Evaluate The Efficacy and Safety Of Intramuscular Peramivir 600 mg In Subjects With Uncomplicated Acute Influenza",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2008-07",
+            "completion_date": "2009-10",
+            "country": "New Zealand, South Africa, United States, Australia",
+            "enrollment": 405,
+            "brief_summary": "The purpose of this study is to determine whether peramivir is safe and effective in the treatment of uncomplicated seasonal influenza.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and non-pregnant female subjects age ≥18 years.\n* A positive Influenza A or B Rapid Antigen Test (RAT) performed with a commercially available test kit on an adequate anterior nasal specimen, in accordance with the manufacturer's instructions. A negative initial RAT shoul",
+            "endpoints": [
+              "Time to Alleviation of Symptoms (Kaplan-Meier Estimate)"
+            ],
+            "sponsor": "BioCryst Pharmaceuticals",
+            "url": "https://clinicaltrials.gov/study/NCT00705406"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04371601",
+            "title": "Safety and Effectiveness of Mesenchymal Stem Cells in the Treatment of Pneumonia of Coronavirus Disease 2019",
+            "phase": "EARLY_PHASE1",
+            "status": "UNKNOWN",
+            "start_date": "2020-03-01",
+            "completion_date": "2022-12-31",
+            "country": "China",
+            "enrollment": 60,
+            "brief_summary": "The outbreak of coronavirus disease 2019 (COVID-19) at the end of 2019 has seen numerous patients experiencing severe acute lung injury (ALI), which developed into severe respiratory distress syndrome (ARDS). The mortality was as high as 20% -40%. Due to the lack of effective antiviral treatments, supporting treatment is the predominant therapy for COVID-19 pneumonia. Its cure is essentially dependent on the patient's immunity. While the immune system eliminates the virus, numerous inflammatory ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients with severe COVID-19 pneumonia\n* willing to give informed consent\n\nExclusion Criteria:\n\n* patients with mild COVID-19 pneumonia\n* liver dysfunction\n* concomitant with other active infection\n* renal dysfunction\n* Heart failure \\>grade 2\n* pregnant\n* history of COPD",
+            "endpoints": [
+              "Changes of oxygenation index (PaO2/FiO2) ,blood gas test"
+            ],
+            "sponsor": "Fuzhou General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04371601"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04303299",
+            "title": "A 6 Week Prospective, Open Label, Randomized, in Multicenter Study of, Oseltamivir Plus Hydroxychloroquine Versus Lopipinavir/ Ritonavir Plus Oseltamivir Versus Darunavir/ Ritonavir Plus Oseltamivir Plus Hydroxychloroquine in Mild COVID-19 AND Lopipinavir/ Ritonavir Plus Oseltamivir Versus Favipiravir Plus Lopipinavir / Ritonavir Versus Darunavir/ Ritonavir Plus Oseltamivir Plus Hydroxychloroquine Versus Favipiravir Plus Darunavir and Ritonavir Plus Hydroxychloroquine in Moderate to Critically Ill COVID-19",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-08-19",
+            "completion_date": "2021-08-28",
+            "country": "Thailand",
+            "enrollment": 320,
+            "brief_summary": "A 6-Week Prospective, Open label, Randomized, in Multicenter Study of, Oseltamivir 300mg per day plus Hydroxychloroquine 800 mg per day versus Combination of Lopipinavir 800mg (or 10 mg/kg ) per day and Ritonavir 200 mg ( or 2.5 mg/kg ) per day plus Oseltamivir 300 mg ( or 4-6 mg /kg ) per day versus Combination of Darunavir 400 mg every 8 hours plus ritonavir 200 mg (or 2.5 mg/kg ) per day plus Oseltamivir 300mg ( or 4-6 mg /kg ) per day plus Hydroxychloroquine 400 mg per day in mild COVID-19 a",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The subject has to grant permission to enter into the study by signing and dating the informed consent form before completing any study-related procedure such as any assessment or evaluation not related to the normal medical care of the subject.\n* Able to give written inform c",
+            "endpoints": [
+              "SARS-CoV-2 eradication time"
+            ],
+            "sponsor": "Department of Medical Services Ministry of Public Health of Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT04303299"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04348877",
+            "title": "Plasma Rich Antibodies From Recovered Patients From COVID19",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2020-04-20",
+            "completion_date": "2020-12",
+            "country": "Egypt",
+            "enrollment": 20,
+            "brief_summary": "Prospective interventional study, single arm of purified convalescent plasma transfusion as an add on therapy for the standard of care treatment (national guideline) (Oseltamivir (75mg/12 hours for 5-10 days) and hydroxychroquine (400mg twice in first day, 200 twice for 4-9 days) ± Azithromycin 500mg daily for 5 days",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Adult 18 -80 years old\n2. Must have laboratory confirmed COVID-19\n3. Must have severe or immediately life-threatening COVID-19, Severe disease is defined as: Dyspnea,Respiratory frequency ≥ 30/min,Blood oxygen saturation ≤ 93%,Partial pressure of arterial oxygen to fraction o",
+            "endpoints": [
+              "viral COVID-19 clearance"
+            ],
+            "sponsor": "Ain Shams University",
+            "url": "https://clinicaltrials.gov/study/NCT04348877"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "40050867",
+            "title": "Antiviral treatment for viral pneumonia: current drugs and natural compounds.",
+            "abstract": "In recent years, viral pneumonia has become a significant challenge to global public health, particularly during the COVID-19 pandemic. Viral pneumonia can be caused by various viruses, including influenza virus, RSV, and adenovirus. These viruses trigger inflammatory responses by invading the respiratory epithelial cells, leading to lung damage. Existing antiviral drugs such as ribavirin, adobiravir, and oseltamivir exert their therapeutic effects by inhibiting different stages of the viral life cycle but face issues such as increasing drug resistance. Natural components like astragalus saponins, Houttuynia cordata flavonoids, and tea theaflavin-gallates have demonstrated supportive roles in antiviral treatments, capable of not only enhancing immune responses but also potentially inhibiting viral replication through multiple pathways, thereby alleviating lung damage. Although natural components cannot entirely replace traditional antiviral drugs, their role in comprehensive treatment ",
+            "journal": "Virology journal",
+            "year": "2025",
+            "authors": [
+              "Zhang Hao",
+              "Ge Chunxia",
+              "Fisher David",
+              "Hien Nguyen Thi Thu",
+              "Musabaev Erkin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antiviral Agents",
+              "Humans",
+              "COVID-19 Drug Treatment",
+              "Pneumonia, Viral",
+              "Biological Products",
+              "SARS-CoV-2",
+              "Virus Replication",
+              "COVID-19"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40050867/"
+          },
+          {
+            "pmid": "35993199",
+            "title": "Review of the role of additional treatments including oseltamivir, oral steroids, macrolides, and vitamin supplementation for children with severe pneumonia in low- and middle-income countries.",
+            "abstract": "Pneumonia is a major cause of death in children aged under five years. As children with severe pneumonia have the highest risk of morbidity and mortality, previous studies have evaluated the additional benefit of adjunctive treatments such as oseltamivir, oral steroids, macrolides, and vitamin supplementation that can be added to standard antibiotic management to improve clinical outcomes. The study reviewed the evidence for the role of these additional treatments for children with severe pneumonia in low- and middle-income countries (LMICs).",
+            "journal": "Journal of global health",
+            "year": "2022",
+            "authors": [
+              "Hume-Nixon Maeve",
+              "Graham Hamish",
+              "Russell Fiona",
+              "Mulholland Kim",
+              "Gwee Amanda"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Bacterial Agents",
+              "Ascorbic Acid",
+              "Child",
+              "Developing Countries",
+              "Dietary Supplements",
+              "Humans",
+              "Infant",
+              "Macrolides",
+              "Micronutrients",
+              "Oseltamivir"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35993199/"
+          },
+          {
+            "pmid": "31189475",
+            "title": "Influenza virus-related critical illness: prevention, diagnosis, treatment.",
+            "abstract": "Annual seasonal influenza epidemics of variable severity result in significant morbidity and mortality in the United States (U.S.) and worldwide. In temperate climate countries, including the U.S., influenza activity peaks during the winter months. Annual influenza vaccination is recommended for all persons in the U.S. aged 6 months and older, and among those at increased risk for influenza-related complications in other parts of the world (e.g. young children, elderly). Observational studies have reported effectiveness of influenza vaccination to reduce the risks of severe disease requiring hospitalization, intensive care unit admission, and death. A diagnosis of influenza should be considered in critically ill patients admitted with complications such as exacerbation of underlying chronic comorbidities, community-acquired pneumonia, and respiratory failure during influenza season. Molecular tests are recommended for influenza testing of respiratory specimens in hospitalized patients.",
+            "journal": "Critical care (London, England)",
+            "year": "2019",
+            "authors": [
+              "Chow Eric J",
+              "Doyle Joshua D",
+              "Uyeki Timothy M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Critical Illness",
+              "Hospitalization",
+              "Humans",
+              "Influenza, Human",
+              "Pneumonia",
+              "Respiratory Distress Syndrome",
+              "Sepsis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31189475/"
+          },
+          {
+            "pmid": "32031570",
+            "title": "Clinical Characteristics of 138 Hospitalized Patients With 2019 Novel Coronavirus-Infected Pneumonia in Wuhan, China.",
+            "abstract": "In December 2019, novel coronavirus (2019-nCoV)-infected pneumonia (NCIP) occurred in Wuhan, China. The number of cases has increased rapidly but information on the clinical characteristics of affected patients is limited.",
+            "journal": "JAMA",
+            "year": "2020",
+            "authors": [
+              "Wang Dawei",
+              "Hu Bo",
+              "Hu Chang",
+              "Zhu Fangfang",
+              "Liu Xing"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Betacoronavirus",
+              "COVID-19",
+              "China",
+              "Coronavirus Infections",
+              "Critical Illness",
+              "Disease Transmission, Infectious",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32031570/"
+          },
+          {
+            "pmid": "39189087",
+            "title": "Comparison of the Effectiveness of Baloxavir and Oseltamivir in Outpatients With Influenza B.",
+            "abstract": "This retrospective cohort study analyzed data from a Japanese health insurance database to assess the effectiveness of baloxavir (n = 4822) for preventing severe events compared with oseltamivir (n = 10,523) in patients with influenza B. The primary endpoint was hospitalization incidence (Days 2-14). The secondary endpoints included intravenous antibacterial drug use, pneumonia hospitalization, heart failure hospitalization, inhalational oxygen requirement, and use of other anti-influenza drugs. The hospitalization incidence was significantly lower with baloxavir (0.15% vs. 0.37%; risk ratio: 2.48, 95% confidence interval: 1.13-5.43). Pneumonia and additional anti-influenza therapy were also less frequent with baloxavir, thus supporting its use. Trial Registration: UMIN Clinical Trials Registry Study ID: UMIN000051382.",
+            "journal": "Influenza and other respiratory viruses",
+            "year": "2024",
+            "authors": [
+              "Takazono Takahiro",
+              "Ito Genta",
+              "Hosogaya Naoki",
+              "Iwanaga Naoki",
+              "Komeda Takuji"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Comparative Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Influenza, Human",
+              "Dibenzothiepins",
+              "Oseltamivir",
+              "Antiviral Agents",
+              "Male",
+              "Retrospective Studies",
+              "Female",
+              "Middle Aged",
+              "Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39189087/"
+          },
+          {
+            "pmid": "39172994",
+            "title": "Timing of Influenza Antiviral Therapy and Risk of Death in Adults Hospitalized With Influenza-Associated Pneumonia, Influenza Hospitalization Surveillance Network (FluSurv-NET), 2012-2019.",
+            "abstract": "Pneumonia is common in adults hospitalized with laboratory-confirmed influenza, but the association between timeliness of influenza antiviral treatment and severe clinical outcomes in patients with influenza-associated pneumonia is not well characterized.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2025",
+            "authors": [
+              "Tenforde Mark W",
+              "Noah Kameela P",
+              "O'Halloran Alissa C",
+              "Kirley Pam Daily",
+              "Hoover Cora"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Influenza, Human",
+              "Antiviral Agents",
+              "Male",
+              "Female",
+              "Aged",
+              "Middle Aged",
+              "Hospitalization",
+              "Adult",
+              "Aged, 80 and over"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39172994/"
+          },
+          {
+            "pmid": "39459910",
+            "title": "The Clinical Effectiveness and Tolerability of Oseltamivir in Unvaccinated Pediatric Influenza Patients during Two Influenza Seasons after the COVID-19 Pandemic: The Impact of Comorbidities on Hospitalization for Influenza in Children.",
+            "abstract": "Antiviral therapy such as oseltamivir has been recommended for hospitalized children with suspected and confirmed influenza for almost 20 years. The therapy is officially authorized for newborns two weeks of age or older, however, questions about its safety and effectiveness still surround it. Our goals were to assess the epidemiological features of two consecutive seasonal influenza cases in children following the COVID-19 pandemic; to observe the clinical effectiveness and tolerability of oseltamivir in hospitalized children who were not vaccinated against influenza and had different influenza subtypes, including A(H1N1), A(H3N2), and B; and to identify specific comorbidities associated with influenza in children. We performed an observational study on 1300 children, enrolled between 1 October 2022 and 30 May 2023 and between 1 October 2023 and 4 May 2024, to the IX Pediatric Infectious Diseases Clinical Section of the National Institute of Infectious Diseases \"Prof. Dr. Matei Balș\".",
+            "journal": "Viruses",
+            "year": "2024",
+            "authors": [
+              "Jugulete Gheorghiță",
+              "Olariu Mihaela Cristina",
+              "Stanescu Raluca",
+              "Luminos Monica Luminita",
+              "Pacurar Daniela"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Oseltamivir",
+              "Influenza, Human",
+              "Antiviral Agents",
+              "Male",
+              "Child",
+              "Hospitalization",
+              "Female",
+              "Child, Preschool",
+              "Comorbidity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39459910/"
+          },
+          {
+            "pmid": "24718923",
+            "title": "Neuraminidase inhibitors for preventing and treating influenza in adults and children.",
+            "abstract": "Neuraminidase inhibitors (NIs) are stockpiled and recommended by public health agencies for treating and preventing seasonal and pandemic influenza. They are used clinically worldwide.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2014",
+            "authors": [
+              "Jefferson Tom",
+              "Jones Mark A",
+              "Doshi Peter",
+              "Del Mar Chris B",
+              "Hama Rokuro"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antiviral Agents",
+              "Child",
+              "Drug Evaluation",
+              "Enzyme Inhibitors",
+              "Europe",
+              "Health Status",
+              "Humans",
+              "Influenza, Human",
+              "Japan"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24718923/"
+          },
+          {
+            "pmid": "15969875",
+            "title": "Risk of pneumonia and other complications of influenza-like illness in patients treated with oseltamivir.",
+            "abstract": "Clinical trials suggest that the risk of pneumonia and other sequelae of influenza may be reduced in patients using oseltamivir.",
+            "journal": "Current medical research and opinion",
+            "year": "2005",
+            "authors": [
+              "Nordstrom Beth L",
+              "Sung Iyue",
+              "Suter Pia",
+              "Szneke Priscilla"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acetamides",
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Antiviral Agents",
+              "Female",
+              "Hospitalization",
+              "Humans",
+              "Influenza, Human",
+              "Insurance Claim Review",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15969875/"
+          },
+          {
+            "pmid": "30797703",
+            "title": "[Oseltamivir for the treatment of influenza in children and adolescents].",
+            "abstract": "Influenza is a generally a benign disease, but occasionally it can cause serious complications. There is controversy about the benefits of antiviral treatment.",
+            "journal": "Anales de pediatria",
+            "year": "2019",
+            "authors": [
+              "Tagarro Alfredo",
+              "Cruz-Cañete Marta",
+              "Otheo Enrique",
+              "Launes Cristian",
+              "Couceiro José Antonio"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Age Factors",
+              "Antiviral Agents",
+              "Child",
+              "Critical Illness",
+              "Humans",
+              "Influenza, Human",
+              "Oseltamivir",
+              "Risk Factors",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30797703/"
+          },
+          {
+            "pmid": "37703956",
+            "title": "Polydopamine-coated mesoporous silica nanoparticles co-loaded with Ziyuglycoside I and Oseltamivir for synergistic treatment of viral pneumonia.",
+            "abstract": "Viral pneumonia (VP) is a serious health risk to humans, however, there is still a lack of specific treatments for VP. The spread of the virus in the body induces an excessive inflammatory response that can cause chronic or irreversible damage to lungs. Hence, VP treatment requires rapid clearance of the virus and sustained inflammation control. In this study, an innovative mesoporous silica medication delivery system co-loaded with Ziyuglycoside I(ZgI) and Oseltamivirv(OST) in fast and slow monomeric forms ZgI@MSNs-OST@ Polydopamine (PDA) was prepared for targeted treatment of VP. The prepared ZgI@MSNs-OST@PDA nanoparticles had a homogeneous and membrane-encapsulated spherical structure, with an average particle size of approximately 760 nm. in vitro release and in vivo pharmacokinetic studies demonstrated that ZgI@MSNs-OST@PDA achieved immediate release of OST and sustained release of ZgI, which was readily taken up by the cells. In vitro anti-H1N1 virus experiments showed that nanop",
+            "journal": "International journal of pharmaceutics",
+            "year": "2023",
+            "authors": [
+              "Wang Hong",
+              "Chen Lei",
+              "Li Ruidong",
+              "Lv Chunmei",
+              "Xu Yingshu"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Indoles",
+              "Polymers",
+              "Silicon Dioxide",
+              "Nanoparticles",
+              "Influenza A Virus, H1N1 Subtype",
+              "Antiviral Agents",
+              "Oseltamivir",
+              "Mice",
+              "Pneumonia, Viral"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37703956/"
+          },
+          {
+            "pmid": "41264690",
+            "title": "Rebalancing viral and immune damage versus repair prevents death from lethal influenza infection.",
+            "abstract": "Maintaining tissue function while eliminating infected cells is fundamental, and inflammatory damage plays a major contribution to lethality after lung infection. We tested 50 immunomodulatory regimes to determine their ability to protect mice from lethal infection. Only neutrophil depletion soon after infection prevented death from influenza. This result suggests that the infected host passed an early tipping point after which limiting innate damage alone could not rescue lung function. We investigated treatments that could have efficacy when administered later in infection. We found that partial limitation of viral spread together with enhancement of epithelial repair, by interferon blockade or limiting CD8+ T cell-mediated killing of epithelial cells, reduced lethality. This finding highlights the importance of rebalancing repair and damage processes in the survival of pulmonary infections.",
+            "journal": "Science (New York, N.Y.)",
+            "year": "2025",
+            "authors": [
+              "Ichise Hiroshi",
+              "Speranza Emily",
+              "La Russa Federica",
+              "Veres Tibor Z",
+              "Chu Colin J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Female",
+              "Mice",
+              "CD8-Positive T-Lymphocytes",
+              "Epithelial Cells",
+              "Immunity, Innate",
+              "Interferons",
+              "Lung",
+              "Lymphocyte Depletion",
+              "Mice, Inbred C57BL"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41264690/"
+          },
+          {
+            "pmid": "17355734",
+            "title": "Effect of oseltamivir on the risk of pneumonia and use of health care services in children with clinically diagnosed influenza.",
+            "abstract": "To evaluate the effectiveness of oseltamivir in reducing the rate of complications of influenza in children.",
+            "journal": "Current medical research and opinion",
+            "year": "2007",
+            "authors": [
+              "Barr Charles E",
+              "Schulman Kathy",
+              "Iacuzio Dominick",
+              "Bradley John S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Age Distribution",
+              "Antiviral Agents",
+              "Child",
+              "Child, Preschool",
+              "Confidence Intervals",
+              "Early Diagnosis",
+              "Female",
+              "Health Services Accessibility",
+              "Hospitalization",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17355734/"
+          },
+          {
+            "pmid": "35134384",
+            "title": "Influenza Testing and Treatment Among Patients Hospitalized With Community-Acquired Pneumonia.",
+            "abstract": "Influenza is a leading cause of community-acquired pneumonia (CAP), and results of influenza tests can direct therapy. However, among adults hospitalized with CAP, little is known about the frequency and timing of influenza testing, treatment, and their associations with outcomes.",
+            "journal": "Chest",
+            "year": "2022",
+            "authors": [
+              "Deshpande Abhishek",
+              "Klompas Michael",
+              "Yu Pei-Chun",
+              "Imrey Peter B",
+              "Pallotta Andrea M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Antiviral Agents",
+              "Community-Acquired Infections",
+              "Hospitalization",
+              "Humans",
+              "Influenza, Human",
+              "Oseltamivir",
+              "Pneumonia",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35134384/"
+          },
+          {
+            "pmid": "21760915",
+            "title": "Reducing occurrence and severity of pneumonia due to pandemic H1N1 2009 by early oseltamivir administration: a retrospective study in Mexico.",
+            "abstract": "Anti-viral treatment has been used to treat severe or progressive illness due to pandemic H1N1 2009. A main cause of severe illness in pandemic H1N1 2009 is viral pneumonia; however, it is unclear how effective antiviral treatment is against pneumonia when administered >48 hours after symptom onset. Therefore, we aimed to determine how time from symptom onset to antiviral administration affected the effectiveness of antiviral treatment against pneumonia due to pandemic (H1N1) 2009.",
+            "journal": "PloS one",
+            "year": "2011",
+            "authors": [
+              "Higuera Iglesias Anjarath Lorena",
+              "Kudo Koichiro",
+              "Manabe Toshie",
+              "Corcho Berdugo Alexander Enrique",
+              "Corrales Baeza Ariel"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Hospitalization",
+              "Humans",
+              "Infant",
+              "Infant, Newborn"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21760915/"
+          },
+          {
+            "pmid": "31538643",
+            "title": "Oseltamivir Resistance in Severe Influenza A(H1N1)pdm09 Pneumonia and Acute Respiratory Distress Syndrome: A French Multicenter Observational Cohort Study.",
+            "abstract": "In a multicenter cohort study including 22 oseltamivir-treated patients with influenza A(H1N1)pdm09 acute respiratory distress syndrome, prevalence of the H275Y substitution in the neuraminidase, responsible for highly reduced sensitivity to oseltamivir, was 23%. Patients infected with the H275Y mutant virus had higher day 28 mortality than others (80% vs 12%; P = .011).",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2020",
+            "authors": [
+              "Behillil Sylvie",
+              "May Faten",
+              "Fourati Slim",
+              "Luyt Charles-Edouard",
+              "Chicheportiche Thomas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Observational Study"
+            ],
+            "mesh_terms": [
+              "Antiviral Agents",
+              "Cohort Studies",
+              "Drug Resistance, Viral",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype",
+              "Influenza, Human",
+              "Neuraminidase",
+              "Oseltamivir",
+              "Pneumonia",
+              "Respiratory Distress Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31538643/"
+          },
+          {
+            "pmid": "18679536",
+            "title": "Study of the impact of oseltamivir on the risk for pneumonia and other outcomes of influenza, 2000-2005.",
+            "abstract": "Influenza results in large numbers of secondary complications and hospitalizations.",
+            "journal": "Medscape journal of medicine",
+            "year": "2008",
+            "authors": [
+              "Peters Patrick H",
+              "Moscona Anne",
+              "Schulman Kathy L",
+              "Barr Charles E"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antiviral Agents",
+              "Child",
+              "Child, Preschool",
+              "Cohort Studies",
+              "Female",
+              "Humans",
+              "Infant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18679536/"
+          },
+          {
+            "pmid": "24894172",
+            "title": "Combination therapy with hepatocyte growth factor and oseltamivir confers enhanced protection against influenza viral pneumonia.",
+            "abstract": "Frequent outbreaks caused by influenza viruses pose considerable public health threats worldwide. Virus-inflicted alveolar damage represents a major contributor of acute lung injury in influenza. We have previously demonstrated that hepatocyte growth factor (HGF) produced by macrophages enhances alveolar epithelial proliferation during influenza infection. Here, we investigated the therapeutic efficacy of recombinant human HGF (rhHGF) and an antiviral agent (oseltamivir) alone or in combination to treat influenza viral pneumonia in macrophage-depleted BALB/c mice. Combination therapy of infected mice significantly reduced lung pathology and mortality compared to other animal groups that received either treatment alone. Combination treatment with rhHGF induced alveolar type II (AT2) epithelial hyperplasia more prominently in the distal airways, evident by increased cells with double-positive staining for surfactant protein-C and proliferating cell nuclear antigen within the alveolar epi",
+            "journal": "Current molecular medicine",
+            "year": "2014",
+            "authors": [
+              "Narasaraju T",
+              "Yang E",
+              "Samy R P",
+              "Tan K S",
+              "Moorthy A N"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antiviral Agents",
+              "Drug Therapy, Combination",
+              "Female",
+              "Hepatocyte Growth Factor",
+              "Humans",
+              "Influenza, Human",
+              "Mice",
+              "Mice, Inbred BALB C",
+              "Oseltamivir"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24894172/"
+          },
+          {
+            "pmid": "36752709",
+            "title": "Antiviral therapies for influenza.",
+            "abstract": "The heavily suppressed global influenza activity during the coronavirus disease 2019 (COVID-19) pandemic is expected to return upon relaxation of travel restriction and nonpharmaceutical interventions (NPI). We reviewed the four marketed neuraminidase inhibitors (NAI e.g., oseltamivir, zanamivir, peramivir, laninamivir) and the only endonuclease inhibitor (baloxavir) on their clinical therapeutic effects and the ability of viral suppression in various groups of patients of different clinical settings based on the latest evidence.",
+            "journal": "Current opinion in infectious diseases",
+            "year": "2023",
+            "authors": [
+              "Chan Ken K P",
+              "Hui David S C"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Influenza, Human",
+              "Neuraminidase",
+              "COVID-19",
+              "Zanamivir",
+              "Antiviral Agents",
+              "Oseltamivir",
+              "Enzyme Inhibitors",
+              "Dibenzothiepins",
+              "Morpholines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36752709/"
+          },
+          {
+            "pmid": "32527739",
+            "title": "Oseltamivir and influenza-related complications in children: a retrospective cohort in primary care.",
+            "abstract": "Influenza and influenza-like illness (ILI) place considerable burden on healthcare systems, especially during influenza epidemics and pandemics. During the 2009/10 H1N1 influenza pandemic, UK national guidelines recommended antiviral medications for patients presenting within 72 h of ILI onset. However, it is not clear whether antiviral treatment was associated with reductions in influenza-related complications.",
+            "journal": "The European respiratory journal",
+            "year": "2020",
+            "authors": [
+              "Lee Joseph Jonathan",
+              "Smith Margaret",
+              "Bankhead Clare",
+              "Perera Salazar Rafael",
+              "Kousoulis Antonis A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antiviral Agents",
+              "Child",
+              "Humans",
+              "Influenza A Virus, H1N1 Subtype",
+              "Influenza, Human",
+              "Oseltamivir",
+              "Primary Health Care",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32527739/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "pneumonia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20pneumonia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "streptococcal pneumonia",
+        "txgnn_score": 0.9046065211296082,
+        "txgnn_rank": 10698,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "streptococcal pneumonia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20streptococcal%20pneumonia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "dengue virus, susceptibility to",
+        "txgnn_score": 0.8978279829025269,
+        "txgnn_rank": 11228,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Oseltamivir",
+          "disease": "dengue virus, susceptibility to",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Oseltamivir%20dengue%20virus%2C%20susceptibility%20to"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Oseltamivir",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00198",
+    "name": "Oseltamivir",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Oseltamivir"
+      },
+      "queried_at": "2026-03-24T15:32:16.491318",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Oseltamivir"
+      },
+      "queried_at": "2026-03-24T15:32:16.494727",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Oseltamivir"
+      },
+      "queried_at": "2026-03-24T15:32:18.670225",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pyelonephritis"
+      },
+      "queried_at": "2026-03-24T15:32:19.340589",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pyelonephritis"
+      },
+      "queried_at": "2026-03-24T15:32:24.092031",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pyelonephritis"
+      },
+      "queried_at": "2026-03-24T15:32:24.629409",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pyelonephritis"
+      },
+      "queried_at": "2026-03-24T15:32:26.790654",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of tyrosine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:27.263119",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of tyrosine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:31.109264",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of tyrosine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:31.660753",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of tyrosine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:34.662626",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "teratogenic Pierre Robin syndrome"
+      },
+      "queried_at": "2026-03-24T15:32:35.489697",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "teratogenic Pierre Robin syndrome"
+      },
+      "queried_at": "2026-03-24T15:32:39.021228",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "teratogenic Pierre Robin syndrome"
+      },
+      "queried_at": "2026-03-24T15:32:39.661935",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "teratogenic Pierre Robin syndrome"
+      },
+      "queried_at": "2026-03-24T15:32:40.525013",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:40.988443",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:45.811985",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:46.460541",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "disorder of phenylalanine metabolism"
+      },
+      "queried_at": "2026-03-24T15:32:48.758903",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"
+      },
+      "queried_at": "2026-03-24T15:32:49.366327",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"
+      },
+      "queried_at": "2026-03-24T15:32:52.834954",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"
+      },
+      "queried_at": "2026-03-24T15:32:54.035859",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria"
+      },
+      "queried_at": "2026-03-24T15:32:55.584641",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "staphylococcus aureus infection"
+      },
+      "queried_at": "2026-03-24T15:32:56.266504",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "staphylococcus aureus infection"
+      },
+      "queried_at": "2026-03-24T15:33:00.460856",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "staphylococcus aureus infection"
+      },
+      "queried_at": "2026-03-24T15:33:01.013201",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "staphylococcus aureus infection"
+      },
+      "queried_at": "2026-03-24T15:33:03.848361",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"
+      },
+      "queried_at": "2026-03-24T15:33:04.464233",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"
+      },
+      "queried_at": "2026-03-24T15:33:08.480092",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"
+      },
+      "queried_at": "2026-03-24T15:33:09.169885",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency"
+      },
+      "queried_at": "2026-03-24T15:33:10.237068",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:13.524523",
+      "status": "success",
+      "result_count": 50,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:17.233332",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:17.920239",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:22.291418",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:22.819355",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:26.573703",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:27.225487",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "streptococcal pneumonia"
+      },
+      "queried_at": "2026-03-24T15:33:32.235032",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "dengue virus, susceptibility to"
+      },
+      "queried_at": "2026-03-24T15:33:32.658953",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "dengue virus, susceptibility to"
+      },
+      "queried_at": "2026-03-24T15:33:36.011686",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "dengue virus, susceptibility to"
+      },
+      "queried_at": "2026-03-24T15:33:36.662275",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Oseltamivir",
+        "disease": "dengue virus, susceptibility to"
+      },
+      "queried_at": "2026-03-24T15:33:38.509200",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:33:38.511228"
+  }
+}

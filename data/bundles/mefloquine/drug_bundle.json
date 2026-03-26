@@ -1,0 +1,1645 @@
+{
+  "drug": {
+    "inn": "Mefloquine",
+    "drugbank_id": "DB00358",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "malaria",
+        "txgnn_score": 0.97639799118042,
+        "txgnn_rank": 4121,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00164216",
+            "title": "Evaluation of the Efficacy and Effectiveness of Combined Therapy With Mefloquine and Artesunate for Uncomplicated Malaria Treatment in the Loreto Region (Amazon Basin), Peru",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2005-03",
+            "completion_date": "2008-03",
+            "country": "Peru",
+            "enrollment": 208,
+            "brief_summary": "This is a study of the efficacy and effectiveness of combination therapy for malaria due to P. falciparum in the Loreto Department, Iquitos, Peru. The investigators will enroll subjects ≥ 1 year-old who have a diagnosis of uncomplicated malaria due to P. falciparum. Patients will receive a treatment regimen consisting of mefloquine (25 mg/kg per day for two days) and artesunate (12 mg/kg per day for three days). Patients will be divided into two groups: one will receive drugs under direct superv",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age \\> 1 year\n* Axillary temperature ≥ 37.5ºC and/or history of fever in the previous 48 hours without any other evident cause\n* Unmixed infection with P. falciparum of between 250 and 100,000 asexual parasites/mm3 as determined by microscopic exam of the thick or thin smear\n*",
+            "endpoints": [],
+            "sponsor": "Centers for Disease Control and Prevention",
+            "url": "https://clinicaltrials.gov/study/NCT00164216"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05690841",
+            "title": "FocaL Mass Drug Administration for Vivax Malaria Elimination (FLAME): a Pragmatic Cluster Randomized Controlled Trial in Peru",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2024-10-14",
+            "completion_date": "2027-05-01",
+            "country": "Peru",
+            "enrollment": 7530,
+            "brief_summary": "FLAME is an open-label cluster-randomized controlled trial that aims to determine the effectiveness of focal mass drug administration (fMDA) to reduce the incidence of Plasmodium vivax malaria in the Loreto Department in Peru. Standard interventions, including symptomatic and asymptomatic screening for malaria infections, provision of insecticide-treated bednets, and environmental transmission monitoring, will be compared to clusters of villages randomized to receive anti-malarial drugs.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Cluster eligibility\n\n   * Within 8 hours transport of Iquitos\n   * Incidence \\<250/1000 and \\>2 cases year prior to trial\n   * Population size (\\<650)\n2. Chloroquine (CQ) eligibility\n\n   * Resides in neighboring household but within 200 m of Pv index case in the past 2 years\n",
+            "endpoints": [
+              "Cumulative Incidence of Plasmodium vivax infections"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT05690841"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01615822",
+            "title": "A Phase I Healthy Volunteer Study Investigating the Safety, Tolerability & Pharmacokinetics of Co-administered Single Doses of OZ439 and Mefloquine",
+            "phase": "PHASE1",
+            "status": "TERMINATED",
+            "start_date": "2012-08",
+            "completion_date": "2013-04",
+            "country": "South Africa",
+            "enrollment": 25,
+            "brief_summary": "OZ439 is a novel, synthetic trioxolane medicine which is related to artemisinin, but has the advantage of a longer elimination half-life so is being developed to be administered together with a potential partner drug e.g. mefloquine as a single dose cure for uncomplicated malaria. The study findings will be used to inform the dose and design of future studies. The aim of the study is to establish the safety, tolerability and pharmacokinetics of co-administered OZ439 and MQ at a range of doses up",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male and non-childbearing potential female volunteers of between 18 and 55 years of age\n* Female volunteers must have a negative serum pregnancy test at screening\n* Females must be of non-childbearing potential\n* Male volunteers and their partner(s) must agree to use a",
+            "endpoints": [
+              "OZ439 AUC0-t"
+            ],
+            "sponsor": "Medicines for Malaria Venture",
+            "url": "https://clinicaltrials.gov/study/NCT01615822"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00931697",
+            "title": "A Phase I Randomised, Double-Blind Study to Investigate the Safety, Tolerability and Pharmacokinetics of AD 452 [(+)-Mefloquine] Compared With Racemic Mefloquine",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2009-06",
+            "completion_date": "2009-11",
+            "country": "United Kingdom",
+            "enrollment": 46,
+            "brief_summary": "Mefloquine is a quinolinemethanol antimalarial that is effective as therapy and prophylaxis for all species of malaria infecting humans, including multi-drug resistant Plasmodium falciparum. The marketed anti-malaria drug consists of two enantiomers of mefloquine.\n\nMefloquine's clinical utility has been impaired by its association with neuropsychiatric side effects. The pharmacological basis of mefloquine's side effects is not known but two of the most reported hypotheses relate to its action on",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A BMI of between 19 and 28\n* Negative urine drugs of abuse and breath alcohol test\n* Willing to use double barrier contraception for 13 weeks after administration of study drug\n\nExclusion Criteria:\n\n* Pregnant or lactating females\n* Existence of any surgical or medical conditi",
+            "endpoints": [
+              "The dose-concentration-effect relationship of AD 452 [(+)-mefloquine] for safety and toleration in comparison with that of racemic mefloquine across a range of potentially therapeutic doses and concentrations."
+            ],
+            "sponsor": "Treague Ltd",
+            "url": "https://clinicaltrials.gov/study/NCT00931697"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01976325",
+            "title": "Incorporation of the 'Ottawa Malaria Decision Aid' Into the Pre-travel Consultation Process: Assessment of Travelers' Knowledge, Decisional Conflict, Preparation for Decision-making and Medication Adherence Compared to Standard Care",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2014-01",
+            "completion_date": "2015-11",
+            "country": "Canada",
+            "enrollment": 100,
+            "brief_summary": "BRIEF SUMMARY\n\nCanadians often visit areas with malaria where the preventative drug chloroquine no longer works.\n\nThis leaves Canadians with the choice to use three different drugs to prevent malaria - atovaquone-proguanil, doxycycline, or mefloquine. There are more than 400 cases of malaria reported in Canada each year, a few which result in death. These cases mainly occur in people who do not take malaria pills as directed.\n\nInvestigators have developed the Ottawa Malaria Decision Aid (OMDA), ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* An Adult 18 years of age or older\n* Individuals who have contacted the travel clinic at The Ottawa Hospital, General Campus, the National Capital Region Occupational Health Clinic or received study information from IAMAT before they travel\n* Travelling for less than one year\n*",
+            "endpoints": [
+              "Travellers' Knowledge Score"
+            ],
+            "sponsor": "Ottawa Hospital Research Institute",
+            "url": "https://clinicaltrials.gov/study/NCT01976325"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01132248",
+            "title": "Activity of Mefloquine Against Urinary Schistosomiasis",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-05",
+            "completion_date": "2012-12",
+            "country": "Gabon",
+            "enrollment": 65,
+            "brief_summary": "Urinary schistosomiasis is a debilitating disease in Central Africa and pregnant women are frequently suffering from this condition. Mefloquine is currently investigated as preventive treatment against malaria in pregnancy and mefloquine is also known to exert activity against schistosomiasis. The investigators want to test the hypothesis whether mefloquine may active against urinary schistosomiasis when used as preventive treatment against malaria in pregnancy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant women after first trimester and before 28th week of pregnancy\n* HIV negative\n* Egg excretion of Schistosoma haematobium (mean \\>10 eggs per mL urine)\n* Asymptomatic (no signs of complicated Schistosomiasis, no severe anemia)\n* Ability to comply with study protocol\n\nEx",
+            "endpoints": [
+              "Reduction of egg excretion"
+            ],
+            "sponsor": "Albert Schweitzer Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01132248"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00811421",
+            "title": "Evaluation of the Safety and Efficacy of Mefloquine as Intermittent Preventive Treatment of Malaria in Pregnancy",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-09",
+            "completion_date": "2013-12",
+            "country": "Gabon, Benin, Mozambique, Kenya, Tanzania",
+            "enrollment": 5820,
+            "brief_summary": "The study aims at comparing the safety, tolerability and efficacy of Mefloquine (MQ) to Sulfadoxine-Pyrimethamine (SP) as Interment Preventive Treatment in pregnancy (IPTp) for the prevention of malaria effects on the mother and her infant.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nTrial 1:\n\n* Permanent resident in the area\n* Gestational age at the first antenatal visit ≤ 28 weeks\n* Signed informed consent\n* Agreement to deliver in the study site's maternity(ies) wards\n\nTrial 2:\n\n* Permanent resident in the area.\n* Gestational age at the first antenatal vi",
+            "endpoints": [
+              "Trial 1 (IPTp MQ vs IPTp SP): Low birth weight.",
+              "Trial 2 (CTX+IPTp MQ vs. CTX+IPTp placebo): Peripheral parasitaemia."
+            ],
+            "sponsor": "Hospital Clinic of Barcelona",
+            "url": "https://clinicaltrials.gov/study/NCT00811421"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01350856",
+            "title": "A Multicentre, Randomised Trial to Detect in Vivo Resistance of Plasmodium Falciparum to Artesunate in Patients With Uncomplicated Malaria.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2011-05",
+            "completion_date": "2014-12",
+            "country": "Burma, Vietnam, India, Democratic Republic of the Congo, Cambodia, Laos, Kenya, Thailand, Nigeria, Bangladesh",
+            "enrollment": 1700,
+            "brief_summary": "Because the artemisinins are the most potent antimalarial drugs, the reduction in parasite numbers is rapid. Therefore, early measures of reducing parasite counts are needed. This study will look at conventional markers of parasite reduction e.g. parasite clearance time, parasite reduction ratio, and the time to achieve a fall of 50%, 90% and 99% of the pre-treatment parasitaemia.\n\nDefining artemisinin resistance requires the use of artesunate (AS) alone because it is now appreciated that the pa",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged from 6 months to 65 years old, inclusive\n* Acute uncomplicated P. falciparum malaria, confirmed by positive blood smear with asexual forms of P. falciparum (or mixed with non-falciparum species)\n* Asexual P. falciparum parasitaemia: 10,000 to 200,000/uL, d",
+            "endpoints": [
+              "Parasite clearance rate"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT01350856"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01708876",
+            "title": "Artesunate-mefloquine vs Chloroquine in Patients With Acute Uncomplicated P. Knowlesi and P. Vivax Malaria: a Randomized Open Label Trial in Sabah, Malaysia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2012-10",
+            "completion_date": "2014-12",
+            "country": "Malaysia",
+            "enrollment": 250,
+            "brief_summary": "Preliminary studies have supported the background efficacy of local standard anti-malarial medications in the treatment of uncomplicated knowlesi malaria, however this has not been tested systematically and there are no current WHO treatment guidelines for this infection. There are both health cost benefits to a more rapidly acting agent, and due to difficulties with microscopic identification there may be more effective treatment for all malaria species if an aligned treatment guideline could b",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients at least 1 year of age and weighing more than 10kg\n* Microscopic diagnosis of Plasmodium species infection\n* Negative P. falciparum malaria rapid diagnostic test (histidine rich protein 2)\n* Fever (temperature 37.5°C) or history of fever in the last 48",
+            "endpoints": [
+              "Parasite clearance"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT01708876"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03813108",
+            "title": "Safety and Protective Efficacy of Chemoprophylaxis and Sporozoite Immunization With Plasmodium Falciparum NF135 Against Homologous and Heterologous Challenge Infection in Healthy Volunteers in the Netherlands",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2019-04-01",
+            "completion_date": "2021-02-01",
+            "country": "Netherlands",
+            "enrollment": 43,
+            "brief_summary": "This is an open label, randomized, controlled clinical trial. The primary aim of this project is to determine the safety and tolerability of NF135.C10 sporozoite immunization under chemoprophylaxis against homologous and heterologous challenge infection.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject is aged ≥ 18 and ≤ 35 years and in good health.\n2. Subject has adequate understanding of the procedures of the study and agrees to abide strictly thereby.\n3. Subject is able to communicate well with the investigator and is available to attend all study visits.\n4. The ",
+            "endpoints": [
+              "Frequency of Adverse Events After NF135.C10 CPS Immunization",
+              "Magnitude of Adverse Events After NF135.C10 CPS Immunization"
+            ],
+            "sponsor": "Radboud University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT03813108"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00761020",
+            "title": "Analysis of Anti-Plasmodium Falciparum Merozoite Surface Protein 1 Antigen Specific Antibodies in a Human Malaria Challenge Using Mefloquine Prophylaxis to Confirm Assay Sensitivity and Establish Key Antibody Kinetic Parameters",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2008-09",
+            "completion_date": "2009-12",
+            "country": "United States",
+            "enrollment": 31,
+            "brief_summary": "The main purpose of this trial is to study whether a certain blood test can reliably identify the presence of malaria in people who have been infected with, but who do not have symptoms of malaria.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* A male or non-pregnant, non-lactating female 18 to 55 years of age (inclusive) at the time of screening\n* Written informed consent obtained from the participant before screening procedures\n* Free of clinically significant health problems as established by medical history and c",
+            "endpoints": [
+              "Subjects showing four-fold increase in antibody titer"
+            ],
+            "sponsor": "U.S. Army Medical Research and Development Command",
+            "url": "https://clinicaltrials.gov/study/NCT00761020"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02991963",
+            "title": "Epidemiology of Malaria in Ubon Ratchathani, Thailand: a Case-control Study",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2016-12",
+            "completion_date": "2018-12",
+            "country": "Thailand",
+            "enrollment": 660,
+            "brief_summary": "This is an observational study (case-control study) aiming to identify risk factors for malaria infection in health centers or malaria posts or district hospitals in Buntharik District and Nachalui District, Ubon Ratchathani Province, Thailand.\n\nThis study expects to recruit 330 cases (malaria positive) and 330 control (negative cases) subject. One-to-one matching of cases (malaria positive) and controls (malaria negative) will be done at each study site.\n\nCASE (Malaria positive) subject will go",
+            "eligibility_criteria": "Inclusion Criteria:\n\n\\- Case (Malaria patient defined by positive RDT or blood smear):\n\n* Patients of ≥ 6 months of age testing positive for malaria of any species as determined by a positive rapid diagnostic test (RDT) or asexual stage parasites on a smear of peripheral blood including individuals ",
+            "endpoints": [
+              "Risk factors for Malaria infection"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT02991963"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03726593",
+            "title": "Multicenter Therapeutic Efficacy Assessment of Pyronaridine-Artesunate (Pyramax®) and New Drug Combinations With Atovaquone-Proguanil for the Treatment of Uncomplicated P. Falciparum Malaria in Cambodia",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2018-10-04",
+            "completion_date": "2022-12-30",
+            "country": "Cambodia",
+            "enrollment": 252,
+            "brief_summary": "Investigators are conducting this study due to recent reports of many of existing malaria drugs becoming less effective for treatment of malaria. The drugs may not always kill all the parasites, therefore not all patients with malaria are being cured. The main objective of the study is to find out which malaria drugs and what drug combinations are still effective in Cambodia, an area of multi-drug resistance where 4-5 artemisinin-based combination therapies have shown inadequate response, below ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Understands Khmer spoken language\n* Male or female (18 to 70 years old)\n* Microscopic confirmation of asexual stages of Pf or mixed infection with Pf, with baseline asexual parasite densities between 100/µL to 200,000/µL\n* Able to take oral medications\n* Hemoglobin on day of e",
+            "endpoints": [
+              "42-day polymerase chain reaction (PCR) corrected adequate clinical and parasitological response (ACPR), following treatment with ASPY and new drug combinations (AP+ACTs)."
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT03726593"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00970879",
+            "title": "Prevention of Pregnancy-associated Malaria in HIV-infected Women : Randomised Controlled Trial Testing Cotrimoxazole Prophylaxis Versus Intermittent Preventive Treatment With Mefloquine",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2009-12",
+            "completion_date": "2012-12",
+            "country": "Benin",
+            "enrollment": 430,
+            "brief_summary": "The purpose of this study is to evaluate the efficacy of cotrimoxazole prophylaxis in prevention of malaria during pregnancy in HIV-infected women, compared to intermittent preventive treatment with mefloquine.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed HIV seropositivity\n* Permanent residency in the study catchment's area\n* Confirmed pregnancy, gestational age\\< 28 weeks\n* More than 18 years of age\n* Karnofsky index ≥80\n* Willingness to deliver at the hospital\n* Written informed consent\n\nExclusion Criteria:\n\n* Hist",
+            "endpoints": [
+              "proportion of placental malaria (presence of parasites in the placental blood smear at delivery)"
+            ],
+            "sponsor": "Institut de Recherche pour le Developpement",
+            "url": "https://clinicaltrials.gov/study/NCT00970879"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00544024",
+            "title": "Mefloquine Bioequivalence Among Three Commercial Tablet Formulations in Peruvian Subjects With Uncomplicated Plasmodium Falciparum Malaria",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2004-03",
+            "completion_date": "2007-03",
+            "country": "Peru",
+            "enrollment": 39,
+            "brief_summary": "The objective of this study was to determine the bioequivalence among three commercial tablet formulations of MQ, i.e. Lariam, Mephaquin, and Mefloquine-(AC Farma) when given in combination with artesunate.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The inclusion criteria for enrolling patients included; male or non-pregnant female ≥ 18 years of age, infection with P. falciparum alone, with a parasite density between 250 and 50,000 asexual parasites/mm3 as determined by microscopic examination of a thick blood smear, info",
+            "endpoints": [
+              "Measure concentrations of mefloquine in blood to determine pharmacokinetic parameters and assess bioequivalence."
+            ],
+            "sponsor": "Centers for Disease Control and Prevention",
+            "url": "https://clinicaltrials.gov/study/NCT00544024"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01240603",
+            "title": "Plasmodium Falciparum Clearance Rates in Response to Artesunate in Eastern Cambodia",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2010-10-24",
+            "completion_date": "2013-09-11",
+            "country": "Cambodia",
+            "enrollment": 415,
+            "brief_summary": "Plasmodium falciparum parasite clearance rates (PCRs) after oral artesunate treatment of patients with uncomplicated malaria were recently found to be significantly slower in Pailin (Western Cambodia) compared to Wang Pha (Eastern Thailand). This difference in PCRs has been attributed to different histories of artesunate drug pressure in the two areas. In Pailin, artesunate monotherapy has been used inappropriately for 30 years and is hypothesized to have selected for artemisinin-resistant paras",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\nAge 2 to 65 years, inclusive\n\nUncomplicated P. falciparum malaria.\n\nTympanic temperature greater than or equal to 37.5 degree C or history of fever within the last 24 h.\n\nP. calciparum asexual parasite density 10,000 200,000/microL, Inclusive.\n\nWillingness to allow the storage",
+            "endpoints": [],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT01240603"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02052323",
+            "title": "Study to Determine the Efficacy of Artesunate-mefloquine Combination Therapy for the Treatment of Uncomplicated P. Falciparum Malaria in Thailand",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2013-10",
+            "completion_date": "2015-10",
+            "country": "Thailand",
+            "enrollment": 48,
+            "brief_summary": "The purposes of this study is to determine parasitological clearance rates by microscopy for the 72-hour period after first artesunate dose in subjects with uncomplicated P. falciparum malaria.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Thai or non-Thai, otherwise healthy, male or female, aged from 5 years to 65 years inclusive\n* Acute uncomplicated P. falciparum malaria monoinfection, confirmed by positive blood smear\n* Asexual P. falciparum parasitaemia of 1,000 to 200,000 parasites/µL, confirmed on a thin ",
+            "endpoints": [
+              "Parasite clearance rate"
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT02052323"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00499876",
+            "title": "The Effect of Malaria on Disease Progression of HIV/AIDS in Kumasi, Ghana",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-10",
+            "completion_date": "2009-12",
+            "country": "Ghana",
+            "enrollment": 197,
+            "brief_summary": "The purpose of this study is to find out whether malaria affects how HIV/AIDS disease progresses in an infected patient, and to determine the effect of reducing malaria infection on HIV disease progression in Kumasi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult HIV patients attending the Komfo Anokye Teaching Hospital (KATH) HIV clinic who do not yet fulfil the criteria for ARTs. This includes a CD 4 cell count of ≥ 300x106/l and World Health Organisation HIV stage I-III\n\nExclusion Criteria:\n\n* All children with HIV infection a",
+            "endpoints": [
+              "Measure the effects of antimalarials on CD4 cell count decline and HIV viral load increase in study patients"
+            ],
+            "sponsor": "London School of Hygiene and Tropical Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT00499876"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02453308",
+            "title": "A Multi-centre, Open-label Randomised Trial to Assess the Efficacy, Safety and Tolerability of Triple Artemisinin-based Combination Therapies (TACTs) Com-pared to Artemisinin-based Combination Therapies (ACTs) in Uncomplicated Falciparum Malaria and to Map the Geographical Spread of Artemisinin and Partner Drug Resistance",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-08",
+            "completion_date": "2018-03",
+            "country": "Burma, Vietnam, India, Democratic Republic of the Congo, Cambodia, Laos, Thailand, Bangladesh",
+            "enrollment": 1110,
+            "brief_summary": "This study is an open-label randomised trial comparing standard ACT treatment with matching triple artemisinin-based combination therapies (TACTs), evaluating efficacy in safety and tolerability. The estimated total sample size is 2040 patients from 16 sites in Asia and 1 site in Africa. There are 2 arm study groups that have 2 treatment arms each.\n\nStudy group A:\n\nA.1: Artemether-lumefantrine for 3 days. versus: A.2: Artemether-lumefantrine for 3 days plus Amodiaquine for 3 days.\n\nStudy group B",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged from 6 months to 65 years old\n* Acute uncomplicated P. falciparum malaria, confirmed by positive blood smear with asexual forms of P. falciparum (or mixed with non-falciparum species)\n* Asexual P. falciparum parasitaemia: 5,000 to 200,000/uL, de-termined o",
+            "endpoints": [
+              "PCR corrected efficacy defined as adequate clinical and parasitological response (ACPR)"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT02453308"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00701961",
+            "title": "The Pharmacokinetic of the Fixed-dose Combination of Mefloquine-Artesunate in Plasmodium Falciparum Malaria Infection in Pregnant Women",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-10",
+            "completion_date": "2009-07",
+            "country": "Burkina Faso",
+            "enrollment": 48,
+            "brief_summary": "Malaria in pregnancy is a major public health problem in Sub-Saharan Africa. Over the past decades, P. falciparum has shown increasing resistance to chloroquine and Sulphadoxine-Pyrimethamine, which has prompted a change in treatment approach; artemisinin containing combination therapies (ACTs) are now the standard treatment of P. falciparum malaria in areas with established resistance to traditional therapies. However, a standard approach for using ACT in pregnancy does not exist in Africa, whe",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Plasmodium falciparum monoinfection (any density)\n2. At least 18 years old;\n3. Haemoglobin at leats 7 g/dL;\n4. Residence within the health facility catchment's area;\n5. Willing to adhere to the study requirements\n6. Willing to deliver in health facility\n7. Ability to provide ",
+            "endpoints": [
+              "To estimate the pharmacokinetic of MQ-AS for treatment of P. falciparum or mixed infection in pregnant compared to non-pregnant women."
+            ],
+            "sponsor": "Institute of Tropical Medicine, Belgium",
+            "url": "https://clinicaltrials.gov/study/NCT00701961"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02488902",
+            "title": "A Randomized, Double-blind, Placebo-controlled Evaluation of Increasing Doses of Weekly Tafenoquine for Chemosuppression of Plasmodium Falciparum in Semi-immune Adults Living in the Kassena-Nankana District of Northern Ghana",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "1998-08",
+            "completion_date": "2003-03",
+            "country": "N/A",
+            "enrollment": 521,
+            "brief_summary": "This was a randomised, double-blind, placebo-controlled study to compare the efficacy of a range four weekly doses of tafenoquine, and weekly mefloquine, with placebo as chemosuppression of P. falciparum malaria. Medications and placebo were matched and a double-dummy technique enabled blinding of tafenoquine versus mefloquine.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Willing subjects in good general health.\n\n  * Males aged 18 to 60; females aged 50 to 60.\n  * Subjects who planned to stay in the study area until the end of the study.\n\nExclusion Criteria:\n\n* Subjects with any cardiovascular, liver, neurologic, or renal function abnormality w",
+            "endpoints": [
+              "First occurrence of malaria infection"
+            ],
+            "sponsor": "U.S. Army Medical Research and Development Command",
+            "url": "https://clinicaltrials.gov/study/NCT02488902"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01082731",
+            "title": "A Multi-center, Open-label, Randomized, Phase 4, Trial of Artemether-Lumefantrine and Mefloquine-Artesunate for the Treatment of Uncomplicated P. Falciparum Malaria Parasitemia in Pregnant Women in Brazil",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2010-11",
+            "completion_date": "2012-01",
+            "country": "Brazil",
+            "enrollment": 6,
+            "brief_summary": "Data on the burden of MIP in low transmission areas, such as Latin America, are very limited; there is even less information on the efficacy of case management of MiP. The treatment recommendations for MiP in Latin American countries have been changing rapidly in recent months; currently, either artemether-lumefantrine (AL) or mefloquine-artesunate (MA) is the first line treatment for P. falciparum (depending on country); however, no data exists on the efficacy of these drugs for the treatment o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Gestational age \\>16 weeks (determined by LMP and fundal height)- if there is discordance between the two, the more conservative estimate (i.e. lower) will be used, to prevent accidental exposure of a 1st trimester fetus\n2. Normal fetal heart beat detected by Doppler\n3. Prese",
+            "endpoints": [
+              "63-day PCR-adjusted parasitological cure of P. falciparum"
+            ],
+            "sponsor": "Centers for Disease Control and Prevention",
+            "url": "https://clinicaltrials.gov/study/NCT01082731"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02084602",
+            "title": "Assessment of in Vivo and in Vitro Efficacy of Combined Artesunate/Mefloquine Therapy for Treatment of Uncomplicated Plasmodium Falciparum Infection in the Peruvian Amazon",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2014-06-18",
+            "completion_date": "2016-04-13",
+            "country": "Peru",
+            "enrollment": 45,
+            "brief_summary": "There is growing evidence of the emergence of P. falciparum resistance to artesunate (a derivative of artemisin) in Southeast Asia. The emergence and spread of resistant strains to artemisinin would represent an alarming threat to the success of the antimalarial combination therapy in the region. The delayed clearance of parasitemia for more than 24 hours has been taken as an early sign of resistance, a phenomenon seen at the Thai-Cambodia border.\n\nThe purpose of this research study, is to asses",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age between 5 and 65 years old inclusive\n* Monoinfection of P. falciparum confirmed by microscopy\n* Documented fever (axillary temperature \\> 37.5°C) and/or history of fever during the previous 48 hours in the absence of other obvious causes of fever (such as pneumonia, otitis",
+            "endpoints": [
+              "Parasite clearance time"
+            ],
+            "sponsor": "Instituto Nacional de Salud. Peru",
+            "url": "https://clinicaltrials.gov/study/NCT02084602"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00936767",
+            "title": "Artemisone for the Treatment of Uncomplicated Falciparum Malaria in Western",
+            "phase": "PHASE2, PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2010-10",
+            "completion_date": "2010-10",
+            "country": "Cambodia",
+            "enrollment": 0,
+            "brief_summary": "It has now been demonstrated clearly that in Western Cambodia parasitological responses to artesunate and artemether containing treatment regimens for uncomplicated falciparum malaria are slower than elsewhere in the world. Median parasite clearance time (PCT) in patients treated with artesunate 4 mg/kg/day was 78 hours and with 2 mg/kg/day 82 hours, compared to 54 and 48 hours, respectively, in Western Thailand; at 72hours peripheral blood parasitaemia was still detectable in 55% of patients in",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 16 years\n* Full written informed consent is obtained\n* Willingness and ability to comply with the study protocol for the duration of the trial including agreement to 5 days hospitalisation.\n* History of fever or presence of fever (tympanic or axillary temperature at \\>37",
+            "endpoints": [
+              "Presence of light microscopic assessed peripheral blood parasitaemia at 72 hours after start of antimalarial treatment."
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT00936767"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01165372",
+            "title": "Clinical Investigation of In-vivo Susceptibility of P. Falciparum to Artesunate in Phuoc Long Hospital, Binh Phuoc Province, Vietnam",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2010-08",
+            "completion_date": "2011-05",
+            "country": "Vietnam",
+            "enrollment": 166,
+            "brief_summary": "Background: There are worrying signs from Western Cambodia that parasitological responses to artesunate containing treatment regimens for uncomplicated falciparum malaria are slower than elsewhere in the world. Delayed parasite clearance and unusually high failure rates with artesunate-mefloquine have been reported. These antimalarials are central to current treatment strategies and spread of significant resistance outside this area would be a global disaster. Radical containment measures are ne",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* male and aged \\> 10 years OR;\n* female patients \\> 10 and \\<12 years old, provided they have not reached menarche\n* mono-infection with P. falciparum detected by microscopy;\n* parasitaemia of 10,000 - 100,000/µl asexual forms;\n* presence of axillary or tympanic temperature ≥ 3",
+            "endpoints": [
+              "Slope of the decline in the log parasitemia-time curve relative to historical data"
+            ],
+            "sponsor": "Oxford University Clinical Research Unit, Vietnam",
+            "url": "https://clinicaltrials.gov/study/NCT01165372"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02001012",
+            "title": "Artemether-lumefantrine vs Chloroquine in Patients With Acute Uncomplicated P. Knowlesi Malaria: a Randomized Open Label Trial in Sabah, Malaysia (CAN KNOW Trial)",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2014-01",
+            "completion_date": "2015-03",
+            "country": "Malaysia",
+            "enrollment": 123,
+            "brief_summary": "Preliminary studies have supported the background efficacy of local standard anti-malarial medications in the treatment of uncomplicated knowlesi malaria, however there are no current WHO treatment guidelines for this infection. There are both health cost benefits to a more rapidly acting agent, and due to difficulties with microscopic identification there may be more effective treatment for all malaria species if an aligned treatment guideline could be supported. We are currently conducting a s",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients at least 1 year of age and weighing more than 10kg.\n* Microscopic diagnosis P. knowlesi (including diagnosis as P. malariae) or P. falciparum infection (any parasitaemia).\n* Negative P. falciparum malaria rapid diagnostic test (histidine rich protein 2",
+            "endpoints": [
+              "Parasite clearance"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT02001012"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05052502",
+            "title": "Targeting High-risk Populations With Enhanced Reactive Focal Mass Drug Administration: A Study to Assess the Effectiveness and Feasibility for Plasmodium Falciparum and Plasmodium Vivax Malaria in Thailand",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2020-11-01",
+            "completion_date": "2022-03-31",
+            "country": "Thailand",
+            "enrollment": 49118,
+            "brief_summary": "This study assesses the effectiveness of reactive focal mass drug administration (rfMDA), targeting both village and forest working populations, compared to control for reducing the health promotion hospital-level (sub-district) incidence and prevalence of P. falciparum and P. vivax within five provinces in Thailand.",
+            "eligibility_criteria": "Inclusion Criteria for rfMDA:\n\n* Index cases: Presented as a confirmed malaria case to an intervention health facility or village malaria worker, and lives in a village within a selected intervention subdistrict, or worked or spent at least one night at a forest or forest-fringe site in the past 30 ",
+            "endpoints": [
+              "Confirmed P. falciparum and P. vivax malaria parasite incidence",
+              "PCR-based P. falciparum and P. vivax parasite prevalence in sampled sub-districts"
+            ],
+            "sponsor": "University of California, San Francisco",
+            "url": "https://clinicaltrials.gov/study/NCT05052502"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00322907",
+            "title": "A Randomised Safety and Efficacy Trial of Rifampicin/Cotrimoxazole/Isoniazid Versus Mefloquine or Quinine+SP Against Resistant Malaria in Papua New Guinea",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2000-04",
+            "completion_date": "2003-01",
+            "country": "Papua New Guinea",
+            "enrollment": 330,
+            "brief_summary": "The purpose of this study was to assess the safety and efficacy of Cotrifazid to treat uncomplicated resistant malaria and to compare the outcome with mefloquine or quinine+sulfadoxine/pyrimethamine (SP)",
+            "eligibility_criteria": "Inclusion Criteria:\n\nAll subjects \\> 6 months of age who presented at the centres and who were diagnosed with malaria (history of fever, OptiMAL® test positive, no other major symptom) and who had already been treated for malaria in the 28 days before, could be included in the study, if the subject ",
+            "endpoints": [
+              "Clinical treatment failure rate on day 14.",
+              "Incidence of adverse events."
+            ],
+            "sponsor": "Center for Primary Care and Public Health (Unisante), University of Lausanne, Switzerland",
+            "url": "https://clinicaltrials.gov/study/NCT00322907"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03355664",
+            "title": "A Multi-centre, Open-label Randomised Trial to Assess the Efficacy, Safety and Tolerability of the Triple ACT Artemether-lumefantrine+Amodiaquine (AL+AQ) Compared to the ACT Artemether-lumefantrine (AL) in Uncomplicated Falciparum Malaria in Cambodia and Vietnam",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2018-03-19",
+            "completion_date": "2020-03-04",
+            "country": "Cambodia, Vietnam",
+            "enrollment": 310,
+            "brief_summary": "This study is a multi-centre, open-label randomised trial to assess the efficacy, safety and tolerability of the Triple ACT artemether-lumefantrine+amodiaquine (AL+AQ) compared to the ACT artemether-lumefantrine (AL) in uncomplicated falciparum malaria in Cambodia and Vietnam. The estimated total sample size is 600 patients from 2 sites in Cambodia and 2 sites in Vietnam. There are 2 treatment arms Arm 1: Artemether-lumefantrine for 3 days Arm 2: Artemether-lumefantrine for 3 days plus Amodiaqui",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged from 2 years to 65 years old\n* Acute uncomplicated P. falciparum malaria, confirmed by positive blood smear with asexual forms of P. falciparum (or mixed with non-falciparum species)\n* Asexual P. falciparum parasitaemia: 16 to 200,000/microlitre, determine",
+            "endpoints": [
+              "Polymerase Chain Reaction Corrected Efficacy Defined as Adequate Clinical and Parasitological Response (ACPR) by Study Arm"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT03355664"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00367653",
+            "title": "A Phase 3, Randomized, Open-Label, Comparative Trial Of Azithromycin Plus Chloroquine Versus Mefloquine For The Treatment Of Uncomplicated Plasmodium Falciparum Malaria In Africa",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2006-11",
+            "completion_date": "2007-09",
+            "country": "Burkina Faso, Senegal, Zambia, Mali, Ghana, Kenya",
+            "enrollment": 397,
+            "brief_summary": "To compare Azithromycin plus Chloroquine versus Mefloquine to treat uncomplicated plasmodium falciparum malaria.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Females and males 18 years of age and older with uncomplicated, symptomatic malaria as as indicated by the presence of both of the following:\n* Blood smears positive for Plasmodium falciparum asexual parasitemia between 1000 -100,000 parasites\n* Documented fever (38.5 C/101.3 ",
+            "endpoints": [
+              "The primary objective is to confirm the hypothesis that azithromycin plus chloroquine is noninferior to mefloquine for the treatment of symptomatic, uncomplicated malaria due to P. falciparum in Africa.",
+              "The primary endpoint of the study will be the asexual P. falciparum Parasite Clearance Rates (adjusted for molecular testing determining recrudescence, true failures, from reinfection, true cures) at Day 28 in the Parasitologic Per Protocol population."
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00367653"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01640587",
+            "title": "Randomized Open-label Trial of Comparison Between DHA-Piperaquine and Mefloquine Artesunate Combinations 3 Day-regimens for the Treatment of Uncomplicated Plasmodium Falciparum Malaria on the Thai-Myanmar Border (RDM)",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2013-11",
+            "completion_date": "2017-03-30",
+            "country": "Thailand",
+            "enrollment": 76,
+            "brief_summary": "In camps for displaced persons located along the Thai-Myanmar border, mefloquine and artesunate combination therapy has been used since 1992. In vivo efficacy of a 3 day regimen of mefloquine + artesunate (MAS3) has been monitored regularly since its introduction in 1992. In 2009 Carrara et al summarised the in vivo PCR-adjusted cure rates at Day 42 and Day 63 in patients treated with MAS3 between 1995 and 2005, as well as the in-vitro parasite susceptibility to MAS3 during that same period, and",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 5 years\n* Symptomatic of malaria infection, i.e. history of fever or presence of fever \\>37.5°c.\n* microscopically confirmed asexual stages of Plasmodium falciparum ≥ 5/500 wbc (may be mixed with non- P.falciparum species) .\n* Written informed consent given to participat",
+            "endpoints": [
+              "PCR adjusted adequate clinical and parasitological response"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT01640587"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00243737",
+            "title": "Open-label, Stratified Study on the Efficacy, Safety and Pharmacokinetic Characteristics of Two Paediatric Formulations of ArtequinTM in Children With Acute Uncomplicated P. Falciparum Malaria",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2005-10",
+            "completion_date": "2006-04",
+            "country": "Gabon",
+            "enrollment": 70,
+            "brief_summary": "Treatment of Plasmodium falciparum malaria in Africa is increasingly difficult. Resistance to cheap efficient antimalarial drugs poses an increasing threat. The rapid emergence of resistance to sulfadoxine - pyrimethamine, already seen in East Africa is growing and is likely to have an striking impact on mortality in many other African regions where no obvious alternatives are available. WHO recommends the use of drug combinations containing artemisinin compounds, i.e., artemisinin-based combina",
+            "eligibility_criteria": "Inclusion Criteria:\n\nMale or female with a body weight ≥10 to 40 kg\n\n* Patients suffering from acute uncomplicated Plasmodium falciparum malaria\n* Malaria diagnosis confirmed by a positive blood smear with asexual forms of Plasmodium falciparum (i.e., identification of asexual parasite count ≥1,000 ",
+            "endpoints": [
+              "Efficacy, Proportion of patients cured on day 28"
+            ],
+            "sponsor": "Albert Schweitzer Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT00243737"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02612545",
+            "title": "A Multi-Site, Open-Label, Randomized Trial to Assess the Efficacy, Safety, and Tolerability of Dihydroartemisinin-Piperaquine Plus Mefloquine Compared to Dihydroartemisinin-Piperaquine or Artesunate-Mefloquine in Patients With Uncomplicated Falciparum Malaria in Cambodia",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2015-11-20",
+            "completion_date": "2019-10-08",
+            "country": "Cambodia",
+            "enrollment": 216,
+            "brief_summary": "Background:\n\nMalaria is an illness caused by a parasite that enters people s bodies when a mosquito bites them. It can cause fevers, headaches, body aches, and weakness. If not treated, it can make some people very ill. Malaria can be cured. A mix of 2 drugs that has worked well in the past is not working as well in some parts of Cambodia. Researchers want to see if a mix of 3 drugs works better and is safe.\n\nObjectives:\n\nTo see if a 3-drug mix can be used to treat malaria in areas where a 2-dru",
+            "eligibility_criteria": "* INCLUSION:\n* Age 2 to 65 years\n* Uncomplicated falciparum malaria, confirmed by the presence of asexual P.falciparum parasites (alone or mixed with other Plasmodium species) on blood film\n* Asexual P. falciparum count \\<200,000/ L at screening\n* Tympanic temperature greater than or equal to 37.5 (",
+            "endpoints": [
+              "Compare the efficacy of TACT versus ACT, as defined by an adequate clinical and parasitological response (ACPR), defined as: absence of parasitemia on Day 42 (detected by blood smear, not PCR), irrespective of tympanic temperature, in subjects w..."
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT02612545"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00978172",
+            "title": "A Phase IV Study on the Safety and Effectiveness of a Fixed-dose Combination of Artesunate and Mefloquine (Artequin[TM] Paediatric) Administered for 3 Days in Children With Uncomplicated Plasmodium Falciparum Malaria in Africa",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2007-12",
+            "completion_date": "2009-03",
+            "country": "Cameroon",
+            "enrollment": 220,
+            "brief_summary": "The present study aims to investigate and to assess possible neurological and neuropsychiatric events in young children in west Africa with uncomplicated P. falciparum malaria after a 3-day treatment of Artequin Paediatric under \"real life conditions.\"",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Body weight from ≥ 10 kg to ≤ 20 kg.\n* Presence of acute uncomplicated P. falciparum malaria with a diagnosis confirmed by a positive blood smear with asexual forms of P. falciparum only.\n* Counts of asexual forms of P. falciparum: 2'000 to 250'000 parasites per µL of blood.\n*",
+            "endpoints": [
+              "To assess the neuropsychiatric and neurological safety of a fixed-dose combination of artesunate and mefloquine (Artequin Paediatric) in the treatment of children (>=10kg to <=20kg body weight) with uncomplicated P. falciparum malaria"
+            ],
+            "sponsor": "Mepha Ltd.",
+            "url": "https://clinicaltrials.gov/study/NCT00978172"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02653898",
+            "title": "Defining Effective, Appropriate, Implementable Strategies for Malaria Elimination in Military Forces in Cambodia as a Model for Mobile Populations",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2016-01",
+            "completion_date": "2021-12",
+            "country": "Cambodia",
+            "enrollment": 1050,
+            "brief_summary": "Antimalarial drug resistance has reached critical levels on the Thai-Cambodian border. Many have begun advocating for concerted malaria elimination efforts in Cambodia. However, there is currently no consensus on how malaria elimination is to be achieved with the tools available.\n\nIn this study, the investigators will conduct operational research with the Royal Cambodian Armed Forces (RCAF) and National Malaria Center (CNM) to quantify the relative effectiveness of the two major interventional a",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Military volunteers aged 18-65 years of age plus their dependents \\> 2 years of age, eligible for care at an RCAF facility, or otherwise eligible Cambodian civilians at risk for contracting malaria who live within the designated geographical areas\n2. Able to give informed con",
+            "endpoints": [
+              "The absolute risk reduction based on the proportion of subjects remaining malaria-free at the end of 6 months between the study arms as diagnosed by PCR-corrected malaria microscopy"
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT02653898"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02895568",
+            "title": "Prevalence Survey of Plasmodium Falciparum Antimalarial Drug Resistance Markers in Komé, Doba, Republic of Chad",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2016-09-16",
+            "completion_date": "2018-09-06",
+            "country": "Chad",
+            "enrollment": 399,
+            "brief_summary": "This study is to measure prevalence of established and candidate molecular markers of drug resistant malaria at Komé, Doba, Republic of Chad.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nParticipants must meet all of the inclusion criteria to participate in the study.\n\n* Patients (6 months - 75 years) with confirmed uncomplicated P. falciparum infection\n* Written informed consent obtained\n\nExclusion Criteria:\n\n* Patients presenting signs of severe malaria will b",
+            "endpoints": [
+              "Percent prevalence of kelch13 mutants (marker of resistance to artemisinins)"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT02895568"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01422954",
+            "title": "Immunization With Plasmodium Falciparum Sporozoites Under Chloroquine Versus Mefloquine Prophylaxis",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-01",
+            "completion_date": "2013-04",
+            "country": "Netherlands",
+            "enrollment": 20,
+            "brief_summary": "Malaria is one of the major infectious diseases in the world with a tremendous impact on the quality of life, significantly contributing to the ongoing poverty in endemic countries. It causes 800.000 deaths per year, the majority of which are children under the age of five. The malaria parasite enters the human body through the skin, by the bite of an infected mosquito. Subsequently, it invades the liver and develops and multiplies inside the hepatocytes. After a week, the hepatocytes burst open",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age \\> 18 and \\< 35 years healthy volunteers (males or females)\n2. Good health based on history and clinical examination\n3. Negative pregnancy test\n4. Use of adequate contraception for females\n5. Signing of the informed consent form, thereby demonstrating understanding of the",
+            "endpoints": [
+              "Duration of prepatent period after challenge infection as measured by microscopy"
+            ],
+            "sponsor": "Radboud University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT01422954"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02488980",
+            "title": "A Randomized, Double Blind, Placebo Controlled Evaluation of Weekly Tafenoquine (WR 238605/SB252263) Compared to Mefloquine for Chemosuppression of Plasmodium Falciparum in Western Kenya",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2000-05",
+            "completion_date": "2003-03",
+            "country": "N/A",
+            "enrollment": 306,
+            "brief_summary": "This was a placebo controlled, randomised, double-blind, double-dummy study of the efficacy of weekly tafenoquine compared with weekly mefloquine or placebo in the chemosuppression of P. falciparum in Nyanza Province, western Kenya.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy male or female volunteers who provided informed consent (a healthy volunteer was defined as one who was free of ailments that might cause difficulty in evaluating drug efficacy or adverse experiences).\n* Subjects aged 18-55 years.\n* Subjects planning to reside in the s",
+            "endpoints": [
+              "Prophylactic Outcome Defined by the Subject Having no Positive Smears"
+            ],
+            "sponsor": "U.S. Army Medical Research and Development Command",
+            "url": "https://clinicaltrials.gov/study/NCT02488980"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01976780",
+            "title": "In Vivo and In Vitro Efficacy of Artemisinin Combination Therapy in Kisumu County, Western Kenya",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2013-06",
+            "completion_date": "2014-12",
+            "country": "Kenya",
+            "enrollment": 118,
+            "brief_summary": "This study aims to assess the degree of artemisinin resistance in adult and pediatric subjects presenting with uncomplicated falciparum malaria in Western Kenya. The study treatments will be Artemether Lumefantrine (AL) and Artesunate Mefloquine (ASMQ).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult/child aged between 6 months and 65 years inclusive (minimum weight 11kg), presenting with a measured temperature of ≥37.5 C, or history of fever within 24 hours prior to presentation\n* Mono-infection with Plasmodium falciparum\n* Baseline parasitemia of 2000 - 200,000 ase",
+            "endpoints": [
+              "Parasitological clearance rates by microscopy"
+            ],
+            "sponsor": "Global Emerging Infections Surveillance and Response System",
+            "url": "https://clinicaltrials.gov/study/NCT01976780"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00082576",
+            "title": "A Phase II/III, Randomized, Double-Blind, Comparative Trial Of Azithromycin Plus Chloroquine Versus Mefloquine For The Treatment Of Uncomplicated Plasmodium Falciparum Malaria In Africa",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-06",
+            "completion_date": "2006-05",
+            "country": "Mali, Ghana, Uganda, Zambia",
+            "enrollment": 238,
+            "brief_summary": "The primary objective is to confirm the hypothesis that azithromycin plus chloroquine is non-inferior to mefloquine for the treatment of symptomatic, uncomplicated malaria due to P. falciparum.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Written informed consent of the subject or a legally authorized representative\n* Females and males\n* \\>= 18 years of age with uncomplicated, symptomatic malaria as indicated by the presence of both of the following: a.) Blood smears positive for Plasmodium falciparum monoinfec",
+            "endpoints": [
+              "Parasite clearance"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00082576"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03923725",
+            "title": "A Multi-centre Randomised Controlled Non-inferiority Trial to Compare the Efficacy, Safety and Tolerability of Triple Artemisinin-based Combination Therapies Versus First-line ACTs + Placebo for the Treatment of Uncomplicated Plasmodium Falciparum Malaria in Africa",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2020-09-01",
+            "completion_date": "2024-03-15",
+            "country": "Burkina Faso, Rwanda, Democratic Republic of the Congo, Niger, Guinea, The Gambia, Tanzania, Nigeria",
+            "enrollment": 2583,
+            "brief_summary": "A partially blinded randomised controlled non-inferiority trial comparing the efficacy, tolerability and safety of Triple ACTs artemether-lumefantrine+amodiaquine (AL+AQ) and artesunate-mefloquine+piperaquine (ASMQ+PPQ) and the ACTs artemether-lumefantrine+placebo (AL+PBO), artesunate-mefloquine+placebo (ASMQ+PBO) (with single-low dose primaquine in some sites) for the treatment of uncomplicated Plasmodium falciparum malaria to assess and compare their efficacy, safety, tolerability.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female, aged ≥6 months to \\<12 years (For Gambia, Rwanda sites only: ≥6 months)\n* Ability to take oral medication\n* Acute uncomplicated P. falciparum monoinfection\n* Asexual P. falciparum parasitaemia: 1,000/µL to ≤10% parasitaemia, determined on a peripheral blood fil",
+            "endpoints": [
+              "42 days Efficacy defined as PCR corrected adequate clinical and parasitological response (ACPR)."
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT03923725"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01054248",
+            "title": "A Randomised Open Label Trial Comparing Standard Dose of Dihydroartemisinin-piperaquine, Standard Fixed Artesunate-mefloquine Regimen and a Longer Regimen of Artemether-lumefantrine in the Treatment of Uncomplicated Malaria in Pregnancy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2010-02-16",
+            "completion_date": "2016-09",
+            "country": "Thailand",
+            "enrollment": 511,
+            "brief_summary": "This is a randomised, open label trial, comparing standard dose of dihydroartemisinin-piperaquine (DP) with standard fixed artesunate-mefloquine regimen (MAS3) and with a longer regimen of artemether-lumefantrine (ALN+) in the treatment of uncomplicated malaria in pregnant women. The sample size is 335 women in each arm which would be 1005 women in total. Pregnant patients in 2nd and 3rd trimester with acute uncomplicated malaria who meet eligibility criteria will be asked to participate in the ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 18-45 years\n* Viable pregnancy of any gestation as assessed by ultrasound scanning\n* Microscopically confirmed uncomplicated malaria (parasitaemia ≥ 5/500 WBC) with Plasmodium falciparum or Mixed infection (i.e. P.falciparum \\& P.vivax/ovale/malariae) or Plasmodium vivax/o",
+            "endpoints": [
+              "Cure rate defined as clearance of asexual parasites without recurrence within the period between treatment and delivery or a 63 day period"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT01054248"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01659281",
+            "title": "Efficacy of Artesunate-Mefloquine Combination Therapy for the Treatment of Uncomplicated Falciparum Malaria in Trat Province, Thailand",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-09",
+            "completion_date": "2012-05",
+            "country": "Thailand",
+            "enrollment": 13,
+            "brief_summary": "The main purpose of this study is to compare artesunate-mefloquine combination therapy given for 2 and 3 days at the same total dose for the treatment of uncomplicated falciparum malaria.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age 5 to 70 years inclusive. If aged \\< 18 years the subject must have a parent or guardian in attendance.\n2. Asexual stages of P. falciparum parasites in a thick or thin blood film with no other visible plasmodial species.\n3. Willing to give informed consent. Parents or guar",
+            "endpoints": [
+              "Determination of parasitological cure rate of directly observed antimalarial therapy"
+            ],
+            "sponsor": "Armed Forces Research Institute of Medical Sciences, Thailand",
+            "url": "https://clinicaltrials.gov/study/NCT01659281"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02427360",
+            "title": "Evaluating the Efficacy of Artesunate-mefloquine on the Thai-Myanmar Border and the Relative Roles of Resistance Genetic Markers: A Retrospective Cohort Study",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-05",
+            "completion_date": "2015-12",
+            "country": "Thailand",
+            "enrollment": 1022,
+            "brief_summary": "This is a retrospective non randomized cohort to evaluate efficacy of MAS3 on patients with uncomplicated P. falciparum malaria or mixed infection (P. falciparum + a non-falciparum species). The review of patients' records and blood samples will be performed for patients treated at the clinics of Shoklo Malaria Research Unit from the period of January 2003 to December 2013.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of any age and sex who received treatment for uncomplicated malaria and followed up between January 2003 to December 2013\n* Symptomatic of malaria infection, i.e. history of fever or tympanic temperature ≥37.5°c\n* Microscopically confirmed asexual stages of P. falcipa",
+            "endpoints": [
+              "proportion of patients with clearance of asexual parasitaemia within 7 days of initiation of trial treatment"
+            ],
+            "sponsor": "University of Oxford",
+            "url": "https://clinicaltrials.gov/study/NCT02427360"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02524444",
+            "title": "A Comparative Study of Mefloquine and Sulphadoxine-pyrimethamine as Prophylaxis Against Malaria in Pregnant Human Immunodeficiency Virus Positive Patients",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2015-09",
+            "completion_date": "2016-08",
+            "country": "Nigeria",
+            "enrollment": 142,
+            "brief_summary": "Randomized controlled single blind prospective comparative study.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pregnant HIV positive patients\n* Gestational age 16 weeks and above\n* No history of use of Mefloquine or Sulphadoxine\n* Pyrimethamine four weeks prior to recruitment.\n\nExclusion Criteria:\n\n* Anaemia packed cell volume less than 30%\n* Pre -existing medical conditions- Diabetes ",
+            "endpoints": [
+              "Level of malaria parasitemia in HIV positive women at delivery after administration of Mefloquine or sulphadoxine-pyrimethamine as prophylaxis for malaria in pregnancy"
+            ],
+            "sponsor": "University of Ibadan",
+            "url": "https://clinicaltrials.gov/study/NCT02524444"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02348788",
+            "title": "Artemether-lumefantrine vs Chloroquine in Patients With Acute Non-severe P. Vivax Malaria in Sabah, Malaysia",
+            "phase": "PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2015-01",
+            "completion_date": "2017-12",
+            "country": "Malaysia",
+            "enrollment": 98,
+            "brief_summary": "Both artemether-lumefantrine and chloroquine are currently used and recommended by Malaysian Ministry of Health as blood stage treatments for non-severe P. vivax and P. knowlesi malaria. Microscopic misdiagnosis between Plasmodium species remains a large issue in Sabah, Malaysia and elsewhere. In order to facilitate potential policy change to a unified ACT guideline for all malaria species in Sabah artemether-lumefantrine needs to be evaluated for P. vivax malaria.\n\nPreliminary data in a recentl",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female patients at least 1 year of age and weighing more than 10kg\n* Microscopic diagnosis of P. vivax monoinfection\n* Negative P. falciparum malaria rapid diagnostic test (histidine-rich-protein 2)\n* Fever (temperature ≥37.5°C) or history of fever in the last 48 hour",
+            "endpoints": [
+              "Parasite clearance at 48 hours"
+            ],
+            "sponsor": "Menzies School of Health Research",
+            "url": "https://clinicaltrials.gov/study/NCT02348788"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00403260",
+            "title": "A Phase III Comparative, Open-label, Randomised, Multi-centre Study to Assess the Efficacy of Pyronaridine Artesunate (180:60mg) Versus Mefloquine (250mg) Plus Artesunate (100mg) in Children & Adult Patients With Acute Falciparum Malaria",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2007-01",
+            "completion_date": "2008-12",
+            "country": "Burkina Faso, Vietnam, India, Cambodia, Thailand, Côte d’Ivoire, Tanzania",
+            "enrollment": 1271,
+            "brief_summary": "The primary objective of this phase III clinical study is to compare the efficacy and safety of the fixed combination of pyronaridine artesunate (Pyramax®, PA) with that of the combination of mefloquine plus artesunate (MQ + AS) in children and adults with uncomplicated P falciparum malaria in South East Asia, India and Africa.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients between the ages of 3 and 60 years, inclusive.\n* Body weight between 20 kg and 90 kg with no clinical evidence of severe malnutrition.\n* Presence of acute uncomplicated P. falciparum mono-infection confirmed by:\n\n  1. Fever, as defined by axillary/tympa",
+            "endpoints": [
+              "Percentage of Subjects With PCR-corrected Adequate Clinical and Parasitological Response (ACPR) on Day 28"
+            ],
+            "sponsor": "Medicines for Malaria Venture",
+            "url": "https://clinicaltrials.gov/study/NCT00403260"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01107145",
+            "title": "A Multi-center, Open-label, Randomized Trial of Chloroquine, Artemether-Lumefantrine, and Mefloquine-Artesunate for the Treatment of Uncomplicated P. Vivax Malaria in Pregnant Women in Brazil",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2011-02",
+            "completion_date": "2012-01",
+            "country": "Brazil",
+            "enrollment": 16,
+            "brief_summary": "The current treatment recommendations for P. vivax in pregnant and non-pregnant individuals are to use chloroquine; in non-pregnant patients this is followed by primaquine to prevent relapse. As primaquine can not be used in pregnant women, these women remain at risk of relapse. As there is increasing concern about chloroquine resistant P. vivax in this region, there is a need to identify alternative treatment options. The artemisinin combination therapies are recommended for use against P. falc",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Gestational age \\>16 weeks (determined by LMP and fundal height)- if there is discordance between the two, the more conservative estimate (i.e. lower) will be used, to prevent accidental exposure of a 1st trimester fetus\n* Normal fetal heart beat detected by Doppler\n* Presence",
+            "endpoints": [
+              "63-day PCR-adjusted parasitological cure of P. vivax"
+            ],
+            "sponsor": "Centers for Disease Control and Prevention",
+            "url": "https://clinicaltrials.gov/study/NCT01107145"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01082718",
+            "title": "Pharmacokinetics of Mefloquine-Artesunate in Pregnant Women With Uncomplicated Plasmodium Falciparum Infection",
+            "phase": "PHASE2, PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2010-03",
+            "completion_date": "2010-10",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "Artemisinin-based combination therapies (ACTs) are now the treatment of choice for malaria in non-pregnant individuals living in areas with established chloroquine resistance; they have been shown to be both safe and highly efficacious. There is rapidly increasing experience with artemisinin derivatives in the 2nd and 3rd trimesters of pregnancy, with over 1,000 well documented cases with no reported serious adverse effects to mother or fetus (WHO Malaria Treatment Guidelines, 2006). Many countr",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Cases: Pregnant women, age ≥18 years, in 2nd or 3rd trimester (gestational age ≥12 weeks determined by LMP and confirmed by fundal height measurement) Controls: Non-pregnant women ≥18 years old (negative urine pregnancy test)\n2. Presence of P. falciparum ≤ 50,000 parasites/mi",
+            "endpoints": [
+              "Area under the curve of Mefloquine - artesunate in pregnant versus matched non-pregnant women with P. falciparum malaria"
+            ],
+            "sponsor": "Centers for Disease Control and Prevention",
+            "url": "https://clinicaltrials.gov/study/NCT01082718"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02974348",
+            "title": "Assessment of Antimalaria Drugs Susceptibility Testing for an Effective Management of Infected Patients in Sub-Sahara Africa",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-01",
+            "completion_date": "2014-10",
+            "country": "Cameroon",
+            "enrollment": 300,
+            "brief_summary": "The antimalarial drugs efficacy and safety study will be conducted in the Clinics and hospital of the Cameroon Development Corporation (CDC) Estates, Tiko Health District, located in a typical forest and rainfall area in the South West Region Cameroon. In this study, 350 children aged 6 months to 5 years who are found to have uncomplicated symptomatic malaria will be enrolled between October 2012 and March 2013. Participants will be randomized to receive one of the following medications.\n\n(i) DH",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* signs/symptoms of uncomplicated malaria with axillary temperature ≥ 37.5;\n* monoinfection with Plasmodium falciparum;\n* parasite count between 2000 and 200 000 per μl;\n* haemoglobin level\\> 5 g/dL;\n* absence of signs/symptoms of severe malaria or other diseases requiring drugs",
+            "endpoints": [
+              "efficacy and safety assessment"
+            ],
+            "sponsor": "University of Bamenda",
+            "url": "https://clinicaltrials.gov/study/NCT02974348"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "malaria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20malaria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "tinea corporis",
+        "txgnn_score": 0.959242582321167,
+        "txgnn_rank": 6020,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "tinea corporis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20tinea%20corporis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Plasmodium ovale malaria",
+        "txgnn_score": 0.9413447976112366,
+        "txgnn_rank": 7562,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03083847",
+            "title": "Sanaria PfSPZ Challenge With Pyrimethamine Chemoprophylaxis (PfSPZ-CVac Approach): Phase 1 Dose Escalation Trial to Determine Safety and Development of Protective Efficacy After Exposure to Only Pre-erythrocytic Stages of Plasmodium Falciparum",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2017-06-05",
+            "completion_date": "2019-06-26",
+            "country": "United States",
+            "enrollment": 55,
+            "brief_summary": "Background:\n\nPeople get malaria from bites from infected mosquitos. Researchers are studying a vaccine strategy. They will give people malaria parasites by injecting them with live infectious malaria parasites with antimalarial medications and then see if this strategy prevents malaria infection while off antimalarial medications.\n\nObjective:\n\nTo see if combining a high dose of live, infectious malaria parasites (known as Sanaria PfSPZ Challenge) and two FDA approved drugs that kill malaria para",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n* Age greater than or equal to 18 and less than or equal to 50 years.\n* In good general health and without clinically significant medical history\n* Malaria comprehension exam completed, passed (a score of greater than or equal to 80% or per investigator s discretion) and review",
+            "endpoints": [
+              "Number of Participants With P.Falciparum Blood Stage Infection",
+              "Number of Participants Requiring Treatment With Additional Anti-malarial Medication",
+              "Number of Participants With Local and Systemic Adverse Events (AEs)"
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT03083847"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "Plasmodium ovale malaria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20Plasmodium%20ovale%20malaria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "creeping myiasis",
+        "txgnn_score": 0.9385046362876892,
+        "txgnn_rank": 7812,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "creeping myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20creeping%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "furuncular myiasis",
+        "txgnn_score": 0.9385046362876892,
+        "txgnn_rank": 7813,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "furuncular myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20furuncular%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "wound myiasis",
+        "txgnn_score": 0.9385046362876892,
+        "txgnn_rank": 7814,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "wound myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20wound%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "myiasis",
+        "txgnn_score": 0.9366992115974426,
+        "txgnn_rank": 8001,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "myiasis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20myiasis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "acne (disease)",
+        "txgnn_score": 0.9102455377578736,
+        "txgnn_rank": 10244,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "acne (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20acne%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "post-bacterial disorder",
+        "txgnn_score": 0.8933882117271423,
+        "txgnn_rank": 11537,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02974348",
+            "title": "Assessment of Antimalaria Drugs Susceptibility Testing for an Effective Management of Infected Patients in Sub-Sahara Africa",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-01",
+            "completion_date": "2014-10",
+            "country": "Cameroon",
+            "enrollment": 300,
+            "brief_summary": "The antimalarial drugs efficacy and safety study will be conducted in the Clinics and hospital of the Cameroon Development Corporation (CDC) Estates, Tiko Health District, located in a typical forest and rainfall area in the South West Region Cameroon. In this study, 350 children aged 6 months to 5 years who are found to have uncomplicated symptomatic malaria will be enrolled between October 2012 and March 2013. Participants will be randomized to receive one of the following medications.\n\n(i) DH",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* signs/symptoms of uncomplicated malaria with axillary temperature ≥ 37.5;\n* monoinfection with Plasmodium falciparum;\n* parasite count between 2000 and 200 000 per μl;\n* haemoglobin level\\> 5 g/dL;\n* absence of signs/symptoms of severe malaria or other diseases requiring drugs",
+            "endpoints": [
+              "efficacy and safety assessment"
+            ],
+            "sponsor": "University of Bamenda",
+            "url": "https://clinicaltrials.gov/study/NCT02974348"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "post-bacterial disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20post-bacterial%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "postinfectious vasculitis",
+        "txgnn_score": 0.8919952511787415,
+        "txgnn_rank": 11627,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mefloquine",
+          "disease": "postinfectious vasculitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mefloquine%20postinfectious%20vasculitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Mefloquine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00358",
+    "name": "Mefloquine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Mefloquine"
+      },
+      "queried_at": "2026-03-24T15:56:32.264101",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Mefloquine"
+      },
+      "queried_at": "2026-03-24T15:56:32.265323",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Mefloquine"
+      },
+      "queried_at": "2026-03-24T15:56:33.311969",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T15:56:37.279007",
+      "status": "success",
+      "result_count": 50,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T15:56:46.073519",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T15:56:46.744082",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "malaria"
+      },
+      "queried_at": "2026-03-24T15:56:47.640907",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T15:56:51.401586",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T15:56:54.794383",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T15:56:55.597461",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "tinea corporis"
+      },
+      "queried_at": "2026-03-24T15:57:00.601886",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "Plasmodium ovale malaria"
+      },
+      "queried_at": "2026-03-24T15:57:01.543410",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "Plasmodium ovale malaria"
+      },
+      "queried_at": "2026-03-24T15:57:08.168607",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "Plasmodium ovale malaria"
+      },
+      "queried_at": "2026-03-24T15:57:13.190546",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "Plasmodium ovale malaria"
+      },
+      "queried_at": "2026-03-24T15:57:19.954588",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:20.546829",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:24.250718",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:25.096056",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "creeping myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:26.006245",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:26.544422",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:30.473094",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:31.554797",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "furuncular myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:32.403076",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:32.817634",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:36.062479",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:36.817104",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "wound myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:37.662591",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:38.062758",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:41.602643",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:41.740043",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "myiasis"
+      },
+      "queried_at": "2026-03-24T15:57:43.306878",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T15:57:44.013134",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T15:57:52.215885",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T15:57:52.745053",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T15:57:54.191965",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "post-bacterial disorder"
+      },
+      "queried_at": "2026-03-24T15:57:54.620753",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "post-bacterial disorder"
+      },
+      "queried_at": "2026-03-24T15:58:00.994921",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "post-bacterial disorder"
+      },
+      "queried_at": "2026-03-24T15:58:01.558695",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "post-bacterial disorder"
+      },
+      "queried_at": "2026-03-24T15:58:03.012827",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "postinfectious vasculitis"
+      },
+      "queried_at": "2026-03-24T15:58:03.542475",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "postinfectious vasculitis"
+      },
+      "queried_at": "2026-03-24T15:58:06.898440",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "postinfectious vasculitis"
+      },
+      "queried_at": "2026-03-24T15:58:07.445728",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mefloquine",
+        "disease": "postinfectious vasculitis"
+      },
+      "queried_at": "2026-03-24T15:58:08.292176",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:58:08.293469"
+  }
+}

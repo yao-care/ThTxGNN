@@ -1,0 +1,2023 @@
+{
+  "drug": {
+    "inn": "Isoniazid",
+    "drugbank_id": "DB00951",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "conjunctivitis",
+        "txgnn_score": 0.993635892868042,
+        "txgnn_rank": 1408,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04094012",
+            "title": "Comparing Incidence Rate of Systemic Drug Reactions Under 3HP and 1HP Regimen for Latent Tuberculosis Infection Treatment: a Pragmatic Multicenter Randomized Control Trial",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2019-09-24",
+            "completion_date": "2023-12-15",
+            "country": "Taiwan",
+            "enrollment": 490,
+            "brief_summary": "Successful implement of preventive therapy for subjects with latent tuberculosis infection (LTBI) is the critical step for elimination of tuberculosis (TB). The major obstacle of traditional preventive therapy is the unacceptable long treatment duration, taking isoniazid 5mg/kg daily for a total of 9 months (9H), thus seriously compromising its acceptability. With the introduction of 12-doses weekly high-dose (15 mg/kg) rifapentine plus isoniazid (3HP regimen), the completion rate of 3HP has be ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* aged ≥12 years\n* close contact (defined as unprotected exposure of ≥8 hours in a single day or a cumulative duration of ≥40 hours, as per the national policy of Taiwan) with patients diagnosed with acid-fast smear (AFS)-positive pulmonary TB\n* diagnosed with LTBI using either ",
+            "endpoints": [
+              "number of participants with systemic drug reactions"
+            ],
+            "sponsor": "National Taiwan University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04094012"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "5005929",
+            "title": "Rifampicin.",
+            "abstract": "",
+            "journal": "Annals of ophthalmology",
+            "year": "1971",
+            "authors": [
+              "Polascik M",
+              "Golden B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adenoviridae",
+              "Administration, Oral",
+              "Animals",
+              "Bacteria",
+              "Chemical Phenomena",
+              "Chemistry",
+              "Clinical Trials as Topic",
+              "Conjunctivitis",
+              "DNA-Directed RNA Polymerases",
+              "Drug Resistance, Microbial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5005929/"
+          },
+          {
+            "pmid": "1363080",
+            "title": "Ocular side effects of selected systemic drugs.",
+            "abstract": "Numerous systemic drugs produce adverse effects that involve the eye. Pigmentary inclusions of the lids or conjunctivae or both may be caused by a variety of drugs, including amiodarone, chlorpromazine, and gold salts, while conjunctivitis and blepharoconjunctivitis have been associated with isotretinoin, sulfonamides, salicylates, and antineoplastic agents. Dry eye complaints may be caused by antihistamines, beta-receptor blocking agents prescribed for cardiovascular problems, antianxiety agents, and tricyclic antidepressants. Several drugs have been well documented as causes of keratopathies and/or lenticular deposits, including chloroquine and hydroxychloroquine, chlorpromazine, gold salts, systemic corticosteroids, nonsteroidal antiinflammatory drugs, and the antiarrhythmic agent amiodarone. Visual acuity may be decreased by transient changes in refractive error caused by sulfonamides, the antifungal agent metronidazole, thiazide diuretics, and carbonic anhydrase inhibitors. Dilati",
+            "journal": "Optometry clinics : the official publication of the Prentice Society",
+            "year": "1992",
+            "authors": [
+              "Jaanus S D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amiodarone",
+              "Anti-Inflammatory Agents",
+              "Antirheumatic Agents",
+              "Chloroquine",
+              "Chlorpromazine",
+              "Drug Interactions",
+              "Eye Diseases",
+              "Humans",
+              "Organogold Compounds",
+              "Steroids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1363080/"
+          },
+          {
+            "pmid": "14089390",
+            "title": "PRIMARY TUBERCULOSIS OF THE CONJUNCTIVA.",
+            "abstract": "",
+            "journal": "Archives of ophthalmology (Chicago, Ill. : 1960)",
+            "year": "1964",
+            "authors": [
+              "CHANDLER A C",
+              "LOCATCHER-KHORAZO D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aminosalicylic Acid",
+              "Aminosalicylic Acids",
+              "Bacteriological Techniques",
+              "Child",
+              "Conjunctiva",
+              "Conjunctivitis",
+              "Ear, External",
+              "Eyelids",
+              "Humans",
+              "Isoniazid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14089390/"
+          },
+          {
+            "pmid": "32674602",
+            "title": "An Unexpected Cause of Conjunctivitis in an Adolescent.",
+            "abstract": "",
+            "journal": "Clinical pediatrics",
+            "year": "2020",
+            "authors": [
+              "Dean Preston",
+              "Berger Tyler",
+              "Matt Michael",
+              "Schlaudecker Elizabeth",
+              "Riney Lauren"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antitubercular Agents",
+              "Conjunctivitis",
+              "Diagnosis, Differential",
+              "Ethambutol",
+              "Glucocorticoids",
+              "Humans",
+              "Isoniazid",
+              "Male",
+              "Prednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32674602/"
+          },
+          {
+            "pmid": "12226788",
+            "title": "[Chronic reactive arthritis associated with Calmette-Guérin bacillus].",
+            "abstract": "After successful transurethral resection of a superficial bladder cancer a 59-year old patient was treated with intravesical instillation of bacillus Calmette-Guérin (BCG) six times to prevent tumor recurrence. Four weeks later the patient was admitted to our department presenting with symmetrical polyarthritis accompanied by pain and stiffness and conjunctivitis.",
+            "journal": "Deutsche medizinische Wochenschrift (1946)",
+            "year": "2002",
+            "authors": [
+              "Neumayr C",
+              "Kirchgatterer A",
+              "Knoflach P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Inflammatory Agents",
+              "Antirheumatic Agents",
+              "Antitubercular Agents",
+              "Arthritis, Reactive",
+              "Chronic Disease",
+              "Drug Therapy, Combination",
+              "Follow-Up Studies",
+              "Glucocorticoids",
+              "Humans",
+              "Immunotherapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12226788/"
+          },
+          {
+            "pmid": "10084173",
+            "title": "Polyarthritis following intravesical BCG immunotherapy. Report of a case and review of 26 cases in the literature.",
+            "abstract": "To delineate the characteristics of aseptic arthritis induced by intravesical BCG immunotherapy.",
+            "journal": "Revue du rhumatisme (English ed.)",
+            "year": "1999",
+            "authors": [
+              "Clavel G",
+              "Grados F",
+              "Cayrolle G",
+              "Bellony R",
+              "Leduc I"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adjuvants, Immunologic",
+              "Administration, Intravesical",
+              "Aged",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Arthritis",
+              "BCG Vaccine",
+              "Carcinoma",
+              "Drug Therapy, Combination",
+              "Follow-Up Studies",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10084173/"
+          },
+          {
+            "pmid": "26692731",
+            "title": "Tuberculous Conjunctivitis in an Anophthalmic Socket.",
+            "abstract": "Tuberculous (TB) conjunctivitis was not an uncommon condition before the early 20(th) century but is currently a rare occurrence, especially in the developed countries. We report a 27-year-old Saudi female who underwent enucleation of the right eye at the age of 20 following a penetrating eye injury. She had a history of miliary TB that was treated at the age of 22. She was presented with chronic purulent discharge from her right an anophthalmic socket for 2 months. Cultures for bacteria and fungi were sterile. There was no response to empirical topical antibiotics and steroids. Direct microscopic examination of conjunctival scrapings with the Ziehl-Neelsen staining revealed no microorganisms. Histopathological examination revealed epithelioid granulomas. Polymerase chain reaction was negative for Mycobacterium tuberculosis DNA. TB conjunctivitis was suspected from the history of miliary TB and presence of epithelioid granulomas. The definitive diagnosis was made after prompt resolutio",
+            "journal": "Middle East African journal of ophthalmology",
+            "year": "2015",
+            "authors": [
+              "Al Habash Ahmed",
+              "Malik Faisal",
+              "Al Abdulsalam Omar",
+              "Al Abdulsalam Abdulrahim"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antitubercular Agents",
+              "Conjunctivitis, Bacterial",
+              "Drug Therapy, Combination",
+              "Eye Enucleation",
+              "Eye Infections, Bacterial",
+              "Eye Injuries, Penetrating",
+              "Female",
+              "Humans",
+              "Isoniazid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26692731/"
+          },
+          {
+            "pmid": "14195962",
+            "title": "TOXIC EPIDERMAL NECROLYSIS.",
+            "abstract": "",
+            "journal": "Southern medical journal",
+            "year": "1964",
+            "authors": [
+              "HELFMAN R J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amobarbital",
+              "Conjunctivitis",
+              "Drug Therapy",
+              "Humans",
+              "Isoniazid",
+              "Kanamycin",
+              "Phenytoin",
+              "Skin Diseases",
+              "Stevens-Johnson Syndrome",
+              "Toxicology"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14195962/"
+          },
+          {
+            "pmid": "10084171",
+            "title": "Refractory arthropathy after intravesical bacillus Calmette-Guérin therapy. Usefulness of isoniazide.",
+            "abstract": "Arthritis associated with bacillus Calmette-Guérin immunotherapy usually responds dramatically to nonsteroidal antiinflammatory drug therapy. Isoniazid is generally reserved for other complications such as granulomatous hepatitis.",
+            "journal": "Revue du rhumatisme (English ed.)",
+            "year": "1999",
+            "authors": [
+              "Milas L",
+              "Maillefert J F",
+              "Michel F",
+              "Piroth C",
+              "Wautot A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adjuvants, Immunologic",
+              "Administration, Intravesical",
+              "Aged",
+              "Antitubercular Agents",
+              "Arthritis",
+              "BCG Vaccine",
+              "Carcinoma",
+              "Follow-Up Studies",
+              "Humans",
+              "Isoniazid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10084171/"
+          },
+          {
+            "pmid": "33607832",
+            "title": "A rare case of primary sinonasal tuberculosis presented with phlyctenular keratoconjunctivitis in a pediatric patient: A case report and literature review.",
+            "abstract": "Tuberculosis is a common cause of phlyctenular keratoconjunctivitis, especially for patients who live in a high endemic area of tuberculosis. We report a rare case of pediatric phlyctenular keratoconjunctivitis associated with primary sinonasal tuberculosis.",
+            "journal": "Medicine",
+            "year": "2021",
+            "authors": [
+              "Wiriyachai Thakoon",
+              "Boonsathorn Sophida",
+              "Apiwattanakul Nopporn",
+              "Assawawiroonhakarn Surapat"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antibiotics, Antitubercular",
+              "Child",
+              "Child, Preschool",
+              "Female",
+              "Humans",
+              "Isoniazid",
+              "Keratoconjunctivitis",
+              "Male",
+              "Mycobacterium tuberculosis",
+              "Orbit"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33607832/"
+          },
+          {
+            "pmid": "7505555",
+            "title": "Munchausen syndrome by proxy: an experience from Nigeria.",
+            "abstract": "We report here on a child who over a period of 8 years was admitted several times to hospitals in different states of Nigeria based on fictitious illnesses described by his mother. The child had various unnecessary, expensive and invasive investigations followed by treatment with harmful drugs. The evolution of this case of Munchausen syndrome by proxy is described in order to alert paediatricians in developing countries to a problem which is described frequently in more affluent societies. We believe this is the first such case to be recorded in West Africa.",
+            "journal": "Annals of tropical paediatrics",
+            "year": "1993",
+            "authors": [
+              "Ifere O A",
+              "Yakubu A M",
+              "Aikhionbare H A",
+              "Quaitey G E",
+              "Taqi A M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Child, Preschool",
+              "Developing Countries",
+              "Diagnosis, Differential",
+              "Fever of Unknown Origin",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Mother-Child Relations",
+              "Munchausen Syndrome by Proxy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7505555/"
+          },
+          {
+            "pmid": "8136810",
+            "title": "[Polyarthritis in 4 patients treated with intravesical BCG-therapy for carcinoma of the bladder].",
+            "abstract": "Intravesical administration of Calmette-Guérin bacillus (BCG) is effective in the treatment of superficial bladder carcinoma. Transient arthritis or migratory arthralgia has been reported in 0.5% of cases. The authors report on four men (mean age 65 years), who developed an oligoarthritis in three cases after the 2nd, 5th, and 6th weekly instillation of Pasteur BCG, respectively, and symmetrical polyarthritis in one after 48 BCG instillations over a three-year period. Joints involved were the knees (3/4), ankles (3/4), shoulders (1/4), wrists, and hands (1/4). Features included morning stiffness and local evidence of inflammation. All four patients had an elevated erythrocyte sedimentation rate and negative tests for rheumatoid factor. Neutrophils were the main cell type in synovial fluid. Synovial biopsy performed in two cases revealed non-specific inflammation. Erosions of the metatarsophalangeal joints were observed in one patient. Locoregional or systemic symptoms included transien",
+            "journal": "Revue du rhumatisme (Ed. francaise : 1993)",
+            "year": "1993",
+            "authors": [
+              "Belmatoug N",
+              "Levy-Djebbour S",
+              "Appelboom T",
+              "De Gennes C",
+              "Peltier A P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intravesical",
+              "Aged",
+              "Antitubercular Agents",
+              "Arthritis",
+              "BCG Vaccine",
+              "Carcinoma in Situ",
+              "Humans",
+              "Immunotherapy, Active",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8136810/"
+          },
+          {
+            "pmid": "4969212",
+            "title": "[Chemoprophylaxis and prevention chemotherapy in infection and disease].",
+            "abstract": "",
+            "journal": "Der Internist",
+            "year": "1967",
+            "authors": [
+              "Spiess H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anti-Bacterial Agents",
+              "Communicable Disease Control",
+              "Female",
+              "Glomerulonephritis",
+              "Gonorrhea",
+              "Humans",
+              "Infant, Newborn",
+              "Infection Control",
+              "Isoniazid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4969212/"
+          },
+          {
+            "pmid": "17133069",
+            "title": "Mycobacterium tuberculosis presenting as chronic red eye.",
+            "abstract": "To report a case of tuberculosis of the conjunctiva.",
+            "journal": "Cornea",
+            "year": "2006",
+            "authors": [
+              "Jennings Angela",
+              "Bilous Michael",
+              "Asimakis Peter",
+              "Maloof Anthony J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antitubercular Agents",
+              "Chronic Disease",
+              "Conjunctivitis, Bacterial",
+              "Drug Therapy, Combination",
+              "Ethambutol",
+              "Humans",
+              "Isoniazid",
+              "Male",
+              "Pyrazinamide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17133069/"
+          },
+          {
+            "pmid": "4233886",
+            "title": "[Tuberculosis of the bulbar conjunctiva].",
+            "abstract": "",
+            "journal": "Archives d'ophtalmologie et revue generale d'ophtalmologie",
+            "year": "1968",
+            "authors": [
+              "Cernea P",
+              "Marculesco A",
+              "Brodicico G",
+              "Constantin F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Conjunctivitis",
+              "Female",
+              "Humans",
+              "Isoniazid",
+              "Middle Aged",
+              "Streptomycin",
+              "Tuberculoma",
+              "Tuberculosis, Ocular",
+              "Uveitis, Anterior"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4233886/"
+          },
+          {
+            "pmid": "10641112",
+            "title": "[Phlyctenular keratoconjunctivitis and lymph node tuberculosis].",
+            "abstract": "It is presented 28 cases of tuberculous keratoconjunctivitis from which 13 cases appears between 4-13 years at children with primary tuberculosis. All patients have a positive tuberculin skin test, a family or personal history of tuberculosis. Many of them have perihilar or cervical adenopathy and radiological evidence of a healed pulmonary tuberculous lesion. We report a case of tuberculous adenopathy with histopathological examine and tuberculous adenopathy with histopathological examine and tuberculous keratoconjunctivitis. Anti-tuberculous treatment was with isoniazid, pyrazinamide, rifampicin in cases with primary tuberculosis. The rest of patients was treated with topical medicine.",
+            "journal": "Oftalmologia (Bucharest, Romania : 1990)",
+            "year": "1999",
+            "authors": [
+              "Valentina C",
+              "Mirela C"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Biopsy",
+              "Child",
+              "Child, Preschool",
+              "Conjunctivitis, Bacterial",
+              "Female",
+              "Humans",
+              "Keratoconjunctivitis",
+              "Lymph Nodes",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10641112/"
+          },
+          {
+            "pmid": "25433746",
+            "title": "Re-emphasizing Thygeson's warning: conjunctival phlyctenulosis as presenting sign of impending clinical tuberculosis.",
+            "abstract": "",
+            "journal": "Canadian journal of ophthalmology. Journal canadien d'ophtalmologie",
+            "year": "2014",
+            "authors": [
+              "Sharma Kanika",
+              "Kalakoti Piyush",
+              "Juneja Rakesh",
+              "Sahu Suman",
+              "Singh Vartika"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Antitubercular Agents",
+              "Blood Sedimentation",
+              "Child",
+              "Drug Therapy, Combination",
+              "Ethambutol",
+              "Female",
+              "Humans",
+              "Isoniazid",
+              "Keratoconjunctivitis",
+              "Pyrazinamide"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25433746/"
+          },
+          {
+            "pmid": "14253168",
+            "title": "PHLYCTENULAR KERATOCONJUNCTIVITIS AMONG ESKIMOS IN SOUTHWESTERN ALASKA. II. ISONIAZID PROPHYLAXIS.",
+            "abstract": "",
+            "journal": "The American review of respiratory disease",
+            "year": "1965",
+            "authors": [
+              "PHILIP R N",
+              "COMSTOCK G W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Alaska",
+              "Biomedical Research",
+              "Child",
+              "Corneal Opacity",
+              "Drug Therapy",
+              "Humans",
+              "Infant",
+              "Infant, Newborn",
+              "Inuit"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14253168/"
+          },
+          {
+            "pmid": "14182360",
+            "title": "[CLINICAL MANIFESTATIONS AND TREATMENT OF EARLY STAGES OF PRIMARY TUBERCULOSIS IN CHILDREN].",
+            "abstract": "",
+            "journal": "Voprosy okhrany materinstva i detstva",
+            "year": "1964",
+            "authors": [
+              "MAZINA E G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aminosalicylic Acid",
+              "Aminosalicylic Acids",
+              "Bronchitis",
+              "Child",
+              "Drug Therapy",
+              "Erythema Nodosum",
+              "Humans",
+              "Isoniazid",
+              "Keratoconjunctivitis",
+              "Tuberculin Test"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14182360/"
+          },
+          {
+            "pmid": "5103251",
+            "title": "[Use of isoniazid in the local treatment of ocular tuberculosis].",
+            "abstract": "",
+            "journal": "Annales d'oculistique",
+            "year": "1971",
+            "authors": [
+              "Bobulescu M",
+              "Pralea E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Child",
+              "Chorioretinitis",
+              "Humans",
+              "Injections",
+              "Isoniazid",
+              "Keratitis",
+              "Keratoconjunctivitis",
+              "Streptomycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5103251/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rheumatoid arthritis",
+        "txgnn_score": 0.9870550632476808,
+        "txgnn_rank": 2550,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "rheumatoid arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20rheumatoid%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "shigellosis",
+        "txgnn_score": 0.9849167466163636,
+        "txgnn_rank": 2912,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "shigellosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20shigellosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+        "txgnn_score": 0.9787451028823853,
+        "txgnn_rank": 3843,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20colobomatous%20microphthalmia-rhizomelic%20dysplasia%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "leprosy",
+        "txgnn_score": 0.9784799218177797,
+        "txgnn_rank": 3880,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07303699",
+            "title": "Population Pharmacokinetics and Pharmacodynamics of Standard First Line Anti-TB Versus Atorvastatin-Containing Regimens in the Treatment of Pulmonary Tuberculosis: A Sub-study of the ATORTUB Phase 2C Randomized Controlled Trial (ATORTUB popPK-PD Study)",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2026-01-03",
+            "completion_date": "2028-03-30",
+            "country": "Nigeria",
+            "enrollment": 80,
+            "brief_summary": "The purpose of this study is to assess pharmacokinetic parameters of atorvastatin at different doses when combined with the standard first line tuberculosis (TB) treatment regimen in adults with drug sensitive pulmonary TB. The pharmacokinetics parameters will be correlated with Pharmcodynamic measures and a PK/PD model that will identify an optimal dosing regimen of atorvastatin that is appropriate for the treatment of pulmonary tuberculosis will be developed.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Sputum specimen positive for tubercle bacilli on Gene Xpert or direct smear microscopy\n* Either no previous anti-TB chemotherapy, or less than 2 weeks of previous chemotherapy\n* Aged 12years and above\n* A firm home address that is readily accessible for visiting\n* Agreement to",
+            "endpoints": [
+              "Area under the plasma concentration versus time curve (AUC 0-24) for atorvastatin acid, rifampicin, isoniazid and their metabolites at steady state",
+              "Peak Plasma Concentration (Cmax) for atorvastatin acid, rifampicin, isoniazid and their metabolites at steady state",
+              "Plasma Clearance (Cl/F) in mL/min of atorvastatin acid, rifampicin, isoniazid and their metabolites at steady state"
+            ],
+            "sponsor": "Obafemi Awolowo University Teaching Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT07303699"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07440160",
+            "title": "Digitally Facilitated, Integrated Community and Facility-Based Interventions to Improve Tuberculosis Case Detection and Treatment Adherence in South Ethiopia: A Type II Hybrid Effectiveness-Implementation Study: The HEART-TB Trial Protocol",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2025-07-01",
+            "completion_date": "2026-12-30",
+            "country": "Ethiopia",
+            "enrollment": 278,
+            "brief_summary": "Effective tuberculosis treatment outcome relies on adherence. However, many TB patients struggle to adequately adhere to their prescribed regimen due to various social, economic, personal, and healthcare system barriers. However, previous interventions did not adequately consider combined strategies in a way that addressed social, personal, economic, and health system barriers to case detection, treatment adherence, and outcomes. As a result, the investigator developed novel holistic interventio",
+            "eligibility_criteria": "Inclusion criteria\n\n* All patients with pulmonary TB will be including in the study.\n* All health workers who are working in TB clinic for at least 1 year\n* All family member of pulmonary TB patient\n* Health facilities with TB diagnostic facility Exclusion criteria\n* Patients with comorbidities othe",
+            "endpoints": [
+              "TB case detection",
+              "TB medication adherance",
+              "Tuberculosis treatment cure rate"
+            ],
+            "sponsor": "Arba Minch University",
+            "url": "https://clinicaltrials.gov/study/NCT07440160"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00816426",
+            "title": "Pharmacokinetics of Standard First and Second Line Anti-TB Drugs in the Lung and Lesions of Subjects Elected for Resection Surgery",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2008-12-29",
+            "completion_date": "2017-12-29",
+            "country": "South Korea",
+            "enrollment": 19,
+            "brief_summary": "This study, conducted jointly by researchers at the National Masan TB Hospital, Asan and Samsung Medical Centers in Seoul, Republic of Korea, and the Yonsei University and the NIH in the United States, will examine why some patients with tuberculosis (TB) develop disease that is harder to treat than most cases. TB is an infection of the lung that usually can be successfully treated with anti-TB drugs. However, some people get a more serious kind of disease (called multi-drug resistant TB or exte",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\n  1. Males and females age 20 and above\n  2. Selected for lung resection due to anti-tuberculous treatment failure, multidrug resistant disease, or other reason determined by the treating physician\n  3. Radiographic evidence of tuberculous disease of the lung(s)\n  4. If alread",
+            "endpoints": [
+              "Comparison between the relative permeability coefficients of RIF and KM in pathologically defined large caseous necrotic nodules."
+            ],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT00816426"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00850915",
+            "title": "Feasibility and Effectiveness of Community Based Isoniazid Preventive Therapy in Kenya",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2009-04",
+            "completion_date": "2012-11",
+            "country": "Kenya",
+            "enrollment": 1259,
+            "brief_summary": "Isoniazid preventive therapy (IPT) is a well studied clinical intervention for primary and secondary prevention of active tuberculosis (TB) after infection with Mycobacterium tuberculosis. It is widely used in industrialized countries in TB outbreak management, focusing on high risk groups such as close contacts in the family, in congregate settings, and in the workplace amongst others. Individuals infected with Human Immunodeficiency Virus (HIV) have a markedly higher risk of acquiring a TB-inf",
+            "eligibility_criteria": "Index cases\n\n* New sputum smear positive pulmonary tuberculosis (PTB) patients initiating treatment for TB\n* HIV infected\n* Resident in the catchment area of the TB diagnostic facility\n* Written informed consent\n* Age equal or greater than 15 years.\n\nContacts\n\n* Household contacts of a HIV infected ",
+            "endpoints": [
+              "incidence of TB in household contacts"
+            ],
+            "sponsor": "KNCV Tuberculosis Foundation",
+            "url": "https://clinicaltrials.gov/study/NCT00850915"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "2344344",
+            "title": "Acetylation polymorphism and leprosy.",
+            "abstract": "The sulfones are the drug of choice in the treatment of leprosy, with dapsone as the clear favorite. The major route for dapsone metabolism leading to its inactivation and excretion is via acetylation by hepatic N-acetyl transferase (NAT), as is the case with isoniazid (INH) and sulfamethazine (SMZ). The enzyme is known to exhibit genetic polymorphism. The object of the present study is mainly to determine the incidence of acetylator phenotype in a population of leprosy patients with a view to evaluating the degree of association, if any, between phenotype and the disease. Obviously a knowledge of the incidence of the phenotypes may provide a valuable contribution to the institution of more rational and successful therapy. In the normal or control subjects, as well as in the leprosy patients, the frequency distribution histograms of the percentage acetylsulfamethazine in urine and serum samples are bimodal, and this indicates the existence of a genetic polymorphism. Based on the bimoda",
+            "journal": "Biochemical genetics",
+            "year": "1990",
+            "authors": [
+              "Eze L C",
+              "Okpogba A N",
+              "Ogan A U"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetylation",
+              "Acetyltransferases",
+              "Humans",
+              "Incidence",
+              "Leprosy",
+              "Nigeria",
+              "Phenotype",
+              "Polymorphism, Genetic",
+              "Sulfamethazine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2344344/"
+          },
+          {
+            "pmid": "33758553",
+            "title": "Determinants of Drug-Induced Hepatotoxicity Among Patients with Human Immunodeficiency Virus Taking a High Dose of Rifapentine Plus Isoniazid Drugs at the All Africa Leprosy Tuberculosis Rehabilitation and Training Center in Addis Ababa, Ethiopia.",
+            "abstract": "The drugs for the treatment of latent Tuberculosis are potentially hepatotoxic and can lead to drug-induced hepatotoxicity. The current study aimed at identifying the determinants of anti-tuberculosis drug-induced hepatotoxicity among patients living with Human Immunodeficiency Virus taking Isoniazid and rifapentine at All Africa Leprosy Tuberculosis Rehabilitation and Training Center in Addis Ababa, Ethiopia.",
+            "journal": "HIV/AIDS (Auckland, N.Z.)",
+            "year": "2021",
+            "authors": [
+              "Lisanwork Arage Leuel",
+              "Deybasso Haji Aman",
+              "Yilma Gebremichael Delelegn",
+              "Gintamo Nuramo Binyam",
+              "Negash Mekuria Zelalem"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Retracted Publication"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33758553/"
+          },
+          {
+            "pmid": "12991685",
+            "title": "Isoniazid in leprosy.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1952",
+            "authors": [
+              "LOWE J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Isoniazid",
+              "Leprosy",
+              "Niacin",
+              "Nicotinic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12991685/"
+          },
+          {
+            "pmid": "30046638",
+            "title": "Tuberculosis and Leprosy Coinfection: A Perspective on Diagnosis and Treatment.",
+            "abstract": "Both leprosy and tuberculosis (TB) are known to have similar geographic endemicity. In the setting of coinfection, interferon-gamma release assays (IGRAs) to detect latent TB can be falsely positive. We report a case of leprosy with a positive IGRA and asymptomatic active pulmonary TB. Minocycline and dapsone therapy was initiated during the workup for TB and changed to rifampin (Rif), isoniazid, pyrazinamide, and ethambutol, with the addition of dapsone once coinfection was confirmed. Our review of the literature revealed a preponderance of coinfection reported with borderline and lepromatous disease. Ten patients were diagnosed with leprosy as the first infection; 7 of these patients (70%) were treated with Rif before TB diagnosis, and 70% (7/10) of coinfected patients were on steroids. If treatment for leprosy is a consideration before ruling out active TB, then minocycline may temporarily replace the Rif. The dire implications of Rif monotherapy in undiagnosed coinfection may warra",
+            "journal": "Open forum infectious diseases",
+            "year": "2018",
+            "authors": [
+              "Mangum Lisa",
+              "Kilpatrick Dustin",
+              "Stryjewska Barbara",
+              "Sampath Rahul"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30046638/"
+          },
+          {
+            "pmid": "29847567",
+            "title": "Prevalence and patterns of rifampicin and isoniazid resistance conferring mutations in Mycobacterium tuberculosis isolates from Uganda.",
+            "abstract": "Accurate diagnosis of tuberculosis, especially by using rapid molecular assays, can reduce transmission of drug resistant tuberculosis in communities. However, the frequency of resistance conferring mutations varies with geographic location of Mycobacterium tuberculosis, and this affects the efficiency of rapid molecular assays in detecting resistance. This has created need for characterizing drug resistant isolates from different settings to investigate frequencies of resistance conferring mutations. Here, we describe the prevalence and patterns of rifampicin- and isoniazid- resistance conferring mutations in isolates from Uganda, which could be useful in the management of MDR-TB patients in Uganda and other countries in sub-Saharan Africa.",
+            "journal": "PloS one",
+            "year": "2018",
+            "authors": [
+              "Kigozi Edgar",
+              "Kasule George W",
+              "Musisi Kenneth",
+              "Lukoye Deus",
+              "Kyobe Samuel"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antitubercular Agents",
+              "Drug Resistance, Bacterial",
+              "Genotype",
+              "Isoniazid",
+              "Mycobacterium tuberculosis",
+              "Prevalence",
+              "Rifampin",
+              "Uganda"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29847567/"
+          },
+          {
+            "pmid": "39446249",
+            "title": "Prevalence of rifampicin and isoniazid mono-resistance among cases of pulmonary tuberculosis from Western Uttar Pradesh, North India.",
+            "abstract": "Mono-resistance to rifampicin/isoniazid increases poor treatment outcomes and the risk of multi-drug resistance (MDR) in tuberculosis (TB) patients. Limited information exists about mono-resistance status of TB patients in Uttar Pradesh, North India. This study aimed to estimate the burden of rifampicin and isoniazid mono-resistance in Western Uttar Pradesh.",
+            "journal": "Molecular biology reports",
+            "year": "2024",
+            "authors": [
+              "Kumar Roopendra",
+              "Sohal Jagdeep Singh",
+              "Singh Ajay Vir",
+              "Chauhan Devendra Singh"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Rifampin",
+              "India",
+              "Isoniazid",
+              "Tuberculosis, Pulmonary",
+              "Male",
+              "Female",
+              "Adult",
+              "Mycobacterium tuberculosis",
+              "Antitubercular Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39446249/"
+          },
+          {
+            "pmid": "33127165",
+            "title": "[Association of borderline tuberculoid leprosy and tuberculosis: A case report and review of the literature].",
+            "abstract": "In metropolitan France, nearly 20 new cases of leprosy are diagnosed each year. The incidence of tuberculosis in France is 8/100,000 inhabitants and there are very few accounts of association of these two mycobacteria. Herein we report a case of co-infection with borderline tuberculoid (BT) leprosy and disseminated tuberculosis diagnosed in metropolitan France.",
+            "journal": "Annales de dermatologie et de venereologie",
+            "year": "2020",
+            "authors": [
+              "Rousset L",
+              "Sokal A",
+              "Vignon-Pennamen M-D",
+              "Pagis V",
+              "Rybojad M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Leprosy",
+              "Leprosy, Borderline",
+              "Leprosy, Tuberculoid",
+              "Male",
+              "Mycobacterium leprae",
+              "Skin",
+              "Tuberculosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33127165/"
+          },
+          {
+            "pmid": "33958898",
+            "title": "Determinants of Drug-Induced Hepatotoxicity Among Patients with Human Immunodeficiency Virus Taking a High Dose of Rifapentine Plus Isoniazid Drugs at the All Africa Leprosy Tuberculosis Rehabilitation and Training Center in Addis Ababa, Ethiopia [Retraction].",
+            "abstract": "[This retracts the article DOI: 10.2147/HIV.S300135.].",
+            "journal": "HIV/AIDS (Auckland, N.Z.)",
+            "year": "2021",
+            "authors": [],
+            "pub_types": [
+              "Retraction Notice"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33958898/"
+          },
+          {
+            "pmid": "8179715",
+            "title": "Isoniazid and hepatotoxicity.",
+            "abstract": "",
+            "journal": "International journal of leprosy and other mycobacterial diseases : official organ of the International Leprosy Association",
+            "year": "1993",
+            "authors": [
+              "Verduin P R"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Isoniazid",
+              "Leprosy",
+              "Liver",
+              "Pregnancy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8179715/"
+          },
+          {
+            "pmid": "13281923",
+            "title": "Isoniazid in leprosy.",
+            "abstract": "",
+            "journal": "Transactions of the Royal Society of Tropical Medicine and Hygiene",
+            "year": "1955",
+            "authors": [
+              "SCRAGG R F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Isoniazid",
+              "Leprosy",
+              "Niacin",
+              "Nicotinic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13281923/"
+          },
+          {
+            "pmid": "10382882",
+            "title": "Antimycobacterial activities of riminophenazines.",
+            "abstract": "Riminophenazines were specifically developed as drugs active against Mycobacterium tuberculosis but extensive research over several decades has shown that these compounds are also active against many other mycobacterial infections, particularly those caused by Mycobacterium leprae and the Mycobacterium avium complex (MAC). Clofazimine, the lead compound in this series, is included in the regimens that are approved by the WHO for the treatment of leprosy and has contributed significantly to the control of that disease, particularly that caused by dapsone-resistant bacteria. Despite early problems, clofazimine has shown clinical efficacy in tuberculosis, in particular that caused by multiple drug resistant strains. Clofazimine does not induce resistance and also inhibits emergence of resistance to isoniazid in M. tuberculosis. The efficacy of clofazimine against MAC is more varied and the availability of better drugs has limited its use. Newer riminophenazines, such as B746 and B4157, no",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "1999",
+            "authors": [
+              "Reddy V M",
+              "O'Sullivan J F",
+              "Gangadharam P R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antitubercular Agents",
+              "Clofazimine",
+              "Humans",
+              "Leprostatic Agents",
+              "Mycobacterium",
+              "Mycobacterium Infections",
+              "Phenazines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10382882/"
+          },
+          {
+            "pmid": "33915379",
+            "title": "Inhalable particles containing isoniazid and rifabutin as adjunct therapy for safe, efficacious and relapse-free cure of experimental animal tuberculosis in one month.",
+            "abstract": "We investigated the preclinical efficacy and safety/tolerability of biodegradable polymeric particles containing isoniazid (INH) and rifabutin (RFB) dry powder for inhalation (DPI) as an adjunct to oral first-line therapy. Mice and guinea pigs infected with Mycobacterium tuberculosis H37Rv (Mtb) were treated with ∼80 and ∼300 μg of the DPI, respectively, for 3-4 weeks starting 3, 10, and 30 days post-infection. Adjunct combination therapy eliminated culturable Mtb from the lungs and spleens of all but one of 52 animals that received the DPI. Relapse-free cure was not achieved in one mouse that received DPI + oral, human-equivalent doses (HED) of four drugs used in the Directly Observed Treatment, Short Course (DOTS), starting 30 days post-infection. Oral doses (20 mg/Kg/day, each) of INH + RFB reduced Mtb burden from ∼106 to ∼103 colony-forming units. Combining half the oral dose with DPI prevented relapse of infection four weeks after stopping the treatment. The DPI was safe in rodent",
+            "journal": "Tuberculosis (Edinburgh, Scotland)",
+            "year": "2021",
+            "authors": [
+              "Singh Amit K",
+              "Verma Rahul K",
+              "Mukker Jatinder Kaur",
+              "Yadav Awadh B",
+              "Muttil Pavan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Inhalation",
+              "Animals",
+              "Antitubercular Agents",
+              "Drug Therapy, Combination",
+              "Female",
+              "Guinea Pigs",
+              "Isoniazid",
+              "Macaca mulatta",
+              "Male",
+              "Mice"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33915379/"
+          },
+          {
+            "pmid": "13175567",
+            "title": "Isoniazid alone and in combination with other drugs in the treatment of leprosy.",
+            "abstract": "",
+            "journal": "Leprosy review",
+            "year": "1954",
+            "authors": [
+              "DAVIDSON W S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Isoniazid",
+              "Leprosy",
+              "Niacin",
+              "Nicotinic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13175567/"
+          },
+          {
+            "pmid": "9141669",
+            "title": "On the catalase-peroxidase gene, katG, of Mycobacterium leprae and the implications for treatment of leprosy with isoniazid.",
+            "abstract": "The toxicity of the potent tuberculocidal agent, isoniazid, is mediated by the heme-containing enzyme, catalase-peroxidase, encoded by the katG gene. Although isoniazid has been used for the treatment of leprosy, it is shown here that the katG gene of Mycobacterium leprae is a pseudogene, which has probably been inactivated by multiple mutations. Inactive genes were detected by the polymerase chain reaction in several isolates of M. leprae, of different geographical origins, and attempts to complement an isoniazid-resistant strain of Mycobacterium smegmatis with the katG pseudogene were unsuccessful. Isoniazid is thus likely to be of no therapeutic benefit to leprosy patients.",
+            "journal": "FEMS microbiology letters",
+            "year": "1997",
+            "authors": [
+              "Eiglmeier K",
+              "Fsihi H",
+              "Heym B",
+              "Cole S T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Antitubercular Agents",
+              "Bacterial Proteins",
+              "Cloning, Molecular",
+              "Cosmids",
+              "Genes, Bacterial",
+              "Isoniazid",
+              "Leprosy",
+              "Molecular Sequence Data",
+              "Mycobacterium leprae",
+              "Peroxidases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9141669/"
+          },
+          {
+            "pmid": "23208884",
+            "title": "Leprosy and tuberculosis co-infection: clinical and immunological report of two cases and review of the literature.",
+            "abstract": "A review of the records of patients seen between 2004 and 2011 at the Dermatology Clinic of the São Paulo University Medical School showed that only two leprosy patients had been co-infected with tuberculosis (TB). One patient showed a type 1 leprosy reaction during the first 3 months of treatment of pleural TB and in the other patient, pulmonary TB was diagnosed during the first 3 months of treatment of a type 1 leprosy reaction. Both patients showed normal cellular immune response tests, including those of the interferon-gamma (IFN-γ)/interleukin 12 (IL-12) axis. Although both mycobacterial infections are endemic in developing countries like Brazil, the co-infection has hardly been reported in the last decade. There is no suitable explanation for this observation. The reports on the interaction between the two mycobacteria are highly speculative: some studies suggest that leprosy, especially the anergic form, would predispose to TB, whereas other investigations suggested an antagonis",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "2013",
+            "authors": [
+              "Trindade Maria Ângela B",
+              "Miyamoto Denise",
+              "Benard Gil",
+              "Sakai-Valente Neusa Y",
+              "Vasconcelos Dewton de M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Brazil",
+              "Coinfection",
+              "Female",
+              "Humans",
+              "Immunity, Cellular",
+              "Interferon-gamma",
+              "Interleukin-12",
+              "Isoniazid",
+              "Leprosy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23208884/"
+          },
+          {
+            "pmid": "13024048",
+            "title": "Intracorneal murine leprosy and its response to isoniazid.",
+            "abstract": "",
+            "journal": "Lancet (London, England)",
+            "year": "1953",
+            "authors": [
+              "GOULDING R",
+              "ROBSON J M",
+              "REES R J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Isoniazid",
+              "Leprosy",
+              "Niacin",
+              "Nicotinic Acids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13024048/"
+          },
+          {
+            "pmid": "27097724",
+            "title": "Mycobacterium tuberculosis Uganda II is more susceptible to rifampicin and isoniazid compared to Beijing and Delhi/CAS families.",
+            "abstract": "Mycobacterium tuberculosis Uganda family is the predominant cause of tuberculosis in Uganda. Reasons for this are not clear but are likely to be due to the rampant person-to-person transmission or delayed susceptibility of the organism to drugs during treatment, which may lead to continuous shedding of infectious bacilli, among others. The objective of this study was to determine in vitro, the susceptibility patterns of M. tuberculosis Uganda family compared with Beijing and Delhi/CAS, other M. tuberculosis sub-lineages that also circulate in Uganda but are not as prevalent. The comparisons were made after 10 days of exposure of the strains to Rifampicin and Isoniazid, the most important first-line anti-tuberculosis drugs.",
+            "journal": "BMC infectious diseases",
+            "year": "2016",
+            "authors": [
+              "Kasule George W",
+              "Kateete David P",
+              "Joloba Moses L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Genotype",
+              "Humans",
+              "Isoniazid",
+              "Microbial Sensitivity Tests",
+              "Mycobacterium tuberculosis",
+              "Oxygen",
+              "Rifampin",
+              "Tuberculosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27097724/"
+          },
+          {
+            "pmid": "13268856",
+            "title": "The intermittent use of streptomycin and isoniazid singly and together in murine leprosy.",
+            "abstract": "",
+            "journal": "American review of tuberculosis",
+            "year": "1955",
+            "authors": [
+              "HOBBY G L",
+              "DONIKIAN M A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Actinomycetales Infections",
+              "Animals",
+              "Humans",
+              "Isoniazid",
+              "Leprosy",
+              "Mice",
+              "Niacin",
+              "Nicotinic Acids",
+              "Streptomycin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13268856/"
+          },
+          {
+            "pmid": "13294919",
+            "title": "[The place of isoniazid and the thiosemicarbazones in the treatment of leprosy].",
+            "abstract": "",
+            "journal": "Jornal do medico",
+            "year": "1955",
+            "authors": [
+              "MAGALHAES M J C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Isomerism",
+              "Isoniazid",
+              "Leprosy",
+              "Niacin",
+              "Nicotinic Acids",
+              "Thiosemicarbazones"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/13294919/"
+          },
+          {
+            "pmid": "4929555",
+            "title": "[Therapy of leprosy].",
+            "abstract": "",
+            "journal": "La Clinica terapeutica",
+            "year": "1969",
+            "authors": [
+              "Ilardi I",
+              "Mazzacurati G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cycloserine",
+              "Humans",
+              "Isoniazid",
+              "Leprosy",
+              "Oils",
+              "Plant Extracts",
+              "Prognosis",
+              "Salicylates",
+              "Streptomycin",
+              "Sulfhydryl Compounds"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4929555/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "leprosy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20leprosy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brachydactyly-syndactyly syndrome",
+        "txgnn_score": 0.9782128930091858,
+        "txgnn_rank": 3923,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "brachydactyly-syndactyly syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20brachydactyly-syndactyly%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "vestibular neuronitis",
+        "txgnn_score": 0.9779732823371888,
+        "txgnn_rank": 3956,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "vestibular neuronitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20vestibular%20neuronitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "motor nerve neuritis",
+        "txgnn_score": 0.9775984287261964,
+        "txgnn_rank": 4006,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "6329054",
+            "title": "The neurotoxicity of antibacterial agents.",
+            "abstract": "Commonly used antibacterial agents may be associated with various neurotoxic reactions. Central nervous system toxicities include seizure disorders, encephalopathy, bulging fontanelles, and neuropsychiatric symptoms. These abnormalities have been associated with the use of the penicillins, cephalosporins, sulfonamides, tetracyclines, chloramphenicol, colistin, aminoglycosides, metronidazole, isoniazid, rifampin, ethionamide, cycloserine, and dapsone. Cranial nerve toxicities, such as myopia, optic neuritis, deafness, vertigo, and tinnitus, have been associated with the use of erythromycin, sulfonamides, tetracyclines, chloramphenicol, colistin, aminoglycosides, vancomycin, isoniazid, and ethambutol. Peripheral nerve symptoms consisting of paresthesias, motor weakness, or sensory impairment have been associated with the use of the penicillins, sulfonamides, chloramphenicol, colistin, metronidazole, isoniazid, ethionamide, and dapsone. Neuromuscular blockade has been associated with the ",
+            "journal": "Annals of internal medicine",
+            "year": "1984",
+            "authors": [
+              "Snavely S R",
+              "Hodges G R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aminoglycosides",
+              "Animals",
+              "Anti-Bacterial Agents",
+              "Anti-Infective Agents",
+              "Central Nervous System Diseases",
+              "Cephalosporins",
+              "Chloramphenicol",
+              "Clindamycin",
+              "Colistin",
+              "Cranial Nerve Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6329054/"
+          },
+          {
+            "pmid": "1339149",
+            "title": "Isoniazid induced neuropathy in slow versus rapid acetylators: an electrophysiological study.",
+            "abstract": "Clinical, biochemical and nerve conduction studies were performed in 100 cases of tuberculosis taking isonicotinic acid hydrozide (isoniazid) for more than 12 weeks. Electro-physiological studies were carried out in a similar number of normal age and sex matched controls. In 16 percent of cases an abnormality was documented in the motor nerve conduction velocity, amplitude and terminal latency of the common peroneal, ulnar and median nerves; of these, only two patients had objective evidence of neuritis. The occurrence of isoniazid neuropathy was found to be more in the fourth decade of life (10 of 16), in those who had taken the drug for over six months (13 of 16), and in 'slow' inactivators (10 of 16).",
+            "journal": "The Journal of the Association of Physicians of India",
+            "year": "1992",
+            "authors": [
+              "Goel U C",
+              "Bajaj S",
+              "Gupta O P",
+              "Dwivedi N C",
+              "Dubey A L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetylation",
+              "Action Potentials",
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Child",
+              "Electromyography",
+              "Female",
+              "Humans",
+              "Isoniazid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1339149/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "motor nerve neuritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20motor%20nerve%20neuritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "infectious otitis media",
+        "txgnn_score": 0.9772934317588806,
+        "txgnn_rank": 4035,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "5302244",
+            "title": "[Current aspects of congenital tuberculosis. Review of the literature apropos of a case beginning as otitis].",
+            "abstract": "",
+            "journal": "Le Poumon et le coeur",
+            "year": "1968",
+            "authors": [
+              "Vaillaud J C",
+              "Sarrouy C"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Humans",
+              "Infant, Newborn",
+              "Infant, Newborn, Diseases",
+              "Isoniazid",
+              "Maternal-Fetal Exchange",
+              "Otitis Media",
+              "Phenylthiourea",
+              "Prednisone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5302244/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "infectious otitis media",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20infectious%20otitis%20media"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brachial plexus neuritis",
+        "txgnn_score": 0.9771550297737122,
+        "txgnn_rank": 4058,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "5107465",
+            "title": "[Management and prognosis of INH-induced neuritis?].",
+            "abstract": "",
+            "journal": "Munchener medizinische Wochenschrift (1950)",
+            "year": "1971",
+            "authors": [
+              "Schalterand G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Brachial Plexus",
+              "Humans",
+              "Isoniazid",
+              "Paralysis",
+              "Polyneuropathies",
+              "Prognosis",
+              "Time Factors",
+              "Vitamin B Complex"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5107465/"
+          },
+          {
+            "pmid": "1554089",
+            "title": "[Cold tuberculous retropharyngeal abscess].",
+            "abstract": "The AA. present a report about a patient having a cold tuberculous abscess which symptomatologic manifested through dysphagia and cervico-brachialgia. Comments on the most remarkable aspects of these conditions.",
+            "journal": "Anales otorrinolaringologicos ibero-americanos",
+            "year": "1992",
+            "authors": [
+              "Valles H",
+              "Garcia Guzman A",
+              "Blanc J M",
+              "Fumanal L",
+              "de Francisco J E"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abscess",
+              "Brachial Plexus Neuritis",
+              "Deglutition Disorders",
+              "Drug Therapy, Combination",
+              "Ethambutol",
+              "Female",
+              "Humans",
+              "Isoniazid",
+              "Middle Aged",
+              "Neck"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1554089/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Isoniazid",
+          "disease": "brachial plexus neuritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Isoniazid%20brachial%20plexus%20neuritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Isoniazid",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00951",
+    "name": "Isoniazid",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Isoniazid"
+      },
+      "queried_at": "2026-03-24T15:27:24.482078",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Isoniazid"
+      },
+      "queried_at": "2026-03-24T15:27:24.484558",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Isoniazid"
+      },
+      "queried_at": "2026-03-24T15:27:29.521558",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:27:30.835673",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:27:34.356069",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:27:34.908778",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:27:37.821088",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:27:38.805086",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:27:45.163566",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:27:50.170574",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:27:55.181529",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "shigellosis"
+      },
+      "queried_at": "2026-03-24T15:27:55.636587",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "shigellosis"
+      },
+      "queried_at": "2026-03-24T15:28:01.924147",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "shigellosis"
+      },
+      "queried_at": "2026-03-24T15:28:02.530658",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "shigellosis"
+      },
+      "queried_at": "2026-03-24T15:28:07.554147",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:28:12.566635",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:28:21.277822",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:28:23.791285",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:28:28.806336",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "leprosy"
+      },
+      "queried_at": "2026-03-24T15:28:29.728805",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "leprosy"
+      },
+      "queried_at": "2026-03-24T15:28:39.107952",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "leprosy"
+      },
+      "queried_at": "2026-03-24T15:28:40.841408",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "leprosy"
+      },
+      "queried_at": "2026-03-24T15:28:47.179310",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:28:49.528842",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:29:00.911591",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:29:03.369620",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:29:11.908178",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "vestibular neuronitis"
+      },
+      "queried_at": "2026-03-24T15:29:12.923273",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "vestibular neuronitis"
+      },
+      "queried_at": "2026-03-24T15:29:21.481680",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "vestibular neuronitis"
+      },
+      "queried_at": "2026-03-24T15:29:25.733056",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "vestibular neuronitis"
+      },
+      "queried_at": "2026-03-24T15:29:27.907254",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "motor nerve neuritis"
+      },
+      "queried_at": "2026-03-24T15:29:29.757122",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "motor nerve neuritis"
+      },
+      "queried_at": "2026-03-24T15:29:38.213011",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "motor nerve neuritis"
+      },
+      "queried_at": "2026-03-24T15:29:43.190135",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "motor nerve neuritis"
+      },
+      "queried_at": "2026-03-24T15:29:50.660083",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "infectious otitis media"
+      },
+      "queried_at": "2026-03-24T15:29:51.358916",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "infectious otitis media"
+      },
+      "queried_at": "2026-03-24T15:29:54.834127",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "infectious otitis media"
+      },
+      "queried_at": "2026-03-24T15:29:55.628674",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "infectious otitis media"
+      },
+      "queried_at": "2026-03-24T15:29:59.040904",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachial plexus neuritis"
+      },
+      "queried_at": "2026-03-24T15:30:00.544571",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachial plexus neuritis"
+      },
+      "queried_at": "2026-03-24T15:30:05.244379",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachial plexus neuritis"
+      },
+      "queried_at": "2026-03-24T15:30:05.910205",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Isoniazid",
+        "disease": "brachial plexus neuritis"
+      },
+      "queried_at": "2026-03-24T15:30:08.219485",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:30:08.223066"
+  }
+}

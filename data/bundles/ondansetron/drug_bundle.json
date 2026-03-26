@@ -1,0 +1,1165 @@
+{
+  "drug": {
+    "inn": "Ondansetron",
+    "drugbank_id": "DB00904",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "nephrogenic syndrome of inappropriate antidiuresis",
+        "txgnn_score": 0.9865151047706604,
+        "txgnn_rank": 2651,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "nephrogenic syndrome of inappropriate antidiuresis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20nephrogenic%20syndrome%20of%20inappropriate%20antidiuresis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Tourette syndrome",
+        "txgnn_score": 0.9795798063278198,
+        "txgnn_rank": 3759,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03239210",
+            "title": "Effects of Ondansetron in Obsessive-compulsive and Tic Disorders",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2017-06-16",
+            "completion_date": "2022-05-16",
+            "country": "United States",
+            "enrollment": 110,
+            "brief_summary": "This project investigates the use of 4 weeks of 24 mg/day ondansetron as compared to placebo on symptoms and brain functioning in patients with obsessive-compulsive disorder (OCD) and tic disorders (TD). Patients will be randomized to receive ondansetron or placebo for 4 weeks, with MRI scans and symptom assessments occurring at baseline (before any drug) and at the end of the 4 weeks. Patients will also be asked to come into the lab approximately 2 weeks into the trial for symptom assessments. ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients must be medically healthy, between 18 and 60 years of age\n* Fluent (speaking and writing) in English\n* Patients must have a current diagnosis of obsessive-compulsive disorder (OCD) or tic disorder (OCD) according to Diagnostic and Statistical Manual of Mental Disorder",
+            "endpoints": [
+              "Change in Brain Activation - Insula Cortex",
+              "Change in Brain Activation - Somatosensory Cortex"
+            ],
+            "sponsor": "NYU Langone Health",
+            "url": "https://clinicaltrials.gov/study/NCT03239210"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "39876680",
+            "title": "Randomized Controlled Trial of the Effects of High-Dose Ondansetron on Clinical Symptoms and Brain Connectivity in Obsessive-Compulsive and Tic Disorders.",
+            "abstract": "Sensory phenomena (SP) are aversive sensations driving repetitive behaviors in obsessive-compulsive disorder (OCD) and Tourette's disorder that are not well addressed by standard treatments. SP are related to the functioning of an interoceptive-sensorimotor circuit that may be modulated by the 5-HT3 receptor antagonist ondansetron. The present study employed an experimental medicine approach to test the effects of 4 weeks of high-dose ondansetron compared to placebo on SP severity and brain connectivity in a cohort of individuals with OCD and/or Tourette's disorder.",
+            "journal": "The American journal of psychiatry",
+            "year": "2025",
+            "authors": [
+              "Stern Emily R",
+              "Collins Katherine A",
+              "Bragdon Laura B",
+              "Eng Goi Khia",
+              "Recchia Nicolette"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Ondansetron",
+              "Obsessive-Compulsive Disorder",
+              "Male",
+              "Female",
+              "Adult",
+              "Magnetic Resonance Imaging",
+              "Brain",
+              "Double-Blind Method",
+              "Serotonin 5-HT3 Receptor Antagonists"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39876680/"
+          },
+          {
+            "pmid": "21183132",
+            "title": "Pharmacotherapeutics of Tourette syndrome and stereotypies in autism.",
+            "abstract": "Tourette syndrome (TS) and stereotypy in autism spectrum disorders (ASDs) are 2 common movement disorders in childhood. The objective of this review was to summarize randomized controlled trials published over the past 5 years as an update of the current pharmacotherapeutic options for the treatment of tics, TS, and motor stereotypies in children with ASD. We searched MEDLINE (2005-May 2010) for randomized controlled trials of medications used for the treatment of these disorders. For the treatment of tics in TS, 2 trials suggest that levetiracetam is not effective, whereas 1 trial found that topiramate was effective. Single clinical trials of metoclopramide, atomoxetine, and ondansetron were of limited quality, preventing conclusions to be made regarding the usefulness of these treatments for tic disorders. For the treatment of stereotypy in children with ASD, risperidone has been shown in both a Cochrane review in 2006 and 2 subsequent randomized control trials to be effective. The a",
+            "journal": "Seminars in pediatric neurology",
+            "year": "2010",
+            "authors": [
+              "Rajapakse Thilinie",
+              "Pringsheim Tamara"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Child Development Disorders, Pervasive",
+              "Humans",
+              "Psychotropic Drugs",
+              "Randomized Controlled Trials as Topic",
+              "Stereotypic Movement Disorder",
+              "Tourette Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21183132/"
+          },
+          {
+            "pmid": "40489853",
+            "title": "A narrative review of Phase III and IV clinical trials for the pharmacological treatment of Tourette's syndrome in children, adults, and older adults.",
+            "abstract": "Tourette syndrome (TS) is a neurodevelopmental disorder marked by involuntary movements and vocalizations (tics), often accompanied by cognitive and conduct challenges. Despite existing treatments, many remain ineffective, prompting increased focus on Phase III and IV clinical trials for improved pharmacological options. These trials aim to refine symptom management and enhance the quality of life for individuals with TS. This review aims to identify the pharmacological treatments trialed in completed Phase III and IV clinical trials for managing TS in children, adults, and older adults. Phase III and IV clinical trials registered at ClinicalTrials.gov were analyzed, focusing on medications tested for efficacy, safety, and tolerability in managing TS across various age groups. As of February 2025, 15 relevant Phase III and IV trials were reviewed. These trials examined medications targeting dopaminergic, adrenergic, serotonergic, glutamatergic, and gamma-aminobutyric acid (GABA)ergic p",
+            "journal": "Medicine",
+            "year": "2025",
+            "authors": [
+              "Alharthi Mohammed S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Tourette Syndrome",
+              "Clinical Trials, Phase III as Topic",
+              "Adult",
+              "Child",
+              "Clinical Trials, Phase IV as Topic",
+              "Quality of Life",
+              "Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40489853/"
+          },
+          {
+            "pmid": "18184945",
+            "title": "The successful use of ondansetron in a boy with both leukemia and Tourette syndrome.",
+            "abstract": "This article reports an 8-year-old boy with both acute lymphoblastic leukemia and Gilles de la Tourette syndrome. Initially, for his leukemia, he was treated with chemotherapy, which resulted in severe nausea and vomiting for which he was given ondansetron. This not only relieved the target symptoms, but also those of his Gilles de la Tourette syndrome. Following a reduction of the ondansetron dosage, his Gilles de la Tourette syndrome symptoms reemerged.",
+            "journal": "Journal of child neurology",
+            "year": "2008",
+            "authors": [
+              "Rizzo Renata",
+              "Marino Santo",
+              "Gulisano Mariangela",
+              "Robertson Mary M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Dyskinesia Agents",
+              "Antiemetics",
+              "Antineoplastic Agents",
+              "Biperiden",
+              "Brain",
+              "Child",
+              "Dose-Response Relationship, Drug",
+              "Humans",
+              "Leukemia",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18184945/"
+          },
+          {
+            "pmid": "10565805",
+            "title": "Ondansetron treatment in patients with Tourette's syndrome.",
+            "abstract": "Ondansetron, a selective 5-HT3 antagonist, may lower mesolimbic dopaminergic hyperactivity. The present open-label pilot study evaluated the effect of ondansetron in Tourette's syndrome. Six Tourette's syndrome men aged 14-48 years resistant to haloperidol participated in the study. Assessments included the Yale Global Tic Severity Scale (YGTSS), Yale-Brown Obsessive-Compulsive Scale (Y-BOCS), and Tourette's syndrome-Clinical Global Impression (TS-CGI) scale. The maximal ondansetron dosage (8-16 mg per day) was given for 3 weeks. Ondansetron treatment was associated with a significant decrease in the severity of tics. Two patients showed a definite response (score improvement of 40% or more), and two showed a probable response (> 25%). Two patients did not improve. Side-effects were transient and included abdominal pain (n = 5) and constipation (n = 2). Ondansetron may possess anti-tic effects in some Tourette's syndrome patients.",
+            "journal": "International clinical psychopharmacology",
+            "year": "1999",
+            "authors": [
+              "Toren P",
+              "Laor N",
+              "Cohen D J",
+              "Wolmer L",
+              "Weizman A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Obsessive-Compulsive Disorder",
+              "Ondansetron",
+              "Pilot Projects",
+              "Psychiatric Status Rating Scales"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10565805/"
+          },
+          {
+            "pmid": "11474424",
+            "title": "Ondansetron: a selective 5-HT(3) receptor antagonist and its applications in CNS-related disorders.",
+            "abstract": "Ondansetron is a selective 5-hydroxytryptamine(3) (5-HT(3)) receptor antagonist that has been introduced to clinical practice as an antiemetic for cancer treatment-induced and anesthesia-related nausea and vomiting. Its use under these circumstances is both prophylactic and therapeutic. It has a superior efficacy, safety and pharmacoeconomic profile compared with other groups of antiemetics, namely antidopaminergics, antihistamines and anticholinergics. However, its place in the management of anticipatory and delayed vomiting in cancer treatment and as a rescue antiemetic in surgical patients needs to be further explored. Furthermore, recent animal and human research also reflects its possible novel application in the treatment of other disease states, such as alcoholism, cocaine addiction, opioid withdrawal syndrome, anxiety disorders, gastrointestinal motility disorders, Tourette's syndrome and pruritus. This review revisits the widespread physiological and pathological effects of 5-",
+            "journal": "CNS drug reviews",
+            "year": "2001",
+            "authors": [
+              "Ye J H",
+              "Ponnudurai R",
+              "Schaefer R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Colonic Diseases, Functional",
+              "Humans",
+              "Ion Channels",
+              "Nausea",
+              "Ondansetron",
+              "Receptors, Serotonin",
+              "Serotonin Antagonists",
+              "Vomiting"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11474424/"
+          },
+          {
+            "pmid": "15816793",
+            "title": "Ondansetron treatment in Tourette's disorder: a 3-week, randomized, double-blind, placebo-controlled study.",
+            "abstract": "The aim of the present study was to evaluate the efficacy of ondansetron, a selective 5-HT(3) antagonist, in the treatment of Tourette's disorder.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2005",
+            "authors": [
+              "Toren Paz",
+              "Weizman Abraham",
+              "Ratner Sharon",
+              "Cohen Donald",
+              "Laor Nathaniel"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Child",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Ondansetron",
+              "Placebos"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15816793/"
+          },
+          {
+            "pmid": "16314763",
+            "title": "Serotonin receptor genes HTR3A and HTR3B are not involved in Gilles de la Tourette syndrome.",
+            "abstract": "Serotonin has been implicated in a variety of neuropsychiatric disorders. Serotonergic dysfunction is thought to be involved in the pathophysiology of the Gilles de la Tourette Syndrome (GTS). GTS is characterized by multiple vocal and motoric tics. Among selective, competitive 5-HT(3) receptor antagonists, ondansetron represents a promising drug in GTS treatment. In our study both serotonin receptor subunit genes, HTR3A and HTR3B, were examined for sequence variations in GTS patients. We have analyzed DNA samples from 49 patients by SSCP and dHPLC. In HTR3A, we detected five mutations and in HTR3B the analysis revealed six sequence variants. Statistical analysis rated all variants as probably non-disease-related polymorphisms. Yet a certain effect of the detected variants on the severity of the disease cannot be excluded.",
+            "journal": "Psychiatric genetics",
+            "year": "2005",
+            "authors": [
+              "Niesler Beate",
+              "Frank Bernd",
+              "Hebebrand Johannes",
+              "Rappold Gudrun"
+            ],
+            "pub_types": [
+              "Letter",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Base Sequence",
+              "Genetic Variation",
+              "Humans",
+              "Mutation",
+              "Polymorphism, Single-Stranded Conformational",
+              "Receptors, Serotonin",
+              "Receptors, Serotonin, 5-HT3",
+              "Tourette Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16314763/"
+          },
+          {
+            "pmid": "21568361",
+            "title": "Obsessive-compulsive disorder, impulse control disorders and drug addiction: common features and potential treatments.",
+            "abstract": "The basic concepts underlying compulsive, impulsive and addictive behaviours overlap, which may help explain why laymen use these expressions interchangeably. Although there has been a large research effort to better characterize and disentangle these behaviours, clinicians and scientists are still unable to clearly differentiate them. Accordingly, obsessive-compulsive disorder (OCD), impulse control disorders (ICD) and substance-related disorders (SUD) overlap on different levels, including phenomenology, co-morbidity, neurocircuitry, neurocognition, neurochemistry and family history. In this review we summarize these issues with particular emphasis on the role of the opioid system in the pathophysiology and treatment of OCD, ICD and SUD. We postulate that with progression and chronicity of OCD, the proportion of the OCD-related behaviours (e.g. checking, washing, ordering and hoarding, among others) that are driven by impulsive 'rash' processes increase as involvement of more ventral",
+            "journal": "Drugs",
+            "year": "2011",
+            "authors": [
+              "Fontenelle Leonardo F",
+              "Oostermeijer Sanne",
+              "Harrison Ben J",
+              "Pantelis Christos",
+              "Yücel Murat"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Comorbidity",
+              "Disruptive, Impulse Control, and Conduct Disorders",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Substance-Related Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21568361/"
+          },
+          {
+            "pmid": "16434179",
+            "title": "Anesthetic management for cesarean delivery in a woman with Gilles de la Tourette's syndrome.",
+            "abstract": "Gilles de la Tourette's syndrome is a chronic neuropsychiatric disorder with an early childhood onset featuring mainly motor and vocal tics. We present the anesthetic management for cesarean delivery of a 21-year-old pregnant woman with Tourette's syndrome. She had shrugging of the shoulders and sudden, jerky, repetitive, irregular movements of the hands. General anesthesia was given for cesarean delivery. A live male infant weighing 3130 g was delivered. Her perioperative course was uneventful. No complication was observed. The patient and baby were discharged on the 4th postoperative day. It was decided to prescribe haloperidol 5 mg per day after lactation. Anesthesiologists should remember that there are special considerations when managing anesthesia in patients with Tourette's syndrome. The motor tics may lead to technical difficulty in performing regional anesthesia and surgery. Therefore general anesthesia may be appropriate in order to prevent agitation or involuntary movements",
+            "journal": "International journal of obstetric anesthesia",
+            "year": "2006",
+            "authors": [
+              "Sener E B",
+              "Kocamanoglu S",
+              "Ustun E",
+              "Tur A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anesthesia, General",
+              "Anesthesia, Obstetrical",
+              "Antipsychotic Agents",
+              "Breast Feeding",
+              "Cesarean Section",
+              "Electrocardiography",
+              "Female",
+              "Haloperidol",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16434179/"
+          },
+          {
+            "pmid": "23126479",
+            "title": "There is no evidence for an association between the serotonin receptor 3A gene C178T polymorphism and tardive dyskinesia in Korean schizophrenia patients.",
+            "abstract": "Tardive dyskinesia (TD) is a potential adverse effect of long-term treatment with antipsychotics. Previous studies have suggested a link between brain serotonergic systems and TD vulnerability. A recent report described that a serotonin 3 receptor (5-HTR3) agonist induced rhythmic movements in mice with complete paraplegia. Furthermore, it has been reported that the 5-HTR3 antagonist ondansetron is efficacious in the treatment of Gilles de la Tourette syndrome (GTS).",
+            "journal": "Nordic journal of psychiatry",
+            "year": "2013",
+            "authors": [
+              "Kang Seung-Gul",
+              "Lee Heon-Jeong",
+              "Yoon Ho-Kyoung",
+              "Cho Sung Nam",
+              "Park Young-Min"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antipsychotic Agents",
+              "Case-Control Studies",
+              "Dyskinesia, Drug-Induced",
+              "Female",
+              "Genetic Predisposition to Disease",
+              "Genotype",
+              "Humans",
+              "Korea",
+              "Male",
+              "Polymorphism, Genetic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23126479/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "Tourette syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20Tourette%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "trichotillomania",
+        "txgnn_score": 0.9726913571357728,
+        "txgnn_rank": 4567,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "trichotillomania",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20trichotillomania"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "paranoid personality disorder",
+        "txgnn_score": 0.9716038703918456,
+        "txgnn_rank": 4718,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "paranoid personality disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20paranoid%20personality%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "schizoid personality disorder",
+        "txgnn_score": 0.9716038703918456,
+        "txgnn_rank": 4719,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "schizoid personality disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20schizoid%20personality%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "histrionic personality disorder (disease)",
+        "txgnn_score": 0.9716038703918456,
+        "txgnn_rank": 4720,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "histrionic personality disorder (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20histrionic%20personality%20disorder%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "schizotypal personality disorder",
+        "txgnn_score": 0.9716038703918456,
+        "txgnn_rank": 4721,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "schizotypal personality disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20schizotypal%20personality%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "common cold",
+        "txgnn_score": 0.9702771902084352,
+        "txgnn_rank": 4904,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "31691396",
+            "title": "Serotoninergic pain modulation from the rostral ventromedial medulla (RVM) in chemotherapy-induced neuropathy: The role of spinal 5-HT3 receptors.",
+            "abstract": "Chemotherapy-induced neuropathy (CIN) is a common complication of cancer treatment. Although CIN is treated with antidepressants that act at serotonin (5-HT) reuptake, the mechanisms of serotoninergic modulation of nociceptive transmission during CIN remain unknown, namely as to the involvement of the rostroventromedial medulla (RVM) and the role of spinal 5-HT3 receptors (5-HT3R). Male Wistar rats were injected with the cytostatic paclitaxel or vehicle solution. One month after CIN induction, we first studied the activation of RVM neurons, and then the activation of the local serotoninergic neurons. Immunostaining of phosphorylated extracellular signal-regulated kinase (pERK) indicated increased activation in paclitaxel-injected animals. The double immunohistochemistry of pERK and tryptophan hydroxylase (TpH) showed higher expression of TpH and increased co-localization of TpH and pERK of paclitaxel-injected animals, indicating that CIN is associated with increased activation of serot",
+            "journal": "The European journal of neuroscience",
+            "year": "2020",
+            "authors": [
+              "Costa-Pereira José Tiago",
+              "Serrão Paula",
+              "Martins Isabel",
+              "Tavares Isaura"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antineoplastic Agents",
+              "Hyperalgesia",
+              "Male",
+              "Medulla Oblongata",
+              "Pain",
+              "Rats",
+              "Rats, Sprague-Dawley",
+              "Rats, Wistar",
+              "Spinal Cord"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31691396/"
+          },
+          {
+            "pmid": "10589824",
+            "title": "Changes in clinical measures of autonomic nervous system function related to cancer chemotherapy-induced nausea.",
+            "abstract": "Individual cancer patients differ in their nausea/vomiting response to chemotherapy. It is not known why patients receiving the same chemotherapy have different severity of side effects. Several lines of research implicate the autonomic nervous system (ANS) in the development of chemotherapy-induced nausea. We examined the association between autonomic reactivity and the level of nausea experienced following chemotherapy in 20 patients with ovarian cancer treated with cisplatin or carboplatin who received the same antiemetic. We applied eight common non-invasive clinical tests of autonomic function prior to inpatient chemotherapy treatment, 2 h after treatment and again 24 h following treatment. Two hours after chemotherapy and before any nausea was reported by the patients, the nine patients who subsequently experienced high levels of nausea had a greater overall percentage of abnormal clinical ANS tests than the 11 patients who subsequently developed low levels of nausea (P < 0.01). ",
+            "journal": "Journal of the autonomic nervous system",
+            "year": "1999",
+            "authors": [
+              "Morrow G R",
+              "Hickok J T",
+              "DuBeshter B",
+              "Lipshultz S E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Antiemetics",
+              "Antineoplastic Agents",
+              "Autonomic Nervous System",
+              "Blood Pressure",
+              "Carboplatin",
+              "Cisplatin",
+              "Cold Temperature",
+              "Cyclophosphamide",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10589824/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "common cold",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20common%20cold"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "allergic urticaria",
+        "txgnn_score": 0.967800498008728,
+        "txgnn_rank": 5176,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "28941390",
+            "title": "Severe forms of food allergy.",
+            "abstract": "To guide the diagnostic and therapeutic management of severe forms of food allergy.",
+            "journal": "Jornal de pediatria",
+            "year": "2017",
+            "authors": [
+              "Sarinho Emanuel",
+              "Lins Maria das Graças Moura"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anaphylaxis",
+              "Enterocolitis",
+              "Food Hypersensitivity",
+              "Humans",
+              "Severity of Illness Index",
+              "Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28941390/"
+          },
+          {
+            "pmid": "10918237",
+            "title": "Allergic reaction to high-dose methotrexate.",
+            "abstract": "",
+            "journal": "Medical and pediatric oncology",
+            "year": "2000",
+            "authors": [
+              "Postovsky S",
+              "Elhasid R",
+              "Ben-Barak A",
+              "Levin K",
+              "Ben Arush M W"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Anxiety Agents",
+              "Antimetabolites, Antineoplastic",
+              "Antipruritics",
+              "Bone Neoplasms",
+              "Diphenhydramine",
+              "Drug Eruptions",
+              "Drug Therapy, Combination",
+              "Folic Acid Antagonists",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10918237/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "allergic urticaria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20allergic%20urticaria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "acute intermittent porphyria",
+        "txgnn_score": 0.9655799269676208,
+        "txgnn_rank": 5421,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Ondansetron",
+          "disease": "acute intermittent porphyria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Ondansetron%20acute%20intermittent%20porphyria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Ondansetron",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00904",
+    "name": "Ondansetron",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Ondansetron"
+      },
+      "queried_at": "2026-03-24T16:17:14.504728",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Ondansetron"
+      },
+      "queried_at": "2026-03-24T16:17:14.507154",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Ondansetron"
+      },
+      "queried_at": "2026-03-24T16:17:16.470836",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "nephrogenic syndrome of inappropriate antidiuresis"
+      },
+      "queried_at": "2026-03-24T16:17:17.094416",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "nephrogenic syndrome of inappropriate antidiuresis"
+      },
+      "queried_at": "2026-03-24T16:17:20.371107",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "nephrogenic syndrome of inappropriate antidiuresis"
+      },
+      "queried_at": "2026-03-24T16:17:20.896465",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "nephrogenic syndrome of inappropriate antidiuresis"
+      },
+      "queried_at": "2026-03-24T16:17:21.801412",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "Tourette syndrome"
+      },
+      "queried_at": "2026-03-24T16:17:22.344047",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "Tourette syndrome"
+      },
+      "queried_at": "2026-03-24T16:17:25.718813",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "Tourette syndrome"
+      },
+      "queried_at": "2026-03-24T16:17:25.889222",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "Tourette syndrome"
+      },
+      "queried_at": "2026-03-24T16:17:29.053292",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-24T16:17:29.691611",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-24T16:17:33.291215",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-24T16:17:34.014128",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "trichotillomania"
+      },
+      "queried_at": "2026-03-24T16:17:35.051603",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:35.491454",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:39.114125",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:39.594963",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "paranoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:40.518973",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:40.970331",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:44.357108",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:44.546029",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizoid personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:45.408706",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-24T16:17:46.601050",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-24T16:17:49.953382",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-24T16:17:50.650480",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "histrionic personality disorder (disease)"
+      },
+      "queried_at": "2026-03-24T16:17:51.573239",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:52.140840",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:55.520631",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:56.117900",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "schizotypal personality disorder"
+      },
+      "queried_at": "2026-03-24T16:17:57.069903",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:17:57.491147",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:18:00.998553",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:18:01.139616",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "common cold"
+      },
+      "queried_at": "2026-03-24T16:18:03.492465",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T16:18:03.917022",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T16:18:07.094867",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T16:18:07.644626",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T16:18:10.001490",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "acute intermittent porphyria"
+      },
+      "queried_at": "2026-03-24T16:18:10.570087",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "acute intermittent porphyria"
+      },
+      "queried_at": "2026-03-24T16:18:13.991781",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "acute intermittent porphyria"
+      },
+      "queried_at": "2026-03-24T16:18:14.442677",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Ondansetron",
+        "disease": "acute intermittent porphyria"
+      },
+      "queried_at": "2026-03-24T16:18:15.422144",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:18:15.423578"
+  }
+}

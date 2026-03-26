@@ -1,0 +1,1332 @@
+{
+  "drug": {
+    "inn": "Mebendazole",
+    "drugbank_id": "DB00643",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "acne (disease)",
+        "txgnn_score": 0.9919778108596802,
+        "txgnn_rank": 1760,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "7072899",
+            "title": "Human proliferative sparganosis in Venezuela: report of a case.",
+            "abstract": "A case of human proliferative sparganosis, the first in the southern hemisphere, is reported. The patient had multiple nodular, papular, acne-like lesions, gynecomastia, and large subcutaneous abscesses. Laboratory findings showed that he also had severe anemia of the type associated with infection and chronic diseases, leukocytosis, eosinophilia, and severe hypoalbuminemia and hypergammaglobulinemia. His cellular and humoral immune responses were unaltered. New aspects on the functional repercussion of the parasitism of the human host by Sparganum proliferum are discussed. Treatment with mebendazole was ineffective; the patient's tolerance for the newer drug praziquantel was extremely poor.",
+            "journal": "The American journal of tropical medicine and hygiene",
+            "year": "1982",
+            "authors": [
+              "Moulinier R",
+              "Martinez E",
+              "Torres J",
+              "Noya O",
+              "de NOya B A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antibodies",
+              "Humans",
+              "Immunity, Cellular",
+              "Immunoglobulins",
+              "Male",
+              "Mebendazole",
+              "Praziquantel",
+              "Sparganosis",
+              "Sparganum"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7072899/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "acne (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20acne%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "leishmaniasis, diffuse cutaneous",
+        "txgnn_score": 0.983809232711792,
+        "txgnn_rank": 3088,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "leishmaniasis, diffuse cutaneous",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20leishmaniasis%2C%20diffuse%20cutaneous"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "echinococcus granulosus infectious disease",
+        "txgnn_score": 0.9560838341712952,
+        "txgnn_rank": 6295,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "echinococcus granulosus infectious disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20echinococcus%20granulosus%20infectious%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hordeolum",
+        "txgnn_score": 0.9488479495048524,
+        "txgnn_rank": 6935,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "hordeolum",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20hordeolum"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alveolar echinococcosis",
+        "txgnn_score": 0.942026674747467,
+        "txgnn_rank": 7505,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02876146",
+            "title": "Alveolar Echinococcosis: Parasite Viability and Innovative Markers for Follow-up of Patients Treated With Albendazole - EchinoVISTA Prospective Clinical Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-06",
+            "completion_date": "2021-08",
+            "country": "N/A",
+            "enrollment": 50,
+            "brief_summary": "Study design to define improved management of patients with hepatic alveolar echinococcosis treated with albendazole and especially make appropriate and timely decision of treatment withdrawal .\n\nBased on exploratory analysis of existing and newly developed biological and imaging exams, for diagnosis and follow-up, and study of the relationship of these markers to the viability of the parasite and/or the activity of the parasitic lesions The study included two series of patients: operated on (cu",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* hepatic alveolar echinococcosis\n* without antiparasitic treatment or with antiparasitic treatment and hepatectomy programmed\n\nExclusion Criteria:\n\n* Patients with exclusively extra-hepatic form of alveolar echinococcosis\n* Women without effective contraception (Contraindicatio",
+            "endpoints": [
+              "Ratio of non-operated on patients with negative viability markers after a 4 years benzimidazole treatment"
+            ],
+            "sponsor": "Centre Hospitalier Universitaire de Besancon",
+            "url": "https://clinicaltrials.gov/study/NCT02876146"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "40093668",
+            "title": "Current considerations for the management of liver echinococcosis.",
+            "abstract": "Echinococcosis or hydatid disease is induced mainly by Echinococcus granulosus and occasionally by Echinococcus multilocularis (alveolaris) and affects the liver predominantly. Hepatic alveolar echinococcosis is similar to carcinoma in appearance, and without treatment, it can lead to death. Diagnosis is based on current imaging modalities. Surgical management is the cornerstone of treatment. Complete removal of the cyst (total pericystectomy or hepatectomy) ensures a permanent cure and should be the first-choice treatment for cystic disease. Cyst evacuation, partial cystectomy, and drainage or omentoplasty, may be alternative choices in difficult cases. Albendazole, mebendazole and praziquantel are options for treating small cysts and preventing recurrence after surgery. Despite the efforts, alveolar echinococcus is not usually amenable to surgical management, except in the early stage, which is less common, and management by albendazole is indicated. However, there are few recent rep",
+            "journal": "World journal of gastroenterology",
+            "year": "2025",
+            "authors": [
+              "Pavlidis Efstathios T",
+              "Galanis Ioannis N",
+              "Pavlidis Theodoros E"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Echinococcosis, Hepatic",
+              "Animals",
+              "Hepatectomy",
+              "Albendazole",
+              "Treatment Outcome",
+              "Anthelmintics",
+              "Liver",
+              "Echinococcus multilocularis",
+              "Echinococcus granulosus"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40093668/"
+          },
+          {
+            "pmid": "25526545",
+            "title": "Treatment of echinococcosis: albendazole and mebendazole--what else?",
+            "abstract": "The search for novel therapeutic options to cure alveolar echinococcosis (AE), due to the metacestode of Echinococcus multilocularis, is ongoing, and these developments could also have a profound impact on the treatment of cystic echinococcosis (CE), caused by the closely related Echinococcus granulosus s.l. Several options are being explored. A viable strategy for the identification of novel chemotherapeutically valuable compounds includes whole-organism drug screening, employing large-scale in vitro metacestode cultures and, upon identification of promising compounds, verification of drug efficacy in small laboratory animals. Clearly, the current focus is targeted towards broad-spectrum anti-parasitic or anti-cancer drugs and compound classes that are already marketed, or that are in development for other applications. The availability of comprehensive Echinococcus genome information and gene expression data, as well as significant progress on the molecular level, has now opened the ",
+            "journal": "Parasite (Paris, France)",
+            "year": "2014",
+            "authors": [
+              "Hemphill Andrew",
+              "Stadelmann Britta",
+              "Rufener Reto",
+              "Spiliotis Markus",
+              "Boubaker Ghalia"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Anthelmintics",
+              "Cell Division",
+              "Clarithromycin",
+              "Cytostatic Agents",
+              "Drug Design",
+              "Drug Evaluation, Preclinical",
+              "Echinococcosis",
+              "Echinococcosis, Hepatic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25526545/"
+          },
+          {
+            "pmid": "34808118",
+            "title": "Status and prospect of novel treatment options toward alveolar and cystic echinococcosis.",
+            "abstract": "Cystic echinococcosis (CE) and alveolar echinococcosis (AE) are the two most important global parasitic infectious diseases caused by species of Echinococcus granulosus and E. multilocularis, respectively. Although numerous trials have been performed in search of novel therapeutic options to curb the neglected zoonosis, no other nonsurgical options are currently available to replace the licensed anti echinococcal drugs albendazole (ABZ) and mebendazole (MBZ). A safer and more effective treatment plan for echinococcosis is therefore urgently needed to compensate for this therapeutic shortfall. Here, we present a review of the literature for state-of-the-art valuable anti-parasitic compounds and novel strategies that have proved effective against CE and AE, which includes details about the pharmaceutical type, practical approach, experimental plan, model application and protoscolecidal effects in vivo and in vitro. The content includes the current application of traditional clinical chem",
+            "journal": "Acta tropica",
+            "year": "2022",
+            "authors": [
+              "Wang Sibo",
+              "Ma Yibo",
+              "Wang Weishan",
+              "Dai Yi",
+              "Sun Haohao"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Echinococcosis",
+              "Echinococcus granulosus",
+              "Echinococcus multilocularis",
+              "Mebendazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34808118/"
+          },
+          {
+            "pmid": "19254162",
+            "title": "Benzimidazoles for the treatment of cystic and alveolar echinococcosis: what is the consensus?",
+            "abstract": "",
+            "journal": "Expert review of anti-infective therapy",
+            "year": "2009",
+            "authors": [
+              "Vuitton Dominique Angèle"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Anthelmintics",
+              "Benzimidazoles",
+              "Clinical Protocols",
+              "Consensus",
+              "Echinococcosis",
+              "Echinococcus granulosus",
+              "Echinococcus multilocularis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19254162/"
+          },
+          {
+            "pmid": "39311470",
+            "title": "Chemotherapy for the treatment of alveolar echinococcosis: Where are we?",
+            "abstract": "Alveolar echinococcosis (AE) is a severe liver disease due to infection with the Echinococcus multilocularis larval stage, called the metacestode. Management of AE is based on benzimidazole chemotherapy (albendazole or mebendazole), associated with surgery when possible. Benzimidazoles are the only compounds recommended for the treatment of AE; however, these are parasitostatic, which means that the parasite can resume growth when treatment is interrupted. Also, benzimidazoles can cause liver dysfunction which may prevent their use. Numerous drugs have been reported to have in vitro activity against E. multilocularis, but few had satisfactory in vivo activity, and none were clearly more effective than benzimidazoles. These drugs belong to various therapeutic categories including anti-infective agents (e.g. amphotericin B, mefloquine, pentamidine derivatives), anti-neoplastic compounds (e.g. imatinib, nilotinib, bortezomib), plant-extracted compounds (e.g. thymol, crocin, carvacrol) and",
+            "journal": "Parasite (Paris, France)",
+            "year": "2024",
+            "authors": [
+              "Autier Brice",
+              "Robert-Gangneux Florence",
+              "Dion Sarah"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Animals",
+              "Echinococcosis",
+              "Echinococcus multilocularis",
+              "Anthelmintics",
+              "Benzimidazoles",
+              "Echinococcosis, Hepatic",
+              "Albendazole",
+              "Antineoplastic Agents",
+              "Anti-Infective Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39311470/"
+          },
+          {
+            "pmid": "19296876",
+            "title": "Alveolar and cystic echinococcosis: towards novel chemotherapeutical treatment options.",
+            "abstract": "Echinococcus granulosus and Echinococcus multilocularis are cestode parasites, of which the metacestode (larval) stages cause the neglected diseases cystic echinococcosis (CE) and alveolar echinococcosis (AE), respectively. The benzimidazoles albendazole and mebendazole are presently used for the chemotherapeutical treatment, alone or prior to and after surgery. However, in AE these benzimidazoles do not appear to be parasiticidal in vivo. In addition, failures in drug treatments as well as the occurrence of side-effects have been reported, leading to discontinuation of treatment or to progressive disease. Therefore, new drugs are needed to cure AE and CE. Strategies that are currently employed in order to identify novel chemotherapeutical treatment options include in vitro and in vivo testing of broad-spectrum anti-infective drugs or drugs that interfere with unlimited proliferation of cancer cells. The fact that the genome of E. multilocularis has recently been sequenced has opened o",
+            "journal": "Journal of helminthology",
+            "year": "2009",
+            "authors": [
+              "Hemphill A",
+              "Müller J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anthelmintics",
+              "Anti-Infective Agents",
+              "Antineoplastic Agents",
+              "Cestoda",
+              "Echinococcosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19296876/"
+          },
+          {
+            "pmid": "39606163",
+            "title": "Current status of drug therapy for alveolar echinococcosis.",
+            "abstract": "Alveolar echinococcosis (AE) is a chronic zoonotic parasitic disease caused by infection with Echinococcus multilocularis. AE is associated with a high mortality rate and poses a significant threat to human health. The primary treatment for AE is surgical resection of the lesions; however, owing to its long incubation period and insidious disease progression, many patients are diagnosed only after the onset of complications such as liver cirrhosis, jaundice, and portal hypertension, which preclude curative surgical intervention. For patients who are unwilling or unable to undergo surgery, lifelong administration of anti-AE medications is necessary. Benzimidazole compounds, such as albendazole and mebendazole, are the current mainstays of treatment, offering good efficacy. Nevertheless, these medications primarily inhibit parasite proliferation rather than eradicate the infection, and their long-term use can lead to significant drug-related toxic effects. Consequently, there is an urgen",
+            "journal": "World journal of hepatology",
+            "year": "2024",
+            "authors": [
+              "Jing Qin-Dong",
+              "A Ji-De",
+              "Liu Lin-Xun",
+              "Fan Hai-Ning"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39606163/"
+          },
+          {
+            "pmid": "17631693",
+            "title": "Innovative chemotherapeutical treatment options for alveolar and cystic echinococcosis.",
+            "abstract": "Echinococcus granulosus and Echinococcus multilocularis are cestode parasites, of which the metacestode (larval) stages cause the diseases cystic echinococcosis (CE) and alveolar echinococcosis (AE), respectively. Albendazole and mebendazole are presently used for chemotherapeutical treatment. However, these benzimidazoles do not appear to be parasiticidal in vivo against AE. In addition, failures in drug treatments as well as the occurrence of side-effects have been reported. New drugs are needed to cure AE and CE, which are considered to be neglected diseases. Strategies currently being implemented to identify novel chemotherapeutical treatment options include (i) conventional primary in vitro testing of broad-spectrum anti-infective drugs, either in parallel with, or followed by, animal experimentation; (ii) studies of drugs which interfere with the proliferation of cancer cells and of Echinococcus metacestodes; (iii) exploitation of the similarities between the parasite and mammali",
+            "journal": "Parasitology",
+            "year": "2007",
+            "authors": [
+              "Hemphill A",
+              "Spicher M",
+              "Stadelmann B",
+              "Mueller J",
+              "Naguleswaran A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anthelmintics",
+              "Antineoplastic Agents",
+              "Echinococcosis",
+              "Echinococcosis, Hepatic",
+              "Echinococcus granulosus",
+              "Echinococcus multilocularis",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17631693/"
+          },
+          {
+            "pmid": "10980173",
+            "title": "Benzimidazoles in the treatment of alveolar echinococcosis: a comparative study and review of the literature.",
+            "abstract": "Mebendazole and albendazole are the drugs of choice for the treatment of alveolar echinococcosis. In this open-labelled observational study we present and evaluate the outcome of long-term treatment with these drugs and present results of different treatment regimens. Thirty-five patients were started on either mebendazole or albendazole at the beginning of 1992 and followed for an average of 39 months (range 12-79 months). Treatment was classed as successful if the disease had not progressed for >1 year and if there were no side-effects necessitating a change of treatment. Lack of progression was evaluated mainly using ultrasound and computed tomography and was further substantiated by laboratory tests and clinical findings. The overall success rate was 97%. An initial regimen for cases of alveolar echinococcosis was recurrence-free in 71% of those treated with mebendazole and in 78% of those treated with albendazole. Four out of five cases with progressive disease stabilized after th",
+            "journal": "The Journal of antimicrobial chemotherapy",
+            "year": "2000",
+            "authors": [
+              "Reuter S",
+              "Jensen B",
+              "Buttenschoen K",
+              "Kratzer W",
+              "Kern P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Albendazole",
+              "Anthelmintics",
+              "Clinical Trials as Topic",
+              "Echinococcosis, Hepatic",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10980173/"
+          },
+          {
+            "pmid": "7197224",
+            "title": "Chemotherapy of alveolar echinococcosis. Comparison of plasma mebendazole concentrations in animals and man.",
+            "abstract": "High oral doses of mebendazole have been only partly effective in the treatment of patients with alveolar or cystic echinococcosis. In order to improve therapeutic results the pharmacology of mebendazole has been investigated. Jirds experimentally infected with larval Echinococcus multilocularis were given food containing mebendazole 100 to 1000 ppm. Drug plasma concentrations above 0.25 mumol/l were associated with a reduction in parasite weight to 1 to 10% of that in untreated controls. In treated animals parasite weight was negatively correlated with the plasma mebendazole concentration and with the duration of therapy. In patients on long term therapy with similar doses of mebendazole (16 to 48 mg/kg per day), plasma concentrations were much lower than in jirds. Only 19% of fasting plasma concentrations exceeded 0.25 mumol/l. Plasma concentrations 4 h after the morning dose did not exceed this value in 48% of cases. The results can be explained by the irregular drug absorption and ",
+            "journal": "European journal of clinical pharmacology",
+            "year": "1981",
+            "authors": [
+              "Witassek F",
+              "Burkhardt B",
+              "Eckert J",
+              "Bircher J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Animals",
+              "Benzimidazoles",
+              "Circadian Rhythm",
+              "Disease Models, Animal",
+              "Echinococcosis, Pulmonary",
+              "Female",
+              "Gerbillinae",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7197224/"
+          },
+          {
+            "pmid": "9875648",
+            "title": "Long-term mebendazole therapy may be parasitocidal in alveolar echinococcosis.",
+            "abstract": "Long-term chemotherapy of human alveolar echinococcosis with benzimidazole compounds (mebendazole, albendazole) has been shown to be primarily parasitostatic, but its curative (parasitocidal) efficacy is debated. This article reports on a 67-year-old male patient with non-resectable alveolar echinococcosis of the liver who had been continuously treated for 13 years with mebendazole (approximately 45-48 mg/kg body weight per day) and who was closely monitored according to a specific protocol. At the age of 80 years the patient died of oesophageal variceal bleeding. During treatment the hepatic lesion had decreased markedly in size in association with progression of perifocal calcification. At autopsy, a well-demarcated, necrotic, partially calcified, parasite-induced lesion of the right liver lobe and secondary biliary cirrhosis were found. Remnants of parasite tissue obtained from the periphery of the lesion showed a small-cystic structure, but it was not viable, as evidenced by transp",
+            "journal": "Journal of hepatology",
+            "year": "1998",
+            "authors": [
+              "Ammann R W",
+              "Fleiner-Hoffmann A",
+              "Grimm F",
+              "Eckert J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Antinematodal Agents",
+              "Echinococcosis, Hepatic",
+              "Humans",
+              "Male",
+              "Mebendazole",
+              "Time Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9875648/"
+          },
+          {
+            "pmid": "29746870",
+            "title": "In vitro and in vivo efficacies of carbazole aminoalcohols in the treatment of alveolar echinococcosis.",
+            "abstract": "Benzimidazoles, including albendazole and mebendazole, are the major drugs for clinical chemotherapy of echinococcosis. They mainly exert parasitostatic effects depending on high dosages for long-term. Previous studies have identified carbazole aminoalcohols as novel anti-CE (cystic echinococcosis) agents. However, it is still to be confirmed whether it is effective on alveolar echinococcosis (AE) or not. In the present study, efficacies of novel carbazole aminoalcohols, propylamine, R-propylamine and S-propylamine were evaluated under in vitro and in vivo conditions. Carbazole aminoalcohols were tested against Echinococcus multilocularis (E. multilocularis) protoscoleces (PSC) in vitro. The effects of propylamine and R-propylamine exhibited a time-dependent manner at different concentrations, while the effect of S-propylamine was very poor. At a concentration of 20 μM, the mortality of PSC achieved to 100% on the 11th day after exposure to R-propylamine. The treatment of carbazole ami",
+            "journal": "Acta tropica",
+            "year": "2018",
+            "authors": [
+              "Dang Zhisheng",
+              "Xu Shuo",
+              "Zhang Haobing",
+              "Gui Weifeng",
+              "Zhao Yumin"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Carbazoles",
+              "Echinococcosis",
+              "Echinococcus multilocularis",
+              "Male",
+              "Mebendazole",
+              "Mice",
+              "Propylamines"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29746870/"
+          },
+          {
+            "pmid": "29677189",
+            "title": "Progress in the pharmacological treatment of human cystic and alveolar echinococcosis: Compounds and therapeutic targets.",
+            "abstract": "Human cystic and alveolar echinococcosis are helmintic zoonotic diseases caused by infections with the larval stages of the cestode parasites Echinococcus granulosus and E. multilocularis, respectively. Both diseases are progressive and chronic, and often fatal if left unattended for E. multilocularis. As a treatment approach, chemotherapy against these orphan and neglected diseases has been available for more than 40 years. However, drug options were limited to the benzimidazoles albendazole and mebendazole, the only chemical compounds currently licensed for treatment in humans. To compensate this therapeutic shortfall, new treatment alternatives are urgently needed, including the identification, development, and assessment of novel compound classes and drug targets. Here is presented a thorough overview of the range of compounds that have been tested against E. granulosus and E. multilocularis in recent years, including in vitro and in vivo data on their mode of action, dosage, admin",
+            "journal": "PLoS neglected tropical diseases",
+            "year": "2018",
+            "authors": [
+              "Siles-Lucas Mar",
+              "Casulli Adriano",
+              "Cirilli Roberto",
+              "Carmena David"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Anthelmintics",
+              "Benzimidazoles",
+              "Echinococcosis",
+              "Echinococcus multilocularis",
+              "Humans",
+              "Larva",
+              "Mebendazole",
+              "Mice"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29677189/"
+          },
+          {
+            "pmid": "21135182",
+            "title": "In vitro and in vivo efficacies of mefloquine-based treatment against alveolar echinococcosis.",
+            "abstract": "Alveolar echinococcosis (AE) is caused by the metacestode stage of the fox tapeworm Echinococcus multilocularis and causes severe disease in the human liver, and occasionally in other organs, that is fatal when treatment is unsuccessful. The present chemotherapy against AE is based on mebendazole and albendazole. Albendazole treatment has been found to be ineffective in some instances, is parasitostatic rather than parasiticidal, and usually involves the lifelong uptake of large doses of drugs. Thus, new treatment options are urgently needed. In this study we investigated the in vitro and in vivo efficacy of mefloquine against E. multilocularis metacestodes. Treatment using mefloquine (20 μM) against in vitro cultures of metacestodes resulted in rapid and complete detachment of large parts of the germinal layer from the inner surface of the laminated layer within a few hours. The in vitro activity of mefloquine was dependent on the dosage. In vitro culture of metacestodes in the presen",
+            "journal": "Antimicrobial agents and chemotherapy",
+            "year": "2011",
+            "authors": [
+              "Küster Tatiana",
+              "Stadelmann Britta",
+              "Hermann Corina",
+              "Scholl Sabrina",
+              "Keiser Jennifer"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Antiparasitic Agents",
+              "Disease Models, Animal",
+              "Echinococcosis",
+              "Echinococcosis, Hepatic",
+              "Echinococcus multilocularis",
+              "Female",
+              "Humans",
+              "Mefloquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21135182/"
+          },
+          {
+            "pmid": "29625098",
+            "title": "Evaluation of kinase-inhibitors nilotinib and everolimus against alveolar echinococcosis in vitro and in a mouse model.",
+            "abstract": "Infection with the larval stage (metacestode) of the fox tapeworm Echinococcus multilocularis leads to a primary hepatic disease referred to as alveolar echinococcosis (AE). The progressive disease can be lethal if untreated. In cases where complete parasite resection by surgery is not feasible, the current treatment regimens of AE consist of chemotherapy with the parasitostatic benzimidazoles albendazole or mebendazole over decades. Kinase-inhibitors currently administered in various cancer treatments are of increasing interest also as anti-parasitic drugs due to previous promising in vitro results. In order to search for novel drug targets and treatment regimens, nilotinib (AMN107; Tasigna®), an Abl-tyrosine kinase inhibitor and everolimus (RAD001; Afinitor®), a serine/threonine-kinase inhibitor, were tested for their treatment efficacy against metacestode vesicles of E. multilocularis in vitro and in BALB/c mice. In vitro treatment with 200 μM nilotinib caused drug-induced alteratio",
+            "journal": "Experimental parasitology",
+            "year": "2018",
+            "authors": [
+              "Joekel Deborah E",
+              "Lundström-Stadelmann Britta",
+              "Müllhaupt Beat",
+              "Hemphill Andrew",
+              "Deplazes Peter"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticestodal Agents",
+              "Antineoplastic Agents",
+              "Disease Models, Animal",
+              "Echinococcosis, Hepatic",
+              "Echinococcus multilocularis",
+              "Everolimus",
+              "Mice",
+              "Mice, Inbred BALB C",
+              "Protein Kinase Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29625098/"
+          },
+          {
+            "pmid": "8789923",
+            "title": "Guidelines for treatment of cystic and alveolar echinococcosis in humans. WHO Informal Working Group on Echinococcosis.",
+            "abstract": "Summarized in this article are recent experiences in the treatment of human cystic echinococcosis (CE) and alveolar echinococcosis (AE) of the liver caused by the metacestode stages of Echinococcus granulosus and E. multilocularis, respectively. For CE, surgery remains the first choice for treatment with the potential to remove totally the parasite and completely cure the patient. However, chemotherapy with benzimidazole compounds (albendazole or mebendazole) and the recently developed PAIR procedure (puncture-aspiration-injection-re-aspiration) with concomitant chemotherapy offer further options for treatment of CE cases. Chemotherapy is not yet satisfactory: cure can be expected in about 30% of patients and improvement in 30-50%, after 12 months' follow-up. AE is generally a severe disease, with over 90% mortality in untreated patients. Radical surgery is recommended in all operable cases but has to be followed by chemotherapy for at least 2 years. Inoperable cases and patients who h",
+            "journal": "Bulletin of the World Health Organization",
+            "year": "1996",
+            "authors": [],
+            "pub_types": [
+              "Guideline",
+              "Journal Article",
+              "Practice Guideline"
+            ],
+            "mesh_terms": [
+              "Anthelmintics",
+              "Benzimidazoles",
+              "Combined Modality Therapy",
+              "Echinococcosis, Hepatic",
+              "Hepatectomy",
+              "Humans",
+              "Liver Transplantation",
+              "Long-Term Care",
+              "Punctures"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8789923/"
+          },
+          {
+            "pmid": "2305186",
+            "title": "[Hepatic alveolar echinococcosis: diagnosis and treatment].",
+            "abstract": "Alveolar echinococcosis is a parasitic disease which is relatively rare in humans. It almost exclusively affects patients of rural origin living in enzootic regions (Eastern France, Auvergne) and most lesions are in the liver. Several anatomico-clinical forms have been described; the most frequent is the multilocular form, but the disease may consist of one single cyst or abscess. The liver structure is always deeply altered, with compression, inflammation or superinfection. Jaundice, liver enlargement, abdominal pain or signs of secondary localizations are manifestations that lead to the discovery of hepatic alveolar echinococcosis. The anatomical features of the lesions are demonstrated by ultrasounds and computerized tomography. The main differential diagnosis is tumoral pathology of the liver. In most cases the diagnosis of echinococcosis is confirmed by serological tests, although needle or even surgical biopsy might be necessary. Diagnosed at an early stage, alveolar echinococcos",
+            "journal": "La Revue du praticien",
+            "year": "1990",
+            "authors": [
+              "Lointier P",
+              "Beytout J",
+              "Dechelotte P"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Echinococcosis, Hepatic",
+              "Echinococcosis, Pulmonary",
+              "Follow-Up Studies",
+              "Humans",
+              "Liver",
+              "Mebendazole",
+              "Tomography, X-Ray Computed"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2305186/"
+          },
+          {
+            "pmid": "15384864",
+            "title": "[Human alveolar echinococcosis: an emerging zoonosis in Hungary and Europe].",
+            "abstract": "Human alveolar echinococcosis, caused by the metacestode stage of Echinococcus multilocularis, is one of the most dangerous zoonoses in the temperate and arctic areas of northern hemisphere. The mortality of the disease exceeds 95% in untreated or inadequately treated patients. In the past three decades, the spread of this parasite was observed in Europe as a consequence of human interventions resulting in the population size increase of foxes. The authors demonstrated the presence of E. multilocularis in foxes in all northern counties of Hungary and the existence of hyperendemic regions in the Counties Nógrád and Gyor-Moson-Sopron. The aim of the present paper is to summarize the current knowledge on the life cycle and distribution of E. multilocularis, and the epidemiology, clinical features, diagnosis, treatment and control of human alveolar echinococcosis.",
+            "journal": "Orvosi hetilap",
+            "year": "2004",
+            "authors": [
+              "Sréter Tamás",
+              "Széll Zoltán",
+              "Varga István"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Animals, Wild",
+              "Anthelmintics",
+              "Disease Reservoirs",
+              "Disease Vectors",
+              "Echinococcosis, Hepatic",
+              "Echinococcus",
+              "Europe",
+              "Foxes"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15384864/"
+          },
+          {
+            "pmid": "16044412",
+            "title": "Evaluation of treatment and long-term follow-up in patients with hepatic alveolar echinococcosis.",
+            "abstract": "Alveolar echinococcosis is a rare disorder, which makes a comparison of different treatment modalities within a clinical trial difficult to perform. Data prospectively recorded over a period of 25 years were used to evaluate three therapeutic strategies: benzimidazole therapy alone, complete 'curative' resection followed by 2 years of adjuvant benzimidazole treatment, and partial debulking resection followed by continuous administration of a benzimidazole.",
+            "journal": "The British journal of surgery",
+            "year": "2005",
+            "authors": [
+              "Kadry Z",
+              "Renner E C",
+              "Bachmann L M",
+              "Attigah N",
+              "Renner E L"
+            ],
+            "pub_types": [
+              "Evaluation Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Albendazole",
+              "Anthelmintics",
+              "Chemotherapy, Adjuvant",
+              "Echinococcosis, Hepatic",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Mebendazole"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16044412/"
+          },
+          {
+            "pmid": "27686694",
+            "title": "Current interventional strategy for the treatment of hepatic alveolar echinococcosis.",
+            "abstract": "The use of various types of invasive interventions combined with anti-infective drugs in the therapeutic strategy of alveolar echinococcosis (AE) has changed during the last 30 years. Areas covered: This article reviews the current respective indications of surgical, percutaneous and perendoscopic interventions in AE and proposes an integrative therapeutic strategy. Expert commentary: Hepatic resection is indicated whenever it is feasible and curative; palliative surgery should be avoided; percutaneous procedures are best adapted to the drainage of the necrotic cavity present in advanced cases; perendoscopic procedures with stenting are best adapted to alleviating the biliary complications that are common and life-threatening in AE patients. Continuous administration of albendazole or mebendazole, without interruption is mandatory in all cases, temporarily (recommended duration: 2 years) after radical lesion resection in patients without immune suppression; for life in all other cases.",
+            "journal": "Expert review of anti-infective therapy",
+            "year": "2016",
+            "authors": [
+              "Vuitton Dominique A",
+              "Azizi Amel",
+              "Richou Carine",
+              "Vuitton Lucine",
+              "Blagosklonov Oleg"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Albendazole",
+              "Animals",
+              "Cholangiopancreatography, Endoscopic Retrograde",
+              "Drainage",
+              "Drug Administration Schedule",
+              "Echinococcosis, Hepatic",
+              "Echinococcus",
+              "Hepatectomy",
+              "Humans",
+              "Liver Transplantation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27686694/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "alveolar echinococcosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20alveolar%20echinococcosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "inhalational botulism",
+        "txgnn_score": 0.9381934404373168,
+        "txgnn_rank": 7865,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "inhalational botulism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20inhalational%20botulism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "toxin-mediated infectious botulism",
+        "txgnn_score": 0.9352422952651978,
+        "txgnn_rank": 8140,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "toxin-mediated infectious botulism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20toxin-mediated%20infectious%20botulism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "impetigo",
+        "txgnn_score": 0.932171106338501,
+        "txgnn_rank": 8401,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "impetigo",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20impetigo"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Sorsby's fundus dystrophy",
+        "txgnn_score": 0.9313270449638368,
+        "txgnn_rank": 8474,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "Sorsby's fundus dystrophy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20Sorsby%27s%20fundus%20dystrophy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "demodicidosis of sebaceous gland",
+        "txgnn_score": 0.9298901557922364,
+        "txgnn_rank": 8587,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Mebendazole",
+          "disease": "demodicidosis of sebaceous gland",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Mebendazole%20demodicidosis%20of%20sebaceous%20gland"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Mebendazole",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00643",
+    "name": "Mebendazole",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Mebendazole"
+      },
+      "queried_at": "2026-03-24T14:52:05.477114",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Mebendazole"
+      },
+      "queried_at": "2026-03-24T14:52:05.479513",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Mebendazole"
+      },
+      "queried_at": "2026-03-24T14:52:11.242926",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T14:52:11.853763",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T14:52:15.862546",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T14:52:16.719468",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T14:52:24.367132",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "leishmaniasis, diffuse cutaneous"
+      },
+      "queried_at": "2026-03-24T14:52:25.088320",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "leishmaniasis, diffuse cutaneous"
+      },
+      "queried_at": "2026-03-24T14:52:28.909594",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "leishmaniasis, diffuse cutaneous"
+      },
+      "queried_at": "2026-03-24T14:52:29.653303",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "leishmaniasis, diffuse cutaneous"
+      },
+      "queried_at": "2026-03-24T14:52:31.009823",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T14:52:31.934979",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T14:52:35.588320",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T14:52:36.286961",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "echinococcus granulosus infectious disease"
+      },
+      "queried_at": "2026-03-24T14:52:38.755385",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "hordeolum"
+      },
+      "queried_at": "2026-03-24T14:52:39.388054",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "hordeolum"
+      },
+      "queried_at": "2026-03-24T14:52:43.135492",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "hordeolum"
+      },
+      "queried_at": "2026-03-24T14:52:44.286719",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "hordeolum"
+      },
+      "queried_at": "2026-03-24T14:52:45.761727",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "alveolar echinococcosis"
+      },
+      "queried_at": "2026-03-24T14:52:48.939453",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "alveolar echinococcosis"
+      },
+      "queried_at": "2026-03-24T14:52:56.488506",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "alveolar echinococcosis"
+      },
+      "queried_at": "2026-03-24T14:53:01.492740",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "alveolar echinococcosis"
+      },
+      "queried_at": "2026-03-24T14:53:11.648549",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "inhalational botulism"
+      },
+      "queried_at": "2026-03-24T14:53:12.306484",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "inhalational botulism"
+      },
+      "queried_at": "2026-03-24T14:53:16.510296",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "inhalational botulism"
+      },
+      "queried_at": "2026-03-24T14:53:17.343655",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "inhalational botulism"
+      },
+      "queried_at": "2026-03-24T14:53:18.435198",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "toxin-mediated infectious botulism"
+      },
+      "queried_at": "2026-03-24T14:53:19.035242",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "toxin-mediated infectious botulism"
+      },
+      "queried_at": "2026-03-24T14:53:22.535214",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "toxin-mediated infectious botulism"
+      },
+      "queried_at": "2026-03-24T14:53:23.236265",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "toxin-mediated infectious botulism"
+      },
+      "queried_at": "2026-03-24T14:53:24.349742",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "impetigo"
+      },
+      "queried_at": "2026-03-24T14:53:24.861531",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "impetigo"
+      },
+      "queried_at": "2026-03-24T14:53:28.662463",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "impetigo"
+      },
+      "queried_at": "2026-03-24T14:53:30.010508",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "impetigo"
+      },
+      "queried_at": "2026-03-24T14:53:32.068890",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "Sorsby's fundus dystrophy"
+      },
+      "queried_at": "2026-03-24T14:53:33.786396",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "Sorsby's fundus dystrophy"
+      },
+      "queried_at": "2026-03-24T14:53:40.266973",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "Sorsby's fundus dystrophy"
+      },
+      "queried_at": "2026-03-24T14:53:41.066525",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "Sorsby's fundus dystrophy"
+      },
+      "queried_at": "2026-03-24T14:53:42.035344",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "demodicidosis of sebaceous gland"
+      },
+      "queried_at": "2026-03-24T14:53:42.696277",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "demodicidosis of sebaceous gland"
+      },
+      "queried_at": "2026-03-24T14:53:46.559441",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "demodicidosis of sebaceous gland"
+      },
+      "queried_at": "2026-03-24T14:53:47.289797",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Mebendazole",
+        "disease": "demodicidosis of sebaceous gland"
+      },
+      "queried_at": "2026-03-24T14:53:48.606568",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T14:53:48.607434"
+  }
+}

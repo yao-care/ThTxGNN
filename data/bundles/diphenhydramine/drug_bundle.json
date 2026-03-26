@@ -1,0 +1,2531 @@
+{
+  "drug": {
+    "inn": "Diphenhydramine",
+    "drugbank_id": "DB01075",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "rosacea conjunctivitis",
+        "txgnn_score": 0.992023229598999,
+        "txgnn_rank": 1753,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "rosacea conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20rosacea%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rhinitis",
+        "txgnn_score": 0.9834686517715454,
+        "txgnn_rank": 3142,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00599872",
+            "title": "Parallel, Randomized, Double-Blind, Placebo-Controlled Trial in Adults for the Sublingual-Oral Immunotherapy (SLIT) of Allergic Rhinoconjunctivitis With or Without Asthma Caused By Ragweed Pollen",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2008-03",
+            "completion_date": "2008-12",
+            "country": "United States",
+            "enrollment": 430,
+            "brief_summary": "The purpose of this study is to determine an effective dose range for the administration of ragweed allergenic extract via the sublingual route of administration",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult ragweed-sensitive Subjects with allergic rhinoconjunctivitis with or without asthma during ragweed pollen season.\n* Subjects must be 18 to 50 years of age.\n* Test Subjects will have a history of moderate to severe isolated or unseasonal allergic rhinoconjunctivitis with ",
+            "endpoints": [
+              "Scores on a Scale (Average of Daily Rhinoconjunctivitis Symptom Score (RSS) Recorded During the Ragweed Season"
+            ],
+            "sponsor": "Greer Laboratories",
+            "url": "https://clinicaltrials.gov/study/NCT00599872"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00648973",
+            "title": "Evaluation of Nasal Congestion Clinical Efficacy for Diphenhydramine 25 mg and Diphenhydramine 50 mg in Seasonal Allergic Rhinitis: a Randomized, Double-blind, Placebo and Pseudoephedrine Controlled Study",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2006-11",
+            "completion_date": "2007-05",
+            "country": "United States",
+            "enrollment": 1021,
+            "brief_summary": "The study was to determine if the drug worked to relieve nasal congestion experienced by people with seasonal allergies.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* otherwise healthy males and females\n* 12 to 65 years of age\n* hypersensitivity to specific pollens for a minimum of 2 years prior to study start\n* appropriate SAR sign/symptoms scores\n\nExclusion Criteria:\n\n* pregnancy, lactation and contraception issues\n* contraindicated medic",
+            "endpoints": [
+              "Change from baseline in the subject's mean reflective nasal congestion/stuffiness symptom score"
+            ],
+            "sponsor": "Johnson & Johnson Consumer and Personal Products Worldwide",
+            "url": "https://clinicaltrials.gov/study/NCT00648973"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06217367",
+            "title": "Do Common Over-the-counter Antihistamine Medications Modify Thermoregulatory Responses During Passive Heat Stress?",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2023-12-05",
+            "completion_date": "2024-06",
+            "country": "Canada",
+            "enrollment": 16,
+            "brief_summary": "Allergic rhinitis (AR) currently affects \\~25% of Canadians, and due to factors of climate change, this number is expected to increase over the coming decade. AR symptoms can significantly impact individuals' quality of life by compromising sleep, productivity, and social interactions. To alleviate AR symptoms, North Americans tend to rely on H1 antihistamine medications available over-the-counter (OTC) at most pharmacies. However, public health authorities currently suggest restraining all anti",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or Female between ages 19 and 39 years\n* Fully vaccinated against COVID-19\n* Able to provide informed consent\n* Body-mass index under 30\n\nExclusion Criteria:\n\n* Body-mass index over 30\n* Currently taking sedative or autonomic nervous system depressant medication\n* Hyperse",
+            "endpoints": [
+              "Whole-Body Sweat Losses",
+              "Skin Blood Flow",
+              "Heart Rate"
+            ],
+            "sponsor": "Lakehead University",
+            "url": "https://clinicaltrials.gov/study/NCT06217367"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01177852",
+            "title": "Multicenter Clinical Trial, Phase III, Controlled, Open, Parallel Group, Randomized, Comparing the Fixed Dose Combination of Diphenhydramine + Dropropizine + Pseudoephedrine and the Combined Use of Dropropizine and Fixed Dose Combination of Pseudoephedrine Hydrochloride + Brompheniramine Maleate Used Orally for Evaluation of Efficacy and Safety in Control Cough and the Relief of Nasal Symptoms in Children 2 to 12 Years Old, Suffering From Non-productive Cough and Acute Rhinitis.",
+            "phase": "PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2011-10",
+            "completion_date": "",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "Multicenter clinical trial, phase III, controlled by active medicine, open, randomized, enroll 962 children, 2 to 12 years old, that suffer acute inflammation upper airway characterized by non-productive cough, daytime/nighttime, with duration for at least 3 and no more than 5 consecutive days (without systemic/topic use of medication during this period) followed by nasal congestion, with or without associate other nasal symptoms (sneezing, runny nose, nasal itching and/or mouth breathing). The ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients between 2 and 12 years old, of both sexes;\n2. Clinical condition compatible with acute rhinitis accompanied by nasal obstruction;\n3. Non-productive cough, daytime and/or nighttime with at least 3 and up 5 consecutive days in duration;\n4. Score greater than or equal t",
+            "endpoints": [
+              "Improvement of nasal congestion and cough"
+            ],
+            "sponsor": "Ache Laboratorios Farmaceuticos S.A.",
+            "url": "https://clinicaltrials.gov/study/NCT01177852"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00762749",
+            "title": "An Open-Label, Single-Dose Study Evaluating the Pharmacokinetics of Diphenhydramine in Children and Adolescents",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2008-09",
+            "completion_date": "2008-11",
+            "country": "United States",
+            "enrollment": 36,
+            "brief_summary": "To characterize the pharmacokinetics of diphenhydramine in two pediatric populations: children, ages 2 to \\< 12 years, and adolescents, ages 12 to \\< 18 years.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male and female children and adolescents, ages 2 to \\< 18 years, with a minimum weight of 24 pounds will be eligible to participate. In addition, each subject will be \\> 5th percentile and \\< 95th percentile for weight based on age and gender.\n* Subjects will have a body mass ",
+            "endpoints": [
+              "Pharmacokinetic parameters"
+            ],
+            "sponsor": "Johnson & Johnson Consumer and Personal Products Worldwide",
+            "url": "https://clinicaltrials.gov/study/NCT00762749"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05586477",
+            "title": "Does Diphenhydramine Alter Thermoregulatory Responses During Exercise?",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2022-11-21",
+            "completion_date": "2023-06-23",
+            "country": "Canada",
+            "enrollment": 20,
+            "brief_summary": "In 2012, it was estimated that nearly 1 in 4 Canadians suffer from allergic rhinitis. To add, 78% of individuals working in predisposing environments are predicted to develop occupational rhinitis. Currently, the most popular treatment for rhinitis is antihistamine medication such as diphenhydramine, a first-generation antihistamine sold commercially as Benadryl®. Due it its anticholinergic effects, diphenhydramine has been suggested to impair the whole body sweating response during heat stress,",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Able to safely perform \\~60 minutes of moderate intensity exercise\n* No known hypersensitivity to diphenhydramine\n* Not on any prescribed medication\n* Body-mass index (BMI) less than 30\n\nExclusion Criteria:\n\n* Outside 18 - 49 years of age\n* Diagnosed with any cardiovascular, r",
+            "endpoints": [
+              "Whole body sweat loss"
+            ],
+            "sponsor": "Lakehead University",
+            "url": "https://clinicaltrials.gov/study/NCT05586477"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01199497",
+            "title": "Multicenter Clinical Trial Phase III, Randomized, Double-blind, Placebo-controlled Study to Evaluate the Efficacy and Safety of Fixed Dose Combination of Diphenhydramine + Pseudoephedrine + Dropropizine in the Control of Cough and the Relief of Nasal Symptoms in Subjects Above 12 Years of Age, Suffering From Non-productive Cough and Acute Rhinitis.",
+            "phase": "PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2011-08",
+            "completion_date": "2013-01",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "Multicenter clinical trial, phase III, controlled by active medicine, double-blind, randomized, enroll 208 subjects, above 12 years old, that suffer acute inflammation upper airway characterized by non-productive cough, daytime/nighttime, with duration for at least 3 and no more than 5 consecutive days (without systemic/topic use of medication during this period) followed by nasal congestion, with or without associate other nasal symptoms (sneezing, runny nose, nasal itching and/or mouth breathi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients over 12 years old, of both sexes;\n2. Clinical condition compatible with acute rhinitis accompanied by nasal congestion;\n3. Non-productive cough, daytime and/or nighttime with at least 3 and up 5 consecutive days in duration;\n4. Score greater than or equal to 3 points",
+            "endpoints": [
+              "Primary efficacy criteria"
+            ],
+            "sponsor": "Ache Laboratorios Farmaceuticos S.A.",
+            "url": "https://clinicaltrials.gov/study/NCT01199497"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "40152721",
+            "title": "Treatment of allergic rhinitis and allergic conjunctivitis.",
+            "abstract": "",
+            "journal": "The Medical letter on drugs and therapeutics",
+            "year": "2025",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40152721/"
+          },
+          {
+            "pmid": "36759413",
+            "title": "A Hematological and Histopathological Study on Diphenhydramine Nasal Nano-gel and Nano-emulgel for the Management of Allergic Rhinitis in Animal Model.",
+            "abstract": "The study aims to determine histamine efficacy on hematologic values in experimental animal model, under physiological and pathological conditions after inducing diphenhydramine-formulated nasal nano-gel/nano-emulgel in comparison with conventional nasal spray regime. In this study, we conducted experiment on New Zealand white male rabbits to prove our hypothesis that nasal diphenhydramine nano-gel and nano-emulgel can penetrate the nasal mucosa faster to show drug response and subside histaminic symptoms than market nasal spray (as reference). Blood samples from 48 New Zealand white male rabbits, under both experimental conditions (physiological and pathological) divided into four groups for each (n = 6) were investigated after inducing each dosage form intranasally. Hematologic parameters (WBCs, RBCs, HGB, PLTs, lymphocytes, monocytes, eosinophils, granulocyte counts) were analyzed in whole blood samples, collected at different time intervals. ANOVA and completely randomized design (",
+            "journal": "AAPS PharmSciTech",
+            "year": "2023",
+            "authors": [
+              "Javed Hina",
+              "Shah Syed Nisar Hussain",
+              "Iqbal Furqan Muhammad",
+              "Javed Nida",
+              "Saeed Benish"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Male",
+              "Animals",
+              "Rabbits",
+              "Diphenhydramine",
+              "Administration, Intranasal",
+              "Nasal Sprays",
+              "Rhinitis, Allergic",
+              "Nasal Mucosa",
+              "Allergens",
+              "Models, Animal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36759413/"
+          },
+          {
+            "pmid": "36420548",
+            "title": "A Pilot Study of Transdermal Application of Diphenhydramine to the Nasal Ala in Patients with Allergic Rhinitis and Asthma.",
+            "abstract": "To date, topical allergic rhinitis drugs must be applied intranasally. We studied the efficacy, safety, and impact on co-existing asthma symptoms of transdermal delivery of diphenhydramine through the nasal ala.",
+            "journal": "The Tokai journal of experimental and clinical medicine",
+            "year": "2022",
+            "authors": [
+              "Kamimura Mitsuhiro",
+              "Inui Toshiya",
+              "Mouri Atsuto",
+              "Todo Hiroaki",
+              "Sugibayashi Kenji"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Pilot Projects",
+              "Quality of Life",
+              "Diphenhydramine",
+              "Asthma",
+              "Surveys and Questionnaires"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36420548/"
+          },
+          {
+            "pmid": "16680933",
+            "title": "Efficacy of diphenhydramine vs desloratadine and placebo in patients with moderate-to-severe seasonal allergic rhinitis.",
+            "abstract": "Previous studies have shown that diphenhydramine and desloratadine effectively relieve symptoms of seasonal allergic rhinitis (SAR).",
+            "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+            "year": "2006",
+            "authors": [
+              "Raphael Gordon D",
+              "Angello James T",
+              "Wu Mei-Miau",
+              "Druce Howard M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Anti-Allergic Agents",
+              "Child",
+              "Diphenhydramine",
+              "Double-Blind Method",
+              "Female",
+              "Histamine H1 Antagonists",
+              "Histamine H1 Antagonists, Non-Sedating"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16680933/"
+          },
+          {
+            "pmid": "8634878",
+            "title": "Effects of semprex-D and diphenhydramine on learning in young adults with seasonal allergic rhinitis.",
+            "abstract": "The purpose of this study was to test the hypothesis that learning ability is impaired in patients with seasonal allergic rhinitis relative to untreated individuals and to evaluate a combination compound (acrivastine 8 mg + pseudoephedrine 60 mg) for attenuation of the learning impairment in these patients.",
+            "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+            "year": "1996",
+            "authors": [
+              "Vuurman E F",
+              "van Veggel L M",
+              "Sanders R L",
+              "Muntjewerff N D",
+              "O'Hanlon J F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Diphenhydramine",
+              "Double-Blind Method",
+              "Drug Combinations",
+              "Ephedrine",
+              "Female",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Learning"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8634878/"
+          },
+          {
+            "pmid": "14582817",
+            "title": "A comparison of the effect of diphenhydramine and desloratadine on vigilance and cognitive function during treatment of ragweed-induced allergic rhinitis.",
+            "abstract": "Decrements in cognitive performance are associated with the use of sedating antihistamines. Most, but not all, second-generation antihistamines have been found to be nonsedating.",
+            "journal": "Annals of allergy, asthma & immunology : official publication of the American College of Allergy, Asthma, & Immunology",
+            "year": "2003",
+            "authors": [
+              "Wilken Jeffrey A",
+              "Kane Robert L",
+              "Ellis Anne K",
+              "Rafeiro Elizabeth",
+              "Briscoe Maureen P"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Allergens",
+              "Ambrosia",
+              "Anti-Allergic Agents",
+              "Arousal",
+              "Cognition",
+              "Diphenhydramine",
+              "Double-Blind Method",
+              "Histamine H1 Antagonists, Non-Sedating",
+              "Humans",
+              "Loratadine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14582817/"
+          },
+          {
+            "pmid": "16278258",
+            "title": "Treatment for allergic rhinitis and chronic idiopathic urticaria: focus on oral antihistamines.",
+            "abstract": "To review the efficacy and safety of first- and newer-generation antihistamines for the management of allergic rhinitis and chronic idiopathic urticaria (CIU), with a focus on management in the pharmacy.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2005",
+            "authors": [
+              "Morgan Matthew M",
+              "Khan David A",
+              "Nathan Robert A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Chronic Disease",
+              "Cost-Benefit Analysis",
+              "Histamine Antagonists",
+              "Humans",
+              "Rhinitis, Allergic, Seasonal",
+              "Urticaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16278258/"
+          },
+          {
+            "pmid": "31582993",
+            "title": "CSACI position statement: Newer generation H1-antihistamines are safer than first-generation H1-antihistamines and should be the first-line antihistamines for the treatment of allergic rhinitis and urticaria.",
+            "abstract": "Oral H1-antihistamines (AHs) are the most commonly used therapy to treat allergic rhinitis and chronic urticaria. Older, first-generation AHs (e.g. diphenhydramine, hydroxyzine) have significant and common side effects including sedation, impairment with decreased cognitive function, poor sleep quality, dry mouth, dizziness, and orthostatic hypotension. These drugs have also been found to result in death from accidents, intentional or unintentional overdoses, and sudden cardiac death. The unfavourable risk-benefit profile of first-generation AHs led to the development of newer, less-sedating second- and third-generation AHs, which first became available in Canada in the 1980s. High-quality trials have proven that newer generation AHs are superior in safety compared to older first-generation AHs. On average, they have improved potency and efficacy. Second- and third-generation AHs are the recommended first-line treatment for mild allergic rhinitis and acute and chronic urticaria. Despit",
+            "journal": "Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology",
+            "year": "2019",
+            "authors": [
+              "Fein Michael N",
+              "Fischer David A",
+              "O'Keefe Andrew W",
+              "Sussman Gord L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31582993/"
+          },
+          {
+            "pmid": "29569155",
+            "title": "Formulation Development and Evaluation of Diphenhydramine Nasal Nano-Emulgel.",
+            "abstract": "The aim of present study is to formulate diphenhydramine nasal nano-emulgels, having lipophilic nano-sized interior droplets, with better penetration for targeted controlled delivery to mucous membrane. Different diphenhydramine (DPH) nasal nano-emulgels were developed having propylene glycol and olive oil (as permeation enhancers) by using RSM for optimization and then evaluated for physico-chemical characteristics and thermal stability. In-vitro drug release through cellophane membrane was conducted and results were analyzed statistically. Further, gelation, mucoadhesive stress, and ex-vivo and histopathological studies were performed on optimized formulation by using goat nasal membrane. Among all formulations, E2 showed maximum DPH release at higher concentration olive oil (4%) and lower concentration propylene glycol (PG) (25%) within 4 h. All formulations have followed first-order kinetics and drug release mechanism was Fickian diffusion. Analysis of variance (ANOVA) and multiple",
+            "journal": "AAPS PharmSciTech",
+            "year": "2018",
+            "authors": [
+              "Javed Hina",
+              "Shah Syed Nisar Hussain",
+              "Iqbal Furqan Muhammad"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Diphenhydramine",
+              "Drug Compounding",
+              "Drug Delivery Systems",
+              "Drug Evaluation, Preclinical",
+              "Drug Liberation",
+              "Gels",
+              "Goats",
+              "Histamine H1 Antagonists",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29569155/"
+          },
+          {
+            "pmid": "33848281",
+            "title": "Drugs for allergic rhinitis and allergic conjunctivitis.",
+            "abstract": "",
+            "journal": "The Medical letter on drugs and therapeutics",
+            "year": "2021",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Allergic Agents",
+              "Conjunctivitis, Allergic",
+              "Glucocorticoids",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Immunotherapy",
+              "Leukotriene Antagonists",
+              "Rhinitis, Allergic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33848281/"
+          },
+          {
+            "pmid": "12113226",
+            "title": "H1-antihistamines in children.",
+            "abstract": "In children, as in adults, H1-antagonists are useful in the treatment of allergic rhinoconjunctivitis. Level 1 evidence for their efficacy in this disorder has been obtained in many well-designed pediatric studies. The widespread use of H1-antagonists in upper respiratory tract infections or otitis media in children is not supported by a strong scientific rationale. H1-antagonists are not harmful in children with asthma and, indeed, may have some beneficial effects in children with mild asthma. Their role in delaying or preventing asthma from developing in high-risk infants and toddlers is currently an important area of clinical investigation. The evidence base for their use in children with urticaria or atopic dermatitis still contains large gaps. First-generation H1-antagonists are presumed to be safe for use in infants and children. While they have undoubtedly been administered without apparent harm to millions in this age group, they impair CNS function far more commonly than is ge",
+            "journal": "Clinical allergy and immunology",
+            "year": "2002",
+            "authors": [
+              "Simons F Estelle R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Child",
+              "Conjunctivitis, Allergic",
+              "Dermatitis, Atopic",
+              "Heart",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Otitis Media",
+              "Respiratory Tract Infections",
+              "Rhinitis, Allergic, Perennial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12113226/"
+          },
+          {
+            "pmid": "15168099",
+            "title": "Effects of desloratadine, diphenhydramine, and placebo on driving performance and psychomotor performance measurements.",
+            "abstract": "First-generation antihistamines taken for relief of allergic rhinitis are sedating and pose potential risks for those driving a car or operating machinery. Desloratadine is a potent, selective, histamine H(1)-receptor antagonist that does not easily cross the blood-brain barrier. It is nonsedating at therapeutic doses and should not affect driving or psychomotor performance.",
+            "journal": "European journal of clinical pharmacology",
+            "year": "2004",
+            "authors": [
+              "Vuurman E F P M",
+              "Rikken G H",
+              "Muntjewerff N D",
+              "de Halleux F",
+              "Ramaekers J G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Automobile Driving",
+              "Cross-Over Studies",
+              "Diphenhydramine",
+              "Double-Blind Method",
+              "Female",
+              "Histamine H1 Antagonists, Non-Sedating",
+              "Humans",
+              "Loratadine",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15168099/"
+          },
+          {
+            "pmid": "16800414",
+            "title": "Efficacy and central nervous system impairment of newer-generation prescription antihistamines in seasonal allergic rhinitis.",
+            "abstract": "Allergic rhinitis is a highly prevalent disorder and oral antihistamines are often used to manage patient symptoms. Older-generation antihistamines, such as diphenhydramine and chlorpheniramine, are effective at relieving the symptoms of seasonal allergic rhinitis (SAR); however, they are associated with adverse events, including sedation and impairment, at, or above, the recommended dose. Newer-generation antihistamines, such as desloratadine, cetirizine and fexofenadine, were developed to minimize adverse events. In this article, studies examining newer-generation antihistamines in adults and children were reviewed. The clinical evidence confirms that desloratadine, cetirizine and fexofenadine are effective at managing the symptoms of SAR in adults and children; however, cetirizine is more likely to cause sedation. Physician intervention is paramount to SAR symptom management. It is essential that appropriate treatment relieves SAR symptoms with absent or minimal adverse events. This",
+            "journal": "Southern medical journal",
+            "year": "2006",
+            "authors": [
+              "Spangler Dennis L",
+              "Brunton Stephen"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Central Nervous System",
+              "Cetirizine",
+              "Histamine H1 Antagonists",
+              "Histamine H1 Antagonists, Non-Sedating",
+              "Humans",
+              "Loratadine",
+              "Quality of Life",
+              "Rhinitis, Allergic, Seasonal",
+              "Terfenadine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16800414/"
+          },
+          {
+            "pmid": "11331439",
+            "title": "Newer antihistamines.",
+            "abstract": "",
+            "journal": "The Medical letter on drugs and therapeutics",
+            "year": "2001",
+            "authors": [],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Anti-Allergic Agents",
+              "Cetirizine",
+              "Chlorpheniramine",
+              "Procedural Sedation",
+              "Diphenhydramine",
+              "Dose-Response Relationship, Drug",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Hypersensitivity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11331439/"
+          },
+          {
+            "pmid": "40717751",
+            "title": "Diphenhydramine: A Review of Its Clinical Applications and Potential Adverse Effect Profile.",
+            "abstract": "Diphenhydramine (Benadryl) is a first-generation antihistamine that is primarily used to treat allergic reactions including anaphylaxis, urticaria, and allergic rhinitis. Despite its availability as an over-the-counter medication, adverse physiologic effects and toxicity may occur with its use especially when administered rapidly via the intravenous route or when administered in large or excessive doses. The development and history of diphenhydramine is presented, its physiologic effects and clinical uses outlined, previous reports of clinically significant and potentially life-threatening adverse effects reviewed, and options to limit these effects discussed.",
+            "journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+            "year": "2025",
+            "authors": [
+              "Khan Wajahat Nazir",
+              "Tobias Joseph D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40717751/"
+          },
+          {
+            "pmid": "8346863",
+            "title": "Seasonal allergic rhinitis and antihistamine effects on children's learning.",
+            "abstract": "Children suffering from seasonal allergic rhinitis and matched normals were instructed on the use of a didactic computer simulation in a realistic classroom situation. Groups of atopic children received different treatments before instruction; ie, sedating (diphenylhydramine HCl) or nonsedating (loratadine) antihistamines or placebo. All returned after 2 weeks for an examination measuring factual and conceptual knowledge and the application of a learned strategy. Examination results showed large and consistent impairing effects of the allergic reaction on prior learning. Both the placebo and diphenhydramine groups learned significantly less than normal controls. The loratadine group's learning performance was superior to either of the other atopic groups' but still inferior to the normals'. Our conclusions are that the allergic reaction reduces learning ability in children and that this effect is partially counteracted by treatment with loratadine and aggravated by diphenhydramine.",
+            "journal": "Annals of allergy",
+            "year": "1993",
+            "authors": [
+              "Vuurman E F",
+              "van Veggel L M",
+              "Uiterwijk M M",
+              "Leutner D",
+              "O'Hanlon J F"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Child",
+              "Cognition",
+              "Diphenhydramine",
+              "Female",
+              "Humans",
+              "Hypersensitivity, Immediate",
+              "Learning",
+              "Loratadine",
+              "Male",
+              "Rhinitis, Allergic, Seasonal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8346863/"
+          },
+          {
+            "pmid": "27866183",
+            "title": "Resolution of Allergic Rhinitis and Reactive Bronchospasm With Supplements and Food-specific Immunoglobulin G Elimination: A Case Report.",
+            "abstract": "Context • Allergies are a common affliction, whether they are respiratory, food related, or dermatological. People often resort to continuous use of over-the-counter medications, such as antihistamines, to manage their symptoms. Controversy still remains over testing serum immunoglobulin (Ig) G to diagnose food allergies. Objective • This study intended to examine the benefits of treatment of a pediatric patient with natural supplements and an elimination diet for IgG food allergies. Design • The research team reported a case study. Setting • The study was conducted at Southwest Naturopathic Medical Center (Tempe, AZ, USA). Participant • The participant was a 10-y-old Caucasian female who had diagnoses of allergic rhinitis and reactive bronchospasm, the second of which was exacerbated by allergens such as wheat, perfumes, and seasonal flora. Intervention • Following testing for IgE- and IgG-reactive foods, the patient was treated with natural supplements to reduce her allergic response",
+            "journal": "Alternative therapies in health and medicine",
+            "year": "2016",
+            "authors": [
+              "Kwiatkowski Laura",
+              "Mitchell Jessica",
+              "Langland Jeffrey"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Bronchial Spasm",
+              "Child",
+              "Dietary Supplements",
+              "Female",
+              "Food Hypersensitivity",
+              "Humans",
+              "Immunoglobulin G",
+              "Rhinitis, Allergic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27866183/"
+          },
+          {
+            "pmid": "17390763",
+            "title": "First-generation antihistamines diphenhydramine and chlorpheniramine reverse cytokine-afforded eosinophil survival by enhancing apoptosis.",
+            "abstract": "Antihistamines or histamine H1-receptor antagonists are commonly used to treat a variety of allergic symptoms. Eosinophils are considered to play an essential role in the pathogenesis of allergy. Reduced eosinophil apoptosis is thought to be an important element in the formation of eosinophilia in allergic conditions such as allergic rhinitis, atopic eczema, and asthma. The aim of this study was to investigate the effects of two first-generation antihistamines diphenhydramine and chlorpheniramine on constitutive eosinophil apoptosis and on interleukin (IL)-5-afforded eosinophil survival. The role of c-Jun N-terminal kinase (JNK) in mediating the effects of antihistamines on eosinophil apoptosis was evaluated also. Apoptosis of isolated human eosinophils was assessed by measuring the relative DNA content of propidium iodide-stained cells and confirmed by morphological analysis. The activity of JNK was measured by Western blotting. Antihistamines were found to reverse the survival-prolon",
+            "journal": "Allergy and asthma proceedings",
+            "year": "2007",
+            "authors": [
+              "Hasala Hannele",
+              "Moilanen Eeva",
+              "Janka-Junttila Mirkka",
+              "Giembycz Mark A",
+              "Kankaanranta Hannu"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Allergic Agents",
+              "Apoptosis",
+              "Blotting, Western",
+              "Cell Survival",
+              "Cells, Cultured",
+              "Chlorpheniramine",
+              "Cytokines",
+              "Diphenhydramine",
+              "Dose-Response Relationship, Drug",
+              "Enzyme Activation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17390763/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "rhinitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20rhinitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "allergic urticaria",
+        "txgnn_score": 0.982386350631714,
+        "txgnn_rank": 3334,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02023164",
+            "title": "Multicenter Pilot Study to Assess the Feasibility of Conducting Phase III Trial Comparing IV Cetirizine Injection, 10 mg, to IV Diphenhydramine, 50 mg, for The Treatment of Acute Urticaria",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2013-07",
+            "completion_date": "2014-12",
+            "country": "United States, Canada",
+            "enrollment": 36,
+            "brief_summary": "This is a multicenter, parallel group, randomized, double-blind pilot Phase III clinical study of JDP-205 (cetirizine) injection, versus diphenhydramine injection, 50 mg/mL (Benadryl or generic equivalent), in approximately 36 patients with acute urticaria requiring treatment in Hospital Emergency Departments, Urgent Care Centers and Allergy Clinics.",
+            "eligibility_criteria": "Patients are eligible to be included in the study only if they meet all of the following criteria:\n\nInclusion Criteria:\n\n* Male or female patients with a diagnosis of acute urticaria associated with an acute allergic reaction to a known (e.g. food, medication, insect bites) or unknown allergen who n",
+            "endpoints": [
+              "Extent of Urticaria/Erythema Score (Physician Assessment)",
+              "Physician Pruritus Severity Score",
+              "Patient Pruritis Severity Score"
+            ],
+            "sponsor": "JDP Therapeutics, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT02023164"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05354466",
+            "title": "Effect of Sugammadex Versus Neostigmine on the Occurrence of Respiratory Adverse Events in Children Undergoing Tonsillectomies: a Randomized Controlled Trial",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2022-06-27",
+            "completion_date": "2024-09-04",
+            "country": "South Korea",
+            "enrollment": 174,
+            "brief_summary": "Perioperative respiratory adverse events are common in children. We aimed to evaluate the effect of sugammadex on the incidence of perioperative respiratory adverse events in pediatric patients receiving tonsillectomy",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Pediatric patients aged 2-6 years who were scheduled for tonsillectomy under general anesthesia were enrolled\n\nExclusion Criteria:\n\n* a recent history of upper respiratory tract infection within 2 weeks of surgery\n* allergic reaction to sugammadex\n* renal failure\n* liver failu",
+            "endpoints": [
+              "Perioperative respiratory adverse events"
+            ],
+            "sponsor": "Seoul National University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT05354466"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04660799",
+            "title": "A Phase II Comparative, Open-Label, Randomized, Multicenter, China-Only Study to Investigate the Pharmacokinetics, Efficacy and Safety of Subcutaneous Rituximab Versus Intravenous Rituximab Both in Combination With CHOP in Previously Untreated Patients With CD20 Positive Diffuse Large B Cell Lymphoma",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2021-02-24",
+            "completion_date": "2022-10-11",
+            "country": "China",
+            "enrollment": 50,
+            "brief_summary": "This is a multicenter China-only study to investigate the PK, efficacy and safety of SC rituximab versus IV rituximab, both in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisone) in previously untreated participants with CD20 positive DLBCL. Participants will be randomized to receive eight cycles of rituximab SC or rituximab IV combined with six or eight cycles of standard CHOP chemotherapy. After the end of study treatment, participants will be followed-up every 3 mon",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Previously untreated CD20 positive diffuse large B-cell lymphoma (DLBCL)\n* Participants with an International Prognostic Index (IPI) score of 1 to 5 or IPI score of 0 with bulky disease, defined as one lesion \\>/=7.5 cm\n* At least one bi-dimensionally measurable lesion defined",
+            "endpoints": [
+              "Subcutaneous Serum Rituximab Trough Concentration (Ctrough SC) and Intravenous Serum Rituximab Trough Concentration (Ctrough IV)"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT04660799"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "16278258",
+            "title": "Treatment for allergic rhinitis and chronic idiopathic urticaria: focus on oral antihistamines.",
+            "abstract": "To review the efficacy and safety of first- and newer-generation antihistamines for the management of allergic rhinitis and chronic idiopathic urticaria (CIU), with a focus on management in the pharmacy.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2005",
+            "authors": [
+              "Morgan Matthew M",
+              "Khan David A",
+              "Nathan Robert A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Chronic Disease",
+              "Cost-Benefit Analysis",
+              "Histamine Antagonists",
+              "Humans",
+              "Rhinitis, Allergic, Seasonal",
+              "Urticaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16278258/"
+          },
+          {
+            "pmid": "31582993",
+            "title": "CSACI position statement: Newer generation H1-antihistamines are safer than first-generation H1-antihistamines and should be the first-line antihistamines for the treatment of allergic rhinitis and urticaria.",
+            "abstract": "Oral H1-antihistamines (AHs) are the most commonly used therapy to treat allergic rhinitis and chronic urticaria. Older, first-generation AHs (e.g. diphenhydramine, hydroxyzine) have significant and common side effects including sedation, impairment with decreased cognitive function, poor sleep quality, dry mouth, dizziness, and orthostatic hypotension. These drugs have also been found to result in death from accidents, intentional or unintentional overdoses, and sudden cardiac death. The unfavourable risk-benefit profile of first-generation AHs led to the development of newer, less-sedating second- and third-generation AHs, which first became available in Canada in the 1980s. High-quality trials have proven that newer generation AHs are superior in safety compared to older first-generation AHs. On average, they have improved potency and efficacy. Second- and third-generation AHs are the recommended first-line treatment for mild allergic rhinitis and acute and chronic urticaria. Despit",
+            "journal": "Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology",
+            "year": "2019",
+            "authors": [
+              "Fein Michael N",
+              "Fischer David A",
+              "O'Keefe Andrew W",
+              "Sussman Gord L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31582993/"
+          },
+          {
+            "pmid": "28913986",
+            "title": "Chronic Spontaneous Urticaria: Pathogenesis and Treatment Considerations.",
+            "abstract": "The treatment of chronic spontaneous urticaria begins with antihistamines; however, the dose required typically exceeds that recommended for allergic rhinitis. Second-generation, relatively non-sedating H₁-receptor blockers are typically employed up to 4 times a day. First-generation antihistamines, such as hydroxyzine or diphenhydramine (Atarax or Benadryl), were employed similarly in the past. Should high-dose antihistamines fail to control symptoms (at least 50%), omalizumab at 300 mg/month is the next step. This is effective in 70% of antihistamine-refractory patients. H₂-receptor blockers and leukotriene antagonists are no longer recommended; they add little and the literature does not support significant efficacy. For those patients who are unresponsive to both antihistamines and omalizumab, cyclosporine is recommended next. This is similarly effective in 65%-70% of patients; however, care is needed regarding possible side-effects on blood pressure and renal function. Corticoster",
+            "journal": "Allergy, asthma & immunology research",
+            "year": "2017",
+            "authors": [
+              "Kaplan Allen P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28913986/"
+          },
+          {
+            "pmid": "12113226",
+            "title": "H1-antihistamines in children.",
+            "abstract": "In children, as in adults, H1-antagonists are useful in the treatment of allergic rhinoconjunctivitis. Level 1 evidence for their efficacy in this disorder has been obtained in many well-designed pediatric studies. The widespread use of H1-antagonists in upper respiratory tract infections or otitis media in children is not supported by a strong scientific rationale. H1-antagonists are not harmful in children with asthma and, indeed, may have some beneficial effects in children with mild asthma. Their role in delaying or preventing asthma from developing in high-risk infants and toddlers is currently an important area of clinical investigation. The evidence base for their use in children with urticaria or atopic dermatitis still contains large gaps. First-generation H1-antagonists are presumed to be safe for use in infants and children. While they have undoubtedly been administered without apparent harm to millions in this age group, they impair CNS function far more commonly than is ge",
+            "journal": "Clinical allergy and immunology",
+            "year": "2002",
+            "authors": [
+              "Simons F Estelle R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Child",
+              "Conjunctivitis, Allergic",
+              "Dermatitis, Atopic",
+              "Heart",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Otitis Media",
+              "Respiratory Tract Infections",
+              "Rhinitis, Allergic, Perennial"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12113226/"
+          },
+          {
+            "pmid": "34921427",
+            "title": "Pharmacokinetics of diphenhydramine following single-dose intravenous and oral administration in non-fasted adult horses.",
+            "abstract": "Diphenhydramine is an H1 receptor antagonist used to control urticaria and other allergic signs caused by type I hypersensitivity reactions in horses (Equus caballus). Limited studies have been conducted on pharmacokinetics of this drug in horses, with no studies involving oral formulations. Our study investigated pharmacokinetics of an oral diphenhydramine formulation compared to intravenous administration in non-fasted adult horses. Six healthy horses underwent a single administration of three different doses of diphenhydramine (1 mg/kg intravenously, 1 mg/kg intragastrically, and 5 mg/kg intragastrically) with a two-week washout period between doses. Bioavailability of intragastric diphenhydramine was less than one percent and six percent for 1 mg/kg and 5 mg/kg intragastric doses, respectively. This poor bioavailability is similar to what is reported in dogs. Two of six horses experienced transient side effects after intravenous diphenhydramine administration, emphasizing the need ",
+            "journal": "Journal of veterinary pharmacology and therapeutics",
+            "year": "2022",
+            "authors": [
+              "Redmond Jeremy S",
+              "Stang Bernadette V",
+              "Schlipf John W",
+              "Christensen John M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intravenous",
+              "Administration, Oral",
+              "Animals",
+              "Biological Availability",
+              "Cross-Over Studies",
+              "Diphenhydramine",
+              "Dogs",
+              "Histamine H1 Antagonists",
+              "Horses"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34921427/"
+          },
+          {
+            "pmid": "34862952",
+            "title": "The Role of Cetirizine in the Changing Landscape of IV Antihistamines: A Narrative Review.",
+            "abstract": "Since 1955, the only available H1 antihistamines for intravenous administration have been first-generation formulations and, of those, only intravenously administered (IV) diphenhydramine is still approved in the USA. Orally administered cetirizine hydrochloride, a second-generation H1 antihistamine, has been safely used over-the-counter for many years. In 2019, IV cetirizine was approved for the treatment of acute urticaria. In light of this approval, this narrative review discusses the changing landscape of IV antihistamines for the treatment of histamine-mediated conditions. Specifically, IV antihistamines will be discussed as a treatment option for acute urticaria and angioedema, as premedication to prevent infusion reactions related to anticancer agents and other biologics, and as an adjunct treatment for anaphylaxis and other allergic reactions. Before the development of IV cetirizine, randomized controlled trials of IV antihistamines for these indications were lacking. Three ran",
+            "journal": "Advances in therapy",
+            "year": "2022",
+            "authors": [
+              "Blaiss Michael S",
+              "Bernstein Jonathan A",
+              "Kessler Adam",
+              "Pines Jesse M",
+              "Camargo Carlos A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Administration, Intravenous",
+              "Adult",
+              "Cetirizine",
+              "Diphenhydramine",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Urticaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34862952/"
+          },
+          {
+            "pmid": "2568212",
+            "title": "Nonsedating histamine H1-receptor antagonists.",
+            "abstract": "The chemistry, pharmacology, pharmacokinetics, clinical efficacy, adverse effects, and dosages of the nonsedating histamine H1-receptor antagonists terfenadine, astemizole, loratadine, and acrivastine are reviewed. Terfenadine and astemizole are chemically unrelated to histamine H1-receptor antagonists such as diphenhydramine and chlorpheniramine. Loratadine is structurally related to the antihistamine azatadine, and acrivastine is a side-chain-reduced metabolite of the antihistamine triprolidine. Like other histamine H1-receptor antagonists, they competitively block histamine receptor sites rather than inhibiting histamine release. All four drugs have relatively long half-lives and are rapidly absorbed after oral administration. Terfenadine, astemizole, and loratadine are metabolized extensively in the liver; terfenadine and astemizole are both 97% protein bound. Terfenadine 60 mg twice daily has been shown to be as effective as conventional antihistamines for the treatment of seasona",
+            "journal": "Clinical pharmacy",
+            "year": "1989",
+            "authors": [
+              "Mann K V",
+              "Crowe J P",
+              "Tietze K J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Hypersensitivity",
+              "Hypnotics and Sedatives"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2568212/"
+          },
+          {
+            "pmid": "40717751",
+            "title": "Diphenhydramine: A Review of Its Clinical Applications and Potential Adverse Effect Profile.",
+            "abstract": "Diphenhydramine (Benadryl) is a first-generation antihistamine that is primarily used to treat allergic reactions including anaphylaxis, urticaria, and allergic rhinitis. Despite its availability as an over-the-counter medication, adverse physiologic effects and toxicity may occur with its use especially when administered rapidly via the intravenous route or when administered in large or excessive doses. The development and history of diphenhydramine is presented, its physiologic effects and clinical uses outlined, previous reports of clinically significant and potentially life-threatening adverse effects reviewed, and options to limit these effects discussed.",
+            "journal": "The journal of pediatric pharmacology and therapeutics : JPPT : the official journal of PPAG",
+            "year": "2025",
+            "authors": [
+              "Khan Wajahat Nazir",
+              "Tobias Joseph D"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40717751/"
+          },
+          {
+            "pmid": "30779257",
+            "title": "Diphenhydramine pharmacokinetics after oral and intravenous administration of diphenhydramine and oral administration of dimenhydrinate to healthy dogs, and pharmacodynamic effect on histamine-induced wheal formation: a pilot study.",
+            "abstract": "Histamine type-1 (H1) receptor antagonists such as diphenhydramine are frequently used for treatment of pruritus in dogs, yet therapeutic efficacy for allergic disorders is reported to be highly variable. Dimenhydrinate is a salt of diphenhydramine and 8-chlorotheophylline, and has been reported to produce superior oral absorption of diphenhydramine.",
+            "journal": "Veterinary dermatology",
+            "year": "2019",
+            "authors": [
+              "Ehling Sarah",
+              "Bäumer Wolfgang",
+              "Papich Mark G"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Intravenous",
+              "Administration, Oral",
+              "Animals",
+              "Cross-Over Studies",
+              "Dimenhydrinate",
+              "Diphenhydramine",
+              "Dogs",
+              "Female",
+              "Half-Life",
+              "Histamine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30779257/"
+          },
+          {
+            "pmid": "16315562",
+            "title": "Cold urticaria: a case report and review of the literature.",
+            "abstract": "Cold urticaria represents a form of physical urticaria. The disorder is uncommon, and patients with the condition are at risk for systemic reactions and thus must be identified, counseled, and treated accordingly. Diagnosis principally is clinical and is confirmed by the results of cold stimulation tests such as placing an ice cube on the patient's forearm. Treatment primarily consists of preventive counseling, epinephrine autoinjections, and antihistamines. We present the case of a 9-year-old girl with acquired cold urticaria and review the literature.",
+            "journal": "Cutis",
+            "year": "2005",
+            "authors": [
+              "La Shell Mark S",
+              "Tankersley Michael S",
+              "Kobayashi Machiko"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Allergic Agents",
+              "Child",
+              "Cold Temperature",
+              "Diagnosis, Differential",
+              "Diphenhydramine",
+              "Epinephrine",
+              "Female",
+              "Humans",
+              "Urticaria",
+              "Vasoconstrictor Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16315562/"
+          },
+          {
+            "pmid": "12476405",
+            "title": "Allergic reactions to drugs: implications for perioperative care.",
+            "abstract": "Clinically, one must be able to differentiate between an allergic reaction and an adverse reaction. Clinical manifestations of allergic reactions range from urticaria and rash to bronchoconstriction, laryngeal edema, hematologic disorders, and other serious reactions. Many drugs administered in the perioperative setting can cause allergic reactions. Antibiotics such as penicillins, beta-lactam antibiotics, and sulfonamides are the most common class of drugs that produce allergic reactions. A detailed allergy history is important when deciding if a patient can receive a drug that may cross-react (eg, a cephalosporin in a patient with a penicillin allergy). Vancomycin can cause a reaction that ranges from erythema and pruritus to clinically significant hypotension. Proper dilution and rate of administration are essential in minimizing the histamine from vancomycin that is thought to produce this reaction. \"Sulfa allergy\" describes an allergy to sulfonamide antibiotics; a patient with a \"",
+            "journal": "Journal of perianesthesia nursing : official journal of the American Society of PeriAnesthesia Nurses",
+            "year": "2002",
+            "authors": [
+              "Golembiewski Julie A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Drug Hypersensitivity",
+              "Humans",
+              "Perioperative Nursing"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12476405/"
+          },
+          {
+            "pmid": "6237897",
+            "title": "Doxorubicin-induced hypersensitivity reactions.",
+            "abstract": "An uncommon side effect of the anthracycline antibiotics is allergic reactions. We report three patients treated with doxorubicin hydrochloride who developed systemic hypersensitivity reactions to the drug. In all three cases, the onset of the reaction coincided with the initiation of the doxorubicin, and was confirmed by rechallenge with the drug. An urticarial rash with pruritus was the primary clinical manifestation seen in all cases. All reactions responded to treatment with diphenhydramine, or diphenhydramine and hydrocortisone. None of the reactions were life-threatening or required hospitalization of the patient. In two patients, use of the drug was discontinued because of the reaction. Pretreatment with diphenhydramine, prednisone, and cimetidine may have reduced the severity of the reaction in one patient.",
+            "journal": "Drug intelligence & clinical pharmacy",
+            "year": "1984",
+            "authors": [
+              "Solimando D A",
+              "Wilson J P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Doxorubicin",
+              "Drug Eruptions",
+              "Drug Hypersensitivity",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pruritus",
+              "Urticaria"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6237897/"
+          },
+          {
+            "pmid": "9624310",
+            "title": "Management of anaphylactoid reactions to intravenous N-acetylcysteine.",
+            "abstract": "To develop management guidelines for the treatment of anaphylactoid reactions to intravenous N-acetylcysteine (NAC) and to assess the safety of restarting the infusion after a reaction.",
+            "journal": "Annals of emergency medicine",
+            "year": "1998",
+            "authors": [
+              "Bailey B",
+              "McGuigan M A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetaminophen",
+              "Acetylcysteine",
+              "Anaphylaxis",
+              "Anti-Allergic Agents",
+              "Diphenhydramine",
+              "Free Radical Scavengers",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Infusions, Intravenous",
+              "Practice Guidelines as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9624310/"
+          },
+          {
+            "pmid": "2529577",
+            "title": "Allergic cutaneous reactions to drugs.",
+            "abstract": "Because the pathophysiology of many drug eruptions is unknown, the presumption that a drug eruption is due to immune mechanisms is often based on clinical features. The drug exanthem, urticaria, and contact dermatitis are the most common adverse cutaneous reactions to medications. Drug exanthems occur in 2 to 3 per cent of medical inpatients and are most commonly caused by antibiotics and blood products. The incidence of drug exanthems is much higher in certain patient populations (for example, patients with AIDS treated with trimethoprim-sulfamethoxazole). Urticaria is the second most common allergic cutaneous reaction to drugs. Individual urticarial lesions last for less than 24 hours and do not leave hyperpigmentation or scarring. Urticaria not accompanied by systemic symptoms should not be treated with systemic corticosteroids or parenteral epinephrine. Allergic contact dermatitis is commonly caused by neomycin, benzocaine, ethylenediamine, diphenhydramine, and transdermal patches.",
+            "journal": "Primary care",
+            "year": "1989",
+            "authors": [
+              "Bigby M",
+              "Stern R S",
+              "Arndt K A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Drug Eruptions",
+              "Female",
+              "Humans",
+              "Incidence",
+              "Male",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2529577/"
+          },
+          {
+            "pmid": "24091200",
+            "title": "Anaphylactic shock associated with intravenous thrombolytics.",
+            "abstract": "Adverse events including intracerebral hemorrhage and reperfusion arrhythmias are well known to occur with thrombolytic therapy. We report a case report of anaphylactic reaction directly attributable to intravenous (IV) recombinant tissue plasminogen activator and identify additional cases through review of the Food and Drug Administration Adverse Event Reporting System. A systematic review of Adverse Event Reporting System was performed for allergic adverse events occurring in conjunction with IV thrombolytics. We reviewed 924 adverse events which occurred between 2004 and 2012 that were associated with thrombolytics. We subsequently acquired detailed individual safety reports of 33 cases in which allergic events were documented. Out of the 33 reports, there were 12 cases (age range, 57-93 years) of adverse allergic reaction directly attributable to IV thrombolytics. Allergic reactions included angioedema, facial swelling, urticaria, skin rash, cutaneous hypesthesia, hypotension, anap",
+            "journal": "The American journal of emergency medicine",
+            "year": "2014",
+            "authors": [
+              "Zarar Amna",
+              "Khan Asif A",
+              "Adil Malik M",
+              "Qureshi Adnan I"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anaphylaxis",
+              "Female",
+              "Fibrinolytic Agents",
+              "Humans",
+              "Middle Aged",
+              "Recombinant Proteins",
+              "Stroke",
+              "Tissue Plasminogen Activator"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24091200/"
+          },
+          {
+            "pmid": "1979800",
+            "title": "Cetirizine: antiallergic therapy beyond traditional H1 antihistamines.",
+            "abstract": "For three decades, traditional H1 antihistamines have been used in the treatment of allergic diseases. They are effective in reducing histamine-related symptoms, but the use of such agents has been limited by sedation and anticholinergic side effects. These adverse effects are fewer with the recently introduced H1 antihistamines. One of these, cetirizine, a human metabolite of hydroxyzine, is characterized by its high selectivity for the H1 receptor site and its reliable and consistent inhibition of histamine-induced allergic reactions. It also blocks eosinophil infiltration to the site of allergen-induced cutaneous reactions. Cetirizine has proved effective in the treatment of seasonal and perennial allergic rhinitis and urticaria. It is excreted primarily by renal mechanisms. It is well tolerated by elderly patients. Cetirizine has a low rate of penetration of the blood-brain barrier, and it has minimal central nervous system impairment. Furthermore, it can be given once a day. Cetir",
+            "journal": "The Journal of allergy and clinical immunology",
+            "year": "1990",
+            "authors": [
+              "Sheffer A L",
+              "Samuels L L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cetirizine",
+              "Diphenhydramine",
+              "Histamine H1 Antagonists",
+              "Humans",
+              "Hydroxyzine",
+              "Hypersensitivity",
+              "Reaction Time"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1979800/"
+          },
+          {
+            "pmid": "34387278",
+            "title": "Assessment of receptor affinities of ophthalmic and systemic agents in dry eye disease.",
+            "abstract": "To explore our current understanding of receptor profiles acted upon by medications used to treat dry eye disease (DED).",
+            "journal": "Current opinion in allergy and clinical immunology",
+            "year": "2021",
+            "authors": [
+              "Janeczko Patrick",
+              "Norris Matthew R",
+              "Bielory Leonard"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diphenhydramine",
+              "Dry Eye Syndromes",
+              "Histamine Antagonists",
+              "Histamine H1 Antagonists, Non-Sedating",
+              "Humans",
+              "Ketotifen",
+              "Ophthalmic Solutions",
+              "Receptors, Histamine H3",
+              "Receptors, Muscarinic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34387278/"
+          },
+          {
+            "pmid": "15701213",
+            "title": "Safety of desloratadine syrup in children.",
+            "abstract": "Allergic rhinitis (AR) and acute urticaria are common childhood maladies. Typically, the firstline treatment options for both include non-sedating antihistamines. First-generation antihistamines, such as diphenhydramine and hydroxyzine, although useful, cause sedation. Desloratadine, an oral non-sedating antihistamine, has been shown in multiple studies to be safe and effective in relieving the symptoms of AR and chronic idiopathic urticaria (CIU) in adults and adolescents.",
+            "journal": "Current medical research and opinion",
+            "year": "2004",
+            "authors": [
+              "Bloom Melvyn",
+              "Staudinger Heribert",
+              "Herron Jerry"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Administration, Oral",
+              "Child",
+              "Child, Preschool",
+              "Double-Blind Method",
+              "Electrocardiography",
+              "Female",
+              "Histamine H1 Antagonists, Non-Sedating",
+              "Humans",
+              "Loratadine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15701213/"
+          },
+          {
+            "pmid": "24472564",
+            "title": "A case of anaphylaxis to peppermint.",
+            "abstract": "Anaphylaxis, a form of IgE mediated hypersensitivity, arises when mast cells and possibly basophils are provoked to secrete mediators with potent vasoactive and smooth muscle contractile activities that evoke a systemic response. We report a case of IgE mediated anaphylaxis to peppermint (Mentha piperita) in a male shortly after sucking on a candy.",
+            "journal": "Allergy, asthma, and clinical immunology : official journal of the Canadian Society of Allergy and Clinical Immunology",
+            "year": "2014",
+            "authors": [
+              "Bayat Roian",
+              "Borici-Mazi Rozita"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24472564/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "allergic urticaria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20allergic%20urticaria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cold urticaria",
+        "txgnn_score": 0.95917010307312,
+        "txgnn_rank": 6028,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "cold urticaria",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20cold%20urticaria"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "cauda equina syndrome",
+        "txgnn_score": 0.9557039141654968,
+        "txgnn_rank": 6327,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "cauda equina syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20cauda%20equina%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "nasopharyngitis",
+        "txgnn_score": 0.9495701193809508,
+        "txgnn_rank": 6881,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "17560664",
+            "title": "Is acetaminophen as effective as an antihistamine-decongestant-acetaminophen combination in relieving symptoms of acute nasopharyngitis in children? A randomised, controlled trial.",
+            "abstract": "To determine the efficiency of drugs, which include antihistaminic-decongestant-acetaminophen agents versus only acetaminophen in symptomatic treatment of acute nasopharyngitis in children.",
+            "journal": "International journal of pediatric otorhinolaryngology",
+            "year": "2007",
+            "authors": [
+              "Unuvar Emin",
+              "Yildiz Ismail",
+              "Kilic Ayse",
+              "Toprak Sadik",
+              "Aslan Seyhan Selvi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acetaminophen",
+              "Acute Disease",
+              "Analgesics, Non-Narcotic",
+              "Child",
+              "Child, Preschool",
+              "Diphenhydramine",
+              "Drug Combinations",
+              "Ephedrine",
+              "Female",
+              "Follow-Up Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17560664/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "nasopharyngitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20nasopharyngitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "viral conjunctivitis",
+        "txgnn_score": 0.9396669268608092,
+        "txgnn_rank": 7714,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3024384",
+            "title": "Human effects of veterinary biological products.",
+            "abstract": "A 14-year-old male drank two glasses of milk from a gallon inoculated with 21 vials of live virus vaccine intended to immunize 1000 baby chicks against Newcastle Disease. The patient was managed with catharsis and careful observation, and remained completely asymptomatic in the following 28 days. Newcastle Disease virus (NDV) may cause paralytic neurotropic, viscerotropic, or pneumonotropic disease in chickens, but has limited effects on humans. Systemic exposure to this vaccine has not previously been reported in humans, although an aerosol NDV vaccine has caused self-limited conjunctivitis following ocular exposure. The human effects of veterinary biologicals remain poorly defined. The limited literature existing in regards to the human experience with common veterinary vaccines is reviewed.",
+            "journal": "Veterinary and human toxicology",
+            "year": "1986",
+            "authors": [
+              "Crosby A D",
+              "D'Andrea G H",
+              "Geller R J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Dermatitis, Contact",
+              "Dexamethasone",
+              "Diphenhydramine",
+              "Female",
+              "Humans",
+              "Infectious bursal disease virus",
+              "Magnesium Sulfate",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3024384/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "viral conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20viral%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neuralgia",
+        "txgnn_score": 0.9229598641395568,
+        "txgnn_rank": 9160,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05322889",
+            "title": "Prevention of Paclitaxel-induced Neuropathic Pain by Telmisartan in Patients With Planned Paclitaxel Chemotherapy Due to Ovarian or Breast Cancer (PrevTel)",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2020-04-09",
+            "completion_date": "2023-06-30",
+            "country": "Germany",
+            "enrollment": 35,
+            "brief_summary": "Phase IIa clinical trial will be conducted with patients requiring in-label paclitaxel-chemotherapy due to ovarian or breast cancer. The efficacy of a 12-week telmisartan treatment, starting one week before planned paclitaxel-administration to prevent PIPNP (paclitaxel-induced peripheral neuropathic pain) will be assessed by measurement of occurrence of clinical symptoms of PIPNP as well as lipid profiles",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with a diagnosis of ovarian or breast cancer who are clinically eligible for paclitaxel therapy and for whom paclitaxel chemotherapy is planned (with use of standard treatment) in clinical routine care.\n* Female patients ≥ 18 years and ≤ 80 years\n* The patient must ha",
+            "endpoints": [
+              "efficacy of telmisartan to prevent new onset of Paclitaxel- induced peripheral neuropathic pain (PIPNP)"
+            ],
+            "sponsor": "Fraunhofer Institute for Translational Medicine and Pharmacology ITMP",
+            "url": "https://clinicaltrials.gov/study/NCT05322889"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01669967",
+            "title": "The Role of Intravenous (IV) Lidocaine in the Management of Chronic Neuropathic Pain of Peripheral Nerve Origin",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2011-09",
+            "completion_date": "2015-12",
+            "country": "Canada",
+            "enrollment": 34,
+            "brief_summary": "Pain as a result of nerve injury (neuropathic pain) is a particularly severe form of chronic pain. Common examples of neuropathic pain are pain due to diabetes and shingles. There is good evidence that an intravenous infusion of lidocaine (local anesthetic) is useful for the management of neuropathic pain in the short term - up to six hours.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Chronic neuropathic pain due to diabetes mellitus or herpes zoster and a score of 4/10 or greater on the DN4 questionnaire.\n* Moderate to severe pain as defined by screening average pain intensity of 5 or greater on a 0-10 numerical rating scale.\n* Neuropathic pain duration of",
+            "endpoints": [
+              "Changes from Baseline Pain scores on the Visual Analog Scale at 4 weeks"
+            ],
+            "sponsor": "London Health Sciences Centre Research Institute OR Lawson Research Institute of St. Joseph's",
+            "url": "https://clinicaltrials.gov/study/NCT01669967"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00011804",
+            "title": "Topiramate in the Treatment of Sciatica",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2001-02",
+            "completion_date": "2005-02",
+            "country": "United States",
+            "enrollment": 65,
+            "brief_summary": "This study will test the effectiveness of topiramate to treat pain caused by lumbar radiculopathy, or sciatica. Sciatica results from damage to the lumbar nerve roots, typically causing back pain and sharp, shooting pain down one or both legs. Although sciatica is common, there are no good treatments for it. Topiramate belongs to a group of medications commonly used to treat pain caused by nerve damage.\n\nPatients between 18 and 75 years of age who have had sciatica pain daily for at least 3 mont",
+            "eligibility_criteria": "INCLUSION CRITERIA:\n\nLow back pain of 3 months duration or longer present at least 5 out of 7 days a week are eligible.\n\nAge between18-75 at the start of the study.\n\nMen and women of all ethnicities.\n\nSigns and symptoms of lumbar radiculopathy.\n\nAbility to understand the study measures and mentally ",
+            "endpoints": [],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT00011804"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00837941",
+            "title": "Qualification of Single Dose Administration of Analgesic Therapy in the Treatment of Chronic Neuropathic Pain in Patients With Painful Diabetic Neuropathy",
+            "phase": "PHASE2",
+            "status": "WITHDRAWN",
+            "start_date": "2009-04",
+            "completion_date": "2009-09",
+            "country": "N/A",
+            "enrollment": 0,
+            "brief_summary": "The purpose of this study is to determine if analgesic efficacy can be detected with single dose administration in patients with chronic neuropathic pain due to painful diabetic neuropathy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient has been treated for type 1 or 2 diabetes mellitus with glycosylated hemoglobin\n* Patient has pain in both feet that occurred after onset of diabetes\n* Patient agrees to maintain a consistent activity level throughout the study\n* Patient is not on chronic pain therapy,",
+            "endpoints": [
+              "analgesic efficacy measured by patients self reported pain level after single dose administration"
+            ],
+            "sponsor": "Merck Sharp & Dohme LLC",
+            "url": "https://clinicaltrials.gov/study/NCT00837941"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01678586",
+            "title": "Effect of Acupuncture and Pain Medication on Radicular Pain Using QST",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-12",
+            "completion_date": "2021-12",
+            "country": "United States",
+            "enrollment": 56,
+            "brief_summary": "In this aim, we propose to conduct a double blinded, placebo-controlled, and randomized clinical trial to compare the clinical effectiveness of radicular pain relief by either acupuncture therapy or a course of pain medication (e.g., Gabapentin) using Quantitative Sensory Testing (QST).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Subject will be between ages 18 to 75 years. Both male and female subjects will be recruited.\n2. Subject should have had cervical or lumbar radicular pain for at least two months. This requirement is to avoid the uncertainty of an unstable pain condition and to minimize the s",
+            "endpoints": [
+              "Changes in QST Measures in Response to Acupuncture or Gabapentin at Visit 1, Visit 4 and Visit 7 for CS, WS, HP, CP (CS: Cold Sensation; WS: Warm Sensation; HP: Heat Pain; CP: Cold Pain)",
+              "Changes in QST Measures in Response to Acupuncture or Gabapentin at Visit 1, Visit 4 and Visit 7 HPT, CPT and Tol (HPT: Heat Pain Threshold; CPT: Cold Pain Threshold; Tol: Tolerance to 47°C Heat Stimulation)"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01678586"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "23996081",
+            "title": "Topiramate for neuropathic pain and fibromyalgia in adults.",
+            "abstract": "Topiramate is an antiepileptic drug with multiple possible mechanisms of action. Antiepileptic drugs are widely used to treat chronic neuropathic pain (pain due to nerve damage) and fibromyalgia, and many guidelines recommend them.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2013",
+            "authors": [
+              "Wiffen Philip J",
+              "Derry Sheena",
+              "Lunn Michael P T",
+              "Moore R Andrew"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Diabetic Neuropathies",
+              "Fibromyalgia",
+              "Fructose",
+              "Humans",
+              "Neuralgia",
+              "Neuroprotective Agents",
+              "Randomized Controlled Trials as Topic",
+              "Topiramate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23996081/"
+          },
+          {
+            "pmid": "19001532",
+            "title": "Rash associated with pregabalin use.",
+            "abstract": "To report a case of extensive rash induced by orally administered pregabalin in a patient with neuropathic pain.",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2008",
+            "authors": [
+              "Smith Timothy L",
+              "Baldwin Aaron",
+              "Cunningham Larry L",
+              "Cook Aaron M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Analgesics",
+              "Anti-Allergic Agents",
+              "Diphenhydramine",
+              "Drug Eruptions",
+              "Female",
+              "Glucocorticoids",
+              "Humans",
+              "Methylprednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19001532/"
+          },
+          {
+            "pmid": "31098961",
+            "title": "Intravenous lidocaine in the management of chronic peripheral neuropathic pain: a randomized-controlled trial.",
+            "abstract": "Neuropathic pain, resulting from injury to the peripheral or central nervous system, is due to upregulation of aberrant sodium channels with neuronal hyperexcitability. Lidocaine blocks these channels and several studies show that intravenous (IV) lidocaine infusion provides significant relief in patients with chronic peripheral neuropathic pain in the short term (for up to six hours). Our objective was to determine if IV lidocaine provides significant pain relief and overall improvement in quality of life in the longer term (for up to four weeks).",
+            "journal": "Canadian journal of anaesthesia = Journal canadien d'anesthesie",
+            "year": "2019",
+            "authors": [
+              "Moulin Dwight E",
+              "Morley-Forster Patricia K",
+              "Pirani Zameer",
+              "Rohfritsch Cathy",
+              "Stitt Larry"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anesthetics, Local",
+              "Chronic Pain",
+              "Cross-Over Studies",
+              "Diabetic Neuropathies",
+              "Diphenhydramine",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Infusions, Intravenous"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31098961/"
+          },
+          {
+            "pmid": "19013718",
+            "title": "Efficient assessment of neuropathic pain drugs in patients with small fiber sensory neuropathies.",
+            "abstract": "We sought to develop an enrichment crossover study design that would allow us to efficiently evaluate and compare promising candidate neuropathic pain drugs. We evaluated the efficacy of gabapentin or tramadol vs. active placebo (diphenhydramine) in subjects with biopsy-proven painful idiopathic small fiber neuropathy (SFN) who were self-reported gabapentin responders. Eligible subjects entered two single blind run-in phases. In the first phase (Period A), subjects were treated with single blinded gabapentin at their prestudy dose followed by a second run-in phase (Period B) in which they were treated with diphenhydramine active placebo. Subjects with >or=3 pain and a >or=30% increase in pain intensity in Period B compared to Period A were then randomized to a double-blind three period cross over trial of gabapentin at pre study dosage, tramadol 50mg QID and diphenhydramine 50mgqhs. Of the 59 subjects enrolled, 41 subjects were excluded: Twenty-three had an insufficient rise in pain in",
+            "journal": "Pain",
+            "year": "2009",
+            "authors": [
+              "Ho T W",
+              "Backonja M",
+              "Ma J",
+              "Leibensperger H",
+              "Froman S"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Amines",
+              "Analgesics",
+              "Cross-Over Studies",
+              "Cyclohexanecarboxylic Acids",
+              "Diphenhydramine",
+              "Double-Blind Method",
+              "Female",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19013718/"
+          },
+          {
+            "pmid": "2996564",
+            "title": "[Sciatica and chemonucleolysis].",
+            "abstract": "",
+            "journal": "Boletin de la Asociacion Medica de Puerto Rico",
+            "year": "1985",
+            "authors": [
+              "Ortíz J E",
+              "Rojas J E"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aftercare",
+              "Chymopapain",
+              "Cimetidine",
+              "Diphenhydramine",
+              "Evaluation Studies as Topic",
+              "Humans",
+              "Intervertebral Disc Displacement",
+              "Methods",
+              "Premedication",
+              "Sciatica"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2996564/"
+          },
+          {
+            "pmid": "24211787",
+            "title": "Mechanism-driven phase I translational study of trifluoperazine in adults with sickle cell disease.",
+            "abstract": "Recent evidence of neuropathic pain among adults with sickle cell disease (SCD) reveals a need for adjuvant analgesic treatments for these patients. Ca(2+)/calmodulin protein kinase IIα (CaMKIIα) has a known role in neuropathic pain and trifluoperazine is a potent CaMKIIα inhibitor. The study aim was to determine trifluoperazine's acute effects, primarily on adverse effects and secondarily on pain intensity reduction, in adults with SCD. In a phase I, open-label study of 6 doses of trifluoperazine (0.5, 1, 2, 5, 7.5, 10mg), we obtained 7-hourly and 24-h repeated measures of adverse effects, pain intensity, and supplemental opioid analgesics in 18 adults with SCD (18 hemoglobin SS disease, 15 women, average age 35.8±8.9 years, ranged 23-53) each of whom received a single dose. Data were analyzed with descriptive statistics. Subjects reported moderate to severe sedative effects at 7.5 and 10mg doses, respectively. Eight subjects reported 50% reduction in chronic pain without severe sedat",
+            "journal": "European journal of pharmacology",
+            "year": "2014",
+            "authors": [
+              "Molokie Robert E",
+              "Wilkie Diana J",
+              "Wittert Harriett",
+              "Suarez Marie L",
+              "Yao Yingwei"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase I",
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Analgesics",
+              "Anemia, Sickle Cell",
+              "Calcium-Calmodulin-Dependent Protein Kinase Type 2",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Neuralgia",
+              "Trifluoperazine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24211787/"
+          },
+          {
+            "pmid": "20855984",
+            "title": "Effect of dronabinol on central neuropathic pain after spinal cord injury: a pilot study.",
+            "abstract": "To test the efficacy and safety of a cannabinoid, dronabinol, compared with an active control, diphenhydramine, in relieving neuropathic pain in persons with spinal cord injury.",
+            "journal": "American journal of physical medicine & rehabilitation",
+            "year": "2010",
+            "authors": [
+              "Rintala Diana H",
+              "Fiess Richard Neil",
+              "Tan Gabriel",
+              "Holmes Sally Ann",
+              "Bruel Brian M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Analgesics, Non-Narcotic",
+              "Cross-Over Studies",
+              "Double-Blind Method",
+              "Dronabinol",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Neuralgia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20855984/"
+          },
+          {
+            "pmid": "23494529",
+            "title": "Effects of histamine on spontaneous neuropathic pain induced by peripheral axotomy.",
+            "abstract": "The present study was designed to investigate the effects of histamine on spontaneous neuropathic pain (NP) induced by peripheral axotomy. Rats and mice were subjected to complete transection of the left sciatic and saphenous nerves to induce spontaneous NP (the neuroma model). Rats were then treated with drugs once daily for 30 days (histidine and loratadine, i.p.) or 21 days (histamine, i.c.v.). Autotomy behavior was scored daily until day 50 post-operation (PO). On days 14 to 21 PO, some rats in the control group were subjected to single-fiber recording. Autotomy behavior was also monitored daily in histidine decarboxylase (the key enzyme for histamine synthesis) knockout (HDC(-/-)) and wild-type mice for 42 days. We found that both histidine (500 mg/kg) (a precursor of histamine that increases histamine levels in the tissues) and histamine (50 μg/5 μL) significantly suppressed autotomy behavior in rats. HDC(-/-) mice lacking endogenous histamine showed higher levels of autotomy tha",
+            "journal": "Neuroscience bulletin",
+            "year": "2013",
+            "authors": [
+              "Yu Jie",
+              "Lou Guo-Dong",
+              "Yue Jia-Xing",
+              "Tang Ying-Ying",
+              "Hou Wei-Wei"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Analgesics",
+              "Animals",
+              "Axotomy",
+              "Behavior, Animal",
+              "Histamine",
+              "Male",
+              "Mice",
+              "Neuralgia",
+              "Neuroma",
+              "Pain Threshold"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23494529/"
+          },
+          {
+            "pmid": "16855076",
+            "title": "Dental impaction pain model as a potential tool to evaluate drugs with efficacy in neuropathic pain.",
+            "abstract": "Intravenous lidocaine, a nonspecific Na-channel blocker, was used to assess the dental impaction model for evaluation of neuropathic pain drugs. Sixty patients, experiencing moderate or severe pain after removal of > or = 2 third molars, were randomized (2:2:1:1) to lidocaine (4 mg/kg; maximal dose 300 mg), oxycodone/acetaminophen (10/650 mg), placebo, and active placebo (diphenhydramine, 50 mg). Lidocaine provided a modest degree of pain relief. Predefined endpoints of total pain relief and sum of pain intensity at 2, 4, and 6 hours showed numerically, not statistically significantly, greater pain relief versus placebo. A significantly greater effect over placebo was observed in peak effect and at shorter time points (30 minutes and 1 hour), consistent with the pharmacokinetic profile (plasma concentration of approximately 2 mug/mL). Oxycodone/acetaminophen provided significantly greater analgesia versus placebo, validating study conduct, and significantly greater pain relief was obse",
+            "journal": "Journal of clinical pharmacology",
+            "year": "2006",
+            "authors": [
+              "Malmstrom Kerstin",
+              "Kotey Paul",
+              "McGratty Megan",
+              "Ramakrishnan Rohini",
+              "Gottesdiener Keith"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acetaminophen",
+              "Adolescent",
+              "Adult",
+              "Analgesics, Non-Narcotic",
+              "Analgesics, Opioid",
+              "Anesthetics, Local",
+              "Double-Blind Method",
+              "Drug Combinations",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16855076/"
+          },
+          {
+            "pmid": "11240090",
+            "title": "Concentration-effect relationship of intravenous alfentanil and ketamine on peripheral neurosensory thresholds, allodynia and hyperalgesia of neuropathic pain.",
+            "abstract": "Both mu opioid agonists and N-methyl-D-aspartate (NMDA) receptor antagonists are implicated in the regulation of neuropathic pain in post-nerve injury preclinical pain models. This study characterizes the effects of intravenously infused alfentanil (a mu-receptor agonist) and ketamine (an NMDA-receptor antagonist) on human neuropathic pain states, characterized by allodynia and hyperalgesia. Using diphenhydramine as the placebo, alfentanil and ketamine infusions were given in a randomized double-blind fashion 1 week apart via a computer-controlled infusion (CCI) pump that was programmed to target plasma levels of alfentanil at 25, 50 and 75 ng/ml and ketamine at 50, 100 and 150 ng/ml. At the beginning of each infusion and each targeted plasma level, baseline vital signs, neurosensory testing that included thermal thresholds, thermal pain and von Frey filament thresholds, and spontaneous and evoked pain scores were obtained. Moreover, the areas of allodynia or hyperalgesia to stroking a",
+            "journal": "Pain",
+            "year": "2001",
+            "authors": [
+              "Leung A",
+              "Wallace M S",
+              "Ridgeway B",
+              "Yaksh T"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Alfentanil",
+              "Analgesics",
+              "Analgesics, Opioid",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Excitatory Amino Acid Antagonists",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11240090/"
+          },
+          {
+            "pmid": "14892630",
+            "title": "[Effect of diphenyl-hydantoinate salt on essential trigeminal neuralgia].",
+            "abstract": "",
+            "journal": "Revue d'oto-neuro-ophtalmologie",
+            "year": "1951",
+            "authors": [
+              "BERGOUIGNAN M",
+              "D'AULNAY N"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Biphenyl Compounds",
+              "Diphenhydramine",
+              "Humans",
+              "Hydantoins",
+              "Sodium Chloride",
+              "Sodium Chloride, Dietary",
+              "Trigeminal Neuralgia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14892630/"
+          },
+          {
+            "pmid": "5229426",
+            "title": "Clinical research on the etiology and treatment of tic douloureux on an allergic basis. Report of 183 cases.",
+            "abstract": "",
+            "journal": "Oral surgery, oral medicine, and oral pathology",
+            "year": "1967",
+            "authors": [
+              "Hanes W J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Desensitization, Immunologic",
+              "Diphenhydramine",
+              "Female",
+              "Gastric Acidity Determination",
+              "Humans",
+              "Hydrochloric Acid",
+              "Hypersensitivity",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5229426/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "neuralgia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20neuralgia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "trigeminal autonomic cephalalgia",
+        "txgnn_score": 0.9225116968154908,
+        "txgnn_rank": 9199,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01406860",
+            "title": "Droperidol Versus Metoclopramide + Diphenhydramine for the Treatment of Primary Headaches in the Emergency Department: A Prospective Randomized, Double-blinded Trial.",
+            "phase": "NA",
+            "status": "TERMINATED",
+            "start_date": "2011-07",
+            "completion_date": "2012-07",
+            "country": "United States",
+            "enrollment": 19,
+            "brief_summary": "The purpose of this study is to determine if droperidol is equally as effective as metoclopramide for treatment of primary headaches in the Emergency Department.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 18 years old to 65 years old, diagnosis of primary headache\n\nExclusion Criteria:\n\n* Allergy to study medications, pregnant, breast-feeding, prisoners, non-english speaking, not eligible to receive droperidol based on ED protocol (see below), patients in whom head trauma, infec",
+            "endpoints": [
+              "Pain Scale (Numerical Rating Scale for Pain)"
+            ],
+            "sponsor": "University of Iowa",
+            "url": "https://clinicaltrials.gov/study/NCT01406860"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "29395690",
+            "title": "Benign Headache Management in the Emergency Department.",
+            "abstract": "Headache is a common complaint managed in the emergency department (ED), with emergency physicians focusing on evaluation for life-threatening conditions while treating pain and nausea.",
+            "journal": "The Journal of emergency medicine",
+            "year": "2018",
+            "authors": [
+              "Long Brit J",
+              "Koyfman Alex"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cluster Headache",
+              "Emergency Service, Hospital",
+              "Headache",
+              "Humans",
+              "Migraine Disorders",
+              "Pain Management",
+              "Tension-Type Headache",
+              "United States"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29395690/"
+          },
+          {
+            "pmid": "14909468",
+            "title": "Benadryl in histamine headache.",
+            "abstract": "",
+            "journal": "The Lahey Clinic bulletin",
+            "year": "1952",
+            "authors": [
+              "TUCKER W I",
+              "O'NEILL P B"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cluster Headache",
+              "Diphenhydramine",
+              "Headache",
+              "Histamine",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14909468/"
+          },
+          {
+            "pmid": "19220500",
+            "title": "Cluster attacks responsive to recreational cannabis and dronabinol.",
+            "abstract": "Pharmacological preparations of cannabinoid compounds have a variety of therapeutic uses in medicine, including different pain syndromes, but have not been previously reported as beneficial for cluster headache. We present a patient with cluster headache who was refractory to multiple acute and preventive medications but successfully aborted his attacks with recreational marijuana use; subsequent use of dronabinol provided equally effective pain relief. The beneficial effect may be related to the high concentration of cannabinoid receptors in the hypothalamus, which has been implicated as a site of dysfunction in neuroimaging studies of patients with cluster headache.",
+            "journal": "Headache",
+            "year": "2009",
+            "authors": [
+              "Robbins Matthew S",
+              "Tarshish Sara",
+              "Solomon Seymour",
+              "Grosberg Brian M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Analgesics, Non-Narcotic",
+              "Cannabis",
+              "Cluster Headache",
+              "Dihydroergotamine",
+              "Diphenhydramine",
+              "Dronabinol",
+              "Drug Resistance",
+              "Drug Therapy, Combination",
+              "Fructose",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19220500/"
+          },
+          {
+            "pmid": "14245505",
+            "title": "MENIERE'S SYNDROME AND CLUSTER HEADACHES: RECURRENT PAROXYSMAL FOCAL VASODILATATION.",
+            "abstract": "",
+            "journal": "JAMA",
+            "year": "1965",
+            "authors": [
+              "GILBERT G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Chlorothiazide",
+              "Cluster Headache",
+              "Dimenhydrinate",
+              "Drug Therapy",
+              "Ergotamine",
+              "Humans",
+              "Meniere Disease",
+              "Methysergide",
+              "Migraine Disorders",
+              "Vascular Headaches"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14245505/"
+          },
+          {
+            "pmid": "20270600",
+            "title": "Prophylactic effect of benadryl on experimental histamine headache.",
+            "abstract": "",
+            "journal": "The Journal of allergy",
+            "year": "1947",
+            "authors": [
+              "GOODMAN E G",
+              "COONRAD R W"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cluster Headache",
+              "Diphenhydramine",
+              "Headache",
+              "Histamine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20270600/"
+          },
+          {
+            "pmid": "18123681",
+            "title": "Use of benadryl in histamine headache; report of a case.",
+            "abstract": "",
+            "journal": "United States naval medical bulletin",
+            "year": "1949",
+            "authors": [
+              "LEE J H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cluster Headache",
+              "Diphenhydramine",
+              "Headache",
+              "Histamine",
+              "Histamine Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18123681/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "trigeminal autonomic cephalalgia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20trigeminal%20autonomic%20cephalalgia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "glossodynia",
+        "txgnn_score": 0.920807123184204,
+        "txgnn_rank": 9345,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Diphenhydramine",
+          "disease": "glossodynia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Diphenhydramine%20glossodynia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Diphenhydramine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB01075",
+    "name": "Diphenhydramine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Diphenhydramine"
+      },
+      "queried_at": "2026-03-24T15:03:27.547190",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Diphenhydramine"
+      },
+      "queried_at": "2026-03-24T15:03:27.552626",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Diphenhydramine"
+      },
+      "queried_at": "2026-03-24T15:03:34.547645",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:03:35.271944",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:03:39.808684",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:03:40.577178",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:03:41.842738",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rhinitis"
+      },
+      "queried_at": "2026-03-24T15:03:45.118593",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rhinitis"
+      },
+      "queried_at": "2026-03-24T15:03:48.793874",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rhinitis"
+      },
+      "queried_at": "2026-03-24T15:03:50.043366",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "rhinitis"
+      },
+      "queried_at": "2026-03-24T15:03:53.623756",
+      "status": "success",
+      "result_count": 18,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T15:03:54.517445",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T15:03:58.445279",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T15:03:59.907530",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "allergic urticaria"
+      },
+      "queried_at": "2026-03-24T15:04:02.803191",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cold urticaria"
+      },
+      "queried_at": "2026-03-24T15:04:03.261067",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cold urticaria"
+      },
+      "queried_at": "2026-03-24T15:04:06.740058",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cold urticaria"
+      },
+      "queried_at": "2026-03-24T15:04:07.314174",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cold urticaria"
+      },
+      "queried_at": "2026-03-24T15:04:08.298334",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cauda equina syndrome"
+      },
+      "queried_at": "2026-03-24T15:04:08.839717",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cauda equina syndrome"
+      },
+      "queried_at": "2026-03-24T15:04:12.492866",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cauda equina syndrome"
+      },
+      "queried_at": "2026-03-24T15:04:13.303926",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "cauda equina syndrome"
+      },
+      "queried_at": "2026-03-24T15:04:14.307399",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-24T15:04:14.740368",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-24T15:04:18.142604",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-24T15:04:18.297003",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "nasopharyngitis"
+      },
+      "queried_at": "2026-03-24T15:04:21.100569",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "viral conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:04:21.574147",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "viral conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:04:25.074627",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "viral conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:04:25.916244",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "viral conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:04:28.792200",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "neuralgia"
+      },
+      "queried_at": "2026-03-24T15:04:30.200723",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "neuralgia"
+      },
+      "queried_at": "2026-03-24T15:04:34.560079",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "neuralgia"
+      },
+      "queried_at": "2026-03-24T15:04:35.358378",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "neuralgia"
+      },
+      "queried_at": "2026-03-24T15:04:40.498848",
+      "status": "success",
+      "result_count": 12,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "trigeminal autonomic cephalalgia"
+      },
+      "queried_at": "2026-03-24T15:04:41.894194",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "trigeminal autonomic cephalalgia"
+      },
+      "queried_at": "2026-03-24T15:04:45.423943",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "trigeminal autonomic cephalalgia"
+      },
+      "queried_at": "2026-03-24T15:04:46.145419",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "trigeminal autonomic cephalalgia"
+      },
+      "queried_at": "2026-03-24T15:04:48.873793",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "glossodynia"
+      },
+      "queried_at": "2026-03-24T15:04:50.097140",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "glossodynia"
+      },
+      "queried_at": "2026-03-24T15:04:53.551130",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "glossodynia"
+      },
+      "queried_at": "2026-03-24T15:04:54.248570",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Diphenhydramine",
+        "disease": "glossodynia"
+      },
+      "queried_at": "2026-03-24T15:04:55.214427",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:04:55.215043"
+  }
+}

@@ -1,0 +1,846 @@
+{
+  "drug": {
+    "inn": "Bupivacaine",
+    "drugbank_id": "DB00297",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "acrodermatitis chronica atrophicans",
+        "txgnn_score": 0.9923313856124878,
+        "txgnn_rank": 1680,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "acrodermatitis chronica atrophicans",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20acrodermatitis%20chronica%20atrophicans"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neonatal dermatomyositis",
+        "txgnn_score": 0.991499960422516,
+        "txgnn_rank": 1832,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "neonatal dermatomyositis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20neonatal%20dermatomyositis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
+        "txgnn_score": 0.9910925030708312,
+        "txgnn_rank": 1902,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20secondary%20interstitial%20lung%20disease%20specific%20to%20childhood%20associated%20with%20a%20connective%20tissue%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "amyopathic dermatomyositis",
+        "txgnn_score": 0.9902554154396056,
+        "txgnn_rank": 2029,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "amyopathic dermatomyositis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20amyopathic%20dermatomyositis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "acne keloid",
+        "txgnn_score": 0.9898401498794556,
+        "txgnn_rank": 2086,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "acne keloid",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20acne%20keloid"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hydroa vacciniforme, familial",
+        "txgnn_score": 0.9896037578582764,
+        "txgnn_rank": 2118,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "hydroa vacciniforme, familial",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20hydroa%20vacciniforme%2C%20familial"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "uterine polyp",
+        "txgnn_score": 0.9890201687812804,
+        "txgnn_rank": 2209,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05967936",
+            "title": "A Prospective Randomized Study Comparing Different Types of Local Anesthesia in Outpatient Procedural Hysteroscopy",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2023-09-01",
+            "completion_date": "2024-12-01",
+            "country": "Canada",
+            "enrollment": 242,
+            "brief_summary": "Hysteroscopy is a minimally invasive, diagnostic and therapeutic gynecological surgical technique and the gold standard in the study of the uterine cavity. Thanks to the decrease in the diameter of hysteroscopes and to the vaginoscopic approach, anesthesia is no longer necessary in diagnostic hysteroscopy. Nevertheless, in operative hysteroscopy, given the instrumentalization and the need of cervical dilation, the use of local anesthesia, with or without sedation, is recommended. The different a",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients\n* 18 years of age or older\n* Indication of outpatient surgical hysteroscopy for polypectomy and myomectomy\n\nExclusion Criteria:\n\n* Women under 18 years old\n* Unable to understand how to score a visual analog scale pain score\n* Hysteroscopy contraindication\n* Pa",
+            "endpoints": [
+              "To assess the best anesthetic pathway to decrease pain during outpatient hysteroscopy",
+              "To assess the best anesthetic pathway to decrease pain during outpatient hysteroscopy"
+            ],
+            "sponsor": "Ciusss de L'Est de l'Île de Montréal",
+            "url": "https://clinicaltrials.gov/study/NCT05967936"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00979342",
+            "title": "Interlace Medical Comparative Sedation Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-11",
+            "completion_date": "2010-07",
+            "country": "United States",
+            "enrollment": 40,
+            "brief_summary": "The purpose of this study is to develop a recommended local anesthetic protocol and post-treatment pain management regimen, in order to assure patient comfort during office-based treatment with the MyoSure Hysteroscopic Tissue Removal Device. Subject self-reported pain scores (as rated on an 11 point scale) will be compared at multiple time intervals between all treatment groups.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Healthy female between the ages of 18 and 65\n* Subject must be able to understand, read and sign the study specific informed consent forms after the nature of the study has been fully explained to her\n* Subject is a pre-menopausal or peri-menopausal female, either nulliparous ",
+            "endpoints": [
+              "Subject tolerance of procedure-related pain rated on an 11 point scale (0-10)"
+            ],
+            "sponsor": "Hologic, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00979342"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "22070928",
+            "title": "Low-dose spinal anesthesia with hyperbaric bupivacaine with intrathecal fentanyl for operative hysteroscopy: a case series study.",
+            "abstract": "To estimate the efficacy and tolerability of low dose spinal anesthesia during operative hysteroscopy in a group of patients with high surgical risks.",
+            "journal": "Journal of minimally invasive gynecology",
+            "year": "2012",
+            "authors": [
+              "Florio Pasquale",
+              "Puzzutiello Rosa",
+              "Filippeschi Marco",
+              "D'Onofrio Pasquale",
+              "Mereu Liliana"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adjuvants, Anesthesia",
+              "Adult",
+              "Anesthesia, Spinal",
+              "Anesthetics, Local",
+              "Bupivacaine",
+              "Female",
+              "Fentanyl",
+              "Humans",
+              "Hysteroscopy",
+              "Leiomyoma"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22070928/"
+          },
+          {
+            "pmid": "16910145",
+            "title": "[Transient neurological syndrome after spinal hyperbaric bupivacaine: a new case].",
+            "abstract": "A 47-year-old woman underwent hysteroscopy and removal of an endometrial polyp because of irregular, acyclic bleeding of 6 months' duration. The procedure was carried out under spinal anesthesia. No adverse events occurred during puncture or surgery, or in the immediate postoperative recovery period. Recovery from the sensory and motor block was normal. Twenty-four hours after surgery gluteal and lower limb pain and paresthesia developed, with no sensory or motor deficit. The symptoms suggested transient neurological syndrome. This syndrome has been defined by pain in the lower limbs, buttocks, thighs and calves after uncomplicated spinal anesthesia and full recovery from the sensorimotor block during the immediate postoperative period (first 24 hours). The condition is self-limiting and does not leave permanent neurological sequelae. Recent studies have demonstrated biochemical and anatomical changes that provide a structural basis for this clinical entity. According to this literatur",
+            "journal": "Revista espanola de anestesiologia y reanimacion",
+            "year": "2006",
+            "authors": [
+              "Peláez R",
+              "Mira M D",
+              "Ferrer A M",
+              "Mendiola M A",
+              "Aguilar J L"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anesthesia, Spinal",
+              "Anesthetics, Local",
+              "Back Pain",
+              "Bupivacaine",
+              "Buttocks",
+              "Endometrium",
+              "Female",
+              "Humans",
+              "Hysteroscopy",
+              "Leg"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16910145/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "uterine polyp",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20uterine%20polyp"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "epulis",
+        "txgnn_score": 0.9889608025550842,
+        "txgnn_rank": 2216,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "epulis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20epulis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "polyp of vocal cord",
+        "txgnn_score": 0.988717794418335,
+        "txgnn_rank": 2255,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06734975",
+            "title": "Effect of Intraoperative Superior Laryngeal Nerve Blocks on Patient Outcomes in Microdirect Laryngoscopy for Benign Vocal Fold Lesions: A Randomized Trial",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2025-07-11",
+            "completion_date": "2026-12",
+            "country": "United States",
+            "enrollment": 28,
+            "brief_summary": "Patients undergoing surgery on their vocal cord will either receive a numbing injection to their throat or a saline injection during surgery. Symptoms such as how much coughing or pain patients have after surgery, as well as whether patient's voice gets better will be interrogated.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient is aged 18 years or older at time of consent\n* Patient has suspected or confirmed benign vocal fold lesion\n* Patient is planning to undergo direct laryngoscopy with excision of the vocal fold lesion\n* Patient is English or Spanish speaking\n* Patient is not pregnant per",
+            "endpoints": [
+              "Postoperative pain",
+              "Postoperative cough",
+              "Postoperative voice outcome"
+            ],
+            "sponsor": "Rutgers, The State University of New Jersey",
+            "url": "https://clinicaltrials.gov/study/NCT06734975"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "polyp of vocal cord",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20polyp%20of%20vocal%20cord"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "polyp of middle ear",
+        "txgnn_score": 0.9886283278465272,
+        "txgnn_rank": 2272,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03427502",
+            "title": "Anterior Ethmoidal Nerve Block in Prevention of Postoperative Agitation Following Nasal Surgeries With Nasal Packs Under General Anesthesia: A Double Blind Randomized Control Trial",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2018-06-01",
+            "completion_date": "2020-02-28",
+            "country": "Nepal",
+            "enrollment": 100,
+            "brief_summary": "Postoperative agitation is an important complication of general anesthesia, moreover, it has been found with high incidence in ear, nose, throat (ENT) surgeries. We aim to study whether anterior ethmoidal nerve block will be successful in reducing postoperative agitation in those patients. Study population will be randomized into two groups, treatment and control group. Anterior ethmoidal nerve block will be done in treatment group and postoperative agitation compared between these two groups. A",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing nasal surgery\n* Under General Anesthesia\n* With nasal packs\n\nExclusion Criteria:\n\n* Do not consent to the study.\n* History of allergy to lignocaine or bupivacaine",
+            "endpoints": [
+              "Postoperative agitation",
+              "Postoperative agitation",
+              "Postoperative agitation"
+            ],
+            "sponsor": "Lumbini Medical College",
+            "url": "https://clinicaltrials.gov/study/NCT03427502"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Bupivacaine",
+          "disease": "polyp of middle ear",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Bupivacaine%20polyp%20of%20middle%20ear"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Bupivacaine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00297",
+    "name": "Bupivacaine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Bupivacaine"
+      },
+      "queried_at": "2026-03-24T16:27:00.963911",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Bupivacaine"
+      },
+      "queried_at": "2026-03-24T16:27:00.966990",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Bupivacaine"
+      },
+      "queried_at": "2026-03-24T16:27:02.959599",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acrodermatitis chronica atrophicans"
+      },
+      "queried_at": "2026-03-24T16:27:03.383007",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acrodermatitis chronica atrophicans"
+      },
+      "queried_at": "2026-03-24T16:27:07.054766",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acrodermatitis chronica atrophicans"
+      },
+      "queried_at": "2026-03-24T16:27:07.723704",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acrodermatitis chronica atrophicans"
+      },
+      "queried_at": "2026-03-24T16:27:08.624906",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "neonatal dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:09.031218",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "neonatal dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:12.687605",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "neonatal dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:13.357385",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "neonatal dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:14.153640",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"
+      },
+      "queried_at": "2026-03-24T16:27:14.554221",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"
+      },
+      "queried_at": "2026-03-24T16:27:18.154730",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"
+      },
+      "queried_at": "2026-03-24T16:27:18.252462",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "secondary interstitial lung disease specific to childhood associated with a connective tissue disease"
+      },
+      "queried_at": "2026-03-24T16:27:19.204642",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "amyopathic dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:19.635357",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "amyopathic dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:22.884201",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "amyopathic dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:23.411953",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "amyopathic dermatomyositis"
+      },
+      "queried_at": "2026-03-24T16:27:24.353987",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acne keloid"
+      },
+      "queried_at": "2026-03-24T16:27:24.904929",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acne keloid"
+      },
+      "queried_at": "2026-03-24T16:27:28.104703",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acne keloid"
+      },
+      "queried_at": "2026-03-24T16:27:28.310877",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "acne keloid"
+      },
+      "queried_at": "2026-03-24T16:27:29.286362",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "hydroa vacciniforme, familial"
+      },
+      "queried_at": "2026-03-24T16:27:29.756220",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "hydroa vacciniforme, familial"
+      },
+      "queried_at": "2026-03-24T16:27:33.104905",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "hydroa vacciniforme, familial"
+      },
+      "queried_at": "2026-03-24T16:27:33.310660",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "hydroa vacciniforme, familial"
+      },
+      "queried_at": "2026-03-24T16:27:34.160913",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "uterine polyp"
+      },
+      "queried_at": "2026-03-24T16:27:34.711876",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "uterine polyp"
+      },
+      "queried_at": "2026-03-24T16:27:38.005334",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "uterine polyp"
+      },
+      "queried_at": "2026-03-24T16:27:38.218571",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "uterine polyp"
+      },
+      "queried_at": "2026-03-24T16:27:40.605649",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "epulis"
+      },
+      "queried_at": "2026-03-24T16:27:41.130789",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "epulis"
+      },
+      "queried_at": "2026-03-24T16:27:44.867116",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "epulis"
+      },
+      "queried_at": "2026-03-24T16:27:45.405885",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "epulis"
+      },
+      "queried_at": "2026-03-24T16:27:50.414841",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of vocal cord"
+      },
+      "queried_at": "2026-03-24T16:27:50.854108",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of vocal cord"
+      },
+      "queried_at": "2026-03-24T16:27:57.002427",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of vocal cord"
+      },
+      "queried_at": "2026-03-24T16:27:57.685645",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of vocal cord"
+      },
+      "queried_at": "2026-03-24T16:27:58.622929",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of middle ear"
+      },
+      "queried_at": "2026-03-24T16:27:59.126373",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of middle ear"
+      },
+      "queried_at": "2026-03-24T16:28:02.628676",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of middle ear"
+      },
+      "queried_at": "2026-03-24T16:28:03.255420",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Bupivacaine",
+        "disease": "polyp of middle ear"
+      },
+      "queried_at": "2026-03-24T16:28:04.110441",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:28:04.111512"
+  }
+}

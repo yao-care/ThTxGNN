@@ -1,0 +1,3054 @@
+{
+  "drug": {
+    "inn": "Chloroquine",
+    "drugbank_id": "DB00608",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
+        "txgnn_score": 0.9941486120224,
+        "txgnn_rank": 1327,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "24334641",
+            "title": "A longterm prospective real-life experience with leflunomide in juvenile idiopathic arthritis.",
+            "abstract": "To describe a clinical practice with leflunomide (LEF) in juvenile idiopathic arthritis (JIA).",
+            "journal": "The Journal of rheumatology",
+            "year": "2014",
+            "authors": [
+              "Alcântara Antonia Célia de Castro",
+              "Leite Christiane Araújo Chaves",
+              "Leite Ana Caroline Rocha Melo",
+              "Sidrim José Julio Costa",
+              "Silva Francisco Saraiva"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Drug Therapy, Combination",
+              "Female",
+              "Health Status",
+              "Humans",
+              "Isoxazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24334641/"
+          },
+          {
+            "pmid": "8627446",
+            "title": "Accelerated nodulosis during methotrexate therapy for juvenile rheumatoid arthritis.",
+            "abstract": "We describe two patients with rheumatoid factor-positive, polyarticular-onset juvenile rheumatoid arthritis in whom accelerated nodulosis developed during methotrexate therapy. Although they had only a few nodules at diagnosis, the nodules increased in number and size 3 to 4 months after the start of methotrexate therapy in both patients. The nodules regressed after withdrawal of methotrexate therapy in one patient and were arrested with the addition of hydroxychloroquine in the other. Physicians treating patients with methotrexate for juvenile rheumatoid arthritis must be aware of this extraarticular side effect.",
+            "journal": "The Journal of pediatrics",
+            "year": "1996",
+            "authors": [
+              "Muzaffer M A",
+              "Schneider R",
+              "Cameron B J",
+              "Silverman E D",
+              "Laxer R M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Arthritis, Juvenile",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Methotrexate",
+              "Rheumatoid Factor",
+              "Rheumatoid Nodule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8627446/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20rheumatoid%20factor-positive%20polyarticular%20juvenile%20idiopathic%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rheumatoid nodulosis",
+        "txgnn_score": 0.993266224861145,
+        "txgnn_rank": 1477,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01664117",
+            "title": "Study of the Profile and Clinical Management of Patients With Rheumatoid Arthritis Treated With Biologic Therapy Alone",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2012-06",
+            "completion_date": "2013-06",
+            "country": "Spain",
+            "enrollment": 210,
+            "brief_summary": "This observational multicenter study will evaluate the management of disease and safety in clinical practice in patients with moderate to severe rheumatoid arthritis receiving any biological therapies in monotherapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adult patients, \\>/=18 years of age\n* Patients with moderate to severe rheumatoid arthritis who have had an inadequate response or intolerance to disease modifying antirheumatic drugs (DMARDs) or other biological drugs\n* Patients treated with biologic DMARDs alone for at least",
+            "endpoints": [
+              "Number of Participants With Level of Education Completed",
+              "Number of Participants With Smoking Habits",
+              "Smoking-habit for Smokers or Ex-smokers (Packs in Years)"
+            ],
+            "sponsor": "Hoffmann-La Roche",
+            "url": "https://clinicaltrials.gov/study/NCT01664117"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "8261056",
+            "title": "Accelerated nodulosis and systemic manifestations during methotrexate therapy for rheumatoid arthritis.",
+            "abstract": "Methotrexate is successfully used in the treatment of arthritis but little is known about its effects on extra-articular manifestations of rheumatoid arthritis. We focused this work on the incidence and clinical course of extra-articular manifestations during long-term treatment with methotrexate.",
+            "journal": "The European journal of medicine",
+            "year": "1993",
+            "authors": [
+              "Combe B",
+              "Didry C",
+              "Gutierrez M",
+              "Anaya J M",
+              "Sany J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Arthritis, Rheumatoid",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Male",
+              "Methotrexate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8261056/"
+          },
+          {
+            "pmid": "10458088",
+            "title": "Methotrexate nodulosis.",
+            "abstract": "Methotrexate (MTX) nodulosis in patients with rheumatoid arthritis treated with MTX has become a well recognized phenomenon. It has not been described in patients receiving MTX for treatment of other diseases, e.g., dermatological or malignant diseases. Recently, MTX nodulosis was described in a patient with psoriasis and arthritis. The pathophysiology and treatment of MTX nodulosis are yet unsettled. We experienced a case with dermatomyositis who developed multiple subcutaneous nodules after treatment with MTX. In our patient, numerous, small, symmetrically distributed, grouped subcutaneous nodules were seen on a V-shaped area of the anterior chest, both axillary areas, and the medial sides of both upper arms and thighs. We histopathologically examined a nodule and started treatment with hydroxychloroquine after discontinuation of MTX. The histopathology revealed septal panniculitis, and the nodules have been under regression. MTX nodulosis may be a drug-specific phenomenon. Discontin",
+            "journal": "The Journal of dermatology",
+            "year": "1999",
+            "authors": [
+              "Jang K A",
+              "Choi J H",
+              "Moon K C",
+              "Yoo B",
+              "Sung K J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Arm",
+              "Biopsy",
+              "Dermatologic Agents",
+              "Dermatomyositis",
+              "Female",
+              "Histocytochemistry",
+              "Humans",
+              "Hydroxychloroquine",
+              "Methotrexate",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10458088/"
+          },
+          {
+            "pmid": "4573028",
+            "title": "Rheumatoid arthritis.",
+            "abstract": "",
+            "journal": "JAMA",
+            "year": "1973",
+            "authors": [],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antigen-Antibody Reactions",
+              "Arthritis, Juvenile",
+              "Arthritis, Rheumatoid",
+              "Aspirin",
+              "Biopsy",
+              "Chloroquine",
+              "Gold",
+              "Humans",
+              "Hydroxychloroquine",
+              "Immunoglobulins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4573028/"
+          },
+          {
+            "pmid": "15645976",
+            "title": "Methotrexate induced accelerated nodulosis.",
+            "abstract": "Methotrexate induced accelerated nodulosis (MIAN) is a rare but unique side effect of methotrexate therapy. There is paucity of data from our country about this entity. We analyzed 14 cases of MIAN and studied its association with gender, rheumatoid factor positivity and dose and duration of methotrexate. Fourteen patients (8 females), 12 with rheumatoid arthritis (8 seropositive), one each with juvenile idiopathic (JIA) and psoriatic arthritis (PsA) were detected to have MIAN during study period. All the patients presented with acute onset of multiple nodules. Radial border of fingers was the most commonly involved site. Disease was inactive in all but two patients at the time of appearance of MIAN. There was no association of MIAN with gender, rheumatoid factor positivity, disease duration, cumulative dose and duration of methotrexate therapy. Two patients each were treated with colchicine, D-penicillamine or hydroxy-chloroquine for 3-6 months without any response. We conclude that M",
+            "journal": "The Journal of the Association of Physicians of India",
+            "year": "2004",
+            "authors": [
+              "Agarwal V",
+              "Aggarwal Amita",
+              "Misra R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antirheumatic Agents",
+              "Child",
+              "Female",
+              "Humans",
+              "Male",
+              "Methotrexate",
+              "Middle Aged",
+              "Rheumatoid Nodule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15645976/"
+          },
+          {
+            "pmid": "26284464",
+            "title": "Rheumatoid nodulosis with extra-articular cyst synovitis.",
+            "abstract": "",
+            "journal": "International journal of rheumatic diseases",
+            "year": "2015",
+            "authors": [
+              "Dhaon Pooja",
+              "Das Siddharth",
+              "Sharma Arti",
+              "Wakhlu Archana",
+              "Goel Madhu Mati"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antirheumatic Agents",
+              "Biopsy",
+              "Bursitis",
+              "Female",
+              "Hand Bones",
+              "Humans",
+              "Hydroxychloroquine",
+              "Middle Aged",
+              "Predictive Value of Tests",
+              "Radiography"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26284464/"
+          },
+          {
+            "pmid": "5772520",
+            "title": "Diffuse interstitial pulmonary fibrosis and rheumatoid arthritis.",
+            "abstract": "",
+            "journal": "Annals of the rheumatic diseases",
+            "year": "1969",
+            "authors": [
+              "Walker W C",
+              "Wright V"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Aged",
+              "Arthritis, Rheumatoid",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Joint Diseases",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5772520/"
+          },
+          {
+            "pmid": "1865421",
+            "title": "Complete reversal of rheumatoid nodulosis.",
+            "abstract": "A woman first seen in 1978 had a history of seropositive rheumatoid arthritis (RA) of 12 years' duration with attacks of palindromic rheumatism for 3 years. She was treated with D-penicillamine, pyridoxine and hydroxychloroquine and serial measurements of her grip strength and proximal interphalangeal joint circumference were taken. By 1987 all her nodules had resorbed completely. Hydroxychloroquine effects probably helped her improvement. Although spontaneous resorption of a rheumatoid nodule is not a rare event, to the best of our knowledge, this is the first instance of complete resolution of all nodules in a patient with RA with the nodulosis variant.",
+            "journal": "The Journal of rheumatology",
+            "year": "1991",
+            "authors": [
+              "McCarty D J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Arthritis, Rheumatoid",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Middle Aged",
+              "Penicillamine",
+              "Pyridoxine",
+              "Rheumatoid Nodule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1865421/"
+          },
+          {
+            "pmid": "4384434",
+            "title": "Rheumatoid arthritis with rheumatoid nodules and allergic granuloatosis.",
+            "abstract": "",
+            "journal": "Archives of dermatology",
+            "year": "1968",
+            "authors": [
+              "Burgoon C F",
+              "Feinerman L K"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Arthritis, Rheumatoid",
+              "Bacitracin",
+              "Chloroquine",
+              "Female",
+              "Humans",
+              "Indomethacin",
+              "Neomycin",
+              "Ointments",
+              "Polymyxins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4384434/"
+          },
+          {
+            "pmid": "15195871",
+            "title": "Rheumatoid nodules and reflux disease.",
+            "abstract": "",
+            "journal": "Ear, nose, & throat journal",
+            "year": "2004",
+            "authors": [
+              "Beaver Mary Es",
+              "Stasney C Richard",
+              "Rodriguez Margarita"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antibodies, Antinuclear",
+              "Antirheumatic Agents",
+              "Arthritis",
+              "Erythema",
+              "Female",
+              "Gastroesophageal Reflux",
+              "Histamine H2 Antagonists",
+              "Humans",
+              "Hydroxychloroquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15195871/"
+          },
+          {
+            "pmid": "8627446",
+            "title": "Accelerated nodulosis during methotrexate therapy for juvenile rheumatoid arthritis.",
+            "abstract": "We describe two patients with rheumatoid factor-positive, polyarticular-onset juvenile rheumatoid arthritis in whom accelerated nodulosis developed during methotrexate therapy. Although they had only a few nodules at diagnosis, the nodules increased in number and size 3 to 4 months after the start of methotrexate therapy in both patients. The nodules regressed after withdrawal of methotrexate therapy in one patient and were arrested with the addition of hydroxychloroquine in the other. Physicians treating patients with methotrexate for juvenile rheumatoid arthritis must be aware of this extraarticular side effect.",
+            "journal": "The Journal of pediatrics",
+            "year": "1996",
+            "authors": [
+              "Muzaffer M A",
+              "Schneider R",
+              "Cameron B J",
+              "Silverman E D",
+              "Laxer R M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Arthritis, Juvenile",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Methotrexate",
+              "Rheumatoid Factor",
+              "Rheumatoid Nodule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8627446/"
+          },
+          {
+            "pmid": "32386648",
+            "title": "A 48-Year-Old South African Woman with Rheumatoid Arthritis and Lung Nodules.",
+            "abstract": "We present the case of a 48-year-old South African woman with no smoking history, and seropositive rheumatoid arthritis diagnosed in 2001. She was treated with chloroquine (150 mg, 4 times per week) and methotrexate (30 mg weekly) with well-controlled symptoms until 2015, when she developed a disease flare. Her treatment regimen was changed to leflunomide (20 mg daily) monotherapy with subsequent symptom control. Biologic agents were not accessible because of cost constraints.",
+            "journal": "Chest",
+            "year": "2020",
+            "authors": [
+              "Koslow Matthew",
+              "Bennji Sami M",
+              "Griffith-Richards Stephanie",
+              "Ahmad Kareem",
+              "Johnson Geoffrey B"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antirheumatic Agents",
+              "Arthritis, Rheumatoid",
+              "Diagnosis, Differential",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Lung Diseases",
+              "Middle Aged",
+              "Rheumatoid Nodule",
+              "South Africa"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32386648/"
+          },
+          {
+            "pmid": "10084052",
+            "title": "Accelerated nodulosis immediately after initiating weekly low dose methotrexate for rheumatoid arthritis.",
+            "abstract": "",
+            "journal": "Clinical and experimental rheumatology",
+            "year": "1999",
+            "authors": [
+              "Jun J B",
+              "Koh H K",
+              "Bae S C",
+              "Yoo D H",
+              "Kim S Y"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antirheumatic Agents",
+              "Arthritis, Rheumatoid",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Hydroxychloroquine",
+              "Male",
+              "Methotrexate",
+              "Piroxicam",
+              "Prednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10084052/"
+          },
+          {
+            "pmid": "8496880",
+            "title": "Possible efficacy of hydroxychloroquine on accelerated nodulosis during methotrexate therapy for rheumatoid arthritis.",
+            "abstract": "",
+            "journal": "The Journal of rheumatology",
+            "year": "1993",
+            "authors": [
+              "Combe B",
+              "Guttierrez M",
+              "Anaya J M",
+              "Sany J"
+            ],
+            "pub_types": [
+              "Comment",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Arthritis, Rheumatoid",
+              "Humans",
+              "Hydroxychloroquine",
+              "Methotrexate",
+              "Rheumatoid Nodule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8496880/"
+          },
+          {
+            "pmid": "27648379",
+            "title": "Dermoscopy could be useful in differentiating sarcoidosis from necrobiotic granulomas even after treatment with systemic steroids.",
+            "abstract": "Diagnosing cutaneous sarcoidosis and necrobiotic granulomas is challenging.",
+            "journal": "Dermatology practical & conceptual",
+            "year": "2016",
+            "authors": [
+              "Ramadan Shahira",
+              "Hossam Dalia",
+              "Saleh Marwah A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27648379/"
+          },
+          {
+            "pmid": "15222243",
+            "title": "[Rheumatoid nodule and complete heart block: diagnosis by transesophageal echocardiography].",
+            "abstract": "We report a case of 48 years old women with a 8 years history of rheumatoid arthritis and severe articular deformation treated during the last 6 months by prednisone (5 mg daily) and chloroquine (200 mg daily), admitted in the emergency room because of syncope. The electrocardiogram showed a complete atrioventricular block. Transesophageal echocardiography was performed and revealed an hyperechogenic mass (6 x 2.5 mm) in the interventricular septum probably related to a fibrous rheumatoid nodule. This potentially explain the atrioventricular block by infiltration of the conduction pathways. A permanent double chamber pacemaker was inserted. The chloroquine, another factor of conduction disturbances was not incriminated in this case. The conduction disturbances should be systematically detected in case of severe rheumatoid arthritis. Therefore, every patient must be submitted to a transthoracic echocardiography. Transesophageal echocardiography may be helpful to detect rheumatoid nodule",
+            "journal": "Annales de cardiologie et d'angeiologie",
+            "year": "2004",
+            "authors": [
+              "Ben Hamda K",
+              "Betbout F",
+              "Maatouk F",
+              "Gamra H",
+              "Addad F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Echocardiography, Transesophageal",
+              "Female",
+              "Heart Block",
+              "Heart Septum",
+              "Humans",
+              "Middle Aged",
+              "Rheumatoid Nodule"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15222243/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "rheumatoid nodulosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20rheumatoid%20nodulosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "juvenile chronic polyarthritis",
+        "txgnn_score": 0.9932465553283693,
+        "txgnn_rank": 1480,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "169116",
+            "title": "[Therapy of juvenile chronic polyarthritis].",
+            "abstract": "",
+            "journal": "Deutsche medizinische Wochenschrift (1946)",
+            "year": "1975",
+            "authors": [
+              "Sänger L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Adrenocorticotropic Hormone",
+              "Arthritis, Juvenile",
+              "Azathioprine",
+              "Child",
+              "Chloroquine",
+              "Education, Special",
+              "Gold",
+              "Humans",
+              "Indomethacin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/169116/"
+          },
+          {
+            "pmid": "24728117",
+            "title": "[Not Available].",
+            "abstract": "Juvenile idiopathic arthritis is a chronic inflammatory disease with uncertain outcome. Patients may suffer from severe joint damage leading to mutilations as well as from extra-articular manifestations. Prognosis is variable and depends in part on the number of affected joints and the occurrence of extra-articular manifestations. Treatment regimes should take this into account. Pharmacomedical treatment strategies include the application of nonsteroidal antirheumatics, corticosteroids, sulfasalazine, and immunosuppressive substances. However, of the latter only methotrexate has been shown in controlled trials to be effective. Other immunosuppressive drugs such as azathioprine, cyclosporine A, and leflunomide have not yet been investigated sufficiently. In addition, there is no scientific basis for the application of gold salts or (hydroxy)chloroquine. New therapeutic biologic agents, notably the tumor necrosis factor inhibitors, have achieved dramatic improvements also in patients wit",
+            "journal": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+            "year": "2002",
+            "authors": [
+              "Horneff G"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24728117/"
+          },
+          {
+            "pmid": "4615897",
+            "title": "[Chronic polyarthritis. Changes--surgical and conservative treatment].",
+            "abstract": "",
+            "journal": "Ergebnisse der inneren Medizin und Kinderheilkunde",
+            "year": "1974",
+            "authors": [
+              "Wessinghage D",
+              "Miehlke K"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antibody Formation",
+              "Antigen-Antibody Complex",
+              "Antineoplastic Agents",
+              "Arthritis, Juvenile",
+              "Arthritis, Rheumatoid",
+              "Arthroplasty",
+              "Bone Screws",
+              "Carpal Tunnel Syndrome",
+              "Chloroquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4615897/"
+          },
+          {
+            "pmid": "1379157",
+            "title": "Pharmacological management of juvenile rheumatoid arthritis.",
+            "abstract": "The goals of pharmacotherapy in juvenile rheumatoid arthritis (JRA) are to suppress chronic synovitis which causes potential cartilage destruction and deformities, to control the systemic effects of inflammation (including growth retardation and nutritional deficits), relieve pain and limit psychological impact of disease. Currently available methods include nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin, salicylates, naproxen, tolmetin, ibuprofen and indomethacin; disease modifying antirheumatic drugs (DMARDs) such as oral and injectable gold salts, hydroxychloroquine, penicillamine, oral and injectable methotrexate, and sulfasalazine; oral (daily or on alternate days), intravenous pulse or intra-articular corticosteroids; immunosuppresants, including cyclophosphamide, chlorambucil, cyclosporin, and azathioprine; and gammaglobulin and other experimental therapies. Over the past 10 years, rheumatologists have adopted more aggressive pharmacological treatment of JRA. As t",
+            "journal": "Drugs",
+            "year": "1992",
+            "authors": [
+              "Rose C D",
+              "Doughty R A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Humans",
+              "Hydroxychloroquine",
+              "Immunosuppressive Agents",
+              "Methotrexate",
+              "Organogold Compounds"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1379157/"
+          },
+          {
+            "pmid": "1688268",
+            "title": "Sulphasalazine and Delagil--a comparative study in patients with juvenile chronic arthritis.",
+            "abstract": "Thirty nine consecutive patients with pauciarticular and polyarticular juvenile chronic arthritis were randomised to treatment with either sulphasalazine or Delagil (chlorochinum diphosphoricum) in a parallel 6 month clinical trial. We compared clinical and laboratory signs of activity before and after the treatment. Of 21 patients with Sulphasalazine 10 were improved, 7 unchanged and in 4 patients had the therapy to be withdrawn. Of 18 patients with Delagil 5 were improved, 12 without effect and withdrawal was necessary in 1.",
+            "journal": "Acta Universitatis Carolinae. Medica",
+            "year": "1991",
+            "authors": [
+              "Hoza J",
+              "Kadlecová T",
+              "Nĕmcová D",
+              "Havelka S"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Arthritis, Juvenile",
+              "Child",
+              "Chloroquine",
+              "Female",
+              "Humans",
+              "Male",
+              "Sulfasalazine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1688268/"
+          },
+          {
+            "pmid": "33548956",
+            "title": "[Application and safety of hydroxychloroquine in chronic disease among children].",
+            "abstract": "Objective: To analyze the disease spectrum among children who were using hydroxychloroquine (HCQ), and evaluate the drug's safety and compliance. Methods: From January 2008 to December 2019, children from Children's Hospital of Fudan University who used HCQ were selected as subjects, the disease spectrum of HCQ was analyzed, and the drug safety and compliance were evaluated for the patients who were followed up for more than 6 months. Demographic information, diagnosis, initial dose, time of continuous use, cumulative dosage and related adverse reactions report, project and the results of eye test were collected. Results: A total of 528 cases used HCQ during the 12 years, with 156 male cases and 372 female cases, and age at initial medication was (10.5±3.2) years. Among them, 514 cases (97.3%) had rheumatic disease, 5 had pulmonary interstitial lesions and 9 had other system diseases. The top three of the rheumatic diseases were systemic lupus erythematosus (SLE) in 316 cases (316/514,",
+            "journal": "Zhonghua er ke za zhi = Chinese journal of pediatrics",
+            "year": "2021",
+            "authors": [
+              "Sun L",
+              "Gong Y R",
+              "Chen Q",
+              "Zhang T",
+              "Li G M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antirheumatic Agents",
+              "Child",
+              "Chronic Disease",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Lupus Erythematosus, Systemic",
+              "Male",
+              "Rheumatic Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33548956/"
+          },
+          {
+            "pmid": "299941",
+            "title": "Juvenile rheumatoid arthritis.",
+            "abstract": "Juvenile rheumatoid arthritis is a diverse group of diseases that includes systemic-onset, polyarticular, and pauciarticular types. Appreciation of the different types and their hallmarks is particularly important to accurate diagnosis, which is determined by exclusion of other known disease entities in children with chronic arthritis (more than three months' duration). Therapy should be directed at the arthritis per se (synovitis), at the extra-articular manifestations, and at the whole child. Salicylates provide the most satisfactory control of the arthritis per se and of the systemic manifestations in most cases. Iridocyclitis should be managed in consultation with an ophthalmologist. Patients should not be regarded as invalids or restricted needlessly. The prognosis for children with juvenile rheumatoid arthritis is good. In most patients, the disease remits without causing permanent joint damage.",
+            "journal": "Postgraduate medicine",
+            "year": "1977",
+            "authors": [
+              "Schaller J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Aged",
+              "Antibodies, Antinuclear",
+              "Arthritis, Juvenile",
+              "Aspirin",
+              "Child",
+              "Child, Preschool",
+              "Chloroquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/299941/"
+          },
+          {
+            "pmid": "7409700",
+            "title": "[Drug therapy of juvenile chronic polyarthritis].",
+            "abstract": "Drug therapy of juvenile rheumatoid arthritis is discussed. Toward and untoward effects of the basic substances gold, D-penicillamine, chloroquine and azathioprine are presented. The symptomatic management is discussed, the critical points of corticosteroids are emphasized.",
+            "journal": "Fortschritte der Medizin",
+            "year": "1980",
+            "authors": [
+              "Suschke H J"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Arthritis, Juvenile",
+              "Azathioprine",
+              "Child",
+              "Chloroquine",
+              "Glucocorticoids",
+              "Gold",
+              "Humans",
+              "Penicillamine",
+              "Physician-Patient Relations"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7409700/"
+          },
+          {
+            "pmid": "26678914",
+            "title": "The role of synthetic drugs in the biologic era: therapeutic strategies for treating juvenile idiopathic arthritis.",
+            "abstract": "Juvenile idiopathic arthritis is the most frequent chronic rheumatic disease in childhood. Synthetic disease modifying drugs (DMARDs) have been used in its treatment since the 1980s and have led to substantial improvement of quality of life and disease outcome. Recent pharmacological research has focused on newer medications, especially biologic agents.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2016",
+            "authors": [
+              "Hügle Boris",
+              "Horneff Gerd"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Biological Products",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Hydroxychloroquine",
+              "Isoxazoles",
+              "Leflunomide",
+              "Methotrexate",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26678914/"
+          },
+          {
+            "pmid": "987888",
+            "title": "Juvenile rheumatoid arthritis.",
+            "abstract": "JRA is a multisystem disease characterized by exacerbations and remissions. Recognition of the three modes of onset can important in early diagnosis, identification of extra-articular manifestations, and prognosis. This is a chronic illness that requires consideration of the whole patient, his family, and his place in society, both in the present and in the future. With a positive, comprehensive approach and an awareness of the pitfalls of seeking immediate relief, the physician can help to assure a good functional outcome.",
+            "journal": "Comprehensive therapy",
+            "year": "1976",
+            "authors": [
+              "DeBenedetti C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Anti-Inflammatory Agents",
+              "Arthritis, Juvenile",
+              "Aspirin",
+              "Child",
+              "Chloroquine",
+              "Female",
+              "Fever"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/987888/"
+          },
+          {
+            "pmid": "2047820",
+            "title": "[Juvenile chronic arthritis: therapeutic strategy 1990].",
+            "abstract": "Therapeutic strategies based on experience with 119 patients with juvenile chronic arthritis are reviewed. Therapeutic goals are formulated and the means of attaining them (NSAIDs, the so-called disease modifying drugs gold, chloroquine and penicillamine, the antimetabolite methotrexate, intra-articular and systemic corticosteroids, physio- and ergotherapy, technical and orthopedic measures, as well as vocational and medicosocial aspects) are discussed. As the individual prognosis normally depends less on drugs than on preventive and rehabilitative measures, the outcome is largely determined by the quality of a well-coordinated inter-disciplinary team approach.",
+            "journal": "Schweizerische medizinische Wochenschrift",
+            "year": "1991",
+            "authors": [
+              "Gerber N J",
+              "Sauvain M J"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Anti-Inflammatory Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Arthritis",
+              "Arthritis, Juvenile",
+              "Child",
+              "Chronic Disease",
+              "Combined Modality Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2047820/"
+          },
+          {
+            "pmid": "9523387",
+            "title": "Third-degree atrioventricular block in a patient under chloroquine therapy.",
+            "abstract": "The first case of chronic cardiac toxicity due to an antimalarial agent was reported in 1971 and since then several cases of heart failure, restrictive cardiomyopathy or atrioventricular block have been ascribed to this family of drugs. We report the case of a 43-year-old woman who developed juvenile chronic arthritis at the age of ten, followed in adulthood by sero-positive rheumatoid arthritis. In 1980 she was put under chloroquine sulfate (hydroxychloroquine was not available) in a dose of 200 mg/d (152.66 mg of chloroquine), with 10 mg/day of prednisone. She developed myalgia and increased skin pigmentation, but disregarded recommendations that these symptoms required discontinuation of chloroquine therapy. She was lost to follow-up, but continued the chloroquine therapy of her own accord. In December 1993, she developed a third-degree atrioventricular block with syncopes requiring implantation of a pacemaker. The rare but well-documented myopathy induced by antimalarial agents can",
+            "journal": "Revue du rhumatisme (English ed.)",
+            "year": "1998",
+            "authors": [
+              "Guedira N",
+              "Hajjaj-Hassouni N",
+              "Srairi J E",
+              "el Hassani S",
+              "Fellat R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antimalarials",
+              "Cardiac Pacing, Artificial",
+              "Chloroquine",
+              "Female",
+              "Heart Block",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9523387/"
+          },
+          {
+            "pmid": "9187235",
+            "title": "Combination of second-line antirheumatic drugs.",
+            "abstract": "Single drug therapy is often not satisfactory in the treatment of chronic arthritis. The combination of second-line antirheumatic drugs is therefore increasingly employed. Various strategies of combining drugs can be used, starting with combinations or adding agents in case of insufficient effect of single therapy. Effective combinations have to be found empirically because lack of knowledge about pharmacodynamics and pharmacokinetics often hinders rational choices. Few controlled studies on combinations of second-line antirheumatic drugs exist, results suggesting very moderately increased efficacy and increased toxicity. Recently, results of combinations, mainly with methotrexate, have become available. Combining this agent with azathioprine did not offer advantages. Cyclosporin added to insufficiently effective methotrexate possibly has some value and antimalarials combined with methotrexate may be beneficial regarding effectivity and/or toxicity. Methotrexate added to insufficiently",
+            "journal": "Annals of medicine",
+            "year": "1997",
+            "authors": [
+              "Haagsma C J",
+              "van Riel P L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Azathioprine",
+              "Child",
+              "Cyclosporine",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Hydroxychloroquine",
+              "Methotrexate",
+              "Sulfasalazine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9187235/"
+          },
+          {
+            "pmid": "3929479",
+            "title": "[Chronic juvenile arthritis. Control of long-term therapy].",
+            "abstract": "Children suffering from juvenile chronic arthritis need a longterm therapy and guidance for many years. Drug therapy is only part of the whole treatment regimen and has to be permanently adapted to the actual state of the disease. Drug induced side effects must be strictly differentiated from exacerbations of the rheumatic disease. Short time clinical controls, some few laboratory tests and many detailed talks with the patient and his parents are basic requirements for successful treatment and lead in more than 80% of the juveniles to a normal school education and adequate vocational training.",
+            "journal": "Wiener medizinische Wochenschrift (1946)",
+            "year": "1985",
+            "authors": [
+              "Tulzer W"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Alopecia",
+              "Anti-Inflammatory Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Chloroquine",
+              "Gold",
+              "Humans",
+              "Leukopenia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3929479/"
+          },
+          {
+            "pmid": "32787461",
+            "title": "Hydroxychloroquine-Induced Toxic Myopathy Causing Diaphragmatic Weakness and Lung Collapse Requiring Prolonged Mechanical Ventilation.",
+            "abstract": "A 42-year-old woman with juvenile idiopathic arthritis was treated with anakinra, corticosteroids, and hydroxychloroquine when she developed chronic hypoxic respiratory myopathy. She was admitted to the intensive care unit for acute hypercapnic respiratory failure and required prolonged intubation, subsequent tracheostomy, and long-term ventilatory support due to multiple failed spontaneous breathing trials after discontinuation of anakinra and steroids. Muscle biopsy revealed type II fiber atrophy with the accumulation of autophagosomes and vacuoles presenting as curvilinear bodies, elevated MHC class I antigen expression, and infiltration by CD68+ macrophages and CD8+ T cells. Type II fiber atrophy was attributed to corticosteroid use and curvilinear bodies due to blockade of autophagy by hydroxychloroquine. After hydroxychloroquine was discontinued, the patient recovered to her prehospitalization baseline.",
+            "journal": "Journal of investigative medicine high impact case reports",
+            "year": "2020",
+            "authors": [
+              "Pillittere Julie",
+              "Mian Sundus",
+              "Richardson Timothy E",
+              "Perl Andras"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Antirheumatic Agents",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Interleukin 1 Receptor Antagonist Protein",
+              "Muscle Weakness",
+              "Muscular Diseases",
+              "Quadriceps Muscle"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32787461/"
+          },
+          {
+            "pmid": "16365690",
+            "title": "A multicenter study of patients with adult-onset Still's disease compared with systemic juvenile idiopathic arthritis.",
+            "abstract": "Adult-onset Still's disease (AOSD) has often been regarded as the adult spectrum of systemic juvenile idiopathic arthritis (sJIA). The present study aims to compare the clinical and laboratory features, the disease course and the response to treatment in patients having AOSD with those having sJIA. Retrospective review of all available data that were filled out by adult and paediatric rheumatologists from six centers using a standard data extraction form was performed. A total of 95 patients with AOSD and 25 patients with sJIA were recruited for the study. The frequency of fever, rash, myalgia, weight loss and sore throat was higher in patients with AOSD. The pattern of joint involvement differed slightly. Laboratory findings were similar in both groups, except that liver dysfunction and neutrophilia were more common among adults. A multiphasic pattern dominated the childhood cases, whereas the most frequent course was a chronic one in adults. Corticosteroids and methotrexate were the ",
+            "journal": "Clinical rheumatology",
+            "year": "2006",
+            "authors": [
+              "Pay Salih",
+              "Türkçapar Nuran",
+              "Kalyoncu Mukaddes",
+              "Simşek Ismail",
+              "Beyan Esin"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16365690/"
+          },
+          {
+            "pmid": "3614954",
+            "title": "[Drug therapy of chronic juvenile arthritis].",
+            "abstract": "Children suffering from juvenile chronic arthritis need a longterm therapy and guidance for many years, in course of which drug therapy is only one part of the whole treatment regimen. This article gives a review about the actual available drugs with mode of action, indications and side effects. Finally follow some suggestions for practicable therapeutic guidelines on different courses of juvenile chronic arthritis which include also the possibility for the necessary individual adaptation to the patient.",
+            "journal": "Padiatrie und Padologie",
+            "year": "1987",
+            "authors": [
+              "Tulzer W"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Anti-Inflammatory Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Antineoplastic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Chloroquine",
+              "Gold",
+              "Humans",
+              "Hydroxychloroquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3614954/"
+          },
+          {
+            "pmid": "6829384",
+            "title": "Treatment of juvenile arthritis.",
+            "abstract": "Aspirin remains the cornerstone of treatment for juvenile arthritis, although tolmetin may be more effective in controlling the fever of systemic-onset disease. Tolmetin and naproxen appear to be more effective in HLA-B27 positive males with pauciarticular disease. When the nonsteroidal anti-inflammatory drugs fail, gold, penicillamine and, occasionally, immunosuppressive agents may be used in the polyarticular forms. Prosthetic joint replacement may be beneficial for patients with extensive disease. The emotional and sexual problems of children with chronic disease require recognition and help.",
+            "journal": "American family physician",
+            "year": "1983",
+            "authors": [
+              "Baum J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Anti-Inflammatory Agents",
+              "Arthritis, Juvenile",
+              "Aspirin",
+              "Child",
+              "Female",
+              "Gold",
+              "Humans",
+              "Hydroxychloroquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6829384/"
+          },
+          {
+            "pmid": "18021335",
+            "title": "Comparative study of the pharmacokinetics of MTX in juvenile idiopathic arthritis patients receiving long-term MTX monotherapy or MTX plus chloroquine.",
+            "abstract": "To compare the pharmacokinetics and report on the clinical effects of methotrexate (MTX) in patients with juvenile idiopathic arthritis (JIA), receiving long-term MTX or MTX plus chloroquine (CQ).",
+            "journal": "Journal of clinical pharmacy and therapeutics",
+            "year": "2007",
+            "authors": [
+              "Kimura E",
+              "Oga S",
+              "Pereira R M R"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Antirheumatic Agents",
+              "Area Under Curve",
+              "Arthritis, Juvenile",
+              "Child",
+              "Chloroquine",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18021335/"
+          },
+          {
+            "pmid": "11149657",
+            "title": "Sulfasalazine-induced angioimmunoblastic lymphadenopathy developing in a patient with juvenile chronic arthritis.",
+            "abstract": "We describe a patient with juvenile chronic arthritis who developed reactive angioimmunoblastic lymphadenopathy, induced by sulfasalazine. Development of angioimmunoblastic lymphadenopathy although rare, is a very serious side effect of sulfasalazine treatment, and patients treated with this drug should be watched carefully.",
+            "journal": "Rheumatology international",
+            "year": "2000",
+            "authors": [
+              "Pay S",
+              "Dinc A",
+              "Simsek I",
+              "Can C",
+              "Erdem H"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Chloroquine",
+              "Humans",
+              "Immunoblastic Lymphadenopathy",
+              "Lymph Nodes",
+              "Male",
+              "Methotrexate",
+              "Methylprednisolone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11149657/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "juvenile chronic polyarthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20juvenile%20chronic%20polyarthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "juvenile idiopathic arthritis",
+        "txgnn_score": 0.9921865463256836,
+        "txgnn_rank": 1712,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07138898",
+            "title": "Immunosuppressant Management in Rheumatology Patients Undergoing Elective Total Shoulder Arthroplasty",
+            "phase": "PHASE2",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-09",
+            "completion_date": "2027-09",
+            "country": "United States",
+            "enrollment": 80,
+            "brief_summary": "The purpose of this study is to assess the incidence of rheumatologic flares, changes in pain scores (VAS), changes in functional outcomes (PROMIS), wound complications, surgical site infections, and return trips to the operating room for rheumatology patients following shoulder replacements, comparing those who stop their immunosuppressants preoperatively for the same amount of time as suggested in the literature for hip and knee arthroplasty versus those who hold the medications for a shorter ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Adults aged 18 years and older at the time of informed consent;\n2. Diagnosis of rheumatic disease: rheumatoid arthritis (RA), psoriatic arthritis (PA) , ankylosing spondylitis (AS), systemic lupus erythematosus (SLE), juvenile idiopathic arthritis (JIA), spondyloarthritis, po",
+            "endpoints": [
+              "Incidence of wound complications",
+              "Incidence of superficial surgical site infections",
+              "Incidence of deep surgical site infections"
+            ],
+            "sponsor": "NYU Langone Health",
+            "url": "https://clinicaltrials.gov/study/NCT07138898"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "25199416",
+            "title": "Surgical management of the juvenile idiopathic arthritis patient with multiple joint involvement.",
+            "abstract": "Juvenile idiopathic arthritis (JIA) is recognized as a heterogenous group of disorders in which the common factor is persistent arthritis in at least 1 joint occurring before the age of 16 years. Although conservative management with nonsteroidal anti-inflammatory drugs and disease-modifying antirheumatic drugs can be effective, approximately 10% of JIA patients have end-stage degenerative changes requiring total hip arthroplasties (THAs) and total knee arthroplasties (TKAs). This article discusses the overall epidemiology, coordination of care, and medical and surgical management of JIA patients undergoing THA and TKA.",
+            "journal": "The Orthopedic clinics of North America",
+            "year": "2014",
+            "authors": [
+              "Abdel Matthew P",
+              "Figgie Mark P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Abnormalities, Multiple",
+              "Arthritis, Juvenile",
+              "Arthroplasty, Replacement, Hip",
+              "Arthroplasty, Replacement, Knee",
+              "Comprehensive Health Care",
+              "Humans",
+              "Hydroxychloroquine",
+              "Methotrexate",
+              "Perioperative Care",
+              "Reoperation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25199416/"
+          },
+          {
+            "pmid": "26678914",
+            "title": "The role of synthetic drugs in the biologic era: therapeutic strategies for treating juvenile idiopathic arthritis.",
+            "abstract": "Juvenile idiopathic arthritis is the most frequent chronic rheumatic disease in childhood. Synthetic disease modifying drugs (DMARDs) have been used in its treatment since the 1980s and have led to substantial improvement of quality of life and disease outcome. Recent pharmacological research has focused on newer medications, especially biologic agents.",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2016",
+            "authors": [
+              "Hügle Boris",
+              "Horneff Gerd"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Biological Products",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Hydroxychloroquine",
+              "Isoxazoles",
+              "Leflunomide",
+              "Methotrexate",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26678914/"
+          },
+          {
+            "pmid": "299941",
+            "title": "Juvenile rheumatoid arthritis.",
+            "abstract": "Juvenile rheumatoid arthritis is a diverse group of diseases that includes systemic-onset, polyarticular, and pauciarticular types. Appreciation of the different types and their hallmarks is particularly important to accurate diagnosis, which is determined by exclusion of other known disease entities in children with chronic arthritis (more than three months' duration). Therapy should be directed at the arthritis per se (synovitis), at the extra-articular manifestations, and at the whole child. Salicylates provide the most satisfactory control of the arthritis per se and of the systemic manifestations in most cases. Iridocyclitis should be managed in consultation with an ophthalmologist. Patients should not be regarded as invalids or restricted needlessly. The prognosis for children with juvenile rheumatoid arthritis is good. In most patients, the disease remits without causing permanent joint damage.",
+            "journal": "Postgraduate medicine",
+            "year": "1977",
+            "authors": [
+              "Schaller J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Aged",
+              "Antibodies, Antinuclear",
+              "Arthritis, Juvenile",
+              "Aspirin",
+              "Child",
+              "Child, Preschool",
+              "Chloroquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/299941/"
+          },
+          {
+            "pmid": "29303705",
+            "title": "Pneumonia in children with juvenile idiopathic arthritis in Finland 1999-2014: a nationwide retrospective register linkage study.",
+            "abstract": "To compare the incidence of pneumonia in children with juvenile idiopathic arthritis (JIA) to the aged-matched general population and to evaluate the use of anti-rheumatic medication among children with JIA and pneumonia.",
+            "journal": "Clinical and experimental rheumatology",
+            "year": "2018",
+            "authors": [
+              "Salonen Päivi H",
+              "Säilä Hanna",
+              "Salonen Juha H",
+              "Linna Miika",
+              "Helminen Mika"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Abatacept",
+              "Adalimumab",
+              "Adolescent",
+              "Antibodies, Monoclonal, Humanized",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Biological Products",
+              "Certolizumab Pegol",
+              "Child",
+              "Child, Preschool"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29303705/"
+          },
+          {
+            "pmid": "24334641",
+            "title": "A longterm prospective real-life experience with leflunomide in juvenile idiopathic arthritis.",
+            "abstract": "To describe a clinical practice with leflunomide (LEF) in juvenile idiopathic arthritis (JIA).",
+            "journal": "The Journal of rheumatology",
+            "year": "2014",
+            "authors": [
+              "Alcântara Antonia Célia de Castro",
+              "Leite Christiane Araújo Chaves",
+              "Leite Ana Caroline Rocha Melo",
+              "Sidrim José Julio Costa",
+              "Silva Francisco Saraiva"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Drug Therapy, Combination",
+              "Female",
+              "Health Status",
+              "Humans",
+              "Isoxazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24334641/"
+          },
+          {
+            "pmid": "8235664",
+            "title": "Comparative efficacy and safety of advanced drug therapy in children with juvenile rheumatoid arthritis.",
+            "abstract": "Results from three randomized placebo-controlled trials were combined in a meta-analysis to compare the clinical utility of four advanced drug therapy agents used to treat juvenile rheumatoid arthritis (JRA): D-penicillamine (10 mg/kg/d), hydroxychloroquine (6 mg/kg/d), auranofin (oral gold, 0.15 to 0.20 mg/kg/d), and two low dose levels of methotrexate [5MTX, 5 mg/M2/wk; 10MTX, 10 mg/M2/wk]. A total of 520 children with JRA were enrolled into these trials. Only 10MTX resulted in significantly greater improvement than placebo in variables that assess effectiveness: physician's global assessment, a composite index, and erythrocyte sedimentation rate. Treatment effect sizes were the largest in the 10MTX group for all articular disease indices. The short-term safety profiles were similar across all treatment groups. It is concluded that the current trend among pediatric rheumatologists to use oral methotrexate as the first advanced drug therapy in JRA is appropriate and that the minimum e",
+            "journal": "Seminars in arthritis and rheumatism",
+            "year": "1993",
+            "authors": [
+              "Giannini E H",
+              "Cassidy J T",
+              "Brewer E J",
+              "Shaikov A",
+              "Maximov A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Male",
+              "Methotrexate",
+              "Penicillamine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8235664/"
+          },
+          {
+            "pmid": "40616374",
+            "title": "Type I interferon as a pre-lupus marker in anti-nuclear antibody-associated childhood immune thrombocytopenic purpura.",
+            "abstract": "Paediatric-onset anti-nuclear antibody-associated immune thrombocytopenic purpura (ITP-ANA+) is a pre-lupus condition. Interferon signature (IS) is a reliable method to measure interferon-stimulated gene expression which is commonly raised in systemic lupus erythematosus (SLE) and in adult pre-lupus cases. Between 2022 and 2024, IS analysis was performed on 61 children, 17 with ITP-ANA+, 15 with ITP-ANA-, 15 with SLE and 14 with juvenile idiopathic arthritis. IS was positive in 14/17 children (82%), with a median score of 17 (1.2-143). This median IS was significantly higher than in the ITP-ANA- group (2.8, 1-41, p = 0.03) and lower than in the SLE group (37.5, 2.1-129, p = 0.04). Among ITP-ANA+ children, IS elevation was associated with age >10 years at ITP diagnosis, newly diagnosed or persistent ITP, positive anti-extractable nuclear antigen antibodies and the absence of hydroxychloroquine treatment. Hydroxychloroquine significantly reduced IS values in three children with pre- and ",
+            "journal": "British journal of haematology",
+            "year": "2025",
+            "authors": [
+              "Granel Jérôme",
+              "Fernandes Helder",
+              "Wojciechowski Elodie",
+              "Pillet Pascal",
+              "Richer Olivier"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Child",
+              "Purpura, Thrombocytopenic, Idiopathic",
+              "Female",
+              "Male",
+              "Interferon Type I",
+              "Antibodies, Antinuclear",
+              "Biomarkers",
+              "Adolescent",
+              "Child, Preschool"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40616374/"
+          },
+          {
+            "pmid": "4573028",
+            "title": "Rheumatoid arthritis.",
+            "abstract": "",
+            "journal": "JAMA",
+            "year": "1973",
+            "authors": [],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antigen-Antibody Reactions",
+              "Arthritis, Juvenile",
+              "Arthritis, Rheumatoid",
+              "Aspirin",
+              "Biopsy",
+              "Chloroquine",
+              "Gold",
+              "Humans",
+              "Hydroxychloroquine",
+              "Immunoglobulins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4573028/"
+          },
+          {
+            "pmid": "22179157",
+            "title": "Decreased high-density lipoprotein cholesterol levels in polyarticular juvenile idiopathic arthritis.",
+            "abstract": "To investigate the prevalence of dyslipoproteinemia in a homogeneous cohort of polyarticular juvenile idiopathic arthritis patients.",
+            "journal": "Clinics (Sao Paulo, Brazil)",
+            "year": "2011",
+            "authors": [
+              "Marangoni Roberta Gonçalves",
+              "Hayata Andre L",
+              "Borba Eduardo F",
+              "Azevedo Pedro M",
+              "Bonfá Eloisa"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Arthritis, Juvenile",
+              "Cholesterol, HDL",
+              "Dyslipidemias",
+              "Epidemiologic Methods",
+              "Female",
+              "Humans",
+              "Male",
+              "Sex Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22179157/"
+          },
+          {
+            "pmid": "24728117",
+            "title": "[Not Available].",
+            "abstract": "Juvenile idiopathic arthritis is a chronic inflammatory disease with uncertain outcome. Patients may suffer from severe joint damage leading to mutilations as well as from extra-articular manifestations. Prognosis is variable and depends in part on the number of affected joints and the occurrence of extra-articular manifestations. Treatment regimes should take this into account. Pharmacomedical treatment strategies include the application of nonsteroidal antirheumatics, corticosteroids, sulfasalazine, and immunosuppressive substances. However, of the latter only methotrexate has been shown in controlled trials to be effective. Other immunosuppressive drugs such as azathioprine, cyclosporine A, and leflunomide have not yet been investigated sufficiently. In addition, there is no scientific basis for the application of gold salts or (hydroxy)chloroquine. New therapeutic biologic agents, notably the tumor necrosis factor inhibitors, have achieved dramatic improvements also in patients wit",
+            "journal": "Bundesgesundheitsblatt, Gesundheitsforschung, Gesundheitsschutz",
+            "year": "2002",
+            "authors": [
+              "Horneff G"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24728117/"
+          },
+          {
+            "pmid": "3517643",
+            "title": "Penicillamine and hydroxychloroquine in the treatment of severe juvenile rheumatoid arthritis. Results of the U.S.A.-U.S.S.R. double-blind placebo-controlled trial.",
+            "abstract": "One hundred sixty-two children with severe juvenile rheumatoid arthritis were entered in a randomized, double-blind, placebo-controlled 12-month clinical trial designed to establish the efficacy and safety of two slower-acting antirheumatic drugs, penicillamine and hydroxychloroquine. The study was a cooperative effort of the United States and the Soviet Union. One group of subjects received 10 mg of penicillamine per kilogram of body weight per day, another group received 6 mg of hydroxychloroquine per kilogram daily, and a third group received placebo. All three groups were allowed a single concurrent nonsteroidal antiinflammatory drug, but no other antirheumatic medications, including corticosteroids. All three groups had dramatic improvement in many of the clinical and laboratory outcome variables after one year of study. There were no significant differences in efficacy between the penicillamine and placebo groups. Pain on movement was the only index of articular disease that was ",
+            "journal": "The New England journal of medicine",
+            "year": "1986",
+            "authors": [
+              "Brewer E J",
+              "Giannini E H",
+              "Kuzmina N",
+              "Alekseev L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Clinical Trials as Topic",
+              "Double-Blind Method",
+              "Hematocrit",
+              "Hemoglobins",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3517643/"
+          },
+          {
+            "pmid": "4848261",
+            "title": "[Chloroquine and hydroxychloroquine dosage in juvenile rheumatoid arthritis].",
+            "abstract": "",
+            "journal": "Duodecim; laaketieteellinen aikakauskirja",
+            "year": "1974",
+            "authors": [
+              "Laaksonen A L",
+              "Koskiahde V",
+              "Juva K"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Chloroquine",
+              "Corneal Opacity",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4848261/"
+          },
+          {
+            "pmid": "1379157",
+            "title": "Pharmacological management of juvenile rheumatoid arthritis.",
+            "abstract": "The goals of pharmacotherapy in juvenile rheumatoid arthritis (JRA) are to suppress chronic synovitis which causes potential cartilage destruction and deformities, to control the systemic effects of inflammation (including growth retardation and nutritional deficits), relieve pain and limit psychological impact of disease. Currently available methods include nonsteroidal anti-inflammatory drugs (NSAIDs) such as aspirin, salicylates, naproxen, tolmetin, ibuprofen and indomethacin; disease modifying antirheumatic drugs (DMARDs) such as oral and injectable gold salts, hydroxychloroquine, penicillamine, oral and injectable methotrexate, and sulfasalazine; oral (daily or on alternate days), intravenous pulse or intra-articular corticosteroids; immunosuppresants, including cyclophosphamide, chlorambucil, cyclosporin, and azathioprine; and gammaglobulin and other experimental therapies. Over the past 10 years, rheumatologists have adopted more aggressive pharmacological treatment of JRA. As t",
+            "journal": "Drugs",
+            "year": "1992",
+            "authors": [
+              "Rose C D",
+              "Doughty R A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Humans",
+              "Hydroxychloroquine",
+              "Immunosuppressive Agents",
+              "Methotrexate",
+              "Organogold Compounds"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1379157/"
+          },
+          {
+            "pmid": "31842940",
+            "title": "Health-related quality of life during early aggressive treatment in patients with polyarticular juvenile idiopathic arthritis: results from randomized controlled trial.",
+            "abstract": "Juvenile Idiopathic Arthritis (JIA) may cause significant impairment in health-related quality of life (HrQoL), despite effective therapies. The aim of this study was to assess HrQoL during first-year treatment in patients with new-onset polyarticular JIA, and to compare treatment strategies.",
+            "journal": "Pediatric rheumatology online journal",
+            "year": "2019",
+            "authors": [
+              "Tarkiainen Maarit",
+              "Tynjälä Pirjo",
+              "Vähäsalo Paula",
+              "Kröger Liisa",
+              "Aalto Kristiina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans",
+              "Hydroxychloroquine",
+              "Infliximab",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31842940/"
+          },
+          {
+            "pmid": "16365690",
+            "title": "A multicenter study of patients with adult-onset Still's disease compared with systemic juvenile idiopathic arthritis.",
+            "abstract": "Adult-onset Still's disease (AOSD) has often been regarded as the adult spectrum of systemic juvenile idiopathic arthritis (sJIA). The present study aims to compare the clinical and laboratory features, the disease course and the response to treatment in patients having AOSD with those having sJIA. Retrospective review of all available data that were filled out by adult and paediatric rheumatologists from six centers using a standard data extraction form was performed. A total of 95 patients with AOSD and 25 patients with sJIA were recruited for the study. The frequency of fever, rash, myalgia, weight loss and sore throat was higher in patients with AOSD. The pattern of joint involvement differed slightly. Laboratory findings were similar in both groups, except that liver dysfunction and neutrophilia were more common among adults. A multiphasic pattern dominated the childhood cases, whereas the most frequent course was a chronic one in adults. Corticosteroids and methotrexate were the ",
+            "journal": "Clinical rheumatology",
+            "year": "2006",
+            "authors": [
+              "Pay Salih",
+              "Türkçapar Nuran",
+              "Kalyoncu Mukaddes",
+              "Simşek Ismail",
+              "Beyan Esin"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Aged, 80 and over",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Drug Therapy, Combination",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16365690/"
+          },
+          {
+            "pmid": "4608161",
+            "title": "Dosage of antimalarial drugs for children with juvenile rheumatoid arthritis and systemic lupus erythematosus. A clinical study with determination of serum concentrations of chloroquine and hydroxychloroquine.",
+            "abstract": "",
+            "journal": "Scandinavian journal of rheumatology",
+            "year": "1974",
+            "authors": [
+              "Laaksonen A L",
+              "Koskiahde V",
+              "Juva K"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Controlled Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Chloroquine",
+              "Clinical Trials as Topic",
+              "Cornea",
+              "Dose-Response Relationship, Drug",
+              "Eye Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4608161/"
+          },
+          {
+            "pmid": "808780",
+            "title": "Characteristics of juvenile rheumatoid arthritis: its medical and orthopedic management.",
+            "abstract": "The characteristics of juvenile rheumatoid arthritis have been presented and the important features of its medical and orthopedic management described. Surgical experience in a carefully studied group of 200 patients has been recounted. The increasing importance of reconstructive joint surgery is noted, preferably performed after growth has stopped.",
+            "journal": "The Orthopedic clinics of North America",
+            "year": "1975",
+            "authors": [
+              "Barry P E",
+              "Stillman J S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Cortex Hormones",
+              "Adult",
+              "Arthritis, Juvenile",
+              "Child",
+              "Female",
+              "Gold Sodium Thiomalate",
+              "Humans",
+              "Hydroxychloroquine",
+              "Injections, Intra-Articular"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/808780/"
+          },
+          {
+            "pmid": "18021335",
+            "title": "Comparative study of the pharmacokinetics of MTX in juvenile idiopathic arthritis patients receiving long-term MTX monotherapy or MTX plus chloroquine.",
+            "abstract": "To compare the pharmacokinetics and report on the clinical effects of methotrexate (MTX) in patients with juvenile idiopathic arthritis (JIA), receiving long-term MTX or MTX plus chloroquine (CQ).",
+            "journal": "Journal of clinical pharmacy and therapeutics",
+            "year": "2007",
+            "authors": [
+              "Kimura E",
+              "Oga S",
+              "Pereira R M R"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Antirheumatic Agents",
+              "Area Under Curve",
+              "Arthritis, Juvenile",
+              "Child",
+              "Chloroquine",
+              "Drug Therapy, Combination",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18021335/"
+          },
+          {
+            "pmid": "21623000",
+            "title": "Aggressive combination drug therapy in very early polyarticular juvenile idiopathic arthritis (ACUTE-JIA): a multicentre randomised open-label clinical trial.",
+            "abstract": "In juvenile idiopathic arthritis (JIA), the efficacy of very early disease-modifying drug therapy, synthetic or biological, is not well known. Three alternative strategies were compared for treating recent-onset polyarticular JIA.",
+            "journal": "Annals of the rheumatic diseases",
+            "year": "2011",
+            "authors": [
+              "Tynjälä Pirjo",
+              "Vähäsalo Paula",
+              "Tarkiainen Maarit",
+              "Kröger Liisa",
+              "Aalto Kristiina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antibodies, Monoclonal",
+              "Antirheumatic Agents",
+              "Arthritis, Juvenile",
+              "Child",
+              "Child, Preschool",
+              "Drug Combinations",
+              "Epidemiologic Methods",
+              "Female",
+              "Glucocorticoids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21623000/"
+          },
+          {
+            "pmid": "7691140",
+            "title": "Treatment of juvenile rheumatoid arthritis.",
+            "abstract": "New information on the treatment of juvenile rheumatoid arthritis emphasizes more aggressive control of arthritis, particularly the use of methotrexate, both in low- and higher-dose regimens. Information concerning drug toxicity, including that of the nonsteroidal anti-inflammatory drugs, second-line agents, and methotrexate, suggests that these drugs are well tolerated in children. A new corticosteroid, deflazacort, minimizes bone demineralization and growth retardation. Adjunctive measures, including erythropoietin, pain management techniques, conditioning programs, and nutrition, have demonstrated advantages in some children with juvenile rheumatoid arthritis.",
+            "journal": "Current opinion in rheumatology",
+            "year": "1993",
+            "authors": [
+              "Emery H M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Arthritis, Juvenile",
+              "Child",
+              "Erythropoietin",
+              "Glucocorticoids",
+              "Humans",
+              "Hydroxychloroquine",
+              "Methotrexate",
+              "Nutritional Physiological Phenomena",
+              "Pain Management"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7691140/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "juvenile idiopathic arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20juvenile%20idiopathic%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "osteoarthritis",
+        "txgnn_score": 0.9865840077400208,
+        "txgnn_rank": 2644,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03975790",
+            "title": "Comparative Analysis of Outcomes Among Patients Initiating Xeljanz in Combination With Oral MTX Who Withdraw MTX Versus Continue MTX Using a United States Healthcare Claims Database",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2018-05-29",
+            "completion_date": "2018-10-02",
+            "country": "United States",
+            "enrollment": 479,
+            "brief_summary": "To address the objectives, a retrospective cohort design will be employed to evaluate patient characteristics, treatment patterns, medication effectiveness, and health care cost and utilization in RA patients newly initiating tofacitinib in combination with oral methotrexate (MTX)",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* At least one claim for tofacitinib between 01 January 2014 and 31 January 2017 (the identification period).\n* Presence of The International Classification of Diseases, 9th Revision, Clinical Modification (ICD-9 CM) code for RA (in any position) during the one-year pre-index pe",
+            "endpoints": [
+              "Number of Participants as Per Type of Insurance Plan",
+              "Number of Participants in Each Geographic Region",
+              "Number of Participants With Biologic Disease Modifying Antirheumatic Drug (bDMARD) Use During Pre-Index Period"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT03975790"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01148043",
+            "title": "Pharmacological Treatment In Osteoarthritis",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2010-07",
+            "completion_date": "2014-09",
+            "country": "Netherlands",
+            "enrollment": 200,
+            "brief_summary": "The purpose of this study is to determine the efficacy of hydroxychloroquine in hand osteoarthritis.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age ≥ 40 years\n* Primary hand OA according to the ACR classification\n* Heberden or Bouchard nodule or Kellgren-Lawrence grade 1, 2 or 3 changes in ≥ 2 symptomatic joints\n* Pain in the dominant hand ≥ 12 months\n* Use of an NSAID for ≥ 1 episode of pain\n* Written informed consen",
+            "endpoints": [
+              "Pain intensity measured by 100 mm Visual Analog Scale (VAS)"
+            ],
+            "sponsor": "Maasstad Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT01148043"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01645176",
+            "title": "Hydroxychloroquine/Atorvastatin in the Treatment of OA of the Knee",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2012-05",
+            "completion_date": "2016-10",
+            "country": "United States",
+            "enrollment": 21,
+            "brief_summary": "The purpose of this study of a combination therapy of hydroxychloroquine and atorvastatin is to learn about the effects in inflammation and pain in patients with Osteoarthritis of the knee. These medications are FDA approved and commercially available.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Ambulatory subjects with OA of the knee with symptoms for at least 6 months and pain on the majority of days in the last 30 days. Symptoms must include knee joint pain.\n2. Male or female adults age \\>40 years with a body mass index \\<35\n3. Radiographic evidence of at least on",
+            "endpoints": [
+              "Change in Synovitis"
+            ],
+            "sponsor": "Stanford University",
+            "url": "https://clinicaltrials.gov/study/NCT01645176"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06768294",
+            "title": "Baricitinib in Calcium PyrophosphAte DePosiTion DIseaSe Trial - a Proof of Concept Phase II Clinical Trial",
+            "phase": "PHASE2",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-01",
+            "completion_date": "2027-01",
+            "country": "Italy",
+            "enrollment": 32,
+            "brief_summary": "The aim of this clinical trial is to determine if baricitinib is effective in treating calcium pyrophosphate deposition disease (CPPD) in adults. The primary objective is to assess its impact on joint inflammation. The key questions the study seeks to answer are:\n\n* Can baricitinib reduce inflammation in affected joints?\n* Will baricitinib lead to changes in ultrasound findings, such as calcium crystal deposition and synovitis?\n\nResearchers will compare baricitinib to other treatments, including",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Signed Informed Consent;\n* Male and female patients aged ≥55 years;\n* Patients that according to the investigator's judgement will benefit from the proposed treatments (favourable benefit/risk profile)\n* Menopause for women;(no menses for 12 months without an alternative medic",
+            "endpoints": [
+              "The evaluation the effect of baricitinib on inflammation of the synovial membrane in CPPD"
+            ],
+            "sponsor": "I.R.C.C.S Ospedale Galeazzi-Sant'Ambrogio",
+            "url": "https://clinicaltrials.gov/study/NCT06768294"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00805519",
+            "title": "Efficacy and Safety of Prednisolone and Chloroquine Add on Therapy in Osteoarthritis of the Knee Treated With Fixed Dose Combination of Glucosamine and Chondroitin Sulfate.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2009-02",
+            "completion_date": "2010-04",
+            "country": "Iran",
+            "enrollment": 230,
+            "brief_summary": "This study was conducted to evaluate the efficacy and safety of prednisolone and chloroquine add on therapies to combined glucosamine, chondroitin sulfate in osteoarthritis of the knee which will be done in contrast to combined glucosamine sulfate and chondroitin.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* men and non-pregnant women, age 40-85 years with primary OA of at least one knee.\n\nExclusion Criteria:\n\n* secondary arthritis related to systemic inflammatory arthritis (including rheumatoid arthritis, psoriatic arthritis, post-infectious arthritis and metabolic arthritis, tra",
+            "endpoints": [
+              "The primary outcome measures is defined as the change from baseline to final assessment of the study knee in the 3 core continuous variables pain and physical function, assessing using the WOMAC subscales, and patient global assessment (PGA)",
+              "The primary outcome measures is defined as the change from baseline to final assessment of the study knee in the 3 core continuous variables pain and physical function, assessing using the WOMAC subscales, and patient global assessment (PGA)",
+              "The primary outcome measures is defined as the change from baseline to final assessment of the study knee in the 3 core continuous variables pain and physical function, assessing using the WOMAC subscales, and patient global assessment (PGA)"
+            ],
+            "sponsor": "Ardabil University of Medical Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT00805519"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "41035432",
+            "title": "Remodeling of senescent macrophages in synovium alleviates trauma- and aging-induced osteoarthritis.",
+            "abstract": "Osteoarthritis (OA) is one of the most concerned aging-related diseases in the worldwide, yet the investigation of immune senescence in joint and related therapies are still poorly identified. Single-cell sequencing analysis and immunofluorescence of OA synovium reveal increased senescent macrophages in trauma-induced OA compared to controls. Importantly, senescent macrophages in OA synovium showed enhanced M1 polarization, mitochondrial damage and impaired efferocytosis, which could lead to increased senescence-associated secretory phenotypes (SASPs) in the joint and further exacerbate OA. Hence, a novel senotherapeutic nanoparticle is developed using chloroquine (CQ)-bearing polymers (pCQ) for targeted delivery of superoxide dismutase (SOD) to synovial macrophages, termed as pCQ/SOD. The nanoparticle achieves efficient intracellular delivery of SOD to synovial macrophages. RNA-seq results reveal that pCQ/SOD nanoparticle inhibits macrophage senescence via p53 and cellular senescence ",
+            "journal": "Bioactive materials",
+            "year": "2026",
+            "authors": [
+              "Liu Yuhang",
+              "Duan Jianan",
+              "Dang Yifan",
+              "Hao Ruihan",
+              "Wang Hui"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41035432/"
+          },
+          {
+            "pmid": "38719085",
+            "title": "DDIT3 aggravates TMJOA cartilage degradation via Nrf2/HO-1/NLRP3-mediated autophagy.",
+            "abstract": "DNA damage-inducible transcript 3 (DDIT3), as a downstream transcription factor of endoplasmic reticulum stress, is reported to regulate chondrogenic differentiation under physiological and pathological state. However, the specific involvement of DDIT3 in the degradation of condylar cartilage of temporomandibular joint osteoarthritis (TMJOA) is unclarified.",
+            "journal": "Osteoarthritis and cartilage",
+            "year": "2024",
+            "authors": [
+              "Yang Chang",
+              "Dong Wei",
+              "Wang Yan",
+              "Dong Xiaofei",
+              "Xu Xiaoxiao"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Transcription Factor CHOP",
+              "Autophagy",
+              "Cartilage, Articular",
+              "Mice",
+              "Osteoarthritis",
+              "Chondrocytes",
+              "Mice, Knockout",
+              "Temporomandibular Joint Disorders",
+              "Mandibular Condyle"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38719085/"
+          },
+          {
+            "pmid": "40494201",
+            "title": "Acetyl zingerone inhibits chondrocyte pyroptosis and alleviates osteoarthritis progression by promoting mitophagy through the PINK1/parkin signaling pathway.",
+            "abstract": "Osteoarthritis (OA) is a common chronic degenerative joint disease, characterized by osteophyte formation and cartilage degeneration. A growing number of studies have found that nod-like receptor pyrin domain 3 (NLRP3) inflammasome-mediated chondrocyte pyroptosis plays a crucial role in the development of OA. Acetyl zingerone (AZ) is a small molecule compound, chemically synthesized to retain the key functional properties of curcumin and zingerone, while exhibiting enhanced anti-inflammatory, antioxidant, and anti-aging effects. Previous studies in our group have found an inhibitory effect on ferroptosis in AZ osteoarthritis. However, its specific mechanism of action has not been fully explained. Therefore, we further delved into whether AZ could alleviate OA in mice by affecting mitophagy and pyroptosis. In an in vitro study, we observed that AZ alleviated LPS + ATP-induced pyroptosis in chondrocytes and inhibited the activation of the NLRP3 inflammasome, a key factor in pyroptosis. M",
+            "journal": "International immunopharmacology",
+            "year": "2025",
+            "authors": [
+              "Zhang Zhuangzhuang",
+              "Huang Tianyue",
+              "Chen Xu",
+              "Chen Jie",
+              "Yuan Hang"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Chondrocytes",
+              "Pyroptosis",
+              "Mitophagy",
+              "Osteoarthritis",
+              "Mice",
+              "Signal Transduction",
+              "Ubiquitin-Protein Ligases",
+              "Protein Kinases",
+              "Mice, Inbred C57BL"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40494201/"
+          },
+          {
+            "pmid": "33882635",
+            "title": "Efficacy and safety of hydroxychloroquine in osteoarthritis: a systematic review and meta-analysis of randomized controlled trials.",
+            "abstract": "Conventional disease-modifying anti-rheumatic drugs have been trialed in osteoarthritis (OA). Hydroxychloroquine (HCQ), which has shown its effectiveness in rheumatoid arthritis, has been trialed for the treatment of OA; however, its efficacy and safety remain unclear. This systematic review and meta-analysis evaluate efficacy and safety of HCQ for the treatment of OA.",
+            "journal": "The Korean journal of internal medicine",
+            "year": "2022",
+            "authors": [
+              "Singh Ambrish",
+              "Kotlo Anirudh",
+              "Wang Zhiqiang",
+              "Dissanayaka Thusharika",
+              "Das Siddharth"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hydroxychloroquine",
+              "Osteoarthritis, Hip",
+              "Osteoarthritis, Knee",
+              "Pain",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33882635/"
+          },
+          {
+            "pmid": "38882274",
+            "title": "Luteolin regulating synthesis and catabolism of osteoarthritis chondrocytes via activating autophagy.",
+            "abstract": "Osteoarthritis (OA) is a prevalent bone and joint disease characterized by degeneration. The dysregulation between chondrocyte synthesis and breakdown is a key factor in OA development. Targeting the degenerative changes in cartilage tissue degradation could be a potential treatment approach for OA. Previous research has established a strong link between autophagy and the regulation of chondrocyte functions. Activating autophagy has shown promise in mitigating cartilage tissue degeneration. Currently, osteoarthritis treatment primarily focuses on symptom management, as there is no definitive medication to stop disease progression. Previous studies have demonstrated that luteolin, a flavonoid present in Chinese herbal medicine, can activate autophagy and reduce the expression of MMP1 and ADAMTS-5. This study utilized an in vitro osteoarthritis model with chondrocytes stimulated by IL-1β, treated with varying concentrations of luteolin. Treatment with luteolin notably increased the level",
+            "journal": "Heliyon",
+            "year": "2024",
+            "authors": [
+              "Li Yetian",
+              "Ding Zhenfei",
+              "Liu Fuen",
+              "Li Shuang",
+              "Huang Wei"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38882274/"
+          },
+          {
+            "pmid": "35000374",
+            "title": "Efficacy of hydroxychloroquine for knee osteoarthritis.",
+            "abstract": "",
+            "journal": "The Korean journal of internal medicine",
+            "year": "2022",
+            "authors": [
+              "Lee Young Ho"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Antirheumatic Agents",
+              "Humans",
+              "Hydroxychloroquine",
+              "Osteoarthritis, Knee"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35000374/"
+          },
+          {
+            "pmid": "12954956",
+            "title": "Intra-articular therapy in osteoarthritis.",
+            "abstract": "The medical literature was reviewed from 1968-2002 using Medline and the key words \"intra-articular\" and \"osteoarthritis\" to determine the various intra-articular therapies used in the treatment of osteoarthritis. Corticosteroids and hyaluronic acid are the most frequently used intra-articular therapies in osteoarthritis. Other intra-articular substances such as orgotein, radiation synovectomy, dextrose prolotherapy, silicone, saline lavage, saline injection without lavage, analgesic agents, non-steroidal anti-inflammatory drugs, glucosamine, somatostatin, sodium pentosan polysulfate, chloroquine, mucopolysaccharide polysulfuric acid ester, lactic acid solution, and thiotepa cytostatica have been investigated as potentially therapeutic in the treatment of arthritic joints. Despite the lack of strong, convincing, and reproducible evidence that any of the intra-articular therapies significantly alters the progression of osteoarthritis, corticosteroids and hyaluronic acid are widely used ",
+            "journal": "Postgraduate medical journal",
+            "year": "2003",
+            "authors": [
+              "Uthman I",
+              "Raynauld J-P",
+              "Haraoui B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adjuvants, Immunologic",
+              "Adrenal Cortex Hormones",
+              "Analgesics",
+              "Humans",
+              "Hyaluronic Acid",
+              "Injections, Intra-Articular",
+              "Osteoarthritis, Knee",
+              "Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12954956/"
+          },
+          {
+            "pmid": "40701030",
+            "title": "Chloroquine treatment ameliorates experimental autoimmune encephalomyelitis by inhibiting T cell differentiation and pDC accumulation.",
+            "abstract": "Chloroquine (CQ) has been used to treat rheumatoid arthritis and systemic lupus erythematosus, but its use in multiple sclerosis (MS) is limited by side effects and insufficient efficacy. To enhance treatment outcomes, understanding CQ's therapeutic mechanisms in MS is crucial. Thus, we administered CQ to mice with experimental autoimmune encephalomyelitis (EAE) and investigated its disease-ameliorating effects and underlying cellular mechanisms.",
+            "journal": "Cellular immunology",
+            "year": "2025",
+            "authors": [
+              "Li Yonghai",
+              "Shao Yue",
+              "Ma Xianfen",
+              "Li Yaning",
+              "Yang Yijia"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Encephalomyelitis, Autoimmune, Experimental",
+              "Chloroquine",
+              "Dendritic Cells",
+              "Mice",
+              "Mice, Inbred C57BL",
+              "Female",
+              "Cell Differentiation",
+              "T-Lymphocytes, Regulatory",
+              "Th17 Cells"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40701030/"
+          },
+          {
+            "pmid": "27497958",
+            "title": "Fis1 depletion in osteoarthritis impairs chondrocyte survival and peroxisomal and lysosomal function.",
+            "abstract": "Cumulative evidence suggests the importance of organelle homeostasis in regulating metabolic functions in response to various cellular stresses. Particularly, the dynamism and health of the mitochondria-peroxisome network through fission and fusion are essential for cellular function; dysfunctional dynamism underlies the pathogenesis of several degenerative diseases including Parkinson's disease. Here, we investigated the role of Fis1 in cartilage homeostasis and its relevance to osteoarthritis (OA). We found that Fis1 is significantly suppressed in human OA chondrocytes compared to that in normal chondrocytes. Fis1 depletion through siRNA induced peroxisomal dysfunction. Moreover, Fis1 suppression altered miRNA profiles, especially those implicated in lysosomal regulation. Lysosomal destruction using LAMP-1-specific targeted nanorods or lysosomal dysfunction through chloroquine treatment resulted in enhanced chondrocyte apoptosis and/or suppression of autophagy. Accordingly, lysosomal",
+            "journal": "Journal of molecular medicine (Berlin, Germany)",
+            "year": "2016",
+            "authors": [
+              "Kim Dongkyun",
+              "Song Jinsoo",
+              "Kang Yeonho",
+              "Park Sujung",
+              "Kim Yong-Il"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Apoptosis",
+              "Autophagy",
+              "Cartilage, Articular",
+              "Chloroquine",
+              "Chondrocytes",
+              "Embryo, Nonmammalian",
+              "Gene Expression Regulation",
+              "Humans",
+              "Lysosomal Membrane Proteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27497958/"
+          },
+          {
+            "pmid": "34754093",
+            "title": "CDDO-Im ameliorates osteoarthritis and inhibits chondrocyte apoptosis in mice via enhancing Nrf2-dependent autophagy.",
+            "abstract": "Osteoarthritis (OA) is the most prevalent chronic degenerative joint disease with few treatment options. The pathogenesis of OA is characterized by sustained inflammation, oxidative stress and chondrocyte apoptosis that eventually lead to cartilage degradation and joint dysfunction. In the present study, we identified a synthetic triterpenoid CDDO-Im(1-[2-cyano-3,12-dioxooleana-1,9(11)-dien-28-oyl] imidazole) as an activator of Nrf2 (nuclear factor erythroid 2-related factor 2) that displayed strong anti-OA effects. We showed that CDDO-Im (20 nM) significantly alleviated TNF-α-induced apoptosis of primary human chondrocytes and extracellular matrix degradation. In a mouse OA model incurred by DMM (destabilization of medial meniscus), administration of CDDO-Im (2.5 mg/kg, ip, every other day for 8 weeks) effectively reduced knee joint cartilage erosion and serum levels of inflammatory cytokines IL-1β and IL-6. We revealed that CDDO-Im (20 nM) significantly enhanced autophagy activities ",
+            "journal": "Acta pharmacologica Sinica",
+            "year": "2022",
+            "authors": [
+              "Dong Jian",
+              "Zhang Kai-Jia",
+              "Li Gao-Cai",
+              "Chen Xing-Ren",
+              "Lin Jia-Jia"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Mice",
+              "Autophagy",
+              "Chondrocytes",
+              "Imidazoles",
+              "NF-E2-Related Factor 2",
+              "Oleanolic Acid",
+              "Osteoarthritis",
+              "Tumor Necrosis Factor-alpha"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34754093/"
+          },
+          {
+            "pmid": "15918998",
+            "title": "Calcium-containing crystals and osteoarthritis: implications for the clinician.",
+            "abstract": "The clinical implication of articular deposits of calcium-containing crystals (specifically of calcium pyrophosphate dihydrate and hydroxyapatite) in osteoarthritis is unknown. Recent longitudinal studies have suggested that in some instances calcium crystals are direct participants in cartilage damage, while in other situations they are merely markers of joint damage. Better understanding of the mechanisms of crystal formation, especially in relation to inorganic pyrophosphate regulation, has lead to potential avenues for therapeutic intervention. The current treatment of osteoarthritis associated with calcium-containing crystals should involve nonsteroidal anti-inflammatory drugs, intra-articular steroids, and in resistant cases, joint irrigation can be considered. While preliminary studies suggest the possibility of favorable benefits from colchicine and hydroxycholorquine in this osteoarthritis disease subset, more rigorous studies need to be conducted to establish their roles.",
+            "journal": "Current rheumatology reports",
+            "year": "2005",
+            "authors": [
+              "Wu Christopher W",
+              "Terkeltaub Robert",
+              "Kalunian Kenneth C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antirheumatic Agents",
+              "Biomarkers",
+              "Calcium",
+              "Cartilage, Articular",
+              "Colchicine",
+              "Glucocorticoids",
+              "Gout Suppressants",
+              "Humans",
+              "Hydroxychloroquine",
+              "Osteoarthritis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15918998/"
+          },
+          {
+            "pmid": "18078640",
+            "title": "Chloroquine and QTc interval.",
+            "abstract": "",
+            "journal": "Clinical and experimental rheumatology",
+            "year": "2007",
+            "authors": [
+              "Silva J A",
+              "Silva M B",
+              "Skare T L"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Antimalarials",
+              "Arthritis, Rheumatoid",
+              "Chloroquine",
+              "Electrocardiography",
+              "Female",
+              "Humans",
+              "Lupus Erythematosus, Systemic",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18078640/"
+          },
+          {
+            "pmid": "26246395",
+            "title": "Therapy and pharmacological properties of hydroxychloroquine and chloroquine in treatment of systemic lupus erythematosus, rheumatoid arthritis and related diseases.",
+            "abstract": "This review examines the pharmacokinetics, modes of action and therapeutic properties of the anti-malarial drugs, hydroxychloroquine (HCQ) and chloroquine (CQ), in the treatment of systemic lupus erythematosus (SLE), rheumatoid arthritis (RA) and related conditions, as well as osteoarthritis (OA).",
+            "journal": "Inflammopharmacology",
+            "year": "2015",
+            "authors": [
+              "Rainsford K D",
+              "Parke Ann L",
+              "Clifford-Rashotte Matthew",
+              "Kean W F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antirheumatic Agents",
+              "Arthritis, Rheumatoid",
+              "Chloroquine",
+              "Diabetes Mellitus, Type 2",
+              "Dose-Response Relationship, Drug",
+              "Humans",
+              "Hydroxychloroquine",
+              "Lupus Erythematosus, Systemic",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26246395/"
+          },
+          {
+            "pmid": "31204557",
+            "title": "Glucosamine promotes hepatitis B virus replication through its dual effects in suppressing autophagic degradation and inhibiting MTORC1 signaling.",
+            "abstract": "Glucosamine (GlcN), a dietary supplement widely utilized to promote joint health and effective in the treatment of osteoarthritis, is an effective macroautophagy/autophagy activator in vitro and in vivo. Previous studies have shown that autophagy is required for hepatitis B virus (HBV) replication and envelopment. The objective of this study was to determine whether and how GlcN affects HBV replication, using in vitro and in vivo experiments. Our data demonstrated that HBsAg production and HBV replication were significantly increased by GlcN treatment. Confocal microscopy and western blot analysis showed that the amount of autophagosomes and the levels of autophagic markers MAP1LC3/LC3-II and SQSTM1 were clearly elevated by GlcN treatment. GlcN strongly blocked autophagic degradation of HBV virions and proteins by inhibiting lysosomal acidification through its amino group. Moreover, GlcN further promoted HBV replication by inducing autophagosome formation via feedback inhibition of mec",
+            "journal": "Autophagy",
+            "year": "2020",
+            "authors": [
+              "Lin Yong",
+              "Wu Chunchen",
+              "Wang Xueyu",
+              "Liu Shi",
+              "Zhao Kaitao"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Autophagy",
+              "Disease Models, Animal",
+              "Enterovirus",
+              "Gene Expression Regulation",
+              "Glucosamine",
+              "Hep G2 Cells",
+              "Hepatitis B Surface Antigens",
+              "Hepatitis B virus",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31204557/"
+          },
+          {
+            "pmid": "31586865",
+            "title": "Cartilage-targeting and dual MMP-13/pH responsive theranostic nanoprobes for osteoarthritis imaging and precision therapy.",
+            "abstract": "Osteoarthritis (OA) microenvironment is marked by matrix metalloproteinases-13 (MMP-13) overexpression and weak acidity, making it possible to develop dual-stimuli responsive theranostic nanoprobes for OA diagnosis and therapy. However, current MMP/pH-responsive systems are not suitable for OA because of their poor biocompatibility, poor degradation and non-cartilage-targeting of the responsive probes. Here we designed a novel biocompatible cartilage-targeting and MMP-13/pH-responsive ferritin nanocages (CMFn) loaded with an anti-inflammatory drug (Hydroxychloroquine, HCQ), termed CMFn@HCQ, for OA imaging and therapy. We found that CMFn could be smartly \"turned on\" to emit light for OA imaging in response to the level of overexpressed MMP-13 in OA microenvironment, corresponding to the degree of OA severity. Thus the light intensity detected reflected the degree of OA severity, enabling the precise disease classification by our CMFn. CMFn could be \"turned off\" to stop emitting light in",
+            "journal": "Biomaterials",
+            "year": "2019",
+            "authors": [
+              "Chen Haimin",
+              "Qin Zainen",
+              "Zhao Jinmin",
+              "He Yi",
+              "Ren En"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cartilage, Articular",
+              "Cell Death",
+              "Chondrocytes",
+              "Cytokines",
+              "Drug Liberation",
+              "Endocytosis",
+              "Ferritins",
+              "Hemolysis",
+              "Hydrogen-Ion Concentration"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31586865/"
+          },
+          {
+            "pmid": "41470005",
+            "title": "SGK1 triggers cartilage degradation in TMJOA via FoxO1/autophagy.",
+            "abstract": "Temporomandibular joint osteoarthritis (TMJOA) is a prevalent inflammatory disease with unclear pathogenesis. Serum and glucocorticoid-inducible kinase 1 (SGK1) has been implicated in osteoarthritis-related cartilage degeneration. This study investigated the role of SGK1 in a mouse model of TMJOA and explored its mechanism, focusing on SGK1's regulation of Forkhead box O1 (FoxO1) and its subsequent effects on autophagy and extracellular matrix degradation in mouse condylar chondrocytes (MCCs).",
+            "journal": "Arthritis research & therapy",
+            "year": "2025",
+            "authors": [
+              "Tang Hongyao",
+              "Ma Chuan",
+              "Xu Mengchen",
+              "Wu Gaoyi",
+              "Li Na"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Protein Serine-Threonine Kinases",
+              "Forkhead Box Protein O1",
+              "Autophagy",
+              "Immediate-Early Proteins",
+              "Mice",
+              "Osteoarthritis",
+              "Chondrocytes",
+              "Cartilage, Articular",
+              "Mice, Inbred C57BL"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41470005/"
+          },
+          {
+            "pmid": "28981117",
+            "title": "Trehalose ameliorates oxidative stress-mediated mitochondrial dysfunction and ER stress via selective autophagy stimulation and autophagic flux restoration in osteoarthritis development.",
+            "abstract": "Oxidative stress-related apoptosis and autophagy play crucial roles in the development of osteoarthritis (OA), a progressive cartilage degenerative disease with multifactorial etiologies. Here, we determined autophagic flux changes and apoptosis in human OA and tert-Butyl hydroperoxide (TBHP)-treated chondrocytes. In addition, we explored the potential protective effects of trehalose, a novel Mammalian Target of Rapamycin (mTOR)-independent autophagic inducer, in TBHP-treated mouse chondrocytes and a destabilized medial meniscus (DMM) mouse OA model. We found aberrant p62 accumulation and increased apoptosis in human OA cartilage and chondrocytes. Consistently, p62 and cleaved caspase-3 levels increased in mouse chondrocytes under oxidative stress. Furthermore, trehalose restored oxidative stress-induced autophagic flux disruption and targeted autophagy selectively by activating BCL2 interacting protein 3 (BNIP3) and Phosphoglycerate mutase family member 5 (PGAM5). Trehalose could amel",
+            "journal": "Cell death & disease",
+            "year": "2017",
+            "authors": [
+              "Tang Qian",
+              "Zheng Gang",
+              "Feng Zhenhua",
+              "Chen Yu",
+              "Lou Yiting"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Apoptosis",
+              "Autophagy",
+              "Chondrocytes",
+              "DNA Damage",
+              "Endoplasmic Reticulum Stress",
+              "Humans",
+              "Membrane Proteins",
+              "Mice",
+              "Mitochondrial Proteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28981117/"
+          },
+          {
+            "pmid": "30729704",
+            "title": "Chondroprotection of PPARα activation by WY14643 via autophagy involving Akt and ERK in LPS-treated mouse chondrocytes and osteoarthritis model.",
+            "abstract": "Autophagy maintains cellular homoeostasis. The enhancement of autophagy in chondrocytes could prevent osteoarthritis (OA) progression in articular cartilage. Peroxisome proliferator-activated receptor α (PPARα) activation may also protect articular chondrocytes against cartilage degradation in OA. However, whether the protective effect of activated PPARα is associated with autophagy induction in chondrocytes is not determined. In this study, we investigated the effect of PPARα activation by its agonist, WY14643, on the protein expression level of Aggrecan and ADAMTS5, and the protein expression level of autophagy biomarkers, including LC3B and P62, using Western blotting analysis in isolated mouse chondrocytes pre-treated with lipopolysaccharides (LPS, mimicking OA chondrocytes) with or without the autophagy inhibitor chloroquine diphosphate salt. Furthermore, Akt and ERK phosphorylation was detected in LPS-treated chondrocytes in response to WY14643. In addition, the effect of intra-a",
+            "journal": "Journal of cellular and molecular medicine",
+            "year": "2019",
+            "authors": [
+              "Zhou Yang",
+              "Chen Xiaolei",
+              "Qu Ning",
+              "Zhang Bing",
+              "Xia Chun"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticholesteremic Agents",
+              "Autophagy",
+              "Cartilage, Articular",
+              "Chondrocytes",
+              "Disease Models, Animal",
+              "Gene Expression Regulation",
+              "Lipopolysaccharides",
+              "MAP Kinase Signaling System",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30729704/"
+          },
+          {
+            "pmid": "25348033",
+            "title": "Hydroxychloroquine in patients with inflammatory and erosive osteoarthritis of the hands (OA TREAT): study protocol for a randomized controlled trial.",
+            "abstract": "Osteoarthritis (OA) is a heterogeneous group of conditions with disturbed integrity of articular cartilage and changes in the underlying bone. The pathogenesis of OA is multifactorial and not just a disease of older people. Hydroxychloroquine (HCQ) is a disease-modifying anti-rheumatic drug (DMARD) typically used for the treatment of various rheumatic and dermatologic diseases. Three studies of HCQ in OA, including one abstract and one letter, are available and use a wide variety of outcome measures in small patient populations. Despite initial evidence for good efficacy of HCQ, there has been no randomized, double-blind, and placebo-controlled trial in a larger patient group. In the European League Against Rheumatism (EULAR), evidence-based recommendations for the management of hand OA, HCQ was not included as a therapeutic option because of the current lack of randomized clinical trials.",
+            "journal": "Trials",
+            "year": "2014",
+            "authors": [
+              "Detert Jacqueline",
+              "Klaus Pascal",
+              "Listing Joachim",
+              "Höhne-Zimmer Vera",
+              "Braun Tanja"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase III",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Anti-Inflammatory Agents",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Antirheumatic Agents",
+              "Biomechanical Phenomena",
+              "Clinical Protocols",
+              "Disability Evaluation",
+              "Double-Blind Method",
+              "Germany",
+              "Hand Joints",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25348033/"
+          },
+          {
+            "pmid": "34215704",
+            "title": "Hydroxychloroquine in patients with inflammatory and erosive osteoarthritis of the hands: results of the OA-TREAT study-a randomised, double-blind, placebo-controlled, multicentre, investigator-initiated trial.",
+            "abstract": "Hand osteoarthritis (OA) is a condition characterised by cartilage degradation and frequently erosive changes. Analgesics and non-steroidal anti-inflammatory drugs are used for symptomatic relief but are often poorly tolerated or contraindicated. Previous publications suggest hydroxychloroquine (HCQ) as a possible treatment for hand OA. The OA-TREAT study aimed to investigate the efficacy and safety of HCQ in patients with inflammatory and erosive hand OA (EOA).",
+            "journal": "RMD open",
+            "year": "2021",
+            "authors": [
+              "Kedor Claudia",
+              "Detert Jacqueline",
+              "Rau Rolf",
+              "Wassenberg Siegfried",
+              "Listing Joachim"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Australia",
+              "Canada",
+              "Humans",
+              "Hydroxychloroquine",
+              "Osteoarthritis",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34215704/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "osteoarthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20osteoarthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pseudoachondroplasia",
+        "txgnn_score": 0.983288586139679,
+        "txgnn_rank": 3189,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "pseudoachondroplasia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20pseudoachondroplasia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Quinquaud's folliculitis decalvans",
+        "txgnn_score": 0.9821150302886964,
+        "txgnn_rank": 3380,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "39340420",
+            "title": "Hydroxychloroquine may be beneficial as an adjuvant therapy for folliculitis decalvans: a 5-year retrospective study with 49 patients.",
+            "abstract": "Folliculitis decalvans (FD) is a chronic and recurrent neutrophilic scarring alopecia that mostly affects the vertex scalp of young male patients. It manifests as painful alopecic lesions surrounded by pustules, tuftings and intense scalp fibrosis. However, the occurrence of less active or 'lichen planopilaris-like' forms of FD questions the exact role of Staphylococcus aureus in the pathogenic mechanism of this disease. The management of FD is very challenging, as relapses are frequent and prolonged use of combined antibiotics is often required. Recent evidence showed the presence of S. aureus and lymphocytic inflammation also in nonlesional FD scalp. This suggested the potential use of immunomodulating drugs such as hydroxychloroquine to better control the chronic inflammatory status of this -disease.",
+            "journal": "Clinical and experimental dermatology",
+            "year": "2025",
+            "authors": [
+              "Doche Isabella",
+              "Sotto Mirian N",
+              "Hordinsky Maria K",
+              "Melhado Isabela P",
+              "Gerlero Paula"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Folliculitis",
+              "Male",
+              "Retrospective Studies",
+              "Hydroxychloroquine",
+              "Adult",
+              "Alopecia",
+              "Middle Aged",
+              "Female",
+              "Young Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39340420/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "Quinquaud's folliculitis decalvans",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20Quinquaud%27s%20folliculitis%20decalvans"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Smouldering systemic mastocytosis",
+        "txgnn_score": 0.9804620742797852,
+        "txgnn_rank": 3650,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "Smouldering systemic mastocytosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20Smouldering%20systemic%20mastocytosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "telogen effluvium",
+        "txgnn_score": 0.9804392457008362,
+        "txgnn_rank": 3656,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "telogen effluvium",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20telogen%20effluvium"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia antibody deficiency",
+        "txgnn_score": 0.9801677465438844,
+        "txgnn_rank": 3695,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Chloroquine",
+          "disease": "alopecia antibody deficiency",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Chloroquine%20alopecia%20antibody%20deficiency"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Chloroquine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00608",
+    "name": "Chloroquine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Chloroquine"
+      },
+      "queried_at": "2026-03-24T15:47:38.153216",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Chloroquine"
+      },
+      "queried_at": "2026-03-24T15:47:38.161219",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Chloroquine"
+      },
+      "queried_at": "2026-03-24T15:47:39.172704",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:47:39.850791",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:47:43.304328",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:47:44.045161",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:47:46.666379",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-24T15:47:47.195221",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-24T15:47:50.702179",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-24T15:47:51.253192",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "rheumatoid nodulosis"
+      },
+      "queried_at": "2026-03-24T15:47:54.686051",
+      "status": "success",
+      "result_count": 15,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-24T15:47:55.232935",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-24T15:47:58.598970",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-24T15:47:59.393448",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile chronic polyarthritis"
+      },
+      "queried_at": "2026-03-24T15:48:04.654206",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:48:05.101918",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:48:08.362360",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:48:08.913197",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "juvenile idiopathic arthritis"
+      },
+      "queried_at": "2026-03-24T15:48:13.038942",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-24T15:48:13.827004",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-24T15:48:16.953335",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-24T15:48:17.836754",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "osteoarthritis"
+      },
+      "queried_at": "2026-03-24T15:48:21.299895",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-24T15:48:21.792703",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-24T15:48:24.993313",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-24T15:48:25.695666",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "pseudoachondroplasia"
+      },
+      "queried_at": "2026-03-24T15:48:26.535145",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-24T15:48:26.936145",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-24T15:48:30.439145",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-24T15:48:31.094646",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Quinquaud's folliculitis decalvans"
+      },
+      "queried_at": "2026-03-24T15:48:33.209186",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:48:33.686142",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:48:37.001691",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:48:37.587047",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:48:38.444387",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-24T15:48:38.859004",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-24T15:48:46.436272",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-24T15:48:48.750764",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "telogen effluvium"
+      },
+      "queried_at": "2026-03-24T15:48:49.785396",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-24T15:48:50.414796",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-24T15:48:53.786118",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-24T15:48:54.358070",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Chloroquine",
+        "disease": "alopecia antibody deficiency"
+      },
+      "queried_at": "2026-03-24T15:48:55.346589",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:48:55.347717"
+  }
+}

@@ -1,0 +1,1047 @@
+{
+  "drug": {
+    "inn": "Rivaroxaban",
+    "drugbank_id": "DB06228",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "rheumatoid arthritis",
+        "txgnn_score": 0.9956676959991456,
+        "txgnn_rank": 1098,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "33141212",
+            "title": "Diagnosis and Treatment of Lower Extremity Venous Thromboembolism: A Review.",
+            "abstract": "Incidence rates for lower extremity deep vein thrombosis (DVT) range from 88 to 112 per 100 000 person-years and increase with age. Rates of recurrent VTE range from 20% to 36% during the 10 years after an initial event.",
+            "journal": "JAMA",
+            "year": "2020",
+            "authors": [
+              "Chopard Romain",
+              "Albertsen Ida Ehlers",
+              "Piazza Gregory"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Biomarkers",
+              "Factor Xa Inhibitors",
+              "Fibrin Fibrinogen Degradation Products",
+              "Humans",
+              "Life Style",
+              "Lower Extremity",
+              "Medical Illustration",
+              "Postthrombotic Syndrome",
+              "Predictive Value of Tests"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33141212/"
+          },
+          {
+            "pmid": "34175144",
+            "title": "[Thrombin generation assay in autoimmune disease].",
+            "abstract": "Thrombin generation assay (TGA) is a useful tool to evaluate the initiation, propagation and inhibition of coagulation. TGA is a global test that is used to assess hemorrhagic risk in hemophilia patients, but it can also be used to study hypercoagulable states. The interest of TGA is to screen for cardiovascular risk, which is regularly associated with autoimmune disease (AID) such as antiphospholipid syndrome. Indeed, TGA has been used to evaluate hypercoagulability in patients with antiphospholipid syndrome treated with rivaroxaban versus warfarin. In other AIDs without thrombotic events, TGA measurement is elevated, mainly in rheumatoid arthritis (RA), systemic lupus erythematosus and Behçet's disease. These findings in RA are correlated with the inflammatory activity of the disease. In systemic lupus erythematosus and Behçet's disease, TGA appears to reflect disease activity. In conclusion, TGA remains relatively under used in the clinical evaluation of AID, but it could play a gre",
+            "journal": "La Revue de medecine interne",
+            "year": "2021",
+            "authors": [
+              "Billoir P",
+              "Le Cam Duchez V",
+              "Miranda S",
+              "Richard V",
+              "Benhamou Y"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Antiphospholipid Syndrome",
+              "Autoimmune Diseases",
+              "Blood Coagulation",
+              "Humans",
+              "Rivaroxaban",
+              "Thrombin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34175144/"
+          },
+          {
+            "pmid": "29621248",
+            "title": "Adherence to rivaroxaban versus apixaban among patients with non-valvular atrial fibrillation: Analysis of overall population and subgroups of prior oral anticoagulant users.",
+            "abstract": "Medication non-adherence can result in poor health outcomes. Understanding differences in adherence rates to non-vitamin K oral anticoagulants (NOACs) could guide treatment decisions and improve clinical outcomes among patients with non-valvular atrial fibrillation (NVAF).",
+            "journal": "PloS one",
+            "year": "2018",
+            "authors": [
+              "McHorney Colleen A",
+              "Crivera Concetta",
+              "Laliberté François",
+              "Germain Guillaume",
+              "Wynant Willy"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anticoagulants",
+              "Atrial Fibrillation",
+              "Female",
+              "Humans",
+              "Male",
+              "Pyrazoles",
+              "Pyridones",
+              "Retrospective Studies",
+              "Rivaroxaban"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29621248/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "rheumatoid arthritis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20rheumatoid%20arthritis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "gout",
+        "txgnn_score": 0.9951175451278688,
+        "txgnn_rank": 1182,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "34210765",
+            "title": "Differential Reversible and Irreversible Interactions between Benzbromarone and Human Cytochrome P450s 3A4 and 3A5.",
+            "abstract": "Mounting evidence has revealed that despite the high degree of sequence homology between cytochrome P450 3A isoforms (i.e., CYP3A4 and CYP3A5), they have the propensities to exhibit vastly different irreversible and reversible interactions with a single substrate. We have previously established that benzbromarone (BBR), a potent uricosuric agent used in the management of gout, irreversibly inhibits CYP3A4 via mechanism-based inactivation (MBI). However, it remains unelucidated if CYP3A5-its highly homologous counterpart-is susceptible to inactivation by BBR. Using three structurally distinct probe substrates, we consistently demonstrated that MBI was not elicited in CYP3A5 by BBR. Our in silico covalent docking models and molecular dynamics simulations suggested that disparities in the susceptibilities toward MBI could be attributed to the specific effects of BBR covalent adducts on the F-F' loop. Serendipitously, we also discovered that BBR reversibly activated CYP3A5-mediated rivarox",
+            "journal": "Molecular pharmacology",
+            "year": "2021",
+            "authors": [
+              "Tang Lloyd Wei Tat",
+              "Verma Ravi Kumar",
+              "Yong Ren Ping",
+              "Li Xin",
+              "Wang Lili"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Benzbromarone",
+              "Binding Sites",
+              "Catalytic Domain",
+              "Crystallography, X-Ray",
+              "Cytochrome P-450 CYP3A",
+              "Cytochrome P-450 CYP3A Inhibitors",
+              "Humans",
+              "Hydroxylation",
+              "Inhibitory Concentration 50",
+              "Midazolam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34210765/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "gout",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20gout"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "HIV infectious disease",
+        "txgnn_score": 0.991666853427887,
+        "txgnn_rank": 1808,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00786422",
+            "title": "The EINSTEIN CYP Cohort Study Oral Direct Factor Xa Inhibitor Rivaroxaban in Patients With Acute Symptomatic Deep-vein Thrombosis or Pulmonary Embolism Using a Strong CYP 3A4 Inducer",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2009-05",
+            "completion_date": "2011-06",
+            "country": "Hungary, Brazil, Israel, Italy, South Africa, Austria, Australia, Germany, Netherlands",
+            "enrollment": 25,
+            "brief_summary": "This is a multicenter, cohort study evaluating an adapted rivaroxaban dose regimen in patients with acute, proximal deep-vein thrombosis (DVT) or acute pulmonary embolism (PE) who concomitantly use a strong cytochrome P450 isoenzyme 3A4 (CYP 3A4) inducer for the entire 3-month study duration.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Confirmed acute symptomatic proximal deep- vein thrombosis and/or pulmonary embolism\n* Concomitant use of a strong CYP 3A4 inducer, (i.e., carbamazepine, phenytoin, rifampicin/rifampin, and rifabutin)\n\nExclusion Criteria:\n\n* Legal lower age limitations (country specific)\n* Thr",
+            "endpoints": [
+              "Pharmacodynamics - Prothrombin Time (PT), Baseline Value",
+              "Pharmacodynamics - Prothrombin Time (PT), Slope",
+              "Pharmacokinetics - AUC(0-24)ss (Area Under the Measurement Versus Time Curve From Time 0 to 24 Hours After First Dosing on a Day at Steady State) of Rivaroxaban"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT00786422"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "39992678",
+            "title": "Comparative Bleeding Risk in Older Patients With HIV and Atrial Fibrillation Receiving Oral Anticoagulants.",
+            "abstract": "People living with HIV and atrial fibrillation (AF) often receive anticoagulation that may interact with their antiretroviral therapy (ART). No studies exist comparing the safety of oral anticoagulants in this population.",
+            "journal": "JAMA internal medicine",
+            "year": "2025",
+            "authors": [
+              "Quinlan Claire M",
+              "Avorn Jerry",
+              "Kesselheim Aaron S",
+              "Singer Daniel E",
+              "Zhang Yichi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Comparative Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Atrial Fibrillation",
+              "Female",
+              "Male",
+              "Aged",
+              "Anticoagulants",
+              "Rivaroxaban",
+              "Pyrazoles",
+              "Pyridones",
+              "HIV Infections"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39992678/"
+          },
+          {
+            "pmid": "36228641",
+            "title": "Colchicine and the combination of rivaroxaban and aspirin in patients hospitalised with COVID-19 (ACT): an open-label, factorial, randomised, controlled trial.",
+            "abstract": "COVID-19 disease is accompanied by a dysregulated immune response and hypercoagulability. The Anti-Coronavirus Therapies (ACT) inpatient trial aimed to evaluate anti-inflammatory therapy with colchicine and antithrombotic therapy with the combination of rivaroxaban and aspirin for prevention of disease progression in patients hospitalised with COVID-19.",
+            "journal": "The Lancet. Respiratory medicine",
+            "year": "2022",
+            "authors": [
+              "Eikelboom John W",
+              "Jolly Sanjit S",
+              "Belley-Cote Emilie P",
+              "Whitlock Richard P",
+              "Rangarajan Sumathy"
+            ],
+            "pub_types": [
+              "Randomized Controlled Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Adolescent",
+              "Adult",
+              "Rivaroxaban",
+              "Aspirin",
+              "Colchicine",
+              "Canada",
+              "Disease Progression",
+              "Oxygen",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36228641/"
+          },
+          {
+            "pmid": "35252829",
+            "title": "The Anti-Coronavirus Therapies (ACT) Trials: Design, Baseline Characteristics, and Challenges.",
+            "abstract": "Effective treatments for COVID-19 are urgently needed, but conducting randomized trials during the pandemic has been challenging.",
+            "journal": "CJC open",
+            "year": "2022",
+            "authors": [
+              "Eikelboom John",
+              "Rangarajan Sumathy",
+              "Jolly Sanjit S",
+              "Belley-Cote Emilie P",
+              "Whitlock Richard"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35252829/"
+          },
+          {
+            "pmid": "35138967",
+            "title": "Use of Apixaban in Atrial Fibrillation With Ritonavir-Boosted Antiretroviral Therapy: A Case Report.",
+            "abstract": "Purpose: Direct oral anticoagulants (DOACs) pose a challenge when given with potent CYP3A4 and P-gp inhibitors, such as the commonly prescribed pharmacokinetic booster ritonavir. As per the manufacturer, apixaban offers a dose reduction when administered concurrently with ritonavir; thus, we explore the clinical indication and safety of apixaban when given with ritonavir-boosted highly active antiretroviral therapy (HAART) in an HIV patient. Summary: We describe a 73-year-old male with extensive cardiac history, including a past medical history of resolved left ventricular thrombus, newly diagnosed non-valvular atrial fibrillation treated with warfarin, and HIV infection treated with ritonavir-boosted HAART. The patient presented to the emergency department with bleeding from multiple sites, necessitating the use of vitamin K. Consequently, his hospital course was complicated by episodes of minor bleeding and labile INR. Due to the complicated nature of his condition and the potential ",
+            "journal": "Journal of pharmacy practice",
+            "year": "2023",
+            "authors": [
+              "Lomakina Veronica",
+              "Sozio Stephen J",
+              "Tekle Jowana"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Male",
+              "Humans",
+              "Aged",
+              "Warfarin",
+              "Atrial Fibrillation",
+              "Anticoagulants",
+              "HIV Infections",
+              "Ritonavir",
+              "Stroke",
+              "Rivaroxaban"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35138967/"
+          },
+          {
+            "pmid": "32179901",
+            "title": "Utilization of Direct Oral Anticoagulants in People Living with Human Immunodeficiency Virus: Observational Data from the District of Columbia Cohort.",
+            "abstract": "Direct oral anticoagulants (DOACs) have become first-line treatment for venous thrombotic events. DOAC prescribing trends among people living with human immunodeficiency virus (PWH) are not well described. The coadministration of DOACs with the antiretroviral (ARV) pharmacokinetic boosters ritonavir (RTV) or cobicistat (COBI) may be complicated by pharmacokinetic interactions.",
+            "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+            "year": "2020",
+            "authors": [
+              "George Jomy M",
+              "Kuriakose Safia S",
+              "Monroe Anne",
+              "Hou Qingjiang",
+              "Byrne Morgan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, N.I.H., Intramural"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adolescent",
+              "Anticoagulants",
+              "Cohort Studies",
+              "District of Columbia",
+              "HIV",
+              "HIV Infections",
+              "Humans",
+              "Longitudinal Studies",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32179901/"
+          },
+          {
+            "pmid": "30975070",
+            "title": "Ritonavir- or cobicistat-boosted antiretroviral therapy and direct oral anticoagulants: A case for apixaban.",
+            "abstract": "The potential for drug-drug interactions (DDIs) between direct oral anticoagulants and antiretroviral therapy (ART) is vast. Ritonavir and cobicistat are used as pharmacokinetic enhancers with either concurrent protease inhibitors or the integrase strand transfer inhibitor, elvitegravir, to optimize therapeutic concentrations by cytochrome P450 (CYP) inhibition. To date, only rivaroxaban and dabigatran have reported cases of use with ritonavir-boosted ART. Apixaban is metabolized similarly to rivaroxaban, but offers a dose reduction in the case of major DDIs. We report the successful use of reduced-dose apixaban to treat and prevent thromboembolic complications in six persons living with human immunodeficiency virus (HIV) on ritonavir- or cobicistat-boosted ART. This case series and available literature support the use of apixaban or dabigatran, depending on the boosted ART regimen.",
+            "journal": "International journal of STD & AIDS",
+            "year": "2019",
+            "authors": [
+              "Nisly Sarah A",
+              "Stevens Brooke N"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anti-HIV Agents",
+              "Cobicistat",
+              "Drug Interactions",
+              "Factor Xa Inhibitors",
+              "HIV Infections",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Pyrazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30975070/"
+          },
+          {
+            "pmid": "24452338",
+            "title": "Gastrointestinal bleeding associated with rivaroxaban administration in a treated patient infected with human immunodeficiency virus.",
+            "abstract": "The use of rivaroxaban in fixed dosing regimens without need for routine coagulation monitoring may lead to the misconception that there is a minimal risk of drug-drug interactions. We describe the case of a patient infected with human immunodeficiency virus (HIV) on salvage therapy who developed gastrointestinal bleeding while receiving the standard dose of rivaroxaban for the prevention of venous thromboembolism after surgery. This case clearly sends a warning that protease inhibitors should not be co-administered with rivaroxaban. Furthermore, it highlights the importance of clinicians' caution about potential drug-drug interactions.",
+            "journal": "Swiss medical weekly",
+            "year": "2014",
+            "authors": [
+              "Lakatos Botond",
+              "Stoeckle Marcel",
+              "Elzi Luigia",
+              "Battegay Manuel",
+              "Marzolini Catia"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Ankle Fractures",
+              "Anticoagulants",
+              "Darunavir",
+              "Drug Interactions",
+              "Gastrointestinal Hemorrhage",
+              "HIV Infections",
+              "HIV Protease Inhibitors",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24452338/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "HIV infectious disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20HIV%20infectious%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "brachydactyly-syndactyly syndrome",
+        "txgnn_score": 0.9909520149230956,
+        "txgnn_rank": 1926,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "brachydactyly-syndactyly syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20brachydactyly-syndactyly%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+        "txgnn_score": 0.9895064234733582,
+        "txgnn_rank": 2125,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20colobomatous%20microphthalmia-rhizomelic%20dysplasia%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "sclerosing cholangitis",
+        "txgnn_score": 0.988810658454895,
+        "txgnn_rank": 2239,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "sclerosing cholangitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20sclerosing%20cholangitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "systemic mastocytosis",
+        "txgnn_score": 0.9881665110588074,
+        "txgnn_rank": 2351,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "systemic mastocytosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20systemic%20mastocytosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Smouldering systemic mastocytosis",
+        "txgnn_score": 0.9878488779067992,
+        "txgnn_rank": 2403,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "Smouldering systemic mastocytosis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20Smouldering%20systemic%20mastocytosis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "simian immunodeficiency virus infection",
+        "txgnn_score": 0.9867305755615234,
+        "txgnn_rank": 2611,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "simian immunodeficiency virus infection",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20simian%20immunodeficiency%20virus%20infection"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "feline acquired immunodeficiency syndrome",
+        "txgnn_score": 0.9867305755615234,
+        "txgnn_rank": 2612,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Rivaroxaban",
+          "disease": "feline acquired immunodeficiency syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Rivaroxaban%20feline%20acquired%20immunodeficiency%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Rivaroxaban",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB06228",
+    "name": "Rivaroxaban",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Rivaroxaban"
+      },
+      "queried_at": "2026-03-24T15:15:29.018401",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Rivaroxaban"
+      },
+      "queried_at": "2026-03-24T15:15:29.019036",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Rivaroxaban"
+      },
+      "queried_at": "2026-03-24T15:15:30.651990",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:15:31.046428",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:15:34.566583",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:15:35.614026",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "rheumatoid arthritis"
+      },
+      "queried_at": "2026-03-24T15:15:39.903571",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "gout"
+      },
+      "queried_at": "2026-03-24T15:15:40.499110",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "gout"
+      },
+      "queried_at": "2026-03-24T15:15:44.174838",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "gout"
+      },
+      "queried_at": "2026-03-24T15:15:44.875032",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "gout"
+      },
+      "queried_at": "2026-03-24T15:15:47.608611",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-24T15:15:48.299540",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-24T15:15:52.166628",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-24T15:15:53.298425",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "HIV infectious disease"
+      },
+      "queried_at": "2026-03-24T15:15:56.432934",
+      "status": "success",
+      "result_count": 7,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:15:57.224120",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:00.748589",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:01.530714",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "brachydactyly-syndactyly syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:02.720000",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:03.297295",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:06.719976",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:07.448979",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "colobomatous microphthalmia-rhizomelic dysplasia syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:08.497419",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "sclerosing cholangitis"
+      },
+      "queried_at": "2026-03-24T15:16:09.121666",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "sclerosing cholangitis"
+      },
+      "queried_at": "2026-03-24T15:16:12.463736",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "sclerosing cholangitis"
+      },
+      "queried_at": "2026-03-24T15:16:13.174105",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "sclerosing cholangitis"
+      },
+      "queried_at": "2026-03-24T15:16:14.229859",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:14.914000",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:19.949302",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:21.749929",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:24.197680",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:24.898986",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:28.903117",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:30.399826",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "Smouldering systemic mastocytosis"
+      },
+      "queried_at": "2026-03-24T15:16:31.309488",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T15:16:32.019556",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T15:16:35.782860",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T15:16:36.769141",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "simian immunodeficiency virus infection"
+      },
+      "queried_at": "2026-03-24T15:16:38.107508",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:39.225741",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:43.523202",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:44.518523",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Rivaroxaban",
+        "disease": "feline acquired immunodeficiency syndrome"
+      },
+      "queried_at": "2026-03-24T15:16:45.458414",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:16:45.459114"
+  }
+}

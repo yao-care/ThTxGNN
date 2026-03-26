@@ -1,0 +1,2875 @@
+{
+  "drug": {
+    "inn": "Gabapentin",
+    "drugbank_id": "DB00996",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "acne (disease)",
+        "txgnn_score": 0.9846289157867432,
+        "txgnn_rank": 2961,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "22278969",
+            "title": "Unusual case of a swollen painful toe in a young man.",
+            "abstract": "",
+            "journal": "Arthritis care & research",
+            "year": "2012",
+            "authors": [
+              "Jones Jonathan D",
+              "Albert Daniel A",
+              "Thadani Vijay",
+              "Rigby William F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Clinical Conference",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Adult",
+              "Amines",
+              "Analgesics, Opioid",
+              "Anti-Bacterial Agents",
+              "Arthritis",
+              "Complex Regional Pain Syndromes",
+              "Cyclohexanecarboxylic Acids",
+              "Diagnosis, Differential",
+              "Doxycycline"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22278969/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "acne (disease)",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20acne%20%28disease%29"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "adolescent/adult onset autosomal dominant epilepsy with auditory features",
+        "txgnn_score": 0.9594225883483888,
+        "txgnn_rank": 6002,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "adolescent/adult onset autosomal dominant epilepsy with auditory features",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20adolescent/adult%20onset%20autosomal%20dominant%20epilepsy%20with%20auditory%20features"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "epilepsy with generalized tonic-clonic seizures",
+        "txgnn_score": 0.9456365704536438,
+        "txgnn_rank": 7203,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00537940",
+            "title": "A Randomized, Double-blind, Parallel-group Multi-center Comparative Flexible-dose Trial Of Pregabalin Versus Gabapentin As Adjunctive Therapy In Subjects With Partial Seizures.",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2008-02",
+            "completion_date": "2013-07",
+            "country": "El Salvador, Costa Rica, Peru, Guatemala",
+            "enrollment": 482,
+            "brief_summary": "To compare the efficacy of pregabalin and gabapentin, as adjunctive therapy in subjects with partial seizures.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects (male or female) must be \\> 18 years or ≤ 80 years of age, with a diagnosis of epilepsy with partial seizures, as defined in the International League Against Epilepsy (ILAE) classification of seizures; partial seizures may be simple or complex, with or without seconda",
+            "endpoints": [
+              "Percent Change From Baseline in 28-day Seizure Frequency at Week 21."
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00537940"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07443241",
+            "title": "Gender-specific Differences in the Etiology, Diagnosis, Treatment and Outcome of Status Epilepticus",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2010-12-16",
+            "completion_date": "2024-03-27",
+            "country": "N/A",
+            "enrollment": 779,
+            "brief_summary": "Sex-specific differences in neurological emergencies such as Status epilepticus (SE) remain understudied despite growing recognition of gender disparities in medicine. This study aimes to investigate sex-related differences in etiology, diagnostics, treatment, and outcomes among patients with SE. The investigators conducted a retrospective analysis of 779 patients treated with SE at Marburg University Hospital between 2011 and 2023.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients who were treated at Marburg University Hospital (UKGM Marburg) between January 2011 to March 2023 with diagnosis of SE\n\nExclusion Criteria:\n\n* children",
+            "endpoints": [
+              "Age at SE Onset",
+              "Diagnosis of SE Subtype",
+              "Semiology: Focal vs. Generalized"
+            ],
+            "sponsor": "University Hospital Marburg",
+            "url": "https://clinicaltrials.gov/study/NCT07443241"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "37370556",
+            "title": "Gabapentin: Clinical Use and Pharmacokinetics in Dogs, Cats, and Horses.",
+            "abstract": "Gabapentin is an anticonvulsant drug, which presents an established clinical efficacy in human patients for the management of refractory partial seizures, secondarily generalized tonic-clonic seizures, and for the control of chronic neuropathic pain. Gabapentin was synthesized as a structural analogue of the inhibitory neurotransmitter GABA, with GABA-mimetic effects, able to cross the blood-brain barrier. In veterinary medicine, is extra-label used in combination with other treatments to control seizures when other drugs are no longer effective or become toxic or for neuropathic pain treatment and anxiety. This review aimed to clarify gabapentin use and pharmacokinetic aspects to promote conscious use in dogs, cats, and horses. In dogs, gabapentin was beneficial in the treatment of epilepsy, as well as chronic, neuropathic, and post-operative pain, as well as anxiety. In cats, it showed efficacy in post-ovariohysterectomy-related pain and in anxiety management. In horses, gabapentin h",
+            "journal": "Animals : an open access journal from MDPI",
+            "year": "2023",
+            "authors": [
+              "Di Cesare Federica",
+              "Negro Viviana",
+              "Ravasio Giuliano",
+              "Villa Roberto",
+              "Draghi Susanna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37370556/"
+          },
+          {
+            "pmid": "29097018",
+            "title": "Antiepileptic Drugs and Liver Disease.",
+            "abstract": "Acute, symptomatic seizures or epilepsy may complicate the course of hepatic disease. Choosing the most appropriate antiepileptic drug in this setting represents a difficult challenge, as most medications are metabolized by the liver. This article focuses on the acute and chronic treatment of seizures in patients with advanced liver disease and reviews the hepatotoxic potential of specific antiepileptic drugs. Newer antiepileptic drugs without, or with minimal, hepatic metabolism, such as levetiracetam, lacosamide, topiramate, gabapentin, and pregabalin should be used as first-line therapy. Medications undergoing extensive hepatic metabolism, such as valproic acid, phenytoin, and felbamate should be used as drugs of last resort. In special circumstances, as in patients affected by acute intermittent porphyria, exposure to most antiepileptic drugs could precipitate attacks. In this clinical scenario, bromides, levetiracetam, gabapentin, and vigabatrin constitute safe choices. For the tr",
+            "journal": "Pediatric neurology",
+            "year": "2017",
+            "authors": [
+              "Vidaurre Jorge",
+              "Gedela Satyanarayana",
+              "Yarosz Shannon"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Epilepsy",
+              "Humans",
+              "Liver Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29097018/"
+          },
+          {
+            "pmid": "32120063",
+            "title": "Mechanisms of action of currently used antiseizure drugs.",
+            "abstract": "Antiseizure drugs (ASDs) prevent the occurrence of seizures; there is no evidence that they have disease-modifying properties. In the more than 160 years that orally administered ASDs have been available for epilepsy therapy, most agents entering clinical practice were either discovered serendipitously or with the use of animal seizure models. The ASDs originating from these approaches act on brain excitability mechanisms to interfere with the generation and spread of epileptic hyperexcitability, but they do not address the specific defects that are pathogenic in the epilepsies for which they are prescribed, which in most cases are not well understood. There are four broad classes of such ASD mechanisms: (1) modulation of voltage-gated sodium channels (e.g. phenytoin, carbamazepine, lamotrigine), voltage-gated calcium channels (e.g. ethosuximide), and voltage-gated potassium channels [e.g. retigabine (ezogabine)]; (2) enhancement of GABA-mediated inhibitory neurotransmission (e.g. benz",
+            "journal": "Neuropharmacology",
+            "year": "2020",
+            "authors": [
+              "Sills Graeme J",
+              "Rogawski Michael A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticonvulsants",
+              "Calcium Channels",
+              "Epilepsy",
+              "Humans",
+              "Ion Channels",
+              "Potassium Channels, Voltage-Gated",
+              "Receptors, GABA-A",
+              "Voltage-Gated Sodium Channels"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32120063/"
+          },
+          {
+            "pmid": "17126531",
+            "title": "Pharmacology and mechanism of action of pregabalin: the calcium channel alpha2-delta (alpha2-delta) subunit as a target for antiepileptic drug discovery.",
+            "abstract": "Pregabalin (Lyrica) is a new antiepileptic drug that is active in animal seizure models. Pregabalin is approved in US and Europe for adjunctive therapy of partial seizures in adults, and also has been approved for the treatment of pain from diabetic neuropathy or post-herpetic neuralgia in adults. Recently, it has been approved for treatment of anxiety disorders in Europe. Pregabalin is structurally related to the antiepileptic drug gabapentin and the site of action of both drugs is similar, the alpha2-delta (alpha2-delta) protein, an auxiliary subunit of voltage-gated calcium channels. Pregabalin subtly reduces the synaptic release of several neurotransmitters, apparently by binding to alpha2-delta subunits, and possibly accounting for its actions in vivo to reduce neuronal excitability and seizures. Several studies indicate that the pharmacology of pregabalin requires binding to alpha2-delta subunits, including structure-activity analyses of compounds binding to alpha2-delta subunits",
+            "journal": "Epilepsy research",
+            "year": "2007",
+            "authors": [
+              "Taylor Charles P",
+              "Angelotti Timothy",
+              "Fauman Eric"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amines",
+              "Amino Acid Sequence",
+              "Animals",
+              "Anticonvulsants",
+              "Calcium Channels",
+              "Cyclohexanecarboxylic Acids",
+              "Disease Models, Animal",
+              "Epilepsies, Partial",
+              "Epilepsy, Tonic-Clonic",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17126531/"
+          },
+          {
+            "pmid": "28931473",
+            "title": "Psychiatric and behavioral side effects of antiepileptic drugs in adults with epilepsy.",
+            "abstract": "Psychiatric and behavioral side effects (PBSEs) are common, undesirable effects associated with antiepileptic drug (AED) use. The objective of the study was to compare the PBSE profiles of older and newer AEDs in a large specialty practice-based sample of patients diagnosed with epilepsy.",
+            "journal": "Epilepsy & behavior : E&B",
+            "year": "2017",
+            "authors": [
+              "Chen Baibing",
+              "Choi Hyunmi",
+              "Hirsch Lawrence J",
+              "Katz Austen",
+              "Legge Alexander"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticonvulsants",
+              "Drug Resistant Epilepsy",
+              "Drug Tolerance",
+              "Drug-Related Side Effects and Adverse Reactions",
+              "Epilepsy",
+              "Epilepsy, Absence",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28931473/"
+          },
+          {
+            "pmid": "31912315",
+            "title": "Therapeutic Drug Monitoring of Antiepileptic Drugs in Women with Epilepsy Before, During, and After Pregnancy.",
+            "abstract": "During pregnancy, the pharmacokinetics of an antiepileptic drug is altered because of changes in the clearance capacity and volume of distribution. These changes may have consequences for the frequency of seizures during pregnancy and fetal exposure to antiepileptic drugs. In 2009, a review was published providing guidance for the dosing and therapeutic drug monitoring of antiepileptic drugs during pregnancy. Since that review, new drugs have been licensed and new information about existing drugs has been published. With this review, we aim to provide an updated narrative overview of changes in the pharmacokinetics of antiepileptic drugs in women during pregnancy. In addition, we aim to formulate advice for dose modification and therapeutic drug monitoring of antiepileptic drugs. We searched PubMed and the available literature on the pharmacokinetic changes of antiepileptic drugs and seizure frequency during pregnancy published between January 2007 and September 2018. During pregnancy,",
+            "journal": "Clinical pharmacokinetics",
+            "year": "2020",
+            "authors": [
+              "Arfman Inge J",
+              "Wammes-van der Heijden Elisabeth A",
+              "Ter Horst Peter G J",
+              "Lambrechts Danielle A",
+              "Wegner Ilse"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Drug Monitoring",
+              "Epilepsy",
+              "Female",
+              "Humans",
+              "Postpartum Period",
+              "Pregnancy",
+              "Pregnancy Complications",
+              "Pregnancy Trimesters",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31912315/"
+          },
+          {
+            "pmid": "35363878",
+            "title": "Antiepileptic drug monotherapy for epilepsy: a network meta-analysis of individual participant data.",
+            "abstract": "This is an updated version of the original Cochrane Review published in 2017. Epilepsy is a common neurological condition with a worldwide prevalence of around 1%. Approximately 60% to 70% of people with epilepsy will achieve a longer-term remission from seizures, and most achieve that remission shortly after starting antiepileptic drug treatment. Most people with epilepsy are treated with a single antiepileptic drug (monotherapy) and current guidelines from the National Institute for Health and Care Excellence (NICE) in the United Kingdom for adults and children recommend carbamazepine or lamotrigine as first-line treatment for focal onset seizures and sodium valproate for generalised onset seizures; however, a range of other antiepileptic drug (AED) treatments are available, and evidence is needed regarding their comparative effectiveness in order to inform treatment choices.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2022",
+            "authors": [
+              "Nevitt Sarah J",
+              "Sudell Maria",
+              "Cividini Sofia",
+              "Marson Anthony G",
+              "Tudur Smith Catrin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Network Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Child",
+              "Humans",
+              "Anticonvulsants",
+              "Epilepsies, Partial",
+              "Epilepsy",
+              "Phenytoin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35363878/"
+          },
+          {
+            "pmid": "19445769",
+            "title": "Epilepsy.",
+            "abstract": "About 3% of people will be diagnosed with epilepsy during their lifetime, but about 70% of people with epilepsy eventually go into remission.",
+            "journal": "BMJ clinical evidence",
+            "year": "2009",
+            "authors": [
+              "Marson Anthony G",
+              "Maguire Melissa",
+              "Ramaratnam Sridharan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Clinical Trials as Topic",
+              "Cost-Benefit Analysis",
+              "Drug Resistant Epilepsy",
+              "Epilepsies, Partial",
+              "Epilepsy",
+              "Epilepsy, Generalized",
+              "Humans",
+              "Seizures"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19445769/"
+          },
+          {
+            "pmid": "8784216",
+            "title": "Gabapentin.",
+            "abstract": "The amino acid antiepileptic drug (AED) gabapentin (GBP) is indicated for adjunctive use in the treatment of partial seizures with or without becoming secondarily generalized in individuals older than 12 years. GBP was about as potent as phenytoin in the maximal electroshock test, but had a different profile of efficacy than standard antiepileptics in a range of animal models. Possible mechanisms of action include biochemical effects enhancing the ratio of gamma-aminobutyric acid (GABA) to glutamate, ion-channel actions (direct or indirect), and/ or enhancement of nonsynaptic GABA release. The anticonvulsant effect appears to depend on concentration of gabapentin in neurons, presumably by the L-system amino acid transporter that has been implicated in absorption from the gut. Data from studies for U.S. Food and Drug Administration (FDA) approval suggested a direct relationship of clinical response to dose and efficacy did not plateau at the doses used. The maximally effective dose, rel",
+            "journal": "Epilepsia",
+            "year": "1995",
+            "authors": [
+              "McLean M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Adult",
+              "Amines",
+              "Animals",
+              "Anticonvulsants",
+              "Child",
+              "Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Disease Models, Animal",
+              "Dose-Response Relationship, Drug"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8784216/"
+          },
+          {
+            "pmid": "29898971",
+            "title": "Practice guideline update summary: Efficacy and tolerability of the new antiepileptic drugs I: Treatment of new-onset epilepsy: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Epilepsy Society.",
+            "abstract": "To update the 2004 American Academy of Neurology (AAN) guideline for treating new-onset focal or generalized epilepsy with second- and third-generation antiepileptic drugs (AEDs).",
+            "journal": "Neurology",
+            "year": "2018",
+            "authors": [
+              "Kanner Andres M",
+              "Ashman Eric",
+              "Gloss David",
+              "Harden Cynthia",
+              "Bourgeois Blaise"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticonvulsants",
+              "Child",
+              "Epilepsies, Partial",
+              "Epilepsy, Absence",
+              "Epilepsy, Generalized",
+              "Humans",
+              "Seizures"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29898971/"
+          },
+          {
+            "pmid": "8039476",
+            "title": "Gabapentin: discussion.",
+            "abstract": "Gabapentin (GBP, Neurontin) is a novel antiepileptic drug (AED) that was shown to be effective against refractory partial seizures in five placebo-controlled trials. However, a number of patients with complex partial seizures experienced an increase in seizure frequency, suggesting that patients suffering from complex partial seizures are not a homogeneous group. In fact, we found that currently available AEDs are likely to be ineffective when staring is a prominent component of complex partial seizures. The poor response of this group of patients may reflect the fact that staring spells are inhibitory seizures and that the AEDs prescribed for partial seizures appear to facilitate inhibitory mechanisms. GBP resembles phenytoin (PHT) and carbamazepine (CBZ) in depressing segmental and reticular excitatory mechanisms and facilitating segmental inhibitory mechanisms, just as it resembles PHT and CBZ in efficacy against some partial seizures and against secondarily generalized seizures. Pe",
+            "journal": "Epilepsia",
+            "year": "1994",
+            "authors": [
+              "Fromm G H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Anticonvulsants",
+              "Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Drugs, Investigational",
+              "Epilepsies, Partial",
+              "Epilepsy, Absence",
+              "Epilepsy, Complex Partial",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8039476/"
+          },
+          {
+            "pmid": "30131174",
+            "title": "Antidepressants in epilepsy.",
+            "abstract": "People with epilepsy (PWE) frequently suffer from comorbid mood and anxiety disorders. Depression is one of the major psychiatric comorbidities having a negative impact on the quality of life in people with epilepsy. A review of the literature indicates that the majority of antidepressant-related seizures have been associated with either ultra-high doses or overdosing and, generally, the risk of antidepressant-associated seizures is low. Correspondingly, there is some evidence indicating that antidepressants of most widely used groups may additionally lower the risk of triggering seizures. Four antidepressants are not recommended for patients with epilepsy, i.e.: amoxapine, bupropion, clomipramine and maprotiline. Clinicians applying first line of depression treatment in patients with epilepsy should consider use of SSRIs or SNRIs, particularly sertraline, citalopram, mirtazapine, reboxetine, paroxetine, fluoxetine, escitalopram, fluvoxamine, venlafaxine, duloxetine. Implementation of ",
+            "journal": "Neurologia i neurochirurgia polska",
+            "year": "2018",
+            "authors": [
+              "Górska Natalia",
+              "Słupski Jakub",
+              "Cubała Wiesław Jerzy",
+              "Wiglusz Mariusz Stanisław",
+              "Gałuszko-Węgielnik Maria"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Citalopram",
+              "Epilepsy",
+              "Humans",
+              "Quality of Life",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30131174/"
+          },
+          {
+            "pmid": "10530696",
+            "title": "Gabapentin.",
+            "abstract": "Gabapentin (GBP) is a antiepileptic drug (AED) indicated as adjunct therapy for treatment of partial seizures, with and without secondary generalization, in patients 12 and older with epilepsy. GBP (1-(aminomethyl) cyclohexaneacetic acid) is structurally related to gamma-aminobutyric acid (GABA), which readily crosses the blood-brain barrier. Radiolabeled GBP binds throughout the central nervous system in anatomic areas important in treatment of seizures. Its precise mechanism of action is unknown. An open-label, dose-ranging study of doses up to 1,800 mg produced > or =50% seizure reductions [responder rate (RR)] in 29% of patients with partial seizures. Three double-blind, placebo-controlled, parallel add-on trials at doses of 300-1,800 mg have produced RR of up to 28%, with a placebo RR of 8-10%. An active controlled, parallel group comparison of 600 mg to 2,400 mg in monotherapy conversion design showed no significant difference among the 600 mg, 1,200 mg, and 2,400 mg groups compa",
+            "journal": "Epilepsia",
+            "year": "1999",
+            "authors": [
+              "Morris G L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Anticonvulsants",
+              "Controlled Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Dizziness",
+              "Drug Monitoring",
+              "Epilepsy",
+              "Gabapentin",
+              "Headache"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10530696/"
+          },
+          {
+            "pmid": "33956338",
+            "title": "Neurocognitive Effects of Antiseizure Medications in Children and Adolescents with Epilepsy.",
+            "abstract": "Impairments in cognition are common in epilepsy and may be caused or exacerbated by antiseizure medications (ASMs). Positive effects on cognition may also be seen with some ASMs. Cognitive outcomes are of particular concern in children who may be at an increased risk of cognitive adverse effects of treatment. A comprehensive literature search was conducted in PubMed in order to evaluate the evidence for cognitive changes associated with treatment with ASMs in paediatric epilepsy patients. The ASMs considered were those in the current edition of the British National Formulary (BNF). For most ASMs, remarkably few studies providing robust data on cognitive effects in paediatric patients were identified. The available evidence suggests cognitive impairments may be associated with treatment with phenobarbital. Topiramate and phenytoin are also associated with negative effects on cognition, in particular word-finding difficulties and other language deficits with topiramate, but there are few",
+            "journal": "Paediatric drugs",
+            "year": "2021",
+            "authors": [
+              "Besag Frank M C",
+              "Vasey Michael J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anticonvulsants",
+              "Child",
+              "Epilepsy",
+              "Humans",
+              "Neurocognitive Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33956338/"
+          },
+          {
+            "pmid": "9775509",
+            "title": "Antiepileptic drug therapy.",
+            "abstract": "Successful treatment of seizure disorders in small animals requires proper patient assessment, understanding the principles of antiepileptic drug (AED) therapy, designing a strategy for pharmacotherapy, and plans for emergency treatment. Several levels of assessment are needed in managing an epileptic patient to include the diagnosis, effectiveness of therapy, and health-related quality of life assessments. Three levels of diagnosis are important in determining the appropriate AED therapy: 1) confirmation that an epileptic seizure has occurred, and if so, the seizure type(s) manifested; 2) diagnosis of the seizure etiology; and 3) determination of an epileptic syndrome. Monotherapy is the initial goal of treating any cat or dog with epilepsy to reduce possible drug-drug interactions and adverse effects. Unfortunately, many of the AEDs useful in people cannot be prescribed to small animals either due to inappropriate pharmacokinetics (too rapid of an elimination), and potential hepatoto",
+            "journal": "Clinical techniques in small animal practice",
+            "year": "1998",
+            "authors": [
+              "Podell M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Animals",
+              "Anticonvulsants",
+              "Bromides",
+              "Cat Diseases",
+              "Cats",
+              "Cyclohexanecarboxylic Acids",
+              "Diazepam",
+              "Dog Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9775509/"
+          },
+          {
+            "pmid": "8951214",
+            "title": "Gabapentin.",
+            "abstract": "Gabapentin is a novel antiepileptic drug that has recently been introduced in Canada. Although its mechanism of action remains to be defined gabapentin is effective in a number of seizure models which predict its efficacy in partial and tonic-clonic seizures. Clinical studies support the clinical efficacy of gabapentin as adjunctive therapy in adults with epilepsy with partial and secondarily generalized tonic-clonic seizures. Gabapentin has a favorable pharmacokinetic profile and is generally well tolerated. More clinical data are required on the role of gabapentin in children and additional monotherapy experience is required before the role of gabapentin in the overall treatment of epilepsy can be better defined.",
+            "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+            "year": "1996",
+            "authors": [
+              "Bruni J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Anticonvulsants",
+              "Cyclohexanecarboxylic Acids",
+              "Epilepsy",
+              "Gabapentin",
+              "Humans",
+              "gamma-Aminobutyric Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8951214/"
+          },
+          {
+            "pmid": "33117274",
+            "title": "Neurosteroids and Seizure Activity.",
+            "abstract": "Still circa 25% to 30% of patients with epilepsy cannot be efficiently controlled with available antiepileptic drugs so newer pharmacological treatment options have been continuously searched for. In this context, a group of endogenous or exogenous neurosteroids allosterically positively modulating GABA-A receptors may offer a promising approach. Among endogenous neurosteroids synthesized in the brain, allopregnanolone or allotetrahydrodeoxycorticosterone have been documented to exert anticonvulsant activity in a number of experimental models of seizures-pentylenetetrazol-, bicuculline- pilocarpine-, or 6 Hz-induced convulsions in rodents. Neurosteroids can also inhibit fully kindled seizures and some of them have been reported to counteract maximal electroshock-induced convulsions. An exogenous neurosteroid, alphaxalone, significantly elevated the threshold for maximal electroconvulsions in mice but it did not potentiate the anticonvulsive action of a number of conventional antiepilep",
+            "journal": "Frontiers in endocrinology",
+            "year": "2020",
+            "authors": [
+              "Miziak Barbara",
+              "Chrościńska-Krawczyk Magdalena",
+              "Czuczwar Stanisław J"
+            ],
+            "pub_types": [
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Allosteric Regulation",
+              "Animals",
+              "Anticonvulsants",
+              "Epilepsy",
+              "GABA-A Receptor Agonists",
+              "Humans",
+              "Neurosteroids",
+              "Seizures",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33117274/"
+          },
+          {
+            "pmid": "7747611",
+            "title": "[New antiepileptic medications].",
+            "abstract": "Progress made in the development of new antiepileptics (AEs) is justified by the high percentage of refractory patients to the available medical therapy (25%), although only a minority of cases are deemed suitable for surgical therapy. Yet, the ideal AE, that is, with a well-known mechanism of action, effective in monotherapy for all epileptic fits, with a perfect pharmacokinetic profile, with no adverse or teratogenic effects, with no drug interactions and available under many formulations, is far from being developed. The new AEs arise either from modification of already marked drug molecules or clinical formulations or from the effectiveness on the excitatory/inhibitory balance of the major neurotransmitters involved in the pathogenesis of seizures, the gamma-amino-butyric acid (GABA) as the inhibitory, and the glutamate (GLU) as the excitatory one. However, the mechanism remains unknown in a few of them. Those new AEs already marketed in Portugal (Vigabatrin), soon to be (Lamotrigi",
+            "journal": "Acta medica portuguesa",
+            "year": "1995",
+            "authors": [
+              "Pimentel J",
+              "Pinto F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Anticonvulsants",
+              "Carbamazepine",
+              "Cyclohexanecarboxylic Acids",
+              "Epilepsy",
+              "Gabapentin",
+              "Humans",
+              "Isoxazoles",
+              "Lamotrigine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7747611/"
+          },
+          {
+            "pmid": "25933984",
+            "title": "Prospects of epileptogenesis prevention.",
+            "abstract": "Epilepsy is a common neurologic disease, affecting about 1-2% of the population. In around 30% of patients with epilepsy, their seizures are not satisfactorily controlled and drug-resistant epilepsy constitutes a real therapeutic challenge. Consequently, there are efforts aimed at the inhibition of epileptogenesis, a process of converting a normal into an epileptic brain. Data on this problem have been mainly obtained in post-status epilepticus rodent models in which spontaneous seizure activity and behavioral disturbances develop over time. Among antiepileptic drugs, diazepam at high dose of 20mg/kg given during status epilepticus, significantly inhibited the development of spontaneous seizures and also, a strong neuroprotective effect was evident. Also gabapentin and valproate (over a period of 40 days) proved effective in the inhibition of spontaneous seizure activity and reduction of behavioral deficit. However, there are also data that valproate (over 28 days) significantly improv",
+            "journal": "Pharmacological reports : PR",
+            "year": "2015",
+            "authors": [
+              "Radzik Iwona",
+              "Miziak Barbara",
+              "Dudka Jarosław",
+              "Chrościńska-Krawczyk Magdalena",
+              "Czuczwar Stanisław J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anticonvulsants",
+              "Brain",
+              "Epilepsy",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25933984/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "epilepsy with generalized tonic-clonic seizures",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20epilepsy%20with%20generalized%20tonic-clonic%20seizures"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "myofascial pain syndrome",
+        "txgnn_score": 0.9296772480010986,
+        "txgnn_rank": 8604,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03207828",
+            "title": "\"Eficacia de la Terapia de activación Conductual Para Pacientes Con Dolor crónico: Ensayo clínico Randomizado\"",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2017-09-09",
+            "completion_date": "2019-05-31",
+            "country": "Chile",
+            "enrollment": 90,
+            "brief_summary": "Chronic pain is a major health problem. It causes high economic and social costs around the world and severely impairs the quality of life of those who suffer from it. Chronic pain and major depression frequently co-occur. Patients with both conditions have a worse prognosis and higher disability, and their treatment options are scarce. Behavioral activation (BA) may be an especially useful intervention for these patients. This intervention targets mechanisms of action that seem to be common to ",
+            "eligibility_criteria": "Inclusion criteria:\n\n1. Being 18 years old or older\n2. Understanding Spanish\n3. Meeting the diagnostic criteria for fibromyalgia according to the Fibromyalgia Survey Questionnaire (FSQ)\n4. Have a primary diagnosis of major depression according to the MINI International Neuropsychiatric Interview (MI",
+            "endpoints": [
+              "Changes in depressive symptoms severity"
+            ],
+            "sponsor": "Pontificia Universidad Catolica de Chile",
+            "url": "https://clinicaltrials.gov/study/NCT03207828"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00057278",
+            "title": "Gabapentin in Fibromyalgia Trial (GIFT)",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-03",
+            "completion_date": "2006-01",
+            "country": "United States",
+            "enrollment": 150,
+            "brief_summary": "This study will assess the safety and effectiveness of the drug gabapentin in reducing pain associated with primary fibromyalgia.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Primary fibromyalgia as defined by the American College of Rheumatology (ACR)\n* Score greater than 4 on the average pain item of the BPI at screening\n* Ability to understand and cooperate with study procedures\n* Acceptable methods of contraception\n\nExclusion Criteria:\n\n* Unwil",
+            "endpoints": [
+              "Brief Pain Inventory (BPI) average pain item"
+            ],
+            "sponsor": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (NIAMS)",
+            "url": "https://clinicaltrials.gov/study/NCT00057278"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04451252",
+            "title": "Observational Prospective Single Centre Study of the Response to Interventional Pain Management Techniques in Chronic Low Back Pain in Adults. 1 and 6 Months Follow-up. Multivariate Analysis of Predictors of Response. Predictive Model.",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2019-10-02",
+            "completion_date": "2022-12-30",
+            "country": "Spain",
+            "enrollment": 400,
+            "brief_summary": "The main aim of this study is to identify factors that may be associated with a better or worse response to interventional pain management therapies for the treatment of chronic lumbar pain in adult patients. If several predictive factors are to be identified, a predictive model will be developed.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients older than 18 years old with chronic lumbar pain to whom one of the following interventional pain management techniques has been indicated:\n* Radiofrequency lumbar facet joint injection\n* Radiofrequency lumbar facet joint denervation\n* Lumbar epidural corticosteroid i",
+            "endpoints": [
+              "Clinical response to IPMT after 4 weeks follow-up after the IPMT is performed (composite outcome)",
+              "Factors that may be associated with no response to the IPMT at 4 weeks follow-up.",
+              "Factors that may be associated with a positive response to the IPMT (PSR-4W or PMR-4W)."
+            ],
+            "sponsor": "Hospital General Universitario Gregorio Marañon",
+            "url": "https://clinicaltrials.gov/study/NCT04451252"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06465810",
+            "title": "A Non-interventional, Prospective, Multi-country Study Collecting Real-world Data on the Characteristics, Treatment Patterns, and Outcomes of Patients With Transthyretin (ATTR) Amyloidosis",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2024-06-25",
+            "completion_date": "2031-12-29",
+            "country": "China, United Kingdom, Spain, Canada, United States, Japan, Germany",
+            "enrollment": 1850,
+            "brief_summary": "The MaesTTRo study aims to enroll a global cohort of patients with transthyretin (ATTR) amyloidosis to longitudinally observe the natural course of the disease and describe real-world treatment patterns and outcomes. In addition, information on the effectiveness of ATTR amyloidosis treatments, including eplontersen, which is a ligand-conjugated antisense oligonucleotide gene silencing treatment targeting activity against both the mutant and wild-type TTR protein, will be collected.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patient willing and able to provide written informed consent to participate in the study\n* Confirmed diagnosis of amyloid transthyretin (ATTR) amyloidosis\n* Aged ≥18 years at the time of signing the informed consent\n* Patient willing and able to participate in collection of el",
+            "endpoints": [
+              "Demographic characteristics (overall and in patients initiating a treatment with eplontersen)",
+              "Treatment patterns (overall and in patients initiating a treatment with eplontersen)",
+              "Clinical characteristics (overall and in patients initiating a treatment with eplontersen)"
+            ],
+            "sponsor": "AstraZeneca",
+            "url": "https://clinicaltrials.gov/study/NCT06465810"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05436314",
+            "title": "The Effectiveness of Manual Lymphatic Drainage in Fibromyalgia Syndrome",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2022-07-25",
+            "completion_date": "2024-01-15",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 20,
+            "brief_summary": "There are limited studies on the use of Manual Lymphatic Drainage (MLD) in fibromyalgia syndrome. Considering the possible mechanisms of action of MLD and the pathophysiology of fibromyalgia, more studies are needed to fully determine the effect of MLD on this syndrome. The aim of this study was to investigate the effectiveness of manual lymphatic drainage on symptom severity, pain intensity, pressure pain threshold and anxiety about pain in fibromyalgia syndrome.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* have fibromyalgia as defined by the criteria of the 2016 ACR\n* have Turkish as their native language\n* between 18 and 65 years of age\n\nExclusion Criteria:\n\n* Having cognitive impairment\n* Receiving routine physiotherapy and/or manual therapy, alternative/complementary therapie",
+            "endpoints": [
+              "Fibromyalgia Impact Questionnaire (FIQ)",
+              "Pressure pain thresholds (PPT)",
+              "Visual Analogue Scale"
+            ],
+            "sponsor": "Kutahya Health Sciences University",
+            "url": "https://clinicaltrials.gov/study/NCT05436314"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04050839",
+            "title": "The Effectiveness of Pain Neuroscience Education in Patients with Fibromyalgia",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-09-15",
+            "completion_date": "2021-07-15",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 40,
+            "brief_summary": "Many patients with fibromyalgia have little understanding of their condition, leading to maladaptive pain cognitions and coping strategies. Current research has suggested the use of physiotherapy and rehabilitation in addition to cognitive patient education in the treatment of fibromyalgia syndrome. This study aimed to explore the effectiveness of pain neuroscience education in patients with fibromyalgia.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* have fibromyalgia as defined by the criteria of the 1990 ACR\n* have Turkish as their native language\n* between 18 and 65 years of age\n\nExclusion Criteria:\n\n* Having cognitive impairment\n* Receiving psychotherapy\n* Illiterate people\n* Patients with significant hearing loss",
+            "endpoints": [
+              "Fibromyalgia Impact Questionnaire (FIQ)",
+              "Pressure pain thresholds (PPT)",
+              "Tinel's Sign"
+            ],
+            "sponsor": "Kutahya Health Sciences University",
+            "url": "https://clinicaltrials.gov/study/NCT04050839"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02052414",
+            "title": "Open Labeled, Non-randomized, Study of Efficacy and Safety of Gralise in Fibromyalgia Patients.",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2012-07",
+            "completion_date": "2013-11",
+            "country": "United States",
+            "enrollment": 34,
+            "brief_summary": "To determine Gralise in treating fibromyalgia pain:\n\n* efficacy\n* safety",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subject must be 18 years and older.\n* Subject carries Fibromyalgia diagnosis based on American College of Rheumatology criteria.\n* Fibromyalgia patients who are gamma-aminobutyric acid (GABA)-analogue (gabapentin or pregabalin) naïve, or those who have been on gamma-aminobutyr",
+            "endpoints": [
+              "Numeric Pain Rating System (NPRS)"
+            ],
+            "sponsor": "The Center for Clinical Research, Winston-Salem, NC",
+            "url": "https://clinicaltrials.gov/study/NCT02052414"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02419443",
+            "title": "The Impact of Perioperative Gabapentin on Chronic Groin Pain After Inguinal Hernia Repair",
+            "phase": "PHASE4",
+            "status": "UNKNOWN",
+            "start_date": "2011-08",
+            "completion_date": "2016-09",
+            "country": "N/A",
+            "enrollment": 100,
+            "brief_summary": "A common source of morbidity after IHR is chronic groin pain(CGP), usually defined as pain lasting longer than 3 months. Gabapentin is an anticonvulsant that is also of benefit in the treatment of neuropathic pain. We propose a randomized, double-blind, placebo controlled study of the effect of gabapentin on CGP after IHR. Their pain will be assessed with a visual analogue scale. For those reporting pain, the need for pain medication, or other treatment, and the effect of pain on their quality o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male patients 18 years of age or older undergoing initial inguinal (bilateral or unilateral) hernia repair by any method (i.e. laparoscopic or open surgery)\n\nExclusion Criteria:\n\n* Age less than 18 years of age, recurrent hernias, emergency operations, already taking gabapenti",
+            "endpoints": [
+              "Pain score"
+            ],
+            "sponsor": "United States Naval Medical Center, San Diego",
+            "url": "https://clinicaltrials.gov/study/NCT02419443"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06237595",
+            "title": "Comparative Study Between the Outcome of Noninvasive Vagus Nerve Stimulation and Medical Treatment in Fibromyalgia Patients",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2023-09-30",
+            "completion_date": "2025-02-28",
+            "country": "Egypt",
+            "enrollment": 90,
+            "brief_summary": "Vagus nerve stimulation is thought to reduce sympathetic nerve outflow and so can improve sympathetic hyperactivity in fibromyalgia patients. We aimed in the current study, to evaluate the effect of the cervical transcutaneous vagus nerve stimulation in comparison to conventional medical treatment in Egyptian fibromyalgia patients.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients above 18 years, with a clinical diagnosis of fibromyalgia according to 2016 ACR fibromyalgia diagnostic criteria, will be included in this study.\n\nExclusion Criteria:\n\n* \\- Pregnant, and postmenopausal women.\n* Patients with any medical disorder including: card",
+            "endpoints": [
+              "Visual analogue scale 0-10",
+              "Symptom severity scale score",
+              "Widespread pain index"
+            ],
+            "sponsor": "Kasr El Aini Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06237595"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07348952",
+            "title": "Different Transcutaneous Electrical Nerve Stimulation Modes in Pudendal Neuralgia Post-prostatectomy",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2023-09-01",
+            "completion_date": "2025-03-01",
+            "country": "Egypt",
+            "enrollment": 60,
+            "brief_summary": "The purpose of this study was to evaluate the therapeutic efficacy of two different Transcutaneous Electrical Nerve Stimulation modes in improving the pudendal neuralgia and its intractable perineal pain.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients will be chosen after a routine medical examination.\n* All patients will be approximately the same age (from 50-60 years old).\n* All patients have chronic pudendal neuralgia post-prostatectomy surgery.\n* They have not take another physical therapy electro- modality exc",
+            "endpoints": [
+              "measurement of Serum cortisol level"
+            ],
+            "sponsor": "Cairo University",
+            "url": "https://clinicaltrials.gov/study/NCT07348952"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00938834",
+            "title": "A Randomized Controlled Trial Of Qigong For Treatment Of Fibromyalgia",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2009-08",
+            "completion_date": "2011-09",
+            "country": "Canada",
+            "enrollment": 100,
+            "brief_summary": "Fibromyalgia is a syndrome characterized by widespread musculoskeletal pain and hyperalgesia with a prevalence of 2-4% in the general population; it is often accompanied by fatigue, insomnia, anxiety, depression and other conditions. It is a difficult condition to treat, and only recently have drugs been approved by the FDA specifically for the treatment of this condition (Lyrica was approved in 2007, Duloxetine in 2008). There are now several clinical trials of drugs commonly used to treat neur",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age greater than or equal to 18 years\n* A diagnosis of fibromyalgia according to American College of Rheumatology criteria\n* Moderate to severe pain, as defined by an average 7-day pain score of greater than 4.0 on an 11-point numerical rating scale for pain intensity\n* Pain m",
+            "endpoints": [
+              "The primary outcome measure will be the change in mean daily pain diary score from baseline (average pain score over 7 days pre-treatment) to the final week of Qigong treatment."
+            ],
+            "sponsor": "Nova Scotia Health Authority",
+            "url": "https://clinicaltrials.gov/study/NCT00938834"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03037073",
+            "title": "Impact of Duloxetine on Succinylcholine-induced Postoperative Myalgia During Direct Microlaryngoscopic Surgeries: Randomized Controlled Double-blind Study",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2017-04-15",
+            "completion_date": "2019-11-30",
+            "country": "Egypt",
+            "enrollment": 70,
+            "brief_summary": "For \\>60 years, succinylcholine is still being administered as a selective relaxant for rapid sequence intubation by anesthesiologists in many countries. It has been shown to possess unique features such as low cost, fast-acting, short half-life, safe metabolites, and causing excellent muscle relaxation for intubation. It has many side effects as well. Postoperative myalgia (POM), with an incidence rate of \\~41%-92%, is one of the most common side effects of this drug and can take several days t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* age 20-60 years\n* either sex\n* ASA physical status I or II\n\nExclusion Criteria:\n\n* known allergy to duloxetine, abnormal renal and liver function tests, history of chronic pain\n* regular medication with SNRI or analgesics (excluding acetaminophen and nonsteroidal anti-inflamma",
+            "endpoints": [
+              "Four-point scale for myalgia"
+            ],
+            "sponsor": "Assiut University",
+            "url": "https://clinicaltrials.gov/study/NCT03037073"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04730934",
+            "title": "Evaluation of the Physical and Emotional Effects of the COVID-19 Pandemic on Fibromyalgia Patients",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2021-01-01",
+            "completion_date": "2021-02-25",
+            "country": "Turkey (Türkiye)",
+            "enrollment": 1360,
+            "brief_summary": "In this study, the effects of the symptoms related to the diseases of patients with fibromyalgia during the COVID-19 pandemic, their limitations in their social and business life, the need for different drugs, stress levels and the effect of the pandemic on the disease activity will be evaluated.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients aged between 18 and 65 years\n* patients who have low back pain lasting at least 3 months and started before pandemic\n* patients diagnosed with fibromyalgia for at least 6 months\n\nExclusion Criteria:\n\n* patients diagnosed with major depression\n* patients who have a his",
+            "endpoints": [
+              "Physical activity",
+              "Occupation conditions",
+              "General health condition"
+            ],
+            "sponsor": "Kars State Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT04730934"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01107574",
+            "title": "Phase III Study of the Use of Gabapentin and Osteopathic Manipulative Medicine to Treat Fibromyalgia",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-04",
+            "completion_date": "2010-04",
+            "country": "United States",
+            "enrollment": 41,
+            "brief_summary": "This study assesses the benefits of intervention with gabapentin, Osteopathic Manipulative Medicine or both for improvement of the symptoms of Fibromyalgia. This study also seeks to determine whether these treatments will decrease the number and severity of tender points, improve structure, function and the overall pain level of each patient from the baseline of the study to the end. This study is designed to evaluate whether subjects subjectively experience an improved quality of life and incre",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female or male patients were eligible for the study if they were 18-65 years of age and met the ACR criteria for fibromyalgia (\\[1\\]).\n\nExclusion Criteria:\n\n* Patients with other rheumatic or medical disorders that contributed to the symptoms of fibromyalgia were excluded.\n* R",
+            "endpoints": [
+              "Outcomes of Efficacy and Tolerability by measure of scored visual tools"
+            ],
+            "sponsor": "Good Samaritan Regional Medical Center, Oregon",
+            "url": "https://clinicaltrials.gov/study/NCT01107574"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05384210",
+            "title": "Effect of Milnacipran Versus Gabapentin or Combination of Both in Fibromyalgia Syndrome",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2022-06",
+            "completion_date": "2023-11",
+            "country": "Egypt",
+            "enrollment": 75,
+            "brief_summary": "Gabapentin and milnacipran (MLN) show strong evidence of reduced pain, increased sleep, and improvement in the quality of life in fibromyalgia (FM) patients.\n\nMost FM trials focus primarily on pain reduction with monotherapy. Polypharmacy is commonly used, but supportive evidence is limited.\n\nThe gabapentin-MLN combined therapy may be more effective in female patients with FM than their monotherapy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* There are no other criteria rather than age and sex\n\nExclusion Criteria:\n\n* Patient refusal.\n* Pregnancy or breastfeeding.\n* Active liver disease\n* Renal impairment (creatinine clearance \\< 60 mL/min).\n* Documented autoimmune disease.\n* Severe chronic obstructive pulmonary dis",
+            "endpoints": [
+              "Visual analogue scale (VAS) for pain"
+            ],
+            "sponsor": "Mansoura University",
+            "url": "https://clinicaltrials.gov/study/NCT05384210"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06672419",
+            "title": "Effectiveness of Tele-Rehabilitation for Fibromyalgia Using AI-Guided Exercise and Computer Vision Combined With Pain Neuroscience Education (FIBRO IA): A Randomized Controlled Trial",
+            "phase": "NA",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-02-01",
+            "completion_date": "2026-08-01",
+            "country": "Chile, Colombia",
+            "enrollment": 50,
+            "brief_summary": "This randomized controlled trial will evaluate the effectiveness of a 12-week, home-based telerehabilitation program for adults with fibromyalgia (FM) combining AI-guided exercise with Pain Neuroscience Education (PNE). Fifty participants will be randomized (1:1) to the digital intervention or usual care. The primary outcome is change in pain intensity from baseline to post-intervention (week 13 ± 7 days), with secondary outcomes including physical function and health-related quality of life. Ou",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Clinical diagnosis of fibromyalgia according to the American College of Rheumatology criteria (2016).\n* Age between 18 and 65 years.\n* Access to an internet-connected device (smartphone or computer).\n* Ability to participate in a tele-rehabilitation program.\n\nExclusion Criteri",
+            "endpoints": [
+              "Change in Pain Intensity Measured by Visual Analog Scale (VAS)"
+            ],
+            "sponsor": "Instituto Neurociencia Del Dolor",
+            "url": "https://clinicaltrials.gov/study/NCT06672419"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04364867",
+            "title": "Randomized Clinical Trial of Exparel vs Pain Pump for Post-operative Pain Control After Total Shoulder Arthroplasty",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2020-08-12",
+            "completion_date": "2021-02-17",
+            "country": "United States",
+            "enrollment": 102,
+            "brief_summary": "The primary objective of this study is to determine if Exparel leads to better pain scores at 24, 48 and 72 hours after Total Shoulder Arthroplasty (TSA) compared to a pain pump. Secondary objectives are (1) to determine if patients on Exparel use less narcotics and (2) have earlier return of functional use of the involved arm after surgery compared to the pain pump and (3) if use of Exparel leads to cost savings\n\nMETHODS\n\nSample size:\n\nBased on prior studies on anesthetics for TSA, the mean wor",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients undergoing unilateral primary TSA or reverse TSA\n* Indication for surgery is osteoarthritis, rotator cuff arthropathy or massive irreparable rotator cuff tears\n* Surgery performed by the Principal Investigator\n* Anesthesia administered by Co-Principal Investigator\n* W",
+            "endpoints": [
+              "Pain Score in the 24 Hours After Surgery"
+            ],
+            "sponsor": "Norton Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT04364867"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03905486",
+            "title": "The Efficacy of Pregabalin as a Monotherapy Versus Combined Pregabalin and Milnacipran in the Management of Fibromyalgia.",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2019-04-01",
+            "completion_date": "2019-12-31",
+            "country": "Egypt",
+            "enrollment": 58,
+            "brief_summary": "Diagnosis of fibromyalgia is complex and treatment options are limited. Pharmacological management of fibromyalgia is mainly centered on the central nervous system. In particular there is robust evidence for the use of tricyclic antidepressants (e.g., amitriptyline), anti-convulsants such as gabapentin or pregabalin and agents from the serotonin norepinephrine reuptake inhibitor (SNRI) family such as milnacipran. Aim of the work: To compare the efficacy of pregabalin agent (averopreg) alone vers",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* female patients\n* diagnosed as fibromyalgia according to the 2016 revision to the 2010/2011 fibromyalgia diagnostic criteria\n\nExclusion Criteria:\n\n* Patients with major medical disorders or uncontrolled medical conditions\n* Patients with recent myocardial infarction or stroke,",
+            "endpoints": [
+              "fibromyalgia impact questionnaire (FIQ)",
+              "visual analogue scale (VAS) for pain"
+            ],
+            "sponsor": "University of Alexandria",
+            "url": "https://clinicaltrials.gov/study/NCT03905486"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "40110636",
+            "title": "Myofascial Pain Syndrome: An Update on Clinical Characteristics, Etiopathogenesis, Diagnosis, and Treatment.",
+            "abstract": "Myofascial pain syndrome (MPS) is a chronic regional pain condition characterized by trigger points-hyperirritable spots within taut bands of muscle fibers that cause both localized and referred pain. The pathogenesis, diagnostic criteria, and classification of MPS are still under investigation, which complicates the development of standardized treatment protocols. Although diagnostic tools have improved, MPS often remains underrecognized due to symptom overlap with other pain disorders, such as fibromyalgia, neuropathic pain, and joint disorders. Factors contributing to its onset and persistence include muscle overuse, postural imbalance, systemic conditions, and psychological and behavioral influences. This narrative review explores the primary risk factors, current hypotheses on pathogenesis, diagnosis and differential diagnosis, and both conventional and emerging treatments. Sufficient evidence supports the use of local anesthetic injections for MPS. Some evidence suggests that dry",
+            "journal": "Muscle & nerve",
+            "year": "2025",
+            "authors": [
+              "Steen Jeremy P",
+              "Jaiswal Kishore S",
+              "Kumbhare Dinesh"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Myofascial Pain Syndromes",
+              "Pain Management"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40110636/"
+          },
+          {
+            "pmid": "25905532",
+            "title": "Myofascial pain: an open study on the pharmacotherapeutic response to stepped treatment with tricyclic antidepressants and gabapentin.",
+            "abstract": "To evaluate, in an open trial, the pharmacotherapeutic efficacy of tricyclic antidepressant (TCA) drugs and gabapentin in patients with persistent myofascial pain and to identify patient and pain characteristics that may predict treatment outcome.",
+            "journal": "Journal of oral & facial pain and headache",
+            "year": "2015",
+            "authors": [
+              "Haviv Yaron",
+              "Rettman Andra",
+              "Aframian Doron",
+              "Sharav Yair",
+              "Benoliel Rafael"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Age Factors",
+              "Amines",
+              "Amitriptyline",
+              "Antidepressive Agents, Tricyclic",
+              "Comorbidity",
+              "Cyclohexanecarboxylic Acids",
+              "Excitatory Amino Acid Antagonists",
+              "Female",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25905532/"
+          },
+          {
+            "pmid": "32627323",
+            "title": "Beneficial effect of gabapentin in two children with Noonan syndrome and early-onset neuropathic pain.",
+            "abstract": "",
+            "journal": "American journal of medical genetics. Part A",
+            "year": "2020",
+            "authors": [
+              "Cortellazzo Wiel Luisa",
+              "De Nardi Laura",
+              "Magnolato Andrea",
+              "Sirchia Fabio",
+              "Bruno Irene"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age of Onset",
+              "Aged",
+              "Child",
+              "Female",
+              "Gabapentin",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32627323/"
+          },
+          {
+            "pmid": "26768433",
+            "title": "Chronic refractory myofascial pain and denervation supersensitivity as global public health disease.",
+            "abstract": "Chronic pain with a 30.3% global prevalence significantly impacts universal health. Low back pain has a 9.4% prevalence worldwide causing the most widespread disability. Neck pain ranks 4th highest regarding years lived with disability with a 4.9% prevalence worldwide. The principal cause of pain in 85% of patients visiting a tertiary pain clinic has a myofascial origin. The root cause is multifocal neuromuscular ischaemia at myofascial trigger points from muscle tightening and shortening following spondylotic radiculopathy induced partial denervation. Chronic refractory myofascial pain (CRMP) is a neuromusculoskeletal disease needing management innovations. Using electrical twitch-obtaining intramuscular stimulation (eToims), we provide objective evidence of denervation supersensitivity in multiple myotomes as cause, aggravation and maintenance of CRMP. This study underscores our previous findings that eToims is safe and efficacious for long-term use in CRMP. eToims aids potential pre",
+            "journal": "BMJ case reports",
+            "year": "2016",
+            "authors": [
+              "Chu J",
+              "Bruyninckx F",
+              "Neuhauser D V"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amines",
+              "Analgesics",
+              "Chronic Pain",
+              "Cyclohexanecarboxylic Acids",
+              "Denervation",
+              "Electric Stimulation Therapy",
+              "Gabapentin",
+              "Humans",
+              "Low Back Pain",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26768433/"
+          },
+          {
+            "pmid": "37142285",
+            "title": "Levator Ani Syndrome Presenting with Vaginal Pain.",
+            "abstract": "Levator ani syndrome (LAS), also known as levator ani spasm, puborectalis syndrome, chronic proctalgia, pyriformis syndrome and pelvic tension myalgia, produces chronic anal pain. The levator ani muscle is susceptible to the development of myofascial pain syndrome, and trigger points may be elicited on physical examination. The pathophysiology remains to be fully delineated. The diagnosis of LAS is suggested primarily by the clinical history, physical examination and the exclusion of organic disease that can produce recurrent or chronic proctalgia. Digital massage, sitz bath, electrogalvanic stimulation and biofeedback are the treatment modalities most frequently described in the literature. Pharmacological management includes non-steroidal anti-inflammatory medications, diazepam, amitriptyline, gabapentin and botulinum toxin. The evaluation of these patients can be challenging due to a diversity of causative factors. The authors present the case of a nulliparous woman in her mid-30s p",
+            "journal": "BMJ case reports",
+            "year": "2023",
+            "authors": [
+              "Dunphy Louise",
+              "Wood Frances",
+              "Mubarak Emad Saleem",
+              "Coughlin Lynda"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Pain",
+              "Pelvic Pain",
+              "Female",
+              "Pelvic Floor",
+              "Humans",
+              "Anus Diseases",
+              "Amitriptyline",
+              "Chronic Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37142285/"
+          },
+          {
+            "pmid": "9303258",
+            "title": "The effect of gabapentin on neuropathic pain.",
+            "abstract": "To evaluate the effects of gabapentin on pain scores and opiate use.",
+            "journal": "The Clinical journal of pain",
+            "year": "1997",
+            "authors": [
+              "Rosenberg J M",
+              "Harrell C",
+              "Ristic H",
+              "Werner R A",
+              "de Rosayro A M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Adolescent",
+              "Adult",
+              "Amines",
+              "Analgesics",
+              "Child",
+              "Cyclohexanecarboxylic Acids",
+              "Gabapentin",
+              "Humans",
+              "Low Back Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9303258/"
+          },
+          {
+            "pmid": "18363616",
+            "title": "Fibromyalgia: harmonizing science with clinical practice considerations.",
+            "abstract": "This review summarizes the present and emerging knowledge base on the pathophysiology, diagnosis, and management of fibromyalgia.",
+            "journal": "Pain practice : the official journal of World Institute of Pain",
+            "year": "2008",
+            "authors": [
+              "Perrot Serge",
+              "Dickenson Anthony H",
+              "Bennett Robert M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amines",
+              "Analgesics",
+              "Central Nervous System",
+              "Clinical Trials as Topic",
+              "Combined Modality Therapy",
+              "Cyclohexanecarboxylic Acids",
+              "Diagnosis, Differential",
+              "Disease Management",
+              "Exercise Therapy",
+              "Fatigue"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18363616/"
+          },
+          {
+            "pmid": "25794224",
+            "title": "Management of pain secondary to temporomandibular joint syndrome with peripheral nerve stimulation.",
+            "abstract": "Temporomandibular joint syndrome, or Costen syndrome, is a clinically diagnosed disorder whose most common symptoms include joint pain and clicking, difficulty opening the mouth, and temporomandibular joint discomfort. The temporomandibular joint (TMJ) is supplied by the auriculotemporal nerve, a collateral branch of the mandibular nerve (the V3 branch of the trigeminal nerve).",
+            "journal": "Pain physician",
+            "year": "2015",
+            "authors": [
+              "Rodriguez-Lopez Manuel J",
+              "Fernandez-Baena Mariano",
+              "Aldaya-Valverde Carlos"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Humans",
+              "Middle Aged",
+              "Pain",
+              "Pain Management",
+              "Pain Measurement",
+              "Prospective Studies",
+              "Radiography",
+              "Temporomandibular Joint"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25794224/"
+          },
+          {
+            "pmid": "17030096",
+            "title": "Analgesic action of gabapentin on chronic pain in the masticatory muscles: a randomized controlled trial.",
+            "abstract": "Chronic masticatory myalgia (CMM) can be defined as constant pain in the masticatory muscles for more than 6 months and is influenced by the central nervous system. The antiepileptic agent gabapentin acts centrally and is used for managing different types of chronic pain conditions. The objective of this study was to evaluate the analgesic action of gabapentin on CMM. In this 12-week randomized controlled clinical trial 50 patients were randomly allocated into two study groups: 25 received gabapentin and 25 received placebo. The outcome measures utilized were pain reported on a VAS (VAS-pain), Palpation Index (PI) and impact of CMM on daily functioning reported on a VAS (VAS-function). Thirty-six patients completed the study. Gabapentin showed to be clinically and statistically superior to placebo in reducing pain reported by patients (gabapentin=51.04%; placebo=24.30%; P=0.037), masticatory muscle hyperalgesia (gabapentin=67.03%; placebo=14.37%; P=0.001) and impact of CMM on daily fun",
+            "journal": "Pain",
+            "year": "2007",
+            "authors": [
+              "Kimos Pablo",
+              "Biggs Catherine",
+              "Mah Jennifer",
+              "Heo Giseon",
+              "Rashiq Saifudin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Amines",
+              "Analgesics",
+              "Anticonvulsants",
+              "Chronic Disease",
+              "Cyclohexanecarboxylic Acids",
+              "Facial Pain",
+              "Female",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17030096/"
+          },
+          {
+            "pmid": "41731761",
+            "title": "Clinical application of acupuncture myofascial trigger points in the treatment of postherpetic neuralgia and analysis of influencing factors.",
+            "abstract": "To evaluate the therapeutic efficacy of myofascial trigger point acupuncture combined with gabapentinoids compared with gabapentinoid therapy alone in patients with postherpetic neuralgia, and to identify clinical factors influencing treatment response. A total of 494 patients with postherpetic neuralgia were randomly assigned to receive either gabapentinoids alone (control group, n = 247) or combined myofascial trigger point acupuncture and gabapentinoids (experimental group, n = 247). Pain intensity was assessed using the Numerical Rating Scale (NRS) at baseline, week 3, and week 6, and changes from baseline (ΔNRS) were calculated to reflect short-term pain improvement. Regression analyses were performed to identify prognostic factors associated with the magnitude of pain reduction rather than to estimate causal treatment effects. Both groups improved significantly, but the experimental group showed greater pain reduction at week 3 and week 6 (P < .001). Multivariate analysis reveale",
+            "journal": "Medicine",
+            "year": "2026",
+            "authors": [
+              "Bi Haixia",
+              "Luo Chengcai",
+              "Bu Binbin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Male",
+              "Neuralgia, Postherpetic",
+              "Acupuncture Therapy",
+              "Middle Aged",
+              "Aged",
+              "Gabapentin",
+              "Trigger Points",
+              "Pain Measurement"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41731761/"
+          },
+          {
+            "pmid": "24849638",
+            "title": "Successful use of stellate ganglion block and a new centrally acting analgesic with dual mode of action in a resistant temporomandibular joint pain.",
+            "abstract": "Stellate ganglion blocks have been shown to provide effective pain relief in a number of different conditions involving the upper body. This was demonstrated in a 65-year-old woman who had experienced severe debilitating pain in her left temporomandibular joint (TMJ) and the surrounding area of her face for over 10 years. The pain was unresponsive to indomethacin, carbamazepine, sodium valproate, gabapentin, lithium, melatonin and amitriptyline. She had also had four surgical procedures to the TMJ without success. The pain was partially responsive to Syndol tablets and pregabalin, although the use of pregabalin was limited by its adverse effects. The patient underwent 13 ultrasound guided stellate ganglion blocks over a 24-month period which demonstrated 90% pain relief for up to 10 weeks. Pulsed radio frequency lesioning showed no benefit over stellate ganglion block. More recently, tapentadol was found to be effective and this replaced the stellate ganglion blocks.",
+            "journal": "BMJ case reports",
+            "year": "2014",
+            "authors": [
+              "Jones Gareth Peter",
+              "Tripathi Shiva Shankar"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Analgesics, Opioid",
+              "Female",
+              "Humans",
+              "Nerve Block",
+              "Pain Management",
+              "Phenols",
+              "Stellate Ganglion",
+              "Tapentadol",
+              "Temporomandibular Joint Dysfunction Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24849638/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "myofascial pain syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20myofascial%20pain%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "visual epilepsy",
+        "txgnn_score": 0.8528122305870056,
+        "txgnn_rank": 14523,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04345432",
+            "title": "Gabapentin Treatment of Postural Tachycardia Syndrome (PoTS): a Pilot Study",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2014-01",
+            "completion_date": "2017-09",
+            "country": "N/A",
+            "enrollment": 10,
+            "brief_summary": "In this pilot study, the investigator will test the usefulness of gabapentin in treating some of the symptoms associated with POTS. Gabapentin is FDA-approved to treat epilepsy and nerve pain and works by reducing excessive activity in the nervous system. This medication has also been shown to be effective in reducing bowel discomfort in patients with irritable bowel syndrome, sleeplessness, and possibly migraine headache. The investigator has observed positive results when prescribing gabapenti",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Adults between the ages of 18 and 60 years of age\n* For women of childbearing age, no missed menstrual cycles\n* Diagnosis of POTS confirmed by the PI after autonomic function tests\n* Able to discontinue GABAergic drugs, beta blockers, and sleep medication for one week before s",
+            "endpoints": [
+              "Change in Acute Panic Inventory (API)"
+            ],
+            "sponsor": "Medstar Health Research Institute",
+            "url": "https://clinicaltrials.gov/study/NCT04345432"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03604354",
+            "title": "Safety and Efficacy of Pre-emptive Tapentadol vs Pregabalin in Post Operative Pain Following Unilateral Total Knee Arthroplasty- A Randomised, Double Blind, Active Control, Clinical Trial",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2018-08-01",
+            "completion_date": "2020-05-19",
+            "country": "India",
+            "enrollment": 95,
+            "brief_summary": "Preemptive analgesia is a treatment modality which starts even before the surgery, so that the central sensitization is prevented due to incisional injury at the time of surgery, so it covers the period of surgery and initial post-operative period preventing the development of central sensitization.\n\nGabapentinoid compounds are gabapentin and pregabalin which have been extensively used in seizure disorder patient. Role of gabapentinoid compounds in the management of pain, as a pre-emptive analge",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\. Patients both males and females undergoing total knee arthroplasty surgery. 2. Patients are capable of providing an informed consent. 3. Age group between 18-75 years.\n\nExclusion Criteria:\n\n* 1.Patients with asthma, COPD or any other respiratory disease. 2. Persistent naus",
+            "endpoints": [
+              "Efficacy and safety of pregabalin and tapentadol by measuring the mean difference in the mean VAS score."
+            ],
+            "sponsor": "All India Institute of Medical Sciences, Bhubaneswar",
+            "url": "https://clinicaltrials.gov/study/NCT03604354"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03635905",
+            "title": "Gabapentin as an Adjunct for Pain Management During Dilation and Evacuation: A Double-blind Randomized Controlled Trial",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2017-05-26",
+            "completion_date": "2020-05-20",
+            "country": "United States",
+            "enrollment": 130,
+            "brief_summary": "Justification. Pain control is still an issue for women undergoing second trimester abortion procedures. The investigators propose a randomized controlled double-blinded trial evaluating the use of adjunct gabapentin versus placebo in addition to moderate sedation during D\\&E. The investigators hypothesize that 600 mg oral gabapentin administered pre-operatively at the time of cervical preparation initiation will improve intra-operative pain control. The investigators also hypothesize that it wi",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* English proficiency\n* 18 years of age or older\n* Gestational age 14 weeks or greater\n* Ability to provide informed consent\n* Desire to proceed with outpatient D\\&E under moderate sedation\n\nExclusion Criteria:\n\n* Contraindications to outpatient abortion or moderate sedation\n* C",
+            "endpoints": [
+              "Maximum procedural pain"
+            ],
+            "sponsor": "Medstar Health Research Institute",
+            "url": "https://clinicaltrials.gov/study/NCT03635905"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03708237",
+            "title": "Effectiveness of Ropinirole and Gabapentin for the Treatment of Restless Legs Syndrom in Patients on Maintenance Hemodialysis: a Randomized, Blinded, Placebo-Controlled Trial",
+            "phase": "PHASE2",
+            "status": "TERMINATED",
+            "start_date": "2019-02-19",
+            "completion_date": "2019-12-11",
+            "country": "Canada",
+            "enrollment": 3,
+            "brief_summary": "Restless legs syndrome (RLS) is a neurologic disorder characterized by 1) an urge to move the legs, 2) uncomfortable sensations in the legs, 3) symptoms that are often worse the evening or when at rest , and 4) may be temporarily relieved by physical activity.\n\nThe overall prevalence of RLS in the general population is estimated to be around 10%, however, it is significantly in the end stage kidney disease (ESKD) population is significantly higher (approximately 30%). Studies have shown that RLS",
+            "eligibility_criteria": "Inclusion Criteria:\n\nESKD requiring hemodialysis\n\nA symptom severity score of at least 4/10 on the restless legs ESAS-r: Renal question for two consecutive reporting periods (i.e over two months)\n\nNo RLS medication for two weeks prior to study period. Washout Period: Individuals that are receiving R",
+            "endpoints": [
+              "Evaluate the effectiveness of ropinirole and gabapentin on the severity of RLS symptoms in the hemodialysis population."
+            ],
+            "sponsor": "University of Alberta",
+            "url": "https://clinicaltrials.gov/study/NCT03708237"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00855738",
+            "title": "Liceo Study: A Prospective, Observational Study On The Effectiveness Of New Antiepileptic Drugs As First Bitherapy In The Daily Clinical Practice",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2007-05",
+            "completion_date": "2009-06",
+            "country": "N/A",
+            "enrollment": 111,
+            "brief_summary": "Assessment of the efficacy under daily clinical conditions of the new antiepileptic drugs (AEDs) gabapentin, lamotrigine, levetiracetam, oxcarbazepine, pregabalin, tiagabine and topiramate, used as first-choice combination therapy (bitherapy) in patients with focal epilepsy.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Aged 18 years or older.\n* Diagnosis of focal epilepsy.\n* Previous failure of one or more AEDs used in monotherapy.\n* Background treatment with an antiepileptic drug.\n* The investigator has considered that the patient must start treatment with some of the seven new AEDs in comb",
+            "endpoints": [
+              "Percent of Participants Classified as Responders"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT00855738"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04342065",
+            "title": "Efficacy of Pre-emptive Different Doses of Oral Pregabalin Versus Celecoxib on Sevoflurane and Analgesic Consumption in Patients Subjected for Elective Lumbar Spine Fixation Surgery: a Randomized Controlled Trial",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2019-01-01",
+            "completion_date": "2020-02-01",
+            "country": "Egypt",
+            "enrollment": 200,
+            "brief_summary": "The anti-epileptic drugs such as gabapentin and other non-steroidal anti-inflammatory drugs (NSAID) such as celecoxib were used as a part of multimodal analgesia to control such pain. Gabapentin is an anticonvulsant drug that has analgesic effect in post-herpetic neuralgia, diabetic neuropathy, and neuropathic pain. Celecoxib is one of the NSAIDs, that its analgesic effect is reported in various studies by cyclooxygenase-2 (COX-2) inhibitor.\n\nThe aim of this randomized double-blinded study was t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* American society of anesthesiologists (ASA) I and II, aged between 21-60 years old scheduled to undergo elective posterior approach lumbar spine disc surgery\n\nExclusion Criteria:\n\n* Patients with a known sensitivity to celecoxib or pregabalin, psychotic disorder or cognitive i",
+            "endpoints": [
+              "pain control"
+            ],
+            "sponsor": "South Egypt Cancer Institute",
+            "url": "https://clinicaltrials.gov/study/NCT04342065"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "37370556",
+            "title": "Gabapentin: Clinical Use and Pharmacokinetics in Dogs, Cats, and Horses.",
+            "abstract": "Gabapentin is an anticonvulsant drug, which presents an established clinical efficacy in human patients for the management of refractory partial seizures, secondarily generalized tonic-clonic seizures, and for the control of chronic neuropathic pain. Gabapentin was synthesized as a structural analogue of the inhibitory neurotransmitter GABA, with GABA-mimetic effects, able to cross the blood-brain barrier. In veterinary medicine, is extra-label used in combination with other treatments to control seizures when other drugs are no longer effective or become toxic or for neuropathic pain treatment and anxiety. This review aimed to clarify gabapentin use and pharmacokinetic aspects to promote conscious use in dogs, cats, and horses. In dogs, gabapentin was beneficial in the treatment of epilepsy, as well as chronic, neuropathic, and post-operative pain, as well as anxiety. In cats, it showed efficacy in post-ovariohysterectomy-related pain and in anxiety management. In horses, gabapentin h",
+            "journal": "Animals : an open access journal from MDPI",
+            "year": "2023",
+            "authors": [
+              "Di Cesare Federica",
+              "Negro Viviana",
+              "Ravasio Giuliano",
+              "Villa Roberto",
+              "Draghi Susanna"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37370556/"
+          },
+          {
+            "pmid": "34819636",
+            "title": "Gabapentin and pregabalin in bipolar disorder, anxiety states, and insomnia: Systematic review, meta-analysis, and rationale.",
+            "abstract": "The gabapentinoids, gabapentin, and pregabalin, target the α2δ subunits of voltage-gated calcium channels. Initially licensed for pain and seizures, they have become widely prescribed drugs. Many of these uses are off-label for psychiatric indications, and there is increasing concern about their safety, so it is particularly important to have good evidence to justify this usage. We conducted a systematic review and meta-analysis of the evidence for three of their common psychiatric uses: bipolar disorder, anxiety, and insomnia. Fifty-five double-blind randomised controlled trials (RCTs) and 15 open-label studies were identified. For bipolar disorder, four double-blind RCTs investigating gabapentin, and no double-blind RCTs investigating pregabalin, were identified. A quantitative synthesis could not be performed due to heterogeneity in the study population, design and outcome measures. Across the anxiety spectrum, a consistent but not universal effect in favour of gabapentinoids compar",
+            "journal": "Molecular psychiatry",
+            "year": "2022",
+            "authors": [
+              "Hong James S W",
+              "Atkinson Lauren Z",
+              "Al-Juffali Noura",
+              "Awad Amine",
+              "Geddes John R"
+            ],
+            "pub_types": [
+              "Meta-Analysis",
+              "Systematic Review",
+              "Research Support, Non-U.S. Gov't",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Amines",
+              "Anxiety",
+              "Bipolar Disorder",
+              "Calcium Channels",
+              "Cyclohexanecarboxylic Acids",
+              "Gabapentin",
+              "Humans",
+              "Pregabalin",
+              "Randomized Controlled Trials as Topic",
+              "Sleep Initiation and Maintenance Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34819636/"
+          },
+          {
+            "pmid": "20818832",
+            "title": "A comparison of the pharmacokinetics and pharmacodynamics of pregabalin and gabapentin.",
+            "abstract": "Pregabalin and gabapentin share a similar mechanism of action, inhibiting calcium influx and subsequent release of excitatory neurotransmitters; however, the compounds differ in their pharmacokinetic and pharmacodynamic characteristics. Gabapentin is absorbed slowly after oral administration, with maximum plasma concentrations attained within 3-4 hours. Orally administered gabapentin exhibits saturable absorption--a nonlinear (zero-order) process--making its pharmacokinetics less predictable. Plasma concentrations of gabapentin do not increase proportionally with increasing dose. In contrast, orally administered pregabalin is absorbed more rapidly, with maximum plasma concentrations attained within 1 hour. Absorption is linear (first order), with plasma concentrations increasing proportionately with increasing dose. The absolute bioavailability of gabapentin drops from 60% to 33% as the dosage increases from 900 to 3600 mg/day, while the absolute bioavailability of pregabalin remains a",
+            "journal": "Clinical pharmacokinetics",
+            "year": "2010",
+            "authors": [
+              "Bockbrader Howard N",
+              "Wesche David",
+              "Miller Raymond",
+              "Chapel Sunny",
+              "Janiczek Nancy"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amines",
+              "Analgesics",
+              "Anticonvulsants",
+              "Cyclohexanecarboxylic Acids",
+              "Dose-Response Relationship, Drug",
+              "Drug Interactions",
+              "Gabapentin",
+              "Pregabalin",
+              "gamma-Aminobutyric Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20818832/"
+          },
+          {
+            "pmid": "31912315",
+            "title": "Therapeutic Drug Monitoring of Antiepileptic Drugs in Women with Epilepsy Before, During, and After Pregnancy.",
+            "abstract": "During pregnancy, the pharmacokinetics of an antiepileptic drug is altered because of changes in the clearance capacity and volume of distribution. These changes may have consequences for the frequency of seizures during pregnancy and fetal exposure to antiepileptic drugs. In 2009, a review was published providing guidance for the dosing and therapeutic drug monitoring of antiepileptic drugs during pregnancy. Since that review, new drugs have been licensed and new information about existing drugs has been published. With this review, we aim to provide an updated narrative overview of changes in the pharmacokinetics of antiepileptic drugs in women during pregnancy. In addition, we aim to formulate advice for dose modification and therapeutic drug monitoring of antiepileptic drugs. We searched PubMed and the available literature on the pharmacokinetic changes of antiepileptic drugs and seizure frequency during pregnancy published between January 2007 and September 2018. During pregnancy,",
+            "journal": "Clinical pharmacokinetics",
+            "year": "2020",
+            "authors": [
+              "Arfman Inge J",
+              "Wammes-van der Heijden Elisabeth A",
+              "Ter Horst Peter G J",
+              "Lambrechts Danielle A",
+              "Wegner Ilse"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Drug Monitoring",
+              "Epilepsy",
+              "Female",
+              "Humans",
+              "Postpartum Period",
+              "Pregnancy",
+              "Pregnancy Complications",
+              "Pregnancy Trimesters",
+              "Risk Factors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31912315/"
+          },
+          {
+            "pmid": "17126531",
+            "title": "Pharmacology and mechanism of action of pregabalin: the calcium channel alpha2-delta (alpha2-delta) subunit as a target for antiepileptic drug discovery.",
+            "abstract": "Pregabalin (Lyrica) is a new antiepileptic drug that is active in animal seizure models. Pregabalin is approved in US and Europe for adjunctive therapy of partial seizures in adults, and also has been approved for the treatment of pain from diabetic neuropathy or post-herpetic neuralgia in adults. Recently, it has been approved for treatment of anxiety disorders in Europe. Pregabalin is structurally related to the antiepileptic drug gabapentin and the site of action of both drugs is similar, the alpha2-delta (alpha2-delta) protein, an auxiliary subunit of voltage-gated calcium channels. Pregabalin subtly reduces the synaptic release of several neurotransmitters, apparently by binding to alpha2-delta subunits, and possibly accounting for its actions in vivo to reduce neuronal excitability and seizures. Several studies indicate that the pharmacology of pregabalin requires binding to alpha2-delta subunits, including structure-activity analyses of compounds binding to alpha2-delta subunits",
+            "journal": "Epilepsy research",
+            "year": "2007",
+            "authors": [
+              "Taylor Charles P",
+              "Angelotti Timothy",
+              "Fauman Eric"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Amines",
+              "Amino Acid Sequence",
+              "Animals",
+              "Anticonvulsants",
+              "Calcium Channels",
+              "Cyclohexanecarboxylic Acids",
+              "Disease Models, Animal",
+              "Epilepsies, Partial",
+              "Epilepsy, Tonic-Clonic",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17126531/"
+          },
+          {
+            "pmid": "29898971",
+            "title": "Practice guideline update summary: Efficacy and tolerability of the new antiepileptic drugs I: Treatment of new-onset epilepsy: Report of the Guideline Development, Dissemination, and Implementation Subcommittee of the American Academy of Neurology and the American Epilepsy Society.",
+            "abstract": "To update the 2004 American Academy of Neurology (AAN) guideline for treating new-onset focal or generalized epilepsy with second- and third-generation antiepileptic drugs (AEDs).",
+            "journal": "Neurology",
+            "year": "2018",
+            "authors": [
+              "Kanner Andres M",
+              "Ashman Eric",
+              "Gloss David",
+              "Harden Cynthia",
+              "Bourgeois Blaise"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Anticonvulsants",
+              "Child",
+              "Epilepsies, Partial",
+              "Epilepsy, Absence",
+              "Epilepsy, Generalized",
+              "Humans",
+              "Seizures"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29898971/"
+          },
+          {
+            "pmid": "39842123",
+            "title": "Gabapentin impairs visual development in zebrafish via retinal apoptosis and thyroid disruption.",
+            "abstract": "Gabapentin (GBP), a pharmaceutical widely used for seizures and neuropathic pain, has emerged as a contaminant in global aquatic environments, raising concerns about its ecological impact. This study investigated the effects of environmentally relevant concentrations of GBP (0, 1, 10, 1000 μg/L) on visual development in zebrafish (Danio rerio). Behavioral assays showed that GBP exposure enhanced light sensitivity, as indicated by a significant increase in total travel distance (TTD) in all exposure groups compared to controls. The 1 μg/L and 1000 μg/L exposure groups demonstrated a 41 % and 37 % increase in TTD, respectively (p < 0.05). Apoptosis assays revealed dose-dependent retinal cell death, with fluorescence intensity rising by 15 % at 1000 μg/L (p < 0.05). Visual acuity, measured through optokinetic response (OKR) tests, decreased significantly across all color stimuli. Angular velocity under white light decreased from 4.0 °/s in controls to 1.6 °/s at 1000 μg/L (p < 0.01) in a ",
+            "journal": "Journal of hazardous materials",
+            "year": "2025",
+            "authors": [
+              "He Yide",
+              "Li Xiang",
+              "Yang Yan",
+              "Freitas Rosa",
+              "Zhu Jiansheng"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Zebrafish",
+              "Apoptosis",
+              "Gabapentin",
+              "Retina",
+              "Thyroid Gland",
+              "Water Pollutants, Chemical",
+              "Visual Acuity",
+              "Vision, Ocular"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39842123/"
+          },
+          {
+            "pmid": "19445769",
+            "title": "Epilepsy.",
+            "abstract": "About 3% of people will be diagnosed with epilepsy during their lifetime, but about 70% of people with epilepsy eventually go into remission.",
+            "journal": "BMJ clinical evidence",
+            "year": "2009",
+            "authors": [
+              "Marson Anthony G",
+              "Maguire Melissa",
+              "Ramaratnam Sridharan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anticonvulsants",
+              "Clinical Trials as Topic",
+              "Cost-Benefit Analysis",
+              "Drug Resistant Epilepsy",
+              "Epilepsies, Partial",
+              "Epilepsy",
+              "Epilepsy, Generalized",
+              "Humans",
+              "Seizures"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19445769/"
+          },
+          {
+            "pmid": "7693432",
+            "title": "Gabapentin. A review of its pharmacological properties and clinical potential in epilepsy.",
+            "abstract": "Gabapentin is an antiepileptic drug with an unknown mechanism of action apparently dissimilar to that of other antiepileptic agents, and possessing some desirable pharmacokinetic traits. The drug is not protein bound, is not metabolised and does not induce liver enzymes, diminishing the likelihood of drug interactions with other antiepileptic agents and drugs such as oral contraceptives. Although gabapentin is a structural analogue of the neurotransmitter gamma-aminobutyric acid (GABA), which does not cross the blood-brain barrier, gabapentin penetrates into the CNS and its activity is seemingly distinct from GABA-related effects. Present clinical evaluation is largely restricted to proof of efficacy trials of gabapentin as add-on therapy in patients with partial epilepsy resistant to conventional treatment. Gabapentin (usually 600 to 1800 mg/day) provides notable benefit, reducing seizure frequency by > or = 50% in 18 to 28% of patients with refractory partial seizures, as shown in 3 ",
+            "journal": "Drugs",
+            "year": "1993",
+            "authors": [
+              "Goa Karen L",
+              "Sorkin Eugene M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Animals",
+              "Anticonvulsants",
+              "Biological Availability",
+              "Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Drug Tolerance",
+              "Epilepsy",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7693432/"
+          },
+          {
+            "pmid": "12151013",
+            "title": "Ca2+ channels and epilepsy.",
+            "abstract": "The epilepsies encompass diverse seizure disorders afflicting as many as 50 million people worldwide. Many forms of epilepsy are intractable to current therapies and there is a pressing need to develop agents and strategies to not only suppress seizures, but also cure epilepsy. Recent insights from molecular genetics and pharmacology now point to an important role for voltage-dependent calcium channels in epilepsy. In this article, I first provide an introduction to the classification of the epilepsies and an overview of neuronal Ca(2+) channels. Next, I attempt to review the evidence for a role of Ca(2+) channels in epilepsy and the insights gained from genetics and pharmacology. Lastly, I describe new avenues for how such information might be exploited in the development of therapeutic reagents.",
+            "journal": "European journal of pharmacology",
+            "year": "2002",
+            "authors": [
+              "Jones Owen T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Calcium Channels",
+              "Cyclohexanecarboxylic Acids",
+              "Epilepsy",
+              "Gabapentin",
+              "Humans",
+              "Mutation",
+              "gamma-Aminobutyric Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12151013/"
+          },
+          {
+            "pmid": "37393439",
+            "title": "Gabapentin monotherapy for epilepsy: A review.",
+            "abstract": "Epilepsy is one of the most common chronic neurological disorders, affecting more than 50 million people globally. In this review we summarised the evidence from randomised controlled trials of gabapentin used as monotherapy for the treatment of focal epilepsy, both newly diagnosed and drug-resistant, with or without secondary generalisation.",
+            "journal": "The International journal of risk & safety in medicine",
+            "year": "2023",
+            "authors": [
+              "Ziganshina Liliya Eugenevna",
+              "Abakumova Tatyana",
+              "Hoyle Charles H V"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Gabapentin",
+              "Oxcarbazepine",
+              "Topiramate",
+              "Epilepsy",
+              "Anticonvulsants",
+              "Epilepsies, Partial",
+              "Seizures",
+              "Lamotrigine",
+              "Carbamazepine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37393439/"
+          },
+          {
+            "pmid": "10530696",
+            "title": "Gabapentin.",
+            "abstract": "Gabapentin (GBP) is a antiepileptic drug (AED) indicated as adjunct therapy for treatment of partial seizures, with and without secondary generalization, in patients 12 and older with epilepsy. GBP (1-(aminomethyl) cyclohexaneacetic acid) is structurally related to gamma-aminobutyric acid (GABA), which readily crosses the blood-brain barrier. Radiolabeled GBP binds throughout the central nervous system in anatomic areas important in treatment of seizures. Its precise mechanism of action is unknown. An open-label, dose-ranging study of doses up to 1,800 mg produced > or =50% seizure reductions [responder rate (RR)] in 29% of patients with partial seizures. Three double-blind, placebo-controlled, parallel add-on trials at doses of 300-1,800 mg have produced RR of up to 28%, with a placebo RR of 8-10%. An active controlled, parallel group comparison of 600 mg to 2,400 mg in monotherapy conversion design showed no significant difference among the 600 mg, 1,200 mg, and 2,400 mg groups compa",
+            "journal": "Epilepsia",
+            "year": "1999",
+            "authors": [
+              "Morris G L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Anticonvulsants",
+              "Controlled Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Dizziness",
+              "Drug Monitoring",
+              "Epilepsy",
+              "Gabapentin",
+              "Headache"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10530696/"
+          },
+          {
+            "pmid": "8784216",
+            "title": "Gabapentin.",
+            "abstract": "The amino acid antiepileptic drug (AED) gabapentin (GBP) is indicated for adjunctive use in the treatment of partial seizures with or without becoming secondarily generalized in individuals older than 12 years. GBP was about as potent as phenytoin in the maximal electroshock test, but had a different profile of efficacy than standard antiepileptics in a range of animal models. Possible mechanisms of action include biochemical effects enhancing the ratio of gamma-aminobutyric acid (GABA) to glutamate, ion-channel actions (direct or indirect), and/ or enhancement of nonsynaptic GABA release. The anticonvulsant effect appears to depend on concentration of gabapentin in neurons, presumably by the L-system amino acid transporter that has been implicated in absorption from the gut. Data from studies for U.S. Food and Drug Administration (FDA) approval suggested a direct relationship of clinical response to dose and efficacy did not plateau at the doses used. The maximally effective dose, rel",
+            "journal": "Epilepsia",
+            "year": "1995",
+            "authors": [
+              "McLean M J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Adult",
+              "Amines",
+              "Animals",
+              "Anticonvulsants",
+              "Child",
+              "Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Disease Models, Animal",
+              "Dose-Response Relationship, Drug"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8784216/"
+          },
+          {
+            "pmid": "32372158",
+            "title": "Combination Therapy of Gabapentin and N-Acetylcysteine Against Posttraumatic Epilepsy in Rats.",
+            "abstract": "Traumatic brain injury (TBI) is a major public health problem worldwide that is associated with increased mortality and morbidity. Posttraumatic epilepsy (PTE) is one of the sequelae of TBI. The aim of this study was to investigate the role of N-acetylcysteine (NAC) as an adjuvant on the efficacy of levetiracetam (LEV) and gabapentin (GBP) in PTE model encouraged by pentylenetetrazol (PTZ) after mild-TBI in male Sprague-Dawley rats. Mild-TBI was performed by the weight-drop method in male Sprague-Dawley rats. PTE model was developed by injecting PTZ (30+15+15 mg/kg, 30 min intervals, i.p.) 7 days after head trauma. After the development of posttraumatic seizures, the rats were treated with NAC (100 mg/kg), LEV (50 mg/kg), GBP (100 mg/kg), NAC+LEV and NAC+GBP intraperitoneally for 14 days. Seizures related to PTE were scored by video-EEG recording. Motor performance of the animals was also evaluated in the rotarod test. 50 mg/kg LEV and 100 mg/kg GBP reduced seizures related to PTE. LEV",
+            "journal": "Neurochemical research",
+            "year": "2020",
+            "authors": [
+              "Efendioglu Mustafa",
+              "Basaran Recep",
+              "Akca Metehan",
+              "Ceman Duygu",
+              "Demirtas Cumaali"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acetylcysteine",
+              "Adjuvants, Pharmaceutic",
+              "Animals",
+              "Anticonvulsants",
+              "Antioxidants",
+              "Brain Concussion",
+              "Drug Combinations",
+              "Epilepsy, Post-Traumatic",
+              "Gabapentin",
+              "Levetiracetam"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32372158/"
+          },
+          {
+            "pmid": "8039476",
+            "title": "Gabapentin: discussion.",
+            "abstract": "Gabapentin (GBP, Neurontin) is a novel antiepileptic drug (AED) that was shown to be effective against refractory partial seizures in five placebo-controlled trials. However, a number of patients with complex partial seizures experienced an increase in seizure frequency, suggesting that patients suffering from complex partial seizures are not a homogeneous group. In fact, we found that currently available AEDs are likely to be ineffective when staring is a prominent component of complex partial seizures. The poor response of this group of patients may reflect the fact that staring spells are inhibitory seizures and that the AEDs prescribed for partial seizures appear to facilitate inhibitory mechanisms. GBP resembles phenytoin (PHT) and carbamazepine (CBZ) in depressing segmental and reticular excitatory mechanisms and facilitating segmental inhibitory mechanisms, just as it resembles PHT and CBZ in efficacy against some partial seizures and against secondarily generalized seizures. Pe",
+            "journal": "Epilepsia",
+            "year": "1994",
+            "authors": [
+              "Fromm G H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Anticonvulsants",
+              "Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Drugs, Investigational",
+              "Epilepsies, Partial",
+              "Epilepsy, Absence",
+              "Epilepsy, Complex Partial",
+              "Gabapentin"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8039476/"
+          },
+          {
+            "pmid": "32321743",
+            "title": "Analgesia with Gabapentin and Pregabalin May Involve N-Methyl-d-Aspartate Receptors, Neurexins, and Thrombospondins.",
+            "abstract": "The gabapentinoid drugs gabapentin and pregabalin (Neurontin and Lyrica) are mainstay treatments for neuropathic pain and preventing focal seizures. Both drugs have similar effects to each other in animal models and clinically. Studies have shown that a protein first identified as an auxiliary subunit of voltage-gated calcium channels (the α 2 δ-subunit type 1 [α 2 δ-1], or Ca V a2d1) is the high-affinity binding site for gabapentin and pregabalin and is required for the efficacy of these drugs. The α 2 δ-1 protein is required for the ability of gabapentin and pregabalin to reduce neurotransmitter release in neuronal tissue, consistent with a therapeutic mechanism of action via voltage-gated calcium channels. However, recent studies have revealed that α 2 δ-1 interacts with several proteins in addition to voltage-gated calcium channels, and these additional proteins could be involved in gabapentinoid pharmacology. Furthermore, gabapentin and pregabalin have been shown to modify the act",
+            "journal": "The Journal of pharmacology and experimental therapeutics",
+            "year": "2020",
+            "authors": [
+              "Taylor Charles P",
+              "Harris Eric W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Analgesics",
+              "Animals",
+              "Calcium Channels",
+              "Gabapentin",
+              "Humans",
+              "Pregabalin",
+              "Receptors, N-Methyl-D-Aspartate",
+              "Thrombospondins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32321743/"
+          },
+          {
+            "pmid": "9775509",
+            "title": "Antiepileptic drug therapy.",
+            "abstract": "Successful treatment of seizure disorders in small animals requires proper patient assessment, understanding the principles of antiepileptic drug (AED) therapy, designing a strategy for pharmacotherapy, and plans for emergency treatment. Several levels of assessment are needed in managing an epileptic patient to include the diagnosis, effectiveness of therapy, and health-related quality of life assessments. Three levels of diagnosis are important in determining the appropriate AED therapy: 1) confirmation that an epileptic seizure has occurred, and if so, the seizure type(s) manifested; 2) diagnosis of the seizure etiology; and 3) determination of an epileptic syndrome. Monotherapy is the initial goal of treating any cat or dog with epilepsy to reduce possible drug-drug interactions and adverse effects. Unfortunately, many of the AEDs useful in people cannot be prescribed to small animals either due to inappropriate pharmacokinetics (too rapid of an elimination), and potential hepatoto",
+            "journal": "Clinical techniques in small animal practice",
+            "year": "1998",
+            "authors": [
+              "Podell M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Animals",
+              "Anticonvulsants",
+              "Bromides",
+              "Cat Diseases",
+              "Cats",
+              "Cyclohexanecarboxylic Acids",
+              "Diazepam",
+              "Dog Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9775509/"
+          },
+          {
+            "pmid": "8951214",
+            "title": "Gabapentin.",
+            "abstract": "Gabapentin is a novel antiepileptic drug that has recently been introduced in Canada. Although its mechanism of action remains to be defined gabapentin is effective in a number of seizure models which predict its efficacy in partial and tonic-clonic seizures. Clinical studies support the clinical efficacy of gabapentin as adjunctive therapy in adults with epilepsy with partial and secondarily generalized tonic-clonic seizures. Gabapentin has a favorable pharmacokinetic profile and is generally well tolerated. More clinical data are required on the role of gabapentin in children and additional monotherapy experience is required before the role of gabapentin in the overall treatment of epilepsy can be better defined.",
+            "journal": "The Canadian journal of neurological sciences. Le journal canadien des sciences neurologiques",
+            "year": "1996",
+            "authors": [
+              "Bruni J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Amines",
+              "Anticonvulsants",
+              "Cyclohexanecarboxylic Acids",
+              "Epilepsy",
+              "Gabapentin",
+              "Humans",
+              "gamma-Aminobutyric Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8951214/"
+          },
+          {
+            "pmid": "7975572",
+            "title": "Guidelines for treating epilepsy in the age of felbamate, vigabatrin, lamotrigine, and gabapentin.",
+            "abstract": "For the first time in 15 years, new antiepileptic medications are available for the treatment of patients with seizure disorders. These drugs have demonstrated efficacy in animal models of epilepsy and in controlled clinical trials. Felbamate was licensed in 1993 for use as adjunctive therapy or monotherapy in adults with partial or tonic-clonic seizures and as adjunctive therapy for children with the Lennox-Gastaut syndrome. Gabapentin was approved January 1994 as adjunctive therapy in patients 12 years or older with partial seizures, with or without secondary generalization. Lamotrigine is expected to be approved this year for the treatment of partial and tonic-clonic seizures in adults. Last, a new drug application has been filed for vigabatrin this year, with possible licensing next year. These four anticonvulsants present new options in the treatment of patients with refractory epilepsy and are not merely congeners of previously available treatments. They have unique clinical spec",
+            "journal": "The Western journal of medicine",
+            "year": "1994",
+            "authors": [
+              "Laxer K D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Adult",
+              "Amines",
+              "Animals",
+              "Anticonvulsants",
+              "Child",
+              "Clinical Protocols",
+              "Controlled Clinical Trials as Topic",
+              "Cyclohexanecarboxylic Acids",
+              "Epilepsy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7975572/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "visual epilepsy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20visual%20epilepsy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "active vestibular Meniere disease",
+        "txgnn_score": 0.8339543342590332,
+        "txgnn_rank": 15903,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "24057832",
+            "title": "Pharmacotherapy of vestibular disorders and nystagmus.",
+            "abstract": "Vertigo and dizziness are with a life-time prevalence of ~30% among the most common symptoms and are often associated with nystagmus or other oculomotor disorders. The prerequisite for a successful treatment is a precise diagnosis of the underlying disorder. In this overview, the current pharmacological treatment options for peripheral and central vestibular, cerebellar, and oculomotor disorders including nystagmus are described. There are basically seven groups of drugs that can be used (the \"7 As\"): antiemetics; anti-inflammatory, anti-Menière's, and antimigraine medications; antidepressants, anticonvulsants, and aminopyridines. In acute vestibular neuritis, recovery of the peripheral vestibular function can be improved by treatment with oral corticosteroids. In Menière's disease, a long-term high-dose treatment with betahistine-dihydrochloride (at least 48 mg three times daily) had a significant effect on the frequency of the attacks; the underlying mode of action is evidently an in",
+            "journal": "Seminars in neurology",
+            "year": "2013",
+            "authors": [
+              "Strupp Michael",
+              "Kremmyda Olympia",
+              "Brandt Thomas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cerebellar Diseases",
+              "Dizziness",
+              "Humans",
+              "Meniere Disease",
+              "Nystagmus, Pathologic",
+              "Ophthalmoplegia",
+              "Vestibular Diseases",
+              "Vestibular Neuronitis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24057832/"
+          },
+          {
+            "pmid": "21461686",
+            "title": "Pharmacotherapy of vestibular and ocular motor disorders, including nystagmus.",
+            "abstract": "We review current pharmacological treatments for peripheral and central vestibular disorders, and ocular motor disorders that impair vision, especially pathological nystagmus. The prerequisites for successful pharmacotherapy of vertigo, dizziness, and abnormal eye movements are the \"4 D's\": correct diagnosis, correct drug, appropriate dosage, and sufficient duration. There are seven groups of drugs (the \"7 A's\") that can be used: antiemetics; anti-inflammatory, anti-Ménière's, and anti-migrainous medications; anti-depressants, anti-convulsants, and aminopyridines. A recovery from acute vestibular neuritis can be promoted by treatment with oral corticosteroids. Betahistine may reduce the frequency of attacks of Ménière's disease. The aminopyridines constitute a novel treatment approach for downbeat and upbeat nystagmus, as well as episodic ataxia type 2 (EA 2); these drugs may restore normal \"pacemaker\" activity to the Purkinje cells that govern vestibular and cerebellar nuclei. A limit",
+            "journal": "Journal of neurology",
+            "year": "2011",
+            "authors": [
+              "Strupp Michael",
+              "Thurtell Matthew J",
+              "Shaikh Aasef G",
+              "Brandt Thomas",
+              "Zee David S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Drug Therapy",
+              "Humans",
+              "Nystagmus, Pathologic",
+              "Ocular Motility Disorders",
+              "Vestibular Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21461686/"
+          },
+          {
+            "pmid": "16415675",
+            "title": "Pharmacological advances in the treatment of neuro-otological and eye movement disorders.",
+            "abstract": "First, to describe the current pharmacological treatment options for peripheral and central vestibular, cerebellar, and ocular motor disorders. Second, to identify vestibular and ocular motor disorders in which treatment trials are warranted.",
+            "journal": "Current opinion in neurology",
+            "year": "2006",
+            "authors": [
+              "Strupp Michael",
+              "Brandt Thomas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cerebellar Ataxia",
+              "Cerebellar Diseases",
+              "Cerebellum",
+              "GABA Agonists",
+              "Humans",
+              "Nystagmus, Pathologic",
+              "Ocular Motility Disorders",
+              "Potassium Channel Blockers",
+              "Vestibular Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16415675/"
+          },
+          {
+            "pmid": "21179531",
+            "title": "Current treatment of vestibular, ocular motor disorders and nystagmus.",
+            "abstract": "Vertigo and dizziness are among the most common complaints with a lifetime prevalence of about 30%. The various forms of vestibular disorders can be treated with pharmacological therapy, physical therapy, psychotherapeutic measures or, rarely, surgery. In this review, the current pharmacological treatment options for peripheral and central vestibular, cerebellar and ocular motor disorders will be described. They are as follows for peripheral vestibular disorders. In vestibular neuritis recovery of the peripheral vestibular function can be improved by treatment with oral corticosteroids. In Menière's disease a recent study showed long-term high-dose treatment with betahistine has a significant effect on the frequency of the attacks. The use of aminopyridines introduced a new therapeutic principle in the treatment of downbeat and upbeat nystagmus and episodic ataxia type 2 (EA 2). These potassium channel blockers presumably increase the activity and excitability of cerebellar Purkinje ce",
+            "journal": "Therapeutic advances in neurological disorders",
+            "year": "2009",
+            "authors": [
+              "Strupp Michael",
+              "Brandt Thomas"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21179531/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "active vestibular Meniere disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20active%20vestibular%20Meniere%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "active cochlear Meniere disease",
+        "txgnn_score": 0.8339543342590332,
+        "txgnn_rank": 15904,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "active cochlear Meniere disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20active%20cochlear%20Meniere%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "active cochleovestibular Meniere disease",
+        "txgnn_score": 0.8339543342590332,
+        "txgnn_rank": 15905,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "active cochleovestibular Meniere disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20active%20cochleovestibular%20Meniere%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "trigeminal nerve neoplasm",
+        "txgnn_score": 0.8291664123535156,
+        "txgnn_rank": 16314,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "17997704",
+            "title": "Trigeminal neuralgia: for one nerve a multitude of treatments.",
+            "abstract": "Trigeminal neuralgia (TN) is reputed to be one of the most painful conditions in human experience. Thus, many treatments, both medical and surgical, have been developed for this relapsing and remitting, paroxysmal stabbing or electrical, facial pain syndrome. The likely etiology in many cases is vascular compression of the trigeminal nerve root entry zone, leading to focal demyelination and aberrant neural discharges. MRI may disclose neurovascular contact, although not with sufficient sensitivity or specificity to substitute for careful clinical diagnosis. In treating TN, antiepileptic drugs are superior to traditional analgesics. Carbamazepine is the first choice drug. Additional drugs for which there is evidence of efficacy include oxcarbazepine, baclofen, gabapentin, lamotrigine and phenytoin. Many patients eventually experience tachyphylaxis or may not tolerate effective doses. Surgical options include: microvascular decompression; balloon compression; radiofrequency thermocoagula",
+            "journal": "Expert review of neurotherapeutics",
+            "year": "2007",
+            "authors": [
+              "Cheshire William P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Analgesics, Non-Narcotic",
+              "Dandy-Walker Syndrome",
+              "Diagnosis, Differential",
+              "Humans",
+              "Meningioma",
+              "Radiosurgery",
+              "Rhizotomy",
+              "Trigeminal Neuralgia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17997704/"
+          },
+          {
+            "pmid": "29589986",
+            "title": "Burning Mouth Pain: A Case Report.",
+            "abstract": "",
+            "journal": "Journal of oncology practice",
+            "year": "2018",
+            "authors": [
+              "Oberoi-Jassal Ritika",
+              "Portman Diane",
+              "Smith Joshua",
+              "Rajasekhara Sahana",
+              "Desai Vijay V"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Analgesics",
+              "Burning Mouth Syndrome",
+              "Carcinoma, Squamous Cell",
+              "Clonazepam",
+              "Female",
+              "Fentanyl",
+              "Gabapentin",
+              "Humans",
+              "Lingual Nerve",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29589986/"
+          },
+          {
+            "pmid": "10204905",
+            "title": "Acute herpetic neuralgia and postherpetic neuralgia in the head and neck: response to gabapentin in five cases.",
+            "abstract": "The clinical presentations and pharmacologic management of three patients with acute herpetic neuralgia (AHN) and two patients with postherpetic neuralgia (PHN), confined to the head and neck region, are described.",
+            "journal": "Regional anesthesia and pain medicine",
+            "year": "1999",
+            "authors": [
+              "Filadora V A",
+              "Sist T C",
+              "Lema M J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Acetates",
+              "Acute Disease",
+              "Adult",
+              "Aged",
+              "Amines",
+              "Analgesics",
+              "Cyclohexanecarboxylic Acids",
+              "Female",
+              "Gabapentin",
+              "Herpes Zoster"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10204905/"
+          },
+          {
+            "pmid": "28666502",
+            "title": "Bilateral Intractable Trigeminal Neuralgia due to a Prepontine Epidermoid Tumour: An Unlikely Duo.",
+            "abstract": "Prepontine epidermoid is a rare congenital tumour which arises during 3rd - 5th week of embryogenesis due to incomplete separation of neuroectoderm from surface ectoderm. This is slow growing benign tumour with late presentation in adult life. The clinical symptoms depend on the location of the tumour. In this case, the patient had intractable bilateral trigeminal neuralgia. The patient was given conservative treatment for 8 weeks with carbamazipine, but it did not respond to the neuralgic pain medication. Another trial of combined neuropathic medications including carbamazepine, gabapentin, pregabalin and baclofen were given for another 8 weeks, but the symptoms continued. MRI brain showed hypodense tumour on T1 weighted image which was hyperdense on T2 weighted images. The roots of both trigeminal nerves were involved in the prepontine area, proximal to the trigeminal ganglion. Surgical resection of the tumour was carried out in a two-stage operation. After complete surgical removal,",
+            "journal": "Journal of the College of Physicians and Surgeons--Pakistan : JCPSP",
+            "year": "2016",
+            "authors": [
+              "Junaid Muhammad",
+              "Rashid Mamoon Ur",
+              "Afsheen Afeera",
+              "Tahir Ayesha",
+              "Bukhari Syed Sarmad"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Epidermal Cyst",
+              "Female",
+              "Humans",
+              "Magnetic Resonance Imaging",
+              "Middle Aged",
+              "Treatment Outcome",
+              "Trigeminal Neuralgia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28666502/"
+          },
+          {
+            "pmid": "23729458",
+            "title": "Topical medications for the effective management of neuropathic orofacial pain.",
+            "abstract": "",
+            "journal": "Journal of the American Dental Association (1939)",
+            "year": "2013",
+            "authors": [
+              "Haribabu Prashanth Konatham",
+              "Eliav Eli",
+              "Heir Gary M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Amines",
+              "Analgesics, Non-Narcotic",
+              "Anesthetics, Local",
+              "Anti-Inflammatory Agents, Non-Steroidal",
+              "Carbamazepine",
+              "Cranial Nerve Diseases",
+              "Cyclohexanecarboxylic Acids",
+              "Diagnosis, Differential",
+              "Facial Pain"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23729458/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "trigeminal nerve neoplasm",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20trigeminal%20nerve%20neoplasm"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "osteoarthritis susceptibility",
+        "txgnn_score": 0.8291347026824951,
+        "txgnn_rank": 16318,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "28085183",
+            "title": "Topical capsaicin (high concentration) for chronic neuropathic pain in adults.",
+            "abstract": "This review is an update of 'Topical capsaicin (high concentration) for chronic neuropathic pain in adults' last updated in Issue 2, 2013. Topical creams with capsaicin are used to treat peripheral neuropathic pain. Following application to the skin, capsaicin causes enhanced sensitivity, followed by a period with reduced sensitivity and, after repeated applications, persistent desensitisation. High-concentration (8%) capsaicin patches were developed to increase the amount of capsaicin delivered; rapid delivery was thought to improve tolerability because cutaneous nociceptors are 'defunctionalised' quickly. The single application avoids noncompliance. Only the 8% patch formulation of capsaicin is available, with a capsaicin concentration about 100 times greater than conventional creams. High-concentration topical capsaicin is given as a single patch application to the affected part. It must be applied under highly controlled conditions, often following local anaesthetic, due to the ini",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2017",
+            "authors": [
+              "Derry Sheena",
+              "Rice Andrew Sc",
+              "Cole Peter",
+              "Tan Toni",
+              "Moore R Andrew"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Administration, Topical",
+              "Adult",
+              "Analgesics",
+              "Capsaicin",
+              "Chronic Pain",
+              "Diabetic Neuropathies",
+              "HIV Infections",
+              "Humans",
+              "Neuralgia",
+              "Neuralgia, Postherpetic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28085183/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Gabapentin",
+          "disease": "osteoarthritis susceptibility",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Gabapentin%20osteoarthritis%20susceptibility"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Gabapentin",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00996",
+    "name": "Gabapentin",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Gabapentin"
+      },
+      "queried_at": "2026-03-24T16:11:22.683789",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Gabapentin"
+      },
+      "queried_at": "2026-03-24T16:11:22.684377",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Gabapentin"
+      },
+      "queried_at": "2026-03-24T16:11:23.326764",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T16:11:23.746803",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T16:11:28.042451",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T16:11:28.580016",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "acne (disease)"
+      },
+      "queried_at": "2026-03-24T16:11:31.077442",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "adolescent/adult onset autosomal dominant epilepsy with auditory features"
+      },
+      "queried_at": "2026-03-24T16:11:31.478313",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "adolescent/adult onset autosomal dominant epilepsy with auditory features"
+      },
+      "queried_at": "2026-03-24T16:11:35.106274",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "adolescent/adult onset autosomal dominant epilepsy with auditory features"
+      },
+      "queried_at": "2026-03-24T16:11:35.731005",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "adolescent/adult onset autosomal dominant epilepsy with auditory features"
+      },
+      "queried_at": "2026-03-24T16:11:36.645746",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "epilepsy with generalized tonic-clonic seizures"
+      },
+      "queried_at": "2026-03-24T16:11:37.751069",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "epilepsy with generalized tonic-clonic seizures"
+      },
+      "queried_at": "2026-03-24T16:11:40.987331",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "epilepsy with generalized tonic-clonic seizures"
+      },
+      "queried_at": "2026-03-24T16:11:41.548118",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "epilepsy with generalized tonic-clonic seizures"
+      },
+      "queried_at": "2026-03-24T16:11:44.837104",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "myofascial pain syndrome"
+      },
+      "queried_at": "2026-03-24T16:11:45.629813",
+      "status": "success",
+      "result_count": 18,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "myofascial pain syndrome"
+      },
+      "queried_at": "2026-03-24T16:11:49.135195",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "myofascial pain syndrome"
+      },
+      "queried_at": "2026-03-24T16:11:49.751372",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "myofascial pain syndrome"
+      },
+      "queried_at": "2026-03-24T16:11:52.509244",
+      "status": "success",
+      "result_count": 11,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "visual epilepsy"
+      },
+      "queried_at": "2026-03-24T16:11:54.394805",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "visual epilepsy"
+      },
+      "queried_at": "2026-03-24T16:11:57.777449",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "visual epilepsy"
+      },
+      "queried_at": "2026-03-24T16:11:58.328840",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "visual epilepsy"
+      },
+      "queried_at": "2026-03-24T16:12:02.238861",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active vestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:02.697830",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active vestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:06.330104",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active vestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:06.945107",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active vestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:10.235917",
+      "status": "success",
+      "result_count": 4,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochlear Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:10.790807",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochlear Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:14.178191",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochlear Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:14.804084",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochlear Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:16.045114",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochleovestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:16.580611",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochleovestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:19.991537",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochleovestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:20.537662",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "active cochleovestibular Meniere disease"
+      },
+      "queried_at": "2026-03-24T16:12:22.947938",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-24T16:12:23.632664",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-24T16:12:27.130841",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-24T16:12:27.808568",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "trigeminal nerve neoplasm"
+      },
+      "queried_at": "2026-03-24T16:12:30.298317",
+      "status": "success",
+      "result_count": 5,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "osteoarthritis susceptibility"
+      },
+      "queried_at": "2026-03-24T16:12:30.829852",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "osteoarthritis susceptibility"
+      },
+      "queried_at": "2026-03-24T16:12:34.102346",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "osteoarthritis susceptibility"
+      },
+      "queried_at": "2026-03-24T16:12:34.647505",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Gabapentin",
+        "disease": "osteoarthritis susceptibility"
+      },
+      "queried_at": "2026-03-24T16:12:37.138538",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:12:37.145343"
+  }
+}

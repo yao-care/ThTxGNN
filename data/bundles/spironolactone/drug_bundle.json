@@ -1,0 +1,2708 @@
+{
+  "drug": {
+    "inn": "Spironolactone",
+    "drugbank_id": "DB00421",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "hypotrichosis simplex of the scalp",
+        "txgnn_score": 0.9926404356956482,
+        "txgnn_rank": 1613,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "hypotrichosis simplex of the scalp",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20hypotrichosis%20simplex%20of%20the%20scalp"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital hypotrichosis milia",
+        "txgnn_score": 0.9904345273971558,
+        "txgnn_rank": 2001,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "congenital hypotrichosis milia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20congenital%20hypotrichosis%20milia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "diffuse alopecia areata",
+        "txgnn_score": 0.9841065406799316,
+        "txgnn_rank": 3049,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "41714473",
+            "title": "Androgenetic Alopecia in Women: A Narrative Review of Pathophysiology, Clinical Evaluation, and Treatments.",
+            "abstract": "Androgenetic alopecia (AGA) affects nearly 50% of women during their lifetime, representing the most prevalent form of chronic hair loss in this population. Despite its high incidence, AGA in women remains underdiagnosed and undertreated, with significant psychosocial consequences including diminished self-esteem, impaired social functioning, and reduced quality of life that often exceed impacts observed in men. AGA pathophysiology involves complex interactions between hormonal, genetic, and environmental factors. Androgens promote follicular miniaturization through progressive shortening of the anagen phase, while estrogens may provide protective effects. Genetic studies reveal sex-specific differences in disease mechanisms, and environmental factors like oxidative stress and pollution may contribute to disease progression. Clinical evaluation requires careful consideration of differential diagnoses including chronic telogen effluvium, diffuse alopecia areata, and scarring alopecias. ",
+            "journal": "American journal of clinical dermatology",
+            "year": "2026",
+            "authors": [
+              "Kearney Caitlin A",
+              "Brinks Anna L",
+              "Lawrence Carli Needle",
+              "Maas Derek E",
+              "Spindler Archie J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/41714473/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "diffuse alopecia areata",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20diffuse%20alopecia%20areata"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "alopecia",
+        "txgnn_score": 0.978298008441925,
+        "txgnn_rank": 3908,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02483195",
+            "title": "The Use of 5mg Finasteride Versus 200mg Spironolactone and Topical 5% Minoxidil in Treating Postmenopausal Female Androgenetic Alopecia",
+            "phase": "PHASE4",
+            "status": "WITHDRAWN",
+            "start_date": "2016-08",
+            "completion_date": "2018-08",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The investigators propose to conduct a head-to-head, randomized clinical trial to compare the effectiveness of Minoxidil with Spironolactone and Finasteride in treating postmenopausal females with Androgenetic Alopecia (AGA).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* female\n* postmenopausal (\\>60 years old or with total hysterectomy)\n* diagnosed with androgenetic alopecia\n* no chemical processing or changes in hair products throughout the study\n\nExclusion Criteria:\n\n* men\n* premenopausal women (\\<60 or without hysterectomy)\n* participants ",
+            "endpoints": [
+              "The Savin Scale will be used to determine hair growth and/or hair loss between the groups.",
+              "The Ludwig Scale will be used to determine hair growth and/or hair loss between the groups.",
+              "Alopecia improvement assessment will be used to determine hair growth and/or hair loss between the groups."
+            ],
+            "sponsor": "University of Florida",
+            "url": "https://clinicaltrials.gov/study/NCT02483195"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00175617",
+            "title": "Efficacy of Therapy With the Anti-androgen Spironolactone Compared to Topical Minoxidil in Female Pattern Hair Loss",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2005-09",
+            "completion_date": "2009-03-09",
+            "country": "Canada",
+            "enrollment": 40,
+            "brief_summary": "This study evaluates the efficacy of therapy with the anti-androgen spironolactone compared to topical minoxidil in female pattern hair loss.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Subjects must be premenopausal women older than 18 with female pattern hair loss.\n\nExclusion Criteria:\n\n* Androgen excess\n* Other scalp or hair disorders\n* Contraindications to spironolactone treatment, especially pregnancy, electrolyte imbalances, history of breast cancer, or",
+            "endpoints": [
+              "hair density"
+            ],
+            "sponsor": "University of British Columbia",
+            "url": "https://clinicaltrials.gov/study/NCT00175617"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "36923692",
+            "title": "The Efficacy and Safety of Oral and Topical Spironolactone in Androgenetic Alopecia Treatment: A Systematic Review.",
+            "abstract": "Androgenetic alopecia (AGA) has negative impacts on both men and women in terms of appearance and mental stress. Spironolactone is a synthetic aldosterone receptor antagonist known to stimulate hair growth and has been widely used by dermatologists to treat AGA.",
+            "journal": "Clinical, cosmetic and investigational dermatology",
+            "year": "2023",
+            "authors": [
+              "Wang Chaofan",
+              "Du Yimei",
+              "Bi Lingbo",
+              "Lin Xuewen",
+              "Zhao Min"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36923692/"
+          },
+          {
+            "pmid": "37284568",
+            "title": "Treatment of Androgenetic Alopecia: Current Guidance and Unmet Needs.",
+            "abstract": "Androgenetic alopecia (AGA) is the most common cause of hair loss in men and women. Traditionally, topical minoxidil and oral finasteride have been the standard of care yielding mixed results. New treatments such as Low-Level Laser Therapy (LLLT), microneedling, platelet-rich plasma (PRP), and others have been extensively studied in the literature, and the purpose of this review is to provide a comprehensive discussion of the latest treatment methods and their efficacy in treating AGA. Novel therapies such as oral minoxidil, topical finasteride, topical spironolactone, botulinum toxin, and stem cell therapy offer interesting alternatives to standard of care therapies for patients. In this review, we present data from recent studies on the clinical efficacy of these treatments. Furthermore, as new treatments have emerged, clinicians have tested combination therapies to assess whether there may be a synergistic relationship between multiple modalities. While there has been a great increa",
+            "journal": "Clinical, cosmetic and investigational dermatology",
+            "year": "2023",
+            "authors": [
+              "Kaiser Michael",
+              "Abdin Rama",
+              "Gaumond Simonetta I",
+              "Issa Naiem T",
+              "Jimenez Joaquin J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37284568/"
+          },
+          {
+            "pmid": "37823040",
+            "title": "Androgenetic alopecia: An update.",
+            "abstract": "Androgenetic alopecia (AGA) is the most common nonscarring alopecia and is characterised by distinct gradual patterned hair loss. AGA is mediated by genetic predisposition and excessive follicular sensitivity to androgens, mainly in males, leading to the progressive conversion of scalp terminal hair into vellus hair. Although highly prevalent, it is not fatal but may have a severe psychosocial impact, especially on females and younger males. Significant advances have been made in understanding AGA's epidemiology and pathophysiology, but only 2 drugs remain approved by the FDA - finasteride and minoxidil. Prolonged use of these drugs, is a prerequisite for enhanced treatment response. However, this leads to poor medication adherence and adverse effects from extended use eg, the \"postfinasteride syndrome\" which persists beyond stopping the drug. Hence, there is a need for research on more effective alternative treatments for AGA, with fewer side effects. This paper reviewed recent advanc",
+            "journal": "JAAD international",
+            "year": "2023",
+            "authors": [
+              "Ntshingila Sincengile",
+              "Oputu Ogheneochuko",
+              "Arowolo Afolake T",
+              "Khumalo Nonhlanhla P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37823040/"
+          },
+          {
+            "pmid": "34756934",
+            "title": "Androgenetic alopecia in transgender and gender diverse populations: A review of therapeutics.",
+            "abstract": "Androgenetic alopecia (AGA) management is a significant clinical and therapeutic challenge for transgender and gender-diverse (TGD) patients. Although gender-affirming hormone therapies affect hair growth, there is little research about AGA in TGD populations. After reviewing the literature on approved treatments, off-label medication usages, and procedures for treating AGA, we present treatment options for AGA in TGD patients. The first-line treatments for any TGD patient include topical minoxidil 5% applied to the scalp once or twice daily, finasteride 1 mg oral daily, and/or low-level laser light therapy. Spironolactone 200 mg daily is also first-line for transfeminine patients. Second-line options include daily oral minoxidil dosed at 1.25 or 2.5 mg for transfeminine and transmasculine patients, respectively. Topical finasteride 0.25% monotherapy or in combination with minoxidil 2% solution are second-line options for transmasculine and transfeminine patients, respectively. Other s",
+            "journal": "Journal of the American Academy of Dermatology",
+            "year": "2023",
+            "authors": [
+              "Gao Julia L",
+              "Streed Carl G",
+              "Thompson Julie",
+              "Dommasch Erica D",
+              "Peebles Jon Klinton"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Minoxidil",
+              "Finasteride",
+              "Transgender Persons",
+              "Alopecia",
+              "Dutasteride",
+              "Treatment Outcome",
+              "Male",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34756934/"
+          },
+          {
+            "pmid": "38852607",
+            "title": "Management of androgenic alopecia: a systematic review of the literature.",
+            "abstract": "We aimed to determine the efficacy of the various available oral, topical, and procedural treatment options for hair loss in individuals with androgenic alopecia. Using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, a systematic review of the National Library of Medicine was performed. Overall, 141 unique studies met our inclusion criteria. We demonstrate that many over the counter (e.g. topical minoxidil, supplements, low-level light treatment), prescription (e.g. oral minoxidil, finasteride, dutasteride), and procedural (e.g. platelet-rich plasma, fractionated lasers, hair transplantation) treatments successfully promote hair growth, highlighting the superiority of a multifaceted and individualized approach to management.",
+            "journal": "Journal of cosmetic and laser therapy : official publication of the European Society for Laser Dermatology",
+            "year": "2024",
+            "authors": [
+              "Rosenthal Amanda",
+              "Conde Geena",
+              "Greco Joseph F",
+              "Gharavi Nima M"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alopecia",
+              "Low-Level Light Therapy",
+              "Platelet-Rich Plasma",
+              "Minoxidil",
+              "Finasteride",
+              "Dutasteride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38852607/"
+          },
+          {
+            "pmid": "39893632",
+            "title": "Efficacy, safety and tolerability of drugs for alopecia: a comprehensive review.",
+            "abstract": "Alopecia, encompassing non-scarring and scarring types, presents therapeutic challenges requiring individualized approaches based on pathophysiology and treatment responses. A comprehensive literature search of PubMed/MEDLINE, Embase, Cochrane Library, Scopus, and Web of Science (2015-2024) focused on randomized controlled trials, meta-analyses, and observational studies.",
+            "journal": "Expert opinion on drug metabolism & toxicology",
+            "year": "2025",
+            "authors": [
+              "Valdez-Zertuche Jair Alejandro",
+              "Ramírez-Marín Hassiel Aurelio",
+              "Tosti Antonella"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alopecia",
+              "Alopecia Areata",
+              "Randomized Controlled Trials as Topic",
+              "Janus Kinase Inhibitors",
+              "Animals",
+              "Drug Delivery Systems",
+              "Molecular Targeted Therapy",
+              "Androgen Antagonists",
+              "Precision Medicine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39893632/"
+          },
+          {
+            "pmid": "31733195",
+            "title": "Polycystic ovarian syndrome: Correlation between hyperandrogenism, insulin resistance and obesity.",
+            "abstract": "Polycystic ovary syndrome (PCOS) is a complex and heterogeneous endocrine disease characterized by clinical or laboratorial hyperandrogenism, oligo-anovulation and metabolic abnormalities, including insulin resistance, excessive weight or obesity, type II diabetes, dyslipidemia and an increased risk of cardiovascular disease. The most significant clinical manifestation of PCOS is hyperandrogenism. Excess androgen profoundly affects granulosa cell function and follicular development via complex mechanisms that lead to obesity and insulin resistance. Most PCOS patients with hyperandrogenism have steroid secretion defects that result in abnormal folliculogenesis and failed dominant follicle selection. Hyperandrogenism induces obesity, hairy, acne, and androgenetic alopecia. These symptoms can bring great psychological stress to women. Drugs such as combined oral contraceptive pills, metformin, pioglitazone and low-dose spironolactone help improve pregnancy rates by decreasing androgen lev",
+            "journal": "Clinica chimica acta; international journal of clinical chemistry",
+            "year": "2020",
+            "authors": [
+              "Zeng Xin",
+              "Xie Yuan-Jie",
+              "Liu Ya-Ting",
+              "Long Shuang-Lian",
+              "Mo Zhong-Cheng"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Androgens",
+              "Female",
+              "Humans",
+              "Hyperandrogenism",
+              "Hypoglycemic Agents",
+              "Insulin Resistance",
+              "Metformin",
+              "Obesity",
+              "Pioglitazone",
+              "Polycystic Ovary Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31733195/"
+          },
+          {
+            "pmid": "34352345",
+            "title": "Efficacy and safety profile of oral spironolactone use for androgenic alopecia: A systematic review.",
+            "abstract": "",
+            "journal": "Journal of the American Academy of Dermatology",
+            "year": "2022",
+            "authors": [
+              "James JaBreia F",
+              "Jamerson Taylor A",
+              "Aguh Crystal"
+            ],
+            "pub_types": [
+              "Letter",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Alopecia",
+              "Hair",
+              "Humans",
+              "Spironolactone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34352345/"
+          },
+          {
+            "pmid": "38540126",
+            "title": "The Hormonal Background of Hair Loss in Non-Scarring Alopecias.",
+            "abstract": "Hair loss is a common clinical condition connected with serious psychological distress and reduced quality of life. Hormones play an essential role in the regulation of the hair growth cycle. This review focuses on the hormonal background of hair loss, including pathophysiology, underlying endocrine disorders, and possible treatment options for alopecia. In particular, the role of androgens, including dihydrotestosterone (DHT), testosterone (T), androstenedione (A4), dehydroepiandrosterone (DHEA), and its sulfate (DHEAS), has been studied in the context of androgenetic alopecia. Androgen excess may cause miniaturization of hair follicles (HFs) in the scalp. Moreover, hair loss may occur in the case of estrogen deficiency, appearing naturally during menopause. Also, thyroid hormones and thyroid dysfunctions are linked with the most common types of alopecia, including telogen effluvium (TE), alopecia areata (AA), and androgenetic alopecia. Particular emphasis is placed on the role of the",
+            "journal": "Biomedicines",
+            "year": "2024",
+            "authors": [
+              "Owecka Barbara",
+              "Tomaszewska Agata",
+              "Dobrzeniecki Krzysztof",
+              "Owecki Maciej"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38540126/"
+          },
+          {
+            "pmid": "37650533",
+            "title": "The efficacy of the combination of topical minoxidil and oral spironolactone compared with the combination of topical minoxidil and oral finasteride in women with androgenic alopecia, female and male hair loss patterns: A blinded randomized clinical trial.",
+            "abstract": "Androgenic alopecia (AGA) is the most common cause of hair loss in women, affecting their quality of life. The present study was conducted with the aim of comparing the combined effect of topical minoxidil and oral spironolactone with the combined effect of topical minoxidil and oral finasteride in women with AGA, female and male hair loss patterns.",
+            "journal": "Journal of cosmetic dermatology",
+            "year": "2024",
+            "authors": [
+              "Sadeghzadeh Bazargan Afsaneh",
+              "Tavana Zeynab",
+              "Dehghani Abbas",
+              "Jafarzadeh Alireza",
+              "Tabavar Anahita"
+            ],
+            "pub_types": [
+              "Randomized Controlled Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Male",
+              "Minoxidil",
+              "Finasteride",
+              "Spironolactone",
+              "Quality of Life",
+              "Alopecia",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37650533/"
+          },
+          {
+            "pmid": "26509855",
+            "title": "AMERICAN ASSOCIATION OF CLINICAL ENDOCRINOLOGISTS, AMERICAN COLLEGE OF ENDOCRINOLOGY, AND ANDROGEN EXCESS AND PCOS SOCIETY DISEASE STATE CLINICAL REVIEW: GUIDE TO THE BEST PRACTICES IN THE EVALUATION AND TREATMENT OF POLYCYSTIC OVARY SYNDROME--PART 1.",
+            "abstract": "Polycystic Ovary Syndrome (PCOS) is recognized as the most common endocrine disorder of reproductive-aged women around the world. This document, produced by the collaboration of the American Association of Clinical Endocrinologists (AACE) and the Androgen Excess and PCOS Society (AES) aims to highlight the most important clinical issues confronting physicians and their patients with PCOS. It is a summary of current best practices in 2015. PCOS has been defined using various criteria, including menstrual irregularity, hyperandrogenism, and polycystic ovary morphology (PCOM). General agreement exists among specialty society guidelines that the diagnosis of PCOS must be based on the presence of at least two of the following three criteria: chronic anovulation, hyperandrogenism (clinical or biological) and polycystic ovaries. There is need for careful clinical assessment of women's history, physical examination, and laboratory evaluation, emphasizing the accuracy and validity of the method",
+            "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+            "year": "2015",
+            "authors": [
+              "Goodman Neil F",
+              "Cobin Rhoda H",
+              "Futterweit Walter",
+              "Glueck Jennifer S",
+              "Legro Richard S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Alopecia",
+              "Androgen Antagonists",
+              "Androgens",
+              "Anovulation",
+              "Diagnostic Techniques, Endocrine",
+              "Female",
+              "Hirsutism",
+              "Humans",
+              "Hyperandrogenism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26509855/"
+          },
+          {
+            "pmid": "32738426",
+            "title": "Spironolactone and breast cancer: Fear not!",
+            "abstract": "",
+            "journal": "Journal of the American Academy of Dermatology",
+            "year": "2020",
+            "authors": [
+              "Heymann Warren R"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Comment"
+            ],
+            "mesh_terms": [
+              "Breast Neoplasms",
+              "Fear",
+              "Female",
+              "Hirsutism",
+              "Humans",
+              "Neoplasm Recurrence, Local",
+              "Retrospective Studies",
+              "Spironolactone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32738426/"
+          },
+          {
+            "pmid": "30312644",
+            "title": "Androgens in women: Androgen-mediated skin disease and patient evaluation.",
+            "abstract": "Androgens are produced throughout the body in steroid-producing organs, such as the adrenal glands and ovaries, and in other tissues, like the skin. Several androgens are found normally in women, including dehydroepiandrosterone, dehydroepiandrosterone-sulfate, testosterone, dihydrotestosterone, and androstenedione. These androgens are essential in the development of several common cutaneous conditions in women, including acne, hirsutism, and female pattern hair loss (FPHL)-androgen-mediated cutaneous disorders (AMCDs). However, the role of androgens in the pathophysiology of these diseases is complicated and incompletely understood. In the first article in this Continuing Medical Education series, we discuss the role of the skin in androgen production and the impact of androgens on the skin in women. Specifically, we review the necessary but insufficient role that androgens play in the development of acne, hirsutism, and FPHL in women. Dermatologists face the challenge of differentiat",
+            "journal": "Journal of the American Academy of Dermatology",
+            "year": "2019",
+            "authors": [
+              "Bienenfeld Amanda",
+              "Azarchi Sarah",
+              "Lo Sicco Kristen",
+              "Marchbein Shari",
+              "Shapiro Jerry"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Adrenal Gland Neoplasms",
+              "Adrenal Glands",
+              "Alopecia",
+              "Androgens",
+              "Cholesterol",
+              "Endocrinology",
+              "Female",
+              "Hair Follicle",
+              "Hirsutism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30312644/"
+          },
+          {
+            "pmid": "40276450",
+            "title": "A Scoping Review of Exosome Delivery Applications in Hair Loss.",
+            "abstract": "The objective of this scoping review was to understand the extent and type of evidence found in the current literature on the delivery mechanisms of exosome therapeutics and how these methods can work synergistically with existing treatments for alopecia. Alopecia is primarily characterized as non-scarring or scarring (cicatricial). In cicatricial alopecia, the hair follicles are irreversibly destroyed, causing permanent hair loss. In non-cicatricial alopecia, the hair follicles are undamaged, allowing for possible hair regeneration. Non-scarring alopecia includes androgenetic alopecia, telogen effluvium, and alopecia areata. Current treatments for non-scarring alopecia include oral minoxidil and spironolactone. Exosome therapeutics are a possible alternative treatment for non-scarring alopecia because of their regenerative properties in hair follicle stimulation, customizable size selection, and the potential to activate and down-regulate specific pathways that enhance hair growth. Th",
+            "journal": "Cureus",
+            "year": "2025",
+            "authors": [
+              "Schaffer Sarah",
+              "Tehrani Lily",
+              "Koechle Braeden",
+              "Chandramohan Prathmica",
+              "Hilburn Brookie"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40276450/"
+          },
+          {
+            "pmid": "35138351",
+            "title": "Association of Spironolactone Use With Risk of Cancer: A Systematic Review and Meta-analysis.",
+            "abstract": "While originally approved for the management of heart failure, hypertension, and edema, spironolactone is commonly used off label in the management of acne, hidradenitis, androgenetic alopecia, and hirsutism. However, spironolactone carries an official warning from the US Food and Drug Administration regarding potential for tumorigenicity.",
+            "journal": "JAMA dermatology",
+            "year": "2022",
+            "authors": [
+              "Bommareddy Kanthi",
+              "Hamade Hassan",
+              "Lopez-Olivo Maria A",
+              "Wehner Mackenzie",
+              "Tosh Traci"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Acne Vulgaris",
+              "Aged",
+              "Breast Neoplasms",
+              "Female",
+              "Hirsutism",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Prostatic Neoplasms",
+              "Spironolactone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35138351/"
+          },
+          {
+            "pmid": "27225981",
+            "title": "Interventions for female pattern hair loss.",
+            "abstract": "Female pattern hair loss (FPHL), or androgenic alopecia, is the most common type of hair loss affecting women. It is characterised by progressive shortening of the duration of the growth phase of the hair with successive hair cycles, and progressive follicular miniaturisation with conversion of terminal to vellus hair follicles (terminal hairs are thicker and longer, while vellus hairs are soft, fine, and short). The frontal hair line may or may not be preserved. Hair loss can have a serious psychological impact on women.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2016",
+            "authors": [
+              "van Zuuren Esther J",
+              "Fedorowicz Zbys",
+              "Schoones Jan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Alopecia",
+              "Drug Administration Schedule",
+              "Female",
+              "Finasteride",
+              "Hair",
+              "Humans",
+              "Low-Level Light Therapy",
+              "Minoxidil",
+              "Randomized Controlled Trials as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27225981/"
+          },
+          {
+            "pmid": "39133327",
+            "title": "To evaluate hypertrichosis with low dose oral minoxidil and spironolactone combination therapy for alopecia.",
+            "abstract": "Low dose oral minoxidil (LDOM) is an efficacious and safe treatment for alopecia, however, a notable side effect is hypertrichosis. Spironolactone, known for treating hirsutism, is also used off-label for the treatment of certain forms of alopecia and may reduce LDOM-induced hypertrichosis. We performed a retrospective review of 54 patients seen at NYU Langone Health and compared hypertrichosis rates in female alopecia patients on LDOM monotherapy versus those on combination therapy with spironolactone. Among 54 patients, 37 received LDOM alone and 17 received the combination. Hypertrichosis developed in 33.3% of patients, with lower rates in the combination group (17.6% vs. 40.5% for monotherapy). Although not statistically significant, the trend suggests spironolactone may mitigate hypertrichosis. The study highlights the potential of combination therapy to address hypertrichosis and calls for larger studies to confirm these findings.",
+            "journal": "Archives of dermatological research",
+            "year": "2024",
+            "authors": [
+              "Nohria Ambika",
+              "Desai Deesha",
+              "Sikora Michelle",
+              "Mandal Soutrik",
+              "Caplan Avrom"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Minoxidil",
+              "Female",
+              "Spironolactone",
+              "Alopecia",
+              "Hypertrichosis",
+              "Adult",
+              "Retrospective Studies",
+              "Drug Therapy, Combination",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39133327/"
+          },
+          {
+            "pmid": "37591565",
+            "title": "Medical and procedural treatment of androgenetic alopecia - Where are we?",
+            "abstract": "Novel medical and procedural options for androgenetic alopecia have arrived. Low-dose oral minoxidil has made its clinical debut, while data on spironolactone, finasteride, and nutritional supplements have advanced. Minimally invasive technological advancements include photobiomodulation and platelet-rich plasma. Within hair transplantation, follicular unit extraction and robotics are now at the clinicians' fingertips.",
+            "journal": "Journal of the American Academy of Dermatology",
+            "year": "2023",
+            "authors": [
+              "Ly Nathalie Y",
+              "Fruechte Sophia",
+              "Hordinsky Maria K",
+              "Sadick Neil",
+              "Arruda Suleima"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alopecia",
+              "Finasteride",
+              "Behavior Therapy",
+              "Minoxidil",
+              "Dietary Supplements"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37591565/"
+          },
+          {
+            "pmid": "40658349",
+            "title": "Cancer-Related Alopecia Risk and Treatment.",
+            "abstract": "Cancer-related alopecia (CRA) presents a significant challenge for many patients undergoing cancer treatment, often affecting their psychological well-being and sense of identity. In my opinion, the optimal management of CRA requires a proactive, personalized approach that prioritizes both prevention and regrowth, while taking into account the type of cancer therapy, patient goals, and overall clinical context. For patients receiving chemotherapy, especially taxane- or anthracycline-based regimens, scalp cooling should be offered as a first-line preventative option whenever feasible. Its demonstrated effectiveness, particularly when appropriately sequenced with chemotherapy agents, makes it a valuable tool in preserving hair and quality of life. For patients with contraindications to scalp cooling or limited access to this intervention, early counseling and support around hair loss expectations and coping strategies remain critical. In terms of regrowth, topical minoxidil remains the m",
+            "journal": "Current treatment options in oncology",
+            "year": "2025",
+            "authors": [
+              "Kaufman Lily",
+              "Valentic Lilia",
+              "Moulton Hannah",
+              "Rose Lucy",
+              "Dulmage Brittany"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alopecia",
+              "Neoplasms",
+              "Disease Management",
+              "Quality of Life",
+              "Antineoplastic Agents",
+              "Minoxidil",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40658349/"
+          },
+          {
+            "pmid": "36039391",
+            "title": "Dermoscopic evaluation of the efficacy of combination of topical spironolactone 5% and minoxidil 5% solutions in the treatment of androgenetic alopecia: A cross sectional-comparative study.",
+            "abstract": "Androgenetic alopecia (AGA) is a common chronic dermatological illness that affects both men and women.",
+            "journal": "Journal of cosmetic dermatology",
+            "year": "2022",
+            "authors": [
+              "Ammar Amr M",
+              "Elshahid Ahmed R",
+              "Abdel-Dayem Hamdy A",
+              "Mohamed Ahmed A",
+              "Elsaie Mohamed L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Male",
+              "Minoxidil",
+              "Spironolactone",
+              "Cross-Sectional Studies",
+              "Treatment Outcome",
+              "Double-Blind Method",
+              "Alopecia",
+              "Administration, Topical"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36039391/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "alopecia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20alopecia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "malignant renovascular hypertension",
+        "txgnn_score": 0.9754157066345216,
+        "txgnn_rank": 4258,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "12929904",
+            "title": "Investigating mineralocorticoid hypertension.",
+            "abstract": "About 3% of our hypertensive patients have high blood pressure induced by corticosteroids. Muscle weakness, tiredness, polyuria and polydipsia may indicate hypokalaemia. Hypokalaemic hypertension in the presence of a low plasma renin activity is the typical finding of corticosteroid hypertension. The most frequent cause of corticosteroid hypertension is primary aldosteronism (Conn's syndrome) due to an adrenal adenoma or bilateral hyperplasia of the adrenal glands. The plasma concentration of aldosterone and the ratio between plasma aldosterone and renin concentrations are high, and the kaliuresis exceeds 30 mmol/24 h in the presence of hypokalaemia. Adrenal carcinomas are rare and very malignant. The localization of an adrenal tumour is made by computer tomography (CT-scan) or nuclear magnetic resonance imaging and by measurement of the aldosterone/cortisol concentrations in the adrenal venous blood. Adenomas are removed under laparoscopy, and adrenal hyperplasias are treated with spi",
+            "journal": "Journal of hypertension. Supplement : official journal of the International Society of Hypertension",
+            "year": "2003",
+            "authors": [
+              "Nussberger Jürg"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenal Gland Diseases",
+              "Humans",
+              "Hypertension",
+              "Mineralocorticoids"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12929904/"
+          },
+          {
+            "pmid": "22147655",
+            "title": "Factors affecting the aldosterone/renin ratio.",
+            "abstract": "Although the aldosterone/renin ratio (ARR) is the most reliable screening test for primary aldo-steronism, false positives and negatives occur. Dietary salt restriction, concomitant malignant or renovascular hypertension, pregnancy and treatment with diuretics (including spironolactone), dihydropyridine calcium blockers, angiotensin converting enzyme inhibitors, and angiotensin receptor antagonists can produce false negatives by stimulating renin. We recently reported selective serotonin reuptake inhibitors lower the ratio. Because potassium regulates aldosterone, uncorrected hypokalemia can lead to false negatives. Beta-blockers, alpha-methyldopa, clonidine, and nonsteroidal anti-inflammatory drugs suppress renin, raising the ARR with potential for false positives. False positives may occur in patients with renal dysfunction or advancing age. We recently showed that (1) females have higher ratios than males, and (2) false positive ratios can occur during the luteal menstrual phase and",
+            "journal": "Hormone and metabolic research = Hormon- und Stoffwechselforschung = Hormones et metabolisme",
+            "year": "2012",
+            "authors": [
+              "Stowasser M",
+              "Ahmed A H",
+              "Pimenta E",
+              "Taylor P J",
+              "Gordon R D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aldosterone",
+              "Diagnostic Tests, Routine",
+              "Female",
+              "Humans",
+              "Hyperaldosteronism",
+              "Male",
+              "Pregnancy",
+              "Renin",
+              "Sensitivity and Specificity"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22147655/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "malignant renovascular hypertension",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20malignant%20renovascular%20hypertension"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "malignant hypertensive renal disease",
+        "txgnn_score": 0.9754157066345216,
+        "txgnn_rank": 4259,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "malignant hypertensive renal disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20malignant%20hypertensive%20renal%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pulmonary hypertension owing to lung disease and/or hypoxia",
+        "txgnn_score": 0.9733093976974488,
+        "txgnn_rank": 4488,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "33862277",
+            "title": "Hypoxia and brain aging: Neurodegeneration or neuroprotection?",
+            "abstract": "The absolute reliance of the mammalian brain on oxygen to generate ATP renders it acutely vulnerable to hypoxia, whether at high altitude or in clinical settings of anemia or pulmonary disease. Hypoxia is pivotal to the pathogeneses of myriad neurological disorders, including Alzheimer's, Parkinson's and other age-related neurodegenerative diseases. Conversely, reduced environmental oxygen, e.g. sojourns or residing at high altitudes, may impart favorable effects on aging and mortality. Moreover, controlled hypoxia exposure may represent a treatment strategy for age-related neurological disorders. This review discusses evidence of hypoxia's beneficial vs. detrimental impacts on the aging brain and the molecular mechanisms that mediate these divergent effects. It draws upon an extensive literature search on the effects of hypoxia/altitude on brain aging, and detailed analysis of all identified studies directly comparing brain responses to hypoxia in young vs. aged humans or rodents. Spe",
+            "journal": "Ageing research reviews",
+            "year": "2021",
+            "authors": [
+              "Burtscher Johannes",
+              "Mallet Robert T",
+              "Burtscher Martin",
+              "Millet Grégoire P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Humans",
+              "Aging",
+              "Brain",
+              "Hypoxia",
+              "Neuroprotection"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33862277/"
+          },
+          {
+            "pmid": "37328448",
+            "title": "N4-Acetylcytidine Drives Glycolysis Addiction in Gastric Cancer via NAT10/SEPT9/HIF-1α Positive Feedback Loop.",
+            "abstract": "Anti-angiogenic therapy has long been considered a promising strategy for solid cancers. Intrinsic resistance to hypoxia is a major cause for the failure of anti-angiogenic therapy, but the underlying mechanism remains unclear. Here, it is revealed that N4-acetylcytidine (ac4C), a newly identified mRNA modification, enhances hypoxia tolerance in gastric cancer (GC) cells by promoting glycolysis addiction. Specifically, acetyltransferase NAT10 transcription is regulated by HIF-1α, a key transcription factor of the cellular response to hypoxia. Further, acRIP-sequencing, Ribosome profiling sequencing, RNA-sequencing, and functional studies confirm that NAT10 in turn activates the HIF-1 pathway and subsequent glucose metabolism reprogramming by mediating SEPT9 mRNA ac4C modification. The formation of the NAT10/SEPT9/HIF-1α positive feedback loop leads to excessive activation of the HIF-1 pathway and induces glycolysis addiction. Combined anti-angiogenesis and ac4C inhibition attenuate hyp",
+            "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+            "year": "2023",
+            "authors": [
+              "Yang Qingbin",
+              "Lei Xuetao",
+              "He Jiayong",
+              "Peng Yanmei",
+              "Zhang Yihao"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Stomach Neoplasms",
+              "Feedback",
+              "Glycolysis",
+              "RNA, Messenger",
+              "Hypoxia",
+              "N-Terminal Acetyltransferases",
+              "Cytidine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37328448/"
+          },
+          {
+            "pmid": "34618295",
+            "title": "Cognitive impairment caused by hypoxia: from clinical evidences to molecular mechanisms.",
+            "abstract": "Hypoxia is a state of reduced oxygen supply and excessive oxygen consumption. According to the duration of hypoxic period, it can be classified as acute and chronic hypoxia. Both acute and chronic hypoxia could induce abundant neurological deficits. Although there have been significant advances in the pathophysiological injuries, few studies have focused on the cognitive dysfunction. In this review, we focused on the clinical evidences and molecular mechanisms of cognitive impairment under acute and chronic hypoxia. Hypoxia can impair several cognitive domains such as attention, learning and memory, procession speed and executive function, which are similar in acute and chronic hypoxia. The severity of cognitive deficit correlates with the duration and degree of hypoxia. Recovery can be achieved after acute hypoxia, while sequelae or even dementia can be observed after chronic hypoxia, perhaps due to the different molecular mechanisms. Cardiopulmonary compensatory response, glycolysis,",
+            "journal": "Metabolic brain disease",
+            "year": "2022",
+            "authors": [
+              "Wang Xiaoyin",
+              "Cui Lili",
+              "Ji Xunming"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cognition Disorders",
+              "Cognitive Dysfunction",
+              "Hippocampus",
+              "Humans",
+              "Hypoxia",
+              "Neurofibrillary Tangles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34618295/"
+          },
+          {
+            "pmid": "33278780",
+            "title": "Altered glucose metabolism and cell function in keloid fibroblasts under hypoxia.",
+            "abstract": "Keloids exhibit metabolic reprogramming including enhanced glycolysis and attenuated oxidative phosphorylation. Hypoxia induces a series of protective responses in mammalian cells. However, the metabolic phenotype of keloid fibroblasts under hypoxic conditions remains to be elucidated. The present study aimed to investigate glycolytic activity, mitochondrial function and morphology, and the HIF1α and PI3K/AKT signaling pathways in keloid fibroblasts (KFB) under hypoxic conditions. Our results showed that hypoxia promoted proliferation, migration invasion and collagen synthesis and inhibited apoptosis in KFB. The mRNA levels, protein expressions and enzyme activities of glycolytic enzymes in KFB were higher than those in normal skin fibroblasts (NFB) under normoxia. Moreover, hypoxia remarkedly upregulated glycolysis in KFB. Decreased activities of mitochondrial complexes and abnormal mitochondria were detected in KFB under normoxic conditions and the damage was aggravated by hypoxia. A",
+            "journal": "Redox biology",
+            "year": "2021",
+            "authors": [
+              "Wang Qifei",
+              "Wang Pu",
+              "Qin Zelian",
+              "Yang Xin",
+              "Pan Bailin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Hypoxia",
+              "Fibroblasts",
+              "Glucose",
+              "Glycolysis",
+              "Hypoxia",
+              "Keloid",
+              "Phosphatidylinositol 3-Kinases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33278780/"
+          },
+          {
+            "pmid": "21328446",
+            "title": "Hypoxia-mediated biological control.",
+            "abstract": "When oxygen demand is greater than oxygen supply, cells need to rapidly adjust their metabolism in order for the tissue to survive. Oxygen sensing by an organism influences a host of processes including growth, development, metabolism, pH homeostasis, and angiogenesis. Hypoxia also contributes to a wide number of human diseases including vascular disease, inflammatory conditions and cancer. Recently, major advances have been made in understanding the response of cells and tissues to hypoxia with the goal of providing mechanistic insight and novel therapeutic targets. In this article we review both the normal biological effects of hypoxia as well as the alterations that occur in specific disease conditions with an emphasis on the cell signaling and gene transcription mechanisms that underlie the changes associated with chronic hypoxia. Comparisons of studies in the fields of cardiac ischemia and tumor angiogenesis reveal the complexities within the microenvironment that control response",
+            "journal": "Journal of cellular biochemistry",
+            "year": "2011",
+            "authors": [
+              "Cassavaugh Jessica",
+              "Lounsbury Karen M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Gene Expression Regulation",
+              "Humans",
+              "Hydrogen-Ion Concentration",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Myocardial Ischemia",
+              "Neoplasm Metastasis",
+              "Neoplasms",
+              "Neovascularization, Pathologic",
+              "Oxygen"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21328446/"
+          },
+          {
+            "pmid": "31706510",
+            "title": "DUBs, Hypoxia, and Cancer.",
+            "abstract": "Alterations in protein ubiquitylation and hypoxia are commonly associated with cancer. Ubiquitylation is carried out by three sequentially acting ubiquitylating enzymes and can be opposed by deubiquitinases (DUBs), which have emerged as promising drug targets. Apart from protein localization and activity, ubiquitylation regulates degradation of proteins, among them hypoxia-inducible factors (HIFs). Thereby, various E3 ubiquitin ligases and DUBs regulate HIF abundance. Conversely, several E3s and DUBs are regulated by hypoxia. While hypoxia is a powerful HIF regulator, less is known about hypoxia-regulated DUBs and their impact on HIFs. Here, we review current knowledge about the relationship of E3s, DUBs, and hypoxia signaling. We also discuss the reciprocal regulation of DUBs by hypoxia and use of DUB-specific drugs in cancer.",
+            "journal": "Trends in cancer",
+            "year": "2019",
+            "authors": [
+              "Mennerich Daniela",
+              "Kubaichuk Kateryna",
+              "Kietzmann Thomas"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Deubiquitinating Enzymes",
+              "Homeostasis",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Neoplasms",
+              "Oxygen",
+              "Protein Transport",
+              "Proteolysis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31706510/"
+          },
+          {
+            "pmid": "34535359",
+            "title": "Therapeutic Modification of Hypoxia.",
+            "abstract": "Regions of reduced oxygenation (hypoxia) are a characteristic feature of virtually all animal and human solid tumours. Numerous preclinical studies, both in vitro and in vivo, have shown that decreasing oxygen concentration induces resistance to radiation. Importantly, hypoxia in human tumours is a negative indicator of radiotherapy outcome. Hypoxia also contributes to resistance to other cancer therapeutics, including immunotherapy, and increases malignant progression as well as cancer cell dissemination. Consequently, substantial effort has been made to detect hypoxia in human tumours and identify realistic approaches to overcome hypoxia and improve cancer therapy outcomes. Hypoxia-targeting strategies include improving oxygen availability, sensitising hypoxic cells to radiation, preferentially killing these cells, locating the hypoxic regions in tumours and increasing the radiation dose to those areas, or applying high energy transfer radiation, which is less affected by hypoxia. De",
+            "journal": "Clinical oncology (Royal College of Radiologists (Great Britain))",
+            "year": "2021",
+            "authors": [
+              "Horsman M R",
+              "Sørensen B S",
+              "Busk M",
+              "Siemann D W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cell Hypoxia",
+              "Humans",
+              "Hypoxia",
+              "Neoplasms",
+              "Oxygen"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34535359/"
+          },
+          {
+            "pmid": "11172576",
+            "title": "Mechanisms of hypoxemia.",
+            "abstract": "The definitions of hypoxemia and hypoxia, and basic pulmonary anatomy and oxygen delivery are reviewed. Low ambient oxygen, hypoventilation, ventilation-perfusion mismatch, and right-to-left shunt, the four basic mechanisms of hypoxemia are described in detail with patient examples. For the sake of completion, a fifth mechanism of hypoxemia that is rarely seen in human disease is described. Because getting oxygen into the blood stream is only half the story, mechanisms of tissue hypoxia in the setting of adequate oxygen exchange from the lungs to the blood are discussed. An algorithm is proposed for diagnosing patients who present with hypoxia.",
+            "journal": "Respiratory care clinics of North America",
+            "year": "2000",
+            "authors": [
+              "Henig N R",
+              "Pierson D J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Algorithms",
+              "Cell Hypoxia",
+              "Child, Preschool",
+              "Decision Trees",
+              "Diagnosis, Differential",
+              "Female",
+              "Hemodynamics"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11172576/"
+          },
+          {
+            "pmid": "40347693",
+            "title": "Hypoxia in multiple sclerosis.",
+            "abstract": "Low oxygen availability (hypoxia) is a prominent but poorly understood feature in multiple sclerosis (MS). Whether hypoxia causes or drives MS pathology and symptoms or whether it is a consequence of other pathological events, such as inflammation and vascular dysfunction, is unknown. Here, we summarize the available literature on the interplay between hypoxia and both pathological and symptomatic features of MS. Severe environmental hypoxia (i.e., altitude) may trigger or facilitate MS-related events, possibly by exacerbating tissue hypoxia in the central nervous system. Accordingly, increasing oxygen supply can mitigate pathological and clinical parameters in MS models. In contrast, stimulating the endogenous hypoxia response and adaptation systems by controlled exposure to hypoxia (hypoxia conditioning) renders the central nervous system more resistant to hypoxic insults, thereby attenuating pathology and symptomatology in MS models. Overlapping mechanisms likely play a role in the ",
+            "journal": "Redox biology",
+            "year": "2025",
+            "authors": [
+              "Burtscher Johannes",
+              "Motl Robert W",
+              "Berek Klaus",
+              "Ehrenreich Hannelore",
+              "Kopp Martin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Multiple Sclerosis",
+              "Humans",
+              "Hypoxia",
+              "Animals",
+              "Oxygen",
+              "Central Nervous System"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40347693/"
+          },
+          {
+            "pmid": "40815459",
+            "title": "[Considerations on hypoxia and altitude].",
+            "abstract": "Hypoxia associated with altitude is known as hypobaric hypoxia and it is related to the decrease in barometric pressure and inspired oxygen pressure; as they decrease, hypoxia increases. High altitude inhabitants acclimatise-adapt with morphological, physiological and genetic changes over generations. There are major differences between high altitude, moderate altitude and sea level. The characteristics of inhabitants of places with moderate altitude have been considered similar to those who live at sea level. However, hypobaric hypoxia is present and oxygenation is lower than at sea level, and it is still unknown what other changes may be caused by hypobaric hypoxia at this altitude.",
+            "journal": "Revista medica del Instituto Mexicano del Seguro Social",
+            "year": "2025",
+            "authors": [
+              "Santos-Martínez Luis Efrén"
+            ],
+            "pub_types": [
+              "Editorial",
+              "English Abstract"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Altitude",
+              "Hypoxia",
+              "Altitude Sickness",
+              "Acclimatization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40815459/"
+          },
+          {
+            "pmid": "4585366",
+            "title": "[Cerebral hypoxia].",
+            "abstract": "",
+            "journal": "Revista medica de Chile",
+            "year": "1973",
+            "authors": [
+              "Ferrer S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adenosine Diphosphate",
+              "Adenosine Monophosphate",
+              "Adenosine Triphosphate",
+              "Animals",
+              "Brain",
+              "Brain Edema",
+              "Humans",
+              "Hypercapnia",
+              "Hypoxia, Brain",
+              "Ischemic Attack, Transient"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4585366/"
+          },
+          {
+            "pmid": "36100192",
+            "title": "Research progress on tumor hypoxia-associative nanomedicine.",
+            "abstract": "Hypoxia at the solid tumor site is generally related to the unrestricted proliferation and metabolism of cancerous cells, which can cause tumor metastasis and aggravate tumor progression. Besides, hypoxia plays a substantial role in tumor treatment, and it is one of the main reasons that malignant tumors are difficult to cure and have a poor prognosis. On account of the tumor specific hypoxic environment, many hypoxia-associative nanomedicine have been proposed for tumor treatment. Considering the enhanced targeting effect, designing hypoxia-associative nanomedicine can not only minimize the adverse effects of drugs on normal tissues, but also achieve targeted therapy at the lesion site. Mostly, there can be three strategies for the treatment of hypoxic tumor, including improvement of hypoxic environment, hypoxia responsive drug release and hypoxia activated prodrug. The review describes the design principle and applications of tumor hypoxia-associative nanomedicine in recent years, an",
+            "journal": "Journal of controlled release : official journal of the Controlled Release Society",
+            "year": "2022",
+            "authors": [
+              "Xu Xiao-Xue",
+              "Chen Si-Yi",
+              "Yi Ning-Bo",
+              "Li Xin",
+              "Chen Si-Lin"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hypoxia",
+              "Nanomedicine",
+              "Neoplasms",
+              "Prodrugs",
+              "Tumor Hypoxia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36100192/"
+          },
+          {
+            "pmid": "8817697",
+            "title": "Hypoxia and brain development.",
+            "abstract": "Hypoxia threatens brain function during the entire life-span starting from early fetal age up to senescence. This review compares the short-term, long-term and life-spanning effects of fetal chronic hypoxia and neonatal anoxia on several behavioural paradigms including novelty-induced spontaneous and learning behaviours. Furthermore, it reveals that perinatal hypoxia is an additional threat to neurodegeneration and decline of cognitive and other behaviours during the aging process. Prenatal hypoxia evokes a temporary delay of ingrowth of cholinergic and serotonergic fibres into the hippocampus and neocortex, and causes an enhanced neurodegeneration of 5-HT-ir axons during aging. Neonatal anoxia suppresses hippocampal ChAT activity and up-regulates muscarinic receptor sites for 3H-QNB and 3H-pirenzepine binding in the hippocampus in the early postnatal age. The altered development of axonal arborization and pre- and postsynaptic cholinergic functions may be an important underlying mecha",
+            "journal": "Progress in neurobiology",
+            "year": "1996",
+            "authors": [
+              "Nyakas C",
+              "Buwalda B",
+              "Luiten P G"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Behavior",
+              "Brain",
+              "Humans",
+              "Hypoxia",
+              "Neurotransmitter Agents"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8817697/"
+          },
+          {
+            "pmid": "27146279",
+            "title": "Hypoxic mechanisms in primary headaches.",
+            "abstract": "Background Hypoxia causes secondary headaches such as high-altitude headache (HAH) and headache due to acute mountain sickness. These secondary headaches mimic primary headaches such as migraine, which suggests a common link. We review and discuss the possible role of hypoxia in migraine and cluster headache. Methods This narrative review investigates the current level of knowledge on the relation of hypoxia in migraine and cluster headache based on epidemiological and experimental studies. Findings Epidemiological studies suggest that living in high-altitude areas increases the risk of migraine and especially migraine with aura. Human provocation models show that hypoxia provokes migraine with and without aura, whereas cluster headache has not been reliably induced by hypoxia. Possible pathophysiological mechanisms include hypoxia-induced release of nitric oxide and calcitonin gene-related peptide, cortical spreading depression and leakage of the blood-brain barrier. Conclusion There ",
+            "journal": "Cephalalgia : an international journal of headache",
+            "year": "2017",
+            "authors": [
+              "Britze Josefine",
+              "Arngrim Nanna",
+              "Schytz Henrik Winther",
+              "Ashina Messoud"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cluster Headache",
+              "Humans",
+              "Hypoxia",
+              "Migraine Disorders"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27146279/"
+          },
+          {
+            "pmid": "37915135",
+            "title": "Regulation of CMGC kinases by hypoxia.",
+            "abstract": "Hypoxia, a widespread occurrence observed in various malignant tumors, results from rapid tumor growth that outpaces the oxygen supply. Tumor hypoxia precipitates several effects on tumor biology; these include activating angiogenesis, intensifying invasiveness, enhancing the survival of tumor cells, suppressing anti-tumor immunity, and fostering resistance to therapy. Aligned with the findings that correlate CMGC kinases with the regulation of Hypoxia-Inducible Factor (HIF), a pivotal modulator, reports also indicate that hypoxia governs the activity of CMGC kinases, including DYRK1 kinases. Prolyl hydroxylation of DYRK1 kinases by PHD1 constitutes a novel mechanism of kinase maturation and activation. This modification \"primes\" DYRK1 kinases for subsequent tyrosine autophosphorylation, a vital step in their activation cascade. This mechanism adds a layer of intricacy to comprehending the regulation of CMGC kinases, and underscores the complex interplay between distinct post-translati",
+            "journal": "BMB reports",
+            "year": "2023",
+            "authors": [
+              "Kim KyeongJin",
+              "Lee Sang Bae"
+            ],
+            "pub_types": [
+              "Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Hypoxia",
+              "Neoplasms",
+              "Phosphorylation",
+              "Cell Hypoxia",
+              "Protein Processing, Post-Translational",
+              "Hypoxia-Inducible Factor 1, alpha Subunit",
+              "Tumor Microenvironment"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37915135/"
+          },
+          {
+            "pmid": "24557798",
+            "title": "Translation in progress: hypoxia.",
+            "abstract": "",
+            "journal": "Journal of applied physiology (Bethesda, Md. : 1985)",
+            "year": "2014",
+            "authors": [
+              "Roach Robert C",
+              "Wagner Peter D",
+              "Hackett Peter H"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Introductory Journal Article"
+            ],
+            "mesh_terms": [
+              "Acclimatization",
+              "Altitude",
+              "Animals",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Oxygen",
+              "Signal Transduction",
+              "Translational Research, Biomedical"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24557798/"
+          },
+          {
+            "pmid": "27423661",
+            "title": "Hypoxia in tissue repair and fibrosis.",
+            "abstract": "Hypoxia and hypoxia signalling through the transcription factor hypoxia inducible factor-1 (HIF-1), play an important role in normal tissue repair processes. Tissue injury generally produces at least the transient loss of normal vascular perfusion and the resulting hypoxia induces the expression of many genes that allow the tissue to adapt to hypoxia, to start the repair process and, in time, to re-establish oxygen delivery to the tissue. In most cases, transient hypoxia and the activation of the HIF-1 pathway are beneficial and promote the repair process, producing tissue that might not perfectly reform its original architecture but that has its function substantially restored. However, in some cases of chronic injury, chronic hypoxia and pathological repair, the hypoxia pathway might be responsible for driving the process of fibrosis and can lead to excessive scarring and compromised organ function.",
+            "journal": "Cell and tissue research",
+            "year": "2016",
+            "authors": [
+              "Darby Ian A",
+              "Hewitson Tim D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Disease",
+              "Fibrosis",
+              "Humans",
+              "Hypoxia",
+              "Organ Specificity",
+              "Oxygen",
+              "Wound Healing"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27423661/"
+          },
+          {
+            "pmid": "37572528",
+            "title": "Inverse correlation between Alzheimer's disease and cancer from the perspective of hypoxia.",
+            "abstract": "Sporadic Alzheimer's disease and cancer remain epidemiologically inversely related, and exploring the reverse pathogenesis is important for our understanding of both. Cognitive dysfunctions in Alzheimer's disease (AD) might result from the depletion of adaptive reserves in the brain. Energy storage in the brain is limited and is dynamically regulated by neurovascular and neurometabolic coupling. The research on neurodegenerative diseases has been dominated by the neurocentric view that neuronal defects cause the diseases. However, the proposal of the 2-hit vascular hypothesis in AD led us to focus on alterations in the vasculature, especially hypoperfusion. Chronic hypoxia is a feature shared by AD and cancer. It is interesting how contradicting chronic hypoxia's effects on both cancer and AD are. In this article, we discuss the potential links between the 2 diseases' etiology, from comparable upstream circumstances to diametrically opposed downstream effects. We suggest opposing poten",
+            "journal": "Neurobiology of aging",
+            "year": "2023",
+            "authors": [
+              "Su Zhan",
+              "Zhang Guimei",
+              "Li Xiangting",
+              "Zhang Haining"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Alzheimer Disease",
+              "Brain",
+              "Hypoxia",
+              "Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37572528/"
+          },
+          {
+            "pmid": "28493839",
+            "title": "Hypoxia inducible factors in hepatocellular carcinoma.",
+            "abstract": "Hepatocellular carcinoma is one of the most prevalent and lethal cancers with limited therapeutic options. Pathogenesis of this disease involves tumor hypoxia and the activation of hypoxia inducible factors. In this review, we describe the current understanding of hypoxia signaling pathway and summarize the expression, function and target genes of hypoxia inducible factors in hepatocellular carcinoma. We also highlight the recent progress in hypoxia-targeted therapeutic strategies in hepatocellular carcinoma and discuss further the future efforts for the study of hypoxia and/or hypoxia inducible factors in this deadly disease.",
+            "journal": "Oncotarget",
+            "year": "2017",
+            "authors": [
+              "Chen Chu",
+              "Lou Tao"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Biomarkers",
+              "Carcinoma, Hepatocellular",
+              "Energy Metabolism",
+              "Gene Expression Regulation, Neoplastic",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1",
+              "Liver Neoplasms",
+              "Molecular Targeted Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28493839/"
+          },
+          {
+            "pmid": "31961750",
+            "title": "Hypoxia and Innate Immunity: Keeping Up with the HIFsters.",
+            "abstract": "Recent years have witnessed an emergence of interest in understanding metabolic changes associated with immune responses, termed immunometabolism. As oxygen is central to all aerobic metabolism, hypoxia is now recognized to contribute fundamentally to inflammatory and immune responses. Studies from a number of groups have implicated a prominent role for oxygen metabolism and hypoxia in innate immunity of healthy tissue (physiologic hypoxia) and during active inflammation (inflammatory hypoxia). This inflammatory hypoxia emanates from a combination of recruited inflammatory cells (e.g., neutrophils, eosinophils, and monocytes), high rates of oxidative metabolism, and the activation of multiple oxygen-consuming enzymes during inflammation. These localized shifts toward hypoxia have identified a prominent role for the transcription factor hypoxia-inducible factor (HIF) in the regulation of innate immunity. Such studies have provided new and enlightening insight into our basic understandin",
+            "journal": "Annual review of immunology",
+            "year": "2020",
+            "authors": [
+              "Colgan Sean P",
+              "Furuta Glenn T",
+              "Taylor Cormac T"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dendritic Cells",
+              "Disease Management",
+              "Disease Susceptibility",
+              "Energy Metabolism",
+              "Gene Expression Regulation",
+              "Host-Pathogen Interactions",
+              "Humans",
+              "Hypoxia",
+              "Hypoxia-Inducible Factor 1"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31961750/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "pulmonary hypertension owing to lung disease and/or hypoxia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20pulmonary%20hypertension%20owing%20to%20lung%20disease%20and/or%20hypoxia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "pulmonary hypertension with unclear multifactorial mechanism",
+        "txgnn_score": 0.9733093976974488,
+        "txgnn_rank": 4489,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "pulmonary hypertension with unclear multifactorial mechanism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20pulmonary%20hypertension%20with%20unclear%20multifactorial%20mechanism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Braddock syndrome",
+        "txgnn_score": 0.9663841724395752,
+        "txgnn_rank": 5342,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "Braddock syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20Braddock%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "chronic pulmonary heart disease",
+        "txgnn_score": 0.9554890394210817,
+        "txgnn_rank": 6343,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02354352",
+            "title": "Therapeutic Potential for Aldosterone Inhibition in Duchenne Muscular Dystrophy",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2015-03-20",
+            "completion_date": "2018-05",
+            "country": "United States",
+            "enrollment": 52,
+            "brief_summary": "The study is to demonstrate non-inferiority of spironolactone vs. eplerenone in preserving cardiac and pulmonary function in patients with preserved LV ejection fraction. Males with Duchenne muscular dystrophy (DMD) confirmed clinically and by mutation analysis will be enrolled. Subjects will be randomized to either eplerenone or spironolactone. Subjects will use a drug diary to record daily compliance of taking the study medication as well as any concerns they may have during the study period. ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Boys age ≥7 years with DMD confirmed clinically and by mutation analysis able to undergo cardiac magnetic resonance (CMR) without sedation\n* LV EF ≥45% (+/-5%) by clinically-acquired echocardiography, nuclear scan or cardiac MRI done within 2 weeks of enrollment\n\nExclusion Cri",
+            "endpoints": [
+              "Left Ventricular Strain"
+            ],
+            "sponsor": "Ohio State University",
+            "url": "https://clinicaltrials.gov/study/NCT02354352"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06697353",
+            "title": "ROVER Japan/ Real-world Outcomes of Patients Treated With Vericiguat in Japanese Routine Care: a Retrospective Cohort Study Using a Hospital Administrative Database",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2024-11-01",
+            "completion_date": "2025-09-19",
+            "country": "Japan",
+            "enrollment": 4936,
+            "brief_summary": "This is an observational study in which data already collected from people with chronic heart failure is studied.\n\nChronic HFrEF is a long-term condition where the left side of the heart does not pump blood out to the body as well as it should. Blood and fluid may collect in the lungs, blood vessels, and tissues causing shortness of breath or tiredness. Over time, heart failure can lead to other serious medical conditions that may result in hospital stays or even death.\n\nThe study drug, vericigu",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPatients who initiate vericiguat (identified by Anatomical Therapeutic Chemical \\[ATC\\] code C01DX22, generic name and receipt code \\[to be defined in the SAP\\]) between September 2021 and July 2024\n\n* Patients who have diagnosis code of HF (identified by World Health Organizati",
+            "endpoints": [
+              "Incidence rates of clinical outcomes in patients who initiate vericiguat"
+            ],
+            "sponsor": "Bayer",
+            "url": "https://clinicaltrials.gov/study/NCT06697353"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07082400",
+            "title": "Screening and Phenotyping of Pulmonary Hypertension in Heart Failure With Preserved Ejection Fraction .",
+            "phase": "NA",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-08-01",
+            "completion_date": "2026-08-01",
+            "country": "N/A",
+            "enrollment": 100,
+            "brief_summary": "Left-sided heart failure (HF) is known to cause pulmonary hypertension (PH), but the development and severity of PH in HF is highly variable, and contributing factors are not fully understood. Pulmonary hypertension (PH) due to left heart disease (PH-LHD) is a growing health problem with high morbidity and mortality . PH-LHD is the most frequent subset of PH, resulting from left ventricular (LV) dysfunction (systolic and/or diastolic) and/or valvular heart disease (VHD) . Although initial studie",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* All patients diagnosed with diastolic heart failure through The H2FPEF score and suspected pulmonary hypertension\n\nExclusion Criteria:\n\n* Heart Failure with reduced ejection fraction .\n* Severe lung diseases as a comborbid condition ,such as COPD (GOLD) class 4 , severe inters",
+            "endpoints": [
+              "mean pulmonary arterial pressure"
+            ],
+            "sponsor": "Sohag University",
+            "url": "https://clinicaltrials.gov/study/NCT07082400"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07483151",
+            "title": "Intraoperative Venous Congestion And Cognitive Dysfunction After Cardiac Surgery: A Prospective Cohort Study",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2024-11-01",
+            "completion_date": "2026-10-31",
+            "country": "China",
+            "enrollment": 110,
+            "brief_summary": "Postoperative cognitive dysfunction (POCD) is a common central nervous system complication after surgery and anesthesia. Its primary clinical manifestations include a significant decline in cognitive abilities after surgery and anesthesia, encompassing memory, attention, coordination, orientation, language fluency, and executive function. POCD may persist for weeks or even years, affecting patient recovery, prolonging hospital stays, and potentially leading to additional physical and mental illn",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients scheduled to undergo elective cardiac surgery via a midline thoracic incision;\n2. ≥18 years;\n3. A preoperative MMSE score\\>23, without consciousness or language barriers, capable of cooperating with neurological examinations, cognitive function tests, and other asses",
+            "endpoints": [
+              "Postoperative cognitive dysfunction after surgery"
+            ],
+            "sponsor": "Yangzhou University",
+            "url": "https://clinicaltrials.gov/study/NCT07483151"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00292162",
+            "title": "Radiofrequency Ablation for Atrial Fibrillation in Advanced Chronic Heart Failure",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2007-01",
+            "completion_date": "2009-07",
+            "country": "United Kingdom",
+            "enrollment": 41,
+            "brief_summary": "Heart failure is a condition that occurs when the heart muscle weakens and no longer contracts normally. Half of these patients have an irregularity of heart rhythm called atrial fibrillation (AF). Patients with both heart failure and AF spend more time in hospital, and die earlier than those with heart failure alone. AF is difficult to treat with conventional methods in patients with heart failure. Radiofrequency ablation is a new technique used to cure AF. The investigators aim to establish if",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Informed consent\n* Persistent atrial fibrillation (AF)\n* New York Heart Association (NYHA) II, III and IV chronic heart failure (CHF) despite optimal medical therapy for at least 3 months\n* left ventricular ejection fraction (LVEF) \\<35% - as measured by radionuclide ventricul",
+            "endpoints": [
+              "Change in Left Ventricular Ejection Fraction by Magnetic Resonance Imaging (MRI)%",
+              "Baseline Left Ventricular Ejection Fraction by Magnetic Resonance Imaging (MRI)",
+              "Left Ventricular Ejection Fraction by Magnetic Resonance Imaging (MRI)at 6 Months"
+            ],
+            "sponsor": "NHS Greater Glasgow and Clyde",
+            "url": "https://clinicaltrials.gov/study/NCT00292162"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01431326",
+            "title": "Pharmacokinetics of Understudied Drugs Administered to Children Per Standard of Care",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2011-11",
+            "completion_date": "2019-11",
+            "country": "Israel, Singapore, United States, United Kingdom, Canada",
+            "enrollment": 3520,
+            "brief_summary": "Understudied drugs will be administered to children per standard of care as prescribed by their treating caregiver and only biological sample collection during the time of drug administration will be involved. A total of approximately 7000 children aged \\<21 years who are receiving these drugs for standard of care will be enrolled and will be followed for up a maximum of 90 days. The goal of this study is to characterize the pharmacokinetics of understudied drugs for which specific dosing recomm",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* 1\\) Children (\\< 21 years of age) who are receiving understudied drugs of interest per standard of care as prescribed by their treating caregiver\n\nExclusion Criteria:\n\n* 1\\) Failure to obtain consent/assent (as indicated)\n* 2\\) Known pregnancy as determined via interview or te",
+            "endpoints": [
+              "Composite of pharmacokinetic outcomes for understudied drugs in children"
+            ],
+            "sponsor": "Duke University",
+            "url": "https://clinicaltrials.gov/study/NCT01431326"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06444711",
+            "title": "A Randomised Clinical Trial for OPTIMISation of Cardio-renal-metabolic-pulmonary Disease Guideline Adherence in High Risk Community Dwelling Individuals and Evaluation of Outcomes",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2025-05-07",
+            "completion_date": "2045-04",
+            "country": "United Kingdom",
+            "enrollment": 138,
+            "brief_summary": "Cardiovascular disease (CVD) causes a quarter of all deaths in the United Kingdom (UK). This is the single biggest area where the National Health Service (NHS) can save lives by detecting and treating risk factors early.\n\nImprovements in control of blood pressure, cholesterol, diabetes, kidney disease, as well as weight loss in individuals who are obese, have been shown to reduce the risk of CVD and death. The NHS has guidelines for investigations and treatments for risk factors recommended by t",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Consented participants in the FIND-AF study\n* Higher predicted FIND-AF risk according to the FIND-AF score\n\nExclusion Criteria:\n\n* Unable to give written informed consent for participation in the study\n* Unable to adhere to the study requirements",
+            "endpoints": [
+              "The proportion of patients with any of the following therapeutic intervention to optimise cardio-renal-metabolic-pulmonary risk factor management"
+            ],
+            "sponsor": "University of Leeds",
+            "url": "https://clinicaltrials.gov/study/NCT06444711"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01685385",
+            "title": "B-type NAtriuretic Peptide In Critically Ill : A Multicentric Diagnostic Study (B-rAPID)",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2012-10",
+            "completion_date": "2013-12",
+            "country": "India",
+            "enrollment": 800,
+            "brief_summary": "Difficulty in breathing or increased rate of breathing are common causes of admission to intensive care unit. This may be due to heart failure, or other causes such as infection in the lungs. Treating doctors usually perform Chest X-ray, ECG, and other tests to know if breathlessness is due to heart failure or other cause. Doctors also give medicines to treat heart failure, or other conditions of the lungs based on the symptoms and investigation results. BNP is released by heart which is not fun",
+            "eligibility_criteria": "Inclusion Criteria:\n\nWe will include all consecutive patients admitted to intensive care units in participating sites with all of the following features:\n\n* Adult aged 18 years or more\n* Acute onset dyspnea (duration 3 days or less) , defined as respiratory rate of 20 or more.\n* Treating physician c",
+            "endpoints": [
+              "In hospital mortality",
+              "30-day mortality"
+            ],
+            "sponsor": "Mahatma Gandhi Institute of Medical Sciences",
+            "url": "https://clinicaltrials.gov/study/NCT01685385"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07331220",
+            "title": "Pulmonary Artery Denervation for Heart Failure With Preserved Left Ventricular Ejection Fraction",
+            "phase": "NA",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-12-30",
+            "completion_date": "2028-12-30",
+            "country": "China",
+            "enrollment": 310,
+            "brief_summary": "To assess the impact of PADN combined with guideline-directed medical therapy (GDMT) versus a sham procedure with GDMT on clinical outcomes in heart failure (HF) patients with preserved left ventricular ejection fraction (LVEF\\>40%). Outcomes include cardiovascular death, HF-related rehospitalization, requirement for heart transplantation or need of valvular treatment or LVAD or pacemaker implantation, and worsening in outpatients (defined as requirement for intravenous therapy or diuretic inten",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1\\. The subject, or their legal guardian, must have a clear understanding of the trial's design and treatment procedures. They must provide written informed consent before any trial-specific tests or procedures are conducted.\n\n2\\. Both male and female subjects age between 18 \\~ ",
+            "endpoints": [
+              "Clinical worsening"
+            ],
+            "sponsor": "Nanjing First Hospital, Nanjing Medical University",
+            "url": "https://clinicaltrials.gov/study/NCT07331220"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07285187",
+            "title": "Intraoperative Venous Congestion And Delirium After Cardiac Surgery: A Prospective Cohort Study",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2024-11-01",
+            "completion_date": "2026-10-31",
+            "country": "China",
+            "enrollment": 120,
+            "brief_summary": "Postoperative delirium (POD) is an acute brain dysfunction characterized by inattention, impaired consciousness, and cognitive and orientation disturbances, and is a common complication after cardiac surgery. The high incidence of up to 52% of POD in cardiac surgery patients lead to a range of adverse clinical outcomes.The brain tissue is enclosed in a rigid anatomical structure; when there is an obstruction to venous return from the brain, intracranial pressure can increase, and blood supply to",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients scheduled to undergo elective cardiac surgery via a midline thoracic incision;\n2. ≥18 years;\n3. A preoperative MMSE score\\>23, without consciousness or language barriers, capable of cooperating with neurological examinations, cognitive function tests, and other asses",
+            "endpoints": [
+              "Postoperative delirium after surgery"
+            ],
+            "sponsor": "Yangzhou University",
+            "url": "https://clinicaltrials.gov/study/NCT07285187"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05580510",
+            "title": "\"An Open-label Clinical Trial to Evaluate the Safety and Efficacy of Empagliflozin and Sacubitril/Valsartan in Adult Patients With Chronic Heart Failure With Reduced Ejection Fraction Associated With Congenital Heart Disease\"",
+            "phase": "PHASE2, PHASE3",
+            "status": "UNKNOWN",
+            "start_date": "2023-02-06",
+            "completion_date": "2024-03-29",
+            "country": "Mexico",
+            "enrollment": 160,
+            "brief_summary": "The treatment of adult patients with congenital heart disease (ACHD) and heart failure (HF) represents a great challenge since, to date, there is no standardized guideline for this specific population. Although new treatments for HF have been proposed, such as Sodium-glucose Cotransporter-2 (SGLT2) Inhibitors and neprilisin and angiotensin receptor inhibitors, the benefit of these drugs in patients with HF associated with congenital heart disease in adults has not yet been demonstrated. For this",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* NYHA functional class II-IV\n* Diagnosis of CHD: repaired, palliated or without previous treatment\n* Systemic ventricular ejection fraction \\<40%\n* Without unplanned hospital admissions within 3 months prior to randomization\n* The participant is willing and able to give informe",
+            "endpoints": [
+              "3D echocardiographic systemic ventricular end-diastolic volume index",
+              "3D echocardiographic systemic ventricular end-systolic volume index"
+            ],
+            "sponsor": "Instituto Nacional de Cardiologia Ignacio Chavez",
+            "url": "https://clinicaltrials.gov/study/NCT05580510"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07232277",
+            "title": "Intraoperative Venous Congestion and Cardiac Surgery-associated Acute Kidney Injury (CSA-AKI): a Prospective Cohort Study",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2024-10-15",
+            "completion_date": "2026-09-30",
+            "country": "China",
+            "enrollment": 114,
+            "brief_summary": "Venous pressure is often overlooked as an important hemodynamic parameter. Elevated venous pressure and blood stasis in organ tissues can lead to interstitial edema. Intraoperative venous blood stasis can rapidly increase interstitial pressures within organ tissues, especially in organs encapsulated by tissue envelopes, such as the kidney, thereby rapidly reducing effective circulating blood flow to the organ. Systemic venous blood stasis, which tends to occur in patients with right heart failur",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Patients scheduled to undergo elective cardiac surgery;\n2. ≥ 18 years.\n\nExclusion Criteria:\n\n1. Contraindications for TEE;\n2. Emergency cardiac surgery;\n3. Major vascular surgery;\n4. Redo cardiac surgery;\n5. Abnormal preoperative renal function;\n6. Severe chronic kidney disea",
+            "endpoints": [
+              "Acute kidney injury defined by an increase in serum creatinine of ≥150% of baseline or an elevation of 0.3 mg/dL or more within a contiguous period of 48 hours. (KDIGO criteria)"
+            ],
+            "sponsor": "Yangzhou University",
+            "url": "https://clinicaltrials.gov/study/NCT07232277"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03344159",
+            "title": "Spironolactone Therapy in Chronic Stable Right HF Trial",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2018-04-01",
+            "completion_date": "2024-05-01",
+            "country": "Canada",
+            "enrollment": 15,
+            "brief_summary": "The purpose of this study is to evaluate the safety, tolerability and mechanistic effects of spironolactone, an aldosterone receptor antagonist, on sympathetic nervous system activity and right heart function and remodeling in patients with chronic right heart failure.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Provide a personally signed and dated inform consent form.\n* Male or female ≥ 18 years.\n* Able to comply with all study procedures.\n* History of right heart failure (RHF) secondary to either:\n\n  i) WHO, group 1 pulmonary arterial hypertension PAH OR ii) WHO group II PH with no",
+            "endpoints": [
+              "Change in Ventricular Wall Stress"
+            ],
+            "sponsor": "Ottawa Heart Institute Research Corporation",
+            "url": "https://clinicaltrials.gov/study/NCT03344159"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "36595088",
+            "title": "Diuretics in pediatrics.",
+            "abstract": "Diuretics are frequently prescribed drugs and help managing several pathological conditions, including acute and chronic kidney disease, nephrotic syndrome, congestive heart failure, ascites, systemic and pulmonary hypertension. Diuretic classes include among others osmotic diuretics and carboanhydrase inhibitors, loop diuretics, thiazides, and potassium-sparing diuretics. In this educational article, we aim at reviewing indications, mechanisms of action, and side effects, as well as basic pharmacokinetics considerations and data on diuretics in children, supporting practicing clinicians in choosing (and understanding the background of) the best-suited diuretic regimen for the individual patient. Newer diuretic classes like vaptans and sodium glucose type 2 cotransporter inhibitors, the recent controversies on hydrochlorothiazide, and the issue of diuretic resistance, will also be briefly addressed.",
+            "journal": "European journal of pediatrics",
+            "year": "2023",
+            "authors": [
+              "Lava Sebastiano A G",
+              "Zollinger Chiara",
+              "Chehade Hassib",
+              "Schaffner Damien",
+              "Sekarski Nicole"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Child",
+              "Diuretics",
+              "Hydrochlorothiazide",
+              "Sodium Potassium Chloride Symporter Inhibitors",
+              "Sodium",
+              "Heart Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36595088/"
+          },
+          {
+            "pmid": "40222820",
+            "title": "Finerenone, chronic obstructive pulmonary disease, and heart failure with mildly reduced or preserved ejection fraction: A prespecified analysis of the FINEARTS-HF trial.",
+            "abstract": "Chronic obstructive pulmonary disease (COPD) is associated with worse outcomes in heart failure (HF) with mildly reduced or preserved ejection fraction (HFmrEF/HFpEF). A post hoc analysis of TOPCAT suggested that the effectiveness of the steroidal mineralocorticoid receptor antagonist (MRA), spironolactone, may be modified by pulmonary disease, with a greater benefit in patients with COPD/asthma. We examined the effects of the non-steroidal MRA, finerenone, compared to placebo, according to COPD status in a prespecified analysis of FINEARTS-HF.",
+            "journal": "European journal of heart failure",
+            "year": "2025",
+            "authors": [
+              "Butt Jawad H",
+              "Jhund Pardeep S",
+              "Henderson Alasdair D",
+              "Claggett Brian L",
+              "Desai Akshay S"
+            ],
+            "pub_types": [
+              "Clinical Trial, Phase III",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Double-Blind Method",
+              "Heart Failure",
+              "Mineralocorticoid Receptor Antagonists",
+              "Naphthyridines",
+              "Pulmonary Disease, Chronic Obstructive"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40222820/"
+          },
+          {
+            "pmid": "34028078",
+            "title": "Clinical efficacy of a benazepril and spironolactone combination in dogs with congestive heart failure due to myxomatous mitral valve disease: The BEnazepril Spironolactone STudy (BESST).",
+            "abstract": "The renin-angiotensin-aldosterone system (RAAS), when chronically activated, is harmful and RAAS-suppressive drugs are beneficial in the treatment of congestive heart failure (CHF). Mineralocorticoid receptor antagonists are widely used in the treatment of CHF in people.",
+            "journal": "Journal of veterinary internal medicine",
+            "year": "2021",
+            "authors": [
+              "Coffman Melissa",
+              "Guillot Emilie",
+              "Blondel Thomas",
+              "Garelli-Paar Catherine",
+              "Feng Shuo"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial, Veterinary"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Benzazepines",
+              "Dog Diseases",
+              "Dogs",
+              "Heart Failure",
+              "Mitral Valve",
+              "Spironolactone",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34028078/"
+          },
+          {
+            "pmid": "30833208",
+            "title": "Mortality associated with cardiovascular drugs in patients with chronic obstructive pulmonary disease and right-sided heart failure - A danish nationwide registry-based study.",
+            "abstract": "The optimal medical treatment in patients with chronic obstructive pulmonary disease (COPD) and right-sided heart failure (RHF) is unknown. We aimed to estimate the risks of all-cause mortality associated with the current clinical use of various cardiovascular drugs in this patient-group.",
+            "journal": "European journal of internal medicine",
+            "year": "2019",
+            "authors": [
+              "Andersson Charlotte",
+              "Hansen Peter Wæde",
+              "Steffensen Ida E",
+              "Andreasen Charlotte",
+              "Weeke Peter E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Aged, 80 and over",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Aspirin",
+              "Calcium Channel Blockers",
+              "Denmark",
+              "Female",
+              "Heart Failure",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30833208/"
+          },
+          {
+            "pmid": "26895877",
+            "title": "\"Nihilism\" of chronic heart failure therapy in children and why effective therapy is withheld.",
+            "abstract": "Major advances in chronic heart failure (cHF) therapy have been achieved and documented in adult patients, while research regarding the mechanisms and therapy of cHF in children has lagged behind. Based on receptor physiological studies and pharmacological knowledge, treatment with specific ß1-adrenergic receptor blocker (ARB), tissue angiotensin-converting enzyme inhibitor (ACE-I), and mineralocorticoid antagonists have to be recommended in children despite lack of sufficient data derived from prospective randomized studies. At our institution, bisoprolol, lisinopril, and spironolactone have been firmly established to treat systolic cHF, hypoplastic left heart syndrome (HLHS) following hybrid approach and congenital left-right shunt diseases, latest in patients where surgery has to be delayed. Chronic therapy with long-acting diuretics and fluid restriction are not advocated because short-term effects are achieved at the expense of further neuro-humoral stimulation. It remains unclear",
+            "journal": "European journal of pediatrics",
+            "year": "2016",
+            "authors": [
+              "Schranz Dietmar",
+              "Voelkel Norbert F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Adult",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Anti-Arrhythmia Agents",
+              "Cardiotonic Agents",
+              "Child",
+              "Child, Preschool",
+              "Disease Management",
+              "Diuretics",
+              "Heart Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26895877/"
+          },
+          {
+            "pmid": "30819379",
+            "title": "Sex Differences in Outcomes and Responses to Spironolactone in Heart Failure With Preserved Ejection Fraction: A Secondary Analysis of TOPCAT Trial.",
+            "abstract": "This study sought to investigate sex differences in outcomes and responses to spironolactone in patients with heart failure with preserved ejection fraction (HFpEF).",
+            "journal": "JACC. Heart failure",
+            "year": "2019",
+            "authors": [
+              "Merrill Miranda",
+              "Sweitzer Nancy K",
+              "Lindenfeld JoAnn",
+              "Kao David P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Aged",
+              "Aged, 80 and over",
+              "Atrial Fibrillation",
+              "Cardiovascular Diseases",
+              "Cause of Death",
+              "Comorbidity",
+              "Coronary Artery Disease",
+              "Diabetes Mellitus",
+              "Dyslipidemias"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30819379/"
+          },
+          {
+            "pmid": "40414280",
+            "title": "Screening for Undiagnosed Heart Failure: A Viewpoint.",
+            "abstract": "The syndrome of heart failure (HF) is characterized by a triad of (1) signs and symptoms, (2) cardiac alterations, and (3) natriuretic peptide elevation. Patients who exhibit alterations of cardiac structure or function without overt signs or symptoms of HF are staged as having \"pre-HF.\" However, many people with undiagnosed HF walk little and do not exercise; thus, they may be classified as having asymptomatic \"pre-HF\" simply because they never exercise enough to feel breathless. Moreover, many patients have comorbidities such as chronic obstructive pulmonary disease or obesity and the physical limitations may be attributed to the comorbidities rather than to HF. Such comorbidities may also influence natriuretic peptide measurements. The potential implications of an HF misdiagnosis are that many patients may remain undertreated. This is illustrated with data from the HOMAGE (Heart Omics in AGEing) study, which included asymptomatic people with mild natriuretic peptide elevation. When ",
+            "journal": "Journal of cardiac failure",
+            "year": "2025",
+            "authors": [
+              "Ferreira João Pedro",
+              "Zannad Faiez"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Heart Failure",
+              "Mass Screening",
+              "Stroke Volume",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40414280/"
+          },
+          {
+            "pmid": "16883227",
+            "title": "[Pulmonary hypertension and right ventricular failure. Part V. Therapy in the patients with chronic obstructive pulmonary disease].",
+            "abstract": "In a series of articles the authors discuss literature data concerning epidemiology of pulmonary hypertension, its modern classification; peculiarities of its pathogenesis and treatment in various diseases and conditions. In the fifth lecture they present literature data on nondrug interventions and drug therapy of patients with chronic obstructive pulmonary disease (COPD), complicated with development of chronic cor pulmonale. Contemporary views of the role of oxygen therapy and bronchodilators of various type in treatment of COPD are discussed in detail. Beneficial effect of dihydropyridine calcium antagonists on pulmonary circulation in patients with COPD, possibilities and limitations of their long term use in treatment of pulmonary arterial hypertension including that in patients with COPD are considered. The authors also consider in detail beneficial and harmful properties of drugs, which may be used in treatment of patients with COPD, in particular of digoxin, diuretics, spirono",
+            "journal": "Kardiologiia",
+            "year": "2006",
+            "authors": [
+              "Batyraliev T A",
+              "Makhmutkhodzhaev S A",
+              "Pataraia S A",
+              "Pershukov I V",
+              "Sidorenko B A"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antihypertensive Agents",
+              "Bronchodilator Agents",
+              "Heart Failure",
+              "Humans",
+              "Hypertension, Pulmonary",
+              "Oxygen Inhalation Therapy",
+              "Phlebotomy",
+              "Pulmonary Disease, Chronic Obstructive",
+              "Treatment Outcome",
+              "Ventricular Dysfunction, Right"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16883227/"
+          },
+          {
+            "pmid": "32919912",
+            "title": "Associations Between Depressive Symptoms and HFpEF-Related Outcomes.",
+            "abstract": "This study analyzed changes in depressive symptoms in patients with heart failure and preserved ejection fraction (HFpEF) who were enrolled in the TOPCAT (Aldosterone Antagonist Therapy for Adults With Heart Failure and Preserved Systolic Function) trial.",
+            "journal": "JACC. Heart failure",
+            "year": "2020",
+            "authors": [
+              "Chandra Alvin",
+              "Alcala Michael A D",
+              "Claggett Brian",
+              "Desai Akshay S",
+              "Fang James C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Depression",
+              "Heart Failure",
+              "Humans",
+              "Male",
+              "Mineralocorticoid Receptor Antagonists",
+              "Stroke Volume",
+              "Treatment Outcome",
+              "United States"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32919912/"
+          },
+          {
+            "pmid": "32392403",
+            "title": "Improving exercise capacity and quality of life using non-invasive heart failure treatments: evidence from clinical trials.",
+            "abstract": "Endpoints of large-scale trials in chronic heart failure have mostly been defined to evaluate treatments with regard to hospitalizations and mortality. However, patients with heart failure are also affected by very severe reductions in exercise capacity and quality of life. We aimed to evaluate the effects of heart failure treatments on these endpoints using available evidence from randomized trials. Interventions with evidence for improvements in exercise capacity include physical exercise, intravenous iron supplementation in patients with iron deficiency, and - with less certainty - testosterone in highly selected patients. Erythropoiesis-stimulating agents have been reported to improve exercise capacity in anaemic patients with heart failure. Sinus rhythm may have some advantage when compared with atrial fibrillation, particularly in patients undergoing pulmonary vein isolation. Studies assessing treatments for heart failure co-morbidities such as sleep-disordered breathing, diabete",
+            "journal": "European journal of heart failure",
+            "year": "2021",
+            "authors": [
+              "von Haehling Stephan",
+              "Arzt Michael",
+              "Doehner Wolfram",
+              "Edelmann Frank",
+              "Evertz Ruben"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Aminobutyrates",
+              "Angiotensin Receptor Antagonists",
+              "Drug Combinations",
+              "Exercise Tolerance",
+              "Heart Failure",
+              "Humans",
+              "Quality of Life",
+              "Stroke Volume",
+              "Tetrazoles"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32392403/"
+          },
+          {
+            "pmid": "20592661",
+            "title": "Drug therapy of heart failure: an immunologic view.",
+            "abstract": "Heart failure (HF) is a clinical syndrome manifested by signs and symptoms of low cardiac output, pulmonary, and/or systemic congestion. Immunologically, HF is defined as a state of immune activation and persistent inflammation, especially the circulatory levels of inflammatory cytokines have been found to increase. Traditional drugs used in HF have expressed immunomodulatory and/or anticytokine activities that may participate in their therapeutic efficacy in the disease. The angiotensin-converting enzyme inhibitors like captopril and enalapril as well as the angiotensin II receptor antagonist losartan indicated in HF exerted reducing effects on the inflammatory cytokines such as tumor necrosis factor-alpha and interleukin-6 at experimental and clinical levels. Aldosterone antagonists like spironolactone when administered concomitantly with losartan can attenuate angiotensin II-enhanced cytokine production in HF. Carvedilol beta-adrenergic blockers showed a wider spectrum of anti-infla",
+            "journal": "American journal of therapeutics",
+            "year": "2011",
+            "authors": [
+              "El Desoky Ehab S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Inflammatory Agents",
+              "Cardiac Output",
+              "Cardiotonic Agents",
+              "Heart Failure",
+              "Humans",
+              "Inflammation",
+              "Prognosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20592661/"
+          },
+          {
+            "pmid": "12534856",
+            "title": "American College of Cardiology/American Heart Association Chronic Heart Failure Evaluation and Management guidelines: relevance to the geriatric practice.",
+            "abstract": "Heart failure (HF) is the only cardiovascular disease with increasing incidence and prevalence. Most HF patients are older adults. With the aging of the population and effective treatment of hypertension and coronary artery disease, the two major underlying causes of HF, the number of older Americans with HF is expected to rise significantly in the coming decades. HF is the number one hospital discharge diagnosis for older adults. It is one of the causes of frequent hospital readmissions, reflecting acute decompensation and compromised quality of life for patients and increased cost and resource use for the healthcare system. It is also associated with approximately 300,000 deaths annually, most in older adults. Advances in the management of HF in the past several decades have significantly decreased the mortality and morbidity associated with this condition. Randomized controlled trials have demonstrated the beneficial effects of angiotensin-converting enzyme (ACE) inhibitors, angiote",
+            "journal": "Journal of the American Geriatrics Society",
+            "year": "2003",
+            "authors": [
+              "Ahmed Ali"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic beta-Antagonists",
+              "Aged",
+              "Angiotensin-Converting Enzyme Inhibitors",
+              "Chronic Disease",
+              "Echocardiography",
+              "Geriatrics",
+              "Heart Failure",
+              "Humans",
+              "Hydralazine",
+              "Practice Guidelines as Topic"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12534856/"
+          },
+          {
+            "pmid": "38473157",
+            "title": "Self-Reported Utilization of International (ACVIM Consensus) Guidelines and the Latest Clinical Trial Results on the Treatment of Dogs with Various Stages of Myxomatous Mitral Valve Degeneration: A Survey among Veterinary Practitioners.",
+            "abstract": "Myxomatous mitral valve degeneration is the most common canine heart disease. Several clinical trials have investigated various treatments. The latest recommendations are published in the ACVIM consensus guidelines (2019). Our study aimed to investigate how closely veterinary practitioners apply the treatment recommendations of these guidelines and the latest clinical trials.",
+            "journal": "Animals : an open access journal from MDPI",
+            "year": "2024",
+            "authors": [
+              "van Staveren Marie D B",
+              "Muis Esther",
+              "Szatmári Viktor"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38473157/"
+          },
+          {
+            "pmid": "6391889",
+            "title": "Bumetanide. A review of its pharmacodynamic and pharmacokinetic properties and therapeutic use.",
+            "abstract": "Bumetanide is a potent 'loop' diuretic for the treatment of oedema associated with congestive heart failure, hepatic and renal diseases, acute pulmonary congestion and premenstrual syndrome and in forced diuresis during and after surgery. Bumetanide may be given orally, intravenously or intramuscularly and produces a rapid and marked diuresis, and increased urinary excretion of sodium, chloride and other electrolytes (within 30 minutes) which persists for 3 to 6 hours. Its principal site of action is on the ascending limb of the loop of Henle, with a secondary action on the proximal tubule. Pharmacologically, bumetanide is about 40-fold more potent than frusemide (furosemide), with the exception of its effects on urinary potassium excretion where its potency is lower. Studies in patients with oedema due to congestive heart failure, pulmonary oedema or hepatic disease show that oral or intravenous bumetanide 0.5 to 2 mg/day produces results comparable to those with frusemide 20 to 80 mg",
+            "journal": "Drugs",
+            "year": "1984",
+            "authors": [
+              "Ward A",
+              "Heel R C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bumetanide",
+              "Carbonic Anhydrase Inhibitors",
+              "Clinical Trials as Topic",
+              "Diuretics",
+              "Heart Failure",
+              "Humans",
+              "Kallikreins",
+              "Kidney",
+              "Kidney Diseases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6391889/"
+          },
+          {
+            "pmid": "11862578",
+            "title": "Impaired endothelium-mediated vasodilation in heart failure: clinical evidence and the potential for therapy.",
+            "abstract": "Numerous studies in the last decade have clearly shown an attenuated endothelium-dependent vasodilation in patients with chronic heart failure. This abnormality has been demonstrated in the peripheral, pulmonary, and coronary circulation in patients with both ischemic and nonischemic cardiomyopathy; its magnitude correlates with the severity of symptoms. Endothelial dysfunction in patients with cardiomyopathy and a relatively new onset of symptoms suggests that change in endothelial function occurs early in the course of the disease. In contrast to other circulatory beds, renal circulation has shown significant vasodilatory response to endothelial stimulation. The development of endothelial dysfunction may not be homogeneous, and its magnitude may differ among circulatory systems. Although the clinical implications of the attenuated endothelium-dependent vasodilation in heart failure are not clear, this condition may lead to decreased organ perfusion, impaired exercise tolerance, and p",
+            "journal": "Journal of cardiac failure",
+            "year": "2002",
+            "authors": [
+              "Elkayam Uri",
+              "Khan Salman",
+              "Mehboob Ather",
+              "Ahsan Nusrat"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Endothelium, Vascular",
+              "Heart Failure",
+              "Humans",
+              "Nitric Oxide",
+              "Spironolactone",
+              "Vasodilation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11862578/"
+          },
+          {
+            "pmid": "24070521",
+            "title": "Mineralocorticoid receptor antagonism in acutely decompensated chronic heart failure.",
+            "abstract": "Mineralocorticoid receptor antagonist (MRA) use in acutely decompensated chronic heart failure (ADCHF) may improve congestion through diuretic effect and prevent neurohormonal activation. We aimed to evaluate the clinical effect and safety of spironolactone in ADCHF.",
+            "journal": "European journal of internal medicine",
+            "year": "2014",
+            "authors": [
+              "Ferreira João Pedro",
+              "Santos Mário",
+              "Almeida Sofia",
+              "Marques Irene",
+              "Bettencourt Paulo"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Aged",
+              "Aged, 80 and over",
+              "Chronic Disease",
+              "Disease Progression",
+              "Diuretics",
+              "Edema",
+              "Female",
+              "Furosemide",
+              "Heart Failure"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24070521/"
+          },
+          {
+            "pmid": "23457185",
+            "title": "Mineralocorticoid receptor antagonism attenuates experimental pulmonary hypertension.",
+            "abstract": "Mineralocorticoid receptor (MR) activation stimulates systemic vascular and left ventricular remodeling. We hypothesized that MR contributes to pulmonary vascular and right ventricular (RV) remodeling of pulmonary hypertension (PH). We evaluated the efficacy of MR antagonism by spironolactone in two experimental PH models; mouse chronic hypoxia-induced PH (prevention model) and rat monocrotaline-induced PH (prevention and treatment models). Last, the biological function of the MR was analyzed in cultured distal pulmonary artery smooth muscle cells (PASMCs). In hypoxic PH mice, spironolactone attenuated the increase in RV systolic pressure, pulmonary arterial muscularization, and RV fibrosis. In rat monocrotaline-induced PH (prevention arm), spironolactone attenuated pulmonary vascular resistance and pulmonary vascular remodeling. In the established disease (treatment arm), spironolactone decreased RV systolic pressure and pulmonary vascular resistance with no significant effect on hist",
+            "journal": "American journal of physiology. Lung cellular and molecular physiology",
+            "year": "2013",
+            "authors": [
+              "Preston Ioana R",
+              "Sagliani Kristen D",
+              "Warburton Rod R",
+              "Hill Nicholas S",
+              "Fanburg Barry L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Aldosterone",
+              "Animals",
+              "Arterial Pressure",
+              "Body Weight",
+              "Cardiac Output",
+              "Cell Proliferation",
+              "Fibrosis",
+              "Heart Ventricles",
+              "Hypertension, Pulmonary",
+              "Hypoxia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23457185/"
+          },
+          {
+            "pmid": "38307421",
+            "title": "High-sensitivity C-reactive protein in heart failure with preserved ejection fraction: Findings from TOPCAT.",
+            "abstract": "Inflammation plays a central role in the genesis and progression of heart failure with preserved ejection fraction (HFpEF). C-reactive protein (CRP) is widely used as means to assess systemic inflammation, and elevated levels of CRP have been associated with poor HF prognosis. Identification of chronic low-grade inflammation in outpatients can be performed measuring high-sensitivity CRP (hsCRP). The clinical characteristics and outcome associations of a pro-inflammatory state among outpatients with HFpEF requires further study.",
+            "journal": "International journal of cardiology",
+            "year": "2024",
+            "authors": [
+              "Ferreira João Pedro",
+              "Claggett Brian L",
+              "Liu Jiankang",
+              "Sharma Abhinav",
+              "Desai Akshay S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Heart Failure",
+              "Spironolactone",
+              "C-Reactive Protein",
+              "Mineralocorticoid Receptor Antagonists",
+              "Stroke Volume",
+              "Prognosis",
+              "Inflammation",
+              "Hospitalization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38307421/"
+          },
+          {
+            "pmid": "33179453",
+            "title": "Clinical phenotypes, aetiologies, management, and mortality in acute heart failure: a single-institution study in Latin-America.",
+            "abstract": "Little is known regarding acute heart failure (AHF) clinical characteristics and its hospital outcome in Latin America. This study sought to assess the prevalence of, and identify differences among, in-hospital outcomes in patients hospitalized for AHF who were stratified by clinical phenotype at a hospital in Latin America.",
+            "journal": "ESC heart failure",
+            "year": "2021",
+            "authors": [
+              "González-Pacheco Héctor",
+              "Álvarez-Sangabriel Amada",
+              "Martínez-Sánchez Carlos",
+              "Briseño-Cruz José L",
+              "Altamirano-Castillo Alfredo"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adult",
+              "Female",
+              "Heart Defects, Congenital",
+              "Heart Failure",
+              "Humans",
+              "Latin America",
+              "Middle Aged",
+              "Phenotype",
+              "Retrospective Studies"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/33179453/"
+          },
+          {
+            "pmid": "28010940",
+            "title": "[Profile of heart failure according to the department of admission. Implications for multidisciplinary management].",
+            "abstract": "Population aging has led to notable changes in heart failure admissions. The aim of this study was to analyse the characteristics, comorbidity, management, and outcomes of this patient population in three hospital departments.",
+            "journal": "Revista espanola de geriatria y gerontologia",
+            "year": "2017",
+            "authors": [
+              "Vicent Lourdes",
+              "Ayesta Ana",
+              "Vidán María Teresa",
+              "Miguel-Yanes José María de",
+              "García Jorge"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Aged, 80 and over",
+              "Female",
+              "Heart Failure",
+              "Hospital Departments",
+              "Humans",
+              "Male",
+              "Patient Admission",
+              "Patient Care Team",
+              "Prognosis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28010940/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Spironolactone",
+          "disease": "chronic pulmonary heart disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Spironolactone%20chronic%20pulmonary%20heart%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Spironolactone",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00421",
+    "name": "Spironolactone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Spironolactone"
+      },
+      "queried_at": "2026-03-24T16:22:53.704008",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Spironolactone"
+      },
+      "queried_at": "2026-03-24T16:22:53.705299",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Spironolactone"
+      },
+      "queried_at": "2026-03-24T16:22:54.171235",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T16:22:54.620981",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T16:23:00.997205",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T16:23:01.508844",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T16:23:06.403211",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T16:23:08.501494",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T16:23:15.855465",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T16:23:16.409618",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T16:23:17.280001",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T16:23:17.813385",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T16:23:21.309974",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T16:23:21.406775",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T16:23:24.316254",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "alopecia"
+      },
+      "queried_at": "2026-03-24T16:23:25.025680",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "alopecia"
+      },
+      "queried_at": "2026-03-24T16:23:28.425729",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "alopecia"
+      },
+      "queried_at": "2026-03-24T16:23:29.133402",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "alopecia"
+      },
+      "queried_at": "2026-03-24T16:23:32.340550",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:23:32.931075",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:23:36.426606",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:23:37.003711",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant renovascular hypertension"
+      },
+      "queried_at": "2026-03-24T16:23:39.753445",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:23:40.378485",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:23:43.481384",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:23:44.159013",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "malignant hypertensive renal disease"
+      },
+      "queried_at": "2026-03-24T16:23:45.299746",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:23:45.770686",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:23:49.151296",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:23:49.675151",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension owing to lung disease and/or hypoxia"
+      },
+      "queried_at": "2026-03-24T16:23:54.660025",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:23:55.164688",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:23:58.401752",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:23:58.911561",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "pulmonary hypertension with unclear multifactorial mechanism"
+      },
+      "queried_at": "2026-03-24T16:23:59.881545",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:24:00.301883",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:24:04.106957",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:24:04.862246",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "Braddock syndrome"
+      },
+      "queried_at": "2026-03-24T16:24:05.851396",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:24:07.503394",
+      "status": "success",
+      "result_count": 13,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:24:10.726319",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:24:11.304225",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Spironolactone",
+        "disease": "chronic pulmonary heart disease"
+      },
+      "queried_at": "2026-03-24T16:24:14.319272",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:24:14.321669"
+  }
+}

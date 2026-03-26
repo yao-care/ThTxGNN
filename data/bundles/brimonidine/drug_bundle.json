@@ -1,0 +1,822 @@
+{
+  "drug": {
+    "inn": "Brimonidine",
+    "drugbank_id": "DB00484",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "papillary conjunctivitis",
+        "txgnn_score": 0.9848684072494508,
+        "txgnn_rank": 2923,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "18303383",
+            "title": "Brimonidine-induced anterior uveitis and conjunctivitis: clinical and histologic features.",
+            "abstract": "Brimonidine tartarate is a selective alpha2-adrenergic receptor agonist that is indicated for use in the treatment of glaucoma and ocular hypertension. Since its introduction in 1997 there have been a small number of case reports concerning granulomatous anterior uveitis as a late adverse reaction to long-term brimonidine therapy. We report a case of bilateral anterior uveitis and granulomatous papillary conjunctivitis in a 78-year-old gentleman after 2 years of brimonidine therapy. Cessation of brimonidine lead to rapid termination of uveitis. The histologic features of the conjunctiva are described. This has not been previously reported.",
+            "journal": "Journal of glaucoma",
+            "year": "2008",
+            "authors": [
+              "Nguyen Ethan V",
+              "Azar Domit",
+              "Papalkar Daya",
+              "McCluskey Peter"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adrenergic alpha-2 Receptor Agonists",
+              "Adrenergic alpha-Agonists",
+              "Aged",
+              "Brimonidine Tartrate",
+              "Conjunctiva",
+              "Conjunctivitis",
+              "Glaucoma, Open-Angle",
+              "Granuloma",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18303383/"
+          },
+          {
+            "pmid": "38992579",
+            "title": "Comparison of allergy prevalence using brinzolamide 1.0% / brimonidine 0.2% fixed combination with and without β-blocker in glaucoma patients: a retrospective cohort study.",
+            "abstract": "Glaucoma treatment often involves multi-drug regimens, which can lead to poor adherence and side effects. Fixed-dose combinations aim to improve adherence and reduce side effects compared to traditional therapies. This study aimed to compare the prevalence and clinical characteristics of ocular allergy in glaucoma patients using brinzolamide 1.0%/brimonidine 0.2% fixed combination (BBFC), with and without concurrent β-blocker.",
+            "journal": "BMC ophthalmology",
+            "year": "2024",
+            "authors": [
+              "Park In Ki",
+              "Bae Seon Ha",
+              "Jeong Jae Hoon",
+              "Kim Kyoung Woo",
+              "Yi Kayoung"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Comparative Study"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Female",
+              "Retrospective Studies",
+              "Brimonidine Tartrate",
+              "Aged",
+              "Drug Combinations",
+              "Adrenergic beta-Antagonists",
+              "Thiazines",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38992579/"
+          },
+          {
+            "pmid": "37352771",
+            "title": "Salmon patch-like conjunctival lesion secondary to long-term administration of topical brimonidine: A case report.",
+            "abstract": "Brimonidine is a commonly used intra-ocular pressure-lowering agent for glaucoma patients. Allergic follicular or papillary conjunctivitis is a well-known side effect of brimonidine. Brimonidine is associated with ocular allergic symptoms such as conjunctival hyperemia, stinging sensation, photophobia and, in severe cases, corneal erosions. Here, we report a case of atypical conjunctival lesion following long-term administration of brimonidine.",
+            "journal": "International journal of surgery case reports",
+            "year": "2023",
+            "authors": [
+              "Al-Essa Rakan S",
+              "Abusayf Mohammed M",
+              "Alfawaz Abdullah M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/37352771/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "papillary conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20papillary%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "primary hereditary glaucoma",
+        "txgnn_score": 0.9689866900444032,
+        "txgnn_rank": 5041,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "primary hereditary glaucoma",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20primary%20hereditary%20glaucoma"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "lichen disease",
+        "txgnn_score": 0.9520938992500304,
+        "txgnn_rank": 6662,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "lichen disease",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20lichen%20disease"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "congenital hypotrichosis milia",
+        "txgnn_score": 0.9481854438781738,
+        "txgnn_rank": 6992,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "congenital hypotrichosis milia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20congenital%20hypotrichosis%20milia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "rosacea conjunctivitis",
+        "txgnn_score": 0.9464938044548036,
+        "txgnn_rank": 7120,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03193372",
+            "title": "A Study of Patient Concerns and Treatment Satisfaction in Patients Being Treated With Finacea Foam for Rosacea",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2017-07-20",
+            "completion_date": "2017-11-15",
+            "country": "United States",
+            "enrollment": 2200,
+            "brief_summary": "To survey rosacea patients about their concerns, treatment satisfaction, and quality of life associated with their Finacea Foam treatment",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* At least 18 years of age\n* Diagnosis of rosacea by a medical professional\n* Currently using Finacea Foam as topical monotherapy for rosacea\n* Willing and able to provide voluntary, informed consent to participate in this study\n\nExclusion Criteria:\n\n\\- Use of any other topical ",
+            "endpoints": [
+              "Demographics and clinical characteristics",
+              "Rosacea-relevant comorbidities and complications",
+              "Rosacea subtype"
+            ],
+            "sponsor": "LEO Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT03193372"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02602470",
+            "title": "A Study of Patient Preferences and Drivers of Treatment Satisfaction in Patients With Rosacea",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2015-01-08",
+            "completion_date": "2016-03-10",
+            "country": "United States",
+            "enrollment": 206,
+            "brief_summary": "To survey patients with rosacea about their rosacea treatment preferences as well as to assess potential drivers of rosacea treatment satisfaction.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Male or female patients of at least 18 years of age at index date\n* At least one prescription for a topical rosacea treatments: Azelaic Acid Gel, Azelaic Acid Cream, Metronidazole Gel, Metronidazole Cream, Metronidazole Emulsion, Metronidazole Lotion, Brimonidine Tartrate Gel\n",
+            "endpoints": [
+              "Self-reported concerns and importance of such concerns regarding their current topical rosacea treatments"
+            ],
+            "sponsor": "LEO Pharma",
+            "url": "https://clinicaltrials.gov/study/NCT02602470"
+          }
+        ],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "rosacea conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20rosacea%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hypotrichosis simplex of the scalp",
+        "txgnn_score": 0.9459328055381776,
+        "txgnn_rank": 7181,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "hypotrichosis simplex of the scalp",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20hypotrichosis%20simplex%20of%20the%20scalp"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "diffuse alopecia areata",
+        "txgnn_score": 0.9399622082710266,
+        "txgnn_rank": 7684,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "diffuse alopecia areata",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20diffuse%20alopecia%20areata"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "annular atrophic lichen planus",
+        "txgnn_score": 0.9323713183403016,
+        "txgnn_rank": 8378,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "annular atrophic lichen planus",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20annular%20atrophic%20lichen%20planus"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "hypertrophic lichen planus",
+        "txgnn_score": 0.9323713183403016,
+        "txgnn_rank": 8379,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "hypertrophic lichen planus",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20hypertrophic%20lichen%20planus"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "lichen planus pigmentosus",
+        "txgnn_score": 0.9323713183403016,
+        "txgnn_rank": 8380,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Brimonidine",
+          "disease": "lichen planus pigmentosus",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Brimonidine%20lichen%20planus%20pigmentosus"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Brimonidine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00484",
+    "name": "Brimonidine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Brimonidine"
+      },
+      "queried_at": "2026-03-24T15:18:45.035837",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Brimonidine"
+      },
+      "queried_at": "2026-03-24T15:18:45.036386",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Brimonidine"
+      },
+      "queried_at": "2026-03-24T15:18:47.357486",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:18:47.999045",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:18:52.366784",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:18:53.057557",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "papillary conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:18:57.562958",
+      "status": "success",
+      "result_count": 3,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "primary hereditary glaucoma"
+      },
+      "queried_at": "2026-03-24T15:18:58.101096",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "primary hereditary glaucoma"
+      },
+      "queried_at": "2026-03-24T15:19:01.977432",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "primary hereditary glaucoma"
+      },
+      "queried_at": "2026-03-24T15:19:02.550560",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "primary hereditary glaucoma"
+      },
+      "queried_at": "2026-03-24T15:19:03.849422",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen disease"
+      },
+      "queried_at": "2026-03-24T15:19:04.369543",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen disease"
+      },
+      "queried_at": "2026-03-24T15:19:08.300264",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen disease"
+      },
+      "queried_at": "2026-03-24T15:19:09.000720",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen disease"
+      },
+      "queried_at": "2026-03-24T15:19:14.006614",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T15:19:14.749915",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T15:19:20.908552",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T15:19:21.669483",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "congenital hypotrichosis milia"
+      },
+      "queried_at": "2026-03-24T15:19:22.718474",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:19:23.303868",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:19:29.702733",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:19:30.483228",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "rosacea conjunctivitis"
+      },
+      "queried_at": "2026-03-24T15:19:31.506336",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T15:19:31.967450",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T15:19:35.728663",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T15:19:37.054451",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypotrichosis simplex of the scalp"
+      },
+      "queried_at": "2026-03-24T15:19:38.051445",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T15:19:39.951534",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T15:19:43.904960",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T15:19:44.862618",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "diffuse alopecia areata"
+      },
+      "queried_at": "2026-03-24T15:19:46.320065",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "annular atrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:47.264890",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "annular atrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:50.551685",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "annular atrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:51.428914",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "annular atrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:52.500915",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypertrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:53.201420",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypertrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:56.703393",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypertrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:58.054727",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "hypertrophic lichen planus"
+      },
+      "queried_at": "2026-03-24T15:19:59.277576",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen planus pigmentosus"
+      },
+      "queried_at": "2026-03-24T15:20:01.031872",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen planus pigmentosus"
+      },
+      "queried_at": "2026-03-24T15:20:05.201027",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen planus pigmentosus"
+      },
+      "queried_at": "2026-03-24T15:20:05.810814",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Brimonidine",
+        "disease": "lichen planus pigmentosus"
+      },
+      "queried_at": "2026-03-24T15:20:06.924499",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T15:20:06.925744"
+  }
+}

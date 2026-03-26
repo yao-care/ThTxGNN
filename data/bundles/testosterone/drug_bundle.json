@@ -1,0 +1,3159 @@
+{
+  "drug": {
+    "inn": "Testosterone",
+    "drugbank_id": "DB00624",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "polysomy of X chromosome",
+        "txgnn_score": 0.9487578868865968,
+        "txgnn_rank": 6947,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "polysomy of X chromosome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20polysomy%20of%20X%20chromosome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "tetragametic chimerism",
+        "txgnn_score": 0.9465504884719848,
+        "txgnn_rank": 7115,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "28926831",
+            "title": "Multiparameter Investigation of a 46,XX/46,XY Tetragametic Chimeric Phenotypical Male Patient with Bilateral Scrotal Ovotestes and Ovulatory Activity.",
+            "abstract": "We report on an adult male initially presenting with gynecomastia and a painless scrotal mass without additional genital anomalies. Hyperpigmentation of the skin following the Blaschko's lines was identified. He underwent gonadectomy because of suspected cancer. Histological analyses revealed an ovotestis with ovulatory activity confirmed by immunohistochemistry with multiple markers. Karyotyping of cultured peripheral blood lymphocytes and a buccal smear revealed a 46,XX/46,XY chimeric constitution with different percentages. Multiple molecular analyses as well as blood typing implied a tetragametic origin. After the unilateral gonadectomy, the patient developed recurrent painful cystic swellings of the remaining gonad. Because of the wish to preserve hormonal activity as well as future fertility, the patient underwent surgical resection of a cystic gonadal area. The removed tissue showed ovulation-related features in addition to both testicular and ovarian tissue, diagnosed as an ovo",
+            "journal": "Sexual development : genetics, molecular biology, evolution, endocrinology, embryology, and pathology of sex determination and differentiation",
+            "year": "2018",
+            "authors": [
+              "van Bever Yolande",
+              "Wolffenbuttel Katja P",
+              "Brüggenwirth Hennie T",
+              "Blom Eric",
+              "de Klein Annelies"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "46, XX Disorders of Sex Development",
+              "Blood Grouping and Crossmatching",
+              "Disorder of Sex Development, 46,XY",
+              "Female",
+              "Gonads",
+              "Humans",
+              "Male",
+              "Ovotesticular Disorders of Sex Development",
+              "Ovulation",
+              "Phenotype"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28926831/"
+          },
+          {
+            "pmid": "24715185",
+            "title": "Testicular feminization: complete androgen insensitivity syndrome. Discussions based on a case report.",
+            "abstract": "Testicular feminization is the syndrome when a male, genetically XY, because of various abnormalities of the X chromosome, is resistant to the actions of the androgen hormones, which in turn stops the forming of the male genitalia and gives a female phenotype. The androgen insensitivity syndrome occurs in one out of 20,000 births and can be incomplete (various sexual ambiguities) or complete (the person appears to be a woman). The aim of this paper is to present the diagnosis and treatment of a case of testicular feminization.",
+            "journal": "Romanian journal of morphology and embryology = Revue roumaine de morphologie et embryologie",
+            "year": "2014",
+            "authors": [
+              "Gîngu Constantin",
+              "Dick Alexandru",
+              "Pătrăşcoiu Sorin",
+              "Domnişor Liliana",
+              "Mihai Mihaela"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Androgen-Insensitivity Syndrome",
+              "Female",
+              "Humans",
+              "Male",
+              "Phenotype",
+              "Radiography",
+              "Seminiferous Tubules",
+              "Testis",
+              "Young Adult"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24715185/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "tetragametic chimerism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20tetragametic%20chimerism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "penile/testicular agenesis",
+        "txgnn_score": 0.946216881275177,
+        "txgnn_rank": 7152,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "penile/testicular agenesis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20penile/testicular%20agenesis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "testicular regression syndrome",
+        "txgnn_score": 0.9445754289627076,
+        "txgnn_rank": 7301,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05379556",
+            "title": "LOng COvid COmorbidities: Evaluation of Andrological, Reproductive and Sexual Functions in Patients Recovered From COVID-19",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2022-01-27",
+            "completion_date": "2027-01-27",
+            "country": "Italy",
+            "enrollment": 100,
+            "brief_summary": "Considering the compelling amount of studies focused on patients in the active phase of COVID-19 disease and the scarcity of studies focused on patient cured from disease aimed at evaluating the sequelae of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) infection, the purpose of the study is to investigate, in patients recovered from COVID-19 disease: 1) whether SARS-CoV-2 infection has induced in male patients, a primary (testicular) and / or secondary (pituitary) damage to the hy",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients of both sexes recovered from SARS-CoV-2 infection (two negative nasopharyngeal swabs, negative IgM and positive anti SARS-CoV-2 IgG);\n* Aged over 18 years of age;\n* Ability to understand protocol procedures\n\nExclusion Criteria:\n\n* Any psychological/psychiatric/other m",
+            "endpoints": [
+              "Identification of the most frequent phenotypes of Long-COVID syndrome among COVID-19 patients recently hospitalized and dismissed"
+            ],
+            "sponsor": "Federico II University",
+            "url": "https://clinicaltrials.gov/study/NCT05379556"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "31013155",
+            "title": "TESTICULAR REGRESSION SYNDROME: PRACTICE VARIATION IN DIAGNOSIS AND MANAGEMENT.",
+            "abstract": "Objective: The purpose of this study was to assess clinical practice patterns with regard to diagnosis and management of testicular regression syndrome (TRS), a condition in 46,XY males with male phenotypic genitalia and bilateral absence of testes. Methods: A retrospective review was conducted at two large pediatric academic centers to examine diagnostic and management approaches for TRS. Results: Records of 57 patients were reviewed. Diagnostic methods varied widely between patients and included hormonal testing, karyotype, imaging, and surgical exploration, with multiple diagnostic methods frequently used in each patient. Of the 30 subjects that had reached adolescence at the time of the study, 17 (57%) had gaps in care of more than 5 years during childhood. Thirty subjects had received testosterone replacement therapy at a mean age of 12.1 ± 1.0 years. Forty-seven percent had a documented discussion of infertility. Eighty-two percent discussed prosthesis placement, with 35% having ",
+            "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+            "year": "2019",
+            "authors": [
+              "Heksch Ryan A",
+              "Matheson Malcolm A",
+              "Tishelman Amy C",
+              "Swartz Jonathan M",
+              "Jayanthi Venkata R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adrenal Hyperplasia, Congenital",
+              "Child",
+              "Gonadal Dysgenesis, 46,XY",
+              "Humans",
+              "Male",
+              "Retrospective Studies",
+              "Testis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31013155/"
+          },
+          {
+            "pmid": "15799128",
+            "title": "Testosterone therapy--what, when and to whom?",
+            "abstract": "Testosterone therapy has been used for more than 60 years in the treatment of male hypogonadism. The classical forms of hypogonadism are comprised of primary testicular failure or insufficient testicular stimulation due to the lack of pituitary gonadotropins. Typical causes of primary hypogonadism are Klinefelter's syndrome, anorchia or acquired disturbances of testicular function. Secondary hypogonadism is characterized by insufficient production of pituitary gonadotropins, due either to pituitary failure or defects at the hypothalamic level. It is unequivocally accepted in clinical practice that any male with inadequately low testosterone production for his age will require androgen therapy. In addition to the classical forms of hypogonadism, the past decade of research has clearly demonstrated that, with increasing age, many men will suffer from decreasing testosterone production. About 15-25% of men over the age of 50 years will experience serum testosterone levels well below the t",
+            "journal": "The aging male : the official journal of the International Society for the Study of the Aging Male",
+            "year": "2004",
+            "authors": [
+              "Jockenhövel F"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Androgens",
+              "Andropause",
+              "Dosage Forms",
+              "Drug Administration Schedule",
+              "Humans",
+              "Hypogonadism",
+              "Male",
+              "Patient Selection",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15799128/"
+          },
+          {
+            "pmid": "18353",
+            "title": "Anorchi.",
+            "abstract": "Anorchia was diagnosed in 3 patients after a hormonal study entailing the basic determination of FSH, LH and testosterone by a radioimmunoassay technique and by later stimulation with HCG. 2,000 IU are administered during 3 consecutive days with a new testosterone determination 24 and 72 h after the last administration. If the result is negative, the test is repeated but the HCG dose is doubled. A new negative response confirms the diagnosis of anorchia. If the results are positive a spermatic phlebography allows localization of the testicles or the remains of Wolffian origin in order to simplify surgery.",
+            "journal": "European urology",
+            "year": "1977",
+            "authors": [
+              "Jimenez J F",
+              "Pacios M A",
+              "Sole-Balcells F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Child",
+              "Cryptorchidism",
+              "Diagnosis, Differential",
+              "Humans",
+              "Male",
+              "Testis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18353/"
+          },
+          {
+            "pmid": "122413",
+            "title": "Anorchia and persistent Müllerian duct: a variant of the embryonic testicular regression syndrome.",
+            "abstract": "A 20-yr-old phenotypical male with a 46, XY chromosome complement, a hernia uteri inguinale, and bilateral anorchia was studied. Eunochoidal body proportions, infantile type of male external genitalia with empty scrotum, underdeveloped sexual characteristics, and delayed bone age suggested the existence of inadequate testicular function. Extremely low levels of circulating testosterone and a lack of response to hCG stimulation was found. Persistently elevated blood levels of LH and FSH with an adequate pituitary response to an iv bolus of synthetic LRH was demonstrated, thus indicating inadequate endocrine gonadal function as well as functional integrity of the hypothalamic-pituitary unit. At the time of an inguinal hernioplasty, a small but well developed uterus was removed. No gonads were found within the true pelvis, inguinal canals, or along the anatomical pathways of testicular descent. A cord-like structure found in the left inguinal canal contained only fibrous tissue without go",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "1978",
+            "authors": [
+              "Pérez-Palacios G",
+              "Faz R",
+              "Benavides S",
+              "Manrique J J",
+              "Larrea F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Chorionic Gonadotropin",
+              "Disorders of Sex Development",
+              "Follicle Stimulating Hormone",
+              "Gonadal Dysgenesis",
+              "Gonadotropin-Releasing Hormone",
+              "Hernia, Inguinal",
+              "Humans",
+              "Luteinizing Hormone",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/122413/"
+          },
+          {
+            "pmid": "16817480",
+            "title": "[Vanishing testis syndrome and testicular regression syndrome].",
+            "abstract": "",
+            "journal": "Nihon rinsho. Japanese journal of clinical medicine",
+            "year": "2006",
+            "authors": [
+              "Matsumiya Kiyomi"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Diagnosis, Differential",
+              "Gonadal Dysgenesis",
+              "Gonadal Steroid Hormones",
+              "Humans",
+              "Male",
+              "Prognosis",
+              "Syndrome",
+              "Testis",
+              "Testosterone",
+              "Urologic Surgical Procedures, Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16817480/"
+          },
+          {
+            "pmid": "25489355",
+            "title": "[Embryonic testicular regression syndrome: report of 6 cases].",
+            "abstract": "",
+            "journal": "The Pan African medical journal",
+            "year": "2014",
+            "authors": [
+              "Latrech Hanane",
+              "El Hassan Gharbi Mohammed",
+              "Chraïbi Abdelmjid",
+              "Gaouzi Ahmed"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Anti-Mullerian Hormone",
+              "Child",
+              "Child, Preschool",
+              "Chorionic Gonadotropin",
+              "Genital Diseases, Male",
+              "Gonadal Dysgenesis, 46,XY",
+              "Humans",
+              "Infant",
+              "Laparoscopy",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25489355/"
+          },
+          {
+            "pmid": "27174160",
+            "title": "Novel double-layer Silastic testicular prosthesis with controlled release of testosterone in vitro, and its effects on castrated rats.",
+            "abstract": "Testicular prostheses have been used to deal with anorchia for nearly 80 years. Here, we evaluated a novel testicular prosthesis that can controllably release hormones to maintain physiological levels of testosterone in vivo for a long time. Silastic testicular prostheses with controlled release of testosterone (STPT) with different dosages of testosterone undecanoate (TU) were prepared and implanted into castrated Sprague-Dawley rats. TU oil was applied by oral administration to a separate group of castrated rats. Castrated untreated and sham-operated groups were used as controls. Serum samples from every group were collected to measure the levels of testosterone (T), follicle-stimulating hormone and luteinizing hormone (LH). Maximum intracavernous penile pressure (ICPmax) was recorded. The prostates and seminal vesicles were weighed and subjected to histology, and a terminal dexynucleotidyl transferase-mediated UTP nick end labeling (TUNEL) assay was used to evaluate apoptosis. Our r",
+            "journal": "Asian journal of andrology",
+            "year": "2017",
+            "authors": [
+              "Chen Hui-Xing",
+              "Yang Shi",
+              "Ning Ye",
+              "Shao Hai-Hao",
+              "Ma Meng"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Apoptosis",
+              "Castration",
+              "Delayed-Action Preparations",
+              "Dimethylpolysiloxanes",
+              "Drug Implants",
+              "Follicle Stimulating Hormone",
+              "Luteinizing Hormone",
+              "Male",
+              "Organ Size"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27174160/"
+          },
+          {
+            "pmid": "3548944",
+            "title": "Abnormal sexual differentiation and neoplasia.",
+            "abstract": "The prevalence of neoplasia is increased in individuals with certain disorders of sexual differentiation. Etiology and frequency of neoplasia vary with the particular disorder. In uncomplicated cryptorchidism, the testis is at least 10 times more likely to undergo neoplastic transformation than a normal scrotal testis. Neoplasia probably is a function of both testicular location (intraabdominal) and underlying dysgenetic structure. If cryptorchidism is unilateral, and if orchiopexy has not been performed prior to age 6-10 years, orchiectomy should be encouraged. In those forms of gonadal dysgenesis not associated with a Y chromosome (e.g., 45,X; 45,X/46,XX; 46,XX) there is no definite increase in neoplasia, suggesting that elevated gonadotropin levels per se are not carcinogenic. Gonadal tumors are found in at least 30% of individuals with XY gonadal dysgenesis and are particularly frequent (55%) in H-Y antigen-positive patients. These tumors are almost always gonadoblastomas or dysger",
+            "journal": "Cancer genetics and cytogenetics",
+            "year": "1987",
+            "authors": [
+              "Verp M S",
+              "Simpson J L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Disorders of Sex Development",
+              "Female",
+              "Gonadal Dysgenesis",
+              "Humans",
+              "Karyotyping",
+              "Male",
+              "Neoplasms",
+              "Risk",
+              "Sex Chromosome Aberrations"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3548944/"
+          },
+          {
+            "pmid": "36631784",
+            "title": "Modulatory activity of testosterone on growth pattern and IGF-1 levels in vanishing testis syndrome: a case report during 15 years of follow-up.",
+            "abstract": "The vanishing testis syndrome (VTS), is a 46, XY disorder of sex development (46, XY DSD) and is characterized by the absence of testis in a 46, XY subject with male genitalia, gonadal dysgenesis and consequent hypergonadotropic hypogonadism.",
+            "journal": "BMC endocrine disorders",
+            "year": "2023",
+            "authors": [
+              "Franco Marta",
+              "Khorrami Chokami Keyvan",
+              "Albertelli Manuela",
+              "Teti Claudia",
+              "Cocchiara Francesco"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Male",
+              "Testis",
+              "Insulin-Like Growth Factor I",
+              "Humans",
+              "Puberty",
+              "Quality of Life",
+              "Follow-Up Studies",
+              "Testosterone",
+              "Gonadal Dysgenesis, 46,XY"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36631784/"
+          },
+          {
+            "pmid": "38359811",
+            "title": "DHX37 Variant Is One of the Common Genetic Causes in Japanese Patients with Testicular Regression Syndrome/Partial Gonadal Dysgenesis without Müllerian Derivatives.",
+            "abstract": "The testicular regression syndrome (TRS) is a form of differences of sex development (DSD) in which the testes differentiate and function during early embryonic development, but subsequently regress. The clinical phenotype of TRS often overlaps with that of partial gonadal dysgenesis (PGD). Previous studies have demonstrated a causal association between TRS/PGD and heterozygous missense variants of DHX37.",
+            "journal": "Hormone research in paediatrics",
+            "year": "2025",
+            "authors": [
+              "Shimura Kazuhiro",
+              "Ichihashi Yosuke",
+              "Nakano Satsuki",
+              "Sato Takeshi",
+              "Hamajima Takashi"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Female",
+              "Japan",
+              "Child",
+              "Child, Preschool",
+              "Mutation, Missense",
+              "Infant",
+              "DEAD-box RNA Helicases",
+              "RNA Helicases"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38359811/"
+          },
+          {
+            "pmid": "35035874",
+            "title": "Recent advancement in the treatment of boys and adolescents with hypogonadism.",
+            "abstract": "Clinical manifestations and the need for treatment varies according to age in males with hypogonadism. Early foetal-onset hypogonadism results in disorders of sex development (DSD) presenting with undervirilised genitalia whereas hypogonadism established later in foetal life presents with micropenis, cryptorchidism and/or micro-orchidism. After the period of neonatal activation of the gonadal axis has waned, the diagnosis of hypogonadism is challenging because androgen deficiency is not apparent until the age of puberty. Then, the differential diagnosis between constitutional delay of puberty and central hypogonadism may be difficult. During infancy and childhood, treatment is usually sought because of micropenis and/or cryptorchidism, whereas lack of pubertal development and relative short stature are the main complaints in teenagers. Testosterone therapy has been the standard, although off-label, in the vast majority of cases. However, more recently alternative therapies have been te",
+            "journal": "Therapeutic advances in endocrinology and metabolism",
+            "year": "2022",
+            "authors": [
+              "Rey Rodolfo A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35035874/"
+          },
+          {
+            "pmid": "1818010",
+            "title": "Therapeutic indications for delayed puberty and hypogonadism in adolescent boys.",
+            "abstract": "Testosterone and synthetic androgens have formerly been used indiscriminately, but are now applied more selectively. They are the only treatment of primary hypogonadism, but are also useful in gonadotropin deficiency and constitutional delay. 17-Alkylated androgens are no longer used. Oral testosterone undecanoate is not suitable for adolescents because of unreliable absorption. The prototype disorder where replacement is necessary is congenital anorchia. As a physiological replacement, an initial dose of 35 mg/m2 per month for 6 months, followed by 70 mg/m2 for 1 year, and 150 mg/m2 thereafter, is recommended. No general rules can be given for other types of primary hypogonadism. In testicular atrophy after cryptorchidism, defects of testosterone biosynthesis, galactosemia or other causes, it is advisable to carry out periodic testosterone determinations and to wait until the levels drop below normal. Progress has been made in the treatment of gonadotropin deficiency, and pulsatile go",
+            "journal": "Hormone research",
+            "year": "1991",
+            "authors": [
+              "Zachmann M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Gonadotropin-Releasing Hormone",
+              "Growth Hormone",
+              "Humans",
+              "Hypogonadism",
+              "Male",
+              "Puberty, Delayed",
+              "Testosterone",
+              "Testosterone Congeners"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1818010/"
+          },
+          {
+            "pmid": "24282408",
+            "title": "Serum AMH in Physiology and Pathology of Male Gonads.",
+            "abstract": "AMH is secreted by immature Sertoli cells (SC) and is responsible for the regression of Müllerian ducts in the male fetus as part of the sexual differentiation process. AMH is also involved in testicular development and function. AMHs are at their lowest levels in the first days after birth but increase after the first week, likely reflecting active SC proliferation. AMH rises rapidly in concentration in boys during the first month, reaching a peak level at about 6 months of age, and then slowly declines during childhood, falling to low levels in puberty. Basal and FSH-stimulated levels of AMH, might become a useful predictive marker of the spermatogenic response to gonadotropic treatment in young patients with hypogonadotropic hypogonadism. After puberty, AMH is released preferentially by the apical pole of the SC towards the lumen of the seminiferous tubules, resulting in higher concentrations in the seminal plasma than in the serum. Defects in AMH production and insensitivity to AMH",
+            "journal": "International journal of endocrinology",
+            "year": "2013",
+            "authors": [
+              "Matuszczak Ewa",
+              "Hermanowicz Adam",
+              "Komarowska Marta",
+              "Debek Wojciech"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24282408/"
+          },
+          {
+            "pmid": "30381580",
+            "title": "Regulation of anti-Müllerian hormone (AMH) in males and the associations of serum AMH with the disorders of male fertility.",
+            "abstract": "Anti-Müllerian hormone (AMH) is a functional marker of fetal Sertoli cells. The germ cell number in adults depends on the number of Sertoli cells produced during perinatal development. Recently, AMH has received increasing attention in research of disorders related to male fertility. This paper reviews and summarizes the articles on the regulation of AMH in males and the serum levels of AMH in male fertility-related disorders. We have determined that follicle-stimulating hormone (FSH) promotes AMH transcription in the absence of androgen signaling. Testosterone inhibits the transcriptional activation of AMH. The undetectable levels of serum AMH and testosterone levels indicate a lack of functional testicular tissue, for example, that in patients with anorchia or severe Klinefelter syndrome suffering from impaired spermatogenesis. The normal serum testosterone level and undetectable AMH are highly suggestive of persistent Müllerian duct syndrome (PMDS), combined with clinical manifestat",
+            "journal": "Asian journal of andrology",
+            "year": "2019",
+            "authors": [
+              "Xu Hui-Yu",
+              "Zhang Hong-Xian",
+              "Xiao Zhen",
+              "Qiao Jie",
+              "Li Rong"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Anti-Mullerian Hormone",
+              "Follicle Stimulating Hormone",
+              "Gene Expression Regulation",
+              "Humans",
+              "Infertility, Male",
+              "Male",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30381580/"
+          },
+          {
+            "pmid": "34192562",
+            "title": "Case of Anorchia in a Mixed-Breed Dog.",
+            "abstract": "Anorchia is a rare and often poorly understood disorder of sexual development. In the present case report, we used a multidisciplinary approach to diagnose a case of anorchia in a 30-month old dog. The diagnostic process began with gathering the dog medical history followed by a clinical visit with the patient, which included a general wellness examination as well as an examination of the genital system. As suggested in the relevant literature, the dog underwent an ultrasound and then computed tomography (CT) of the genital system, which confirmed the diagnosis of testicular agenesis. Genetic testing confirmed the male XY karyotype. Hormone testing also supported the diagnosis: testosterone and anti-Müllerian hormone levels were below their reference ranges, and luteinizing hormone (LH) was above 1 ng/mL. Following the diagnostic procedures suggested in the relevant literature, the present study confirms anorchia in the dog and describes a case of testicular agenesis in the canine spec",
+            "journal": "Topics in companion animal medicine",
+            "year": "2021",
+            "authors": [
+              "Cicirelli Vincenzo",
+              "Aiudi Giulio G",
+              "Carbonara Stefano",
+              "Caira Michele",
+              "Lacalandra Giovani M"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Dog Diseases",
+              "Dogs",
+              "Gonadal Dysgenesis, 46,XY",
+              "Luteinizing Hormone",
+              "Male",
+              "Testis",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34192562/"
+          },
+          {
+            "pmid": "6143546",
+            "title": "[Total testicular regression syndrome or anorchidism].",
+            "abstract": "Ten cases of boys without testis are presented. Clinical and anatomical patterns of the disease are analysed. Total absence of testicular tissue is proven by the lack of plasma testosterone response to HCG stimulation and by cautious surgical investigation. Artificial virilization by prolonged androgen administration associated with silastic prothesis implantation is the only possibility of treatment. Anorchism does not represent a form of gonadal dysgenesis or sexual ambiguity since external genitalia are always non ambiguous, chromosomal constitution is XY without any structural anomaly of Y and H-Y histocompatibility antigen is present. Absence or destruction of the testis are caused by different mechanisms, according to the data obtained by individual case studies. The most likely is that foetal testes developped normally are destroyed in utero or in the perinatal period or even soon after birth. The most frequent mechanism with a genetic predisposition, seems to be bilateral pedic",
+            "journal": "Archives francaises de pediatrie",
+            "year": "1983",
+            "authors": [
+              "Pierson M",
+              "Vidailhet M",
+              "Wuilbercq L",
+              "Wendremaire-Palandri Y",
+              "Combescure B"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Child, Preschool",
+              "Cryptorchidism",
+              "Diagnosis, Differential",
+              "Follicle Stimulating Hormone",
+              "Humans",
+              "Luteinizing Hormone",
+              "Male",
+              "Spermatic Cord Torsion"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6143546/"
+          },
+          {
+            "pmid": "1941794",
+            "title": "Testicular regression syndrome. A case report.",
+            "abstract": "Testicular regression syndrome occurred in a 20-year-old, white, phenotypic female with a 46,XY karyotype. The basal levels of serum gonadotropins were elevated, while the testosterone was in the normal range. Estrogens were undetectable. At laparotomy no gonadal rudiments or müllerian or wolffian derivatives were found. The logical diagnosis was late embryonic testicular regression with a specific testicular insult 62-63 days after fertilization.",
+            "journal": "The Journal of reproductive medicine",
+            "year": "1991",
+            "authors": [
+              "Corrado F",
+              "Stella N C",
+              "Triolo O"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Female",
+              "Gonadal Dysgenesis, 46,XY",
+              "Gonadotropins",
+              "Humans",
+              "Karyotyping",
+              "Phenotype",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1941794/"
+          },
+          {
+            "pmid": "18536882",
+            "title": "Tissue engineered testicular prostheses with prolonged testosterone release.",
+            "abstract": "Bilateral anorchia, either congenital or acquired, often requires testicular prostheses placement and testosterone supplementation. Several types of testosterone compounds and various modes of hormone delivery are currently used clinically, however, their pharmacokinetic properties are not ideal. In this study, we explored the possibility of creating hormone releasing testicular prostheses that could continuously supply and maintain physiologic levels of testosterone in vivo over time.",
+            "journal": "World journal of urology",
+            "year": "2008",
+            "authors": [
+              "Raya-Rivera Atlantida M",
+              "Baez Carlos",
+              "Atala Anthony",
+              "Yoo James J"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Bioreactors",
+              "Cartilage, Articular",
+              "Cattle",
+              "Chondrocytes",
+              "Collagen",
+              "Extracellular Matrix",
+              "Male",
+              "Mice",
+              "Mice, Nude"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18536882/"
+          },
+          {
+            "pmid": "23810303",
+            "title": "[Radiotherapy after testicular-sparing surgery for bilateral or monorchide testicular tumours: an innovative approach].",
+            "abstract": "Testicular-sparing surgery may avoid definitive testosterone supplementation and preserve fertility in selected cases of men presenting with bilateral testicular tumours or in case of monorchidia. Testicular-sparing surgery may enable the conservation of both endocrine function and spermatogenesis in selected young men in order to preserve natural fatherhood, avoid definitive androgen replacement therapy and probably improve quality of life by reducing psychosexual consequences of anorchia. The tumorectomy must be followed by an external irradiation of the remaining testicle to eradicate testicular intratubular neoplasia revealed in 82% of cases after per-surgery biopsy. This approach concerns some rare indications. Dose level and technical consideration are still debated.",
+            "journal": "Cancer radiotherapie : journal de la Societe francaise de radiotherapie oncologique",
+            "year": "2013",
+            "authors": [
+              "Sargos P",
+              "Ferretti L",
+              "Henriques de Figueiredo B",
+              "Cornelis F",
+              "Belhomme S"
+            ],
+            "pub_types": [
+              "English Abstract",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Carcinoma in Situ",
+              "Chemotherapy, Adjuvant",
+              "Clinical Trials as Topic",
+              "Combined Modality Therapy",
+              "Hormone Replacement Therapy",
+              "Humans",
+              "Infertility, Male",
+              "Male",
+              "Multicenter Studies as Topic",
+              "Neoplasms, Germ Cell and Embryonal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23810303/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "testicular regression syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20testicular%20regression%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "Leydig cell hypoplasia due to LH resistance",
+        "txgnn_score": 0.9423887133598328,
+        "txgnn_rank": 7477,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "Leydig cell hypoplasia due to LH resistance",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20Leydig%20cell%20hypoplasia%20due%20to%20LH%20resistance"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "urethral obstruction sequence",
+        "txgnn_score": 0.9417698979377748,
+        "txgnn_rank": 7530,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "urethral obstruction sequence",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20urethral%20obstruction%20sequence"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "46,XX disorder of sex development-anorectal anomalies syndrome",
+        "txgnn_score": 0.9414821863174438,
+        "txgnn_rank": 7550,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "40406045",
+            "title": "Mayer-Rokitansky-Kuster-Hauser syndrome.",
+            "abstract": "•Mayer-Rokitansky-Kuster-Hauser syndrome (MRKH) is the leading cause of vaginal agenesis. •It is characterized by primary amenorrhea with typical adrenarche and telarche and may be associated with congenital urological and skeletal conditions that should be investigated. •Differential diagnoses include: vaginal obstructions (imperforate hymen, distal vaginal atresia, transverse vaginal septum), uterine obstructions (cervical atresia), and differences in sexual development (gonadal dysgenesis, complete androgen insensitivity and congenital adrenal hyperplasia due to CYP17 deficiency). •Laboratory tests (testosterone, follicle-stimulating hormone [FSH] and karyotype) and radiological tests (pelvic ultrasound and MRI) are necessary. •Vaginal dilation is the first line of treatment with high success rates.",
+            "journal": "Revista brasileira de ginecologia e obstetricia : revista da Federacao Brasileira das Sociedades de Ginecologia e Obstetricia",
+            "year": "2025",
+            "authors": [
+              "Novoa Claudia Cristina Takano",
+              "Leite Mila Torii Correa",
+              "Sartori Marair Gracio Ferreira"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "46, XX Disorders of Sex Development",
+              "Mullerian Ducts",
+              "Female",
+              "Congenital Abnormalities",
+              "Vagina"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40406045/"
+          },
+          {
+            "pmid": "39371808",
+            "title": "A Case Report on 46,XX Male Difference of Sex Development.",
+            "abstract": "The 46,XX male syndrome is a very rare disorder/difference of sex development (DSD). Characterized by a 46,XX karyotype with a male phenotype and various abnormalities, including virilized external genitalia, small testes, hypergonadotropic hypogonadism, and azoospermia. Primarily described in small population studies and clinical reports, much remains to be understood about the prevalence of clinical manifestations, treatment outcomes, and long-term follow-up in this disorder. Here we describe a 24-year-old male who sought medical attention due to a history of erectile dysfunction, associated with a loss of libido, impaired concentration, difficulty sleeping, and bilateral gynecomastia. He and his family had no relevant medical history. On physical examination, the patient had a normal development of secondary sexual characteristics but presented with bilateral testicular atrophy with a volume of 6 ml per testis. A testicular and abdominal ultrasound were performed confirming testicul",
+            "journal": "Cureus",
+            "year": "2024",
+            "authors": [
+              "Vaz de Assunção Guilherme",
+              "Silva Beatriz T",
+              "Saraiva Miguel",
+              "Carvalho Rui"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39371808/"
+          },
+          {
+            "pmid": "34518474",
+            "title": "LIM Homeodomain (LIM-HD) Genes and Their Co-Regulators in Developing Reproductive System and Disorders of Sex Development.",
+            "abstract": "LIM homeodomain (LIM-HD) family genes are transcription factors that play crucial roles in a variety of functions during embryonic development. The activities of the LIM-HD proteins are regulated by the co-regulators LIM only (LMO) and LIM domain-binding (LDB). In the mouse genome, there are 13 LIM-HD genes (Lhx1-Lhx9, Isl1-2, Lmx1a-1b), 4 Lmo genes (Lmo1-4), and 2 Ldb genes (Ldb1-2). Amongst these, Lhx1 is required for the development of the müllerian duct epithelium and the timing of the primordial germ cell migration. Lhx8 is necessary for oocyte differentiation and Lhx9 for somatic cell proliferation in the genital ridges and control of testosterone production in the Leydig cells. Lmo4 is involved in Sertoli cell differentiation. Mutations in LHX1 are associated with müllerian agenesis or Mayer-Rokitansky-Kuster-Hauser (MRKH) syndrome. LHX9 gene variants are reported in cases with disorders of sex development (DSD). Mutations in LHX3 and LHX4 are reported in patients with combined ",
+            "journal": "Sexual development : genetics, molecular biology, evolution, endocrinology, embryology, and pathology of sex determination and differentiation",
+            "year": "2022",
+            "authors": [
+              "Singh Neha",
+              "Singh Domdatt",
+              "Modi Deepak"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Pregnancy",
+              "Male",
+              "Female",
+              "Mice",
+              "Animals",
+              "LIM-Homeodomain Proteins",
+              "46, XX Disorders of Sex Development",
+              "Mullerian Ducts",
+              "Gonads",
+              "Homeodomain Proteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34518474/"
+          },
+          {
+            "pmid": "26492835",
+            "title": "Aetiological bases of 46,XY disorders of sex development in the Hong Kong Chinese population.",
+            "abstract": "Disorders of sex development are due to congenital defects in chromosomal, gonadal, or anatomical sex development. The objective of this study was to determine the aetiology of this group of disorders in the Hong Kong Chinese population.",
+            "journal": "Hong Kong medical journal = Xianggang yi xue za zhi",
+            "year": "2015",
+            "authors": [
+              "Chan Angel O K",
+              "But W M",
+              "Lee C Y",
+              "Lam Y Y",
+              "Ng K L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "3-Oxo-5-alpha-Steroid 4-Dehydrogenase",
+              "46, XX Disorders of Sex Development",
+              "Adolescent",
+              "Amenorrhea",
+              "Androgen-Insensitivity Syndrome",
+              "Asian People",
+              "Child",
+              "Child, Preschool",
+              "Cholesterol Side-Chain Cleavage Enzyme",
+              "Congenital Abnormalities"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26492835/"
+          },
+          {
+            "pmid": "24716396",
+            "title": "Aromatase excess syndrome: a rare autosomal dominant disorder leading to pre- or peri-pubertal onset gynecomastia.",
+            "abstract": "Overexpression of CYP19A1 encoding aromatase results in a rare genetic disorder referred to as aromatase excess syndrome (AEXS). Male patients with AEXS manifest pre- or peri-pubertal onset gynecomastia, gonadotropin deficiency, and advanced bone age, while female patients are mostly asymptomatic. To date, 30 male patients with molecularly confirmed AEXS have been reported. A total of 12 types of submicroscopic rearrangements, i.e., two simple duplications, four simple deletions, two simple inversions, and four complex rearrangements, have been implicated in AEXS. Clinical severity of AEXS primarily depends on the types of the rearrangements. AEXS appears to account for a small number of cases of pre- or peri-pubertal onset gynecomastia, and should be suspected particularly when gynecomastia is associated with an autosomal dominant inheritance pattern, characteristic hormone abnormalities and/or advanced bone age. Treatment with an aromatase inhibitor appears to benefit patients with A",
+            "journal": "Pediatric endocrinology reviews : PER",
+            "year": "2014",
+            "authors": [
+              "Fukami Maki",
+              "Miyado Mami",
+              "Nagasaki Keisuke",
+              "Shozu Makio",
+              "Ogata Tsutomu"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "46, XX Disorders of Sex Development",
+              "Adolescent",
+              "Adult",
+              "Aromatase",
+              "Aromatase Inhibitors",
+              "Child",
+              "Chimera",
+              "Estradiol",
+              "Female",
+              "Follicle Stimulating Hormone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24716396/"
+          },
+          {
+            "pmid": "27693882",
+            "title": "Aromatase deficiency in a male patient - Case report and review of the literature.",
+            "abstract": "Aromatase, or CYP19A1, is a type II cytochrome CYP450 enzyme that catalyzes the conversion of C19 androgens to C18 estrogens. Its crucial role in both female and male physiology has been deduced from human and animal studies using aromatase inhibitors, genetically altered mice, and patients with aromatase deficiency. The latter is an extremely rare disorder. Its diagnosis is particularly difficult in males, who go through puberty normally and therefore usually present as adults with elevated testosterone, bone abnormalities (e.g., delayed bone age and low bone mass), and metabolic syndrome. In this report, we describe a new case of a male patient with aromatase deficiency harboring a known mutation who presented with less severe clinical and biochemical features.",
+            "journal": "Bone",
+            "year": "2016",
+            "authors": [
+              "Miedlich Susanne U",
+              "Karamooz Nima",
+              "Hammes Stephen R"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "46, XX Disorders of Sex Development",
+              "Adolescent",
+              "Adult",
+              "Age Determination by Skeleton",
+              "Aromatase",
+              "Estradiol",
+              "Fractures, Bone",
+              "Gynecomastia",
+              "Humans",
+              "Infertility, Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/27693882/"
+          },
+          {
+            "pmid": "29177592",
+            "title": "Hyperandrogenemia and ovarian reserve in patients with Mayer-Rokitansky-Küster-Hauser syndrome type 1 and 2: potential influences on ovarian stimulation.",
+            "abstract": "This study aimed to analyze the hormone profiles, to detect the rate of hyperandrogenemia and to investigate the potential effect of Mayer-Rokitansky-Küster-Hauser syndrome (MRKHS) on ovarian reserve, as reflected by the serum Anti-Mullerian hormone (AMH) levels. Clinical implications were analyzed by including our own experiences with three patients after ovarian stimulation in preparation for uterus transplantation.",
+            "journal": "Archives of gynecology and obstetrics",
+            "year": "2018",
+            "authors": [
+              "Henes Melanie",
+              "Jurow Ludmila",
+              "Peter Andreas",
+              "Schoenfisch Birgitt",
+              "Taran Florin Andrei"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "46, XX Disorders of Sex Development",
+              "Adult",
+              "Anti-Mullerian Hormone",
+              "Case-Control Studies",
+              "Congenital Abnormalities",
+              "Female",
+              "Humans",
+              "Hyperandrogenism",
+              "Mullerian Ducts",
+              "Ovarian Reserve"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29177592/"
+          },
+          {
+            "pmid": "30065057",
+            "title": "Multiorgan system structural malformations associated with Mayer-Rokitansky-Küster-Hauser Syndrome (MRKHS) type 2: avoiding pitfalls in diagnosis, counseling and treatment.",
+            "abstract": "An 18-year-old virginal woman was referred to the reproductive endocrinology clinic with primary amenorrhoea and secondary sexual development in the absence of pelvic pain. Additionally, she had significant congenital sensorineural hearing loss, autism, bipolar disorder and class III obesity. On physical examination, secondary sexual development was confirmed (Tanner 5 breasts and Tanner 4 pubic hair). She refused further pelvic examination following prior attempts by the referring physicians. Serum leutinizing hormone (LH), follicle sitmulating hormone (FSH). prolactin, estradiol and total testosterone values were within normal limits. Karyotype was 46,XX. MRI demonstrated complete uterine agenesis, short vagina, sacral dysgenesis with complete absence of the coccyx and a horseshoe kidney. Diagnosis of Mayer-Rokitansky-Küster-Hauser Syndrome type 2 was established based on clinical, laboratory and MRI findings. The patient and family were counselled regarding the disease process, tech",
+            "journal": "BMJ case reports",
+            "year": "2018",
+            "authors": [
+              "Ghosh Niloy",
+              "Moon Jeremiah H",
+              "Henderson Jonathan A",
+              "Kauffman Robert P"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "46, XX Disorders of Sex Development",
+              "Adolescent",
+              "Amenorrhea",
+              "Congenital Abnormalities",
+              "Counseling",
+              "Female",
+              "Humans",
+              "Karyotyping",
+              "Mullerian Ducts",
+              "Vagina"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30065057/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "46,XX disorder of sex development-anorectal anomalies syndrome",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%2046%2CXX%20disorder%20of%20sex%20development-anorectal%20anomalies%20syndrome"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "freemartinism",
+        "txgnn_score": 0.9402837753295898,
+        "txgnn_rank": 7657,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "3244905",
+            "title": "Anti-müllerian hormone and freemartinism: inhibition of germ cell development and induction of seminiferous cord-like structures in rat fetal ovaries exposed in vitro to purified bovine AMH.",
+            "abstract": "In 13 and 14-day old fetal rat ovaries maintained 3 to 10 days in organ culture, purified bovine anti-Müllerian hormone (AMH) (1.5 to 3 micrograms/ml) induced a characteristic freemartin effect. Gonadal volume and germ cell number were significantly reduced, compared to control ovaries cultured in anhormonal medium, and epithelial cells with large clear cytoplasm linked by interdigitations differentiated in the gonadal blastema. These cells resembling rat fetal Sertoli cells became polarized and formed seminiferous cord-like structures delineated by a basal membrane containing laminin and fibronectin as is the case of testicular seminiferous cords at the first step of their differentiation. These data indicate that AMH is probably the testicular factor responsible for the morphological modifications of bovine freemartin gonads and suggest that this hormone could also be involved in normal morphological differentiation of the testis. In contrast, in fetal rat ovaries, AMH did not trigge",
+            "journal": "Reproduction, nutrition, developpement",
+            "year": "1988",
+            "authors": [
+              "Vigier B",
+              "Watrin F",
+              "Magre S",
+              "Tran D",
+              "Garrigou O"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Mullerian Hormone",
+              "Embryonic and Fetal Development",
+              "Female",
+              "Freemartinism",
+              "Glycoproteins",
+              "Growth Inhibitors",
+              "Mullerian Ducts",
+              "Organ Culture Techniques",
+              "Ovary"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/3244905/"
+          },
+          {
+            "pmid": "658891",
+            "title": "Behavioral characteristics of freemartins administered estradiol, estrone, testosterone, and dihydrotestosterone.",
+            "abstract": "Eighteen genetic females born co-twin with males and diagnosed as being sterile intersexes (freemartins) were studied from birth to 79 weeks of age. Testosterone (T) and estrone (EI) were administered in Silastic capsules of two groups from birth to 50 weeks of age and other animals were left untreated. At 50 weeks the two treated groups had larger implants installed and the untreated animals were assigned to a new estrone (EII) and estradiol (E2) treatment. Later a dihydrotestosterone (DHT) group was formed in comparison with new E2 and testosterone propionate-enanthate (TP-TE) groups, plus untreated controls. Vulvar interest, Flehmen lip curl, mounting, and agonistic behavior were recorded daily for 30 min while animals were allowed social interaction. Agonistic behavior, interest in the genital area, and mounting were induced or stimulated by T, TP-TE, and E2, but not by DHT or estrone (EI or EII). Also, only animals in the T, TP-TE, and E2 groups induced to mount displayed the stan",
+            "journal": "Hormones and behavior",
+            "year": "1978",
+            "authors": [
+              "Greene W A",
+              "Mogil L",
+              "Foote R H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Agonistic Behavior",
+              "Animals",
+              "Cattle",
+              "Dihydrotestosterone",
+              "Estradiol",
+              "Estrone",
+              "Female",
+              "Freemartinism",
+              "Gonadal Steroid Hormones",
+              "Sexual Behavior, Animal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/658891/"
+          },
+          {
+            "pmid": "7828438",
+            "title": "The in vivo roles of müllerian-inhibiting substance.",
+            "abstract": "The fetal testis functions as the sex differentiator by imposing a masculine pattern of development upon a genetic program that is inherently female. Two hormones produced by the fetal testis mediate the differentiation of the müllerian and Wolffian ducts (Figs. 1 and 4). MIS actively inhibits the development of the müllerian ducts, and testosterone induces the differentiation of the Wolffian ducts. The absence of these two hormones during fetal development in the female (the hormonal equivalent of no testes) permits müllerian duct differentiation and does not induce Wolffian duct development. The in vivo outcomes of ectopic MIS exposure or MIS deficiency illustrate the balance required to coordinately differentiate and cause regression of the respective male and female genital ducts. The observations made in the MIS-deficient mice demonstrate that codevelopment of both genital duct systems interferes with normal development of both systems and ultimately interferes with reproduction a",
+            "journal": "Current topics in developmental biology",
+            "year": "1994",
+            "authors": [
+              "Behringer R R"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Androgen-Insensitivity Syndrome",
+              "Animals",
+              "Anti-Mullerian Hormone",
+              "Cattle",
+              "Chimera",
+              "DNA-Binding Proteins",
+              "Disorders of Sex Development",
+              "Freemartinism",
+              "Gene Expression Regulation, Developmental",
+              "Genes, Dominant"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7828438/"
+          },
+          {
+            "pmid": "12620243",
+            "title": "Effects of testosterone on pedicle formation and its transformation to antler in castrated male, freemartin and normal female red deer (Cervus elaphus).",
+            "abstract": "Pedicles and antlers are male deer secondary sexual characters. As such, development of these structures is under the control of androgen hormones. Pedicle growth is caused by increasing and elevated plasma testosterone (T) levels, whereas first antler transformation from a fully formed pedicle occurs when the T levels are decreasing. Castration prior to pedicle initiation abrogates future pedicle and antler formation. Female deer also have the potential to develop pedicles and antlers, but they do not normally express this phenotype due to lack of sufficient androgen stimulation. Previous studies have shown that female white-tailed deer could be readily induced to grow pedicles as well as antlers by singular administration of exogenous androgens (EA), but in red deer (Cervus elaphus) singular or irregular EA treatment could only stimulate castrated male, normal or ovariectomised females to grow pedicles, but not antlers. The present study was set out to test whether these EA-induced p",
+            "journal": "General and comparative endocrinology",
+            "year": "2003",
+            "authors": [
+              "Li C",
+              "Littlejohn R P",
+              "Corson I D",
+              "Suttie J M"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antlers",
+              "Body Weight",
+              "Cattle",
+              "Deer",
+              "Drug Implants",
+              "Female",
+              "Freemartinism",
+              "Injections, Intramuscular",
+              "Insulin-Like Growth Factor I"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12620243/"
+          },
+          {
+            "pmid": "12409094",
+            "title": "Age dependent changes in plasma anti-Müllerian hormone concentrations in the bovine male, female, and freemartin from birth to puberty: relationship between testosterone production and influence on sex differentiation.",
+            "abstract": "To understand the behaviour of the gonads, in terms of hormonal secretion, in a model of intersexual development naturally occurring in mammals, we determined plasma concentrations of testosterone, progesterone, and anti-Müllerian hormone (AMH) in bovine freemartins, and compared them to normal levels measured in males and females from birth to puberty. We found that newborn males and freemartins have very high concentrations of AMH (over 700ng/ml). Conversely, plasma AMH concentration is always below 120ng/ml in females. While values remain stable in males for the first five months of life, they sharply decrease in the freemartins within the first fortnight, and reach female levels, which demonstrates that AMH is essentially originated in the male twin. In young bulls the trend of plasma testosterone concentrations is opposite to that of the AMH. The rise in testosterone production at puberty corresponds to a sharp decline in AMH concentrations. Bovine plasma concentrations of AMH are",
+            "journal": "General and comparative endocrinology",
+            "year": "2002",
+            "authors": [
+              "Rota Ada",
+              "Ballarin Cristina",
+              "Vigier Bernard",
+              "Cozzi Bruno",
+              "Rey Rodolfo"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Animals",
+              "Anti-Mullerian Hormone",
+              "Cattle",
+              "Chimera",
+              "Female",
+              "Feminization",
+              "Freemartinism",
+              "Genitalia",
+              "Glycoproteins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12409094/"
+          },
+          {
+            "pmid": "30722",
+            "title": "Release rate of testosterone and estrogens from polydimethylsiloxane implants for extended periods in vivo compared with loss in vitro.",
+            "abstract": "Release rates of testosterone, estrone, and estradiol placed in chambers made from polydimethylsiloxane (PDS) tubing (Dow Corning \"Silastic,\" 3.35 mm ID x 4.65 mm OD) were studied in 14 freemartin cattle with minimal or non-detectable endogenous hormone secretion, and in 0.9% saline:methanol (1:1) baths shaken at 38 degree C. Eighty-seven implants, varying in length from 2 to 10 cm, were placed in 14 animals for 27 to 235 days. The average release rates +/- standard errors, in microgram/cm/day, were testosterone, 55.9 +/- 2.4, estrone, 12.6 +/- 1.8, and estradiol, 11.1 +/- 1.1. A relatively constant release rate was found over the period of time studied and sufficient steroid remained for potential release over periods exceeding 1 year. The dose of hormone delivered was sufficient to increase mounting activity in testosterone-treated animals and estrual activity in those receiving estrogens. Corresponding release rates in vitro for four 10-cm implants containing either testosterone, es",
+            "journal": "International journal of fertility",
+            "year": "1978",
+            "authors": [
+              "Greene W A",
+              "Foote R H"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Delayed-Action Preparations",
+              "Dimethylpolysiloxanes",
+              "Drug Implants",
+              "Estradiol",
+              "Estrone",
+              "Male",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30722/"
+          },
+          {
+            "pmid": "2229590",
+            "title": "Effects of androgenizing dairy heifers with ear implants containing testosterone and estrogen on detection of estrus.",
+            "abstract": "Lactating dairy cows in four lots were observed for sexual behavior for 6 mo. One freemartin heifer in each lot was implanted with testosterone propionate and estradiol benzoate to aid in detection of estrus. Blood samples were obtained from androgenized heifers every other week for determination of serum testosterone. The addition of an androgenized heifer to each lot increased the number of mounts and attempts to mount cows, both overall and within observation periods. Thus, the likelihood of detecting a cow in estrus was increased with the addition of the androgenized heifers. Greatest benefit was seen when one or two cows were simultaneously in estrus in each lot. Observational data and serum progesterone concentration of mounted cows indicated that androgenized heifers were selectively mounting open cows displaying estrus, whereas the remaining nonandrogenized cows were less selective with their mounting activity. Serum testosterone increased after heifers were implanted, but test",
+            "journal": "Journal of dairy science",
+            "year": "1990",
+            "authors": [
+              "Mortimer R G",
+              "Salman M D",
+              "Gutierrez M",
+              "Olson J D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Drug Implants",
+              "Estradiol",
+              "Estrus Detection",
+              "Female",
+              "Freemartinism",
+              "Progesterone",
+              "Sexual Behavior, Animal",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/2229590/"
+          },
+          {
+            "pmid": "4584366",
+            "title": "Studies on sex differentiation in mammals.",
+            "abstract": "",
+            "journal": "Recent progress in hormone research",
+            "year": "1973",
+            "authors": [
+              "Jost A",
+              "Vigier B",
+              "Prépin J",
+              "Perchellet J P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Castration",
+              "Cattle",
+              "Cell Differentiation",
+              "Female",
+              "Fetus",
+              "Freemartinism",
+              "Gestational Age",
+              "Male",
+              "Methyltestosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/4584366/"
+          },
+          {
+            "pmid": "915067",
+            "title": "Development of and fluid accumulation in mammary glands of freemartins administered estradiol, estrone, or testosterone.",
+            "abstract": "Eighteen Holstein freemartins acquired at 1 wk of age were assigned to a control and to four treatment groups, but only two of the groups received hormone the first 50 wk. Testosterone administered for the first 50 wk appeared to inhibit teat growth whereas estrone stimulated teat and udder length. At 50 wk of age, implants releasing daily approximately 12.9 microgram of testosterone, 2.9 microgram of estrone, or 2.6 microgram of estradiol-17beta per kg of body weight were implanted for 6 wk. One of three testosterone-treated and 9 of 11 estrogen-treated animals exhibited increased udder development associated with fluid accumulation. The 10 animals with fluid accumulation in the udders were milked once 39 days after implanting. The fluid contained 15.0% total solids, 4.1% fat, and 7.0% protein, values which are between those for normal milk and colostrum. These studies support the concept that administration of low concentrations of estrogens alone, released continuously from implants",
+            "journal": "Journal of dairy science",
+            "year": "1977",
+            "authors": [
+              "Greene W A",
+              "Foote R H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Estradiol",
+              "Estrone",
+              "Female",
+              "Freemartinism",
+              "Gonadal Steroid Hormones",
+              "Mammary Glands, Animal",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/915067/"
+          },
+          {
+            "pmid": "8349280",
+            "title": "Effects of testosterone propionate upon the sexual and aggressive behavior of adult male marmosets (Callithrix jacchus) castrated as neonates.",
+            "abstract": "In New World monkeys of the family Callitrichidae (marmosets and tamarins), females frequently give birth to dizygotic twins. Twins share a placental circulation throughout fetal development and are hemopoietic chimeras. Despite this, there is no masculinization (freemartinism) in females which develop next to a male co-twin. It has been suggested that the organizing effects of testicular androgen upon sexual differentiation of the brain occur mainly during early postnatal development in male callitrichids, rather than in utero. However, this report demonstrates activation of masculine copulatory behavior by testosterone propionate (TP) administered to adult male marmosets (N = 8) which were castrated in infancy (between Days 1-7). Effects of neonatal castration upon aggressive behavior during pair tests with females (high frequencies of aggression) and intact adult males (low frequencies of aggression) were also reversed by TP treatment in adulthood. While early postnatal androgen sec",
+            "journal": "Hormones and behavior",
+            "year": "1993",
+            "authors": [
+              "Dixson A F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aggression",
+              "Animals",
+              "Animals, Newborn",
+              "Callithrix",
+              "Copulation",
+              "Ejaculation",
+              "Female",
+              "Male",
+              "Orchiectomy",
+              "Penile Erection"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8349280/"
+          },
+          {
+            "pmid": "1195256",
+            "title": "Plasma progesterone, androstenedione and testosterone concentrations in freemartin heifers.",
+            "abstract": "Plasma concentrations of testosterone, androstenedione and progesterone in freemartins, and normal cyclic and non-cyclic heifers were studied. The plasma testosterone concentrations were in general less than 10 pg/ml in all animals. The mean androstenedione concentration of 28 pg/ml in 10- to 12-month-old freemartins was significantly lower than the mean of 58 to 60 pg/ml for normal 10- to 12-month-old heifers. At 24 months of age the mean androstenedione concentration in the freemartins had risen significantly to 65 pg/ml.",
+            "journal": "Journal of reproduction and fertility",
+            "year": "1975",
+            "authors": [
+              "Saba N",
+              "Cunningham N F",
+              "Millar P G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Age Factors",
+              "Androstenedione",
+              "Animals",
+              "Cattle",
+              "Freemartinism",
+              "Male",
+              "Progesterone",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/1195256/"
+          },
+          {
+            "pmid": "6715068",
+            "title": "Foetal testicular steroidogenesis and responsiveness to LH in freemartins and their male co-twins.",
+            "abstract": "Foetal gonads were obtained from 1) 8 male foetuses that were co-twin to freemartins, 2) 8 isosexual twins, 3) 59 singletons of 45-75 days of gestations, 4) 5 isosexual and 5 male co-twins of 90-120 days and 5) 5 freemartins at 70-120 days of gestation. The gonads were incubated in supplemented medium 199 for 24 h in the absence or presence or LH and the testosterone and progesterone produced measured by RIA. During the time of sexual differentiation (45-75 days) the testes of the male co-twins produced significantly less testosterone than testes from isosexual or singletons of the same age. Testes of foetuses older than 90 days were refractory to LH-stimulation, but freemartin ovaries and testes from their male co-twins continued to respond to LH with increased testosterone production. No significant differences in progesterone production were detected amount co-twins, isosexual twins or singletons at any age. We conclude that the testes of the male twin that is co-twin to a freemarti",
+            "journal": "International journal of andrology",
+            "year": "1984",
+            "authors": [
+              "Shore L S",
+              "Shemesh M",
+              "Mileguir F"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Female",
+              "Luteinizing Hormone",
+              "Male",
+              "Ovary",
+              "Pregnancy",
+              "Progesterone",
+              "Testis",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6715068/"
+          },
+          {
+            "pmid": "573192",
+            "title": "Growth and reproductive development in freemartins hormonally treated from 1 to 79 weeks of age.",
+            "abstract": "Postnatal growth, steroid hormone profiles and response to steroid hormone treatment were studied in 18 freemartins and one normal female born co-twin with a bull. They were either treated postnatally with testosterone or estrone at one week of age, or left untreated until 50 weeks of age when they received silastic implants calculated to release either 12.9 microgram of estrone or 2.6 microgram of estradiol per day per kg of body weight. Later a dihydrotestosterone-treated group was added. Reproductive development was studied by palpation per rectum and by examination when animals were slaughtered at 79 weeks of age. Treated animals grew slightly faster than untreated animals. Testosterone in untreated freemartins averaged 76 and 87 pg/ml of blood plasma during weeks 1 to 48 and 52 to 56. Corresponding values for those animals with small testosterone implants (weeks 1 to 48) and with larger implants (weeks 52 to 56) were 130 and 272 pg/ml. Estrone and estradiol values appeared to fluc",
+            "journal": "The Cornell veterinarian",
+            "year": "1979",
+            "authors": [
+              "Greene W A",
+              "Mogil L G",
+              "Lein D H",
+              "McCauley A D",
+              "Foote R H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Clitoris",
+              "Estradiol",
+              "Estrone",
+              "Female",
+              "Freemartinism",
+              "Genitalia",
+              "Gonadal Steroid Hormones",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/573192/"
+          },
+          {
+            "pmid": "25835572",
+            "title": "Non-mosaic monosomy 59,X in cattle: a case report.",
+            "abstract": "A 3-year-old Longhorn heifer was referred to the Veterinary Medical Teaching Hospital of Texas A&M University for inability to get pregnant. Physical examination revealed a small-sized female for age and breed with a normal vulva, vaginal length, and external cervical os. Further assessment by per rectum palpation and trans-rectal ultrasonography revealed a small uterine cervix and cord-like uterine horns with no identifiable ovaries. Additional evaluation including laparoscopy, hormonal evaluation, and genetic analysis allowed ruling out conditions commonly associated with a phenotypic female with infantile or underdeveloped reproductive organs such as freemartin, XY gonadal dysgenesis, testicular feminization, and bilateral ovarian agenesis. Laparoscopy confirmed the presence of a small cervix with small uterine horns and absence of ovaries. Testosterone, progesterone, and 17-β estradiol concentrations were 200.0pg/mL, 1.48ng/mL, and undetectable, respectively. Genetic evaluation det",
+            "journal": "Animal reproduction science",
+            "year": "2015",
+            "authors": [
+              "Romano Juan E",
+              "Raussdepp Terje",
+              "Mulon Pierre Y",
+              "Villadóniga Graciela B"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Cattle Diseases",
+              "Female",
+              "Gonadal Dysgenesis",
+              "Karyotype",
+              "Sex Chromosome Aberrations"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25835572/"
+          },
+          {
+            "pmid": "11597305",
+            "title": "Inter-relationships among gonadotrophins, reproductive steroids and inhibin in freemartin ewes.",
+            "abstract": "Freemartins are sterile XX/XY chimaeras that occur as a result of placental fusion between male and female fetuses during early pregnancy. Freemartins occur predominantly in cattle, although the prevalence of ovine freemartinism is increasing. In this study, the reproductive endocrinology of ovine freemartins was compared with that of normal sheep. Freemartins had significantly (P < 0.001) higher basal concentrations of LH and FSH than did normal ewes or rams, although the response of LH to GnRH (10 microg) was similar in freemartins, ewes and rams. Resting concentrations of oestradiol were similar in freemartins and ewes and were increased in both after eCG administration. Testosterone concentrations were higher in freemartins than in ewes, but were unresponsive to GnRH or eCG. Administration of 62.5 mg progesterone or 25 lg oestradiol twice a day for 3 days suppressed LH concentrations to baseline values in freemartins, ewes and rams. In ewes, 500 microg oestradiol administered twice",
+            "journal": "Reproduction (Cambridge, England)",
+            "year": "2001",
+            "authors": [
+              "Parkinson T J",
+              "Smith K C",
+              "Long S E",
+              "Douthwaite J A",
+              "Mann G E"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Cattle",
+              "Chorionic Gonadotropin",
+              "Estradiol",
+              "Female",
+              "Follicle Stimulating Hormone",
+              "Freemartinism",
+              "Gonadotropin-Releasing Hormone",
+              "Kinetics",
+              "Luteinizing Hormone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11597305/"
+          },
+          {
+            "pmid": "6509368",
+            "title": "Morphological and hormonal features of an ovine and a caprine intersex.",
+            "abstract": "A caprine and an ovine intersex were examined to compare their morphological and hormonal features in light of their cytogenetic make-up. Both animals, registered as females at birth, developed male-like appearance and behaviour as they approached the age of sexual maturity. Plasma testosterone concentrations in the intersexes were similar to those in adult males of the respective species. Cytogenetic analyses showed male and female cells in the blood while cultures of solid tissue contained only female cells suggesting that both were blood chimeras similar to the bovine freemartins.",
+            "journal": "Canadian journal of comparative medicine : Revue canadienne de medecine comparee",
+            "year": "1984",
+            "authors": [
+              "Bosu W T",
+              "Basrur P K"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Behavior, Animal",
+              "Disorders of Sex Development",
+              "Female",
+              "Genitalia",
+              "Goats",
+              "Karyotyping",
+              "Progesterone",
+              "Seasons",
+              "Sheep"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/6509368/"
+          },
+          {
+            "pmid": "7711213",
+            "title": "Ontogeny of reproductive abnormalities induced by deregulation of anti-müllerian hormone expression in transgenic mice.",
+            "abstract": "Anti-müllerian hormone, normally responsible for the regression of müllerian ducts in male fetuses, induces stunting, germ cell loss, and seminiferous tubule formation in ovaries of bovine freemartin fetuses and of transgenic mice, which express the human anti müllerian hormone gene under the control of the metallothionein promoter. Because the latter have been studied only after birth, we undertook a detailed chronological study of their reproductive organs. Müllerian ducts of transgenic female fetuses regressed at the same time as those of normal or transgenic males. Maximal reduction of germ cell number occurred between 16 days postcoitus and birth, when most transgenic oocytes were still in the leptotene stage of the meiotic prophase, whereas normal oocytes had already reached the pachytene phase. Interference with progression of the meiotic prophase and germ cell loss in the fetal ovary are probably responsible for subsequent ovarian regression and retardation of follicle growth. ",
+            "journal": "Biology of reproduction",
+            "year": "1995",
+            "authors": [
+              "Lyet L",
+              "Louis F",
+              "Forest M G",
+              "Josso N",
+              "Behringer R R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Anti-Mullerian Hormone",
+              "Aromatase",
+              "Cell Count",
+              "Estradiol",
+              "Female",
+              "Gene Expression Regulation",
+              "Glycoproteins",
+              "Growth Inhibitors",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7711213/"
+          },
+          {
+            "pmid": "5891100",
+            "title": "Attempts to induce bovine freemartinism experimentally.",
+            "abstract": "",
+            "journal": "Journal of reproduction and fertility",
+            "year": "1965",
+            "authors": [
+              "Jainudeen M R",
+              "Hafez E S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Androgens",
+              "Animals",
+              "Cattle",
+              "Cell Differentiation",
+              "Female",
+              "Infertility",
+              "Male",
+              "Ovary",
+              "Pregnancy",
+              "Pregnancy, Animal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/5891100/"
+          },
+          {
+            "pmid": "16726991",
+            "title": "True hermaphroditism in a wild sheep: A clinical report.",
+            "abstract": "Intersexuality in sheep is rare, with the freemartin anomaly being the most common. We describe here a true hermaphrodite in a wild sheep. An F(1) wild sheep ewe of Argali-mouflon X Mexican desert bighorn breeding was bred to an F(1) ram of the same breeding. A single lamb was born with the external appearance of a normal female. The lamb grew faster than its female cohorts, and by 6 months of age exhibited the aggressive behavior, size, coloration and horn development associated with males. Phenotypically, the intersex had female external genitalia with an enlarged clitoris. A human chorionic gonadotrophin (hCG) response test was performed when the intersex was 1-year-old and serum testosterone, progesterone and estradiol levels were compared to the response of a normal female and male of similar age and breeding. An exploratory celiotomy revealed two gonadal-like structures associated with a female reproductive tract. Histopathology of the structures revealed spermatogenically inacti",
+            "journal": "Theriogenology",
+            "year": "1991",
+            "authors": [
+              "Bunch T D",
+              "Callan R J",
+              "Maciulis A",
+              "Dalton J C",
+              "Figueroa M R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16726991/"
+          },
+          {
+            "pmid": "10735122",
+            "title": "Birth of a Holstein freemartin calf co-twinned to a schistosomus reflexus fetus.",
+            "abstract": "An unusual case of a live Holstein freemartin calf co-twinned with schistosomus reflexus fetus is presented here. Delivery of the schistosomus reflexus was achieved by fetotomy 24 h after manual delivery of a live heifer calf. The dam subsequently experienced concurrent metritis and left displacement of the abomasum; however, she conceived following insemination 85 d post partum. Cytogenetic examination of the live heifer using lymphocyte culture and cutaneous fibroblast cell culture failed to demonstrate chromosomal chimerism, whereas polymerase chain reaction (PCR) detected the presence of the bovine Y-chromosome marker BRY-1. Low concentrations of testosterone, estradiol and progesterone at 3, 6, 24 and 48 h after administration of hCG were detected in the serum of the freemartin heifer. Genetic, hormonal, histological and clinical findings established the live female co-twin calf was a freemartin, an abnormality of phenotypic sex. Failure to detect any significant peripheral concen",
+            "journal": "Theriogenology",
+            "year": "1999",
+            "authors": [
+              "Cavalieri J",
+              "Farin P W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Abdomen",
+              "Animals",
+              "Cattle",
+              "Cattle Diseases",
+              "Cells, Cultured",
+              "Chorionic Gonadotropin",
+              "Congenital Abnormalities",
+              "Estradiol",
+              "Female",
+              "Freemartinism"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10735122/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "freemartinism",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20freemartinism"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "arthrogryposis epileptic seizures migrational brain disorder",
+        "txgnn_score": 0.9384214878082277,
+        "txgnn_rank": 7849,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "arthrogryposis epileptic seizures migrational brain disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20arthrogryposis%20epileptic%20seizures%20migrational%20brain%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "primary ovarian failure",
+        "txgnn_score": 0.9373182058334352,
+        "txgnn_rank": 7938,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04189406",
+            "title": "Turner Syndrome Minipuberty Study A Prospective, Descriptive Cohortstudy",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2020-02-01",
+            "completion_date": "2024-12-01",
+            "country": "Poland, Sweden, Denmark, Germany, Netherlands",
+            "enrollment": 30,
+            "brief_summary": "Rationale: Due to accelerated germ cell loss, infertility is a major problem in girls with Turner syndrome (TS). Therefore, cryopreservation of ovarian tissue or oocytes before exhaustion of the ovarian reserve may preserve fertility in patients with TS. However, in the majority of females with TS , the ovarian reserve is exhausted before the age of menarche. Early markers indicating and predicting the ovarian reserve are necessary. During mid-childhood the hypothalamic-pituitary-gonadal (HPG) a",
+            "eligibility_criteria": "Inclusion Criteria:\n\nIn order to be eligible to participate in the TS group of this study, a subject must meet all of the following criteria:\n\n* A diagnosis of TS before the age of three months;\n* Girls with a diagnosis of classic TS or other variants (i.e. 45,X, 45,X/46XiXq, 45,X/46,XY, 45,X/46,XX,",
+            "endpoints": [
+              "Defining the LH range in blood during minipuberty in girls with TS at 3 months of age and at 9 months of age",
+              "Defining the FSH range during minipuberty in girls with TS at 3 months of age and at 9 months of age",
+              "Defining the AMH range during minipuberty in girls with TS at 3 months of age and at 9 months of age"
+            ],
+            "sponsor": "Radboud University Medical Center",
+            "url": "https://clinicaltrials.gov/study/NCT04189406"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06343870",
+            "title": "Pharmacokinetic, Clinical, Hormonal and Therapeutic Effects of the Use of Estradiol and Testosterone Hormonal Subdermal Implants in Women With Natural Menopause, Premature Ovarian Failure or Surgical Menopause Due to Cervical Cancer.",
+            "phase": "PHASE3",
+            "status": "RECRUITING",
+            "start_date": "2025-12-18",
+            "completion_date": "2027-04-30",
+            "country": "Brazil",
+            "enrollment": 140,
+            "brief_summary": "Estrogen and androgen deficiencies negatively impact the quality of life of women at different stages of life, especially after menopause. New modalities and new therapeutic alternatives have been researched. Parenteral administration of estradiol and testosterone could be effective to treat symptoms secondary to estrogen and androgen deficiencies and minimize these adverse events. This study evaluates the efficiency of subdermal implant-bioabsorbable use in women with menopausal symptoms associ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* menopause time of 2 to 6 years;\n* Body Mass Index between 25 and 30 kg/m2;\n* women hysterectomized and ovariectomized due to cervical cancer;\n* women with premature ovarian failure and under 40 years of age;\n* active sex life;\n* absence of severe depression and anxiety, confir",
+            "endpoints": [
+              "Evaluate hormonal, metabolic thromboembolic and clinical effects on climacteric symptoms"
+            ],
+            "sponsor": "University of Sao Paulo General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06343870"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02322060",
+            "title": "Ovarian Tissue Cryopreservation and Auto-transplantation for in Vitro Activation of Dormant Follicles for Patients with Primary Ovarian Insufficiency",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2014-09",
+            "completion_date": "2021-10",
+            "country": "China",
+            "enrollment": 100,
+            "brief_summary": "In this study, the investigators used the newly developed technique i.e. in vitro activation of dormant follicles (IVA) to promote ovarian follicle growth much more efficiently than natural, in vivo process for women with Primary Ovarian Insufficiency (POI).Firstly, the investigators remove one ovary under laparoscopic surgery. Then, we dissect ovarian cortex from the ovarian medulla. The ovarian cortex is cut into small cubes and cultured with medium containing drugs to activate dormant follicl",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Married women (18-39) diagnosed with POI/ORS\n* With both ovaries present\n* With normal uterine cavity\n* Healthy and can stand surgery\n\nExclusion Criteria:\n\n* Any one that does not meet the inclusion criteria",
+            "endpoints": [
+              "Clinical pregnancy"
+            ],
+            "sponsor": "The First Affiliated Hospital of Zhengzhou University",
+            "url": "https://clinicaltrials.gov/study/NCT02322060"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06121388",
+            "title": "International Peace Maternity and Child Health Hospital (IPMCH) Affiliated to School of Medicine, Shanghai Jiaotong University, Shanghai, China",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2023-01-01",
+            "completion_date": "2025-12-31",
+            "country": "China",
+            "enrollment": 100,
+            "brief_summary": "The purpose of this study is to investigate the brain MRI imaging changes and associated factors on cognition function in patients with premature ovarian failure.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1\\. Criteria for premature ovarian failure:\n\n1. Subjects must meet all the following criteria to be included in the study:\n2. Female, between 18 and 40 years old;\n3. FSH ≥ 40U/L on two occasions at least four weeks;\n4. Sign informed consent. 2. Criteria for the health control gr",
+            "endpoints": [
+              "Brain structure"
+            ],
+            "sponsor": "International Peace Maternity and Child Health Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06121388"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05737329",
+            "title": "Optimization of Management Tactics for Women With Premature Ovarian Insufficiency, Taking Into Account Their Clinical and Hormonal Profile",
+            "phase": "PHASE1, PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2019-03-01",
+            "completion_date": "2023-04",
+            "country": "Russia",
+            "enrollment": 80,
+            "brief_summary": "The goal of this study is to assess the effects of higher doses versus standard hormone therapy on quality of life (QoL), symptoms due to estrogen deficiency, and bone health in women with premature ovarian insufficiency (POI).\n\nThe efficacy of the hormonal treatment will be assessed clinically and also by measuring serum concentrations of Estradiol (E2), Follicle-Stimulating Hormone (FSH), Luteinizing hormone (LH), total Testosterone (T), Estrone (E1), E1 sulfate (E1S), and Sex Hormone Binding ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients with karyotypically normal spontaneous POI diagnosed before the age of 40. POI as defined by: change in menstrual function (oligomenorrhea and/or amenorrhea for at least 4 months), elevated serum follicle stimulating hormone (FSH ≥ 25 IU/L with 4 to 6 weeks interval)\n",
+            "endpoints": [
+              "Evaluation of the severity of estrogen deficiency symptoms",
+              "Changing the assessment of quality of life using the Short Form Health Survey-36 (SF-36)",
+              "Changing the assessment of menopause-related quality of life measured using the Menopause-Specific Quality of Life (MENQOL) questionnaire."
+            ],
+            "sponsor": "Federal State Budget Institution Research Center for Obstetrics, Gynecology and Perinatology Ministry of Healthcare",
+            "url": "https://clinicaltrials.gov/study/NCT05737329"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06866119",
+            "title": "Effects of Estrogen Replacement on Cardiometabolic Endpoints in Women With Primary Ovarian Insufficiency",
+            "phase": "N/A",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-03-01",
+            "completion_date": "2026-06",
+            "country": "United States",
+            "enrollment": 45,
+            "brief_summary": "The goal of this observational study is to study the effects of treating women with Primary Ovarian Insufficiency (POI) with estrogen replacement therapy to bolster the evidence backing cardiometabolic preventive care in women with POI. The main question it aims to answer is:\n\nDoes 6 months of estrogen replacement therapy for women with POI improved markers of heart health?\n\nWomen newly diagnosed with POI (within 6 months) who are planning to start estrogen replacement therapy from their clinica",
+            "eligibility_criteria": "Inclusion criteria (I):\n\n* female sex\n* age 30-40\n* CASE PARTICIPANTS ONLY: clinically documented POI diagnosis within 6 months\n* CASE PARTICIPANTS ONLY: planning to clinically initiate 100mcg transdermal 17beta-estradiol twice weekly and micro-ionized progesterone (either 100mg daily or 200mg cycli",
+            "endpoints": [
+              "Brachial artery Flow Mediated Vasodilation (FMD)"
+            ],
+            "sponsor": "Massachusetts General Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06866119"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06049186",
+            "title": "Comparison of Live Birth Rates Between Calorie-restricted Diets and Metformin Interventions Prior to Ovulation Induction Therapy in Patients With Overweight/Obese Polycystic Ovary Syndrome Combined With Infertility",
+            "phase": "NA",
+            "status": "RECRUITING",
+            "start_date": "2023-09-15",
+            "completion_date": "2026-03-31",
+            "country": "China",
+            "enrollment": 406,
+            "brief_summary": "Polycystic ovary syndrome (PCOS) is a common gynecological endocrine disease and a major cause of anovulatory infertility in reproductive-aged women. From 2010 to 2020, it was found that the prevalence of PCOS in reproductive-aged women in China reached 7.8%, an increase of 65% over 10 years ago. Many of them are overweight or obese. Weight loss including diet modifications can significantly reduce reproductive and metabolic disorders of PCOS and is recommended as a first step in the treatment o",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. a diagnosis of polycystic ovary syndrome (PCOS) based on the Rotterdam diagnostic criteria;\n2. age 20-35 years old;\n3. a body-mass index over 23;\n4. have requirements for fertility.\n\nExclusion Criteria:\n\n1. acute or chronic viral hepatitis;\n2. serious liver dysfunction or chr",
+            "endpoints": [
+              "Live birth during the period of ovulation induction"
+            ],
+            "sponsor": "Shanghai First Maternity and Infant Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT06049186"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04671693",
+            "title": "Study of Complications Related to Treatments in Adults Aged 18 to 65 Years Old Responding to a First Treatment in Oncology or Onco-hematology and Participating in the PASCA (PArcours de Santé au Cours du CAncer) Post-treatment Program.",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2020-12-24",
+            "completion_date": "2029-04-24",
+            "country": "France",
+            "enrollment": 500,
+            "brief_summary": "INTRODUCTION: Approximately 44% of cancer survivors experience a deteriorated quality of life 5 years after diagnosis due to late onset of complications related to cancer treatments. The objective of the study is to evaluate the incidence rates of treatment-related complications, identify sub-clinical abnormalities and risk factors in patients participating in the PASCA post-treatment program.\n\nMETHOD: PASCA is a single-center, interventional cohort study of adult patients who received at least ",
+            "eligibility_criteria": "1. males and females aged 18-65 years;\n2. Diagnosis and management at CLB for one of the following cancers: Hodgkin's lymphoma, aggressive non-Hodgkin's lymphoma, acute myeloid leukemia and primary non metastatic invasive breast cancer (BC), TGCT, or Sarcoma (Soft Tissue Sarcoma, Osteosarcoma, and E",
+            "endpoints": [
+              "Incidence of social precariousness",
+              "Change from Baseline return to work issues incidence at 60 months",
+              "Change from Baseline cognitive problems incidence at 60 months"
+            ],
+            "sponsor": "Centre Leon Berard",
+            "url": "https://clinicaltrials.gov/study/NCT04671693"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05838157",
+            "title": "Research for the Effect of HPV Vaccine on Menstrual Cycle in Women of Reproductive Age",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2023-05-04",
+            "completion_date": "2024-12-31",
+            "country": "China",
+            "enrollment": 600,
+            "brief_summary": "Cervical cancer is one of the most common cancer in women, making it the fourth largest cause of female cancer mortality worldwide. High-risk HPV types (hrHPV) continuous infection is the main cause of the premalignant and malignant lesions of the cervix. The most effective primary prevention of cervical cancer is administration HPV vaccines. There are three prophylactic HPV vaccines including bivalent HPV (2vHPV)， quadrivalent HPV vaccine (4vHPV)，9-valent HPV vaccine (9vHPV) currently. With the",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Previous menstrual cycles were regular and normal\n* At least one vaccination of HPV vaccine\n\nExclusion Criteria:\n\n* Pregnancy\n* Breast-feeding\n* Record of abnormal results of HPV test/ cervical cytology/ gynecological ultrasonography\n* Record of medications related to menstrua",
+            "endpoints": [
+              "Frequency of the menstrual cycle",
+              "Duration of the menstrual cycle",
+              "Quantity of the menstrual cycle"
+            ],
+            "sponsor": "Sun Yat-sen University",
+            "url": "https://clinicaltrials.gov/study/NCT05838157"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06167135",
+            "title": "Polycystic Ovary Syndrome, Insulin Resistance, Infertility, Obesity, and the Associated Mitochondrial Dysfunction With These Disorders in Hungarian Patients",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2021-09-10",
+            "completion_date": "2033-09-30",
+            "country": "Hungary",
+            "enrollment": 150,
+            "brief_summary": "Enrolling of 150 female patients of fertile age diagnosed with PCOS, insulin resistance, infertility, or mitochondrial disease, and the same number of age- and sex-matched controls are planned.\n\nDuring the research biomarkers already with mitochondrial dysfunction in the scientific literature and common mtDNA abnormalities (deletions, point mutations, copy number changes, etc.) are examined.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Presence of polycystic ovary syndrome (PCOS) or insulin resistance (IR) associated with other multisystemic phenotypes, mitochondrial dysfunction\n* history of infertility associated with other multisystemic phenotypes, mitochondrial dysfunction\n* a known history of mitochondri",
+            "endpoints": [
+              "Serum Glucose and Insulin Levels",
+              "Clinical Pregnancy Rate"
+            ],
+            "sponsor": "Semmelweis University",
+            "url": "https://clinicaltrials.gov/study/NCT06167135"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02922348",
+            "title": "Optimal Hormone Replacement for Women With Premature Ovarian Insufficiency",
+            "phase": "PHASE3",
+            "status": "WITHDRAWN",
+            "start_date": "2016-03-01",
+            "completion_date": "2018-12-01",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "The investigators intend to establish feasibility/acceptability of a pilot randomized trial comparing hormone replacement therapy (HRT) and combined oral contraceptives (COCs) in women with premature ovarian insufficiency to estimate differences in quality of life (QOL) and serum hormone assays and markers of bone turnover/cardiovascular risk. At baseline, QOL survey will be administered and serum testing performed. Patients then randomized to HRT or COCs. Repeat testing will be performed after ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Female patients,\n* Between 14-45 years of age\n* Post-menarchal\n* Presence of uterus\n* POI as defined by: change in menstrual function (oligomenorrhea and/or amenorrhea), elevated serum serum follicle stimulating hormone (FSH), low serum estradiol concentrations, or estrogen de",
+            "endpoints": [
+              "Recruitment"
+            ],
+            "sponsor": "University of Pennsylvania",
+            "url": "https://clinicaltrials.gov/study/NCT02922348"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05279560",
+            "title": "The Efficacy and Safety of Intra-ovarian PRP Injection Within a Prospective, Single-blinded, Placebo-controlled, Randomized, Clinical Superiority Trial in Subjects With Low Ovarian Reserve/Expected Poor Ovarian Response",
+            "phase": "NA",
+            "status": "ACTIVE_NOT_RECRUITING",
+            "start_date": "2022-03-17",
+            "completion_date": "2030-06-30",
+            "country": "Germany",
+            "enrollment": 114,
+            "brief_summary": "The primary objective is to investigate the efficacy, defined as an increase in oocyte numbers upon ovarian stimulation, and safety of a single intra-ovarian PRP injection vs. saline solution (NaCl) injection (Placebo) transvaginally or laparoscopically for follicular activation in patients with child wish and with low ovarian reserve/expected poor ovarian response planning to undergo IVF or ICSI using own eggs. Pain score as numerical rating score and validated quality of life questionnaire wil",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Serum AMH \\< 0.5 ng/ml (at screening visit and in the absence of OC or sex-steroid intake)\n* Antral follicular count (AFC) in both ovaries ≤ 5 (at screening visit and in the absence of OC or sex-steroid intake)\n* Spontaneous cycle, menstrual cycle length 21-35 days\n* Body mass",
+            "endpoints": [
+              "Ovarian response"
+            ],
+            "sponsor": "University of Luebeck",
+            "url": "https://clinicaltrials.gov/study/NCT05279560"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02595255",
+            "title": "Antimüllerian Hormone as a Predictor of Future Infertility Risk in Prepubertal/Pubertal Cancer Patients",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2014-04",
+            "completion_date": "2036-12",
+            "country": "Belgium, France",
+            "enrollment": 275,
+            "brief_summary": "While most of the children spontaneously recover menstruation or experienced normal puberty after chemotherapy, their ovarian reserve may be impaired by treatment inducing future infertility. Fertility preservation is currently proposed for selected prepubertal patients with a high risk of premature ovarian failure after treatment (mostly conditioning regimen for bone marrow transplantation). For patients with low or moderate risks, counselling is very difficult and no fertility preservation pro",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Patients from 3 to 14 year old included - Belong to one of these 3 groups (modified from Wallace et al, 2005):\n\n  * High risk : Conditioning therapy for bone marrow transplantation or pelvic irradiation\n  * Moderate/Low risk : Pathologies treated with chemotherapy regimen with",
+            "endpoints": [
+              "AMH marker"
+            ],
+            "sponsor": "Erasme University Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02595255"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02794948",
+            "title": "Chinese Medicine(Hu Yang Yang Kun Formula) for Primary Ovarian Insufficiency:Randomized, Double-blind, DHEA-controlled Trial",
+            "phase": "PHASE1, PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2016-04",
+            "completion_date": "2017-12",
+            "country": "China",
+            "enrollment": 48,
+            "brief_summary": "The purpose of this research is providing valuable traditional chinese medicine theory and formula in treating Primary Ovarian insufficiency.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Aged 18-40\n2. Menstrual cycle change more than 7 days at least 2 times,amenorrhea less than 6 months.\n3. Sex hormone:bFSH\\>10u/L;or E2\\>80pg/ml.\n4. AMH\\<1ng/ml.\n5. Informed consent and truthfully answer the question.\n\nExclusion Criteria:\n\n1. Dose not meet the inclusion criter",
+            "endpoints": [
+              "Anti-Mullerian hormone"
+            ],
+            "sponsor": "Guangzhou University of Traditional Chinese Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT02794948"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06102655",
+            "title": "Effect and Mechanism of Jiajian Guishen Formulation on Premature Ovarian Insufficiency",
+            "phase": "EARLY_PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2023-07-24",
+            "completion_date": "2024-07-20",
+            "country": "China",
+            "enrollment": 46,
+            "brief_summary": "1. Identify differential metabolites in POI patients.\n2. Analysis of differential metabolites and their involved mechanism pathways.",
+            "eligibility_criteria": "Inclusion Criteria:\n\nPOI Inclusion Criteria:\n\n1. Patients diagnosed by Western medicine with premature ovarian insufficiency;\n2. Patients with Chinese medicine differentiation of kidney deficiency and liver depression;\n3. 18 ≤ patients' age ≤ 39 years;\n4. Patients who do not use other drugs during t",
+            "endpoints": [
+              "follicle stimulating hormone,FSH"
+            ],
+            "sponsor": "Dongzhimen Hospital, Beijing",
+            "url": "https://clinicaltrials.gov/study/NCT06102655"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04488432",
+            "title": "Endocrine, Bone And Metabolic Disorders In Adults After Allogeneic Stem-cell Transplant",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2019-11-27",
+            "completion_date": "2019-11-27",
+            "country": "France",
+            "enrollment": 45,
+            "brief_summary": "Allogeneic hematopoietic stem cell transplantations (allo-HSCT) is often indicated in malignant hematologic diseases. Conditioning regimens, used to reduce the tumor burden and to prevent transplant rejection, are based on chemotherapy alone or combined with total body irradiation (TBI). Endocrine complications are frequent transplant-related side effects. Investigators have been well described in children studies but less in adulthood.\n\nThe objective of this study is to assess retrospectively e",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* patients treated with allo-HSCT from 2006 to 2016 for a malignant hematologic disease\n* adult and in complete remission at exploration.\n\nExclusion Criteria:\n\n* anteriority of brain radiotherapy\n* prior HSCT\n* pregnancy",
+            "endpoints": [
+              "Adrenal insuffisiency prevalence"
+            ],
+            "sponsor": "University Hospital, Brest",
+            "url": "https://clinicaltrials.gov/study/NCT04488432"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01662466",
+            "title": "A Randomized Double Blind Control Trial of Transdermal Testosterone Supplementation vs Placebo on Follicular Development and Atresia, Oocyte and Embryo Quality Among Women With Diminished Ovarian Reserve Undergoing in Vitro Fertilization",
+            "phase": "PHASE1, PHASE2",
+            "status": "UNKNOWN",
+            "start_date": "2012-07-01",
+            "completion_date": "2022-12-31",
+            "country": "United States",
+            "enrollment": 180,
+            "brief_summary": "The purpose of this study is to determine the effect of treatment with trans-dermal testosterone cream compared to placebo on measures of ovarian reserve, oocyte and embryo quality, and pregnancy rates among women with evidence of diminished ovarian reserve that have persistently low serum testosterone and free testosterone after completing six previous weeks of DHEA supplementation.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Women with 38 to 44 years old planning to undergo ovulation induction for IVF who are willing to sign an informed consent.\n* BMI \\> 18 and \\<= 30 kg/m\\^2\n* FSH \\> 10 mIU/mL\n* AMH =\\< 1.05 ng/mL\n* Using DHEA for treatment of DOR/POA.\n* Baseline Total Testosterone less than 30 n",
+            "endpoints": [
+              "Clinical and Ongoing Pregnancy"
+            ],
+            "sponsor": "Center for Human Reproduction",
+            "url": "https://clinicaltrials.gov/study/NCT01662466"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06866990",
+            "title": "Exploratory Clinical Study on the Efficacy and Safety of Lactobacillus Johnsonii in the Treatment of Patients with Premature Ovarian Insufficiency",
+            "phase": "NA",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-03",
+            "completion_date": "2027-08",
+            "country": "N/A",
+            "enrollment": 60,
+            "brief_summary": "The goal of this clinical trial is to explore the effectiveness and safety of Lactobacillus johnsonii in improving ovarian function and perimenopausal symptoms in patients with premature ovarian insufficiency (POI). The main questions it aims to answer are: ① To explore the effectiveness and safety of Lactobacillus johnsonii in improving ovarian function and perimenopausal symptoms in patients with POI; ② To explore the potential mechanism of action of Lactobacillus johnsonii in improving ovaria",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Age between 20 and 39 years;\n2. Irregular menstruation or amenorrhea for \\> 4 months;\n3. At least two serum baseline follicle-stimulating hormone (FSH) levels \\> 25 IU/L (with an interval of more than 4 weeks between measurements);\n4. Willing to voluntarily participate in thi",
+            "endpoints": [
+              "Ovarian function markers"
+            ],
+            "sponsor": "Second Affiliated Hospital, School of Medicine, Zhejiang University",
+            "url": "https://clinicaltrials.gov/study/NCT06866990"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01129947",
+            "title": "The Use of DHEA in Women With Premature Ovarian Failure",
+            "phase": "EARLY_PHASE1",
+            "status": "WITHDRAWN",
+            "start_date": "2010-05",
+            "completion_date": "2013-01",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "DHEA supplementation has been used in women with infertility and diminished ovarian reserve. There is a small report in 5 women with POF that benefited from the use of DHEA over several months. The investigators aim to evaluate further the use of DHEA in women with Premature ovarian failure (POF).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* women with POF\n\nExclusion Criteria:\n\n* women without ovaries",
+            "endpoints": [
+              "The Use of DHEA in Women With Premature Ovarian Failure"
+            ],
+            "sponsor": "Virginia Center for Reproductive Medicine",
+            "url": "https://clinicaltrials.gov/study/NCT01129947"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT05410093",
+            "title": "Clinical Efficacy Analysis of Resveratrol in the Treatment of Primary Ovarian Insufficiency",
+            "phase": "NA",
+            "status": "UNKNOWN",
+            "start_date": "2022-02-01",
+            "completion_date": "2024-07-31",
+            "country": "China",
+            "enrollment": 150,
+            "brief_summary": "Resveratrol is a natural plant antitoxin widely found in grapes, mulberries, and other plants. Resveratrol mediates a variety of pharmacological effects, including antioxidant, immunomodulatory, anti-inflammatory, and anti-apoptotic, and plays a protective and therapeutic role in the development of several ROS-related diseases, including POI/POF.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Amenorrhea or oligomenorrhea at least 4 months and two (\\>4 weeks interval) basal FSH≥10mIU/ml；\n2. The women aged \\<40 years old；\n3. Informed consent, voluntary experiment.\n\nExclusion Criteria:\n\n1. Pregnant and lactating patients;\n2. Patients with endometriosis, adenomyosis, ",
+            "endpoints": [
+              "Follicle-stimulating hormone (FSH)",
+              "Luteinizing hormone (LH)"
+            ],
+            "sponsor": "Affiliated Hospital of Nantong University",
+            "url": "https://clinicaltrials.gov/study/NCT05410093"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06408389",
+            "title": "From Oocyte to Embryo: Analysis of Mechanics of Human Pre Implantation Development",
+            "phase": "N/A",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2025-11",
+            "completion_date": "2028-11",
+            "country": "N/A",
+            "enrollment": 1500,
+            "brief_summary": "The time-lapse is a closed tri-gas incubator of the latest generation that provides optimal and stable culture conditions for the culture of embryos in In Vitro Fertilization (IVF). The integration of a camera within this incubator allows for continuous image capture, thus facilitating the monitoring of the entire embryonic development, from the day of fertilization to the moment of transfer into the uterus.\n\nThe contribution of the time-lapse system allows an evaluation of the embryos not only ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Couples enrolled in an IVF process and with embryos cultured in time-lapse\n* Couples informed non opposed to research\n\nExclusion Criteria:\n\n* Couples opposed to research\n* Couples under curator or tutorship\n* Couples under state xxx",
+            "endpoints": [
+              "Prediction of embryo implantation by the machine learning algorithm from embryo morphokinetic parameters and patient health data."
+            ],
+            "sponsor": "Assistance Publique - Hôpitaux de Paris",
+            "url": "https://clinicaltrials.gov/study/NCT06408389"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT07460752",
+            "title": "MC250301, OptiOFS: A Randomized Phase II Trial of Alternative Site Goserelin Acetate Injection for Ovarian Function Suppression (OFS) in Local and Locally Advanced Premenopausal Breast Cancer",
+            "phase": "PHASE2",
+            "status": "NOT_YET_RECRUITING",
+            "start_date": "2026-03-24",
+            "completion_date": "2029-09-26",
+            "country": "United States",
+            "enrollment": 98,
+            "brief_summary": "This phase II trial determines if giving goserelin acetate injections in the upper gluteal region is as effective for ovarian function suppression (OFS) as giving injections in the abdomen for ovarian function suppression (OFS) in premenopausal patients with hormone receptor positive breast cancer that has not spread to other parts of the body (localized) or that has spread to nearby tissue or lymph nodes (locally advanced). Goserelin acetate is a drug used to treat prostate cancer, relieve the ",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* REGISTRATION (STEP 1): Age ≥ 18 years and ˂ 50 years\n* REGISTRATION (STEP 1): Have histologically or cytologically confirmed, localized or locally advanced hormone positive breast cancer stage I-III (defined as ER Immunohistochemistry (IHC) \\> 1%\\] having completed curative in",
+            "endpoints": [
+              "Ovarian function suppression (OFS) maintenance"
+            ],
+            "sponsor": "Mayo Clinic",
+            "url": "https://clinicaltrials.gov/study/NCT07460752"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00001951",
+            "title": "Hormone Replacement in Young Women With Premature Ovarian Failure",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "1999-12",
+            "completion_date": "2006-10",
+            "country": "United States",
+            "enrollment": 250,
+            "brief_summary": "The human ovary produces male sex hormones (androgen) and female sex hormones (estrogen). Currently, androgen is not included in hormone replacement therapy for women with premature ovarian failure. Present hormone replacement therapy (HRT) was designed to treat women who experience ovarian failure at menopause (around the age of 50). However, 1% of women will experience premature failure of the ovaries before the age of 40. There have been no studies conducted to determine proper hormone replac",
+            "eligibility_criteria": "* INCLUSION CRITERIA:\n\nPatients with karyotypically normal spontaneous premature ovarian failure (as defined by screening protocol 91-CH-0127, i.e. women who have at least 4 months of amenorrhea, two FSH levels above 40 mIU/ml, at least one month apart, and a normal 46, XX karotype, diagnosed with p",
+            "endpoints": [],
+            "sponsor": "National Institutes of Health Clinical Center (CC)",
+            "url": "https://clinicaltrials.gov/study/NCT00001951"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02912104",
+            "title": "A Therapeutic Trial of Human Amniotic Epithelial Cells Transplantation for Primary Ovarian Failure",
+            "phase": "PHASE1",
+            "status": "COMPLETED",
+            "start_date": "2020-06-20",
+            "completion_date": "2023-01-05",
+            "country": "China",
+            "enrollment": 36,
+            "brief_summary": "This project will clarify the safety and effectiveness of human amniotic epithelial cells transplantation for the treatment of primary ovarian failure (POF) patients and provide a new therapeutic method for patients with infertility.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. ≥18 and\\<45 years old.\n2. Female patients with documented diagnosis of POF: \\<40 years old, at least 4 months of amenorrhea not due to pregnancy, two FSH levels above 40 IU/L, at least one month apart.\n3. Not in other trial within 3 months prior to the start of this trial.\n4.",
+            "endpoints": [
+              "Safety and Tolerability assessed by Adverse Events"
+            ],
+            "sponsor": "International Peace Maternity and Child Health Hospital",
+            "url": "https://clinicaltrials.gov/study/NCT02912104"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00650754",
+            "title": "A Randomized Double Blinded Trail of DHEA Supplementation for Treatment of Couples With Normal Hysterosalpingogram and Normal Semen Analysis and Evidence of Premature Ovarian Aging (POA).",
+            "phase": "PHASE2, PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2008-03",
+            "completion_date": "2014-03",
+            "country": "United States",
+            "enrollment": 35,
+            "brief_summary": "The experimental focus of this project is on the interaction of DHEA treatment on pregnancy in women with otherwise unexplained infertility and evidence of premature ovarian aging (POA).",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* \\>= 1 year of infertility\n* \\< 38 years old\n* Normal HSG\n* Normal Semen analysis (Count \\>= 20 million/ motility \\> 50%/ Kruger morph \\> 14%.\n* Regular menses\n* Willingness to sign informed consent for study randomization\n* Willingness to participate in 8 months of non-IVF wil",
+            "endpoints": [
+              "Live Birth"
+            ],
+            "sponsor": "Center for Human Reproduction",
+            "url": "https://clinicaltrials.gov/study/NCT00650754"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06841328",
+            "title": "Fertility Enhancement Through Regenerative Treatment in Ovaries and Testes: (FERTILE): Prospective Observational Study Evaluating Safety and Efficacy",
+            "phase": "N/A",
+            "status": "RECRUITING",
+            "start_date": "2025-04-08",
+            "completion_date": "2028-04-30",
+            "country": "United Arab Emirates",
+            "enrollment": 60,
+            "brief_summary": "This study investigates the safety and efficacy of stem cell or stem cell-derived exosome therapy for gonadal failure, including testicular failure, hypogonadism, ovarian insufficiency, and premature ovarian failure (POF). Conducted at First IVF Clinic, Dubai, it will include 60 participants (30 males, 30 females) aged 20-50 years who have not responded to conventional treatments such as HRT, TRT, or ART.\n\nParticipants will receive intra-gonadal (testicular or ovarian) injections of stem cells o",
+            "eligibility_criteria": "Male patients:\n\n* Male patients aged 20 to 50 years.\n* Diagnosed with testicular failure (low testosterone) or hypogonadism (impaired gonadal function), or azoospermia (no sperm in ejaculate)\n* Suboptimal response to conventional treatments, such as testosterone replacement therapy (TRT) or fertilit",
+            "endpoints": [
+              "Change in reproductive capacity"
+            ],
+            "sponsor": "Jumeirah American Clinic",
+            "url": "https://clinicaltrials.gov/study/NCT06841328"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00948857",
+            "title": "A Randomized Double Blinded Trail of DHEA Supplementation for Treatment of Couples With Premature Ovarian Failure (POF).",
+            "phase": "PHASE2, PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2009-06",
+            "completion_date": "2011-10",
+            "country": "United States",
+            "enrollment": 5,
+            "brief_summary": "The experimental focus of this project is on the interaction of DHEA treatment on pregnancy in women with open tubes, fertile male partners and evidence of premature ovarian failure.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* \\>= 1 year of infertility\n* \\>21 and \\<40 years old\n* Normal HSG\n* Normal Semen analysis (Count \\>= 20 million/ motility \\> 50%/ Kruger morph \\> 14%.\n* Absent menses\n* Willingness to sign informed consent for study randomization\n* Willingness to participate in 3 months of trea",
+            "endpoints": [
+              "Live Birth",
+              "Live Birth"
+            ],
+            "sponsor": "Center for Human Reproduction",
+            "url": "https://clinicaltrials.gov/study/NCT00948857"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "39647506",
+            "title": "Evidence-based guideline: premature ovarian insufficiency†‡.",
+            "abstract": "How should premature/primary ovarian insufficiency (POI) be diagnosed and managed, based on the best available evidence from published literature?",
+            "journal": "Climacteric : the journal of the International Menopause Society",
+            "year": "2024",
+            "authors": [
+              "Panay Nick",
+              "Anderson Richard A",
+              "Bennie Amy",
+              "Cedars Marcelle"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Primary Ovarian Insufficiency",
+              "Evidence-Based Medicine",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39647506/"
+          },
+          {
+            "pmid": "39660328",
+            "title": "Evidence-based guideline: premature ovarian insufficiency.",
+            "abstract": "How should premature/primary ovarian insufficiency (POI) be diagnosed and managed based on the best available evidence from published literature?",
+            "journal": "Human reproduction open",
+            "year": "2024",
+            "authors": [
+              "Panay Nick",
+              "Anderson Richard A",
+              "Bennie Amy",
+              "Cedars Marcelle",
+              "Davies Melanie"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39660328/"
+          },
+          {
+            "pmid": "31327696",
+            "title": "Primary gonadal failure.",
+            "abstract": "The term primary gonadal failure encompasses not only testicular insufficiency in 46,XY males and ovarian insufficiency in 46,XX females, but also those disorders of sex development (DSD) which result in gender assignment that is at variance with the genotype and gonadal type. In boys, causes of gonadal failure include Klinefelter and other aneuploidy syndromes, bilateral cryptorchidism, testicular torsion, and forms of 46,XY DSD such as partial androgen insensitivity. Causes in girls include Turner syndrome and other aneuploidies, galactosemia, and autoimmune ovarian failure. Iatrogenic causes in both boys and girls include the late effects of childhood cancer treatment, total body irradiation prior to bone marrow transplantation, and iron overload in transfusion-dependent thalassaemia. In this paper, a brief description of the physiology of testicular and ovarian development is followed by a section on the causes and practical management of gonadal impairment in boys and girls. Proto",
+            "journal": "Best practice & research. Clinical endocrinology & metabolism",
+            "year": "2019",
+            "authors": [
+              "Ladjouze Asmahane",
+              "Donaldson Malcolm"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Androgen-Insensitivity Syndrome",
+              "Child",
+              "Disorders of Sex Development",
+              "Female",
+              "Fertility Preservation",
+              "Humans",
+              "Male",
+              "Primary Ovarian Insufficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/31327696/"
+          },
+          {
+            "pmid": "39652037",
+            "title": "Evidence-based guideline: Premature Ovarian Insufficiency.",
+            "abstract": "How should premature/primary ovarian insufficiency (POI) be diagnosed and managed, based on the best available evidence from published literature?",
+            "journal": "Fertility and sterility",
+            "year": "2025",
+            "authors": [
+              "Panay Nick",
+              "Anderson Richard A",
+              "Bennie Amy",
+              "Cedars Marcelle"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Evidence-Based Medicine",
+              "Primary Ovarian Insufficiency",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39652037/"
+          },
+          {
+            "pmid": "23392092",
+            "title": "Gonadotropin resistance.",
+            "abstract": "Pituitary gonadotropins are essential for normal reproductive function. LH and FSH exert their effects by acting on G protein-coupled receptors. Pituitary LH and placental hCG share the same receptor (LHCGR). Homozygous or compound heterozygous inactivating mutations of LHCGR are associated with a phenotypic spectrum from female or ambiguous external genitalia due to Leydig cell hypoplasia to micropenis, hypergonadotropic hypogonadism and delayed puberty in genetic males. Testes size is slightly reduced, and testosterone levels are low in affected males. Interestingly, the clinical phenotypes are closely correlated with the severity of the mutation. In females, the phenotype is also variable and can range from primary amenorrhea to oligoamenorrhea, associated with constant infertility. Estradiol and progesterone levels remain in the early to mid-follicular phase, whereas the ovaries are normal or enlarged with cysts. In both sexes, LH levels are increased, whereas FSH is usually normal",
+            "journal": "Endocrine development",
+            "year": "2013",
+            "authors": [
+              "Latronico Ana Claudia",
+              "Arnhold Ivo Jorge Prado"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Drug Resistance",
+              "Female",
+              "Follicle Stimulating Hormone",
+              "Gonadotropins",
+              "Humans",
+              "Hypogonadism",
+              "Luteinizing Hormone",
+              "Male",
+              "Receptors, FSH",
+              "Receptors, LH"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23392092/"
+          },
+          {
+            "pmid": "23350261",
+            "title": "Premature ovarian failure.",
+            "abstract": "Premature ovarian failure (POF) is the occurrence of hypergonadotropic hypoestrogenic amenorrhea in women under the age of forty years. It is idiopathic in 74-90% patients. Known cases can be divided into primary and secondary POF. In primary POF genetic aberrations can involve the X chromosome (monosomy, trisomy, translocations, deletions) or autosomes. Genetic mechanisms include reduced gene dosage and non-specific chromosome effects impairing meiosis, decreasing the pool of primordial follicles and increasing atresia due to apoptosis or failure of follicle maturation. Autoimmune ovarian damage is caused by alteration of T-cell subsets and T-cell mediated injury, increase of autoantibody producing B-cells, a low number of effector/cytotoxic lymphocyte, which decreases the number and activity of natural killer cells. Bilateral oophorectomy, chemotherapy, radiotherapy and infections cause the secondary POF. Symptoms of POF include irritability, nervousness, loss of libido, depression, ",
+            "journal": "Srpski arhiv za celokupno lekarstvo",
+            "year": "2012",
+            "authors": [
+              "Vujović Svetlana",
+              "Ivović Miomira",
+              "Tancić-Gajić Milina",
+              "Marina Ljiljana",
+              "Barać Marija"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Primary Ovarian Insufficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/23350261/"
+          },
+          {
+            "pmid": "40745333",
+            "title": "Mechanisms of cell senescence and apoptosis in cyclophosphamide-induced premature ovarian failure in rats.",
+            "abstract": "Premature ovarian failure (POF) is a clinical condition characterized by a diminished ovarian reserve occurring before the age of 40, significantly affecting female reproductive health. However, its exact pathogenesis remains unclear. This research aimed to examine the mechanisms of cyclophosphamide (CTX)-induced senescence and apoptosis in the ovarian and cerebral cortex tissues of rats to provide insights into delaying aging and protecting female reproductive health.",
+            "journal": "Journal of ovarian research",
+            "year": "2025",
+            "authors": [
+              "Wu Jiaqi",
+              "Wei Yanmeng",
+              "Peng Qiangli",
+              "Zhu Jing",
+              "Shi Huacong"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Female",
+              "Primary Ovarian Insufficiency",
+              "Cyclophosphamide",
+              "Apoptosis",
+              "Rats",
+              "Cellular Senescence",
+              "Ovary",
+              "Anti-Mullerian Hormone",
+              "Disease Models, Animal"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40745333/"
+          },
+          {
+            "pmid": "9689206",
+            "title": "Hysterectomy, ovarian failure, and depression.",
+            "abstract": "The incidence of depressed mood is high in women before hysterectomy. This finding is usually the effect of prolonged heavy periods, chronic pelvic pain, and severe premenstrual syndrome that warrant the surgical treatment. The therapeutic effects of hysterectomy thus include both the cure of physical symptoms and improvement of mood. However, in women with preexisting psychiatric illness or predisposing personality problems, depressed mood may persist or occur with the stress of hysterectomy. Hysterectomy is commonly performed in the perimenopausal age but also results in a premature ovarian failure. Thus, ovarian hormone deficiency following hysterectomy may be responsible for the negative effect on mood. The cyclical nature of such hormone-related depressed states often remains unrecognized in the absence of menstruation; without routine endocrinologic monitoring the need for estrogen replacement following hysterectomy is often missed. Associated bilateral oophorectomy results in th",
+            "journal": "Menopause (New York, N.Y.)",
+            "year": "1998",
+            "authors": [
+              "Khastgir G",
+              "Studd J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Depression",
+              "Estrogen Replacement Therapy",
+              "Female",
+              "Humans",
+              "Hysterectomy",
+              "Middle Aged",
+              "Ovariectomy",
+              "Patient Compliance",
+              "Primary Ovarian Insufficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9689206/"
+          },
+          {
+            "pmid": "35254428",
+            "title": "Should Dehydroepiandrosterone Be Administered to Women?",
+            "abstract": "Androgen prohormones such as dehydroepiandrosterone (DHEA) increase in early puberty, peak in the second and third decade, and thereafter decline, independent of menopausal status. Investigators have examined their potential beneficial effects in normal women and those with DHEA-deficient states.",
+            "journal": "The Journal of clinical endocrinology and metabolism",
+            "year": "2022",
+            "authors": [
+              "Wierman Margaret E",
+              "Kiseljak-Vassiliades Katja"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Review",
+              "Research Support, U.S. Gov't, Non-P.H.S.",
+              "Research Support, N.I.H., Extramural"
+            ],
+            "mesh_terms": [
+              "Androgens",
+              "Anorexia",
+              "Dehydroepiandrosterone",
+              "Estrogens",
+              "Female",
+              "Hormone Replacement Therapy",
+              "Humans",
+              "Middle Aged",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35254428/"
+          },
+          {
+            "pmid": "10451811",
+            "title": "Premature ovarian failure.",
+            "abstract": "Forty women with premature ovarian failure (POF) arising post-puberty (PPOF) during the reproductive lifespan, underwent karyotyping, pelvic ultrasonography, hormonal assays, hematochemical and immunological examinations. In 52.5%, PPOF was idiopathic, while in 45% the cause was immunological and in 2.5% chromosomal. The hormonal parameters were characterized by elevated plasma levels of gonadotropins (especially follicle-stimulating hormone, FSH), insulin and thyroid-stimulating hormone (TSH) and low levels of 17 beta-estradiol, prolactin, androstenedione, testosterone and dehydroepiandrosterone sulfate. One or more autoantibodies were present in 18 subjects (45%). Among the antibodies, the most representative were: antithyroid microsomal (27.5%), antinuclear antibody (20%) and antithyroid globulin (12.5%). Ultrasound showed that the ovaries were of normal volume (3.1 +/- 0.3 cm3) in 14 women (35%) and significantly smaller (1.4 +/- 0.4 cm3) in 26 (65%). Follicles were present in 10 w",
+            "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+            "year": "1999",
+            "authors": [
+              "Falsetti L",
+              "Scalchi S",
+              "Villani M T",
+              "Bugari G"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Age Factors",
+              "Autoantibodies",
+              "Female",
+              "Hormones",
+              "Humans",
+              "Karyotyping",
+              "Ovary",
+              "Primary Ovarian Insufficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10451811/"
+          },
+          {
+            "pmid": "35728697",
+            "title": "Turner Syndrome and Fertility.",
+            "abstract": "Turner syndrome (TS) is tightly associated with hypergonadotropic hypogonadism and ovarian dysgenesis, typically resulting in infertility in the great majority of patients. Therefore females with TS are usually treated with female sex steroids from 11-12years of age until the normal age of natural menopause of around 53-54years of age. Infertility is rated among females with TS as a distressing concern and a detractor from a good quality of life. Options for motherhood for females with TS has expanded during recent years. Originally, only adoption was an option, unless of course for the small minority of TS females that still has ovarian function and are capable of achieving pregnancy through normal means. Oocyte donation has become the mainstream option in many countries and seems to work well, especially if patients have been treated with optimal estrogen and gestagen for a prolonged time before the intervention. It comes with an increased risk of cardiovascular complications and TS ",
+            "journal": "Annales d'endocrinologie",
+            "year": "2022",
+            "authors": [
+              "Viuff Mette",
+              "Gravholt Claus H"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Cryopreservation",
+              "Female",
+              "Fertility",
+              "Fertility Preservation",
+              "Humans",
+              "Infertility",
+              "Pregnancy",
+              "Primary Ovarian Insufficiency",
+              "Quality of Life",
+              "Turner Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35728697/"
+          },
+          {
+            "pmid": "35506772",
+            "title": "[Ovarian reserve and premature ovarian failure in girls and adolescents after hematopoietic stem cell transplantation].",
+            "abstract": "The increased survival of children and adolescents after Stem Cell Transplantation (SCT) has allowed us to gain a better understanding of the late effects that this procedure might have.",
+            "journal": "Andes pediatrica : revista Chilena de pediatria",
+            "year": "2022",
+            "authors": [
+              "Paris Claudia",
+              "Zepeda Ana",
+              "Muñoz Mónica",
+              "Camus Adela",
+              "Catalán Paula"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Anti-Mullerian Hormone",
+              "Child",
+              "Cross-Sectional Studies",
+              "Female",
+              "Follicle Stimulating Hormone",
+              "Hematopoietic Stem Cell Transplantation",
+              "Humans",
+              "Menopause, Premature",
+              "Ovarian Reserve"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35506772/"
+          },
+          {
+            "pmid": "9526706",
+            "title": "Premature ovarian failure: steroid synthesis and autoimmunity.",
+            "abstract": "The androgen biosynthesis and autoimmunity of 25 patients with premature ovarian failure (POF) and 18 control subjects with normal cycles were examined. Serum levels of dehydroepiandrosterone sulfate (DHEAS), 17-hydroxyprogesterone (17-OHP), androstenedione, and testosterone were analyzed in POF patients with or without organ-specific autoimmunity, and the results compared with those of women with normal ovarian function. The comparative analysis of DHEAS, 17-OHP, androstenedione and testosterone showed that POF patients had significantly lower values than normal women (DHEAS, androstenedione and testosterone p < 0.01, 17-OHP p < 0.05). Furthermore, we found one or more organ-specific autoantibodies in 11 patients with POF (44%), while only one woman in the control group showed autoimmunity (antithyroid microsome) (5.5%). Only one patient had both anti-ovarian and anti-adrenal antibodies (4%). The comparison of androgen levels in POF patients with or without autoimmunity revealed a sta",
+            "journal": "Gynecological endocrinology : the official journal of the International Society of Gynecological Endocrinology",
+            "year": "1998",
+            "authors": [
+              "Doldi N",
+              "Belvisi L",
+              "Bassan M",
+              "Fusi F M",
+              "Ferrari A"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "17-alpha-Hydroxyprogesterone",
+              "Adrenal Glands",
+              "Adult",
+              "Androstenedione",
+              "Autoantibodies",
+              "Autoimmunity",
+              "Dehydroepiandrosterone Sulfate",
+              "Female",
+              "Fluorescent Antibody Technique, Indirect",
+              "Follicle Stimulating Hormone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9526706/"
+          },
+          {
+            "pmid": "40098062",
+            "title": "Untargeted metabolomics reveals homogeneity and heterogeneity between physiological and pathological ovarian aging.",
+            "abstract": "Ovarian aging is the main cause of reduced reproductive life span, yet its metabolic profiles remain poorly understood. This study aimed to reveal the metabolic homogeneity and heterogeneity between physiological and pathological ovarian aging.",
+            "journal": "Journal of ovarian research",
+            "year": "2025",
+            "authors": [
+              "Zeng Lihua",
+              "Liang Yunyi",
+              "Huang Lizhi",
+              "Li Zu'ang",
+              "Kumar Manish"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Female",
+              "Metabolomics",
+              "Ovary",
+              "Adult",
+              "Aging",
+              "Primary Ovarian Insufficiency",
+              "Middle Aged",
+              "Ovarian Reserve"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40098062/"
+          },
+          {
+            "pmid": "7782452",
+            "title": "Testosterone and androstenedione in premature ovarian failure pregnancies: evidence for an ovarian source of androgens in early pregnancy.",
+            "abstract": "Numerous anecdotal reports but few scientific approaches have suggested an increase in androgens in early pregnancy. In this study we have compared the concentration of serum androgens, testosterone and androstenedione in early pregnancy, starting within the cycle of conception. We have taken the opportunity to study women with premature ovarian failure where pregnancy develops in the virtual absence of ovarian functions. This study demonstrates that the concentration of testosterone (0.29 +/- 0.04 ng/ml) and androstenedione (1.770 +/- 0.136 ng/ml) in these subjects is as low as, if not lower than, non-pregnant women (0.39 +/- 0.02 and 2.170 +/- 0.025 ng/ml), significantly increased in normal pregnancies (1.190 +/- 0.118 and 3.920 +/- 0.297 ng/ml; P < 0.05) and even further increased in human menopausal gonadotrophin-treated cycles (1.990 +/- 0.230 and 8.19 +/- 0.72 ng/ml; P < 0.05). These studies demonstrate that the ovary is a contributor to the circulating concentrations of testoste",
+            "journal": "Human reproduction (Oxford, England)",
+            "year": "1995",
+            "authors": [
+              "Castracane V D",
+              "Asch R H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Androstenedione",
+              "Embryo Transfer",
+              "Female",
+              "Fertilization in Vitro",
+              "Humans",
+              "Infertility, Female",
+              "Menotropins",
+              "Ovary",
+              "Pregnancy",
+              "Primary Ovarian Insufficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7782452/"
+          },
+          {
+            "pmid": "24473536",
+            "title": "Effects of physiologic testosterone therapy on quality of life, self-esteem, and mood in women with primary ovarian insufficiency.",
+            "abstract": "Women with primary ovarian insufficiency (POI) display low androgen levels, which could contribute to mood and behavioral symptoms observed in this condition. We examined the effects of physiologic testosterone therapy added to standard estrogen/progestin therapy on quality of life, self-esteem, and mood in women with POI.",
+            "journal": "Menopause (New York, N.Y.)",
+            "year": "2014",
+            "authors": [
+              "Guerrieri Gioia M",
+              "Martinez Pedro E",
+              "Klug Summer P",
+              "Haq Nazli A",
+              "Vanderhoof Vien H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, N.I.H., Intramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Cutaneous",
+              "Adolescent",
+              "Adult",
+              "Double-Blind Method",
+              "Female",
+              "Hormone Replacement Therapy",
+              "Humans",
+              "Menopause",
+              "Mood Disorders",
+              "Primary Ovarian Insufficiency"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24473536/"
+          },
+          {
+            "pmid": "36181247",
+            "title": "A Case of Primary Insular Ovarian Carcinoid Tumor with Hyperandrogenism and Carcinoid Heart Disease.",
+            "abstract": "BACKGROUND Carcinoid heart disease typically occurs in the presence of metastatic carcinoid tumor deposits in the liver, as vasoactive substances access the systemic circulation through the hepatic vein. Primary ovarian carcinoid tumors are rare neuroendocrine tumors, and can be associated with carcinoid syndrome and carcinoid heart disease. CASE REPORT We describe the case of a 40-year-old woman who presented with secondary amenorrhea, acne, hirsutism, and diarrhea. She was found to have a heart murmur on exam in the absence of severe symptoms of heart failure. Her investigations demonstrated elevated urinary 5-hydroxyindoleacetic acid (5-HIAA), chromogranin A, and free testosterone. Abdominal computed tomography enterography showed a large and hypervascular pelvic mass. Octreotide scintigraphy confirmed the diagnosis of primary ovarian carcinoid tumor in the setting of an intensely octreotide-avid mass with no evidence of distant metastases. Transesophageal echocardiography showed se",
+            "journal": "The American journal of case reports",
+            "year": "2022",
+            "authors": [
+              "Mansour Sola",
+              "Anaka Matthew Ross",
+              "Al-Agha Rany"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Carcinoid Heart Disease",
+              "Carcinoid Tumor",
+              "Chromogranin A",
+              "Chromogranins",
+              "Female",
+              "Humans",
+              "Hydroxyindoleacetic Acid",
+              "Hyperandrogenism",
+              "Intestinal Neoplasms"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36181247/"
+          },
+          {
+            "pmid": "22525963",
+            "title": "Testosterone concentrations, using different assays, in different types of ovarian insufficiency: a systematic review and meta-analysis.",
+            "abstract": "Increasing age and post-menopausal status are associated with decreasing androgen concentrations in females. Women with premature loss of ovarian function, such as primary ovarian insufficiency (POI) or iatrogenic menopause may be at increased risk for diminished testosterone levels at a relatively young age. Differentiation between a hypoandrogenic or normoandrogenic state in women with premature loss of ovarian function is problematic due to trueness and precision problems using various testosterone assays. The current meta-analysis was conducted to evaluate current literature reporting serum total testosterone concentrations under these conditions, including stratification for various testosterone assays.",
+            "journal": "Human reproduction update",
+            "year": "2012",
+            "authors": [
+              "Janse F",
+              "Tanahatoe S J",
+              "Eijkemans M J C",
+              "Fauser B C J M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Female",
+              "Humans",
+              "Iatrogenic Disease",
+              "Immunoassay",
+              "Menopause",
+              "Postmenopause",
+              "Primary Ovarian Insufficiency",
+              "Testosterone"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22525963/"
+          },
+          {
+            "pmid": "21239444",
+            "title": "Premature ovarian failure in mice with oocytes lacking core 1-derived O-glycans and complex N-glycans.",
+            "abstract": "Premature ovarian failure (POF) affects up to 1.4% of women under the age of 40 yr and less than 30% of cases have a known cause. Here we describe a new mouse model of POF resulting from oocyte-specific ablation of core 1-derived (mucin) O-glycans and complex and hybrid N-glycans. Females carrying floxed alleles of both the C1galt1 (T-syn) and Mgat1 glycosyltransferase genes and a ZP3Cre transgene, generate oocytes lacking complex O- and N-glycans following oocyte-specific deletion at the primary follicle stage. We previously showed that few double-mutant females are fertile, and those produce only a single small litter. Here we show that ovarian function declined rapidly in double-mutant females with less than 1% ovulating at 11 wk of age after superovulation with exogenous gonadotropins. Ovary weight was significantly decreased in double-mutant females by 3 months of age, consistent with a decrease in the number of developing follicles. FSH levels in double-mutant females were elevat",
+            "journal": "Endocrinology",
+            "year": "2011",
+            "authors": [
+              "Williams Suzannah A",
+              "Stanley Pamela"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acyltransferases",
+              "Animals",
+              "Egg Proteins",
+              "Female",
+              "Galactosyltransferases",
+              "Gene Expression Regulation",
+              "Membrane Glycoproteins",
+              "Mice",
+              "Mice, 129 Strain",
+              "Mucins"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21239444/"
+          },
+          {
+            "pmid": "36323400",
+            "title": "Reduced-Intensity Conditioning Mitigates Risk for Primary Ovarian Insufficiency but Does Not Decrease Risk for Infertility in Pediatric and Young Adult Survivors of Hematopoietic Stem Cell Transplantation.",
+            "abstract": "Hematopoietic stem cell transplantation (HSCT) is a curative therapy for many pediatric malignant and nonmalignant conditions. Gonadal insufficiency or infertility is present in almost all HSCT survivors who received a myeloablative conditioning (MAC) regimen. Reduced-intensity conditioning (RIC) regimens are being increasingly used in medically fragile patients or in patients with nonmalignant diagnoses to limit the toxicities associated with HSCT; however, the short-term and long-term gonadal toxicity of RIC regimens in pediatric and young adult survivors remains unknown. In this study, we compared the prevalence of gonadal insufficiency and infertility among pubertal and postpubertal pediatric and young adult survivors of HSCT who received a RIC regimen versus those who received a MAC regimen. Twenty-three females (RIC, n = 8; MAC, n = 15) and 35 males (RIC, n = 19; MAC, n = 16) were included in this single-center, retrospective cross-sectional study. Eligible patients were those wi",
+            "journal": "Transplantation and cellular therapy",
+            "year": "2023",
+            "authors": [
+              "Bender Jonathan D",
+              "Oquendo-Del Toro Helen",
+              "Benoit Janie",
+              "Howell Jonathan C",
+              "Badia Priscila"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Male",
+              "Child",
+              "Female",
+              "Young Adult",
+              "Adult",
+              "Retrospective Studies",
+              "Primary Ovarian Insufficiency",
+              "Oligospermia",
+              "Azoospermia"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36323400/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Testosterone",
+          "disease": "primary ovarian failure",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Testosterone%20primary%20ovarian%20failure"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Testosterone",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00624",
+    "name": "Testosterone",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Testosterone"
+      },
+      "queried_at": "2026-03-24T16:06:00.179800",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Testosterone"
+      },
+      "queried_at": "2026-03-24T16:06:00.180759",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Testosterone"
+      },
+      "queried_at": "2026-03-24T16:06:03.922044",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "polysomy of X chromosome"
+      },
+      "queried_at": "2026-03-24T16:06:04.551474",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "polysomy of X chromosome"
+      },
+      "queried_at": "2026-03-24T16:06:08.223711",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "polysomy of X chromosome"
+      },
+      "queried_at": "2026-03-24T16:06:09.141442",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "polysomy of X chromosome"
+      },
+      "queried_at": "2026-03-24T16:06:10.032638",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "tetragametic chimerism"
+      },
+      "queried_at": "2026-03-24T16:06:11.054884",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "tetragametic chimerism"
+      },
+      "queried_at": "2026-03-24T16:06:19.039140",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "tetragametic chimerism"
+      },
+      "queried_at": "2026-03-24T16:06:20.804382",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "tetragametic chimerism"
+      },
+      "queried_at": "2026-03-24T16:06:23.272918",
+      "status": "success",
+      "result_count": 2,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "penile/testicular agenesis"
+      },
+      "queried_at": "2026-03-24T16:06:23.722564",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "penile/testicular agenesis"
+      },
+      "queried_at": "2026-03-24T16:06:32.431102",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "penile/testicular agenesis"
+      },
+      "queried_at": "2026-03-24T16:06:32.949511",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "penile/testicular agenesis"
+      },
+      "queried_at": "2026-03-24T16:06:34.081193",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "testicular regression syndrome"
+      },
+      "queried_at": "2026-03-24T16:06:34.972688",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "testicular regression syndrome"
+      },
+      "queried_at": "2026-03-24T16:06:38.124599",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "testicular regression syndrome"
+      },
+      "queried_at": "2026-03-24T16:06:40.203591",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "testicular regression syndrome"
+      },
+      "queried_at": "2026-03-24T16:06:45.560575",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "Leydig cell hypoplasia due to LH resistance"
+      },
+      "queried_at": "2026-03-24T16:06:46.283729",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "Leydig cell hypoplasia due to LH resistance"
+      },
+      "queried_at": "2026-03-24T16:06:50.044048",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "Leydig cell hypoplasia due to LH resistance"
+      },
+      "queried_at": "2026-03-24T16:06:50.774257",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "Leydig cell hypoplasia due to LH resistance"
+      },
+      "queried_at": "2026-03-24T16:06:51.774295",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "urethral obstruction sequence"
+      },
+      "queried_at": "2026-03-24T16:06:52.435560",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "urethral obstruction sequence"
+      },
+      "queried_at": "2026-03-24T16:07:00.881322",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "urethral obstruction sequence"
+      },
+      "queried_at": "2026-03-24T16:07:02.043040",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "urethral obstruction sequence"
+      },
+      "queried_at": "2026-03-24T16:07:02.977088",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "46,XX disorder of sex development-anorectal anomalies syndrome"
+      },
+      "queried_at": "2026-03-24T16:07:03.386546",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "46,XX disorder of sex development-anorectal anomalies syndrome"
+      },
+      "queried_at": "2026-03-24T16:07:06.652172",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "46,XX disorder of sex development-anorectal anomalies syndrome"
+      },
+      "queried_at": "2026-03-24T16:07:08.551214",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "46,XX disorder of sex development-anorectal anomalies syndrome"
+      },
+      "queried_at": "2026-03-24T16:07:17.547918",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "freemartinism"
+      },
+      "queried_at": "2026-03-24T16:07:18.641605",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "freemartinism"
+      },
+      "queried_at": "2026-03-24T16:07:28.108640",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "freemartinism"
+      },
+      "queried_at": "2026-03-24T16:07:29.322947",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "freemartinism"
+      },
+      "queried_at": "2026-03-24T16:07:31.988132",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "arthrogryposis epileptic seizures migrational brain disorder"
+      },
+      "queried_at": "2026-03-24T16:07:32.540930",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "arthrogryposis epileptic seizures migrational brain disorder"
+      },
+      "queried_at": "2026-03-24T16:07:36.206706",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "arthrogryposis epileptic seizures migrational brain disorder"
+      },
+      "queried_at": "2026-03-24T16:07:37.126460",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "arthrogryposis epileptic seizures migrational brain disorder"
+      },
+      "queried_at": "2026-03-24T16:07:39.656056",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "primary ovarian failure"
+      },
+      "queried_at": "2026-03-24T16:07:42.688893",
+      "status": "success",
+      "result_count": 27,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "primary ovarian failure"
+      },
+      "queried_at": "2026-03-24T16:07:45.985638",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "primary ovarian failure"
+      },
+      "queried_at": "2026-03-24T16:07:46.503081",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Testosterone",
+        "disease": "primary ovarian failure"
+      },
+      "queried_at": "2026-03-24T16:07:49.865910",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:07:49.867364"
+  }
+}

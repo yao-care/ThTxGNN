@@ -1,0 +1,3829 @@
+{
+  "drug": {
+    "inn": "Venlafaxine",
+    "drugbank_id": "DB00285",
+    "brand_name_th": null,
+    "original_indications": [],
+    "original_moa": null,
+    "predicted_indications": [
+      {
+        "disease_name": "Ohdo syndrome and variants",
+        "txgnn_score": 0.9585878252983092,
+        "txgnn_rank": 6074,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "Ohdo syndrome and variants",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20Ohdo%20syndrome%20and%20variants"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "ligneous conjunctivitis",
+        "txgnn_score": 0.9399130344390868,
+        "txgnn_rank": 7696,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "ligneous conjunctivitis",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20ligneous%20conjunctivitis"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "blepharophimosis - intellectual disability syndrome, Ohdo type",
+        "txgnn_score": 0.937927544116974,
+        "txgnn_rank": 7887,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20blepharophimosis%20-%20intellectual%20disability%20syndrome%2C%20Ohdo%20type"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "benign paroxysmal torticollis of infancy",
+        "txgnn_score": 0.8972535133361816,
+        "txgnn_rank": 11272,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "benign paroxysmal torticollis of infancy",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20benign%20paroxysmal%20torticollis%20of%20infancy"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "dysthymic disorder",
+        "txgnn_score": 0.8914147615432739,
+        "txgnn_rank": 11680,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00584974",
+            "title": "A Double-Blind, Placebo-Controlled Study Examining The Safety, Efficacy, and Tolerability of SEP-225289 in Subjects With Major Depressive Disorder (Including Atypical and Melancholic Features)",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2007-12",
+            "completion_date": "2009-05",
+            "country": "United States",
+            "enrollment": 523,
+            "brief_summary": "To determine the safety, efficacy and tolerability of SEP-225289 in subjects with Major Depressive Disorder",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* The duration of the current episode must be at least 1 month but not longer than 12 months.\n* Subjects must have a primary diagnosis of Major Depressive Disorder.\n* Subjects must have had at least one previous, diagnosed episode of MDD in the past 5 years.\n* MDD must be the co",
+            "endpoints": [
+              "To assess the safety, efficacy and tolerability of SEP-225289 in subjects with Major Depressive Disorder (MDD)"
+            ],
+            "sponsor": "Sumitomo Pharma America, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT00584974"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01658228",
+            "title": "Pilot Combination Treatment Trial of Mild Cognitive Impairment With Depression",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2011-09",
+            "completion_date": "2016-01",
+            "country": "United States",
+            "enrollment": 86,
+            "brief_summary": "Patients presenting with depression (DEP) and cognitive impairment (CI), represent a unique, understudied population that is difficult to diagnose, treat and estimate prognosis. Our pilot data, supported by the literature, suggest that many DEP-CI patients show cognitive decline and often convert to dementia, primarily Alzheimer's disease (AD). In DEP-CI, there is a lack of data on treatment response of mood symptoms to antidepressant treatment and particularly of cognitive deficits to cognitive",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Of either sex, age 55-95 years old with minimum 8 years of education who meet criteria for both depression and cognitive impairment as described below.\n* Study Criteria for \"depression\":\n\n  i. Patients who meet DSM-IV symptom criteria for Major Depression or Dysthymia for a mi",
+            "endpoints": [
+              "Selective Reminding Test (SRT) Total Recall",
+              "Selective Reminding Test (SRT) Delayed Recall"
+            ],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT01658228"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01852383",
+            "title": "An Open Treatment Trial of Duloxetine in Elderly Patients With Dysthymic Disorder",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2006-01",
+            "completion_date": "2013-03",
+            "country": "United States",
+            "enrollment": 30,
+            "brief_summary": "Dysthymic disorder (DD) denotes chronic depression with fewer symptoms than major depressive disorder (MDD), and it affects \\~ 2-4 % of adults with a similar prevalence in the elderly. In the elderly, dysthymic disorder (DD) has been shown to be associated with suffering and disability. The differences between young adult and elderly DD patients indicate that findings obtained in young adults with DD cannot be extrapolated to elderly DD patients who need to be studied separately. Data from epide",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Diagnosis of dysthymic disorder (SCID and DSM-IV)\n* Age 60 - 95\n* Mini-Mental State Score ≥ 24\n* 24-item Hamilton Rating Scale for Depression score 12-25\n* Willing and capable of giving informed consent\n\nExclusion Criteria:\n\n* Current major depressive episode (SCID and DSM-IV)",
+            "endpoints": [
+              "Change in Hamilton Rating Scale for Depression (HAM-D, 24-item) From 0 Weeks to 12 Weeks."
+            ],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT01852383"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00080158",
+            "title": "Treatment of Adolescent Suicide Attempters (TASA)",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2004-03",
+            "completion_date": "2007-06",
+            "country": "United States",
+            "enrollment": 120,
+            "brief_summary": "The purpose of this study is to compare the effects of three types of treatments for depressed teenagers who have attempted suicide.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* At least one suicide attempt or interrupted attempt within the past 45 days\n* Continuously reside with a primary caretaker (parent, legal guardian, foster parent) for at least 6 months that can provide legal consent",
+            "endpoints": [],
+            "sponsor": "New York State Psychiatric Institute",
+            "url": "https://clinicaltrials.gov/study/NCT00080158"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00592384",
+            "title": "A Controlled Trial of Venlafaxine XR for Major Depression After Spinal Cord Injury: A Multi-site Study",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2007-07",
+            "completion_date": "2012-09",
+            "country": "United States",
+            "enrollment": 133,
+            "brief_summary": "Depression is likely the most prevalent and disabling psychological complication associated with spinal cord injury (SCI). Yet no controlled depression treatment trials have been performed in this population. The proposed study is a multi-site, randomized, double-blind, placebo controlled trial of venlafaxine XR (Effexor XR) in 133 adults with SCI and major depressive disorder (MDD) or dysthymia who are at least one month post injury. Participants will be recruited from four SCI Model System sit",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Spinal cord injury (ASIA A-D)\n* At least one month post injury\n* Meets DSM IV criteria for major depression or dysthymia on the SCID\n* At least moderately severe depression (PHQ-9 score \\>= 10)\n* Within reasonable travel distance to one of the study sites\n\nExclusion Criteria:\n",
+            "endpoints": [
+              "Hamilton Depression Rating Scale-17",
+              "Hamilton Depression Rating Scale-Maier Subscale"
+            ],
+            "sponsor": "University of Washington",
+            "url": "https://clinicaltrials.gov/study/NCT00592384"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04437485",
+            "title": "eIMPACT-DM Pilot Trial: Depression Treatment to Reduce the Excess Diabetes Risk of People With Depression and Prediabetes",
+            "phase": "PHASE2",
+            "status": "COMPLETED",
+            "start_date": "2020-10-14",
+            "completion_date": "2022-08-29",
+            "country": "United States",
+            "enrollment": 46,
+            "brief_summary": "This pilot randomized controlled trial seeks: (1) to determine the preliminary efficacy of our modernized collaborative care intervention for depression in improving the diabetes risk markers of hemoglobin A1c and insulin resistance and (2) to explore whether somatic depressive symptoms - i.e., hyperphagia (increased appetite/weight) and/or hypersomnia (increased sleep) - moderate the effect of the eIMPACT-DM intervention on diabetes risk markers.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Current primary care patient in Eskenazi Health\n* Age ≥18 years\n* Depressive disorder at screening\n* Prediabetes at screening\n\nExclusion Criteria:\n\n* History of type 1 or type 2 diabetes\n* Major inflammatory conditions: HIV/AIDS, chronic kidney disease, systemic inflammatory d",
+            "endpoints": [
+              "Hemoglobin A1c at 6 Months"
+            ],
+            "sponsor": "Indiana University",
+            "url": "https://clinicaltrials.gov/study/NCT04437485"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "9448655",
+            "title": "Venlafaxine in dysthymic disorder.",
+            "abstract": "Dysthymic disorder is a chronic depression that is usually characterized by depression rating scale scores that are lower than those for major depressive disorder. Recent studies suggest that pharmacotherapy is quite effective in the treatment of patients with this condition and, in particular, that the newer antidepressants may be better tolerated than older tricyclic antidepressants. The purpose of this study was to investigate the use of a structurally novel antidepressant, venlafaxine, in the treatment of dysthymic disorder.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1997",
+            "authors": [
+              "Dunner D L",
+              "Hendrickson H E",
+              "Bea C",
+              "Budech C B"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Ambulatory Care",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9448655/"
+          },
+          {
+            "pmid": "10836286",
+            "title": "The efficacy and tolerability of venlafaxine and paroxetine in outpatients with depressive disorder or dysthymia.",
+            "abstract": "A 24-week, double-blind, randomized trial was performed to compare the efficacy and tolerability of venlafaxine and paroxetine in patients with major depression or dysthymia. Outpatients aged 18-70 years with a baseline score of 17 on the 21-item Hamilton Depression Rating Scale (HAM-D) were eligible. Patients were randomly assigned to venlafaxine, 37.5 mg, in the morning and evening or paroxetine, 20 mg, in the morning and placebo in the evening, which could be increased to venlafaxine, 75 mg twice daily, or paroxetine, 20 mg twice daily, after 4 weeks. Efficacy was assessed with the 21-item HAM-D, the Montgomery-Asberg Rating Scale, the Hamilton Anxiety Rating Scale, and the Clinical Global Impressions Scale. Forty-one patients were randomized to venlafaxine and 43 to paroxetine. At week 6, a response was observed in 55% of patients on venlafaxine and 29% on paroxetine (P = 0.03). At week 12, significantly (P = 0.011) more patients in the venlafaxine group had a HAM-D remission score",
+            "journal": "International clinical psychopharmacology",
+            "year": "2000",
+            "authors": [
+              "Ballús C",
+              "Quiros G",
+              "De Flores T",
+              "de la Torre J",
+              "Palao D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10836286/"
+          },
+          {
+            "pmid": "15533993",
+            "title": "An open treatment trial of venlafaxine for elderly patients with dysthymic disorder.",
+            "abstract": "Treatment response and side effects of venlafaxine were evaluated in an open-label trial of elderly outpatients with dysthymic disorder (DD). Patients received flexible dose (up to 300 mg/d) venlafaxine (Effexor XR) for 12 weeks. Of 23 study patients, 18 completed the trial. Fourteen (60.9%) were responders in intent-to-treat analyses with the last observation carried forward, and 77.8% were responders in completer analyses. Nearly half the sample (47.8%) met criteria for remission. In the intent-to-treat sample, increased severity of depression at baseline was associated with superior response, and the presence of cardiovascular disease was associated with poorer response. Venlafaxine open-label treatment was associated with fairly high response rates and generally good tolerability in elderly patients with DD. These results indicate that in elderly patients with DD, placebo-controlled trials of a dual reuptake inhibitor such as venlafaxine would be needed to assess its efficacy or to",
+            "journal": "Journal of geriatric psychiatry and neurology",
+            "year": "2004",
+            "authors": [
+              "Devanand D P",
+              "Juszczak Nicole",
+              "Nobler Mitchell S",
+              "Turret Nancy",
+              "Fitzsimons Linda"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Cyclohexanols",
+              "Diagnostic and Statistical Manual of Mental Disorders",
+              "Drug Administration Schedule",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15533993/"
+          },
+          {
+            "pmid": "11270924",
+            "title": "Venlafaxine-associated mania.",
+            "abstract": "",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2001",
+            "authors": [
+              "Shulman R B",
+              "Scheftner W A",
+              "Nayudu S"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Bipolar Disorder",
+              "Cyclohexanols",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11270924/"
+          },
+          {
+            "pmid": "18597572",
+            "title": "Pharmacy and medical costs associated with switching between venlafaxine and SSRI antidepressant therapy for the treatment of major depressive disorder.",
+            "abstract": "While much has been published on utilization of antidepressants and associated resource use, surprisingly little information is available on the relationship between a change in antidepressant agent and health care utilization. Given that many patients will not respond to initial therapy (and therefore would be candidates for switching treatment) and the array of antidepressant medications on the market, information on the impact of switching would be beneficial to both providers and policymakers.",
+            "journal": "Journal of managed care pharmacy : JMCP",
+            "year": "2008",
+            "authors": [
+              "Khandker Rezaul K",
+              "Kruzikas Denise T",
+              "McLaughlin Trent P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antidepressive Agents",
+              "Cohort Studies",
+              "Cyclohexanols",
+              "Databases, Factual",
+              "Major Depressive Disorder",
+              "Drug Costs",
+              "Drug Utilization"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18597572/"
+          },
+          {
+            "pmid": "11098413",
+            "title": "Antidepressant efficacy of venlafaxine.",
+            "abstract": "Venlafaxine is a unique antidepressant medication with well documented efficacy and safety in the acute treatment of major depressive disorder. Reports suggest that it may also be effective in the treatment of dysthymic disorder and bipolar II depression, but the available data for these conditions are more limited compared to major depressive disorder. Several studies suggest that there may be a more rapid onset of action for venlafaxine in the treatment of major depression compared to other antidepressant pharmacotherapies, but this has not been fully established. Venlafaxine is also effective in the important long term continuation and maintenance phases of the treatment of depression.",
+            "journal": "Depression and anxiety",
+            "year": "2000",
+            "authors": [
+              "Golden R N",
+              "Nicholas L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Bipolar Disorder",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Dysthymic Disorder",
+              "Humans",
+              "Treatment Outcome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11098413/"
+          },
+          {
+            "pmid": "8884044",
+            "title": "Venlafaxine withdrawal symptoms.",
+            "abstract": "",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "1996",
+            "authors": [
+              "Benazzi F"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Drug Administration Schedule",
+              "Dysthymic Disorder",
+              "Humans",
+              "Male",
+              "Phobic Disorders",
+              "Substance Withdrawal Syndrome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8884044/"
+          },
+          {
+            "pmid": "12422062",
+            "title": "Open-label evaluation of venlafaxine sustained release in outpatients with generalized anxiety disorder with comorbid major depression or dysthymia: effectiveness, tolerability and predictors of response.",
+            "abstract": "In a setting of routine clinical practice, 32 outpatients with generalized anxiety disorder (GAD) and major depression (MD) (n = 21) or dysthymia (n = 11), according to DSM-IV criteria, were consecutively treated with flexible dosages of sustained-release venlafaxine (SR-VF) for at least 8 weeks. In a 16-week follow-up, SR-VF daily dose could be modified on the basis of the therapeutic response and of the side effect profile. Symptomatological modifications were explored by means of the Clinical Global Impression (CGI) scale, Hamilton Rating Scale for Depression (HAM-D), and Hamilton Anxiety Scale (HAM-A). SR-VF was well tolerated and only 2 patients interrupted the treatment before 24 weeks; the mean final dose +/- SD was 135.5 +/- 71.8 mg (range 75-225); in 26 (81.2%) patients, a statistically significant response was observed in depressive symptomatology within the first 8 weeks. The mean total score of HAM-D showed a significant reduction during the first 8 weeks of treatment, whil",
+            "journal": "Neuropsychobiology",
+            "year": "2002",
+            "authors": [
+              "Perugi Giulio",
+              "Frare Franco",
+              "Toni Cristina",
+              "Ruffolo Giuseppe",
+              "Torti Carlo"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Antidepressive Agents, Second-Generation",
+              "Anxiety Disorders",
+              "Cyclohexanols",
+              "Delayed-Action Preparations",
+              "Major Depressive Disorder",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Dysthymic Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12422062/"
+          },
+          {
+            "pmid": "21527126",
+            "title": "Efficacy of antidepressants for dysthymia: a meta-analysis of placebo-controlled randomized trials.",
+            "abstract": "The authors sought to determine the efficacy of antidepressants in dysthymic disorder and to compare antidepressant and placebo response rates between major depressive disorder (MDD) and dysthymic disorder.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2011",
+            "authors": [
+              "Levkovitz Yeciel",
+              "Tedeschini Enrico",
+              "Papakostas George I"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Confidence Intervals",
+              "Major Depressive Disorder",
+              "Double-Blind Method",
+              "Dysthymic Disorder",
+              "Humans",
+              "Odds Ratio",
+              "Randomized Controlled Trials as Topic",
+              "Regression Analysis",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21527126/"
+          },
+          {
+            "pmid": "24927088",
+            "title": "Comparative efficacy and tolerability among different selective serotonin re-uptake inhibitors and venlafaxine in a naturalistic setting.",
+            "abstract": "The objective of this study was to compare, in a naturalistic setting, the efficacy and tolerability of currently available Selective Serotonin Reuptake Inhibitors (SSRIs) and venlafaxine in outpatients at a primary psychiatric care centre in Spain. The sample was composed of 194 patients with mood disorders (major depressive disorder or dysthymic disorder according to the DSM-TV criteria) who began treatment either with an SSRI (fluoxetine, fluvoxamine, paroxetine, sertraline, and citalopram) or with venlafaxine. Baseline severity of the mood disorder was assessed using the Hamilton Depression Rating Scale and State-Trait Anxiety Inventory, and therapeutic response was measured with the Clinical Global Impression for Therapeutic Improvement. Tolerability was assessed by recording spontaneously reported adverse experiences. There were no significant differences in the efficacy of the antidepressants under study, but there were differences in the incidence and profiles of adverse events",
+            "journal": "International journal of psychiatry in clinical practice",
+            "year": "1998",
+            "authors": [
+              "Arias F",
+              "Padín J J",
+              "Gilaberte I",
+              "Varillas P",
+              "Sánchez R"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24927088/"
+          },
+          {
+            "pmid": "10086481",
+            "title": "SSRIs and SNRIs: broad spectrum of efficacy beyond major depression.",
+            "abstract": "Originally studied and introduced for the treatment of depression, the selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs) have proven effective for a broad range of psychiatric illnesses, including several anxiety disorders, bulimia, and dysthymia. These drugs have in common important effects on the serotonergic (5-HT) neurotransmission system, which is involved in mediating a substantial number of important functions, including mood, aggression, sexual behavior, and pain. In addition, some of the new antidepressants, like venlafaxine/venlafaxine XR, also have effects on the noradrenergic neurotransmission system, which also appears important in mood and anxiety disorders. These new drugs, because of their specificity for the serotonin and norepinephrine reuptake proteins, lack most of the adverse side effects of tricyclic antidepressants and monoamine oxidase inhibitors. Consequently, in addition to being the usual first-line treat",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1999",
+            "authors": [
+              "Gorman J M",
+              "Kent J M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, U.S. Gov't, P.H.S.",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic Uptake Inhibitors",
+              "Antidepressive Agents, Tricyclic",
+              "Anxiety Disorders",
+              "Bulimia",
+              "Depressive Disorder",
+              "Dysthymic Disorder",
+              "Humans",
+              "Mental Disorders",
+              "Norepinephrine",
+              "Obsessive-Compulsive Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10086481/"
+          },
+          {
+            "pmid": "10760553",
+            "title": "Lymphocyte proliferation among major depressive and dysthymic patients with typical or atypical features.",
+            "abstract": "Depressive illness may be associated with immune and cytokine alterations. However, data are unavailable concerning functional immune changes associated with chronic, low-grade depression (dysthymia). Moreover, the contribution of the neurovegetative features of depression (e.g., altered sleep, eating) to the immune alterations remains to be determined.",
+            "journal": "Journal of affective disorders",
+            "year": "2000",
+            "authors": [
+              "Zaharia M D",
+              "Ravindran A V",
+              "Griffiths J",
+              "Merali Z",
+              "Anisman H"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Dysthymic Disorder",
+              "Female",
+              "Fluoxetine",
+              "Humans",
+              "Immune Tolerance",
+              "Lymphocyte Activation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10760553/"
+          },
+          {
+            "pmid": "25607727",
+            "title": "Venlafaxine extended-release for depression following spinal cord injury: a randomized clinical trial.",
+            "abstract": "Depression is prevalent and associated with negative outcomes in individuals with spinal cord injury (SCI). Antidepressants are used routinely to treat depression, yet no placebo-controlled trials have been published in this population to our knowledge.",
+            "journal": "JAMA psychiatry",
+            "year": "2015",
+            "authors": [
+              "Fann Jesse R",
+              "Bombardier Charles H",
+              "Richards J Scott",
+              "Wilson Catherine S",
+              "Heinemann Allen W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, U.S. Gov't, Non-P.H.S."
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Chronic Disease",
+              "Cyclohexanols",
+              "Delayed-Action Preparations",
+              "Major Depressive Disorder",
+              "Double-Blind Method",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25607727/"
+          },
+          {
+            "pmid": "9846033",
+            "title": "Efficacy and tolerability of venlafaxine in the treatment of primary dysthymia.",
+            "abstract": "Currently, there is no documentation of the efficacy of venlafaxine (a serotonin norepinephrine reuptake inhibitor) in the treatment of dysthymia. This open-label pilot investigation examined the efficacy and tolerability of venlafaxine in patients with primary dysthymia without concomitant major depression.",
+            "journal": "Journal of psychiatry & neuroscience : JPN",
+            "year": "1998",
+            "authors": [
+              "Ravindran A V",
+              "Charbonneau Y",
+              "Zaharia M D",
+              "al-Zaid K",
+              "Wiens A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Pilot Projects",
+              "Psychiatric Status Rating Scales",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9846033/"
+          },
+          {
+            "pmid": "17803873",
+            "title": "Cytochrome P450 2D6 genotype variation and venlafaxine dosage.",
+            "abstract": "To determine whether the presence or absence of a fully functioning cytochrome P450 2D6 allele was associated with the dosage of the antidepressant drug venlafaxine in patients who had either adverse effects or absence of a therapeutic response to treatment with the immediate release or extended release form of venlafaxine.",
+            "journal": "Mayo Clinic proceedings",
+            "year": "2007",
+            "authors": [
+              "McAlpine Donald E",
+              "O'Kane Dennis J",
+              "Black John L",
+              "Mrazek David A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Alleles",
+              "Antidepressive Agents, Second-Generation",
+              "Anxiety Disorders",
+              "Cyclohexanols",
+              "Cytochrome P-450 CYP2D6",
+              "Delayed-Action Preparations",
+              "Major Depressive Disorder",
+              "Dysthymic Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17803873/"
+          },
+          {
+            "pmid": "11310816",
+            "title": "Algorithm for the treatment of chronic depression.",
+            "abstract": "Chronic depression, which is marked by a course of illness lasting 2 years or more, encompasses 4 subtypes of depressive illness: (1) chronic major depressive disorder, (2) dysthymic disorder, (3) dysthymic disorder with major depressive disorder (\"double depression\"), and (4) major depressive disorder with poor interepisodic recovery (i.e., in incomplete remission). In the 1990s, chronic depression had a reported prevalence rate of 3% to 5% and accounted for 30% to 35% of all cases of depression in the United States. The authors present an algorithm modified from the Texas Medication Algorithm Project for patients with chronic depression. This treatment algorithm recommends a progression of steps or stages in treating chronic depression. The first stage is monotherapy with the selective serotonin reuptake inhibitors, nefazodone, bupropion sustained release, venlafaxine extended release, mirtazapine, or psychotherapy. Later options include combination therapy, electroconvulsive therapy",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2001",
+            "authors": [
+              "Trivedi M H",
+              "Kleiber B A"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Algorithms",
+              "Antidepressive Agents",
+              "Chronic Disease",
+              "Clinical Trials as Topic",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Depressive Disorder",
+              "Drug Administration Schedule",
+              "Electroconvulsive Therapy",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11310816/"
+          },
+          {
+            "pmid": "22019345",
+            "title": "Dosing patterns for duloxetine and predictors of high-dose prescriptions in patients with major depressive disorder: analysis from a United States third-party payer perspective.",
+            "abstract": "Major depressive disorder (MDD) is a common illness that affects ∼7% of adults in the United States each year. Duloxetine is a dual reuptake inhibitor of serotonin and norepinephrine that has demonstrated efficacy and tolerability in the treatment of MDD.",
+            "journal": "Clinical therapeutics",
+            "year": "2011",
+            "authors": [
+              "Liu Xianchen",
+              "Cui Zhanglin",
+              "Niu Liyuan",
+              "Faries Douglas E",
+              "Ball Tamara"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents",
+              "Major Depressive Disorder",
+              "Dose-Response Relationship, Drug",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Multivariate Analysis"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22019345/"
+          },
+          {
+            "pmid": "10665631",
+            "title": "Venlafaxine in the treatment of dysthymia: an open-label study.",
+            "abstract": "Numerous studies have demonstrated the effectiveness of antidepressant medications in the treatment of dysthymia, or chronic mild depression. Venlafaxine blocks reuptake of both serotonin and norepinephrine and may produce a more complete antidepressant response than do single-mechanism selective serotonin reuptake inhibitors. The purpose of this open-label study was to provide preliminary data on the tolerability and effectiveness of venlafaxine for patients with dysthymia.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1999",
+            "authors": [
+              "Hellerstein D J",
+              "Batchelder S T",
+              "Little S A",
+              "Fedak M J",
+              "Kreditor D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Drug Administration Schedule",
+              "Dysthymic Disorder",
+              "Fatigue",
+              "Female",
+              "Follow-Up Studies",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10665631/"
+          },
+          {
+            "pmid": "9818632",
+            "title": "A large open-label study of venlafaxine in depressed outpatients by community-based physicians.",
+            "abstract": "Studies to date suggest that venlafaxine is effective, well tolerated, and safe in a broad spectrum of patients. We examined the clinical utility and tolerability of venlafaxine in patients treated by community-based psychiatrists and family physicians in a naturalistic clinical setting.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1998",
+            "authors": [
+              "Joffe R T",
+              "Marshall A M",
+              "Lee D K"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Ambulatory Care",
+              "Antidepressive Agents, Second-Generation",
+              "Community Medicine",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Drug Administration Schedule",
+              "Dysthymic Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9818632/"
+          },
+          {
+            "pmid": "17205639",
+            "title": "The expert consensus guideline series. Pharmacotherapy of depressive disorders in older patients.",
+            "abstract": "Depression in older patients contributes to personal suffering and family disruption and increases disability, medical morbidity, mortality, suicide risk, and healthcare utilization. The majority of clinical trials of antidepressant treatments are conducted in younger patients. For this reason, clinicians often have to extrapolate from studies in populations that do not present the same problems as older patients. For example, older patients often have serious coexisting medical conditions that may contribute to the depression and complicate the choice of treatment. Older patients as a rule need to be on many medications, some of which may contribute to depression and/or interact with antidepressants. Finally, older adults metabolize medications slowly and are more sensitive to side effects than younger patients. Because of these complexities, we conducted a consensus survey of expert opinion on the pharmacotherapy of depressive disorders in older patients to address clinical questions",
+            "journal": "Postgraduate medicine",
+            "year": "2001",
+            "authors": [
+              "Alexopoulos G S",
+              "Katz I R",
+              "Reynolds C F",
+              "Carpenter D",
+              "Docherty J P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Practice Guideline",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, Non-U.S. Gov't",
+              "Consensus Statement"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Antidepressive Agents",
+              "Combined Modality Therapy",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Humans",
+              "Psychotherapy",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17205639/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "dysthymic disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20dysthymic%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "melancholia",
+        "txgnn_score": 0.8880834579467773,
+        "txgnn_rank": 11945,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01916824",
+            "title": "Effects of Treatment on Decision-making in Major Depression",
+            "phase": "PHASE4",
+            "status": "COMPLETED",
+            "start_date": "2013-08",
+            "completion_date": "2015-12",
+            "country": "United States",
+            "enrollment": 53,
+            "brief_summary": "In this trial, fifty participants with current major depressive disorder who are not receiving an antidepressant medication and fifty healthy controls will complete questionnaires and computerized tasks to assess their decision-making styles. There will be three visits for depressed patients and two for healthy controls (the first and third visits). The first visit will involve interviews and questionnaires to assess the participant's level of depression, medical history and quality of life. Par",
+            "eligibility_criteria": "Inclusion Criteria for MDD Subjects:\n\n1. Male or female, age 18-65\n2. Primary Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition, Text Revision (DSM-IV TR) Diagnosis of Major Depressive Disorder.\n3. Has a 17-item Hamilton depression rating scale (HDRS-17) score \\>=16.\n4. Ability t",
+            "endpoints": [
+              "Money Earned"
+            ],
+            "sponsor": "Emory University",
+            "url": "https://clinicaltrials.gov/study/NCT01916824"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "20139219",
+            "title": "Venlafaxine and cardiovascular toxicity.",
+            "abstract": "",
+            "journal": "BMJ (Clinical research ed.)",
+            "year": "2010",
+            "authors": [
+              "Taylor David"
+            ],
+            "pub_types": [
+              "Comment",
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Death, Sudden, Cardiac",
+              "Depressive Disorder",
+              "Drug Overdose",
+              "Humans",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20139219/"
+          },
+          {
+            "pmid": "11098415",
+            "title": "Venlafaxine and treatment-resistant depression.",
+            "abstract": "Treatment-resistant depression (TRD) is an important clinical problem. This paper briefly reviews the definition of TRD and summarizes methodological issues that pertain to treatment research. Recent studies of venlafaxine treatment for TRD also are reviewed. It is concluded that venlafaxine at higher doses is a reasonably well-tolerated and an effective alternative for patients with TRD and typically should be used before tricyclic antidepressants or monoamine oxidase inhibitors. Further research is needed to confirm the prediction that switching a SSRI nonresponder to venlafaxine is a more effective strategy than switching to a second SSRI. The relative merits of switching from a SSRI to venlafaxine versus adding a norepinephrine reuptake inhibitor also warrant careful study.",
+            "journal": "Depression and anxiety",
+            "year": "2000",
+            "authors": [
+              "Thase M E",
+              "Friedman E S",
+              "Howland R H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Drug Resistance",
+              "Humans",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11098415/"
+          },
+          {
+            "pmid": "38685594",
+            "title": "Effect of venlafaxine on anhedonia and amotivation in patients with major depressive disorder.",
+            "abstract": "Serotonin norepinephrine reuptake inhibitors (SNRIs) have been postulated to afford benefits in alleviating anhedonia and amotivation. This post hoc pooled analysis evaluated the effect of venlafaxine XR, an SNRI, on these symptoms in patients with major depressive disorder (MDD).",
+            "journal": "CNS spectrums",
+            "year": "2024",
+            "authors": [
+              "McIntyre Roger S",
+              "Agid Ofer",
+              "Biesheuvel Egbert",
+              "Purushottamahanti Pradeep"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Venlafaxine Hydrochloride",
+              "Major Depressive Disorder",
+              "Anhedonia",
+              "Adult",
+              "Male",
+              "Female",
+              "Middle Aged",
+              "Motivation",
+              "Antidepressive Agents, Second-Generation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38685594/"
+          },
+          {
+            "pmid": "16316911",
+            "title": "Venlafaxine and asthma.",
+            "abstract": "A 54-year-old man of Asian origin with major depression developed an asthma-like reaction during venlafaxine treatment. Two weeks after therapy was initiated, he experienced gradually worsening dry cough at night and periodically dyspnea during the daytime. After 5 weeks, clinical examination revealed marked signs of pulmonary obstruction and the forced expiratory volume (FEV1) was assessed to only 32% of the expected value. The venlafaxine medication was gradually decreased and eventually discontinued 9 weeks after its initiation, resulting in a successive improvement of the patient's respiratory complaints.",
+            "journal": "Nordic journal of psychiatry",
+            "year": "2005",
+            "authors": [
+              "Melien Øyvind",
+              "Skaali Tone",
+              "Myhr Kirsten",
+              "Brørs Odd"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16316911/"
+          },
+          {
+            "pmid": "9040933",
+            "title": "Venlafaxine and ecchymosis.",
+            "abstract": "",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "1997",
+            "authors": [
+              "Kohn S",
+              "Labbate L A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Blood Coagulation Tests",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Ecchymosis",
+              "Female",
+              "Humans",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9040933/"
+          },
+          {
+            "pmid": "29603140",
+            "title": "Differences in the placebo response in duloxetine and venlafaxine trials.",
+            "abstract": "Our analysis aimed at comparing the placebo effect sizes from randomized controlled trials (RCTs) of two widely prescribed antidepressants, namely duloxetine and venlafaxine, and at analysing a potential influence of the investigated drugs on the placebo response.",
+            "journal": "Acta psychiatrica Scandinavica",
+            "year": "2018",
+            "authors": [
+              "Breilmann J",
+              "Furukawa T A",
+              "Becker T",
+              "Koesters M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Major Depressive Disorder",
+              "Duloxetine Hydrochloride",
+              "Humans",
+              "Placebo Effect",
+              "Serotonin and Noradrenaline Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29603140/"
+          },
+          {
+            "pmid": "35947166",
+            "title": "Psychopharmacological properties and therapeutic profile of the antidepressant venlafaxine.",
+            "abstract": "Major depression (MD) is one of the most common psychiatric disorders worldwide. Currently, the first-line treatment for MD targets the serotonin system but these drugs, notably the selective serotonin reuptake inhibitors, usually need 4 to 6 weeks before the benefit is felt and a significant proportion of patients shows an unsatisfactory response. Numerous treatments have been developed to circumvent these issues as venlafaxine, a mixed serotonin-norepinephrine reuptake inhibitor that binds and blocks both the SERT and NET transporters. Despite this pharmacological profile, it is difficult to have a valuable insight into its ability to produce more robust efficacy than single-acting agents. In this review, we provide an in-depth characterization of the pharmacological properties of venlafaxine from in vitro data to preclinical and clinical efficacy in depressed patients and animal models of depression to propose an indirect comparison with the most common antidepressants. Preclinical ",
+            "journal": "Psychopharmacology",
+            "year": "2022",
+            "authors": [
+              "Coutens Basile",
+              "Yrondi Antoine",
+              "Rampon Claire",
+              "Guiard Bruno P"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antidepressive Agents",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Humans",
+              "Serotonin",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35947166/"
+          },
+          {
+            "pmid": "10757255",
+            "title": "Double-blind comparison of venlafaxine and amitriptyline in outpatients with major depression with or without melancholia.",
+            "abstract": "The purpose of this study was to compare the efficacy and tolerability of venlafaxine and amitriptyline in outpatients with major depression with or without melancholia. This was an 8-week, multicentre, randomized, double-blind, parallel-group comparison of venlafaxine and amitriptyline. Outpatients with DSM-IV major depression, a minimum score of 20 on the 21-item Hamilton Depression Rating Scale (HAM-D), and depressive symptoms for at least 1 month were eligible. Patients were randomly assigned to venlafaxine or amitriptyline, both drugs titrated to a maximum of 150 mg/day until study day 15. The primary efficacy variables were the final on-therapy scores on the HAM-D, Montgomery-Asberg Depression Rating Scale and Clinical Global Impression severity scales. Data were evaluated on an intent-to-treat basis using the LOCF method. One hundred and 16 patients were randomized, and 115 were evaluated for efficacy. Both drugs showed efficacy in the treatment of depression with or without mel",
+            "journal": "Journal of psychopharmacology (Oxford, England)",
+            "year": "2000",
+            "authors": [
+              "Gentil V",
+              "Kerr-Correa F",
+              "Moreno R",
+              "D'Arrigo Busnello E",
+              "De Campos J A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Ambulatory Care",
+              "Amitriptyline",
+              "Antidepressive Agents, Second-Generation",
+              "Antidepressive Agents, Tricyclic",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Major Depressive Disorder",
+              "Double-Blind Method"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10757255/"
+          },
+          {
+            "pmid": "39440379",
+            "title": "The risks of adverse events with venlafaxine for adults with major depressive disorder: a systematic review of randomised clinical trials with meta-analysis and Trial Sequential Analysis.",
+            "abstract": "Venlafaxine is used to treat depression worldwide. Previous reviews have demonstrated that venlafaxine lowers scores on depression rating scales, producing statistically significant results but the relevance to patients remains uncertain. Knowledge of the incidence of the adverse effects associated with venlafaxine has previously been based on the results of non-randomised studies. Our primary objective was to assess the risks of adverse events with venlafaxine in the treatment of adults with major depressive disorder in randomised trials.",
+            "journal": "Epidemiology and psychiatric sciences",
+            "year": "2024",
+            "authors": [
+              "Kamp C B",
+              "Petersen J J",
+              "Faltermeier P",
+              "Juul S",
+              "Siddiqui F"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Meta-Analysis",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Antidepressive Agents, Second-Generation",
+              "Major Depressive Disorder",
+              "Randomized Controlled Trials as Topic",
+              "Suicide",
+              "Suicide, Attempted",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/39440379/"
+          },
+          {
+            "pmid": "7559370",
+            "title": "Effectiveness of venlafaxine in patients hospitalized for major depression and melancholia.",
+            "abstract": "This study was undertaken to compare the antidepressant efficacy and short-term safety of venlafaxine with those of placebo in hospitalized patients with major depression and melancholia.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1995",
+            "authors": [
+              "Guelfi J D",
+              "White C",
+              "Hackett D",
+              "Guichoux J Y",
+              "Magni G"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Aged",
+              "Body Weight",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Female",
+              "Hospitalization",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7559370/"
+          },
+          {
+            "pmid": "21346604",
+            "title": "CYP 2D6 PM status and antidepressant response to nortriptyline and venlafaxine: is it more than just drug metabolism?",
+            "abstract": "",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2011",
+            "authors": [
+              "Macaluso Matthew",
+              "Preskorn Sheldon H"
+            ],
+            "pub_types": [
+              "Editorial",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Catalysis",
+              "Cyclohexanols",
+              "Cytochrome P-450 CYP2D6",
+              "Depressive Disorder",
+              "Humans",
+              "Nortriptyline",
+              "Substrate Specificity",
+              "Treatment Outcome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21346604/"
+          },
+          {
+            "pmid": "9881825",
+            "title": "Venlafaxine-tramadol similarities.",
+            "abstract": "Venlafaxine and tramadol are relatively new compounds indicated for the treatment of depression and pain, respectively. These agents share a number of molecular and pharmacological features that may allow for broader and overlapping therapeutic indications for both drugs. Additionally, certain patient populations with coexisting depression and pain syndromes could potentially be treated with a single agent.",
+            "journal": "Medical hypotheses",
+            "year": "1998",
+            "authors": [
+              "Markowitz J S",
+              "Patrick K S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Analgesics, Opioid",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Humans",
+              "Models, Biological",
+              "Models, Psychological",
+              "Molecular Structure",
+              "Pain",
+              "Structure-Activity Relationship"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9881825/"
+          },
+          {
+            "pmid": "7622813",
+            "title": "Safety and tolerance profile of venlafaxine.",
+            "abstract": "Venlafaxine has been shown in clinical trials to be safe and well tolerated in patients with major depression. Data were pooled from 19 studies in which 2181 patients were given venlafaxine, 451 were given placebo and 591 were given a reference antidepressant (imipramine, trazodone, clomipramine, maprotiline, dothiepin or amineptine). Long-term safety was evaluated in 422 patients who were given venlafaxine for at least 1 year; as well, a total of 229 elderly patients have been treated with venlafaxine, including 66 who were given it for at least 1 year. The adverse events that occurred during short-term treatment in > or = 10% of patients were nausea, headache, insomnia, somnolence, dry mouth, dizziness, constipation, asthenia, sweating and nervousness. In comparator-controlled trials, the frequency of anticholinergic events with the reference agents was approximately twice that with venlafaxine. The safety profile and patient acceptability of venlafaxine are comparable to those of th",
+            "journal": "International clinical psychopharmacology",
+            "year": "1995",
+            "authors": [
+              "Danjou P",
+              "Hackett D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Drug Tolerance",
+              "Humans",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/7622813/"
+          },
+          {
+            "pmid": "34958348",
+            "title": "Differential Potency of Venlafaxine, Paroxetine, and Atomoxetine to Inhibit Serotonin and Norepinephrine Reuptake in Patients With Major Depressive Disorder.",
+            "abstract": "Venlafaxine is a dual serotonin (5-HT) and norepinephrine reuptake inhibitor. The specific dose at which it begins to efficiently engage the norepinephrine transporter (NET) remained to be determined. Paroxetine is generally considered as a selective 5-HT reuptake inhibitor but exhibits some affinity for NET. Atomoxetine is a NET inhibitor but also has some affinity for the 5-HT reuptake transporter (SERT).",
+            "journal": "The international journal of neuropsychopharmacology",
+            "year": "2022",
+            "authors": [
+              "Aldosary Fahad",
+              "Norris Sandhaya",
+              "Tremblay Philippe",
+              "James Jonathan S",
+              "Ritchie James C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Atomoxetine Hydrochloride",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Humans",
+              "Norepinephrine",
+              "Norepinephrine Plasma Membrane Transport Proteins",
+              "Paroxetine",
+              "Serotonin",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34958348/"
+          },
+          {
+            "pmid": "16145194",
+            "title": "Reversible hyponatremia and venlafaxine.",
+            "abstract": "",
+            "journal": "Psychosomatics",
+            "year": "2005",
+            "authors": [
+              "Bourgeois James A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Hyponatremia",
+              "Sodium",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16145194/"
+          },
+          {
+            "pmid": "10836283",
+            "title": "Increased remission rates with venlafaxine compared with fluoxetine in hospitalized patients with major depression and melancholia.",
+            "abstract": "This was a 6-week, double-blind, randomized trial of the efficacy and tolerability of venlafaxine and fluoxetine in 109 patients with major depression and melancholia. Hospitalized and day care patients with DSM-IV major depression and melancholia and a baseline Montgomery-Asberg Depression Rating Scale (MADRS) score of > or = 25 were eligible. The doses were venlafaxine 75 mg/day or fluoxetine 20 mg/day from days 1-4, venlafaxine 150 mg/day or fluoxetine 40 mg/day from days 5-10, and venlafaxine 225 mg/day or fluoxetine 60 mg/day from days 11-42. The intention-to-treat analyses included 55 patients on venlafaxine and 54 on fluoxetine. At the final evaluation, 70% of patients with venlafaxine and 66% with fluoxetine had > or = 50% reduction in the MADRS score, and 70% with venlafaxine and 62% with fluoxetine had a Clinical Global Impression (CGI) score of 1 or 2. A CGI improvement score of 1 was observed in 51% of patients with venlafaxine and 32% with fluoxetine (P = 0.018). A final H",
+            "journal": "International clinical psychopharmacology",
+            "year": "2000",
+            "authors": [
+              "Tzanakaki M",
+              "Guazzelli M",
+              "Nimatoudis I",
+              "Zissis N P",
+              "Smeraldi E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Female",
+              "Fluoxetine",
+              "Hospitalization",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10836283/"
+          },
+          {
+            "pmid": "10836286",
+            "title": "The efficacy and tolerability of venlafaxine and paroxetine in outpatients with depressive disorder or dysthymia.",
+            "abstract": "A 24-week, double-blind, randomized trial was performed to compare the efficacy and tolerability of venlafaxine and paroxetine in patients with major depression or dysthymia. Outpatients aged 18-70 years with a baseline score of 17 on the 21-item Hamilton Depression Rating Scale (HAM-D) were eligible. Patients were randomly assigned to venlafaxine, 37.5 mg, in the morning and evening or paroxetine, 20 mg, in the morning and placebo in the evening, which could be increased to venlafaxine, 75 mg twice daily, or paroxetine, 20 mg twice daily, after 4 weeks. Efficacy was assessed with the 21-item HAM-D, the Montgomery-Asberg Rating Scale, the Hamilton Anxiety Rating Scale, and the Clinical Global Impressions Scale. Forty-one patients were randomized to venlafaxine and 43 to paroxetine. At week 6, a response was observed in 55% of patients on venlafaxine and 29% on paroxetine (P = 0.03). At week 12, significantly (P = 0.011) more patients in the venlafaxine group had a HAM-D remission score",
+            "journal": "International clinical psychopharmacology",
+            "year": "2000",
+            "authors": [
+              "Ballús C",
+              "Quiros G",
+              "De Flores T",
+              "de la Torre J",
+              "Palao D"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Dysthymic Disorder",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10836286/"
+          },
+          {
+            "pmid": "15453105",
+            "title": "Selective serotonin reuptake inhibitor and venlafaxine use in children and adolescents with major depressive disorder: a systematic review of published randomized controlled trials.",
+            "abstract": "This review critiques published randomized placebo-controlled trials pertaining to the efficacy and safety of selective serotonin reuptake inhibitors (SSRIs) and venlafaxine in the treatment of major depressive disorder in children and adolescents.",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "2004",
+            "authors": [
+              "Courtney Darren B"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Child",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Female",
+              "Humans",
+              "Male",
+              "Randomized Controlled Trials as Topic",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15453105/"
+          },
+          {
+            "pmid": "16148429",
+            "title": "The role of venlafaxine and duloxetine in the treatment of depression with decremental changes in somatic symptoms of pain, chronic pain, and the pharmacokinetics and clinical considerations of duloxetine pharmacotherapy.",
+            "abstract": "Chronic pain is among the most common conditions to initiate medical care; 40% of patients victimized by chronic pain are not under the supervision of a physician, and about 70% of patients with severe pain are receiving pain medical care. About dollar 100 billion is an annual estimated cost representing loss of productivity, increased medical costs, and income loss. Major depressive disorder is not infrequently encountered in daily clinical practice often presenting with somatic complaints that include varieties of pain, and these may be so prominent as to direct the treatment to the somatic complaint evaluation to the exclusion of underlying psychopathology. Anxiety disorders and other psychiatric disorders may also present with such a somatization evaluation focus. Serotonin noradrenergic reuptake inhibitors (SNRIs), ie, venlafaxine and duloxetine, offer benefits over tricyclic antidepressants and serotonin reuptake inhibitors. Years of experience with venlafaxine representing a fir",
+            "journal": "American journal of therapeutics",
+            "year": "2005",
+            "authors": [
+              "Barkin Robert L",
+              "Barkin Stacie"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic Uptake Inhibitors",
+              "Chronic Disease",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Humans",
+              "Male",
+              "Pain",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16148429/"
+          },
+          {
+            "pmid": "22309973",
+            "title": "Suicidal thoughts and behavior with antidepressant treatment: reanalysis of the randomized placebo-controlled studies of fluoxetine and venlafaxine.",
+            "abstract": "The US Food and Drug Administration issued a black box warning for antidepressants and suicidal thoughts and behavior in children and young adults.",
+            "journal": "Archives of general psychiatry",
+            "year": "2012",
+            "authors": [
+              "Gibbons Robert D",
+              "Brown C Hendricks",
+              "Hur Kwan",
+              "Davis John",
+              "Mann J John"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, N.I.H., Extramural",
+              "Research Support, U.S. Gov't, P.H.S."
+            ],
+            "mesh_terms": [
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Fluoxetine",
+              "Humans",
+              "Randomized Controlled Trials as Topic",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Suicide",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/22309973/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "melancholia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20melancholia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "childhood apraxia of speech",
+        "txgnn_score": 0.8832070827484131,
+        "txgnn_rank": 12333,
+        "clinical_trials": [],
+        "pubmed_articles": [],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "childhood apraxia of speech",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20childhood%20apraxia%20of%20speech"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "neurotic depression",
+        "txgnn_score": 0.8830519914627075,
+        "txgnn_rank": 12360,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04446039",
+            "title": "Comparison of Antidepressants in the Real-World: Retrospective Cohort Study Using Big Data",
+            "phase": "N/A",
+            "status": "COMPLETED",
+            "start_date": "2022-07-04",
+            "completion_date": "2022-11-03",
+            "country": "South Korea",
+            "enrollment": 370212,
+            "brief_summary": "The primary purpose of this study is to investigate medication utilization pattern and risk of adverse outcomes among commonly used antidepressants by using nationwide claims database, in order to assess overall clinical benefit of antidepressant therapy in real-world practice.",
+            "eligibility_criteria": "Inclusion Criteria\n\nPatients must meet all of the following inclusion criteria to be eligible for inclusion in the study:\n\n1. Patients aged 18 years or older on the index date\n2. Patients who had at least one inpatient claim or two outpatient claims in the intake period with any of the following dia",
+            "endpoints": [
+              "Medication Possession Ratio (MPR) During First 180 Days of Treatment",
+              "Persistence During First 180 Days of Treatment",
+              "Percentage of Participants Who Discontinued Treatment in the First 90 Days From the Index Date"
+            ],
+            "sponsor": "Pfizer",
+            "url": "https://clinicaltrials.gov/study/NCT04446039"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "11098415",
+            "title": "Venlafaxine and treatment-resistant depression.",
+            "abstract": "Treatment-resistant depression (TRD) is an important clinical problem. This paper briefly reviews the definition of TRD and summarizes methodological issues that pertain to treatment research. Recent studies of venlafaxine treatment for TRD also are reviewed. It is concluded that venlafaxine at higher doses is a reasonably well-tolerated and an effective alternative for patients with TRD and typically should be used before tricyclic antidepressants or monoamine oxidase inhibitors. Further research is needed to confirm the prediction that switching a SSRI nonresponder to venlafaxine is a more effective strategy than switching to a second SSRI. The relative merits of switching from a SSRI to venlafaxine versus adding a norepinephrine reuptake inhibitor also warrant careful study.",
+            "journal": "Depression and anxiety",
+            "year": "2000",
+            "authors": [
+              "Thase M E",
+              "Friedman E S",
+              "Howland R H"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Drug Resistance",
+              "Humans",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11098415/"
+          },
+          {
+            "pmid": "20139219",
+            "title": "Venlafaxine and cardiovascular toxicity.",
+            "abstract": "",
+            "journal": "BMJ (Clinical research ed.)",
+            "year": "2010",
+            "authors": [
+              "Taylor David"
+            ],
+            "pub_types": [
+              "Comment",
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Death, Sudden, Cardiac",
+              "Depressive Disorder",
+              "Drug Overdose",
+              "Humans",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/20139219/"
+          },
+          {
+            "pmid": "17272528",
+            "title": "Venlafaxine for major depression.",
+            "abstract": "More evidence that risks outweigh benefits for most patients?",
+            "journal": "BMJ (Clinical research ed.)",
+            "year": "2007",
+            "authors": [
+              "Cipriani Andrea",
+              "Geddes John R",
+              "Barbui Corrado"
+            ],
+            "pub_types": [
+              "Comment",
+              "Editorial"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Humans",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17272528/"
+          },
+          {
+            "pmid": "8726593",
+            "title": "Therapeutic options for treating major depression, and the role of venlafaxine.",
+            "abstract": "Major depression is a debilitating disorder that is often undertreated. Psychotherapy, electroconvulsive therapy, and pharmacotherapy are options for management. Tricyclic antidepressants and selective serotonin reuptake inhibitors are the cornerstones of drug therapy. Venlafaxine, a phenylethylamine antidepressant that primarily inhibits reuptake of norepinephrine and serotonin, is an alternative to those agents. It has been studied in short-term and continuation studies and appears to have efficacy similar to that of imipramine, trazodone, and fluoxetine. Moreover, venlafaxine is effective in approximately one-third of patients with treatment-resistant depression. Venlafaxine is metabolized by the P-450 enzyme system to an active metabolite O-desmethyl-venlafaxine, which is excreted renally. Nausea, somnolence, and dizziness are dose-related adverse effects that often occur with initiation of therapy. Increases in blood pressure, particularly with high dosages, also may occur. Drug-d",
+            "journal": "Pharmacotherapy",
+            "year": "1996",
+            "authors": [
+              "Scott M A",
+              "Shelton P S",
+              "Gattis W"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Humans",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8726593/"
+          },
+          {
+            "pmid": "16316911",
+            "title": "Venlafaxine and asthma.",
+            "abstract": "A 54-year-old man of Asian origin with major depression developed an asthma-like reaction during venlafaxine treatment. Two weeks after therapy was initiated, he experienced gradually worsening dry cough at night and periodically dyspnea during the daytime. After 5 weeks, clinical examination revealed marked signs of pulmonary obstruction and the forced expiratory volume (FEV1) was assessed to only 32% of the expected value. The venlafaxine medication was gradually decreased and eventually discontinued 9 weeks after its initiation, resulting in a successive improvement of the patient's respiratory complaints.",
+            "journal": "Nordic journal of psychiatry",
+            "year": "2005",
+            "authors": [
+              "Melien Øyvind",
+              "Skaali Tone",
+              "Myhr Kirsten",
+              "Brørs Odd"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Asthma",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Humans",
+              "Male",
+              "Middle Aged",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16316911/"
+          },
+          {
+            "pmid": "9881825",
+            "title": "Venlafaxine-tramadol similarities.",
+            "abstract": "Venlafaxine and tramadol are relatively new compounds indicated for the treatment of depression and pain, respectively. These agents share a number of molecular and pharmacological features that may allow for broader and overlapping therapeutic indications for both drugs. Additionally, certain patient populations with coexisting depression and pain syndromes could potentially be treated with a single agent.",
+            "journal": "Medical hypotheses",
+            "year": "1998",
+            "authors": [
+              "Markowitz J S",
+              "Patrick K S"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Analgesics, Opioid",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Humans",
+              "Models, Biological",
+              "Models, Psychological",
+              "Molecular Structure",
+              "Pain",
+              "Structure-Activity Relationship"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9881825/"
+          },
+          {
+            "pmid": "12492770",
+            "title": "Achieving remission from depression with venlafaxine and venlafaxine extended release: a literature review of comparative studies with selective serotonin reuptake inhibitors.",
+            "abstract": "To evaluate data supporting the ability of venlafaxine, an antidepressant with a dual mechanism of action, to produce remission from depression.",
+            "journal": "Acta psychiatrica Scandinavica. Supplementum",
+            "year": "2002",
+            "authors": [
+              "Rudolph R L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Delayed-Action Preparations",
+              "Depressive Disorder",
+              "Humans",
+              "Multicenter Studies as Topic",
+              "Placebos",
+              "Randomized Controlled Trials as Topic",
+              "Treatment Outcome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12492770/"
+          },
+          {
+            "pmid": "38685594",
+            "title": "Effect of venlafaxine on anhedonia and amotivation in patients with major depressive disorder.",
+            "abstract": "Serotonin norepinephrine reuptake inhibitors (SNRIs) have been postulated to afford benefits in alleviating anhedonia and amotivation. This post hoc pooled analysis evaluated the effect of venlafaxine XR, an SNRI, on these symptoms in patients with major depressive disorder (MDD).",
+            "journal": "CNS spectrums",
+            "year": "2024",
+            "authors": [
+              "McIntyre Roger S",
+              "Agid Ofer",
+              "Biesheuvel Egbert",
+              "Purushottamahanti Pradeep"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Humans",
+              "Venlafaxine Hydrochloride",
+              "Major Depressive Disorder",
+              "Anhedonia",
+              "Adult",
+              "Male",
+              "Female",
+              "Middle Aged",
+              "Motivation",
+              "Antidepressive Agents, Second-Generation"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38685594/"
+          },
+          {
+            "pmid": "9040933",
+            "title": "Venlafaxine and ecchymosis.",
+            "abstract": "",
+            "journal": "Canadian journal of psychiatry. Revue canadienne de psychiatrie",
+            "year": "1997",
+            "authors": [
+              "Kohn S",
+              "Labbate L A"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Blood Coagulation Tests",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Ecchymosis",
+              "Female",
+              "Humans",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9040933/"
+          },
+          {
+            "pmid": "9133767",
+            "title": "Venlafaxine in the treatment of children and adolescents with major depression.",
+            "abstract": "Major depression is commonly found in the child and adolescent population. Venlafaxine, a new antidepressant, has been used successfully in adults; however, its use in children and adolescents has been very limited. This study evaluated the efficacy and side effect profile of venlafaxine in the treatment of depression in children and adolescents. In a double-blind, placebo-controlled, 6-week study, 33 subjects between the ages of 8 and 17, who met DSM-IV criteria for major depression, were treated with either venlafaxine and therapy or placebo and therapy. Patient progress data were obtained by weekly rating assessments. Data on side effects were also obtained weekly. The statistical analysis indicated a significant improvement over time, but it could not be attributed to venlafaxine drug therapy. These findings are consistent with other studies where the efficacy of antidepressants in the treatment of major depression in this age population remains unproven. Low dosage and short lengt",
+            "journal": "Psychopharmacology bulletin",
+            "year": "1997",
+            "authors": [
+              "Mandoki M W",
+              "Tapia M R",
+              "Tapia M A",
+              "Sumner G S",
+              "Parker J L"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antidepressive Agents, Second-Generation",
+              "Child",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Psychiatric Status Rating Scales"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9133767/"
+          },
+          {
+            "pmid": "8195464",
+            "title": "A comparison of venlafaxine, trazodone, and placebo in major depression.",
+            "abstract": "A double-blind, placebo-controlled trial was undertaken to compare the safety and efficacy of venlafaxine and trazodone in patients with major depression. Two hundred twenty-five patients entered an initial 6-week treatment phase, and 149 completed it. Ninety-six patients who were responders continued in a 1-year, double-blind, long-term phase during which they received the same medication and doses they had during the short-term phase. Both active treatments were significantly more effective than placebo on some measures during the short-term study, but venlafaxine produced more improvement in the cognitive disturbance and retardation factors on the Hamilton Rating Scale for Depression. Trazodone was more effective against the sleep disturbance factor. Patients on venlafaxine were most likely to enter the long-term phase and to remain in the trial longest. The side effect profiles of the three treatment groups were compared. Venlafaxine was most likely to cause nausea, whereas trazodo",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "1994",
+            "authors": [
+              "Cunningham L A",
+              "Borison R L",
+              "Carman J S",
+              "Chouinard G",
+              "Crowder J E"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents",
+              "Blood Pressure",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Electrocardiography",
+              "Female",
+              "Heart Rate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8195464/"
+          },
+          {
+            "pmid": "8071246",
+            "title": "Comparison of venlafaxine and imipramine in the acute treatment of major depression in outpatients.",
+            "abstract": "Venlafaxine is a new phenylethylamine antidepressant that exhibits monoamine reuptake inhibition. The current study evaluates the efficacy of venlafaxine compared to that of imipramine in outpatients suffering from major depression of moderate-to-marked severity.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "1994",
+            "authors": [
+              "Schweizer E",
+              "Feighner J",
+              "Mandos L A",
+              "Rickels K"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adult",
+              "Ambulatory Care",
+              "Antidepressive Agents",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Imipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8071246/"
+          },
+          {
+            "pmid": "16736393",
+            "title": "[Cost-effectiveness of venlafaxine for the treatment of depression and anxiety. Bibliographic review].",
+            "abstract": "To compare the efficiency of the treatment of major depressive disorder (MDD) and generalized anxiety disorder (GAD) with venlafaxine in comparison with tricyclic antidepressants (TCA) and selective serotonin reuptake inhibitors (SSRI).",
+            "journal": "Actas espanolas de psiquiatria",
+            "year": "2006",
+            "authors": [
+              "Baca Baldomero E",
+              "Rubio-Terrés C"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Anxiety Disorders",
+              "Cost-Benefit Analysis",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Humans",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16736393/"
+          },
+          {
+            "pmid": "11983797",
+            "title": "Efficacy and safety of venlafaxine-ECT combination in treatment-resistant depression.",
+            "abstract": "Thirteen patients with treatment-resistant major depression were given venlafaxine, at doses ranging from 150 mg to 375 mg, combined with ECT. Propofol was used as an anesthetic. Ten of 13 (76.9%) were considered responsive to combined ECT-venlafaxine treatment, and positive responses were not associated with venlafaxine doses. An asystole episode was observed in 4 patients; these patients had received significantly higher doses of venlafaxine (P<0.01). Treatment seems to be safe at venlafaxine doses <300 mg/day. At higher doses, with propofol used as anesthetic, the possibility of asystole cannot be ruled out. A possible additive effect of high-dose venlafaxine and propofol-blocking sodium channels are discussed.",
+            "journal": "The Journal of neuropsychiatry and clinical neurosciences",
+            "year": "2002",
+            "authors": [
+              "Gonzalez-Pinto Ana",
+              "Gutierrez Miguel",
+              "Gonzalez Nekane",
+              "Elizagarate Edorta",
+              "Perez de Heredia Jose L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Anesthetics, Intravenous",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Drug Administration Schedule",
+              "Electroconvulsive Therapy",
+              "Female",
+              "Heart Arrest",
+              "Heart Rate"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11983797/"
+          },
+          {
+            "pmid": "12135535",
+            "title": "Venlafaxine compared with fluoxetine in outpatients with depression and concomitant anxiety.",
+            "abstract": "The aim of this double-blind study was to compare the efficacy and safety of venlafaxine vs. fluoxetine in the treatment of patients with depression and anxiety. A total of 146 moderately depressed patients with associated anxiety were randomized to receive 75 mg/d venlafaxine or 20 mg/d fluoxetine for 12 wk. Dose increases were permitted after 2 wk of treatment, to 150 mg/d venlafaxine and 40 mg/d fluoxetine, to optimize response. At the final visit, a statistically significantly greater efficacy of venlafaxine over fluoxetine was observed on depressive symptoms and concomitant anxiety, and 75.0 and 50.7% of patients administered venlafaxine and fluoxetine, respectively, showed an overall response. A sustained response (for at least 2 wk), present at the end of the study was achieved in 57.8 and 43.3% of patients in the venlafaxine and fluoxetine groups, respectively, and at the final visit, 59.4 and 40.3% of patients, respectively, were in remission (virtually asymptomatic). Dose inc",
+            "journal": "The international journal of neuropsychopharmacology",
+            "year": "2002",
+            "authors": [
+              "De Nayer Andre",
+              "Geerts Stefaan",
+              "Ruelens Leo",
+              "Schittecatte Michel",
+              "De Bleeker Eugeen"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Clinical Trial, Phase IV",
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Antidepressive Agents, Second-Generation",
+              "Anxiety Disorders",
+              "Belgium",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Double-Blind Method",
+              "Female"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12135535/"
+          },
+          {
+            "pmid": "29561291",
+            "title": "Perinatal exposure to venlafaxine leads to lower anxiety and depression-like behavior in the adult rat offspring.",
+            "abstract": "Depression during pregnancy and in the post-partum period is a growing health issue. Venlafaxine, a representative of serotonin and noradrenaline reuptake inhibitors, is used to treat a wide spectrum of mood disorders. However, the limited number of prenatal and perinatal studies raises the question about the long-term consequences of venlafaxine therapy. The aim of this study was to investigate the effect of venlafaxine exposure during pregnancy and lactation on anxiety-like and depression-like behaviors, as well as adrenocortical hormone concentrations in the adult rat offspring. For this purpose, rat dams were treated orally with venlafaxine from day 15 of gestation to postnatal day 20 at doses of 7.5, 37.5, and 75 mg/kg. Administration of venlafaxine during gestation and lactation affected anxiety-like and depression-like behaviors in adult rat offspring of both sexes. The animals exposed through their mothers to venlafaxine, particularly at the lowest and middle doses, were less a",
+            "journal": "Behavioural pharmacology",
+            "year": "2018",
+            "authors": [
+              "Bogi Eszter",
+              "Belovicová Kristina",
+              "Ujhazy Eduard",
+              "Mach Mojmír",
+              "Koprdova Romana"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adrenal Cortex Hormones",
+              "Aldosterone",
+              "Animals",
+              "Animals, Newborn",
+              "Anxiety",
+              "Anxiety Disorders",
+              "Behavior, Animal",
+              "Brain",
+              "Corticosterone",
+              "Depression"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29561291/"
+          },
+          {
+            "pmid": "26005260",
+            "title": "Comparison of tolerance of venlafaxine, paroxetine and amitriptyline in depression therapy.",
+            "abstract": "There are no controlled studies dedicated to research of side effects of antidepressants. It is a well known fact that antidepressants reciprocally differ according to their type, intensity and frequency of appearance of certain side effects. For example, cardiovascular and anticholinergic effects are essential feature of the tricyclics whereas gastrointestinal and sexual side effects are registered during the use of selective serotonin reuptake inhibitors. Interruptions of therapy or irregular use of drugs because of the appearance of side effects are not rare. Serious side effects of drugs are the fourth cause of death in the USA.",
+            "journal": "Medical archives (Sarajevo, Bosnia and Herzegovina)",
+            "year": "2015",
+            "authors": [
+              "Miskovic Mirjana"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Amitriptyline",
+              "Antidepressive Agents, Second-Generation",
+              "Antidepressive Agents, Tricyclic",
+              "Major Depressive Disorder",
+              "Drug Tolerance",
+              "Female",
+              "Humans"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/26005260/"
+          },
+          {
+            "pmid": "10757255",
+            "title": "Double-blind comparison of venlafaxine and amitriptyline in outpatients with major depression with or without melancholia.",
+            "abstract": "The purpose of this study was to compare the efficacy and tolerability of venlafaxine and amitriptyline in outpatients with major depression with or without melancholia. This was an 8-week, multicentre, randomized, double-blind, parallel-group comparison of venlafaxine and amitriptyline. Outpatients with DSM-IV major depression, a minimum score of 20 on the 21-item Hamilton Depression Rating Scale (HAM-D), and depressive symptoms for at least 1 month were eligible. Patients were randomly assigned to venlafaxine or amitriptyline, both drugs titrated to a maximum of 150 mg/day until study day 15. The primary efficacy variables were the final on-therapy scores on the HAM-D, Montgomery-Asberg Depression Rating Scale and Clinical Global Impression severity scales. Data were evaluated on an intent-to-treat basis using the LOCF method. One hundred and 16 patients were randomized, and 115 were evaluated for efficacy. Both drugs showed efficacy in the treatment of depression with or without mel",
+            "journal": "Journal of psychopharmacology (Oxford, England)",
+            "year": "2000",
+            "authors": [
+              "Gentil V",
+              "Kerr-Correa F",
+              "Moreno R",
+              "D'Arrigo Busnello E",
+              "De Campos J A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Ambulatory Care",
+              "Amitriptyline",
+              "Antidepressive Agents, Second-Generation",
+              "Antidepressive Agents, Tricyclic",
+              "Cyclohexanols",
+              "Depressive Disorder",
+              "Major Depressive Disorder",
+              "Double-Blind Method"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/10757255/"
+          },
+          {
+            "pmid": "28068779",
+            "title": "Norepinephrine Transporter Gene Variants and Remission From Depression With Venlafaxine Treatment in Older Adults.",
+            "abstract": "The primary objective of this study was to investigate five putatively functional variants of the norepinephrine transporter (SLC6A2, NET) and serotonin transporter (SLC6A4, SERT) genes and remission in depressed older adults treated with venlafaxine. A secondary objective was to analyze 17 other variants in serotonergic system genes (HTR1A, HTR2A, HTR1B, HTR2C, TPH1, TPH2) potentially involved in the mechanism of action of venlafaxine.",
+            "journal": "The American journal of psychiatry",
+            "year": "2017",
+            "authors": [
+              "Marshe Victoria S",
+              "Maciukiewicz Malgorzata",
+              "Rej Soham",
+              "Tiwari Arun K",
+              "Sibille Etienne"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study"
+            ],
+            "mesh_terms": [
+              "Aged",
+              "Major Depressive Disorder",
+              "Female",
+              "Gene Expression Profiling",
+              "Genetic Markers",
+              "Genotype",
+              "Humans",
+              "Likelihood Functions",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28068779/"
+          },
+          {
+            "pmid": "16148429",
+            "title": "The role of venlafaxine and duloxetine in the treatment of depression with decremental changes in somatic symptoms of pain, chronic pain, and the pharmacokinetics and clinical considerations of duloxetine pharmacotherapy.",
+            "abstract": "Chronic pain is among the most common conditions to initiate medical care; 40% of patients victimized by chronic pain are not under the supervision of a physician, and about 70% of patients with severe pain are receiving pain medical care. About dollar 100 billion is an annual estimated cost representing loss of productivity, increased medical costs, and income loss. Major depressive disorder is not infrequently encountered in daily clinical practice often presenting with somatic complaints that include varieties of pain, and these may be so prominent as to direct the treatment to the somatic complaint evaluation to the exclusion of underlying psychopathology. Anxiety disorders and other psychiatric disorders may also present with such a somatization evaluation focus. Serotonin noradrenergic reuptake inhibitors (SNRIs), ie, venlafaxine and duloxetine, offer benefits over tricyclic antidepressants and serotonin reuptake inhibitors. Years of experience with venlafaxine representing a fir",
+            "journal": "American journal of therapeutics",
+            "year": "2005",
+            "authors": [
+              "Barkin Robert L",
+              "Barkin Stacie"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adrenergic Uptake Inhibitors",
+              "Chronic Disease",
+              "Cyclohexanols",
+              "Major Depressive Disorder",
+              "Duloxetine Hydrochloride",
+              "Female",
+              "Humans",
+              "Male",
+              "Pain",
+              "Quality of Life"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16148429/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "neurotic depression",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20neurotic%20depression"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "obsessive-compulsive disorder",
+        "txgnn_score": 0.8734317421913147,
+        "txgnn_rank": 13039,
+        "clinical_trials": [
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00074815",
+            "title": "Treatment of Pediatric OCD for SRI Partial Responders",
+            "phase": "PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2003-09",
+            "completion_date": "2009-11",
+            "country": "United States",
+            "enrollment": 124,
+            "brief_summary": "This study will determine whether cognitive behavioral therapy delivered by either psychologists or psychiatrists can improve the effectiveness of serotonin reuptake inhibitor treatment in children with obsessive compulsive disorder.",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* DSM-IV Diagnosis of obsessive compulsive disorder\n* CYBOCS total score greater than 16\n\nExclusion Criteria:\n\n* Other primary or co-primary psychiatric disorder\n* Pervasive developmental disorder or disorders, including Asperger's Syndrome\n* Thought disorder\n* Prior failed tria",
+            "endpoints": [
+              "Children's Yale-Brown Obsessive Compulsive Scale (CY-BOCS)"
+            ],
+            "sponsor": "Duke University",
+            "url": "https://clinicaltrials.gov/study/NCT00074815"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT02476136",
+            "title": "Initial Severity and Antidepressant Efficacy for Anxiety Disorders: an Individual Patient Data Meta-analysis",
+            "phase": "N/A",
+            "status": "UNKNOWN",
+            "start_date": "2015-05",
+            "completion_date": "2016-12",
+            "country": "N/A",
+            "enrollment": 8800,
+            "brief_summary": "Anxiety disorders are common disorders, which pose a major burden to society and the individual. An anxiety disorder may be treated with medication, in particular with antidepressants such as the selective serotonin reuptake inhibitors (SSRIs). However, much of what is known about antidepressants is derived from research in depression rather than anxiety. In recent years, researchers have found that antidepressants are more effective for severely depressed patients than they are for patients wit",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Inclusion in the intent-to-treat population of a randomized controlled trial of a second-generation antidepressant for the short-term treatment of an anxiety disorder\n* Diagnosed with an anxiety disorder (GAD, SAD, OCD, PTSD or PD)\n\nExclusion Criteria:\n\n* Assignment to an acti",
+            "endpoints": [
+              "Change from baseline on the Hamilton Anxiety Rating Scale (HAM-A)",
+              "Change from baseline on the Liebowitz Social Anxiety Scale (LSAS)",
+              "Change from baseline on the Yale-Brown Obsessive-Compulsive Scale (Y-BOCS)"
+            ],
+            "sponsor": "University Medical Center Groningen",
+            "url": "https://clinicaltrials.gov/study/NCT02476136"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04539951",
+            "title": "A Pragmatic Trial of Pharmacotherapy Options Following Unsatisfactory Initial Treatment in OCD",
+            "phase": "PHASE2",
+            "status": "RECRUITING",
+            "start_date": "2020-09-22",
+            "completion_date": "2028-12-31",
+            "country": "China",
+            "enrollment": 1600,
+            "brief_summary": "This study includes a sequenced clinical trial in order to assess the efficacy of several switching or augment strategies when initial treatment is ineffective，and to provide strong evidence for clinical practice and international guidelines for Obsessive-Compulsive Disorder treatments.",
+            "eligibility_criteria": "Inclusion criteria:They\n\n* meet DSM-5 diagnostic criteria for OCD as the primary diagnosis ;\n* are in the age range from 18 to 65 years;\n* have a score of at least 20 on Yale-Brown Obsessive-Compulsive Scale (Y-BOCS);\n* have never received medication for OCD, and have not received any form of psycho",
+            "endpoints": [
+              "Yale-Brown Obsessive-Compulsive Scale (Y-BOCS)"
+            ],
+            "sponsor": "Shanghai Mental Health Center",
+            "url": "https://clinicaltrials.gov/study/NCT04539951"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT00211809",
+            "title": "A Controlled Trial of Cognitive-Behavioral Therapy as an Adjunct to Serotonin Reuptake Inhibitors in Body Dysmorphic Disorder",
+            "phase": "PHASE4",
+            "status": "TERMINATED",
+            "start_date": "2008-09",
+            "completion_date": "2009-06",
+            "country": "United States",
+            "enrollment": 17,
+            "brief_summary": "The research project is a controlled pilot study of the efficacy of cognitive-behavioral therapy (CBT) as an adjunct to serotonin reuptake inhibitor (SRI) pharmacotherapy in body dysmorphic disorder (BDD). This study assesses the efficacy of CBT in comparison to relaxation and stress management training (RSMT), an active control treatment",
+            "eligibility_criteria": "Inclusion Criteria:\n\n* Age 16-65\n* A diagnosis of DSM-IV BDD or its delusional variant (delusional disorder, somatic type)\n* Ability to communicate meaningfully with the investigators\n* Competent to provide written consent, if over 18 years old, or competent to provide written assent, if 16-17 years",
+            "endpoints": [
+              "Body Dysmorphic Disorder Examination",
+              "Yale Brown Obsessive Scale",
+              "Body Dysmorphic Disorder Clinical Global Impressions Scale"
+            ],
+            "sponsor": "Icahn School of Medicine at Mount Sinai",
+            "url": "https://clinicaltrials.gov/study/NCT00211809"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT01944657",
+            "title": "Supplemental TMS vs. Standard Medication Monotherapy for Treating Major Depression: An Exploratory Field Study",
+            "phase": "NA",
+            "status": "WITHDRAWN",
+            "start_date": "2013-09",
+            "completion_date": "2015-12",
+            "country": "United States",
+            "enrollment": 0,
+            "brief_summary": "A. Introduction to the Problem\n\nThis field experiment is intended to explore whether supplemental transcranial magnetic stimulation (TMS) is more effective than standard medication mono-therapy for the treatment of major depressive disorder. Transcranial magnetic stimulation (TMS) is now included in the practice guidelines of the American Psychiatric Association for the treatment of major depression.\n\nB. Importance of the Area of Study\n\nThe safety, efficacy and value of TMS treatment has been es",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Determination of treatment resistance (i.e., failed to receive benefit from one to three prior anti-depressant treatments)\n2. All subjects will be between the ages of 18 and 70\n3. All subjects will meet the DSM-IV criteria for major depressive disorder, non-psychotic, single ",
+            "endpoints": [
+              "Montgomery-Åsberg Depression Rating Scale (MADRS)"
+            ],
+            "sponsor": "Sheppard Pratt Health System",
+            "url": "https://clinicaltrials.gov/study/NCT01944657"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT03299166",
+            "title": "A Randomized, Double-blind, Placebo-controlled Trial of Adjunctive Troriluzole in Obsessive Compulsive Disorder",
+            "phase": "PHASE2, PHASE3",
+            "status": "COMPLETED",
+            "start_date": "2017-12-19",
+            "completion_date": "2025-12-08",
+            "country": "United States",
+            "enrollment": 426,
+            "brief_summary": "The purpose of this study is to evaluate the efficacy of troriluzole as adjunctive therapy versus placebo in participants with obsessive compulsive disorder (OCD) who had an inadequate response to selective serotonin reuptake inhibitor (SSRI), clomipramine, venlafaxine, or desvenlafaxine treatment",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Primary diagnosis of OCD as per the Diagnostic and Statistical Manual of Mental Disorders, 5th edition (DSM-5).\n2. Participants must be currently experiencing non-response or inadequate response to their current standard of care (SOC) medication defined as:\n\n   1. Participant",
+            "endpoints": [
+              "Change From Baseline in the Yale-Brown Obsessive Compulsive Scale (Y-BOCS) Total Score"
+            ],
+            "sponsor": "Biohaven Pharmaceuticals, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT03299166"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT06659094",
+            "title": "Step Down From Maximal Support: Efficacy of Stepped-care Internet-based Cognitive Behavior Therapy for Obsessive-compulsive Disorder",
+            "phase": "NA",
+            "status": "COMPLETED",
+            "start_date": "2023-08-21",
+            "completion_date": "2025-12-30",
+            "country": "China",
+            "enrollment": 95,
+            "brief_summary": "This study is conducted to explore the efficacy and cost-effectiveness of stepped-care internet-based cognitive behavior therapy (sc-ICBT) with reduced support compared to cognitive-behavioral group therapy(CBGT), to identify the optimal transition points for shorter effective stepped treatments, to find clinical indicators that can predict the effectiveness of CBT interventions, and to investigate predictive outcomes.\n\nThe main questions the investigators aim to answer are:\n\n1. Is the reduction",
+            "eligibility_criteria": "Inclusion Criteria:\n\n1. Individuals aged between 18 and 50 years, inclusive of both genders;\n2. Presenting primarily with compulsive symptoms that meet the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5) criteria for Obsessive-Compulsive Disorder (OCD);\n3. Yale-Brown Obs",
+            "endpoints": [
+              "Change of Yale-Brown Obsessive-Compulsive Scale (YBOCS)"
+            ],
+            "sponsor": "Shanghai Mental Health Center",
+            "url": "https://clinicaltrials.gov/study/NCT06659094"
+          },
+          {
+            "registry": "ClinicalTrials.gov",
+            "id": "NCT04708834",
+            "title": "A Multicenter, Long-Term Open-Label Safety Study of Adjunctive Troriluzole in Subjects With Obsessive Compulsive Disorder",
+            "phase": "PHASE3",
+            "status": "TERMINATED",
+            "start_date": "2021-03-30",
+            "completion_date": "2026-02-13",
+            "country": "Italy, United Kingdom, United States, Spain, Canada, Netherlands",
+            "enrollment": 772,
+            "brief_summary": "The purpose of the study is to evaluate the long term safety and tolerability of troriluzole as adjunctive therapy in subjects with obsessive compulsive disorder (OCD).",
+            "eligibility_criteria": "Key Inclusion Criteria:\n\n* Eligible subjects are those subjects who complete study BHV4157-302 or BHV4157-303 and for whom the investigator believes open-label treatment offers an acceptable risk-benefit profile.\n* Determined by the investigator to be medically stable at the week 10 visit of BHV4157",
+            "endpoints": [
+              "To evaluate the long term safety and tolerability of troriluzole as adjunctive therapy in subjects with OCD who have had an inadequate response to SSRI, clomipramine, venlafaxine or desvenfaxine treatment"
+            ],
+            "sponsor": "Biohaven Pharmaceuticals, Inc.",
+            "url": "https://clinicaltrials.gov/study/NCT04708834"
+          }
+        ],
+        "pubmed_articles": [
+          {
+            "pmid": "35900217",
+            "title": "World Federation of Societies of Biological Psychiatry (WFSBP) guidelines for treatment of anxiety, obsessive-compulsive and posttraumatic stress disorders - Version 3. Part II: OCD and PTSD.",
+            "abstract": "This is the third version of the guideline of the World Federation of Societies of Biological Psychiatry (WFSBP) Task Force for the Pharmacological Treatment of Anxiety, Obsessive-Compulsive and Posttraumatic Stress Disorders which was published in 2002 and revised in 2008.",
+            "journal": "The world journal of biological psychiatry : the official journal of the World Federation of Societies of Biological Psychiatry",
+            "year": "2023",
+            "authors": [
+              "Bandelow Borwin",
+              "Allgulander Christer",
+              "Baldwin David S",
+              "Costa Daniel Lucas da Conceição",
+              "Denys Damiaan"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Adolescent",
+              "Child",
+              "Humans",
+              "Stress Disorders, Post-Traumatic",
+              "Obsessive-Compulsive Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Biological Psychiatry",
+              "Anxiety Disorders",
+              "Anxiety"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/35900217/"
+          },
+          {
+            "pmid": "29278206",
+            "title": "A Systematic Review of Evidence-based Treatment Strategies for Obsessive- compulsive Disorder Resistant to first-line Pharmacotherapy.",
+            "abstract": "Serotonin reuptake inhibitors (SRIs) and cognitive-behavioral psychotherapy (CBT) are first-line treatments for obsessive-compulsive disorder (OCD). However, a significant proportion of patients do not respond satisfactorily to first-choice treatments. Several options have been investigated for the management of resistant patients.",
+            "journal": "Current medicinal chemistry",
+            "year": "2018",
+            "authors": [
+              "Albert Umberto",
+              "Marazziti Donatella",
+              "Di Salvo Gabriele",
+              "Solia Francesca",
+              "Rosso Gianluca"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Antipsychotic Agents",
+              "Cognitive Behavioral Therapy",
+              "Drug Resistance",
+              "Drug Substitution",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Randomized Controlled Trials as Topic",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/29278206/"
+          },
+          {
+            "pmid": "36686097",
+            "title": "A Comprehensive Review on Postpartum Depression.",
+            "abstract": "One of the most common psychological effects following childbirth is postpartum depression. Postpartum depression (PPD) has a significant negative impact on the child's emotional, mental as well as intellectual development if left untreated, which can later have long-term complications. Later in life, it also results in the mother developing obsessive-compulsive disorder and anxiety. Many psychological risk factors are linked with PPD. The pathophysiology of the development of PPD is explained by different models like biological, psychological, integrated, and evolutionary models, which relate the result of the condition with particular conditions and factors. This article also explains the role of methyldopa as a medication used during pregnancy and the postpartum phase with the development of PPD. There are different mechanisms by which methyldopa causes depression. The large-scale screening of the condition can be done by Edinburgh Postnatal Depression Scale (EPDS). The diagnosis ca",
+            "journal": "Cureus",
+            "year": "2022",
+            "authors": [
+              "Suryawanshi Om",
+              "Pajai Sandhya"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36686097/"
+          },
+          {
+            "pmid": "32982805",
+            "title": "Antidepressants in Children and Adolescents: Meta-Review of Efficacy, Tolerability and Suicidality in Acute Treatment.",
+            "abstract": "Antidepressants are prescribed for the treatment of a number of psychiatric disorders in children and adolescents, however there is still controversy about whether they should be used in this population. This meta-review aimed to assess the effects of antidepressants for the acute treatment of attention-deficit/hyperactivity disorder (ADHD), anxiety disorders (ADs), autistic spectrum disorder (ASD), enuresis, major depressive disorder (MDD), obsessive-compulsive disorder (OCD), and posttraumatic stress disorder (PTSD) in children and adolescents. Efficacy was measured as response to treatment (either as mean overall change in symptoms or as a dichotomous outcome) and tolerability was measured as the proportion of patients discontinuing treatment due to adverse events. Suicidality was measured as suicidal ideation, behavior (including suicide attempts) and completed suicide. PubMed, EMBASE, and Web of Science were systematically searched (until 31 October 2019) for existing systematic r",
+            "journal": "Frontiers in psychiatry",
+            "year": "2020",
+            "authors": [
+              "Boaden Katharine",
+              "Tomlinson Anneka",
+              "Cortese Samuele",
+              "Cipriani Andrea"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32982805/"
+          },
+          {
+            "pmid": "15585743",
+            "title": "The role of venlafaxine in the treatment of obsessive-compulsive disorder.",
+            "abstract": "To evaluate the published literature regarding the use of venlafaxine in the treatment of obsessive-compulsive disorder (OCD).",
+            "journal": "The Annals of pharmacotherapy",
+            "year": "2005",
+            "authors": [
+              "Phelps Nicole J",
+              "Cates Marshall E"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Clinical Trials as Topic",
+              "Cyclohexanols",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15585743/"
+          },
+          {
+            "pmid": "28477500",
+            "title": "Obsessive-compulsive disorder has a reduced placebo (and antidepressant) response compared to other anxiety disorders: A meta-analysis.",
+            "abstract": "Previous studies have indicated that obsessive-compulsive disorder (OCD) might have a reduced placebo response compared to other anxiety-related disorders including generalized anxiety disorder, panic disorder, post-traumatic stress disorder, and social anxiety disorder. No previous analysis has directly compared antidepressant and placebo responses between OCD and these conditions.",
+            "journal": "Journal of affective disorders",
+            "year": "2017",
+            "authors": [
+              "Sugarman Michael A",
+              "Kirsch Irving",
+              "Huppert Jonathan D"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Meta-Analysis",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents",
+              "Anxiety Disorders",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Panic Disorder",
+              "Phobia, Social",
+              "Placebo Effect",
+              "Stress Disorders, Post-Traumatic",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/28477500/"
+          },
+          {
+            "pmid": "12755657",
+            "title": "Venlafaxine in treatment-resistant obsessive-compulsive disorder.",
+            "abstract": "While selective serotonin reuptake inhibitors (SSRIs) are the first-line treatment of obsessive-compulsive disorder (OCD), approximately 40% of patients fail to respond to SSRIs. Venlafaxine is a serotonin-norepinephrine reuptake inhibitor (SNRI) that might be effective in the treatment of OCD, even among those who have failed previous SSRI trials.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2003",
+            "authors": [
+              "Hollander Eric",
+              "Friedberg Jennifer",
+              "Wasserman Stacey",
+              "Allen Andrea",
+              "Birnbaum Melissa"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Child",
+              "Comorbidity",
+              "Cyclohexanols",
+              "Delayed-Action Preparations",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12755657/"
+          },
+          {
+            "pmid": "25093787",
+            "title": "Venlafaxine in treatment resistant obsessive-compulsive disorder.",
+            "abstract": "",
+            "journal": "The Journal of neuropsychiatry and clinical neurosciences",
+            "year": "2014",
+            "authors": [
+              "Narayanaswamy Janardhanan C",
+              "Viswanath Biju",
+              "Cherian Anish V",
+              "Math Suresh Bada",
+              "Reddy Y C Janardhan"
+            ],
+            "pub_types": [
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Cyclohexanols",
+              "Female",
+              "Humans",
+              "Male",
+              "Obsessive-Compulsive Disorder",
+              "Psychiatric Status Rating Scales",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/25093787/"
+          },
+          {
+            "pmid": "32746423",
+            "title": "Exposure and Response Prevention for Obsessive-Compulsive Disorder: A Case Study of a Veteran With Violent Intrusive Thoughts.",
+            "abstract": "Exposure and Response Prevention (ERP) is the gold standard treatment for obsessive-compulsive disorder (OCD); however, few studies have evaluated the use of ERP with veterans. This case study describes ERP and medication treatment of a veteran who experienced violent sexual thoughts, countered by compulsions of focusing on the distressing thought to ensure a negative emotion or reversing the thought to a nonviolent thought or image. The veteran had previously received supportive psychotherapy and medication for depression, anxiety, and sleep difficulties, with poor treatment adherence. Upon reengagement in treatment, the therapist provided ERP in 34 sessions over 14 months, with 15 sessions via video telehealth to home. The patient used the OCD Workbook as a resource throughout treatment. The patient developed a hierarchy of target obsessions and rituals with associated subjective units of distress; completed exposures, beginning with lower-level items; and wrote imaginal scripts. He ",
+            "journal": "Journal of cognitive psychotherapy",
+            "year": "2019",
+            "authors": [
+              "Siffert Veronica",
+              "Riahi Colette",
+              "Stanley Melinda A",
+              "Fletcher Terri L"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/32746423/"
+          },
+          {
+            "pmid": "8660133",
+            "title": "Venlafaxine in obsessive-compulsive disorder.",
+            "abstract": "",
+            "journal": "Archives of general psychiatry",
+            "year": "1996",
+            "authors": [
+              "Yaryura-Tobias J A",
+              "Neziroglu F A"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comment",
+              "Controlled Clinical Trial",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adrenergic Uptake Inhibitors",
+              "Cyclohexanols",
+              "Double-Blind Method",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Placebos",
+              "Psychiatric Status Rating Scales",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Treatment Outcome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8660133/"
+          },
+          {
+            "pmid": "24845944",
+            "title": "Efficacy of antidepressant medications in children and adolescents with non-obsessive-compulsive disorder anxiety disorders: a systematic assessment.",
+            "abstract": "Anxiety disorders are relatively common psychiatric illnesses in children and adolescents. In young people, such disorders are likely to show severe outcomes and adversely impact on multiple aspects of personality and social integration.",
+            "journal": "Expert opinion on drug safety",
+            "year": "2014",
+            "authors": [
+              "Gentile Salvatore"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Age Factors",
+              "Antidepressive Agents",
+              "Anxiety Disorders",
+              "Child",
+              "Humans",
+              "Phobic Disorders",
+              "Treatment Outcome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/24845944/"
+          },
+          {
+            "pmid": "30516575",
+            "title": "Effectiveness of Venlafaxine in Selective Serotonin Reuptake Inhibitor-Resistant Obsessive-Compulsive Disorder: Experience From a Specialty Clinic in India.",
+            "abstract": "Despite its favorable pharmacological profile and efficacy in major depression and anxiety disorders, evidence for the use of venlafaxine in obsessive-compulsive disorder (OCD) is limited. We sought to examine the real-world effectiveness of venlafaxine from a large database of an OCD clinic in India.",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2019",
+            "authors": [
+              "Balachander Srinivas",
+              "Kodancha Prabhath Gujjadi",
+              "Arumugham Shyam Sundar",
+              "Sekharan Jaisoorya T",
+              "Narayanaswamy Janardhanan C"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Drug Resistance",
+              "Female",
+              "Humans",
+              "India",
+              "Male",
+              "Obsessive-Compulsive Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Treatment Outcome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/30516575/"
+          },
+          {
+            "pmid": "14624187",
+            "title": "A double blind comparison of venlafaxine and paroxetine in obsessive-compulsive disorder.",
+            "abstract": "While the usefulness of clomipramine and selective serotonin reuptake inhibitors (SSRIs) in obsessive-compulsive disorder (OCD) has been established, the efficacy of serotonin-norepinephrine reuptake inhibitors remains to be determined. This report describes the first randomized double-blind comparison study of an SNRI in patients with obsessive-compulsive disorder. The current study compares the efficacy and tolerability of venlafaxine with paroxetine. One hundred and fifty patients with primary OCD according to DSM-IV criteria were randomly assigned in a 12-week double-blind trial to receive dosages titrated upward to 300 mg/d of venlafaxine (n = 75) or 60 mg/d of paroxetine (n = 75). Primary efficacy was assessed by the change from baseline on the Yale-Brown obsessive-compulsive scale (Y-BOCS). Other assessments throughout the trial included the Hamilton depression rating scale, and the Hamilton anxiety rating scale. An intent-to-treat, last-observation-carried-forward analysis demo",
+            "journal": "Journal of clinical psychopharmacology",
+            "year": "2003",
+            "authors": [
+              "Denys Damiaan",
+              "van der Wee Nic",
+              "van Megen Harold J G M",
+              "Westenberg Herman G M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Aged",
+              "Cyclohexanols",
+              "Desvenlafaxine Succinate",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male",
+              "Middle Aged"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14624187/"
+          },
+          {
+            "pmid": "8599411",
+            "title": "Treatment of obsessive-compulsive disorder with venlafaxine.",
+            "abstract": "",
+            "journal": "The American journal of psychiatry",
+            "year": "1996",
+            "authors": [
+              "Grossman R",
+              "Hollander E"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cyclohexanols",
+              "Drug Administration Schedule",
+              "Humans",
+              "Male",
+              "Obsessive-Compulsive Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Treatment Outcome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/8599411/"
+          },
+          {
+            "pmid": "14744166",
+            "title": "A double-blind switch study of paroxetine and venlafaxine in obsessive-compulsive disorder.",
+            "abstract": "The treatment guidelines for obsessive-compulsive disorder (OCD) propose to switch serotonin reuptake inhibitors (SRIs) in case of refractoriness. However, no controlled research has been published yet that prospectively examined the effects of changing SRIs. This article describes the first double-blind switch study of 2 SRIs in patients with OCD.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2004",
+            "authors": [
+              "Denys Damiaan",
+              "van Megen Harold J G M",
+              "van der Wee Nic",
+              "Westenberg Herman G M"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Administration, Oral",
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Cross-Over Studies",
+              "Cyclohexanols",
+              "Double-Blind Method",
+              "Drug Resistance",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14744166/"
+          },
+          {
+            "pmid": "12444814",
+            "title": "Venlafaxine versus clomipramine in the treatment of obsessive-compulsive disorder: a preliminary single-blind, 12-week, controlled study.",
+            "abstract": "The objective of this study was to investigate, in a single-blind manner over a period of 12 weeks, the efficacy and tolerability of venlafaxine versus clomipramine in the treatment of obsessive-compulsive disorder (OCD).",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2002",
+            "authors": [
+              "Albert Umberto",
+              "Aguglia Eugenio",
+              "Maina Giuseppe",
+              "Bogetto Filippo"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Acute Disease",
+              "Adult",
+              "Ambulatory Care",
+              "Clomipramine",
+              "Cyclohexanols",
+              "Dose-Response Relationship, Drug",
+              "Drug Administration Schedule",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/12444814/"
+          },
+          {
+            "pmid": "34700207",
+            "title": "Predictors for 12-month long-term outcome in patients with obsessive-compulsive disorder: The influence of duration of untreated illness and age at onset.",
+            "abstract": "It remains unknown whether the duration of untreated illness (DUI) may play a critical role in clinical improvement of patients with obsessive-compulsive disorder (OCD). Using a relatively large sample of subjects with OCD, this study investigated the potential impact of the DUI on patients' clinical course and long-term treatment response.",
+            "journal": "Journal of psychiatric research",
+            "year": "2021",
+            "authors": [
+              "Zheng Huirong",
+              "Luo Guowei",
+              "Yao Siyu",
+              "Wang Shibin",
+              "Guo Guangquan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Age of Onset",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Time Factors",
+              "Treatment Outcome",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/34700207/"
+          },
+          {
+            "pmid": "15461541",
+            "title": "Pharmacological augmentation strategies for treatment-resistant obsessive-compulsive disorder.",
+            "abstract": "First-line treatment for obsessive-compulsive disorder (OCD) has been well-established for over a decade, although newer medications, such as citalopram and venlafaxine, have emerged to take a place among the older, more established serotonin re-uptake inhibitors (SRIs). Unfortunately, as many as 50% of all patients with OCD will have symptoms refractory to a single medication treatment trial, and a smaller percentage will remain refractory after two or more trials. The optimal dosage and duration for first-line trials have been established. Many strategies exist for patients who do not respond to first- or second-line medication trials, including behavioural therapy, switching to newer SRIs, and augmentation with additional medications. This review will focus on medication strategies for augmenting SRI treatment response in OCD treatment, including neuroleptic and serotonergic agents. Future investigations should include more controlled studies and investigate medications that are les",
+            "journal": "Expert opinion on pharmacotherapy",
+            "year": "2004",
+            "authors": [
+              "Walsh Kelda H",
+              "McDougle Christopher J"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents",
+              "Antidepressive Agents, Second-Generation",
+              "Antipsychotic Agents",
+              "Combined Modality Therapy",
+              "Drug Resistance",
+              "Drug Therapy, Combination",
+              "Humans",
+              "Obsessive-Compulsive Disorder",
+              "Psychotherapy",
+              "Selective Serotonin Reuptake Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15461541/"
+          },
+          {
+            "pmid": "16249058",
+            "title": "Effects of paroxetine and venlafaxine on immune parameters in patients with obsessive compulsive disorder.",
+            "abstract": "Obsessive-compulsive disorder (OCD) has been associated with an altered activity of the immune system. This study was carried out to investigate whether treatment with paroxetine and venlafaxine modifies the immune function in OCD and whether this modification is related to treatment outcome.",
+            "journal": "Psychoneuroendocrinology",
+            "year": "2006",
+            "authors": [
+              "Denys Damiaan",
+              "Fluitman Sjoerd",
+              "Kavelaars Annemieke",
+              "Heijnen Cobi",
+              "Westenberg Herman G M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Randomized Controlled Trial"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Cyclohexanols",
+              "Cytokines",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Killer Cells, Natural",
+              "Male",
+              "Middle Aged",
+              "Obsessive-Compulsive Disorder"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16249058/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "obsessive-compulsive disorder",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20obsessive-compulsive%20disorder"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      },
+      {
+        "disease_name": "agoraphobia",
+        "txgnn_score": 0.8524580001831055,
+        "txgnn_rank": 14546,
+        "clinical_trials": [],
+        "pubmed_articles": [
+          {
+            "pmid": "36573969",
+            "title": "Anxiety Disorders: A Review.",
+            "abstract": "Anxiety disorders have a lifetime prevalence of approximately 34% in the US, are often chronic, and significantly impair quality of life and functioning.",
+            "journal": "JAMA",
+            "year": "2022",
+            "authors": [
+              "Szuhany Kristin L",
+              "Simon Naomi M"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, N.I.H., Extramural",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Anxiety Disorders",
+              "Quality of Life",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Serotonin and Noradrenaline Reuptake Inhibitors",
+              "Sertraline",
+              "Venlafaxine Hydrochloride",
+              "United States",
+              "Cognitive Behavioral Therapy"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/36573969/"
+          },
+          {
+            "pmid": "38014714",
+            "title": "Pharmacological treatments in panic disorder in adults: a network meta-analysis.",
+            "abstract": "A panic attack is a discrete period of fear or anxiety that has a rapid onset and reaches a peak within 10 minutes. The main symptoms involve bodily systems, such as racing heart, chest pain, sweating, shaking, dizziness, flushing, churning stomach, faintness and breathlessness. Other recognised panic attack symptoms involve fearful cognitions, such as the fear of collapse, going mad or dying, and derealisation (the sensation that the world is unreal). Panic disorder is common in the general population with a prevalence of 1% to 4%. The treatment of panic disorder includes psychological and pharmacological interventions, including antidepressants and benzodiazepines.",
+            "journal": "The Cochrane database of systematic reviews",
+            "year": "2023",
+            "authors": [
+              "Guaiana Giuseppe",
+              "Meader Nicholas",
+              "Barbui Corrado",
+              "Davies Simon Jc",
+              "Furukawa Toshi A"
+            ],
+            "pub_types": [
+              "Systematic Review",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Network Meta-Analysis"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Humans",
+              "Panic Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Paroxetine",
+              "Fluoxetine",
+              "Venlafaxine Hydrochloride",
+              "Serotonin and Noradrenaline Reuptake Inhibitors",
+              "Alprazolam",
+              "Clomipramine"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38014714/"
+          },
+          {
+            "pmid": "15448584",
+            "title": "Treatment-resistant panic disorder.",
+            "abstract": "A substantial number of patients with panic disorder and agoraphobia may remain symptomatic after standard treatment (including selective serotonin reuptake inhibitors, tricyclic antidepressants, benzodiazepines, or irreversible monamine oxidase inhibitors). In this review, recommendations for the treatment of patients with panic disorder and agoraphobia who do not respond to these drugs are provided. Nonresponse to drug treatment could be defined as a failure to achieve a 50% reduction on a standard rating scale after a minimum of 6 weeks of treatment in adequate dose. When initial treatments have failed, the medication should be changed to other standard treatments. In further attempts at treatment, drugs should be used that have shown promising results in preliminary studies, such as venlafaxine. Combination treatments may be used, such as the combination of an selective serotonin reuptake inhibitor and a benzodiazepine. Psychological treatments such as cognitive-behavioral therapy ",
+            "journal": "CNS spectrums",
+            "year": "2004",
+            "authors": [
+              "Bandelow Borwin",
+              "Rüther Eckart"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Antidepressive Agents, Tricyclic",
+              "Benzodiazepines",
+              "Brain",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Drug Administration Schedule",
+              "Drug Resistance",
+              "Exercise",
+              "Humans",
+              "Monoamine Oxidase Inhibitors"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/15448584/"
+          },
+          {
+            "pmid": "38299123",
+            "title": "Panic disorder in epilepsy.",
+            "abstract": "A 51-year-old woman showed structural epilepsy following an atypical, nontraumatic intracranial hemorrhage in the right frontal area. Despite successful seizure control with lamotrigine, she developed severe morning anxiety and panic attacks, leading to agoraphobia, social withdrawal, and psychogenic nonepileptic seizures. Neuropsychiatric and psychological assessments confirmed an anxiety disorder with no significant symptoms of depression. The patient received various psychopharmacological treatments with limited success. This case report illustrates that managing panic disorder in patients with structural epilepsy requires a comprehensive treatment approach that includes pharmacotherapy and psychotherapy. Differential diagnosis and accurate treatment are crucial because of the symptom overlap between panic attacks and peri-ictal fear. Screenings instruments such as the Panic and Agoraphobia Scale (PAS) can aid in assessing anxiety-related symptoms. First-line pharmacotherapy with se",
+            "journal": "Epilepsy & behavior reports",
+            "year": "2024",
+            "authors": [
+              "Redecker Tobias M",
+              "Jeung-Maarse Haang",
+              "Brandt Christian"
+            ],
+            "pub_types": [
+              "Journal Article"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/38299123/"
+          },
+          {
+            "pmid": "17696574",
+            "title": "Diagnosis and treatment of agoraphobia with panic disorder.",
+            "abstract": "Agoraphobia with panic disorder is a phobic-anxious syndrome where patients avoid situations or places in which they fear being embarrassed, or being unable to escape or get help if a panic attack occurs. During the last half-century, agoraphobia has been thought of as being closely linked to the recurring panic attack syndrome, so much so that in most cases it appears to be the typical development or complication of panic disorder. Despite the high prevalence of agoraphobia with panic disorder in patients in primary-care settings, the condition is frequently under-recognised and under-treated by medical providers. Antidepressants have been demonstrated to be effective in preventing panic attacks, and in improving anticipatory anxiety and avoidance behaviour. These drugs are also effective in the treatment of the frequently coexisting depressive symptomatology. Among antidepressant agents, SSRIs are generally well tolerated and effective for both anxious and depressive symptomatology, ",
+            "journal": "CNS drugs",
+            "year": "2007",
+            "authors": [
+              "Perugi Giulio",
+              "Frare Franco",
+              "Toni Cristina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Animals",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Humans",
+              "Panic Disorder",
+              "Psychiatric Status Rating Scales"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17696574/"
+          },
+          {
+            "pmid": "40946318",
+            "title": "Integrative Systematic Review on Pharmacological, Psychotherapeutic, and Neurostimulatory Treatment Options in Treatment-Resistant Anxiety Disorders.",
+            "abstract": "Treatment resistance in anxiety disorders (TR-ADs) constitutes a major clinical challenge conferring a considerable burden regarding quality of life and societal health costs.",
+            "journal": "Psychotherapy and psychosomatics",
+            "year": "2025",
+            "authors": [
+              "Schiele Miriam A",
+              "Fagan Harry A",
+              "Baldwin David S",
+              "Domschke Katharina"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/40946318/"
+          },
+          {
+            "pmid": "16765030",
+            "title": "Pregabalin: From molecule to medicine.",
+            "abstract": "Pregabalin, a compound with a novel mechanism of action (MOA), has demonstrated efficacy as an adjunctive treatment for epilepsy and in several neuropathic pain models. Multiple generalized anxiety disorder (GAD) clinical trials have shown that pregabalin has efficacy similar to the benzodiazepines and venlafaxine. Onset of anxiolytic effect was observed as early as Week 1 of treatment, and efficacy was seen in treating both psychic and somatic anxiety symptoms. Pregabalin binds potently and selectively to the alpha-2-delta subunit of \"hyper-excited\" voltage-gated calcium channels (VGCCs). The binding of pregabalin to VGCCs changes their conformation, reducing calcium influx at nerve terminals. Pregabalin only modulates the release of excitatory neurotransmitters in \"hyper-excited\" neurons, restoring them to normal physiological state. This newly defined MOA is believed to confer on pregabalin its anxiolytic, analgesic, and anticonvulsant properties. Thus, pregabalin may offer physicia",
+            "journal": "European neuropsychopharmacology : the journal of the European College of Neuropsychopharmacology",
+            "year": "2006",
+            "authors": [
+              "Kavoussi Richard"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Animals",
+              "Anti-Anxiety Agents",
+              "Clinical Trials as Topic",
+              "Humans",
+              "Pain",
+              "Pregabalin",
+              "gamma-Aminobutyric Acid"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16765030/"
+          },
+          {
+            "pmid": "17589833",
+            "title": "A randomized controlled trial of venlafaxine ER and paroxetine in the treatment of outpatients with panic disorder.",
+            "abstract": "Few randomized, placebo-controlled trials have evaluated the comparative efficacy and tolerability of more than one pharmacological agent for panic disorder.",
+            "journal": "Psychopharmacology",
+            "year": "2007",
+            "authors": [
+              "Pollack Mark",
+              "Mangano Richard",
+              "Entsuah Richard",
+              "Tzanis Evan",
+              "Simon Naomi M"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Abortion, Spontaneous",
+              "Administration, Oral",
+              "Adult",
+              "Affective Disorders, Psychotic",
+              "Cyclohexanols",
+              "Delayed-Action Preparations",
+              "Diagnostic and Statistical Manual of Mental Disorders",
+              "Diarrhea",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/17589833/"
+          },
+          {
+            "pmid": "18365789",
+            "title": "[Agoraphobia: combined treatment and virtual reality. Preliminary results].",
+            "abstract": "Several validation studies have identified the use of certain psychodrugs, cognitive-behavioral therapy (CBT) and combined treatment as effective procedures for the treatment of agoraphobia. Recent findings suggest that agoraphobia can also be treated with virtual reality techniques (VRET) as an alternative exposure technique to virtual reality stimuli.",
+            "journal": "Actas espanolas de psiquiatria",
+            "year": "2008",
+            "authors": [
+              "Pitti Ct",
+              "Peñate W",
+              "de la Fuente J",
+              "Bethencourt Jm",
+              "Acosta L"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Cyclohexanols",
+              "Female",
+              "Humans",
+              "Male",
+              "Paroxetine",
+              "Therapy, Computer-Assisted"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18365789/"
+          },
+          {
+            "pmid": "21740948",
+            "title": "Venlafaxine in somatopsychic and autopsychic depersonalization.",
+            "abstract": "",
+            "journal": "Progress in neuro-psychopharmacology & biological psychiatry",
+            "year": "2011",
+            "authors": [
+              "Preve Matteo",
+              "Mula Marco",
+              "Cassano Giovanni B",
+              "Pini Stefano"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Letter"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Cyclohexanols",
+              "Depersonalization",
+              "Depressive Disorder",
+              "Humans",
+              "Male",
+              "Obsessive Behavior",
+              "Panic Disorder",
+              "Paroxetine",
+              "Retreatment"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/21740948/"
+          },
+          {
+            "pmid": "11430175",
+            "title": "Depression and anxiety disorders.",
+            "abstract": "Depressive and anxiety disorders are common problems facing obstetrician-gynecologists. Although psychiatric disorders are equally common in men and women, women are at least twice as likely to present with depressive disorders and most anxiety disorders. The depressive disorders include major depression, dysthymia, seasonal affective disorder, and premenstrual dysphoric disorder. The anxiety disorders are panic disorder (with and without agoraphobia), generalized anxiety disorder, social phobia, obsessive compulsive disorder, and PTSD. One must diagnose and manage depressive and anxiety disorders during pregnancy, the purpureum, and while breastfeeding. General treatment principles include assessing suicide risk, psychotherapy, pharmacologic treatment, and an appropriate medical work-up for depressive and anxiety disorders. The SSRIs are the first-line treatment for most depressive and anxiety disorders because of data supporting their efficacy, the minimal need for dosage titration, ",
+            "journal": "Obstetrics and gynecology clinics of North America",
+            "year": "2001",
+            "authors": [
+              "Brown C S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Anxiety Disorders",
+              "Depression",
+              "Depression, Postpartum",
+              "Depressive Disorder",
+              "Female",
+              "Humans",
+              "Panic Disorder",
+              "Pregnancy",
+              "Premenstrual Syndrome"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11430175/"
+          },
+          {
+            "pmid": "16894619",
+            "title": "A double-blind study of the efficacy of venlafaxine extended-release, paroxetine, and placebo in the treatment of panic disorder.",
+            "abstract": "To date, no large-scale, controlled trial comparing a serotonin-norepinephrine reuptake inhibitor and selective serotonin reuptake inhibitor with placebo for the treatment of panic disorder has been reported. This double-blind study compares the efficacy of venlafaxine extended-release (ER) and paroxetine with placebo. A total of 664 nondepressed adult outpatients who met DSM-IV criteria for panic disorder (with or without agoraphobia) were randomly assigned to 12 weeks of treatment with placebo or fixed-dose venlafaxine ER (75 mg/day or 150 mg/day), or paroxetine 40 mg/day. The primary measure was the percentage of patients free from full-symptom panic attacks, assessed with the Panic and Anticipatory Anxiety Scale (PAAS). Secondary measures included the Panic Disorder Severity Scale, Clinical Global Impressions--Severity (CGI-S) and--Improvement (CGI-I) scales; response (CGI-I rating of very much improved or much improved), remission (CGI-S rating of not at all ill or borderline ill ",
+            "journal": "Depression and anxiety",
+            "year": "2007",
+            "authors": [
+              "Pollack Mark H",
+              "Lepola Ulla",
+              "Koponen Hannu",
+              "Simon Naomi M",
+              "Worthington John J"
+            ],
+            "pub_types": [
+              "Comparative Study",
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Delayed-Action Preparations",
+              "Dose-Response Relationship, Drug",
+              "Double-Blind Method",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16894619/"
+          },
+          {
+            "pmid": "16953656",
+            "title": "Escitalopram: a review of its use in the management of anxiety disorders.",
+            "abstract": "Escitalopram (Cipralex, Lexapro, Seroplex, Sipralexa), the therapeutically active S-enantiomer of racemic citalopram (RS-citalopram), is a potent and highly selective serotonin reuptake inhibitor. It is effective and generally well tolerated in the treatment of moderate to severe generalised anxiety disorder (GAD) or social anxiety disorder (SAD), panic disorder (with or without agoraphobia) as well as obsessive-compulsive disorder (OCD). Moreover, escitalopram is at least as effective as paroxetine for the treatment of GAD, SAD or OCD and appears to achieve a more rapid response than racemic citalopram in the management of panic disorder. Generally, it has a more favourable tolerability profile than paroxetine in terms of fewer discontinuation symptoms. In addition, a favourable pharmacokinetic profile permits once-daily administration of the drug. Additional comparative studies are required to definitively position escitalopram with respect to other SSRIs and venlafaxine. Nevertheles",
+            "journal": "CNS drugs",
+            "year": "2006",
+            "authors": [
+              "Dhillon Sohita",
+              "Scott Lesley J",
+              "Plosker Greg L"
+            ],
+            "pub_types": [
+              "Evaluation Study",
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Animals",
+              "Antidepressive Agents, Second-Generation",
+              "Anxiety Disorders",
+              "Citalopram",
+              "Humans",
+              "MEDLINE"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16953656/"
+          },
+          {
+            "pmid": "11460893",
+            "title": "Separation anxiety disorder in children and adolescents: epidemiology, diagnosis and management.",
+            "abstract": "This paper provides an overview of the phenomenology, longitudinal outcome data, assessment and management of separation anxiety disorder (SAD) in children and adolescents. SAD is qualitatively different from early worries, and is characterised by an abnormal reactivity to real or imagined separation from attachment figures, which significantly interferes with daily activities and developmental tasks. Different epidemiological studies indicate a prevalence of 4 to 5% in children and adolescents. In contrast to other anxiety disorders, 50 to 75% of children with SAD come from homes of low socioeconomic status. The severity of symptomatology ranges from anticipatory uneasiness to full-blown anxiety about separation, but children are usually brought to the clinician when SAD results in school refusal or somatic symptoms. School refusal is reported in about 75% of children with SAD, and SAD is reported to occur in up to 80% of children with school refusal. Longitudinal studies have suggest",
+            "journal": "CNS drugs",
+            "year": "2001",
+            "authors": [
+              "Masi G",
+              "Mucci M",
+              "Millepiedi S"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Antidepressive Agents",
+              "Anxiety, Separation",
+              "Benzodiazepines",
+              "Child",
+              "Child, Preschool",
+              "Cognitive Behavioral Therapy",
+              "Female",
+              "Humans",
+              "Male"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/11460893/"
+          },
+          {
+            "pmid": "14566202",
+            "title": "Paroxetine treatment of generalized anxiety disorder.",
+            "abstract": "Generalized anxiety disorder (GAD) is a prevalent and disabling anxiety disorder, conservatively believed to affect at least 5% of the general population. Cardinal symptoms of GAD include chronic and uncontrollable worry, anxiety, and tension, which result in difficulty fulfilling social, professional, and family roles. Treatment options include benzodiazepines, tricyclic antidepressants (TCAs), selective serotonin reuptake inhibitors (SSRIs), and the serotonin-norepinephrine reuptake inhibitor (SNRI) venlafaxine XR. Because of the high comorbidity of GAD with other psychiatric disorders, pharmacologic therapy should possess both anxiolytic and antidepressive properties for best outcomes. The SSRIs are a good treatment option, and paroxetine is the best studied SSRI for GAD and the only SSRI to date approved by the US Food and Drug Administration for this indication. Results of randomized, controlled studies of paroxetine have demonstrated its efficacy in the short-term treatment of GA",
+            "journal": "Psychopharmacology bulletin",
+            "year": "2003",
+            "authors": [
+              "Sheehan David V",
+              "Mao C Gloria"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't",
+              "Review"
+            ],
+            "mesh_terms": [
+              "Agoraphobia",
+              "Antidepressive Agents, Second-Generation",
+              "Humans",
+              "Paroxetine",
+              "Secondary Prevention"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/14566202/"
+          },
+          {
+            "pmid": "16408394",
+            "title": "[Treatment of anxiety syndrome. A systematic literature review. Summary and conclusions by the SBU].",
+            "abstract": "A report by the Swedish Council on Technology Assessment in Health Care (SBU) has reviewed, classified and evaluated the scientific literature on treatment of panic syndrome, specific phobias, social phobia, obsessive-compulsive syndrome (OCD), generalized anxiety syndrome (GAD) and post-traumatic stress disorder (PTSD). The review included treatment of children, adolescents and adults. The report concludes that there is effective treatment available for all anxiety syndromes. However in general, the effect is often moderate and symptoms reappear when the treatment period is discontinued. For adults, scientific evidence supports the use of paroxetine and sertraline for all syndromes except specific phobias. For the other SSRI's there is also evidence for the use of fluoxetin in OCD and PTSD, for fluvoxamine in social phobia and OCD and for escitalopram in social phobia. Other antidepressant drugs with a strong scientific support is venlafaxin in social phobia and GAD, imipramin in pani",
+            "journal": "Lakartidningen",
+            "year": "2005",
+            "authors": [
+              "von Knorring Lars",
+              "Thelander Sten",
+              "Pettersson Agneta"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Systematic Review"
+            ],
+            "mesh_terms": [
+              "Adolescent",
+              "Adult",
+              "Anti-Anxiety Agents",
+              "Antidepressive Agents, Second-Generation",
+              "Anxiety Disorders",
+              "Evidence-Based Medicine",
+              "Humans",
+              "Psychotherapy",
+              "Risk Factors",
+              "Sweden"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/16408394/"
+          },
+          {
+            "pmid": "18330461",
+            "title": "Combined antidepressants and CBT for panic disorder with agoraphobia.",
+            "abstract": "",
+            "journal": "Journal of psychiatry & neuroscience : JPN",
+            "year": "2008",
+            "authors": [
+              "Coupland Nicholas J"
+            ],
+            "pub_types": [
+              "Case Reports",
+              "Journal Article"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Agoraphobia",
+              "Antidepressive Agents",
+              "Cognitive Behavioral Therapy",
+              "Combined Modality Therapy",
+              "Cyclohexanols",
+              "Female",
+              "Humans",
+              "Panic Disorder",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/18330461/"
+          },
+          {
+            "pmid": "9641002",
+            "title": "Low-dose venlafaxine treatment in panic disorder.",
+            "abstract": "Venlafaxine, a structurally novel antidepressant that combines mechanisms of action of both the cyclic antidepressants and SSRIs, may be effective in the treatment of panic disorder. Thirteen patients with DSM-IV panic disorder with or without agoraphobia participated in an open-label, fixed-flexible dose treatment study with venlafaxine. All patients who completed the 10-week trial exhibited statistically significant decreases in scores on anxiety symptoms as well as complete cessation of panic attacks at an effective mean daily dose of 47 mg per day. Venlafaxine was well tolerated in all completers. Venlafaxine may be an effective antipanic agent, even at lower than typical antidepressant dosages.",
+            "journal": "Psychopharmacology bulletin",
+            "year": "1998",
+            "authors": [
+              "Papp L A",
+              "Sinha S S",
+              "Martinez J M",
+              "Coplan J D",
+              "Amchin J"
+            ],
+            "pub_types": [
+              "Clinical Trial",
+              "Journal Article",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Adult",
+              "Antidepressive Agents, Second-Generation",
+              "Cyclohexanols",
+              "Dose-Response Relationship, Drug",
+              "Female",
+              "Humans",
+              "Male",
+              "Panic Disorder",
+              "Psychiatric Status Rating Scales",
+              "Venlafaxine Hydrochloride"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/9641002/"
+          },
+          {
+            "pmid": "19358784",
+            "title": "A double-blind, placebo-controlled, parallel-group, flexible-dose study of venlafaxine extended release capsules in adult outpatients with panic disorder.",
+            "abstract": "To evaluate the efficacy, safety, and tolerability of venlafaxine extended release (ER) in short-term treatment of panic disorder.",
+            "journal": "The Journal of clinical psychiatry",
+            "year": "2009",
+            "authors": [
+              "Liebowitz Michael R",
+              "Asnis Gregory",
+              "Mangano Richard",
+              "Tzanis Evan"
+            ],
+            "pub_types": [
+              "Journal Article",
+              "Multicenter Study",
+              "Randomized Controlled Trial",
+              "Research Support, Non-U.S. Gov't"
+            ],
+            "mesh_terms": [
+              "Ambulatory Care",
+              "Cyclohexanols",
+              "Delayed-Action Preparations",
+              "Double-Blind Method",
+              "Drug Administration Schedule",
+              "Humans",
+              "Panic Disorder",
+              "Selective Serotonin Reuptake Inhibitors",
+              "Severity of Illness Index",
+              "Surveys and Questionnaires"
+            ],
+            "url": "https://pubmed.ncbi.nlm.nih.gov/19358784/"
+          }
+        ],
+        "ictrp_trials": [],
+        "tctr_trials": {
+          "drug": "Venlafaxine",
+          "disease": "agoraphobia",
+          "trials": [],
+          "count": 0,
+          "source": "Thai Clinical Trial Registry",
+          "search_url": "https://www.thaiclinicaltrials.org/show/search?q=Venlafaxine%20agoraphobia"
+        },
+        "evidence_level": null,
+        "mechanistic_link": null,
+        "similarity_to_original": null
+      }
+    ],
+    "is_novel_check_done": true
+  },
+  "thaifda": {
+    "drug": "Venlafaxine",
+    "disease": "",
+    "registrations": [],
+    "count": 0,
+    "sources": [
+      "NDI",
+      "Thai FDA Pertento"
+    ]
+  },
+  "safety": {
+    "label_sources": [],
+    "key_warnings": [],
+    "ddi": []
+  },
+  "drugbank": {
+    "found": true,
+    "drugbank_id": "DB00285",
+    "name": "Venlafaxine",
+    "mechanism_of_action": null,
+    "description": null,
+    "source": "vocab_only"
+  },
+  "collection_log": [
+    {
+      "source": "thaifda",
+      "query_params": {
+        "drug": "Venlafaxine"
+      },
+      "queried_at": "2026-03-24T16:53:16.930355",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ddi",
+      "query_params": {
+        "drug": "Venlafaxine"
+      },
+      "queried_at": "2026-03-24T16:53:16.934244",
+      "status": "not_found",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "drugbank",
+      "query_params": {
+        "drug": "Venlafaxine"
+      },
+      "queried_at": "2026-03-24T16:53:21.882114",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:53:22.330367",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:53:27.284323",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:53:27.809238",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "Ohdo syndrome and variants"
+      },
+      "queried_at": "2026-03-24T16:53:28.729797",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:53:29.181104",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:53:32.580740",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:53:32.760267",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "ligneous conjunctivitis"
+      },
+      "queried_at": "2026-03-24T16:53:33.630045",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:53:35.297811",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:53:38.649584",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:53:39.214955",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "blepharophimosis - intellectual disability syndrome, Ohdo type"
+      },
+      "queried_at": "2026-03-24T16:53:40.158023",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:53:40.730259",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:53:47.980448",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:53:48.533598",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "benign paroxysmal torticollis of infancy"
+      },
+      "queried_at": "2026-03-24T16:53:49.430730",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:53:51.635332",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:53:58.759371",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:54:03.539666",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "dysthymic disorder"
+      },
+      "queried_at": "2026-03-24T16:54:10.287491",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:54:11.895371",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:54:15.230290",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:54:15.912218",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "melancholia"
+      },
+      "queried_at": "2026-03-24T16:54:18.865811",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:54:19.353663",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:54:22.746181",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:54:23.257864",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "childhood apraxia of speech"
+      },
+      "queried_at": "2026-03-24T16:54:24.179794",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:54:24.590608",
+      "status": "success",
+      "result_count": 1,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:54:28.742631",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:54:29.247167",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "neurotic depression"
+      },
+      "queried_at": "2026-03-24T16:54:32.005629",
+      "status": "success",
+      "result_count": 20,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:54:32.693275",
+      "status": "success",
+      "result_count": 8,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:54:37.185018",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:54:37.733096",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "obsessive-compulsive disorder"
+      },
+      "queried_at": "2026-03-24T16:54:40.548296",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    },
+    {
+      "source": "clinicaltrials",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:54:42.429995",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "ictrp",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:54:45.782388",
+      "status": "success",
+      "result_count": 0,
+      "error_message": null
+    },
+    {
+      "source": "tctr",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:54:46.685279",
+      "status": "success",
+      "result_count": 6,
+      "error_message": null
+    },
+    {
+      "source": "pubmed",
+      "query_params": {
+        "drug": "Venlafaxine",
+        "disease": "agoraphobia"
+      },
+      "queried_at": "2026-03-24T16:54:50.559795",
+      "status": "success",
+      "result_count": 19,
+      "error_message": null
+    }
+  ],
+  "metadata": {
+    "top_n": 10,
+    "min_score": 0.5,
+    "indications_found": 10,
+    "created_at": "2026-03-24T16:54:50.564953"
+  }
+}
