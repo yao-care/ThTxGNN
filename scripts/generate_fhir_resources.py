@@ -24,7 +24,7 @@ import pandas as pd
 
 
 # Thailand configuration
-BASE_URL = "https://thtxgnn.github.io"
+BASE_URL = "https://thtxgnn.yao.care"
 
 JURISDICTION = {
     "coding": [{
