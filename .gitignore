@@ -37,25 +37,12 @@ ENV/
 .coverage
 htmlcov/
 
-# Data files (large)
-data/kg.csv
-data/node.csv
-data/edges.csv
-data/kg_directed.csv
-data/processed/txgnn_checkpoint.csv
-data/processed/txgnn_dl_predictions.csv
-data/complex_disease_42/
-
-# Binary/Large files
-*.pdf
-*.xlsx
-*.xls
-data/raw/*.pdf
-data/raw/*.xlsx
-data/raw/*.xls
-
-# Cache
-data/cache/
+# Data directory (standard TwTxGNN pattern)
+/data/*
+!/data/cache/
+/data/cache/*
+!/data/cache/.gitkeep
+!/data/news/
 .claude/
 
 # Credentials
