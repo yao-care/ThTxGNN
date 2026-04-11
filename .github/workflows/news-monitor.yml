@@ -30,11 +30,8 @@ jobs:
             python scripts/generate_news_keywords.py
           fi
 
-      - name: Fetch from Thailand news sources (parallel)
-        run: |
-          python scripts/fetchers/th_news.py &
-          python scripts/fetchers/rss_fetcher.py &
-          wait
+      - name: Fetch from Thailand news sources
+        run: python scripts/fetchers/google_rss.py
 
       - name: Process and generate pages
         run: python scripts/process_news.py

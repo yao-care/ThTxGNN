@@ -191,112 +191,89 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
 
 
 def match_keywords(news_items: list[dict], keywords: dict) -> list[dict]:
-    """
-    จับคู่คำสำคัญในข่าว
-
-    สำคัญ: ต้องมีทั้งยาและโรคในข่าวเดียวกันถึงจะนับว่าตรง
-    """
+    """จับคู่คำสำคัญในข่าว"""
     drugs = keywords.get("drugs", [])
-    diseases = keywords.get("diseases", [])
+    indications = keywords.get("indications", [])
+
+    # สร้างแผนที่ slug -> name ของยา
+    drug_name_map = {d["slug"]: d["name"] for d in drugs}
 
     matched_count = 0
-    both_matched_count = 0
 
     for item in news_items:
-        text_to_search = f"{item.get('title', '')} {item.get('summary', '')}".lower()
-
-        drug_matches = []
-        disease_matches = []
+        text_to_search = f"{item['title']} {item.get('summary', '')}".lower()
+        matches = []
 
         # จับคู่ยา
         for drug in drugs:
-            drug_name = drug.get("drug", "")
-            drugbank_id = drug.get("drugbank_id", "")
-            search_terms = drug.get("search_terms", [])
-            indications = drug.get("indications", [])
+            drug_name = drug["name"]
+            drug_slug = drug["slug"]
 
-            matched = False
-            matched_term = ""
+            # คำสำคัญภาษาอังกฤษ
+            for kw in drug["keywords"].get("en", []):
+                if kw.lower() in text_to_search:
+                    matches.append({
+                        "type": "drug",
+                        "slug": drug_slug,
+                        "keyword": kw,
+                        "name": drug_name,
+                        "url": drug["url"]
+                    })
+                    break  # บันทึกเฉพาะ 1 ครั้งต่อยา
 
-            # ตรวจสอบชื่อยา
-            if drug_name.lower() in text_to_search:
-                matched = True
-                matched_term = drug_name
-
-            # ตรวจสอบคำค้นหา
-            if not matched:
-                for term in search_terms:
-                    clean_term = term.strip('"').lower()
-                    if clean_term in text_to_search:
-                        matched = True
-                        matched_term = clean_term
-                        break
-
-            if matched:
-                drug_matches.append({
-                    "type": "drug",
-                    "name": drug_name,
-                    "keyword": matched_term,
-                    "drugbank_id": drugbank_id,
-                    "slug": drug_name.lower().replace(" ", "_"),
-                    "url": f"/drugs/{drug_name.lower().replace(' ', '_')}/"
-                })
-
-        # จับคู่โรค
-        for disease in diseases:
-            disease_name = disease.get("disease", "")
-            search_terms = disease.get("search_terms", [])
-
-            matched = False
-            matched_term = ""
-
-            # ตรวจสอบชื่อโรค
-            if disease_name.lower() in text_to_search:
-                matched = True
-                matched_term = disease_name
-
-            # ตรวจสอบคำค้นหา
-            if not matched:
-                for term in search_terms:
-                    clean_term = term.strip('"').lower()
-                    if clean_term in text_to_search:
-                        matched = True
-                        matched_term = clean_term
-                        break
-
-            if matched:
-                # หายาที่เกี่ยวข้องกับโรคนี้
-                related_drugs = []
-                for drug in drugs:
-                    if disease_name in drug.get("indications", []):
-                        related_drugs.append({
-                            "slug": drug.get("drug", "").lower().replace(" ", "_"),
-                            "name": drug.get("drug", "")
+            # คำสำคัญภาษาไทย
+            for kw in drug["keywords"].get("th", []):
+                if kw in item["title"] or kw in item.get("summary", ""):
+                    # หลีกเลี่ยงซ้ำ
+                    if not any(m["slug"] == drug_slug for m in matches):
+                        matches.append({
+                            "type": "drug",
+                            "slug": drug_slug,
+                            "keyword": kw,
+                            "name": drug_name,
+                            "url": drug["url"]
                         })
+                    break
 
-                disease_matches.append({
-                    "type": "indication",
-                    "name": disease_name,
-                    "keyword": matched_term,
-                    "related_drugs": related_drugs[:5]  # จำกัด 5 ยา
-                })
+        # จับคู่ข้อบ่งใช้
+        for ind in indications:
+            ind_name = ind["name"]
 
-        # ========================================
-        # สำคัญ: ต้องมีทั้งยาและโรค
-        # ========================================
-        if drug_matches and disease_matches:
-            # มีทั้งยาและโรค - เก็บทั้งหมด
-            item["matched_keywords"] = drug_matches + disease_matches
-            both_matched_count += 1
-        elif drug_matches or disease_matches:
-            # มีเพียงอย่างเดียว - ไม่เก็บ (เป็นไปตามความต้องการ)
-            item["matched_keywords"] = []
-            matched_count += 1  # นับเพื่อสถิติ
-        else:
-            item["matched_keywords"] = []
+            # แปลง related_drugs จาก slug เป็น {slug, name}
+            related_drugs = [
+                {"slug": slug, "name": drug_name_map.get(slug, slug)}
+                for slug in ind.get("related_drugs", [])
+            ]
 
-    print(f"  ตรงกับยาหรือโรคอย่างเดียว: {matched_count} ข่าว (ไม่รวม)")
-    print(f"  ตรงกับทั้งยาและโรค: {both_matched_count} ข่าว (รวม)")
+            # คำสำคัญภาษาอังกฤษ
+            for kw in ind["keywords"].get("en", []):
+                if kw.lower() in text_to_search:
+                    matches.append({
+                        "type": "indication",
+                        "name": ind_name,
+                        "keyword": kw,
+                        "related_drugs": related_drugs
+                    })
+                    break
+
+            # คำสำคัญภาษาไทย
+            for kw in ind["keywords"].get("th", []):
+                if kw in item["title"] or kw in item.get("summary", ""):
+                    # หลีกเลี่ยงซ้ำ
+                    if not any(m.get("keyword") == kw and m["type"] == "indication" for m in matches):
+                        matches.append({
+                            "type": "indication",
+                            "name": ind_name,
+                            "keyword": kw,
+                            "related_drugs": related_drugs
+                        })
+                    break
+
+        item["matched_keywords"] = matches
+        if matches:
+            matched_count += 1
+
+    print(f"  จับคู่คำสำคัญ: {matched_count} ข่าว")
     return news_items
 
 
@@ -357,7 +334,7 @@ def main():
         return
 
     keywords = load_json(keywords_path)
-    print(f"  คำสำคัญ: {keywords.get('drug_count', 0)} ยา + {keywords.get('disease_count', 0)} โรค")
+    print(f"  คำสำคัญ: {keywords.get('drug_count', 0)} ยา + {keywords.get('indication_count', 0)} ข้อบ่งใช้")
     all_news = match_keywords(all_news, keywords)
 
     # 5. สร้าง news-index.json
