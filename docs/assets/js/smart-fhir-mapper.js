@@ -2,7 +2,7 @@
  * SMART on FHIR Drug Mapper
  *
  * Maps medications from FHIR MedicationRequest/MedicationStatement
- * to TwTxGNN drug database using RxNorm API and fuzzy matching.
+ * to ThTxGNN drug database using RxNorm API and fuzzy matching.
  */
 (function(global) {
   'use strict';
@@ -53,7 +53,7 @@
   };
 
   /**
-   * DrugMapper class for mapping FHIR medications to TwTxGNN
+   * DrugMapper class for mapping FHIR medications to ThTxGNN
    */
   class DrugMapper {
     constructor(searchIndex) {
@@ -207,11 +207,11 @@
     }
 
     /**
-     * Search TwTxGNN database for matching drug
+     * Search ThTxGNN database for matching drug
      * @param {string} name - Drug name to search
      * @returns {Object|null} - Matching drug or null
      */
-    searchTwTxGNN(name) {
+    searchThTxGNN(name) {
       if (!name || !this.fuseInstance) return null;
 
       const normalized = this.normalize(name);
@@ -231,7 +231,7 @@
     }
 
     /**
-     * Map a single FHIR medication to TwTxGNN
+     * Map a single FHIR medication to ThTxGNN
      * @param {Object} medication - FHIR MedicationRequest or MedicationStatement
      * @returns {Promise<Object>} - Mapping result
      */
@@ -242,7 +242,7 @@
         displayName: null,
         ingredientName: null,
         normalizedName: null,
-        twtxgnnMatch: null,
+        thtxgnnMatch: null,
         matched: false
       };
 
@@ -263,17 +263,17 @@
         result.normalizedName = this.normalize(nameToSearch);
       }
 
-      // Step 5: Search TwTxGNN database
+      // Step 5: Search ThTxGNN database
       if (nameToSearch) {
-        result.twtxgnnMatch = this.searchTwTxGNN(nameToSearch);
-        result.matched = result.twtxgnnMatch !== null;
+        result.thtxgnnMatch = this.searchThTxGNN(nameToSearch);
+        result.matched = result.thtxgnnMatch !== null;
       }
 
       return result;
     }
 
     /**
-     * Map multiple FHIR medications to TwTxGNN
+     * Map multiple FHIR medications to ThTxGNN
      * @param {Array} medications - Array of FHIR medication resources
      * @returns {Promise<Array>} - Array of mapping results
      */
@@ -308,7 +308,7 @@
   }
 
   // Export to global scope
-  global.TwTxGNN = global.TwTxGNN || {};
-  global.TwTxGNN.DrugMapper = DrugMapper;
+  global.ThTxGNN = global.ThTxGNN || {};
+  global.ThTxGNN.DrugMapper = DrugMapper;
 
 })(typeof window !== 'undefined' ? window : this);

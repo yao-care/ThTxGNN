@@ -350,7 +350,7 @@
       detail: `${alert.detail}\n\nคำแนะนำ: ${alert.recommendation}`,
       source: {
         label: 'ThTxGNN DDI Checker',
-        url: 'https://twtxgnn.yao.care/'
+        url: 'https://thtxgnn.yao.care/'
       }
     }));
   }
