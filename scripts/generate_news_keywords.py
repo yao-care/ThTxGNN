@@ -1,207 +1,294 @@
 #!/usr/bin/env python3
-"""Generate news monitoring keywords from drug repurposing predictions.
+"""
+สร้างรายการคำสำคัญสำหรับการติดตามข่าวสุขภาพ
 
-This script generates keyword patterns for monitoring health news
-related to drug repurposing candidates.
+ดึงข้อมูลจาก:
+- ชื่อยา (อังกฤษ + ชื่อการค้าภาษาไทย)
+- ข้อบ่งใช้ที่คาดการณ์ (อังกฤษ)
 
-Usage:
-    uv run python scripts/generate_news_keywords.py
-
-Output:
-    data/news/keywords.json
+ผลลัพธ์: data/news/keywords.json
 """
 
 import json
+import re
+from datetime import datetime
 from pathlib import Path
-from typing import Any
 
-import pandas as pd
-
-
-def load_synonyms() -> dict:
-    """Load drug and disease synonyms."""
-    synonyms_path = Path(__file__).parent.parent / "data" / "news" / "synonyms.json"
-    if synonyms_path.exists():
-        with open(synonyms_path, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {"diseases": {}, "drugs": {}, "keywords": {}}
+# ไดเรกทอรีหลักของโปรเจค
+PROJECT_ROOT = Path(__file__).parent.parent
+DATA_DIR = PROJECT_ROOT / "data"
+DOCS_DATA_DIR = PROJECT_ROOT / "docs" / "data"
 
 
-def generate_drug_keywords(candidates: pd.DataFrame, synonyms: dict) -> list[dict]:
-    """Generate keyword patterns for each drug."""
-    keywords = []
-
-    # Get unique drugs
-    drugs = candidates["drug_ingredient"].dropna().unique()
-
-    for drug in drugs:
-        drug_lower = drug.lower()
-
-        # Get synonyms for this drug
-        drug_synonyms = synonyms.get("drugs", {}).get(drug_lower, [drug_lower])
-        if drug_lower not in drug_synonyms:
-            drug_synonyms.append(drug_lower)
-
-        # Get indications for this drug
-        drug_indications = candidates[
-            candidates["drug_ingredient"] == drug
-        ]["potential_indication"].dropna().unique().tolist()
-
-        # Generate patterns
-        patterns = []
-        for syn in drug_synonyms:
-            patterns.append(syn)
-            # Add Thai transliteration patterns if available
-            if syn.isascii():
-                patterns.append(f'"{syn}"')
-
-        keywords.append({
-            "drug": drug,
-            "drugbank_id": candidates[
-                candidates["drug_ingredient"] == drug
-            ]["drugbank_id"].iloc[0] if len(candidates[candidates["drug_ingredient"] == drug]) > 0 else None,
-            "search_terms": list(set(patterns)),
-            "indications": drug_indications[:10],  # Limit to top 10
-        })
-
-    return keywords
+def load_json(path: Path) -> dict | list:
+    """โหลดไฟล์ JSON"""
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
 
 
-def generate_disease_keywords(candidates: pd.DataFrame, synonyms: dict) -> list[dict]:
-    """Generate keyword patterns for each disease."""
-    keywords = []
-
-    # Get unique diseases
-    diseases = candidates["potential_indication"].dropna().unique()
-
-    for disease in diseases:
-        disease_lower = disease.lower()
-
-        # Get synonyms for this disease
-        disease_synonyms = synonyms.get("diseases", {}).get(disease_lower, [disease_lower])
-        if disease_lower not in disease_synonyms:
-            disease_synonyms.append(disease_lower)
-
-        # Get drugs for this disease
-        disease_drugs = candidates[
-            candidates["potential_indication"] == disease
-        ]["drug_ingredient"].dropna().unique().tolist()
-
-        keywords.append({
-            "disease": disease,
-            "search_terms": list(set(disease_synonyms)),
-            "related_drugs": disease_drugs[:10],  # Limit to top 10
-        })
-
-    return keywords
+def extract_thai_terms(text: str) -> list[str]:
+    """แยกคำภาษาไทยจากข้อความ (แยกด้วยเครื่องหมายวรรคตอน)"""
+    if not text:
+        return []
+    # ตัวแยก: จุลภาค, อัฒภาค, มหัพภาค, ทับ
+    terms = re.split(r"[,;./·•]", text)
+    # ลบช่องว่างและกรองสตริงว่าง
+    return [t.strip() for t in terms if t.strip() and len(t.strip()) >= 2]
 
 
-def generate_repurposing_patterns(synonyms: dict) -> list[str]:
-    """Generate general drug repurposing search patterns."""
-    base_patterns = synonyms.get("keywords", {}).get("drug_repurposing", [])
+def get_brand_names_from_fda(fda_data: list, drug_name: str) -> list[str]:
+    """ค้นหาชื่อการค้าภาษาไทยจากข้อมูล FDA"""
+    brand_names = set()
+    drug_name_lower = drug_name.lower()
 
-    # Add Thai-specific patterns
-    thai_patterns = [
-        "ยาใหม่",
-        "การค้นพบยา",
-        "ประโยชน์ใหม่ของยา",
-        "ข้อบ่งใช้ใหม่",
-        "การนำยามาใช้ใหม่",
-    ]
+    for item in fda_data:
+        # ตรวจสอบตัวยาสำคัญ
+        ingredient = item.get("ingredient", "") or item.get("INGREDIENT", "")
+        if drug_name_lower in ingredient.lower():
+            thai_name = item.get("trade_name_th", "") or item.get("TRADE_NAME_TH", "")
+            if thai_name:
+                # ดึงเฉพาะชื่อแบรนด์ (ก่อนตัวเลขหรือวงเล็บ)
+                match = re.match(r"^([^\s\d๐-๙（(]+)", thai_name)
+                if match:
+                    brand = match.group(1).strip()
+                    if len(brand) >= 2:
+                        brand_names.add(brand)
 
-    # Add English patterns
-    english_patterns = [
-        "drug repurposing",
-        "drug repositioning",
-        "off-label use",
-        "new indication",
-        "therapeutic potential",
-    ]
+    return list(brand_names)[:5]  # สูงสุด 5 ชื่อ
 
-    all_patterns = list(set(base_patterns + thai_patterns + english_patterns))
-    return all_patterns
+
+def load_synonyms(path: Path) -> dict:
+    """โหลดตารางคำพ้องความหมายภาษาไทย"""
+    if not path.exists():
+        return {"indication_synonyms": {}, "drug_synonyms": {}}
+    with open(path, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+GENERIC_KEYWORD_PATTERNS = {
+    "_generic_cancer": [
+        "cancer", "carcinoma", "tumor", "tumour", "neoplasm", "malignant",
+        "leukemia", "lymphoma", "melanoma", "sarcoma", "myeloma"
+    ],
+    "_cardiovascular": [
+        "cardiovascular", "atherosclerosis", "arteriosclerosis",
+        "coronary", "vascular disease"
+    ],
+    "_heart_disease": [
+        "heart disease", "heart failure", "cardiac", "myocardial",
+        "arrhythmia", "angina", "cardiomyopathy"
+    ],
+    "stroke": ["stroke", "ischemic stroke", "cerebrovascular"],
+    "herpes zoster": ["herpes", "zoster", "varicella"],
+    "dementia": ["dementia", "alzheimer", "cognitive impairment"],
+    "pancreatic cancer": ["pancreatic cancer", "pancreatic carcinoma", "pancreatic neoplasm"],
+    "menopause": ["menopause", "postmenopaus", "estrogen-receptor", "hormone-resistant"],
+}
+
+
+def build_indication_index(search_index: dict, synonyms: dict) -> dict:
+    """สร้างดัชนีข้อบ่งใช้ บันทึกว่าแต่ละข้อบ่งใช้เกี่ยวข้องกับยาตัวใดบ้าง"""
+    indication_map = {}
+    indication_synonyms = synonyms.get("indication_synonyms", {})
+
+    # เพิ่มรายการคำพ้องก่อน (รวมคำสำคัญทั่วไป เช่น _generic_cancer)
+    for en_name, th_list in indication_synonyms.items():
+        key = en_name.lower()
+        if key not in indication_map:
+            indication_map[key] = {
+                "name": en_name.lstrip("_"),  # ลบเครื่องหมาย _ นำหน้า
+                "keywords_en": [en_name] if not en_name.startswith("_") else [],
+                "keywords_th": th_list.copy(),
+                "related_drugs": []
+            }
+            # สร้างดัชนีสำหรับคำพ้องภาษาไทยแต่ละคำด้วย
+            for th in th_list:
+                th_key = th.lower()
+                if th_key not in indication_map:
+                    indication_map[th_key] = {
+                        "name": th,
+                        "keywords_en": [en_name] if not en_name.startswith("_") else [],
+                        "keywords_th": [th],
+                        "related_drugs": []
+                    }
+
+    for drug in search_index.get("drugs", []):
+        drug_slug = drug.get("slug", "")
+
+        # ประมวลผลข้อบ่งใช้ที่คาดการณ์
+        for ind in drug.get("indications", []):
+            ind_name = ind.get("name", "").lower()
+            if ind_name:
+                if ind_name not in indication_map:
+                    # ค้นหาคำพ้อง
+                    th_synonyms = indication_synonyms.get(ind.get("name", ""), [])
+                    indication_map[ind_name] = {
+                        "name": ind.get("name", ""),
+                        "keywords_en": [ind.get("name", "")],
+                        "keywords_th": th_synonyms.copy(),
+                        "related_drugs": []
+                    }
+                # สร้างดัชนีแยกสำหรับคำพ้องภาษาไทย
+                for th in indication_synonyms.get(ind.get("name", ""), []):
+                    th_key = th.lower()
+                    if th_key not in indication_map:
+                        indication_map[th_key] = {
+                            "name": th,
+                            "keywords_en": [ind.get("name", "")],
+                            "keywords_th": [th],
+                            "related_drugs": []
+                        }
+                    if drug_slug not in indication_map[th_key]["related_drugs"]:
+                        indication_map[th_key]["related_drugs"].append(drug_slug)
+
+                if drug_slug not in indication_map[ind_name]["related_drugs"]:
+                    indication_map[ind_name]["related_drugs"].append(drug_slug)
+
+        # ข้อบ่งใช้ดั้งเดิม (ภาษาไทย)
+        original = drug.get("original", "")
+        if original:
+            th_terms = extract_thai_terms(original)
+            for term in th_terms:
+                term_key = term.lower()
+                if term_key not in indication_map:
+                    indication_map[term_key] = {
+                        "name": term,
+                        "keywords_en": [],
+                        "keywords_th": [term],
+                        "related_drugs": []
+                    }
+                else:
+                    if term not in indication_map[term_key]["keywords_th"]:
+                        indication_map[term_key]["keywords_th"].append(term)
+
+                if drug_slug not in indication_map[term_key]["related_drugs"]:
+                    indication_map[term_key]["related_drugs"].append(drug_slug)
+
+    # เชื่อมโยงคำสำคัญทั่วไปกับยาที่มีข้อบ่งใช้ที่เกี่ยวข้อง
+    for generic_key, patterns in GENERIC_KEYWORD_PATTERNS.items():
+        generic_key_lower = generic_key.lower()
+        if generic_key_lower not in indication_map:
+            continue
+
+        # ค้นหายาทั้งหมดที่ตรงกับรูปแบบ
+        for drug in search_index.get("drugs", []):
+            drug_slug = drug.get("slug", "")
+            for ind in drug.get("indications", []):
+                ind_name = ind.get("name", "").lower()
+                # ตรวจสอบว่าตรงกับรูปแบบใดบ้าง
+                for pattern in patterns:
+                    if pattern.lower() in ind_name:
+                        if drug_slug not in indication_map[generic_key_lower]["related_drugs"]:
+                            indication_map[generic_key_lower]["related_drugs"].append(drug_slug)
+                        break
+
+        # อัปเดตรายการคำพ้องภาษาไทยด้วย
+        th_list = indication_synonyms.get(generic_key, [])
+        for th in th_list:
+            th_key = th.lower()
+            if th_key in indication_map:
+                for drug_slug in indication_map[generic_key_lower]["related_drugs"]:
+                    if drug_slug not in indication_map[th_key]["related_drugs"]:
+                        indication_map[th_key]["related_drugs"].append(drug_slug)
+
+    return indication_map
 
 
 def main():
-    print("=" * 60)
-    print("Generate News Monitoring Keywords")
-    print("=" * 60)
-    print()
+    print("กำลังโหลดไฟล์ข้อมูล...")
 
-    base_dir = Path(__file__).parent.parent
+    # โหลดข้อมูล
+    search_index_path = DOCS_DATA_DIR / "search-index.json"
+    fda_data_path = DATA_DIR / "raw" / "th_fda_drugs.json"
+    synonyms_path = DATA_DIR / "news" / "synonyms.json"
 
-    # Load predictions
-    print("1. Loading predictions...")
-    candidates_path = base_dir / "data" / "processed" / "repurposing_candidates.csv.gz"
-
-    if not candidates_path.exists():
-        print(f"   Predictions not found: {candidates_path}")
-        print("   Please run run_kg_prediction.py first")
+    if not search_index_path.exists():
+        print(f"ข้อผิดพลาด: ไม่พบ {search_index_path}")
         return
 
-    candidates = pd.read_csv(candidates_path)
-    print(f"   Loaded {len(candidates)} predictions")
+    search_index = load_json(search_index_path)
 
-    # Load synonyms
-    print("2. Loading synonyms...")
-    synonyms = load_synonyms()
-    print(f"   Drugs: {len(synonyms.get('drugs', {}))}")
-    print(f"   Diseases: {len(synonyms.get('diseases', {}))}")
+    fda_data = []
+    if fda_data_path.exists():
+        fda_data = load_json(fda_data_path)
+        print(f"  - th_fda_drugs.json: {len(fda_data)} รายการ FDA")
+    else:
+        print(f"  - th_fda_drugs.json: ไม่พบไฟล์ (ข้าม)")
 
-    # Generate keywords
-    print("3. Generating keywords...")
+    synonyms = load_synonyms(synonyms_path)
 
-    drug_keywords = generate_drug_keywords(candidates, synonyms)
-    print(f"   Drug keywords: {len(drug_keywords)}")
+    drug_count = len(search_index.get("drugs", []))
+    print(f"  - search-index.json: {drug_count} ยา")
+    print(f"  - synonyms.json: {len(synonyms.get('indication_synonyms', {}))} คำพ้องข้อบ่งใช้")
 
-    disease_keywords = generate_disease_keywords(candidates, synonyms)
-    print(f"   Disease keywords: {len(disease_keywords)}")
+    # สร้างรายการคำสำคัญของยา
+    drugs_keywords = []
 
-    repurposing_patterns = generate_repurposing_patterns(synonyms)
-    print(f"   Repurposing patterns: {len(repurposing_patterns)}")
+    for drug in search_index.get("drugs", []):
+        drug_name = drug.get("name", "")
+        drug_slug = drug.get("slug", "")
 
-    # Compile output
+        # คำสำคัญภาษาอังกฤษ
+        keywords_en = [drug_name.lower()]
+
+        # เพิ่มชื่อแบรนด์ (จาก search-index)
+        for brand in drug.get("brands", []):
+            if brand.lower() not in keywords_en:
+                keywords_en.append(brand.lower())
+
+        # ชื่อการค้าภาษาไทย (จากข้อมูล FDA)
+        keywords_th = []
+        if fda_data:
+            keywords_th = get_brand_names_from_fda(fda_data, drug_name)
+
+        drugs_keywords.append({
+            "slug": drug_slug,
+            "name": drug_name,
+            "keywords": {
+                "en": keywords_en,
+                "th": keywords_th
+            },
+            "url": f"/drugs/{drug_slug}/"
+        })
+
+    print(f"\nประมวลผลคำสำคัญของยา: {len(drugs_keywords)} ยา")
+
+    # สร้างรายการคำสำคัญของข้อบ่งใช้
+    indication_map = build_indication_index(search_index, synonyms)
+
+    # แปลงเป็นรายการ (เก็บเฉพาะที่มียาเกี่ยวข้อง)
+    indications_keywords = []
+    for key, data in indication_map.items():
+        if data["related_drugs"]:
+            indications_keywords.append({
+                "name": data["name"],
+                "keywords": {
+                    "en": data["keywords_en"],
+                    "th": data["keywords_th"]
+                },
+                "related_drugs": data["related_drugs"]
+            })
+
+    print(f"ประมวลผลคำสำคัญของข้อบ่งใช้: {len(indications_keywords)} ข้อบ่งใช้")
+
+    # ผลลัพธ์
     output = {
-        "version": "1.0.0",
-        "generated_from": "repurposing_candidates.csv.gz",
-        "drug_count": len(drug_keywords),
-        "disease_count": len(disease_keywords),
-        "drugs": drug_keywords,
-        "diseases": disease_keywords,
-        "repurposing_patterns": repurposing_patterns,
-        "news_sources": [
-            {
-                "name": "Thai Health News",
-                "type": "rss",
-                "url": "https://www.hfocus.org/feed",
-                "language": "th"
-            },
-            {
-                "name": "Bangkok Post Health",
-                "type": "web",
-                "url": "https://www.bangkokpost.com/thailand/general/health",
-                "language": "en"
-            },
-            {
-                "name": "PubMed",
-                "type": "api",
-                "url": "https://pubmed.ncbi.nlm.nih.gov/",
-                "language": "en"
-            }
-        ]
+        "generated": datetime.now().strftime("%Y-%m-%d"),
+        "drug_count": len(drugs_keywords),
+        "indication_count": len(indications_keywords),
+        "drugs": drugs_keywords,
+        "indications": indications_keywords
     }
 
-    # Save output
-    print("4. Saving keywords...")
-    output_path = base_dir / "data" / "news" / "keywords.json"
+    output_path = DATA_DIR / "news" / "keywords.json"
     output_path.parent.mkdir(parents=True, exist_ok=True)
 
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"   Saved to: {output_path}")
-    print()
-    print("Done!")
+    print(f"\nผลลัพธ์: {output_path}")
+    print(f"  - คำสำคัญของยา: {len(drugs_keywords)} รายการ")
+    print(f"  - คำสำคัญของข้อบ่งใช้: {len(indications_keywords)} รายการ")
 
 
 if __name__ == "__main__":
