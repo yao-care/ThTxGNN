@@ -180,9 +180,9 @@
         `<span class="match-badge matched">มีข้อมูลการทำนาย</span>` :
         `<span class="match-badge unmatched">ไม่มีข้อมูลการทำนาย</span>`;
 
-      const twtxgnnInfo = result.twtxgnnMatch ?
-        `<span class="twtxgnn-name">→ ${escapeHtml(result.twtxgnnMatch.name)}</span>
-         <span class="level-badge level-${result.twtxgnnMatch.level}">${result.twtxgnnMatch.level}</span>` :
+      const thtxgnnInfo = result.thtxgnnMatch ?
+        `<span class="thtxgnn-name">→ ${escapeHtml(result.thtxgnnMatch.name)}</span>
+         <span class="level-badge level-${result.thtxgnnMatch.level}">${result.thtxgnnMatch.level}</span>` :
         '';
 
       html += `
@@ -194,7 +194,7 @@
             ${matchStatus}
           </label>
           <div class="med-mapping">
-            ${twtxgnnInfo}
+            ${thtxgnnInfo}
           </div>
         </div>
       `;
@@ -224,9 +224,9 @@
 
     selectedIndices.forEach(index => {
       const result = mappingResults[index];
-      if (!result.twtxgnnMatch) return;
+      if (!result.thtxgnnMatch) return;
 
-      const drug = result.twtxgnnMatch;
+      const drug = result.thtxgnnMatch;
       const indications = drug.indications || [];
 
       html += `
