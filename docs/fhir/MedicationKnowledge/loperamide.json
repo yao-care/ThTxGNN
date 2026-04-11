@@ -1,31 +1,37 @@
 {
   "resourceType": "MedicationKnowledge",
   "id": "loperamide",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
   "status": "active",
   "code": {
     "coding": [
       {
-        "system": "https://go.drugbank.com/drugs",
-        "code": "DB00836",
-        "display": "LOPERAMIDE"
+        "system": "https://thtxgnn.yao.care/drugs",
+        "code": "loperamide",
+        "display": "Loperamide"
       }
-    ]
+    ],
+    "text": "Loperamide"
   },
   "intendedJurisdiction": [
     {
       "coding": [
         {
           "system": "urn:iso:std:iso:3166",
-          "code": "TH",
-          "display": "Thailand"
+          "code": "TW",
+          "display": "Taiwan"
         }
       ]
     }
   ],
   "extension": [
     {
-      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
-      "valueCode": "L5"
+      "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+      "valueCode": "L1"
     }
   ]
 }

@@ -1,30 +1,36 @@
 {
   "resourceType": "MedicationKnowledge",
   "id": "naproxen",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+    ]
+  },
   "status": "active",
   "code": {
     "coding": [
       {
-        "system": "https://go.drugbank.com/drugs",
-        "code": "DB00788",
-        "display": "NAPROXEN"
+        "system": "https://thtxgnn.yao.care/drugs",
+        "code": "naproxen",
+        "display": "Naproxen"
       }
-    ]
+    ],
+    "text": "Naproxen"
   },
   "intendedJurisdiction": [
     {
       "coding": [
         {
           "system": "urn:iso:std:iso:3166",
-          "code": "TH",
-          "display": "Thailand"
+          "code": "TW",
+          "display": "Taiwan"
         }
       ]
     }
   ],
   "extension": [
     {
-      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L5"
     }
   ]
