@@ -6,7 +6,7 @@
 ## ข้อมูลนำเข้า
 คุณจะได้รับ Evidence Pack JSON ซึ่งประกอบด้วย:
 - `drug`: ข้อมูลพื้นฐานของยา (inn, drugbank_id, original_moa)
-- `thailand_regulatory`: ใบอนุญาตและสถานะการวางจำหน่ายในประเทศไทย
+- `taiwan_regulatory`: ใบอนุญาตและสถานะการวางจำหน่ายในประเทศไทย
 - `predicted_indications`: ข้อบ่งใช้ใหม่ที่ TxGNN ทำนาย (รวมการทดลองทางคลินิกและวรรณกรรม)
 - `safety`: ข้อมูลความปลอดภัย (DDI, คำเตือน, ข้อห้ามใช้)
 
@@ -36,12 +36,12 @@
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | [ดึงจาก thailand_regulatory.licenses, เอา approved_indication_text ที่ไม่ว่างอันแรก] |
+| ข้อบ่งใช้เดิม | [ดึงจาก taiwan_regulatory.licenses, เอา approved_indication_text ที่ไม่ว่างอันแรก] |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | [ดึงจาก predicted_indications[0].disease_name] |
 | คะแนนการทำนาย TxGNN | [ดึงจาก predicted_indications[0].txgnn.score, แปลงเป็นเปอร์เซ็นต์] |
 | ระดับหลักฐาน | [ตัดสิน L1-L5 ตามจำนวนการทดลองทางคลินิกและวรรณกรรม] |
-| สถานะการวางจำหน่ายในไทย | [ดึงจาก thailand_regulatory.market_status] |
-| จำนวนใบอนุญาต | [ดึงจาก thailand_regulatory.total_licenses] |
+| สถานะการวางจำหน่ายในไทย | [ดึงจาก taiwan_regulatory.market_status] |
+| จำนวนใบอนุญาต | [ดึงจาก taiwan_regulatory.total_licenses] |
 | คำแนะนำในการตัดสินใจ | [Go / Hold / Proceed with Guardrails] |
 
 ---
@@ -92,7 +92,7 @@
 
 ### ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ดึงจาก `thailand_regulatory.licenses` และสร้างตาราง:
+ดึงจาก `taiwan_regulatory.licenses` และสร้างตาราง:
 
 | เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
 |---------|------|------|-----------|
