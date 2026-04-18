@@ -1,8 +1,21 @@
 {
   "resourceType": "ClinicalUseDefinition",
   "id": "heparin-disseminated-intravascular-coagulation",
+  "meta": {
+    "profile": [
+      "http://hl7.org/fhir/StructureDefinition/ClinicalUseDefinition"
+    ]
+  },
   "type": "indication",
-  "status": "active",
+  "status": {
+    "coding": [
+      {
+        "system": "http://hl7.org/fhir/publication-status",
+        "code": "draft",
+        "display": "Draft"
+      }
+    ]
+  },
   "subject": [
     {
       "reference": "MedicationKnowledge/heparin"
@@ -17,12 +30,16 @@
   },
   "extension": [
     {
-      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/evidence-level",
+      "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/prediction-status",
+      "valueCode": "predicted"
+    },
+    {
+      "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
       "valueCode": "L5"
     },
     {
-      "url": "https://thtxgnn.github.io/fhir/StructureDefinition/source",
-      "valueString": "TxGNN Knowledge Graph"
+      "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/txgnn-score",
+      "valueDecimal": 0.009658
     }
   ]
 }
