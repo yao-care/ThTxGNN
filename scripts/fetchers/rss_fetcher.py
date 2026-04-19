@@ -27,7 +27,7 @@ class NewsArticle:
 
     def __post_init__(self):
         if not self.article_id:
-            self.article_id = hashlib.md5(self.link.encode()).hexdigest()[:12]
+            self.article_id = hashlib.sha256(self.link.encode()).hexdigest()[:12]
 
     def to_dict(self) -> dict:
         return {

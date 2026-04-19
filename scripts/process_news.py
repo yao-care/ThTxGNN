@@ -173,7 +173,7 @@ def deduplicate_news(news_items: list[dict]) -> list[dict]:
 
         # สร้าง ID จาก title hash
         import hashlib
-        news_id = hashlib.md5(item.get("title", "").encode()).hexdigest()[:12]
+        news_id = hashlib.sha256(item.get("title", "").encode()).hexdigest()[:12]
 
         merged_item = {
             "id": item.get("id", news_id),
