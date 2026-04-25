@@ -1,45 +1,492 @@
 {
-  "generated": "2026-04-25T13:19:30.932518+00:00",
-  "count": 7,
+  "generated": "2026-04-25T19:03:19.045584+00:00",
+  "count": 8,
   "news": [
     {
-      "id": "3b537bbbb941",
-      "title": "บริษัทสตาร์ตอัปในโตเกียวกำลังขออนุมัติยาใหม่สำหรับรักษาโรคไตเรื้อรังในแมว",
-      "published": "2026-04-24T13:38:20+00:00",
+      "id": "0fde2ed02824",
+      "title": "ช็อกโลก! “เนทันยาฮู” เปิดใจป่วยมะเร็งต่อมลูกหมาก รักษาด่วน-ย้ำตรวจสุขภาพอย่าชะล่าใจ",
+      "published": "2026-04-25T12:52:11+00:00",
       "sources": [
         {
-          "name": "nhk.or.jp",
-          "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwTUdIbl9GcFhlR0FRQzdJUjg5eml5VXFFQk41NXRIcEVCOXhWaHNGTjNTMDVqakFfdDNlMGtkUFRQUVIxdHljbGMwMjhDSmhCd1dfOTJEV3pwQ0NMVEhmQk5n?oc=5"
+          "name": "สยามรัฐ",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9RODlMaHpUZ2kwTGJnUExfRC1sSGNVWGViTThocU5qdERQbWp0amlSb0djOEhUaGxjb3lpVS0tXzg0SmlaOURGRmEtMF9icWhoUE5lM1N3?oc=5"
         }
       ],
       "keywords": [
         {
           "type": "indication",
-          "name": "chronic kidney disease",
-          "keyword": "โรคไต",
+          "name": "generic_cancer",
+          "keyword": "มะเร็ง",
           "related_drugs": [
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin"
+            },
+            {
+              "slug": "timolol",
+              "name": "Timolol"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "Phenytoin"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril"
+            },
             {
               "slug": "enalapril",
               "name": "Enalapril"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "Diltiazem"
+            },
+            {
+              "slug": "captopril",
+              "name": "Captopril"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone"
+            },
+            {
+              "slug": "gabapentin",
+              "name": "Gabapentin"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "verapamil",
+              "name": "Verapamil"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "Carbamazepine"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel"
+            },
+            {
+              "slug": "nifedipine",
+              "name": "Nifedipine"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic acid"
+            },
+            {
+              "slug": "efavirenz",
+              "name": "Efavirenz"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin"
+            },
+            {
+              "slug": "erythropoietin",
+              "name": "Erythropoietin"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "Hydrochlorothiazide"
             },
             {
               "slug": "furosemide",
               "name": "Furosemide"
             }
           ]
-        },
+        }
+      ]
+    },
+    {
+      "id": "90523d14a5dd",
+      "title": "เนทันยาฮูเผยป่วยมะเร็งต่อมลูกหมากแต่หายแล้ว ส่วนไบเดนกำลังรักษาระยะที่ 4",
+      "published": "2026-04-24T14:15:00+00:00",
+      "sources": [
+        {
+          "name": "TrueID",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KV3pIaW5ZckpYeDJzZ19pTjRfSW13Q1JERHlmMHpucENMbXJlSzVvaWhnZTlLdmFqVEhwcHpZZFh1Zl84WGVNY3pralZqVlZtZU5lMlBn?oc=5"
+        }
+      ],
+      "keywords": [
         {
           "type": "indication",
-          "name": "ไตเรื้อรัง",
-          "keyword": "ไตเรื้อรัง",
+          "name": "generic_cancer",
+          "keyword": "มะเร็ง",
           "related_drugs": [
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin"
+            },
+            {
+              "slug": "timolol",
+              "name": "Timolol"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "Phenytoin"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril"
+            },
             {
               "slug": "enalapril",
               "name": "Enalapril"
             },
             {
+              "slug": "diltiazem",
+              "name": "Diltiazem"
+            },
+            {
+              "slug": "captopril",
+              "name": "Captopril"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone"
+            },
+            {
+              "slug": "gabapentin",
+              "name": "Gabapentin"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "verapamil",
+              "name": "Verapamil"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "Carbamazepine"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel"
+            },
+            {
+              "slug": "nifedipine",
+              "name": "Nifedipine"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic acid"
+            },
+            {
+              "slug": "efavirenz",
+              "name": "Efavirenz"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin"
+            },
+            {
+              "slug": "erythropoietin",
+              "name": "Erythropoietin"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "Hydrochlorothiazide"
+            },
+            {
               "slug": "furosemide",
               "name": "Furosemide"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "b447aed44e57",
+      "title": "เราจะป้องกันโรคหัวใจและหลอดเลือดในผู้สูงอายุได้อย่างไร?",
+      "published": "2026-04-23T09:14:04+00:00",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXRkSzlyVXZKYTVLbkEzRWlCYUJmT2VVLXhrekVIRUpDRFVidllsa1BKMVdMa3ptc1BXY0YyZFh5MWFWbmh2ei1xRFlMZldFN3JiUFFERnRmZ25SclVmY25YdTB6TUctZldOTWtjdW1GaXNLNVl2azFwYjhiQWd5YnlyS2xxMkdYQmNVbERRUEdJY09hRHNJ?oc=5"
+        }
+      ],
+      "keywords": [
+        {
+          "type": "indication",
+          "name": "cardiovascular",
+          "keyword": "หัวใจและหลอดเลือด",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "dabigatran",
+              "name": "Dabigatran"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "โรคหัวใจและหลอดเลือด",
+          "keyword": "โรคหัวใจและหลอดเลือด",
+          "related_drugs": [
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "dabigatran",
+              "name": "Dabigatran"
+            }
+          ]
+        },
+        {
+          "type": "indication",
+          "name": "heart_disease",
+          "keyword": "โรคหัวใจ",
+          "related_drugs": [
+            {
+              "slug": "timolol",
+              "name": "Timolol"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril"
+            },
+            {
+              "slug": "enalapril",
+              "name": "Enalapril"
+            },
+            {
+              "slug": "captopril",
+              "name": "Captopril"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone"
+            },
+            {
+              "slug": "isosorbide_dinitrate",
+              "name": "Isosorbide dinitrate"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol"
+            },
+            {
+              "slug": "dabigatran",
+              "name": "Dabigatran"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin"
+            },
+            {
+              "slug": "propranolol",
+              "name": "Propranolol"
+            },
+            {
+              "slug": "propylthiouracil",
+              "name": "Propylthiouracil"
+            },
+            {
+              "slug": "propofol",
+              "name": "Propofol"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol"
+            },
+            {
+              "slug": "fluticasone",
+              "name": "Fluticasone"
+            },
+            {
+              "slug": "hydrochlorothiazide",
+              "name": "Hydrochlorothiazide"
+            },
+            {
+              "slug": "tadalafil",
+              "name": "Tadalafil"
+            },
+            {
+              "slug": "digoxin",
+              "name": "Digoxin"
+            },
+            {
+              "slug": "furosemide",
+              "name": "Furosemide"
+            },
+            {
+              "slug": "doxycycline",
+              "name": "Doxycycline"
             }
           ]
         }
@@ -398,182 +845,6 @@
       ]
     },
     {
-      "id": "265f239e3d0c",
-      "title": "จุฬาฯ แถลงข่าวยาชีววัตถุรักษามะเร็งพร้อมลงนามร่วมมือวชิรพยาบาล",
-      "published": "2026-04-20T11:06:25+00:00",
-      "sources": [
-        {
-          "name": "จุฬาลงกรณ์มหาวิทยาลัย",
-          "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9DeXR5Y1pmejZ6LVMtdHlXMlBjNzV5T0VPNWNESWJHa3ZVd1BTRE5JRUR4OGJkOXg3akl2RkQwN3NjckdnSU56N0hpbEk?oc=5"
-        }
-      ],
-      "keywords": [
-        {
-          "type": "indication",
-          "name": "generic_cancer",
-          "keyword": "มะเร็ง",
-          "related_drugs": [
-            {
-              "slug": "ampicillin",
-              "name": "Ampicillin"
-            },
-            {
-              "slug": "timolol",
-              "name": "Timolol"
-            },
-            {
-              "slug": "ceftriaxone",
-              "name": "Ceftriaxone"
-            },
-            {
-              "slug": "phenytoin",
-              "name": "Phenytoin"
-            },
-            {
-              "slug": "lisinopril",
-              "name": "Lisinopril"
-            },
-            {
-              "slug": "enalapril",
-              "name": "Enalapril"
-            },
-            {
-              "slug": "diltiazem",
-              "name": "Diltiazem"
-            },
-            {
-              "slug": "captopril",
-              "name": "Captopril"
-            },
-            {
-              "slug": "fluconazole",
-              "name": "Fluconazole"
-            },
-            {
-              "slug": "bupropion",
-              "name": "Bupropion"
-            },
-            {
-              "slug": "spironolactone",
-              "name": "Spironolactone"
-            },
-            {
-              "slug": "gabapentin",
-              "name": "Gabapentin"
-            },
-            {
-              "slug": "azithromycin",
-              "name": "Azithromycin"
-            },
-            {
-              "slug": "colchicine",
-              "name": "Colchicine"
-            },
-            {
-              "slug": "metoprolol",
-              "name": "Metoprolol"
-            },
-            {
-              "slug": "verapamil",
-              "name": "Verapamil"
-            },
-            {
-              "slug": "baclofen",
-              "name": "Baclofen"
-            },
-            {
-              "slug": "isotretinoin",
-              "name": "Isotretinoin"
-            },
-            {
-              "slug": "lorazepam",
-              "name": "Lorazepam"
-            },
-            {
-              "slug": "calcipotriol",
-              "name": "Calcipotriol"
-            },
-            {
-              "slug": "clarithromycin",
-              "name": "Clarithromycin"
-            },
-            {
-              "slug": "albendazole",
-              "name": "Albendazole"
-            },
-            {
-              "slug": "carbamazepine",
-              "name": "Carbamazepine"
-            },
-            {
-              "slug": "lactulose",
-              "name": "Lactulose"
-            },
-            {
-              "slug": "amoxicillin",
-              "name": "Amoxicillin"
-            },
-            {
-              "slug": "praziquantel",
-              "name": "Praziquantel"
-            },
-            {
-              "slug": "nifedipine",
-              "name": "Nifedipine"
-            },
-            {
-              "slug": "valproic_acid",
-              "name": "Valproic acid"
-            },
-            {
-              "slug": "efavirenz",
-              "name": "Efavirenz"
-            },
-            {
-              "slug": "losartan",
-              "name": "Losartan"
-            },
-            {
-              "slug": "bisoprolol",
-              "name": "Bisoprolol"
-            },
-            {
-              "slug": "vancomycin",
-              "name": "Vancomycin"
-            },
-            {
-              "slug": "erythropoietin",
-              "name": "Erythropoietin"
-            },
-            {
-              "slug": "ciprofloxacin",
-              "name": "Ciprofloxacin"
-            },
-            {
-              "slug": "cabergoline",
-              "name": "Cabergoline"
-            },
-            {
-              "slug": "atenolol",
-              "name": "Atenolol"
-            },
-            {
-              "slug": "carvedilol",
-              "name": "Carvedilol"
-            },
-            {
-              "slug": "hydrochlorothiazide",
-              "name": "Hydrochlorothiazide"
-            },
-            {
-              "slug": "furosemide",
-              "name": "Furosemide"
-            }
-          ]
-        }
-      ]
-    },
-    {
       "id": "4fe305d43c9b",
       "title": "Tonix เผยแพร่การศึกษาเภสัชจลนศาสตร์ของยารักษาโรค fibromyalgia โดย Investing.com",
       "published": "2026-04-17T07:00:00+00:00",
@@ -643,7 +914,7 @@
     {
       "id": "d80d5720f69a",
       "title": "Metformin promotes mitochondrial integrity through AMPK-signaling in Leber's hereditary optic neuropathy.",
-      "published": "2026-04-25T13:19:30.881206+00:00",
+      "published": "2026-04-25T19:03:18.979810+00:00",
       "sources": [
         {
           "name": "PubMed",
