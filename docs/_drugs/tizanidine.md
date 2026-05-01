@@ -1,92 +1,122 @@
 ---
 layout: default
-title: "Tizanidine"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Tizanidine ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Tizanidine"
-drugbank_id: "DB00697"
-evidence_level: "L4"
+title: Tizanidine
+parent: หลักฐานระดับกลาง (L3-L4)
+nav_order: 153
+evidence_level: L3
 indication_count: 10
 ---
 
 # Tizanidine
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00697](https://go.drugbank.com/drugs/DB00697) |
-| **เลขทะเบียนยา** | 1A 143/67 |
-| **ข้อบ่งใช้เดิม** | กล้ามเนื้อหดเกร็ง |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | migraine disorder |
-| **คะแนน TxGNN สูงสุด** | 0.9979 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | migraine disorder | 0.9979 |
-| 2 | migraine with brainstem aura | 0.9971 |
-| 3 | migraine with or without aura, susceptibility to | 0.9954 |
-| 4 | atrophoderma vermiculata | 0.9931 |
-| 5 | Tourette syndrome | 0.9917 |
-| 6 | ulerythema ophryogenesis | 0.9913 |
-| 7 | trichotillomania | 0.9891 |
-| 8 | headache disorder | 0.9883 |
-| 9 | dysthymic disorder | 0.9868 |
-| 10 | fibromyalgia | 0.9863 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+ใช้ txgnn-pipeline เป็น context แล้ว ขณะนี้กำลังสร้างรายงานประเมินสำหรับ Tizanidine
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Tizanidine: จากภาวะกล้ามเนื้อเกร็งสู่โรคไมเกรน
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Tizanidine เป็นยาคลายกล้ามเนื้อชนิดออกฤทธิ์ส่วนกลาง กลุ่ม α2 adrenergic receptor agonist ที่ใช้รักษาภาวะกล้ามเนื้อเกร็ง (muscle spasticity) มาอย่างยาวนาน
+โมเดล TxGNN คาดการณ์ว่ายานี้อาจมีประสิทธิผลในการป้องกัน **โรคไมเกรน (Migraine Disorder)** ผ่านกลไกการยับยั้งการส่งสัญญาณความเจ็บปวดที่ระดับไขสันหลังและการคลายกล้ามเนื้อบริเวณศีรษะ-คอ
+ปัจจุบันมี **การทดลองทางคลินิก 2 รายการ** (รวม Phase 3 RCT ที่กำลังรับสมัคร) และ **วรรณกรรม 18 ฉบับ** สนับสนุนแนวทางนี้
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|--------|---------|
+| ข้อบ่งใช้เดิม | ภาวะกล้ามเนื้อเกร็ง (Muscle Spasticity) |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไมเกรน (Migraine Disorder) |
+| คะแนนการทำนาย TxGNN | 99.79% |
+| ระดับหลักฐาน | L3 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่วางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+Tizanidine เป็น α2 adrenergic receptor agonist ที่ออกฤทธิ์ผ่านสองกลไกหลัก ได้แก่ (1) ยับยั้งการปล่อย glutamate จากบริเวณ dorsal horn ของไขสันหลัง ช่วยลดภาวะ central sensitization ซึ่งเป็นหัวใจสำคัญของพยาธิสรีรวิทยาโรคไมเกรน และ (2) คลายกล้ามเนื้อบริเวณศีรษะและคอที่เป็นปัจจัยกระตุ้นเชิงกลไก นอกจากนี้ยังปรับสมดุล descending pain inhibition pathway ซึ่งเกี่ยวข้องโดยตรงกับการรับรู้ความเจ็บปวดในผู้ป่วยไมเกรน
+
+ความเชื่อมโยงระหว่างข้อบ่งใช้เดิม (ภาวะกล้ามเนื้อเกร็ง) และข้อบ่งใช้ใหม่ (ไมเกรน) อยู่ที่กลไก α2 adrenergic agonism ร่วมกัน ยาในกลุ่มนี้อย่าง clonidine และ guanfacine มีประวัติการใช้ในการป้องกันไมเกรนอยู่ก่อนแล้ว จึงเกิด class effect ที่สนับสนุน tizanidine อีกทางหนึ่ง ยิ่งกว่านั้น tizanidine ยังออกฤทธิ์คลายกล้ามเนื้อ pericranial ได้โดยตรง ซึ่งเป็นกลไกที่เกี่ยวข้องกับทั้ง tension-type headache และ migraine แบบผสม
+
+ปัจจุบันมีหลักฐานทางคลินิกที่สนับสนุนจากการศึกษา double-blind placebo-controlled multicenter (Saper et al., 2002; PMID 12167135) ที่แสดงให้เห็นว่า tizanidine ลดความถี่ของ chronic daily headache ได้อย่างมีนัยสำคัญทางสถิติ และขณะนี้มี Phase 3 RCT ที่ออกแบบเฉพาะสำหรับการป้องกันไมเกรน (NCT05484349) กำลังรับสมัครอยู่ หากสำเร็จจะยกระดับหลักฐานขึ้นสู่ L1
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
+|----------------|------|--------|-----------------|-------------|
+| [NCT05484349](https://clinicaltrials.gov/study/NCT05484349) | Phase 3 | กำลังรับสมัคร | 189 | ประเมินประสิทธิผล ความปลอดภัย และความทนทานของ tizanidine hydrochloride รับประทานเพื่อป้องกันการเกิดไมเกรนในผู้ใหญ่อายุ 18–65 ปี (มีหรือไม่มี aura ประวัติ ≥1 ปี) แบบ multicenter, randomized, double-blind, placebo-controlled |
+| [NCT02403687](https://clinicaltrials.gov/study/NCT02403687) | N/A | เสร็จสิ้น | 300 | การศึกษาเชิงสังเกต 24 สัปดาห์ว่าด้วยประสิทธิผลของสารประกอบยาแก้ปวดหลากหลายชนิดในการบรรเทาอาการปวด ครอบคลุมกลุ่มผู้ป่วยที่มีอาการไมเกรน |
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|----|--------|--------|-------------|
+| [12167135](https://pubmed.ncbi.nlm.nih.gov/12167135/) | 2002 | RCT | Headache | ประเมินประสิทธิผลของ tizanidine hydrochloride เทียบยาหลอกในฐานะ adjunctive prophylaxis สำหรับ chronic daily headache (chronic migraine, migrainous headache, tension-type headache) แบบ double-blind multicenter |
+| [11318882](https://pubmed.ncbi.nlm.nih.gov/11318882/) | 2001 | Cohort | Headache | การศึกษา open-label ปรับขนาดยา tizanidine hydrochloride เพื่อป้องกัน chronic daily headache; ประเมินประสิทธิผลและความปลอดภัย |
+| [40983294](https://pubmed.ncbi.nlm.nih.gov/40983294/) | 2025 | In vitro | J Controlled Release | supramolecular self-assembly ของ tizanidine + meloxicam แสดงฤทธิ์ต้านไมเกรนแบบ synergistic; สนับสนุนศักยภาพการพัฒนาสูตรยาผสมใหม่สำหรับโรคไมเกรน |
+| [12696998](https://pubmed.ncbi.nlm.nih.gov/12696998/) | 2003 | Review | CNS Drugs | บทวิจารณ์ฤทธิ์ของ baclofen, tizanidine และ botulinum toxin A ในการป้องกันไมเกรนและ tension-type headache; tizanidine แสดงศักยภาพในกลุ่มยาคลายกล้ามเนื้อ |
+| [15115635](https://pubmed.ncbi.nlm.nih.gov/15115635/) | 2004 | Review | Curr Pain Headache Rep | รวบรวมตัวเลือกยาป้องกันไมเกรนใหม่; นำเสนอข้อมูลของ tizanidine ควบคู่กับ topiramate, zonisamide และ botulinum toxin |
+| [17115988](https://pubmed.ncbi.nlm.nih.gov/17115988/) | 2006 | Review | Headache | ทบทวนการรักษาเชิงป้องกันของ chronic daily headache; กล่าวถึง tizanidine เป็นหนึ่งในยาที่ได้รับการศึกษาร่วมกับ topiramate และ gabapentin |
+| [31365643](https://pubmed.ncbi.nlm.nih.gov/31365643/) | 2019 | Review | Arq Neuropsiquiatr | Consensus ของ Brazilian Headache Society ว่าด้วยการรักษา chronic migraine; ให้คำแนะนำตามหลักฐานปัจจุบัน |
+| [20442572](https://pubmed.ncbi.nlm.nih.gov/20442572/) | 2010 | Review | Curr Opin Neurol | การพัฒนาการรักษา chronic migraine; ทบทวน RCT ล่าสุดและความเข้าใจใหม่เกี่ยวกับพยาธิสรีรวิทยาของไมเกรน |
+| [19188563](https://pubmed.ncbi.nlm.nih.gov/19188563/) | 2009 | Review | Neurology | การปรับกลยุทธ์รักษา chronic migraine แบบ dynamic; ทบทวน comparator studies ของยาป้องกันหลายชนิดในสภาพแวดล้อมทางคลินิกจริง |
+| [11903539](https://pubmed.ncbi.nlm.nih.gov/11903539/) | 2002 | Case series | Headache | low-dose tizanidine ร่วมกับ NSAIDs สำหรับ detoxification จาก analgesic rebound headache; แสดงบทบาทของ tizanidine ในบริบทกลุ่มอาการปวดศีรษะสะสม |
+
+---
+
+## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+ปัจจุบัน Tizanidine **ยังไม่มีการขึ้นทะเบียนและวางจำหน่ายในประเทศไทย** (ข้อมูล Thai FDA ณ วันที่ 24 มีนาคม 2026 ไม่พบรายการใบอนุญาต)
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Proceed with Guardrails**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+มีหลักฐาน RCT แบบ double-blind multicenter สำหรับ chronic daily headache และ Phase 3 RCT ที่กำลังรับสมัคร (NCT05484349) สำหรับการป้องกันไมเกรนโดยตรง ประกอบกับกลไก α2 adrenergic agonism ที่มีความสมเหตุสมผลทางเภสัชวิทยาสูง และมีบทวิจารณ์จากหลายสถาบันสนับสนุน แม้ยาจะยังไม่ได้รับการอนุมัติข้อบ่งใช้นี้อย่างเป็นทางการ
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยาจาก TFDA เพื่อประเมินคำเตือนและข้อห้ามใช้ (แก้ไข DG001 — ระดับ Blocking)
+- สืบค้นข้อมูลกลไกการออกฤทธิ์โดยละเอียด (MOA) จาก DrugBank API (แก้ไข DG002 — ระดับ High)
+- ติดตามผลการศึกษา NCT05484349 (Phase 3 คาดสิ้นสุด ธ.ค. 2025) เพื่อยกระดับหลักฐานจาก L3 → L1
+- ประเมินความเป็นไปได้ในการยื่นขอขึ้นทะเบียน Thai FDA เนื่องจากยังไม่มีใบอนุญาตในประเทศไทย
+- พิจารณาผลข้างเคียงที่พบบ่อยของ tizanidine (ง่วงซึม, hypotension) ในการออกแบบโปรโตคอลติดตามความปลอดภัยของผู้ป่วย
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Tizanidine](https://go.drugbank.com/drugs/DB00697)
-- [PubMed: Tizanidine](https://pubmed.ncbi.nlm.nih.gov/?term=Tizanidine)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Tizanidine)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

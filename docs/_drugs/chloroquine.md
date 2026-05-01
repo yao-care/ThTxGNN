@@ -1,92 +1,103 @@
 ---
 layout: default
-title: "Chloroquine"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Chloroquine ในข้อบ่งใช้ใหม่ - ThTxGNN"
+title: Chloroquine
 parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Chloroquine"
-drugbank_id: "DB00608"
-evidence_level: "L4"
+nav_order: 41
+evidence_level: L4
 indication_count: 10
 ---
 
 # Chloroquine
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00608](https://go.drugbank.com/drugs/DB00608) |
-| **เลขทะเบียนยา** | 1A 107/67 |
-| **ข้อบ่งใช้เดิม** | มาลาเรีย |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | rheumatoid factor-positive polyarticular juvenile idiopathic arthritis |
-| **คะแนน TxGNN สูงสุด** | 0.9941 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | rheumatoid factor-positive polyarticular juvenile idiopathic arthritis | 0.9941 |
-| 2 | rheumatoid nodulosis | 0.9933 |
-| 3 | juvenile chronic polyarthritis | 0.9932 |
-| 4 | juvenile idiopathic arthritis | 0.9922 |
-| 5 | osteoarthritis | 0.9866 |
-| 6 | pseudoachondroplasia | 0.9833 |
-| 7 | Quinquaud's folliculitis decalvans | 0.9821 |
-| 8 | Smouldering systemic mastocytosis | 0.9805 |
-| 9 | telogen effluvium | 0.9804 |
-| 10 | malaria | 0.9803 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+ใช้ `txgnn-pipeline` เพื่อตรวจสอบบริบทโครงการ — ไม่มีคำแนะนำเพิ่มเติมสำหรับการสร้างรายงาน ดำเนินการตามรูปแบบ Evidence Pack v5
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Chloroquine: จากยาต้านมาลาเรียสู่ RF-Positive Polyarticular JIA ในเด็ก
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Chloroquine เป็นยาต้านมาลาเรียที่มีฤทธิ์ปรับภูมิคุ้มกัน เดิมใช้รักษาโรคมาลาเรียและโรคแพ้ภูมิตัวเอง เช่น SLE และ RA แต่ยังไม่มีทะเบียนยาในประเทศไทย โมเดล TxGNN คาดการณ์ว่าอาจมีประสิทธิผลในการรักษา **โรคข้ออักเสบไม่ทราบสาเหตุในเด็กชนิดหลายข้อที่มี RF บวก (RF-Positive Polyarticular JIA)** ผ่านกลไกการยับยั้ง TLR และลดการอักเสบของเยื่อหุ้มข้อ ปัจจุบัน**ไม่มีการทดลองทางคลินิกที่ตรงกัน** และมีเพียง**วรรณกรรม 2 ฉบับ**ที่สนับสนุนอย่างอ้อม
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | ยาต้านมาลาเรีย / โรคแพ้ภูมิตัวเอง (ไม่มีทะเบียนยาในประเทศไทย) |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | RF-Positive Polyarticular Juvenile Idiopathic Arthritis |
+| คะแนนการทำนาย TxGNN | 99.41% |
+| ระดับหลักฐาน | L4 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่วางจำหน่าย |
+| จำนวนใบอนุญาต | 0 |
+| คำแนะนำในการตัดสินใจ | Hold |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+Chloroquine ออกฤทธิ์ผ่านการยับยั้งสัญญาณ TLR7/9 และรบกวนการทำให้เป็นกรดของไลโซโซม ส่งผลให้ลดการนำเสนอแอนติเจนตัวเองและการหลั่งไซโตไคน์อักเสบ IL-1β/TNF-α กลไกนี้มีความสมเหตุสมผลเชิงทฤษฎีสำหรับการบรรเทาการอักเสบของเยื่อหุ้มข้อที่เกิดจากภูมิคุ้มกันใน RF-Positive Polyarticular JIA
+
+RF-Positive Polyarticular JIA มีลักษณะพยาธิกำเนิดคล้ายคลึงกับ RA ในผู้ใหญ่อย่างมีนัยสำคัญ ทั้งคู่มีออโตแอนติบอดี Rheumatoid Factor และการอักเสบของเยื่อหุ้มข้ออย่างรุนแรง Chloroquine และ hydroxychloroquine ถูกใช้เป็น DMARD มาตรฐานใน RA และ SLE อยู่แล้ว ดังนั้นการขยายสู่ RF-Positive Polyarticular JIA จึงมีเหตุผลเชิงกลไกรองรับ
+
+อย่างไรก็ตาม วรรณกรรมที่มีอยู่ในปัจจุบันเกี่ยวข้องกับ DMARDs อื่น เช่น leflunomide และ methotrexate ที่ใช้ใน JIA ยังไม่มีการทดลองทางคลินิกที่ทดสอบ Chloroquine โดยตรงในกลุ่มย่อย RF-Positive Polyarticular JIA โดยเฉพาะ
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [24334641](https://pubmed.ncbi.nlm.nih.gov/24334641/) | 2014 | Cohort | The Journal of rheumatology | ติดตามผลการรักษา JIA ด้วย leflunomide ในชีวิตจริงระยะยาว ให้บริบทบทบาทของ DMARD ใน JIA แต่ไม่ได้ทดสอบ Chloroquine โดยตรง |
+| [8627446](https://pubmed.ncbi.nlm.nih.gov/8627446/) | 1996 | Case series | The Journal of pediatrics | ผู้ป่วย RF-Positive Polyarticular JRA เกิด accelerated nodulosis ระหว่างรักษาด้วย MTX โดยในรายหนึ่งการเพิ่ม hydroxychloroquine ช่วยหยุดการเจริญเติบโตของก้อนได้ |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Hold**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+หลักฐานปัจจุบันอยู่ในระดับ L4 (กลไกเชิงทฤษฎีและหลักฐานอ้อม) ไม่มีการทดลองทางคลินิกที่ทดสอบ Chloroquine โดยตรงใน RF-Positive Polyarticular JIA และยาไม่มีทะเบียนในประเทศไทย
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- รวบรวมและทบทวนหลักฐานการทดลองทางคลินิกของ hydroxychloroquine ใน JIA เพื่อประเมินหลักฐานทางอ้อมจากยาในกลุ่มเดียวกัน
+- ดำเนินการศึกษาก่อนคลินิก (in vitro/in vivo) ในโมเดล RF-Positive Polyarticular JIA
+- สืบค้นข้อมูล MOA โดยละเอียดจาก DrugBank API (DB00608) เพื่อเสริมความแข็งแกร่งของการวิเคราะห์กลไก
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยา TFDA เพื่อประเมินคำเตือนและข้อห้ามใช้ก่อนดำเนินการต่อ
+- ประเมินเส้นทางการจดทะเบียนยาในประเทศไทยก่อนออกแบบการทดลองทางคลินิก
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Chloroquine](https://go.drugbank.com/drugs/DB00608)
-- [PubMed: Chloroquine](https://pubmed.ncbi.nlm.nih.gov/?term=Chloroquine)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Chloroquine)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

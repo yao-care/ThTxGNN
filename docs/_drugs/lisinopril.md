@@ -1,92 +1,98 @@
 ---
 layout: default
-title: "Lisinopril"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Lisinopril ในข้อบ่งใช้ใหม่ - ThTxGNN"
+title: Lisinopril
 parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Lisinopril"
-drugbank_id: "DB00722"
-evidence_level: "L4"
+nav_order: 98
+evidence_level: L4
 indication_count: 10
 ---
 
 # Lisinopril
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00722](https://go.drugbank.com/drugs/DB00722) |
-| **เลขทะเบียนยา** | 1A 12/67 |
-| **ข้อบ่งใช้เดิม** | ความดันโลหิตสูง, หัวใจล้มเหลว |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | myocardial infarction |
-| **คะแนน TxGNN สูงสุด** | 0.9992 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | myocardial infarction | 0.9992 |
-| 2 | posterolateral myocardial infarction | 0.9990 |
-| 3 | posteroinferior myocardial infarction | 0.9990 |
-| 4 | pulmonary hypertension owing to lung disease and/or hypoxia | 0.9989 |
-| 5 | pulmonary hypertension with unclear multifactorial mechanism | 0.9989 |
-| 6 | malignant renovascular hypertension | 0.9989 |
-| 7 | malignant hypertensive renal disease | 0.9989 |
-| 8 | hypertensive disorder | 0.9989 |
-| 9 | septal myocardial infarction | 0.9988 |
-| 10 | Braddock syndrome | 0.9986 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+# Lisinopril: จากยาลดความดันโลหิตสู่กล้ามเนื้อหัวใจตายบริเวณหลังด้านข้าง
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+## สรุปสั้นๆ
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+Lisinopril เป็นยากลุ่ม ACE Inhibitor ที่ออกฤทธิ์ยับยั้งการแปลง Angiotensin I เป็น Angiotensin II ใช้รักษาความดันโลหิตสูงและภาวะหัวใจล้มเหลว อย่างไรก็ตามยาดังกล่าวยังไม่มีทะเบียนในประเทศไทย
+โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **กล้ามเนื้อหัวใจตายบริเวณหลังด้านข้าง (Posterolateral Myocardial Infarction)** ด้วยคะแนน 99.90%
+ปัจจุบัน**ยังไม่มีการทดลองทางคลินิกหรือวรรณกรรมที่รองรับข้อบ่งใช้เฉพาะนี้โดยตรง** แม้จะมีฐานหลักฐานระดับ L1 สำหรับกลุ่มยา ACE Inhibitor ในการรักษา MI โดยรวม (GISSI-3, ISIS-4)
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | ความดันโลหิตสูง / หัวใจล้มเหลว (ACE Inhibitor) |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | กล้ามเนื้อหัวใจตายบริเวณหลังด้านข้าง (Posterolateral Myocardial Infarction) |
+| คะแนนการทำนาย TxGNN | 99.90% |
+| ระดับหลักฐาน | L4 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่มีทะเบียนยาในประเทศไทย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Research Question |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ข้อมูลกลไกการออกฤทธิ์โดยละเอียดยังไม่สมบูรณ์ในฐานข้อมูล แต่ Lisinopril เป็นยากลุ่ม ACE Inhibitor ที่ยับยั้งเอนไซม์แปลง Angiotensin I → Angiotensin II (Ang II) ซึ่งเป็น neurohormone สำคัญที่พุ่งสูงภายหลัง MI และกระตุ้นให้เกิด ventricular remodeling, พังผืดในกล้ามเนื้อหัวใจ และการขยายตัวของห้องล่าง (ventricular dilation) การยับยั้ง ACE จึงลดทั้ง afterload และกระบวนการ remodeling ที่ทำให้การทำงานของหัวใจเสื่อมลงในระยะยาว
+
+ความเชื่อมโยงกับ Posterolateral MI มีฐานทางกลไกเดียวกับ MI โดยรวม กล่าวคือ Ang II ที่เพิ่มขึ้นหลังเกิด infarction บริเวณ posterolateral wall กระตุ้นให้เกิดการเปลี่ยนแปลงเชิงโครงสร้างของหัวใจห้องล่างซ้าย ACE Inhibitor อย่าง Lisinopril จึงน่าจะยับยั้งกลไกนี้ได้ โดยการศึกษาสำคัญอย่าง **GISSI-3** และ **ISIS-4** แสดงให้เห็นประสิทธิผลของ ACE Inhibitor ในการลดอัตราการเสียชีวิตภายหลัง MI โดยรวมในระดับ L1
+
+อย่างไรก็ตาม Posterolateral MI เป็นอนุชนิดที่เฉพาะเจาะจงทางกายวิภาค มักเกี่ยวข้องกับหลอดเลือด left circumflex หรือ right coronary artery ยังขาดข้อมูลทางคลินิกที่ยืนยันโดยตรงว่าการตอบสนองต่อ ACE Inhibitor ในอนุชนิดนี้เทียบเท่ากับ MI อนุชนิดอื่น จึงต้องการการวิจัยเฉพาะเพิ่มเติม
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้องกับ Lisinopril ใน Posterolateral Myocardial Infarction โดยตรง
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+ปัจจุบันยังไม่มีวรรณกรรมที่เกี่ยวข้องกับ Lisinopril ใน Posterolateral Myocardial Infarction โดยตรง
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Research Question**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+การทำนาย TxGNN มีคะแนนสูง (99.90%) และกลไก RAS/ACE pathway มีความสมเหตุสมผลในเชิงทฤษฎี แต่ยังขาดข้อมูลทางคลินิกเฉพาะสำหรับอนุชนิด Posterolateral MI ยาไม่มีทะเบียนในประเทศไทย และข้อมูลความปลอดภัยยังต้องการการเสริมเติมก่อนประเมินความเป็นไปได้
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ดาวน์โหลดเอกสารกำกับยาจาก FDA/EMA เพื่อประเมินคำเตือนและข้อห้ามใช้ (แก้ไข DG001)
+- ดึงข้อมูลกลไกการออกฤทธิ์โดยละเอียดจาก DrugBank API (แก้ไข DG002)
+- สืบค้น sub-group analysis จากการทดลอง GISSI-3 และ ISIS-4 เพื่อดูว่ามีข้อมูล Posterolateral MI หรือไม่
+- ออกแบบ retrospective cohort study หรือ observational study เฉพาะกลุ่ม Posterolateral MI
+- ประเมินความเป็นไปได้ในการขึ้นทะเบียนยาในประเทศไทย
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Lisinopril](https://go.drugbank.com/drugs/DB00722)
-- [PubMed: Lisinopril](https://pubmed.ncbi.nlm.nih.gov/?term=Lisinopril)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Lisinopril)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

@@ -1,92 +1,109 @@
 ---
 layout: default
-title: "Propylthiouracil"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Propylthiouracil ในข้อบ่งใช้ใหม่ - ThTxGNN"
+title: Propylthiouracil
 parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Propylthiouracil"
-drugbank_id: "DB00550"
-evidence_level: "L4"
+nav_order: 133
+evidence_level: L4
 indication_count: 10
 ---
 
 # Propylthiouracil
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00550](https://go.drugbank.com/drugs/DB00550) |
-| **เลขทะเบียนยา** | 1A 87/67 |
-| **ข้อบ่งใช้เดิม** | ภาวะไทรอยด์เป็นพิษ |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | hyperthyroidism |
-| **คะแนน TxGNN สูงสุด** | 0.9977 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | hyperthyroidism | 0.9977 |
-| 2 | resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta | 0.9966 |
-| 3 | Graves disease | 0.9961 |
-| 4 | neonatal thyrotoxicosis | 0.9940 |
-| 5 | hyperthyroxinemia | 0.9908 |
-| 6 | Hashimoto thyroiditis | 0.9822 |
-| 7 | autoimmune thyroid disease | 0.9802 |
-| 8 | thyrotoxicosis | 0.9753 |
-| 9 | autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 0.9662 |
-| 10 | brain small vessel disease 1 with or without ocular anomalies | 0.9649 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+Using `txgnn-pipeline` to confirm context. Now generating the report following the Evidence Pack JSON.
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Propylthiouracil (PTU): จากภาวะไทรอยด์เป็นพิษสู่ภาวะดื้อต่อฮอร์โมนไทรอยด์จาก THRβ Mutation
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Propylthiouracil (PTU) เป็นยาต้านไทรอยด์ที่ใช้รักษาภาวะไทรอยด์เป็นพิษ (hyperthyroidism) รวมถึง Graves' disease โดยออกฤทธิ์ยับยั้งการสังเคราะห์ฮอร์โมนไทรอยด์และการแปลง T4 → T3 ในเนื้อเยื่อส่วนปลาย
+โมเดล TxGNN คาดการณ์ว่า PTU อาจมีประโยชน์ต่อ **ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ของ THRβ (Resistance to Thyroid Hormone – THRβ)**
+ปัจจุบันมี **วรรณกรรม 6 ฉบับ** สนับสนุนแนวทางนี้ โดยยังไม่มีการทดลองทางคลินิกที่เกี่ยวข้องโดยตรง
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | ภาวะไทรอยด์เป็นพิษ / Graves' disease |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ THRβ (Resistance to Thyroid Hormone – THRβ) |
+| คะแนนการทำนาย TxGNN | 99.66% |
+| ระดับหลักฐาน | L4 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่วางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Hold (Research Question) |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดจาก DrugBank อย่างเป็นทางการ อย่างไรก็ตาม จากบริบทของวรรณกรรมในฐานข้อมูล PTU เป็นที่ทราบกันดีว่ายับยั้งเอนไซม์ thyroid peroxidase (TPO) ซึ่งจำเป็นต่อการสังเคราะห์ฮอร์โมนไทรอยด์ และยับยั้ง 5'-deiodinase type I ลดการแปลง T4 → T3 ในเนื้อเยื่อส่วนปลาย ผลลัพธ์สุทธิคือระดับ T3 และ T4 ในกระแสเลือดลดลง
+
+ภาวะดื้อต่อฮอร์โมนไทรอยด์ (RTH-THRβ) เป็นกลุ่มอาการทางพันธุกรรมแบบ autosomal dominant ซึ่งตัวรับ TRβ ทำงานผิดปกติและออกฤทธิ์เป็น dominant negative ทำให้ต่อมใต้สมองหลั่ง TSH สูงอย่างต่อเนื่อง กระตุ้นให้ระดับ T4/T3 สูงขึ้น เนื้อเยื่อที่ยังมีตัวรับ TRα ปกติ เช่น หัวใจ จึงถูก T3 กระตุ้นมากเกินไป ก่อให้เกิดอาการใจสั่ง หัวใจเต้นเร็ว
+
+ตรรกะที่ TxGNN ให้คะแนนสูงถึง 99.66% มาจากเหตุผลว่า แม้ PTU ไม่สามารถแก้ไขการกลายพันธุ์ของตัวรับได้โดยตรง แต่การลดระดับฮอร์โมนไทรอยด์ในกระแสเลือดลงอาจบรรเทาผลพิษต่อเนื้อเยื่อที่มี TRα ปกติ รายงานกรณีศึกษาในผู้ป่วยไทย (PMID: 10724359) บันทึกกรณีที่ถูกวินิจฉัยผิดพลาดว่าเป็น thyrotoxicosis และได้รับ PTU นานถึง 9 เดือน ก่อนวินิจฉัย RTH ได้ถูกต้อง ซึ่งสะท้อนความซับซ้อนทางคลินิกและข้อบ่งชี้ถึงประโยชน์บางส่วนของการลดระดับฮอร์โมน
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้องกับ PTU ในข้อบ่งใช้นี้
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [14684607](https://pubmed.ncbi.nlm.nih.gov/14684607/) | 2004 | Review | Endocrinology | วิเคราะห์บทบาทของ TRβ isoform ในหัวใจ; พบว่า dominant-negative THRβ mutation (Δ337T) เปลี่ยนแปลงการตอบสนองของหัวใจต่อ T3 ในโมเดลเมาส์ RTH |
+| [18561095](https://pubmed.ncbi.nlm.nih.gov/18561095/) | 2009 | Case series | Exp Clin Endocrinol Diabetes | รายงานครอบครัวตุรกีที่มี P453A mutation ใน THRβ; แม่และลูกชายแสดงอาการ RTH คลาสสิก ยืนยันการถ่ายทอดแบบ autosomal dominant |
+| [12201835](https://pubmed.ncbi.nlm.nih.gov/12201835/) | 2002 | Case series | Clinical Endocrinology | ทารกแรกเกิดที่มี RTH (M313T mutation) แสดง thyrotoxicosis ในช่วงนีโอนาทัล ตอบสนองทางคลินิกต่อ PTU และแม่มีปัญหาภาวะมีบุตรยาก |
+| [10724359](https://pubmed.ncbi.nlm.nih.gov/10724359/) | 1999 | Case series | Endocrine Journal | หญิงไทยอายุ 19 ปี มี de novo L330S mutation ใน TRβ; รับ PTU ผิดๆ 9 เดือนก่อนวินิจฉัย RTH ได้ถูกต้อง คอพอกโตขึ้นระหว่างรับยา |
+| [22919057](https://pubmed.ncbi.nlm.nih.gov/22919057/) | 2012 | Animal | Endocrinology | บทบาทของ TSH ในการพัฒนามะเร็งไทรอยด์ชนิด follicular ในเมาส์ Thrb(PV/+) heterozygous; TSH ที่สูงเป็นปัจจัยขับเคลื่อนหลัก |
+| [21909131](https://pubmed.ncbi.nlm.nih.gov/21909131/) | 2012 | Animal | Oncogene | Thyroid hormone กระตุ้นการแบ่งเซลล์มะเร็งใน Thrb(PV/PV) mouse model; สนับสนุนว่าการลดระดับ T3/T4 อาจชะลอการดำเนินโรค |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Hold (Research Question)**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+หลักฐานอยู่ในระดับ L4 (รายงานกรณีศึกษาและการศึกษาในสัตว์ทดลอง) เท่านั้น กลไกการออกฤทธิ์เป็นการบรรเทาอาการทางอ้อมโดยลดระดับฮอร์โมน ไม่ได้แก้ปัญหาที่ตัวรับโดยตรง และยังไม่มีข้อมูลความปลอดภัยในประเทศไทย
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- รับข้อมูลกลไกการออกฤทธิ์ (MOA) โดยละเอียดจาก DrugBank API (DG002)
+- ดาวน์โหลดเอกสารกำกับยาจาก TFDA เพื่อรับข้อมูลคำเตือนและข้อห้ามใช้ (DG001)
+- ออกแบบการศึกษา Proof-of-Concept ในผู้ป่วย RTH-THRβ ที่มีอาการ tachycardia เพื่อประเมิน safety-efficacy window
+- ทบทวนแนวปฏิบัติทางคลินิกปัจจุบันของ RTH (เช่น แนวทางของ European Thyroid Association) ก่อนพิจารณาบทบาทของ PTU ในบริบทนี้
+- พิจารณาขึ้นทะเบียนยา PTU ในประเทศไทยเพื่อรองรับการใช้งานทางคลินิกในอนาคต
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Propylthiouracil](https://go.drugbank.com/drugs/DB00550)
-- [PubMed: Propylthiouracil](https://pubmed.ncbi.nlm.nih.gov/?term=Propylthiouracil)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Propylthiouracil)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

@@ -1,92 +1,139 @@
 ---
 layout: default
-title: "Bisoprolol"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Bisoprolol ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Bisoprolol"
-drugbank_id: "DB00612"
-evidence_level: "L4"
+title: Bisoprolol
+parent: หลักฐานระดับสูง (L1-L2)
+nav_order: 26
+evidence_level: L2
 indication_count: 10
 ---
 
 # Bisoprolol
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L2** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00612](https://go.drugbank.com/drugs/DB00612) |
-| **เลขทะเบียนยา** | 1A 3/67 |
-| **ข้อบ่งใช้เดิม** | ความดันโลหิตสูง, หัวใจล้มเหลว |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | malignant renovascular hypertension |
-| **คะแนน TxGNN สูงสุด** | 0.9994 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | malignant renovascular hypertension | 0.9994 |
-| 2 | malignant hypertensive renal disease | 0.9994 |
-| 3 | pulmonary hypertension owing to lung disease and/or hypoxia | 0.9993 |
-| 4 | pulmonary hypertension with unclear multifactorial mechanism | 0.9993 |
-| 5 | hypertensive disorder | 0.9993 |
-| 6 | Braddock syndrome | 0.9991 |
-| 7 | chronic pulmonary heart disease | 0.9863 |
-| 8 | Prinzmetal angina | 0.9442 |
-| 9 | obsolete susceptibility to ischemic stroke | 0.7523 |
-| 10 | brain stem infarction | 0.6817 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+# Bisoprolol: จากโรคหัวใจล้มเหลวและความดันโลหิตสูงสู่โรคปอดหัวใจเรื้อรัง
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+## สรุปสั้นๆ
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+Bisoprolol เป็นยากลุ่ม β-Blocker ที่มีความจำเพาะสูงต่อตัวรับ β1 ในหัวใจ เดิมใช้รักษาโรคหัวใจล้มเหลว ความดันโลหิตสูง และโรคหลอดเลือดหัวใจตีบ โมเดล TxGNN คาดการณ์ข้อบ่งใช้ใหม่ทั้งหมด 10 รายการ โดยข้อบ่งใช้ที่มีหลักฐานสนับสนุนแข็งแกร่งที่สุดคือ **โรคปอดหัวใจเรื้อรัง (Chronic Pulmonary Heart Disease)** ซึ่งมี Phase 3 RCT รองรับ ปัจจุบันมี **การทดลองทางคลินิก 16 รายการ** และ **วรรณกรรม 20 ฉบับ** สนับสนุนแนวทางนี้ แม้ยังไม่ได้ขึ้นทะเบียนในประเทศไทย
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | โรคหัวใจล้มเหลว, ความดันโลหิตสูง, โรคหลอดเลือดหัวใจตีบ |
+| ข้อบ่งใช้ใหม่ที่ทำนาย (หลักฐานดีที่สุด) | โรคปอดหัวใจเรื้อรัง (Chronic Pulmonary Heart Disease) |
+| คะแนนการทำนาย TxGNN | 98.63% (อันดับ 6 จาก 10 รายการ; อันดับ 1: Malignant Renovascular Hypertension 99.94%) |
+| ระดับหลักฐาน | L2 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่ขึ้นทะเบียน |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
+
+---
+
+## สรุปข้อบ่งใช้ที่ TxGNN ทำนายทั้งหมด 10 รายการ
+
+| อันดับ | โรค | คะแนน TxGNN | ระดับหลักฐาน | คำแนะนำ |
+|------|-----|------------|------------|--------|
+| 1 | Malignant Renovascular Hypertension | 99.94% | L5 | Hold |
+| 2 | Malignant Hypertensive Renal Disease | 99.94% | L5 | Hold |
+| 3 | Pulmonary Hypertension (Lung Disease/Hypoxia) | 99.93% | L5 | Hold |
+| 4 | Pulmonary Hypertension (Multifactorial) | 99.93% | L5 | Hold |
+| 5 | Braddock Syndrome | 99.91% | L5 | Hold |
+| **6** | **โรคปอดหัวใจเรื้อรัง (Chronic Pulmonary Heart Disease)** | **98.63%** | **L2** | **✅ Proceed with Guardrails** |
+| 7 | Prinzmetal Angina | 94.42% | L4 | Hold |
+| 8 | Ischemic Stroke Susceptibility (obsolete) | 75.23% | L5 | Hold |
+| 9 | Brain Stem Infarction | 68.17% | L5 | Hold |
+| 10 | Cerebrovascular Disorder | 68.13% | L4 | Research Question |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+Bisoprolol มีความจำเพาะสูงมากต่อตัวรับ β1-adrenergic ในหัวใจมากกว่า β-blocker ชนิดอื่นในกลุ่มเดียวกัน กลไกหลักคือลดอัตราการเต้นของหัวใจ ลดความดันโลหิต และยับยั้งการกระตุ้นของระบบประสาทซิมพาเธติกที่มากเกินไป ซึ่งผ่านการพิสูจน์แล้วในโรคหัวใจล้มเหลวเรื้อรัง ความสำคัญของ β1-selectivity สูงคือการหลีกเลี่ยงการยับยั้งตัวรับ β2 ในหลอดลม ซึ่งอาจก่อให้เกิดหลอดลมหดเกร็งอันตรายในผู้ป่วยโรคปอดเรื้อรัง
+
+โรคปอดหัวใจเรื้อรัง (Cor Pulmonale) เกิดจากความดันในหลอดเลือดปอดที่สูงเรื้อรัง — ส่วนใหญ่เป็นผลจาก COPD — ทำให้หัวใจห้องขวาทำงานหนักเกินจนเกิดภาวะหัวใจขวาล้มเหลว ผู้ป่วยกลุ่มนี้มักมีโรคหัวใจล้มเหลวร่วมด้วย ซึ่งมีพยาธิสรีรวิทยาที่ทับซ้อนกับข้อบ่งใช้เดิมของ Bisoprolol โดยตรง Bisoprolol สามารถลดอัตราการเต้นของหัวใจ ปรับปรุงการคลายตัวของหัวใจห้องขวา (diastolic function) และลด sympathetic overdrive ที่เป็นกลไกสำคัญของโรค
+
+มีการทดลองทางคลินิก Phase 3 (PACMAN trial) RCT โดยตรงในกลุ่มผู้ป่วย COPD+หัวใจล้มเหลวอีกอย่างน้อย 2 รายการ และ meta-analysis ยืนยันว่า Bisoprolol ใช้ได้ค่อนข้างปลอดภัยในกลุ่มนี้ อย่างไรก็ตาม ผลจาก BICS trial (JAMA 2024) ชี้ว่า Bisoprolol ไม่ลดการกำเริบของ COPD ตามที่คาดไว้ และอาจเพิ่มการเข้าโรงพยาบาลจากการกำเริบรุนแรงในบางกลุ่มย่อย ซึ่งต้องนำมาพิจารณาควบคู่กับประโยชน์ทางหัวใจ
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+*(สำหรับโรคปอดหัวใจเรื้อรัง — แสดงรายการที่เกี่ยวข้องมากที่สุด 10 รายการ)*
+
+| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
+|---------|------|------|------|---------|
+| [NCT03917914](https://clinicaltrials.gov/study/NCT03917914) | Phase 3 | เสร็จสิ้น | 280 | PACMAN trial: RCT ประเมินประสิทธิผลการรักษาเชิงป้องกันโรคหัวใจใน COPD ที่มีความเสี่ยงสูงต่อเหตุการณ์หัวใจ — ประเมินผลลัพธ์หัวใจและปอดรวมกัน |
+| [NCT00702156](https://clinicaltrials.gov/study/NCT00702156) | Phase 2 | ยุติการทดลอง | 27 | Bisoprolol โดยตรงในผู้ป่วยหัวใจล้มเหลวที่มี COPD ปานกลาง-รุนแรง — ประเมินสมรรถภาพปอดและคุณภาพชีวิต (ยุติก่อนกำหนด) |
+| [NCT00517725](https://clinicaltrials.gov/study/NCT00517725) | Phase 4 | เสร็จสิ้น | 60 | เปรียบเทียบ Bisoprolol, Nebivolol และ Carvedilol ในหัวใจล้มเหลว — ความสามารถออกกำลังกาย ภาวะขาดออกซิเจน และสมรรถภาพปอด |
+| [NCT02380053](https://clinicaltrials.gov/study/NCT02380053) | Phase 4 | เสร็จสิ้น | 10 | Bisoprolol เทียบ Celiprolol ใน COPD — ผลแตกต่างต่อหัวใจและปอดขณะพักและออกกำลังกาย |
+| [NCT01656005](https://clinicaltrials.gov/study/NCT01656005) | Phase 4 | เสร็จสิ้น | 18 | เปรียบเทียบผลเรื้อรังของ β-blocker แบบเลือกสูงและแบบไม่เลือกใน COPD ปานกลาง-รุนแรง |
+| [NCT02106286](https://clinicaltrials.gov/study/NCT02106286) | Early Phase 1 | เสร็จสิ้น | 55 | ผลของ beta-blockade ต่อสมรรถภาพหัวใจ-ปอด วัดด้วย Cardiopulmonary Exercise Testing (CPET) |
+| [NCT03646357](https://clinicaltrials.gov/study/NCT03646357) | Phase 4 | กำลังดำเนินการ | 2,895 | BETAMI trial: Beta-blocker หลังกล้ามเนื้อหัวใจตายในผู้ป่วยที่ไม่มีการลดลงของ EF — ความปลอดภัยระยะยาว |
+| [NCT03278509](https://clinicaltrials.gov/study/NCT03278509) | Phase 4 | กำลังดำเนินการ | 5,000 | REDUCE-SWEDEHEART: ประเมินการลดการใช้ beta-blocker ระยะยาวหลัง MI ในกลุ่มที่มี EF ปกติ |
+| [NCT01829880](https://clinicaltrials.gov/study/NCT01829880) | N/A | ไม่ทราบสถานะ | 60 | ผลของ cachexia และการเปลี่ยนแปลงองค์ประกอบร่างกายต่อเภสัชจลนศาสตร์ของ Bisoprolol ในผู้ป่วยหัวใจล้มเหลวเรื้อรัง |
+| [NCT04542785](https://clinicaltrials.gov/study/NCT04542785) | N/A | ไม่ทราบสถานะ | 350 | DanAF trial: เปรียบเทียบกลยุทธ์การควบคุมอัตราหัวใจแบบผ่อนปรนเทียบเข้มงวดในผู้ป่วยหัวใจเต้นผิดจังหวะ |
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+*(สำหรับโรคปอดหัวใจเรื้อรัง — แสดงรายการที่เกี่ยวข้องมากที่สุด 10 ฉบับ)*
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [38762800](https://pubmed.ncbi.nlm.nih.gov/38762800/) | 2024 | RCT | JAMA | BICS trial: Bisoprolol ในผู้ป่วย COPD ความเสี่ยงสูงต่อการกำเริบ — ไม่ลดการกำเริบโดยรวม และอาจเพิ่มการเข้าโรงพยาบาลจากการกำเริบรุนแรง |
+| [38587241](https://pubmed.ncbi.nlm.nih.gov/38587241/) | 2024 | RCT | NEJM | REDUCE-AMI: Beta-blockers หลัง MI ในผู้ป่วย EF ปกติยุคปัจจุบัน — ไม่พบประโยชน์เพิ่มเติมอย่างมีนัยสำคัญ |
+| [38152590](https://pubmed.ncbi.nlm.nih.gov/38152590/) | 2023 | Meta-analysis | Int J COPD | Systematic review & meta-analysis: Bisoprolol ในผู้ป่วย COPD — ยืนยันประสิทธิผลและความปลอดภัยในภาพรวม |
+| [19460848](https://pubmed.ncbi.nlm.nih.gov/19460848/) | 2009 | RCT | Eur J Heart Fail | Bisoprolol ในผู้ป่วยหัวใจล้มเหลวที่มี COPD ปานกลาง-รุนแรง: RCT แรกที่ศึกษาโดยตรงในกลุ่มนี้ |
+| [22015086](https://pubmed.ncbi.nlm.nih.gov/22015086/) | 2011 | RCT | Resp Med | Bisoprolol เทียบ Carvedilol ในผู้ป่วยหัวใจล้มเหลวที่มี COPD: randomized trial เปรียบเทียบโดยตรง |
+| [40386836](https://pubmed.ncbi.nlm.nih.gov/40386836/) | 2025 | Cohort | Health Technol Assess | รายงาน BICS RCT ฉบับสมบูรณ์: ผลลัพธ์ระยะยาวของ Bisoprolol ต่อการกำเริบของ COPD และสถานะสุขภาพ |
+| [27792991](https://pubmed.ncbi.nlm.nih.gov/27792991/) | 2017 | Cohort | Int J Cardiol | Bisoprolol เทียบ Carvedilol ในหัวใจล้มเหลวเรื้อรัง — Bisoprolol ให้การป้องกันกล้ามเนื้อหัวใจและสมรรถภาพปอดที่ดีกว่า |
+| [22157723](https://pubmed.ncbi.nlm.nih.gov/22157723/) | 2012 | Animal | Circ Heart Fail | Bisoprolol ชะลอการดำเนินโรคไปสู่หัวใจขวาล้มเหลวในแบบจำลองสัตว์ทดลองของ pulmonary hypertension |
+| [38597065](https://pubmed.ncbi.nlm.nih.gov/38597065/) | 2024 | Review | Curr Med Res Opin | เปรียบเทียบเภสัชวิทยา β-blockers — Bisoprolol มี β1-selectivity สูงที่สุดในกลุ่ม มีผลต่อ β2 น้อยมากในขนาดที่ใช้รักษา |
+| [33847660](https://pubmed.ncbi.nlm.nih.gov/33847660/) | 2021 | Review | Medicine | Protocol สำหรับ systematic review: Bisoprolol + Trimetazidine ในผู้ป่วยหัวใจล้มเหลวที่มี COPD แทรกซ้อน |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Proceed with Guardrails**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+มี Phase 3 RCT (PACMAN trial, n=280) ที่เสร็จสมบูรณ์ RCT โดยตรงในกลุ่ม COPD+หัวใจล้มเหลวอีก 2 รายการ และ meta-analysis ยืนยันความปลอดภัยในระดับ L2 กลไก β1-selective ของ Bisoprolol ลดความเสี่ยงหลอดลมหดเกร็งในผู้ป่วยโรคปอดเรื้อรัง อย่างไรก็ตาม Bisoprolol ยังไม่ขึ้นทะเบียนในประเทศไทย และสัญญาณเตือนจาก BICS trial (2024, JAMA) ที่พบว่าอาจเพิ่มการเข้าโรงพยาบาลจากการกำเริบรุนแรงในบางกลุ่ม จำเป็นต้องได้รับการพิจารณาอย่างรอบคอบก่อนนำไปใช้
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ยื่นขอขึ้นทะเบียนยากับ Thai FDA ก่อนการใช้งานใดๆ ในประเทศไทย
+- ดึงข้อมูล MOA โดยละเอียดจาก DrugBank API เพื่อเติมเต็ม Data Gap DG002
+- ดาวน์โหลดและวิเคราะห์คำเตือนและข้อห้ามใช้จากเอกสารกำกับยาต้นฉบับ (TFDA) เพื่อแก้ไข Data Gap DG001
+- ออกแบบแผนติดตามความปลอดภัยสำหรับผู้ป่วย COPD โดยเฉพาะกลุ่มที่มี FEV1 < 50% หรือมีหอบหืดแทรกซ้อน
+- ทบทวนผลวิเคราะห์กลุ่มย่อยจาก BICS trial (2024) เพื่อระบุกลุ่มผู้ป่วยที่ได้ประโยชน์สูงสุดและกลุ่มที่มีความเสี่ยงสูง
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Bisoprolol](https://go.drugbank.com/drugs/DB00612)
-- [PubMed: Bisoprolol](https://pubmed.ncbi.nlm.nih.gov/?term=Bisoprolol)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Bisoprolol)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

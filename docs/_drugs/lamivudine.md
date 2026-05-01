@@ -1,92 +1,111 @@
 ---
 layout: default
-title: "Lamivudine"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Lamivudine ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Lamivudine"
-drugbank_id: "DB00709"
-evidence_level: "L4"
+title: Lamivudine
+parent: การคาดการณ์จากโมเดล (L5)
+nav_order: 92
+evidence_level: L5
 indication_count: 10
 ---
 
 # Lamivudine
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00709](https://go.drugbank.com/drugs/DB00709) |
-| **เลขทะเบียนยา** | 1A 103/67 |
-| **ข้อบ่งใช้เดิม** | ไวรัสตับอักเสบบี, เอชไอวี |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | HIV infectious disease |
-| **คะแนน TxGNN สูงสุด** | 0.9996 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | HIV infectious disease | 0.9996 |
-| 2 | simian immunodeficiency virus infection | 0.9993 |
-| 3 | feline acquired immunodeficiency syndrome | 0.9993 |
-| 4 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 0.9993 |
-| 5 | obsolete familial combined hyperlipidemia | 0.9963 |
-| 6 | chronic hepatitis C virus infection | 0.9911 |
-| 7 | hepatitis B virus infection | 0.9784 |
-| 8 | chronic hepatitis B virus infection | 0.9708 |
-| 9 | hepatitis C virus infection | 0.9696 |
-| 10 | idiopathic copper-associated cirrhosis | 0.9633 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+# Lamivudine: จากยาต้านไวรัส NRTI สู่การติดเชื้อ Simian Immunodeficiency Virus (SIV)
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+## สรุปสั้นๆ
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+Lamivudine (3TC) เป็นยาต้านไวรัสกลุ่ม Nucleoside Reverse Transcriptase Inhibitor (NRTI) ที่ใช้รักษาการติดเชื้อ HIV-1 และไวรัสตับอักเสบบี (HBV) อย่างแพร่หลายในระดับนานาชาติ อย่างไรก็ตามยังไม่มีใบอนุญาตวางจำหน่ายในประเทศไทย
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+โมเดล TxGNN คาดการณ์ว่าอาจมีประสิทธิผลต่อ **การติดเชื้อ Simian Immunodeficiency Virus (SIV)** ซึ่งเป็นไวรัสในลิงที่ใช้เป็นแบบจำลองสัตว์ทดลองมาตรฐานสำหรับการวิจัย HIV ไม่ใช่โรคในมนุษย์โดยตรง
+
+ปัจจุบันมี **วรรณกรรม 20 ฉบับ** สนับสนุนแนวทางนี้ โดยส่วนใหญ่เป็นการศึกษาในสัตว์ทดลอง (ลิง macaque) และ **ไม่มีการทดลองทางคลินิกที่ลงทะเบียนไว้** ที่เกี่ยวข้องโดยตรง
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อ Simian Immunodeficiency Virus (SIV) |
+| คะแนนการทำนาย TxGNN | 99.93% |
+| ระดับหลักฐาน | L4 (การศึกษาก่อนคลินิกและการศึกษาในสัตว์) |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่วางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Hold |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในฐานข้อมูลที่ใช้อ้างอิง อย่างไรก็ตามโดยทั่วไปเป็นที่ทราบว่า Lamivudine ออกฤทธิ์ในรูป triphosphate ที่ถูก phosphorylate ภายในเซลล์ โดยแข่งขันกับ dCTP ตามธรรมชาติและยับยั้งเอนไซม์ reverse transcriptase ส่งผลให้เกิดการยุติสาย DNA ก่อนกำหนด (DNA chain termination) ซึ่งหยุดการจำลองของไวรัส
+
+SIV (Simian Immunodeficiency Virus) อยู่ในวงศ์ Lentivirus เดียวกันกับ HIV โดยทั้งสองแบ่งปันกลไกการจำลองตัวผ่าน RNA-dependent DNA polymerase (reverse transcriptase) ดังนั้น Lamivudine จึงมีพื้นฐานทางชีววิทยาที่ชัดเจนในการยับยั้ง SIV ผ่านกลไกเดียวกัน นอกจากนี้ จุดดื้อยา M184V ที่เป็นลักษณะเฉพาะของ Lamivudine ในการรักษา HIV ก็ถูกพบ ศึกษา และยืนยันในแบบจำลอง SIV เช่นกัน แสดงให้เห็นความสอดคล้องของกลไกระหว่างสองระบบ
+
+อย่างไรก็ตาม ต้องเน้นย้ำอย่างชัดเจนว่า **SIV เป็นโรคในลิงที่ใช้เป็นแบบจำลองสัตว์ทดลองสำหรับการวิจัย HIV ไม่ใช่ข้อบ่งใช้ในมนุษย์** หลักฐานทั้งหมดที่มีอยู่มาจากการทดลองในลิง macaque และการศึกษา in vitro เส้นทางการแปลผลสู่การรักษาโรคในมนุษย์ยังขาดการสนับสนุนจากการทดลองทางคลินิกโดยตรง
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [39509655](https://pubmed.ncbi.nlm.nih.gov/39509655/) | 2024 | Review | AIDS reviews | SIVcpz และ SIVsm เป็นบรรพบุรุษของ HIV-1 และ HIV-2 ตามลำดับ — วางพื้นฐานเชิงวิวัฒนาการสำหรับความสัมพันธ์ SIV/HIV |
+| [31658118](https://pubmed.ncbi.nlm.nih.gov/31658118/) | 2020 | Review | Current opinion in HIV and AIDS | ทบทวนบทบาทของ Islatravir (NRTI รุ่นใหม่) เปรียบเทียบกับยา NRTI เดิมรวมถึง Lamivudine สำหรับ HIV-1 |
+| [19240457](https://pubmed.ncbi.nlm.nih.gov/19240457/) | 2009 | Animal | AIDS | ZDV + Lamivudine + Indinavir ป้องกันการแพร่เชื้อ SIV ทางช่องคลอดในลิงหลังรับเชื้อได้สำเร็จ |
+| [12502828](https://pubmed.ncbi.nlm.nih.gov/12502828/) | 2003 | Animal | Journal of virology | Tenofovir กระตุ้น reversion ของการดื้อยา M184V ใน SIV ได้แม้มี Lamivudine อยู่ร่วม — ชี้ให้เห็นปฏิกิริยาระหว่างยาระดับ RT |
+| [12021341](https://pubmed.ncbi.nlm.nih.gov/12021341/) | 2002 | Animal | Journal of virology | M184V เกิดขึ้นภายใน 5 สัปดาห์ใน SIVmac251 ที่รักษาด้วย Lamivudine/FTC สอดคล้องกับรูปแบบใน HIV-1 |
+| [15919889](https://pubmed.ncbi.nlm.nih.gov/15919889/) | 2005 | Animal | Journal of virology | HAART (EFV + Lamivudine + Tenofovir) กด RNA ของ RT-SHIV ในลิงได้มากกว่า 2 log |
+| [16973590](https://pubmed.ncbi.nlm.nih.gov/16973590/) | 2006 | Animal | Journal of virology | HAART สี่ตัวยา (รวม Lamivudine) ลดไวรัส SIV ได้รวดเร็วในลิง cynomolgus ยืนยันความคล้ายคลึงกับ HIV-1 |
+| [14610172](https://pubmed.ncbi.nlm.nih.gov/14610172/) | 2003 | Animal | Journal of virology | HAART สั้น 28 วัน (AZT + Lamivudine + อื่น) ลดการขยายตัวของลิมโฟไซต์หลังรับเชื้อ SIVmac251 |
+| [15040537](https://pubmed.ncbi.nlm.nih.gov/15040537/) | 2004 | Animal | Antiviral therapy | ประเมินฤทธิ์ยา 16 ชนิดต่อ HIV-2, SIV, SHIV — Lamivudine มีฤทธิ์ต้านหลายสายพันธุ์ แต่ความไวต่อยาแตกต่างกัน |
+| [11689641](https://pubmed.ncbi.nlm.nih.gov/11689641/) | 2001 | Animal | Journal of virology | HAART (รวม Lamivudine) ในลิงติดเชื้อ SHIV ช่วยลดความผิดปกติของไขกระดูกได้บางส่วน แม้ไม่สมบูรณ์ |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Hold**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+SIV เป็นโรคในลิงที่ใช้เป็นแบบจำลองสัตว์ทดลองสำหรับการวิจัย HIV ไม่ใช่ข้อบ่งใช้ในมนุษย์ หลักฐานทั้งหมดเป็นการศึกษาก่อนคลินิก ไม่มีการทดลองทางคลินิกที่ลงทะเบียนไว้ และไม่มีเส้นทางการแปลผลสู่การรักษาในมนุษย์ที่ชัดเจนสำหรับ SIV โดยตรง
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
+**หมายเหตุสำคัญ:** ชุดข้อมูล Evidence Pack นี้มีการคาดการณ์ที่น่าสนใจกว่าสำหรับ **การติดเชื้อ Hepatitis B virus (HBV)** (อันดับที่ 6) ซึ่งมีระดับหลักฐาน **L1** และคำแนะนำ **Proceed with Guardrails** หากเป้าหมายคือการนำ Lamivudine มาใช้ใหม่ในมนุษย์ ควรพิจารณาเริ่มต้นจากข้อบ่งใช้นั้น
 
+**หากต้องการดำเนินการต่อต้อง:**
+- ชี้แจงขอบเขตเป้าหมาย: วิจัย SIV ในสัตว์ หรือขยายผลสู่โรคในมนุษย์ที่เกี่ยวข้อง
+- รับข้อมูลกลไกการออกฤทธิ์โดยละเอียด (MOA) จาก DrugBank API
+- รับข้อมูลความปลอดภัยจาก TFDA เพื่อเข้าสู่การประเมิน S1
+- หากเป้าหมายเป็น HBV ให้จัดทำรายงานเพิ่มเติมสำหรับข้อบ่งใช้ที่มีหลักฐานระดับ L1 โดยตรง
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Lamivudine](https://go.drugbank.com/drugs/DB00709)
-- [PubMed: Lamivudine](https://pubmed.ncbi.nlm.nih.gov/?term=Lamivudine)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Lamivudine)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

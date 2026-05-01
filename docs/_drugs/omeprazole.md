@@ -1,92 +1,110 @@
 ---
 layout: default
-title: "Omeprazole"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Omeprazole ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Omeprazole"
-drugbank_id: "DB00338"
-evidence_level: "L4"
+title: Omeprazole
+parent: หลักฐานระดับกลาง (L3-L4)
+nav_order: 117
+evidence_level: L3
 indication_count: 10
 ---
 
 # Omeprazole
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00338](https://go.drugbank.com/drugs/DB00338) |
-| **เลขทะเบียนยา** | 1A 40/67 |
-| **ข้อบ่งใช้เดิม** | โรคกรดไหลย้อน, แผลในกระเพาะอาหาร |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | duodenogastric reflux |
-| **คะแนน TxGNN สูงสุด** | 0.9964 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | duodenogastric reflux | 0.9964 |
-| 2 | duodenal obstruction | 0.9964 |
-| 3 | duodenal ulcer (disease) | 0.9959 |
-| 4 | gastrin secretion abnormality | 0.9934 |
-| 5 | active peptic ulcer disease | 0.9881 |
-| 6 | peptic esophagitis | 0.9877 |
-| 7 | gastric ulcer (disease) | 0.9852 |
-| 8 | gastrojejunal ulcer | 0.9851 |
-| 9 | peptic ulcer perforation | 0.9851 |
-| 10 | Zollinger-Ellison syndrome | 0.9785 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+# Omeprazole: จากกรดไหลย้อนและแผลเปปติกสู่ดูโอเดโนแกสตริกรีฟลักซ์
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+## สรุปสั้นๆ
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+Omeprazole เป็นยายับยั้งปั๊มโปรตอน (PPI) ชนิดแรกของโลกที่ออกสู่ตลาด เดิมใช้รักษาโรคกรดไหลย้อน (GERD) แผลเปปติก และกลุ่มอาการ Zollinger-Ellison โดยยับยั้งเอนไซม์ H+/K+-ATPase บนเซลล์ปาริเอทัลในกระเพาะอาหารอย่างถาวร
+โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **ดูโอเดโนแกสตริกรีฟลักซ์ (Duodenogastric Reflux)**
+ปัจจุบันมี **การทดลองทางคลินิก 1 รายการ** และ **วรรณกรรม 20 ฉบับ** สนับสนุนแนวทางนี้
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | กรดไหลย้อน (GERD), แผลเปปติก, Zollinger-Ellison syndrome |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ดูโอเดโนแกสตริกรีฟลักซ์ (Duodenogastric Reflux) |
+| คะแนนการทำนาย TxGNN | 99.64% |
+| ระดับหลักฐาน | L3 |
+| สถานะการวางจำหน่ายในไทย | ❌ ไม่พบในฐานข้อมูล Thai FDA (กรุณาตรวจสอบกับ อย. โดยตรง) |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดจากฐานข้อมูล DrugBank อย่างไรก็ดี จากหลักฐานทางคลินิกที่ทราบกันดี Omeprazole ยับยั้ง H+/K+-ATPase (proton pump) บนเซลล์ปาริเอทัลในกระเพาะอาหารอย่างถาวรและไม่สามารถย้อนกลับได้ ส่งผลให้การหลั่งกรดลดลง 80–95% ซึ่งเป็นกลไกหลักที่ได้รับการยืนยันแล้วในการรักษา GERD และแผลเปปติก
+
+ดูโอเดโนแกสตริกรีฟลักซ์ (DGR) เกิดจากการที่น้ำดีและน้ำย่อยจากลำไส้เล็กส่วนต้นไหลย้อนเข้ากระเพาะอาหาร ทำให้เยื่อเมือกเกิดการอักเสบและเสื่อมสภาพ แม้ว่า omeprazole ไม่มีผลโดยตรงในการปิดกั้นการไหลย้อนของน้ำดี แต่การลดกรดในกระเพาะอาหารช่วยลดความเป็นพิษของน้ำดีต่อเยื่อเมือก เนื่องจากสภาพแวดล้อมที่เป็นกรดน้อยลงทำให้ฤทธิ์ทำลายของน้ำดีที่ไหลย้อนลดลงอย่างมีนัยสำคัญ
+
+ความเชื่อมโยงกับข้อบ่งใช้เดิม (GERD/แผลเปปติก) มีความสมเหตุสมผลในเชิงกลไก เนื่องจากทั้งสองภาวะมีพยาธิสรีรวิทยาที่ทับซ้อนกัน โดยเฉพาะในผู้ป่วย Barrett's esophagus ที่มักมี DGR ร่วมด้วย การศึกษาเชิงสังเกตหลายรายการยืนยันว่า omeprazole ปรับปรุงพารามิเตอร์ bile reflux ได้จริงในกลุ่มผู้ป่วยนี้ อย่างไรก็ตาม สำหรับ DGR ที่ไม่เกี่ยวกับภาวะกรด การตอบสนองต่อ omeprazole อาจจำกัดกว่า
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
+|---------|------|------|------|---------|
+| [NCT02685150](https://clinicaltrials.gov/study/NCT02685150) | NA | เสร็จสิ้น | 157 | ศึกษา Endoscopic Tri-Modal Imaging (NBI + AFI + WLI) เพื่อแยกแยะ reflux disease (รวม acid และ bile reflux) จาก functional dyspepsia ในกลุ่มผู้ป่วยที่ทับซ้อนกับ DGR |
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [9824338](https://pubmed.ncbi.nlm.nih.gov/9824338/) | 1998 | RCT | Gut | Omeprazole 20 mg วันละ 2 ครั้งลด DGR และ duodenogastro-oesophageal reflux อย่างมีนัยสำคัญในผู้ป่วย Barrett's oesophagus |
+| [10994616](https://pubmed.ncbi.nlm.nih.gov/10994616/) | 2000 | Cohort | Scand J Gastroenterol | การยับยั้งกรดระยะยาวด้วย omeprazole ลด antral DGR ในผู้ป่วย Barrett's oesophagus แม้ intragastric pH สูงขึ้น |
+| [11232672](https://pubmed.ncbi.nlm.nih.gov/11232672/) | 2001 | Cohort | Am J Gastroenterol | ผู้ป่วย Barrett's มี acid และ bile reflux สูงกว่ากลุ่ม reflux esophagitis; PPI ลดได้ทั้งสองชนิด |
+| [9841990](https://pubmed.ncbi.nlm.nih.gov/9841990/) | 1998 | Cohort | J Gastrointest Surg | Medical acid suppression ลด bile reflux ใน Barrett's esophagus แต่ได้ผลน้อยกว่าการผ่าตัด Nissen fundoplication |
+| [11552908](https://pubmed.ncbi.nlm.nih.gov/11552908/) | 2001 | Cohort | Aliment Pharmacol Ther | Pantoprazole ลด acid reflux และ bile reflux ในผู้ป่วย oesophagitis บ่งชี้ class effect ของ PPI ต่อ bile reflux |
+| [12836018](https://pubmed.ncbi.nlm.nih.gov/12836018/) | 2003 | Cohort | Eur J Pediatr | รายงาน DGR ปฐมภูมิในเด็ก 6 ราย (อายุ 4.5–16.5 ปี) ที่ไม่ตอบสนองต่อยาแอนตาซิดแบบดั้งเดิม |
+| [21916229](https://pubmed.ncbi.nlm.nih.gov/21916229/) | 2011 | Cohort | Exp Clin Gastroenterol | ลักษณะ DGR ในผู้ป่วยแผลเปปติกลำไส้เล็กส่วนต้น และพลวัตการเปลี่ยนแปลงหลัง H. pylori eradication |
+| [8076761](https://pubmed.ncbi.nlm.nih.gov/8076761/) | 1994 | Cohort | Gastroenterology | ความสัมพันธ์ระหว่าง pH (<4 และ >7) กับ DGER และบทบาทต่อการเกิด Barrett's esophagus |
+| [33027361](https://pubmed.ncbi.nlm.nih.gov/33027361/) | 2020 | Animal | Acta Cir Bras | ศึกษาผล omeprazole ต่อ adenocarcinoma กระเพาะอาหารในหนูทดลองที่ถูกเหนี่ยวนำให้เกิด DGR — อาจมีผลป้องกัน |
+| [16641575](https://pubmed.ncbi.nlm.nih.gov/16641575/) | 2006 | Cohort | J Pediatr Gastroenterol Nutr | การศึกษาแบบ prospective ในเด็กพบว่า omeprazole (PPI) ลด esophageal bile reflux ได้อย่างมีนัยสำคัญ |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Proceed with Guardrails**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+มีหลักฐานระดับ L3 จากการศึกษาเชิงสังเกตหลายรายการรวมถึง RCT 1 รายการ (Gut, 1998) ที่ยืนยันว่า omeprazole ปรับปรุงพารามิเตอร์ DGR ได้จริงในผู้ป่วย Barrett's esophagus กลไกเชื่อมโยงสมเหตุสมผลผ่านการลดกรด แม้ไม่มีผลโดยตรงต่อปริมาณน้ำดีที่ไหลย้อน
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ดึงข้อมูลกลไกการออกฤทธิ์โดยละเอียด (MOA) จาก DrugBank API (DB00338)
+- รวบรวมคำเตือนสำคัญ ข้อห้ามใช้ และปฏิกิริยาระหว่างยาจาก TFDA/เอกสารกำกับยา
+- ตรวจสอบสถานะทะเบียนยาในประเทศไทยกับสำนักงานคณะกรรมการอาหารและยา (อย.) โดยตรง เนื่องจากการสืบค้นอัตโนมัติไม่พบข้อมูล
+- ออกแบบการศึกษาทางคลินิกเฉพาะ DGR ที่ใช้ omeprazole เป็นยาทดสอบหลัก เพื่อยกระดับหลักฐานจาก L3 ขึ้นสู่ L2 หรือสูงกว่า
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Omeprazole](https://go.drugbank.com/drugs/DB00338)
-- [PubMed: Omeprazole](https://pubmed.ncbi.nlm.nih.gov/?term=Omeprazole)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Omeprazole)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

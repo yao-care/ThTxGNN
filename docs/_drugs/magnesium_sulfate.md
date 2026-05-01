@@ -1,92 +1,107 @@
 ---
 layout: default
-title: "Magnesium sulfate"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Magnesium sulfate ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Magnesium sulfate"
-drugbank_id: "DB00653"
-evidence_level: "L4"
+title: Magnesium Sulfate
+parent: หลักฐานระดับสูง (L1-L2)
+nav_order: 103
+evidence_level: L1
 indication_count: 10
 ---
 
-# Magnesium sulfate
+# Magnesium Sulfate
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L1** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00653](https://go.drugbank.com/drugs/DB00653) |
-| **เลขทะเบียนยา** | 1A 155/67 |
-| **ข้อบ่งใช้เดิม** | แมกนีเซียมต่ำ, ครรภ์เป็นพิษ |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | mild pre-eclampsia |
-| **คะแนน TxGNN สูงสุด** | 1.0000 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | mild pre-eclampsia | 1.0000 |
-| 2 | severe pre-eclampsia | 1.0000 |
-| 3 | preeclampsia/eclampsia | 1.0000 |
-| 4 | preeclampsia | 1.0000 |
-| 5 | toxemia of pregnancy | 1.0000 |
-| 6 | thrombotic disease | 0.9990 |
-| 7 | pharyngitis | 0.9961 |
-| 8 | nasal cavity disease | 0.9959 |
-| 9 | psychotic disorder | 0.9950 |
-| 10 | acute laryngopharyngitis | 0.9947 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+# Magnesium Sulfate: จากยาเสริมอิเล็กโทรไลต์สู่ภาวะครรภ์เป็นพิษ/ชัก (Preeclampsia/Eclampsia)
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+## สรุปสั้นๆ
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+Magnesium sulfate (MgSO4) เป็นเกลือแร่ธาตุอนินทรีย์ที่ใช้ในทางการแพทย์มาอย่างยาวนานในฐานะยาเสริมอิเล็กโทรไลต์และยาฉุกเฉินสำหรับภาวะต่างๆ ทั้งนี้ยาดังกล่าวยังไม่ได้ขึ้นทะเบียนอย่างเป็นทางการในประเทศไทย
+โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **ภาวะครรภ์เป็นพิษ/ชัก (Preeclampsia/Eclampsia)** ด้วยคะแนน 99.9992%
+ปัจจุบันมี **การทดลองทางคลินิกมากกว่า 50 รายการ** และ **วรรณกรรม 20 ฉบับ** สนับสนุนแนวทางนี้ โดยยาได้รับการรับรองจาก WHO ให้เป็น first-line therapy สำหรับข้อบ่งใช้นี้ในระดับสากลแล้ว
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | ไม่มีข้อมูลการลงทะเบียนในไทย |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะครรภ์เป็นพิษ/ชัก (Preeclampsia/Eclampsia) |
+| คะแนนการทำนาย TxGNN | 99.9992% |
+| ระดับหลักฐาน | L1 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่ได้วางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+แม้ข้อมูลกลไกการออกฤทธิ์จาก DrugBank อย่างเป็นทางการยังขาดอยู่ แต่จากหลักฐานทางเภสัชวิทยาที่สะสมมากกว่า 60 ปี ทราบว่า MgSO4 ออกฤทธิ์ผ่านกลไกสำคัญ 2 ประการ ได้แก่ การอุดกั้น NMDA receptor แบบขึ้นกับแรงดันไฟฟ้า (voltage-dependent block) และการยับยั้งการไหลเข้าของ Ca²⁺ เข้าสู่เซลล์ประสาท ส่งผลให้ลดการกระตุ้นเกินของระบบประสาทส่วนกลางและป้องกันการชักได้
+
+ความเชื่อมโยงกับ preeclampsia/eclampsia มีความชัดเจนโดยตรง เนื่องจากกลไกการชักใน eclampsia เกิดจากการกระตุ้นเกินของระบบประสาท ซึ่ง MgSO4 สามารถยับยั้งได้ผ่าน NMDA blockade นอกจากนี้ Mg²⁺ ยังส่งเสริมการคลายตัวของกล้ามเนื้อเรียบในผนังหลอดเลือด ช่วยปรับปรุงการไหลเวียนเลือดในรก (uteroplacental blood flow) และลดความต้านทานในหลอดเลือดสมอง ซึ่งเป็นพยาธิสรีรวิทยาหลักของ preeclampsia
+
+ปัจจุบัน MgSO4 ได้รับการบรรจุในแนวทางการรักษาของ WHO และสมาคมสูติ-นรีเวชวิทยาชั้นนำทั่วโลกให้เป็น first-line drug สำหรับการป้องกันและรักษาอาการชักใน preeclampsia/eclampsia โดยมีการรับรองใช้ในญี่ปุ่น สหรัฐอเมริกา และประเทศอื่นๆ อีกมาก ดังนั้นการคาดการณ์จาก TxGNN จึงสอดคล้องกับหลักฐานระดับสากลอย่างเต็มที่
+
+## หลักฐานจากการทดลองทางคลินิก
+
+| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
+|---------|------|------|------|---------|
+| [NCT01911494](https://clinicaltrials.gov/study/NCT01911494) | N/A | เสร็จสิ้น | 87,500 | CLIP Trial: cluster RCT ขนาดใหญ่ระดับชุมชนทดสอบ package การดูแล preeclampsia เพื่อลดการเสียชีวิตมารดาและทารก |
+| [NCT02307201](https://clinicaltrials.gov/study/NCT02307201) | Phase 2/3 | เสร็จสิ้น | 1,114 | เปรียบเทียบการให้ MgSO4 ต่อ 24 ชั่วโมงหลังคลอดกับการหยุดเร็ว ในผู้ป่วย severe preeclampsia ที่ได้รับยานานกว่า 8 ชั่วโมงก่อนคลอด |
+| [NCT04576364](https://clinicaltrials.gov/study/NCT04576364) | N/A | เสร็จสิ้น | 280 | เปรียบเทียบ MgSO4 หลังคลอด 12 ชั่วโมงกับ 24 ชั่วโมงใน preeclampsia ที่มีอาการรุนแรง เพื่อหาระยะเวลาที่เหมาะสมที่สุด |
+| [NCT03164304](https://clinicaltrials.gov/study/NCT03164304) | Phase 4 | เสร็จสิ้น | 222 | ประสิทธิผลและความปลอดภัยของ MgSO4 maintenance dose 1g เทียบกับ 2g/ชม. ทางหลอดเลือดดำใน severe preeclampsia |
+| [NCT00666133](https://clinicaltrials.gov/study/NCT00666133) | N/A | เสร็จสิ้น | 304 | เปรียบเทียบแนวทางการรักษา preeclampsia (IM vs IV) ในสถานพยาบาลที่มีทรัพยากรจำกัด |
+| [NCT04501289](https://clinicaltrials.gov/study/NCT04501289) | N/A | เสร็จสิ้น | 114 | RCT เปรียบเทียบ low-dose MgSO4 กับ Pritchard regimen มาตรฐานใน severe preeclampsia/eclampsia |
+| [NCT02396030](https://clinicaltrials.gov/study/NCT02396030) | Phase 4 | ยุติก่อนกำหนด | 62 | เปรียบเทียบ MgSO4 maintenance dose 1g กับ 2g/ชม. เพื่อป้องกัน eclampsia ในหญิงตั้งครรภ์และหลังคลอด |
+| [NCT03661775](https://clinicaltrials.gov/study/NCT03661775) | N/A | เสร็จสิ้น | 60 | เปรียบเทียบระดับ Mg ในซีรัมระหว่าง MgSO4 อัตรา 2g กับ 2.5g/ชม. ใน severe preeclampsia ที่มีภาวะอ้วน |
+| [NCT05283473](https://clinicaltrials.gov/study/NCT05283473) | N/A | เสร็จสิ้น | 64 | วัดระดับ Mg ในซีรัมระหว่างการรักษา severe preeclampsia ด้วย MgSO4 (loading 4.5g + maintenance 1.5g/ชม.) |
+| [NCT03494517](https://clinicaltrials.gov/study/NCT03494517) | N/A | ไม่ทราบสถานะ | 35 | นำร่องเชิงสังเกตการณ์ประเมินคลื่นไฟฟ้าสมอง (EEG) ในผู้ป่วย severe preeclampsia ก่อนและหลัง IV MgSO4 |
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [38865319](https://pubmed.ncbi.nlm.nih.gov/38865319/) | 2024 | RCT | PloS one | RCT เปรียบเทียบการยอมรับของบุคลากรและผู้ป่วยในการให้ MgSO4 ผ่าน Springfusor pump กับวิธีมาตรฐาน (IM) ใน preeclampsia/eclampsia |
+| [9794688](https://pubmed.ncbi.nlm.nih.gov/9794688/) | 1998 | Review | Obstetrics and gynecology | ทบทวนหลักฐานประสิทธิผล ประโยชน์ และความเสี่ยงของ MgSO4 สำหรับ seizure prophylaxis ใน preeclampsia/eclampsia |
+| [2288560](https://pubmed.ncbi.nlm.nih.gov/2288560/) | 1990 | Review | AJOG | Sibai สรุปหลักฐาน 60 ปี ยืนยัน MgSO4 เป็นยาต้านชักที่เหมาะสมที่สุดสำหรับ preeclampsia-eclampsia |
+| [2672428](https://pubmed.ncbi.nlm.nih.gov/2672428/) | 1989 | Review | Stroke | อธิบายกลไก MgSO4 ผ่านการต้าน Ca²⁺-dependent vasoconstriction ลด cerebral vasospasm และป้องกัน cell damage จาก ischemia |
+| [41054655](https://pubmed.ncbi.nlm.nih.gov/41054655/) | 2025 | Review | Cureus | ทบทวนเภสัชวิทยาและหลักฐานคลินิกของ MgSO4 ในการดูแลฉุกเฉิน ครอบคลุม seizure, asthma และ arrhythmia |
+| [31527059](https://pubmed.ncbi.nlm.nih.gov/31527059/) | 2019 | Cohort | Global health, science and practice | วิเคราะห์บทบาทระบบสาธารณสุขในการป้องกัน eclampsia ด้วย MgSO4 และข้อจำกัดในชุมชนที่มีทรัพยากรจำกัด |
+| [16978425](https://pubmed.ncbi.nlm.nih.gov/16978425/) | 2006 | Case-control | Obstetrical & gynecological survey | ศึกษาพลศาสตร์หลอดเลือดสมองใน preeclampsia และอภิปรายเหตุผลของการพิจารณายาทางเลือกนอกเหนือ MgSO4 |
+| [490496](https://pubmed.ncbi.nlm.nih.gov/490496/) | 1979 | Review | J Reprod Med | ต้นฉบับของ Pritchard ที่กำหนด Pritchard regimen สำหรับ MgSO4 ใน preeclampsia-eclampsia ซึ่งยังคงใช้เป็นมาตรฐานในปัจจุบัน |
+| [1566765](https://pubmed.ncbi.nlm.nih.gov/1566765/) | 1992 | Animal | AJOG | การศึกษาในสัตว์ทดลองยืนยันฤทธิ์ต้านชักส่วนกลางของ MgSO4 บน hippocampal seizure สนับสนุนกลไกการใช้ใน eclampsia |
+| [28301493](https://pubmed.ncbi.nlm.nih.gov/28301493/) | 2017 | Qualitative | PloS one | ศึกษาเชิงคุณภาพใน obstetricians บราซิล พบว่าอุปสรรคหลักในการสั่งใช้ MgSO4 คือการประเมินความเสี่ยงของยาต่ำกว่าความเป็นจริง |
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Proceed with Guardrails**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+มีหลักฐานระดับ L1 สนับสนุนอย่างแข็งแกร่งจาก Phase 2/3 RCT หลายรายการ รวมถึง Magpie Trial (N>10,000) และ Cochrane Review ที่ยืนยันประสิทธิผลของ MgSO4 ใน preeclampsia/eclampsia อย่างไรก็ตามยาดังกล่าวยังไม่มีใบอนุญาตในไทย และขาดข้อมูลด้านความปลอดภัยในบริบทไทยอย่างเป็นทางการ
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ยื่นขอขึ้นทะเบียนยากับ อย. ไทย หรือพิจารณากรอบบัญชียาจำเป็นแห่งชาติสำหรับการเข้าถึงยา
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยา (SPC/Package Insert) เพื่อระบุคำเตือน ข้อห้ามใช้ และโปรโตคอลการติดตามความเป็นพิษ (hypermagnesemia)
+- กำหนดแผนการติดตามความปลอดภัย ได้แก่ deep tendon reflexes ปริมาณปัสสาวะ (≥25 mL/ชม.) สัญญาณชีพ และระดับ Mg ในซีรัม
+- ทบทวนโปรโตคอลการให้ยาที่เหมาะกับประชากรไทย เช่น การปรับขนาดตามน้ำหนักตัวและการจัดการในสถานพยาบาลที่มีทรัพยากรจำกัด
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Magnesium sulfate](https://go.drugbank.com/drugs/DB00653)
-- [PubMed: Magnesium sulfate](https://pubmed.ncbi.nlm.nih.gov/?term=Magnesium+sulfate)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Magnesium+sulfate)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>
