@@ -1,92 +1,115 @@
 ---
 layout: default
-title: "Filgrastim"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Filgrastim ในข้อบ่งใช้ใหม่ - ThTxGNN"
+title: Filgrastim
 parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Filgrastim"
-drugbank_id: "DB00099"
-evidence_level: "L4"
+nav_order: 69
+evidence_level: L4
 indication_count: 10
 ---
 
 # Filgrastim
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00099](https://go.drugbank.com/drugs/DB00099) |
-| **เลขทะเบียนยา** | 1A 153/67 |
-| **ข้อบ่งใช้เดิม** | ภาวะเม็ดเลือดขาวต่ำ |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | primary release disorder of platelets |
-| **คะแนน TxGNN สูงสุด** | 1.0000 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | primary release disorder of platelets | 1.0000 |
-| 2 | pseudo-von Willebrand disease | 1.0000 |
-| 3 | Glanzmann thrombasthenia | 1.0000 |
-| 4 | Scott syndrome | 0.9996 |
-| 5 | hemorrhagic disorder due to a constitutional thrombocytopenia | 0.9991 |
-| 6 | bleeding diathesis due to a collagen receptor defect | 0.9991 |
-| 7 | C1 inhibitor deficiency | 0.9984 |
-| 8 | serpinopathy with toxic serpin polymerization | 0.9981 |
-| 9 | fetal and neonatal alloimmune thrombocytopenia | 0.9977 |
-| 10 | platelet-type bleeding disorder | 0.9969 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+使用 `txgnn-pipeline` 技能確認完畢，現在根據 Evidence Pack 產生報告。
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Filgrastim: จากภาวะเม็ดเลือดขาวต่ำสู่ความผิดปกติในการปล่อยเกล็ดเลือด
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Filgrastim เป็น recombinant granulocyte colony-stimulating factor (G-CSF) ที่ใช้ป้องกันและรักษาภาวะเม็ดเลือดขาวนิวโทรฟิลต่ำจากเคมีบำบัด รวมถึงใช้กระตุ้นการปล่อยเซลล์ต้นกำเนิดโลหิตสำหรับการปลูกถ่าย (HSCT)
+โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **ความผิดปกติในการปล่อยเกล็ดเลือดชนิดปฐมภูมิ (Primary Release Disorder of Platelets)**
+มีการทดลองทางคลินิกที่เกี่ยวข้อง **14 รายการ** และวรรณกรรม **1 ฉบับ** อย่างไรก็ตามหลักฐานทั้งหมดเป็นการใช้ Filgrastim ในฐานะยาสนับสนุน HSCT ยังไม่มีหลักฐานที่มุ่งเป้าหมายตรงต่อความผิดปกติของเกล็ดเลือดนี้โดยเฉพาะ
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | ภาวะเม็ดเลือดขาวนิวโทรฟิลต่ำจากเคมีบำบัด, ภาวะเม็ดเลือดขาวต่ำเรื้อรังรุนแรง, การกระตุ้นเซลล์ต้นกำเนิดเม็ดเลือดเพื่อการปลูกถ่าย (HSCT) |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ความผิดปกติในการปล่อยเกล็ดเลือดชนิดปฐมภูมิ (Primary Release Disorder of Platelets) |
+| คะแนนการทำนาย TxGNN | 99.998% |
+| ระดับหลักฐาน | L4 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่มีวางจำหน่ายในประเทศไทย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Hold |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในฐานข้อมูล อย่างไรก็ตาม Filgrastim เป็น recombinant G-CSF ที่จับกับ G-CSF receptor บนพื้นผิวเซลล์ต้นกำเนิดโลหิตและเม็ดเลือดขาวชนิด granulocyte กระตุ้นการแบ่งตัว การเจริญเติบโต และการปล่อยเซลล์เหล่านี้ออกจากไขกระดูกเข้าสู่กระแสเลือด
+
+กลไกที่อาจเชื่อมโยงกับความผิดปกติของเกล็ดเลือด คือ G-CSF สามารถกระตุ้นการปล่อยเซลล์ต้นกำเนิดโลหิตหลายชนิด รวมถึงเซลล์ต้นกำเนิดของ megakaryocyte ซึ่งเป็นต้นกำเนิดของเกล็ดเลือด ในบริบทของ HSCT การปลูกถ่ายเซลล์ต้นกำเนิดที่ได้รับการกระตุ้นด้วย G-CSF ทางทฤษฎีอาจช่วยฟื้นฟูกระบวนการผลิตและปล่อยเกล็ดเลือดที่ผิดปกติได้ ซึ่งเป็นเส้นทางอ้อมที่ TxGNN น่าจะตรวจจับผ่านความสัมพันธ์ในกราฟความรู้
+
+อย่างไรก็ตาม ยังไม่มีการศึกษาเชิงกลไกหรือการทดลองทางคลินิกที่มุ่งเป้าหมายตรงต่อ primary release disorder of platelets โดยเฉพาะ การทดลองที่มีอยู่ทั้งหมดเป็นการใช้ Filgrastim เป็นยาสนับสนุน HSCT ในโรคอื่นๆ ทำให้ความน่าเชื่อถือของการคาดการณ์นี้ยังคงอยู่ในระดับการศึกษาเชิงกลไกก่อนคลินิก
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
+|---------|------|------|------|---------|
+| [NCT00923364](https://clinicaltrials.gov/study/NCT00923364) | Phase 2 | เสร็จสิ้น | 19 | Reduced-intensity HSCT สำหรับผู้ป่วย GATA2 mutation ที่มีความผิดปกติของระบบสร้างเลือด; G-CSF ใช้กระตุ้นเซลล์ต้นกำเนิดจากผู้บริจาค |
+| [NCT00076752](https://clinicaltrials.gov/study/NCT00076752) | Phase 2 | เสร็จสิ้น | 9 | Autologous HSCT หลัง lymphodepletion เข้มข้นในผู้ป่วย SLE รุนแรง; Filgrastim ใช้ในการกระตุ้นเซลล์ต้นกำเนิด |
+| [NCT04047628](https://clinicaltrials.gov/study/NCT04047628) | Phase 3 | กำลังรับสมัคร | 156 | เปรียบเทียบ AHSCT กับ Best Available Therapy ในผู้ป่วย Multiple Sclerosis ที่ดื้อต่อการรักษา |
+| [NCT05436418](https://clinicaltrials.gov/study/NCT05436418) | Phase 1/2 | กำลังรับสมัคร | 260 | ศึกษาขนาดต่ำสุดที่มีประสิทธิผลของ post-transplant cyclophosphamide เพื่อป้องกัน GVHD หลัง reduced-intensity PBSCT |
+| [NCT06859424](https://clinicaltrials.gov/study/NCT06859424) | Phase 2 | กำลังรับสมัคร | 358 | Platform trial เปรียบเทียบสูตรยาป้องกัน GVHD ใน mismatched unrelated donor PBSCT |
+| [NCT00245037](https://clinicaltrials.gov/study/NCT00245037) | Phase 1/2 | เสร็จสิ้น | 147 | Non-myeloablative allogeneic HSCT ด้วย Busulfan/Fludarabine/TBI สำหรับมะเร็งโลหิต |
+| [NCT00281879](https://clinicaltrials.gov/study/NCT00281879) | Phase 2 | สิ้นสุดก่อนกำหนด | 200 | Unrelated donor HSCT (ทั้ง PBSC และ UCB) สำหรับมะเร็งโลหิตหลายชนิด |
+| [NCT00043979](https://clinicaltrials.gov/study/NCT00043979) | Phase 2 | เสร็จสิ้น | 60 | Allogeneic/syngeneic PBSCT ในผู้ป่วย pediatric sarcoma ความเสี่ยงสูงและกลับเป็นซ้ำ |
+| [NCT02646098](https://clinicaltrials.gov/study/NCT02646098) | Phase 2 | เสร็จสิ้น | 64 | เปรียบเทียบ CD34+ selected vs unselected ASCT ในผู้ป่วย Mantle Cell Lymphoma และ DLBCL |
+| [NCT00354172](https://clinicaltrials.gov/study/NCT00354172) | Phase 2 | สิ้นสุดก่อนกำหนด | 16 | UCB transplantation ร่วมกับ NK cells และ cyclophosphamide/fludarabine/TBI ในผู้ป่วย myeloid leukemia |
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [29770133](https://pubmed.ncbi.nlm.nih.gov/29770133/) | 2018 | Cohort | Frontiers in Immunology | G-CSF กระตุ้น PBSC mobilization ในผู้บริจาคสุขภาพดี โดยพบการปล่อย lymphocyte subsets อย่างเลือกสรร ซึ่งอาจส่งผลต่อความเสี่ยงภาวะแทรกซ้อนหลังการปลูกถ่าย |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Hold**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+หลักฐานปัจจุบันอยู่ในระดับ L4 (การศึกษาเชิงกลไกก่อนคลินิก) โดยไม่มีการทดลองทางคลินิกใดที่มุ่งเป้าหมายตรงต่อ primary release disorder of platelets อีกทั้ง Filgrastim ยังไม่ได้รับการขึ้นทะเบียนในประเทศไทย ทำให้การนำไปใช้ทางคลินิกยังไม่มีฐานรองรับเพียงพอ
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ข้อมูลกลไกการออกฤทธิ์โดยละเอียด (MOA) จาก DrugBank API
+- ข้อมูลความปลอดภัยฉบับเต็มจากเอกสารกำกับยา (TFDA/FDA/EMA)
+- การศึกษาก่อนคลินิก (in vitro/in vivo) ที่ทดสอบผล G-CSF ต่อกระบวนการ platelet release โดยตรง
+- ทบทวนว่า HSCT-mediated pathway เป็นเส้นทางการรักษาที่เป็นไปได้จริงสำหรับ primary release disorder ชนิดนี้หรือไม่
+- พิจารณาแนวทางการขึ้นทะเบียนยาในประเทศไทยก่อนวางแผนทดลองทางคลินิก
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Filgrastim](https://go.drugbank.com/drugs/DB00099)
-- [PubMed: Filgrastim](https://pubmed.ncbi.nlm.nih.gov/?term=Filgrastim)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Filgrastim)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

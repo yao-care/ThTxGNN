@@ -1,92 +1,117 @@
 ---
 layout: default
-title: "Tenofovir"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Tenofovir ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Tenofovir"
-drugbank_id: "DB14126"
-evidence_level: "L4"
+title: Tenofovir
+parent: หลักฐานระดับกลาง (L3-L4)
+nav_order: 148
+evidence_level: L3
 indication_count: 10
 ---
 
 # Tenofovir
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB14126](https://go.drugbank.com/drugs/DB14126) |
-| **เลขทะเบียนยา** | 1A 102/67 |
-| **ข้อบ่งใช้เดิม** | ไวรัสตับอักเสบบี, เอชไอวี |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | HIV infectious disease |
-| **คะแนน TxGNN สูงสุด** | 0.9998 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | HIV infectious disease | 0.9998 |
-| 2 | simian immunodeficiency virus infection | 0.9996 |
-| 3 | feline acquired immunodeficiency syndrome | 0.9996 |
-| 4 | neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter | 0.9996 |
-| 5 | chronic hepatitis C virus infection | 0.9977 |
-| 6 | hepatitis B virus infection | 0.9893 |
-| 7 | obsolete familial combined hyperlipidemia | 0.9855 |
-| 8 | AIDS | 0.9809 |
-| 9 | hepatitis C virus infection | 0.9806 |
-| 10 | chronic hepatitis B virus infection | 0.9762 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+ได้รับ Evidence Pack สำหรับ Tenofovir แล้ว กำลังสร้างรายงานตามรูปแบบ v5:
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Tenofovir: จากยาต้านไวรัสเรโทร (HIV) สู่การติดเชื้อ SIV ในไพรเมต
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Tenofovir เป็นยาต้านไวรัสกลุ่ม Nucleotide Reverse Transcriptase Inhibitor (NRTI) ที่ใช้รักษาการติดเชื้อ HIV และ HBV ในระดับนานาชาติ แม้ยังไม่มีทะเบียนยาในประเทศไทย
+โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **การติดเชื้อ SIV ในไพรเมต (Simian Immunodeficiency Virus Infection)** ซึ่งเป็นแบบจำลองสัตว์มาตรฐานสำหรับการศึกษา HIV
+ปัจจุบันมี **การทดลองทางคลินิก 2 รายการ** และ **วรรณกรรม 20 ฉบับ** (ส่วนใหญ่เป็นการศึกษาในสัตว์ทดลองไพรเมต) สนับสนุนแนวทางนี้
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | ยาต้านไวรัสเรโทร (HIV/HBV) ระดับนานาชาติ — ไม่มีทะเบียนในประเทศไทย |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อ SIV ในไพรเมต (Simian Immunodeficiency Virus Infection) |
+| คะแนนการทำนาย TxGNN | 99.96% |
+| ระดับหลักฐาน | L3 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่มีการวางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Hold (Research Question) |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดจาก DrugBank สำหรับ Tenofovir (DB14126) ตามข้อมูลที่ทราบ Tenofovir เป็นยาในกลุ่ม Nucleotide Reverse Transcriptase Inhibitor (NRTI) ออกฤทธิ์โดยยับยั้งเอนไซม์ reverse transcriptase ที่ไวรัสเรโทรใช้ในการจำลองสารพันธุกรรม โดยเฉพาะอย่างยิ่งในบริบทของการรักษาการติดเชื้อ HIV และ HBV
+
+SIV (Simian Immunodeficiency Virus) เป็นไวรัสเรโทรในสกุล Lentivirus ที่มีความใกล้ชิดทางวิวัฒนาการกับ HIV มากที่สุด ทั้งสองชนิดมีโครงสร้าง reverse transcriptase ที่คล้ายคลึงกันในระดับสูง ส่งผลให้ยาที่ออกฤทธิ์ยับยั้ง reverse transcriptase ของ HIV มีศักยภาพในการยับยั้ง SIV ในไพรเมตได้เช่นกัน ดังที่ผ่านการพิสูจน์จากการศึกษาหลายชิ้นโดยใช้ SHIV (chimeric SIV/HIV) ในลิงแสม (macaque)
+
+แบบจำลองสัตว์ทดลองด้วย SIV/SHIV ในลิงแสมเป็นเครื่องมือมาตรฐานสากลในการประเมินประสิทธิผลของยาต้านไวรัสก่อนทดสอบในมนุษย์ Tenofovir ได้รับการพิสูจน์ประสิทธิผลในบริบท PrEP (Pre-Exposure Prophylaxis) และ PEP (Post-Exposure Prophylaxis) ทั้งทางช่องคลอดและทวารหนัก โดยมีอัตราการป้องกัน SHIV สูงถึง 93–100% ในบางการศึกษา นอกจากนี้ยังมีหลักฐานว่าการรักษาชั่วคราวหลังรับเชื้อ SIV ช่วยกระตุ้นการสร้างภูมิคุ้มกันเฉพาะเชื้อที่คงอยู่ได้ในระยะยาว
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
+|---------|------|------|------|---------|
+| [NCT03577782](https://clinicaltrials.gov/study/NCT03577782) | Phase 1/2 | ไม่ทราบสถานะ | 12 | ศึกษา vedolizumab ร่วมกับยาต้านไวรัสเรโทรใน HIV เพื่อบรรลุ virological remission โดยปราศจาก ART — ให้ข้อมูลเชิงกลไกของ ARV ในบริบทภูมิคุ้มกัน ซึ่งมีความเชื่อมโยงกับ SIV model |
+| [NCT00863668](https://clinicaltrials.gov/study/NCT00863668) | N/A | ถูกยกเลิก | 0 | ศึกษาจลนพลศาสตร์การสลายตัวของ HIV ด้วย raltegravir โดยอ้างอิงการเปรียบเทียบกับแบบจำลอง SIV ในลิง — ถูกยกเลิกก่อนเริ่มรับสมัคร |
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [20874040](https://pubmed.ncbi.nlm.nih.gov/20874040/) | 2010 | Review | Pharmacotherapy | ทบทวน systemic PrEP ด้วย ARV สำหรับ HIV รวมหลักฐานพื้นฐานจากแบบจำลอง SIV ในไพรเมตที่สนับสนุนการพัฒนา PrEP ในมนุษย์ |
+| [38134382](https://pubmed.ncbi.nlm.nih.gov/38134382/) | 2024 | Animal | J Infect Dis | TAF/EVG inserts ป้องกัน SHIV ทางช่องคลอดในลิงได้ 93–100% เมื่อใช้ก่อน/หลังสัมผัสเชื้อ 4 ชั่วโมง |
+| [39632836](https://pubmed.ncbi.nlm.nih.gov/39632836/) | 2024 | Animal | Nat Commun | ART สูตรออกฤทธิ์นาน (รวม FTC/TAF) เหนี่ยวนำ RT-SHIV remission ในลิงที่เริ่มรักษาตั้งแต่เนิ่นๆ |
+| [36477356](https://pubmed.ncbi.nlm.nih.gov/36477356/) | 2022 | Animal | JCI Insight | สูตร TFV rectal douche แบบ hypo-osmolar ป้องกัน SHIV ทางทวารหนักในลิงได้อย่างมีนัยสำคัญ เหมาะสำหรับ PrEP ในกลุ่ม MSM |
+| [31362305](https://pubmed.ncbi.nlm.nih.gov/31362305/) | 2019 | Animal | J Infect Dis | TAF เดี่ยวหรือ TAF/FTC รับประทานป้องกันการติดเชื้อ SHIV ทางช่องคลอดในลิงในบริบท PrEP |
+| [29788316](https://pubmed.ncbi.nlm.nih.gov/29788316/) | 2018 | Animal | J Infect Dis | FTC/TFV gel ทางช่องคลอดให้การป้องกัน SHIV ทั้งช่องคลอดและทวารหนักพร้อมกันผ่านการดูดซึมยาข้ามช่อง |
+| [27465645](https://pubmed.ncbi.nlm.nih.gov/27465645/) | 2016 | Animal | J Infect Dis | TAF/FTC รับประทานป้องกัน SHIV ทางทวารหนักในลิงสำเร็จ เป็นหลักฐานสำคัญของ TAF-based PrEP |
+| [22072766](https://pubmed.ncbi.nlm.nih.gov/22072766/) | 2012 | Animal | J Virol | TFV gel 1% ทางช่องคลอดให้การป้องกัน SHIV ที่ยาวนาน สัมพันธ์กับระดับยาสะสมในเนื้อเยื่อ |
+| [11581387](https://pubmed.ncbi.nlm.nih.gov/11581387/) | 2001 | Animal | J Virol | การรักษา tenofovir ชั่วคราวหลังรับเชื้อ SIVsmE660 กระตุ้น CD8+ T cells เฉพาะ SIV ให้ควบคุมการติดเชื้อในระยะยาวได้ |
+| [10684272](https://pubmed.ncbi.nlm.nih.gov/10684272/) | 2000 | Animal | J Virol | Tenofovir หลังรับเชื้อ SIVsmE660 กระตุ้นการสร้างภูมิคุ้มกันและลดปริมาณไวรัสได้ต่อเนื่องหลังหยุดยา |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Hold**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+หลักฐานทั้งหมดเป็นการศึกษาในสัตว์ทดลอง (SIV/SHIV ในลิง) ซึ่งอยู่ในระดับก่อนคลินิก (L3) และ SIV infection เป็นโรคในสัตว์ที่ไม่มีนัยทางคลินิกโดยตรงในมนุษย์ ประกอบกับ Tenofovir (DB14126 — free acid form) ยังไม่ได้รับการขึ้นทะเบียนในประเทศไทย ทำให้การดำเนินการต่อในขั้นตอนนี้ยังไม่เหมาะสม
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
+**หากต้องการดำเนินการต่อต้อง:**
+- ทบทวนว่าเป้าหมายที่แท้จริงคือ **HIV infection ในมนุษย์** (ควรพิจารณา TDF หรือ TAF แทน ซึ่งมีหลักฐาน L1 และมีทะเบียนยาในหลายประเทศ) หรือ **HBV infection** (rank 4 ในชุดข้อมูลนี้มีหลักฐาน L1 และคำแนะนำ Proceed with Guardrails)
+- ดึงข้อมูล MOA ที่ครบถ้วนจาก DrugBank API (DB14126) เพื่อแก้ไข Data Gap
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยาจาก TFDA เพื่อประเมินคำเตือนและข้อห้ามใช้
+- ตรวจสอบสถานะการขึ้นทะเบียนของ Tenofovir free acid (DB14126) ในระบบ Thai FDA
 
+> ⚠️ **หมายเหตุ**: หากสนใจสัญญาณที่มีหลักฐานแข็งแกร่งที่สุดในชุดข้อมูลนี้ ให้ดู **Rank 4 — Hepatitis B Virus Infection** ซึ่งมีระดับหลักฐาน **L1** และคำแนะนำ **Proceed with Guardrails** พร้อมการทดลองทางคลินิก Phase 3 หลายรายการที่เสร็จสิ้นแล้ว
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Tenofovir](https://go.drugbank.com/drugs/DB14126)
-- [PubMed: Tenofovir](https://pubmed.ncbi.nlm.nih.gov/?term=Tenofovir)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Tenofovir)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

@@ -1,92 +1,114 @@
 ---
 layout: default
-title: "Enoxaparin"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Enoxaparin ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Enoxaparin"
-drugbank_id: "DB01225"
-evidence_level: "L4"
+title: Enoxaparin
+parent: การคาดการณ์จากโมเดล (L5)
+nav_order: 63
+evidence_level: L5
 indication_count: 10
 ---
 
 # Enoxaparin
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB01225](https://go.drugbank.com/drugs/DB01225) |
-| **เลขทะเบียนยา** | 1A 122/67 |
-| **ข้อบ่งใช้เดิม** | ป้องกันลิ่มเลือด |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | purpura fulminans |
-| **คะแนน TxGNN สูงสุด** | 0.9981 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | purpura fulminans | 0.9981 |
-| 2 | pulmonary embolism (disease) | 0.9961 |
-| 3 | thrombophilia due to protein C deficiency, autosomal recessive | 0.9958 |
-| 4 | acquired purpura fulminans | 0.9899 |
-| 5 | primary release disorder of platelets | 0.9891 |
-| 6 | atypical hemolytic-uremic syndrome with thrombomodulin anomaly | 0.9863 |
-| 7 | pseudo-von Willebrand disease | 0.9850 |
-| 8 | Glanzmann thrombasthenia | 0.9831 |
-| 9 | neuropathy, painful | 0.9830 |
-| 10 | disseminated intravascular coagulation | 0.9754 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+ใช้ skill **txgnn-pipeline** เพื่อตรวจสอบแนวทาง ✓
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+ตรวจสอบข้อมูลจาก Evidence Pack แล้ว:
+- predicted_indications[0]: thrombophilia due to protein C deficiency, autosomal recessive (L5, ไม่มี trial/literature)
+- Enoxaparin ไม่ได้ขึ้นทะเบียนในไทย (0 licenses)
+- Safety ทั้งหมดเป็น [Data Gap] → แสดงเฉพาะข้อความแนะนำ
+- ไม่ใช่ยาต้านเนื้องอก → ละเว้นส่วน Cytotoxicity
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+---
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+# Enoxaparin: จากการป้องกันลิ่มเลือดอุดตันสู่ภาวะลิ่มเลือดง่ายจาก Protein C Deficiency
+
+## สรุปสั้นๆ
+
+Enoxaparin เป็นยาในกลุ่ม Low Molecular Weight Heparin (LMWH) ที่ใช้กันอย่างแพร่หลายในระดับสากลเพื่อป้องกันและรักษาภาวะลิ่มเลือดอุดตัน (Venous Thromboembolism) โดยออกฤทธิ์ผ่านการเพิ่มประสิทธิภาพของ Antithrombin III ยับยั้ง Factor Xa และ Thrombin
+โมเดล TxGNN คาดการณ์ว่าอาจมีประสิทธิภาพในการรักษา **ภาวะลิ่มเลือดง่ายจากการขาด Protein C ชนิด Autosomal Recessive (Thrombophilia due to Protein C Deficiency, Autosomal Recessive)** ด้วยคะแนนความเชื่อมั่น **99.58%**
+อย่างไรก็ตาม ปัจจุบัน**ยังไม่มี**การทดลองทางคลินิกหรือวรรณกรรมที่ศึกษา Enoxaparin ในข้อบ่งใช้นี้โดยตรง ถือเป็นการทำนายจากโมเดลล้วนๆ อยู่ที่ระดับหลักฐาน **L5**
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | ป้องกันและรักษาภาวะลิ่มเลือดอุดตัน (DVT, PE, ACS) |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะลิ่มเลือดง่ายจาก Protein C Deficiency ชนิด Autosomal Recessive |
+| คะแนนการทำนาย TxGNN | 99.58% |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | ❌ ยังไม่ขึ้นทะเบียนในประเทศไทย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Research Question |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ภาวะ Protein C Deficiency ชนิด Autosomal Recessive เป็นโรคทางพันธุกรรมหายากที่ร่างกายผลิต Protein C ได้น้อยหรือไม่ได้เลย โดยปกติ Protein C ทำหน้าที่เป็น "เบรก" ของกระบวนการแข็งตัวของเลือด โดยยับยั้ง Factors Va และ VIIIa เมื่อ Protein C ขาดหรือหมดทำงาน ปัจจัยเหล่านี้จะออกฤทธิ์มากเกินไป ส่งผลให้เกิดสภาวะ Hypercoagulable State ที่เสี่ยงต่อลิ่มเลือดอย่างรุนแรง
+
+กลไกที่ TxGNN ทำนายนั้นสอดคล้องกับเหตุผลทางเภสัชวิทยา กล่าวคือ Enoxaparin เพิ่มประสิทธิภาพของ Antithrombin III (AT III) เพื่อยับยั้ง Factor Xa และ Thrombin ซึ่งเป็นเส้นทางคู่ขนานกับ Protein C แม้จะไม่ได้แก้ไขสาเหตุต้นตอโดยตรง แต่สามารถ "ชดเชย" การขาด Protein C ได้ในเชิงการป้องกันลิ่มเลือด กลไกนี้จัดว่ามีความสมเหตุสมผลสูงในทางทฤษฎี
+
+อย่างไรก็ตาม ภาวะ PC Deficiency ชนิด Autosomal Recessive (Homozygous) มีลักษณะทางคลินิกที่รุนแรงกว่าแบบ Heterozygous มาก เช่น Neonatal Purpura Fulminans ซึ่งอาจต้องการการรักษาด้วย Protein C concentrate หรือ Fresh Frozen Plasma เป็นหลัก ดังนั้น บทบาทของ Enoxaparin ในฐานะการรักษาเสริมหรือการป้องกันระยะยาวในกลุ่มผู้ป่วยนี้จึงยังต้องการการตรวจสอบเพิ่มเติม
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+ปัจจุบันยังไม่มีวรรณกรรมที่เกี่ยวข้อง
+
+---
+
+## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+Enoxaparin **ยังไม่ได้ขึ้นทะเบียนในประเทศไทย** ณ วันที่ข้อมูล (25 เมษายน 2026) ไม่พบใบอนุญาตใดๆ ในฐานข้อมูลของ อย. ไทย หากต้องการนำยานี้มาใช้ในประเทศไทย จำเป็นต้องยื่นขอขึ้นทะเบียนหรือใช้ในรูปแบบ Special Import ตามระเบียบของสำนักงานคณะกรรมการอาหารและยา
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Research Question**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+แม้คะแนน TxGNN จะสูงมาก (99.58%) และกลไกการออกฤทธิ์เชื่อมโยงกันได้ในทางทฤษฎี แต่ยังไม่มีการทดลองทางคลินิกหรือวรรณกรรมสนับสนุนโดยตรง ประกอบกับโรคนี้เป็นโรคหายากและมีทางเลือกการรักษาเฉพาะอยู่แล้ว จึงอยู่ในระดับ L5 ที่เหมาะสมสำหรับการตั้งเป็นคำถามวิจัยเท่านั้น ยังไม่พร้อมสำหรับการตัดสินใจเชิงคลินิก
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- สืบค้นวรรณกรรมเพิ่มเติมเกี่ยวกับการใช้ LMWH ใน Protein C Deficiency โดยเฉพาะในกลุ่ม Homozygous ซึ่งอาจมีรายงาน Case Series
+- ตรวจสอบฐานข้อมูล Orphan Disease (เช่น Orphanet, NORD) และ Rare Disease Registry เพื่อหาแนวทางการรักษาที่มีอยู่
+- ออกแบบการศึกษา Pilot หรือ Registry Study ในผู้ป่วย PC Deficiency ที่ได้รับ LMWH ระยะยาว
+- แก้ไขช่องว่างข้อมูล: ดาวน์โหลดและวิเคราะห์ TFDA Official Drug Label เพื่อข้อมูลความปลอดภัยและ MOA โดยละเอียด
+- พิจารณาการนำเสนอต่อคณะกรรมการผู้เชี่ยวชาญด้านโรคเลือดและการแข็งตัวของเลือด (Hematology/Hemostasis)
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Enoxaparin](https://go.drugbank.com/drugs/DB01225)
-- [PubMed: Enoxaparin](https://pubmed.ncbi.nlm.nih.gov/?term=Enoxaparin)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Enoxaparin)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

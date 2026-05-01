@@ -1,92 +1,112 @@
 ---
 layout: default
-title: "Orphenadrine"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Orphenadrine ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Orphenadrine"
-drugbank_id: "DB01173"
-evidence_level: "L4"
-indication_count: 10
+title: Orphenadrine
+parent: การคาดการณ์จากโมเดล (L5)
+nav_order: 119
+evidence_level: L5
+indication_count: 7
 ---
 
 # Orphenadrine
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่ทำนาย: **7** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB01173](https://go.drugbank.com/drugs/DB01173) |
-| **เลขทะเบียนยา** | 1A 144/67 |
-| **ข้อบ่งใช้เดิม** | ปวดกล้ามเนื้อ |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | retinal dystrophy with or without extraocular anomalies |
-| **คะแนน TxGNN สูงสุด** | 0.9929 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | retinal dystrophy with or without extraocular anomalies | 0.9929 |
-| 2 | congenital disorder of glycosylation with defective fucosylation | 0.9927 |
-| 3 | polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 0.9921 |
-| 4 | Charcot-Marie-Tooth disease, demyelinating, type 1G | 0.9919 |
-| 5 | schizophrenia | 0.9913 |
-| 6 | Parkinson disease | 0.9911 |
-| 7 | myopia X-linked | 0.9909 |
-| 8 | myopia 26, X-linked, female-limited | 0.9900 |
-| 9 | syndromic myopia | 0.9897 |
-| 10 | atypical glycine encephalopathy | 0.9895 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+ทราบแล้ว — จะใช้รูปแบบรายงานจากระบบ prompt และข้อมูลจาก Evidence Pack เพื่อสร้างรายงาน Orphenadrine
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Orphenadrine: จากพาร์กินสันสู่ Retinal Dystrophy with or without Extraocular Anomalies
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Orphenadrine เป็นยาต้านโคลิเนอร์จิก (anticholinergic) ที่เดิมใช้รักษาโรคพาร์กินสันและบรรเทาผลข้างเคียงทางระบบ extrapyramidal จากยาต้านโรคจิต โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **Retinal Dystrophy with or without Extraocular Anomalies** (ภาวะเสื่อมของจอประสาทตาที่อาจมีความผิดปกติของกล้ามเนื้อนอกลูกตาร่วมด้วย) ปัจจุบันมีเพียง **วรรณกรรม 16 ฉบับ** ที่เกี่ยวกับโรคตาในภาพรวม แต่**ไม่มีการทดลองทางคลินิก**และไม่มีหลักฐานโดยตรงว่า Orphenadrine ใช้รักษาภาวะนี้ได้
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | โรคพาร์กินสัน / บรรเทาผลข้างเคียงทางระบบ extrapyramidal จากยาต้านโรคจิต |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Retinal Dystrophy with or without Extraocular Anomalies |
+| คะแนนการทำนาย TxGNN | 99.29% |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่มีการวางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Hold |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียด ตามข้อมูลที่ทราบ Orphenadrine เป็นยาต้านโคลิเนอร์จิก (antimuscarinic) ที่ออกฤทธิ์ยับยั้ง muscarinic acetylcholine receptors โดยเฉพาะ M1 receptor ทำให้มีฤทธิ์คลายกล้ามเนื้อโครงร่างและลดอาการสั่นในโรคพาร์กินสัน ประสิทธิผลในการรักษา extrapyramidal symptoms ได้รับการพิสูจน์แล้ว และในเชิงทฤษฎีฤทธิ์นี้อาจส่งผลต่อกล้ามเนื้อนอกลูกตา (extraocular muscles) ซึ่งเป็นส่วนหนึ่งของชื่อโรคเป้าหมาย
+
+อย่างไรก็ตาม Retinal Dystrophy เป็นโรคที่มีสาเหตุจากความผิดปกติทางพันธุกรรมของ photoreceptors หรือ retinal pigment epithelium ซึ่งกลไกนี้ไม่มีความเชื่อมโยงโดยตรงกับการยับยั้ง acetylcholine receptors แต่อย่างใด ส่วนประกอบ "extraocular anomalies" ในชื่อโรคอาจเป็นจุดที่โมเดลจับสัญญาณได้ผ่าน topological proximity ในกราฟความรู้ มากกว่าจะเป็นความเชื่อมโยงทางชีววิทยาที่แท้จริง
+
+วรรณกรรม 16 ฉบับที่พบล้วนเป็นบทความพื้นหลังเกี่ยวกับโรคตาต่างๆ (orbital infections, congenital eye anomalies, ophthalmoplegia, inherited metabolic eye disorders) โดยไม่มีฉบับใดกล่าวถึงการรักษาด้วย Orphenadrine โดยตรง จึงถือเป็นหลักฐานพื้นหลังเท่านั้น ไม่ใช่หลักฐานการรักษา
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+> ⚠️ หมายเหตุ: วรรณกรรมด้านล่างทั้งหมดเป็นบทความพื้นหลังเกี่ยวกับโรคตาทั่วไป **ไม่มีฉบับใดศึกษาการรักษาด้วย Orphenadrine** โดยตรง
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [9416661](https://pubmed.ncbi.nlm.nih.gov/9416661/) | 1997 | Review | Seminars in Ultrasound, CT, and MR | บทวิจารณ์การติดเชื้อในเบ้าตา (orbital infections) 5 ระยะจาก sinusitis และปัจจัยเสี่ยงระบบ |
+| [20127583](https://pubmed.ncbi.nlm.nih.gov/20127583/) | 2010 | Review | Seminars in Neurology | แนวทางการซักประวัติและตรวจผู้ป่วย diplopia แบบเป็นระบบ รวม differential diagnosis |
+| [33447730](https://pubmed.ncbi.nlm.nih.gov/33447730/) | 2020 | Review | Therapeutic Advances in Ophthalmology | การมีส่วนร่วมของตาในกลุ่มโรค inherited metabolic disorders ครอบคลุม retina, lens, และ extraocular muscles |
+| [38321238](https://pubmed.ncbi.nlm.nih.gov/38321238/) | 2024 | Review | Pediatric Radiology | ภาพรังสีและ differential diagnosis ของ pediatric ocular lesions รวมถึง congenital และ developmental lesions |
+| [38249493](https://pubmed.ncbi.nlm.nih.gov/38249493/) | 2023 | Review | Taiwan Journal of Ophthalmology | ทบทวน congenital anomalies ของรูปร่างเลนส์ตา และความสัมพันธ์กับ anterior segment dysgenesis |
+| [22241537](https://pubmed.ncbi.nlm.nih.gov/22241537/) | 2012 | Review | Klinische Monatsblatter fur Augenheilkunde | สาเหตุและการรักษา congenital ptosis รวมถึง fibrosis ของกล้ามเนื้อ levator |
+| [7035111](https://pubmed.ncbi.nlm.nih.gov/7035111/) | 1981 | Review | Documenta Ophthalmologica | Wagner-Stickler syndrome: vitreoretinal degeneration ร่วมกับ extraocular manifestations และ skeletal dysplasia |
+| [109006](https://pubmed.ncbi.nlm.nih.gov/109006/) | 1979 | Case series | American Journal of Ophthalmology | รายงาน 2 กรณี unilateral cryptophthalmia พร้อมลักษณะทางคลินิกและ CT findings |
+| [24413161](https://pubmed.ncbi.nlm.nih.gov/24413161/) | 2014 | Case series | Journal of Neuro-Ophthalmology | Isolated trochlear-oculomotor synkinesis ใน Congenital Cranial Dysinnervation Disorder |
+| [19826317](https://pubmed.ncbi.nlm.nih.gov/19826317/) | 2009 | Case series | Optometry and Vision Science | Congenital fibrosis of extraocular muscles แบบ variable synergistic divergence หรือ adduction |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Hold**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+หลักฐานอยู่ในระดับ L5 (เฉพาะการทำนายจากโมเดล) วรรณกรรม 16 ฉบับเป็นบทความพื้นหลังโรคตาทั่วไปที่ไม่มีความเชื่อมโยงกับ Orphenadrine และไม่มีความเชื่อมโยงทางชีววิทยาที่น่าเชื่อถือระหว่าง anticholinergic mechanism กับ retinal dystrophy ที่มีสาเหตุทางพันธุกรรม อีกทั้งยาไม่ได้วางจำหน่ายในไทย
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ค้นหาหลักฐานก่อนคลินิกที่เชื่อมโยง anticholinergic activity กับกลไกของ retinal degeneration โดยตรง
+- ศึกษา MOA ของ Orphenadrine โดยละเอียดจาก DrugBank เพื่อยืนยันหรือหักล้างความเชื่อมโยงทางชีววิทยา
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยาจากประเทศที่ขึ้นทะเบียนแล้ว (เช่น สหราชอาณาจักร เนเธอร์แลนด์) เพื่อประเมินความปลอดภัย
+- พิจารณาข้อบ่งใช้อันดับที่ 5 (**Schizophrenia**, ระดับหลักฐาน L3) ซึ่งมี RCT และ meta-analysis สนับสนุน เป็นเป้าหมายที่มีความเป็นไปได้ทางคลินิกมากกว่าสำหรับการศึกษาต่อ
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Orphenadrine](https://go.drugbank.com/drugs/DB01173)
-- [PubMed: Orphenadrine](https://pubmed.ncbi.nlm.nih.gov/?term=Orphenadrine)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Orphenadrine)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

@@ -1,92 +1,114 @@
 ---
 layout: default
-title: "Nystatin"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Nystatin ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Nystatin"
-drugbank_id: "DB00646"
-evidence_level: "L4"
+title: Nystatin
+parent: หลักฐานระดับสูง (L1-L2)
+nav_order: 115
+evidence_level: L1
 indication_count: 10
 ---
 
 # Nystatin
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L1** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00646](https://go.drugbank.com/drugs/DB00646) |
-| **เลขทะเบียนยา** | 1A 106/67 |
-| **ข้อบ่งใช้เดิม** | เชื้อราในช่องปาก |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | vulvovaginal candidiasis |
-| **คะแนน TxGNN สูงสุด** | 0.9999 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | vulvovaginal candidiasis | 0.9999 |
-| 2 | vulvovaginitis | 0.9992 |
-| 3 | disease of orbital region | 0.9990 |
-| 4 | disease of orbital part of eye adnexa | 0.9989 |
-| 5 | cystic teratoma | 0.9988 |
-| 6 | spinal cord dermoid cyst | 0.9988 |
-| 7 | postmenopausal atrophic vaginitis | 0.9988 |
-| 8 | biotin metabolic disease | 0.9987 |
-| 9 | oral candidiasis | 0.9986 |
-| 10 | candidiasis | 0.9985 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+# Nystatin: จากยาต้านเชื้อรา Candida สู่การรักษา Vulvovaginitis
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+## สรุปสั้นๆ
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+Nystatin เป็นยาต้านเชื้อราในกลุ่ม polyene antibiotic ที่ใช้รักษาการติดเชื้อ Candida บนผิวหนัง เยื่อเมือก และทางเดินอาหาร แต่ปัจจุบันยังไม่มีทะเบียนยาในประเทศไทย
+โมเดล TxGNN คาดการณ์ว่า Nystatin อาจมีประสิทธิผลในการรักษา **ช่องคลอดอักเสบ (Vulvovaginitis)**
+ปัจจุบันมี **วรรณกรรม 20 ฉบับ** สนับสนุนแนวทางนี้ รวมถึง **Meta-analysis 3 ฉบับ** แม้ยังไม่มีการลงทะเบียนการทดลองทางคลินิกโดยตรง
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | การติดเชื้อรา Candida (ผิวหนัง เยื่อเมือก ทางเดินอาหาร) |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ช่องคลอดอักเสบ (Vulvovaginitis) |
+| คะแนนการทำนาย TxGNN | 99.92% |
+| ระดับหลักฐาน | L1 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่วางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+Nystatin ออกฤทธิ์โดยการจับกับ **ergosterol** ในผนังเซลล์เชื้อรา ทำให้เกิดรูพรุน (pore formation) นำไปสู่การรั่วของสารภายในเซลล์และเซลล์เชื้อราตายในที่สุด กลไกนี้มีความจำเพาะต่อเชื้อราสูง เนื่องจากเซลล์มนุษย์ใช้ cholesterol แทน ergosterol จึงไม่ถูกผลกระทบ
+
+ช่องคลอดอักเสบ (Vulvovaginitis) ที่เกิดจาก Candida albicans คิดเป็น 85–90% ของกรณีทั้งหมด กลไกที่ Nystatin จับ ergosterol ตรงกับพยาธิสภาพของโรคนี้อย่างสมบูรณ์ โดยวรรณกรรมระบุว่า Nystatin ถูกนำมาใช้ครั้งแรกในทศวรรษ 1950 สำหรับการรักษา vulvovaginal candidiasis และยังคงเป็นทางเลือกที่ได้รับการยืนยันทางคลินิก
+
+แม้ว่า azoles จะกลายเป็น first-line treatment ในปัจจุบัน Nystatin ยังคงมีบทบาทสำคัญในกรณีที่เชื้อดื้อต่อ fluconazole หรือในกรณีที่เกิดจาก non-albicans Candida species (เช่น C. glabrata, C. krusei) ซึ่งดื้อต่อ azoles สูงกว่า การคาดการณ์จากโมเดล TxGNN จึงสะท้อนหลักฐานทางคลินิกที่มีอยู่ได้อย่างสมเหตุสมผล
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้องกับ Nystatin สำหรับ Vulvovaginitis โดยตรง
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [25775428](https://pubmed.ncbi.nlm.nih.gov/25775428/) | 2015 | Meta-analysis | BMJ Clinical Evidence | VVC เป็นสาเหตุที่สองของ vaginitis (C. albicans 85–90%); Nystatin เป็นหนึ่งในตัวเลือกการรักษาที่ได้รับการประเมิน |
+| [21718579](https://pubmed.ncbi.nlm.nih.gov/21718579/) | 2010 | Meta-analysis | BMJ Clinical Evidence | ทบทวนอย่างเป็นระบบประสิทธิผลของยารักษา VVC รวม Nystatin และ azoles |
+| [19454049](https://pubmed.ncbi.nlm.nih.gov/19454049/) | 2007 | Meta-analysis | BMJ Clinical Evidence | ประสิทธิผลเปรียบเทียบของ antifungals ใน VVC; C. albicans เป็นสาเหตุหลัก 85–90% |
+| [39771534](https://pubmed.ncbi.nlm.nih.gov/39771534/) | 2024 | Review | Pharmaceutics | Nystatin เป็นทางเลือกสำคัญในการรักษา fluconazole-resistant VVC ร่วมกับ oteseconazole และ ibrexafungerp |
+| [21774671](https://pubmed.ncbi.nlm.nih.gov/21774671/) | 2011 | Review | Journal of Women's Health | Boric acid และ Nystatin เป็นทางเลือกใน recurrent VVC จาก non-albicans Candida ที่ดื้อต่อ azoles |
+| [30359236](https://pubmed.ncbi.nlm.nih.gov/30359236/) | 2018 | In vivo | BMC Microbiology | Nystatin เสริมภูมิคุ้มกันเยื่อเมือกช่องคลอดและปกป้องโครงสร้าง vaginal epithelium ในแบบจำลองหนู VVC |
+| [20406393](https://pubmed.ncbi.nlm.nih.gov/20406393/) | 2011 | Clinical study | Mycoses | ในผู้ป่วย complicated VVC 283 ราย nystatin มีประสิทธิผลทางคลินิก; fluconazole-resistant Candida พบเพียง 0.8% |
+| [32104010](https://pubmed.ncbi.nlm.nih.gov/32104010/) | 2020 | In vitro | Infection and Drug Resistance | Nystatin ร่วมกับ ZnO nanoparticles ลดการแสดงออกยีน SAP1-3 ใน fluconazole-resistant C. albicans จาก VVC |
+| [16047929](https://pubmed.ncbi.nlm.nih.gov/16047929/) | 2005 | Case series | Ceska Gynekologie | Nystatin + nifuratel ทางช่องคลอดให้ผลดีในการรักษา mixed/miscellaneous vulvovaginal infections |
+| [12228137](https://pubmed.ncbi.nlm.nih.gov/12228137/) | 2002 | Review | BMJ | ทบทวน epidemiology การวินิจฉัย และแนวทางการรักษา vulvovaginal candidiasis รวมถึงบทบาทของ Nystatin |
+
+---
+
+## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+ปัจจุบัน **Nystatin ยังไม่มีทะเบียนยาในประเทศไทย** (สถานะ: ยังไม่วางจำหน่าย, จำนวนใบอนุญาต: 0 รายการ) การนำยานี้เข้ามาจำหน่ายต้องผ่านกระบวนการขึ้นทะเบียนกับสำนักงานคณะกรรมการอาหารและยา (อย.) ก่อน
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Proceed with Guardrails**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+มีหลักฐานระดับ L1 จาก Meta-analysis 3 ฉบับและวรรณกรรมอีก 17 ฉบับที่ยืนยันประสิทธิผลของ Nystatin ต่อ Candida ใน Vulvovaginitis รวมถึงมีหลักฐาน in vivo และ clinical study ที่สนับสนุนบทบาทของ Nystatin โดยเฉพาะในกรณีดื้อต่อ azoles อย่างไรก็ตาม ยังไม่มีทะเบียนยาในไทย และขาดข้อมูล MOA และข้อมูลความปลอดภัยเฉพาะประชากรไทย
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ยื่นขอขึ้นทะเบียนยาต่อ อย. ประเทศไทย พร้อมเอกสารกำกับยาฉบับภาษาไทย
+- ดาวน์โหลดข้อมูล MOA จาก DrugBank API (DB00646) เพื่อสนับสนุนการวิเคราะห์กลไกการออกฤทธิ์อย่างสมบูรณ์
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยา (prescribing information/SPC) เพื่อระบุคำเตือนสำคัญ ข้อห้ามใช้ และปฏิกิริยาระหว่างยา
+- ลงทะเบียนการทดลองทางคลินิกในประเทศไทย (TCTR) เพื่อเพิ่มความน่าเชื่อถือในเชิงหลักฐาน
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Nystatin](https://go.drugbank.com/drugs/DB00646)
-- [PubMed: Nystatin](https://pubmed.ncbi.nlm.nih.gov/?term=Nystatin)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Nystatin)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

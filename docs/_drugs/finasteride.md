@@ -1,92 +1,101 @@
 ---
 layout: default
-title: "Finasteride"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Finasteride ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Finasteride"
-drugbank_id: "DB01216"
-evidence_level: "L4"
+title: Finasteride
+parent: การคาดการณ์จากโมเดล (L5)
+nav_order: 70
+evidence_level: L5
 indication_count: 10
 ---
 
 # Finasteride
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB01216](https://go.drugbank.com/drugs/DB01216) |
-| **เลขทะเบียนยา** | 1A 132/67 |
-| **ข้อบ่งใช้เดิม** | ต่อมลูกหมากโต, ผมร่วง |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | Ambras type hypertrichosis universalis congenita |
-| **คะแนน TxGNN สูงสุด** | 0.9999 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | Ambras type hypertrichosis universalis congenita | 0.9999 |
-| 2 | hypertrichosis (disease) | 0.9999 |
-| 3 | malformation syndrome with odontal and/or periodontal component | 0.9999 |
-| 4 | syndrome with a Dandy-Walker malformation as major feature | 0.9999 |
-| 5 | benign prostatic hyperplasia (disease) | 0.9999 |
-| 6 | isolated genetic hair shaft abnormality | 0.9999 |
-| 7 | familial isolated trichomegaly | 0.9915 |
-| 8 | prostate calculus | 0.9860 |
-| 9 | persistent fetal circulation syndrome | 0.9049 |
-| 10 | chronic thromboembolic pulmonary hypertension | 0.8987 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+ใช้ `txgnn-pipeline` สำหรับงาน TxGNN drug repurposing report generation
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Finasteride: จากต่อมลูกหมากโตสู่ภาวะขนดกทั่วตัวชนิด Ambras
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Finasteride เป็นยายับยั้ง 5α-reductase ชนิด II ที่ใช้รักษาต่อมลูกหมากโตชนิดไม่ร้ายแรง (BPH) และผมร่วงจากพันธุกรรมในเพศชาย (Androgenetic Alopecia) มาอย่างยาวนาน
+โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **ภาวะขนดกทั่วตัวชนิด Ambras (Ambras type hypertrichosis universalis congenita)** ด้วยคะแนนสูงถึง 99.99%
+อย่างไรก็ตาม ปัจจุบัน**ยังไม่มีการทดลองทางคลินิกหรือวรรณกรรมใดสนับสนุนโดยตรง** และความสมเหตุสมผลเชิงกลไกยังอ่อนแอมาก ทำให้หลักฐานอยู่ในระดับต่ำสุด (L5)
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|---|---|
+| ข้อบ่งใช้เดิม | ต่อมลูกหมากโตชนิดไม่ร้ายแรง (BPH), ผมร่วงจากพันธุกรรมเพศชาย (AGA) — ยังไม่ได้ขึ้นทะเบียนในประเทศไทย |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขนดกทั่วตัวชนิด Ambras (Ambras type hypertrichosis universalis congenita) |
+| คะแนนการทำนาย TxGNN | 99.99% |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่มีการวางจำหน่าย |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Hold |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+Finasteride ออกฤทธิ์โดยยับยั้งเอนไซม์ 5α-reductase ชนิด II ซึ่งมีหน้าที่แปลง testosterone เป็น dihydrotestosterone (DHT) ในระดับเนื้อเยื่อ การลดระดับ DHT ทำให้ต่อมลูกหมากเล็กลงและชะลอการหลุดร่วงของเส้นผม เนื่องจากทั้งสองสภาวะนี้ขับเคลื่อนโดยฮอร์โมนแอนโดรเจน
+
+โมเดล TxGNN เชื่อมโยง Finasteride กับภาวะขนดกทั่วตัวชนิด Ambras ผ่านสมมติฐานว่าการลด DHT อาจยับยั้งการเจริญเติบโตของขนได้ในเชิงฮอร์โมน อย่างไรก็ตาม ภาวะ Ambras type hypertrichosis universalis congenita เป็นโรคพันธุกรรมหายากที่เกิดจากการกลับด้านของโครโมโซม 8 บริเวณเซนโทรเมียร์ (pericentromeric inversion of chromosome 8) ซึ่ง**ไม่เกี่ยวข้องกับ DHT หรือเส้นทางฮอร์โมนแอนโดรเจนแต่อย่างใด**
+
+คะแนนสูง 99.99% จาก TxGNN น่าจะสะท้อนความสัมพันธ์ทางอ้อมในกราฟความรู้ (knowledge graph) ผ่านโหนดที่เกี่ยวข้องกับโรคขน มากกว่าจะเป็นความสัมพันธ์เชิงกลไกโดยตรง ความสมเหตุสมผลทางชีววิทยาสำหรับข้อบ่งใช้นี้จึงยังอ่อนแอมาก
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้องกับการใช้ Finasteride ในภาวะ Ambras type hypertrichosis universalis congenita
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+ปัจจุบันยังไม่มีวรรณกรรมที่เกี่ยวข้องกับการใช้ Finasteride ในภาวะ Ambras type hypertrichosis universalis congenita
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Hold**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+ภาวะ Ambras type hypertrichosis universalis congenita มีสาเหตุจากความผิดปกติของโครโมโซม 8 โดยตรง ไม่ใช่กระบวนการที่ขับเคลื่อนด้วย DHT ความสมเหตุสมผลเชิงกลไกจึงอ่อนแอมาก ประกอบกับปัจจุบันยังไม่มีหลักฐานจากการทดลองทางคลินิกหรือวรรณกรรมใดสนับสนุน และ Finasteride ยังไม่ได้รับการขึ้นทะเบียนในประเทศไทย
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ดึงข้อมูลกลไกการออกฤทธิ์ (MOA) โดยละเอียดจาก DrugBank API (DB01216) เพื่อประเมิน off-target effects
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยา (Package Insert) เพื่อระบุคำเตือน ข้อห้ามใช้ และปฏิกิริยาระหว่างยา
+- สืบค้นงานวิจัยพรีคลินิกที่ตรวจสอบบทบาทของ DHT ในกลไกของ Ambras syndrome (ถ้ามี)
+- ยื่นขอขึ้นทะเบียนยาในประเทศไทยก่อนพิจารณาการศึกษาทางคลินิกใด ๆ
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Finasteride](https://go.drugbank.com/drugs/DB01216)
-- [PubMed: Finasteride](https://pubmed.ncbi.nlm.nih.gov/?term=Finasteride)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Finasteride)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>

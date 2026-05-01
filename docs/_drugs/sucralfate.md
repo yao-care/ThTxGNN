@@ -1,92 +1,110 @@
 ---
 layout: default
-title: "Sucralfate"
-description: "รายงานการวิเคราะห์ศักยภาพการใช้ยา Sucralfate ในข้อบ่งใช้ใหม่ - ThTxGNN"
-parent: หลักฐานอ่อน (L4)
-nav_order: 1
-drug_name: "Sucralfate"
-drugbank_id: "DB00364"
-evidence_level: "L4"
+title: Sucralfate
+parent: หลักฐานระดับสูง (L1-L2)
+nav_order: 144
+evidence_level: L2
 indication_count: 10
 ---
 
 # Sucralfate
+{: .fs-9 }
 
-<p class="fs-5 text-grey-dk-100">
-ระดับหลักฐาน: <strong>L4</strong> | ข้อบ่งใช้ที่คาดการณ์: <strong>10</strong> รายการ
-</p>
+ระดับหลักฐาน: **L2** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+{: .fs-6 .fw-300 }
 
 ---
 
-## สรุปภาพรวม
+## สารบัญ
+{: .no_toc .text-delta }
 
-| รายการ | รายละเอียด |
-|--------|------------|
-| **DrugBank ID** | [DB00364](https://go.drugbank.com/drugs/DB00364) |
-| **เลขทะเบียนยา** | 1A 130/67 |
-| **ข้อบ่งใช้เดิม** | แผลในกระเพาะอาหาร |
-| **ข้อบ่งใช้ที่คาดการณ์อันดับ 1** | duodenal ulcer (disease) |
-| **คะแนน TxGNN สูงสุด** | 0.9948 |
-| **ระดับหลักฐาน** | L4 |
-| **ขึ้นทะเบียนในประเทศไทย** | ✅ จดทะเบียนแล้ว |
-| **การตัดสินใจแนะนำ** | รอหลักฐานเพิ่มเติม |
+1. TOC
+{:toc}
 
-## การคาดการณ์ข้อบ่งใช้ใหม่จาก TxGNN
+---
 
-| อันดับ | ข้อบ่งใช้ที่คาดการณ์ | คะแนน TxGNN |
-|:------:|---------------------|:-----------:|
-| 1 | duodenal ulcer (disease) | 0.9948 |
-| 2 | duodenogastric reflux | 0.9937 |
-| 3 | duodenal obstruction | 0.9930 |
-| 4 | esophagitis (disease) | 0.9752 |
-| 5 | peptic esophagitis | 0.9595 |
-| 6 | duodenitis | 0.9544 |
-| 7 | active peptic ulcer disease | 0.9532 |
-| 8 | gastroduodenitis | 0.9426 |
-| 9 | C1 inhibitor deficiency | 0.9419 |
-| 10 | peptic ulcer perforation | 0.9404 |
+<div id="pharmacist">
 
+## รายงานการประเมินของเภสัชกร
 
-## วิธีการคาดการณ์
+</div>
 
-การคาดการณ์นี้ใช้โมเดล TxGNN (Therapeutics-Centric Knowledge Graph for Drug Repurposing)
-จาก Harvard ซึ่งวิเคราะห์ความสัมพันธ์ระหว่างยาและโรคจาก Knowledge Graph ที่ประกอบด้วย:
+ใช้ **txgnn-pipeline** เพื่อยืนยันบริบทโครงการ ThTxGNN แล้ว กำลังสร้างรายงานประเมินการนำยาเก่ามาใช้ใหม่ สำหรับ Sucralfate
 
-- ข้อมูลยาจาก DrugBank
-- ข้อมูลโรคจาก Disease Ontology
-- ความสัมพันธ์ยา-โรคที่ผ่านการตรวจสอบ
+---
 
-## ข้อควรพิจารณาด้านความปลอดภัย
+# Sucralfate: จากแผลเปปติกสู่ภาวะน้ำดีไหลย้อนสู่กระเพาะ (Duodenogastric Reflux)
 
-⚠️ กรุณาอ้างอิงเอกสารกำกับยาฉบับเต็มและปรึกษาแพทย์หรือเภสัชกรก่อนใช้ยา
+## สรุปสั้นๆ
+
+Sucralfate เป็นยาปกป้องเยื่อเมือกทางเดินอาหาร (cytoprotective agent) ที่เดิมใช้รักษาแผลกระเพาะและลำไส้เล็กส่วนต้น (peptic ulcer disease) โดยออกฤทธิ์เฉพาะที่ไม่ถูกดูดซึมเข้าสู่กระแสเลือด โมเดล TxGNN คาดการณ์ว่ายานี้อาจมีผลต่อ **ภาวะน้ำดีไหลย้อนสู่กระเพาะ (Duodenogastric Reflux)** โดยมีคะแนนความน่าจะเป็นสูงถึง 99.37% ปัจจุบันมี **วรรณกรรม 13 ฉบับ** รวมถึง **RCT 2 รายการ** สนับสนุนแนวทางนี้ แม้ยังไม่มีการทดลองทางคลินิกที่ลงทะเบียนเฉพาะสำหรับข้อบ่งใช้นี้
+
+---
+
+## ภาพรวมฉบับย่อ
+
+| รายการ | เนื้อหา |
+|------|------|
+| ข้อบ่งใช้เดิม | แผลกระเพาะอาหารและลำไส้เล็กส่วนต้น (Peptic Ulcer Disease) |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะน้ำดีไหลย้อนสู่กระเพาะ (Duodenogastric Reflux) |
+| คะแนนการทำนาย TxGNN | 99.37% |
+| ระดับหลักฐาน | L2 |
+| สถานะการวางจำหน่ายในไทย | ไม่พบข้อมูลการขึ้นทะเบียนใน Thai FDA |
+| จำนวนใบอนุญาต | 0 รายการ |
+| คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
+
+---
+
+## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
+
+Sucralfate เป็น basic aluminium salt of sulphated sucrose ที่ในสภาวะกรดของกระเพาะอาหารจะแตกตัวและจับกับโปรตีนที่บาดแผลเพื่อสร้างชั้นป้องกัน นอกจากนี้ยังยับยั้งการทำงานของ pepsin ได้โดยตรง และที่สำคัญสำหรับภาวะ DGR คือ **ความสามารถในการดูดซับ bile acids** ลดความเป็นพิษของน้ำดีที่ไหลย้อนจากลำไส้ ยายังกระตุ้นการสังเคราะห์ prostaglandin ในเยื่อเมือก และเสริมการหลั่งเมือกและ bicarbonate เพื่อเสริมสร้างกลไกป้องกันตามธรรมชาติ
+
+ภาวะน้ำดีไหลย้อนสู่กระเพาะ (DGR) เกิดจากการที่สาร alkaline จากลำไส้เล็กส่วนต้นไหลย้อนเข้าสู่กระเพาะ ทำให้ bile acids และ pancreatic enzymes ก่อความเสียหายต่อเยื่อเมือก Sucralfate มีกลไกที่ตรงจุดในการจัดการกับ DGR ต่างจากยาลดกรด (PPI/H2RA) ตรงที่ไม่ได้ลดการหลั่งกรดเท่านั้น แต่สามารถ **ดูดซับ bile acids** ที่เป็นตัวการก่อความเสียหายหลักใน DGR ได้โดยตรง
+
+หลักฐานสนับสนุนมาจาก RCT (PMID 3839973) ที่พบว่า Sucralfate มีประสิทธิผลใน alkaline reflux gastritis ซึ่งมีพยาธิสภาพใกล้เคียงกับ DGR รวมถึง randomized trial (PMID 12923369) ใน post-cholecystectomy alkaline reactive gastritis อีกหนึ่งภาวะที่มีกลไกทับซ้อนกับ DGR อย่างมีนัยสำคัญ
+
+---
+
+## หลักฐานจากการทดลองทางคลินิก
+
+ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้องโดยตรงกับ Sucralfate สำหรับภาวะ Duodenogastric Reflux
+
+---
+
+## หลักฐานจากวรรณกรรม
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [3839973](https://pubmed.ncbi.nlm.nih.gov/3839973/) | 1985 | RCT | The American Journal of Medicine | Sucralfate 6 g/วัน เทียบ placebo ใน 23 ผู้ป่วย alkaline reflux gastritis หลังผ่าตัด พบการปรับปรุงทั้งอาการและเนื้อเยื่อวิทยา |
+| [12923369](https://pubmed.ncbi.nlm.nih.gov/12923369/) | 2003 | RCT | European Journal of Gastroenterology & Hepatology | Sucralfate vs rabeprazole vs ไม่รักษา ใน post-cholecystectomy alkaline reactive gastritis ประเมินอาการและการส่องกล้อง |
+| [1391144](https://pubmed.ncbi.nlm.nih.gov/1391144/) | 1992 | Cohort | Minerva Gastroenterologica e Dietologica | Cisapride vs Sucralfate (4 g/วัน) ใน 18 ผู้ป่วย dyspepsia ที่เกิดจาก DGR gastritis วัดประสิทธิผลทางคลินิก 2 เดือน |
+| [12836018](https://pubmed.ncbi.nlm.nih.gov/12836018/) | 2003 | Cohort | European Journal of Pediatrics | DGR ปฐมภูมิในเด็กและวัยรุ่น 6 ราย (อายุ 4.5–16.5 ปี) ที่ไม่ตอบสนองต่อยาลดกรด ยืนยันด้วย 24-h gastric bilimetry |
+| [17285081](https://pubmed.ncbi.nlm.nih.gov/17285081/) | 2006 | Review | Journal de Chirurgie | ทบทวน DGR และ gastroesophageal bile reflux ครอบคลุม pathophysiology การวินิจฉัยด้วย 24-h bile monitoring และการรักษา |
+| [14723838](https://pubmed.ncbi.nlm.nih.gov/14723838/) | 2004 | Review | Current Treatment Options in Gastroenterology | DGR-induced alkaline esophagitis: PPI เป็นยาหลัก การรักษาด้วยยาและศัลยกรรม |
+| [6372664](https://pubmed.ncbi.nlm.nih.gov/6372664/) | 1984 | Review | Annual Review of Medicine | Alkaline reflux gastritis และ esophagitis จากน้ำดี: พยาธิสภาพ การวินิจฉัย และแนวทางการรักษา |
+| [3475771](https://pubmed.ncbi.nlm.nih.gov/3475771/) | 1987 | Review | Scandinavian Journal of Gastroenterology Supplement | Prospective RCT เปรียบ Sucralfate vs placebo ใน gastritis นาน 6 เดือน เน้นความแตกต่างระหว่าง DGR และ GER |
+| [3552846](https://pubmed.ncbi.nlm.nih.gov/3552846/) | 1987 | Review | Gastroenterologie Clinique et Biologique | พื้นฐานทางเภสัชวิทยาของการรักษา DGR: บทบาทของยากลุ่มต่างๆ รวม sucralfate |
+| [10228771](https://pubmed.ncbi.nlm.nih.gov/10228771/) | 1999 | Case series | Hepato-Gastroenterology | Duodenal switch operation สำหรับ DGR ที่รักษาไม่หาย ข้อบ่งชี้และผลการผ่าตัดใน primary และ secondary DGR |
+
+---
+
+## ข้อพิจารณาด้านความปลอดภัย
+
+กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: รอหลักฐานเพิ่มเติม**
+**การตัดสินใจ: Proceed with Guardrails**
 
 **เหตุผล:**
-การคาดการณ์นี้อยู่ในระดับหลักฐาน L4 ซึ่งต้องการการวิจัยเพิ่มเติมเพื่อยืนยันประสิทธิภาพ
+มี RCT 2 รายการ (PMID 3839973, 12923369) ที่ประเมิน Sucralfate ในภาวะ bile-reflux gastritis ซึ่งมีพยาธิสภาพทับซ้อนกับ DGR โดยตรง และกลไกการออกฤทธิ์ผ่านการดูดซับ bile acids สอดคล้องกับสาเหตุของโรค แม้ยาจะยังไม่ขึ้นทะเบียนใน Thai FDA และข้อมูลความปลอดภัยยังขาดอยู่ แต่ระดับหลักฐานเพียงพอสำหรับการพัฒนาต่อภายใต้การควบคุม
 
-**สิ่งที่ต้องการเพื่อดำเนินการต่อ:**
-- การศึกษากลไกการออกฤทธิ์ของยา (Mechanism of Action)
-- การทดลองทางคลินิกเบื้องต้น (Phase I/II Clinical Trial)
-- การศึกษาปฏิกิริยาระหว่างยา (Drug Interactions)
-
+**หากต้องการดำเนินการต่อต้อง:**
+- ดาวน์โหลดและวิเคราะห์ฉลากยาจาก FDA ต้นทาง (US FDA / EMA) เพื่อรับข้อมูลคำเตือน ข้อห้ามใช้ และปฏิกิริยาระหว่างยา (แก้ไข DG001)
+- รวบรวมข้อมูล MOA โดยละเอียดจาก DrugBank API (แก้ไข DG002) เพื่อสนับสนุนการวิเคราะห์เชิงกลไก
+- ตรวจสอบสถานะการขึ้นทะเบียน Thai FDA อย่างเป็นทางการและพิจารณาแนวทางการยื่นขอขึ้นทะเบียนหากมีความจำเป็น
+- ออกแบบ Prospective Cohort Study หรือ Pilot RCT ในผู้ป่วย primary DGR เพื่อยืนยันประสิทธิผลในบริบทไทย
 ---
 
-## แหล่งข้อมูล
-
-- [DrugBank: Sucralfate](https://go.drugbank.com/drugs/DB00364)
-- [PubMed: Sucralfate](https://pubmed.ncbi.nlm.nih.gov/?term=Sucralfate)
-- [ClinicalTrials.gov](https://clinicaltrials.gov/search?term=Sucralfate)
-
----
-
-<div class="disclaimer" style="background-color: #fff3cd; padding: 1rem; border-radius: 0.5rem; margin-top: 2rem;">
-<strong>⚠️ ข้อจำกัดความรับผิดชอบ</strong><br>
-รายงานนี้มีไว้เพื่อการวิจัยทางวิชาการเท่านั้น <strong>ไม่ถือเป็นคำแนะนำทางการแพทย์</strong>
-การใช้ยาต้องปฏิบัติตามคำแนะนำของแพทย์ ห้ามปรับเปลี่ยนการใช้ยาด้วยตนเอง
-การตัดสินใจใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการตรวจสอบทางคลินิกและกฎระเบียบอย่างครบถ้วน
-<br><br>
-<small>ตรวจสอบล่าสุด: 2026-03-03 | ThTxGNN Research Team</small>
-</div>
