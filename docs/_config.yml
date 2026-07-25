@@ -25,11 +25,6 @@ feed:
 # Open Graph
 og_image: /assets/images/og-default.png
 
-# Author (E-E-A-T)
-author:
-  name: 藥提醒科技有限公司 (yao.care)
-  url: https://www.yao.care/
-
 # Kramdown Settings
 kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
@@ -96,5 +91,6 @@ defaults:
     values:
       layout: "default"
       nav_exclude: true
+
 
 
