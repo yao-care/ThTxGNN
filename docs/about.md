@@ -7,6 +7,16 @@ nav_order: 3
 
 # เกี่ยวกับ ThTxGNN
 
+## เกี่ยวกับผู้พัฒนา
+
+แพลตฟอร์มนี้พัฒนาและดำเนินการโดย **藥提醒科技有限公司** (yao.care, เลขทะเบียนนิติบุคคล 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan)
+
+ThTxGNN คือเว็บไซต์ประจำประเทศไทยของสายผลิตภัณฑ์ "TxGNN Drug Repurposing" ของบริษัท ระบบเดียวกันนี้ถูกนำไปใช้งานใน 30 ประเทศและภูมิภาค โดยแต่ละแห่งใช้ชื่อ `{CC}TxGNN` (JpTxGNN, UsTxGNN, DETxGNN และอื่นๆ) ที่ `{cc}txgnn.yao.care` ภาพรวมผลิตภัณฑ์: <https://www.yao.care/medical/txgnn/>
+
+ตัวโมเดล TxGNN พัฒนาโดย Zitnik Lab แห่ง Harvard Medical School และตีพิมพ์ในวารสาร *Nature Medicine* แพลตฟอร์มนี้เป็นระบบใช้งานจริงที่ 藥提醒科技有限公司 สร้างขึ้นบนพื้นฐานของโมเดลดังกล่าว ครอบคลุมการบูรณาการข้อมูลการขึ้นทะเบียนยาระดับประเทศ การคาดการณ์แบบคู่ขนานด้วย Knowledge Graph และ Deep Learning การจัดระดับหลักฐานจาก PubMed / ClinicalTrials และการเชื่อมต่อเวชระเบียนอิเล็กทรอนิกส์ด้วย SMART on FHIR
+
+---
+
 ## ภาพรวมโครงการ
 
 ThTxGNN (Thailand Therapeutic Graph Neural Network) เป็นระบบคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่แบบโอเพนซอร์ส ที่ปรับให้เหมาะสมกับบริบทการดูแลสุขภาพของประเทศไทย

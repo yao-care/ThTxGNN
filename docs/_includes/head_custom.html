@@ -41,7 +41,7 @@
 
 <!-- Meta ข้อมูลการตรวจสอบ YMYL -->
 <meta name="last-reviewed" content="2026-02-19">
-<meta name="reviewed-by" content="ThTxGNN Research Team">
+<meta name="reviewed-by" content="藥提醒科技有限公司 (yao.care)">
 
 <!-- ข้อมูลโครงสร้าง Schema.org -->
 {% if page.layout == 'default' and page.evidence_level %}
@@ -60,22 +60,13 @@
       "dateModified": "2026-02-19",
       "lastReviewed": "2026-02-19",
       "reviewedBy": {
-        "@type": "Organization",
-        "name": "ThTxGNN Research Team"
+        "@id": "https://www.yao.care/#organization"
       },
       "author": {
-        "@type": "Organization",
-        "name": "ThTxGNN Team",
-        "url": "https://thtxgnn.yao.care/"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "ThTxGNN",
-        "url": "https://thtxgnn.yao.care/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://thtxgnn.yao.care/assets/images/og-default.png"
-        }
+        "@id": "https://www.yao.care/#organization"
       },
       "about": {
         "@type": "MedicalEntity",
@@ -133,7 +124,7 @@
       "url": "https://thtxgnn.yao.care/",
       "description": "ใช้ AI ทำนายข้อบ่งใช้ใหม่ที่อาจเป็นไปได้ของยาในระบบประกันสุขภาพไทย พร้อมรายงานการยืนยันหลักฐานทางคลินิก",
       "publisher": {
-        "@id": "https://thtxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "potentialAction": {
         "@type": "SearchAction",
@@ -142,23 +133,47 @@
       }
     },
     {
-      "@type": "Organization",
-      "@id": "https://thtxgnn.yao.care/#organization",
-      "name": "ThTxGNN",
-      "url": "https://thtxgnn.yao.care/",
-      "description": "แพลตฟอร์มทำนายการนำยาเก่ามาใช้ใหม่โดยใช้โมเดล TxGNN จากฮาร์วาร์ด",
+      "@type": ["Organization", "MedicalOrganization"],
+      "@id": "https://www.yao.care/#organization",
+      "name": "yao.care",
+      "legalName": "藥提醒科技有限公司",
+      "alternateName": "藥提醒",
+      "url": "https://www.yao.care",
+      "taxID": "83620786",
+      "email": "service@yao.care",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://thtxgnn.yao.care/assets/images/og-default.png"
+        "url": "https://www.yao.care/assets/images/logo.png"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "台灣大道二段220號12樓",
+        "addressLocality": "台中市西區",
+        "addressCountry": "TW"
       },
       "sameAs": [
+        "https://www.wikidata.org/wiki/Q140265007",
+        "https://github.com/yao-care",
+        "https://www.google.com/maps?cid=12025785010180313919",
+        "https://www.yao.care/medical/txgnn/"
+      ]
+    },
+    {
+      "@type": ["SoftwareApplication", "WebApplication"],
+      "@id": "https://thtxgnn.yao.care/#software",
+      "name": "ThTxGNN",
+      "alternateName": "ThTxGNN รายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่",
+      "url": "https://thtxgnn.yao.care/",
+      "applicationCategory": "HealthApplication",
+      "operatingSystem": "Web",
+      "isAccessibleForFree": true,
+      "publisher": { "@id": "https://www.yao.care/#organization" },
+      "author": { "@id": "https://www.yao.care/#organization" },
+      "creator": { "@id": "https://www.yao.care/#organization" },
+      "copyrightHolder": { "@id": "https://www.yao.care/#organization" },
+      "sameAs": [
+        "https://www.yao.care/medical/txgnn/",
         "https://github.com/yao-care/ThTxGNN"
-      ],
-      "knowsAbout": [
-        "Drug Repurposing",
-        "Machine Learning in Healthcare",
-        "Clinical Evidence Synthesis",
-        "Thailand Healthcare"
       ]
     },
     {
@@ -167,10 +182,10 @@
       "headline": "การนำยาเก่ามาใช้ใหม่ จากข้อมูลสู่หลักฐาน",
       "description": "ใช้ AI ทำนายข้อบ่งใช้ใหม่ที่อาจเป็นไปได้ของยาในระบบประกันสุขภาพไทย พร้อมรายงานการยืนยันหลักฐานทางคลินิกและการทดลองทางคลินิกจากยา 191 ชนิด",
       "author": {
-        "@id": "https://thtxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@id": "https://thtxgnn.yao.care/#organization"
+        "@id": "https://www.yao.care/#organization"
       },
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
@@ -208,10 +223,7 @@
       "datePublished": "2026-02-19",
       "dateModified": "2026-02-19",
       "mainEntity": {
-        "@type": "Organization",
-        "name": "ThTxGNN",
-        "url": "https://thtxgnn.yao.care/",
-        "description": "แพลตฟอร์มทำนายการนำยาเก่ามาใช้ใหม่โดยใช้โมเดล TxGNN จากฮาร์วาร์ด"
+        "@id": "https://www.yao.care/#organization"
       }
     },
     {
@@ -430,18 +442,10 @@
       "datePublished": "2026-02-21",
       "dateModified": "2026-02-21",
       "author": {
-        "@type": "Organization",
-        "name": "ThTxGNN",
-        "url": "https://thtxgnn.yao.care/"
+        "@id": "https://www.yao.care/#organization"
       },
       "publisher": {
-        "@type": "Organization",
-        "name": "ThTxGNN",
-        "url": "https://thtxgnn.yao.care/",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://thtxgnn.yao.care/assets/images/og-default.png"
-        }
+        "@id": "https://www.yao.care/#organization"
       },
       "isPartOf": {
         "@id": "https://thtxgnn.yao.care/news/#webpage"
@@ -504,4 +508,5 @@
 }
 </script>
 {% endif %}
+
 
