@@ -5,6 +5,9 @@ parent: รายงานยา
 nav_order: 2
 has_children: true
 description: "ยาที่มีข้อบ่งใช้ใหม่ระดับ L3-L4 มีหลักฐานจากการศึกษาเชิงสังเกตหรือ Preclinical ต้องการการศึกษาเพิ่มเติม"
+permalink: /evidence-medium/
+redirect_from:
+  - /evidence-medium.html
 ---
 
 # ยาที่มีหลักฐานระดับกลาง
@@ -42,3 +45,4 @@ description: "ยาที่มีข้อบ่งใช้ใหม่ระ
 |--------|--------------|------|
 {% for drug in l4_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [ดูรายงาน]({{ drug.url | relative_url }}) |
 {% endfor %}
+

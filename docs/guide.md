@@ -3,6 +3,9 @@ layout: default
 title: คู่มือการใช้งาน
 parent: คำอธิบาย
 nav_order: 2
+permalink: /guide/
+redirect_from:
+  - /guide.html
 ---
 
 # คู่มือการใช้งาน ThTxGNN
@@ -44,3 +47,4 @@ nav_order: 2
 - **JSON**: สำหรับการประมวลผลด้วยโปรแกรม
 
 ไปที่หน้า [ดาวน์โหลด](/downloads/) เพื่อดาวน์โหลดข้อมูล
+

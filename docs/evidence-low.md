@@ -5,6 +5,9 @@ parent: รายงานยา
 nav_order: 3
 has_children: true
 description: "ยาที่มีข้อบ่งใช้ใหม่ระดับ L5 เป็นผลการคาดการณ์จากโมเดล AI เท่านั้น ใช้เป็นแนวทางสำหรับการวิจัยในอนาคต"
+permalink: /evidence-low/
+redirect_from:
+  - /evidence-low.html
 ---
 
 # ยาที่มีเฉพาะการคาดการณ์จากโมเดล
@@ -37,3 +40,4 @@ description: "ยาที่มีข้อบ่งใช้ใหม่ระ
 |--------|--------------|------|
 {% for drug in l5_drugs %}| {{ drug.title }} | {{ drug.indication_count }} | [ดูรายงาน]({{ drug.url | relative_url }}) |
 {% endfor %}
+

@@ -4,6 +4,9 @@ title: รายงานยา
 nav_order: 4
 has_children: true
 description: "เรียกดูรายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่ 151 รายการ จัดระดับหลักฐาน L1-L5"
+permalink: /nav-drugs/
+redirect_from:
+  - /nav-drugs.html
 ---
 
 # รายงานยา
@@ -161,3 +164,4 @@ description: "เรียกดูรายงานการตรวจสอ
 <p style="text-align: center; margin-top: 2rem;">
   <a href="{{ '/drugs/' | relative_url }}" style="display: inline-block; padding: 0.75rem 2rem; background: #2E7D32; color: white; text-decoration: none; border-radius: 8px; font-weight: 600;">ดูรายการยาทั้งหมด</a>
 </p>
+

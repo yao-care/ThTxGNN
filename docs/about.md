@@ -3,6 +3,9 @@ layout: default
 title: เกี่ยวกับโครงการ
 parent: คำอธิบาย
 nav_order: 3
+permalink: /about/
+redirect_from:
+  - /about.html
 ---
 
 # เกี่ยวกับ ThTxGNN
@@ -85,3 +88,4 @@ ThTxGNN เป็นเครื่องมือวิจัยและไม
 - Thai FDA สำหรับข้อมูลการลงทะเบียนยา
 - DrugBank สำหรับข้อมูลยา
 - NCBI สำหรับการเข้าถึง PubMed
+
