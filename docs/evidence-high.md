@@ -5,6 +5,9 @@ parent: รายงานยา
 nav_order: 1
 has_children: true
 description: "ยาที่มีข้อบ่งใช้ใหม่ระดับ L1-L2 มีการทดลองทางคลินิกหลายรายการหรือ Systematic Review สนับสนุน ควรพิจารณาเข้าสู่การประเมินทางคลินิก"
+permalink: /evidence-high/
+redirect_from:
+  - /evidence-high.html
 ---
 
 # ยาที่มีหลักฐานระดับสูง
@@ -42,3 +45,4 @@ description: "ยาที่มีข้อบ่งใช้ใหม่ระ
 |--------|--------------|------|
 {% for drug in l2_drugs %}| **{{ drug.title }}** | {{ drug.indication_count }} | [ดูรายงาน]({{ drug.url | relative_url }}) |
 {% endfor %}
+

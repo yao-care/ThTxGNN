@@ -3,6 +3,9 @@ layout: default
 title: ดาวน์โหลด
 parent: แหล่งข้อมูล
 nav_order: 1
+permalink: /downloads/
+redirect_from:
+  - /downloads.html
 ---
 
 # ดาวน์โหลดข้อมูล
@@ -28,3 +31,4 @@ nav_order: 1
 ## ลิขสิทธิ์และการอนุญาต
 
 ข้อมูลในเว็บไซต์นี้เผยแพร่ภายใต้สัญญาอนุญาต Creative Commons Attribution 4.0 International (CC BY 4.0)
+

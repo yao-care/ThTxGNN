@@ -3,6 +3,9 @@ layout: default
 title: API Reference
 parent: แหล่งข้อมูล
 nav_order: 3
+permalink: /api/
+redirect_from:
+  - /api.html
 ---
 
 # API Reference
@@ -109,3 +112,4 @@ ThTxGNN รองรับ SMART on FHIR สำหรับการเชื่
 ## ข้อจำกัดความรับผิดชอบ
 
 API นี้มีไว้เพื่อการวิจัยเท่านั้น การคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่ต้องผ่านการทดลองทางคลินิกก่อนนำไปใช้
+

@@ -13,6 +13,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
 # RSS Feed
 feed:
@@ -95,4 +96,5 @@ defaults:
     values:
       layout: "default"
       nav_exclude: true
+
 

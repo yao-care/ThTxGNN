@@ -21,6 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-redirect-from
 
 # ฟังก์ชันค้นหา
 search_enabled: true
@@ -70,4 +71,5 @@ exclude:
   - node_modules
   - vendor
   - "*.template"
+
 

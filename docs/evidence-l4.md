@@ -3,6 +3,9 @@ layout: default
 title: หลักฐานอ่อน (L4)
 nav_order: 14
 has_children: true
+permalink: /evidence-l4/
+redirect_from:
+  - /evidence-l4.html
 ---
 
 # หลักฐานอ่อน (L4)
@@ -13,3 +16,4 @@ has_children: true
 {% for drug in drugs %}
 - [{{ drug.title }}]({{ drug.url | relative_url }}) - {{ drug.drugbank_id }}
 {% endfor %}
+

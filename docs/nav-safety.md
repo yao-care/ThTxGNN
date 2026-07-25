@@ -4,6 +4,9 @@ title: ข้อมูลความปลอดภัย
 nav_order: 5
 has_children: true
 description: "ฐานข้อมูลปฏิกิริยาระหว่างยา 4 ประเภท: DDI, DDSI, DFI, DHI สำหรับประเมินความเสี่ยงด้านความปลอดภัย"
+permalink: /nav-safety/
+redirect_from:
+  - /nav-safety.html
 ---
 
 # ข้อมูลความปลอดภัย
@@ -188,3 +191,4 @@ description: "ฐานข้อมูลปฏิกิริยาระหว
 | DDSI | DDInter 2.0 | 8,359 | 2026-02-21 |
 | DFI | DDInter 2.0 | 857 | 2026-02-21 |
 | DHI | ชุดข้อมูลที่คัดเลือก | 35 | 2026-02-21 |
+
