@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Itraconazole
-parent: หลักฐานอ่อน (L4)
+parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 88
 evidence_level: L4
 indication_count: 10
@@ -10,7 +10,7 @@ indication_count: 10
 # Itraconazole
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## รายงานการประเมินของเภสัชกร
+## รายงานการประเมินโดยเภสัชกร
 
 </div>
 
@@ -104,5 +104,10 @@ Itraconazole ยับยั้งเอนไซม์ CYP51 (lanosterol 14α-d
 - ทบทวนแบบจำลอง TxGNN เพื่อลด co-morbidity literature bias สำหรับเชื้อที่ดื้อต่อ azole โดยธรรมชาติ
 - พิจารณาข้อบ่งใช้อื่นในชุดข้อมูลนี้ที่มีหลักฐานดีกว่าอย่างชัดเจน ได้แก่ **Cryptococcal meningitis (L2 / Proceed with Guardrails)** ซึ่งมีการทดลองทางคลินิก Phase 2 รองรับโดยตรง และ **Penicilliosis/Talaromycosis (L3 / Proceed with Guardrails)** ซึ่ง itraconazole ได้รับการรับรองใน WHO/IDSA guidelines แล้ว
 - หากยังต้องการสำรวจฤทธิ์ต้าน Pneumocystis ให้เริ่มจากการทดสอบทางห้องปฏิบัติการ (in vitro model) ก่อนลงทุนเพิ่มเติม
+## ข้อจำกัดความรับผิดชอบ
+
+เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
+จำเป็นต้องมีการตรวจสอบทางคลินิกก่อนนำไปใช้ทางคลินิก
+
 ---
 

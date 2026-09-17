@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Theophylline
-parent: การคาดการณ์จากโมเดล (L5)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 151
 evidence_level: L5
 indication_count: 7
@@ -10,7 +10,7 @@ indication_count: 7
 # Theophylline
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่ทำนาย: **7** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **7** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -25,7 +25,7 @@ indication_count: 7
 
 <div id="pharmacist">
 
-## รายงานการประเมินของเภสัชกร
+## รายงานการประเมินโดยเภสัชกร
 
 </div>
 
@@ -126,5 +126,10 @@ Theophylline เป็นยาขยายหลอดลมกลุ่ม met
 - ขอข้อมูล MOA และ toxicity profile ฉบับสมบูรณ์จากฐานข้อมูล DrugBank
 - ดาวน์โหลดและวิเคราะห์ฉลากยาจาก Thai FDA เพื่อประเมินความปลอดภัยเบื้องต้น (แก้ไข DG001)
 - **พิจารณาข้อบ่งใช้ที่มีหลักฐานแข็งแกร่งกว่าใน Multi-Indication Pack นี้ก่อน ได้แก่ Obstructive Lung Disease (L1, Proceed with Guardrails) และ Nasal Cavity Disease (L2, Proceed with Guardrails)**
+## ข้อจำกัดความรับผิดชอบ
+
+เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
+จำเป็นต้องมีการตรวจสอบทางคลินิกก่อนนำไปใช้ทางคลินิก
+
 ---
 
