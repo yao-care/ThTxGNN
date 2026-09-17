@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Calcium Carbonate
-parent: การคาดการณ์จากโมเดล (L5)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 33
 evidence_level: L5
 indication_count: 10
@@ -10,7 +10,7 @@ indication_count: 10
 # Calcium Carbonate
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## รายงานการประเมินของเภสัชกร
+## รายงานการประเมินโดยเภสัชกร
 
 </div>
 
@@ -110,5 +110,10 @@ Calcium carbonate เมื่อรับประทานในปริม�
 - พัฒนา logic กรอง causal/adverse relationship ออกจาก therapeutic relationship ใน TxGNN pipeline ก่อนเข้า S1
 - พิจารณาการคาดการณ์อื่นที่มีกลไกการรักษาสมเหตุสมผลกว่า ได้แก่ **Gastroduodenitis (L3, Research Question)**, **Hyperlipidemia (L2, Research Question)** และ **Peptic Ulcer Disease (L3, Research Question)** ซึ่งล้วนมีกลไกการออกฤทธิ์ทางการรักษาจริงสำหรับ calcium carbonate
 - รวบรวมข้อมูลกลไกการออกฤทธิ์ (MOA) จาก DrugBank API เพื่อเสริมการวิเคราะห์ในรอบถัดไป
+## ข้อจำกัดความรับผิดชอบ
+
+เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
+จำเป็นต้องมีการตรวจสอบทางคลินิกก่อนนำไปใช้ทางคลินิก
+
 ---
 

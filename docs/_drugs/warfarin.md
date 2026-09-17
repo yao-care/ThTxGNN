@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Warfarin
-parent: หลักฐานอ่อน (L4)
+parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 161
 evidence_level: L4
 indication_count: 10
@@ -10,7 +10,7 @@ indication_count: 10
 # Warfarin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## รายงานการประเมินของเภสัชกร
+## รายงานการประเมินโดยเภสัชกร
 
 </div>
 
@@ -112,5 +112,10 @@ Warfarin **ยังไม่มีทะเบียนยาในประเ
 - จัดทำ systematic review หรือ case registry ของผู้ป่วย HCII Deficiency ที่ได้รับ anticoagulant (ทั้ง Warfarin และ DOAC)
 - ประเมินความเป็นไปได้ในการออกแบบ clinical trial ในฐานะ orphan disease สำหรับกลุ่มผู้ป่วยนี้
 - ศึกษาเปรียบเทียบกับ Direct Oral Anticoagulants (DOACs) ซึ่งปรากฏในบางรายงานว่าอาจมีประสิทธิผลน้อยกว่า Warfarin ใน thrombin-mediated thrombophilia
+## ข้อจำกัดความรับผิดชอบ
+
+เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
+จำเป็นต้องมีการตรวจสอบทางคลินิกก่อนนำไปใช้ทางคลินิก
+
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lisinopril
-parent: หลักฐานอ่อน (L4)
+parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 98
 evidence_level: L4
 indication_count: 10
@@ -10,7 +10,7 @@ indication_count: 10
 # Lisinopril
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่ทำนาย: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -25,7 +25,7 @@ indication_count: 10
 
 <div id="pharmacist">
 
-## รายงานการประเมินของเภสัชกร
+## รายงานการประเมินโดยเภสัชกร
 
 </div>
 
@@ -94,5 +94,10 @@ Lisinopril เป็นยากลุ่ม ACE Inhibitor ที่ออกฤ
 - สืบค้น sub-group analysis จากการทดลอง GISSI-3 และ ISIS-4 เพื่อดูว่ามีข้อมูล Posterolateral MI หรือไม่
 - ออกแบบ retrospective cohort study หรือ observational study เฉพาะกลุ่ม Posterolateral MI
 - ประเมินความเป็นไปได้ในการขึ้นทะเบียนยาในประเทศไทย
+## ข้อจำกัดความรับผิดชอบ
+
+เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
+จำเป็นต้องมีการตรวจสอบทางคลินิกก่อนนำไปใช้ทางคลินิก
+
 ---
 
