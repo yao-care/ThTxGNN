@@ -14,7 +14,7 @@ permalink: /news/propofol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Propofol บ้าง">
-ขณะนี้ <strong>Propofol</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Propofol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -35,22 +35,16 @@ permalink: /news/propofol/
 <li>tendinitis (98.9%)</li>
 <li>myositis fibrosa (98.8%)</li>
 <li>idiopathic granulomatous myositis (98.8%)</li>
-<li class="indication-matched">fibromyalgia (98.8%)<span class="indication-tag">📰 fibromyalgia</span></li>
+<li>fibromyalgia (98.8%)</li>
 <li>atrophoderma vermiculata (98.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propofol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (1 ข่าว)
+## ข่าวที่เกี่ยวข้อง (0 ข่าว)
 
-### [Tonix ขยายความคุ้มครอง Medicare สําหรับยารักษาโรค fibromyalgia TONMYA](https://news.google.com/rss/articles/CBMib0FVX3lxTE5PQzk5RGRxMjFQRWk5aGtKbXdabHpoMXpqc084QnlfLTZmSGVzU251VU53azBwNC1oVmRiNVFWdDNYRnZsYTRxY0FlOHFNTGkxaUpoQWxkeXI2SDNuMGc3VzVyb0pLRDBZVEVYTmU3VQ?oc=5)
-
-2026-09-03 <span class="news-indication-tag">fibromyalgia</span>
-
-แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5PQzk5RGRxMjFQRWk5aGtKbXdabHpoMXpqc084QnlfLTZmSGVzU251VU53azBwNC1oVmRiNVFWdDNYRnZsYTRxY0FlOHFNTGkxaUpoQWxkeXI2SDNuMGc3VzVyb0pLRDBZVEVYTmU3VQ?oc=5)
-
----
+*ยังไม่มีข่าวที่เกี่ยวข้อง เมื่อมีข่าวกล่าวถึงยานี้ ระบบจะรวบรวมและแสดงที่นี่โดยอัตโนมัติ*
 
 
 <div class="disclaimer">
