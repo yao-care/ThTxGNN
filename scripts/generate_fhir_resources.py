@@ -47,8 +47,8 @@ def create_medication_knowledge(drug: dict, base_url: str) -> dict:
                 "coding": [
                     {
                         "system": "urn:iso:std:iso:3166",
-                        "code": "TW",
-                        "display": "Taiwan"
+                        "code": "TH",
+                        "display": "Thailand"
                     }
                 ]
             }
