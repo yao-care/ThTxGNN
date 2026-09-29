@@ -794,14 +794,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Domperidone",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 44/67",
+        "brand_name_zh": "Domperidone",
+        "brand_name_en": "DOMPERIDONE",
+        "ingredients": "Domperidone",
+        "indication": "คลื่นไส้อาเจียน, อาหารไม่ย่อย",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB01184"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

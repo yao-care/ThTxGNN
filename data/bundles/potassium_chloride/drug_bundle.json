@@ -3647,14 +3647,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Potassium chloride",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 154/67",
+        "brand_name_zh": "Potassium chloride",
+        "brand_name_en": "POTASSIUM CHLORIDE",
+        "ingredients": "Potassium chloride",
+        "indication": "โพแทสเซียมต่ำ",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00761"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

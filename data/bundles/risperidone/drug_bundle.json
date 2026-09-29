@@ -1714,14 +1714,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Risperidone",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 79/67",
+        "brand_name_zh": "Risperidone",
+        "brand_name_en": "RISPERIDONE",
+        "ingredients": "Risperidone",
+        "indication": "โรคจิตเภท",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00734"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

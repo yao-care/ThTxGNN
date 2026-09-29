@@ -1188,14 +1188,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Celecoxib",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 37/67",
+        "brand_name_zh": "Celecoxib",
+        "brand_name_en": "CELECOXIB",
+        "ingredients": "Celecoxib",
+        "indication": "บรรเทาปวด, ข้อเสื่อม",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00482"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

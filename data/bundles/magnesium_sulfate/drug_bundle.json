@@ -5571,14 +5571,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Magnesium sulfate",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 155/67",
+        "brand_name_zh": "Magnesium sulfate",
+        "brand_name_en": "MAGNESIUM SULFATE",
+        "ingredients": "Magnesium sulfate",
+        "indication": "แมกนีเซียมต่ำ, ครรภ์เป็นพิษ",
+        "dosage_form": "injection",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00653"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

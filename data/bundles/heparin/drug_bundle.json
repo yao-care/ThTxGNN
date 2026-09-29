@@ -1683,14 +1683,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Heparin",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 25/67",
+        "brand_name_zh": "Heparin",
+        "brand_name_en": "HEPARIN",
+        "ingredients": "Heparin",
+        "indication": "ป้องกันและรักษาลิ่มเลือด",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB01109"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

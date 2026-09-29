@@ -219,14 +219,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Latanoprost",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 100/67",
+        "brand_name_zh": "Latanoprost",
+        "brand_name_en": "LATANOPROST",
+        "ingredients": "Latanoprost",
+        "indication": "ต้อหิน, ความดันในตาสูง",
+        "dosage_form": "eye drops",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00654"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

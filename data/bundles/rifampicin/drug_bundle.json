@@ -4134,14 +4134,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Rifampicin",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 115/67",
+        "brand_name_zh": "Rifampicin",
+        "brand_name_en": "RIFAMPICIN",
+        "ingredients": "Rifampicin",
+        "indication": "วัณโรค",
+        "dosage_form": "capsule",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB01045"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

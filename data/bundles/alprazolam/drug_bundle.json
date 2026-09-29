@@ -2400,14 +2400,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Alprazolam",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 74/67",
+        "brand_name_zh": "Alprazolam",
+        "brand_name_en": "ALPRAZOLAM",
+        "ingredients": "Alprazolam",
+        "indication": "วิตกกังวล, โรคตื่นตระหนก",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00404"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

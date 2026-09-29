@@ -5048,14 +5048,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Montelukast",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 64/67",
+        "brand_name_zh": "Montelukast",
+        "brand_name_en": "MONTELUKAST",
+        "ingredients": "Montelukast",
+        "indication": "โรคหอบหืด, โรคภูมิแพ้",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00471"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],

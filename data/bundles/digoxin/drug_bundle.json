@@ -1431,14 +1431,32 @@
     "is_novel_check_done": true
   },
   "thaifda": {
-    "drug": "Digoxin",
-    "disease": "",
-    "registrations": [],
-    "count": 0,
-    "sources": [
-      "NDI",
-      "Thai FDA Pertento"
-    ]
+    "found": true,
+    "records": [
+      {
+        "license_id": "1A 6/67",
+        "brand_name_zh": "Digoxin",
+        "brand_name_en": "DIGOXIN",
+        "ingredients": "Digoxin",
+        "indication": "หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ",
+        "dosage_form": "tablet",
+        "manufacturer": "",
+        "license_holder": "",
+        "approval_date": "",
+        "expiry_date": "",
+        "status": "active"
+      }
+    ],
+    "total_matches": 1,
+    "drugbank_ids": [
+      "DB00390"
+    ],
+    "package_insert": {
+      "warnings": [],
+      "contraindications": [],
+      "dosage": "",
+      "special_populations": []
+    }
   },
   "safety": {
     "label_sources": [],
