@@ -62,7 +62,7 @@ nav_order: 10
 | ClinicalTrials.gov | Clinical trial data (NCT IDs) |
 | PubMed | Biomedical literature (PMIDs) |
 | DrugBank | Drug properties and interactions |
-| TFDA | Thailand FDA approval status |
+| Thai FDA | Thailand FDA approval status |
 | DDInter 2.0 | Drug-drug interactions |
 | Disease Ontology | Disease classification (DOIDs) |
 
