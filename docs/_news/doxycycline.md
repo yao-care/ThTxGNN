@@ -14,7 +14,7 @@ permalink: /news/doxycycline/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Doxycycline บ้าง">
-ขณะนี้ <strong>Doxycycline</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Doxycycline</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -42,29 +42,13 @@ permalink: /news/doxycycline/
 <p><a href="{{ '/drugs/doxycycline/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (3 ข่าว)
+## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
-### [สธ. ชี้ยา ‘Doxycycline’ ไม่ได้ป้องกัน ‘ฉี่หนู’ ทั้งหมด ย้ำใช้ตามแพทย์สั่ง](https://news.google.com/rss/articles/CBMiakFVX3lxTE1wOVJhT0xrQmRkWE9sZnNmUVZGQkRJa1A2bURldzFtNTgzZHNzZzg4TzdsUDVhUnh3YkhxejNNem5IS3p6enA4UWJvNXJQQ2VhaXZOc2FyU3ZSYXBYRTZNMnpzX0Y2aGN4eHc?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Doxycycline</span>
-
-แหล่งที่มา: [matichon.co.th](https://news.google.com/rss/articles/CBMiakFVX3lxTE1wOVJhT0xrQmRkWE9sZnNmUVZGQkRJa1A2bURldzFtNTgzZHNzZzg4TzdsUDVhUnh3YkhxejNNem5IS3p6enA4UWJvNXJQQ2VhaXZOc2FyU3ZSYXBYRTZNMnpzX0Y2aGN4eHc?oc=5)
-
----
-
-### [สธ. ยกระดับรับมือน้ำท่วม 7 มาตรการ เตือน “โรคฉี่หนู” ย้ำใช้ Doxycycline ตามแพทย์สั่ง](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
+### [สธ. ขานรับข้อสั่งการนายกรัฐมนตรี ยกระดับการปฏิบัติงานผ่าน 7 มาตรการหลัก พร้อมแนะแนวทางใช้ยา Doxycycline ป้องกัน-รักษา - สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ndlJwYVZXU3psMFVnVXA2MmdIaTdDakJsWUNzOVRBZnJZX2d6bHc3ZmRRMkFaWFRSU0NjUkdUZnFzcWJZNXZvelB4VnBrUTZEWmlLanpGWGJTZw?oc=5)
 
 2026-09-29 <span class="news-drug-tag">Doxycycline</span>
 
-แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
-
----
-
-### [สธ. ขานรับข้อสั่งการนายกรัฐมนตรี ยกระดับการปฏิบัติงานผ่าน 7 มาตรการหลัก พร้อมแนะแนวทางใช้ยา Doxycycline ป้องกัน-รักษา](https://news.google.com/rss/articles/CBMic0FVX3lxTE5EMEprOUdPcnI1SEljUm51aVVRRVNFZjJXZnZmR3p1X3dBUnYxNkFHV0l5SUdXMUdONEd3czhzLUQzMjhzaVNuc3c3UWhLeTVRNDQ0dlhTeVozMWc4cjljMThxU1FDbGltdDlvN2lWS2RDUVE?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Doxycycline</span>
-
-แหล่งที่มา: [prd.go.th](https://news.google.com/rss/articles/CBMic0FVX3lxTE5EMEprOUdPcnI1SEljUm51aVVRRVNFZjJXZnZmR3p1X3dBUnYxNkFHV0l5SUdXMUdONEd3czhzLUQzMjhzaVNuc3c3UWhLeTVRNDQ0dlhTeVozMWc4cjljMThxU1FDbGltdDlvN2lWS2RDUVE?oc=5)
+แหล่งที่มา: [สำนักสารนิเทศ สำนักงานปลัดกระทรวงสาธารณสุข](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ndlJwYVZXU3psMFVnVXA2MmdIaTdDakJsWUNzOVRBZnJZX2d6bHc3ZmRRMkFaWFRSU0NjUkdUZnFzcWJZNXZvelB4VnBrUTZEWmlLanpGWGJTZw?oc=5)
 
 ---
 
