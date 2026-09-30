@@ -44,11 +44,11 @@ permalink: /news/doxycycline/
 
 ## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
-### [สธ. ชี้ยา ‘Doxycycline’ ไม่ได้ป้องกัน ‘ฉี่หนู’ ทั้งหมด ย้ำใช้ตามแพทย์สั่ง - Matichon Online](https://news.google.com/rss/articles/CBMiakFVX3lxTE1wOVJhT0xrQmRkWE9sZnNmUVZGQkRJa1A2bURldzFtNTgzZHNzZzg4TzdsUDVhUnh3YkhxejNNem5IS3p6enA4UWJvNXJQQ2VhaXZOc2FyU3ZSYXBYRTZNMnpzX0Y2aGN4eHc?oc=5)
+### [สธ. ยกระดับรับมือน้ำท่วม 7 มาตรการ เตือน “โรคฉี่หนู” ย้ำใช้ Doxycycline ตามแพทย์สั่ง](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
 
 2026-09-29 <span class="news-drug-tag">Doxycycline</span>
 
-แหล่งที่มา: [Matichon Online](https://news.google.com/rss/articles/CBMiakFVX3lxTE1wOVJhT0xrQmRkWE9sZnNmUVZGQkRJa1A2bURldzFtNTgzZHNzZzg4TzdsUDVhUnh3YkhxejNNem5IS3p6enA4UWJvNXJQQ2VhaXZOc2FyU3ZSYXBYRTZNMnpzX0Y2aGN4eHc?oc=5)
+แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
 
 ---
 
