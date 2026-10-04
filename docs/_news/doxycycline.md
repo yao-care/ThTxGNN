@@ -48,7 +48,7 @@ permalink: /news/doxycycline/
 
 2026-09-29 <span class="news-drug-tag">Doxycycline</span>
 
-แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
+แหล่งที่มา: [hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
 
 ---
 
