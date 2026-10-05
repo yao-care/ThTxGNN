@@ -14,7 +14,7 @@ permalink: /news/doxycycline/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Doxycycline บ้าง">
-ขณะนี้ <strong>Doxycycline</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Doxycycline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,9 @@ permalink: /news/doxycycline/
 <p><a href="{{ '/drugs/doxycycline/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (1 ข่าว)
+## ข่าวที่เกี่ยวข้อง (0 ข่าว)
 
-### [สธ. ยกระดับรับมือน้ำท่วม 7 มาตรการ เตือน “โรคฉี่หนู” ย้ำใช้ Doxycycline ตามแพทย์สั่ง](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
-
-2026-09-29 <span class="news-drug-tag">Doxycycline</span>
-
-แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FOXVyZXFZVVozYTRhdHdSVGJzQjZycnM2WHpEYy16VHBoM2pJc0lQN0FCVjcwUWtxXzY2UktDN3BfNFJhXzRKdDNzeXFEN2pXcnItSWY4SQ?oc=5)
-
----
+*ยังไม่มีข่าวที่เกี่ยวข้อง เมื่อมีข่าวกล่าวถึงยานี้ ระบบจะรวบรวมและแสดงที่นี่โดยอัตโนมัติ*
 
 
 <div class="disclaimer">
