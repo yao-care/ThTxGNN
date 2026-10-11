@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` สำหรับงาน TxGNN drug repurposing report generation
-
----
-
 # Finasteride: จากต่อมลูกหมากโตสู่ภาวะขนดกทั่วตัวชนิด Ambras
 
 ## สรุปสั้นๆ

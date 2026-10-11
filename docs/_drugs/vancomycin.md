@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` skill to align with TxGNN report generation standards. The skill confirms standard workflow applies. Now generating the report — this is a **multi-indication** Evidence Pack (10 รายการ) for Vancomycin, where rank 9 (streptococcal pneumonia) is the only prediction with biological rationale and actionable evidence. I'll adapt the format accordingly.
-
----
-
 # Vancomycin: จากการรักษาการติดเชื้อแกรมบวกสู่ปอดอักเสบจากเชื้อสเตรปโตค็อกคัส
 
 ## สรุปสั้นๆ

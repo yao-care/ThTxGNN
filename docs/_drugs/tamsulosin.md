@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อเตรียมเขียนรายงานประเมินการนำยาเก่ามาใช้ใหม่
-
----
-
 # Tamsulosin: จากต่อมลูกหมากโตสู่ Ambras type hypertrichosis universalis congenita
 
 ## สรุปสั้นๆ

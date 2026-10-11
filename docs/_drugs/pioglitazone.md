@@ -29,10 +29,6 @@ indication_count: 9
 
 </div>
 
-ใช้ `txgnn-pipeline` สำหรับงาน TxGNN report generation แล้ว กำลังสร้างรายงานตาม Evidence Pack ที่ได้รับ
-
----
-
 # Pioglitazone: จากเบาหวานชนิดที่ 2 สู่ Opsismodysplasia
 
 ## สรุปสั้นๆ

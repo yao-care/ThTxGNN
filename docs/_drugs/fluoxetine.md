@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ตรวจสอบแล้วว่า `txgnn-pipeline` ครอบคลุมงาน pipeline/deployment เป็นหลัก ไม่ใช่ report generation — ดำเนินการตามรูปแบบที่กำหนดในระบบโดยตรง
-
----
-
 # Fluoxetine: จากยาต้านซึมเศร้า (SSRI) สู่โรคบุคลิกภาพแบบ Schizoid
 
 ## สรุปสั้นๆ

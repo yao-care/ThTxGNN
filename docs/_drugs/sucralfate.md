@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ **txgnn-pipeline** เพื่อยืนยันบริบทโครงการ ThTxGNN แล้ว กำลังสร้างรายงานประเมินการนำยาเก่ามาใช้ใหม่ สำหรับ Sucralfate
-
----
-
 # Sucralfate: จากแผลเปปติกสู่ภาวะน้ำดีไหลย้อนสู่กระเพาะ (Duodenogastric Reflux)
 
 ## สรุปสั้นๆ

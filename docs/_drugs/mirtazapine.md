@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ตรวจสอบ skill แล้ว — ไม่มีขั้นตอนเพิ่มเติมจาก txgnn-pipeline สำหรับ report generation เดินหน้าสร้างรายงานตามรูปแบบที่กำหนดได้เลย
-
----
-
 # Mirtazapine: จากภาวะซึมเศร้าสู่ Ohdo Syndrome and Variants
 
 ## สรุปสั้นๆ

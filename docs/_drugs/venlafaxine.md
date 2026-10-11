@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using txgnn-pipeline to guide report generation from Evidence Pack data.
-
----
-
 # Venlafaxine: จากโรคซึมเศร้าสู่ Ohdo Syndrome and Variants
 
 ## สรุปสั้นๆ

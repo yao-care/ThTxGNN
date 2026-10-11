@@ -29,8 +29,6 @@ indication_count: 10
 
 </div>
 
-The txgnn-pipeline skill confirms TxGNN domain context. The system prompt provides the complete report format. I'll now generate the report.
-
 **Note on Evidence Pack analysis before writing:**
 - The 10 predicted indications — ranks 1–9 are all **L5 / Hold** with zero clinical evidence and no biological rationale
 - Rank 10 (manic bipolar affective disorder) is the only **L1 / Proceed with Guardrails** finding with 9 clinical trials and 20 literature items

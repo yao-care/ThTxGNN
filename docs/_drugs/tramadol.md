@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` skill เพื่อตรวจสอบบริบทงาน TxGNN ✓
-
----
-
 # Tramadol: จากยาแก้ปวดสู่ Acromesomelic Dysplasia ชนิด Hunter-Thompson
 
 ## สรุปสั้นๆ

@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เป็นบริบท และกำลังสร้างรายงานตาม Evidence Pack ที่ให้มา — โดย `predicted_indications[0]` คือ uterine corpus epithelioid leiomyosarcoma (L5, Hold)
-
----
-
 # Praziquantel: จากโรคพยาธิใบไม้เลือดสู่มะเร็งกล้ามเนื้อมดลูกชนิด Epithelioid
 
 ## สรุปสั้นๆ

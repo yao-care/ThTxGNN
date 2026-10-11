@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` skill loaded — proceeding to generate the drug repurposing evaluation report.
-
----
-
 # Nifedipine: จากความดันโลหิตสูงสู่ไมเกรนชนิดมีออร่าจากก้านสมอง
 
 ## สรุปสั้นๆ

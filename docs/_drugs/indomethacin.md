@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อกำกับมาตรฐานการเขียนรายงาน TxGNN แล้ว กำลังวิเคราะห์ Evidence Pack และสร้างรายงาน...
-
----
-
 # Indomethacin: จากยาต้านการอักเสบ (NSAID) สู่กลุ่มอาการ Brachydactyly-Syndactyly
 
 ## สรุปสั้นๆ

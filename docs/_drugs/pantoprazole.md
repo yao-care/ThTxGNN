@@ -29,10 +29,6 @@ indication_count: 6
 
 </div>
 
-ใช้ `txgnn-pipeline` เป็น reference สำหรับรูปแบบรายงานนี้ ขณะนี้กำลังสร้างรายงานจาก Evidence Pack ที่ให้มา
-
----
-
 # Pantoprazole: จากกรดไหลย้อนสู่แผลเพปติกในระยะกำเริบ
 
 ## สรุปสั้นๆ

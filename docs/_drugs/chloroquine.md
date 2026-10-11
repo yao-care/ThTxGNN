@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อตรวจสอบบริบทโครงการ — ไม่มีคำแนะนำเพิ่มเติมสำหรับการสร้างรายงาน ดำเนินการตามรูปแบบ Evidence Pack v5
-
----
-
 # Chloroquine: จากยาต้านมาลาเรียสู่ RF-Positive Polyarticular JIA ในเด็ก
 
 ## สรุปสั้นๆ

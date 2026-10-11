@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` to confirm context. Now generating the report following the Evidence Pack JSON.
-
----
-
 # Propylthiouracil (PTU): จากภาวะไทรอยด์เป็นพิษสู่ภาวะดื้อต่อฮอร์โมนไทรอยด์จาก THRβ Mutation
 
 ## สรุปสั้นๆ

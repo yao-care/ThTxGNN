@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` to confirm context, then generating the repurposing report per the system prompt template.
-
----
-
 # Folic Acid: จากการเสริมโฟเลตสู่โรคเมตาบอลิซึมของไบโอติน
 
 ## สรุปสั้นๆ

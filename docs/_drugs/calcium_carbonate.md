@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` skill confirmed — no additional pipeline constraints for report generation. Proceeding to generate the report following Prompt v5 format.
-
----
-
 # Calcium Carbonate: จากยาลดกรดสู่ Calcium-Alkali Syndrome
 
 ## สรุปสั้นๆ

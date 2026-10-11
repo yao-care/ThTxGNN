@@ -29,10 +29,6 @@ indication_count: 9
 
 </div>
 
-ใช้ `txgnn-pipeline` skill เพื่อตรวจสอบบริบทของงาน — ไม่มีข้อจำกัดเพิ่มเติม ดำเนินการสร้างรายงานตาม Evidence Pack ที่ได้รับ
-
----
-
 # Glimepiride: จากเบาหวานชนิดที่ 2 สู่ Classic Stiff Person Syndrome
 
 ## สรุปสั้นๆ

@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ทักษะ `txgnn-pipeline` เพื่อยืนยันบริบทงาน — รายงานนี้เป็นส่วนหนึ่งของ ThTxGNN (Thai) pipeline ขั้นตอนการสร้าง Evidence Report
-
----
-
 # Digoxin: จากภาวะหัวใจล้มเหลวสู่ Prinzmetal Angina
 
 ## สรุปสั้นๆ

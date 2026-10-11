@@ -29,8 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ skill **txgnn-pipeline** เพื่อตรวจสอบแนวทาง ✓
-
 ตรวจสอบข้อมูลจาก Evidence Pack แล้ว:
 - predicted_indications[0]: thrombophilia due to protein C deficiency, autosomal recessive (L5, ไม่มี trial/literature)
 - Enoxaparin ไม่ได้ขึ้นทะเบียนในไทย (0 licenses)

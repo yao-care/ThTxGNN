@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-使用 `txgnn-pipeline` 技能確認完畢，現在根據 Evidence Pack 產生報告。
-
----
-
 # Filgrastim: จากภาวะเม็ดเลือดขาวต่ำสู่ความผิดปกติในการปล่อยเกล็ดเลือด
 
 ## สรุปสั้นๆ

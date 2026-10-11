@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อยืนยันบริบทการทำงาน — รายงานนี้อยู่ในโปรเจกต์ ThTxGNN (ไทย) ดำเนินการสร้างรายงานจาก Evidence Pack ต่อไปได้เลย
-
----
-
 # Warfarin: จากยาต้านการแข็งตัวของเลือดสู่ภาวะขาด Heparin Cofactor II
 
 ## สรุปสั้นๆ

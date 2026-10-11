@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` to guide report structure, then generating the assessment report from the Evidence Pack.
-
----
-
 # Cephalexin: จากการรักษาการติดเชื้อแบคทีเรียสู่โรคหูชั้นกลางอักเสบเรื้อรัง
 
 ## สรุปสั้นๆ

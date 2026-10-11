@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ txgnn-pipeline เป็น context แล้ว ขณะนี้กำลังสร้างรายงานประเมินสำหรับ Tizanidine
-
----
-
 # Tizanidine: จากภาวะกล้ามเนื้อเกร็งสู่โรคไมเกรน
 
 ## สรุปสั้นๆ

@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อตรวจสอบ context ก่อนสร้างรายงาน TxGNN Drug Repurposing Assessment ✓
-
----
-
 # Diphenhydramine: จากยาต้านฮิสตามีน H1 สู่ Rosacea Conjunctivitis
 
 ## สรุปสั้นๆ

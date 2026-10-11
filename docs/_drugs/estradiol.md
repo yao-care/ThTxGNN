@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อตรวจสอบบริบทโครงการ ThTxGNN แล้ว กำลังสร้างรายงานประเมินการนำยาเก่ามาใช้ใหม่สำหรับ Evidence Pack TW-DB00783-multi
-
----
-
 # Estradiol: จากฮอร์โมนทดแทนสตรีสู่อาการ Fragile X Syndrome ในหญิงพาหะ
 
 ## สรุปสั้นๆ

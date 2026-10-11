@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-使用 `txgnn-pipeline` 技能確認工作框架後，現在根據 Evidence Pack 產生報告。
-
----
-
 # Rivaroxaban: จากยาต้านการแข็งตัวของเลือดสู่โรคข้ออักเสบรูมาตอยด์
 
 ## สรุปสั้นๆ

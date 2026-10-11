@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation for TxGNN drug repurposing evaluation.
-
----
-
 # Sildenafil: จากภาวะหย่อนสมรรถภาพทางเพศสู่ Ambras Type Hypertrichosis Universalis Congenita
 
 ## สรุปสั้นๆ

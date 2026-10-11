@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อตรวจสอบบริบทโครงการ — skill นี้กำหนดแนวทางงาน TxGNN แต่ไม่ override format ที่ระบุใน system prompt ดังนั้นจะดำเนินการตาม Evidence Pack v5 format โดยตรง
-
----
-
 # Colchicine: จากเก๊าท์สู่มาลาเรีย Plasmodium falciparum
 
 ## สรุปสั้นๆ

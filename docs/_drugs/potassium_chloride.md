@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ทักษะ `txgnn-pipeline` เพื่อตรวจสอบบริบทโครงการแล้ว — กำลังสร้างรายงานประเมินการนำยาเก่ามาใช้ใหม่สำหรับ Potassium Chloride ตาม Evidence Pack v4
-
----
-
 # Potassium Chloride: จากการเสริมโพแทสเซียมสู่โรคกรดในท่อไตฝอย
 
 ## สรุปสั้นๆ

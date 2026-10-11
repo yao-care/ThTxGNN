@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` to confirm context. Now generating the report based on the Evidence Pack.
-
----
-
 # Terbinafine: จากการติดเชื้อราที่ผิวหนังสู่ Furuncular Myiasis
 
 ## สรุปสั้นๆ

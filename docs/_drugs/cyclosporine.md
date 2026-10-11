@@ -29,10 +29,6 @@ indication_count: 7
 
 </div>
 
-Using the `txgnn-pipeline` skill to guide report generation for the TxGNN drug repurposing context. Now generating the full report based on Evidence Pack for Cyclosporine (DB00091).
-
----
-
 # Cyclosporine: จากการป้องกัน GVHD สู่โรคแกรนูโลมาโตซิสเรื้อรัง (CGD)
 
 ## สรุปสั้นๆ

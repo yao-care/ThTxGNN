@@ -29,10 +29,6 @@ indication_count: 7
 
 </div>
 
-Using `txgnn-pipeline` skill to confirm context — then proceeding to generate the multi-indication report per the v5 Prompt format.
-
----
-
 # Theophylline: จากโรคหอบหืดและ COPD สู่โรคหลอดเลือดอุดตัน
 
 ## สรุปสั้นๆ

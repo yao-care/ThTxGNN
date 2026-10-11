@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using **txgnn-pipeline** to generate the drug repurposing assessment report.
-
----
-
 # Tretinoin: จากสิวและมะเร็งเม็ดเลือดขาว APL สู่ Rheumatoid Nodulosis
 
 ## สรุปสั้นๆ

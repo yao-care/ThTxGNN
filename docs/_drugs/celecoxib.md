@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-The txgnn-pipeline skill covers pipeline operations; this task is a report generation task with format already fully specified in the system prompt. Proceeding with the report.
-
----
-
 # Celecoxib: จากยาต้านการอักเสบ สู่โรคกระดูกสันหลังอักเสบ (Inflammatory Spondylopathy)
 
 ## สรุปสั้นๆ

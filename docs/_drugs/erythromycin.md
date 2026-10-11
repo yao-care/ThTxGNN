@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ skill `txgnn-pipeline` เพื่อตรวจสอบบริบทงาน — ทาสก์นี้เป็นการสร้างรายงานประเมินจาก Evidence Pack ตาม Prompt v5 ซึ่งกำหนดรูปแบบไว้ชัดเจน จึงดำเนินการเขียนรายงานได้เลย
-
----
-
 # Erythromycin: จากการรักษาการติดเชื้อแบคทีเรียสู่กระจกตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjunctivitis)
 
 ## สรุปสั้นๆ

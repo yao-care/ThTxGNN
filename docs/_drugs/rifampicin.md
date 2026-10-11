@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` skill — confirmed applicable. Now generating the report based on the Evidence Pack.
-
----
-
 # Rifampicin: จากวัณโรคสู่เยื่อบุตาอักเสบ
 
 ## สรุปสั้นๆ

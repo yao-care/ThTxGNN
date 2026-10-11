@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` ตรวจสอบบริบทโครงการแล้ว — นี่คือรายงานจาก Evidence Pack ของ ThTxGNN สำหรับ Progesterone:
-
----
-
 # Progesterone: จากการควบคุมวงจรประจำเดือนสู่ภาวะหยุดมีประจำเดือน
 
 ## สรุปสั้นๆ

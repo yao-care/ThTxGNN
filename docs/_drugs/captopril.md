@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-Using `txgnn-pipeline` skill confirmed — this is a ThTxGNN report generation task. Proceeding with the full Evidence Pack analysis for Captopril.
-
----
-
 # Captopril: จากความดันโลหิตสูงสู่ความดันโลหิตสูงจากหลอดเลือดไตชนิดร้ายแรง
 
 ## สรุปสั้นๆ

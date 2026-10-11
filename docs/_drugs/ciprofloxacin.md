@@ -29,10 +29,6 @@ indication_count: 10
 
 </div>
 
-ใช้ `txgnn-pipeline` เพื่อตรวจสอบบริบทการทำงาน ✓
-
----
-
 # Ciprofloxacin: จากการรักษาการติดเชื้อแบคทีเรียสู่ Diffuse Scleroderma
 
 ## สรุปสั้นๆ
