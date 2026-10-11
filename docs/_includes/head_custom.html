@@ -355,15 +355,15 @@
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "รายการยา - ThTxGNN",
-      "description": "รายการรายงานการยืนยันยาทั้งหมดของ ThTxGNN รวม 191 ชนิดยา",
+      "description": "รายการรายงานการยืนยันยาทั้งหมดของ ThTxGNN รวม {{ site.drugs.size }} หน้ายา",
       "url": "{{ page.url | absolute_url }}"
     },
     {
       "@type": "ItemList",
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "รายงานการยืนยันยา ThTxGNN",
-      "description": "รายงานการยืนยันการนำยาเก่ามาใช้ใหม่ของยา 191 ชนิดในระบบประกันสุขภาพไทย",
-      "numberOfItems": 191,
+      "description": "รายงานการยืนยันการนำยาเก่ามาใช้ใหม่ของยาในระบบประกันสุขภาพไทย",
+      "numberOfItems": {{ site.drugs.size }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {
@@ -398,7 +398,7 @@
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "การติดตามข่าวสุขภาพ - ThTxGNN",
-      "description": "{{ page.description | default: 'ติดตามข่าวสุขภาพล่าสุดเกี่ยวกับยา 191 ชนิดและข้อบ่งใช้โดยอัตโนมัติ' }}",
+      "description": "{{ page.description | default: 'ติดตามข่าวสุขภาพล่าสุดเกี่ยวกับยาและข้อบ่งใช้โดยอัตโนมัติ' }}",
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://thtxgnn.yao.care/#website"
