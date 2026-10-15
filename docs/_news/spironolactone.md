@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Spironolactone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Spironolactone ข้อบ่งใช้เดิม: บวมน้ำ, หัวใจล้มเหลว ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Spironolactone ข้อบ่งใช้เดิม: บวมน้ำ, หัวใจล้มเหลว ข้อบ่งใช้ที่คาดการณ์ 12 รายการ"
 permalink: /news/spironolactone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Spironolactone บ้าง">
-ขณะนี้ <strong>Spironolactone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Spironolactone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 12 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,9 @@ permalink: /news/spironolactone/
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: บวมน้ำ, หัวใจล้มเหลว</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
+<li>ผมร่วง (Alopecia) โดยเฉพาะผมร่วงจากพันธุกรรมในผู้หญิง (97.8%)</li>
+<li>โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease) (95.5%)</li>
 <li>hypotrichosis simplex of the scalp (99.3%)</li>
 <li>congenital hypotrichosis milia (99.0%)</li>
 <li>diffuse alopecia areata (98.4%)</li>

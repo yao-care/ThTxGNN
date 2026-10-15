@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Levetiracetam"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Levetiracetam ข้อบ่งใช้เดิม: โรคลมชัก ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Levetiracetam ข้อบ่งใช้เดิม: โรคลมชัก ข้อบ่งใช้ที่คาดการณ์ 11 รายการ"
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Levetiracetam บ้าง">
-ขณะนี้ <strong>Levetiracetam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Levetiracetam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 11 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -26,17 +26,18 @@ permalink: /news/levetiracetam/
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคลมชัก</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>visual epilepsy (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (11 รายการ)</strong>:<ul>
+<li>Visual epilepsy (100.0%)</li>
+<li>Audiogenic seizures (100.0%)</li>
+<li>Micturition-induced seizures (100.0%)</li>
+<li>Eating seizures (100.0%)</li>
+<li>Orgasm-induced seizures (100.0%)</li>
+<li>Startle epilepsy (100.0%)</li>
+<li>Thinking seizures (100.0%)</li>
+<li>Reading seizures (99.9%)</li>
+<li>Beta-ketothiolase deficiency (99.9%)</li>
 <li>micturation-induced seizures (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>reading seizures (99.9%)</li>
 <li>status epilepticus (99.9%)</li>
-<li>beta-ketothiolase deficiency (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

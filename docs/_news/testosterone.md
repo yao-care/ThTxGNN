@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Testosterone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Testosterone ข้อบ่งใช้เดิม: ภาวะขาดฮอร์โมนเพศชาย ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Testosterone ข้อบ่งใช้เดิม: ภาวะขาดฮอร์โมนเพศชาย ข้อบ่งใช้ที่คาดการณ์ 12 รายการ"
 permalink: /news/testosterone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/testosterone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Testosterone บ้าง">
-ขณะนี้ <strong>Testosterone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Testosterone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 12 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,9 @@ permalink: /news/testosterone/
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ภาวะขาดฮอร์โมนเพศชาย</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
+<li>ภาวะรังไข่ล้มเหลวปฐมภูมิ (93.7%)</li>
+<li>กลุ่มอาการอัณฑะฝ่อตั้งแต่กำเนิด (94.5%)</li>
 <li>polysomy of X chromosome (94.9%)</li>
 <li>tetragametic chimerism (94.7%)</li>
 <li>penile/testicular agenesis (94.6%)</li>

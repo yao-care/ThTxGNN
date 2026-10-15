@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Prednisolone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Prednisolone ข้อบ่งใช้เดิม: ต้านการอักเสบ, ภูมิแพ้รุนแรง ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Prednisolone ข้อบ่งใช้เดิม: ต้านการอักเสบ, ภูมิแพ้รุนแรง ข้อบ่งใช้ที่คาดการณ์ 12 รายการ"
 permalink: /news/prednisolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prednisolone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Prednisolone บ้าง">
-ขณะนี้ <strong>Prednisolone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Prednisolone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 12 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -26,9 +26,11 @@ permalink: /news/prednisolone/
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ต้านการอักเสบ, ภูมิแพ้รุนแรง</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
+<li>ไตเนฟโฟรติกซินโดรมชนิดตอบสนองต่อสเตียรอยด์ (99.9%)</li>
+<li>Alopecia mucinosa (100.0%)</li>
+<li>Folliculitis decalvans (100.0%)</li>
 <li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
 <li>telogen effluvium (100.0%)</li>
 <li>Quinquaud's folliculitis decalvans (100.0%)</li>
 <li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>

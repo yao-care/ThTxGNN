@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Alprazolam"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Alprazolam ข้อบ่งใช้เดิม: วิตกกังวล, โรคตื่นตระหนก ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Alprazolam ข้อบ่งใช้เดิม: วิตกกังวล, โรคตื่นตระหนก ข้อบ่งใช้ที่คาดการณ์ 12 รายการ"
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Alprazolam บ้าง">
-ขณะนี้ <strong>Alprazolam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Alprazolam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 12 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -26,7 +26,10 @@ permalink: /news/alprazolam/
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: วิตกกังวล, โรคตื่นตระหนก</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
+<li>นอนไม่หลับ (Insomnia) (99.8%)</li>
+<li>Phobic disorder (97.5%)</li>
+<li>โรคย้ำคิดย้ำทำ (OCD) (98.2%)</li>
 <li>insomnia (disease) (99.8%)</li>
 <li>benign paroxysmal torticollis of infancy (99.6%)</li>
 <li>agoraphobia (99.6%)</li>
@@ -36,7 +39,6 @@ permalink: /news/alprazolam/
 <li>chondromyxoid fibroma (98.1%)</li>
 <li>specific developmental disorder (98.0%)</li>
 <li>faciodigitogenital syndrome (98.0%)</li>
-<li>phobic disorder (97.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprazolam/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

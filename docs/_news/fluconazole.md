@@ -27,16 +27,16 @@ permalink: /news/fluconazole/
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อรา</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.2%)</li>
 <li>Plasmodium falciparum malaria (98.6%)</li>
-<li>allergic urticaria (98.5%)</li>
-<li>hyperamylasemia (98.3%)</li>
-<li>polyclonal hyperviscosity syndrome (98.3%)</li>
-<li>congenital analbuminemia (98.0%)</li>
-<li>pneumocystosis (97.8%)</li>
-<li>blood group incompatibility (97.8%)</li>
-<li>premalignant hematological system disease (97.4%)</li>
-<li>papular urticaria (97.3%)</li>
+<li>Pneumocystosis (97.8%)</li>
+<li>Allergic urticaria (98.5%)</li>
+<li>Hyperamylasemia (98.3%)</li>
+<li>Polyclonal hyperviscosity syndrome (98.3%)</li>
+<li>Congenital analbuminemia (98.0%)</li>
+<li>Blood group incompatibility (97.8%)</li>
+<li>Premalignant hematological system disease (97.4%)</li>
+<li>Papular urticaria (97.3%)</li>
+<li>punctate epithelial keratoconjunctivitis (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluconazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

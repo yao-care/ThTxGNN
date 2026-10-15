@@ -27,9 +27,9 @@ permalink: /news/olanzapine/
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคจิตเภท, โรคไบโพลาร์</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
+<li>Agoraphobia (99.5%)</li>
+<li>Dysthymic disorder (99.3%)</li>
 <li>benign paroxysmal torticollis of infancy (99.5%)</li>
-<li>agoraphobia (99.5%)</li>
-<li>dysthymic disorder (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/olanzapine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
