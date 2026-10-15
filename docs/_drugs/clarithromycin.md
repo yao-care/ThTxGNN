@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Clarithromycin
-parent: หลักฐานระดับสูง (L1-L2)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 44
-evidence_level: L2
+evidence_level: L5
 indication_count: 10
 ---
 
 # Clarithromycin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L2** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,89 +29,105 @@ indication_count: 10
 
 </div>
 
-กำลังวิเคราะห์ Evidence Pack และสร้างรายงานตามรูปแบบที่กำหนด
-
----
-
-# Clarithromycin: จากยาปฏิชีวนะรักษาติดเชื้อสู่โมโนโคลนอลแกมมาพาธี
+# Clarithromycin: จากโรคติดเชื้อแบคทีเรียสู่ polyclonal hyperviscosity syndrome
 
 ## สรุปสั้นๆ
 
-Clarithromycin เป็นยาปฏิชีวนะกลุ่ม 14-membered ring Macrolide ที่เดิมใช้รักษาโรคติดเชื้อแบคทีเรีย เช่น การติดเชื้อทางเดินหายใจ การกำจัด *Helicobacter pylori* และการป้องกัน/รักษา Mycobacterium avium Complex (MAC)
-โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **โมโนโคลนอลแกมมาพาธี (Monoclonal Gammopathy)** ซึ่งครอบคลุม MGUS, multiple myeloma และ Waldenström's macroglobulinemia โดยมีกลไกการเสริมฤทธิ์ยากลุ่ม IMiDs ที่มีข้อมูลทางคลินิกรองรับ
-ปัจจุบันมี **การทดลองทางคลินิก 1 รายการ** และ **วรรณกรรม 20 ฉบับ** สนับสนุนแนวทางนี้
+Clarithromycin เป็นยาปฏิชีวนะกลุ่มมาโครไลด์ ซึ่งเดิมใช้รักษาโรคติดเชื้อแบคทีเรีย โมเดล TxGNN จัดอันดับ **polyclonal hyperviscosity syndrome (ภาวะเลือดหนืดจากอิมมูโนโกลบูลินหลายโคลน)** เป็นข้อบ่งใช้ใหม่อันดับแรก แต่ยังไม่มีทั้งการทดลองทางคลินิกและวรรณกรรมสนับสนุนข้อนี้เลย จึงเป็นเพียงการทำนายจากโมเดล
 
----
+ข้อบ่งใช้ลำดับถัดไปที่หลักฐานดีกว่าคือ **monoclonal gammopathy** ซึ่งมีการทดลองทางคลินิกที่เสร็จสิ้นแล้ว 1 รายการ และวรรณกรรม 19 ฉบับ (ส่วนใหญ่เกี่ยวกับมัลติเพิลไมอีโลมา) ดูรายละเอียดในหัวข้อ "ข้อบ่งใช้ลำดับอื่นที่น่าสนใจ"
 
 ## ภาพรวมฉบับย่อ
 
 | รายการ | เนื้อหา |
-|--------|---------|
-| ข้อบ่งใช้เดิม | ยาปฏิชีวนะกลุ่ม Macrolide (ไม่พบข้อมูลทะเบียนยาในฐานข้อมูลไทย) |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | โมโนโคลนอลแกมมาพาธี (Monoclonal Gammopathy) |
-| คะแนนการทำนาย TxGNN | 98.81% |
-| ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | ไม่พบข้อมูลทะเบียนยา |
-| จำนวนใบอนุญาต | 0 รายการ |
-| คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
-
----
+|------|------|
+| ข้อบ่งใช้เดิม | โรคติดเชื้อแบคทีเรีย |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | polyclonal hyperviscosity syndrome |
+| คะแนนการทำนาย TxGNN | 99.35% |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | ทะเบียนถูกยกเลิกแล้ว (ไม่มีทะเบียนที่ยังใช้ได้) |
+| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-Clarithromycin มีคุณสมบัติพิเศษที่โดดเด่นในกลุ่มยาปฏิชีวนะ ได้แก่ ฤทธิ์ปรับสมดุลระบบภูมิคุ้มกัน (immunomodulation) ซึ่งแสดงให้เห็นชัดเจนในการรักษา diffuse panbronchiolitis และโรคทางเดินหายใจเรื้อรังอื่นๆ คุณสมบัตินี้เองที่เป็นสะพานเชื่อมโยงทางชีววิทยาจากยาปฏิชีวนะสู่บริบทของโรคเลือดที่เกี่ยวข้องกับพลาสมาเซลล์
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียด ตามข้อมูลที่ทราบ Clarithromycin เป็นยาปฏิชีวนะกลุ่มมาโครไลด์ที่ยับยั้งไรโบโซมหน่วย 50S และมีฤทธิ์ปรับภูมิคุ้มกันด้วย ประสิทธิผลในการรักษาโรคติดเชื้อแบคทีเรียได้รับการพิสูจน์แล้ว
 
-ในบริบทของ monoclonal gammopathy และ multiple myeloma Clarithromycin ถูกเสนอว่าออกฤทธิ์ผ่านหลายเส้นทาง ได้แก่ การกระตุ้น autophagy pathway เพื่อเพิ่มการกำจัดเซลล์พลาสมาผิดปกติ การยับยั้งสัญญาณ NF-κB ซึ่งเป็นกลไกสำคัญของการอยู่รอดและการดื้อยาของเซลล์มะเร็งไขกระดูก และที่โดดเด่นที่สุดคือการเสริมฤทธิ์ยากลุ่ม IMiDs (lenalidomide, thalidomide, pomalidomide) จนกลายเป็นส่วนประกอบหลักในสูตรยาอย่าง **BiRd** (Biaxin + Revlimid + dexamethasone) และ **ClaPd** (Clarithromycin + Pomalidomide + dexamethasone)
+อย่างไรก็ตาม ยังไม่มีกลไกที่ชัดเจนเชื่อมยานี้กับภาวะเลือดหนืดจากอิมมูโนโกลบูลินที่สูงขึ้น ความเชื่อมโยงนี้อาศัยเพียงคะแนนจากโมเดลเท่านั้น
 
-น่าสังเกตว่าการคาดการณ์สูงสุดของ TxGNN ในรายนี้คือ polyclonal hyperviscosity syndrome (อันดับ 1 คะแนน 99.35%) ซึ่งมีความเชื่อมโยงทางคลินิกโดยตรง เพราะ Waldenström's macroglobulinemia ซึ่งเป็นชนิดหนึ่งของ monoclonal gammopathy มักก่อให้เกิดภาวะความหนืดเลือดสูง (hyperviscosity) จากการผลิต IgM มากเกินปกติ การที่ Clarithromycin ลดมวลเซลล์พลาสมาผิดปกติจึงส่งผลทางอ้อมต่อภาวะ hyperviscosity ด้วย การทดลองทางคลินิก Phase 2 (NCT00006219) ที่ศึกษา Clarithromycin ใน MGUS โดยตรงยืนยันว่าการคาดการณ์จากโมเดลมีรากฐานทางคลินิกที่แท้จริง
+## ข้อบ่งใช้ลำดับอื่นที่น่าสนใจ
 
----
+ข้อมูลที่รวบรวมมามีข้อบ่งใช้ที่ทำนายไว้หลายรายการ ที่หลักฐานโดดเด่นกว่าอันดับ 1 มีดังนี้
+
+| ข้อบ่งใช้ที่ทำนาย | คะแนน TxGNN | ระดับหลักฐาน | คำแนะนำ |
+|------|------|------|------|
+| monoclonal gammopathy | 98.81% | L2 | Research Question |
+| punctate epithelial keratoconjunctivitis | 99.11% | L3 | Research Question |
+| hyperamylasemia | 99.35% | L4 | Hold |
+| congenital hematological disorder | 98.32% | L4 | Hold |
+
+รายการที่เหลือ (congenital analbuminemia, blood group incompatibility, premalignant hematological system disease, septicemic plague, hematological disease associated with an acquired peripheral neuropathy) เป็น L5 และคำแนะนำคือ Hold
+
+กลไกที่เกี่ยวข้องของ monoclonal gammopathy คือ Clarithromycin ยับยั้งออโตฟาจีและเสริมฤทธิ์ความเป็นพิษต่อเซลล์ของยากลุ่มปรับภูมิคุ้มกันและเดกซาเมทาโซนในโรคพลาสมาเซลล์ ผลทางคลินิกมีบันทึกชัดที่สุดในมัลติเพิลไมอีโลมาและ Waldenström's macroglobulinemia ดังนั้นการขยายไปยังภาวะ MGUS ก่อนเป็นมะเร็งจึงเป็นการอนุมานทางอ้อม
 
 ## หลักฐานจากการทดลองทางคลินิก
 
-| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
-|----------------|------|--------|-----------------|-------------|
-| [NCT00006219](https://clinicaltrials.gov/study/NCT00006219) | Phase 2 | เสร็จสิ้น | N/A | เปรียบเทียบ Clarithromycin (Biaxin) + DHEA กับ DHEA เดี่ยวในผู้ป่วย MGUS ที่มีความเสี่ยงสูงต่อการพัฒนาเป็น Multiple Myeloma เพื่อศึกษาประสิทธิผลในการป้องกัน |
+สำหรับข้อบ่งใช้อันดับ 1 (polyclonal hyperviscosity syndrome) ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
 
----
+ส่วนข้อบ่งใช้ monoclonal gammopathy มีการทดลองดังนี้
+
+| หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
+|---------|------|------|------|---------|
+| [NCT00006219](https://clinicaltrials.gov/study/NCT00006219) | Phase 2 | เสร็จสิ้น | ไม่ระบุ | เปรียบเทียบ DHEA กับ clarithromycin (Biaxin) แบบสุ่มในผู้ที่เสี่ยงสูงต่อการเป็นมัลติเพิลไมอีโลมา (MGUS) ยังไม่มีผลการศึกษาที่เผยแพร่ |
 
 ## หลักฐานจากวรรณกรรม
 
-| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
-|------|----|--------|--------|-------------|
-| [34021118](https://pubmed.ncbi.nlm.nih.gov/34021118/) | 2021 | RCT | Blood cancer journal | Phase III (286 ราย): Rd ± clarithromycin ใน MM ที่ไม่เหมาะสมกับ ASCT พบว่าการเพิ่ม clarithromycin ไม่ปรับปรุง PFS อย่างมีนัยสำคัญ |
-| [36394758](https://pubmed.ncbi.nlm.nih.gov/36394758/) | 2022 | Meta-analysis | European Review for Medical and Pharmacological Sciences | Meta-analysis สูตร triplet บน pomalidomide + dexamethasone (รวม ClaPd) ใน RRMM วิเคราะห์ประสิทธิผลและความปลอดภัยของแต่ละสูตร |
-| [34424561](https://pubmed.ncbi.nlm.nih.gov/34424561/) | 2021 | Cohort | American Journal of Hematology | Car-BiRd (carfilzomib + clarithromycin + lenalidomide + dex) ประเมินความปลอดภัยและประสิทธิผลใน newly diagnosed MM |
-| [30792190](https://pubmed.ncbi.nlm.nih.gov/30792190/) | 2019 | Cohort | Blood Advances | Phase 2 (120 ราย): ClaPd ใน RRMM ที่เคยได้รับ lenalidomide (median 5 prior lines) แสดงการตอบสนองที่น่าพอใจ |
-| [24723438](https://pubmed.ncbi.nlm.nih.gov/24723438/) | 2014 | Cohort | American Journal of Hematology | Clarithromycin เอาชนะการดื้อยา lenalidomide + dex ได้ใน 24 ผู้ป่วย MM ที่ progress บน Rd (best response: CR ใน subset) |
-| [24576165](https://pubmed.ncbi.nlm.nih.gov/24576165/) | 2014 | Cohort | Leukemia & Lymphoma | T-BiRD (thalidomide + clarithromycin + lenalidomide + dex) ใน 26 ผู้ป่วย newly diagnosed MM median 6 cycles แสดง ORR สูง |
-| [28355602](https://pubmed.ncbi.nlm.nih.gov/28355602/) | 2017 | Cohort | Acta Haematologica | Consolidation หลัง ASCT ด้วย BLT-D หรือ BiRd ใน MM แสดงประสิทธิผลและความปลอดภัยที่ยอมรับได้ในบริบท post-transplant |
-| [27804150](https://pubmed.ncbi.nlm.nih.gov/27804150/) | 2017 | Cohort | American Journal of Hematology | เพิ่ม clarithromycin ใน IMiD-based therapy: hematological response 48% ใน MM และ 35% ใน AL amyloidosis ที่ดื้อยา (n=48) |
-| [17989313](https://pubmed.ncbi.nlm.nih.gov/17989313/) | 2008 | Cohort | Blood | BiRD (clarithromycin + lenalidomide + dex) เป็น first-line สำหรับ MM แสดง CR/ORR สูง ถือเป็นการศึกษาก่อตั้งสูตร BiRd |
-| [26505907](https://pubmed.ncbi.nlm.nih.gov/26505907/) | 2016 | Review | Acta Haematologica | บทวิจารณ์รวบรวมหลักฐานทางคลินิกทั้งหมดและสนับสนุนให้นำ clarithromycin มาใช้อย่างจริงจังในการรักษา multiple myeloma |
+สำหรับข้อบ่งใช้อันดับ 1 ปัจจุบันยังไม่มีวรรณกรรมที่เกี่ยวข้อง
 
----
+ตารางด้านล่างเป็นวรรณกรรมของ monoclonal gammopathy (คัดมาที่เกี่ยวข้องมากที่สุด 10 ฉบับ)
+
+| PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
+|------|-----|------|------|---------|
+| [34021118](https://pubmed.ncbi.nlm.nih.gov/34021118/) | 2021 | RCT เฟส 3 | Blood Cancer J | Lenalidomide + dexamethasone โดยเพิ่มหรือไม่เพิ่ม clarithromycin ในผู้ป่วย 286 รายที่ไม่เหมาะกับการปลูกถ่ายเซลล์ต้นกำเนิด ติดตามเฉลี่ย 19 เดือน ไม่พบความแตกต่างอย่างมีนัยสำคัญของ PFS ตามข้อความที่ได้รับ |
+| [30792190](https://pubmed.ncbi.nlm.nih.gov/30792190/) | 2019 | การศึกษาเฟส 2 | Blood Adv | Clarithromycin + pomalidomide + dexamethasone ในมัลติเพิลไมอีโลมากลับเป็นซ้ำ/ดื้อยา 120 ราย |
+| [24723438](https://pubmed.ncbi.nlm.nih.gov/24723438/) | 2014 | Cohort | Am J Hematol | เติม clarithromycin เมื่อโรคลุกลามขณะรับ lenalidomide + dexamethasone ในผู้ป่วย 24 ราย |
+| [34424561](https://pubmed.ncbi.nlm.nih.gov/34424561/) | 2021 | การศึกษาเฟส 2 | Am J Hematol | โปรแกรม Car-BiRd (carfilzomib → lenalidomide + clarithromycin + dexamethasone) ในมัลติเพิลไมอีโลมาที่เพิ่งวินิจฉัย |
+| [12720150](https://pubmed.ncbi.nlm.nih.gov/12720150/) | 2003 | Cohort | Semin Oncol | สูตร clarithromycin + thalidomide + dexamethasone ใน Waldenström's macroglobulinemia |
+| [12685831](https://pubmed.ncbi.nlm.nih.gov/12685831/) | 2002 | Cohort | Leuk Lymphoma | สูตร BLT-D ในมัลติเพิลไมอีโลมาและ Waldenström's macroglobulinemia |
+| [25687081](https://pubmed.ncbi.nlm.nih.gov/25687081/) | 2015 | Review | Zhongguo Shi Yan Xue Ye Xue Za Zhi | ทบทวนการใช้ clarithromycin ร่วมกับเคมีบำบัดแบบดั้งเดิม ซึ่งพบว่าเพิ่มอัตราการตอบสนองและการรอดชีวิตในมัลติเพิลไมอีโลมา |
+| [38039297](https://pubmed.ncbi.nlm.nih.gov/38039297/) | 2023 | การศึกษาในห้องปฏิบัติการ | PLoS One | Clarithromycin ช่วยเอาชนะการดื้อยากลุ่มยับยั้งโปรตีเอโซมที่เกิดจากเซลล์สโตรมา โดยปิดกั้นออโตฟาจีฟลักซ์ |
+| [20811702](https://pubmed.ncbi.nlm.nih.gov/20811702/) | 2010 | การศึกษาในห้องปฏิบัติการ | Int J Oncol | Clarithromycin ลดออโตฟาจีในเซลล์ไมอีโลมา |
+| [33138750](https://pubmed.ncbi.nlm.nih.gov/33138750/) | 2021 | Review | Curr Med Chem | ทบทวนการนำยาเก่ามาใช้ใหม่ทางโลหิตวิทยา |
+
+## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
+|---------|------|------|-----------|
+| 1A 52/67 (ทะเบียนถูกยกเลิก) | Clarithromycin | ยาเม็ด | โรคติดเชื้อแบคทีเรีย |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
-กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+คำเตือนและข้อห้ามใช้จากเอกสารกำกับยายังไม่มีข้อมูล กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
 
----
+ข้อมูลที่รวบรวมมาพบสิ่งที่ควรระวังดังนี้
+
+- **โรคที่เป็นข้อห้ามตามฐานความรู้ TxGNN** (ไม่ใช่ข้อความจากฉลากยา): กลุ่มหัวใจและจังหวะการเต้น เช่น long QT syndrome, torsades de pointes, ventricular tachycardia; กลุ่มตับและทางเดินน้ำดี เช่น liver failure, liver disease, cholestasis, gallbladder disease; กลุ่มพอร์ฟิเรีย; โรคไต; myasthenia gravis และโรคของรอยต่อระบบประสาทและกล้ามเนื้อ; Clostridium difficile colitis; osteoporosis และกระดูกหัก; infectious mononucleosis
+- **ปฏิกิริยาระหว่างยา**: ตรวจพบ 100 รายการ ตัวอย่างระดับ Major ได้แก่ abemaciclib, fentanyl, acalabrutinib ส่วนระดับ Moderate เช่น paclitaxel, tramadol, nifedipine, famotidine, hydrocortisone, ethinylestradiol, afatinib
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: Proceed with Guardrails**
+**การตัดสินใจ: Hold**
 
 **เหตุผล:**
-มีการทดลองทางคลินิก Phase 2 ที่เสร็จสิ้นแล้วซึ่งศึกษา Clarithromycin โดยตรงใน MGUS รวมถึงวรรณกรรมทางคลินิกจำนวนมาก (20 ฉบับ) ที่สนับสนุนการใช้ในกลุ่ม monoclonal gammopathy และ multiple myeloma อย่างไรก็ตาม Phase 3 RCT รายสำคัญ (PMID 34021118) พบว่าการเพิ่ม clarithromycin ใน Rd สำหรับผู้ป่วย non-transplant eligible MM ไม่ปรับปรุง PFS อย่างมีนัยสำคัญ บ่งชี้ว่าบริบทการใช้และสูตรยาร่วมมีความสำคัญในการกำหนดประสิทธิผล
+- ข้อบ่งใช้อันดับ 1 มีเพียงคะแนนจากโมเดล ไม่มีกลไกที่ชัดเจน การทดลองทางคลินิก หรือวรรณกรรมสนับสนุน และยาตัวนี้ไม่มีทะเบียนที่ยังใช้ได้ในประเทศไทย
+- ข้อมูลความปลอดภัยจากเอกสารกำกับยายังขาด ซึ่งเป็นข้อมูลที่ขาดแบบสำคัญและขัดขวางการคัดกรองความปลอดภัยขั้นต่อไป
 
 **หากต้องการดำเนินการต่อต้อง:**
-- ตรวจสอบสถานะทะเบียนยา Clarithromycin จาก Thai FDA โดยตรง (ฐานข้อมูลปัจจุบันแสดง 0 ใบอนุญาต ซึ่งผิดปกติสำหรับยาปฏิชีวนะที่ใช้แพร่หลาย)
-- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยา (Package Insert) จาก TFDA เพื่อประเมินคำเตือน ข้อห้ามใช้ และปฏิกิริยาระหว่างยา
-- สืบค้นกลไกการออกฤทธิ์โดยละเอียด (MOA) จาก DrugBank API (DB01211)
-- กำหนดประชากรเป้าหมายที่ชัดเจนก่อนออกแบบการศึกษา เช่น MGUS (ป้องกันการกลายเป็นมะเร็ง), newly diagnosed MM, หรือ RRMM
-- ระบุสูตรยาร่วมที่เหมาะสม (BiRd, ClaPd, Car-BiRd) โดยอ้างอิงผลทางคลินิกทั้งด้านบวกและลบ
-- ประเมิน drug-drug interactions กับ IMiDs และยาต้านมะเร็งอื่นๆ ที่ใช้ร่วม เนื่องจากข้อมูล DDI ในระบบยังไม่พบ
+- ดาวน์โหลดและตรวจเอกสารกำกับยาจาก อย. ไทย เพื่อให้ได้คำเตือนและข้อห้ามใช้
+- ดึงข้อมูลกลไกการออกฤทธิ์จาก DrugBank เพื่อวิเคราะห์ความเชื่อมโยงเชิงกลไก
+- ตรวจสอบสถานะทะเบียนยาและแหล่งผลิตที่ยังจำหน่ายได้ในประเทศไทย เนื่องจากทะเบียนเดียวที่พบถูกยกเลิกแล้ว
+- พิจารณาย้ายความสนใจไปที่ **monoclonal gammopathy** (L2, Research Question) ซึ่งมีหลักฐานมากกว่า แต่ควรทราบว่า RCT เฟส 3 ที่พบ (PMID 34021118) ไม่พบประโยชน์เพิ่มของ clarithromycin ต่อ PFS ในมัลติเพิลไมอีโลมา และ NCT00006219 ยังไม่มีผลที่เผยแพร่
+- หากสนใจ punctate epithelial keratoconjunctivitis (L3) ต้องมีหลักฐานเชิงเปรียบเทียบเพิ่มเติม เพราะปัจจุบันมีเพียงรายงานชุดผู้ป่วย 1 ฉบับ
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์

@@ -1,16 +1,16 @@
 ---
 layout: default
 title: Levetiracetam
-parent: หลักฐานระดับกลาง (L3-L4)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 95
-evidence_level: L3
+evidence_level: L5
 indication_count: 10
 ---
 
 # Levetiracetam
 {: .fs-9 }
 
-ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -29,13 +29,15 @@ indication_count: 10
 
 </div>
 
-# Levetiracetam: จากโรคลมชักชนิดชักบางส่วนสู่โรคลมชักจากสิ่งกระตุ้นทางสายตา (Visual Epilepsy)
+# Levetiracetam: จากโรคลมชักสู่ภาวะชักต่อเนื่อง (Status Epilepticus)
 
 ## สรุปสั้นๆ
 
-Levetiracetam (Keppra®) เป็นยากันชักรุ่นที่สองที่ได้รับการอนุมัติทั่วโลกสำหรับการรักษาโรคลมชักชนิดชักบางส่วน (partial-onset seizures) ชักกระตุกกล้ามเนื้อในวัยรุ่น (myoclonic seizures) และชักทั่วตัวชนิดเกร็งกระตุก (generalized tonic-clonic seizures) อย่างไรก็ตาม ยังไม่มีการจดทะเบียนในประเทศไทย
-โมเดล TxGNN คาดการณ์ว่าอาจมีผลต่อ **Visual Epilepsy (โรคลมชักจากสิ่งกระตุ้นทางสายตา)** ซึ่งเป็นโรคลมชักชนิดรีเฟล็กซ์ที่เกิดจากการกระตุ้นด้วยแสงหรือรูปแบบภาพ
-ปัจจุบันมี **การทดลองทางคลินิก 9 รายการ** และ **วรรณกรรม 20 ฉบับ** ที่เกี่ยวข้องกับการใช้ Levetiracetam ในกลุ่มโรคลมชักที่ครอบคลุม สนับสนุนแนวทางนี้ในเชิงกว้าง
+Levetiracetam เป็นยากันชักที่เดิมได้รับอนุญาตในไทยสำหรับรักษาโรคลมชัก โมเดล TxGNN คาดการณ์ว่ายานี้อาจมีผลต่อกลุ่มอาการชักหลายชนิด โดยอันดับแรกคือ **ลมชักจากสิ่งกระตุ้นทางสายตา (Visual Epilepsy)** แต่ข้อบ่งใช้ที่มีหลักฐานแข็งแรงที่สุดคือ **ภาวะชักต่อเนื่อง (Status Epilepticus)** ซึ่งมีการทดลองทางคลินิก 16 รายการและวรรณกรรม 20 ฉบับ รวมถึง Phase 3 RCT ที่เสร็จสมบูรณ์หลายรายการ
+
+ข้อสังเกตสำคัญ: ใบอนุญาตเพียงฉบับเดียวในไทยมีสถานะ **ยกเลิกแล้ว** และข้อมูลคำเตือน/ข้อห้ามใช้จากเอกสารกำกับยายังขาดอยู่
+
+รายงานนี้เน้นข้อบ่งใช้ที่มีหลักฐานมากที่สุดคือภาวะชักต่อเนื่อง และสรุปข้อบ่งใช้อื่นที่ทำนายไว้ไว้ในตอนท้าย
 
 ---
 
@@ -43,77 +45,112 @@ Levetiracetam (Keppra®) เป็นยากันชักรุ่นที�
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | โรคลมชักชนิดชักบางส่วน, ชักกระตุกกล้ามเนื้อใน JME, ชักทั่วตัวชนิดเกร็งกระตุก (สถานะการอนุมัติระดับโลก) |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | Visual Epilepsy (โรคลมชักจากสิ่งกระตุ้นทางสายตา) |
-| คะแนนการทำนาย TxGNN | 99.98% |
-| ระดับหลักฐาน | L3 |
-| สถานะการวางจำหน่ายในไทย | ✗ ยังไม่จดทะเบียนในประเทศไทย |
-| จำนวนใบอนุญาต | 0 รายการ |
-| คำแนะนำในการตัดสินใจ | Hold |
+| ข้อบ่งใช้เดิม | โรคลมชัก |
+| ข้อบ่งใช้ใหม่ที่ทำนาย (อันดับ 1 ของโมเดล) | ลมชักจากสิ่งกระตุ้นทางสายตา (Visual Epilepsy) |
+| ข้อบ่งใช้ที่มีหลักฐานสูงสุด | ภาวะชักต่อเนื่อง (Status Epilepticus) |
+| คะแนนการทำนาย TxGNN | 99.98% (Visual Epilepsy) / 99.91% (Status Epilepticus) |
+| ระดับหลักฐาน | L4 (Visual Epilepsy) / L1 (Status Epilepticus) |
+| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ยังใช้ได้) |
+| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| คำแนะนำในการตัดสินใจ | Visual Epilepsy: Hold / Status Epilepticus: Proceed with Guardrails |
 
 ---
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-จากหลักฐานในวรรณกรรม Levetiracetam ออกฤทธิ์โดยจับกับ **Synaptic Vesicle Protein 2A (SV2A)** ซึ่งเป็นโปรตีนที่ทำหน้าที่ควบคุมการปล่อยสารสื่อประสาทจากถุงซินแนปส์ก่อนเซลล์ประสาท กลไกนี้แตกต่างจากยากันชักแบบดั้งเดิมโดยสิ้นเชิง ทำให้มีฤทธิ์ครอบคลุมโรคลมชักได้หลายประเภท ทั้งนี้ ข้อมูล MOA จากฐานข้อมูลไทย FDA ยังอยู่ระหว่างการรวบรวม
+ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมสำหรับรายงานนี้ ตามวรรณกรรมที่พบ Levetiracetam จับกับโปรตีนในถุงสารสื่อประสาท SV2A (synaptic vesicle protein 2A) ลดการหลั่งสารสื่อประสาทและลดการยิงสัญญาณของเซลล์ประสาทที่มากเกินไป
 
-Visual Epilepsy จัดอยู่ในกลุ่ม **Reflex Epilepsy** ที่ชักเกิดขึ้นเมื่อสมองตอบสนองผิดปกติต่อสิ่งกระตุ้นทางสายตา เช่น แสงกะพริบ (photosensitive epilepsy) หรือรูปแบบภาพที่ซับซ้อน ความเชื่อมโยงกับข้อบ่งใช้เดิมมีหลายมิติ ได้แก่ ทั้ง Juvenile Myoclonic Epilepsy (JME) และ photosensitive epilepsy ต่างมีพื้นฐานทางสรีรวิทยาร่วมกันในด้านความไวเกินของวงจรประสาท (neuronal hyperexcitability) Levetiracetam ได้รับการยืนยันแล้วว่ามีฤทธิ์ลด photosensitivity ในผู้ป่วย IGE ผ่านกลไก SV2A
+กลไกนี้เป็นกลไกต้านชักแบบกว้าง จึงเชื่อมโยงกับข้อบ่งใช้เดิม (โรคลมชัก) ได้โดยตรง ภาวะชักต่อเนื่องคือภาวะที่กลไกยุติการชักล้มเหลว การลดการหลั่งสารสื่อประสานกระตุ้นจึงช่วยจำกัดการชักที่ยืดเยื้อได้ ปัจจุบัน Levetiracetam เป็นยาทางเลือกลำดับสองสำหรับภาวะชักต่อเนื่องที่ไม่ตอบสนองต่อ benzodiazepine ซึ่งมี Phase 3 RCT สนับสนุน (เช่น NCT01960075, NCT01150331)
 
-เนื่องจาก SV2A พบได้ทั่วสมองรวมถึง visual cortex และวงจรประสาทที่เกี่ยวข้องกับการประมวลผลภาพ การยับยั้งการปล่อยสารสื่อประสาทที่มากเกินไปจากกลไกนี้จึงเป็นพื้นฐานที่สมเหตุสมผลสำหรับการนำ Levetiracetam มาใช้ใน Visual Epilepsy วรรณกรรมปัจจุบันระบุว่า Levetiracetam ถูกใช้จริงในทางคลินิกสำหรับ reflex epilepsies หลายชนิด แม้จะยังไม่มีการทดลองที่ออกแบบเฉพาะสำหรับ visual epilepsy โดยตรงก็ตาม
+สำหรับข้อบ่งใช้ที่โมเดลให้คะแนนสูงสุด เช่น ลมชักจากสิ่งกระตุ้นทางสายตา ไม่มีข้อมูลเฉพาะโรค หลักฐานจึงเป็นทางอ้อม
 
 ---
 
-## หลักฐานจากการทดลองทางคลินิก
+## หลักฐานจากการทดลองทางคลินิก (ภาวะชักต่อเนื่อง)
 
 | หมายเลขการทดลอง | ระยะ | สถานะ | จำนวนผู้เข้าร่วม | ผลลัพธ์หลัก |
 |---------|------|------|------|---------|
-| [NCT04559529](https://clinicaltrials.gov/study/NCT04559529) | Phase 2 | เสร็จสิ้น | 62 | ทดสอบ LEV ลด hippocampal hyperactivity ในผู้ป่วย psychosis โดยประเมินด้วย visual scene processing task และ arterial spin labeling |
-| [NCT00855738](https://clinicaltrials.gov/study/NCT00855738) | Phase 4 | เสร็จสิ้น | 111 | ประเมินประสิทธิผลของ LEV และยากันชักรุ่นใหม่อื่นๆ เป็น bitherapy แรกในผู้ป่วย focal epilepsy ในเวชปฏิบัติประจำวัน |
-| [NCT00105040](https://clinicaltrials.gov/study/NCT00105040) | Phase 2 | เสร็จสิ้น | 87 | ประเมินผลต่อการรับรู้และระบบประสาทจิตวิทยาของ LEV เป็นยาเสริมในเด็กอายุ 4–16 ปีที่มี refractory partial onset seizures |
-| [NCT00203216](https://clinicaltrials.gov/study/NCT00203216) | N/A | เสร็จสิ้น | 31 | ประเมินประสิทธิผลและความปลอดภัยของ LEV ในการป้องกัน migraine รวมถึง migraine with aura (มีอาการทางสายตา) |
-| [NCT04573803](https://clinicaltrials.gov/study/NCT04573803) | Phase 3 | ยังไม่เริ่ม | 1,649 | เปรียบเทียบระยะเวลาการให้ LEV กับ phenytoin ในการป้องกันชักหลังการบาดเจ็บที่สมอง (TBI) |
-| [NCT07336992](https://clinicaltrials.gov/study/NCT07336992) | Phase 3 | ยังไม่เริ่ม | 580 | ประเมิน LEV prophylaxis เพื่อลดความเสี่ยงชักและปรับปรุงผลลัพธ์ทางระบบประสาทในระยะเฉียบพลันของ intracerebral haemorrhage |
-| [NCT03107507](https://clinicaltrials.gov/study/NCT03107507) | Phase 4 | ไม่ทราบ | 40 | ประสิทธิผลของ LEV ในการควบคุมชักในทารกแรกเกิด เปรียบเทียบกับ phenobarbital |
-| [NCT04833907](https://clinicaltrials.gov/study/NCT04833907) | Phase 1/2 | รับสมัครตามคำเชิญ | 24 | Gene therapy ชนิดเดียวสำหรับ Canavan Disease โดยมี LEV เป็นยาเสริมควบคุมชัก |
-| [NCT04277936](https://clinicaltrials.gov/study/NCT04277936) | Phase 2 | ยุติ | 1 | ทดสอบ LEV ลด hippocampal hyperactivity ผ่าน visual scene task และ ASL (ยุติก่อนกำหนดเนื่องจาก COVID-19) |
+| [NCT01960075](https://clinicaltrials.gov/study/NCT01960075) | Phase 3 | เสร็จสิ้น | 478 | เปรียบเทียบ fosphenytoin, valproate และ levetiracetam ในภาวะชักต่อเนื่องที่ดื้อต่อ benzodiazepine |
+| [NCT01150331](https://clinicaltrials.gov/study/NCT01150331) | Phase 3 | เสร็จสิ้น | 203 | levetiracetam ทางหลอดเลือดดำร่วมกับ clonazepam เทียบกับ clonazepam อย่างเดียว ก่อนถึงโรงพยาบาล |
+| [NCT06403150](https://clinicaltrials.gov/study/NCT06403150) | Phase 4 | เสร็จสิ้น | 62 | เปรียบเทียบ levetiracetam กับ fosphenytoin ในภาวะชักต่อเนื่องแบบเกร็งกระตุก |
+| [NCT02920060](https://clinicaltrials.gov/study/NCT02920060) | Phase 2 | เสร็จสิ้น | 80 | levetiracetam เทียบ sodium valproate ในเด็กที่มีภาวะชักต่อเนื่องดื้อยา |
+| [NCT04926844](https://clinicaltrials.gov/study/NCT04926844) | Phase 2 | เสร็จสิ้น | 144 | levetiracetam ร่วมกับ midazolam ในเด็กที่มีภาวะชักต่อเนื่องทั่วร่างกาย |
+| [NCT07046611](https://clinicaltrials.gov/study/NCT07046611) | Phase 2/3 | กำลังรับสมัคร | 124 | ketamine ร่วมกับ levetiracetam เทียบ levetiracetam อย่างเดียว ในเด็ก |
+| [NCT06907173](https://clinicaltrials.gov/study/NCT06907173) | Phase 3 | กำลังรับสมัคร | 770 | ketamine 2 โดสร่วมกับ levetiracetam เทียบ levetiracetam อย่างเดียว (KESETT) |
+| [NCT07052136](https://clinicaltrials.gov/study/NCT07052136) | ไม่ระบุ | เสร็จสิ้น | 138 | levetiracetam เทียบ valproic acid ในเด็ก |
+| [NCT06067412](https://clinicaltrials.gov/study/NCT06067412) | ไม่ระบุ | เสร็จสิ้น | 70 | phenytoin เทียบ levetiracetam ในเด็ก |
+| [NCT00362141](https://clinicaltrials.gov/study/NCT00362141) | Phase 2 | ไม่ทราบ | 12 | ความปลอดภัยและการยอมรับของ levetiracetam เสริมในภาวะชักต่อเนื่อง (ขนาดเล็ก) |
+
+หมายเหตุ: ข้อบ่งใช้อื่นที่ทำนายไว้ (เช่น Visual Epilepsy, Audiogenic Seizures, Startle Epilepsy) ยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
 
 ---
 
-## หลักฐานจากวรรณกรรม
+## หลักฐานจากวรรณกรรม (ภาวะชักต่อเนื่อง)
 
 | PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
 |------|-----|------|------|---------|
-| [16302877](https://pubmed.ncbi.nlm.nih.gov/16302877/) | 2005 | Review | Epilepsia | ทบทวน photosensitivity ใน idiopathic generalized epilepsies ครอบคลุมกลไก ประเภทชัก และการตอบสนองต่อ LEV ซึ่งตรงกับ visual epilepsy โดยตรง |
-| [21936590](https://pubmed.ncbi.nlm.nih.gov/21936590/) | 2011 | Review | CNS Drugs | ทบทวนการอนุมัติ LEV ทั่วโลก ครอบคลุม partial-onset, myoclonic และ GTC seizures รวมถึงหลักฐานฤทธิ์ต้าน photosensitivity |
-| [40450767](https://pubmed.ncbi.nlm.nih.gov/40450767/) | 2025 | Systematic Review + Meta-analysis | Epilepsy & Behavior | Meta-analysis เปรียบเทียบ LEV กับยากันชักอื่นสำหรับ myoclonic seizures ใน idiopathic generalized epilepsy (IGE) |
-| [37378757](https://pubmed.ncbi.nlm.nih.gov/37378757/) | 2023 | Systematic Review | Journal of Neurology | Network meta-analysis ครอบคลุมยากันชักทั้ง monotherapy และ adjunctive therapy ใน IGE และกลุ่มโรคที่เกี่ยวข้อง |
-| [35963261](https://pubmed.ncbi.nlm.nih.gov/35963261/) | 2022 | Phase 3 RCT | The Lancet. Neurology | PEACH trial: Phase 3 RCT ประเมิน LEV prophylaxis ในระยะเฉียบพลันของ intracerebral haemorrhage (n=พบชักใน 30% ของผู้ป่วย) |
-| [34286461](https://pubmed.ncbi.nlm.nih.gov/34286461/) | 2022 | Systematic Review + Meta-analysis | Neurocritical Care | ทบทวนประสิทธิผล ขนาดยาที่เหมาะสม และผลข้างเคียงของ LEV ในการป้องกันชักหลาย indications (ICH, TBI, SAH, neurosurgery) |
-| [32385134](https://pubmed.ncbi.nlm.nih.gov/32385134/) | 2020 | RCT | Pediatrics | RCT เปรียบเทียบ LEV กับ phenobarbital สำหรับชักในทารกแรกเกิด ประเมินประสิทธิผลและความปลอดภัย |
-| [38678766](https://pubmed.ncbi.nlm.nih.gov/38678766/) | 2024 | RCT | Seizure | RCT เปรียบเทียบ LEV กับ phenytoin สำหรับ acute symptomatic seizures ในเด็กที่มี acute encephalitis syndrome |
-| [36209676](https://pubmed.ncbi.nlm.nih.gov/36209676/) | 2022 | Systematic Review | Seizure | Systematic review และ network meta-analysis เปรียบเทียบประสิทธิผลของยาหลายชนิดสำหรับ benzodiazepine-resistant SE ในเด็กและผู้ใหญ่ |
-| [34260837](https://pubmed.ncbi.nlm.nih.gov/34260837/) | 2021 | Review | N Engl J Med | ทบทวนการจัดการชักครั้งแรกในผู้ใหญ่ ครอบคลุม LEV เป็นตัวเลือกการรักษาที่สำคัญในปัจจุบัน |
+| [32203691](https://pubmed.ncbi.nlm.nih.gov/32203691/) | 2020 | RCT | Lancet | ESETT: เปรียบเทียบ levetiracetam, fosphenytoin, valproate ในภาวะชักต่อเนื่องแยกตามกลุ่มอายุ |
+| [31774955](https://pubmed.ncbi.nlm.nih.gov/31774955/) | 2019 | RCT | N Engl J Med | ทดลองยากันชัก 3 ชนิดในภาวะชักต่อเนื่องที่ดื้อต่อ benzodiazepine |
+| [33190679](https://pubmed.ncbi.nlm.nih.gov/33190679/) | 2020 | RCT | Health Technol Assess | EcLiPSE: levetiracetam เป็นทางเลือกแทน phenytoin ในเด็ก |
+| [38580318](https://pubmed.ncbi.nlm.nih.gov/38580318/) | 2024 | Review | Semin Neurol | ทบทวนการรักษาด้วยยา phenytoin, valproic acid, levetiracetam มีประสิทธิผลและความปลอดภัยใกล้เคียงกัน |
+| [38830068](https://pubmed.ncbi.nlm.nih.gov/38830068/) | 2024 | Review | Continuum | ภาพรวมการจัดการภาวะชักต่อเนื่องฉุกเฉิน |
+| [38117319](https://pubmed.ncbi.nlm.nih.gov/38117319/) | 2024 | Review | Intensive Care Med | ภาวะชักต่อเนื่องในห้องไอซียู |
+| [39626562](https://pubmed.ncbi.nlm.nih.gov/39626562/) | 2025 | Review | Brain Dev | แนวทางเวชปฏิบัติญี่ปุ่นสำหรับภาวะชักต่อเนื่องในเด็ก 2023 |
+| [32088913](https://pubmed.ncbi.nlm.nih.gov/32088913/) | 2020 | ไม่ระบุ | Indian J Pediatr | เปรียบเทียบ levetiracetam กับ fosphenytoin ในภาวะชักต่อเนื่องดื้อ benzodiazepine |
+
+---
+
+## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
+|---------|------|------|-----------|
+| 1A 85/67 (สถานะ: ยกเลิก) | Levetiracetam | ยาเม็ด | โรคลมชัก |
 
 ---
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
-กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา (เช่น USPI หรือ SmPC จาก EMA) เนื่องจากยังไม่มีข้อมูลจาก Thai FDA โดยตรง
+**ข้อห้ามใช้/โรคที่ต้องระวัง (จากกราฟความรู้ ไม่ใช่ข้อความในเอกสารกำกับยา):** โรคทางจิตเวช (วิตกกังวล โรคจิต โรคจิตเภทแบบต่างๆ ภาวะแยกตัวจากตัวตน) โรคไต โรคตับ โรคถุงน้ำดี และภาวะเม็ดเลือดผิดปกติ (neutropenia, agranulocytosis, leukopenia, pancytopenia)
+
+**ปฏิกิริยาระหว่างยา:** พบข้อมูลรวม 100 รายการ ระดับปานกลางที่สำคัญ ได้แก่ morphine (รวมชนิด liposomal), dronabinol, nabilone, opium, metoclopramide และ sibutramine ส่วนที่เหลือระดับยังไม่ทราบ เช่น omeprazole, pantoprazole, metformin, doxycycline, vancomycin
+
+**ข้อควรระวังจากวรรณกรรม:** มีรายงานภาวะโซเดียมในเลือดต่ำ เหงือกบวมโต และอาการชักแย่ลงที่เกิดจากยา
+
+ข้อมูลคำเตือนหลักและข้อห้ามใช้จากเอกสารกำกับยาในไทยยังไม่มี กรุณาดูข้อมูลความปลอดภัยในเอกสารกำกับยา
+
+---
+
+## ข้อบ่งใช้อื่นที่ทำนายไว้ (สรุป)
+
+| ข้อบ่งใช้ | คะแนน TxGNN | ระดับหลักฐาน | คำแนะนำ |
+|------|------|------|------|
+| Visual epilepsy | 99.98% | L4 | Research Question |
+| Audiogenic seizures | 99.96% | L4 | Research Question (มี RCT ในแมว) |
+| Micturition-induced seizures | 99.96% | L4 | Research Question |
+| Eating seizures | 99.96% | L5 | Hold |
+| Orgasm-induced seizures | 99.96% | L5 | Hold (ไม่มีหลักฐาน) |
+| Startle epilepsy | 99.96% | L3 | Research Question (รายงานผู้ป่วยและการศึกษาเสริมขนาดเล็ก) |
+| Thinking seizures | 99.96% | L4 | Research Question |
+| Reading seizures | 99.94% | L4 | Research Question |
+| Beta-ketothiolase deficiency | 99.90% | L5 | Hold (รักษาได้เพียงอาการชักทุติยภูมิ ไม่แก้ความบกพร่องทางเมตาบอลิซึม) |
 
 ---
 
 ## สรุปและขั้นตอนถัดไป
 
-**การตัดสินใจ: Hold**
+**การตัดสินใจ: Proceed with Guardrails (ภาวะชักต่อเนื่อง) / Hold (ลมชักจากสิ่งกระตุ้นทางสายตาและกลุ่มที่เหลือ)**
 
 **เหตุผล:**
-Levetiracetam ยังไม่มีทะเบียนในประเทศไทย (0 ใบอนุมัติ) และยังขาดข้อมูลสำคัญสองรายการที่เป็น Blocking gaps ได้แก่ ข้อมูลคำเตือนและข้อห้ามใช้จาก Thai FDA รวมถึงข้อมูลกลไกการออกฤทธิ์ (MOA) จาก DrugBank นอกจากนี้ ยังไม่มีการทดลองทางคลินิกที่ออกแบบเฉพาะสำหรับ visual epilepsy โดยตรง หลักฐานที่มีเป็นการอนุมานจากกลุ่มโรคลมชักที่เกี่ยวข้อง
+- ภาวะชักต่อเนื่องมี Phase 3 RCT ที่เสร็จสมบูรณ์มากกว่า 2 รายการ (เช่น NCT01960075, NCT01150331) และ RCT ขนาดใหญ่ในวารสารชั้นนำ จึงจัดเป็น L1 ส่วนข้อบ่งใช้อันดับ 1 ของโมเดลมีเพียงหลักฐานทางอ้อม
+- ใบอนุญาตในไทยถูกยกเลิกแล้ว และยังขาดข้อมูลความปลอดภัยจากเอกสารกำกับยา จึงต้องมีมาตรการกำกับดูแลก่อนนำไปใช้
 
 **หากต้องการดำเนินการต่อต้อง:**
-- ดาวน์โหลดและวิเคราะห์คำเตือน (Warnings) และข้อห้ามใช้ (Contraindications) จากเอกสารกำกับยาของผู้ผลิต (เช่น Keppra® USPI หรือ SmPC จาก EMA)
-- สืบค้น MOA โดยละเอียดจาก DrugBank API (DrugBank ID: DB01202)
-- ตรวจสอบช่องทางการนำเข้ายาแบบพิเศษ (Special Access Scheme) ผ่าน อย. ประเทศไทย เนื่องจากยาไม่มีทะเบียนในปัจจุบัน
-- พิจารณาทำ Observational study หรือรวบรวม case series เฉพาะสำหรับ visual epilepsy ในบริบทผู้ป่วยไทย
+- ตรวจสอบสถานะทะเบียนยาในไทยหรือหาผลิตภัณฑ์ที่ยังขึ้นทะเบียนอยู่ เพราะใบอนุญาตเดียวที่พบถูกยกเลิก
+- ดาวน์โหลดและวิเคราะห์เอกสารกำกับยาจาก อย. เพื่อให้ได้คำเตือนและข้อห้ามใช้ที่เป็นทางการ
+- ยืนยันข้อมูลกลไกการออกฤทธิ์จาก DrugBank
+- ประเมินความเหมาะสมของรูปแบบยา เพราะใบอนุญาตเดิมเป็นยาเม็ดรับประทาน ขณะที่ภาวะชักต่อเนื่องมักใช้ยาฉีดเข้าหลอดเลือดดำ
+- ติดตามผลการทดลองที่กำลังดำเนินการ เช่น KESETT (NCT06907173)
+- สำหรับ Visual epilepsy และข้อบ่งใช้ reflex seizures อื่น ต้องมีการศึกษาที่เฉพาะเจาะจงโรคก่อนพิจารณาเลื่อนระดับ
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
