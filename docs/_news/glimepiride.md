@@ -25,7 +25,7 @@ permalink: /news/glimepiride/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: เบาหวานชนิดที่ 2</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
 <li>classic stiff person syndrome (99.8%)</li>
 <li>focal stiff limb syndrome (99.8%)</li>

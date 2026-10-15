@@ -25,7 +25,7 @@ permalink: /news/ondansetron/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: คลื่นไส้อาเจียน</li>
-<li><strong>ระดับหลักฐาน</strong>: L5</li>
+<li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis (98.7%)</li>
 <li>Tourette syndrome (98.0%)</li>

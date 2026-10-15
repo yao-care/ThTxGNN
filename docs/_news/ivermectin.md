@@ -25,7 +25,7 @@ permalink: /news/ivermectin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: พยาธิ, เหา</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
 <li>vulvovaginal candidiasis (100.0%)</li>
 <li>esophageal candidiasis (99.7%)</li>

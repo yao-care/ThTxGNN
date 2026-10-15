@@ -25,7 +25,7 @@ permalink: /news/baclofen/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: กล้ามเนื้อหดเกร็ง</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>attention deficit-hyperactivity disorder (99.3%)</li>
 <li>nicotine dependence (99.2%)</li>

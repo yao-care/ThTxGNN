@@ -25,7 +25,7 @@ permalink: /news/albendazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: พยาธิ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>alveolar echinococcosis (100.0%)</li>
 <li>coenurosis (99.8%)</li>

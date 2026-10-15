@@ -25,7 +25,7 @@ permalink: /news/azithromycin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินหายใจ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>polyclonal hyperviscosity syndrome (99.8%)</li>
 <li>hyperamylasemia (99.8%)</li>

@@ -25,7 +25,7 @@ permalink: /news/naproxen/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: บรรเทาปวด, ต้านการอักเสบ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (4 รายการ)</strong>:<ul>
 <li>brachydactyly-syndactyly syndrome (99.3%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.2%)</li>

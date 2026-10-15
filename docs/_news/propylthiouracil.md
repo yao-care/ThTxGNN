@@ -25,7 +25,7 @@ permalink: /news/propylthiouracil/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ภาวะไทรอยด์เป็นพิษ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.7%)</li>
 <li>neonatal thyrotoxicosis (99.4%)</li>

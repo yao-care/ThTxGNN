@@ -25,7 +25,7 @@ permalink: /news/bisoprolol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, หัวใจล้มเหลว</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
 <li>malignant hypertensive renal disease (99.9%)</li>
 <li>ความดันโลหิตสูงในปอดจากโรคปอด/ภาวะขาดออกซิเจน (99.9%)</li>

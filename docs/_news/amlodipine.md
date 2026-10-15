@@ -25,7 +25,7 @@ permalink: /news/amlodipine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
 <li>brain stem infarction (99.9%)</li>
 <li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>

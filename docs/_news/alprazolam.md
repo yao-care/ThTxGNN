@@ -25,7 +25,7 @@ permalink: /news/alprazolam/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: วิตกกังวล, โรคตื่นตระหนก</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
 <li>นอนไม่หลับ (Insomnia) (99.8%)</li>
 <li>Phobic disorder (97.5%)</li>

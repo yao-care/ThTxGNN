@@ -25,7 +25,7 @@ permalink: /news/ketamine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ยาสลบ, ซึมเศร้า</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>headache disorder (99.3%)</li>
 <li>trigeminal autonomic cephalalgia (99.0%)</li>

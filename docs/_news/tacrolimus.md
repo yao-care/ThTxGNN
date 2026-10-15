@@ -25,7 +25,7 @@ permalink: /news/tacrolimus/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ป้องกันการปฏิเสธอวัยวะ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>seborrheic dermatitis (99.3%)</li>
 <li>parapsoriasis (99.2%)</li>

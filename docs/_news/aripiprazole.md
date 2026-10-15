@@ -25,7 +25,7 @@ permalink: /news/aripiprazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: จิตเภท, ไบโพลาร์</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>major affective disorder (99.6%)</li>
 <li>gaze palsy, familial horizontal, with progressive scoliosis (99.6%)</li>

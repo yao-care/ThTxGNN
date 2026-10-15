@@ -25,7 +25,7 @@ permalink: /news/mefloquine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: มาลาเรีย</li>
-<li><strong>ระดับหลักฐาน</strong>: L5</li>
+<li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>malaria (97.6%)</li>
 <li>tinea corporis (95.9%)</li>

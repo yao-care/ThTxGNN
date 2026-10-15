@@ -25,7 +25,7 @@ permalink: /news/mebendazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: พยาธิ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>acne (disease) (99.2%)</li>
 <li>leishmaniasis, diffuse cutaneous (98.4%)</li>

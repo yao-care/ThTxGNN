@@ -25,7 +25,7 @@ permalink: /news/cabergoline/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โพรแลกตินสูง</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (5 รายการ)</strong>:<ul>
 <li>pituitary adenocarcinoma (disease) (99.1%)</li>
 <li>progeria-short stature-pigmented nevi syndrome (99.1%)</li>

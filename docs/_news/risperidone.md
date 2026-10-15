@@ -25,7 +25,7 @@ permalink: /news/risperidone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคจิตเภท</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
 <li>gaze palsy, familial horizontal, with progressive scoliosis (99.8%)</li>
 <li>asperger syndrome, susceptibility to (99.7%)</li>

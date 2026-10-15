@@ -25,7 +25,7 @@ permalink: /news/calcipotriol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: สะเก็ดเงิน</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L3</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>seborrheic keratosis (100.0%)</li>
 <li>vulvar inverted follicular keratosis (99.9%)</li>

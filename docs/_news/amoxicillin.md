@@ -25,7 +25,7 @@ permalink: /news/amoxicillin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อแบคทีเรีย</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
 <li>hyperamylasemia (99.6%)</li>
 <li>polyclonal hyperviscosity syndrome (99.6%)</li>

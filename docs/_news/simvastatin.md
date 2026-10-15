@@ -25,7 +25,7 @@ permalink: /news/simvastatin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ไขมันในเลือดสูง</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
 <li>familial hypercholesterolemia (99.6%)</li>
 <li>brain stem infarction (99.4%)</li>

@@ -25,7 +25,7 @@ permalink: /news/gabapentin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ปวดประสาท, โรคลมชัก</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>acne (disease) (98.5%)</li>
 <li>adolescent/adult onset autosomal dominant epilepsy with auditory features (95.9%)</li>

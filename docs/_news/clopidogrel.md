@@ -25,7 +25,7 @@ permalink: /news/clopidogrel/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ป้องกันลิ่มเลือด</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
 <li>migraine with brainstem aura (99.4%)</li>
 <li>migraine disorder (99.4%)</li>

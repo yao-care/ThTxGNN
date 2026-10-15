@@ -25,7 +25,7 @@ permalink: /news/diclofenac/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: บรรเทาปวด, ต้านการอักเสบ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>hypotrichosis simplex of the scalp (99.7%)</li>
 <li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>

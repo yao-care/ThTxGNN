@@ -25,7 +25,7 @@ permalink: /news/atorvastatin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ไขมันในเลือดสูง</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
 <li>familial hypercholesterolemia (99.4%)</li>
 <li>HIV infectious disease (99.3%)</li>

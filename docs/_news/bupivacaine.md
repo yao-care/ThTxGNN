@@ -25,7 +25,7 @@ permalink: /news/bupivacaine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ยาชา</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>acrodermatitis chronica atrophicans (99.2%)</li>
 <li>neonatal dermatomyositis (99.2%)</li>

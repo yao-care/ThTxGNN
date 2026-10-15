@@ -25,7 +25,7 @@ permalink: /news/lorazepam/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: วิตกกังวล, นอนไม่หลับ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>trigeminal nerve neoplasm (99.9%)</li>
 <li>insomnia (disease) (99.8%)</li>

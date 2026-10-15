@@ -25,7 +25,7 @@ permalink: /news/ibuprofen/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: บรรเทาปวด, ลดไข้, ต้านการอักเสบ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
 <li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
 <li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>

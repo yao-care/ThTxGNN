@@ -25,7 +25,7 @@ permalink: /news/loperamide/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ท้องเสีย</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>acute contagious conjunctivitis (100.0%)</li>
 <li>amebic dysentery (100.0%)</li>

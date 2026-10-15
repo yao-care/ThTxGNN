@@ -25,7 +25,7 @@ permalink: /news/clarithromycin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อแบคทีเรีย</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>monoclonal gammopathy (98.8%)</li>
 <li>punctate epithelial keratoconjunctivitis (99.1%)</li>

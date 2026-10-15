@@ -25,7 +25,7 @@ permalink: /news/pantoprazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคกรดไหลย้อน, แผลในกระเพาะอาหาร</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
 <li>active peptic ulcer disease (99.7%)</li>
 <li>peptic ulcer perforation (99.6%)</li>

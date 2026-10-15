@@ -25,7 +25,7 @@ permalink: /news/cetirizine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคภูมิแพ้, ลมพิษ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (11 รายการ)</strong>:<ul>
 <li>ลมพิษจากความเย็น (Cold urticaria) (100.0%)</li>
 <li>โรคโพรงจมูก (Nasal cavity disease) (99.8%)</li>

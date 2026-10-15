@@ -25,7 +25,7 @@ permalink: /news/verapamil/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, หัวใจเต้นผิดจังหวะ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
 <li>obsolete bundle branch block (99.6%)</li>
 <li>malignant renovascular hypertension (99.3%)</li>

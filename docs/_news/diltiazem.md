@@ -25,7 +25,7 @@ permalink: /news/diltiazem/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, โรคหัวใจขาดเลือด</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>obsolete susceptibility to ischemic stroke (99.1%)</li>
 <li>brain stem infarction (98.2%)</li>

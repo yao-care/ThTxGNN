@@ -25,7 +25,7 @@ permalink: /news/metoprolol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, โรคหัวใจ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>malignant hypertensive renal disease (99.9%)</li>
 <li>malignant renovascular hypertension (99.9%)</li>

@@ -25,7 +25,7 @@ permalink: /news/spironolactone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: บวมน้ำ, หัวใจล้มเหลว</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
 <li>ผมร่วง (Alopecia) โดยเฉพาะผมร่วงจากพันธุกรรมในผู้หญิง (97.8%)</li>
 <li>โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease) (95.5%)</li>

@@ -25,7 +25,7 @@ permalink: /news/tadalafil/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: การแข็งตัวขององคชาต, ต่อมลูกหมากโต</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
 <li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
 <li>hypertrichosis (disease) (100.0%)</li>

@@ -25,7 +25,7 @@ permalink: /news/domperidone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: คลื่นไส้อาเจียน, อาหารไม่ย่อย</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis (99.1%)</li>
 <li>Plasmodium falciparum malaria (98.7%)</li>

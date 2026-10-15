@@ -25,7 +25,7 @@ permalink: /news/salbutamol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคหอบหืด, โรคปอดอุดกั้นเรื้อรัง</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>papillary conjunctivitis (100.0%)</li>
 <li>nasal cavity disease (100.0%)</li>

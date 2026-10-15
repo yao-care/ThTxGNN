@@ -25,7 +25,7 @@ permalink: /news/bupropion/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ซึมเศร้า, เลิกบุหรี่</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>attention deficit-hyperactivity disorder (100.0%)</li>
 <li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>

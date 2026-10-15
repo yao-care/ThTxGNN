@@ -25,7 +25,7 @@ permalink: /news/lactulose/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ท้องผูก, โรคตับ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
 <li>acute urate nephropathy (99.9%)</li>
 <li>nephrolithiasis (99.8%)</li>

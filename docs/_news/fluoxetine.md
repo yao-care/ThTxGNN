@@ -25,7 +25,7 @@ permalink: /news/fluoxetine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคซึมเศร้า, โรคย้ำคิดย้ำทำ</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>schizoid personality disorder (99.9%)</li>
 <li>paranoid personality disorder (99.9%)</li>

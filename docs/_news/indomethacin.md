@@ -25,7 +25,7 @@ permalink: /news/indomethacin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: บรรเทาปวด, ต้านการอักเสบ, เก๊าต์</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>brachydactyly-syndactyly syndrome (100.0%)</li>
 <li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>

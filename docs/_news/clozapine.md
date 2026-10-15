@@ -25,7 +25,7 @@ permalink: /news/clozapine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: จิตเภท</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>manic bipolar affective disorder (100.0%)</li>
 <li>Tourette syndrome (99.9%)</li>

@@ -25,7 +25,7 @@ permalink: /news/clotrimazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อราที่ผิวหนัง</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
 <li>acne (disease) (99.9%)</li>
 <li>vulvovaginitis (99.6%)</li>

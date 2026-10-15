@@ -25,7 +25,7 @@ permalink: /news/enoxaparin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: ป้องกันลิ่มเลือด</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>thrombophilia due to protein C deficiency, autosomal recessive (99.6%)</li>
 <li>primary release disorder of platelets (98.9%)</li>

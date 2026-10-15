@@ -25,7 +25,7 @@ permalink: /news/theophylline/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: โรคหอบหืด</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
 <li>thrombotic disease (99.6%)</li>
 <li>nasal cavity disease (99.5%)</li>

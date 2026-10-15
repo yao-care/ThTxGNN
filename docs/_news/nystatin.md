@@ -25,7 +25,7 @@ permalink: /news/nystatin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ข้อบ่งใช้เดิม</strong>: เชื้อราในช่องปาก</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
+<li><strong>ระดับหลักฐาน</strong>: L3</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>vulvovaginitis (99.9%)</li>
 <li>disease of orbital region (99.9%)</li>
