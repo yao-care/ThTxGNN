@@ -39,7 +39,7 @@ permalink: /news/isosorbide_dinitrate/
 <li>venous thoracic outlet syndrome (100.0%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

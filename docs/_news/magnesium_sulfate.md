@@ -39,7 +39,7 @@ permalink: /news/magnesium_sulfate/
 <li>treatment-refractory schizophrenia (99.1%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium_sulfate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/magnesium-sulfate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

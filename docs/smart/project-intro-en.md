@@ -51,7 +51,7 @@ nav_order: 10
 
 ### Prediction Model
 
-- **TxGNN**: Published in *Nature Medicine* (2023) by Harvard Zitnik Lab
+- **TxGNN**: Published in *Nature Medicine* (2024) by Harvard Zitnik Lab
 - **Method**: Knowledge graph + deep learning for drug-disease relationship prediction
 - **Source**: [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x)
 

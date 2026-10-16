@@ -5,6 +5,8 @@ parent: รายงานยา
 nav_order: 4
 permalink: /drugs/
 ---
+{%- comment -%}2026-10-16：列表不含舊 ID 轉址頁與 noindex 頁{%- endcomment -%}
+{% assign listed_drugs = site.drugs | where_exp: "d", "d.layout != 'redirect'" | where_exp: "d", "d.noindex != true" %}
 
 # รายการยาทั้งหมด
 
@@ -31,7 +33,7 @@ ThTxGNN วิเคราะห์ยา 151 รายการจาก Thai F
 ## ค้นหายา
 
 <div id="drug-list-container">
-{% assign all_drugs = site.drugs | sort: "title" %}
+{% assign all_drugs = listed_drugs | sort: "title" %}
 
 {% for drug in all_drugs %}
 - [{{ drug.title }}]({{ drug.url | relative_url }}) - {{ drug.evidence_level | default: "L5" }}

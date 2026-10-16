@@ -39,7 +39,7 @@ permalink: /news/calcium_carbonate/
 <li>duodenogastric reflux (59.4%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/calcium_carbonate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/calcium-carbonate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

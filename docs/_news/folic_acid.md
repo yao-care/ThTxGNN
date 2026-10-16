@@ -39,7 +39,7 @@ permalink: /news/folic_acid/
 <li>urinary tract infection (disease) (88.8%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/folic_acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/folic-acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

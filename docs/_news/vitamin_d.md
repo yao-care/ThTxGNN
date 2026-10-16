@@ -39,7 +39,7 @@ permalink: /news/vitamin_d/
 <li>craniofacial conodysplasia (83.9%)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/vitamin_d/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/vitamin-d/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)
