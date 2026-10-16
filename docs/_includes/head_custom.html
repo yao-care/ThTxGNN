@@ -126,7 +126,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "MedicalWebPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "{{ page.title }} รายงานการยืนยันการนำยาเก่ามาใช้ใหม่",
-      "description": "{{ page.description | default: page.title | append: ' การวิเคราะห์ศักยภาพการนำยาเก่ามาใช้ใหม่' }}",
+      "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-19",
       "dateModified": "{{ page.last_modified_at | default: '2026-02-19' | date: '%Y-%m-%d' }}",
@@ -142,7 +142,7 @@ window.TXGNN_ANALYTICS = {
       },
       "about": {
         "@type": "MedicalEntity",
-        "name": "{{ page.title }}"
+        "name": {{ page.title | jsonify }}
       },
       "specialty": "Pharmacology",
       "medicalAudience": {
@@ -174,7 +174,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{ page.title }}",
+          "name": {{ page.title | jsonify }},
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -200,11 +200,6 @@ window.TXGNN_ANALYTICS = {
       },
       "publisher": {
         "@id": "https://www.yao.care/#organization"
-      },
-      "potentialAction": {
-        "@type": "SearchAction",
-        "target": "https://thtxgnn.yao.care/?search={search_term_string}",
-        "query-input": "required name=search_term_string"
       }
     },
     {
@@ -422,7 +417,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "การติดตามข่าวสุขภาพ - ThTxGNN",
-      "description": "{{ page.description | default: 'ติดตามข่าวสุขภาพล่าสุดเกี่ยวกับยาและข้อบ่งใช้โดยอัตโนมัติ' }}",
+      "description": {{ page.description | default: 'ติดตามข่าวสุขภาพล่าสุดเกี่ยวกับยาและข้อบ่งใช้โดยอัตโนมัติ' | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "isPartOf": {
         "@id": "https://thtxgnn.yao.care/#website"
@@ -467,8 +462,8 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "Article",
       "@id": "{{ page.url | absolute_url }}#article",
-      "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.title }}",
+      "headline": {{ page.title | jsonify }},
+      "description": {{ page.description | default: page.title | jsonify }},
       "url": "{{ page.url | absolute_url }}",
       "datePublished": "2026-02-21",
       "dateModified": "2026-02-21",
@@ -507,7 +502,7 @@ window.TXGNN_ANALYTICS = {
         {
           "@type": "ListItem",
           "position": 3,
-          "name": "{{ page.title }}",
+          "name": {{ page.title | jsonify }},
           "item": "{{ page.url | absolute_url }}"
         }
       ]
@@ -532,7 +527,7 @@ window.TXGNN_ANALYTICS = {
     {
       "@type": "ListItem",
       "position": 2,
-      "name": "{{ page.title }}",
+      "name": {{ page.title | jsonify }},
       "item": "{{ page.url | absolute_url }}"
     }
   ]

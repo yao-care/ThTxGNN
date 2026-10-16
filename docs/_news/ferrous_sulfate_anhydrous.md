@@ -25,7 +25,7 @@ permalink: /news/ferrous_sulfate_anhydrous/
 <strong>ข้อมูลยา</strong>
 <ul>
 </ul>
-<p><a href="{{ '/drugs/ferrous_sulfate_anhydrous/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/ferrous-sulfate-anhydrous/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)
