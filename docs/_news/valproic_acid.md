@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Valproic acid"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Valproic acid ข้อบ่งใช้เดิม: โรคลมชัก, โรคไบโพลาร์ ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Valproic acid ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/valproic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/valproic_acid/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Valproic acid บ้าง">
-ขณะนี้ <strong>Valproic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Valproic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,22 +24,8 @@ permalink: /news/valproic_acid/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคลมชัก, โรคไบโพลาร์</li>
-<li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>trigeminal nerve neoplasm (100.0%)</li>
-<li>visual epilepsy (99.9%)</li>
-<li>trigeminal neuralgia (99.8%)</li>
-<li>orgasm-induced seizures (99.8%)</li>
-<li>startle epilepsy (99.8%)</li>
-<li>thinking seizures (99.8%)</li>
-<li>audiogenic seizures (99.8%)</li>
-<li>eating seizures (99.8%)</li>
-<li>micturation-induced seizures (99.8%)</li>
-<li>reading seizures (99.8%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/valproic-acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/valproic_acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

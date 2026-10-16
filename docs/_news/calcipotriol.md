@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Calcipotriol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcipotriol ข้อบ่งใช้เดิม: สะเก็ดเงิน ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcipotriol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/calcipotriol/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/calcipotriol/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: สะเก็ดเงิน</li>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>seborrheic keratosis (100.0%)</li>

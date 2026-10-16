@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ondansetron"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ondansetron ข้อบ่งใช้เดิม: คลื่นไส้อาเจียน ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ondansetron ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/ondansetron/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/ondansetron/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: คลื่นไส้อาเจียน</li>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>nephrogenic syndrome of inappropriate antidiuresis (98.7%)</li>

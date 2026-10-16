@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Nystatin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Nystatin ข้อบ่งใช้เดิม: เชื้อราในช่องปาก ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Nystatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/nystatin/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/nystatin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: เชื้อราในช่องปาก</li>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>vulvovaginitis (99.9%)</li>

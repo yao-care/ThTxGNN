@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Alprazolam"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Alprazolam ข้อบ่งใช้เดิม: วิตกกังวล, โรคตื่นตระหนก ข้อบ่งใช้ที่คาดการณ์ 12 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Alprazolam ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Alprazolam บ้าง">
-ขณะนี้ <strong>Alprazolam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 12 รายการ
+ขณะนี้ <strong>Alprazolam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,21 +24,11 @@ permalink: /news/alprazolam/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: วิตกกังวล, โรคตื่นตระหนก</li>
 <li><strong>ระดับหลักฐาน</strong>: L1</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
 <li>นอนไม่หลับ (Insomnia) (99.8%)</li>
 <li>Phobic disorder (97.5%)</li>
 <li>โรคย้ำคิดย้ำทำ (OCD) (98.2%)</li>
-<li>insomnia (disease) (99.8%)</li>
-<li>benign paroxysmal torticollis of infancy (99.6%)</li>
-<li>agoraphobia (99.6%)</li>
-<li>attention deficit-hyperactivity disorder (99.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (98.6%)</li>
-<li>obsessive-compulsive disorder (98.2%)</li>
-<li>chondromyxoid fibroma (98.1%)</li>
-<li>specific developmental disorder (98.0%)</li>
-<li>faciodigitogenital syndrome (98.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/alprazolam/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

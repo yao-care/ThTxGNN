@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Pravastatin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pravastatin ข้อบ่งใช้เดิม: ไขมันในเลือดสูง ข้อบ่งใช้ที่คาดการณ์ 11 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pravastatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/pravastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pravastatin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Pravastatin บ้าง">
-ขณะนี้ <strong>Pravastatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 11 รายการ
+ขณะนี้ <strong>Pravastatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,11 @@ permalink: /news/pravastatin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ไขมันในเลือดสูง</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (11 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
 <li>ภาวะไขมันในเลือดสูงชนิดพันธุกรรม (Familial Hypercholesterolemia) (99.3%)</li>
 <li>การติดเชื้อ HIV (99.7%)</li>
 <li>Hypoalphalipoproteinemia (99.2%)</li>
-<li>homozygous familial hypercholesterolemia (100.0%)</li>
-<li>HIV infectious disease (99.7%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.6%)</li>
-<li>simian immunodeficiency virus infection (99.5%)</li>
-<li>feline acquired immunodeficiency syndrome (99.5%)</li>
-<li>familial hypercholesterolemia (99.3%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.1%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pravastatin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

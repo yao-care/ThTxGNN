@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Calcium carbonate"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcium carbonate ข้อบ่งใช้เดิม: เสริมแคลเซียม ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcium carbonate ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/calcium_carbonate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcium_carbonate/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Calcium carbonate บ้าง">
-ขณะนี้ <strong>Calcium carbonate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Calcium carbonate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,22 +24,8 @@ permalink: /news/calcium_carbonate/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: เสริมแคลเซียม</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>calcium-alkali syndrome (93.2%)</li>
-<li>primary bone dysplasia with defective bone mineralization (93.1%)</li>
-<li>gout (81.8%)</li>
-<li>hypophosphatemia (disease) (73.0%)</li>
-<li>potassium deficiency disease (71.9%)</li>
-<li>digitalis poisoning (66.6%)</li>
-<li>gastroduodenitis (65.8%)</li>
-<li>hyperlipidemia (64.6%)</li>
-<li>peptic ulcer disease (59.8%)</li>
-<li>duodenogastric reflux (59.4%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/calcium-carbonate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/calcium_carbonate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

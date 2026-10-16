@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Clotrimazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clotrimazole ข้อบ่งใช้เดิม: โรคติดเชื้อราที่ผิวหนัง ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clotrimazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 2 รายการ"
 permalink: /news/clotrimazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clotrimazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Clotrimazole บ้าง">
-ขณะนี้ <strong>Clotrimazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Clotrimazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 2 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,12 +24,10 @@ permalink: /news/clotrimazole/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อราที่ผิวหนัง</li>
 <li><strong>ระดับหลักฐาน</strong>: L1</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
-<li>acne (disease) (99.9%)</li>
-<li>vulvovaginitis (99.6%)</li>
-<li>postmenopausal atrophic vaginitis (99.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (2 รายการ)</strong>:<ul>
+<li>สิว (acne) | 99.86% | L4 | คำถามวิจัย (Research Question): มีเพียงการทดลอง Phase 2/3 ของยาสูตรผสม 3 ชนิด (NCT01244256) ที่ถูกระงับ ไม่มีผลรายงาน จึงแยกผลของ clotrimazole ไม่ได้ (99.0%)</li>
+<li>ช่องคลอดอักเสบจากภาวะหมดประจำเดือน (postmenopausal atrophic vaginitis) | 99.46% | L5 | Hold: ไม่มีการทดลองหรือวรรณกรรม และกลไกของโรคเกิดจากการขาดเอสโตรเจน ไม่เกี่ยวกับการยับยั้ง CYP51 ของยา (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clotrimazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

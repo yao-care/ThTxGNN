@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Oseltamivir"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Oseltamivir ข้อบ่งใช้เดิม: ไข้หวัดใหญ่ ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Oseltamivir ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/oseltamivir/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/oseltamivir/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ไข้หวัดใหญ่</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>pyelonephritis (97.8%)</li>

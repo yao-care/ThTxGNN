@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Losartan"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Losartan ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคไตจากเบาหวาน ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Losartan ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
 permalink: /news/losartan/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/losartan/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, โรคไตจากเบาหวาน</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
 <li>malignant renovascular hypertension (99.7%)</li>

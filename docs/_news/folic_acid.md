@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Folic acid"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Folic acid ข้อบ่งใช้เดิม: ป้องกันและรักษาภาวะขาดโฟลิก ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Folic acid ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/folic_acid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/folic_acid/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Folic acid บ้าง">
-ขณะนี้ <strong>Folic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Folic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,22 +24,8 @@ permalink: /news/folic_acid/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ป้องกันและรักษาภาวะขาดโฟลิก</li>
-<li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>biotin metabolic disease (99.5%)</li>
-<li>non-syndromic esophageal malformation (98.9%)</li>
-<li>esophageal disease (97.4%)</li>
-<li>vitamin B12- and folate-independent constitutional megaloblastic anemia (97.2%)</li>
-<li>Plummer-Vinson syndrome (97.0%)</li>
-<li>inborn error of biotin metabolism (93.0%)</li>
-<li>gonococcal urethritis (90.4%)</li>
-<li>Ureaplasma urethritis (90.4%)</li>
-<li>esophageal ulcer (89.1%)</li>
-<li>urinary tract infection (disease) (88.8%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/folic-acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/folic_acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

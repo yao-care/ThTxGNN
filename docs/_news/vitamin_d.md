@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Vitamin D"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Vitamin D ข้อบ่งใช้เดิม: ป้องกันและรักษาภาวะขาดวิตามินดี ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Vitamin D ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/vitamin_d/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vitamin_d/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Vitamin D บ้าง">
-ขณะนี้ <strong>Vitamin D</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Vitamin D</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,22 +24,8 @@ permalink: /news/vitamin_d/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ป้องกันและรักษาภาวะขาดวิตามินดี</li>
-<li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>primary release disorder of platelets (93.1%)</li>
-<li>sclerosing cholangitis (92.4%)</li>
-<li>pseudo-von Willebrand disease (91.5%)</li>
-<li>cholecystolithiasis (90.6%)</li>
-<li>multiple endocrine neoplasia (90.2%)</li>
-<li>Glanzmann thrombasthenia (87.8%)</li>
-<li>familial isolated hypoparathyroidism due to impaired PTH secretion (85.2%)</li>
-<li>acromesomelic dysplasia, Campailla Martinelli type (85.1%)</li>
-<li>hypoparathyroidism (84.1%)</li>
-<li>craniofacial conodysplasia (83.9%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/vitamin-d/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/vitamin_d/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

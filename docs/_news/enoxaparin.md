@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Enoxaparin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Enoxaparin ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Enoxaparin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
 permalink: /news/enoxaparin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/enoxaparin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Enoxaparin บ้าง">
-ขณะนี้ <strong>Enoxaparin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Enoxaparin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,17 @@ permalink: /news/enoxaparin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ป้องกันลิ่มเลือด</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>thrombophilia due to protein C deficiency, autosomal recessive (99.6%)</li>
-<li>primary release disorder of platelets (98.9%)</li>
-<li>atypical hemolytic-uremic syndrome with thrombomodulin anomaly (98.6%)</li>
-<li>pseudo-von Willebrand disease (98.5%)</li>
-<li>neuropathy, painful (98.3%)</li>
-<li>thrombotic thrombocytopenic purpura (96.7%)</li>
-<li>retinal telangiectasia (90.7%)</li>
-<li>arteriosclerotic retinopathy (89.8%)</li>
-<li>retinal microaneurysm (89.8%)</li>
-<li>vertebral artery occlusion (89.4%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
+<li>ความผิดปกติของการหลั่งสารจากเกล็ดเลือด (Primary release disorder of platelets) | 98.91% | L5 | เป็นโรคเลือดออกง่าย การให้ยาต้านการแข็งตัวของเลือดขัดกับกลไก และอาจเพิ่มเลือดออก (99.0%)</li>
+<li>aHUS ร่วมกับความผิดปกติของ thrombomodulin | 98.63% | L5 | ไม่แก้ปัญหาการควบคุมคอมพลีเมนต์ (99.0%)</li>
+<li>Pseudo-von Willebrand disease | 98.50% | L5 | เป็นโรคเลือดออกง่าย ยาอาจทำให้แย่ลง (99.0%)</li>
+<li>ปลายประสาทอักเสบแบบเจ็บปวด | 98.30% | L5 | ไม่มีความเชื่อมโยงเชิงกลไกที่ชัดเจน (99.0%)</li>
+<li>Thrombotic thrombocytopenic purpura | 96.73% | L4 | วรรณกรรม 5 ฉบับเป็นหลักฐานทางอ้อม (ส่วนใหญ่เป็นรายงานผู้ป่วย/ITP) ไม่ใช่การรักษา TTP (99.0%)</li>
+<li>Retinal telangiectasia | 90.68% | L5 | ไม่มีกลไกที่ชัดเจน (99.0%)</li>
+<li>Arteriosclerotic retinopathy | 89.82% | L5 | เสี่ยงเลือดออกในตา (99.0%)</li>
+<li>Retinal microaneurysm | 89.82% | L5 | ไม่มีบทบาทการรักษาที่ชัดเจน (99.0%)</li>
+<li>Vertebral artery occlusion | 89.40% | L4 | วรรณกรรม 2 ฉบับ เป็นหลักฐานทางอ้อม (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/enoxaparin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Bisoprolol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bisoprolol ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจล้มเหลว ข้อบ่งใช้ที่คาดการณ์ 12 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bisoprolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
 permalink: /news/bisoprolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bisoprolol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Bisoprolol บ้าง">
-ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 12 รายการ
+ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,8 @@ permalink: /news/bisoprolol/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, หัวใจล้มเหลว</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (12 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
 <li>malignant hypertensive renal disease (99.9%)</li>
 <li>ความดันโลหิตสูงในปอดจากโรคปอด/ภาวะขาดออกซิเจน (99.9%)</li>
 <li>ความดันโลหิตสูงในปอดที่กลไกไม่ชัดเจน (99.9%)</li>
@@ -34,11 +33,6 @@ permalink: /news/bisoprolol/
 <li>chronic pulmonary heart disease (98.6%)</li>
 <li>Prinzmetal angina (94.4%)</li>
 <li>cerebrovascular disorder (68.1%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>obsolete susceptibility to ischemic stroke (75.2%)</li>
-<li>brain stem infarction (68.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

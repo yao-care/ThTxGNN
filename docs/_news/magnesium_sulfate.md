@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Magnesium sulfate"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Magnesium sulfate ข้อบ่งใช้เดิม: แมกนีเซียมต่ำ, ครรภ์เป็นพิษ ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Magnesium sulfate ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/magnesium_sulfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/magnesium_sulfate/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Magnesium sulfate บ้าง">
-ขณะนี้ <strong>Magnesium sulfate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Magnesium sulfate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,22 +24,8 @@ permalink: /news/magnesium_sulfate/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: แมกนีเซียมต่ำ, ครรภ์เป็นพิษ</li>
-<li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>preeclampsia/eclampsia (100.0%)</li>
-<li>toxemia of pregnancy (100.0%)</li>
-<li>thrombotic disease (99.9%)</li>
-<li>pharyngitis (99.6%)</li>
-<li>nasal cavity disease (99.6%)</li>
-<li>psychotic disorder (99.5%)</li>
-<li>acute laryngopharyngitis (99.5%)</li>
-<li>headache disorder (99.4%)</li>
-<li>trigeminal autonomic cephalalgia (99.2%)</li>
-<li>treatment-refractory schizophrenia (99.1%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/magnesium-sulfate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/magnesium_sulfate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

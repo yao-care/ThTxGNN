@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ketamine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ketamine ข้อบ่งใช้เดิม: ยาสลบ, ซึมเศร้า ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ketamine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/ketamine/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/ketamine/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ยาสลบ, ซึมเศร้า</li>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>headache disorder (99.3%)</li>

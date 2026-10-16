@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Isosorbide dinitrate"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isosorbide dinitrate ข้อบ่งใช้เดิม: โรคหัวใจขาดเลือด ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isosorbide dinitrate ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/isosorbide_dinitrate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isosorbide_dinitrate/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Isosorbide dinitrate บ้าง">
-ขณะนี้ <strong>Isosorbide dinitrate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Isosorbide dinitrate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,22 +24,8 @@ permalink: /news/isosorbide_dinitrate/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคหัวใจขาดเลือด</li>
-<li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>alopecia (100.0%)</li>
-<li>congenital hypotrichosis milia (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (100.0%)</li>
-<li>pulmonary hypertension (100.0%)</li>
-<li>diffuse alopecia areata (100.0%)</li>
-<li>vascular disease (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>kyphoscoliotic heart disease (100.0%)</li>
-<li>visceral calciphylaxis (100.0%)</li>
-<li>venous thoracic outlet syndrome (100.0%)</li>
-</ul></li>
 </ul>
-<p><a href="{{ '/drugs/isosorbide-dinitrate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/isosorbide_dinitrate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (0 ข่าว)

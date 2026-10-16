@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Carbamazepine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Carbamazepine ข้อบ่งใช้เดิม: โรคลมชัก, ปวดประสาท ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Carbamazepine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/carbamazepine/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/carbamazepine/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคลมชัก, ปวดประสาท</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>trigeminal nerve neoplasm (100.0%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Amlodipine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Amlodipine ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Amlodipine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/amlodipine/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/amlodipine/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
 <li>brain stem infarction (99.9%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Vancomycin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Vancomycin ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรียดื้อยา ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Vancomycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/vancomycin/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/vancomycin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อแบคทีเรียดื้อยา</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>diffuse scleroderma (99.9%)</li>

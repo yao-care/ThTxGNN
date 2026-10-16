@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Isotretinoin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isotretinoin ข้อบ่งใช้เดิม: สิวรุนแรง ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isotretinoin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
 permalink: /news/isotretinoin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isotretinoin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Isotretinoin บ้าง">
-ขณะนี้ <strong>Isotretinoin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Isotretinoin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,14 @@ permalink: /news/isotretinoin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: สิวรุนแรง</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>malignant hypertensive renal disease (99.0%)</li>
-<li>malignant renovascular hypertension (99.0%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (98.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (98.9%)</li>
-<li>Braddock syndrome (98.7%)</li>
-<li>chronic pulmonary heart disease (88.7%)</li>
-<li>cholangiocarcinoma, susceptibility to (61.9%)</li>
-<li>obsolete functional visual loss (59.2%)</li>
-<li>mitral valve prolapse, myxomatous (59.1%)</li>
-<li>ocular tuberculosis (58.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
+<li>Malignant renovascular hypertension | 99.01% | L5 | Hold (99.0%)</li>
+<li>ความดันปอดสูงจากโรคปอดและ/หรือภาวะขาดออกซิเจน | 98.89% | L5 | Hold (99.0%)</li>
+<li>ความดันปอดสูงที่กลไกไม่ชัดเจน | 98.89% | L5 | Hold (99.0%)</li>
+<li>Braddock syndrome | 98.66% | L5 | Hold (99.0%)</li>
+<li>Chronic pulmonary heart disease | 88.70% | L5 | Hold (99.0%)</li>
+<li>Cholangiocarcinoma, susceptibility to | 61.91% | L5 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isotretinoin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

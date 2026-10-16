@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Simvastatin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Simvastatin ข้อบ่งใช้เดิม: ไขมันในเลือดสูง ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Simvastatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
 permalink: /news/simvastatin/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/simvastatin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ไขมันในเลือดสูง</li>
 <li><strong>ระดับหลักฐาน</strong>: L1</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
 <li>familial hypercholesterolemia (99.6%)</li>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Dexamethasone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Dexamethasone ข้อบ่งใช้เดิม: ต้านการอักเสบ ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Dexamethasone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/dexamethasone/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/dexamethasone/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ต้านการอักเสบ</li>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>alopecia areata (100.0%)</li>

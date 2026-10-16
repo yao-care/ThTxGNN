@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ibuprofen"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ibuprofen ข้อบ่งใช้เดิม: บรรเทาปวด, ลดไข้, ต้านการอักเสบ ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ibuprofen ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
 permalink: /news/ibuprofen/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/ibuprofen/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: บรรเทาปวด, ลดไข้, ต้านการอักเสบ</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
 <li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>

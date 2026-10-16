@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Levetiracetam"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Levetiracetam ข้อบ่งใช้เดิม: โรคลมชัก ข้อบ่งใช้ที่คาดการณ์ 11 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Levetiracetam ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
 permalink: /news/levetiracetam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levetiracetam/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Levetiracetam บ้าง">
-ขณะนี้ <strong>Levetiracetam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 11 รายการ
+ขณะนี้ <strong>Levetiracetam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,9 +24,8 @@ permalink: /news/levetiracetam/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคลมชัก</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (11 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
 <li>Visual epilepsy (100.0%)</li>
 <li>Audiogenic seizures (100.0%)</li>
 <li>Micturition-induced seizures (100.0%)</li>
@@ -36,8 +35,6 @@ permalink: /news/levetiracetam/
 <li>Thinking seizures (100.0%)</li>
 <li>Reading seizures (99.9%)</li>
 <li>Beta-ketothiolase deficiency (99.9%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>status epilepticus (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levetiracetam/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

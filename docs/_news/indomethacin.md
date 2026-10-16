@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Indomethacin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Indomethacin ข้อบ่งใช้เดิม: บรรเทาปวด, ต้านการอักเสบ, เก๊าต์ ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Indomethacin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/indomethacin/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/indomethacin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: บรรเทาปวด, ต้านการอักเสบ, เก๊าต์</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>brachydactyly-syndactyly syndrome (100.0%)</li>

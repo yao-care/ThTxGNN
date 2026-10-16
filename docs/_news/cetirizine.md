@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Cetirizine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cetirizine ข้อบ่งใช้เดิม: โรคภูมิแพ้, ลมพิษ ข้อบ่งใช้ที่คาดการณ์ 11 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cetirizine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
 permalink: /news/cetirizine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cetirizine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Cetirizine บ้าง">
-ขณะนี้ <strong>Cetirizine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 11 รายการ
+ขณะนี้ <strong>Cetirizine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 5 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,20 +24,13 @@ permalink: /news/cetirizine/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคภูมิแพ้, ลมพิษ</li>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (11 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (5 รายการ)</strong>:<ul>
 <li>ลมพิษจากความเย็น (Cold urticaria) (100.0%)</li>
 <li>โรคโพรงจมูก (Nasal cavity disease) (99.8%)</li>
 <li>คอหอยและกล่องเสียงอักเสบเฉียบพลัน (99.7%)</li>
 <li>เยื่อบุตาอักเสบจากโรคโรซาเซีย (99.4%)</li>
 <li>ผิวหนังอักเสบภูมิแพ้ชนิดดื้อต่อการรักษา (99.2%)</li>
-<li>allergic urticaria (100.0%)</li>
-<li>cold urticaria (100.0%)</li>
-<li>nasal cavity disease (99.8%)</li>
-<li>acute laryngopharyngitis (99.7%)</li>
-<li>rosacea conjunctivitis (99.4%)</li>
-<li>recalcitrant atopic dermatitis (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cetirizine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

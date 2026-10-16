@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Metoclopramide"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Metoclopramide ข้อบ่งใช้เดิม: คลื่นไส้อาเจียน ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Metoclopramide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/metoclopramide/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/metoclopramide/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: คลื่นไส้อาเจียน</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>gastric ulcer (disease) (99.9%)</li>

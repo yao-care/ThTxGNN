@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Clarithromycin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clarithromycin ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clarithromycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/clarithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clarithromycin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Clarithromycin บ้าง">
-ขณะนี้ <strong>Clarithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Clarithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,12 @@ permalink: /news/clarithromycin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อแบคทีเรีย</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (4 รายการ)</strong>:<ul>
 <li>monoclonal gammopathy (98.8%)</li>
 <li>punctate epithelial keratoconjunctivitis (99.1%)</li>
 <li>hyperamylasemia (99.3%)</li>
 <li>congenital hematological disorder (98.3%)</li>
-<li>polyclonal hyperviscosity syndrome (99.3%)</li>
-<li>congenital analbuminemia (99.2%)</li>
-<li>blood group incompatibility (99.1%)</li>
-<li>premalignant hematological system disease (98.9%)</li>
-<li>septicemic plague (98.7%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Heparin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Heparin ข้อบ่งใช้เดิม: ป้องกันและรักษาลิ่มเลือด ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Heparin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
 permalink: /news/heparin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/heparin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Heparin บ้าง">
-ขณะนี้ <strong>Heparin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Heparin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,17 @@ permalink: /news/heparin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ป้องกันและรักษาลิ่มเลือด</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>thrombophilia due to protein C deficiency, autosomal recessive (99.3%)</li>
-<li>primary release disorder of platelets (99.1%)</li>
-<li>pseudo-von Willebrand disease (98.7%)</li>
-<li>atypical hemolytic-uremic syndrome with thrombomodulin anomaly (96.7%)</li>
-<li>neuropathy, painful (96.1%)</li>
-<li>retinal telangiectasia (94.9%)</li>
-<li>arteriosclerotic retinopathy (94.5%)</li>
-<li>retinal microaneurysm (94.5%)</li>
-<li>vertebral artery occlusion (94.2%)</li>
-<li>breast fibrocystic disease (93.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
+<li>ความผิดปกติของการปล่อยสารจากเกล็ดเลือดชนิดปฐมภูมิ | 99.06% | L5 | Hold (99.0%)</li>
+<li>Pseudo-von Willebrand disease | 98.65% | L5 | Hold (99.0%)</li>
+<li>Atypical HUS ร่วมกับความผิดปกติของ thrombomodulin | 96.74% | L5 | Hold (99.0%)</li>
+<li>โรคปลายประสาทอักเสบชนิดเจ็บปวด | 96.13% | L4 | Hold (99.0%)</li>
+<li>Retinal telangiectasia | 94.88% | L5 | Hold (99.0%)</li>
+<li>Arteriosclerotic retinopathy | 94.52% | L5 | Hold (99.0%)</li>
+<li>Retinal microaneurysm | 94.52% | L5 | Hold (99.0%)</li>
+<li>หลอดเลือดแดงเวอร์ทิบรัลอุดตัน (Vertebral artery occlusion) | 94.22% | L4 | คำถามวิจัย (Research Question) (99.0%)</li>
+<li>โรคถุงน้ำเต้านมชนิดไฟโบรซิสติก | 93.20% | L5 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/heparin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

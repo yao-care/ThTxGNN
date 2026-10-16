@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Propylthiouracil"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propylthiouracil ข้อบ่งใช้เดิม: ภาวะไทรอยด์เป็นพิษ ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propylthiouracil ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/propylthiouracil/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/propylthiouracil/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ภาวะไทรอยด์เป็นพิษ</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.7%)</li>

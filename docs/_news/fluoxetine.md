@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Fluoxetine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluoxetine ข้อบ่งใช้เดิม: โรคซึมเศร้า, โรคย้ำคิดย้ำทำ ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluoxetine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/fluoxetine/
 ---
 
@@ -24,19 +24,18 @@ permalink: /news/fluoxetine/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคซึมเศร้า, โรคย้ำคิดย้ำทำ</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>schizoid personality disorder (99.9%)</li>
-<li>paranoid personality disorder (99.9%)</li>
-<li>histrionic personality disorder (disease) (99.9%)</li>
-<li>schizotypal personality disorder (99.9%)</li>
-<li>benign paroxysmal torticollis of infancy (99.9%)</li>
-<li>agoraphobia (99.9%)</li>
-<li>manic bipolar affective disorder (99.6%)</li>
-<li>phobic disorder (99.6%)</li>
-<li>Ohdo syndrome and variants (99.6%)</li>
-<li>melancholia (99.6%)</li>
+<li>Schizoid personality disorder | 99.92% | L4 | Hold (99.0%)</li>
+<li>Paranoid personality disorder | 99.92% | L4 | Hold (99.0%)</li>
+<li>Histrionic personality disorder | 99.92% | L5 | Hold (99.0%)</li>
+<li>Schizotypal personality disorder | 99.92% | L3 | Research Question (99.0%)</li>
+<li>Benign paroxysmal torticollis of infancy | 99.89% | L5 | Hold (99.0%)</li>
+<li>Agoraphobia | 99.86% | L2 | Proceed with Guardrails (99.0%)</li>
+<li>Manic bipolar affective disorder | 99.64% | L3 | Hold (99.0%)</li>
+<li>Phobic disorder | 99.63% | L2 | Proceed with Guardrails (99.0%)</li>
+<li>Ohdo syndrome and variants | 99.63% | L5 | Hold (99.0%)</li>
+<li>Melancholia | 99.57% | L1 | Proceed with Guardrails (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluoxetine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

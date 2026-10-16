@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Diltiazem"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diltiazem ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหัวใจขาดเลือด ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diltiazem ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/diltiazem/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/diltiazem/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ความดันโลหิตสูง, โรคหัวใจขาดเลือด</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>obsolete susceptibility to ischemic stroke (99.1%)</li>

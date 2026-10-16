@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lamivudine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lamivudine ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lamivudine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/lamivudine/
 ---
 
@@ -24,7 +24,6 @@ permalink: /news/lamivudine/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ไวรัสตับอักเสบบี, เอชไอวี</li>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
 <li>simian immunodeficiency virus infection (99.9%)</li>

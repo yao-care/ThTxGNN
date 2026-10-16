@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Gentamicin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gentamicin ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรียรุนแรง ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gentamicin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
 permalink: /news/gentamicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gentamicin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Gentamicin บ้าง">
-ขณะนี้ <strong>Gentamicin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Gentamicin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -24,19 +24,17 @@ permalink: /news/gentamicin/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: โรคติดเชื้อแบคทีเรียรุนแรง</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>rheumatoid arthritis (97.8%)</li>
-<li>sclerosing cholangitis (97.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (96.3%)</li>
-<li>brachydactyly-syndactyly syndrome (95.3%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (92.0%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (91.7%)</li>
-<li>osteoarthritis susceptibility (90.6%)</li>
-<li>diabetic nephropathy (89.9%)</li>
-<li>congenital hypotrichosis milia (88.9%)</li>
-<li>unclassified myelodysplastic syndrome (88.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
+<li>Sclerosing cholangitis | 97.50% | L4 | มีเพียงหลักฐานทางอ้อม (vancomycin + gentamicin ในลำไส้อักเสบเริ่มเร็ว และการป้องกันติดเชื้อรอบ ERC) (99.0%)</li>
+<li>Colobomatous microphthalmia-rhizomelic dysplasia syndrome | 96.32% | L5 | อาจเกี่ยวกับการข้ามรหัสหยุดจากการกลายพันธุ์ชนิด nonsense (เชิงทฤษฎี) (99.0%)</li>
+<li>Brachydactyly-syndactyly syndrome | 95.28% | L5 | กลไกเชิงทฤษฎีเท่านั้น (99.0%)</li>
+<li>Familial hematuria-retinal arteriolar tortuosity-contractures syndrome | 91.99% | L5 | ไม่พบกลไกที่สมเหตุสมผล และพิษต่อไตเป็นข้อกังวล (99.0%)</li>
+<li>Brain small vessel disease 1 | 91.70% | L5 | หลักฐานเป็นเรื่องพิษต่อระบบการทรงตัว ไม่สนับสนุนการใช้ (99.0%)</li>
+<li>Osteoarthritis susceptibility | 90.62% | L5 | ไม่มีกลไกเชื่อมโยง (99.0%)</li>
+<li>Diabetic nephropathy | 89.92% | L5 | Gentamicin เป็นพิษต่อไต จึงเป็นปัจจัยเสี่ยงมากกว่ายารักษา (99.0%)</li>
+<li>Congenital hypotrichosis milia | 88.90% | L5 | กลไกเชิงทฤษฎีเท่านั้น (99.0%)</li>
+<li>Unclassified myelodysplastic syndrome | 88.74% | L5 | ไม่มีกลไกที่น่าเชื่อถือ (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gentamicin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

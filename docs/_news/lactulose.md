@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lactulose"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lactulose ข้อบ่งใช้เดิม: ท้องผูก, โรคตับ ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lactulose ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
 permalink: /news/lactulose/
 ---
 
@@ -24,17 +24,16 @@ permalink: /news/lactulose/
 <div class="drug-info-card">
 <strong>ข้อมูลยา</strong>
 <ul>
-<li><strong>ข้อบ่งใช้เดิม</strong>: ท้องผูก, โรคตับ</li>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
-<li>acute urate nephropathy (99.9%)</li>
-<li>nephrolithiasis (99.8%)</li>
-<li>obstructive jaundice (99.5%)</li>
-<li>bile duct disease (99.5%)</li>
-<li>biliary tract disease (99.4%)</li>
-<li>hyperphosphatemia (disease) (99.4%)</li>
-<li>exercise-induced malignant hyperthermia (99.1%)</li>
-<li>bile duct neoplasm (99.1%)</li>
+<li>Acute urate nephropathy | 99.89% | L5 | Hold (99.0%)</li>
+<li>นิ่วในไต (Nephrolithiasis) | 99.78% | L5 | Hold (99.0%)</li>
+<li>ท่อน้ำดีอุดตันที่ทำให้ตัวเหลือง (Obstructive jaundice) | 99.53% | L3 | Research Question (99.0%)</li>
+<li>โรคท่อน้ำดี (Bile duct disease) | 99.47% | L4 | Hold (99.0%)</li>
+<li>โรคทางเดินน้ำดี (Biliary tract disease) | 99.38% | L4 | Hold (99.0%)</li>
+<li>ภาวะฟอสเฟตในเลือดสูง (Hyperphosphatemia) | 99.37% | L4 | Hold (99.0%)</li>
+<li>ภาวะตัวร้อนเกินร้ายแรงจากการออกกำลังกาย | 99.14% | L5 | Hold (99.0%)</li>
+<li>เนื้องอกท่อน้ำดี (Bile duct neoplasm) | 99.12% | L4 | Hold (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
