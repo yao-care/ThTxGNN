@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 126
 evidence_level: L4
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Pravastatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะไขมันในเลือดสูงชนิดพันธุกรรมแบบโฮโมไซกัส (Homozygous Familial Hyp… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไขมันในเลือดสูง"
 ---
 
 # Pravastatin

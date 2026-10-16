@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 94
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Latanoprost: ข้อบ่งใช้ใหม่ที่คาดการณ์ ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม (Primary Hereditary Glaucoma) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ต้อหิน, ความดันในตาสูง"
 ---
 
 # Latanoprost

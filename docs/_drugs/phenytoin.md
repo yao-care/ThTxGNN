@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 123
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Phenytoin: ข้อบ่งใช้ใหม่ที่คาดการณ์ เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคลมชัก"
 ---
 
 # Phenytoin

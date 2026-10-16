@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 161
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Warfarin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด"
 ---
 
 # Warfarin

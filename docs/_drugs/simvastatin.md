@@ -5,6 +5,8 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 142
 evidence_level: L1
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Simvastatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Familial Hypercholesterolemia (ภาวะไขมันในเลือดสูงชนิดพันธุกรรม) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: ไขมันในเลือดสูง"
 ---
 
 # Simvastatin

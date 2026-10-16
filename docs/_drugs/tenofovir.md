@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 148
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tenofovir: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian Immunodeficiency Viru… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี"
 ---
 
 # Tenofovir

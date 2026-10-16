@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 98
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Lisinopril: ข้อบ่งใช้ใหม่ที่คาดการณ์ กล้ามเนื้อหัวใจตายชนิด Posterolateral (Posterolateral Myocardial Infa… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจล้มเหลว"
 ---
 
 # Lisinopril

@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 113
 evidence_level: L5
 indication_count: 4
+last_modified_at: 2026-10-15
+description: "Naproxen: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrom… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ต้านการอักเสบ"
 ---
 
 # Naproxen

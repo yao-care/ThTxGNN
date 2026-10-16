@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 78
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Gliclazide: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกล้ามเนื้อเกร็งแข็งชนิดคลาสสิก (Classic Stiff Person Syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
 ---
 
 # Gliclazide

@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 61
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Efavirenz: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสเอสไอวีในลิง (Simian Immunodeficiency Virus Infection) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เอชไอวี"
 ---
 
 # Efavirenz

@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Celecoxib: ข้อบ่งใช้ใหม่ที่คาดการณ์ Acromesomelic dysplasia, Hunter-Thompson type (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ข้อเสื่อม"
 ---
 
 # Celecoxib

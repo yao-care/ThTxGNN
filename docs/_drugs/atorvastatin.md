@@ -5,6 +5,8 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 22
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Atorvastatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะไขมันในเลือดสูงทางพันธุกรรม (Familial Hypercholesterolemia) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: ไขมันในเลือดสูง"
 ---
 
 # Atorvastatin

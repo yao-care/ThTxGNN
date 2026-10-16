@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 100
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Loratadine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ลมพิษจากภูมิแพ้ (Allergic Urticaria) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: โรคภูมิแพ้, ลมพิษ"
 ---
 
 # Loratadine

@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 49
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Colchicine: ข้อบ่งใช้ใหม่ที่คาดการณ์ Plasmodium falciparum malaria (มาลาเรียชนิดฟัลซิปารัม) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เก๊าต์เฉียบพลัน"
 ---
 
 # Colchicine

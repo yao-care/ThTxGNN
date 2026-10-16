@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 133
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Propylthiouracil: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ของตัวรับฮอร์โมนไทรอยด์เบต้า… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ภาวะไทรอยด์เป็นพิษ"
 ---
 
 # Propylthiouracil

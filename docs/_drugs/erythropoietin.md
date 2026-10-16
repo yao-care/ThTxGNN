@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Erythropoietin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โลหิตจาง"
 ---
 
 # Erythropoietin

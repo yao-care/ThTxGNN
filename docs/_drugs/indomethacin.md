@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 84
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Indomethacin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการข้อนิ้วสั้นร่วมกับนิ้วติดกัน (Brachydactyly-Syndactyly Synd… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ต้านการอักเสบ, เก๊าต์"
 ---
 
 # Indomethacin

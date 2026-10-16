@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 28
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Budesonide: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผิวหนังอักเสบภูมิแพ้ (Atopic Eczema) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคหอบหืด"
 ---
 
 # Budesonide

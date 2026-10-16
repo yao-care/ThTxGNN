@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 91
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Lactulose: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะไตอักเสบเฉียบพลันจากกรดยูริก (Acute Urate Nephropathy) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ท้องผูก, โรคตับ"
 ---
 
 # Lactulose

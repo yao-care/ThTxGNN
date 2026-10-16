@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 79
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Glimepiride: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Stiff Person แบบคลาสสิก (Classic Stiff Person Syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
 ---
 
 # Glimepiride

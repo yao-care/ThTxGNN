@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 53
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Diazepam: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคนอนไม่หลับ (Insomnia) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: วิตกกังวล, ชัก, กล้ามเนื้อเกร็ง"
 ---
 
 # Diazepam

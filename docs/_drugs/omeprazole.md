@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 117
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Omeprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric R… (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: โรคกรดไหลย้อน, แผลในกระเพาะอาหาร"
 ---
 
 # Omeprazole

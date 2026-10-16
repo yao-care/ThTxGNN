@@ -5,6 +5,8 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 15
 evidence_level: L1
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Alprazolam: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความกลัวที่โล่งแจ้ง (Agoraphobia) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: วิตกกังวล, โรคตื่นตระหนก"
 ---
 
 # Alprazolam

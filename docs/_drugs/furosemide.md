@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 75
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Furosemide: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความดันโลหิตสูงชนิดรุนแรงจากหลอดเลือดไต (Malignant Renovascular Hyper… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บวมน้ำ, หัวใจล้มเหลว"
 ---
 
 # Furosemide

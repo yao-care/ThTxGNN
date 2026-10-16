@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 34
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Captopril: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความดันโลหิตสูงจากหลอดเลือดแดงไตชนิดรุนแรง (Malignant Renovascular Hy… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจล้มเหลว"
 ---
 
 # Captopril

@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 43
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ciprofloxacin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินปัสสาวะ"
 ---
 
 # Ciprofloxacin

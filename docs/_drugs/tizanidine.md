@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 153
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Tizanidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: กล้ามเนื้อหดเกร็ง"
 ---
 
 # Tizanidine

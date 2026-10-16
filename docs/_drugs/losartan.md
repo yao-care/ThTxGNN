@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 102
 evidence_level: L4
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Losartan: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความดันโลหิตสูงจากหลอดเลือดแดงไตตีบชนิดรุนแรง (Malignant Renovascular… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคไตจากเบาหวาน"
 ---
 
 # Losartan

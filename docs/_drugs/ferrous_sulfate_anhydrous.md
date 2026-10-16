@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ferrous Sulfate Anhydrous: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ภาวะโลหิตจางจากขาดธาตุเหล็ก"
 ---
 
 # Ferrous Sulfate Anhydrous

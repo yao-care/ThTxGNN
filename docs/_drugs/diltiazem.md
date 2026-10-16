@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 56
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Diltiazem: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคหลอดเลือดสมอง (Cerebrovascular Disorder) ลำดับที่ 4 (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหัวใจขาดเลือด"
 ---
 
 # Diltiazem

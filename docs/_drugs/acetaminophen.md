@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 11
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Acetaminophen: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรนที่มีออร่าจากก้านสมอง (Migraine with Brainstem Aura) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ลดไข้, บรรเทาปวด"
 ---
 
 # Acetaminophen

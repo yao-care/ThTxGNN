@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 140
 evidence_level: L5
 indication_count: 8
+last_modified_at: 2026-10-15
+description: "Sertraline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกลัวที่โล่งแจ้ง (Agoraphobia) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคซึมเศร้า, โรควิตกกังวล"
 ---
 
 # Sertraline

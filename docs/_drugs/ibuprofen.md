@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 83
 evidence_level: L5
 indication_count: 7
+last_modified_at: 2026-10-15
+description: "Ibuprofen: ข้อบ่งใช้ใหม่ที่คาดการณ์ acromesomelic dysplasia ชนิด Hunter-Thompson (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ลดไข้, ต้านการอักเสบ"
 ---
 
 # Ibuprofen

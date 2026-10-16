@@ -5,6 +5,8 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 90
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ketamine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปวดศีรษะ (Headache Disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ยาสลบ, ซึมเศร้า"
 ---
 
 # Ketamine

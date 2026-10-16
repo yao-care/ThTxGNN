@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 120
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Oseltamivir: ข้อบ่งใช้ใหม่ที่คาดการณ์ กรวยไตอักเสบ (Pyelonephritis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไข้หวัดใหญ่"
 ---
 
 # Oseltamivir

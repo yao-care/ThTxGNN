@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 63
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Enoxaparin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C ชนิดถ่ายทอดแบบด้อย (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด"
 ---
 
 # Enoxaparin

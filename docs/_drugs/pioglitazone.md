@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 124
 evidence_level: L5
 indication_count: 9
+last_modified_at: 2026-10-15
+description: "Pioglitazone: ข้อบ่งใช้ใหม่ที่คาดการณ์ Opsismodysplasia (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
 ---
 
 # Pioglitazone

@@ -5,6 +5,8 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 88
 evidence_level: L5
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Itraconazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปอดอักเสบจากเชื้อนิวโมซิสติส (Pneumocystosis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อรา"
 ---
 
 # Itraconazole

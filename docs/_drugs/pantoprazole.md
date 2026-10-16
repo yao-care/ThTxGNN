@@ -5,6 +5,8 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 122
 evidence_level: L1
 indication_count: 6
+last_modified_at: 2026-10-15
+description: "Pantoprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ แผลเปบติกระยะเฉียบพลัน (Active Peptic Ulcer Disease) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: โรคกรดไหลย้อน, แผลในกระเพาะอาหาร"
 ---
 
 # Pantoprazole

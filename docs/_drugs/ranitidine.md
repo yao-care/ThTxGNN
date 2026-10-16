@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 135
 evidence_level: L3
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ranitidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ แผลเปปติกที่ยังมีการอักเสบ (Active Peptic Ulcer Disease) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: แผลในกระเพาะอาหาร"
 ---
 
 # Ranitidine

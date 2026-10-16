@@ -5,6 +5,8 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 144
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Sucralfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric R… (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: แผลในกระเพาะอาหาร"
 ---
 
 # Sucralfate

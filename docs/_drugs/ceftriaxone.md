@@ -5,6 +5,8 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 37
 evidence_level: L4
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Ceftriaxone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะอะไมเลสในเลือดสูง (Hyperamylasemia) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรียรุนแรง"
 ---
 
 # Ceftriaxone

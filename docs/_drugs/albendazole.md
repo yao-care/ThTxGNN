@@ -5,6 +5,8 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 13
 evidence_level: L2
 indication_count: 10
+last_modified_at: 2026-10-15
+description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: พยาธิ"
 ---
 
 # Albendazole
