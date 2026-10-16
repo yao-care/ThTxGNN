@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: พยาธิ"
+monitor_inn: "Albendazole"
+predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease", "dermatofibrosarcoma protuberans", "lung benign neoplasm", "lung hilum carcinoma", "inclusion body myopathy with early-onset Paget disease with or without frontotemporal dementia", "fibroma of lung", "hamartoma of lung", "intestinal helminthiasis"]
 ---
 
 # Albendazole

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Digoxin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Prinzmetal angina (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ"
+monitor_inn: "Digoxin"
+predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "obsolete susceptibility to ischemic stroke", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis", "thrombotic disease", "stroke disorder"]
 ---
 
 # Digoxin

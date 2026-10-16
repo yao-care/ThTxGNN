@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Paliperidone: ข้อบ่งใช้ใหม่ที่คาดการณ์ จอประสาทตาเสื่อมทางพันธุกรรม (retinal dystrophy with or without extra… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: จิตเภท"
+monitor_inn: "Paliperidone"
+predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "myopia X-linked", "syndromic myopia", "hydranencephaly (disease)", "congenital disorder of glycosylation with defective fucosylation", "myopia 26, X-linked, female-limited", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "atypical glycine encephalopathy", "treatment-refractory schizophrenia"]
 ---
 
 # Paliperidone

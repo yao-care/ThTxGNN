@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Chloroquine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ข้ออักเสบไอดิโอพาทิกในเด็กชนิดหลายข้อที่มีรูมาตอยด์แฟคเตอร์เป็นบวก (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: มาลาเรีย"
+monitor_inn: "Chloroquine"
+predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis", "osteoarthritis", "pseudoachondroplasia", "Quinquaud's folliculitis decalvans", "Smouldering systemic mastocytosis", "telogen effluvium", "alopecia antibody deficiency"]
 ---
 
 # Chloroquine

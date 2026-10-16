@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Salbutamol: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคปอดอุดกั้นเรื้อรัง"
+monitor_inn: "Salbutamol"
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture", "obstructive lung disease"]
 ---
 
 # Salbutamol

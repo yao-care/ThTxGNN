@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Erythropoietin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โลหิตจาง"
+monitor_inn: "Erythropoietin"
+predicted_indications: ["antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "seborrheic dermatitis", "thrombophilia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "hemoglobinopathy", "hyperthyroidism", "normal breast-like subtype of breast carcinoma"]
 ---
 
 # Erythropoietin

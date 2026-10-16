@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diazepam: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคนอนไม่หลับ (Insomnia) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: วิตกกังวล, ชัก, กล้ามเนื้อเกร็ง"
+monitor_inn: "Diazepam"
+predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 ---
 
 # Diazepam

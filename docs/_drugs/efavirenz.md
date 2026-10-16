@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Efavirenz: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสเอสไอวีในลิง (Simian Immunodeficiency Virus Infection) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เอชไอวี"
+monitor_inn: "Efavirenz"
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "AIDS related complex", "congenital human immunodeficiency virus", "fibroma of prostate", "Brenner tumor", "benign reproductive system neoplasm", "benign prostate phyllodes tumor"]
 ---
 
 # Efavirenz

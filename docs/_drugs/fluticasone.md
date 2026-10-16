@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluticasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคจมูกอักเสบ"
+monitor_inn: "Fluticasone"
+predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura", "cystic teratoma", "spinal cord dermoid cyst", "disease of orbital part of eye adnexa", "exostosis", "disease of orbital region", "dermoid cyst of ovary", "eye disease"]
 ---
 
 # Fluticasone

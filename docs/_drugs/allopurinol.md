@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Allopurinol: ข้อบ่งใช้ใหม่ที่คาดการณ์ พอร์ฟิเรียของตับ (Hepatic Porphyria) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เก๊าต์, กรดยูริกในเลือดสูง"
+monitor_inn: "Allopurinol"
+predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primitive portal vein thrombosis", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "early-onset familial noncirrhotic portal hypertension", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "inflammatory myopathy with abundant macrophages"]
 ---
 
 # Allopurinol

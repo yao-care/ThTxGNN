@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Ivermectin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Vulvovaginal candidiasis (การติดเชื้อราแคนดิดาในช่องคลอดและบริเวณปากช… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: พยาธิ, เหา"
+monitor_inn: "Ivermectin"
+predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "congenital candidiasis", "candida glabrata", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
 ---
 
 # Ivermectin

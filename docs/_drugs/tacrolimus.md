@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tacrolimus: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันการปฏิเสธอวัยวะ"
+monitor_inn: "Tacrolimus"
+predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "dermatitis", "acute lichenoid pityriasis", "acrodermatitis chronica atrophicans", "rheumatoid arthritis", "acne keloid", "psoriasis", "neonatal dermatomyositis", "exanthem (disease)"]
 ---
 
 # Tacrolimus

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Clarithromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ polyclonal hyperviscosity syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
+monitor_inn: "Clarithromycin"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "septicemic plague", "hematological disease associated with an acquired peripheral neuropathy", "congenital hematological disorder"]
 ---
 
 # Clarithromycin

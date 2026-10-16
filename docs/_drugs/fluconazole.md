@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluconazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctiv… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อรา"
+monitor_inn: "Fluconazole"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "Plasmodium falciparum malaria", "allergic urticaria", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "pneumocystosis", "blood group incompatibility", "premalignant hematological system disease", "papular urticaria"]
 ---
 
 # Fluconazole

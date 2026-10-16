@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gentamicin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ข้อข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรียรุนแรง"
+monitor_inn: "Gentamicin"
+predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "osteoarthritis susceptibility", "diabetic nephropathy", "congenital hypotrichosis milia", "unclassified myelodysplastic syndrome"]
 ---
 
 # Gentamicin

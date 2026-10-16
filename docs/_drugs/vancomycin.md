@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vancomycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรียดื้อยา"
+monitor_inn: "Vancomycin"
+predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellosis", "congenital analbuminemia", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "typhoid fever", "blood group incompatibility", "streptococcal pneumonia", "premalignant hematological system disease"]
 ---
 
 # Vancomycin

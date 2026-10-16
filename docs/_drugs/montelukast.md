@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Montelukast: ข้อบ่งใช้ใหม่ที่คาดการณ์ หลอดลมอักเสบ (Bronchitis) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคภูมิแพ้"
+monitor_inn: "Montelukast"
+predicted_indications: ["bronchitis", "atopic eczema", "asthma", "obstructive lung disease", "asthma-related traits, susceptibility to", "2-hydroxyethyl methacrylate sensitization", "uterine polyp", "polyp of vocal cord", "polyp of middle ear", "fibroepithelial polyp"]
 ---
 
 # Montelukast

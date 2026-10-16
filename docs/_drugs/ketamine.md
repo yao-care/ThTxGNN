@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ketamine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปวดศีรษะ (Headache Disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ยาสลบ, ซึมเศร้า"
+monitor_inn: "Ketamine"
+predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia", "common cold", "migraine disorder", "migraine with brainstem aura", "attention deficit-hyperactivity disorder", "Tourette syndrome", "myofascial pain syndrome", "trichotillomania", "psychotic disorder"]
 ---
 
 # Ketamine

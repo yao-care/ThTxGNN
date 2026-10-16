@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Cephalexin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคหูชั้นกลางอักเสบเรื้อรัง (Chronic Otitis Media) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
+monitor_inn: "Cephalexin"
+predicted_indications: ["chronic otitis media", "suppurative otitis media", "middle ear disease", "otosalpingitis", "non-suppurative otitis media", "allergic otitis media", "middle ear cholesterol granuloma", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia"]
 ---
 
 # Cephalexin

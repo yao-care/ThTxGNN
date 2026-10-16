@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Doxycycline: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะเยื่อบุตาและกระจกตาอักเสบแบบจุด (Punctate Epithelial Keratoconjun… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
+monitor_inn: "Doxycycline"
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
 ---
 
 # Doxycycline

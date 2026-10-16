@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Isoniazid: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบ (Conjunctivitis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: วัณโรค"
+monitor_inn: "Isoniazid"
+predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "shigellosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "leprosy", "brachydactyly-syndactyly syndrome", "vestibular neuronitis", "motor nerve neuritis", "infectious otitis media", "brachial plexus neuritis"]
 ---
 
 # Isoniazid

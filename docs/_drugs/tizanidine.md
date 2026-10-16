@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Tizanidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: กล้ามเนื้อหดเกร็ง"
+monitor_inn: "Tizanidine"
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "migraine with or without aura, susceptibility to", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis", "trichotillomania", "headache disorder", "dysthymic disorder", "fibromyalgia"]
 ---
 
 # Tizanidine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Heparin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีนซี ชนิดถ่ายทอดทางพันธุกรรมแบบด้อย (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันและรักษาลิ่มเลือด"
+monitor_inn: "Heparin"
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "pseudo-von Willebrand disease", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "neuropathy, painful", "retinal telangiectasia", "arteriosclerotic retinopathy", "retinal microaneurysm", "vertebral artery occlusion", "breast fibrocystic disease"]
 ---
 
 # Heparin

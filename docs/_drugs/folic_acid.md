@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Folic Acid: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเมตาบอลิซึมของไบโอติน (Biotin Metabolic Disease) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันและรักษาภาวะขาดโฟลิก"
+monitor_inn: "Folic acid"
+predicted_indications: ["biotin metabolic disease", "non-syndromic esophageal malformation", "esophageal disease", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "inborn error of biotin metabolism", "gonococcal urethritis", "Ureaplasma urethritis", "esophageal ulcer", "urinary tract infection (disease)"]
 ---
 
 # Folic Acid

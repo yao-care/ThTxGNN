@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Verapamil: ข้อบ่งใช้ใหม่ที่คาดการณ์ บันเดิลแบรนช์บล็อก (obsolete bundle branch block) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจเต้นผิดจังหวะ"
+monitor_inn: "Verapamil"
+predicted_indications: ["obsolete bundle branch block", "malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
 ---
 
 # Verapamil

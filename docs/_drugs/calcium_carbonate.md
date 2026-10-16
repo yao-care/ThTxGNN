@@ -7,6 +7,8 @@ evidence_level: L4
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Calcium Carbonate: ข้อบ่งใช้ใหม่ที่คาดการณ์ Calcium-alkali syndrome (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เสริมแคลเซียม"
+monitor_inn: "Calcium carbonate"
+predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization", "gout", "hypophosphatemia (disease)", "potassium deficiency disease", "digitalis poisoning", "gastroduodenitis", "hyperlipidemia", "peptic ulcer disease", "duodenogastric reflux"]
 ---
 
 # Calcium Carbonate

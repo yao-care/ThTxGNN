@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Primaquine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคตัวอ่อนแมลงวันไชเนื้อ (Myiasis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: มาลาเรีย"
+monitor_inn: "Primaquine"
+predicted_indications: ["myiasis", "wound myiasis", "furuncular myiasis", "creeping myiasis", "toxoplasmosis", "nocardiosis", "malaria", "pneumocystosis", "tinea corporis", "blastomycosis"]
 ---
 
 # Primaquine

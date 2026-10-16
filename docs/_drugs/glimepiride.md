@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 9
 last_modified_at: 2026-10-15
 description: "Glimepiride: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Stiff Person แบบคลาสสิก (Classic Stiff Person Syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
+monitor_inn: "Glimepiride"
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "pancreatic agenesis"]
 ---
 
 # Glimepiride

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Oseltamivir: ข้อบ่งใช้ใหม่ที่คาดการณ์ กรวยไตอักเสบ (Pyelonephritis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไข้หวัดใหญ่"
+monitor_inn: "Oseltamivir"
+predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "teratogenic Pierre Robin syndrome", "disorder of phenylalanine metabolism", "tetrahydrobiopterin-responsive hyperphenylalaninemia/phenylketonuria", "staphylococcus aureus infection", "cardioencephalomyopathy, fatal infantile, due to cytochrome c oxidase deficiency", "pneumonia", "streptococcal pneumonia", "dengue virus, susceptibility to"]
 ---
 
 # Oseltamivir

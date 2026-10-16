@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Azathioprine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ colobomatous microphthalmia-rhizomelic dysplasia (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคภูมิคุ้มกันผิดปกติ"
+monitor_inn: "Azathioprine"
+predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "osteoarthritis susceptibility", "WHIM syndrome", "inflammatory bowel disease", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "ulcerative colitis (disease)", "acromesomelic dysplasia, Hunter-Thompson type"]
 ---
 
 # Azathioprine

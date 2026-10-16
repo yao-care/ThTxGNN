@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Loratadine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ลมพิษจากภูมิแพ้ (Allergic Urticaria) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: โรคภูมิแพ้, ลมพิษ"
+monitor_inn: "Loratadine"
+predicted_indications: ["allergic urticaria", "nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "cold urticaria", "viral conjunctivitis", "punctate epithelial keratoconjunctivitis", "trigeminal autonomic cephalalgia", "faucial diphtheria", "cervical disc degenerative disorder"]
 ---
 
 # Loratadine

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Baclofen: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: กล้ามเนื้อหดเกร็ง"
+monitor_inn: "Baclofen"
+predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence", "attention deficit hyperactivity disorder, inattentive type", "myofascial pain syndrome", "faciodigitogenital syndrome", "trigeminal nerve neoplasm", "methemoglobinemia", "chondromyxoid fibroma", "methemoglobinemia, alpha type", "specific developmental disorder"]
 ---
 
 # Baclofen

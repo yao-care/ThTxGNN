@@ -7,6 +7,8 @@ evidence_level: L2
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ondansetron: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการทูเร็ตต์ (Tourette syndrome) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: คลื่นไส้อาเจียน"
+monitor_inn: "Ondansetron"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "trichotillomania", "paranoid personality disorder", "schizoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "common cold", "allergic urticaria", "acute intermittent porphyria"]
 ---
 
 # Ondansetron

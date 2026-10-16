@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Finasteride: ข้อบ่งใช้ใหม่ที่คาดการณ์ Ambras type hypertrichosis universalis congenita (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ต่อมลูกหมากโต, ผมร่วง"
+monitor_inn: "Finasteride"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly", "prostate calculus", "persistent fetal circulation syndrome", "chronic thromboembolic pulmonary hypertension", "migraine with brainstem aura"]
 ---
 
 # Finasteride

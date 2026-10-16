@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Vitamin D: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความผิดปกติของการหลั่งสารจากเกล็ดเลือดแบบปฐมภูมิ (Primary Release Dis… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันและรักษาภาวะขาดวิตามินดี"
+monitor_inn: "Vitamin D"
+predicted_indications: ["primary release disorder of platelets", "sclerosing cholangitis", "pseudo-von Willebrand disease", "cholecystolithiasis", "multiple endocrine neoplasia", "Glanzmann thrombasthenia", "familial isolated hypoparathyroidism due to impaired PTH secretion", "acromesomelic dysplasia, Campailla Martinelli type", "hypoparathyroidism", "craniofacial conodysplasia"]
 ---
 
 # Vitamin D

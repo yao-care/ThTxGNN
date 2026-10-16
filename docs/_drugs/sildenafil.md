@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sildenafil: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: การแข็งตัวขององคชาต"
+monitor_inn: "Sildenafil"
+predicted_indications: ["Ambras type hypertrichosis universalis congenita", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "hypertrichosis (disease)", "homozygous familial hypercholesterolemia", "hypoalphalipoproteinemia", "familial isolated trichomegaly", "genetic alopecia", "obsolete patella aplasia, coxa vara, and tarsal synostosis"]
 ---
 
 # Sildenafil

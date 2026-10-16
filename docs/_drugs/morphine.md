@@ -7,6 +7,8 @@ evidence_level: L3
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Morphine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการขาอยู่ไม่สุข (Restless Legs Syndrome) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: บรรเทาปวดรุนแรง"
+monitor_inn: "Morphine"
+predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 ---
 
 # Morphine

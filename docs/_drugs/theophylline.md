@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 7
 last_modified_at: 2026-10-15
 description: "Theophylline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคหลอดเลือดอุดตัน (Thrombotic Disease) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด"
+monitor_inn: "Theophylline"
+predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "obstructive lung disease", "pharyngitis", "acute laryngopharyngitis"]
 ---
 
 # Theophylline

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Domperidone: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปวดศีรษะ (Headache Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: คลื่นไส้อาเจียน, อาหารไม่ย่อย"
+monitor_inn: "Domperidone"
+predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "Plasmodium falciparum malaria", "common cold", "headache disorder", "allergic urticaria", "trigeminal autonomic cephalalgia", "collagenopathy", "renin-angiotensin-aldosterone system-blocker-induced angioedema", "lymphocytic hypereosinophilic syndrome", "hypertrichosis (disease)"]
 ---
 
 # Domperidone

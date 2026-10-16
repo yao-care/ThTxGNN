@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Phenytoin: ข้อบ่งใช้ใหม่ที่คาดการณ์ เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคลมชัก"
+monitor_inn: "Phenytoin"
+predicted_indications: ["trigeminal nerve neoplasm", "startle epilepsy", "micturation-induced seizures", "audiogenic seizures", "thinking seizures", "eating seizures", "orgasm-induced seizures", "reading seizures", "trigeminal neuralgia", "beta-ketothiolase deficiency"]
 ---
 
 # Phenytoin

@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 8
 last_modified_at: 2026-10-15
 description: "Clopidogrel: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรนชนิดมีออร่าจากก้านสมอง (Migraine with Brainstem Aura) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด"
+monitor_inn: "Clopidogrel"
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "osteoarthritis susceptibility"]
 ---
 
 # Clopidogrel

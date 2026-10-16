@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gabapentin: ข้อบ่งใช้ใหม่ที่คาดการณ์ สิว (Acne) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ปวดประสาท, โรคลมชัก"
+monitor_inn: "Gabapentin"
+predicted_indications: ["acne (disease)", "adolescent/adult onset autosomal dominant epilepsy with auditory features", "epilepsy with generalized tonic-clonic seizures", "myofascial pain syndrome", "visual epilepsy", "active vestibular Meniere disease", "active cochlear Meniere disease", "active cochleovestibular Meniere disease", "trigeminal nerve neoplasm", "osteoarthritis susceptibility"]
 ---
 
 # Gabapentin

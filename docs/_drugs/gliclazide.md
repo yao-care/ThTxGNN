@@ -7,6 +7,8 @@ evidence_level: L5
 indication_count: 10
 last_modified_at: 2026-10-15
 description: "Gliclazide: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกล้ามเนื้อเกร็งแข็งชนิดคลาสสิก (Classic Stiff Person Syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
+monitor_inn: "Gliclazide"
+predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndrome", "thiamine-responsive dysfunction syndrome", "opsismodysplasia", "pancreatic agenesis", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "idiopathic localized lipodystrophy", "autoimmune oophoritis"]
 ---
 
 # Gliclazide
