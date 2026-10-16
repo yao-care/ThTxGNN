@@ -26,7 +26,7 @@ redirect_from:
 - **เวอร์ชัน**: 2024
 - **โหนด**: ~50,000 (ยา โรค ยีน เส้นทาง)
 - **ขอบ**: ~4.6 ล้านความสัมพันธ์
-- **อ้างอิง**: [TxGNN Paper](https://www.nature.com/articles/s41591-023-02233-x)
+- **อ้างอิง**: [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x)
 
 ### DrugBank
 

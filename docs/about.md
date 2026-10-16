@@ -4,8 +4,6 @@ title: เกี่ยวกับโครงการ
 parent: คำอธิบาย
 nav_order: 3
 permalink: /about/
-redirect_from:
-  - /about.html
 ---
 
 # เกี่ยวกับ ThTxGNN
@@ -66,7 +64,7 @@ ThTxGNN (Thailand Therapeutic Graph Neural Network) เป็นระบบค�
 
 ## โครงการที่เกี่ยวข้อง
 
-- **TxGNN**: Knowledge Graph Neural Network ต้นฉบับ ([บทความ](https://www.nature.com/articles/s41591-023-02233-x))
+- **TxGNN**: Knowledge Graph Neural Network ต้นฉบับ ([บทความ](https://www.nature.com/articles/s41591-024-03233-x))
 - **ThTxGNN**: การดำเนินการสำหรับประเทศไทย (reference implementation)
 
 ## ใบอนุญาต
