@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Metoclopramide: ข้อบ่งใช้ใหม่ที่คาดการณ์ แผลในกระเพาะอาหาร (Gastric Ulcer) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: คลื่นไส้อาเจียน"
 monitor_inn: "Metoclopramide"
-predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "peptic ulcer disease", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenal obstruction", "achlorhydria", "hiatus hernia (disease)", "cascade stomach", "gastric dilatation"]
+predicted_indications: ["gastric ulcer (disease)", "gastroduodenitis", "gastrojejunal ulcer", "peptic ulcer perforation", "duodenal obstruction", "achlorhydria", "hiatus hernia (disease)", "cascade stomach", "gastric dilatation"]
 ---
 
 # Metoclopramide

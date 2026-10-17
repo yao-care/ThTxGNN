@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Colchicine: ข้อบ่งใช้ใหม่ที่คาดการณ์ Plasmodium falciparum malaria (มาลาเรียชนิดฟัลซิปารัม) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เก๊าต์เฉียบพลัน"
 monitor_inn: "Colchicine"
-predicted_indications: ["Plasmodium falciparum malaria", "familial Mediterranean fever, autosomal dominant", "dermatofibrosarcoma protuberans", "primary immunodeficiency due to a genetic defect in innate immunity", "sitosterolemia", "Smouldering systemic mastocytosis", "systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "hemoglobin H disease", "blepharo-cheilo-odontic syndrome"]
+predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans", "primary immunodeficiency due to a genetic defect in innate immunity", "sitosterolemia", "Smouldering systemic mastocytosis", "systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "hemoglobin H disease", "blepharo-cheilo-odontic syndrome"]
 ---
 
 # Colchicine

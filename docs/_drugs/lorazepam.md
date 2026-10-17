@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lorazepam: ข้อบ่งใช้ใหม่ที่คาดการณ์ เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: วิตกกังวล, นอนไม่หลับ"
 monitor_inn: "Lorazepam"
-predicted_indications: ["trigeminal nerve neoplasm", "insomnia (disease)", "reading seizures", "startle epilepsy", "thinking seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "micturation-induced seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
+predicted_indications: ["trigeminal nerve neoplasm", "reading seizures", "startle epilepsy", "thinking seizures", "audiogenic seizures", "eating seizures", "orgasm-induced seizures", "micturation-induced seizures", "acute encephalopathy with biphasic seizures and late reduced diffusion"]
 ---
 
 # Lorazepam

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Magnesium Sulfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะครรภ์เป็นพิษ/ชัก (preeclampsia/eclampsia) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: แมกนีเซียมต่ำ, ครรภ์เป็นพิษ"
 monitor_inn: "Magnesium sulfate"
-predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
 ---
 
 # Magnesium Sulfate

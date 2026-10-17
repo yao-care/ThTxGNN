@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Duloxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ซึมเศร้า, ปวดปลายประสาท"
 monitor_inn: "Duloxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 ---
 
 # Duloxetine

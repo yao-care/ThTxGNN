@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Pantoprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ แผลเปบติกระยะเฉียบพลัน (Active Peptic Ulcer Disease) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: โรคกรดไหลย้อน, แผลในกระเพาะอาหาร"
 monitor_inn: "Pantoprazole"
-predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenogastric reflux", "duodenal obstruction", "duodenal ulcer (disease)"]
+predicted_indications: ["duodenal obstruction"]
 ---
 
 # Pantoprazole

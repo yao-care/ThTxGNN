@@ -8,7 +8,7 @@ indication_count: 5
 last_modified_at: 2026-10-15
 description: "Cabergoline: ข้อบ่งใช้ใหม่ที่คาดการณ์ มะเร็งต่อมใต้สมอง (Pituitary Cancer) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โพรแลกตินสูง"
 monitor_inn: "Cabergoline"
-predicted_indications: ["pituitary adenocarcinoma (disease)", "progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
+predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
 ---
 
 # Cabergoline

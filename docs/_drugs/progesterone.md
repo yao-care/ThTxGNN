@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Progesterone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะประจำเดือนขาด (Amenorrhea) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ภาวะขาดฮอร์โมน"
 monitor_inn: "Progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "cervix endometriosis", "renal hypoplasia (disease)", "endometriosis in cutaneous scar", "endometriosis of rectovaginal septum and vagina", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 ---
 
 # Progesterone

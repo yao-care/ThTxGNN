@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Prednisolone: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคผมร่วงเป็นหย่อม (Alopecia Areata) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ต้านการอักเสบ, ภูมิแพ้รุนแรง"
 monitor_inn: "Prednisolone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland", "idiopathic steroid-sensitive nephrotic syndrome"]
+predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
 ---
 
 # Prednisolone

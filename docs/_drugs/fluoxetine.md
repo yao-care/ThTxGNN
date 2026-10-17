@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Fluoxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกลัว (Phobic Disorder) — เลือกจากหลักฐานที่แข็งแรงที่สุดในกลุ่มที่… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคซึมเศร้า, โรคย้ำคิดย้ำทำ"
 monitor_inn: "Fluoxetine"
-predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants", "melancholia"]
+predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants"]
 ---
 
 # Fluoxetine

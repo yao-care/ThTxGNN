@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Propylthiouracil: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ของตัวรับฮอร์โมนไทรอยด์เบต้า… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ภาวะไทรอยด์เป็นพิษ"
 monitor_inn: "Propylthiouracil"
-predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "neonatal thyrotoxicosis", "hyperthyroxinemia", "Hashimoto thyroiditis", "autoimmune thyroid disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "Prinzmetal angina", "primary hereditary glaucoma"]
+predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia", "Hashimoto thyroiditis", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies", "diabetic nephropathy", "Prinzmetal angina", "primary hereditary glaucoma"]
 ---
 
 # Propylthiouracil

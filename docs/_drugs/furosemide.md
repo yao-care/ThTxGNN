@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Furosemide: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความดันโลหิตสูงชนิดรุนแรงจากหลอดเลือดไต (Malignant Renovascular Hyper… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บวมน้ำ, หัวใจล้มเหลว"
 monitor_inn: "Furosemide"
-predicted_indications: ["malignant renovascular hypertension", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "chronic renal failure syndrome", "chronic kidney disease"]
+predicted_indications: ["malignant hypertensive renal disease", "chronic pulmonary heart disease", "acute pulmonary heart disease", "primary hereditary glaucoma", "chronic renal failure syndrome", "chronic kidney disease"]
 ---
 
 # Furosemide

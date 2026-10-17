@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Celecoxib: ข้อบ่งใช้ใหม่ที่คาดการณ์ Acromesomelic dysplasia, Hunter-Thompson type (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ข้อเสื่อม"
 monitor_inn: "Celecoxib"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "rheumatoid vasculitis", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "inflammatory spondylopathy", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
 ---
 
 # Celecoxib

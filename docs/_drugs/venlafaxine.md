@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Venlafaxine: ข้อบ่งใช้ใหม่ที่คาดการณ์ Ohdo syndrome and variants (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ซึมเศร้า, วิตกกังวล"
 monitor_inn: "Venlafaxine"
-predicted_indications: ["Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "dysthymic disorder", "melancholia", "childhood apraxia of speech", "neurotic depression", "obsessive-compulsive disorder", "agoraphobia"]
+predicted_indications: ["Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy", "childhood apraxia of speech"]
 ---
 
 # Venlafaxine
