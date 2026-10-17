@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Valproic Acid: ข้อบ่งใช้ใหม่ที่คาดการณ์ เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคลมชัก, โรคไบโพลาร์"
 monitor_inn: "Valproic acid"
-predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "orgasm-induced seizures", "thinking seizures", "audiogenic seizures", "eating seizures", "micturation-induced seizures", "reading seizures"]
+predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 ---
 
 # Valproic Acid

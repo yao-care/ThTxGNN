@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carbamazepine: ข้อบ่งใช้ใหม่ที่คาดการณ์ เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคลมชัก, ปวดประสาท"
 monitor_inn: "Carbamazepine"
-predicted_indications: ["trigeminal nerve neoplasm", "micturation-induced seizures", "eating seizures", "orgasm-induced seizures", "audiogenic seizures", "thinking seizures", "reading seizures", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
+predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
 ---
 
 # Carbamazepine

@@ -8,7 +8,7 @@ indication_count: 6
 last_modified_at: 2026-10-15
 description: "Cetirizine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ลมพิษจากภูมิแพ้ (Allergic Urticaria) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: โรคภูมิแพ้, ลมพิษ"
 monitor_inn: "Cetirizine"
-predicted_indications: ["allergic urticaria", "cold urticaria", "nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
+predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
 ---
 
 # Cetirizine

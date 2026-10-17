@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diltiazem: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคหลอดเลือดสมอง (Cerebrovascular Disorder) ลำดับที่ 4 (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหัวใจขาดเลือด"
 monitor_inn: "Diltiazem"
-predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain stem infarction", "obsolete bundle branch block", "cerebrovascular disorder", "malignant hypertensive renal disease", "ABri amyloidosis"]
+predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain stem infarction", "obsolete bundle branch block", "cerebrovascular disorder", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "ABri amyloidosis"]
 ---
 
 # Diltiazem

@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Amlodipine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะสมองก้านสมองขาดเลือด (Brain Stem Infarction) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ"
 monitor_inn: "Amlodipine"
-predicted_indications: ["brain stem infarction"]
+predicted_indications: ["brain stem infarction", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 ---
 
 # Amlodipine

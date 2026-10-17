@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levetiracetam: ข้อบ่งใช้ใหม่ที่คาดการณ์ ลมชักจากสิ่งกระตุ้นทางสายตา (Visual Epilepsy) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคลมชัก"
 monitor_inn: "Levetiracetam"
-predicted_indications: ["visual epilepsy", "audiogenic seizures", "micturation-induced seizures", "eating seizures", "orgasm-induced seizures", "startle epilepsy", "thinking seizures", "reading seizures", "status epilepticus", "beta-ketothiolase deficiency"]
+predicted_indications: ["beta-ketothiolase deficiency"]
 ---
 
 # Levetiracetam

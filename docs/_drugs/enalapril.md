@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Enalapril: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจล้มเหลว"
 monitor_inn: "Enalapril"
-predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary heart disease", "malignant hypertensive renal disease", "primary hereditary glaucoma", "open-angle glaucoma", "chronic kidney disease"]
+predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary heart disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "primary hereditary glaucoma", "open-angle glaucoma", "chronic kidney disease"]
 ---
 
 # Enalapril

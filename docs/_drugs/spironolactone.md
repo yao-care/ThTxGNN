@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Spironolactone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะผมบางธรรมดาของหนังศีรษะ (Hypotrichosis Simplex of the Scalp) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บวมน้ำ, หัวใจล้มเหลว"
 monitor_inn: "Spironolactone"
-predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "chronic pulmonary heart disease"]
+predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia", "diffuse alopecia areata", "alopecia", "malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease"]
 ---
 
 # Spironolactone
