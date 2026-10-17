@@ -27,7 +27,7 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

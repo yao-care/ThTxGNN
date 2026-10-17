@@ -27,7 +27,7 @@ predicted_indications: ["acne (disease)", "leishmaniasis, diffuse cutaneous", "e
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

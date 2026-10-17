@@ -27,7 +27,7 @@ predicted_indications: ["uterine corpus epithelioid leiomyosarcoma", "Plasmodium
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

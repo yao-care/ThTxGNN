@@ -27,7 +27,7 @@ predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "te
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

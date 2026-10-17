@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Terbinafine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะหนอนแมลงวันชอนผิวหนังแบบฝี (Furuncular Myiasis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เชื้อราผิวหนัง"
 monitor_inn: "Terbinafine"
-predicted_indications: ["furuncular myiasis", "creeping myiasis", "wound myiasis", "myiasis", "cutaneous candidiasis", "toxoplasmosis", "blastomycosis", "tinea manuum", "echinococcus granulosus infectious disease"]
+predicted_indications: ["furuncular myiasis", "creeping myiasis", "wound myiasis", "myiasis", "toxoplasmosis", "blastomycosis", "echinococcus granulosus infectious disease"]
 ---
 
 # Terbinafine
@@ -27,7 +27,7 @@ predicted_indications: ["furuncular myiasis", "creeping myiasis", "wound myiasis
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

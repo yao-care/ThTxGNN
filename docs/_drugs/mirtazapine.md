@@ -27,7 +27,7 @@ predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intell
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

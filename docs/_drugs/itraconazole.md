@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Itraconazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปอดอักเสบจากเชื้อนิวโมซิสติส (Pneumocystosis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อรา"
 monitor_inn: "Itraconazole"
-predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "geotrichosis", "hyalohyphomycosis", "penicilliosis", "maple bark strippers' lung", "leprosy", "neonatal candidiasis", "congenital candidiasis"]
+predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "geotrichosis", "hyalohyphomycosis", "penicilliosis", "maple bark strippers' lung", "leprosy"]
 ---
 
 # Itraconazole
@@ -27,7 +27,7 @@ predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "geotrichos
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine de
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

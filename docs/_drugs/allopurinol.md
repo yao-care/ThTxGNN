@@ -27,7 +27,7 @@ predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primit
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

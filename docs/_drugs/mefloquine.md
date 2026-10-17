@@ -27,7 +27,7 @@ predicted_indications: ["tinea corporis", "creeping myiasis", "furuncular myiasi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

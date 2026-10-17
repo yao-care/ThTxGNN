@@ -27,7 +27,7 @@ predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

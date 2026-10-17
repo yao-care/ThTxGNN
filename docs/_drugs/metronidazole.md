@@ -27,7 +27,7 @@ predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

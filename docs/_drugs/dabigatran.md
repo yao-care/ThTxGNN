@@ -27,7 +27,7 @@ predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial de
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

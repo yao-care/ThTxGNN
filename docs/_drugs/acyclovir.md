@@ -27,7 +27,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

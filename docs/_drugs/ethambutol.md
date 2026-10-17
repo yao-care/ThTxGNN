@@ -27,7 +27,7 @@ predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection",
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

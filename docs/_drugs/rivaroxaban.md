@@ -27,7 +27,7 @@ predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease"
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

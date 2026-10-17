@@ -52,7 +52,7 @@ nav_order: 10
 ### Prediction Model
 
 - **TxGNN**: Published in *Nature Medicine* (2024) by Harvard Zitnik Lab
-- **Method**: Knowledge graph + deep learning for drug-disease relationship prediction
+- **Method**: Graph neural network trained on a biomedical knowledge graph; scores drug–disease pairs
 - **Source**: [TxGNN Paper](https://www.nature.com/articles/s41591-024-03233-x)
 
 ### Evidence Sources
@@ -162,7 +162,7 @@ git clone https://github.com/yao-care/ThTxGNN.git
 # Install dependencies
 uv sync
 
-# Run knowledge graph prediction
+# Extract known drug–disease relations from the knowledge graph (known uses, not predictions)
 uv run python scripts/run_kg_prediction.py
 ```
 

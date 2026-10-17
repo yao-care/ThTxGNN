@@ -27,7 +27,7 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "P
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

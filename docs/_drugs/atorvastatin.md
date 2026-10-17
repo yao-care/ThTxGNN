@@ -27,7 +27,7 @@ predicted_indications: ["HIV infectious disease", "brain stem infarction", "chol
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

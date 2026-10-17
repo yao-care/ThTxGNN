@@ -27,7 +27,7 @@ predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

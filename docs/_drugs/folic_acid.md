@@ -27,7 +27,7 @@ predicted_indications: ["biotin metabolic disease", "non-syndromic esophageal ma
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

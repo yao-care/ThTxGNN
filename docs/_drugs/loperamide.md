@@ -27,7 +27,7 @@ predicted_indications: ["acute contagious conjunctivitis", "conjunctivitis", "ga
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

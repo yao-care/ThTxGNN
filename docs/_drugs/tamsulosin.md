@@ -27,7 +27,7 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

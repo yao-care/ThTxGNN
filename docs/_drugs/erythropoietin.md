@@ -27,7 +27,7 @@ predicted_indications: ["antithrombin deficiency type 2", "factor 5 excess with 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

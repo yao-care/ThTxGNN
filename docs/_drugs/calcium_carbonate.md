@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Calcium Carbonate: ข้อบ่งใช้ใหม่ที่คาดการณ์ Calcium-alkali syndrome (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เสริมแคลเซียม"
 monitor_inn: "Calcium carbonate"
-predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization", "gout", "potassium deficiency disease", "digitalis poisoning", "gastroduodenitis", "hyperlipidemia", "peptic ulcer disease", "duodenogastric reflux"]
+predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with defective bone mineralization", "gout", "potassium deficiency disease", "digitalis poisoning", "hyperlipidemia", "duodenogastric reflux"]
 ---
 
 # Calcium Carbonate
@@ -27,7 +27,7 @@ predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

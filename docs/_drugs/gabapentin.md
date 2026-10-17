@@ -27,7 +27,7 @@ predicted_indications: ["acne (disease)", "myofascial pain syndrome", "active ve
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disea
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["Ohdo syndrome and variants", "ligneous conjunctivitis",
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

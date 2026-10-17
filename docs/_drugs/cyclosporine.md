@@ -27,7 +27,7 @@ predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

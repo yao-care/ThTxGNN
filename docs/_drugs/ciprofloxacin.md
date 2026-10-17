@@ -27,7 +27,7 @@ predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndro
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

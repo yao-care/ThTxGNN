@@ -27,7 +27,7 @@ predicted_indications: ["exposure keratitis", "lymphogranuloma venereum", "necro
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrich
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

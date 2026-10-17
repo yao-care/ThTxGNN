@@ -27,7 +27,7 @@ predicted_indications: ["gaze palsy, familial horizontal, with progressive scoli
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

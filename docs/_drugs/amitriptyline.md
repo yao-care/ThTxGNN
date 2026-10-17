@@ -27,7 +27,7 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

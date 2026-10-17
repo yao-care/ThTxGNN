@@ -27,7 +27,7 @@ predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infect
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["brain stem infarction", "pulmonary hypertension owing t
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

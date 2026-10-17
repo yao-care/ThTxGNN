@@ -27,7 +27,7 @@ predicted_indications: ["papillary conjunctivitis", "lichen disease", "congenita
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

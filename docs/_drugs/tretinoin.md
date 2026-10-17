@@ -27,7 +27,7 @@ predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive poly
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

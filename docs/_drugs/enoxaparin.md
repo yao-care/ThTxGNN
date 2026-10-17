@@ -27,7 +27,7 @@ predicted_indications: ["thrombophilia due to protein C deficiency, autosomal re
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Budesonide: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผิวหนังอักเสบภูมิแพ้ (Atopic Eczema) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคหอบหืด"
 monitor_inn: "Budesonide"
-predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
+predicted_indications: ["atopic eczema", "dermatitis, atopic", "polyp of vocal cord", "polyp of middle ear", "epulis", "fibroepithelial polyp", "uterine polyp", "polyp of frontal sinus", "polyp of external auditory canal"]
 ---
 
 # Budesonide
@@ -27,7 +27,7 @@ predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "po
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

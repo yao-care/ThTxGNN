@@ -27,7 +27,7 @@ predicted_indications: ["obsolete bundle branch block", "malignant hypertensive 
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

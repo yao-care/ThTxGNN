@@ -27,7 +27,7 @@ predicted_indications: ["heparin cofactor 2 deficiency", "antithrombin deficienc
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

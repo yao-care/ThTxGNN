@@ -27,7 +27,7 @@ predicted_indications: ["congenital disorder of glycosylation with defective fuc
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

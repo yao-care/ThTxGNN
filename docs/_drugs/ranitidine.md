@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Ranitidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ แผลเปปติกที่ยังมีการอักเสบ (Active Peptic Ulcer Disease) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: แผลในกระเพาะอาหาร"
 monitor_inn: "Ranitidine"
-predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation", "gastrojejunal ulcer", "duodenal obstruction", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
+predicted_indications: ["duodenal obstruction", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
 ---
 
 # Ranitidine
@@ -27,7 +27,7 @@ predicted_indications: ["active peptic ulcer disease", "peptic ulcer perforation
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

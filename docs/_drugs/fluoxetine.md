@@ -27,7 +27,7 @@ predicted_indications: ["schizoid personality disorder", "paranoid personality d
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

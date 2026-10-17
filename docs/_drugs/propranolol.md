@@ -27,7 +27,7 @@ predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy w
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

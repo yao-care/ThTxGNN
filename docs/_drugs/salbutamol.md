@@ -27,7 +27,7 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

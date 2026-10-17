@@ -27,7 +27,7 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure ke
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

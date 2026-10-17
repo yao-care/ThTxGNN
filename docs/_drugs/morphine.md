@@ -27,7 +27,7 @@ predicted_indications: ["myofascial pain syndrome", "manic bipolar affective dis
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

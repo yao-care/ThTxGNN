@@ -27,7 +27,7 @@ predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

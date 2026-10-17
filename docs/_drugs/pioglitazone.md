@@ -27,7 +27,7 @@ predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classi
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

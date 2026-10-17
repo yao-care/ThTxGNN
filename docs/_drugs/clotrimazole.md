@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Clotrimazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคช่องคลอดและปากช่องคลอดอักเสบ (Vulvovaginitis) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: โรคติดเชื้อราที่ผิวหนัง"
 monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
+predicted_indications: ["acne (disease)"]
 ---
 
 # Clotrimazole
@@ -27,7 +27,7 @@ predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

@@ -27,7 +27,7 @@ predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary hear
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

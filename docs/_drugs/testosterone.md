@@ -27,7 +27,7 @@ predicted_indications: ["polysomy of X chromosome", "tetragametic chimerism", "p
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 

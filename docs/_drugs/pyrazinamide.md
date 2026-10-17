@@ -27,7 +27,7 @@ predicted_indications: ["infectious otitis media", "middle ear disease", "otosal
 
 ---
 
-<div id="pharmacist">
+<div id="pharmacist" markdown="1">
 
 ## รายงานการประเมินโดยเภสัชกร
 
