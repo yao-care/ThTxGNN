@@ -135,4 +135,4 @@ image: /assets/images/og-default.png
 
 ThTxGNN คือเว็บไซต์ประจำประเทศไทยของสายผลิตภัณฑ์ "TxGNN Drug Repurposing" ของบริษัท ระบบเดียวกันนี้ถูกนำไปใช้งานใน 30 ประเทศและภูมิภาค โดยแต่ละแห่งใช้ชื่อ `{CC}TxGNN` (JpTxGNN, UsTxGNN, DETxGNN และอื่นๆ) ที่ `{cc}txgnn.yao.care` ภาพรวมผลิตภัณฑ์: <https://www.yao.care/medical/txgnn/>
 
-ตัวโมเดล TxGNN พัฒนาโดย Zitnik Lab แห่ง Harvard Medical School และตีพิมพ์ในวารสาร *Nature Medicine* แพลตฟอร์มนี้เป็นระบบใช้งานจริงที่ 藥提醒科技有限公司 สร้างขึ้นบนพื้นฐานของโมเดลดังกล่าว ครอบคลุมการบูรณาการข้อมูลการขึ้นทะเบียนยาระดับประเทศ การคาดการณ์แบบคู่ขนานด้วย Knowledge Graph และ Deep Learning การจัดระดับหลักฐานจาก PubMed / ClinicalTrials และการเชื่อมต่อเวชระเบียนอิเล็กทรอนิกส์ด้วย SMART on FHIR
+ตัวโมเดล TxGNN พัฒนาโดย Zitnik Lab แห่ง Harvard Medical School และตีพิมพ์ในวารสาร *Nature Medicine* แพลตฟอร์มนี้เป็นระบบใช้งานจริงที่ 藥提醒科技有限公司 สร้างขึ้นบนพื้นฐานของโมเดลดังกล่าว ครอบคลุมการบูรณาการข้อมูลการขึ้นทะเบียนยาระดับประเทศ การทำนายด้วย Deep Learning ที่ตัดการใช้งานซึ่งบันทึกไว้แล้วใน Knowledge Graph ออก การจัดระดับหลักฐานจาก PubMed / ClinicalTrials และการเชื่อมต่อเวชระเบียนอิเล็กทรอนิกส์ด้วย SMART on FHIR
