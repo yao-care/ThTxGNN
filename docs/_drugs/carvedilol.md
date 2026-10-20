@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Carvedilol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความดันโลหิตสูงรุนแรงจากหลอดเลือดแดงไต (Malignant Renovascular Hypert… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจล้มเหลว"
 monitor_inn: "Carvedilol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "cerebrovascular disorder", "ocular tuberculosis", "brain stem infarction"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "cerebrovascular disorder", "ocular tuberculosis", "brain stem infarction"]
 ---
 
 # Carvedilol

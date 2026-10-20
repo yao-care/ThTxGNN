@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Chlorpheniramine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ลมพิษจากภูมิแพ้ (Allergic Urticaria) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: อาการแพ้, ลมพิษ, คัดจมูก"
 monitor_inn: "Chlorpheniramine"
-predicted_indications: ["acute laryngopharyngitis", "headache disorder", "recalcitrant atopic dermatitis", "trigeminal autonomic cephalalgia", "IgE responsiveness, atopic"]
+predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "rosacea conjunctivitis", "headache disorder", "recalcitrant atopic dermatitis", "trigeminal autonomic cephalalgia", "IgE responsiveness, atopic"]
 ---
 
 # Chlorpheniramine

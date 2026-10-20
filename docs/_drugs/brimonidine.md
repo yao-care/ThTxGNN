@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Brimonidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบชนิดปุ่ม (Papillary Conjunctivitis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ต้อหิน"
 monitor_inn: "Brimonidine"
-predicted_indications: ["papillary conjunctivitis", "lichen disease", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus"]
+predicted_indications: ["papillary conjunctivitis", "lichen disease", "congenital hypotrichosis milia", "rosacea conjunctivitis", "hypotrichosis simplex of the scalp", "diffuse alopecia areata", "annular atrophic lichen planus", "hypertrophic lichen planus", "lichen planus pigmentosus"]
 ---
 
 # Brimonidine

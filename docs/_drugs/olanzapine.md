@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-10-15
 description: "Olanzapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ benign paroxysmal torticollis of infancy (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคจิตเภท, โรคไบโพลาร์"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
 ---
 
 # Olanzapine

@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Sucralfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric R… (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: แผลในกระเพาะอาหาร"
 monitor_inn: "Sucralfate"
-predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "C1 inhibitor deficiency"]
+predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esophagitis (disease)", "peptic esophagitis", "duodenitis", "gastroduodenitis", "C1 inhibitor deficiency"]
 ---
 
 # Sucralfate

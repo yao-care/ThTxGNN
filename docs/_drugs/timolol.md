@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Timolol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม (Primary Hereditary Glaucoma) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ต้อหิน"
 monitor_inn: "Timolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "chronic pulmonary heart disease"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
 ---
 
 # Timolol

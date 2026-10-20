@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Amitriptyline: ข้อบ่งใช้ใหม่ที่คาดการณ์ อาการคอเอียงเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticol… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคซึมเศร้า, ปวดประสาท"
 monitor_inn: "Amitriptyline"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "Ohdo syndrome and variants", "melancholia", "phobic disorder", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 ---
 
 # Amitriptyline

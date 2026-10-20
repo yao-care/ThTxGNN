@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lansoprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric R… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคกรดไหลย้อน, แผลในกระเพาะอาหาร"
 monitor_inn: "Lansoprazole"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "acne (disease)", "Smouldering systemic mastocytosis", "leather-bottle stomach", "duodenitis"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "acne (disease)", "Smouldering systemic mastocytosis", "leather-bottle stomach", "duodenitis"]
 ---
 
 # Lansoprazole

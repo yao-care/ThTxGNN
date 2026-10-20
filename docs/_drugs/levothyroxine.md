@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Levothyroxine: ข้อบ่งใช้ใหม่ที่คาดการณ์ คอพอกเฉพาะถิ่น (Endemic Goiter) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ภาวะไทรอยด์ต่ำ"
 monitor_inn: "Levothyroxine"
-predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
+predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodular goiter (disease)", "bilateral renal agenesis", "dyshormonogenic goiter", "nontoxic goiter", "lingual goiter", "substernal goiter", "Potter sequence", "Carney complex"]
 ---
 
 # Levothyroxine

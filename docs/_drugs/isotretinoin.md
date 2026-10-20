@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Isotretinoin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงชนิดรุนแรง (Malignant Hypertensive Renal Disea… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: สิวรุนแรง"
 monitor_inn: "Isotretinoin"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease", "cholangiocarcinoma, susceptibility to", "obsolete functional visual loss", "mitral valve prolapse, myxomatous", "ocular tuberculosis"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "cholangiocarcinoma, susceptibility to", "obsolete functional visual loss", "mitral valve prolapse, myxomatous", "ocular tuberculosis"]
 ---
 
 # Isotretinoin

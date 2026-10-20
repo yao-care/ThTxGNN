@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Bisoprolol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความดันโลหิตสูงรุนแรงจากหลอดเลือดแดงไตตีบ (malignant renovascular hyp… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจล้มเหลว"
 monitor_inn: "Bisoprolol"
-predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "brain stem infarction", "cerebrovascular disorder"]
+predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "Braddock syndrome", "chronic pulmonary heart disease", "obsolete susceptibility to ischemic stroke", "brain stem infarction", "cerebrovascular disorder"]
 ---
 
 # Bisoprolol

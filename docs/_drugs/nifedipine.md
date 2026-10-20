@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Nifedipine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรนชนิดมีอาการนำจากก้านสมอง (Migraine with Brainstem Aura) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหัวใจขาดเลือด"
 monitor_inn: "Nifedipine"
-predicted_indications: ["migraine with brainstem aura", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "tendinitis", "common cold", "myositis fibrosa"]
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "tendinitis", "common cold", "myositis fibrosa"]
 ---
 
 # Nifedipine

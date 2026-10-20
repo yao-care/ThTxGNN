@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Lidocaine: ข้อบ่งใช้ใหม่ที่คาดการณ์ Punctate epithelial keratoconjunctivitis (อันดับ 1) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ยาชา, หัวใจเต้นผิดจังหวะ"
 monitor_inn: "Lidocaine"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
 ---
 
 # Lidocaine

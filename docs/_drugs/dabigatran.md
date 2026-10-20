@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Dabigatran: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคฮีโมโกลบินผิดปกติ (Hemoglobinopathy) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ"
 monitor_inn: "Dabigatran"
-predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction"]
+predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial deletion of the short arm of chromosome 16", "beta-thalassemia with other manifestations", "hemolytic anemia due to glucophosphate isomerase deficiency", "pyruvate kinase deficiency of red cells", "posterolateral myocardial infarction", "posteroinferior myocardial infarction", "septal myocardial infarction", "coronary thrombosis"]
 ---
 
 # Dabigatran

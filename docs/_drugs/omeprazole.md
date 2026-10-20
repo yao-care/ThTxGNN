@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Omeprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric R… (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: โรคกรดไหลย้อน, แผลในกระเพาะอาหาร"
 monitor_inn: "Omeprazole"
-predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "duodenitis"]
+predicted_indications: ["duodenal obstruction", "abnormality of glucagon secretion", "gastroduodenitis", "Smouldering systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "duodenitis"]
 ---
 
 # Omeprazole

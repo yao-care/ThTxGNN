@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Alprazolam: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความกลัวที่โล่งแจ้ง (Agoraphobia) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: วิตกกังวล, โรคตื่นตระหนก"
 monitor_inn: "Alprazolam"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "chondromyxoid fibroma", "specific developmental disorder", "faciodigitogenital syndrome"]
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "obsessive-compulsive disorder", "chondromyxoid fibroma", "specific developmental disorder", "faciodigitogenital syndrome", "phobic disorder"]
 ---
 
 # Alprazolam

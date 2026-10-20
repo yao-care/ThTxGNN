@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Diphenhydramine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคจมูกอักเสบ (Rhinitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: อาการแพ้, นอนไม่หลับ"
 monitor_inn: "Diphenhydramine"
-predicted_indications: ["cauda equina syndrome", "nasopharyngitis", "neuralgia", "trigeminal autonomic cephalalgia", "glossodynia"]
+predicted_indications: ["rosacea conjunctivitis", "cauda equina syndrome", "nasopharyngitis", "viral conjunctivitis", "neuralgia", "trigeminal autonomic cephalalgia", "glossodynia"]
 ---
 
 # Diphenhydramine
