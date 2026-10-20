@@ -37,7 +37,7 @@
       {
         hook: 'order-sign',
         title: 'ThTxGNN ตัวเลือกการนำยาเก่ามาใช้ใหม่',
-        description: 'ให้การทำนายการนำยาเก่ามาใช้ใหม่สำหรับยาของผู้ป่วย โดยอ้างอิง TxGNN Knowledge Graph',
+        description: 'ให้การทำนายการนำยาเก่ามาใช้ใหม่สำหรับยาของผู้ป่วย โดยอ้างอิงโมเดล TxGNN (graph neural network ที่ฝึกบน Knowledge Graph)',
         id: 'thtxgnn-repurposing',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',

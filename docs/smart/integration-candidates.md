@@ -481,7 +481,7 @@ for rare disease drug repurposing research.
 
 About ThTxGNN:
 - A SMART on FHIR application for drug repurposing predictions
-- Based on Harvard's TxGNN knowledge graph model
+- Based on Harvard's TxGNN graph neural network model
 - Currently covers 677 drugs and 1,035 potential new indications
 - Website: https://thtxgnn.yao.care/
 
@@ -617,7 +617,7 @@ I am exploring a potential integration between ThTxGNN and Lupus Advisor
 to enhance clinical decision support for systemic lupus erythematosus (SLE) patients.
 
 ThTxGNN Capabilities:
-- Drug repurposing predictions based on TxGNN knowledge graph
+- Drug repurposing predictions based on the TxGNN graph neural network
 - SMART on FHIR R4 compatible
 - Includes lupus-related drug candidates
 

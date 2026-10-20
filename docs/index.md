@@ -113,7 +113,7 @@ image: /assets/images/og-default.png
 ## แหล่งข้อมูล
 
 - **Thai FDA (อย.)**: ข้อมูลยาที่ขึ้นทะเบียนในประเทศไทย
-- **TxGNN**: Knowledge Graph สำหรับความสัมพันธ์ยา-โรค จาก Harvard
+- **TxGNN**: โมเดล graph neural network จาก Harvard ที่ฝึกบน Knowledge Graph ความสัมพันธ์ยา-โรค
 - **DrugBank**: ฐานข้อมูลยาระดับโลก
 - **ClinicalTrials.gov**: หลักฐานการทดลองทางคลินิก
 - **PubMed**: หลักฐานจากวรรณกรรม
