@@ -19,7 +19,7 @@ nav_order: 6
 
 ### ฟังก์ชันหลักของ ThTxGNN
 
-**ข้อบ่งใช้ใหม่ (Drug Repurposing)**: ใช้ TxGNN Knowledge Graph เพื่อคาดการณ์ข้อบ่งใช้ใหม่ของยาที่ได้รับอนุมัติแล้ว
+**ข้อบ่งใช้ใหม่ (Drug Repurposing)**: ใช้โมเดล TxGNN (graph neural network ที่ฝึกบน Knowledge Graph) คาดการณ์ข้อบ่งใช้ใหม่ของยาที่ได้รับอนุมัติแล้ว โดยตัดการใช้ที่บันทึกไว้แล้วใน Knowledge Graph ออก
 
 ### ความต้องการข้อมูลอ้างอิงเสริม
 
@@ -51,7 +51,7 @@ nav_order: 6
 │                                                                     │
 │  ┌──────────────┐    ┌──────────────┐    ┌───────────────────────┐ │
 │  │SMART on FHIR │───►│อ่านยาของผู้ป่วย│───►│เครื่องคาดการณ์ข้อบ่งใช้│ │
-│  │    เริ่มต้น   │    │              │    │ (TxGNN Knowledge Graph)│ │
+│  │    เริ่มต้น   │    │              │    │ (TxGNN GNN model)      │ │
 │  └──────────────┘    └──────────────┘    └───────────┬───────────┘ │
 │                                                      │             │
 │                                          ┌───────────▼───────────┐ │
@@ -105,7 +105,7 @@ nav_order: 6
 |--------|---------|------------|
 | **1. เริ่มต้นจาก EHR** | บุคลากรทางคลินิกเลือกผู้ป่วยจาก EHR และเริ่ม ThTxGNN SMART App | ระบบ EHR |
 | **2. อ่านรายการยา** | อ่านรายการยาปัจจุบันของผู้ป่วยผ่าน FHIR API | MedicationRequest |
-| **3. คาดการณ์ข้อบ่งใช้ใหม่** | แมปยากับ Knowledge Graph และสืบค้นข้อบ่งใช้ที่คาดการณ์ | TxGNN + DrugBank |
+| **3. คาดการณ์ข้อบ่งใช้ใหม่** | ใช้คะแนนโมเดล TxGNN ≥ 0.99 และตัดการใช้ที่ทราบแล้วใน Knowledge Graph ออก | TxGNN + DrugBank |
 | **4. สืบค้นข้อมูลเสริม** | สำหรับแต่ละผู้สมัคร สืบค้น DDI, การทดลองทางคลินิก, ข้อมูลโรค, การประเมินความเสี่ยง | ข้อมูลภายใน + SMART App ภายนอก |
 | **5. แสดงผลรวม** | รวมข้อมูลทั้งหมดเพื่อช่วยในการตัดสินใจทางคลินิก | ชั้นการรวม |
 
@@ -526,7 +526,7 @@ drug-drug interaction (DDI) alerts into ThTxGNN, a SMART on FHIR drug repurposin
 application.
 
 Our Project:
-- ThTxGNN: Drug repurposing predictions using TxGNN knowledge graph
+- ThTxGNN: Drug repurposing predictions using the TxGNN graph neural network
 - FHIR R4 compatible SMART App
 - Currently integrates DDInter and Guide to PHARMACOLOGY DDI data
 
