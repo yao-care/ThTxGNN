@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Gliclazide"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gliclazide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gliclazide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/gliclazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gliclazide/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Gliclazide บ้าง">
-ขณะนี้ <strong>Gliclazide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
+ขณะนี้ <strong>Gliclazide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ permalink: /news/gliclazide/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
-<li>กลุ่มอาการแขนขาแข็งเฉพาะที่ (Focal stiff limb syndrome) | 97.96% | เป็นรูปแบบหนึ่งของกลุ่มโรค stiff person ความเชื่อมโยงเป็นเพียงการคาดเดา (99.0%)</li>
-<li>กลุ่มอาการที่ตอบสนองต่อไทอามีน (Thiamine-responsive dysfunction syndrome) | 97.79% | อาจช่วยส่วนของเบาหวานได้ทางอ้อมเท่านั้น (99.0%)</li>
-<li>Opsismodysplasia | 97.72% | ไม่พบกลไกโดยตรงที่เชื่อมโยง (99.0%)</li>
-<li>ตับอ่อนไม่เจริญ (Pancreatic agenesis) | 96.64% | ไม่สมเหตุสมผลเชิงกลไก เพราะยาต้องอาศัยเบต้าเซลล์ที่ทำงานได้ (99.0%)</li>
-<li>ภาวะไขมันฝ่อเฉพาะที่จากยา (Drug-induced localized lipodystrophy) | 96.43% | ไม่มีกลไกที่ชัดเจน (99.0%)</li>
-<li>Centrifugal lipodystrophy | 96.23% | ไม่พบเส้นทางกลไกที่ชัดเจน (99.0%)</li>
-<li>ไขมันฝ่อเฉพาะที่จากแรงกด (Pressure-induced localized lipoatrophy) | 96.14% | เกิดจากการบาดเจ็บเชิงกล ยาไม่มีกลไกเกี่ยวข้อง (99.0%)</li>
-<li>ไขมันฝ่อเฉพาะที่ไม่ทราบสาเหตุ (Idiopathic localized lipodystrophy) | 95.94% | ไม่ทราบสาเหตุโรค ไม่มีหลักฐานเชิงกลไก (99.0%)</li>
-<li>ภาวะรังไข่อักเสบจากภูมิต้านตนเอง (Autoimmune oophoritis) | 88.15% | มีรายงานฤทธิ์ต้านอนุมูลอิสระในงานก่อนคลินิกบางชิ้น แต่ไม่เชื่อมโยงกับโรค (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li>โรคกล้ามเนื้อเกร็งแข็งชนิดคลาสสิก (Classic Stiff Person Syndrome) (98.0%)</li>
+<li>กลุ่มอาการแขนขาแข็งเฉพาะที่ (Focal stiff limb syndrome) (98.0%)</li>
+<li>กลุ่มอาการที่ตอบสนองต่อไทอามีน (Thiamine-responsive dysfunction syndrome) (97.8%)</li>
+<li>Opsismodysplasia (97.7%)</li>
+<li>ตับอ่อนไม่เจริญ (Pancreatic agenesis) (96.6%)</li>
+<li>ภาวะไขมันฝ่อเฉพาะที่จากยา (Drug-induced localized lipodystrophy) (96.4%)</li>
+<li>Centrifugal lipodystrophy (96.2%)</li>
+<li>ไขมันฝ่อเฉพาะที่จากแรงกด (Pressure-induced localized lipoatrophy) (96.1%)</li>
+<li>ไขมันฝ่อเฉพาะที่ไม่ทราบสาเหตุ (Idiopathic localized lipodystrophy) (95.9%)</li>
+<li>ภาวะรังไข่อักเสบจากภูมิต้านตนเอง (Autoimmune oophoritis) (88.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gliclazide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Clozapine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clozapine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clozapine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/clozapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clozapine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Clozapine บ้าง">
-ขณะนี้ <strong>Clozapine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Clozapine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/clozapine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>manic bipolar affective disorder (100.0%)</li>
-<li>Tourette syndrome (99.9%)</li>
-<li>trichotillomania (99.9%)</li>
-<li>schizophreniform disorder (99.7%)</li>
-<li>bipolar disorder (99.6%)</li>
-<li>major affective disorder (99.5%)</li>
-<li>attention deficit-hyperactivity disorder (99.3%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (99.2%)</li>
-<li>psychotic disorder (99.1%)</li>
-<li>Malan overgrowth syndrome (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะแมเนียในโรคอารมณ์สองขั้ว (Manic Bipolar Affective Disorder) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clozapine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

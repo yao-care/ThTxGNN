@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Azithromycin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Azithromycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Azithromycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/azithromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/azithromycin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Azithromycin บ้าง">
-ขณะนี้ <strong>Azithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Azithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/azithromycin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
 <li>polyclonal hyperviscosity syndrome (99.8%)</li>
-<li>hyperamylasemia (99.8%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.8%)</li>
-<li>blood group incompatibility (99.7%)</li>
-<li>premalignant hematological system disease (99.6%)</li>
-<li>monoclonal gammopathy (99.6%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.6%)</li>
-<li>septicemic plague (99.5%)</li>
-<li>congenital hematological disorder (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Celecoxib"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Celecoxib ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Celecoxib ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/celecoxib/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/celecoxib/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Celecoxib บ้าง">
-ขณะนี้ <strong>Celecoxib</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Celecoxib</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/celecoxib/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
-<li>rheumatoid vasculitis (99.8%)</li>
-<li>myosclerosis (99.8%)</li>
-<li>hypermobility of coccyx (99.8%)</li>
-<li>brachyolmia (99.8%)</li>
-<li>rheumatoid nodulosis (99.8%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
-<li>inflammatory spondylopathy (99.8%)</li>
-<li>WHIM syndrome (99.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>Acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/celecoxib/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

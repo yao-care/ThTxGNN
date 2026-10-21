@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Isoniazid"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isoniazid ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isoniazid ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/isoniazid/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/isoniazid/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Isoniazid บ้าง">
-ขณะนี้ <strong>Isoniazid</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Isoniazid</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/isoniazid/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>conjunctivitis (99.4%)</li>
-<li>rheumatoid arthritis (98.7%)</li>
-<li>shigellosis (98.5%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (97.9%)</li>
-<li>leprosy (97.8%)</li>
-<li>brachydactyly-syndactyly syndrome (97.8%)</li>
-<li>vestibular neuronitis (97.8%)</li>
-<li>motor nerve neuritis (97.8%)</li>
-<li>infectious otitis media (97.7%)</li>
-<li>brachial plexus neuritis (97.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>เยื่อบุตาอักเสบ (Conjunctivitis) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isoniazid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

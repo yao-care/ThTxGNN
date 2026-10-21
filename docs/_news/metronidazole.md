@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Metronidazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Metronidazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Metronidazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/metronidazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metronidazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Metronidazole บ้าง">
-ขณะนี้ <strong>Metronidazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Metronidazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/metronidazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>pneumocystosis (100.0%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>ulcerative proctosigmoiditis (99.9%)</li>
-<li>nocardiosis (99.9%)</li>
-<li>postmenopausal atrophic vaginitis (99.8%)</li>
-<li>Cryptococcal meningitis (99.8%)</li>
-<li>papillary conjunctivitis (99.8%)</li>
-<li>myiasis (99.8%)</li>
-<li>cap polyposis (99.7%)</li>
-<li>ulceration of vulva (99.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคนิวโมซิสโทซิส (Pneumocystosis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metronidazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

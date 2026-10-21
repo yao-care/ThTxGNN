@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Acyclovir"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Acyclovir ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Acyclovir ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/acyclovir/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acyclovir/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Acyclovir บ้าง">
-ขณะนี้ <strong>Acyclovir</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Acyclovir</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/acyclovir/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.7%)</li>
-<li>common wart (99.5%)</li>
-<li>post-infectious neuralgia (99.2%)</li>
-<li>hepatitis C induced liver cirrhosis (99.2%)</li>
-<li>eosinophilic pustular folliculitis (99.2%)</li>
-<li>sequela of COVID-19 (99.2%)</li>
-<li>vulvovaginal candidiasis (99.1%)</li>
-<li>papular urticaria (99.1%)</li>
-<li>disease of orbital region (99.1%)</li>
-<li>epidemic keratoconjunctivitis (99.1%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acyclovir/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

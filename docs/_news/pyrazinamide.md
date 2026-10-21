@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Pyrazinamide"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pyrazinamide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pyrazinamide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/pyrazinamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pyrazinamide/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Pyrazinamide บ้าง">
-ขณะนี้ <strong>Pyrazinamide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Pyrazinamide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/pyrazinamide/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>infectious otitis media (100.0%)</li>
-<li>middle ear disease (99.9%)</li>
-<li>otosalpingitis (99.9%)</li>
-<li>chronic otitis media (99.9%)</li>
-<li>suppurative otitis media (99.9%)</li>
-<li>non-suppurative otitis media (99.9%)</li>
-<li>middle ear cholesterol granuloma (99.9%)</li>
-<li>allergic otitis media (99.9%)</li>
-<li>Lyme disease (99.5%)</li>
-<li>infectious otitis interna (99.4%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>หูชั้นกลางอักเสบติดเชื้อ (Infectious Otitis Media) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pyrazinamide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

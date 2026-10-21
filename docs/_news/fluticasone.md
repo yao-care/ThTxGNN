@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Fluticasone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluticasone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluticasone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/fluticasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluticasone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Fluticasone บ้าง">
-ขณะนี้ <strong>Fluticasone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Fluticasone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/fluticasone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>migraine disorder (99.2%)</li>
-<li>Prinzmetal angina (99.2%)</li>
-<li>migraine with brainstem aura (99.1%)</li>
-<li>cystic teratoma (98.6%)</li>
-<li>spinal cord dermoid cyst (98.5%)</li>
-<li>disease of orbital part of eye adnexa (98.5%)</li>
-<li>exostosis (98.5%)</li>
-<li>disease of orbital region (98.5%)</li>
-<li>dermoid cyst of ovary (98.5%)</li>
-<li>eye disease (98.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ไมเกรน (Migraine Disorder) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluticasone/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

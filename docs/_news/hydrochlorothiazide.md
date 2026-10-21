@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Hydrochlorothiazide"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Hydrochlorothiazide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Hydrochlorothiazide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/hydrochlorothiazide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/hydrochlorothiazide/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Hydrochlorothiazide บ้าง">
-ขณะนี้ <strong>Hydrochlorothiazide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Hydrochlorothiazide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/hydrochlorothiazide/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>malignant hypertensive renal disease (98.4%)</li>
-<li>malignant renovascular hypertension (98.4%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (98.3%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (98.3%)</li>
-<li>Braddock syndrome (97.9%)</li>
-<li>chronic pulmonary heart disease (97.8%)</li>
-<li>acute pulmonary heart disease (93.2%)</li>
-<li>primary hereditary glaucoma (90.9%)</li>
-<li>open-angle glaucoma (86.2%)</li>
-<li>hypotrichosis simplex of the scalp (74.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคไตจากความดันโลหิตสูงรุนแรง (Malignant Hypertensive Renal Disease) (98.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

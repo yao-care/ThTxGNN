@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ibuprofen"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ibuprofen ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ibuprofen ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ibuprofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ibuprofen/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ibuprofen บ้าง">
-ขณะนี้ <strong>Ibuprofen</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
+ขณะนี้ <strong>Ibuprofen</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,8 @@ permalink: /news/ibuprofen/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.7%)</li>
-<li>myosclerosis (99.7%)</li>
-<li>brachyolmia (99.7%)</li>
-<li>brachydactyly-syndactyly syndrome (99.7%)</li>
-<li>pseudoachondroplasia (99.7%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.6%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>acromesomelic dysplasia ชนิด Hunter-Thompson (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ibuprofen/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

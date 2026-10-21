@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Salbutamol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Salbutamol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Salbutamol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/salbutamol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/salbutamol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Salbutamol บ้าง">
-ขณะนี้ <strong>Salbutamol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Salbutamol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/salbutamol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>nasal cavity disease (100.0%)</li>
-<li>pharyngitis (100.0%)</li>
-<li>bronchitis (100.0%)</li>
-<li>acute laryngopharyngitis (100.0%)</li>
-<li>anaphylaxis (100.0%)</li>
-<li>common cold (100.0%)</li>
-<li>atopic conjunctivitis (100.0%)</li>
-<li>anorectal stricture (99.9%)</li>
-<li>obstructive lung disease (99.9%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/salbutamol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

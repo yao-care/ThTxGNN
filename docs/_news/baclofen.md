@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Baclofen"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Baclofen ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Baclofen ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/baclofen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/baclofen/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Baclofen บ้าง">
-ขณะนี้ <strong>Baclofen</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Baclofen</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/baclofen/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (99.3%)</li>
-<li>nicotine dependence (99.2%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (98.9%)</li>
-<li>myofascial pain syndrome (98.9%)</li>
-<li>faciodigitogenital syndrome (98.8%)</li>
-<li>trigeminal nerve neoplasm (98.7%)</li>
-<li>methemoglobinemia (98.3%)</li>
-<li>chondromyxoid fibroma (98.2%)</li>
-<li>methemoglobinemia, alpha type (98.0%)</li>
-<li>specific developmental disorder (98.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/baclofen/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

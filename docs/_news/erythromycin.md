@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Erythromycin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Erythromycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Erythromycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/erythromycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erythromycin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Erythromycin บ้าง">
-ขณะนี้ <strong>Erythromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Erythromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/erythromycin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (99.9%)</li>
-<li>acute contagious conjunctivitis (99.5%)</li>
-<li>exposure keratitis (99.5%)</li>
-<li>lymphogranuloma venereum (99.0%)</li>
-<li>necrotizing ulcerative gingivitis (99.0%)</li>
-<li>polyclonal hyperviscosity syndrome (98.8%)</li>
-<li>hyperamylasemia (98.8%)</li>
-<li>postinfectious vasculitis (98.8%)</li>
-<li>post-bacterial disorder (98.8%)</li>
-<li>post-infectious syndrome (98.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjunctivitis) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erythromycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

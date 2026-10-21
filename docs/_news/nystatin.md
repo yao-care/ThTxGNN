@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Nystatin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Nystatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Nystatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/nystatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nystatin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Nystatin บ้าง">
-ขณะนี้ <strong>Nystatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Nystatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/nystatin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>vulvovaginitis (99.9%)</li>
-<li>disease of orbital region (99.9%)</li>
-<li>disease of orbital part of eye adnexa (99.9%)</li>
-<li>cystic teratoma (99.9%)</li>
-<li>spinal cord dermoid cyst (99.9%)</li>
-<li>postmenopausal atrophic vaginitis (99.9%)</li>
-<li>biotin metabolic disease (99.9%)</li>
-<li>vulvitis (99.8%)</li>
-<li>commissural lip fistula (99.8%)</li>
-<li>osteoradionecrosis of the mandible (99.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>Vulvovaginitis (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nystatin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

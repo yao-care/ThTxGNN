@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Indomethacin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Indomethacin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Indomethacin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/indomethacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/indomethacin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Indomethacin บ้าง">
-ขณะนี้ <strong>Indomethacin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Indomethacin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/indomethacin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>brachydactyly-syndactyly syndrome (100.0%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (100.0%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.9%)</li>
-<li>WHIM syndrome (99.9%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.9%)</li>
-<li>brachyolmia (99.9%)</li>
-<li>myosclerosis (99.9%)</li>
-<li>juvenile idiopathic arthritis (99.8%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
-<li>rheumatoid nodulosis (99.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>กลุ่มอาการข้อนิ้วสั้นร่วมกับนิ้วติดกัน (Brachydactyly-Syndactyly Syndrome) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/indomethacin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

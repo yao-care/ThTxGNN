@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Verapamil"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Verapamil ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Verapamil ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/verapamil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/verapamil/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Verapamil บ้าง">
-ขณะนี้ <strong>Verapamil</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
+ขณะนี้ <strong>Verapamil</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,8 @@ permalink: /news/verapamil/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
-<li>obsolete bundle branch block (99.6%)</li>
-<li>malignant renovascular hypertension (99.3%)</li>
-<li>malignant hypertensive renal disease (99.3%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.3%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.3%)</li>
-<li>Braddock syndrome (99.2%)</li>
-<li>periodic paralysis with transient compartment-like syndrome (99.1%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>บันเดิลแบรนช์บล็อก (obsolete bundle branch block) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

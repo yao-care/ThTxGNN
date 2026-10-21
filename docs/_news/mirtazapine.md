@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Mirtazapine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Mirtazapine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Mirtazapine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
 permalink: /news/mirtazapine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mirtazapine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Mirtazapine บ้าง">
-ขณะนี้ <strong>Mirtazapine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 5 รายการ
+ขณะนี้ <strong>Mirtazapine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,13 @@ permalink: /news/mirtazapine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (5 รายการ)</strong>:<ul>
-<li>Phobic disorder | 98.59% | L2 | Proceed with Guardrails | มี RCT ใน social anxiety/social phobia (PMID [20715300](https://pubmed.ncbi.nlm.nih.gov/20715300/), [16282842](https://pubmed.ncbi.nlm.nih.gov/16282842/)) แต่ผลไม่คงที่และกลุ่มตัวอย่างเล็ก (99.0%)</li>
-<li>Melancholia | 98.33% | L2 | Proceed with Guardrails | กลไกสอดคล้องกับภาวะซึมเศร้ารุนแรง มีการทดลอง Phase 4 [NCT01916824](https://clinicaltrials.gov/study/NCT01916824) แต่ไม่เฉพาะเจาะจงกับโรคนี้ (99.0%)</li>
-<li>Dysthymic disorder | 98.64% | L3 | Proceed with Guardrails | มีงานวิเคราะห์อภิมานของยาต้านซึมเศร้า ([21527126](https://pubmed.ncbi.nlm.nih.gov/21527126/)) และ case series ของ Mirtazapine ([10569129](https://pubmed.ncbi.nlm.nih.gov/10569129/)); การทดลอง [NCT00080158](https://clinicaltrials.gov/study/NCT00080158) (Phase 2/3, 120 คน) ไม่ได้ยืนยันว่าใช้ Mirtazapine (99.0%)</li>
-<li>Agoraphobia | 98.60% | L4 | Research Question | มีเพียงการศึกษาแบบเปิดขนาดเล็กใน panic disorder ซึ่งเป็นหลักฐานทางอ้อม (99.0%)</li>
-<li>Neurotic depression | 98.24% | L4 | Research Question | เป็นคำเรียกที่เลิกใช้แล้ว และหลักฐานเป็นเรื่องซึมเศร้าทั่วไป (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
+<li>Ohdo syndrome and variants (99.4%)</li>
+<li>Phobic disorder (98.6%)</li>
+<li>Melancholia (98.3%)</li>
+<li>Dysthymic disorder (98.6%)</li>
+<li>Agoraphobia (98.6%)</li>
+<li>Neurotic depression (98.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mirtazapine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

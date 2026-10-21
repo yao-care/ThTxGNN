@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Amoxicillin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Amoxicillin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Amoxicillin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/amoxicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amoxicillin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Amoxicillin บ้าง">
-ขณะนี้ <strong>Amoxicillin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 8 รายการ
+ขณะนี้ <strong>Amoxicillin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ permalink: /news/amoxicillin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
-<li>hyperamylasemia (99.6%)</li>
-<li>polyclonal hyperviscosity syndrome (99.6%)</li>
-<li>congenital analbuminemia (99.6%)</li>
-<li>blood group incompatibility (99.4%)</li>
-<li>premalignant hematological system disease (99.3%)</li>
-<li>monoclonal gammopathy (99.2%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.1%)</li>
-<li>septicemic plague (99.1%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะอะไมเลสในเลือดสูง (Hyperamylasemia) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amoxicillin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

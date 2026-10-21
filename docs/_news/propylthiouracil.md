@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Propylthiouracil"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propylthiouracil ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propylthiouracil ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/propylthiouracil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propylthiouracil/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Propylthiouracil บ้าง">
-ขณะนี้ <strong>Propylthiouracil</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Propylthiouracil</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/propylthiouracil/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta (99.7%)</li>
-<li>neonatal thyrotoxicosis (99.4%)</li>
-<li>hyperthyroxinemia (99.1%)</li>
-<li>Hashimoto thyroiditis (98.2%)</li>
-<li>autoimmune thyroid disease (98.0%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (96.6%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (96.5%)</li>
-<li>diabetic nephropathy (95.0%)</li>
-<li>Prinzmetal angina (90.4%)</li>
-<li>primary hereditary glaucoma (90.1%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ของตัวรับฮอร์โมนไทรอยด์เบต้า (อันดับ 1 ตามคะแนน TxGNN; ข้อบ่งใช้ที่มีหลักฐานเด่นที่สุดคือโรคไทรอยด์จากภูมิคุ้มกันตนเอง) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propylthiouracil/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

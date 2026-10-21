@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Risperidone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Risperidone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Risperidone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
 permalink: /news/risperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/risperidone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Risperidone บ้าง">
-ขณะนี้ <strong>Risperidone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 5 รายการ
+ขณะนี้ <strong>Risperidone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,13 @@ permalink: /news/risperidone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (5 รายการ)</strong>:<ul>
-<li>Asperger syndrome (susceptibility) | 99.74% | L5 | Hold (99.0%)</li>
-<li>Amelocerebrohypohidrotic syndrome | 99.69% | L5 | Hold (99.0%)</li>
-<li>Phelan-McDermid syndrome | 99.59% | L4 | Research Question (99.0%)</li>
-<li>Trichotillomania | 99.51% | L4 | Research Question (99.0%)</li>
-<li>Major affective disorder (ภาวะซึมเศร้า/ไบโพลาร์) | 99.11% | L1 | Proceed with Guardrails (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
+<li>อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaze palsy, familial horizontal, with progressive scoliosis) (99.8%)</li>
+<li>Asperger syndrome (susceptibility) (99.7%)</li>
+<li>Amelocerebrohypohidrotic syndrome (99.7%)</li>
+<li>Phelan-McDermid syndrome (99.6%)</li>
+<li>Trichotillomania (99.5%)</li>
+<li>Major affective disorder (ภาวะซึมเศร้า/ไบโพลาร์) (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/risperidone/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

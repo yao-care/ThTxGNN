@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Morphine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Morphine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Morphine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/morphine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/morphine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Morphine บ้าง">
-ขณะนี้ <strong>Morphine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
+ขณะนี้ <strong>Morphine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ permalink: /news/morphine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
-<li>Myofascial pain syndrome | 99.75% | L4 | Hold | บรรเทาอาการเท่านั้น ไม่แก้พยาธิสภาพ และไม่แนะนำใช้โอปิออยด์ระยะยาว (99.0%)</li>
-<li>Manic bipolar affective disorder | 99.64% | L5 | Hold | ไม่มีหลักฐานทางคลินิกโดยตรง (99.0%)</li>
-<li>Tourette syndrome | 99.48% | L5 | Hold | ไม่มีการทดสอบ morphine ในโรคนี้ (99.0%)</li>
-<li>ADHD (ชนิดไม่ตั้งใจ) | 99.34% | L5 | Hold | ไม่มีหลักฐาน (99.0%)</li>
-<li>Migraine disorder | 99.32% | L4 | Hold | แนวทางเวชปฏิบัติโดยทั่วไปไม่แนะนำโอปิออยด์ (99.0%)</li>
-<li>Trichotillomania | 99.29% | L5 | Hold | ยาต้านโอปิออยด์เป็นแนวทางที่ศึกษา ซึ่งขัดกับกลไกของ morphine (99.0%)</li>
-<li>Methemoglobinemia | 99.15% | L5 | Hold | ไม่มีกลไกที่สมเหตุสมผล (99.0%)</li>
-<li>Migraine with brainstem aura | 99.15% | L5 | Hold | หลักฐานเป็นการศึกษาก่อนคลินิกและไม่เฉพาะเจาะจง (99.0%)</li>
-<li>Specific developmental disorder | 99.06% | L5 | Hold | ไม่มีกลไกที่น่าเชื่อถือ (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li>กลุ่มอาการขาอยู่ไม่สุข (Restless Legs Syndrome) (99.5%)</li>
+<li>Myofascial pain syndrome (99.8%)</li>
+<li>Manic bipolar affective disorder (99.6%)</li>
+<li>Tourette syndrome (99.5%)</li>
+<li>ADHD (ชนิดไม่ตั้งใจ) (99.3%)</li>
+<li>Migraine disorder (99.3%)</li>
+<li>Trichotillomania (99.3%)</li>
+<li>Methemoglobinemia (99.2%)</li>
+<li>Migraine with brainstem aura (99.2%)</li>
+<li>Specific developmental disorder (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/morphine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

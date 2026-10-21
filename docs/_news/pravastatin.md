@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Pravastatin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pravastatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pravastatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/pravastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pravastatin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Pravastatin บ้าง">
-ขณะนี้ <strong>Pravastatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Pravastatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/pravastatin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (4 รายการ)</strong>:<ul>
+<li>ภาวะไขมันในเลือดสูงชนิดพันธุกรรมแบบโฮโมไซกัส (Homozygous Familial Hypercholesterolemia) (100.0%)</li>
 <li>ภาวะไขมันในเลือดสูงชนิดพันธุกรรม (Familial Hypercholesterolemia) (99.3%)</li>
 <li>การติดเชื้อ HIV (99.7%)</li>
 <li>Hypoalphalipoproteinemia (99.2%)</li>

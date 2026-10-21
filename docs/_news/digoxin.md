@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Digoxin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Digoxin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Digoxin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/digoxin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/digoxin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Digoxin บ้าง">
-ขณะนี้ <strong>Digoxin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
+ขณะนี้ <strong>Digoxin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ permalink: /news/digoxin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
-<li>duodenal obstruction | 99.70% | L5 | ไม่มีความเชื่อมโยงเชิงกลไก เป็นเพียงการทำนายจากโมเดล (99.0%)</li>
-<li>duodenal ulcer | 99.59% | L5 | ไม่มีฤทธิ์ลดกรดหรือปกป้องเยื่อบุ วรรณกรรมที่พบเป็นเรื่องยากลุ่ม PPI (99.0%)</li>
-<li>duodenogastric reflux | 99.53% | L5 | ไม่มีความเชื่อมโยงเชิงกลไก (99.0%)</li>
-<li>obsolete susceptibility to ischemic stroke | 99.29% | L5 | เป็นคำศัพท์ที่เลิกใช้แล้ว ไม่ใช่ภาวะที่รักษาได้ (99.0%)</li>
-<li>hypoalphalipoproteinemia | 99.20% | L5 | ไม่ทราบผลต่อเมตาบอลิซึม HDL (99.0%)</li>
-<li>homozygous familial hypercholesterolemia | 98.98% | L5 | ไม่ทราบผลต่อตัวรับ LDL (99.0%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis | 98.83% | L5 | ไม่มีผลต่อวิถี vasopressin และเพิ่มความเสี่ยงจากการขับทางไต (99.0%)</li>
-<li>thrombotic disease | 98.75% | L4 | วรรณกรรมส่วนใหญ่เกี่ยวกับ AF/หัวใจล้มเหลว มีข้อมูลสังเกตว่าอาจเพิ่มความเสี่ยงเมื่อใช้ร่วมกับยาอื่น (99.0%)</li>
-<li>stroke disorder | 98.19% | L4 | ช่วยควบคุมอัตราการเต้นหัวใจใน AF แต่ไม่ใช่ยาป้องกันโรคหลอดเลือดสมอง หลักฐานเป็นทางอ้อม (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li>Prinzmetal angina (99.8%)</li>
+<li>duodenal obstruction (99.7%)</li>
+<li>duodenal ulcer (99.6%)</li>
+<li>duodenogastric reflux (99.5%)</li>
+<li>obsolete susceptibility to ischemic stroke (99.3%)</li>
+<li>hypoalphalipoproteinemia (99.2%)</li>
+<li>homozygous familial hypercholesterolemia (99.0%)</li>
+<li>nephrogenic syndrome of inappropriate antidiuresis (98.8%)</li>
+<li>thrombotic disease (98.8%)</li>
+<li>stroke disorder (98.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

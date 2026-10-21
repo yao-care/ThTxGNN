@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Clindamycin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clindamycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clindamycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/clindamycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clindamycin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Clindamycin บ้าง">
-ขณะนี้ <strong>Clindamycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Clindamycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/clindamycin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>exposure keratitis (99.8%)</li>
-<li>non-human animal disease (99.7%)</li>
-<li>neurotrophic keratopathy (99.5%)</li>
-<li>epidemic keratoconjunctivitis (99.5%)</li>
-<li>postmenopausal atrophic vaginitis (99.0%)</li>
-<li>superior limbic keratoconjunctivitis (99.0%)</li>
-<li>ophthalmia nodosa (98.3%)</li>
-<li>toxic maculopathy due to antimalarial drugs (98.3%)</li>
-<li>visual snow syndrome (98.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคกระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clindamycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

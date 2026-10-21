@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Loperamide"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Loperamide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Loperamide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/loperamide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loperamide/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Loperamide บ้าง">
-ขณะนี้ <strong>Loperamide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Loperamide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/loperamide/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>acute contagious conjunctivitis (100.0%)</li>
-<li>amebic dysentery (100.0%)</li>
-<li>conjunctivitis (99.9%)</li>
-<li>gastroduodenitis (99.8%)</li>
-<li>pseudomembranous conjunctivitis (99.7%)</li>
-<li>conjunctival folliculosis (99.7%)</li>
-<li>chronic follicular conjunctivitis (99.7%)</li>
-<li>parasitic conjunctivitis (99.7%)</li>
-<li>serous conjunctivitis except viral (99.7%)</li>
-<li>Angelucci syndrome (99.6%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>เยื่อบุตาอักเสบติดต่อเฉียบพลัน (acute contagious conjunctivitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loperamide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

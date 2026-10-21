@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ciprofloxacin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ciprofloxacin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ciprofloxacin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ciprofloxacin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ciprofloxacin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ciprofloxacin บ้าง">
-ขณะนี้ <strong>Ciprofloxacin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Ciprofloxacin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/ciprofloxacin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>diffuse scleroderma (99.9%)</li>
-<li>polyclonal hyperviscosity syndrome (99.9%)</li>
-<li>hyperamylasemia (99.9%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>blood group incompatibility (99.8%)</li>
-<li>premalignant hematological system disease (99.7%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.7%)</li>
-<li>monoclonal gammopathy (99.7%)</li>
-<li>hematological disease associated with an acquired peripheral neuropathy (99.7%)</li>
-<li>septicemic plague (99.6%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ciprofloxacin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Sucralfate"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Sucralfate ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Sucralfate ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/sucralfate/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sucralfate/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Sucralfate บ้าง">
-ขณะนี้ <strong>Sucralfate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Sucralfate</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/sucralfate/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>duodenogastric reflux (99.4%)</li>
-<li>duodenal obstruction (99.3%)</li>
-<li>esophagitis (disease) (97.5%)</li>
-<li>peptic esophagitis (96.0%)</li>
-<li>duodenitis (95.4%)</li>
-<li>active peptic ulcer disease (95.3%)</li>
-<li>gastroduodenitis (94.3%)</li>
-<li>C1 inhibitor deficiency (94.2%)</li>
-<li>peptic ulcer perforation (94.0%)</li>
-<li>gastrojejunal ulcer (94.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric Reflux) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sucralfate/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

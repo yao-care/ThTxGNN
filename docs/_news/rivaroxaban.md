@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Rivaroxaban"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Rivaroxaban ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Rivaroxaban ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/rivaroxaban/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rivaroxaban/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Rivaroxaban บ้าง">
-ขณะนี้ <strong>Rivaroxaban</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Rivaroxaban</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/rivaroxaban/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>rheumatoid arthritis (99.6%)</li>
-<li>gout (99.5%)</li>
-<li>HIV infectious disease (99.2%)</li>
-<li>brachydactyly-syndactyly syndrome (99.1%)</li>
-<li>colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.0%)</li>
-<li>sclerosing cholangitis (98.9%)</li>
-<li>systemic mastocytosis (98.8%)</li>
-<li>Smouldering systemic mastocytosis (98.8%)</li>
-<li>simian immunodeficiency virus infection (98.7%)</li>
-<li>feline acquired immunodeficiency syndrome (98.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rivaroxaban/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

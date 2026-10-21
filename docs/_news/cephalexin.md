@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Cephalexin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cephalexin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cephalexin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/cephalexin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cephalexin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Cephalexin บ้าง">
-ขณะนี้ <strong>Cephalexin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Cephalexin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/cephalexin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>chronic otitis media (98.5%)</li>
-<li>suppurative otitis media (98.5%)</li>
-<li>middle ear disease (98.5%)</li>
-<li>otosalpingitis (98.5%)</li>
-<li>non-suppurative otitis media (98.4%)</li>
-<li>allergic otitis media (98.3%)</li>
-<li>middle ear cholesterol granuloma (98.2%)</li>
-<li>hyperamylasemia (98.1%)</li>
-<li>polyclonal hyperviscosity syndrome (98.1%)</li>
-<li>congenital analbuminemia (97.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคหูชั้นกลางอักเสบเรื้อรัง (Chronic Otitis Media) (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cephalexin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

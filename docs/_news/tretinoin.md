@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Tretinoin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tretinoin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tretinoin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/tretinoin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tretinoin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Tretinoin บ้าง">
-ขณะนี้ <strong>Tretinoin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Tretinoin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/tretinoin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>rheumatoid nodulosis (99.8%)</li>
-<li>rheumatoid factor-positive polyarticular juvenile idiopathic arthritis (99.8%)</li>
-<li>juvenile idiopathic arthritis (99.8%)</li>
-<li>juvenile chronic polyarthritis (99.8%)</li>
-<li>spondyloarthropathy, susceptibility to (99.7%)</li>
-<li>juvenile arthritis due to defect in LACC1 (99.5%)</li>
-<li>osteoarthritis (99.4%)</li>
-<li>pseudoachondroplasia (99.3%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.3%)</li>
-<li>Quinquaud's folliculitis decalvans (99.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>Rheumatoid Nodulosis (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tretinoin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

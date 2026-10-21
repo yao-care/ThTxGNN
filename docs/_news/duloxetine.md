@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Duloxetine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Duloxetine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Duloxetine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/duloxetine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/duloxetine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Duloxetine บ้าง">
-ขณะนี้ <strong>Duloxetine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Duloxetine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/duloxetine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>benign paroxysmal torticollis of infancy (99.8%)</li>
-<li>agoraphobia (99.8%)</li>
-<li>obsessive-compulsive disorder (99.8%)</li>
-<li>schizoid personality disorder (99.8%)</li>
-<li>paranoid personality disorder (99.8%)</li>
-<li>schizotypal personality disorder (99.8%)</li>
-<li>histrionic personality disorder (disease) (99.8%)</li>
-<li>Ohdo syndrome and variants (99.7%)</li>
-<li>ligneous conjunctivitis (99.7%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (99.6%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis of Infancy) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/duloxetine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

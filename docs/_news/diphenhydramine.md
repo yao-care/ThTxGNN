@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Diphenhydramine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diphenhydramine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diphenhydramine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/diphenhydramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diphenhydramine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Diphenhydramine บ้าง">
-ขณะนี้ <strong>Diphenhydramine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
+ขณะนี้ <strong>Diphenhydramine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,17 @@ permalink: /news/diphenhydramine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
-<li>rosacea conjunctivitis | 99.20% | L5 | Hold (99.0%)</li>
-<li>ลมพิษจากภูมิแพ้ (allergic urticaria) | 98.24% | L3 | Research Question (99.0%)</li>
-<li>ลมพิษจากความเย็น (cold urticaria) | 95.92% | L4 | Research Question (99.0%)</li>
-<li>cauda equina syndrome | 95.57% | L5 | Hold (ไม่พบความเชื่อมโยงเชิงกลไก) (99.0%)</li>
-<li>คออักเสบ/หวัด (nasopharyngitis) | 94.96% | L4 | Hold (99.0%)</li>
-<li>viral conjunctivitis | 93.97% | L5 | Hold (99.0%)</li>
-<li>neuralgia | 92.30% | L4 | Hold (ส่วนใหญ่ใช้ Diphenhydramine เป็นยาเปรียบเทียบ) (99.0%)</li>
-<li>trigeminal autonomic cephalalgia | 92.25% | L4 | Research Question (99.0%)</li>
-<li>glossodynia | 92.08% | L5 | Hold (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li>โรคจมูกอักเสบ (Rhinitis) (98.3%)</li>
+<li>rosacea conjunctivitis (99.2%)</li>
+<li>ลมพิษจากภูมิแพ้ (allergic urticaria) (98.2%)</li>
+<li>ลมพิษจากความเย็น (cold urticaria) (95.9%)</li>
+<li>cauda equina syndrome (95.6%)</li>
+<li>คออักเสบ/หวัด (nasopharyngitis) (95.0%)</li>
+<li>viral conjunctivitis (94.0%)</li>
+<li>neuralgia (92.3%)</li>
+<li>trigeminal autonomic cephalalgia (92.2%)</li>
+<li>glossodynia (92.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diphenhydramine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

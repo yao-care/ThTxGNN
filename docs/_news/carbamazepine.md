@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Carbamazepine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Carbamazepine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Carbamazepine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/carbamazepine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/carbamazepine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Carbamazepine บ้าง">
-ขณะนี้ <strong>Carbamazepine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Carbamazepine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/carbamazepine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>trigeminal nerve neoplasm (100.0%)</li>
-<li>startle epilepsy (100.0%)</li>
-<li>micturation-induced seizures (100.0%)</li>
-<li>eating seizures (100.0%)</li>
-<li>orgasm-induced seizures (100.0%)</li>
-<li>audiogenic seizures (100.0%)</li>
-<li>thinking seizures (100.0%)</li>
-<li>reading seizures (100.0%)</li>
-<li>beta-ketothiolase deficiency (99.9%)</li>
-<li>Rett syndrome, congenital variant (99.9%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/carbamazepine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

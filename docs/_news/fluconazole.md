@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Fluconazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluconazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluconazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/fluconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/fluconazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Fluconazole บ้าง">
-ขณะนี้ <strong>Fluconazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
+ขณะนี้ <strong>Fluconazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/fluconazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li>กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) (99.2%)</li>
 <li>Plasmodium falciparum malaria (98.6%)</li>
 <li>Pneumocystosis (97.8%)</li>
 <li>Allergic urticaria (98.5%)</li>

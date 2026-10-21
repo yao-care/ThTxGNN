@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Amlodipine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Amlodipine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Amlodipine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/amlodipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/amlodipine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Amlodipine บ้าง">
-ขณะนี้ <strong>Amlodipine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Amlodipine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ permalink: /news/amlodipine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
-<li>brain stem infarction (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะสมองก้านสมองขาดเลือด (Brain Stem Infarction) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/amlodipine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

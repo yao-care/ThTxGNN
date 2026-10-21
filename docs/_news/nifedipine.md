@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Nifedipine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Nifedipine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Nifedipine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/nifedipine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/nifedipine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Nifedipine บ้าง">
-ขณะนี้ <strong>Nifedipine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Nifedipine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/nifedipine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>migraine with brainstem aura (92.6%)</li>
-<li>migraine disorder (91.8%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (77.8%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (77.8%)</li>
-<li>malignant hypertensive renal disease (76.6%)</li>
-<li>malignant renovascular hypertension (76.6%)</li>
-<li>Braddock syndrome (74.0%)</li>
-<li>tendinitis (70.5%)</li>
-<li>common cold (70.2%)</li>
-<li>myositis fibrosa (68.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ไมเกรนชนิดมีอาการนำจากก้านสมอง (Migraine with Brainstem Aura) (92.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/nifedipine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

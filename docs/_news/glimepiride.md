@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Glimepiride"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Glimepiride ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Glimepiride ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/glimepiride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/glimepiride/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Glimepiride บ้าง">
-ขณะนี้ <strong>Glimepiride</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
+ขณะนี้ <strong>Glimepiride</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ permalink: /news/glimepiride/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
-<li>classic stiff person syndrome (99.8%)</li>
-<li>focal stiff limb syndrome (99.8%)</li>
-<li>opsismodysplasia (99.7%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.7%)</li>
-<li>drug-induced localized lipodystrophy (99.6%)</li>
-<li>centrifugal lipodystrophy (99.6%)</li>
-<li>pressure-induced localized lipoatrophy (99.6%)</li>
-<li>idiopathic localized lipodystrophy (99.6%)</li>
-<li>pancreatic agenesis (99.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>กลุ่มอาการ Stiff Person แบบคลาสสิก (Classic Stiff Person Syndrome) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/glimepiride/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

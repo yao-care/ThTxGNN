@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Montelukast"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Montelukast ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Montelukast ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/montelukast/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Montelukast บ้าง">
-ขณะนี้ <strong>Montelukast</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Montelukast</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/montelukast/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>bronchitis (100.0%)</li>
-<li>atopic eczema (99.8%)</li>
-<li>asthma (99.5%)</li>
-<li>obstructive lung disease (99.3%)</li>
-<li>asthma-related traits, susceptibility to (99.2%)</li>
-<li>2-hydroxyethyl methacrylate sensitization (98.9%)</li>
-<li>uterine polyp (98.8%)</li>
-<li>polyp of vocal cord (98.7%)</li>
-<li>polyp of middle ear (98.7%)</li>
-<li>fibroepithelial polyp (98.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>หลอดลมอักเสบ (Bronchitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Doxycycline"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Doxycycline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Doxycycline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/doxycycline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/doxycycline/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Doxycycline บ้าง">
-ขณะนี้ <strong>Doxycycline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Doxycycline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,8 @@ permalink: /news/doxycycline/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
-<li>เหงือกอักเสบเรื้อรัง (Chronic Gingivitis) | L2 | Proceed with Guardrails (RCT ของ doxycycline เฉพาะที่เสริมการขูดหินปูนและเกลารากฟัน แต่ศึกษาในโรคปริทันต์อักเสบ ไม่ใช่เหงือกอักเสบ และขนาดการศึกษาเล็ก) (99.0%)</li>
-<li>ความผิดปกติหลังการติดเชื้อแบคทีเรีย (Post-bacterial Disorder) | L2 | Research Question (การทดลองเป็นการป้องกันการติดเชื้อ ไม่ใช่โรคแทรกซ้อนหลังการติดเชื้อโดยตรง) (99.0%)</li>
-<li>กลุ่มอาการหลังการติดเชื้อ (Post-infectious Syndrome) | L3 | Research Question (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะเยื่อบุตาและกระจกตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/doxycycline/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

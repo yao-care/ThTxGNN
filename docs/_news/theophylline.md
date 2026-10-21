@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Theophylline"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Theophylline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Theophylline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/theophylline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/theophylline/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Theophylline บ้าง">
-ขณะนี้ <strong>Theophylline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
+ขณะนี้ <strong>Theophylline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,8 @@ permalink: /news/theophylline/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
-<li>thrombotic disease (99.6%)</li>
-<li>nasal cavity disease (99.5%)</li>
-<li>laryngotracheitis (99.5%)</li>
-<li>tracheal disease (99.5%)</li>
-<li>obstructive lung disease (99.5%)</li>
-<li>pharyngitis (99.5%)</li>
-<li>acute laryngopharyngitis (99.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคหลอดเลือดอุดตัน (Thrombotic Disease) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/theophylline/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

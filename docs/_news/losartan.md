@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Losartan"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Losartan ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Losartan ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/losartan/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/losartan/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Losartan บ้าง">
-ขณะนี้ <strong>Losartan</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 8 รายการ
+ขณะนี้ <strong>Losartan</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ permalink: /news/losartan/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
-<li>malignant renovascular hypertension (99.7%)</li>
-<li>malignant hypertensive renal disease (99.7%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.7%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.7%)</li>
-<li>Braddock syndrome (99.6%)</li>
-<li>Prinzmetal angina (99.5%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.4%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (99.4%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ความดันโลหิตสูงจากหลอดเลือดแดงไตตีบชนิดรุนแรง (Malignant Renovascular Hypertension) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

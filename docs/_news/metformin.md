@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Metformin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Metformin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Metformin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/metformin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/metformin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Metformin บ้าง">
-ขณะนี้ <strong>Metformin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Metformin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/metformin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>focal stiff limb syndrome (99.5%)</li>
-<li>classic stiff person syndrome (99.5%)</li>
-<li>opsismodysplasia (99.4%)</li>
-<li>thiamine-responsive dysfunction syndrome (99.4%)</li>
-<li>drug-induced localized lipodystrophy (99.1%)</li>
-<li>centrifugal lipodystrophy (99.0%)</li>
-<li>pressure-induced localized lipoatrophy (99.0%)</li>
-<li>pancreatic agenesis (98.9%)</li>
-<li>idiopathic localized lipodystrophy (98.9%)</li>
-<li>homozygous familial hypercholesterolemia (92.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>Focal Stiff Limb Syndrome (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/metformin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

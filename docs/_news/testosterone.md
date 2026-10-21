@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Testosterone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Testosterone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 2 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Testosterone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/testosterone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/testosterone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Testosterone บ้าง">
-ขณะนี้ <strong>Testosterone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 2 รายการ
+ขณะนี้ <strong>Testosterone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/testosterone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (2 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
+<li>ภาวะโครโมโซม X เกิน (Polysomy of X chromosome) (94.9%)</li>
 <li>ภาวะรังไข่ล้มเหลวปฐมภูมิ (93.7%)</li>
 <li>กลุ่มอาการอัณฑะฝ่อตั้งแต่กำเนิด (94.5%)</li>
 </ul></li>

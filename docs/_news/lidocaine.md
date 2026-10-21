@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lidocaine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lidocaine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lidocaine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/lidocaine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lidocaine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Lidocaine บ้าง">
-ขณะนี้ <strong>Lidocaine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Lidocaine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/lidocaine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>punctate epithelial keratoconjunctivitis (100.0%)</li>
-<li>papillary conjunctivitis (100.0%)</li>
-<li>rosacea conjunctivitis (99.9%)</li>
-<li>exposure keratitis (99.9%)</li>
-<li>atopic conjunctivitis (99.9%)</li>
-<li>conjunctival disorder (99.8%)</li>
-<li>nephrotic syndrome (99.8%)</li>
-<li>non-human animal disease (99.8%)</li>
-<li>tinea corporis (99.8%)</li>
-<li>sporadic idiopathic steroid-resistant nephrotic syndrome (99.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>Punctate epithelial keratoconjunctivitis (อันดับ 1) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lidocaine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

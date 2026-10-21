@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Dexamethasone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Dexamethasone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Dexamethasone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/dexamethasone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/dexamethasone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Dexamethasone บ้าง">
-ขณะนี้ <strong>Dexamethasone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Dexamethasone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/dexamethasone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>alopecia areata (100.0%)</li>
-<li>alopecia mucinosa (100.0%)</li>
-<li>telogen effluvium (100.0%)</li>
-<li>Quinquaud's folliculitis decalvans (100.0%)</li>
-<li>alopecia antibody deficiency (100.0%)</li>
-<li>hereditary hypotrichosis with recurrent skin vesicles (100.0%)</li>
-<li>alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome (100.0%)</li>
-<li>atrichia with papular lesions (100.0%)</li>
-<li>alopecia universalis onychodystrophy vitiligo (99.8%)</li>
-<li>prolapse of lacrimal gland (99.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคผมร่วงเป็นหย่อม (Alopecia Areata) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/dexamethasone/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

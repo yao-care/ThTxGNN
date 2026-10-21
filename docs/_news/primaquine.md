@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Primaquine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Primaquine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Primaquine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/primaquine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/primaquine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Primaquine บ้าง">
-ขณะนี้ <strong>Primaquine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Primaquine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/primaquine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>myiasis (99.8%)</li>
-<li>wound myiasis (99.7%)</li>
-<li>furuncular myiasis (99.7%)</li>
-<li>creeping myiasis (99.7%)</li>
-<li>toxoplasmosis (99.6%)</li>
-<li>nocardiosis (99.4%)</li>
-<li>malaria (99.4%)</li>
-<li>pneumocystosis (99.3%)</li>
-<li>tinea corporis (98.8%)</li>
-<li>blastomycosis (98.4%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคตัวอ่อนแมลงวันไชเนื้อ (Myiasis) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/primaquine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Mebendazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Mebendazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Mebendazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/mebendazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/mebendazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Mebendazole บ้าง">
-ขณะนี้ <strong>Mebendazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Mebendazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/mebendazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>acne (disease) (99.2%)</li>
-<li>leishmaniasis, diffuse cutaneous (98.4%)</li>
-<li>echinococcus granulosus infectious disease (95.6%)</li>
-<li>hordeolum (94.9%)</li>
-<li>alveolar echinococcosis (94.2%)</li>
-<li>inhalational botulism (93.8%)</li>
-<li>toxin-mediated infectious botulism (93.5%)</li>
-<li>impetigo (93.2%)</li>
-<li>Sorsby's fundus dystrophy (93.1%)</li>
-<li>demodicidosis of sebaceous gland (93.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>สิว (Acne) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/mebendazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

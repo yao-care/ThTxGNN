@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Aripiprazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Aripiprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Aripiprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/aripiprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/aripiprazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Aripiprazole บ้าง">
-ขณะนี้ <strong>Aripiprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Aripiprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/aripiprazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L1</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>major affective disorder (99.6%)</li>
-<li>gaze palsy, familial horizontal, with progressive scoliosis (99.6%)</li>
-<li>asperger syndrome, susceptibility to (99.5%)</li>
-<li>Phelan-McDermid syndrome (99.4%)</li>
-<li>amelocerebrohypohidrotic syndrome (99.3%)</li>
-<li>distal 17p13.3 microdeletion syndrome (99.3%)</li>
-<li>trichotillomania (99.3%)</li>
-<li>Malan overgrowth syndrome (99.3%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.2%)</li>
-<li>hydranencephaly (disease) (99.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/aripiprazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

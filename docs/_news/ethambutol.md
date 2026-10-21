@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ethambutol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ethambutol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ethambutol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ethambutol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ethambutol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ethambutol บ้าง">
-ขณะนี้ <strong>Ethambutol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Ethambutol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/ethambutol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>epiglottitis (99.9%)</li>
-<li>laryngitis (99.7%)</li>
-<li>meningococcal infection (99.6%)</li>
-<li>peritonitis (99.2%)</li>
-<li>infectious otitis media (99.1%)</li>
-<li>endocardial fibroelastosis (99.0%)</li>
-<li>endocarditis (99.0%)</li>
-<li>middle ear cholesterol granuloma (98.8%)</li>
-<li>otosalpingitis (98.8%)</li>
-<li>middle ear disease (98.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะฝาปิดกล่องเสียงอักเสบ (Epiglottitis) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ethambutol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

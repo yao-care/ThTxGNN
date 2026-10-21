@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Bisoprolol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bisoprolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bisoprolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
 permalink: /news/bisoprolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bisoprolol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Bisoprolol บ้าง">
-ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
+ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 8 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/bisoprolol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
+<li>ความดันโลหิตสูงรุนแรงจากหลอดเลือดแดงไตตีบ (malignant renovascular hypertension) (99.9%)</li>
 <li>malignant hypertensive renal disease (99.9%)</li>
 <li>ความดันโลหิตสูงในปอดจากโรคปอด/ภาวะขาดออกซิเจน (99.9%)</li>
 <li>ความดันโลหิตสูงในปอดที่กลไกไม่ชัดเจน (99.9%)</li>

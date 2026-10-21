@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Progesterone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Progesterone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Progesterone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/progesterone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/progesterone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Progesterone บ้าง">
-ขณะนี้ <strong>Progesterone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Progesterone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/progesterone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>amenorrhea (disease) (100.0%)</li>
-<li>breast fibrocystic disease (100.0%)</li>
-<li>benign mammary dysplasia (100.0%)</li>
-<li>renal hypoplasia, bilateral (100.0%)</li>
-<li>cervix endometriosis (100.0%)</li>
-<li>renal hypoplasia (disease) (100.0%)</li>
-<li>endometriosis in cutaneous scar (100.0%)</li>
-<li>endometriosis of rectovaginal septum and vagina (100.0%)</li>
-<li>apocrine adenosis of breast (100.0%)</li>
-<li>blunt duct adenosis of breast (100.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะประจำเดือนขาด (Amenorrhea) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/progesterone/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

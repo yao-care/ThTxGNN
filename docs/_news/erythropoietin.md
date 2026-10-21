@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Erythropoietin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Erythropoietin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Erythropoietin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/erythropoietin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/erythropoietin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Erythropoietin บ้าง">
-ขณะนี้ <strong>Erythropoietin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Erythropoietin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/erythropoietin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>antithrombin deficiency type 2 (99.3%)</li>
-<li>factor 5 excess with spontaneous thrombosis (99.3%)</li>
-<li>heparin cofactor 2 deficiency (99.3%)</li>
-<li>seborrheic dermatitis (99.2%)</li>
-<li>thrombophilia (99.2%)</li>
-<li>amenorrhea (disease) (98.7%)</li>
-<li>HER2 positive breast carcinoma (98.4%)</li>
-<li>hemoglobinopathy (98.2%)</li>
-<li>hyperthyroidism (97.8%)</li>
-<li>normal breast-like subtype of breast carcinoma (97.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erythropoietin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

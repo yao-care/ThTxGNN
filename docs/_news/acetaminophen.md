@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Acetaminophen"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Acetaminophen ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Acetaminophen ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/acetaminophen/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/acetaminophen/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Acetaminophen บ้าง">
-ขณะนี้ <strong>Acetaminophen</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Acetaminophen</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/acetaminophen/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>migraine with brainstem aura (99.2%)</li>
-<li>trigeminal autonomic cephalalgia (98.6%)</li>
-<li>atrophoderma vermiculata (94.7%)</li>
-<li>tendinitis (94.6%)</li>
-<li>idiopathic granulomatous myositis (94.4%)</li>
-<li>myositis fibrosa (94.4%)</li>
-<li>ulerythema ophryogenesis (92.4%)</li>
-<li>fibromyalgia (90.8%)</li>
-<li>inclusion body myositis (89.2%)</li>
-<li>sciatic neuropathy (86.6%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ไมเกรนที่มีออร่าจากก้านสมอง (Migraine with Brainstem Aura) (99.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/acetaminophen/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

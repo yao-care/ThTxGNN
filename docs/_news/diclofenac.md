@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Diclofenac"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diclofenac ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diclofenac ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/diclofenac/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diclofenac/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Diclofenac บ้าง">
-ขณะนี้ <strong>Diclofenac</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Diclofenac</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/diclofenac/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>hypotrichosis simplex of the scalp (99.7%)</li>
-<li>acromesomelic dysplasia, Hunter-Thompson type (99.7%)</li>
-<li>pseudoachondroplasia (99.7%)</li>
-<li>brachyolmia (99.7%)</li>
-<li>brachyolmia-amelogenesis imperfecta syndrome (99.6%)</li>
-<li>congenital hypotrichosis milia (99.6%)</li>
-<li>myosclerosis (99.6%)</li>
-<li>diffuse alopecia areata (99.6%)</li>
-<li>juvenile idiopathic arthritis (99.2%)</li>
-<li>WHIM syndrome (99.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะผมบางชนิด Hypotrichosis Simplex ของหนังศีรษะ (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diclofenac/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Loratadine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Loratadine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Loratadine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/loratadine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/loratadine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Loratadine บ้าง">
-ขณะนี้ <strong>Loratadine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Loratadine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/loratadine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>allergic urticaria (99.0%)</li>
-<li>nasal cavity disease (99.0%)</li>
-<li>acute laryngopharyngitis (98.8%)</li>
-<li>rosacea conjunctivitis (98.5%)</li>
-<li>cold urticaria (96.2%)</li>
-<li>viral conjunctivitis (89.3%)</li>
-<li>punctate epithelial keratoconjunctivitis (84.2%)</li>
-<li>trigeminal autonomic cephalalgia (80.4%)</li>
-<li>faucial diphtheria (78.5%)</li>
-<li>cervical disc degenerative disorder (76.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ลมพิษจากภูมิแพ้ (Allergic Urticaria) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/loratadine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

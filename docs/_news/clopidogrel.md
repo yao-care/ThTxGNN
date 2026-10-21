@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Clopidogrel"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clopidogrel ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clopidogrel ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/clopidogrel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/clopidogrel/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Clopidogrel บ้าง">
-ขณะนี้ <strong>Clopidogrel</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 8 รายการ
+ขณะนี้ <strong>Clopidogrel</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ permalink: /news/clopidogrel/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
-<li>migraine with brainstem aura (99.4%)</li>
-<li>migraine disorder (99.4%)</li>
-<li>osteoarthritis (99.2%)</li>
-<li>tendinitis (99.2%)</li>
-<li>myositis fibrosa (99.1%)</li>
-<li>idiopathic granulomatous myositis (99.1%)</li>
-<li>rheumatoid arthritis (99.0%)</li>
-<li>osteoarthritis susceptibility (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ไมเกรนชนิดมีออร่าจากก้านสมอง (Migraine with Brainstem Aura) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clopidogrel/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

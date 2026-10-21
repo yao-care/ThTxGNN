@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lansoprazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lansoprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lansoprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/lansoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lansoprazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Lansoprazole บ้าง">
-ขณะนี้ <strong>Lansoprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Lansoprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/lansoprazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>duodenogastric reflux (99.7%)</li>
-<li>duodenal obstruction (99.7%)</li>
-<li>gastrojejunal ulcer (98.8%)</li>
-<li>peptic ulcer perforation (98.8%)</li>
-<li>abnormality of glucagon secretion (98.6%)</li>
-<li>gastroduodenitis (97.6%)</li>
-<li>acne (disease) (97.0%)</li>
-<li>Smouldering systemic mastocytosis (95.6%)</li>
-<li>leather-bottle stomach (94.7%)</li>
-<li>duodenitis (94.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric Reflux) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lansoprazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

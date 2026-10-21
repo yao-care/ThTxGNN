@@ -26,13 +26,13 @@ permalink: /news/orphenadrine/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
-<li>Retinal dystrophy with or without extraocular anomalies | 99.29% | L5 | Hold (99.0%)</li>
-<li>Congenital disorder of glycosylation with defective fucosylation | 99.27% | L5 | Hold (99.0%)</li>
-<li>Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis | 99.21% | L5 | Hold (99.0%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G | 99.19% | L5 | Hold (99.0%)</li>
-<li>โรคจิตเภท (Schizophrenia) | 99.13% | L4 | ประเด็นวิจัย (Research Question) (99.0%)</li>
-<li>Myopia X-linked | 99.09% | L5 | Hold (99.0%)</li>
-<li>Myopia 26, X-linked, female-limited | 99.00% | L5 | Hold (99.0%)</li>
+<li>โรคจิตเภท (Schizophrenia) (99.1%)</li>
+<li>Retinal dystrophy with or without extraocular anomalies (99.3%)</li>
+<li>Congenital disorder of glycosylation with defective fucosylation (99.3%)</li>
+<li>Polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.2%)</li>
+<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.2%)</li>
+<li>Myopia X-linked (99.1%)</li>
+<li>Myopia 26, X-linked, female-limited (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/orphenadrine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

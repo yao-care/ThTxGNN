@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Captopril"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Captopril ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Captopril ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/captopril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/captopril/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Captopril บ้าง">
-ขณะนี้ <strong>Captopril</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Captopril</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/captopril/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>malignant renovascular hypertension (99.3%)</li>
-<li>malignant hypertensive renal disease (99.3%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.2%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.2%)</li>
-<li>Braddock syndrome (98.9%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (98.5%)</li>
-<li>brain small vessel disease 1 with or without ocular anomalies (98.4%)</li>
-<li>chronic pulmonary heart disease (97.1%)</li>
-<li>intracerebral hemorrhage (89.9%)</li>
-<li>chronic renal failure syndrome (81.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ความดันโลหิตสูงจากหลอดเลือดแดงไตชนิดรุนแรง (Malignant Renovascular Hypertension) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/captopril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

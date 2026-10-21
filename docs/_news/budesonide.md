@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Budesonide"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Budesonide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Budesonide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/budesonide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/budesonide/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Budesonide บ้าง">
-ขณะนี้ <strong>Budesonide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Budesonide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/budesonide/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>atopic eczema (100.0%)</li>
-<li>bronchitis (99.8%)</li>
-<li>dermatitis, atopic (99.8%)</li>
-<li>polyp of vocal cord (99.7%)</li>
-<li>polyp of middle ear (99.7%)</li>
-<li>epulis (99.7%)</li>
-<li>fibroepithelial polyp (99.7%)</li>
-<li>uterine polyp (99.7%)</li>
-<li>polyp of frontal sinus (99.7%)</li>
-<li>polyp of external auditory canal (99.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ผิวหนังอักเสบภูมิแพ้ (Atopic Eczema) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/budesonide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

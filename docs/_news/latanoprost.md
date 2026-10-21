@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Latanoprost"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Latanoprost ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Latanoprost ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/latanoprost/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/latanoprost/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Latanoprost บ้าง">
-ขณะนี้ <strong>Latanoprost</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Latanoprost</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/latanoprost/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>primary hereditary glaucoma (99.9%)</li>
-<li>visceral calciphylaxis (99.8%)</li>
-<li>hypotrichosis simplex of the scalp (99.8%)</li>
-<li>venous thoracic outlet syndrome (99.8%)</li>
-<li>arterial thoracic outlet syndrome (99.8%)</li>
-<li>neurogenic thoracic outlet syndrome (99.7%)</li>
-<li>congenital hypotrichosis milia (99.7%)</li>
-<li>angiodysplasia of stomach (99.7%)</li>
-<li>blue toe syndrome (99.7%)</li>
-<li>lymphangiectasis (99.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม (Primary Hereditary Glaucoma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/latanoprost/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

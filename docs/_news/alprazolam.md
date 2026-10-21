@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Alprazolam"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Alprazolam ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Alprazolam ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/alprazolam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/alprazolam/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Alprazolam บ้าง">
-ขณะนี้ <strong>Alprazolam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Alprazolam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/alprazolam/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L1</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (4 รายการ)</strong>:<ul>
+<li>ความกลัวที่โล่งแจ้ง (Agoraphobia) (99.6%)</li>
 <li>นอนไม่หลับ (Insomnia) (99.8%)</li>
 <li>Phobic disorder (97.5%)</li>
 <li>โรคย้ำคิดย้ำทำ (OCD) (98.2%)</li>

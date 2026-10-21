@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Estradiol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Estradiol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Estradiol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/estradiol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/estradiol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Estradiol บ้าง">
-ขณะนี้ <strong>Estradiol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Estradiol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/estradiol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>symptomatic form of fragile X syndrome in female carrier (98.8%)</li>
-<li>ovarian remnant syndrome (98.6%)</li>
-<li>anovulation (98.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 18 (98.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 12 (98.6%)</li>
-<li>partial trisomy/tetrasomy of the short arm of chromosome 5 (98.5%)</li>
-<li>blepharophimosis-epicanthus inversus-ptosis due to 3q23 rearrangement syndrome (98.5%)</li>
-<li>luteoma of pregnancy (98.5%)</li>
-<li>partial autosomal trisomy/tetrasomy (98.5%)</li>
-<li>ovarian ectopic pregnancy (98.4%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะไม่ตกไข่ (Anovulation) (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/estradiol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

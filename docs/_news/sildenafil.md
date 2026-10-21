@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Sildenafil"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Sildenafil ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Sildenafil ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/sildenafil/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sildenafil/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Sildenafil บ้าง">
-ขณะนี้ <strong>Sildenafil</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Sildenafil</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/sildenafil/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>Ambras type hypertrichosis universalis congenita (98.4%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (98.2%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (98.0%)</li>
-<li>isolated genetic hair shaft abnormality (97.9%)</li>
-<li>hypertrichosis (disease) (97.8%)</li>
-<li>homozygous familial hypercholesterolemia (93.8%)</li>
-<li>hypoalphalipoproteinemia (90.1%)</li>
-<li>familial isolated trichomegaly (79.8%)</li>
-<li>genetic alopecia (75.0%)</li>
-<li>obsolete patella aplasia, coxa vara, and tarsal synostosis (70.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis congenita) (98.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sildenafil/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

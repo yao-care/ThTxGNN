@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Diltiazem"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diltiazem ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diltiazem ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/diltiazem/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/diltiazem/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Diltiazem บ้าง">
-ขณะนี้ <strong>Diltiazem</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Diltiazem</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/diltiazem/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>obsolete susceptibility to ischemic stroke (99.1%)</li>
-<li>brain stem infarction (98.2%)</li>
-<li>obsolete bundle branch block (97.9%)</li>
-<li>cerebrovascular disorder (97.6%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (97.2%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.2%)</li>
-<li>malignant hypertensive renal disease (97.2%)</li>
-<li>malignant renovascular hypertension (97.2%)</li>
-<li>ABri amyloidosis (97.0%)</li>
-<li>Braddock syndrome (96.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคหลอดเลือดสมอง (Cerebrovascular Disorder) ลำดับที่ 4 (97.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

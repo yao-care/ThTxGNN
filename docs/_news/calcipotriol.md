@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Calcipotriol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcipotriol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcipotriol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/calcipotriol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/calcipotriol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Calcipotriol บ้าง">
-ขณะนี้ <strong>Calcipotriol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Calcipotriol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/calcipotriol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>seborrheic keratosis (100.0%)</li>
-<li>vulvar inverted follicular keratosis (99.9%)</li>
-<li>vulvovaginitis (99.7%)</li>
-<li>vulvitis (99.6%)</li>
-<li>vulvar neoplasm (99.5%)</li>
-<li>ulceration of vulva (99.5%)</li>
-<li>vulvar squamous neoplasm (99.4%)</li>
-<li>postmenopausal atrophic vaginitis (99.4%)</li>
-<li>bone Paget disease (99.2%)</li>
-<li>breast fibrocystic disease (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>เซบอร์ริกเคอราโทซิส (Seborrheic Keratosis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

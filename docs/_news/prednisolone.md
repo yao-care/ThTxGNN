@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Prednisolone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Prednisolone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Prednisolone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/prednisolone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/prednisolone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Prednisolone บ้าง">
-ขณะนี้ <strong>Prednisolone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Prednisolone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/prednisolone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (4 รายการ)</strong>:<ul>
+<li>โรคผมร่วงเป็นหย่อม (Alopecia Areata) (100.0%)</li>
 <li>ไตเนฟโฟรติกซินโดรมชนิดตอบสนองต่อสเตียรอยด์ (99.9%)</li>
 <li>Alopecia mucinosa (100.0%)</li>
 <li>Folliculitis decalvans (100.0%)</li>

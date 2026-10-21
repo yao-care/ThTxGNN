@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ceftriaxone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ceftriaxone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ceftriaxone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ceftriaxone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ceftriaxone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ceftriaxone บ้าง">
-ขณะนี้ <strong>Ceftriaxone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Ceftriaxone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/ceftriaxone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>hyperamylasemia (99.4%)</li>
-<li>polyclonal hyperviscosity syndrome (99.4%)</li>
-<li>congenital analbuminemia (99.4%)</li>
-<li>infectious otitis media (99.3%)</li>
-<li>blood group incompatibility (99.1%)</li>
-<li>suppurative otitis media (99.0%)</li>
-<li>chronic otitis media (99.0%)</li>
-<li>premalignant hematological system disease (99.0%)</li>
-<li>middle ear disease (99.0%)</li>
-<li>otosalpingitis (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะอะไมเลสในเลือดสูง (Hyperamylasemia) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ceftriaxone/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

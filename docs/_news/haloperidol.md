@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Haloperidol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Haloperidol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Haloperidol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/haloperidol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/haloperidol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Haloperidol บ้าง">
-ขณะนี้ <strong>Haloperidol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Haloperidol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/haloperidol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>congenital disorder of glycosylation with defective fucosylation (99.9%)</li>
-<li>retinal dystrophy with or without extraocular anomalies (99.9%)</li>
-<li>hydranencephaly (disease) (99.9%)</li>
-<li>myopia X-linked (99.9%)</li>
-<li>Charcot-Marie-Tooth disease, demyelinating, type 1G (99.9%)</li>
-<li>myopia 26, X-linked, female-limited (99.9%)</li>
-<li>syndromic myopia (99.9%)</li>
-<li>polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis (99.9%)</li>
-<li>atypical glycine encephalopathy (99.9%)</li>
-<li>manic bipolar affective disorder (99.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ความผิดปกติแต่กำเนิดของการเติมน้ำตาลชนิดที่การเติมฟูโคสบกพร่อง (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/haloperidol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

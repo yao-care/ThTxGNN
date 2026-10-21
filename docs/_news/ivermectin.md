@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ivermectin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ivermectin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ivermectin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ivermectin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ivermectin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ivermectin บ้าง">
-ขณะนี้ <strong>Ivermectin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 9 รายการ
+ขณะนี้ <strong>Ivermectin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,16 +25,8 @@ permalink: /news/ivermectin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
-<li>vulvovaginal candidiasis (100.0%)</li>
-<li>esophageal candidiasis (99.7%)</li>
-<li>anogenital human papillomavirus infection (99.5%)</li>
-<li>vulvovaginitis (99.4%)</li>
-<li>neonatal candidiasis (99.2%)</li>
-<li>congenital candidiasis (99.2%)</li>
-<li>candida glabrata (99.2%)</li>
-<li>postmenopausal atrophic vaginitis (99.2%)</li>
-<li>candidiasis, invasive (99.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>Vulvovaginal candidiasis (การติดเชื้อราแคนดิดาในช่องคลอดและบริเวณปากช่องคลอด) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ivermectin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

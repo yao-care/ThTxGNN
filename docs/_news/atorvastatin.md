@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Atorvastatin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Atorvastatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Atorvastatin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/atorvastatin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/atorvastatin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Atorvastatin บ้าง">
-ขณะนี้ <strong>Atorvastatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
+ขณะนี้ <strong>Atorvastatin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ permalink: /news/atorvastatin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L1</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
-<li>familial hypercholesterolemia (99.4%)</li>
-<li>HIV infectious disease (99.3%)</li>
-<li>brain stem infarction (99.3%)</li>
-<li>cholesterol-ester transfer protein deficiency (99.2%)</li>
-<li>hypercholesterolemia due to cholesterol 7alpha-hydroxylase deficiency (99.2%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.1%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะไขมันในเลือดสูงทางพันธุกรรม (Familial Hypercholesterolemia) (99.4%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/atorvastatin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

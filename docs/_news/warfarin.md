@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Warfarin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Warfarin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Warfarin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
 permalink: /news/warfarin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/warfarin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Warfarin บ้าง">
-ขณะนี้ <strong>Warfarin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
+ขณะนี้ <strong>Warfarin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 8 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,14 +25,15 @@ permalink: /news/warfarin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
-<li>ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 | 99.87% | L4 | Research Question (99.0%)</li>
-<li>ภาวะแฟกเตอร์ 5 เกินร่วมกับลิ่มเลือดเกิดเอง | 99.84% | L5 | Hold (99.0%)</li>
-<li>ภาวะพร่องแอนติทรอมบิน ชนิดที่ 2 | 99.84% | L4 | Research Question (99.0%)</li>
-<li>ภาวะเลือดแข็งตัวง่าย (Thrombophilia) | 99.75% | L3 | Proceed with Guardrails (99.0%)</li>
-<li>ข้ออักเสบรูมาตอยด์ | 99.21% | L4 | Hold (99.0%)</li>
-<li>โรคถุงน้ำเต้านม (Fibrocystic) | 99.20% | L5 | Hold (99.0%)</li>
-<li>ไมเกรน | 98.71% | L4 | Research Question (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
+<li>ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency) (99.9%)</li>
+<li>ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (99.9%)</li>
+<li>ภาวะแฟกเตอร์ 5 เกินร่วมกับลิ่มเลือดเกิดเอง (99.8%)</li>
+<li>ภาวะพร่องแอนติทรอมบิน ชนิดที่ 2 (99.8%)</li>
+<li>ภาวะเลือดแข็งตัวง่าย (Thrombophilia) (99.8%)</li>
+<li>ข้ออักเสบรูมาตอยด์ (99.2%)</li>
+<li>โรคถุงน้ำเต้านม (Fibrocystic) (99.2%)</li>
+<li>ไมเกรน (98.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/warfarin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

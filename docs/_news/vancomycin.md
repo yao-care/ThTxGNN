@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Vancomycin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Vancomycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Vancomycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/vancomycin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/vancomycin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Vancomycin บ้าง">
-ขณะนี้ <strong>Vancomycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Vancomycin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/vancomycin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>diffuse scleroderma (99.9%)</li>
-<li>paratyphoid fever (99.8%)</li>
-<li>salmonellosis (99.8%)</li>
-<li>congenital analbuminemia (99.8%)</li>
-<li>polyclonal hyperviscosity syndrome (99.8%)</li>
-<li>hyperamylasemia (99.8%)</li>
-<li>typhoid fever (99.8%)</li>
-<li>blood group incompatibility (99.6%)</li>
-<li>streptococcal pneumonia (99.6%)</li>
-<li>premalignant hematological system disease (99.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/vancomycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

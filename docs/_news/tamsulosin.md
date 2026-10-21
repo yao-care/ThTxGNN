@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Tamsulosin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tamsulosin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tamsulosin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/tamsulosin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tamsulosin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Tamsulosin บ้าง">
-ขณะนี้ <strong>Tamsulosin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Tamsulosin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/tamsulosin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
 <li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>hypotrichosis simplex of the scalp (99.9%)</li>
-<li>congenital hypotrichosis milia (99.9%)</li>
-<li>diffuse alopecia areata (99.9%)</li>
-<li>alopecia (99.8%)</li>
-<li>migraine with brainstem aura (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tamsulosin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

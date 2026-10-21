@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ranitidine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ranitidine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ranitidine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ranitidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ranitidine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ranitidine บ้าง">
-ขณะนี้ <strong>Ranitidine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Ranitidine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/ranitidine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>active peptic ulcer disease (99.9%)</li>
-<li>peptic ulcer perforation (99.9%)</li>
-<li>gastrojejunal ulcer (99.9%)</li>
-<li>duodenogastric reflux (99.8%)</li>
-<li>duodenal obstruction (99.8%)</li>
-<li>gastroduodenitis (99.7%)</li>
-<li>peptic ulcer disease (99.6%)</li>
-<li>Smouldering systemic mastocytosis (99.5%)</li>
-<li>abnormality of glucagon secretion (99.5%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (99.4%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>แผลเปปติกที่ยังมีการอักเสบ (Active Peptic Ulcer Disease) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ranitidine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

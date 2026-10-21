@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Finasteride"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Finasteride ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Finasteride ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/finasteride/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/finasteride/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Finasteride บ้าง">
-ขณะนี้ <strong>Finasteride</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Finasteride</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/finasteride/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
 <li>Ambras type hypertrichosis universalis congenita (100.0%)</li>
-<li>hypertrichosis (disease) (100.0%)</li>
-<li>malformation syndrome with odontal and/or periodontal component (100.0%)</li>
-<li>syndrome with a Dandy-Walker malformation as major feature (100.0%)</li>
-<li>isolated genetic hair shaft abnormality (100.0%)</li>
-<li>familial isolated trichomegaly (99.2%)</li>
-<li>prostate calculus (98.6%)</li>
-<li>persistent fetal circulation syndrome (90.5%)</li>
-<li>chronic thromboembolic pulmonary hypertension (89.9%)</li>
-<li>migraine with brainstem aura (88.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/finasteride/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

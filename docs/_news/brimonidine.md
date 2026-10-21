@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Brimonidine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Brimonidine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Brimonidine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/brimonidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/brimonidine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Brimonidine บ้าง">
-ขณะนี้ <strong>Brimonidine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Brimonidine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/brimonidine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>papillary conjunctivitis (98.5%)</li>
-<li>primary hereditary glaucoma (96.9%)</li>
-<li>lichen disease (95.2%)</li>
-<li>congenital hypotrichosis milia (94.8%)</li>
-<li>rosacea conjunctivitis (94.7%)</li>
-<li>hypotrichosis simplex of the scalp (94.6%)</li>
-<li>diffuse alopecia areata (94.0%)</li>
-<li>annular atrophic lichen planus (93.2%)</li>
-<li>hypertrophic lichen planus (93.2%)</li>
-<li>lichen planus pigmentosus (93.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>เยื่อบุตาอักเสบชนิดปุ่ม (Papillary Conjunctivitis) (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/brimonidine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

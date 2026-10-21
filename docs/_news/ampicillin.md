@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ampicillin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ampicillin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ampicillin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ampicillin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ampicillin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ampicillin บ้าง">
-ขณะนี้ <strong>Ampicillin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Ampicillin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/ampicillin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>laryngitis (100.0%)</li>
-<li>gonococcal urethritis (99.4%)</li>
-<li>Ureaplasma urethritis (99.4%)</li>
-<li>chronic rhinosinusitis (99.3%)</li>
-<li>chronic ethmoidal sinusitis (99.3%)</li>
-<li>gingivitis (99.3%)</li>
-<li>paranasal sinus neoplasm (disease) (99.2%)</li>
-<li>bacterial arthritis (99.1%)</li>
-<li>conjunctivitis (99.0%)</li>
-<li>pericoronitis (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>กล่องเสียงอักเสบ (Laryngitis) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

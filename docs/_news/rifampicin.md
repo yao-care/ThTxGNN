@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Rifampicin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Rifampicin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Rifampicin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/rifampicin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/rifampicin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Rifampicin บ้าง">
-ขณะนี้ <strong>Rifampicin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Rifampicin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,10 +25,11 @@ permalink: /news/rifampicin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
-<li>สิว (Acne) | 99.74% | L4 | หลักฐานส่วนใหญ่เป็น hidradenitis suppurativa (acne inversa) ซึ่งใช้ร่วมกับ clindamycin จึงเป็นหลักฐานทางอ้อม (99.0%)</li>
-<li>HIV | 99.59% | L3 | เป็นการใช้รักษาวัณโรคในผู้ป่วย HIV ไม่ใช่ฤทธิ์ต้าน HIV และมีปฏิกิริยากับยาต้านไวรัสสูง (99.0%)</li>
-<li>โรคข้ออักเสบรูมาตอยด์ | 99.45% | L3 | มีการศึกษาขนาดเล็กในผู้ป่วย RA ระยะต้น ผลไม่ชัดเจนและมีผู้ป่วยออกจากการศึกษาจำนวนมาก (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (4 รายการ)</strong>:<ul>
+<li>เยื่อบุตาอักเสบ (Conjunctivitis) (100.0%)</li>
+<li>สิว (Acne) (99.7%)</li>
+<li>HIV (99.6%)</li>
+<li>โรคข้ออักเสบรูมาตอยด์ (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/rifampicin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

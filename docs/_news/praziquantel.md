@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Praziquantel"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Praziquantel ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Praziquantel ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/praziquantel/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/praziquantel/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Praziquantel บ้าง">
-ขณะนี้ <strong>Praziquantel</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Praziquantel</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/praziquantel/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>uterine corpus epithelioid leiomyosarcoma (97.3%)</li>
-<li>Plasmodium falciparum malaria (97.2%)</li>
-<li>retroperitoneal sarcoma (97.2%)</li>
-<li>uterine corpus myxoid leiomyosarcoma (97.2%)</li>
-<li>anus leiomyosarcoma (97.2%)</li>
-<li>small intestinal sarcoma (96.7%)</li>
-<li>gnathomiasis (96.5%)</li>
-<li>fascioliasis (96.3%)</li>
-<li>leiomyosarcoma (96.2%)</li>
-<li>dermatofibrosarcoma protuberans (95.7%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>มาลาเรียชนิด Plasmodium falciparum (97.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/praziquantel/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

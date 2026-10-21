@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ketamine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ketamine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ketamine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ketamine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/ketamine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Ketamine บ้าง">
-ขณะนี้ <strong>Ketamine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Ketamine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/ketamine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>headache disorder (99.3%)</li>
-<li>trigeminal autonomic cephalalgia (99.0%)</li>
-<li>common cold (99.0%)</li>
-<li>migraine disorder (98.7%)</li>
-<li>migraine with brainstem aura (98.5%)</li>
-<li>attention deficit-hyperactivity disorder (98.4%)</li>
-<li>Tourette syndrome (98.2%)</li>
-<li>myofascial pain syndrome (97.8%)</li>
-<li>trichotillomania (97.6%)</li>
-<li>psychotic disorder (97.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคปวดศีรษะ (Headache Disorder) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ketamine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

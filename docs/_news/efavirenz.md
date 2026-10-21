@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Efavirenz"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Efavirenz ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Efavirenz ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/efavirenz/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/efavirenz/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Efavirenz บ้าง">
-ขณะนี้ <strong>Efavirenz</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Efavirenz</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/efavirenz/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>simian immunodeficiency virus infection (99.8%)</li>
-<li>feline acquired immunodeficiency syndrome (99.8%)</li>
-<li>neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter (99.8%)</li>
-<li>obsolete familial combined hyperlipidemia (97.7%)</li>
-<li>AIDS related complex (96.9%)</li>
-<li>congenital human immunodeficiency virus (96.9%)</li>
-<li>fibroma of prostate (95.4%)</li>
-<li>Brenner tumor (95.1%)</li>
-<li>benign reproductive system neoplasm (95.0%)</li>
-<li>benign prostate phyllodes tumor (94.6%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>การติดเชื้อไวรัสเอสไอวีในลิง (Simian Immunodeficiency Virus Infection) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/efavirenz/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

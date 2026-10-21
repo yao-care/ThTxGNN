@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Sertraline"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Sertraline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Sertraline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/sertraline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/sertraline/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Sertraline บ้าง">
-ขณะนี้ <strong>Sertraline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 8 รายการ
+ขณะนี้ <strong>Sertraline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,15 +25,8 @@ permalink: /news/sertraline/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
-<li>schizotypal personality disorder (99.9%)</li>
-<li>schizoid personality disorder (99.9%)</li>
-<li>paranoid personality disorder (99.9%)</li>
-<li>histrionic personality disorder (disease) (99.9%)</li>
-<li>benign paroxysmal torticollis of infancy (99.5%)</li>
-<li>agoraphobia (99.5%)</li>
-<li>dependent personality disorder (99.2%)</li>
-<li>narcissistic personality disorder (99.1%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคกลัวที่โล่งแจ้ง (Agoraphobia) (99.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/sertraline/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

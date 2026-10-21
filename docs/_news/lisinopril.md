@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lisinopril"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lisinopril ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lisinopril ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/lisinopril/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lisinopril/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Lisinopril บ้าง">
-ขณะนี้ <strong>Lisinopril</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Lisinopril</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/lisinopril/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>posterolateral myocardial infarction (99.9%)</li>
-<li>posteroinferior myocardial infarction (99.9%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (99.9%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (99.9%)</li>
-<li>malignant renovascular hypertension (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>septal myocardial infarction (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>chronic pulmonary heart disease (99.7%)</li>
-<li>autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome (99.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>กล้ามเนื้อหัวใจตายชนิด Posterolateral (Posterolateral Myocardial Infarction) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Propranolol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propranolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propranolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
 permalink: /news/propranolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propranolol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Propranolol บ้าง">
-ขณะนี้ <strong>Propranolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 5 รายการ
+ขณะนี้ <strong>Propranolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,13 @@ permalink: /news/propranolol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (5 รายการ)</strong>:<ul>
-<li>Congenital myopathy with excess of thin filaments | 99.30% | L5 | Hold (99.0%)</li>
-<li>Hypertrophic cardiomyopathy จากการฝึกซ้อมกีฬาหนัก | 99.17% | L5 | Hold (99.0%)</li>
-<li>Chondroma | 99.14% | L5 | Hold (99.0%)</li>
-<li>Cirrhotic cardiomyopathy | 99.12% | L3 | Research Question (99.0%)</li>
-<li>Cardiomyopathy | 99.12% | L3 | Proceed with Guardrails (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
+<li>ภาวะกล้ามเนื้อส่วนปลายเสื่อมชนิด Tateyama (distal myopathy, Tateyama type) (99.4%)</li>
+<li>Congenital myopathy with excess of thin filaments (99.3%)</li>
+<li>Hypertrophic cardiomyopathy จากการฝึกซ้อมกีฬาหนัก (99.2%)</li>
+<li>Chondroma (99.1%)</li>
+<li>Cirrhotic cardiomyopathy (99.1%)</li>
+<li>Cardiomyopathy (99.1%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propranolol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Cabergoline"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cabergoline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cabergoline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/cabergoline/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/cabergoline/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Cabergoline บ้าง">
-ขณะนี้ <strong>Cabergoline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 5 รายการ
+ขณะนี้ <strong>Cabergoline</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,12 +25,8 @@ permalink: /news/cabergoline/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (5 รายการ)</strong>:<ul>
-<li>pituitary adenocarcinoma (disease) (99.1%)</li>
-<li>progeria-short stature-pigmented nevi syndrome (99.1%)</li>
-<li>pituitary cancer (99.0%)</li>
-<li>cerebral palsy, spastic quadriplegic (99.0%)</li>
-<li>glaucoma (99.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>มะเร็งต่อมใต้สมอง (Pituitary Cancer) (99.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

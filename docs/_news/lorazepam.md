@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lorazepam"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lorazepam ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lorazepam ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/lorazepam/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/lorazepam/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Lorazepam บ้าง">
-ขณะนี้ <strong>Lorazepam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Lorazepam</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/lorazepam/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>trigeminal nerve neoplasm (99.9%)</li>
-<li>insomnia (disease) (99.8%)</li>
-<li>reading seizures (99.6%)</li>
-<li>startle epilepsy (99.6%)</li>
-<li>thinking seizures (99.6%)</li>
-<li>audiogenic seizures (99.6%)</li>
-<li>eating seizures (99.6%)</li>
-<li>orgasm-induced seizures (99.6%)</li>
-<li>micturation-induced seizures (99.6%)</li>
-<li>acute encephalopathy with biphasic seizures and late reduced diffusion (99.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (99.9%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lorazepam/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

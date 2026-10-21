@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Furosemide"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Furosemide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Furosemide ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/furosemide/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/furosemide/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Furosemide บ้าง">
-ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/furosemide/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>malignant renovascular hypertension (98.0%)</li>
-<li>malignant hypertensive renal disease (98.0%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (97.8%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (97.8%)</li>
-<li>Braddock syndrome (97.4%)</li>
-<li>chronic pulmonary heart disease (97.1%)</li>
-<li>acute pulmonary heart disease (91.3%)</li>
-<li>primary hereditary glaucoma (75.5%)</li>
-<li>chronic renal failure syndrome (70.6%)</li>
-<li>chronic kidney disease (66.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ความดันโลหิตสูงชนิดรุนแรงจากหลอดเลือดไต (Malignant Renovascular Hypertension) (98.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/furosemide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

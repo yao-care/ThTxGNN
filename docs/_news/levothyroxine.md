@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Levothyroxine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Levothyroxine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Levothyroxine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/levothyroxine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/levothyroxine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Levothyroxine บ้าง">
-ขณะนี้ <strong>Levothyroxine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Levothyroxine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/levothyroxine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>endemic goiter (99.8%)</li>
-<li>renal hypodysplasia/aplasia (99.7%)</li>
-<li>nodular goiter (disease) (99.6%)</li>
-<li>bilateral renal agenesis (99.6%)</li>
-<li>dyshormonogenic goiter (99.4%)</li>
-<li>nontoxic goiter (99.4%)</li>
-<li>lingual goiter (99.4%)</li>
-<li>substernal goiter (99.4%)</li>
-<li>Potter sequence (99.3%)</li>
-<li>Carney complex (99.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>คอพอกเฉพาะถิ่น (Endemic Goiter) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/levothyroxine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

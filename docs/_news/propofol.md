@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Propofol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propofol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Propofol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/propofol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/propofol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Propofol บ้าง">
-ขณะนี้ <strong>Propofol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Propofol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/propofol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>migraine disorder (99.7%)</li>
-<li>migraine with brainstem aura (99.6%)</li>
-<li>Prinzmetal angina (99.2%)</li>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.2%)</li>
-<li>Tourette syndrome (99.0%)</li>
-<li>tendinitis (98.9%)</li>
-<li>myositis fibrosa (98.8%)</li>
-<li>idiopathic granulomatous myositis (98.8%)</li>
-<li>fibromyalgia (98.8%)</li>
-<li>atrophoderma vermiculata (98.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ไมเกรน (Migraine Disorder) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/propofol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

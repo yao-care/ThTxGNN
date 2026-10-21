@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Spironolactone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Spironolactone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 2 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Spironolactone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/spironolactone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/spironolactone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Spironolactone บ้าง">
-ขณะนี้ <strong>Spironolactone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 2 รายการ
+ขณะนี้ <strong>Spironolactone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,7 +25,8 @@ permalink: /news/spironolactone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (2 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
+<li>ภาวะผมบางธรรมดาของหนังศีรษะ (Hypotrichosis Simplex of the Scalp) (99.3%)</li>
 <li>ผมร่วง (Alopecia) โดยเฉพาะผมร่วงจากพันธุกรรมในผู้หญิง (97.8%)</li>
 <li>โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease) (95.5%)</li>
 </ul></li>

@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Terbinafine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Terbinafine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Terbinafine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/terbinafine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/terbinafine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Terbinafine บ้าง">
-ขณะนี้ <strong>Terbinafine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Terbinafine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/terbinafine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>furuncular myiasis (96.7%)</li>
-<li>creeping myiasis (96.7%)</li>
-<li>wound myiasis (96.7%)</li>
-<li>myiasis (96.2%)</li>
-<li>cutaneous candidiasis (95.0%)</li>
-<li>toxoplasmosis (94.8%)</li>
-<li>blastomycosis (91.8%)</li>
-<li>tinea manuum (90.1%)</li>
-<li>echinococcus granulosus infectious disease (86.1%)</li>
-<li>superficial mycosis (84.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะหนอนแมลงวันชอนผิวหนังแบบฝี (Furuncular Myiasis) (96.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/terbinafine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

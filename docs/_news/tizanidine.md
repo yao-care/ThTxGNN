@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Tizanidine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tizanidine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tizanidine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/tizanidine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/tizanidine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Tizanidine บ้าง">
-ขณะนี้ <strong>Tizanidine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Tizanidine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/tizanidine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>migraine disorder (99.8%)</li>
-<li>migraine with brainstem aura (99.7%)</li>
-<li>migraine with or without aura, susceptibility to (99.5%)</li>
-<li>atrophoderma vermiculata (99.3%)</li>
-<li>Tourette syndrome (99.2%)</li>
-<li>ulerythema ophryogenesis (99.1%)</li>
-<li>trichotillomania (98.9%)</li>
-<li>headache disorder (98.8%)</li>
-<li>dysthymic disorder (98.7%)</li>
-<li>fibromyalgia (98.6%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ไมเกรน (Migraine Disorder) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tizanidine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

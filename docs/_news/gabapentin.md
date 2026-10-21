@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Gabapentin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gabapentin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gabapentin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/gabapentin/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/gabapentin/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Gabapentin บ้าง">
-ขณะนี้ <strong>Gabapentin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Gabapentin</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/gabapentin/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>acne (disease) (98.5%)</li>
-<li>adolescent/adult onset autosomal dominant epilepsy with auditory features (95.9%)</li>
-<li>epilepsy with generalized tonic-clonic seizures (94.6%)</li>
-<li>myofascial pain syndrome (93.0%)</li>
-<li>visual epilepsy (85.3%)</li>
-<li>active vestibular Meniere disease (83.4%)</li>
-<li>active cochlear Meniere disease (83.4%)</li>
-<li>active cochleovestibular Meniere disease (83.4%)</li>
-<li>trigeminal nerve neoplasm (82.9%)</li>
-<li>osteoarthritis susceptibility (82.9%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>สิว (Acne) (98.5%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gabapentin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

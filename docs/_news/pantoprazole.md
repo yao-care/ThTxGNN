@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Pantoprazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pantoprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Pantoprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/pantoprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/pantoprazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Pantoprazole บ้าง">
-ขณะนี้ <strong>Pantoprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
+ขณะนี้ <strong>Pantoprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,13 +25,8 @@ permalink: /news/pantoprazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L1</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (6 รายการ)</strong>:<ul>
-<li>active peptic ulcer disease (99.7%)</li>
-<li>peptic ulcer perforation (99.6%)</li>
-<li>gastrojejunal ulcer (99.6%)</li>
-<li>duodenogastric reflux (99.3%)</li>
-<li>duodenal obstruction (99.2%)</li>
-<li>duodenal ulcer (disease) (99.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>แผลเปบติกระยะเฉียบพลัน (Active Peptic Ulcer Disease) (99.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/pantoprazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

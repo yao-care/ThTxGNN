@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Timolol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Timolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Timolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/timolol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/timolol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Timolol บ้าง">
-ขณะนี้ <strong>Timolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Timolol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/timolol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>primary hereditary glaucoma (98.6%)</li>
-<li>closed-angle glaucoma (97.2%)</li>
-<li>malignant hypertensive renal disease (94.5%)</li>
-<li>malignant renovascular hypertension (94.5%)</li>
-<li>pulmonary hypertension with unclear multifactorial mechanism (93.7%)</li>
-<li>pulmonary hypertension owing to lung disease and/or hypoxia (93.7%)</li>
-<li>Braddock syndrome (92.6%)</li>
-<li>chronic pulmonary heart disease (87.8%)</li>
-<li>glaucoma 1, open angle (86.5%)</li>
-<li>angle-closure glaucoma (85.5%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม (Primary Hereditary Glaucoma) (98.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/timolol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

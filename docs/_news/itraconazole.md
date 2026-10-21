@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Itraconazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Itraconazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Itraconazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/itraconazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/itraconazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Itraconazole บ้าง">
-ขณะนี้ <strong>Itraconazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Itraconazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/itraconazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>pneumocystosis (99.3%)</li>
-<li>Cryptococcal meningitis (93.7%)</li>
-<li>geotrichosis (89.0%)</li>
-<li>hyalohyphomycosis (89.0%)</li>
-<li>penicilliosis (89.0%)</li>
-<li>trichosporonosis (89.0%)</li>
-<li>maple bark strippers' lung (88.8%)</li>
-<li>leprosy (87.5%)</li>
-<li>neonatal candidiasis (85.0%)</li>
-<li>congenital candidiasis (85.0%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคปอดอักเสบจากเชื้อนิวโมซิสติส (Pneumocystosis) (99.3%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/itraconazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

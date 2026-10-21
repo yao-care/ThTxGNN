@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Domperidone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Domperidone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Domperidone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/domperidone/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/domperidone/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Domperidone บ้าง">
-ขณะนี้ <strong>Domperidone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Domperidone</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/domperidone/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>nephrogenic syndrome of inappropriate antidiuresis (99.1%)</li>
-<li>Plasmodium falciparum malaria (98.7%)</li>
-<li>common cold (97.0%)</li>
-<li>headache disorder (96.7%)</li>
-<li>allergic urticaria (96.4%)</li>
-<li>trigeminal autonomic cephalalgia (96.2%)</li>
-<li>collagenopathy (95.7%)</li>
-<li>renin-angiotensin-aldosterone system-blocker-induced angioedema (95.6%)</li>
-<li>lymphocytic hypereosinophilic syndrome (95.5%)</li>
-<li>hypertrichosis (disease) (95.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคปวดศีรษะ (Headache Disorder) (96.7%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/domperidone/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

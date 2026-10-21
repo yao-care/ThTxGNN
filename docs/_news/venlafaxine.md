@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Venlafaxine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Venlafaxine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Venlafaxine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/venlafaxine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/venlafaxine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Venlafaxine บ้าง">
-ขณะนี้ <strong>Venlafaxine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Venlafaxine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/venlafaxine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
 <li>Ohdo syndrome and variants (95.9%)</li>
-<li>ligneous conjunctivitis (94.0%)</li>
-<li>blepharophimosis - intellectual disability syndrome, Ohdo type (93.8%)</li>
-<li>benign paroxysmal torticollis of infancy (89.7%)</li>
-<li>dysthymic disorder (89.1%)</li>
-<li>melancholia (88.8%)</li>
-<li>childhood apraxia of speech (88.3%)</li>
-<li>neurotic depression (88.3%)</li>
-<li>obsessive-compulsive disorder (87.3%)</li>
-<li>agoraphobia (85.2%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/venlafaxine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

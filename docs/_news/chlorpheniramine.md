@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Chlorpheniramine"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Chlorpheniramine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Chlorpheniramine ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/chlorpheniramine/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/chlorpheniramine/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Chlorpheniramine บ้าง">
-ขณะนี้ <strong>Chlorpheniramine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Chlorpheniramine</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/chlorpheniramine/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>allergic urticaria (99.8%)</li>
-<li>nasal cavity disease (99.5%)</li>
-<li>acute laryngopharyngitis (99.5%)</li>
-<li>cold urticaria (99.1%)</li>
-<li>rosacea conjunctivitis (98.3%)</li>
-<li>headache disorder (97.1%)</li>
-<li>recalcitrant atopic dermatitis (97.0%)</li>
-<li>trigeminal autonomic cephalalgia (96.8%)</li>
-<li>IgE responsiveness, atopic (96.0%)</li>
-<li>rhinitis (95.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ลมพิษจากภูมิแพ้ (Allergic Urticaria) (99.8%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/chlorpheniramine/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

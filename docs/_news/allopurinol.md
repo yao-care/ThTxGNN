@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Allopurinol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Allopurinol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Allopurinol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/allopurinol/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/allopurinol/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Allopurinol บ้าง">
-ขณะนี้ <strong>Allopurinol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Allopurinol</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/allopurinol/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>hepatic porphyria (100.0%)</li>
-<li>hepatopulmonary syndrome (99.9%)</li>
-<li>primitive portal vein thrombosis (99.9%)</li>
-<li>idiopathic copper-associated cirrhosis (99.9%)</li>
-<li>hepatoportal sclerosis (99.9%)</li>
-<li>early-onset familial noncirrhotic portal hypertension (99.9%)</li>
-<li>disorder of phenylalanine metabolism (99.9%)</li>
-<li>immune-mediated necrotizing myopathy (99.9%)</li>
-<li>antisynthetase syndrome (99.8%)</li>
-<li>inflammatory myopathy with abundant macrophages (99.8%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>พอร์ฟิเรียของตับ (Hepatic Porphyria) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/allopurinol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

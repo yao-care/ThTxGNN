@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Bupropion"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bupropion ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bupropion ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/bupropion/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/bupropion/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Bupropion บ้าง">
-ขณะนี้ <strong>Bupropion</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Bupropion</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/bupropion/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>attention deficit-hyperactivity disorder (100.0%)</li>
-<li>attention deficit hyperactivity disorder, inattentive type (100.0%)</li>
-<li>faciodigitogenital syndrome (100.0%)</li>
-<li>specific developmental disorder (100.0%)</li>
-<li>chondromyxoid fibroma (100.0%)</li>
-<li>proximal 16p11.2 microdeletion syndrome (99.8%)</li>
-<li>hypervitaminosis (99.7%)</li>
-<li>benign paroxysmal torticollis of infancy (99.5%)</li>
-<li>trigeminal nerve neoplasm (99.3%)</li>
-<li>obsolete hypertelorism (disease) (99.3%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) (100.0%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

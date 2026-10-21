@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Omeprazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Omeprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Omeprazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/omeprazole/
 ---
 
@@ -14,7 +14,7 @@ permalink: /news/omeprazole/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Omeprazole บ้าง">
-ขณะนี้ <strong>Omeprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Omeprazole</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -25,17 +25,8 @@ permalink: /news/omeprazole/
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>duodenogastric reflux (99.6%)</li>
-<li>duodenal obstruction (99.6%)</li>
-<li>active peptic ulcer disease (98.8%)</li>
-<li>gastrojejunal ulcer (98.5%)</li>
-<li>peptic ulcer perforation (98.5%)</li>
-<li>abnormality of glucagon secretion (97.0%)</li>
-<li>gastroduodenitis (96.7%)</li>
-<li>Smouldering systemic mastocytosis (96.5%)</li>
-<li>lymphoadenopathic mastocytosis with eosinophilia (95.7%)</li>
-<li>duodenitis (95.2%)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric Reflux) (99.6%)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/omeprazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
