@@ -203,7 +203,7 @@ define "DDIAlertMessage":
 
 ```cql
 // พารามิเตอร์: เกณฑ์คะแนนการคาดการณ์ ThTxGNN
-parameter PredictionScoreThreshold Decimal default 0.9
+parameter PredictionScoreThreshold Decimal default 0.99
 
 // การกำหนด: ผู้สมัครที่มีความเชื่อมั่นสูง
 define "HighConfidenceCandidates":

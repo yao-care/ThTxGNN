@@ -64,7 +64,7 @@ ThTxGNN (Thailand Therapeutic Graph Neural Network) เป็นระบบค�
 
 ## โครงการที่เกี่ยวข้อง
 
-- **TxGNN**: Knowledge Graph Neural Network ต้นฉบับ ([บทความ](https://www.nature.com/articles/s41591-024-03233-x))
+- **TxGNN**: โมเดลการเรียนรู้เชิงลึกต้นฉบับ (Graph Neural Network ที่ฝึกบนกราฟความรู้ทางชีวการแพทย์) ([บทความ](https://www.nature.com/articles/s41591-024-03233-x))
 - **ThTxGNN**: การดำเนินการสำหรับประเทศไทย (reference implementation)
 
 ## ใบอนุญาต
