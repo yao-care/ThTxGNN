@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Erythropoietin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Erythropoietin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Erythropoietin ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/erythropoietin/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Erythropoietin
@@ -26,7 +27,7 @@ permalink: /news/erythropoietin/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) (99.3%)</li>
+<li>ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/erythropoietin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

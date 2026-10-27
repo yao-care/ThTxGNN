@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Clarithromycin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clarithromycin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Clarithromycin ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
 permalink: /news/clarithromycin/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Clarithromycin
@@ -26,11 +27,11 @@ permalink: /news/clarithromycin/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (5 รายการ)</strong>:<ul>
-<li>polyclonal hyperviscosity syndrome (99.3%)</li>
-<li>monoclonal gammopathy (98.8%)</li>
-<li>punctate epithelial keratoconjunctivitis (99.1%)</li>
-<li>hyperamylasemia (99.3%)</li>
-<li>congenital hematological disorder (98.3%)</li>
+<li>polyclonal hyperviscosity syndrome</li>
+<li>monoclonal gammopathy</li>
+<li>punctate epithelial keratoconjunctivitis</li>
+<li>hyperamylasemia</li>
+<li>congenital hematological disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/clarithromycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

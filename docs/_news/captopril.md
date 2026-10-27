@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Captopril"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Captopril ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Captopril ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/captopril/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Captopril
@@ -26,7 +27,7 @@ permalink: /news/captopril/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>ความดันโลหิตสูงจากหลอดเลือดแดงไตชนิดรุนแรง (Malignant Renovascular Hypertension) (99.3%)</li>
+<li>ความดันโลหิตสูงจากหลอดเลือดแดงไตชนิดรุนแรง (Malignant Renovascular Hypertension)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/captopril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

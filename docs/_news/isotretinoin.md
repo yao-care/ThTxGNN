@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Isotretinoin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isotretinoin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isotretinoin ข้อบ่งใช้ที่คาดการณ์ 7 รายการ"
 permalink: /news/isotretinoin/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Isotretinoin
@@ -26,13 +27,13 @@ permalink: /news/isotretinoin/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (7 รายการ)</strong>:<ul>
-<li>โรคไตจากความดันโลหิตสูงชนิดรุนแรง (Malignant Hypertensive Renal Disease) (99.0%)</li>
-<li>Malignant renovascular hypertension (99.0%)</li>
-<li>ความดันปอดสูงจากโรคปอดและ/หรือภาวะขาดออกซิเจน (98.9%)</li>
-<li>ความดันปอดสูงที่กลไกไม่ชัดเจน (98.9%)</li>
-<li>Braddock syndrome (98.7%)</li>
-<li>Chronic pulmonary heart disease (88.7%)</li>
-<li>Cholangiocarcinoma, susceptibility to (61.9%)</li>
+<li>โรคไตจากความดันโลหิตสูงชนิดรุนแรง (Malignant Hypertensive Renal Disease)</li>
+<li>Malignant renovascular hypertension</li>
+<li>ความดันปอดสูงจากโรคปอดและ/หรือภาวะขาดออกซิเจน</li>
+<li>ความดันปอดสูงที่กลไกไม่ชัดเจน</li>
+<li>Braddock syndrome</li>
+<li>Chronic pulmonary heart disease</li>
+<li>Cholangiocarcinoma, susceptibility to</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/isotretinoin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

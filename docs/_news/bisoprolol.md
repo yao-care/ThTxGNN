@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Bisoprolol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bisoprolol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bisoprolol ข้อบ่งใช้ที่คาดการณ์ 8 รายการ"
 permalink: /news/bisoprolol/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Bisoprolol
@@ -26,14 +27,14 @@ permalink: /news/bisoprolol/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (8 รายการ)</strong>:<ul>
-<li>ความดันโลหิตสูงรุนแรงจากหลอดเลือดแดงไตตีบ (malignant renovascular hypertension) (99.9%)</li>
-<li>malignant hypertensive renal disease (99.9%)</li>
-<li>ความดันโลหิตสูงในปอดจากโรคปอด/ภาวะขาดออกซิเจน (99.9%)</li>
-<li>ความดันโลหิตสูงในปอดที่กลไกไม่ชัดเจน (99.9%)</li>
-<li>Braddock syndrome (99.9%)</li>
-<li>chronic pulmonary heart disease (98.6%)</li>
-<li>Prinzmetal angina (94.4%)</li>
-<li>cerebrovascular disorder (68.1%)</li>
+<li>ความดันโลหิตสูงรุนแรงจากหลอดเลือดแดงไตตีบ (malignant renovascular hypertension)</li>
+<li>malignant hypertensive renal disease</li>
+<li>ความดันโลหิตสูงในปอดจากโรคปอด/ภาวะขาดออกซิเจน</li>
+<li>ความดันโลหิตสูงในปอดที่กลไกไม่ชัดเจน</li>
+<li>Braddock syndrome</li>
+<li>chronic pulmonary heart disease</li>
+<li>Prinzmetal angina</li>
+<li>cerebrovascular disorder</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

@@ -5,6 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพเกี่ยวกับ มะเร็ง (generic_cancer) ข่าว 6 รายการ ยาที่เกี่ยวข้อง 39 รายการ"
 permalink: /news/generic-cancer/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ มะเร็ง (generic_cancer)

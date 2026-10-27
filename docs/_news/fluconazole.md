@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Fluconazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluconazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Fluconazole ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/fluconazole/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Fluconazole
@@ -26,16 +27,16 @@ permalink: /news/fluconazole/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (10 รายการ)</strong>:<ul>
-<li>กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) (99.2%)</li>
-<li>Plasmodium falciparum malaria (98.6%)</li>
-<li>Pneumocystosis (97.8%)</li>
-<li>Allergic urticaria (98.5%)</li>
-<li>Hyperamylasemia (98.3%)</li>
-<li>Polyclonal hyperviscosity syndrome (98.3%)</li>
-<li>Congenital analbuminemia (98.0%)</li>
-<li>Blood group incompatibility (97.8%)</li>
-<li>Premalignant hematological system disease (97.4%)</li>
-<li>Papular urticaria (97.3%)</li>
+<li>กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)</li>
+<li>Plasmodium falciparum malaria</li>
+<li>Pneumocystosis</li>
+<li>Allergic urticaria</li>
+<li>Hyperamylasemia</li>
+<li>Polyclonal hyperviscosity syndrome</li>
+<li>Congenital analbuminemia</li>
+<li>Blood group incompatibility</li>
+<li>Premalignant hematological system disease</li>
+<li>Papular urticaria</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/fluconazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

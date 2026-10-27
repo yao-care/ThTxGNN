@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Calcipotriol"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcipotriol ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcipotriol ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/calcipotriol/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Calcipotriol
@@ -26,7 +27,7 @@ permalink: /news/calcipotriol/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L3</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>เซบอร์ริกเคอราโทซิส (Seborrheic Keratosis) (100.0%)</li>
+<li>เซบอร์ริกเคอราโทซิส (Seborrheic Keratosis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/calcipotriol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

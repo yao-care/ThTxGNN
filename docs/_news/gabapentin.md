@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Gabapentin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gabapentin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Gabapentin ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/gabapentin/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Gabapentin
@@ -26,7 +27,7 @@ permalink: /news/gabapentin/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>สิว (Acne) (98.5%)</li>
+<li>สิว (Acne)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/gabapentin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

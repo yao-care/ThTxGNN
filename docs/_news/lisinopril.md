@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lisinopril"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lisinopril ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lisinopril ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/lisinopril/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Lisinopril
@@ -26,7 +27,7 @@ permalink: /news/lisinopril/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>กล้ามเนื้อหัวใจตายชนิด Posterolateral (Posterolateral Myocardial Infarction) (99.9%)</li>
+<li>กล้ามเนื้อหัวใจตายชนิด Posterolateral (Posterolateral Myocardial Infarction)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

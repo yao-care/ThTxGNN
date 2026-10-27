@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Spironolactone"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Spironolactone ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Spironolactone ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/spironolactone/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Spironolactone
@@ -26,9 +27,9 @@ permalink: /news/spironolactone/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
-<li>ภาวะผมบางธรรมดาของหนังศีรษะ (Hypotrichosis Simplex of the Scalp) (99.3%)</li>
-<li>ผมร่วง (Alopecia) โดยเฉพาะผมร่วงจากพันธุกรรมในผู้หญิง (97.8%)</li>
-<li>โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease) (95.5%)</li>
+<li>ภาวะผมบางธรรมดาของหนังศีรษะ (Hypotrichosis Simplex of the Scalp)</li>
+<li>ผมร่วง (Alopecia) โดยเฉพาะผมร่วงจากพันธุกรรมในผู้หญิง</li>
+<li>โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/spironolactone/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

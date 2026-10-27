@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Tacrolimus"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tacrolimus ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tacrolimus ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/tacrolimus/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Tacrolimus
@@ -26,7 +27,7 @@ permalink: /news/tacrolimus/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis) (99.3%)</li>
+<li>ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

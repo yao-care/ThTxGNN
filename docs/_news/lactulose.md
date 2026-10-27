@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Lactulose"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lactulose ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lactulose ข้อบ่งใช้ที่คาดการณ์ 9 รายการ"
 permalink: /news/lactulose/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Lactulose
@@ -26,15 +27,15 @@ permalink: /news/lactulose/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (9 รายการ)</strong>:<ul>
-<li>ภาวะไตอักเสบเฉียบพลันจากกรดยูริก (Acute Urate Nephropathy) (99.9%)</li>
-<li>Acute urate nephropathy (99.9%)</li>
-<li>นิ่วในไต (Nephrolithiasis) (99.8%)</li>
-<li>ท่อน้ำดีอุดตันที่ทำให้ตัวเหลือง (Obstructive jaundice) (99.5%)</li>
-<li>โรคท่อน้ำดี (Bile duct disease) (99.5%)</li>
-<li>โรคทางเดินน้ำดี (Biliary tract disease) (99.4%)</li>
-<li>ภาวะฟอสเฟตในเลือดสูง (Hyperphosphatemia) (99.4%)</li>
-<li>ภาวะตัวร้อนเกินร้ายแรงจากการออกกำลังกาย (99.1%)</li>
-<li>เนื้องอกท่อน้ำดี (Bile duct neoplasm) (99.1%)</li>
+<li>ภาวะไตอักเสบเฉียบพลันจากกรดยูริก (Acute Urate Nephropathy)</li>
+<li>Acute urate nephropathy</li>
+<li>นิ่วในไต (Nephrolithiasis)</li>
+<li>ท่อน้ำดีอุดตันที่ทำให้ตัวเหลือง (Obstructive jaundice)</li>
+<li>โรคท่อน้ำดี (Bile duct disease)</li>
+<li>โรคทางเดินน้ำดี (Biliary tract disease)</li>
+<li>ภาวะฟอสเฟตในเลือดสูง (Hyperphosphatemia)</li>
+<li>ภาวะตัวร้อนเกินร้ายแรงจากการออกกำลังกาย</li>
+<li>เนื้องอกท่อน้ำดี (Bile duct neoplasm)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/lactulose/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

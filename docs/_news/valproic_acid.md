@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Valproic acid"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Valproic acid ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Valproic acid ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/valproic_acid/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Valproic acid

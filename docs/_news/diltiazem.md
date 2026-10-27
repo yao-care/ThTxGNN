@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Diltiazem"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diltiazem ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Diltiazem ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/diltiazem/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Diltiazem
@@ -26,7 +27,7 @@ permalink: /news/diltiazem/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>โรคหลอดเลือดสมอง (Cerebrovascular Disorder) ลำดับที่ 4 (97.6%)</li>
+<li>โรคหลอดเลือดสมอง (Cerebrovascular Disorder) ลำดับที่ 4</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/diltiazem/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

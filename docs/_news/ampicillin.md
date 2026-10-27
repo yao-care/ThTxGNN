@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Ampicillin"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ampicillin ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Ampicillin ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/ampicillin/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Ampicillin
@@ -26,7 +27,7 @@ permalink: /news/ampicillin/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>กล่องเสียงอักเสบ (Laryngitis) (100.0%)</li>
+<li>กล่องเสียงอักเสบ (Laryngitis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/ampicillin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

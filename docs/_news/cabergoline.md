@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Cabergoline"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cabergoline ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Cabergoline ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/cabergoline/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Cabergoline
@@ -26,7 +27,7 @@ permalink: /news/cabergoline/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>มะเร็งต่อมใต้สมอง (Pituitary Cancer) (99.0%)</li>
+<li>มะเร็งต่อมใต้สมอง (Pituitary Cancer)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/cabergoline/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

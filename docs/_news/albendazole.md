@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Albendazole"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Albendazole ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Albendazole ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/albendazole/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Albendazole
@@ -26,7 +27,7 @@ permalink: /news/albendazole/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis) (100.0%)</li>
+<li>โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/albendazole/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

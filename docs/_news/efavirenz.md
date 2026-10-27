@@ -3,8 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Efavirenz"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Efavirenz ข้อบ่งใช้เดิม:  ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Efavirenz ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
 permalink: /news/efavirenz/
+last_modified_at: 2026-10-27
 ---
 
 # ข่าวเกี่ยวกับ Efavirenz
@@ -26,7 +27,7 @@ permalink: /news/efavirenz/
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L4</li>
 <li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>การติดเชื้อไวรัสเอสไอวีในลิง (Simian Immunodeficiency Virus Infection) (99.8%)</li>
+<li>การติดเชื้อไวรัสเอสไอวีในลิง (Simian Immunodeficiency Virus Infection)</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/efavirenz/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
