@@ -14,7 +14,7 @@ permalink: /news/montelukast/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Montelukast บ้าง">
-ขณะนี้ <strong>Montelukast</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
+ขณะนี้ <strong>Montelukast</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ permalink: /news/montelukast/
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (0 ข่าว)
+## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
-*ยังไม่มีข่าวที่เกี่ยวข้อง เมื่อมีข่าวกล่าวถึงยานี้ ระบบจะรวบรวมและแสดงที่นี่โดยอัตโนมัติ*
+### [Amgen และ AstraZeneca รายงานผลการทดลองยารักษาโรคหืด](https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQldydWZQUFVwQmp1eXlvZjdvdmktMF9nTmE0UC1feVNmRzE0SkRiNnRmQnN0SlROcmpDU3FQUUdvVEFfS0V4X0dzRjFoWlJickdJdVZtekR0R0FPTGpIdUNIaTVCSFhnVHFlNjV5TjVtRVMzWHc?oc=5)
+
+2026-10-19 <span class="news-indication-tag">โรคหืด</span>
+
+แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMidkFVX3lxTE9TQldydWZQUFVwQmp1eXlvZjdvdmktMF9nTmE0UC1feVNmRzE0SkRiNnRmQnN0SlROcmpDU3FQUUdvVEFfS0V4X0dzRjFoWlJickdJdVZtekR0R0FPTGpIdUNIaTVCSFhnVHFlNjV5TjVtRVMzWHc?oc=5)
+
+---
 
 
 <div class="disclaimer">

@@ -14,7 +14,7 @@ permalink: /news/tacrolimus/
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Tacrolimus บ้าง">
-ขณะนี้ <strong>Tacrolimus</strong> มีข่าวที่เกี่ยวข้อง <strong>0 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
+ขณะนี้ <strong>Tacrolimus</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -32,9 +32,15 @@ permalink: /news/tacrolimus/
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (0 ข่าว)
+## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
-*ยังไม่มีข่าวที่เกี่ยวข้อง เมื่อมีข่าวกล่าวถึงยานี้ ระบบจะรวบรวมและแสดงที่นี่โดยอัตโนมัติ*
+### [ข้อเสนอให้เพิ่มความคุ้มครองประกันสุขภาพเป็น 70% สำหรับยาที่ใช้รักษาโรคสะเก็ดเงิน โดยยาบางชนิดมีราคาสูงถึงเกือบ 50 ล้านดองเวียดนาม](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkdic2N1bzQyTllyLVE5aF9pc3VmamlNa2xxdkxzMHo0bFUwM1QwWjhFa3lldDdZZW1fVndIS2FNeTlCNEI1a2lMLXhfV202R2JTNFVaaUVuX1BmckFRWTNjb20ySVhKU1NVcmV4c2s0bXA1MmlRZ2l5Z0V3YldDRGw1UV8xY0FkaFN3SFRHV3hjblRBZzNod1gwYTlfZmtjV3Br?oc=5)
+
+2026-10-25 <span class="news-indication-tag">โรคสะเก็ดเงิน</span> <span class="news-indication-tag">สะเก็ดเงิน</span>
+
+แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkdic2N1bzQyTllyLVE5aF9pc3VmamlNa2xxdkxzMHo0bFUwM1QwWjhFa3lldDdZZW1fVndIS2FNeTlCNEI1a2lMLXhfV202R2JTNFVaaUVuX1BmckFRWTNjb20ySVhKU1NVcmV4c2s0bXA1MmlRZ2l5Z0V3YldDRGw1UV8xY0FkaFN3SFRHV3hjblRBZzNod1gwYTlfZmtjV3Br?oc=5)
+
+---
 
 
 <div class="disclaimer">
