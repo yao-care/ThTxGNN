@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Furosemide บ้าง">
-ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
+ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>4 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -33,7 +33,7 @@ last_modified_at: 2026-10-27
 <p><a href="{{ '/drugs/furosemide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (3 ข่าว)
+## ข่าวที่เกี่ยวข้อง (4 ข่าว)
 
 ### [ยา Hansoh และ GSK ช่วยยืดอายุผู้ป่วยมะเร็งกระดูกในการศึกษาใหม่](https://news.google.com/rss/articles/CBMidkFVX3lxTE43Rnp3TWdjXzlDbnZLX19xMUlvMWxBM0w5SmVTb196cUp1blVGN0diNUhqS05lT3VIQVRid3dub1ZmTVNUWS01Ql9vZmZJdkVNejdnYzJ6WF9lVkJiVnphMVZBZERfSmg1dC1CZ3BQdFVVN3BPeUE?oc=5)
 
@@ -48,6 +48,14 @@ last_modified_at: 2026-10-27
 2026-10-26 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1YkN6RGZtQkxBUHBfV2otRjBpYUFtTk91ejVTY1BNUFRMZkFnS2d4NFUxRGZBNXdJZ3ZkOU1VaTdUX1FTQ3hYNGpaQnFhcEhqTVRTNXJVU2pwNmZUYkZjVVJtR192dVRteDNaTldvYw?oc=5)
+
+---
+
+### [BofA ชี้บริษัทยาแห่งนี้เป็นหุ้นเด่น หลังข้อมูลยารักษาโรคไตมีแนวโน้มดี](https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU1FiRjBnR0dMNHVGUkFkN2dlWVh5VFBTZ0J6Sm9LRlVqN3FRTjJEZlFkaGxFSUVwMndsNlJvd2lsRExmZXNrMVFrTDcyeXRpVC1Jd3Uxc3lUQWFNTlV0WUFZUlU4U3VRSlZJWUYwdw?oc=5)
+
+2026-10-26 <span class="news-indication-tag">โรคไต</span>
+
+แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU1FiRjBnR0dMNHVGUkFkN2dlWVh5VFBTZ0J6Sm9LRlVqN3FRTjJEZlFkaGxFSUVwMndsNlJvd2lsRExmZXNrMVFrTDcyeXRpVC1Jd3Uxc3lUQWFNTlV0WUFZUlU4U3VRSlZJWUYwdw?oc=5)
 
 ---
 
