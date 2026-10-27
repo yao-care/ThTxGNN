@@ -33,7 +33,8 @@ predicted_indications: ["antithrombin deficiency type 2", "factor 5 excess with 
 
 </div>
 
-# Erythropoietin: จากโลหิตจางสู่ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2)
+## Erythropoietin: จากโลหิตจางสู่ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

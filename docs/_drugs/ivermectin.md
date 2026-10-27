@@ -33,7 +33,8 @@ predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "a
 
 </div>
 
-# Ivermectin: จากพยาธิและเหา สู่การติดเชื้อราแคนดิดาในช่องคลอดและช่องคลอดอักเสบ
+## Ivermectin: จากพยาธิและเหา สู่การติดเชื้อราแคนดิดาในช่องคลอดและช่องคลอดอักเสบ
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

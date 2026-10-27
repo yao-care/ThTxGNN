@@ -33,7 +33,8 @@ predicted_indications: ["hepatic porphyria", "hepatopulmonary syndrome", "primit
 
 </div>
 
-# Allopurinol: จากเก๊าต์และกรดยูริกในเลือดสูง สู่พอร์ฟิเรียของตับ (Hepatic Porphyria)
+## Allopurinol: จากเก๊าต์และกรดยูริกในเลือดสูง สู่พอร์ฟิเรียของตับ (Hepatic Porphyria)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

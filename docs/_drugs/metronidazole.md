@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis", "punctate epithelial keratoconjunctivi
 
 </div>
 
-# Metronidazole: จากโรคติดเชื้อแบคทีเรียและปรสิต สู่โรคปอดอักเสบจากเชื้อนิวโมซิสติส (Pneumocystosis)
+## Metronidazole: จากโรคติดเชื้อแบคทีเรียและปรสิต สู่โรคปอดอักเสบจากเชื้อนิวโมซิสติส (Pneumocystosis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

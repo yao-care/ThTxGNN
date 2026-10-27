@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis exte
 
 </div>
 
-# Doxycycline: จากโรคติดเชื้อแบคทีเรียสู่ภาวะเยื่อบุตาและกระจกตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+## Doxycycline: จากโรคติดเชื้อแบคทีเรียสู่ภาวะเยื่อบุตาและกระจกตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

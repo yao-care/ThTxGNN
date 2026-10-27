@@ -33,7 +33,8 @@ predicted_indications: ["congenital disorder of glycosylation with defective fuc
 
 </div>
 
-# Haloperidol: จากโรคจิตและอาการกระวนกระวายสู่ความผิดปกติแต่กำเนิดของการเติมน้ำตาลชนิดที่การเติมฟูโคสบกพร่อง
+## Haloperidol: จากโรคจิตและอาการกระวนกระวายสู่ความผิดปกติแต่กำเนิดของการเติมน้ำตาลชนิดที่การเติมฟูโคสบกพร่อง
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

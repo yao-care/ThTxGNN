@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "sclerosing cho
 
 </div>
 
-# Vitamin D: จากภาวะขาดวิตามินดีสู่ความผิดปกติของการหลั่งสารจากเกล็ดเลือดแบบปฐมภูมิ (Primary Release Disorder of Platelets)
+## Vitamin D: จากภาวะขาดวิตามินดีสู่ความผิดปกติของการหลั่งสารจากเกล็ดเลือดแบบปฐมภูมิ (Primary Release Disorder of Platelets)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Atenolol: จากความดันโลหิตสูงและโรคหัวใจ สู่กล้ามเนื้อหัวใจตายผนังหลังด้านข้าง (Posterolateral Myocardial Infarction)
+## Atenolol: จากความดันโลหิตสูงและโรคหัวใจ สู่กล้ามเนื้อหัวใจตายผนังหลังด้านข้าง (Posterolateral Myocardial Infarction)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

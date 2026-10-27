@@ -33,7 +33,8 @@ predicted_indications: ["rosacea conjunctivitis", "cauda equina syndrome", "naso
 
 </div>
 
-# Diphenhydramine: จากอาการแพ้และนอนไม่หลับ สู่โรคจมูกอักเสบ (Rhinitis)
+## Diphenhydramine: จากอาการแพ้และนอนไม่หลับ สู่โรคจมูกอักเสบ (Rhinitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

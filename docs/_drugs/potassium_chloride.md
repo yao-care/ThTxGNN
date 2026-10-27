@@ -33,7 +33,8 @@ predicted_indications: ["renal tubular acidosis", "HELIX syndrome", "Alstrom syn
 
 </div>
 
-# Potassium chloride: จากภาวะโพแทสเซียมต่ำสู่ภาวะกรดในท่อไต (Renal Tubular Acidosis)
+## Potassium chloride: จากภาวะโพแทสเซียมต่ำสู่ภาวะกรดในท่อไต (Renal Tubular Acidosis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Timolol: จากต้อหินสู่ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม (Primary Hereditary Glaucoma)
+## Timolol: จากต้อหินสู่ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม (Primary Hereditary Glaucoma)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

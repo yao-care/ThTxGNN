@@ -33,7 +33,8 @@ predicted_indications: ["biotin metabolic disease", "non-syndromic esophageal ma
 
 </div>
 
-# Folic acid: จากภาวะขาดโฟลิกสู่โรคเมตาบอลิซึมของไบโอติน
+## Folic acid: จากภาวะขาดโฟลิกสู่โรคเมตาบอลิซึมของไบโอติน
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

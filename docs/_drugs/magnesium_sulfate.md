@@ -33,7 +33,8 @@ predicted_indications: ["preeclampsia/eclampsia", "toxemia of pregnancy", "throm
 
 </div>
 
-# Magnesium sulfate: จากภาวะแมกนีเซียมต่ำและครรภ์เป็นพิษ สู่ภาวะครรภ์เป็นพิษ/ชัก (Preeclampsia/Eclampsia)
+## Magnesium sulfate: จากภาวะแมกนีเซียมต่ำและครรภ์เป็นพิษ สู่ภาวะครรภ์เป็นพิษ/ชัก (Preeclampsia/Eclampsia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

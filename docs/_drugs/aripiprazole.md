@@ -33,7 +33,8 @@ predicted_indications: ["major affective disorder", "gaze palsy, familial horizo
 
 </div>
 
-# Aripiprazole: จากจิตเภทและไบโพลาร์สู่โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder)
+## Aripiprazole: จากจิตเภทและไบโพลาร์สู่โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

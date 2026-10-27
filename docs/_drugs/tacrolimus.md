@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "acute licheno
 
 </div>
 
-# Tacrolimus: จากการป้องกันการปฏิเสธอวัยวะสู่ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis)
+## Tacrolimus: จากการป้องกันการปฏิเสธอวัยวะสู่ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

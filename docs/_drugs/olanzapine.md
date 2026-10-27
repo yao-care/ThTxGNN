@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# Olanzapine: จากโรคจิตเภทและโรคไบโพลาร์ สู่ benign paroxysmal torticollis of infancy
+## Olanzapine: จากโรคจิตเภทและโรคไบโพลาร์ สู่ benign paroxysmal torticollis of infancy
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["pneumocystosis", "Cryptococcal meningitis", "geotrichos
 
 </div>
 
-# Itraconazole: จากโรคติดเชื้อราสู่โรคติดเชื้อนิวโมซิสติส (Pneumocystosis)
+## Itraconazole: จากโรคติดเชื้อราสู่โรคติดเชื้อนิวโมซิสติส (Pneumocystosis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

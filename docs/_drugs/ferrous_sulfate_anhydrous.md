@@ -33,7 +33,8 @@ predicted_indications: ["vitamin B12- and folate-independent constitutional mega
 
 </div>
 
-# Ferrous sulfate anhydrous: จากภาวะโลหิตจางจากขาดธาตุเหล็ก สู่ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต
+## Ferrous sulfate anhydrous: จากภาวะโลหิตจางจากขาดธาตุเหล็ก สู่ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

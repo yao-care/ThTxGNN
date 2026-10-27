@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction", "abnormality of glucagon secreti
 
 </div>
 
-# Lansoprazole: จากโรคกรดไหลย้อนและแผลในกระเพาะอาหาร สู่ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric Reflux)
+## Lansoprazole: จากโรคกรดไหลย้อนและแผลในกระเพาะอาหาร สู่ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric Reflux)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

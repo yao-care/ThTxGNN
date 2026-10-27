@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of 
 
 </div>
 
-# Alprazolam: จากวิตกกังวลและโรคตื่นตระหนก สู่ความกลัวที่โล่งแจ้ง (Agoraphobia)
+## Alprazolam: จากวิตกกังวลและโรคตื่นตระหนก สู่ความกลัวที่โล่งแจ้ง (Agoraphobia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

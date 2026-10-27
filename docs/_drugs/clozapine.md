@@ -33,7 +33,8 @@ predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome",
 
 </div>
 
-# Clozapine: จากจิตเภทสู่ภาวะแมเนียในโรคอารมณ์สองขั้ว
+## Clozapine: จากจิตเภทสู่ภาวะแมเนียในโรคอารมณ์สองขั้ว
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

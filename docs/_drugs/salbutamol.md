@@ -33,7 +33,8 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 
 </div>
 
-# Salbutamol: จากโรคหอบหืดและโรคปอดอุดกั้นเรื้อรังสู่เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis)
+## Salbutamol: จากโรคหอบหืดและโรคปอดอุดกั้นเรื้อรังสู่เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

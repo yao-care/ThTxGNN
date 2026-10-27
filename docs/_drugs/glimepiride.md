@@ -33,7 +33,8 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 
 </div>
 
-# Glimepiride: จากเบาหวานชนิดที่ 2 สู่กลุ่มอาการ Stiff Person แบบคลาสสิก
+## Glimepiride: จากเบาหวานชนิดที่ 2 สู่กลุ่มอาการ Stiff Person แบบคลาสสิก
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

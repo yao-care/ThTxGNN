@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Furosemide: จากอาการบวมน้ำและหัวใจล้มเหลวสู่ความดันโลหิตสูงชนิดรุนแรงจากหลอดเลือดไต
+## Furosemide: จากอาการบวมน้ำและหัวใจล้มเหลวสู่ความดันโลหิตสูงชนิดรุนแรงจากหลอดเลือดไต
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

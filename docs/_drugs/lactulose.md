@@ -33,7 +33,8 @@ predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructi
 
 </div>
 
-# Lactulose: จากอาการท้องผูกและโรคตับ สู่ภาวะไตวายเฉียบพลันจากกรดยูริก (Acute Urate Nephropathy)
+## Lactulose: จากอาการท้องผูกและโรคตับ สู่ภาวะไตวายเฉียบพลันจากกรดยูริก (Acute Urate Nephropathy)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

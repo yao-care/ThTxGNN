@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "brain stem infarction", "chol
 
 </div>
 
-# Atorvastatin: จากไขมันในเลือดสูงสู่ภาวะไขมันในเลือดสูงทางพันธุกรรม (Familial Hypercholesterolemia)
+## Atorvastatin: จากไขมันในเลือดสูงสู่ภาวะไขมันในเลือดสูงทางพันธุกรรม (Familial Hypercholesterolemia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

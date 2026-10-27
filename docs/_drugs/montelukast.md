@@ -33,7 +33,8 @@ predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease
 
 </div>
 
-# Montelukast: จากโรคหอบหืดและโรคภูมิแพ้ สู่หลอดลมอักเสบ (Bronchitis)
+## Montelukast: จากโรคหอบหืดและโรคภูมิแพ้ สู่หลอดลมอักเสบ (Bronchitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

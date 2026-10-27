@@ -33,7 +33,8 @@ predicted_indications: ["symptomatic form of fragile X syndrome in female carrie
 
 </div>
 
-# Estradiol: จากภาวะขาดฮอร์โมนเพศหญิงสู่ภาวะไม่ตกไข่ (Anovulation)
+## Estradiol: จากภาวะขาดฮอร์โมนเพศหญิงสู่ภาวะไม่ตกไข่ (Anovulation)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

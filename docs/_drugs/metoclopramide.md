@@ -33,7 +33,8 @@ predicted_indications: ["gastroduodenitis", "peptic ulcer perforation", "duodena
 
 </div>
 
-# Metoclopramide: จากอาการคลื่นไส้อาเจียนสู่แผลในกระเพาะอาหาร
+## Metoclopramide: จากอาการคลื่นไส้อาเจียนสู่แผลในกระเพาะอาหาร
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

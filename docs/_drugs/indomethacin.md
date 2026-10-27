@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Indomethacin: จากการบรรเทาปวด ต้านการอักเสบ และเก๊าต์ สู่กลุ่มอาการข้อนิ้วสั้นร่วมกับนิ้วติดกัน (Brachydactyly-Syndactyly Syndrome)
+## Indomethacin: จากการบรรเทาปวด ต้านการอักเสบ และเก๊าต์ สู่กลุ่มอาการข้อนิ้วสั้นร่วมกับนิ้วติดกัน (Brachydactyly-Syndactyly Syndrome)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

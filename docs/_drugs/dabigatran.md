@@ -33,7 +33,8 @@ predicted_indications: ["hemoglobinopathy", "myocardial infarction", "partial de
 
 </div>
 
-# Dabigatran: จากการป้องกันลิ่มเลือดและหัวใจเต้นผิดจังหวะ สู่โรคฮีโมโกลบินผิดปกติ (Hemoglobinopathy)
+## Dabigatran: จากการป้องกันลิ่มเลือดและหัวใจเต้นผิดจังหวะ สู่โรคฮีโมโกลบินผิดปกติ (Hemoglobinopathy)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

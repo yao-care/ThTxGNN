@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-# Tamsulosin: จากต่อมลูกหมากโตสู่กลุ่มอาการขนดกแต่กำเนิดแบบ Ambras (Ambras type hypertrichosis universalis congenita)
+## Tamsulosin: จากต่อมลูกหมากโตสู่กลุ่มอาการขนดกแต่กำเนิดแบบ Ambras (Ambras type hypertrichosis universalis congenita)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

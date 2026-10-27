@@ -33,7 +33,8 @@ predicted_indications: ["endemic goiter", "renal hypodysplasia/aplasia", "nodula
 
 </div>
 
-# Levothyroxine: จากภาวะไทรอยด์ต่ำสู่คอพอกเฉพาะถิ่น
+## Levothyroxine: จากภาวะไทรอยด์ต่ำสู่คอพอกเฉพาะถิ่น
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

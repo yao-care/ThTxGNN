@@ -33,7 +33,8 @@ predicted_indications: ["duodenogastric reflux", "duodenal obstruction", "esopha
 
 </div>
 
-# Sucralfate: จากแผลในกระเพาะอาหารสู่ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร
+## Sucralfate: จากแผลในกระเพาะอาหารสู่ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pitui
 
 </div>
 
-# Cabergoline: จากโพรแลกตินสูงสู่มะเร็งต่อมใต้สมอง (Pituitary Cancer)
+## Cabergoline: จากโพรแลกตินสูงสู่มะเร็งต่อมใต้สมอง (Pituitary Cancer)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

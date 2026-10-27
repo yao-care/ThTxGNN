@@ -33,7 +33,8 @@ predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndr
 
 </div>
 
-# Metformin: จากเบาหวานชนิดที่ 2 สู่ Focal Stiff Limb Syndrome
+## Metformin: จากเบาหวานชนิดที่ 2 สู่ Focal Stiff Limb Syndrome
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotr
 
 </div>
 
-# Spironolactone: จากอาการบวมน้ำและหัวใจล้มเหลวสู่ภาวะผมบางธรรมดาของหนังศีรษะ (Hypotrichosis Simplex of the Scalp)
+## Spironolactone: จากอาการบวมน้ำและหัวใจล้มเหลวสู่ภาวะผมบางธรรมดาของหนังศีรษะ (Hypotrichosis Simplex of the Scalp)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

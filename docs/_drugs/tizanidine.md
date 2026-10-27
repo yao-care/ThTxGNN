@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "mi
 
 </div>
 
-# Tizanidine: จากกล้ามเนื้อหดเกร็งสู่ไมเกรน (Migraine Disorder)
+## Tizanidine: จากกล้ามเนื้อหดเกร็งสู่ไมเกรน (Migraine Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

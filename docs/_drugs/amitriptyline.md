@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# Amitriptyline: จากโรคซึมเศร้าและปวดประสาทสู่อาการคอเอียงเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis of Infancy)
+## Amitriptyline: จากโรคซึมเศร้าและปวดประสาทสู่อาการคอเอียงเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis of Infancy)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

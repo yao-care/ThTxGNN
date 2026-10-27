@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease"
 
 </div>
 
-# Rivaroxaban: จากการป้องกันลิ่มเลือดและหัวใจเต้นผิดจังหวะ สู่โรคข้ออักเสบรูมาตอยด์
+## Rivaroxaban: จากการป้องกันลิ่มเลือดและหัวใจเต้นผิดจังหวะ สู่โรคข้ออักเสบรูมาตอยด์
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

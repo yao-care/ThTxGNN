@@ -33,7 +33,8 @@ predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gas
 
 </div>
 
-# Ranitidine: จากแผลในกระเพาะอาหารสู่แผลเปปติกที่ยังมีการอักเสบ (Active Peptic Ulcer Disease)
+## Ranitidine: จากแผลในกระเพาะอาหารสู่แผลเปปติกที่ยังมีการอักเสบ (Active Peptic Ulcer Disease)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

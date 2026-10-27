@@ -33,7 +33,8 @@ predicted_indications: ["furuncular myiasis", "creeping myiasis", "wound myiasis
 
 </div>
 
-# Terbinafine: จากเชื้อราผิวหนังสู่ภาวะหนอนแมลงวันชอนผิวหนังแบบฝี (Furuncular Myiasis)
+## Terbinafine: จากเชื้อราผิวหนังสู่ภาวะหนอนแมลงวันชอนผิวหนังแบบฝี (Furuncular Myiasis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

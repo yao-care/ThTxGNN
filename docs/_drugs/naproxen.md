@@ -33,7 +33,8 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-# Naproxen: จากการบรรเทาปวดและต้านการอักเสบสู่กลุ่มอาการ Brachydactyly-Syndactyly
+## Naproxen: จากการบรรเทาปวดและต้านการอักเสบสู่กลุ่มอาการ Brachydactyly-Syndactyly
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

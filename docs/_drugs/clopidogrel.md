@@ -33,7 +33,8 @@ predicted_indications: ["migraine with brainstem aura", "migraine disorder", "os
 
 </div>
 
-# Clopidogrel: จากการป้องกันลิ่มเลือดสู่ไมเกรนชนิดมีออร่าจากก้านสมอง (Migraine with Brainstem Aura)
+## Clopidogrel: จากการป้องกันลิ่มเลือดสู่ไมเกรนชนิดมีออร่าจากก้านสมอง (Migraine with Brainstem Aura)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

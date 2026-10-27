@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Losartan: จากความดันโลหิตสูงและโรคไตจากเบาหวาน สู่ความดันโลหิตสูงจากหลอดเลือดแดงไตตีบชนิดรุนแรง
+## Losartan: จากความดันโลหิตสูงและโรคไตจากเบาหวาน สู่ความดันโลหิตสูงจากหลอดเลือดแดงไตตีบชนิดรุนแรง
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

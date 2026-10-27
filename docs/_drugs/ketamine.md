@@ -33,7 +33,8 @@ predicted_indications: ["headache disorder", "trigeminal autonomic cephalalgia",
 
 </div>
 
-# Ketamine: จากยาสลบและภาวะซึมเศร้าสู่โรคปวดศีรษะ (Headache Disorder)
+## Ketamine: จากยาสลบและภาวะซึมเศร้าสู่โรคปวดศีรษะ (Headache Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

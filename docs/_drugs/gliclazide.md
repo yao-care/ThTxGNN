@@ -33,7 +33,8 @@ predicted_indications: ["classic stiff person syndrome", "focal stiff limb syndr
 
 </div>
 
-# Gliclazide: จากเบาหวานชนิดที่ 2 สู่โรคกล้ามเนื้อเกร็งแข็งชนิดคลาสสิก (Classic Stiff Person Syndrome)
+## Gliclazide: จากเบาหวานชนิดที่ 2 สู่โรคกล้ามเนื้อเกร็งแข็งชนิดคลาสสิก (Classic Stiff Person Syndrome)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-# Lamivudine: จากไวรัสตับอักเสบบีและเอชไอวี สู่การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (SIV)
+## Lamivudine: จากไวรัสตับอักเสบบีและเอชไอวี สู่การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (SIV)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

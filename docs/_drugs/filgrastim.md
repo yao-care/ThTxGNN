@@ -33,7 +33,8 @@ predicted_indications: ["primary release disorder of platelets", "pseudo-von Wil
 
 </div>
 
-# Filgrastim: จากภาวะเม็ดเลือดขาวต่ำ สู่ความผิดปกติของการหลั่งสารจากเกล็ดเลือดชนิดปฐมภูมิ
+## Filgrastim: จากภาวะเม็ดเลือดขาวต่ำ สู่ความผิดปกติของการหลั่งสารจากเกล็ดเลือดชนิดปฐมภูมิ
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

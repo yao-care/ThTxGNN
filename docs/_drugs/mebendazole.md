@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "leishmaniasis, diffuse cutaneous", "e
 
 </div>
 
-# Mebendazole: จากพยาธิ สู่สิว (Acne)
+## Mebendazole: จากพยาธิ สู่สิว (Acne)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

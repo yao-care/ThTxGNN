@@ -33,7 +33,8 @@ predicted_indications: ["schizotypal personality disorder", "schizoid personalit
 
 </div>
 
-# Sertraline: จากโรคซึมเศร้าและโรควิตกกังวลสู่โรคกลัวที่โล่งแจ้ง (Agoraphobia)
+## Sertraline: จากโรคซึมเศร้าและโรควิตกกังวลสู่โรคกลัวที่โล่งแจ้ง (Agoraphobia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["obsolete susceptibility to ischemic stroke", "brain ste
 
 </div>
 
-# Diltiazem: จากความดันโลหิตสูงและโรคหัวใจขาดเลือดสู่โรคหลอดเลือดสมอง (Cerebrovascular Disorder)
+## Diltiazem: จากความดันโลหิตสูงและโรคหัวใจขาดเลือดสู่โรคหลอดเลือดสมอง (Cerebrovascular Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

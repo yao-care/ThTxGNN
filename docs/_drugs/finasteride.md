@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-# Finasteride: จากต่อมลูกหมากโตและผมร่วงสู่ภาวะขนดกผิดปกติ (Ambras type hypertrichosis universalis congenita)
+## Finasteride: จากต่อมลูกหมากโตและผมร่วงสู่ภาวะขนดกผิดปกติ (Ambras type hypertrichosis universalis congenita)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

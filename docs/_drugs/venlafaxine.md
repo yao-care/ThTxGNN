@@ -33,7 +33,8 @@ predicted_indications: ["Ohdo syndrome and variants", "ligneous conjunctivitis",
 
 </div>
 
-# Venlafaxine: จากภาวะซึมเศร้าและวิตกกังวล สู่ Ohdo syndrome and variants
+## Venlafaxine: จากภาวะซึมเศร้าและวิตกกังวล สู่ Ohdo syndrome and variants
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

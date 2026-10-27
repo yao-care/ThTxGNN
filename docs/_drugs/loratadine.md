@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "ros
 
 </div>
 
-# Loratadine: จากโรคภูมิแพ้และลมพิษ สู่ลมพิษจากภูมิแพ้ (Allergic Urticaria)
+## Loratadine: จากโรคภูมิแพ้และลมพิษ สู่ลมพิษจากภูมิแพ้ (Allergic Urticaria)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

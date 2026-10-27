@@ -33,7 +33,8 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 </div>
 
-# Orphenadrine: จากอาการปวดกล้ามเนื้อสู่โรคจิตเภท (Schizophrenia)
+## Orphenadrine: จากอาการปวดกล้ามเนื้อสู่โรคจิตเภท (Schizophrenia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

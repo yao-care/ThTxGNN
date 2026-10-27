@@ -33,7 +33,8 @@ predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy w
 
 </div>
 
-# Propranolol: จากความดันโลหิตสูงและหัวใจเต้นเร็ว สู่ภาวะกล้ามเนื้อส่วนปลายเสื่อมชนิด Tateyama (Distal Myopathy, Tateyama Type)
+## Propranolol: จากความดันโลหิตสูงและหัวใจเต้นเร็ว สู่ภาวะกล้ามเนื้อส่วนปลายเสื่อมชนิด Tateyama (Distal Myopathy, Tateyama Type)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

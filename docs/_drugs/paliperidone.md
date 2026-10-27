@@ -33,7 +33,8 @@ predicted_indications: ["retinal dystrophy with or without extraocular anomalies
 
 </div>
 
-# Paliperidone: จากโรคจิตเภทสู่จอประสาทตาเสื่อมทางพันธุกรรม (ผลการทำนายจากโมเดลเท่านั้น)
+## Paliperidone: จากโรคจิตเภทสู่จอประสาทตาเสื่อมทางพันธุกรรม (ผลการทำนายจากโมเดลเท่านั้น)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

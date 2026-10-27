@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hyp
 
 </div>
 
-# Tadalafil: จากภาวะการแข็งตัวขององคชาตและต่อมลูกหมากโต สู่ภาวะขนดกแต่กำเนิดชนิด Ambras
+## Tadalafil: จากภาวะการแข็งตัวขององคชาตและต่อมลูกหมากโต สู่ภาวะขนดกแต่กำเนิดชนิด Ambras
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with
 
 </div>
 
-# Fluticasone: จากโรคหอบหืดและโรคจมูกอักเสบสู่ไมเกรน (Migraine Disorder)
+## Fluticasone: จากโรคหอบหืดและโรคจมูกอักเสบสู่ไมเกรน (Migraine Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

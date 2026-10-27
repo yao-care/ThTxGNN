@@ -33,7 +33,8 @@ predicted_indications: ["pulmonary hypertension owing to lung disease and/or hyp
 
 </div>
 
-# Lisinopril: จากความดันโลหิตสูงและหัวใจล้มเหลว สู่กล้ามเนื้อหัวใจตายชนิด Posterolateral
+## Lisinopril: จากความดันโลหิตสูงและหัวใจล้มเหลว สู่กล้ามเนื้อหัวใจตายชนิด Posterolateral
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dys
 
 </div>
 
-# Diclofenac: จากการบรรเทาปวดและต้านการอักเสบสู่ภาวะผมบางชนิด Hypotrichosis Simplex ของหนังศีรษะ
+## Diclofenac: จากการบรรเทาปวดและต้านการอักเสบสู่ภาวะผมบางชนิด Hypotrichosis Simplex ของหนังศีรษะ
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

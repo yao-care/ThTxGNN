@@ -33,7 +33,8 @@ predicted_indications: ["diffuse scleroderma", "paratyphoid fever", "salmonellos
 
 </div>
 
-# Vancomycin: จากโรคติดเชื้อแบคทีเรียดื้อยา สู่โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma)
+## Vancomycin: จากโรคติดเชื้อแบคทีเรียดื้อยา สู่โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

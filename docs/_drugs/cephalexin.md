@@ -33,7 +33,8 @@ predicted_indications: ["chronic otitis media", "suppurative otitis media", "mid
 
 </div>
 
-# Cephalexin: จากโรคติดเชื้อแบคทีเรียสู่โรคหูชั้นกลางอักเสบเรื้อรัง
+## Cephalexin: จากโรคติดเชื้อแบคทีเรียสู่โรคหูชั้นกลางอักเสบเรื้อรัง
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

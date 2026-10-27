@@ -33,7 +33,8 @@ predicted_indications: ["atopic eczema", "bronchitis", "dermatitis, atopic", "po
 
 </div>
 
-# Budesonide: จากโรคหอบหืดสู่ผิวหนังอักเสบภูมิแพ้ (Atopic Eczema)
+## Budesonide: จากโรคหอบหืดสู่ผิวหนังอักเสบภูมิแพ้ (Atopic Eczema)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

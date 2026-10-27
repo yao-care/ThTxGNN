@@ -33,7 +33,8 @@ predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal u
 
 </div>
 
-# Digoxin: จากหัวใจล้มเหลวและหัวใจเต้นผิดจังหวะ สู่ Prinzmetal angina
+## Digoxin: จากหัวใจล้มเหลวและหัวใจเต้นผิดจังหวะ สู่ Prinzmetal angina
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Celecoxib: จากการบรรเทาปวดและข้อเสื่อมสู่ภาวะกระดูกผิดปกติชนิด Acromesomelic Dysplasia (Hunter-Thompson type)
+## Celecoxib: จากการบรรเทาปวดและข้อเสื่อมสู่ภาวะกระดูกผิดปกติชนิด Acromesomelic Dysplasia (Hunter-Thompson type)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

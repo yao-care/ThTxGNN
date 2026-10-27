@@ -33,7 +33,8 @@ predicted_indications: ["Ambras type hypertrichosis universalis congenita", "mal
 
 </div>
 
-# Sildenafil: จากภาวะการแข็งตัวขององคชาตสู่ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis congenita)
+## Sildenafil: จากภาวะการแข็งตัวขององคชาตสู่ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis congenita)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

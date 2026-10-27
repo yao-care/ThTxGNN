@@ -33,7 +33,8 @@ predicted_indications: ["brain stem infarction", "pulmonary hypertension owing t
 
 </div>
 
-# Amlodipine: จากความดันโลหิตสูงและโรคหลอดเลือดหัวใจ สู่ภาวะสมองก้านสมองขาดเลือด (Brain Stem Infarction)
+## Amlodipine: จากความดันโลหิตสูงและโรคหลอดเลือดหัวใจ สู่ภาวะสมองก้านสมองขาดเลือด (Brain Stem Infarction)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

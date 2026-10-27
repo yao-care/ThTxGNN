@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure ke
 
 </div>
 
-# Clindamycin: จากโรคติดเชื้อแบคทีเรียสู่โรคกระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+## Clindamycin: จากโรคติดเชื้อแบคทีเรียสู่โรคกระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

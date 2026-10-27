@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atro
 
 </div>
 
-# Clotrimazole: จากโรคติดเชื้อราที่ผิวหนังสู่โรคช่องคลอดและปากช่องคลอดอักเสบ (Vulvovaginitis)
+## Clotrimazole: จากโรคติดเชื้อราที่ผิวหนังสู่โรคช่องคลอดและปากช่องคลอดอักเสบ (Vulvovaginitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

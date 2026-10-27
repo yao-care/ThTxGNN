@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Metoprolol: จากความดันโลหิตสูงและโรคหัวใจ สู่โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease)
+## Metoprolol: จากความดันโลหิตสูงและโรคหัวใจ สู่โรคหัวใจจากปอดเรื้อรัง (Chronic Pulmonary Heart Disease)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

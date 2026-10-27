@@ -33,7 +33,8 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine de
 
 </div>
 
-# Baclofen: จากกล้ามเนื้อหดเกร็งสู่โรคสมาธิสั้น (ADHD)
+## Baclofen: จากกล้ามเนื้อหดเกร็งสู่โรคสมาธิสั้น (ADHD)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

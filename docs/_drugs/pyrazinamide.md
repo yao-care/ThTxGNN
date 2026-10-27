@@ -33,7 +33,8 @@ predicted_indications: ["infectious otitis media", "middle ear disease", "otosal
 
 </div>
 
-# Pyrazinamide: จากวัณโรคสู่การติดเชื้อในหูชั้นกลาง (Infectious Otitis Media)
+## Pyrazinamide: จากวัณโรคสู่การติดเชื้อในหูชั้นกลาง (Infectious Otitis Media)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

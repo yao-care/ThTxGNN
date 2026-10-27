@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Prednisolone: จากการต้านการอักเสบและภูมิแพ้รุนแรงสู่โรคผมร่วงเป็นหย่อม (Alopecia Areata)
+## Prednisolone: จากการต้านการอักเสบและภูมิแพ้รุนแรงสู่โรคผมร่วงเป็นหย่อม (Alopecia Areata)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

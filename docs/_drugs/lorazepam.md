@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm"]
 
 </div>
 
-# Lorazepam: จากวิตกกังวลและนอนไม่หลับ สู่เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm)
+## Lorazepam: จากวิตกกังวลและนอนไม่หลับ สู่เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

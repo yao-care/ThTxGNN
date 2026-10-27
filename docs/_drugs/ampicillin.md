@@ -33,7 +33,8 @@ predicted_indications: ["laryngitis", "gonococcal urethritis", "Ureaplasma ureth
 
 </div>
 
-# Ampicillin: จากโรคติดเชื้อแบคทีเรียสู่โรคกล่องเสียงอักเสบ (Laryngitis)
+## Ampicillin: จากโรคติดเชื้อแบคทีเรียสู่โรคกล่องเสียงอักเสบ (Laryngitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

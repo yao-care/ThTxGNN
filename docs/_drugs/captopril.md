@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Captopril: จากความดันโลหิตสูงและหัวใจล้มเหลวสู่ความดันโลหิตสูงจากหลอดเลือดแดงไตชนิดรุนแรง (Malignant Renovascular Hypertension)
+## Captopril: จากความดันโลหิตสูงและหัวใจล้มเหลวสู่ความดันโลหิตสูงจากหลอดเลือดแดงไตชนิดรุนแรง (Malignant Renovascular Hypertension)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

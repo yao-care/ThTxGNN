@@ -33,7 +33,8 @@ predicted_indications: ["nasal cavity disease", "acute laryngopharyngitis", "ros
 
 </div>
 
-# Chlorpheniramine: จากอาการแพ้ ลมพิษ และคัดจมูก สู่ลมพิษจากภูมิแพ้ (Allergic Urticaria)
+## Chlorpheniramine: จากอาการแพ้ ลมพิษ และคัดจมูก สู่ลมพิษจากภูมิแพ้ (Allergic Urticaria)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

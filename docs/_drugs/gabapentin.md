@@ -33,7 +33,8 @@ predicted_indications: ["acne (disease)", "myofascial pain syndrome", "active ve
 
 </div>
 
-# Gabapentin: จากปวดประสาทและโรคลมชักสู่สิว (Acne)
+## Gabapentin: จากปวดประสาทและโรคลมชักสู่สิว (Acne)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

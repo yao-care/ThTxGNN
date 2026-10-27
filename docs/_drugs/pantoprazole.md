@@ -33,7 +33,8 @@ predicted_indications: ["duodenal obstruction"]
 
 </div>
 
-# Pantoprazole: จากโรคกรดไหลย้อนและแผลในกระเพาะอาหาร สู่แผลในกระเพาะอาหารและลำไส้เล็กส่วนต้นระยะเฉียบพลัน (Active Peptic Ulcer Disease)
+## Pantoprazole: จากโรคกรดไหลย้อนและแผลในกระเพาะอาหาร สู่แผลในกระเพาะอาหารและลำไส้เล็กส่วนต้นระยะเฉียบพลัน (Active Peptic Ulcer Disease)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma pr
 
 </div>
 
-# Colchicine: จากเก๊าต์เฉียบพลันสู่มาลาเรียชนิด Plasmodium falciparum
+## Colchicine: จากเก๊าต์เฉียบพลันสู่มาลาเรียชนิด Plasmodium falciparum
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

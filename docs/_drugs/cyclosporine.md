@@ -33,7 +33,8 @@ predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "
 
 </div>
 
-# Cyclosporine: จากการป้องกันการปฏิเสธอวัยวะสู่โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง (Chronic Granulomatous Disease)
+## Cyclosporine: จากการป้องกันการปฏิเสธอวัยวะสู่โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง (Chronic Granulomatous Disease)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

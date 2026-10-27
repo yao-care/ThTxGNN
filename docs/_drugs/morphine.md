@@ -33,7 +33,8 @@ predicted_indications: ["myofascial pain syndrome", "manic bipolar affective dis
 
 </div>
 
-# Morphine: จากการบรรเทาปวดรุนแรงสู่กลุ่มอาการขาอยู่ไม่สุข (Restless Legs Syndrome)
+## Morphine: จากการบรรเทาปวดรุนแรงสู่กลุ่มอาการขาอยู่ไม่สุข (Restless Legs Syndrome)
+{: .text-alpha }
 
 > หมายเหตุ: ข้อบ่งใช้ที่ทำนายอันดับ 1 คือ myofascial pain syndrome แต่ข้อบ่งใช้ที่มีหลักฐานแข็งแรงที่สุดจากข้อมูลที่รวบรวมสำหรับรายงานนี้คือ restless legs syndrome (อันดับ 4) รายงานนี้จึงเน้นอันดับ 4 และสรุปอันดับอื่นไว้เปรียบเทียบ
 

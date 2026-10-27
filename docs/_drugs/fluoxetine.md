@@ -33,7 +33,8 @@ predicted_indications: ["schizoid personality disorder", "paranoid personality d
 
 </div>
 
-# Fluoxetine: จากโรคซึมเศร้าและโรคย้ำคิดย้ำทำ สู่โรคกลัว (Phobic Disorder)
+## Fluoxetine: จากโรคซึมเศร้าและโรคย้ำคิดย้ำทำ สู่โรคกลัว (Phobic Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid arthritis", "sclerosing cholangitis", "colob
 
 </div>
 
-# Gentamicin: จากโรคติดเชื้อแบคทีเรียรุนแรง สู่ข้อข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis)
+## Gentamicin: จากโรคติดเชื้อแบคทีเรียรุนแรง สู่ข้อข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

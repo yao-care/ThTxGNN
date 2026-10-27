@@ -33,7 +33,8 @@ predicted_indications: ["obsolete bundle branch block", "malignant hypertensive 
 
 </div>
 
-# Verapamil: จากความดันโลหิตสูงและหัวใจเต้นผิดจังหวะ สู่ภาวะบันเดิลแบรนช์บล็อก (Bundle Branch Block)
+## Verapamil: จากความดันโลหิตสูงและหัวใจเต้นผิดจังหวะ สู่ภาวะบันเดิลแบรนช์บล็อก (Bundle Branch Block)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

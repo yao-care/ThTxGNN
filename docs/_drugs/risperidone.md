@@ -33,7 +33,8 @@ predicted_indications: ["gaze palsy, familial horizontal, with progressive scoli
 
 </div>
 
-# Risperidone: จากโรคจิตเภทสู่อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (Familial Horizontal Gaze Palsy with Progressive Scoliosis)
+## Risperidone: จากโรคจิตเภทสู่อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (Familial Horizontal Gaze Palsy with Progressive Scoliosis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

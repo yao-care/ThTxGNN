@@ -33,7 +33,8 @@ predicted_indications: ["chronic pulmonary heart disease", "acute pulmonary hear
 
 </div>
 
-# Enalapril: จากความดันโลหิตสูงและหัวใจล้มเหลวสู่โรคหัวใจจากปอดเรื้อรัง
+## Enalapril: จากความดันโลหิตสูงและหัวใจล้มเหลวสู่โรคหัวใจจากปอดเรื้อรัง
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

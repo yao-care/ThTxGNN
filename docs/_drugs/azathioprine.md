@@ -33,7 +33,8 @@ predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndro
 
 </div>
 
-# Azathioprine: จากโรคภูมิคุ้มกันผิดปกติ สู่กลุ่มอาการ Colobomatous Microphthalmia-Rhizomelic Dysplasia
+## Azathioprine: จากโรคภูมิคุ้มกันผิดปกติ สู่กลุ่มอาการ Colobomatous Microphthalmia-Rhizomelic Dysplasia
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

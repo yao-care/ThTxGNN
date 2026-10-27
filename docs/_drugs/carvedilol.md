@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Carvedilol: จากความดันโลหิตสูงและหัวใจล้มเหลว สู่ความดันโลหิตสูงรุนแรงจากหลอดเลือดแดงไต (Malignant Renovascular Hypertension)
+## Carvedilol: จากความดันโลหิตสูงและหัวใจล้มเหลว สู่ความดันโลหิตสูงรุนแรงจากหลอดเลือดแดงไต (Malignant Renovascular Hypertension)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

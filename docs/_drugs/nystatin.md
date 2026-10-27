@@ -33,7 +33,8 @@ predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease 
 
 </div>
 
-# Nystatin: จากเชื้อราในช่องปากสู่โรคช่องคลอดและช่องคลอดภายนอกอักเสบ (Vulvovaginitis)
+## Nystatin: จากเชื้อราในช่องปากสู่โรคช่องคลอดและช่องคลอดภายนอกอักเสบ (Vulvovaginitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

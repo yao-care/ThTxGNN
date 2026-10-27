@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Tramadol: จากอาการปวดปานกลางถึงรุนแรง สู่ภาวะกระดูกเจริญผิดปกติชนิด Acromesomelic Dysplasia (Hunter-Thompson type)
+## Tramadol: จากอาการปวดปานกลางถึงรุนแรง สู่ภาวะกระดูกเจริญผิดปกติชนิด Acromesomelic Dysplasia (Hunter-Thompson type)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

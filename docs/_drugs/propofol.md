@@ -33,7 +33,8 @@ predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Pr
 
 </div>
 
-# Propofol: จากยาสลบสู่ไมเกรน
+## Propofol: จากยาสลบสู่ไมเกรน
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

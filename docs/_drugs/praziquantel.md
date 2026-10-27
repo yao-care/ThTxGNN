@@ -33,7 +33,8 @@ predicted_indications: ["uterine corpus epithelioid leiomyosarcoma", "Plasmodium
 
 </div>
 
-# Praziquantel: จากพยาธิใบไม้ตับสู่มาลาเรียชนิดฟัลซิปารัม (Plasmodium falciparum)
+## Praziquantel: จากพยาธิใบไม้ตับสู่มาลาเรียชนิดฟัลซิปารัม (Plasmodium falciparum)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

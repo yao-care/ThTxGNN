@@ -33,7 +33,8 @@ predicted_indications: ["tinea corporis", "Plasmodium ovale malaria", "creeping 
 
 </div>
 
-# Mefloquine: จากมาลาเรียสู่มาลาเรีย (การทำนายตรงกับข้อบ่งใช้เดิม)
+## Mefloquine: จากมาลาเรียสู่มาลาเรีย (การทำนายตรงกับข้อบ่งใช้เดิม)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

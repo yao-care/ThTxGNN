@@ -33,7 +33,8 @@ predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intell
 
 </div>
 
-# Mirtazapine: จากภาวะซึมเศร้าสู่ Ohdo syndrome and variants
+## Mirtazapine: จากภาวะซึมเศร้าสู่ Ohdo syndrome and variants
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

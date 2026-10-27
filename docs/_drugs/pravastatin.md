@@ -33,7 +33,8 @@ predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder w
 
 </div>
 
-# Pravastatin: จากไขมันในเลือดสูงสู่ภาวะไขมันในเลือดสูงชนิดพันธุกรรมแบบโฮโมไซกัส
+## Pravastatin: จากไขมันในเลือดสูงสู่ภาวะไขมันในเลือดสูงชนิดพันธุกรรมแบบโฮโมไซกัส
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

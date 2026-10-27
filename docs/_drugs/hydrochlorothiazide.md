@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Hydrochlorothiazide: จากความดันโลหิตสูงและบวมน้ำ สู่โรคไตจากความดันโลหิตสูงรุนแรง (Malignant Hypertensive Renal Disease)
+## Hydrochlorothiazide: จากความดันโลหิตสูงและบวมน้ำ สู่โรคไตจากความดันโลหิตสูงรุนแรง (Malignant Hypertensive Renal Disease)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

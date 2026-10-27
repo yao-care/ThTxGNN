@@ -33,7 +33,8 @@ predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "
 
 </div>
 
-# Loperamide: จากท้องเสียสู่เยื่อบุตาอักเสบติดต่อเฉียบพลัน
+## Loperamide: จากท้องเสียสู่เยื่อบุตาอักเสบติดต่อเฉียบพลัน
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

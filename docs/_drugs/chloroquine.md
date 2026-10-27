@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiop
 
 </div>
 
-# Chloroquine: จากมาลาเรียสู่ข้ออักเสบไอดิโอพาทิกในเด็กชนิดหลายข้อที่มีรูมาตอยด์แฟคเตอร์เป็นบวก
+## Chloroquine: จากมาลาเรียสู่ข้ออักเสบไอดิโอพาทิกในเด็กชนิดหลายข้อที่มีรูมาตอยด์แฟคเตอร์เป็นบวก
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

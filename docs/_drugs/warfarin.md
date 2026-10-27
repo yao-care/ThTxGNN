@@ -33,7 +33,8 @@ predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with s
 
 </div>
 
-# Warfarin: จากการป้องกันลิ่มเลือดสู่ภาวะเลือดแข็งตัวง่าย (Thrombophilia)
+## Warfarin: จากการป้องกันลิ่มเลือดสู่ภาวะเลือดแข็งตัวง่าย (Thrombophilia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["resistance to thyroid hormone due to a mutation in thyr
 
 </div>
 
-# Propylthiouracil: จากภาวะไทรอยด์เป็นพิษสู่ความผิดปกติของไทรอยด์จากภูมิคุ้มกันตนเอง
+## Propylthiouracil: จากภาวะไทรอยด์เป็นพิษสู่ความผิดปกติของไทรอยด์จากภูมิคุ้มกันตนเอง
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

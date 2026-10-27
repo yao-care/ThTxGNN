@@ -33,7 +33,8 @@ predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the 
 
 </div>
 
-# Latanoprost: จากต้อหินและความดันในตาสูงสู่ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม
+## Latanoprost: จากต้อหินและความดันในตาสูงสู่ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["papillary conjunctivitis", "lichen disease", "congenita
 
 </div>
 
-# Brimonidine: จากต้อหินสู่เยื่อบุตาอักเสบชนิดปุ่ม (Papillary Conjunctivitis)
+## Brimonidine: จากต้อหินสู่เยื่อบุตาอักเสบชนิดปุ่ม (Papillary Conjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

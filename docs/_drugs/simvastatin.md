@@ -33,7 +33,8 @@ predicted_indications: ["brain stem infarction", "cholesterol-ester transfer pro
 
 </div>
 
-# Simvastatin: จากไขมันในเลือดสูงสู่ภาวะไขมันในเลือดสูงชนิดพันธุกรรม (Familial Hypercholesterolemia)
+## Simvastatin: จากไขมันในเลือดสูงสู่ภาวะไขมันในเลือดสูงชนิดพันธุกรรม (Familial Hypercholesterolemia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

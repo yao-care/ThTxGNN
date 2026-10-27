@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute conta
 
 </div>
 
-# Erythromycin: จากโรคติดเชื้อแบคทีเรียสู่โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjunctivitis)
+## Erythromycin: จากโรคติดเชื้อแบคทีเรียสู่โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

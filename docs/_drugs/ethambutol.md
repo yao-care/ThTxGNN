@@ -33,7 +33,8 @@ predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection",
 
 </div>
 
-# Ethambutol: จากวัณโรคสู่ภาวะกล่องเสียงฝาปิดอักเสบ (Epiglottitis)
+## Ethambutol: จากวัณโรคสู่ภาวะกล่องเสียงฝาปิดอักเสบ (Epiglottitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

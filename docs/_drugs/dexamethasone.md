@@ -33,7 +33,8 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-# Dexamethasone: จากการต้านการอักเสบ สู่โรคผมร่วงเป็นหย่อม (Alopecia Areata)
+## Dexamethasone: จากการต้านการอักเสบ สู่โรคผมร่วงเป็นหย่อม (Alopecia Areata)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

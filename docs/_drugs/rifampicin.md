@@ -33,7 +33,8 @@ predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne 
 
 </div>
 
-# Rifampicin: จากวัณโรคสู่เยื่อบุตาอักเสบ (Conjunctivitis)
+## Rifampicin: จากวัณโรคสู่เยื่อบุตาอักเสบ (Conjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

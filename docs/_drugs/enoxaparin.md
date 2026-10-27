@@ -33,7 +33,8 @@ predicted_indications: ["thrombophilia due to protein C deficiency, autosomal re
 
 </div>
 
-# Enoxaparin: จากการป้องกันลิ่มเลือดสู่ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C (Thrombophilia due to Protein C Deficiency)
+## Enoxaparin: จากการป้องกันลิ่มเลือดสู่ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C (Thrombophilia due to Protein C Deficiency)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

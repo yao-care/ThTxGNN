@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficien
 
 </div>
 
-# Carbamazepine: จากโรคลมชักและปวดประสาทสู่เนื้องอกเส้นประสาทไทรเจมินัล
+## Carbamazepine: จากโรคลมชักและปวดประสาทสู่เนื้องอกเส้นประสาทไทรเจมินัล
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

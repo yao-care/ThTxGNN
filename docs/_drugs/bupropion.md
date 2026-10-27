@@ -33,7 +33,8 @@ predicted_indications: ["attention deficit-hyperactivity disorder", "attention d
 
 </div>
 
-# Bupropion: จากภาวะซึมเศร้าและการเลิกบุหรี่ สู่โรคสมาธิสั้น (ADHD)
+## Bupropion: จากภาวะซึมเศร้าและการเลิกบุหรี่ สู่โรคสมาธิสั้น (ADHD)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

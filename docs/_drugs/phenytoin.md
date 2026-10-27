@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia", "be
 
 </div>
 
-# Phenytoin: จากโรคลมชักสู่เนื้องอกของเส้นประสาทไทรเจมินัล
+## Phenytoin: จากโรคลมชักสู่เนื้องอกของเส้นประสาทไทรเจมินัล
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

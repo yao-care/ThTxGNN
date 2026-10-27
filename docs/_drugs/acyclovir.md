@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart
 
 </div>
 
-# Acyclovir: จากโรคเริมและงูสวัดสู่ภาวะกระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+## Acyclovir: จากโรคเริมและงูสวัดสู่ภาวะกระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

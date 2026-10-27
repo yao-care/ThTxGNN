@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "P
 
 </div>
 
-# Domperidone: จากอาการคลื่นไส้อาเจียนและอาหารไม่ย่อย สู่โรคปวดศีรษะ (Headache Disorder)
+## Domperidone: จากอาการคลื่นไส้อาเจียนและอาหารไม่ย่อย สู่โรคปวดศีรษะ (Headache Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

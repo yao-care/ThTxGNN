@@ -33,7 +33,8 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-# Ceftriaxone: จากโรคติดเชื้อแบคทีเรียรุนแรงสู่ภาวะอะไมเลสในเลือดสูง (Hyperamylasemia)
+## Ceftriaxone: จากโรคติดเชื้อแบคทีเรียรุนแรงสู่ภาวะอะไมเลสในเลือดสูง (Hyperamylasemia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

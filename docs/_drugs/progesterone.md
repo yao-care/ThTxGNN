@@ -33,7 +33,8 @@ predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "b
 
 </div>
 
-# Progesterone: จากภาวะขาดฮอร์โมนสู่ภาวะประจำเดือนขาด (Amenorrhea)
+## Progesterone: จากภาวะขาดฮอร์โมนสู่ภาวะประจำเดือนขาด (Amenorrhea)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

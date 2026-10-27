@@ -33,7 +33,8 @@ predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotr
 
 </div>
 
-# Theophylline: จากโรคหอบหืดสู่โรคหลอดเลือดอุดตัน (Thrombotic Disease)
+## Theophylline: จากโรคหอบหืดสู่โรคหลอดเลือดอุดตัน (Thrombotic Disease)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

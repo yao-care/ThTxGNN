@@ -33,7 +33,8 @@ predicted_indications: ["simian immunodeficiency virus infection", "feline acqui
 
 </div>
 
-# Efavirenz: จาก เอชไอวี สู่ การติดเชื้อไวรัสเอสไอวีในลิง (Simian Immunodeficiency Virus Infection)
+## Efavirenz: จาก เอชไอวี สู่ การติดเชื้อไวรัสเอสไอวีในลิง (Simian Immunodeficiency Virus Infection)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis", "T
 
 </div>
 
-# Ondansetron: จากอาการคลื่นไส้อาเจียนสู่กลุ่มอาการทูเร็ตต์ (Tourette Syndrome)
+## Ondansetron: จากอาการคลื่นไส้อาเจียนสู่กลุ่มอาการทูเร็ตต์ (Tourette Syndrome)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary c
 
 </div>
 
-# Lidocaine: จากยาชาและหัวใจเต้นผิดจังหวะ สู่ภาวะเยื่อบุตาผิดปกติ (Conjunctival Disorder)
+## Lidocaine: จากยาชาและหัวใจเต้นผิดจังหวะ สู่ภาวะเยื่อบุตาผิดปกติ (Conjunctival Disorder)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

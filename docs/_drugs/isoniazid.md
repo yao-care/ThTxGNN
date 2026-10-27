@@ -33,7 +33,8 @@ predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "shigellosis",
 
 </div>
 
-# Isoniazid: จากวัณโรคสู่เยื่อบุตาอักเสบ (Conjunctivitis)
+## Isoniazid: จากวัณโรคสู่เยื่อบุตาอักเสบ (Conjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["thrombophilia due to protein C deficiency, autosomal re
 
 </div>
 
-# Heparin: จากการป้องกันและรักษาลิ่มเลือด สู่ภาวะพร่องโปรตีนซี (Protein C Deficiency)
+## Heparin: จากการป้องกันและรักษาลิ่มเลือด สู่ภาวะพร่องโปรตีนซี (Protein C Deficiency)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["calcium-alkali syndrome", "primary bone dysplasia with 
 
 </div>
 
-# Calcium carbonate: จากการเสริมแคลเซียมสู่ภาวะ Calcium-alkali syndrome (สัญญาณที่เป็นผลไม่พึงประสงค์ ไม่ใช่ข้อบ่งใช้ที่รักษาได้)
+## Calcium carbonate: จากการเสริมแคลเซียมสู่ภาวะ Calcium-alkali syndrome (สัญญาณที่เป็นผลไม่พึงประสงค์ ไม่ใช่ข้อบ่งใช้ที่รักษาได้)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

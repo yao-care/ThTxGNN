@@ -33,7 +33,8 @@ predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndro
 
 </div>
 
-# Ciprofloxacin: จากโรคติดเชื้อแบคทีเรียและติดเชื้อทางเดินปัสสาวะ สู่โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma)
+## Ciprofloxacin: จากโรคติดเชื้อแบคทีเรียและติดเชื้อทางเดินปัสสาวะ สู่โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

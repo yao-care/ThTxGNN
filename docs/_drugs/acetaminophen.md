@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal autonomic cephalalgia", "atrophoderma vermic
 
 </div>
 
-# Acetaminophen: จากการลดไข้และบรรเทาปวด สู่ไมเกรนที่มีออร่าจากก้านสมอง (Migraine with Brainstem Aura)
+## Acetaminophen: จากการลดไข้และบรรเทาปวด สู่ไมเกรนที่มีออร่าจากก้านสมอง (Migraine with Brainstem Aura)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

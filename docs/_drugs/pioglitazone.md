@@ -33,7 +33,8 @@ predicted_indications: ["opsismodysplasia", "focal stiff limb syndrome", "classi
 
 </div>
 
-# Pioglitazone: จากเบาหวานชนิดที่ 2 สู่ Opsismodysplasia
+## Pioglitazone: จากเบาหวานชนิดที่ 2 สู่ Opsismodysplasia
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

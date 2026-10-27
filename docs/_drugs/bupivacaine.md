@@ -33,7 +33,8 @@ predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermato
 
 </div>
 
-# Bupivacaine: จากยาชาสู่ acrodermatitis chronica atrophicans
+## Bupivacaine: จากยาชาสู่ acrodermatitis chronica atrophicans
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

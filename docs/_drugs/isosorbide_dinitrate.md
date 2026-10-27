@@ -33,7 +33,8 @@ predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrich
 
 </div>
 
-# Isosorbide dinitrate: จากโรคหัวใจขาดเลือดสู่ผมร่วง (Alopecia)
+## Isosorbide dinitrate: จากโรคหัวใจขาดเลือดสู่ผมร่วง (Alopecia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

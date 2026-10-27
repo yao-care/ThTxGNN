@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Isotretinoin: จากสิวรุนแรงสู่โรคไตจากความดันโลหิตสูงชนิดรุนแรง
+## Isotretinoin: จากสิวรุนแรงสู่โรคไตจากความดันโลหิตสูงชนิดรุนแรง
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep di
 
 </div>
 
-# Diazepam: จากวิตกกังวล ชัก และกล้ามเนื้อเกร็ง สู่โรคนอนไม่หลับ
+## Diazepam: จากวิตกกังวล ชัก และกล้ามเนื้อเกร็ง สู่โรคนอนไม่หลับ
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

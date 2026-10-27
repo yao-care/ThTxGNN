@@ -33,7 +33,8 @@ predicted_indications: ["rheumatoid nodulosis", "rheumatoid factor-positive poly
 
 </div>
 
-# Tretinoin: จากสิวสู่ภาวะข้อรูมาตอยด์ชนิดมีปุ่มใต้ผิวหนัง (Rheumatoid Nodulosis)
+## Tretinoin: จากสิวสู่ภาวะข้อรูมาตอยด์ชนิดมีปุ่มใต้ผิวหนัง (Rheumatoid Nodulosis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

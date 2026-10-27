@@ -33,7 +33,8 @@ predicted_indications: ["myiasis", "wound myiasis", "furuncular myiasis", "creep
 
 </div>
 
-# Primaquine: จากมาลาเรียสู่โรคตัวอ่อนแมลงวันไชเนื้อ (Myiasis)
+## Primaquine: จากมาลาเรียสู่โรคตัวอ่อนแมลงวันไชเนื้อ (Myiasis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

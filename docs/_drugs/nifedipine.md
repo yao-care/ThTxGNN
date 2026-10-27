@@ -33,7 +33,8 @@ predicted_indications: ["migraine with brainstem aura", "migraine disorder", "pu
 
 </div>
 
-# Nifedipine: จากความดันโลหิตสูงและโรคหัวใจขาดเลือดสู่ไมเกรน (Migraine with Brainstem Aura)
+## Nifedipine: จากความดันโลหิตสูงและโรคหัวใจขาดเลือดสู่ไมเกรน (Migraine with Brainstem Aura)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

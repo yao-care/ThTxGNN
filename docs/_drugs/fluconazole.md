@@ -33,7 +33,8 @@ predicted_indications: ["punctate epithelial keratoconjunctivitis", "Plasmodium 
 
 </div>
 
-# Fluconazole: จากโรคติดเชื้อราสู่กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+## Fluconazole: จากโรคติดเชื้อราสู่กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

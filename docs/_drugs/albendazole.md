@@ -33,7 +33,8 @@ predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infect
 
 </div>
 
-# Albendazole: จากโรคพยาธิสู่โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis)
+## Albendazole: จากโรคพยาธิสู่โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

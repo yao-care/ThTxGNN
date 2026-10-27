@@ -33,7 +33,8 @@ predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
 
 </div>
 
-# Valproic acid: จากโรคลมชักและโรคไบโพลาร์ สู่เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm)
+## Valproic acid: จากโรคลมชักและโรคไบโพลาร์ สู่เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

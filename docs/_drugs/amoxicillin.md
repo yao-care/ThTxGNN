@@ -33,7 +33,8 @@ predicted_indications: ["hyperamylasemia", "polyclonal hyperviscosity syndrome",
 
 </div>
 
-# Amoxicillin: จากโรคติดเชื้อแบคทีเรียสู่ภาวะอะไมเลสในเลือดสูง (Hyperamylasemia)
+## Amoxicillin: จากโรคติดเชื้อแบคทีเรียสู่ภาวะอะไมเลสในเลือดสูง (Hyperamylasemia)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

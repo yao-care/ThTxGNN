@@ -33,7 +33,8 @@ predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia",
 
 </div>
 
-# Azithromycin: จากโรคติดเชื้อแบคทีเรียสู่ polyclonal hyperviscosity syndrome
+## Azithromycin: จากโรคติดเชื้อแบคทีเรียสู่ polyclonal hyperviscosity syndrome
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

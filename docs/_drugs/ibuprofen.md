@@ -33,7 +33,8 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-# Ibuprofen: จากบรรเทาปวด ลดไข้ ต้านการอักเสบ สู่ acromesomelic dysplasia ชนิด Hunter-Thompson
+## Ibuprofen: จากบรรเทาปวด ลดไข้ ต้านการอักเสบ สู่ acromesomelic dysplasia ชนิด Hunter-Thompson
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

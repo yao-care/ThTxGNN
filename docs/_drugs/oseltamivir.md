@@ -33,7 +33,8 @@ predicted_indications: ["pyelonephritis", "disorder of tyrosine metabolism", "te
 
 </div>
 
-# Oseltamivir: จากไข้หวัดใหญ่ สู่ pyelonephritis (กรวยไตอักเสบ)
+## Oseltamivir: จากไข้หวัดใหญ่ สู่ pyelonephritis (กรวยไตอักเสบ)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

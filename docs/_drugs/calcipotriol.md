@@ -33,7 +33,8 @@ predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular kera
 
 </div>
 
-# Calcipotriol: จากสะเก็ดเงินสู่ไขมันเคราตินชนิดเซบอร์ริก (Seborrheic Keratosis)
+## Calcipotriol: จากสะเก็ดเงินสู่ไขมันเคราตินชนิดเซบอร์ริก (Seborrheic Keratosis)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

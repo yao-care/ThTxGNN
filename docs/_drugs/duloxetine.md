@@ -33,7 +33,8 @@ predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia
 
 </div>
 
-# Duloxetine: จากภาวะซึมเศร้าและอาการปวดปลายประสาท สู่ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis of Infancy)
+## Duloxetine: จากภาวะซึมเศร้าและอาการปวดปลายประสาท สู่ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis of Infancy)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

@@ -33,7 +33,8 @@ predicted_indications: ["malignant hypertensive renal disease", "pulmonary hyper
 
 </div>
 
-# Bisoprolol: จากความดันโลหิตสูงและหัวใจล้มเหลว สู่ภาวะความดันโลหิตสูงในปอดชนิดรุนแรง (malignant renovascular hypertension)
+## Bisoprolol: จากความดันโลหิตสูงและหัวใจล้มเหลว สู่ภาวะความดันโลหิตสูงในปอดชนิดรุนแรง (malignant renovascular hypertension)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

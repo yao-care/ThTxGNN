@@ -33,7 +33,8 @@ predicted_indications: ["beta-ketothiolase deficiency"]
 
 </div>
 
-# Levetiracetam: จากโรคลมชักสู่ภาวะชักต่อเนื่อง (Status Epilepticus)
+## Levetiracetam: จากโรคลมชักสู่ภาวะชักต่อเนื่อง (Status Epilepticus)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 

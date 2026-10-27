@@ -33,7 +33,8 @@ predicted_indications: ["polysomy of X chromosome", "tetragametic chimerism", "p
 
 </div>
 
-# Testosterone: จากภาวะขาดฮอร์โมนเพศชายสู่ภาวะโครโมโซม X เกิน (Polysomy of X chromosome)
+## Testosterone: จากภาวะขาดฮอร์โมนเพศชายสู่ภาวะโครโมโซม X เกิน (Polysomy of X chromosome)
+{: .text-alpha }
 
 ## สรุปสั้นๆ
 
