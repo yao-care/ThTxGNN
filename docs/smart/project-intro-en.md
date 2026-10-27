@@ -29,7 +29,7 @@ nav_order: 10
 
 | Metric | Count |
 |--------|-------|
-| Drug Reports | 191 |
+| Drug Reports | {{ site.data.drug_stats.total_drugs }} |
 | Drug Repurposing Candidates | 142,328 |
 | Predicted Indications | 1,268 |
 | Drug-Drug Interactions (DDI) | 222,391 |

@@ -1,0 +1,14 @@
+[
+  [
+    "docs/nav-drugs.md",
+    "(^description: \\\"[^\\\"\\n]*ข้อบ่งใช้ใหม่ )([\\d,]+)( รายการ)"
+  ],
+  [
+    "docs/news.md",
+    "(^description: \\\"ติดตามข่าวสุขภาพล่าสุดเกี่ยวกับยา )([\\d,]+)( ชนิด)"
+  ],
+  [
+    "docs/assets/images/og-default.svg",
+    "(text-anchor=\\\"middle\\\">)([\\d,]+)( รายงานยา)"
+  ]
+]

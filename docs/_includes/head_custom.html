@@ -206,7 +206,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "WebPage",
       "@id": "https://thtxgnn.yao.care/#article",
       "headline": "การนำยาเก่ามาใช้ใหม่ จากข้อมูลสู่หลักฐาน",
-      "description": "ใช้ AI ทำนายข้อบ่งใช้ใหม่ที่อาจเป็นไปได้ของยาในระบบประกันสุขภาพไทย พร้อมรายงานการยืนยันหลักฐานทางคลินิกและการทดลองทางคลินิกจากยา 191 ชนิด",
+      "description": "ใช้ AI ทำนายข้อบ่งใช้ใหม่ที่อาจเป็นไปได้ของยาในระบบประกันสุขภาพไทย พร้อมรายงานการยืนยันหลักฐานทางคลินิกและการทดลองทางคลินิกจากยา {{ site.data.drug_stats.total_drugs }} ชนิด",
       "author": {
         "@id": "https://www.yao.care/#organization"
       },
@@ -374,7 +374,7 @@ window.TXGNN_ANALYTICS = {
       "@type": "CollectionPage",
       "@id": "{{ page.url | absolute_url }}#webpage",
       "name": "รายการยา - ThTxGNN",
-      "description": "รายการรายงานการยืนยันยาทั้งหมดของ ThTxGNN รวม {{ site.drugs.size }} หน้ายา",
+      "description": "รายการรายงานการยืนยันยาทั้งหมดของ ThTxGNN รวม {{ site.data.drug_stats.total_drugs }} หน้ายา",
       "url": "{{ page.url | absolute_url }}"
     },
     {
@@ -382,7 +382,7 @@ window.TXGNN_ANALYTICS = {
       "@id": "{{ page.url | absolute_url }}#itemlist",
       "name": "รายงานการยืนยันยา ThTxGNN",
       "description": "รายงานการยืนยันการนำยาเก่ามาใช้ใหม่ของยาในระบบประกันสุขภาพไทย",
-      "numberOfItems": {{ site.drugs.size }},
+      "numberOfItems": {{ site.data.drug_stats.total_drugs }},
       "itemListOrder": "https://schema.org/ItemListOrderAscending"
     },
     {
