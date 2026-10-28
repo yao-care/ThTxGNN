@@ -3,9 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ Tacrolimus"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tacrolimus ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tacrolimus ข้อบ่งใช้ที่คาดการณ์ 2 รายการ"
 permalink: /news/tacrolimus/
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 ---
 
 # ข่าวเกี่ยวกับ Tacrolimus
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-27
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Tacrolimus บ้าง">
-ขณะนี้ <strong>Tacrolimus</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
+ขณะนี้ <strong>Tacrolimus</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 2 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,9 @@ last_modified_at: 2026-10-27
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L5</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (2 รายการ)</strong>:<ul>
+<li>ผื่นผิวหนังอักเสบเซบอร์ริก (seborrheic dermatitis)</li>
+<li>parapsoriasis</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>

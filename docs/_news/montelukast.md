@@ -3,7 +3,7 @@ layout: default
 title: "ข่าวเกี่ยวกับ Montelukast"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Montelukast ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Montelukast ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/montelukast/
 last_modified_at: 2026-10-28
 ---
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Montelukast บ้าง">
-ขณะนี้ <strong>Montelukast</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
+ขณะนี้ <strong>Montelukast</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -26,8 +26,10 @@ last_modified_at: 2026-10-28
 <strong>ข้อมูลยา</strong>
 <ul>
 <li><strong>ระดับหลักฐาน</strong>: L2</li>
-<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
-<li>หลอดลมอักเสบ (Bronchitis)</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (3 รายการ)</strong>:<ul>
+<li>หลอดลมอักเสบ (bronchitis)</li>
+<li>ผิวหนังอักเสบภูมิแพ้ (atopic eczema)</li>
+<li>obstructive lung disease</li>
 </ul></li>
 </ul>
 <p><a href="{{ '/drugs/montelukast/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
