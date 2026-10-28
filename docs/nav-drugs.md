@@ -120,15 +120,15 @@ redirect_from:
 
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 5%;" title="หลักฐานระดับสูง: 8 รายการ">8</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 10%;" title="หลักฐานระดับกลาง: 15 รายการ">15</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 85%;" title="เฉพาะการคาดการณ์จากโมเดล: 128 รายการ">128</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 12%;" title="หลักฐานระดับสูง: 18 รายการ">18</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 28%;" title="หลักฐานระดับกลาง: 43 รายการ">43</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 60%;" title="เฉพาะการคาดการณ์จากโมเดล: 90 รายการ">90</a>
   </div>
 
   <div class="drug-cards">
     <a href="{{ '/evidence-high' | relative_url }}" class="drug-card high">
       <div class="drug-card-icon">
-        <span class="drug-card-count">8</span>
+        <span class="drug-card-count">18</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">หลักฐานระดับสูง</div>
@@ -139,7 +139,7 @@ redirect_from:
 
     <a href="{{ '/evidence-medium' | relative_url }}" class="drug-card medium">
       <div class="drug-card-icon">
-        <span class="drug-card-count">15</span>
+        <span class="drug-card-count">43</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">หลักฐานระดับกลาง</div>
@@ -150,7 +150,7 @@ redirect_from:
 
     <a href="{{ '/evidence-low' | relative_url }}" class="drug-card low">
       <div class="drug-card-icon">
-        <span class="drug-card-count">128</span>
+        <span class="drug-card-count">90</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">เฉพาะการคาดการณ์จากโมเดล</div>
