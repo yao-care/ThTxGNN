@@ -3,7 +3,7 @@ layout: default
 title: รายงานยา
 nav_order: 4
 has_children: true
-description: "เรียกดูรายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่ 151 รายการ จัดระดับหลักฐาน L1-L5"
+description: "เรียกดูรายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่ 145 รายการ จัดระดับหลักฐาน L1-L5"
 permalink: /nav-drugs/
 redirect_from:
   - /nav-drugs.html

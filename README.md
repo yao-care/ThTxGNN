@@ -19,7 +19,7 @@ Drug repurposing predictions for Thailand Thai FDA-approved drugs using the TxGN
 
 | Item | Count |
 |------|------|
-| **Drug Reports** | 151 |
+| **Drug Reports** | 145 |
 | **Total Predictions** | 222,094 |
 | **Unique Drugs** | 152 |
 | **Unique Indications** | 12,298 |
