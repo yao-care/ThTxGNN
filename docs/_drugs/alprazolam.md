@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Alprazolam: ข้อบ่งใช้ใหม่ที่คาดการณ์ นอนไม่หลับ (insomnia (disease)) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 

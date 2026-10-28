@@ -5,7 +5,7 @@ layout: default
 title: Hydrochlorothiazide
 parent: การใช้ที่ทราบแล้วเท่านั้น (ไม่มีการคาดการณ์ใหม่)
 nav_order: 82
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Hydrochlorothiazide: ข้อบ่งใช้ที่ทราบและสถานะตลาดในประเทศไทย; ขณะนี้ยังไม่มีข้อบ่งใช้ใหม่ที่เป็นตัวเลือก"
 monitor_inn: "Hydrochlorothiazide"
 predicted_indications: []

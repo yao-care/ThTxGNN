@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 69
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Filgrastim: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความผิดปกติของการหลั่งสารจากเกล็ดเลือดชนิดปฐมภูมิ (primary release di… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ภาวะเม็ดเลือดขาวต่ำ"
 monitor_inn: "Filgrastim"
 predicted_indications: ["primary release disorder of platelets", "pseudo-von Willebrand disease", "Glanzmann thrombasthenia", "Scott syndrome", "hemorrhagic disorder due to a constitutional thrombocytopenia", "bleeding diathesis due to a collagen receptor defect", "C1 inhibitor deficiency", "serpinopathy with toxic serpin polymerization", "fetal and neonatal alloimmune thrombocytopenia", "platelet-type bleeding disorder"]

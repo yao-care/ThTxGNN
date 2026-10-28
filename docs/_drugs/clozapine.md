@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Clozapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะแมเนียในโรคอารมณ์สองขั้ว (Manic Bipolar Affective Disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: จิตเภท"
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]

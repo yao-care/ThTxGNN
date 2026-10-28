@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Baclofen: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: กล้ามเนื้อหดเกร็ง"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]

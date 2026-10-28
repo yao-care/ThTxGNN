@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Metoclopramide"
 predicted_indications: ["gastroduodenitis", "peptic ulcer perforation"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Metoclopramide: ข้อบ่งใช้ใหม่ที่คาดการณ์ กระเพาะอาหารและลำไส้เล็กส่วนต้นอักเสบ (gastroduodenitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 

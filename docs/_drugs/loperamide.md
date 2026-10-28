@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 99
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Loperamide: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบติดต่อเฉียบพลัน (acute contagious conjunctivitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ท้องเสีย"
 monitor_inn: "Loperamide"
 predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "Angelucci syndrome"]

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "Ketamine"
 predicted_indications: ["headache disorder"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Ketamine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปวดศีรษะ (headache disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 

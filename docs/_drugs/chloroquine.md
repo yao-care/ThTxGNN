@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Chloroquine"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Chloroquine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ข้ออักเสบไม่ทราบสาเหตุในเด็กชนิดหลายข้อที่ให้ผลบวกต่อ rheumatoid factor (rheumatoid factor-positive polyarticular juven… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบั…"
 ---
 

@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 74
 evidence_level: L4
 indication_count: 1
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Folic Acid: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเมตาบอลิซึมของไบโอติน (Biotin Metabolic Disease) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันและรักษาภาวะขาดโฟลิก"
 monitor_inn: "Folic acid"
 predicted_indications: ["biotin metabolic disease"]

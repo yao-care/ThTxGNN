@@ -5,7 +5,7 @@ parent: การใช้ที่ทราบแล้วเท่านั้
 nav_order: 33
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Calcium Carbonate: known uses and market status in Thailand; currently no new candidate indication"
 predicted_indications: []
 ---

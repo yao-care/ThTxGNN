@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 67
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Ethambutol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะฝาปิดกล่องเสียงอักเสบ (Epiglottitis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: วัณโรค"
 monitor_inn: "Ethambutol"
 predicted_indications: ["epiglottitis", "laryngitis", "meningococcal infection", "peritonitis", "infectious otitis media"]

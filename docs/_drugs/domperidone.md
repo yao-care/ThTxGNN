@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-27
+last_modified_at: 2026-10-28
 description: "Domperidone: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการขับปัสสาวะไม่เหมาะสมจากไตชนิดถ่ายทอด (nephrogenic syndrome of inappropriate antidiuresis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 

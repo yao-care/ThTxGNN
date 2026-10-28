@@ -3,7 +3,7 @@ layout: default
 title: Enalapril
 parent: การใช้ที่ทราบแล้วเท่านั้น (ไม่มีการคาดการณ์ใหม่)
 nav_order: 62
-last_modified_at: 2026-10-23
+last_modified_at: 2026-10-28
 description: "Enalapril: ข้อบ่งใช้ที่ทราบและสถานะตลาดในประเทศไทย; ขณะนี้ยังไม่มีข้อบ่งใช้ใหม่ที่เป็นตัวเลือก"
 predicted_indications: []
 indication_count: 0

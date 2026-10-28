@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 30
 evidence_level: L2
 indication_count: 10
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Bupropion: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ซึมเศร้า, เลิกบุหรี่"
 monitor_inn: "Bupropion"
 predicted_indications: ["attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "faciodigitogenital syndrome", "specific developmental disorder", "chondromyxoid fibroma", "proximal 16p11.2 microdeletion syndrome", "hypervitaminosis", "benign paroxysmal torticollis of infancy", "trigeminal nerve neoplasm", "obsolete hypertelorism (disease)"]

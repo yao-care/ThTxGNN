@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 145
 evidence_level: L2
 indication_count: 2
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Tacrolimus: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันการปฏิเสธอวัยวะ"
 monitor_inn: "Tacrolimus"
 predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]

@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 111
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-15
+last_modified_at: 2026-10-28
 description: "Montelukast: ข้อบ่งใช้ใหม่ที่คาดการณ์ หลอดลมอักเสบ (Bronchitis) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคภูมิแพ้"
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema", "obstructive lung disease"]
