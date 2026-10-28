@@ -4,17 +4,17 @@ title: Folic Acid
 parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 74
 evidence_level: L4
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Folic Acid: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเมตาบอลิซึมของไบโอติน (Biotin Metabolic Disease) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันและรักษาภาวะขาดโฟลิก"
 monitor_inn: "Folic acid"
-predicted_indications: ["biotin metabolic disease", "non-syndromic esophageal malformation", "esophageal disease", "vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "inborn error of biotin metabolism", "gonococcal urethritis", "Ureaplasma urethritis", "esophageal ulcer", "urinary tract infection (disease)"]
+predicted_indications: ["biotin metabolic disease"]
 ---
 
 # Folic Acid
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **1** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Folic acid (กรดโฟลิก) เป็นวิตามินบีท
 |------|------|
 | ข้อบ่งใช้เดิม | ป้องกันและรักษาภาวะขาดโฟลิก |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคเมตาบอลิซึมของไบโอติน (Biotin Metabolic Disease) |
-| คะแนนการทำนาย TxGNN | 99.49% |
+| คะแนนการทำนาย TxGNN | 0.9949 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | ทะเบียนถูกยกเลิกทั้งหมด (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---

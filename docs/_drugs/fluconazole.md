@@ -4,17 +4,17 @@ title: Fluconazole
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 71
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Fluconazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctiv… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อรา"
 monitor_inn: "Fluconazole"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "Plasmodium falciparum malaria", "allergic urticaria", "hyperamylasemia", "polyclonal hyperviscosity syndrome", "congenital analbuminemia", "pneumocystosis", "blood group incompatibility", "premalignant hematological system disease", "papular urticaria"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis"]
 ---
 
 # Fluconazole
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **1** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Fluconazole เป็นยาต้านเชื้อราในกลุ�
 |------|------|
 | ข้อบ่งใช้เดิม | โรคติดเชื้อรา |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) |
-| คะแนนการทำนาย TxGNN | 99.24% |
+| คะแนนการทำนาย TxGNN | 0.9924 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -114,15 +114,6 @@ Fluconazole เป็นยาต้านเชื้อราในกลุ�
 
 | ข้อบ่งใช้ที่ทำนาย | คะแนน TxGNN | ระดับหลักฐาน | ข้อสังเกต | คำแนะนำ |
 |------|------|------|------|------|
-| Plasmodium falciparum malaria | 98.62% | L4 | มีเพียงการศึกษาในหลอดทดลองกับเชื้อมาลาเรียที่แยกจากภาคสนาม คาดว่าฤทธิ์ต่ำกว่าระดับที่ใช้ทางคลินิก | Research Question |
-| Pneumocystosis | 97.82% | L4 | เชื้อ Pneumocystis ไม่มีเออร์โกสเตอรอล จึงไม่คาดว่ายาเอโซลจะได้ผล การรักษามาตรฐานคือ trimethoprim-sulfamethoxazole การทดลอง Phase 3 ที่พบเป็นของยาอื่น (rezafungin) | Hold |
-| Allergic urticaria | 98.45% | L5 | ไม่มีความเชื่อมโยงเชิงกลไก | Hold |
-| Hyperamylasemia | 98.27% | L5 | เป็นผลตรวจทางห้องปฏิบัติการ ไม่ใช่เป้าหมายการรักษาของยาต้านเชื้อรา | Hold |
-| Polyclonal hyperviscosity syndrome | 98.27% | L5 | ไม่มีความเชื่อมโยงเชิงกลไก | Hold |
-| Congenital analbuminemia | 98.02% | L5 | เป็นโรคพันธุกรรม ยานี้ไม่สามารถแก้ไขความผิดปกติได้ | Hold |
-| Blood group incompatibility | 97.75% | L5 | วรรณกรรมที่พบเกี่ยวกับการปลูกถ่ายอวัยวะและปฏิกิริยากับ tacrolimus ไม่ใช่ประสิทธิผลของยา | Hold |
-| Premalignant hematological system disease | 97.36% | L5 | ไม่มีความเชื่อมโยงเชิงกลไก | Hold |
-| Papular urticaria | 97.26% | L5 | เป็นปฏิกิริยาภูมิไวเกินต่อแมลงกัด ไม่เกี่ยวกับกลไกของยา | Hold |
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์

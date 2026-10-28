@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Loperamide: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบติดต่อเฉียบพลัน (acute contagious conjunctivitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ท้องเสีย"
 monitor_inn: "Loperamide"
-predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "conjunctival folliculosis", "chronic follicular conjunctivitis", "parasitic conjunctivitis", "serous conjunctivitis except viral", "Angelucci syndrome"]
+predicted_indications: ["acute contagious conjunctivitis", "amebic dysentery", "conjunctivitis", "gastroduodenitis", "pseudomembranous conjunctivitis", "chronic follicular conjunctivitis", "serous conjunctivitis except viral", "conjunctival folliculosis", "parasitic conjunctivitis", "Angelucci syndrome"]
 ---
 
 # Loperamide
@@ -46,17 +46,17 @@ Loperamide เดิมใช้รักษาอาการท้องเส
 |------|------|
 | ข้อบ่งใช้เดิม | ท้องเสีย |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบติดต่อเฉียบพลัน (acute contagious conjunctivitis) |
-| คะแนนการทำนาย TxGNN | 99.97% |
+| คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
 ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมสำหรับรายงานนี้ ตามข้อมูลที่ทราบ Loperamide เป็นยากระตุ้นตัวรับ mu-opioid ที่ออกฤทธิ์เป็นหลักที่เส้นประสาทในผนังลำไส้ ช่วยลดการเคลื่อนไหวและการหลั่งของลำไส้ จึงมีประสิทธิผลในการรักษาท้องเสีย
 
-ไม่พบกลไกที่สมเหตุสมผลที่เชื่อมยานี้กับการอักเสบติดเชื้อของเยื่อบุตา คะแนนสูงของ TxGNN น่าจะสะท้อนความใกล้เคียงกันของโหนดในกราฟความรู้ มากกว่าความเชื่อมโยงทางเภสัชวิทยาจริง ผลทำนายอันดับต้นๆ ส่วนใหญ่ (เช่น conjunctivitis, pseudomembranous conjunctivitis, parasitic conjunctivitis) เป็นโรคตากลุ่มเดียวกันและมีข้อจำกัดเดียวกัน
+ไม่พบกลไกที่สมเหตุสมผลที่เชื่อมยานี้กับการอักเสบติดเชื้อของเยื่อบุตา คะแนนสูงของโมเดล TxGNN (deep learning) น่าจะสะท้อนความคล้ายคลึงระหว่างโรคที่เกี่ยวข้องกันซึ่งโมเดลเรียนรู้มา ไม่ใช่หลักฐานทางชีวภาพหรือความเชื่อมโยงทางเภสัชวิทยาจริง ผลทำนายอันดับต้นๆ ส่วนใหญ่ (เช่น conjunctivitis, pseudomembranous conjunctivitis, parasitic conjunctivitis) เป็นโรคตากลุ่มเดียวกันและมีข้อจำกัดเดียวกัน
 
 ข้อบ่งใช้อื่นในรายการทำนายที่มีวรรณกรรมบ้าง (amebic dysentery, gastroduodenitis) ชี้ไปทาง **สัญญาณอันตราย** ไม่ใช่ประโยชน์ในการรักษา
 

@@ -4,17 +4,17 @@ title: Lamivudine
 parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 92
 evidence_level: L4
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Lamivudine: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian immunodeficiency viru… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี"
 monitor_inn: "Lamivudine"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection", "hepatitis C virus infection", "idiopathic copper-associated cirrhosis", "hepatoportal sclerosis", "primitive portal vein thrombosis"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
 ---
 
 # Lamivudine
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Lamivudine เป็นยากลุ่มต้านไวรัส (nucleos
 |------|------|
 | ข้อบ่งใช้เดิม | ไวรัสตับอักเสบบี, เอชไอวี |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian immunodeficiency virus infection) |
-| คะแนนการทำนาย TxGNN | 99.93% |
+| คะแนนการทำนาย TxGNN | 0.9993 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | ยกเลิกทะเบียนแล้วทั้งหมด (ไม่มีทะเบียนที่ใช้งานอยู่) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -106,7 +106,7 @@ SIV เป็นไวรัสเรโทรกลุ่มเดียวก�
 **ข้อมูลเพิ่มเติมเกี่ยวกับการทำนายอันดับอื่นๆ:**
 - **ไวรัสตับอักเสบบี (L1, Proceed with Guardrails):** เป็นข้อบ่งใช้เดิมที่มีการทดลอง Phase 3 หลายรายการรองรับ ควรเฝ้าระวังการดื้อยา (การกลายพันธุ์ YMDD) สถานะทะเบียนที่ยกเลิกแล้ว และตรวจสอบปฏิกิริยาระหว่างยา
 - **ไวรัสตับอักเสบซี (L4, Hold):** ไม่มีกลไกต้านไวรัสโดยตรง หลักฐานมาจากผู้ป่วยติดเชื้อร่วม HIV/HCV ซึ่งแสดงเพียงบริบทด้านความปลอดภัย ไม่ใช่ประสิทธิผล
-- **โรคอื่นๆ (L5, Hold):** เช่น เอดส์ในแมว (L4 หลักฐานในสัตว์) และกลุ่มโรคที่ไม่พบกลไกเชื่อมโยง ได้แก่ โรคพัฒนาการทางระบบประสาท ไขมันในเลือดสูงแบบครอบครัว ตับแข็งจากทองแดง hepatoportal sclerosis และหลอดเลือดดำพอร์ทัลอุดตัน ซึ่งอาศัยการทำนายจากโมเดลเพียงอย่างเดียว
+- **โรคอื่นๆ (L5, Hold):** เช่น เอดส์ในแมว (L4 หลักฐานในสัตว์) และกลุ่มโรคที่ไม่พบกลไกเชื่อมโยง ได้แก่ โรคพัฒนาการทางระบบประสาท และไขมันในเลือดสูงแบบครอบครัว ซึ่งอาศัยการทำนายจากโมเดลเพียงอย่างเดียว
 
 **หากต้องการดำเนินการต่อต้อง:**
 - ข้อมูลกลไกการออกฤทธิ์โดยละเอียดจาก DrugBank

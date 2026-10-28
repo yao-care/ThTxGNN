@@ -4,17 +4,17 @@ title: Rivaroxaban
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 138
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Rivaroxaban: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ"
 monitor_inn: "Rivaroxaban"
-predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "sclerosing cholangitis", "systemic mastocytosis", "Smouldering systemic mastocytosis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
+predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
 ---
 
 # Rivaroxaban
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **4** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Rivaroxaban เดิมใช้ป้องกันลิ่มเลือ�
 |------|------|
 | ข้อบ่งใช้เดิม | ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis) |
-| คะแนนการทำนาย TxGNN | 99.57% |
+| คะแนนการทำนาย TxGNN | 0.9957 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---

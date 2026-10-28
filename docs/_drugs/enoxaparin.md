@@ -4,17 +4,17 @@ title: Enoxaparin
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 63
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Enoxaparin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C ชนิดถ่ายทอดแบบด้อย (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด"
 monitor_inn: "Enoxaparin"
-predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets", "atypical hemolytic-uremic syndrome with thrombomodulin anomaly", "pseudo-von Willebrand disease", "neuropathy, painful", "thrombotic thrombocytopenic purpura", "retinal telangiectasia", "arteriosclerotic retinopathy", "retinal microaneurysm", "vertebral artery occlusion"]
+predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive"]
 ---
 
 # Enoxaparin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **1** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["thrombophilia due to protein C deficiency, autosomal re
 
 </div>
 
-## Enoxaparin: จากการป้องกันลิ่มเลือดสู่ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C (Thrombophilia due to Protein C Deficiency)
+## Enoxaparin: จากการป้องกันลิ่มเลือดสู่ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C ชนิดถ่ายทอดแบบด้อย (Thrombophilia due to Protein C Deficiency, Autosomal Recessive)
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,10 +46,10 @@ Enoxaparin เป็นยาฉีดกลุ่มเฮปารินโม
 |------|------|
 | ข้อบ่งใช้เดิม | ป้องกันลิ่มเลือด |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C ชนิดถ่ายทอดแบบด้อย |
-| คะแนนการทำนาย TxGNN | 99.58% |
+| คะแนนการทำนาย TxGNN | 0.9958 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกแล้ว (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -87,15 +87,6 @@ Enoxaparin เป็นยาฉีดกลุ่มเฮปารินโม
 
 | อันดับ | โรคที่ทำนาย | คะแนน TxGNN | ระดับหลักฐาน | ข้อสังเกต |
 |---|---|---|---|---|
-| 2 | ความผิดปกติของการหลั่งสารจากเกล็ดเลือด (Primary release disorder of platelets) | 98.91% | L5 | เป็นโรคเลือดออกง่าย การให้ยาต้านการแข็งตัวของเลือดขัดกับกลไก และอาจเพิ่มเลือดออก |
-| 3 | aHUS ร่วมกับความผิดปกติของ thrombomodulin | 98.63% | L5 | ไม่แก้ปัญหาการควบคุมคอมพลีเมนต์ |
-| 4 | Pseudo-von Willebrand disease | 98.50% | L5 | เป็นโรคเลือดออกง่าย ยาอาจทำให้แย่ลง |
-| 5 | ปลายประสาทอักเสบแบบเจ็บปวด | 98.30% | L5 | ไม่มีความเชื่อมโยงเชิงกลไกที่ชัดเจน |
-| 6 | Thrombotic thrombocytopenic purpura | 96.73% | L4 | วรรณกรรม 5 ฉบับเป็นหลักฐานทางอ้อม (ส่วนใหญ่เป็นรายงานผู้ป่วย/ITP) ไม่ใช่การรักษา TTP |
-| 7 | Retinal telangiectasia | 90.68% | L5 | ไม่มีกลไกที่ชัดเจน |
-| 8 | Arteriosclerotic retinopathy | 89.82% | L5 | เสี่ยงเลือดออกในตา |
-| 9 | Retinal microaneurysm | 89.82% | L5 | ไม่มีบทบาทการรักษาที่ชัดเจน |
-| 10 | Vertebral artery occlusion | 89.40% | L4 | วรรณกรรม 2 ฉบับ เป็นหลักฐานทางอ้อม |
 
 ## สรุปและขั้นตอนถัดไป
 

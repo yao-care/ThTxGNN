@@ -50,7 +50,7 @@ last_modified_at: 2026-10-28
 <li><a href="{{ '/drugs/fluconazole/' | relative_url }}">Fluconazole</a></li>
 <li><a href="{{ '/drugs/furosemide/' | relative_url }}">Furosemide</a></li>
 <li><a href="{{ '/drugs/gabapentin/' | relative_url }}">Gabapentin</a></li>
-<li><a href="{{ '/drugs/hydrochlorothiazide/' | relative_url }}">Hydrochlorothiazide</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Hydrochlorothiazide</a></li>
 <li><a href="{{ '/drugs/isotretinoin/' | relative_url }}">Isotretinoin</a></li>
 <li><a href="{{ '/drugs/lactulose/' | relative_url }}">Lactulose</a></li>
 <li><a href="{{ '/drugs/lisinopril/' | relative_url }}">Lisinopril</a></li>
@@ -61,7 +61,7 @@ last_modified_at: 2026-10-28
 <li><a href="{{ '/drugs/phenytoin/' | relative_url }}">Phenytoin</a></li>
 <li><a href="{{ '/drugs/praziquantel/' | relative_url }}">Praziquantel</a></li>
 <li><a href="{{ '/drugs/spironolactone/' | relative_url }}">Spironolactone</a></li>
-<li><a href="{{ '/drugs/timolol/' | relative_url }}">Timolol</a></li>
+<li><a href="{{ '/drugs/' | relative_url }}">Timolol</a></li>
 <li><a href="{{ '/drugs/valproic-acid/' | relative_url }}">Valproic acid</a></li>
 <li><a href="{{ '/drugs/vancomycin/' | relative_url }}">Vancomycin</a></li>
 <li><a href="{{ '/drugs/verapamil/' | relative_url }}">Verapamil</a></li>

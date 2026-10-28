@@ -4,17 +4,17 @@ title: Metformin
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 106
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Metformin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Focal Stiff Limb Syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
 monitor_inn: "Metformin"
-predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy", "centrifugal lipodystrophy", "pressure-induced localized lipoatrophy", "pancreatic agenesis", "idiopathic localized lipodystrophy", "homozygous familial hypercholesterolemia"]
+predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
 ---
 
 # Metformin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Metformin เดิมใช้รักษา **เบาหวานชนิ�
 |------|------|
 | ข้อบ่งใช้เดิม | เบาหวานชนิดที่ 2 |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Focal Stiff Limb Syndrome |
-| คะแนนการทำนาย TxGNN | 99.45% |
+| คะแนนการทำนาย TxGNN | 0.9945 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ใช้งานอยู่) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -113,7 +113,6 @@ Metformin เดิมใช้รักษา **เบาหวานชนิ�
 - ตรวจสอบสถานะการขึ้นทะเบียนใหม่ของ Metformin ในประเทศไทย
 - ประเมินความเสี่ยงจากข้อห้ามใช้ที่พบในฐานความรู้ โดยเฉพาะผู้ป่วยโรคตับ โรคไต และหัวใจล้มเหลว
 
-**หมายเหตุ:** ในบรรดาข้อบ่งใช้ที่โมเดลทำนาย โรค homozygous familial hypercholesterolemia (คะแนน 92.30%) เป็นรายการเดียวที่มีหลักฐานระดับ L4 จากการศึกษาในห้องปฏิบัติการกับเซลล์ไฟโบรบลาสต์ของมนุษย์ ซึ่งอาจเป็นคำถามวิจัยที่น่าติดตามต่อ แต่ยังไม่มีข้อมูลทางคลินิกหรือความปลอดภัยรองรับ
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์

@@ -4,17 +4,17 @@ title: Mebendazole
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 104
 evidence_level: L5
-indication_count: 10
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Mebendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ สิว (Acne) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: พยาธิ"
 monitor_inn: "Mebendazole"
-predicted_indications: ["acne (disease)", "leishmaniasis, diffuse cutaneous", "echinococcus granulosus infectious disease", "hordeolum", "alveolar echinococcosis", "inhalational botulism", "toxin-mediated infectious botulism", "impetigo", "Sorsby's fundus dystrophy", "demodicidosis of sebaceous gland"]
+predicted_indications: ["acne (disease)"]
 ---
 
 # Mebendazole
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **1** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Mebendazole เป็นยากลุ่มเบนซิมิดาโซ�
 |------|------|
 | ข้อบ่งใช้เดิม | พยาธิ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | สิว (Acne) |
-| คะแนนการทำนาย TxGNN | 99.20% |
+| คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ทะเบียนถูกยกเลิกทั้งหมด (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

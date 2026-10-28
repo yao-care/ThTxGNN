@@ -4,17 +4,17 @@ title: Baclofen
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 25
 evidence_level: L5
-indication_count: 10
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Baclofen: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: กล้ามเนื้อหดเกร็ง"
 monitor_inn: "Baclofen"
-predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence", "attention deficit hyperactivity disorder, inattentive type", "myofascial pain syndrome", "faciodigitogenital syndrome", "trigeminal nerve neoplasm", "methemoglobinemia", "chondromyxoid fibroma", "methemoglobinemia, alpha type", "specific developmental disorder"]
+predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
 ---
 
 # Baclofen
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **2** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Baclofen เดิมใช้รักษาอาการกล้ามเ�
 |------|------|
 | ข้อบ่งใช้เดิม | กล้ามเนื้อหดเกร็ง |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) |
-| คะแนนการทำนาย TxGNN | 99.32% |
+| คะแนนการทำนาย TxGNN | 0.9932 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกแล้ว (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

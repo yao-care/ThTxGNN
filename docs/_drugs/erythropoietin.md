@@ -4,17 +4,17 @@ title: Erythropoietin
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 65
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Erythropoietin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โลหิตจาง"
 monitor_inn: "Erythropoietin"
-predicted_indications: ["antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "seborrheic dermatitis", "thrombophilia", "amenorrhea (disease)", "HER2 positive breast carcinoma", "hemoglobinopathy", "hyperthyroidism", "normal breast-like subtype of breast carcinoma"]
+predicted_indications: ["antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "seborrheic dermatitis", "thrombophilia"]
 ---
 
 # Erythropoietin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Erythropoietin เดิมใช้รักษา **ภาวะโลหิ�
 |------|------|
 | ข้อบ่งใช้เดิม | โลหิตจาง |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) |
-| คะแนนการทำนาย TxGNN | 99.33% |
+| คะแนนการทำนาย TxGNN | 0.9933 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ทะเบียนถูกยกเลิกแล้ว (ไม่มีทะเบียนที่ยังใช้งาน) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -64,7 +64,6 @@ Erythropoietin เดิมใช้รักษา **ภาวะโลหิ�
 
 นอกจากนี้ Erythropoietin มีความเสี่ยงต่อการเกิดลิ่มเลือดอุดตัน เช่น ทำให้ฮีมาโทคริตสูงขึ้นและกระตุ้นเกล็ดเลือด ซึ่งน่ากังวลในผู้ป่วยที่มีภาวะเลือดแข็งตัวง่ายตามพันธุกรรมอยู่แล้ว จึงอาจทำให้อาการแย่ลงแทนที่จะรักษา
 
-> **หมายเหตุ:** ในรายการที่โมเดลทำนายทั้งหมด ข้อบ่งใช้ **ฮีโมโกลบินพิการ (Hemoglobinopathy)** มีหลักฐานมากกว่า คือมีการทดลองทางคลินิกเฟส 1/2 ที่เสร็จสิ้นแล้วของ Erythropoietin ร่วมกับ hydroxyurea ในโรคเม็ดเลือดแดงรูปเคียว (Sickle Cell Disease) ควรพิจารณาเป็นคำถามวิจัยแยกต่างหาก
 
 ---
 

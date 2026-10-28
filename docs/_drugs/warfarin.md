@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Warfarin
-parent: หลักฐานระดับกลาง (L3-L4)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 161
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Warfarin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด"
 monitor_inn: "Warfarin"
-predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia", "blunt duct adenosis of breast", "apocrine adenosis of breast", "migraine disorder"]
+predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
 ---
 
 # Warfarin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **7** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with s
 
 </div>
 
-## Warfarin: จากการป้องกันลิ่มเลือดสู่ภาวะเลือดแข็งตัวง่าย (Thrombophilia)
+## Warfarin: จากการป้องกันลิ่มเลือดสู่ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency)
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -52,24 +52,23 @@ Warfarin เป็นยาต้านการแข็งตัวของ�
 |------|------|
 | ข้อบ่งใช้เดิม | ป้องกันลิ่มเลือด |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency) |
-| คะแนนการทำนาย TxGNN | 99.87% |
-| ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | ยกเลิกทะเบียนทั้งหมด (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| คะแนนการทำนาย TxGNN | 0.9987 |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ข้อบ่งใช้ที่ทำนายอื่นๆ โดยสังเขป
 
 | อันดับ | ข้อบ่งใช้ | คะแนน TxGNN | ระดับหลักฐาน | คำแนะนำ |
 |------|------|------|------|------|
-| 1 | ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 | 99.87% | L4 | Research Question |
-| 2 | ภาวะแฟกเตอร์ 5 เกินร่วมกับลิ่มเลือดเกิดเอง | 99.84% | L5 | Hold |
-| 3 | ภาวะพร่องแอนติทรอมบิน ชนิดที่ 2 | 99.84% | L4 | Research Question |
-| 4 | ภาวะเลือดแข็งตัวง่าย (Thrombophilia) | 99.75% | L3 | Proceed with Guardrails |
-| 5 | ข้ออักเสบรูมาตอยด์ | 99.21% | L4 | Hold |
-| 6 | โรคถุงน้ำเต้านม (Fibrocystic) | 99.20% | L5 | Hold |
-| 7–9 | โรคเต้านมไม่ร้ายแรงอื่นๆ (3 รายการ) | 98.7–99.1% | L5 | Hold |
-| 10 | ไมเกรน | 98.71% | L4 | Research Question |
+| 1 | ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 | 0.9987 | L5 | Research Question |
+| 2 | ภาวะแฟกเตอร์ 5 เกินร่วมกับลิ่มเลือดเกิดเอง | 0.9984 | L5 | Hold |
+| 3 | ภาวะพร่องแอนติทรอมบิน ชนิดที่ 2 | 0.9984 | L5 | Research Question |
+| 4 | ภาวะเลือดแข็งตัวง่าย (Thrombophilia) | 0.9975 | L3 | Proceed with Guardrails |
+| 5 | ข้ออักเสบรูมาตอยด์ | 0.9921 | L4 | Hold |
+| 6 | โรคถุงน้ำเต้านม (Fibrocystic) | 0.9920 | L5 | Hold |
+| 7–9 | โรคเต้านมไม่ร้ายแรงอื่นๆ (3 รายการ) | 98.7–0.9910 | L5 | Hold |
 
 ---
 

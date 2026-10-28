@@ -4,17 +4,17 @@ title: Ampicillin
 parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 19
 evidence_level: L4
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Ampicillin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กล่องเสียงอักเสบ (Laryngitis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
 monitor_inn: "Ampicillin"
-predicted_indications: ["laryngitis", "gonococcal urethritis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
+predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 ---
 
 # Ampicillin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Ampicillin เป็นยาปฏิชีวนะกลุ่มเพนิ
 |------|------|
 | ข้อบ่งใช้เดิม | โรคติดเชื้อแบคทีเรีย |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กล่องเสียงอักเสบ (Laryngitis) |
-| คะแนนการทำนาย TxGNN | 99.97% |
+| คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกแล้ว (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกทั้งหมด) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # การใช้ยาเก่าในข้อบ่งใช้ใหม่: จากข้อมูลสู่หลักฐาน
 
 <p class="key-answer" data-question="ThTxGNN คืออะไร?">
-<strong>ThTxGNN</strong> คือแพลตฟอร์มคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่ โดยใช้โมเดล TxGNN จาก Harvard เราได้คาดการณ์ <strong>2,573,191</strong> คู่ยา-โรค และตรวจสอบหลักฐานสำหรับ <strong>151</strong> ยาที่ขึ้นทะเบียนกับ อย. ประเทศไทย
+<strong>ThTxGNN</strong> คือแพลตฟอร์มคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่ โดยใช้โมเดล TxGNN จาก Harvard เราได้คาดการณ์ <strong>2,573,191</strong> คู่ยา-โรค และตรวจสอบหลักฐานสำหรับ <strong>145</strong> ยาที่ขึ้นทะเบียนกับ อย. ประเทศไทย
 </p>
 
 <div class="key-takeaway">
@@ -77,7 +77,7 @@ image: /assets/images/og-default.png
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">ครอบคลุมยาในประเทศไทย</strong><br>
-    <span style="color: #666;">มุ่งเน้นยาที่ได้รับอนุมัติจาก อย. ครอบคลุม 151 ยา รายงานรวมสถานะการขึ้นทะเบียนในประเทศไทย</span>
+    <span style="color: #666;">มุ่งเน้นยาที่ได้รับอนุมัติจาก อย. ครอบคลุม 145 ยา รายงานรวมสถานะการขึ้นทะเบียนในประเทศไทย</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">ข้อมูลปฏิกิริยาระหว่างยา</strong><br>
@@ -91,7 +91,7 @@ image: /assets/images/og-default.png
 
 | รายการ | จำนวน |
 |--------|-------|
-| **ยาที่วิเคราะห์** | 151 รายการ |
+| **ยาที่วิเคราะห์** | 145 รายการ |
 | **การคาดการณ์ทั้งหมด** | 2,573,191 คู่ |
 | **การคาดการณ์ที่แสดงบนเว็บไซต์ (คะแนน ≥0.99 สูงสุด 10 รายการต่อยา)** | {{ site.data.site_stats.indications }} รายการ |
 | **FHIR Resources** | 1,255 รายการ |

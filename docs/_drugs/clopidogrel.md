@@ -4,17 +4,17 @@ title: Clopidogrel
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 46
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Clopidogrel: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรนชนิดมีออร่าจากก้านสมอง (Migraine with Brainstem Aura) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด"
 monitor_inn: "Clopidogrel"
-predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "rheumatoid arthritis", "osteoarthritis susceptibility"]
+predicted_indications: ["migraine with brainstem aura", "migraine disorder", "osteoarthritis", "tendinitis", "idiopathic granulomatous myositis", "myositis fibrosa", "rheumatoid arthritis"]
 ---
 
 # Clopidogrel
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **8** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **7** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Clopidogrel เดิมใช้ป้องกันลิ่มเลือ�
 |------|------|
 | ข้อบ่งใช้เดิม | ป้องกันลิ่มเลือด |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรนชนิดมีออร่าจากก้านสมอง (Migraine with Brainstem Aura) |
-| คะแนนการทำนาย TxGNN | 99.44% |
-| ระดับหลักฐาน | L4 (หลักฐานเป็นการอนุมานจากไมเกรนชนิดมีออร่า ไม่ได้ศึกษาชนิดก้านสมองโดยตรง) |
-| สถานะการวางจำหน่ายในไทย | ทะเบียนถูกยกเลิกแล้ว (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| คะแนนการทำนาย TxGNN | 0.9944 |
+| ระดับหลักฐาน | L5 (หลักฐานเป็นการอนุมานจากไมเกรนชนิดมีออร่า ไม่ได้ศึกษาชนิดก้านสมองโดยตรง) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

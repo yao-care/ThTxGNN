@@ -4,17 +4,17 @@ title: Olanzapine
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 116
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Olanzapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ benign paroxysmal torticollis of infancy (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคจิตเภท, โรคไบโพลาร์"
 monitor_inn: "Olanzapine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "dysthymic disorder"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
 ---
 
 # Olanzapine
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **3** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **2** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Olanzapine เดิมใช้รักษาโรคจิตเภทแล
 |------|------|
 | ข้อบ่งใช้เดิม | โรคจิตเภท, โรคไบโพลาร์ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | benign paroxysmal torticollis of infancy |
-| คะแนนการทำนาย TxGNN | 99.54% |
+| คะแนนการทำนาย TxGNN | 0.9954 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | มีเฉพาะทะเบียนที่ถูกยกเลิกแล้ว |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -64,8 +64,7 @@ Olanzapine เดิมใช้รักษาโรคจิตเภทแล
 
 | ข้อบ่งใช้ | คะแนน TxGNN | ระดับหลักฐาน | หมายเหตุ |
 |------|------|------|------|
-| Agoraphobia | 99.47% | L3 | มีการศึกษาแบบเปิดและรายงานผู้ป่วยที่ใช้ olanzapine เสริมในโรคตื่นตระหนกที่ดื้อต่อการรักษา ซึ่งมักพบร่วมกับ agoraphobia |
-| Dysthymic disorder | 99.28% | L3 | มีการวิเคราะห์อภิมานของยาต้านโรคจิตรุ่นที่สองในโรคซึมเศร้าและ dysthymia แต่หลักฐานเฉพาะ olanzapine ใน dysthymia ยังจำกัด |
+| Agoraphobia | 0.9947 | L5 | มีการศึกษาแบบเปิดและรายงานผู้ป่วยที่ใช้ olanzapine เสริมในโรคตื่นตระหนกที่ดื้อต่อการรักษา ซึ่งมักพบร่วมกับ agoraphobia |
 
 ทั้งสองข้อบ่งใช้อยู่ในขั้น "Research Question" และมีหลักฐานมากกว่าข้อบ่งใช้อันดับ 1
 

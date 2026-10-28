@@ -4,17 +4,17 @@ title: Propofol
 parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 131
 evidence_level: L2
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Propofol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ยาสลบ"
 monitor_inn: "Propofol"
-predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome", "tendinitis", "myositis fibrosa", "idiopathic granulomatous myositis", "fibromyalgia", "atrophoderma vermiculata"]
+predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
 ---
 
 # Propofol
 {: .fs-9 }
 
-ระดับหลักฐาน: **L2** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L2** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Propofol เป็นยาสลบชนิดฉีดที่ขึ้น�
 |------|------|
 | ข้อบ่งใช้เดิม | ยาสลบ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
-| คะแนนการทำนาย TxGNN | 99.69% |
+| คะแนนการทำนาย TxGNN | 0.9969 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | ทะเบียนถูกยกเลิกทั้งหมด (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ---

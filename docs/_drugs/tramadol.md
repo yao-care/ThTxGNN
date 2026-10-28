@@ -4,17 +4,17 @@ title: Tramadol
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 154
 evidence_level: L5
-indication_count: 10
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Tramadol: ข้อบ่งใช้ใหม่ที่คาดการณ์ Acromesomelic Dysplasia, Hunter-Thompson type (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวดปานกลางถึงรุนแรง"
 monitor_inn: "Tramadol"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "spondyloarthropathy, susceptibility to", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "pseudoachondroplasia", "juvenile idiopathic arthritis", "juvenile arthritis due to defect in LACC1", "rheumatoid nodulosis", "rheumatoid factor-positive polyarticular juvenile idiopathic arthritis"]
 ---
 
 # Tramadol
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## Tramadol: จากอาการปวดปานกลางถึงรุนแรง สู่ภาวะกระดูกเจริญผิดปกติชนิด Acromesomelic Dysplasia (Hunter-Thompson type)
+## Tramadol: จากอาการปวดปานกลางถึงรุนแรง สู่ acromesomelic dysplasia ชนิด Hunter-Thompson
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,10 +46,10 @@ Tramadol เดิมใช้บรรเทาอาการปวดปา�
 |------|------|
 | ข้อบ่งใช้เดิม | บรรเทาปวดปานกลางถึงรุนแรง |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Acromesomelic Dysplasia, Hunter-Thompson type |
-| คะแนนการทำนาย TxGNN | 99.99% |
+| คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | มีเฉพาะใบอนุญาตที่ถูกยกเลิกแล้ว |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้วทั้งหมด) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

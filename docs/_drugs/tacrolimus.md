@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Tacrolimus
-parent: เฉพาะการคาดการณ์ (L5)
+parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 145
-evidence_level: L5
-indication_count: 10
+evidence_level: L2
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Tacrolimus: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันการปฏิเสธอวัยวะ"
 monitor_inn: "Tacrolimus"
-predicted_indications: ["seborrheic dermatitis", "parapsoriasis", "acute lichenoid pityriasis", "acrodermatitis chronica atrophicans", "acne keloid", "psoriasis", "neonatal dermatomyositis", "exanthem (disease)"]
+predicted_indications: ["seborrheic dermatitis", "parapsoriasis"]
 ---
 
 # Tacrolimus
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L2** | ข้อบ่งใช้ที่คาดการณ์: **2** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Tacrolimus เดิมใช้ป้องกันการปฏิเสธ
 |------|------|
 | ข้อบ่งใช้เดิม | ป้องกันการปฏิเสธอวัยวะ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis) |
-| คะแนนการทำนาย TxGNN | 99.26% |
+| คะแนนการทำนาย TxGNN | 0.9926 |
 | ระดับหลักฐาน | L2 (มี Phase 3 ที่เสร็จสิ้น 1 รายการ ยังไม่ถึงเกณฑ์ L1 ที่ต้องมี ≥2 รายการ) |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกแล้ว (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ---

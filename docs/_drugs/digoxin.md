@@ -4,17 +4,17 @@ title: Digoxin
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 55
 evidence_level: L5
-indication_count: 10
+indication_count: 5
 last_modified_at: 2026-10-15
 description: "Digoxin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Prinzmetal angina (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ"
 monitor_inn: "Digoxin"
-predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "obsolete susceptibility to ischemic stroke", "hypoalphalipoproteinemia", "homozygous familial hypercholesterolemia", "nephrogenic syndrome of inappropriate antidiuresis", "thrombotic disease", "stroke disorder"]
+predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
 ---
 
 # Digoxin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Digoxin เป็นยากลุ่มคาร์ดิแอคไกลโ
 |------|------|
 | ข้อบ่งใช้เดิม | หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Prinzmetal angina |
-| คะแนนการทำนาย TxGNN | 99.81% |
+| คะแนนการทำนาย TxGNN | 0.9981 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ยกเลิกทะเบียนทั้งหมด (ไม่มีทะเบียนที่ใช้งานอยู่) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -94,15 +94,10 @@ Digoxin เป็นยากลุ่มคาร์ดิแอคไกลโ
 
 | อันดับ | โรคที่ทำนาย | คะแนน TxGNN | ระดับหลักฐาน | ข้อสังเกต |
 |------|------|------|------|------|
-| 2 | duodenal obstruction | 99.70% | L5 | ไม่มีความเชื่อมโยงเชิงกลไก เป็นเพียงการทำนายจากโมเดล |
-| 3 | duodenal ulcer | 99.59% | L5 | ไม่มีฤทธิ์ลดกรดหรือปกป้องเยื่อบุ วรรณกรรมที่พบเป็นเรื่องยากลุ่ม PPI |
-| 4 | duodenogastric reflux | 99.53% | L5 | ไม่มีความเชื่อมโยงเชิงกลไก |
-| 5 | obsolete susceptibility to ischemic stroke | 99.29% | L5 | เป็นคำศัพท์ที่เลิกใช้แล้ว ไม่ใช่ภาวะที่รักษาได้ |
-| 6 | hypoalphalipoproteinemia | 99.20% | L5 | ไม่ทราบผลต่อเมตาบอลิซึม HDL |
-| 7 | homozygous familial hypercholesterolemia | 98.98% | L5 | ไม่ทราบผลต่อตัวรับ LDL |
-| 8 | nephrogenic syndrome of inappropriate antidiuresis | 98.83% | L5 | ไม่มีผลต่อวิถี vasopressin และเพิ่มความเสี่ยงจากการขับทางไต |
-| 9 | thrombotic disease | 98.75% | L4 | วรรณกรรมส่วนใหญ่เกี่ยวกับ AF/หัวใจล้มเหลว มีข้อมูลสังเกตว่าอาจเพิ่มความเสี่ยงเมื่อใช้ร่วมกับยาอื่น |
-| 10 | stroke disorder | 98.19% | L4 | ช่วยควบคุมอัตราการเต้นหัวใจใน AF แต่ไม่ใช่ยาป้องกันโรคหลอดเลือดสมอง หลักฐานเป็นทางอ้อม |
+| 2 | duodenal obstruction | 0.9970 | L5 | ไม่มีความเชื่อมโยงเชิงกลไก เป็นเพียงการทำนายจากโมเดล |
+| 3 | duodenal ulcer | 0.9959 | L5 | ไม่มีฤทธิ์ลดกรดหรือปกป้องเยื่อบุ วรรณกรรมที่พบเป็นเรื่องยากลุ่ม PPI |
+| 4 | duodenogastric reflux | 0.9953 | L5 | ไม่มีความเชื่อมโยงเชิงกลไก |
+| 6 | hypoalphalipoproteinemia | 0.9920 | L5 | ไม่ทราบผลต่อเมตาบอลิซึม HDL |
 
 ## สรุปและขั้นตอนถัดไป
 

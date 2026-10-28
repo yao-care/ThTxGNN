@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Potassium Chloride
-parent: เฉพาะการคาดการณ์ (L5)
+parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 125
-evidence_level: L5
-indication_count: 10
+evidence_level: L4
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Potassium Chloride: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะกรดในท่อไต (Renal Tubular Acidosis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โพแทสเซียมต่ำ"
 monitor_inn: "Potassium chloride"
-predicted_indications: ["renal tubular acidosis", "HELIX syndrome", "Alstrom syndrome", "Pendred syndrome", "dyspepsia", "Senior-Loken syndrome", "congenital prothrombin deficiency", "gastroduodenitis", "NAD(P)HX dehydratase deficiency", "stomach disease"]
+predicted_indications: ["renal tubular acidosis"]
 ---
 
 # Potassium Chloride
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **1** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Potassium chloride เดิมใช้รักษาภาวะโพแท�
 |------|------|
 | ข้อบ่งใช้เดิม | โพแทสเซียมต่ำ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะกรดในท่อไต (Renal Tubular Acidosis) |
-| คะแนนการทำนาย TxGNN | 99.87% |
+| คะแนนการทำนาย TxGNN | 0.9987 |
 | ระดับหลักฐาน | L4 (ไม่มี RCT มีเพียงรายงานผู้ป่วย การศึกษาแบบ cohort และบทความทบทวน) |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ใช้งานอยู่) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -120,7 +120,6 @@ Potassium chloride เดิมใช้รักษาภาวะโพแท�
 - หากต้องการวางจำหน่ายในไทย ต้องยื่นขึ้นทะเบียนใหม่หรือตรวจสอบสถานะผลิตภัณฑ์ที่มีอยู่
 - ประเมินความเสี่ยงต่อทางเดินอาหารและระดับโพแทสเซียมสูงเกิน โดยเฉพาะในผู้ป่วยโรคไตหรือผู้ที่ใช้ยากลุ่ม ACEI/ARB
 
-*ข้อบ่งใช้ลำดับอื่นที่โมเดลทำนาย (HELIX syndrome, Alstrom syndrome, Pendred syndrome, dyspepsia, Senior-Loken syndrome, congenital prothrombin deficiency, gastroduodenitis, NAD(P)HX dehydratase deficiency, stomach disease) อยู่ที่ระดับ L5 ทั้งหมดและแนะนำให้ Hold โดยเฉพาะโรคทางเดินอาหาร ซึ่งวรรณกรรมชี้ว่ายานี้เป็นสาเหตุของการบาดเจ็บ ไม่ใช่การรักษา*
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์

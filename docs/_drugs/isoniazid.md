@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Isoniazid
-parent: หลักฐานระดับกลาง (L3-L4)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 85
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 1
 last_modified_at: 2026-10-15
 description: "Isoniazid: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบ (Conjunctivitis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: วัณโรค"
 monitor_inn: "Isoniazid"
-predicted_indications: ["conjunctivitis", "rheumatoid arthritis", "shigellosis", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "leprosy", "brachydactyly-syndactyly syndrome", "vestibular neuronitis", "motor nerve neuritis", "infectious otitis media", "brachial plexus neuritis"]
+predicted_indications: ["conjunctivitis"]
 ---
 
 # Isoniazid
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **1** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Isoniazid เป็นยาต้านวัณโรคชนิดรับ�
 |------|------|
 | ข้อบ่งใช้เดิม | วัณโรค |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบ (Conjunctivitis) |
-| คะแนนการทำนาย TxGNN | 99.36% |
-| ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | ยกเลิกทะเบียนทั้งหมด (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| คะแนนการทำนาย TxGNN | 0.9936 |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

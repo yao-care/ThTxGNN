@@ -4,17 +4,17 @@ title: Tenofovir
 parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 148
 evidence_level: L4
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Tenofovir: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian Immunodeficiency Viru… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี"
 monitor_inn: "Tenofovir"
-predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "hepatitis E virus infection", "hepatitis, viral, animal", "hepatitis A virus infection", "Omsk hemorrhagic fever", "Kyasanur forest disease"]
+predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
 ---
 
 # Tenofovir
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **3** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -49,10 +49,10 @@ Tenofovir เป็นยาต้านไวรัสกลุ่มนิว�
 |------|------|
 | ข้อบ่งใช้เดิม | ไวรัสตับอักเสบบี, เอชไอวี |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian Immunodeficiency Virus infection) |
-| คะแนนการทำนาย TxGNN | 99.96% |
+| คะแนนการทำนาย TxGNN | 0.9996 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | ยกเลิกทะเบียนแล้ว (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---

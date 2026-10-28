@@ -30,7 +30,7 @@ last_modified_at: 2026-10-28
 <li>ต้อหินปฐมภูมิชนิดถ่ายทอดทางพันธุกรรม (Primary Hereditary Glaucoma)</li>
 </ul></li>
 </ul>
-<p><a href="{{ '/drugs/timolol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+<p><a href="{{ '/drugs/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (6 ข่าว)

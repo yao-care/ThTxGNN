@@ -4,17 +4,17 @@ title: Bupivacaine
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 29
 evidence_level: L5
-indication_count: 10
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Bupivacaine: ข้อบ่งใช้ใหม่ที่คาดการณ์ acrodermatitis chronica atrophicans (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ยาชา"
 monitor_inn: "Bupivacaine"
-predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis", "acne keloid", "hydroa vacciniforme, familial", "uterine polyp", "epulis", "polyp of vocal cord", "polyp of middle ear"]
+predicted_indications: ["acrodermatitis chronica atrophicans", "neonatal dermatomyositis", "secondary interstitial lung disease specific to childhood associated with a connective tissue disease", "amyopathic dermatomyositis"]
 ---
 
 # Bupivacaine
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **4** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -46,10 +46,10 @@ Bupivacaine เป็นยาชาเฉพาะที่ ใช้ทำใ�
 |------|------|
 | ข้อบ่งใช้เดิม | ยาชา |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | acrodermatitis chronica atrophicans |
-| คะแนนการทำนาย TxGNN | 99.23% |
+| คะแนนการทำนาย TxGNN | 0.9923 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

@@ -4,7 +4,7 @@ title: Propranolol
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 132
 evidence_level: L5
-indication_count: 6
+indication_count: 4
 last_modified_at: 2026-10-15
 description: "Propranolol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะกล้ามเนื้อส่วนปลายเสื่อมชนิด Tateyama (distal myopathy… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจเต้นเร็ว"
 monitor_inn: "Propranolol"
@@ -14,7 +14,7 @@ predicted_indications: ["distal myopathy, Tateyama type", "congenital myopathy w
 # Propranolol
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **6** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **4** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Propranolol เป็นยากลุ่มต้านตัวรับเ�
 |------|------|
 | ข้อบ่งใช้เดิม | ความดันโลหิตสูง, หัวใจเต้นเร็ว |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะกล้ามเนื้อส่วนปลายเสื่อมชนิด Tateyama (distal myopathy, Tateyama type) |
-| คะแนนการทำนาย TxGNN | 99.40% |
+| คะแนนการทำนาย TxGNN | 0.9940 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ใช้งานอยู่) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -91,11 +91,10 @@ Propranolol เป็นยากลุ่มต้านตัวรับเ�
 
 | อันดับ | ข้อบ่งใช้ที่ทำนาย | คะแนน TxGNN | ระดับหลักฐาน | คำแนะนำ |
 |------|------|------|------|------|
-| 2 | Congenital myopathy with excess of thin filaments | 99.30% | L5 | Hold |
-| 3 | Hypertrophic cardiomyopathy จากการฝึกซ้อมกีฬาหนัก | 99.17% | L5 | Hold |
-| 4 | Chondroma | 99.14% | L5 | Hold |
-| 5 | Cirrhotic cardiomyopathy | 99.12% | L3 | Research Question |
-| 6 | Cardiomyopathy | 99.12% | L3 | Proceed with Guardrails |
+| 2 | Congenital myopathy with excess of thin filaments | 0.9930 | L5 | Hold |
+| 4 | Chondroma | 0.9914 | L5 | Hold |
+| 5 | Cirrhotic cardiomyopathy | 0.9912 | L5 | Research Question |
+| 6 | Cardiomyopathy | 0.9912 | L5 | Proceed with Guardrails |
 
 ข้อบ่งใช้ **Cardiomyopathy (อันดับ 6)** มีวรรณกรรมสนับสนุน เช่น การศึกษาผลของ propranolol ต่อการทำงานของหัวใจในภาวะกล้ามเนื้อหัวใจหนาตัว (hypertrophic cardiomyopathy) แต่ส่วนใหญ่เป็นการศึกษาขนาดเล็กและเก่า ส่วน **Cirrhotic cardiomyopathy (อันดับ 5)** มีหลักฐานที่ขัดแย้งกัน บางการศึกษาพบว่า propranolol แก้ไขภาวะ QT ยาวได้ แต่บางการศึกษาพบว่าอาจเป็นอันตรายต่อระบบไหลเวียนและไตในตับแข็งระยะรุนแรง
 

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Colchicine
-parent: หลักฐานระดับกลาง (L3-L4)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 49
-evidence_level: L4
-indication_count: 10
+evidence_level: L5
+indication_count: 2
 last_modified_at: 2026-10-15
 description: "Colchicine: ข้อบ่งใช้ใหม่ที่คาดการณ์ Plasmodium falciparum malaria (มาลาเรียชนิดฟัลซิปารัม) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เก๊าต์เฉียบพลัน"
 monitor_inn: "Colchicine"
-predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans", "primary immunodeficiency due to a genetic defect in innate immunity", "sitosterolemia", "Smouldering systemic mastocytosis", "systemic mastocytosis", "lymphoadenopathic mastocytosis with eosinophilia", "hemoglobin H disease", "blepharo-cheilo-odontic syndrome"]
+predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
 ---
 
 # Colchicine
 {: .fs-9 }
 
-ระดับหลักฐาน: **L4** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **2** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma pr
 
 </div>
 
-## Colchicine: จากเก๊าต์เฉียบพลันสู่มาลาเรียชนิด Plasmodium falciparum
+## Colchicine: จากเก๊าต์เฉียบพลันสู่มาลาเรียชนิด Plasmodium falciparum malaria
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -48,10 +48,10 @@ Colchicine เดิมได้รับอนุมัติในประเ
 |------|------|
 | ข้อบ่งใช้เดิม | เก๊าต์เฉียบพลัน |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Plasmodium falciparum malaria (มาลาเรียชนิดฟัลซิปารัม) |
-| คะแนนการทำนาย TxGNN | 99.60% |
-| ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| คะแนนการทำนาย TxGNN | 0.9960 |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -77,7 +77,7 @@ Colchicine เดิมได้รับอนุมัติในประเ
 
 | เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
 |---------|------|------|-----------|
-| 1A 89/67 | Colchicine | ยาเม็ด | เก๊าต์เฉียบพลัน (สถานะ: ยกเลิก) |
+| 1A 89/67 | Colchicine | ยาเม็ด | เก๊าต์เฉียบพลัน (สถานะ: ยังมีผล) |
 
 ## ความเป็นพิษต่อเซลล์
 

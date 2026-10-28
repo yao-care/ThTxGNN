@@ -8,7 +8,7 @@ indication_count: 10
 last_modified_at: 2026-10-15
 description: "Duloxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ซึมเศร้า, ปวดปลายประสาท"
 monitor_inn: "Duloxetine"
-predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
+predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
 ---
 
 # Duloxetine
@@ -50,10 +50,10 @@ Duloxetine เป็นยากลุ่มยับยั้งการดู
 |------|------|
 | ข้อบ่งใช้เดิม | ซึมเศร้า, ปวดปลายประสาท |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis of Infancy) |
-| คะแนนการทำนาย TxGNN | 99.85% |
+| คะแนนการทำนาย TxGNN | 0.9985 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ✗ ทะเบียนถูกยกเลิกแล้ว (ไม่มีทะเบียนที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---

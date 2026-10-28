@@ -4,17 +4,17 @@ title: Celecoxib
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 38
 evidence_level: L5
-indication_count: 10
+indication_count: 7
 last_modified_at: 2026-10-15
 description: "Celecoxib: ข้อบ่งใช้ใหม่ที่คาดการณ์ Acromesomelic dysplasia, Hunter-Thompson type (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ข้อเสื่อม"
 monitor_inn: "Celecoxib"
-predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "inflammatory spondylopathy", "WHIM syndrome"]
+predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
 ---
 
 # Celecoxib
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **7** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachy
 
 </div>
 
-## Celecoxib: จากการบรรเทาปวดและข้อเสื่อมสู่ภาวะกระดูกผิดปกติชนิด Acromesomelic Dysplasia (Hunter-Thompson type)
+## Celecoxib: จากการบรรเทาปวดและข้อเสื่อมสู่ acromesomelic dysplasia ชนิด Hunter-Thompson
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,10 +46,10 @@ Celecoxib เดิมใช้บรรเทาปวดและรักษ�
 |------|------|
 | ข้อบ่งใช้เดิม | บรรเทาปวด, ข้อเสื่อม |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Acromesomelic dysplasia, Hunter-Thompson type |
-| คะแนนการทำนาย TxGNN | 99.88% |
+| คะแนนการทำนาย TxGNN | 0.9988 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ✗ ใบอนุญาตถูกยกเลิกทั้งหมด |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -58,7 +58,7 @@ Celecoxib เดิมใช้บรรเทาปวดและรักษ�
 
 โรคเป้าหมายเป็นความผิดปกติของโครงกระดูกที่เกี่ยวข้องกับยีน GDF5 ปัจจุบันยังไม่มีหลักฐานว่ากลไกของโรคนี้ขับเคลื่อนด้วยพรอสตาแกลนดิน ความเชื่อมโยงทางกลไกจึงอ่อน และตอนนี้พึ่งพาคะแนนทำนายของโมเดลเป็นหลัก
 
-คะแนนที่สูงมาก (99.88%) ไม่ได้แปลว่ามีหลักฐานทางคลินิก เพราะเป็นเพียงผลการคำนวณจากกราฟความรู้
+คะแนนที่สูงมาก (0.9988) ไม่ได้แปลว่ามีหลักฐานทางคลินิก เพราะเป็นคะแนนจากโมเดล TxGNN (deep learning) ซึ่งอาจสะท้อนความคล้ายคลึงระหว่างโรคที่เกี่ยวข้องกันที่โมเดลเรียนรู้มา ไม่ใช่หลักฐานทางชีวภาพ
 
 ## หลักฐานจากการทดลองทางคลินิก
 
@@ -97,7 +97,6 @@ Celecoxib เดิมใช้บรรเทาปวดและรักษ�
 - ทำการศึกษากลไกหรือก่อนคลินิกที่แสดงว่าพรอสตาแกลนดิน/COX-2 เกี่ยวข้องกับพยาธิสภาพของโรคนี้
 - ตรวจสอบสถานะใบอนุญาต เพราะปัจจุบันยาไม่มีทะเบียนที่ยังใช้ได้ในประเทศไทย
 
-**ข้อสังเกตเพิ่มเติม:** ในรายการที่ทำนายไว้ มี **Inflammatory spondylopathy** (อันดับ 9, ข้อสันหลังอักเสบ/ankylosing spondylitis) ซึ่งมีหลักฐานแข็งแรงกว่ามาก (ระดับ L1 มีการทดลอง Phase 3 ที่เสร็จสิ้นหลายรายการและวรรณกรรมประเภท RCT) ควรพิจารณาประเมินเป็นรายงานแยกต่างหากหากต้องการหาข้อบ่งใช้ใหม่ที่มีโอกาสเป็นไปได้สูงกว่า
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์

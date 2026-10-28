@@ -5,10 +5,10 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 113
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-15
-description: "Naproxen: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrom… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ต้านการอักเสบ"
+last_modified_at: 2026-10-28
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
+description: "Naproxen: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Naproxen
@@ -33,7 +33,7 @@ predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous micro
 
 </div>
 
-## Naproxen: จากการบรรเทาปวดและต้านการอักเสบสู่กลุ่มอาการ Brachydactyly-Syndactyly
+## Naproxen: กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome)
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,21 +46,21 @@ Naproxen เป็นยากลุ่ม NSAIDs ซึ่งเดิมใช
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | บรรเทาปวด, ต้านการอักเสบ |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome) |
-| คะแนนการทำนาย TxGNN | 99.35% |
+| คะแนนการทำนาย TxGNN | 0.9935 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ยกเลิกทะเบียนแล้วทั้งหมด (ไม่มีทะเบียนที่ใช้งานอยู่) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
 ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมสำหรับรายงานนี้ ตามข้อมูลที่ทราบ Naproxen เป็นตัวยับยั้งเอนไซม์ COX-1 และ COX-2 แบบไม่เลือกจำเพาะ ทำให้การสร้างพรอสตาแกลนดินลดลง จึงออกฤทธิ์บรรเทาปวดและต้านการอักเสบ
 
-ยังไม่พบความเชื่อมโยงเชิงกลไกที่ชัดเจนระหว่างการยับยั้ง COX กับความผิดปกติของแขนขาแต่กำเนิดชนิดนี้ คะแนนที่สูง (99.35%) เป็นเพียงผลทำนายของโมเดล ไม่มีการศึกษาทางคลินิกหรือวรรณกรรมรองรับ จึงไม่ควรตีความว่าเป็นหลักฐานของประสิทธิผล
+ยังไม่พบความเชื่อมโยงเชิงกลไกที่ชัดเจนระหว่างการยับยั้ง COX กับความผิดปกติของแขนขาแต่กำเนิดชนิดนี้ คะแนนที่สูง (0.9935) เป็นเพียงผลทำนายของโมเดล ไม่มีการศึกษาทางคลินิกหรือวรรณกรรมรองรับ จึงไม่ควรตีความว่าเป็นหลักฐานของประสิทธิผล
 
-ข้อบ่งใช้ที่ทำนายอันดับถัดมาก็อยู่ในสถานการณ์เดียวกัน คือเป็นโรคพัฒนาการ/พันธุกรรมที่หายาก ได้แก่ colobomatous microphthalmia-rhizomelic dysplasia syndrome (99.22%), acromesomelic dysplasia ชนิด Hunter-Thompson (99.17%) และ brachyolmia-amelogenesis imperfecta syndrome (99.06%) ทั้งหมดไม่มีหลักฐานสนับสนุนและมีระดับ L5 เช่นกัน
+ข้อบ่งใช้ที่ทำนายอันดับถัดมาก็อยู่ในสถานการณ์เดียวกัน คือเป็นโรคพัฒนาการ/พันธุกรรมที่หายาก ได้แก่ colobomatous microphthalmia-rhizomelic dysplasia syndrome (0.9922), acromesomelic dysplasia ชนิด Hunter-Thompson (0.9917) และ brachyolmia-amelogenesis imperfecta syndrome (0.9906) ทั้งหมดไม่มีหลักฐานสนับสนุนและมีระดับ L5 เช่นกัน
 
 ## หลักฐานจากการทดลองทางคลินิก
 

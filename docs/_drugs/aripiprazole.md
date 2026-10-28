@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Aripiprazole
-parent: หลักฐานระดับสูง (L1-L2)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 20
-evidence_level: L1
-indication_count: 10
+evidence_level: L5
+indication_count: 9
 last_modified_at: 2026-10-15
 description: "Aripiprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: จิตเภท, ไบโพลาร์"
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "asperger syndrome, susceptibility to", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-ระดับหลักฐาน: **L1** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Aripiprazole เป็นยาต้านโรคจิตกลุ่มใ�
 |------|------|
 | ข้อบ่งใช้เดิม | จิตเภท, ไบโพลาร์ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder) |
-| คะแนนการทำนาย TxGNN | 99.62% |
-| ระดับหลักฐาน | L1 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกทั้งหมด (ไม่มีใบอนุญาตที่ยังใช้ได้) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว 1 รายการ) |
+| คะแนนการทำนาย TxGNN | 0.9962 |
+| ระดับหลักฐาน | L5 |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?

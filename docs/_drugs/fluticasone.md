@@ -4,17 +4,17 @@ title: Fluticasone
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 73
 evidence_level: L5
-indication_count: 10
+indication_count: 3
 last_modified_at: 2026-10-15
 description: "Fluticasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคจมูกอักเสบ"
 monitor_inn: "Fluticasone"
-predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura", "cystic teratoma", "spinal cord dermoid cyst", "disease of orbital part of eye adnexa", "exostosis", "disease of orbital region", "dermoid cyst of ovary", "eye disease"]
+predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
 ---
 
 # Fluticasone
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **3** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -48,10 +48,10 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 |------|------|
 | ข้อบ่งใช้เดิม | โรคหอบหืด, โรคจมูกอักเสบ |
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
-| คะแนนการทำนาย TxGNN | 99.20% |
+| คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | ใบอนุญาตถูกยกเลิกแล้ว (ไม่มีใบอนุญาตที่ยังมีผล) |
-| จำนวนใบอนุญาต | 1 รายการ (ยกเลิกแล้ว) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
