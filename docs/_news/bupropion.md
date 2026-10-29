@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bupropion ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/bupropion/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # ข่าวเกี่ยวกับ Bupropion
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Bupropion บ้าง">
-ขณะนี้ <strong>Bupropion</strong> มีข่าวที่เกี่ยวข้อง <strong>2 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Bupropion</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -42,21 +42,13 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (2 ข่าว)
+## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
 ### [หุ้น Genmab พุ่ง 13% หลังผลทดลองยารักษามะเร็งลำไส้ใหญ่](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1YkN6RGZtQkxBUHBfV2otRjBpYUFtTk91ejVTY1BNUFRMZkFnS2d4NFUxRGZBNXdJZ3ZkOU1VaTdUX1FTQ3hYNGpaQnFhcEhqTVRTNXJVU2pwNmZUYkZjVVJtR192dVRteDNaTldvYw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1YkN6RGZtQkxBUHBfV2otRjBpYUFtTk91ejVTY1BNUFRMZkFnS2d4NFUxRGZBNXdJZ3ZkOU1VaTdUX1FTQ3hYNGpaQnFhcEhqTVRTNXJVU2pwNmZUYkZjVVJtR192dVRteDNaTldvYw?oc=5)
-
----
-
-### [เปิดหนังสือ 2 เล่มเติมพลังใจผู้ป่วย จาก ‘เปลี่ยนมะเร็ง...เป็นพลัง’ สู่ ‘มิตรภาพบำบัด ยา...หัวใจ’ - The Coverage](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV1BNb0E1MWV4dTZkV1BMXzJVeHR6aUxwWTdyX3lxNGdUY0pmcjVYNlU0ZVNuVHZMU2RwdV90YjJ0OXU2VnVkZG9aV0IxTGIyWmJNb3V2Mm9VNlE?oc=5)
-
-2026-10-25 <span class="news-indication-tag">มะเร็ง</span>
-
-แหล่งที่มา: [The Coverage](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV1BNb0E1MWV4dTZkV1BMXzJVeHR6aUxwWTdyX3lxNGdUY0pmcjVYNlU0ZVNuVHZMU2RwdV90YjJ0OXU2VnVkZG9aV0IxTGIyWmJNb3V2Mm9VNlE?oc=5)
 
 ---
 

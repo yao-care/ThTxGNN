@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Furosemide ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/furosemide/
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-29
 ---
 
 # ข่าวเกี่ยวกับ Furosemide
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-28
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Furosemide บ้าง">
-ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
+ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -30,29 +30,13 @@ last_modified_at: 2026-10-28
 <p><a href="{{ '/drugs/furosemide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (3 ข่าว)
+## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
 ### [หุ้น Genmab พุ่ง 13% หลังผลทดลองยารักษามะเร็งลำไส้ใหญ่](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1YkN6RGZtQkxBUHBfV2otRjBpYUFtTk91ejVTY1BNUFRMZkFnS2d4NFUxRGZBNXdJZ3ZkOU1VaTdUX1FTQ3hYNGpaQnFhcEhqTVRTNXJVU2pwNmZUYkZjVVJtR192dVRteDNaTldvYw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFB1YkN6RGZtQkxBUHBfV2otRjBpYUFtTk91ejVTY1BNUFRMZkFnS2d4NFUxRGZBNXdJZ3ZkOU1VaTdUX1FTQ3hYNGpaQnFhcEhqTVRTNXJVU2pwNmZUYkZjVVJtR192dVRteDNaTldvYw?oc=5)
-
----
-
-### [BofA ชี้บริษัทยาแห่งนี้เป็นหุ้นเด่น หลังข้อมูลยารักษาโรคไตมีแนวโน้มดี](https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU1FiRjBnR0dMNHVGUkFkN2dlWVh5VFBTZ0J6Sm9LRlVqN3FRTjJEZlFkaGxFSUVwMndsNlJvd2lsRExmZXNrMVFrTDcyeXRpVC1Jd3Uxc3lUQWFNTlV0WUFZUlU4U3VRSlZJWUYwdw?oc=5)
-
-2026-10-26 <span class="news-indication-tag">โรคไต</span>
-
-แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU1FiRjBnR0dMNHVGUkFkN2dlWVh5VFBTZ0J6Sm9LRlVqN3FRTjJEZlFkaGxFSUVwMndsNlJvd2lsRExmZXNrMVFrTDcyeXRpVC1Jd3Uxc3lUQWFNTlV0WUFZUlU4U3VRSlZJWUYwdw?oc=5)
-
----
-
-### [เปิดหนังสือ 2 เล่มเติมพลังใจผู้ป่วย จาก ‘เปลี่ยนมะเร็ง...เป็นพลัง’ สู่ ‘มิตรภาพบำบัด ยา...หัวใจ’ - The Coverage](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV1BNb0E1MWV4dTZkV1BMXzJVeHR6aUxwWTdyX3lxNGdUY0pmcjVYNlU0ZVNuVHZMU2RwdV90YjJ0OXU2VnVkZG9aV0IxTGIyWmJNb3V2Mm9VNlE?oc=5)
-
-2026-10-25 <span class="news-indication-tag">มะเร็ง</span>
-
-แหล่งที่มา: [The Coverage](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hV1BNb0E1MWV4dTZkV1BMXzJVeHR6aUxwWTdyX3lxNGdUY0pmcjVYNlU0ZVNuVHZMU2RwdV90YjJ0OXU2VnVkZG9aV0IxTGIyWmJNb3V2Mm9VNlE?oc=5)
 
 ---
 
