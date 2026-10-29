@@ -28,6 +28,11 @@ permalink: /drugs/
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+รายการนี้อ้างอิงข้อมูลทะเบียนยาของ [Thai FDA](https://www.fda.moph.go.th/) (ประเทศไทย)
+
+<!-- local-home:end -->
+
 ## ภาพรวม
 
 ThTxGNN วิเคราะห์ยา {{ site.data.drug_stats.total_drugs }} รายการจาก Thai FDA และระบุข้อบ่งใช้ใหม่ที่มีศักยภาพ 2,573,191 รายการ

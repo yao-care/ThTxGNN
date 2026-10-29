@@ -24,6 +24,37 @@ image: /assets/images/og-default.png
 
 ---
 
+<!-- local-home:start（母目錄 .claude/gen_local_home_20261029.py 產生，勿手改）-->
+## ประเทศไทย: ขอบเขตของเว็บไซต์นี้
+
+เว็บไซต์นี้เผยแพร่รายงานของยา **{{ site.data.drug_stats.total_drugs }}** รายการจากข้อมูลทะเบียนยาของ [Thai FDA](https://www.fda.moph.go.th/) (ประเทศไทย)
+
+จำนวนรายงานตามระดับหลักฐาน: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+
+### ยาที่มีระดับหลักฐานสูงสุดบนเว็บไซต์นี้
+
+| ยา | ระดับหลักฐาน |
+|---|---|
+| [Bupropion](/drugs/bupropion/) | L2 |
+| [Prednisolone](/drugs/prednisolone/) | L2 |
+| [Propofol](/drugs/propofol/) | L2 |
+| [Tizanidine](/drugs/tizanidine/) | L2 |
+| [Atorvastatin](/drugs/atorvastatin/) | L2 |
+| [Albendazole](/drugs/albendazole/) | L2 |
+| [Montelukast](/drugs/montelukast/) | L2 |
+| [Sucralfate](/drugs/sucralfate/) | L2 |
+| [Tacrolimus](/drugs/tacrolimus/) | L2 |
+| [Ketamine](/drugs/ketamine/) | L2 |
+
+### ยาที่มีเฉพาะในเว็บไซต์นี้จากเว็บไซต์ TxGNN ทั้ง 30 แห่ง
+
+| ยา | ระดับหลักฐาน |
+|---|---|
+| [Erythropoietin](/drugs/erythropoietin/) | L5 |
+| [Mefloquine](/drugs/mefloquine/) | N/A |
+
+<!-- local-home:end -->
+
 ## ค้นหายา
 
 <p class="key-answer" data-question="จะค้นหายาหรือโรคได้อย่างไร?">
