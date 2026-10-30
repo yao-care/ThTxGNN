@@ -378,15 +378,7 @@ python3 .claude/dump_license_facts_20261021.py ThTxGNN       # 依證據包算�
 python3 .claude/checker_trend.py --no-append ThTxGNN           # 全部藥物頁 checker，必須「非 0 0」
 ```
 
-### 許可證排程更新（GitHub Actions）
+### 許可證排程更新
 
-`.github/workflows/license-refresh.yml` 每週一 UTC 03:17 自動執行，也可以在 Actions 頁手動觸發（可選只試跑）：
-
-1. 從 Release 還原 `data/`（`scripts/restore_data.sh`）
-2. 從主管機關下載最新許可證資料（`scripts/license_adapter.py`），檢查筆數與格式
-3. 更新證據包的許可證狀態 → 重算市場狀態 → 同步許可證表 → 事實層改頁 → checker 全量必須 0 → 衍生檔 → gate
-4. 全部通過才推上 `main` 並觸發部署；更新後的 `data/` 另存成新的 `data-YYYYMMDD` Release
-
-以下情況一律不推、自動開 issue（label `license-refresh`）：下載失敗或格式改變、狀態變動超過兩成、
-改到的藥物頁超過 min(200, 5%)、checker／gate／h1 沒過、有人工查核紀錄的頁會被改到。全程不使用 AI。
+本站尚未接上排程（主管機關資料需要手動下載，或下載程式尚未完成）；狀態見母 repo `.claude/HANDOFF.md`。
 <!-- txgnn-ops:end -->
