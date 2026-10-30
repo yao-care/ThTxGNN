@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 136
 evidence_level: L4
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Rifampicin: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบ (Conjunctivitis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: วัณโรค"
 monitor_inn: "Rifampicin"
 predicted_indications: ["conjunctivitis", "multiple endocrine neoplasia", "acne (disease)", "conjunctivitis (disease)", "HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "rheumatoid arthritis", "acute contagious conjunctivitis", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome"]
@@ -48,7 +48,7 @@ Rifampicin เป็นยาปฏิชีวนะที่เดิมใช
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบ (Conjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9995 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

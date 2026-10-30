@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tizanidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (migraine disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -48,7 +48,7 @@ Tizanidine เป็นยาชนิดรับประทานที่อ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (migraine disorder) |
 | คะแนนการทำนาย TxGNN | 0.9979 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 

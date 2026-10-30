@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Progesterone"
 predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Progesterone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขาดประจำเดือน (amenorrhea (disease)) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -50,7 +50,7 @@ Progesterone เป็นฮอร์โมนเพศหญิงธรรม�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขาดประจำเดือน (amenorrhea (disease)) |
 | คะแนนการทำนาย TxGNN | 1,0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

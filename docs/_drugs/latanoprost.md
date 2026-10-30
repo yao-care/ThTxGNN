@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Latanoprost"
 predicted_indications: ["visceral calciphylaxis", "hypotrichosis simplex of the scalp", "venous thoracic outlet syndrome", "arterial thoracic outlet syndrome", "neurogenic thoracic outlet syndrome", "congenital hypotrichosis milia", "angiodysplasia of stomach", "blue toe syndrome", "lymphangiectasis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Latanoprost: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะแคลซิฟิลาซิสของอวัยวะภายใน (visceral calciphylaxis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ต้อหิน, ความดันในตาสูง"
 ---
 
@@ -52,7 +52,7 @@ Latanoprost เป็นยาหยอดตาที่ในใบอนุ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะแคลซิฟิลาซิสของอวัยวะภายใน (visceral calciphylaxis) |
 | คะแนนการทำนาย TxGNN | 0.9983 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

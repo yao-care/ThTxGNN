@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Atenolol"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "chronic pulmonary heart disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Atenolol: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงรุนแรง (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหัวใจ"
 ---
 
@@ -50,7 +50,7 @@ Atenolol เป็นยากลุ่มต้านเบต้าที่�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง |
 | คะแนนการทำนาย TxGNN | 0.9985 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

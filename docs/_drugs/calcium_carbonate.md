@@ -5,7 +5,7 @@ parent: การใช้ที่ทราบแล้วเท่านั้
 nav_order: 33
 evidence_level: N/A
 indication_count: 0
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Calcium Carbonate: known uses and market status in Thailand; currently no new candidate indication"
 predicted_indications: []
 ---
@@ -46,7 +46,7 @@ predicted_indications: []
 | ข้อบ่งใช้ใหม่ที่โมเดลทำนาย | ไม่มี |
 | การใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้ | 10 |
 | ระดับหลักฐาน | ไม่เกี่ยวข้อง |
-| สถานะการวางจำหน่ายในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในประเทศไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 
 ## การใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้

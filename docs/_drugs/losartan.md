@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Losartan: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงชนิดร้ายแรง (malignant hypertensive renal disease) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -48,7 +48,7 @@ Losartan เป็นยากลุ่มที่ยับยั้งตั�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงชนิดร้ายแรง (malignant hypertensive renal disease) |
 | คะแนนการทำนาย TxGNN | 0.9973 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

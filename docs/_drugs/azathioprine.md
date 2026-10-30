@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Azathioprine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการตาแหว่งร่วมกับตาเล็กและกระดูกแขนขาส่วนต้นสั้น (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: -"
 ---
 
@@ -48,7 +48,7 @@ Azathioprine เป็นยากดภูมิคุ้มกันชนิ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการตาแหว่งร่วมกับตาเล็กและกระดูกแขนขาส่วนต้นสั้น (colobomatous microphthalmia-rhizomelic dysplasia syndrome) |
 | คะแนนการทำนาย TxGNN | 1.0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 148
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Tenofovir: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian Immunodeficiency Viru… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี"
 monitor_inn: "Tenofovir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -51,7 +51,7 @@ Tenofovir เป็นยาต้านไวรัสกลุ่มนิว�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian Immunodeficiency Virus infection) |
 | คะแนนการทำนาย TxGNN | 0.9996 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

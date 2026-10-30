@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 68
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Ferrous Sulfate Anhydrous: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ภาวะโลหิตจางจากขาดธาตุเหล็ก"
 monitor_inn: "Ferrous sulfate anhydrous"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "biotin metabolic disease", "non-syndromic esophageal malformation"]
@@ -50,7 +50,7 @@ Ferrous sulfate anhydrous เป็นเกลือธาตุเหล็ก
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต |
 | คะแนนการทำนาย TxGNN | 0.9978 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

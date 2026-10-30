@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 59
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Doxycycline: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะเยื่อบุตาและกระจกตาอักเสบแบบจุด (Punctate Epithelial Keratoconjun… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
 monitor_inn: "Doxycycline"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "otitis externa", "postinfectious vasculitis", "post-bacterial disorder", "post-infectious syndrome", "infective urethral stricture", "Chagas cardiomyopathy", "infection-related hemolytic uremic syndrome", "exposure keratitis", "chronic gingivitis"]
@@ -48,7 +48,7 @@ Doxycycline เป็นยาปฏิชีวนะกลุ่มเตต�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะเยื่อบุตาและกระจกตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9994 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

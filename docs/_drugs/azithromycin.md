@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 24
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Azithromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ polyclonal hyperviscosity syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินหายใจ"
 monitor_inn: "Azithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague", "congenital hematological disorder"]
@@ -50,7 +50,7 @@ Azithromycin เป็นยาปฏิชีวนะกลุ่มมาโ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | polyclonal hyperviscosity syndrome |
 | คะแนนการทำนาย TxGNN | 0.9981 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

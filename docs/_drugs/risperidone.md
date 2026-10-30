@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 137
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Risperidone: ข้อบ่งใช้ใหม่ที่คาดการณ์ อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaz… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคจิตเภท"
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
@@ -50,7 +50,7 @@ Risperidone เป็นยาต้านโรคจิตกลุ่มร�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaze palsy, familial horizontal, with progressive scoliosis) |
 | คะแนนการทำนาย TxGNN | 0.9976 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

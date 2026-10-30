@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Chloroquine"
 predicted_indications: ["rheumatoid factor-positive polyarticular juvenile idiopathic arthritis", "rheumatoid nodulosis", "juvenile chronic polyarthritis", "juvenile idiopathic arthritis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Chloroquine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ข้ออักเสบไม่ทราบสาเหตุในเด็กชนิดหลายข้อที่ให้ผลบวกต่อ rheumatoid factor (rheumatoid factor-positive polyarticular juven… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบั…"
 ---
 
@@ -49,7 +49,7 @@ Chloroquine เป็นยาต้านมาลาเรียชนิด�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ข้ออักเสบไม่ทราบสาเหตุในเด็กชนิดหลายข้อที่ให้ผลบวกต่อ rheumatoid factor (rheumatoid factor-positive polyarticular juvenile idiopathic arthritis) |
 | คะแนนการทำนาย TxGNN | 0.9941 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

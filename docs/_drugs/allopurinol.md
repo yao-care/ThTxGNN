@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Allopurinol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะพอร์ฟิเรียของตับ (Hepatic Porphyria) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เก๊าต์, กรดยูริกในเลือดสูง"
 ---
 
@@ -48,7 +48,7 @@ Allopurinol เป็นยาที่เดิมใช้รักษาโ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะพอร์ฟิเรียของตับ (Hepatic Porphyria) |
 | คะแนนการทำนาย TxGNN | 0.9995 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

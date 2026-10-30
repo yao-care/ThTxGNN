@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Clarithromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -50,7 +50,7 @@ Clarithromycin เป็นยาปฏิชีวนะกลุ่มมา�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome) |
 | คะแนนการทำนาย TxGNN | 0.9935 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

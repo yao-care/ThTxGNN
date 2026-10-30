@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 131
 evidence_level: L2
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Propofol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ยาสลบ"
 monitor_inn: "Propofol"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "Prinzmetal angina", "nephrogenic syndrome of inappropriate antidiuresis", "Tourette syndrome"]
@@ -50,7 +50,7 @@ Propofol เป็นยาสลบชนิดฉีดที่ขึ้น�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9969 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 

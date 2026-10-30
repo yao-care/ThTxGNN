@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Isotretinoin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -50,7 +50,7 @@ Isotretinoin เป็นยากลุ่มเรตินอยด์ชน�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) |
 | คะแนนการทำนาย TxGNN | 0.9901 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

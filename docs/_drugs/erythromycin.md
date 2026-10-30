@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 64
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Erythromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjun… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
 monitor_inn: "Erythromycin"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
@@ -48,7 +48,7 @@ Erythromycin เป็นยาปฏิชีวนะกลุ่มมาโ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9989 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

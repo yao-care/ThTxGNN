@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fluticasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคจมูกอักเสบ"
 monitor_inn: "Fluticasone"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
@@ -50,7 +50,7 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Diazepam: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคนอนไม่หลับ (insomnia (disease)) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -50,7 +50,7 @@ Diazepam เป็นยาในกลุ่มเบนโซไดอะซ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคนอนไม่หลับ (insomnia (disease)) |
 | คะแนนการทำนาย TxGNN | 1,0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

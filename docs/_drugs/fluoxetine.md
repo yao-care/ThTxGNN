@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Fluoxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -49,7 +49,7 @@ Fluoxetine เป็นยากลุ่ม SSRI ที่ใช้ในปร
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder) |
 | คะแนนการทำนาย TxGNN | 0.9992 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

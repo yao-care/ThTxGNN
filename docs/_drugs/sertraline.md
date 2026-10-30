@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Sertraline"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Sertraline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพแบบหวาดระแวง (Paranoid Personality Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคซึมเศร้า, โรควิตกกังวล"
 ---
 
@@ -54,7 +54,7 @@ Sertraline เดิมใช้รักษาโรคซึมเศร้า
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคบุคลิกภาพแบบหวาดระแวง (Paranoid Personality Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9993 |
 | ระดับหลักฐาน | L5 (ไม่มีการศึกษาใดศึกษาโรคนี้โดยตรง) |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 4
 monitor_inn: "Atorvastatin"
 predicted_indications: ["HIV infectious disease", "brain stem infarction", "cholesterol-ester transfer protein deficiency", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Atorvastatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อเอชไอวี (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ไขมันในเลือดสูง"
 ---
 
@@ -50,7 +50,7 @@ Atorvastatin เป็นยากลุ่มสแตติน ใบอนุ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อเอชไอวี |
 | คะแนนการทำนาย TxGNN | 0.9931 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 

@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 12
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Acyclovir: ข้อบ่งใช้ใหม่ที่คาดการณ์ กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctiv… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคเริม, งูสวัด"
 monitor_inn: "Acyclovir"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "common wart", "post-infectious neuralgia", "hepatitis C induced liver cirrhosis", "eosinophilic pustular folliculitis", "sequela of COVID-19", "vulvovaginal candidiasis", "papular urticaria", "disease of orbital region", "epidemic keratoconjunctivitis"]
@@ -48,7 +48,7 @@ Acyclovir เป็นยาต้านไวรัสที่เดิมใ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9967 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

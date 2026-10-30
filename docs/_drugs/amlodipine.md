@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Amlodipine"
 predicted_indications: ["brain stem infarction", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "malignant hypertensive renal disease", "cerebral artery occlusion", "Braddock syndrome", "MRI defined brain infarct", "ABri amyloidosis", "intracerebral hemorrhage"]
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Amlodipine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะก้านสมองขาดเลือด (Brain Stem Infarction) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ"
 ---
 
@@ -52,7 +52,7 @@ Amlodipine เป็นยาที่ในประเทศไทยได้
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะก้านสมองขาดเลือด (Brain Stem Infarction) |
 | คะแนนการทำนาย TxGNN | 0.9994 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

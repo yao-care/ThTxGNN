@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 128
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Prednisolone: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคผมร่วงเป็นหย่อม (Alopecia Areata) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ต้านการอักเสบ, ภูมิแพ้รุนแรง"
 monitor_inn: "Prednisolone"
 predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia antibody deficiency", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "prolapse of lacrimal gland"]
@@ -50,7 +50,7 @@ Prednisolone เป็นยากลุ่มกลูโคคอร์ติ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผมร่วงเป็นหย่อม (Alopecia Areata) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 

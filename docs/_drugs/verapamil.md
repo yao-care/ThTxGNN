@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 159
 evidence_level: L5
 indication_count: 6
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Verapamil: ข้อบ่งใช้ใหม่ที่คาดการณ์ บันเดิลแบรนช์บล็อก (obsolete bundle branch block) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ความดันโลหิตสูง, หัวใจเต้นผิดจังหวะ"
 monitor_inn: "Verapamil"
 predicted_indications: ["obsolete bundle branch block", "malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "periodic paralysis with transient compartment-like syndrome"]
@@ -48,7 +48,7 @@ Verapamil เดิมใช้รักษาความดันโลหิ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | บันเดิลแบรนช์บล็อก (obsolete bundle branch block) |
 | คะแนนการทำนาย TxGNN | 0.9962 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

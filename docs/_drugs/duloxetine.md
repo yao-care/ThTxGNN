@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 60
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Duloxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ซึมเศร้า, ปวดปลายประสาท"
 monitor_inn: "Duloxetine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia", "obsessive-compulsive disorder", "schizotypal personality disorder", "paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "Ohdo syndrome and variants", "ligneous conjunctivitis", "blepharophimosis - intellectual disability syndrome, Ohdo type"]
@@ -52,7 +52,7 @@ Duloxetine เป็นยากลุ่มยับยั้งการดู
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (Benign Paroxysmal Torticollis of Infancy) |
 | คะแนนการทำนาย TxGNN | 0.9985 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

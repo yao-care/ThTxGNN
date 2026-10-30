@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Metformin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Focal Stiff Limb Syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
@@ -50,7 +50,7 @@ Metformin เดิมใช้รักษา **เบาหวานชนิ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Focal Stiff Limb Syndrome |
 | คะแนนการทำนาย TxGNN | 0.9945 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 

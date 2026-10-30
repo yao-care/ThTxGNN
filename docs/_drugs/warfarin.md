@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 161
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-28
+last_modified_at: 2026-10-30
 description: "Warfarin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด"
 monitor_inn: "Warfarin"
 predicted_indications: ["heparin cofactor 2 deficiency", "factor 5 excess with spontaneous thrombosis", "antithrombin deficiency type 2", "thrombophilia", "rheumatoid arthritis", "breast fibrocystic disease", "benign mammary dysplasia"]
@@ -54,7 +54,7 @@ Warfarin เป็นยาต้านการแข็งตัวของ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency) |
 | คะแนนการทำนาย TxGNN | 0.9987 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
 | จำนวนใบอนุญาต | 1 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
