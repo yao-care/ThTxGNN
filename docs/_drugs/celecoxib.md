@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 38
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Celecoxib: ข้อบ่งใช้ใหม่ที่คาดการณ์ Acromesomelic dysplasia, Hunter-Thompson type (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ข้อเสื่อม"
 monitor_inn: "Celecoxib"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "hypermobility of coccyx", "brachyolmia", "rheumatoid nodulosis", "WHIM syndrome"]
@@ -70,9 +70,7 @@ Celecoxib เดิมใช้บรรเทาปวดและรักษ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 37/67 (ยกเลิกแล้ว) | Celecoxib | ยาเม็ด | บรรเทาปวด, ข้อเสื่อม |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

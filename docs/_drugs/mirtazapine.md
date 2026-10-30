@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Mirtazapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการโอโดะและกลุ่มย่อย (Ohdo syndrome and variants) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -78,9 +78,7 @@ Mirtazapine เป็นยาเม็ดชนิดรับประทา�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 150/67 | Mirtazapine | ยาเม็ด | ซึมเศร้า |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ---
 

@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 113
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
 description: "Naproxen: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
@@ -72,9 +72,7 @@ Naproxen เป็นยากลุ่ม NSAIDs ซึ่งเดิมใช
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 35/67 (ยกเลิกแล้ว) | Naproxen | ยาเม็ด | บรรเทาปวด, ต้านการอักเสบ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

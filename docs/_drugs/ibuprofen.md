@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 83
 evidence_level: L5
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ibuprofen: ข้อบ่งใช้ใหม่ที่คาดการณ์ acromesomelic dysplasia ชนิด Hunter-Thompson (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ลดไข้, ต้านการอักเสบ"
 monitor_inn: "Ibuprofen"
 predicted_indications: ["acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome", "myosclerosis", "brachyolmia", "brachydactyly-syndactyly syndrome", "pseudoachondroplasia", "colobomatous microphthalmia-rhizomelic dysplasia syndrome"]
@@ -80,9 +80,7 @@ Ibuprofen เดิมใช้บรรเทาปวด ลดไข้ แ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 33/67 (สถานะ: ยกเลิก) | Ibuprofen | เม็ด (tablet) | บรรเทาปวด, ลดไข้, ต้านการอักเสบ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ---
 

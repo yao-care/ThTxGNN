@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Ceftriaxone"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ceftriaxone: ข้อบ่งใช้ใหม่ที่คาดการณ์ polyclonal hyperviscosity syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรียรุนแรง"
 ---
 
@@ -80,9 +80,7 @@ Ceftriaxone เป็นยาปฏิชีวนะกลุ่มเซฟ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 56/67 | Ceftriaxone | ยาเม็ด | โรคติดเชื้อแบคทีเรียรุนแรง |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ---
 

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Theophylline"
 predicted_indications: ["thrombotic disease", "nasal cavity disease", "laryngotracheitis", "tracheal disease", "pharyngitis", "acute laryngopharyngitis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Theophylline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคหลอดเลือดอุดตันจากลิ่มเลือด (Thrombotic Disease) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด"
 ---
 
@@ -80,9 +80,7 @@ Theophylline เป็นยาที่ได้รับอนุญาตใ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 65/67 | Theophylline | ยาเม็ด | โรคหอบหืด |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

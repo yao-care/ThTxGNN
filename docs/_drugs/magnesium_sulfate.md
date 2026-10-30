@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 9
 monitor_inn: "Magnesium sulfate"
 predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Magnesium Sulfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ ครรภ์เป็นพิษ (toxemia of pregnancy) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -92,9 +92,7 @@ Magnesium sulfate เป็นยาฉีดเกลือแร่แมก�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 155/67 | Magnesium sulfate | ยาฉีด | แมกนีเซียมต่ำ, ครรภ์เป็นพิษ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

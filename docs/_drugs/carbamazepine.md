@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 35
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Carbamazepine: ข้อบ่งใช้ใหม่ที่คาดการณ์ เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคลมชัก, ปวดประสาท"
 monitor_inn: "Carbamazepine"
 predicted_indications: ["trigeminal nerve neoplasm", "beta-ketothiolase deficiency", "Rett syndrome, congenital variant"]
@@ -79,9 +79,7 @@ Carbamazepine เดิมใช้รักษาโรคลมชักแล
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 81/67 (ยกเลิกแล้ว) | Carbamazepine | ยาเม็ด | โรคลมชัก, ปวดประสาท |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

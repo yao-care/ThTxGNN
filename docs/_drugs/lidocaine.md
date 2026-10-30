@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Lidocaine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (punctate epithelial keratoconjun… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ยาชา, หัวใจเต้นผิดจังหวะ"
 ---
 
@@ -70,9 +70,7 @@ Lidocaine เดิมใช้เป็นยาชาและรักษา�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 138/67 | Lidocaine | ยาฉีด | ยาชา, หัวใจเต้นผิดจังหวะ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

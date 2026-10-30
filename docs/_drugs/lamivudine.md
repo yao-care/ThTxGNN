@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 92
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Lamivudine: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian immunodeficiency viru… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี"
 monitor_inn: "Lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
@@ -83,9 +83,7 @@ SIV เป็นไวรัสเรโทรกลุ่มเดียวก�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 103/67 (ยกเลิกแล้ว) | Lamivudine | ยาเม็ด | ไวรัสตับอักเสบบี, เอชไอวี |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

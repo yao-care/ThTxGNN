@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Spironolactone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขนบางบนหนังศีรษะชนิดซิมเพล็กซ์ (hypotrichosis simplex of the scalp) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -68,9 +68,7 @@ Spironolactone เป็นยาที่ออกฤทธิ์ต้าน�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 17/67 | Spironolactone | เม็ด | บวมน้ำ, หัวใจล้มเหลว |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

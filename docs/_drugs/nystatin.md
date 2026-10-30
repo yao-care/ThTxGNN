@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 115
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Nystatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Vulvovaginitis (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: เชื้อราในช่องปาก"
 monitor_inn: "Nystatin"
 predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
@@ -93,9 +93,7 @@ Nystatin เป็นยาต้านเชื้อรากลุ่มโ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 106/67 (สถานะ: ยกเลิก) | Nystatin | ยาน้ำแขวนตะกอน (suspension) | เชื้อราในช่องปาก |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ---
 

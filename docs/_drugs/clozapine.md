@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 48
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Clozapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะแมเนียในโรคอารมณ์สองขั้ว (Manic Bipolar Affective Disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: จิตเภท"
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "psychotic disorder", "Malan overgrowth syndrome"]
@@ -91,9 +91,7 @@ Clozapine เป็นยารักษาโรคจิตกลุ่มร�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 145/67 | Clozapine | ยาเม็ด | จิตเภท |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ทะเบียนนี้มีสถานะ **ยกเลิกแล้ว** ปัจจุบันจึงไม่มีทะเบียนที่ยังใช้ได้ในประเทศไทย
 

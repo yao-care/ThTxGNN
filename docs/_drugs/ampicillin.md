@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 19
 evidence_level: L4
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ampicillin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กล่องเสียงอักเสบ (Laryngitis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
@@ -83,9 +83,7 @@ Ampicillin เป็นยาปฏิชีวนะกลุ่มเพนิ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 49/67 (สถานะ: ยกเลิก) | Ampicillin | ยาเม็ด | โรคติดเชื้อแบคทีเรีย |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

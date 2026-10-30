@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 138
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Rivaroxaban: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ"
 monitor_inn: "Rivaroxaban"
 predicted_indications: ["rheumatoid arthritis", "gout", "HIV infectious disease", "brachydactyly-syndactyly syndrome"]
@@ -83,9 +83,7 @@ Rivaroxaban เดิมใช้ป้องกันลิ่มเลือ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 123/67 (ยกเลิกแล้ว) | Rivaroxaban | เม็ด (tablet) | ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ---
 

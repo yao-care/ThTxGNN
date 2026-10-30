@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 91
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Lactulose: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะไตอักเสบเฉียบพลันจากกรดยูริก (Acute Urate Nephropathy) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ท้องผูก, โรคตับ"
 monitor_inn: "Lactulose"
 predicted_indications: ["acute urate nephropathy", "nephrolithiasis", "obstructive jaundice", "bile duct disease", "biliary tract disease", "hyperphosphatemia (disease)", "exercise-induced malignant hyperthermia", "bile duct neoplasm"]
@@ -100,9 +100,7 @@ Lactulose เป็นน้ำตาลไดแซ็กคาไรด์ท�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 129/67 (ยกเลิกแล้ว) | Lactulose | น้ำเชื่อม (syrup) | ท้องผูก, โรคตับ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

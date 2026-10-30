@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 116
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Olanzapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ benign paroxysmal torticollis of infancy (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคจิตเภท, โรคไบโพลาร์"
 monitor_inn: "Olanzapine"
 predicted_indications: ["benign paroxysmal torticollis of infancy", "agoraphobia"]
@@ -78,9 +78,7 @@ Olanzapine เดิมใช้รักษาโรคจิตเภทแล
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 80/67 (ยกเลิกแล้ว) | Olanzapine | ยาเม็ด | โรคจิตเภท, โรคไบโพลาร์ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

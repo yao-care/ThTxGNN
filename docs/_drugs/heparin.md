@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Heparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Heparin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะลิ่มเลือดง่ายจากการขาดโปรตีนซี ชนิดถ่ายทอดแบบยีนด้อย (thrombophilia due to protein C deficiency… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -68,9 +68,7 @@ Heparin เป็นยาต้านการแข็งตัวของเ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 25/67 | Heparin | ยาเม็ด | ป้องกันและรักษาลิ่มเลือด |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

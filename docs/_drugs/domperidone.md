@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Domperidone"
 predicted_indications: ["nephrogenic syndrome of inappropriate antidiuresis"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Domperidone: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการขับปัสสาวะไม่เหมาะสมจากไตชนิดถ่ายทอด (nephrogenic syndrome of inappropriate antidiuresis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -61,9 +61,7 @@ Domperidone เป็นยาที่ออกฤทธิ์ปิดกั�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 44/67 | Domperidone | ยาเม็ด | คลื่นไส้อาเจียน, อาหารไม่ย่อย |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

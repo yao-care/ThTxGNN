@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Sertraline"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Sertraline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพแบบหวาดระแวง (Paranoid Personality Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคซึมเศร้า, โรควิตกกังวล"
 ---
 
@@ -109,9 +109,7 @@ TxGNN ให้คะแนน 0.9954 ซึ่งมีวรรณกรรม
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 76/67 | Sertraline | ยาเม็ด | โรคซึมเศร้า, โรควิตกกังวล |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ---
 

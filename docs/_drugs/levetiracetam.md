@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Levetiracetam"
 predicted_indications: ["beta-ketothiolase deficiency"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Levetiracetam: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขาดเอนไซม์เบตา-คีโตไทโอเลส (beta-ketothiolase deficiency) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -68,9 +68,7 @@ Levetiracetam เป็นยารับประทานในรูปแบ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 85/67 | Levetiracetam | ยาเม็ด | โรคลมชัก |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

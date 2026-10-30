@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 32
 evidence_level: L3
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Calcipotriol: ข้อบ่งใช้ใหม่ที่คาดการณ์ เซบอร์ริกเคอราโทซิส (Seborrheic Keratosis) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: สะเก็ดเงิน"
 monitor_inn: "Calcipotriol"
 predicted_indications: ["seborrheic keratosis", "vulvar inverted follicular keratosis", "vulvovaginitis", "vulvitis", "vulvar neoplasm", "ulceration of vulva", "vulvar squamous neoplasm", "postmenopausal atrophic vaginitis", "bone Paget disease", "breast fibrocystic disease"]
@@ -75,9 +75,7 @@ Calcipotriol เป็นอนุพันธ์ของวิตามิน�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 137/67 (ยกเลิกแล้ว) | Calcipotriol | ขี้ผึ้ง (ointment) | สะเก็ดเงิน |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

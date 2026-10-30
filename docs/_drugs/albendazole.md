@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 13
 evidence_level: L2
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: พยาธิ"
 monitor_inn: "Albendazole"
 predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
@@ -99,9 +99,7 @@ Albendazole เป็นยาถ่ายพยาธิกลุ่มเบ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 110/67 | Albendazole | ยาเม็ด (รับประทาน) | พยาธิ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ใบอนุญาตนี้อยู่ในสถานะ **ยกเลิก** จึงไม่มีผลิตภัณฑ์ Albendazole ที่ทะเบียนยังมีผลในข้อมูลที่รวบรวมมา
 

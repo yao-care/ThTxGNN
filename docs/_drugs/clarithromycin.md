@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Clarithromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -78,9 +78,7 @@ Clarithromycin เป็นยาปฏิชีวนะกลุ่มมา�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 52/67 | Clarithromycin | ยาเม็ด | โรคติดเชื้อแบคทีเรีย |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ---
 

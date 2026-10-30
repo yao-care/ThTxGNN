@@ -7,7 +7,7 @@ evidence_level: L3
 indication_count: 3
 monitor_inn: "Alprazolam"
 predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Alprazolam: ข้อบ่งใช้ใหม่ที่คาดการณ์ นอนไม่หลับ (insomnia (disease)) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -91,9 +91,7 @@ Alprazolam เป็นยากลุ่มเบนโซไดอะซีพ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา |
-|---------|------|------|
-| 1A 74/67 | Alprazolam | ยาเม็ด |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 รูปแบบยาที่พบเป็นยารับประทานทั้งหมด
 

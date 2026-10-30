@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 54
 evidence_level: L5
 indication_count: 10
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Diclofenac: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะผมบางชนิด Hypotrichosis Simplex ของหนังศีรษะ (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: บรรเทาปวด, ต้านการอักเสบ"
 monitor_inn: "Diclofenac"
 predicted_indications: ["hypotrichosis simplex of the scalp", "acromesomelic dysplasia, Hunter-Thompson type", "pseudoachondroplasia", "brachyolmia", "brachyolmia-amelogenesis imperfecta syndrome", "congenital hypotrichosis milia", "myosclerosis", "diffuse alopecia areata", "juvenile idiopathic arthritis", "WHIM syndrome"]
@@ -68,9 +68,7 @@ Hypotrichosis simplex เป็นโรคผมบางที่เกิด�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 34/67 (สถานะ: ยกเลิก) | Diclofenac | ยาเม็ด | บรรเทาปวด, ต้านการอักเสบ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

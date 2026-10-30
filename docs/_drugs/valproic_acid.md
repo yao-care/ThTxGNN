@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 156
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Valproic Acid: ข้อบ่งใช้ใหม่ที่คาดการณ์ เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคลมชัก, โรคไบโพลาร์"
 monitor_inn: "Valproic acid"
 predicted_indications: ["trigeminal nerve neoplasm", "trigeminal neuralgia"]
@@ -72,9 +72,7 @@ Valproic acid เดิมใช้รักษาโรคลมชักแล
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 83/67 (สถานะ: ยกเลิก) | Valproicacid | ยาเม็ด | โรคลมชัก, โรคไบโพลาร์ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

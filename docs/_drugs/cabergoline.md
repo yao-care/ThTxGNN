@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cabergoline: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการโปรเจเรีย-ตัวเตี้ย-ไฝสี (progeria-short stature-pigmented nevi syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -69,9 +69,7 @@ Cabergoline เป็นยากลุ่มกระตุ้นตัวร�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา |
-|---------|------|------|
-| ทะเบียนยาเลขที่ 1A 128/67 | Cabergoline | ยาเม็ด |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ข้อมูลสถานะของใบอนุญาตในระบบยังไม่สอดคล้องกันทั้งหมด ควรตรวจสอบสถานะล่าสุดกับ อย.ก่อนนำข้อมูลไปใช้
 

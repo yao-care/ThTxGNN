@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 50
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Cyclosporine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง ชนิดถ่ายทอดทางยีนลักษณะด้อย (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันการปฏิเสธอวัยวะ, โรคภูมิคุ้มกันผิดปกติ"
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -74,9 +74,7 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 118/67 (สถานะ: ยกเลิก) | Cyclosporine | แคปซูล | ป้องกันการปฏิเสธอวัยวะ, โรคภูมิคุ้มกันผิดปกติ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

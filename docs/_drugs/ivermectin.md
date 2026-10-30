@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 89
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Ivermectin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Vulvovaginal candidiasis (การติดเชื้อราแคนดิดาในช่องคลอดและบริเวณปากช… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: พยาธิ, เหา"
 monitor_inn: "Ivermectin"
 predicted_indications: ["vulvovaginal candidiasis", "esophageal candidiasis", "anogenital human papillomavirus infection", "vulvovaginitis", "neonatal candidiasis", "congenital candidiasis", "candida glabrata", "postmenopausal atrophic vaginitis", "candidiasis, invasive"]
@@ -73,9 +73,7 @@ Ivermectin เดิมใช้รักษาโรคพยาธิและ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 113/67 (สถานะ: ยกเลิก) | Ivermectin | ยาเม็ด | พยาธิ, เหา |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

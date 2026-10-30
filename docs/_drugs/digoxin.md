@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 55
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Digoxin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Prinzmetal angina (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ"
 monitor_inn: "Digoxin"
 predicted_indications: ["Prinzmetal angina", "duodenal obstruction", "duodenal ulcer (disease)", "duodenogastric reflux", "hypoalphalipoproteinemia"]
@@ -74,9 +74,7 @@ Digoxin เป็นยากลุ่มคาร์ดิแอคไกลโ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 6/67 (สถานะ: ยกเลิก) | Digoxin | ยาเม็ด | หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

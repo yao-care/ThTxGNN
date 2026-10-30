@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Propylthiouracil"
 predicted_indications: ["resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta", "hyperthyroxinemia"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Propylthiouracil: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ของตัวรับฮอร์โมนไทรอยด์เบตา (resistance to thyroid hormone due to a mutation i… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม…"
 ---
 
@@ -76,9 +76,7 @@ Propylthiouracil เป็นยาต้านไทรอยด์ชนิด
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 87/67 | Propylthiouracil | ยาเม็ด | ภาวะไทรอยด์เป็นพิษ |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ความเป็นพิษต่อเซลล์
 

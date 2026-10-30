@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Efavirenz"
 predicted_indications: ["feline acquired immunodeficiency syndrome", "simian immunodeficiency virus infection", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Efavirenz: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคภูมิคุ้มกันบกพร่องในแมว (Feline Acquired Immunodeficiency Syndrome) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เอชไอวี"
 ---
 
@@ -72,9 +72,7 @@ Efavirenz เป็นยาต้านไวรัสกลุ่ม NNRTI ท
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 104/67 | Efavirenz | ยาเม็ด | เอชไอวี |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

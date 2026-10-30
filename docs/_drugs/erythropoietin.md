@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 65
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Erythropoietin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โลหิตจาง"
 monitor_inn: "Erythropoietin"
 predicted_indications: ["antithrombin deficiency type 2", "factor 5 excess with spontaneous thrombosis", "heparin cofactor 2 deficiency", "seborrheic dermatitis", "thrombophilia"]
@@ -81,9 +81,7 @@ Erythropoietin เดิมใช้รักษา **ภาวะโลหิ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 152/67 | Erythropoietin | ยาฉีด | โลหิตจาง |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ทะเบียนนี้ **ถูกยกเลิกแล้ว** ปัจจุบันจึงไม่มีทะเบียนที่ยังใช้งานในประเทศไทย
 

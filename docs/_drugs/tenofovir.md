@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 148
 evidence_level: L4
 indication_count: 3
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Tenofovir: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian Immunodeficiency Viru… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี"
 monitor_inn: "Tenofovir"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
@@ -94,9 +94,7 @@ SIV เป็นไวรัสกลุ่มเลนติไวรัสท�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 102/67 | Tenofovir | เม็ด (tablet) | ไวรัสตับอักเสบบี, เอชไอวี |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ทะเบียนนี้มีสถานะ **ยกเลิกแล้ว** ปัจจุบันจึงไม่มีทะเบียนยาเดี่ยวที่ยังใช้ได้ในประเทศไทยตามข้อมูลที่รวบรวมไว้
 

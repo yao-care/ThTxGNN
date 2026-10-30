@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 49
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Colchicine: ข้อบ่งใช้ใหม่ที่คาดการณ์ Plasmodium falciparum malaria (มาลาเรียชนิดฟัลซิปารัม) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: เก๊าต์เฉียบพลัน"
 monitor_inn: "Colchicine"
 predicted_indications: ["Plasmodium falciparum malaria", "dermatofibrosarcoma protuberans"]
@@ -75,9 +75,7 @@ Colchicine เดิมได้รับอนุมัติในประเ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 89/67 | Colchicine | ยาเม็ด | เก๊าต์เฉียบพลัน (สถานะ: ยังมีผล) |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ความเป็นพิษต่อเซลล์
 

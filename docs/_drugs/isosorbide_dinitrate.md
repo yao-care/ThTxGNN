@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Isosorbide dinitrate"
 predicted_indications: ["alopecia", "congenital hypotrichosis milia", "hypotrichosis simplex of the scalp", "pulmonary hypertension", "diffuse alopecia areata", "vascular disease", "hypertrichosis (disease)", "kyphoscoliotic heart disease", "visceral calciphylaxis", "venous thoracic outlet syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Isosorbide Dinitrate: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะผมร่วง (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหัวใจขาดเลือด"
 ---
 
@@ -70,9 +70,7 @@ Isosorbide dinitrate เป็นยาในกลุ่มไนเตรต �
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 11/67 | Isosorbidedinitrate | ยาเม็ด | โรคหัวใจขาดเลือด |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

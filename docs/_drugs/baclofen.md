@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 25
 evidence_level: L5
 indication_count: 2
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Baclofen: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: กล้ามเนื้อหดเกร็ง"
 monitor_inn: "Baclofen"
 predicted_indications: ["attention deficit-hyperactivity disorder", "nicotine dependence"]
@@ -78,9 +78,7 @@ Baclofen เดิมใช้รักษาอาการกล้ามเ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| 1A 142/67 (สถานะ: ยกเลิก) | Baclofen | ยาเม็ด | กล้ามเนื้อหดเกร็ง |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

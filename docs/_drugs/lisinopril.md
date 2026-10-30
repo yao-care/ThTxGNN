@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Lisinopril"
 predicted_indications: ["pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism", "malignant hypertensive renal disease", "Braddock syndrome", "chronic pulmonary heart disease", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome"]
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 description: "Lisinopril: ข้อบ่งใช้ใหม่ที่คาดการณ์ ความดันปอดสูงจากโรคปอดและ/หรือภาวะขาดออกซิเจน (pulmonary hypertension owing to lung disease and/or hypoxia) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้…"
 ---
 
@@ -80,9 +80,7 @@ Lisinopril เป็นยากลุ่มยับยั้งเอนไซ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-| เลขทะเบียนยา | ชื่อการค้า | รูปแบบยา | ข้อบ่งใช้ที่ได้รับอนุมัติ |
-|---------|------|------|-----------|
-| ทะเบียนยาเลขที่ 1A 12/67 | Lisinopril | เม็ด | ความดันโลหิตสูง, หัวใจล้มเหลว |
+ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
