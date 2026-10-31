@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Tacrolimus ข้อบ่งใช้ที่คาดการณ์ 2 รายการ"
 permalink: /news/tacrolimus/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # ข่าวเกี่ยวกับ Tacrolimus
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Tacrolimus บ้าง">
-ขณะนี้ <strong>Tacrolimus</strong> มีข่าวที่เกี่ยวข้อง <strong>2 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 2 รายการ
+ขณะนี้ <strong>Tacrolimus</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 2 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -34,15 +34,7 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/tacrolimus/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (2 ข่าว)
-
-### [กรมการแพทย์แผนไทยฯ จัดประชุม 29-30 ต.ค.นี้! รับมือ “สะเก็ดเงิน” ชูยาปรุงเฉพาะรายดูแลผู้ป่วย](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrY3A0QmxkenduY0QwRzBfSGUtZC00MHl2M2pMNTBsSWRiRlF6Q0MwWXAzbUgtUmVINzRTZzVXV3RKVFZLZi0yYjIyUk5ub1M2Y0VpUTlwRQ?oc=5)
-
-2026-10-29 <span class="news-indication-tag">สะเก็ดเงิน</span>
-
-แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrY3A0QmxkenduY0QwRzBfSGUtZC00MHl2M2pMNTBsSWRiRlF6Q0MwWXAzbUgtUmVINzRTZzVXV3RKVFZLZi0yYjIyUk5ub1M2Y0VpUTlwRQ?oc=5)
-
----
+## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
 ### [ข้อเสนอให้เพิ่มความคุ้มครองประกันสุขภาพเป็น 70% สำหรับยาที่ใช้รักษาโรคสะเก็ดเงิน โดยยาบางชนิดมีราคาสูงถึงเกือบ 50 ล้านดองเวียดนาม](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkdic2N1bzQyTllyLVE5aF9pc3VmamlNa2xxdkxzMHo0bFUwM1QwWjhFa3lldDdZZW1fVndIS2FNeTlCNEI1a2lMLXhfV202R2JTNFVaaUVuX1BmckFRWTNjb20ySVhKU1NVcmV4c2s0bXA1MmlRZ2l5Z0V3YldDRGw1UV8xY0FkaFN3SFRHV3hjblRBZzNod1gwYTlfZmtjV3Br?oc=5)
 

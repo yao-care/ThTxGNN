@@ -15,7 +15,7 @@ last_modified_at: 2026-10-31
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Enalapril บ้าง">
-ขณะนี้ <strong>Enalapril</strong> มีข่าวที่เกี่ยวข้อง <strong>5 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
+ขณะนี้ <strong>Enalapril</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,7 @@ last_modified_at: 2026-10-31
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (5 ข่าว)
+## ข่าวที่เกี่ยวข้อง (3 ข่าว)
 
 ### [BofA ชี้บริษัทยาแห่งนี้เป็นหุ้นเด่น หลังข้อมูลยารักษาโรคไตมีแนวโน้มดี](https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU1FiRjBnR0dMNHVGUkFkN2dlWVh5VFBTZ0J6Sm9LRlVqN3FRTjJEZlFkaGxFSUVwMndsNlJvd2lsRExmZXNrMVFrTDcyeXRpVC1Jd3Uxc3lUQWFNTlV0WUFZUlU4U3VRSlZJWUYwdw?oc=5)
 
@@ -53,22 +53,6 @@ last_modified_at: 2026-10-31
 2026-10-06 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Facebook](https://news.google.com/rss/articles/CBMihwhBVV95cUxPRVdSSVQ1ZEtVYmVKVHBJLVNrSlVFVnNUZlM0NmZ4Mk0wekdqVXMzaUZRQjBNNWJBaF9LY01GeUZjZWkwcGpDcHpLWGc1SzhjWWxXWEV4QTQtT1o4c2R1Umxxb3Z4RWNMWXJnRElrNjZycHRKem13NHY1WGE3UGJJRUVFSW52ckdtMGpZMWFjMlhWaGlEeHFXMFo4X2oyVkx5elppQ0IwRDVBM2lEUlgzT1NxMUc2TDJqUldwalJBbjMwa0ozUW9nVEg2ejFQTC1XbVNWYUtHY3lqd3pTc3AzQVQ2c0EtQmdCXzFvZ3RIQ2cwYk5PdDEyOVQ2bzdreFB6Q1hWS3lEaGZCMGQ2QlVsYzZrajlFNmNkLTMzZnFhVC13eU91azkta1ZvZVdzV2dad280RmJMSnR1ZHNNTXRtR0xLRVZoQmxYQ3RiOFlBQTh5bjVybVdQS2pOaFlWcFR3RGtfbTM3Z0VWNDJKRld0YVFoWWdOUW1GR3ZOZ2c4dTg5Yk53TmhhelRncHhPWnlvVEtxb3lHZ1NldjEzWGhqd1g5RTV0NzYyTWFSUUdrUE9IazdoQVpZSHZkZzRBV1owbDMxUGE1eE9iWlNHY29Cajk3cjVSM1ZpWDlWNHhROUJkYUZpbnRibjVJSGx0RUJRYVFfM09FMDd6YkhyRm92X0pfRVI5WllEUEFzWFZxZWNZU3dDNXVyNzV5SnpWSFlwOW5RMWJwN2F3dkJnOW1URjUwTERpYWRaaFNDTWJPdlFnYlBGbDVuVlk0UzBWM1FoTm5wUUhYZHlabDhpZmRJajVhREZIT1BHZ2Rfd0RZcWpDM01zSDJSN3VyalNRdHRIODNES0NSWUFkRmN6c3dudlQ4MWdGQThMZlhXUEl1UFBydTJLSVRmeF91cko2OXZ4OUl0YkRfODcyaU1zazV4Tkl2ZGtIWDN5TnVIaE5naC14cjNhNEdaN0Z3R1pJQ0VMclM0blFqQlI4ckcyU3c2bXN2cmJ3T2JQRXRIazZpSW0walVFbXV6N0J2NUlxQlZnZlRDN3F4Tm1SVGVQbHRfVWgwUDN4dU15UHVhaDNnSFcxODBONEgxdnZmMVlLeWhzaFNSMFpZZFZGbXVULVQtM3Q0eUdZajhCZ0xaRElManpGSzdFX2h0NjcwME91MHlvRURhZkd2SG14ZHFKMVIxblo5QV9mLThfMFRoS3pIdlBrdFlEaXlxa1phOEtlT0gxLTVVMUV5WE5YQ2NfbzBMbTNkeEdSX3lSVjd2T0RETGtwc1E4MXl1SEtCRUJxWV9nbEJpZndtU3Z5LXl3RlliSFpDZ2lkZENsTDMtbndpZFNfWVZhcEdzVk5YX0RQX0RKYndGOEZyQQ?oc=5)
-
----
-
-### [ยารักษามะเร็งตับอ่อน ตัวแรกที่ตรงจุด ช่วยยืดชีวิตผู้ป่วย 2 เท่า](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVZLVktfZC1YLWpSVHBob21ITG1uZU1NMF9tVFE2MkZHVkt4cGpFbkhmNzBqcDA4ejlMaUppcDVOb2dKUnpNOUlNclduU0dod1FzbTkyY0dpZVpjaEw1X3hibUF2SS1ETnIzV1lMakhYNjNtQ2pwYnVqOFViWVM0bkRLSjVOSzUya2ExNmtxRGlMTGFYU2VwZlNLbXFPNVg1U18zdQ?oc=5)
-
-2026-10-02 <span class="news-indication-tag">มะเร็ง</span>
-
-แหล่งที่มา: [Techhub](https://news.google.com/rss/articles/CBMipAFBVV95cUxPZVZLVktfZC1YLWpSVHBob21ITG1uZU1NMF9tVFE2MkZHVkt4cGpFbkhmNzBqcDA4ejlMaUppcDVOb2dKUnpNOUlNclduU0dod1FzbTkyY0dpZVpjaEw1X3hibUF2SS1ETnIzV1lMakhYNjNtQ2pwYnVqOFViWVM0bkRLSjVOSzUya2ExNmtxRGlMTGFYU2VwZlNLbXFPNVg1U18zdQ?oc=5)
-
----
-
-### [กระทรวงสาธารณสุข: ทบทวนแหล่งที่มาของยารักษาโรคมะเร็งและยาที่มีสารกัมมันตรังสี](https://news.google.com/rss/articles/CBMingFBVV95cUxORG5LSDZrMHUxbDQ0MDNYX1pQbXNMN3ZKLWgyLWNJaFBEbndDbDMxR2NKcFp1WDRqYndGU2xKeWNNVHhORTNVMWpFMGZXR2plV1IxRTVEcEl4UVlrZ0JfOHJ1VVRtbzZHSHFYQmJKN3h5RW83N1RMejQxeUowQ0hHUkNEeTVwTmxyVk95cjJMZnAwYm02cFV3VUl0c3dMUQ?oc=5)
-
-2026-10-01 <span class="news-indication-tag">มะเร็ง</span> <span class="news-indication-tag">โรคมะเร็ง</span>
-
-แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMingFBVV95cUxORG5LSDZrMHUxbDQ0MDNYX1pQbXNMN3ZKLWgyLWNJaFBEbndDbDMxR2NKcFp1WDRqYndGU2xKeWNNVHhORTNVMWpFMGZXR2plV1IxRTVEcEl4UVlrZ0JfOHJ1VVRtbzZHSHFYQmJKN3h5RW83N1RMejQxeUowQ0hHUkNEeTVwTmxyVk95cjJMZnAwYm02cFV3VUl0c3dMUQ?oc=5)
 
 ---
 
