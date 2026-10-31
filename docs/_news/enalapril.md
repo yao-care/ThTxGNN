@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Enalapril ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/enalapril/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # ข่าวเกี่ยวกับ Enalapril
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Enalapril บ้าง">
-ขณะนี้ <strong>Enalapril</strong> มีข่าวที่เกี่ยวข้อง <strong>6 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
+ขณะนี้ <strong>Enalapril</strong> มีข่าวที่เกี่ยวข้อง <strong>5 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -30,21 +30,13 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (6 ข่าว)
+## ข่าวที่เกี่ยวข้อง (5 ข่าว)
 
 ### [BofA ชี้บริษัทยาแห่งนี้เป็นหุ้นเด่น หลังข้อมูลยารักษาโรคไตมีแนวโน้มดี](https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU1FiRjBnR0dMNHVGUkFkN2dlWVh5VFBTZ0J6Sm9LRlVqN3FRTjJEZlFkaGxFSUVwMndsNlJvd2lsRExmZXNrMVFrTDcyeXRpVC1Jd3Uxc3lUQWFNTlV0WUFZUlU4U3VRSlZJWUYwdw?oc=5)
 
 2026-10-26 <span class="news-indication-tag">โรคไต</span>
 
 แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTFBfU1FiRjBnR0dMNHVGUkFkN2dlWVh5VFBTZ0J6Sm9LRlVqN3FRTjJEZlFkaGxFSUVwMndsNlJvd2lsRExmZXNrMVFrTDcyeXRpVC1Jd3Uxc3lUQWFNTlV0WUFZUlU4U3VRSlZJWUYwdw?oc=5)
-
----
-
-### [อินเดียปรับราคาสำหรับยารักษามะเร็ง 137 ชนิด โดยอาจมีการลดราคาลงมากถึง 70%](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0M3bS03YTg5a2F4ajR4NnpheDBBczY0UmFVMTMxZEJ5ZlRMekk1Y3pXa2lObG93Q3l1WFZONEdoSlB1RnllRzQzQi1CeHF5U0YwZmFpX2pEYWtjUjVLMExhSnczR2MwVFJVbjZ1SEVCekx3MTR1cHhnclJRck1ZdHJKNk1EOFpEWkdwc0E0S2FsblBHaUY5NVdXX0o?oc=5)
-
-2026-10-22 <span class="news-indication-tag">มะเร็ง</span>
-
-แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0M3bS03YTg5a2F4ajR4NnpheDBBczY0UmFVMTMxZEJ5ZlRMekk1Y3pXa2lObG93Q3l1WFZONEdoSlB1RnllRzQzQi1CeHF5U0YwZmFpX2pEYWtjUjVLMExhSnczR2MwVFJVbjZ1SEVCekx3MTR1cHhnclJRck1ZdHJKNk1EOFpEWkdwc0E0S2FsblBHaUY5NVdXX0o?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Azithromycin ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/azithromycin/
-last_modified_at: 2026-10-30
+last_modified_at: 2026-10-31
 ---
 
 # ข่าวเกี่ยวกับ Azithromycin
@@ -15,7 +15,7 @@ last_modified_at: 2026-10-30
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Azithromycin บ้าง">
-ขณะนี้ <strong>Azithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>5 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Azithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>4 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -42,15 +42,7 @@ last_modified_at: 2026-10-30
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (5 ข่าว)
-
-### [อินเดียปรับราคาสำหรับยารักษามะเร็ง 137 ชนิด โดยอาจมีการลดราคาลงมากถึง 70%](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0M3bS03YTg5a2F4ajR4NnpheDBBczY0UmFVMTMxZEJ5ZlRMekk1Y3pXa2lObG93Q3l1WFZONEdoSlB1RnllRzQzQi1CeHF5U0YwZmFpX2pEYWtjUjVLMExhSnczR2MwVFJVbjZ1SEVCekx3MTR1cHhnclJRck1ZdHJKNk1EOFpEWkdwc0E0S2FsblBHaUY5NVdXX0o?oc=5)
-
-2026-10-22 <span class="news-indication-tag">มะเร็ง</span>
-
-แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMinAFBVV95cUxPQ0M3bS03YTg5a2F4ajR4NnpheDBBczY0UmFVMTMxZEJ5ZlRMekk1Y3pXa2lObG93Q3l1WFZONEdoSlB1RnllRzQzQi1CeHF5U0YwZmFpX2pEYWtjUjVLMExhSnczR2MwVFJVbjZ1SEVCekx3MTR1cHhnclJRck1ZdHJKNk1EOFpEWkdwc0E0S2FsblBHaUY5NVdXX0o?oc=5)
-
----
+## ข่าวที่เกี่ยวข้อง (4 ข่าว)
 
 ### [อินเดียสั่งคุมเพดานกำไรยามะเร็งไม่เกิน 30% คาดช่วยลดภาระผู้ป่วย 2.5 หมื่นล้านรูปีต่อปี : อินโฟเควสท์](https://news.google.com/rss/articles/CBMiUEFVX3lxTE82bExXVGxtY0d1bmFKTkNQaFZxcm9XVWF3VGdzazE2Q2ViZHFWUTZNNlJfbE1Pb3ZHeEZpMDFlOFV0ZnBjLUE1bGoxdjdOVFlM?oc=5)
 
