@@ -50,8 +50,8 @@ Tacrolimus เดิมใช้ป้องกันการปฏิเสธ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ผื่นผิวหนังอักเสบเซบอร์ริก (Seborrheic Dermatitis) |
 | คะแนนการทำนาย TxGNN | 0.9926 |
 | ระดับหลักฐาน | L2 (มี Phase 3 ที่เสร็จสิ้น 1 รายการ ยังไม่ถึงเกณฑ์ L1 ที่ต้องมี ≥2 รายการ) |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 29 จาก 48 รายการ) |
+| จำนวนทะเบียนตำรับยา | 48 รายการ (ยังมีผล 29) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ---
@@ -94,7 +94,40 @@ Tacrolimus เดิมใช้ป้องกันการปฏิเสธ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 1/50 (N) | PROGRAF (CONCENTRATE FOR INFUSION 5 MG/ML) | STERILE SOLUTION | คงอยู่ |
+| 1C 120/68 (NG) | ADOPORT (0.5 MG) | CAPSULE, HARD | คงอยู่ |
+| 1C 121/68 (NG) | ADOPORT (1MG) | CAPSULE, HARD | คงอยู่ |
+| 1C 122/68 (NG) | ADOPORT (5MG) | CAPSULE, HARD | คงอยู่ |
+| 1C 15140/65 (NG) | TACROLIMUS ER LOTUS 3 | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 15172/63 (NG) | TACROLIMUS ER LOTUS 0.5 | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 15173/63 (NG) | TACROLIMUS ER LOTUS 1 | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 2/50 (N) | PROGRAF ( CAPSULES 0.5 MG) | CAPSULE HARD | คงอยู่ |
+| 1C 24/60 (NB) | PROTOPIC OINTMENT 0.03% | OINTMENT | คงอยู่ |
+| 1C 25/60 (NB) | PROTOPIC OINTMENT 0.1% | OINTMENT | คงอยู่ |
+| 1C 3/50 (N) | PROGRAF (CAPSULES 1 MG) | CAPSULE HARD | คงอยู่ |
+| 1C 41/66 (NG) | SALVADO 5 | CAPSULE, HARD | คงอยู่ |
+| 1C 42/66 (NG) | SALVADO 1 | CAPSULE, HARD | คงอยู่ |
+| 1C 43/66 (NG) | SALVADO 0.5 | CAPSULE, HARD | คงอยู่ |
+| 1C 50/60 (NB) | ADVAGRAF 3 MG | PROLONGED-RELEASE CAPSULE,HARD | คงอยู่ |
+| 1C 53/66 (NG) | TACROGRAF 0.5 | CAPSULE, HARD | คงอยู่ |
+| 1C 54/66 (NG) | TACROGRAF 1 | CAPSULE, HARD | คงอยู่ |
+| 1C 55/66 (NG) | TACROGRAF 5 | CAPSULE, HARD | คงอยู่ |
+| 1C 7/54 (NB) | ADVAGRAF(R) 0.5 MG | SUSTAINED RELEASE CAPSULE | คงอยู่ |
+| 1C 7/54 (NBC) | ADVAGRAF(R) 0.5 MG | SUSTAINED RELEASE CAPSULE | ปลด SMP(11 ตุลาคม 2559) |
+| 1C 72/66 (NG) | DAILIPORT (3 MG) | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 73/66 (NG) | DAILIPORT (1 MG) | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 74/66 (NG) | DAILIPORT (0.5 MG) | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 8/54 (NB) | ADVAGRAF(R) 1 MG | SUSTAINED RELEASE CAPSULE | คงอยู่ |
+| 1C 8/54 (NBC) | ADVAGRAF(R) 1 MG | SUSTAINED RELEASE CAPSULE | ปลด SMP(11 ตุลาคม 2559) |
+| 1C 81/68 (NG) | TACROCORD 0.5 | CAPSULE, HARD | คงอยู่ |
+| 1C 82/68 (NG) | TACROCORD 1 | CAPSULE, HARD | คงอยู่ |
+| 1C 83/68 (NG) | TACROCORD 5 | CAPSULE, HARD | คงอยู่ |
+| 1C 9/54 (NBC) | ADVAGRAF(R) 5 MG | SUSTAINED RELEASE CAPSULE | ปลด SMP(11 ตุลาคม 2559) |
+| 1B 1/54 (NB) | PROGRAF (CONCENTRATE FOR INFUSION 5 MG/ML) | STERILE SOLUTION | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 หมายเหตุ: ใบอนุญาตนี้อยู่ในสถานะ **ยกเลิกแล้ว** และข้อมูลที่รวบรวมไว้ไม่พบผลิตภัณฑ์ Tacrolimus ชนิดทาที่ขึ้นทะเบียนในไทย
 

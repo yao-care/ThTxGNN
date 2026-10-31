@@ -50,8 +50,8 @@ Budesonide เป็นยากลุ่มคอร์ติโคสเตี
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ผิวหนังอักเสบภูมิแพ้ (Atopic Eczema) |
 | คะแนนการทำนาย TxGNN | 0.9996 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 38 จาก 117 รายการ) |
+| จำนวนทะเบียนตำรับยา | 117 รายการ (ยังมีผล 38) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -83,7 +83,40 @@ Budesonide เป็นยากลุ่มคอร์ติโคสเตี
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 101/64 | BUSONINE-32 | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1A 102/64 | BUSONINE-64 | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1A 120/59 | BUDESTAR | AEROSOL | คงอยู่ |
+| 1A 154/60 | PULVISONIDE 200 | CAPSULE HARD | คงอยู่ |
+| 1A 272/57 | STARDESSO | AEROSOL | คงอยู่ |
+| 1A 345/53 | BUSOCORT NASAL SPRAY | NASAL SPRAY | คงอยู่ |
+| 1A 346/53 | BUSOCORT NASAL SPRAY | NASAL SPRAY | คงอยู่ |
+| 1A 440/55 | AERONIDE 200 MCG | INHAIER | คงอยู่ |
+| 1A 75/56 | BUSONASE | NASAL SPRAY | คงอยู่ |
+| 1C 1/67 | BUDECORT Respules 0.5 mg | NEBULISER SUSPENSION | คงอยู่ |
+| 1C 104/53 | BUDESONE-200 | INHALER | คงอยู่ |
+| 1C 108/60 | FRENOLYN 400 UG | POWDER FOR INHALATION | คงอยู่ |
+| 1C 111/57 (NC) | BUDENOFALK 3 MG CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1C 12/57 | PULMICORT RESPULES (0.5 MG IN 2 ML) | INHALER | คงอยู่ |
+| 1C 13/57 | PULMICORT RESPULES (1 MG IN 2 ML) | INHALER | คงอยู่ |
+| 1C 2/67 | BUDECORT Respules 1.0 mg | NEBULISER SUSPENSION | คงอยู่ |
+| 1C 268/50 | BESONIN AQUA NASAL SPRAY 50 MCG/DOSE | NASAL SPRAY | คงอยู่ |
+| 1C 29/57 | FRENOLYN 200 UG | POWDER FOR INHALATION | คงอยู่ |
+| 1C 302/69 | BUDEMATE NS 64 | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1C 31/65 | PULMICORT RESPULES (0.5 MG IN 2 ML) | NEBULISER SUSPENSION | คงอยู่ |
+| 1C 32/56 | BESONIN AQUA NASAL SPRAY 64 UG/DOSE | NASAL SPRAY | คงอยู่ |
+| 1C 32/65 | PULMICORT RESPULES (1 MG IN 2 ML) | NEBULISER SUSPENSION | คงอยู่ |
+| 1C 356/48 | BUDECORT - 200 INHALER (CFC FREE) | INHALER | คงอยู่ |
+| 1C 41/63 | BUNASE NASAL SPRAY | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1C 42/63 | BUNASE | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1C 6/63 | BUDENA (BUDESONIDE 64 MCG NASAL SPRAY) | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1C 63/60 | RHINOCORT AQUA | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1C 74/62 | GIONA EASYHALER 200 MICROG/DOSE INHALATION POWDER | INHALATION POWDER | คงอยู่ |
+| 2C 14/44 (N) | SYMBICORT TURBUHALER | INHALER | คงอยู่ |
+| 2C 15/44 (N) | SYMBICORT TURBUHALER | INHALATION POWDER | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

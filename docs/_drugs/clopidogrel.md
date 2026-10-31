@@ -48,8 +48,8 @@ Clopidogrel เดิมใช้ป้องกันลิ่มเลือ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรนชนิดมีออร่าจากก้านสมอง (Migraine with Brainstem Aura) |
 | คะแนนการทำนาย TxGNN | 0.9944 |
 | ระดับหลักฐาน | L5 (หลักฐานเป็นการอนุมานจากไมเกรนชนิดมีออร่า ไม่ได้ศึกษาชนิดก้านสมองโดยตรง) |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 12 จาก 34 รายการ) |
+| จำนวนทะเบียนตำรับยา | 34 รายการ (ยังมีผล 12) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -81,7 +81,40 @@ Clopidogrel เดิมใช้ป้องกันลิ่มเลือ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 59/60 (NG) | CLOPIDOGREL GPO (75 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1C 11/54 (NC) | PLAVIX 300 MG | FILM - COATED TABLET | ปลด SMP(16 มิถุนายน 2560) |
+| 1C 156/49 (N) | PLAVIX | FILM-COATED TABLET | คงอยู่ |
+| 1C 17/65 (NG) | CADIGREL | FILM-COATED TABLET | คงอยู่ |
+| 1C 30/51 (NG) | CLOPIDOGREL TABLETS USP 75 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 44/56 (NG) | CLOPIDOGREL SANDOZ (75 MG.) | FILM - COATED TABLET | คงอยู่ |
+| 1C 49/59 (NG) | CERUVIN (TABLETS 75 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1C 61/51 (NG) | APOLETS | FILM - COATED TABLET | คงอยู่ |
+| 1C 80/63 (N) | PLATOGRIX (75 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1C 9/60 (NG) | OKLOT | FILM - COATED TABLET | คงอยู่ |
+| 2C 6/54 (N) | COPLAVIX (75/75MG) | FILM - COATED TABLET | คงอยู่ |
+| 2C 6/54 (NC) | COPLAVIX (75/75MG) | FILM - COATED TABLET | ปลด SMP(30 พฤษภาคม 2557) |
+| 1A 11/54 (NG) | PIDOGEN | FILM - COATED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 19/59 (E) | PROGREL | FILM - COATED TABLET | ยกเลิก |
+| 1A 53/50 (NG) | PIDOGEN | FILM - COATED TABLET | ยกเลิก(25 กุมภาพันธ์ 2554) |
+| 1B 1/58 (NG) | APOLETS | FILM - COATED TABLET | ยกเลิก(23 พฤศจิกายน 2559) |
+| 1B 1/59 (NG) | MAVARIX | FILM - COATED TABLET | ยกเลิก(9 กรกฎาคม 2561) |
+| 1B 1/61 (NG) | APOLETS | FILM - COATED TABLET | ยกเลิก |
+| 1C 1/51 (NG) | CLOPIDOGREL TABLETS 75 MG | FILM - COATED TABLET | ยกเลิก(12 เมษายน 2555) |
+| 1C 1/57 (N) | PLATOGRIX (75 MG) | FILM - COATED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1C 11/54 (N) | PLAVIX 300 MG | FILM - COATED TABLET | ยกเลิก |
+| 1C 17/57 (NG) | CLOPIDOGREL TABLETS USP 75 MG | FILM - COATED TABLET | ยกเลิก |
+| 1C 19/59 (NG) | MAVARIX | FILM - COATED TABLET | ยกเลิก(18 กรกฎาคม 2560) |
+| 1C 296/41 (N) | PLAVIX | FILM - COATED TABLET | ยกเลิก(21 ธันวาคม 2549) |
+| 1C 296/41 (NC) | PLAVIX | FILM - COATED TABLET | ยกเลิก(19 ตุลาคม 2543) |
+| 1C 38/51 (N) | PLAVIX (ACCESS PROGRAM) | FILM - COATED TABLET | ยกเลิก |
+| 1C 43/51 (NG) | APO-CLOPIDOGREL (BISULFATE) 75 MG TABLETS | FILM - COATED TABLET | ยกเลิก(29 ธันวาคม 2551) |
+| 1C 43/53 (NG) | CERUVIN (TABLETS 75 MG) | FILM - COATED TABLET | ยกเลิก(7 กันยายน 2559) |
+| 1C 52/57 (N) | PLATOGRIX (75 MG) | FILM - COATED TABLET | ยกเลิก |
+| 1C 52/60 (NG) | MAVARIX | FILM - COATED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

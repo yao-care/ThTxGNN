@@ -48,8 +48,8 @@ Enoxaparin เป็นยาฉีดกลุ่มเฮปารินโม
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C ชนิดถ่ายทอดแบบด้อย |
 | คะแนนการทำนาย TxGNN | 0.9958 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 8 จาก 17 รายการ) |
+| จำนวนทะเบียนตำรับยา | 17 รายการ (ยังมีผล 8) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,25 @@ Enoxaparin เป็นยาฉีดกลุ่มเฮปารินโม
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/64 (B) | THENOX | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1/67 (NB) | THENOX SOLUTION FOR INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 1/67 (NB) | ENOXAPARIN SODIUM INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 1/67 (NBS) | ENOXAPARIN STADA | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 10/65 (NB) | CLEXANE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 12/66 (NB) | ENOXAPARIN SODIUM INJECTION CUTENOX INJEKTA PFS 40mg/0.4mL | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 13/66 (NB) | ENOXAPARIN SODIUM INJECTION CUTENOX INJEKTA PFS 60mg/0.6mL | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 14/66 (NB) | ENOXAPARIN SODIUM INJECTION CUTENOX INJEKTA PFS 80mg/0.8mL | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 25/61 (E) | ENOXAPARIN SBS 100 MG/ML | SOLUTION FOR INJECTION | ยกเลิก |
+| 1C 10/49 (NG) | ENOXAPARIN SODIUM INJECTION CUTENOX INJEKTA PFS40 MG/0.4 ML | STERILE SOLUTION | รอตรวจสอบสถานะ |
+| 1C 100/49 (N) | CLEXANE FORTE(SYRINGES) | STERILE SOLUTION | ยกเลิก(11 สิงหาคม 2559) |
+| 1C 105/46 (N) | CLEXANE 150 MG/ML | STERILE SOLUTION | ยกเลิก(26 พฤษภาคม 2549) |
+| 1C 11/49 (NG) | ENOXAPARIN SODIUM INJECTION CUTENOX INJEKTA PFS 60 MG/0.6 ML | STERILE SOLUTION | รอตรวจสอบสถานะ |
+| 1C 2/53 (BF) | KALPARIN | STERILE SOLUTION | ยกเลิก(5 เมษายน 2554) |
+| 1C 2/54 (BF) | KALBENOX | STERILE SOLUTION | ยกเลิก(7 เมษายน 2558) |
+| 1C 32/43 (N) | CLEXANE | STERILE SOLUTION | ยกเลิก(13 กันยายน 2565) |
+| 1C 35/51 (NG) | ENOXAPARIN SODIUM INJECTION CUTENOX INJEKTA PFS 80 MG/0.8 ML | STERILE SOLUTION | ยกเลิก |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -50,8 +50,8 @@ Cetirizine เป็นยาต้านฮิสตามีน H1 โมเ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคของโพรงจมูก (nasal cavity disease) |
 | คะแนนการทำนาย TxGNN | 0.9977 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 99 จาก 225 รายการ) |
+| จำนวนทะเบียนตำรับยา | 225 รายการ (ยังมีผล 99) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -86,7 +86,40 @@ Cetirizine เป็นยาต้านฮิสตามีน H1 โมเ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/47 | CETIRIZINE TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 1065/41 | CYZINE | FILM - COATED TABLET | คงอยู่ |
+| 1A 1073/44 | SETIN (10 MG TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 1A 1088/41 | ZYTINE SYRUP | SYRUP | คงอยู่ |
+| 1A 1098/41 | STARTEC | FILM - COATED TABLET | คงอยู่ |
+| 1A 111/65 | S-TEC TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 1171/44 | ZYRMED | FILM - COATED TABLET | คงอยู่ |
+| 1A 1192/43 | CEZA | FILM - COATED TABLET | คงอยู่ |
+| 1A 121/65 | S-TEC SYRUP | SYRUP | คงอยู่ |
+| 1A 1279/41 | MANTAB | COMPRESSED TABLET | คงอยู่ |
+| 1A 1301/41 | ZYRIL | FILM - COATED TABLET | คงอยู่ |
+| 1A 133/63 | MARTEC SYRUP | SYRUP | คงอยู่ |
+| 1A 137/57 | CINTAR TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 148/55 | CELATAG | COMPRESSED TABLET | คงอยู่ |
+| 1A 148/62 | NYTEC TABLETS | TABLET | คงอยู่ |
+| 1A 15/51 | ZYRRIZIN SYRUP | SYRUP | คงอยู่ |
+| 1A 151/62 | ZYRPAC | FILM - COATED TABLET | คงอยู่ |
+| 1A 152/64 | CETIPAC | FILM-COATED TABLET | คงอยู่ |
+| 1A 161/57 | Z - TAR | FILM - COATED TABLET | คงอยู่ |
+| 1A 165/64 | ZENSIL | FILM-COATED TABLET | คงอยู่ |
+| 1A 2/66 | SETIN (ORAL SOLUTION) | ORAL SOLUTION | คงอยู่ |
+| 1A 20/49 | ZERMED SYRUP | SYRUP | คงอยู่ |
+| 1A 209/49 | ZYRA | FILM - COATED TABLET | คงอยู่ |
+| 1A 213/65 | UTIZINE TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 221/57 | ZYRAL SYRUP | SYRUP | คงอยู่ |
+| 1A 235/43 | CETRIMED | FILM - COATED TABLET | คงอยู่ |
+| 1A 245/48 | ZITTEC | FILM - COATED TABLET | คงอยู่ |
+| 1A 26/42 | ZYRAC | FILM-COATED TABLET | คงอยู่ |
+| 1A 285/43 | ZERTINE | FILM-COATED TABLET | คงอยู่ |
+| 1A 293/45 | CEZA SYRUP | SYRUP | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

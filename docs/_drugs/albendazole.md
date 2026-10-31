@@ -52,8 +52,8 @@ Albendazole เป็นยาถ่ายพยาธิกลุ่มเบ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis) |
 | คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 61 จาก 173 รายการ) |
+| จำนวนทะเบียนตำรับยา | 173 รายการ (ยังมีผล 61) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ---
@@ -99,7 +99,40 @@ Albendazole เป็นยาถ่ายพยาธิกลุ่มเบ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 100/62 | ALDA | FILM - COATED TABLET | คงอยู่ |
+| 1A 1044/44 | FALBEN | FILM-COATED TABLET | คงอยู่ |
+| 1A 109/66 | ALDA | FILM-COATED TABLET | คงอยู่ |
+| 1A 11/31 | ALBENZ | TABLET | คงอยู่ |
+| 1A 1107/28 | ALBEN | FILM-COATED TABLET | คงอยู่ |
+| 1A 113/43 | LABENDA | FILM-COATED TABLET | คงอยู่ |
+| 1A 117/64 | ZYDA 200 | SUSPENSION FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 120/44 | VETOBEN 200 MG TABLET | TABLET | คงอยู่ |
+| 1A 126/55 | A-DAZOLE CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 134/33 | ZEBEN (SUSPENSION) | ORAL SUSPENSION | คงอยู่ |
+| 1A 1412/28 | ALBEN | ORAL SUSPENSION | คงอยู่ |
+| 1A 143/55 | Q - WORM | FILM - COATED TABLET | คงอยู่ |
+| 1A 15/44 | ALBENZOLE | COMPRESSED TABLET | คงอยู่ |
+| 1A 15108/64 | MYCOTEL | TABLET | คงอยู่ |
+| 1A 159/53 | CB - 400 | COMPRESSED TABLET | คงอยู่ |
+| 1A 183/55 | BENVATEL | FILM - COATED TABLET | คงอยู่ |
+| 1A 19/45 | ZELA - C | SUSPENSION | คงอยู่ |
+| 1A 211/43 | FATEL | COMPRESSED TABLET | คงอยู่ |
+| 1A 2128/30 | ALBEGA | TABLET | คงอยู่ |
+| 1A 2129/30 | ALBEGA | ORAL SUSPENSION | คงอยู่ |
+| 1A 231/47 | ALBEN | SUSPENSION | คงอยู่ |
+| 1A 235/39 | VERMIXIDE SUSPENSION | ORAL SUSPENSION | คงอยู่ |
+| 1A 238/56 | ZALBEN SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 241/64 | ALDAN | FILM - COATED TABLET | คงอยู่ |
+| 1A 25/66 | ANABEN | TABLET | คงอยู่ |
+| 1A 253/52 | FALBEN | SUSPENSION | คงอยู่ |
+| 1A 29/61 | ALBEN-VC TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 29/67 | AZOLE-400 | TABLET | คงอยู่ |
+| 1A 294/41 | MANOZIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 308/37 | GENDAZEL | FILM - COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ใบอนุญาตนี้อยู่ในสถานะ **ยกเลิก** จึงไม่มีผลิตภัณฑ์ Albendazole ที่ทะเบียนยังมีผลในข้อมูลที่รวบรวมมา
 

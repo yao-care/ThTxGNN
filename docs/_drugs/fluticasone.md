@@ -50,8 +50,8 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 37 จาก 102 รายการ) |
+| จำนวนทะเบียนตำรับยา | 102 รายการ (ยังมีผล 37) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 10/65 (N) | AVAMYS (NASAL SPRAY SUSPENSION) | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1C 113/51 (N) | AVAMYS (NASAL SPRAY) | NASAL SPRAY | คงอยู่ |
+| 1C 18/54 (N) | FLIXONASE (AQUEOUS NASAL SPRAY) | LIQUID NASAL | คงอยู่ |
+| 1C 25/51 (N) | FLIXOTIDE EVOHALER (125 MCG ) | METERED DOSE INHALER | คงอยู่ |
+| 1C 277/69 (NG) | FLUTICASONE NIKP NASAL SPRAY 27.5 MCG | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 1C 32/62 (N) | ALENYS | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 2A 1/66 (NG) | AEROTIDE 125 | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2A 2/66 (NG) | AEROTIDE 250 | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2A 5/67 (NG) | AEROTIDE 250 NDC | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2C 15029/66 (NG) | XALFLU AIRMASTER 50 MCG/250MCG | INHALATION POWDER, PRE-DISPENSED | คงอยู่ |
+| 2C 15068/67 (NG) | PEFSAL 25 MCG/125MCG INHALATION AEROSOL | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2C 15069/67 (NG) | PEFSAL 25 MCG/250MCG INHALATION AEROSOL | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2C 15076/67 (NG) | SALFLUMIX EASYHALER 50 MICROGRAM/250 MICROGRAM / DOSE, INHAL | INHALATION POWDER | คงอยู่ |
+| 2C 15077/67 (NG) | SALFLUMIX EASYHALER 50 MICROGRAM/500 MICROGRAM / DOSE, INHAL | INHALATION POWDER | คงอยู่ |
+| 2C 15108/62 (NG) | FLUTEROL 250 MCG/50 MCG | INHALATION POWDER, HARD CAPSULE | คงอยู่ |
+| 2C 16/55 (N) | EVOFLO (25/125) | INHALER | คงอยู่ |
+| 2C 17/67 (NG) | SIRDUPLA 25/125 | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2C 18/67 (NG) | SIRDUPLA 25/250 | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2C 19/60 (N) | DYMISTA | NASAL SPRAY, SUSPENSION | คงอยู่ |
+| 2C 19/60 (NC) | DYMISTA | NASAL SPRAY | ปลด SMP |
+| 2C 312/69 (NC) | TRELEGY ELLIPTA 200/62.5/25 MCG | INHALATION POWDER, PRE-DISPENSED | คงอยู่ |
+| 2C 38/55 (N) | SERETIDE ACCUHALER (50/250) | POWDER FOR INHALATION | คงอยู่ |
+| 2C 39/55 (N) | SERETIDE ACCUHALER (50/500) | POWDER FOR INHALATION | คงอยู่ |
+| 2C 39/59 (NC) | RELVAR ELLIPTA (100/25) | POWDER FOR INHALATION | ปลด SMP(19 กันยายน 2562) |
+| 2C 4/62 (N) | PAVTIDE (ACCUHALER) | INHALATION POWDER | คงอยู่ |
+| 2C 4/64 (NC) | TRELEGY ELLIPTA | INHALATION POWDER, PRE-DISPENSED | คงอยู่ |
+| 2C 4/65 (N) | RELVAR ELLIPTA (100/25) | INHALATION POWDER, PRE-DISPENSED | คงอยู่ |
+| 2C 4/68 (NC) | SERETIDE ACCUHALER (50/100) | INHALATION POWDER | คงอยู่ |
+| 2C 40/59 (NC) | RELVAR ELLIPTA (200/25) | POWDER FOR INHALATION | ปลด SMP(19 กันยายน 2562) |
+| 2C 41/54 (N) | SERETIDE EVOHALER (25/50) | INHALER | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

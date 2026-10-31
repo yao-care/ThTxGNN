@@ -50,8 +50,8 @@ Folic acid (กรดโฟลิก) เป็นวิตามินบีท
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคเมตาบอลิซึมของไบโอติน (Biotin Metabolic Disease) |
 | คะแนนการทำนาย TxGNN | 0.9949 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 91 จาก 590 รายการ) |
+| จำนวนทะเบียนตำรับยา | 590 รายการ (ยังมีผล 91) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -87,7 +87,40 @@ Folic acid (กรดโฟลิก) เป็นวิตามินบีท
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1130/44 | FOLIC ACID TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 12/63 | FOLIC F GPO | TABLET | คงอยู่ |
+| 1A 138/57 | F - MIN | COMPRESSED TABLET | คงอยู่ |
+| 1A 1627/27 | FOLIVIT (TABLET) | TABLET | คงอยู่ |
+| 1A 210/45 | FOLIC ACID TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 321/49 | FOLIMED | COMPRESSED TABLET | คงอยู่ |
+| 1A 336/50 | FOLIC 5 MG | COMPRESSED TABLET | คงอยู่ |
+| 1A 441/39 | FOLIC TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 86/54 | FOLIC ACID TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1C 185/42 | GNC FOLIC ACID 800 MCG TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1C 30/45 | BLACKMORES FOLIC ACID | COMPRESSED TABLET | คงอยู่ |
+| 1C 7/66 | BLACKMORES BIO FOLIC | FILM-COATED TABLET | คงอยู่ |
+| 2A 1/56 | PRENAMED - H | FILM - COATED TABLET | คงอยู่ |
+| 2A 1/58 | B CO-ED | FILM - COATED TABLET | คงอยู่ |
+| 2A 110/30 | F-VITA | CAPSULE HARD | คงอยู่ |
+| 2A 110/31 | VITACAP CAPSULES | CAPSULE, SOFT | คงอยู่ |
+| 2A 1120/27 | FERLI - 6 | - | คงอยู่ |
+| 2A 124/55 | MAXAVIT | capsule soft | คงอยู่ |
+| 2A 125/56 | KRESS - B - C | FILM - COATED TABLET | คงอยู่ |
+| 2A 129/30 | PRENATAL | CAPSULE, SOFT | คงอยู่ |
+| 2A 13/54 | MULTI ROTA AND MINERALS | SUGAR COATED TABLET | คงอยู่ |
+| 2A 148/50 | FERFOLIC - STAR | FILM - COATED TABLET | คงอยู่ |
+| 2A 15/51 | HIBEC | FILM - COATED TABLET | คงอยู่ |
+| 2A 150/32 | FERMINCAL | FILM - COATED TABLET | คงอยู่ |
+| 2A 15036/65 | FERROVIT PLUS | CAPSULE, SOFT | คงอยู่ |
+| 2A 15102/65 | Ferrovit C | CAPSULE, SOFT | คงอยู่ |
+| 2A 15158/65 | FERCIROL | CAPSULE, HARD | คงอยู่ |
+| 2A 15216/63 | NUTRIVITA DAILY | CAPSULE, SOFT | คงอยู่ |
+| 2A 19/55 | MLM AMINO | STERILE SOLUTION | คงอยู่ |
+| 2A 2/56 | TRIFERDINE | FILM - COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

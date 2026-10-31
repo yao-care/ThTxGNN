@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 125 รายการ) |
+| จำนวนทะเบียนตำรับยา | 125 รายการ (ยังมีผล 9) |
 | ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้ | 6 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 125 รายการ) |
 
 ## ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้
 
@@ -71,7 +71,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 184/56 | ADIPINE 10 | CAPSULE SOFT | คงอยู่ |
+| 1A 185/56 | ADIPINE 5 | CAPSULE SOFT | คงอยู่ |
+| 1A 463/42 | NELAPINE 20 SR | SUSTAINED RELEASE CAPSULE | คงอยู่ |
+| 1C 107/60 | NIFEDIPIN T20 RETARD | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1C 13/41 | NIFELAT R | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1C 13/65 | TENSINIC CD 30 | TABLET | คงอยู่ |
+| 1C 220/50 | DEPIN-E RETARD | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1C 7/67 | NICARDIA RETARD 10 | PROLONGED-RELEASE TABLET | คงอยู่ |
+| 1C 8/43 (N) | ADALAT CR 30 | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1A 103/37 | CALCIBLOC-10 | CAPSULE SOFT | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 1178/44 | ADIPINE 5 | CAPSULE SOFT | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 1179/44 | ADIPINE 10 | CAPSULE SOFT | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 119/29 | MYOGARD 10 | CAPSULE SOFT | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 122/34 | NIFECAP 10 | CAPSULE SOFT | ยกเลิก |
+| 1A 123/34 | NIFECAP 5 | CAPSULE SOFT | ยกเลิก |
+| 1A 1508/30 | COROVAS CAPSULES | CAPSULE HARD | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1A 16/29 | NIFEDIPINE 5 MG CAPSULES | CAPSULE SOFT | ยกเลิก |
+| 1A 17/29 | NIFEDIPINE 10 MG. CAPSULES | CAPSULE SOFT | ยกเลิก |
+| 1A 20/29 | MYOGARD 5 | CAPSULE SOFT | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 262/30 | NELAPINE 5 | CAPSULE SOFT | ยกเลิก |
+| 1A 263/30 | NELAPINE 10 | CAPSULE SOFT | ยกเลิก |
+| 1A 295/56 | CARNIF 5 | CAPSULE HARD | ยกเลิก(17 เมษายน 2562) |
+| 1A 316/37 | CALCIBLOC-5 | CAPSULE SOFT | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 359/40 | CARNIF10 | CAPSULE HARD | ยกเลิก(9 เมษายน 2556) |
+| 1A 361/56 | CARNIF 10 | CAPSULE HARD | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 502/29 | COROGUARD 5 | CAPSULE SOFT | ยกเลิก(24 มีนาคม 2543) |
+| 1A 503/29 | COROGUARD 10 | CAPSULE SOFT | ยกเลิก(24 มีนาคม 2543) |
+| 1A 608/32 | CARNIF 5 | CAPSULE HARD | ยกเลิก(9 เมษายน 2556) |
+| 1A 609/32 | CARNIFE 10 | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1B 14/42 | NIFELAT R | SUSTAINED RELEASE TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

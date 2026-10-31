@@ -50,8 +50,8 @@ Filgrastim เป็นยาประเภท G-CSF ที่เดิมใ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ความผิดปกติของการหลั่งสารจากเกล็ดเลือดชนิดปฐมภูมิ (primary release disorder of platelets) |
 | คะแนนการทำนาย TxGNN | 1.0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 6 จาก 43 รายการ) |
+| จำนวนทะเบียนตำรับยา | 43 รายการ (ยังมีผล 6) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Filgrastim เป็นยาประเภท G-CSF ที่เดิมใ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 2/62 (NB) | LEUCO-PLUS (PREFILLED SYRINGE) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 2/64 (NB) | LEUCO-PLUS IN PREFILLED SYRINGE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 2/59 (BF) | NEUTROMAX (480 MCG) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 3/59 (BF) | NEUTROMAX (300 MCG) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 40/61 (NB) | NEUPOGEN (30 MU) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 8/53 (BF) | NEUKINE 300 MCG/1.0 ML | STERILE SOLUTION | คงอยู่ |
+| 1C 1/52 (BF) | NEUTROMAX (480 MCG) | STERILE SOLUTION | ยกเลิก(3 มีนาคม 2559) |
+| 1C 1/57 (BF) | FILGEN (48 MIU) | STERILE SOLUTION | รอตรวจสอบสถานะ |
+| 1C 1/60 (NBS) | ZARZIO (30 MU) | SOLUTION FOR INJECTION/INFUSION | ยกเลิก(18 มิถุนายน 2564) |
+| 1C 1/64 (NBS) | ZARZIO (30 MU) | SOLUTION FOR INJECTION/INFUSION | ยกเลิก |
+| 1C 10/47 (NG) | NEUTROMAX (300 MCG) | STERILE SOLUTION | ยกเลิก(19 มกราคม 2552) |
+| 1C 11/47 (NG) | NEUTROMAX (480 MCG) | STERILE SOLUTION | ยกเลิก(19 มกราคม 2552) |
+| 1C 11/50 (NG) | GRAN | STERILE SOLUTION | ยกเลิก(9 กรกฎาคม 2551) |
+| 1C 143/50 (N) | GRAN | STERILE SOLUTION | ยกเลิก(8 กรกฎาคม 2551) |
+| 1C 15073/61 (NBS) | NIVESTIM SOLUTION FOR INJECTION/INFUSION (120 MCG/0.2 ML, 30 | SOLUTION FOR INJECTION/INFUSION | ยกเลิก |
+| 1C 15074/61 (NBS) | NIVESTIM SOLUTION FOR INJECTION/INFUSION (480 MCG/0.5 ML) | SOLUTION FOR INJECTION/INFUSION | ยกเลิก |
+| 1C 166/51 (N) | GRAN | STERILE SOLUTION | ยกเลิก(3 สิงหาคม 2554) |
+| 1C 2/43 (NG) | NEUTROMAX (300 MCG) | STERILE SOLUTION | ยกเลิก(9 กันยายน 2547) |
+| 1C 2/52 (BF) | NEUTROMAX (300 MCG) | STERILE SOLUTION | ยกเลิก(3 มีนาคม 2559) |
+| 1C 2/56 (BF) | LEUCO-PLUS 300 | STERILE SOLUTION | ยกเลิก |
+| 1C 2/57 (BF) | FILGEN (30 MIU) | STERILE SOLUTION | รอตรวจสอบสถานะ |
+| 1C 2/60 (NBS) | ZARZIO (48MU) | SOLUTION FOR INJECTION/INFUSION | ยกเลิก(18 มิถุนายน 2564) |
+| 1C 2/64 (NBS) | ZARZIO (48MU) | SOLUTION FOR INJECTION/INFUSION | ยกเลิก |
+| 1C 21/59 (NB) | NEUPOGEN (30 MU) | STERILE SOLUTION | ยกเลิก(11 ธันวาคม 2561) |
+| 1C 21/61 (NB) | NEUPOGEN (30 MU) | SOLUTION FOR INJECTION | ยกเลิก(4 ธันวาคม 2561) |
+| 1C 22/59 (NB) | NEUPOGEN (48 MU) | STERILE SOLUTION | ยกเลิก(11 ธันวาคม 2561) |
+| 1C 3/43 (NG) | NEUTROMAX (480 MCG) | STERILE SOLUTION | ยกเลิก(9 กันยายน 2547) |
+| 1C 31/54 (NB) | GRAN | STERILE SOLUTION | ยกเลิก |
+| 1C 32/58 (NB) | NEUPOGEN (30 MU) | STERILE SOLUTION | ยกเลิก(2 พฤษภาคม 2559) |
+| 1C 33/58 (NB) | NEUPOGEN (48 MU) | STERILE SOLUTION | ยกเลิก(2 พฤษภาคม 2559) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

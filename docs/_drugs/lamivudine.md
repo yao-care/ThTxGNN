@@ -50,8 +50,8 @@ Lamivudine เป็นยากลุ่มต้านไวรัส (nucleos
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian immunodeficiency virus infection) |
 | คะแนนการทำนาย TxGNN | 0.9993 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 27 จาก 74 รายการ) |
+| จำนวนทะเบียนตำรับยา | 74 รายการ (ยังมีผล 27) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -83,7 +83,40 @@ SIV เป็นไวรัสเรโทรกลุ่มเดียวก�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 2/53 (NG) | LAMIVIR | FILM - COATED TABLET | คงอยู่ |
+| 1A 22/68 (NG) | LAMIVIR | ORAL SOLUTION | คงอยู่ |
+| 1A 55/61 (NG) | LAMIVIR TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 9/45 (NG) | LAMIVIR |  | คงอยู่ |
+| 1C 3/54 (NG) | LAMIVUDINE TABLETS 150 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 91/56 (N) | ZEFFIX (TABLETS) | FILM - COATED TABLET | คงอยู่ |
+| 2A 1/61 (NG) | ZILARVIR | FILM - COATED TABLET | คงอยู่ |
+| 2A 1/62 (NG) | ALACOVIR | FILM-COATED TABLET | คงอยู่ |
+| 2A 1/66 (NC) | DALAVIR | FILM-COATED TABLET | คงอยู่ |
+| 2A 441/69 (NG) | LAMIGRASE | FILM-COATED TABLET | คงอยู่ |
+| 2C 1/67 (N) | TRIUMEQ | FILM-COATED TABLET | คงอยู่ |
+| 2C 10/56 (NG) | ABACAVIR SULFATE/LAMIVUDINE TABLETS 600 MG/300 MG | FILM - COATED TABLET | คงอยู่ |
+| 2C 11/67 (NG) | DIALDIN | FILM-COATED TABLET | คงอยู่ |
+| 2C 16/67 (NG) | DOLUTEGRAVIR, LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE T | FILM-COATED TABLET | คงอยู่ |
+| 2C 19/67 (NG) | ABACAVIR, DOLUTEGRAVIR AND LAMIVUDINE TABLETS 600 MG/50 MG/3 | FILM-COATED TABLET | คงอยู่ |
+| 2C 196/69 (NG) | KOVATRAXX | FILM-COATED TABLET | คงอยู่ |
+| 2C 2/65 (NG) | ZOVILAM | COATED TABLET | คงอยู่ |
+| 2C 20/62 (NC) | ACRIPTEGA | FILM-COATED TABLET | คงอยู่ |
+| 2C 3/66 (NG) | ABAVIR-L 600/300 | FILM-COATED TABLET | คงอยู่ |
+| 2C 388/69 (NG) | LANOGRAV | FILM-COATED TABLET | คงอยู่ |
+| 2C 48/59 (NC) | TRIUMEQ | FILM - COATED TABLET | ปลด SMP(2 พฤษภาคม 2562) |
+| 2C 5/68 (NG) | AVRIDELA | FILM-COATED TABLET | คงอยู่ |
+| 2C 6/65 (NC) | TELDY | FILM-COATED TABLET | คงอยู่ |
+| 2C 6/66 (NC) | AVONZA | FILM-COATED TABLET | คงอยู่ |
+| 2C 6/67 (NC) | DOVATO | FILM-COATED TABLET | คงอยู่ |
+| 2C 7/67 (NG) | VIROPIL | FILM-COATED TABLET | คงอยู่ |
+| 2C 9/65 (NC) | DELSTRIGO | FILM-COATED TABLET | คงอยู่ |
+| 1A 17/45 (NG) | LAMIVIR TABLETS | FILM - COATED TABLET | ยกเลิก(29 พฤศจิกายน 2561) |
+| 1C 20/46 (N) | EPIVIR ( TABLETS 150 MG) | FILM - COATED TABLET | ยกเลิก(11 มกราคม 2561) |
+| 1C 26/40 (N) | EPIVIR (TABLETS) | FILM - COATED TABLET | ยกเลิก(28 ธันวาคม 2549) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

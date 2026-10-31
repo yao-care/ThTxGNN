@@ -50,8 +50,8 @@ Clozapine เป็นยารักษาโรคจิตกลุ่มร�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะแมเนียในโรคอารมณ์สองขั้ว (Manic Bipolar Affective Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9995 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 17 รายการ) |
+| จำนวนทะเบียนตำรับยา | 17 รายการ (ยังมีผล 9) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ---
@@ -91,7 +91,25 @@ Clozapine เป็นยารักษาโรคจิตกลุ่มร�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/49 (NG) | CLORIL 25 MG (TABLET) | COMPRESSED TABLET | คงอยู่ |
+| 1A 12/49 (NG) | CLOZAMED 100 | COMPRESSED TABLET | คงอยู่ |
+| 1A 20/47 (NG) | CLORIL 100 MG (TABLET) | COMPRESSED TABLET | คงอยู่ |
+| 1A 24/42 (NG) | CLOPAZE 25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 25/42 (NG) | CLOPAZE 100 | COMPRESSED TABLET | คงอยู่ |
+| 1A 48/50 (NG) | CLOZAPIN 25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 49/50 (NG) | CLOZAPIN 100 | COMPRESSED TABLET | คงอยู่ |
+| 1C 16/61 (N) | CLOZARIL (25 MG.) | TABLET | คงอยู่ |
+| 1C 17/61 (N) | CLOZARIL (100 MG.) | TABLET | คงอยู่ |
+| 1A 1150/40 | CLOPAZE 25 | COMPRESSED COATING TABLET | ยกเลิก(8 ธันวาคม 2543) |
+| 1A 44/41 | CLOPAZE 100 | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 239/41 (NC) | CLOZARIL 100 MG | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 240/41 (NC) | CLOZARIL 25 MG | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 38/57 (N) | CLOZARIL (25 MG.) | COMPRESSED TABLET | ยกเลิก(23 มีนาคม 2561) |
+| 1C 39/57 (N) | CLOZARIL (100 MG.) | COMPRESSED TABLET | ยกเลิก(23 มีนาคม 2561) |
+| 1C 90/42 (N) | CLOZARIL (25 MG.) | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2561) |
+| 1C 91/42 (N) | CLOZARIL(100 MG.) | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2561) |
 
 ทะเบียนนี้มีสถานะ **ยกเลิกแล้ว** ปัจจุบันจึงไม่มีทะเบียนที่ยังใช้ได้ในประเทศไทย
 

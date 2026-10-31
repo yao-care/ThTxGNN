@@ -50,8 +50,8 @@ Rivaroxaban เดิมใช้ป้องกันลิ่มเลือ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคข้ออักเสบรูมาตอยด์ (Rheumatoid Arthritis) |
 | คะแนนการทำนาย TxGNN | 0.9957 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 49 จาก 57 รายการ) |
+| จำนวนทะเบียนตำรับยา | 57 รายการ (ยังมีผล 49) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -83,7 +83,40 @@ Rivaroxaban เดิมใช้ป้องกันลิ่มเลือ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/68 (NG) | RIBAROX (15 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 11/67 (NG) | PORIVA 15 | FILM-COATED TABLET | คงอยู่ |
+| 1A 2/68 (NG) | RIBAROX (20 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 40/66 (NG) | PORIVA 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 59/67 (NG) | VEBROZ (10 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 60/67 (NG) | VEBROZ (15 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 61/63 (NG) | RIVOXAN 15 | FILM-COATED TABLET | คงอยู่ |
+| 1A 61/67 (NG) | VEBROZ (20 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 62/63 (NG) | RIVOXAN 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 67/68 (NG) | ROXAVAN 15 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 68/67 (NG) | ROXAVAN 20 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 73/68 (NG) | BERIVA 15 | FILM-COATED TABLET | คงอยู่ |
+| 1A 74/68 (NG) | BERIVA 20 | FILM-COATED TABLET | คงอยู่ |
+| 1C 101/55 (N) | XARELTO 15 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 101/55 (NC) | XARELTO 15 MG | FILM - COATED TABLET | ปลด SMP(23 พฤษภาคม 2559) |
+| 1C 102/55 (N) | XARELTO 20 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 102/55 (NC) | XARELTO 20 MG | FILM - COATED TABLET | ปลด SMP(23 พฤษภาคม 2559) |
+| 1C 119/67 (NG) | RIVACORD 10 | FILM-COATED TABLET | คงอยู่ |
+| 1C 12/68 (NG) | FLORIVA 10 | FILM-COATED TABLET | คงอยู่ |
+| 1C 120/67 (NG) | RIVACORD 15 | FILM-COATED TABLET | คงอยู่ |
+| 1C 121/67 (NG) | RIVACORD 20 | FILM-COATED TABLET | คงอยู่ |
+| 1C 13/68 (NG) | FLORIVA 15 | FILM-COATED TABLET | คงอยู่ |
+| 1C 139/67 (NG) | RIXAN 2.5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 14/68 (NG) | FLORIVA 20 | FILM-COATED TABLET | คงอยู่ |
+| 1C 140/67 (NG) | RIXAN 10 | FILM-COATED TABLET | คงอยู่ |
+| 1C 141/67 (NG) | RIXAN 15 | FILM-COATED TABLET | คงอยู่ |
+| 1C 142/67 (NG) | RIXAN 20 | FILM-COATED TABLET | คงอยู่ |
+| 1C 15018/65 (NG) | RIVAXORED | FILM-COATED TABLET | คงอยู่ |
+| 1C 15019/65 (NG) | RIVAXORED 15 | FILM-COATED TABLET | คงอยู่ |
+| 1C 15020/65 (NG) | RIVAXORED 20 | FILM-COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

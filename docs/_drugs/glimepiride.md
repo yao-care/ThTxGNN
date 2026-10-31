@@ -50,8 +50,8 @@ Glimepiride เป็นยาในกลุ่มซัลโฟนิลย�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการ Stiff Person แบบคลาสสิก (Classic Stiff Person Syndrome) |
 | คะแนนการทำนาย TxGNN | 0.9975 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 18 จาก 60 รายการ) |
+| จำนวนทะเบียนตำรับยา | 60 รายการ (ยังมีผล 18) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -82,7 +82,40 @@ Stiff Person Syndrome เป็นโรคภูมิต้านตนเอ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/53 (NG) | DIAGLIP 3 MG TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 11/59 (NG) | LOSU-4 | COMPRESSED TABLET | คงอยู่ |
+| 1A 21/58 (NG) | GLIPARIL 3 | COMPRESSED TABLET | คงอยู่ |
+| 1A 27/55 (NG) | GLIPARIL 2 | compressed tablet | คงอยู่ |
+| 1A 29/55 (NG) | AMARAX 2 | compressed tablet | คงอยู่ |
+| 1A 29/57 (NG) | LOSU-2 | COMPRESSED TABLET | คงอยู่ |
+| 1A 34/56 (NG) | GLAZER | COMPRESSED TABLET | คงอยู่ |
+| 1A 4/56 (NG) | LOSU-3 | COMPRESSED TABLET | คงอยู่ |
+| 1A 46/56 (NG) | DIAGLIP 4 MG TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 8/53 (NG) | DIAGLIP 2 MG TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1C 39/50 (N) | AMARYL (4 MG) | TABLET | คงอยู่ |
+| 1C 39/50 (NC) | AMARYL (4 MG) | COMPRESSED TABLET | ปลด SMP(27 ธันวาคม 2555) |
+| 1C 40/50 (N) | AMARYL (3 MG) | TABLET | คงอยู่ |
+| 1C 41/50 (N) | AMARYL (2 MG) | TABLET | คงอยู่ |
+| 1C 77/52 (NC) | AMARYL (4 MG) | COMPRESSED TABLET | ปลด SMP(27 ธันวาคม 2555) |
+| 1C 9/57 (NG) | GLIMEPIRIDE SANDOZ(R) (2 MG) | COMPRESSED TABLET | คงอยู่ |
+| 2C 37/53 (NC) | AMARYL M SR (TABLET 2/500 MG) | SUSTAINED RELEASE TABLET | ปลด SMP(31 มีนาคม 2557) |
+| 2C 9/51 (NC) | AMARYL M (TABLET 2/500 MG) | FILM - COATED TABLET | ปลด SMP(27 ธันวาคม 2555) |
+| 1A 103/63 (NG) | GLIMEPIRIDE 3 | TABLET | ยกเลิก |
+| 1A 22/58 (NG) | GLIMEPIRIDE 3 | COMPRESSED TABLET | ยกเลิก(7 ธันวาคม 2563) |
+| 1A 28/55 (NG) | GLIMEPIRIDE 2 | compressed tablet | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 28/57 (NG) | LOSU-1 | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 9/53 (NG) | DIAGLIP 1 MG TABLET | COMPRESSED TABLET | ยกเลิก |
+| 1B 2/58 (NG) | NIKP-GLIMEPIRIDE TABLET 3 MG | COMPRESSED TABLET | ยกเลิก(11 มิถุนายน 2562) |
+| 1C 10/57 (NG) | GLIMEPIRIDE SANDOZ(R) (3 MG) | COMPRESSED TABLET | ยกเลิก(18 ธันวาคม 2563) |
+| 1C 11/57 (NG) | GLYPRIDE 2 | compressed tablet | ยกเลิก(30 มีนาคม 2559) |
+| 1C 11/59 (NG) | NIKP-GLIMEPIRIDE TABLET 3 MG | COMPRESSED TABLET | ยกเลิก |
+| 1C 157/41 (N) | AMARYL (1 MG) | COMPRESSED TABLET | ยกเลิก(8 พฤศจิกายน 2562) |
+| 1C 157/41 (NC) | AMARYL 1.0 | COMPRESSED TABLET | ยกเลิก(20 สิงหาคม 2542) |
+| 1C 158/41 (N) | AMARYL (2 MG) | COMPRESSED TABLET | ยกเลิก(8 พฤศจิกายน 2562) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

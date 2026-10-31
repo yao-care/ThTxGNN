@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 22 จาก 175 รายการ) |
+| จำนวนทะเบียนตำรับยา | 175 รายการ (ยังมีผล 22) |
 | ข้อบ่งใช้ที่ทราบแล้วในตัวเลือกของโมเดล | 1 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 22 จาก 175 รายการ) |
 
 ## ข้อบ่งใช้ที่ทราบแล้วในตัวเลือกของโมเดล
 
@@ -67,7 +67,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 103/63 | ENALAPRIL 5 MG TABLET | TABLET | คงอยู่ |
+| 1A 104/63 | ENALAPRIL 20 MG TABLET | TABLET | คงอยู่ |
+| 1A 1067/31 | ENARIL TABLETS (5 MG.) | TABLET | คงอยู่ |
+| 1A 11/40 | NALOPRIL (5 MG) TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 141/66 | Lapril 20s | TABLET | คงอยู่ |
+| 1A 169/69 | LAPRIL 5S | TABLET | คงอยู่ |
+| 1A 304/36 | LAPRIL 5 | FILM-COATED TABLET | คงอยู่ |
+| 1A 437/38 | ANAPRIL 5 | TABLET | คงอยู่ |
+| 1A 439/38 | ANAPRIL 20 | TABLET | คงอยู่ |
+| 1A 48/62 | ANAPRIL-S | COMPRESSED TABLET | คงอยู่ |
+| 1A 79/63 | ENARA-5 | TABLET | คงอยู่ |
+| 1A 80/63 | ENARA-20 | TABLET | คงอยู่ |
+| 1A 80/68 | ANAPRIL-S 20 | TABLET | คงอยู่ |
+| 1A 84/32 | ENARIL TABLETS (20 MG.) | TABLET | คงอยู่ |
+| 1A 912/42 | ERA--PRIL 5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 913/42 | ERA-PRIL 20 | COMPRESSED TABLET | คงอยู่ |
+| 1C 11/65 | MYOPRIL - 10 | TABLET | คงอยู่ |
+| 1C 12/65 | MYOPRIL - 5 | TABLET | คงอยู่ |
+| 1C 172/53 | ENACE 10 | COMPRESSED TABLET | คงอยู่ |
+| 1C 235/44 | ENVAS 5 (TABLETS) | COMPRESSED TABLET | คงอยู่ |
+| 1C 236/44 | ENVAS 10 (TABLETS) | COMPRESSED TABLET | คงอยู่ |
+| 1C 300/49 | ENACE 5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 1057/44 | FARNITEC - 20 | COMPRESSED TABLET | ยกเลิก(2 เมษายน 2564) |
+| 1A 1058/44 | FARNITEC - 5 | COMPRESSED TABLET | ยกเลิก(1 เมษายน 2564) |
+| 1A 1059/44 | FARNITEC - 10 | COMPRESSED TABLET | ยกเลิก(27 มีนาคม 2552) |
+| 1A 1060/44 | ENARA - 5 | FILM - COATED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1A 107/36 | ALAPIN 5 | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 113/41 | ENARA | COMPRESSED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1A 114/41 | ENARA | COMPRESSED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1A 1149/43 | RENALIN 20 | COMPRESSED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

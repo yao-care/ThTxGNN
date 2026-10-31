@@ -48,8 +48,8 @@ Diclofenac เป็นยากลุ่ม NSAIDs ที่เดิมใช�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะผมบางชนิด Hypotrichosis Simplex ของหนังศีรษะ |
 | คะแนนการทำนาย TxGNN | 0.9969 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 171 จาก 603 รายการ) |
+| จำนวนทะเบียนตำรับยา | 603 รายการ (ยังมีผล 171) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -68,7 +68,40 @@ Hypotrichosis simplex เป็นโรคผมบางที่เกิด�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/66 (E) | VOLCLONAC 100 | SUPPOSITORY | คงอยู่ |
+| 1A 101/35 | ARCLONAC 50 | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 103/43 | NEOFENAC - 50 | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 1102/44 | FEMA EMULGEL | GEL | คงอยู่ |
+| 1A 113/57 | V. THERLEN PATAR TABLETS (FILM COATED TABLETS) | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 1136/43 | VEENAC 25 | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 1137/43 | VEENAC 25 | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 1141/40 | VOLVERAC EYE DROPS | EYE DROPS, SOLUTION | คงอยู่ |
+| 1A 1141/44 | VOLTAOPH EYE DROPS | LIQUID OPHTHALMIC | คงอยู่ |
+| 1A 1162/43 | STAREN | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 1163/31 | VOLTA-T.M. ENTERIC FILM COATED TABLET | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 1163/43 | STAREN | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 120/50 | VESCONAC INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 120/53 | CLOFEC GEL | GEL | คงอยู่ |
+| 1A 122/63 | VEREN 50 | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 1249/31 | DOSANAC (INJECTION) | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 126/37 | CATANAC 50 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1272/30 | DOSANAC 50 | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 1308/41 | VESCONAC 50 | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 131/38 | AMMINAC | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 137/41 | DICLOFENAC 25 | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 138/41 | DICLOFENAC 50 | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 139/38 | DICLOFENAC TABLETS | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 1413/28 | FENAC | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1A 1420/28 | DICLOSIAN ENTERIC COATED TABLETS | ENTERIC FILM COAT | คงอยู่ |
+| 1A 145/66 | DIFAZT SOFT GEL | CAPSULE, SOFT | คงอยู่ |
+| 1A 149/55 | PETORAN | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 15102/64 | FENAGEL | GEL | คงอยู่ |
+| 1A 152/55 | DICLOFENAC - 50 | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 159/35 | TARJENA INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

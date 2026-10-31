@@ -48,8 +48,8 @@ Losartan เป็นยากลุ่มที่ยับยั้งตั�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงชนิดร้ายแรง (malignant hypertensive renal disease) |
 | คะแนนการทำนาย TxGNN | 0.9973 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 22 จาก 48 รายการ) |
+| จำนวนทะเบียนตำรับยา | 48 รายการ (ยังมีผล 22) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Losartan เป็นยากลุ่มที่ยับยั้งตั�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 12/58 (NG) | LOSARTAN GPO (100 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 20/53 (NG) | LANZAAR 50 | FILM - COATED TABLET | คงอยู่ |
+| 1A 26/64 (NG) | TANZARIL 100 | FILM-COATED TABLET | คงอยู่ |
+| 1A 27/64 (NG) | TANZARIL | FILM-COATED TABLET | คงอยู่ |
+| 1A 3/58 (NG) | LANZAAR 100 | FILM - COATED TABLET | คงอยู่ |
+| 1A 58/69 (NG) | LOSARTAN GPO (50 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 6/51 (NG) | LORANTA 100 MG TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 64/50 (NG) | TOSAN | FILM - COATED TABLET | คงอยู่ |
+| 1A 7/50 (NG) | LORANTA 50 MG TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 701/68 (E) | LOSATAR | FILM-COATED TABLET | คงอยู่ |
+| 1A 702/68 (E) | LOSATAR 100 | FILM-COATED TABLET | คงอยู่ |
+| 1C 15051/67 (NG) | TANZARIL TEVA 50 | FILM-COATED TABLET | คงอยู่ |
+| 1C 15052/67 (NG) | TANZARIL TEVA 100 | FILM-COATED TABLET | คงอยู่ |
+| 1C 18/55 (NG) | LOSACAR 50 | FILM - COATED TABLET | คงอยู่ |
+| 1C 65/55 (N) | COZAAR | FILM - COATED TABLET | คงอยู่ |
+| 1C 66/55 (N) | COZAAR (100 MG) | FILM - COATED TABLET | คงอยู่ |
+| 2C 1/57 (N) | FAVOTAN (5/50 MG TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 2C 1/57 (NC) | FAVOTAN (5/50 MG TABLET) | FILM - COATED TABLET | ปลด SMP(13 ธันวาคม 2559) |
+| 2C 2/57 (N) | FAVOTAN (5/100 MG TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 2C 2/57 (NC) | FAVOTAN (5/100 MG TABLET) | FILM - COATED TABLET | ปลด SMP(13 ธันวาคม 2559) |
+| 2C 22/55 (N) | FORTZAAR | FILM - COATED TABLET | คงอยู่ |
+| 2C 32/55 (N) | HYZAAR | FILM - COATED TABLET | คงอยู่ |
+| 1A 1/54 (NG) | TANZARIL | FILM - COATED TABLET | ยกเลิก(17 มิถุนายน 2564) |
+| 1A 10/50 (NG) | TANZARIL | FILM - COATED TABLET | ยกเลิก(5 มกราคม 2554) |
+| 1A 2/52 (NG) | TANZARIL 100 | FILM - COATED TABLET | ยกเลิก(14 กุมภาพันธ์ 2554) |
+| 1A 3/54 (SC) | TANZARIL | FILM - COATED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 4/54 (SC) | TANZARIL 100 | FILM - COATED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1A 8/54 (NG) | TANZARIL 100 | FILM - COATED TABLET | ยกเลิก(17 มิถุนายน 2564) |
+| 1C 105/45 (N) | COZAAR | FILM - COATED TABLET | ยกเลิก(28 พฤษภาคม 2547) |
+| 1C 24/46 (NC) | COZAAR (100 MG ) | FILM - COATED TABLET | ยกเลิก(28 พฤษภาคม 2547) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

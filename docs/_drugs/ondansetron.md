@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 18 จาก 57 รายการ) |
+| จำนวนทะเบียนตำรับยา | 57 รายการ (ยังมีผล 18) |
 | ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้ | 2 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 18 จาก 57 รายการ) |
 
 ## ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้
 
@@ -68,7 +68,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 15016/66 (NG) | ONDANZET | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 15059/66 (NG) | ONDRAN | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 17/42 (NG) | ONSIA INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 4/46 (NG) | DANTRON 8 | FILM - COATED TABLET | คงอยู่ |
+| 1A 5/42 (NG) | ZETRON | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 7/42 (NG) | ZETRON | FILM-COATED TABLET | คงอยู่ |
+| 1A 8/42 (NG) | ONSIA (4MG TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 1A 9/42 (NG) | ONSIA (8 MG TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 1C 128/68 (NG) | VOMIGIS 4 | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 129/68 (NG) | VOMIGIS 8 | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 140/68 (NG) | TROYSETRON | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1C 179/68 (NG) | VOMIZ 4 | FILM-COATED TABLET | คงอยู่ |
+| 1C 180/68 (NG) | VOMIZ 8 | FILM-COATED TABLET | คงอยู่ |
+| 1C 38/62 (NG) | ONDANSETRON HYDROCHLORIDE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 4/54 (NG) | ONDANSETRON INJECTION USP 2 MG/ML | STERILE SOLUTION | คงอยู่ |
+| 1C 50/61 (NG) | ONDAVELL 8 MG INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 51/61 (NG) | ONDAVELL 4 MG INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 56/65 (NG) | ONSETT | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 13/56 (NG) | ONDANSETRON PFIZER | STERILE SOLUTION | ยกเลิก(6 ธันวาคม 2556) |
+| 1A 16/43 (NG) | NAUTAH | STERILE SOLUTION | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 21/47 (NG) | DANTRON 4 | FILM - COATED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 21/65 (NG) | ONDRAN | SOLUTION FOR SOLUTION FOR INJECTION | ยกเลิก |
+| 1A 22/42 (NG) | VOMITRON 4 | FILM - COATED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1A 23/42 (NG) | VOMITRON 8 | FILM - COATED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1A 26/54 (NG) | ONDRAN | STERILE SOLUTION | ยกเลิก(30 พฤษภาคม 2565) |
+| 1A 45/56 (NG) | ONDANSETRON INJECTION | STERILE SOLUTION | ยกเลิก(10 พฤษภาคม 2561) |
+| 1A 6/42 (NG) | ZETRON | FILM - COATED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1A 6/47 (NG) | ONZET | STERILE SOLUTION | ยกเลิก(21 เมษายน 2554) |
+| 1A 6/52 (NG) | VOMITRON 4 | FILM - COATED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1A 6/55 (NG) | NAUTAH | STERILE SOLUTION | ยกเลิก(17 เมษายน 2562) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ความเป็นพิษต่อเซลล์
 

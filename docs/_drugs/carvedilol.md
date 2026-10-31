@@ -48,8 +48,8 @@ Carvedilol เป็นยาต้านตัวรับเบต้าที
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) |
 | คะแนนการทำนาย TxGNN | 0.9955 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 14 จาก 32 รายการ) |
+| จำนวนทะเบียนตำรับยา | 32 รายการ (ยังมีผล 14) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -68,7 +68,40 @@ Carvedilol เป็นยาต้านตัวรับเบต้าที
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 19/51 (NG) | TOCARLOL 25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 21/50 (NG) | CARATEN 12.5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 22/50 (NG) | CARATEN 6.25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 30/67 (NG) | VECALOL 6.25 | TABLET | คงอยู่ |
+| 1A 31/67 (NG) | VECALOL 12.5 | TABLET | คงอยู่ |
+| 1A 32/67 (NG) | VECALOL 25 | TABLET | คงอยู่ |
+| 1A 33/62 (NG) | CARVOLOL (6.25 MG) | TABLET | คงอยู่ |
+| 1A 34/62 (NG) | CARVOLOL (12.5 MG) | TABLET | คงอยู่ |
+| 1A 371/69 (NG) | TOCARLOL 12.5 | TABLET | คงอยู่ |
+| 1A 48/64 (NG) | TOCARLOL 6.25 | TABLET | คงอยู่ |
+| 1A 9/49 (NG) | CARATEN 25 | COMPRESSED TABLET | คงอยู่ |
+| 1C 6/62 (N) | DILATREND (25 MG TABLETS) | TABLET | คงอยู่ |
+| 1C 7/62 (N) | DILATREND (12.5 MG TABLETS) | TABLET | คงอยู่ |
+| 1C 8/62 (N) | DILATREND (6.25 MG TABLETS) | TABLET | คงอยู่ |
+| 1C 10/43 (N) | DILATREND 3.125 | COMPRESSED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1C 224/41 (N) | DILATREND 6.25 | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 224/41 (NC) | DILATREND 6.25 | COMPRESSED TABLET | ยกเลิก(24 กันยายน 2542) |
+| 1C 225/41 (N) | DILATREND 12.5 | COMPRESSED TABLET | ยกเลิก(27 มีนาคม 2552) |
+| 1C 225/41 (NC) | DILATREND 12.5 | COMPRESSED TABLET | ยกเลิก(24 กันยายน 2542) |
+| 1C 233/41 (N) | DILATREND 25 | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 233/41 (NC) | DILATREND 25 | COMPRESSED TABLET | ยกเลิก(24 กันยายน 2542) |
+| 1C 269/41 (NC) | COREG (3.125 MG) | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1C 270/41 (NC) | COREG (6.25 MG) | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1C 271/41 (NC) | COREG (12.5 MG) | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1C 272/41 (NC) | COREG (25 MG) | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1C 32/47 (N) | DILATREND (6.25 MG TABLETS) | COMPRESSED TABLET | ยกเลิก(21 มกราคม 2562) |
+| 1C 33/47 (N) | DILATREND (12.5 MG TABLETS) | COMPRESSED TABLET | ยกเลิก(21 มกราคม 2562) |
+| 1C 34/47 (N) | DILATREND (25 MG TABLETS ) | COMPRESSED TABLET | ยกเลิก(21 มกราคม 2562) |
+| 2C 15186/64 (NC) | CARIVALAN 6.25 MG/5 MG | FILM-COATED TABLET | ยกเลิก |
+| 2C 15187/64 (NC) | CARIVALAN 6.25 MG/7.5 MG | FILM-COATED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

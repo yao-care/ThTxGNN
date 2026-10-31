@@ -49,8 +49,8 @@ Theophylline เป็นยาที่ได้รับอนุญาตใ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคหลอดเลือดอุดตันจากลิ่มเลือด (Thrombotic Disease) |
 | คะแนนการทำนาย TxGNN | 0.9962 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 20 จาก 221 รายการ) |
+| จำนวนทะเบียนตำรับยา | 221 รายการ (ยังมีผล 20) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -80,7 +80,40 @@ Theophylline เป็นยาที่ได้รับอนุญาตใ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1020/44 | THEOPHYLLINE TABLETS BRAND COBAL | TABLET | คงอยู่ |
+| 1A 1493/27 | THEOLIN TABLETS | TABLET | คงอยู่ |
+| 1A 218/36 | S-PHYLLINE | TABLET | คงอยู่ |
+| 1A 223/36 | THEOPHYLLINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 224/36 | ASMASOLON | TABLET | คงอยู่ |
+| 1A 227/36 | T.T.O. BRYWOOD | TABLET | คงอยู่ |
+| 1A 248/36 | FRODRA | TABLET | คงอยู่ |
+| 1A 326/58 | GOOSETHEO | COMPRESSED TABLET | คงอยู่ |
+| 1A 344/58 | TEMA | COMPRESSED TABLET | คงอยู่ |
+| 1C 34/61 | NUELIN SR 200 | MODIFIED RELEASE TABLET | คงอยู่ |
+| 1C 36/61 | NUELIN SR 250 | MODIFIED RELEASE TABLET | คงอยู่ |
+| 1C 90/47 | DURALYN - CR 200 MG | SUSTAINED RELEASE CAPSULE | คงอยู่ |
+| 2A 118/58 | PEMA | COMPRESSED TABLET | คงอยู่ |
+| 2A 128/27 | ASMA - DEC | AQEOUS SOLUTION | คงอยู่ |
+| 2A 131/30 | FORASMA | CAPSULE, HARD | คงอยู่ |
+| 2A 151/42 | THEOBRON | COMPRESSED TABLET | คงอยู่ |
+| 2A 240/28 | ASIABRON TABLETS | COATED TABLET | คงอยู่ |
+| 2A 43/65 | MILA - ASMA | SYRUP | คงอยู่ |
+| 2A 56/26 | BRONCHIL (SYRUP) | SYRUP | คงอยู่ |
+| 2A 948/29 | FORASMA | SYRUP | คงอยู่ |
+| 1A 1140/40 | THELINE | FILM - COATED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 1501/28 | THEOPHYLLINE TABLETS | COMPRESSED TABLET | เพิกถอน(1 มกราคม 2522) |
+| 1A 183/46 | THEOSIL | SYRUP | ยกเลิก(27 มีนาคม 2552) |
+| 1A 2001/29 | THEOPHYLLINE TAB. | COMPRESSED TABLET | ยกเลิก |
+| 1A 209/36 | TEEMALIN | CAPSULE HARD | ยกเลิก(24 มีนาคม 2543) |
+| 1A 211/36 | ASMA-T | COMPRESSED TABLET | ยกเลิก(25 พฤศจิกายน 2562) |
+| 1A 215/36 | SINOLINE | COMPRESSED TABLET | ยกเลิก(10 เมษายน 2562) |
+| 1A 219/36 | S-PHYLLINE | COMPRESSED TABLET | ยกเลิก(10 เมษายน 2562) |
+| 1A 22/57 | TEMACO | COMPRESSED TABLET | ยกเลิก |
+| 1A 220/36 | SINMALINE | CAPSULE HARD | ยกเลิก(8 พฤษภาคม 2560) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

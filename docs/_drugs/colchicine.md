@@ -50,8 +50,8 @@ Colchicine เดิมได้รับอนุมัติในประเ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Plasmodium falciparum malaria (มาลาเรียชนิดฟัลซิปารัม) |
 | คะแนนการทำนาย TxGNN | 0.9960 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 21 จาก 49 รายการ) |
+| จำนวนทะเบียนตำรับยา | 49 รายการ (ยังมีผล 21) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -75,7 +75,40 @@ Colchicine เดิมได้รับอนุมัติในประเ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1110/40 | COCHIC | COMPRESSED TABLET | คงอยู่ |
+| 1A 1122/44 | ZORIC | TABLET | คงอยู่ |
+| 1A 1168/31 | COLCHICINE TABLETS (0.6 MG) | COMPRESSED TABLET | คงอยู่ |
+| 1A 164/46 | PROCHIC | COMPRESSED TABLET | คงอยู่ |
+| 1A 176/43 | GOUTICHINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 205/52 | PIPCHICINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 247/35 | COLCHICINE | TABLET | คงอยู่ |
+| 1A 280/42 | COLCINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 282/56 | KOJI | COMPRESSED TABLET | คงอยู่ |
+| 1A 296/38 | COLCHILY | TABLET | คงอยู่ |
+| 1A 379/53 | OCHICINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 445/52 | GOUTIC | COMPRESSED TABLET | คงอยู่ |
+| 1A 492/44 | M - COLCHICINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 50/52 | GOTICINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 528/50 | COLSTARCINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 55/65 | COLCINMED-STAR | TABLET | คงอยู่ |
+| 1A 640/33 | COLCHICINE | TABLET | คงอยู่ |
+| 1A 660/42 | CHICINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 668/34 | COLCHICINE | TABLET | คงอยู่ |
+| 1A 74/57 | TOLCHICINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 823/41 | COLCITEX | COMPRESSED TABLET | คงอยู่ |
+| 1A 1072/43 | KOJI | COMPRESSED TABLET | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 118/63 | COLCHIMED | TABLET | ยกเลิก |
+| 1A 14/61 | COLCINMED-STAR | TABLET | ยกเลิก(17 มกราคม 2565) |
+| 1A 141/32 | COLCINE | COMPRESSED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+| 1A 1540/27 | REMECINE TABLETS | COMPRESSED TABLET | ยกเลิก(29 ธันวาคม 2553) |
+| 1A 17/33 | GOFSTAUT | COMPRESSED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1A 174/64 | NYGOUMIN | TABLET | ยกเลิก |
+| 1A 178/53 | COLCHICINE-NIDA | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 194/49 | COLCHIMEX | COMPRESSED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ความเป็นพิษต่อเซลล์
 

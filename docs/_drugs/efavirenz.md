@@ -48,8 +48,8 @@ Efavirenz เป็นยาต้านไวรัสกลุ่ม NNRTI ท
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคภูมิคุ้มกันบกพร่องในแมว (Feline Acquired Immunodeficiency Syndrome) |
 | คะแนนการทำนาย TxGNN | 0.9980 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 59 รายการ) |
+| จำนวนทะเบียนตำรับยา | 59 รายการ (ยังมีผล 9) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Efavirenz เป็นยาต้านไวรัสกลุ่ม NNRTI ท
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 23/58 (NG) | EFAVIRENZ TABLETS (600 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 45/62 (NG) | EFAVIRENZ TABLETS (200 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1C 108/60 (NG) | EFAMAT | FILM - COATED TABLET | คงอยู่ |
+| 1C 34/56 (NG) | EFAMAT 200 | FILM - COATED TABLET | คงอยู่ |
+| 2C 3/63 (NG) | MACTRIVIR | FILM-COATED TABLET | คงอยู่ |
+| 2C 40/54 (NC) | ATRIPLA TABLETS | FILM - COATED TABLET | ปลด SMP(8 พฤษภาคม 2558) |
+| 2C 5/62 (NG) | TRUSTIVA | FILM-COATED TABLET | คงอยู่ |
+| 2C 6/66 (NC) | AVONZA | FILM-COATED TABLET | คงอยู่ |
+| 2C 8/56 (NG) | TEEVIR | FILM - COATED TABLET | คงอยู่ |
+| 1A 25/53 (NG) | EFAVIRENZ TABLETS 600 MG | FILM - COATED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1A 41/56 (NG) | EFAVIRENZ TABLETS (50 MG) | FILM - COATED TABLET | ยกเลิก |
+| 1A 42/56 (NG) | EFAVIRENZ TABLETS (200 MG) | FILM - COATED TABLET | ยกเลิก |
+| 1A 43/56 (NG) | EFAVIRENZ TABLETS (600 MG) | FILM - COATED TABLET | ยกเลิก(25 กันยายน 2558) |
+| 1C 1/50 (NG) | EFAVIRENZ TABLETS 600 MG | FILM - COATED TABLET | ยกเลิก(18 มกราคม 2555) |
+| 1C 15/51 (NG) | EFAVIRENZ TABLETS 600 MG. | FILM - COATED TABLET | ยกเลิก(9 มกราคม 2552) |
+| 1C 15/57 (NG) | EFAVIRENZ TABLETS 600 MG | FILM - COATED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1C 156/47 (N) | STOCRIN (50 MG) | CAPSULE HARD | ยกเลิก(11 กุมภาพันธ์ 2556) |
+| 1C 157/47 (N) | STOCRIN ( 100 MG) | CAPSULE HARD | ยกเลิก(11 กุมภาพันธ์ 2556) |
+| 1C 162/47 (N) | STOCRIN ( 200MG ) | CAPSULE HARD | ยกเลิก(11 กุมภาพันธ์ 2556) |
+| 1C 163/47 (NC) | STOCRIN (600 MG ) | FILM - COATED TABLET | ยกเลิก(11 กุมภาพันธ์ 2556) |
+| 1C 2/50 (NG) | AVIRANZ CAPSULES 200 MG | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1C 2/52 (NG) | EFAVIRENZ TABLETS 600 MG. | FILM - COATED TABLET | ยกเลิก(15 กรกฎาคม 2556) |
+| 1C 2/55 (NG) | EFAVIRENZ TABLETS 600 MG | FILM - COATED TABLET | ยกเลิก(2 ธันวาคม 2558) |
+| 1C 23/46 (NC) | STOCRIN (600 MG ) | FILM - COATED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 25/57 (NG) | EFAVIRENZ TABLETS 600 MG | FILM - COATED TABLET | ยกเลิก(19 ธันวาคม 2560) |
+| 1C 27/56 (NG) | ESTIVA-600 | FILM - COATED TABLET | ยกเลิก |
+| 1C 28/55 (N) | STOCRIN (200 MG) | FILM - COATED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1C 29/50 (NG) | EFAVIRENZ CAPSULES 200 MG | CAPSULE HARD | ยกเลิก(2 ธันวาคม 2558) |
+| 1C 3/55 (NG) | EFAVIRENZ TABLETS 600 MG | FILM - COATED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1C 31/56 (NG) | EFAVIRENZ TABLETS 600 MG. | FILM - COATED TABLET | ยกเลิก(30 กรกฎาคม 2556) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

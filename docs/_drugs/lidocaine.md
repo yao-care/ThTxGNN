@@ -48,8 +48,8 @@ Lidocaine เดิมใช้เป็นยาชาและรักษา�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (punctate epithelial keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 71 จาก 405 รายการ) |
+| จำนวนทะเบียนตำรับยา | 405 รายการ (ยังมีผล 71) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Lidocaine เดิมใช้เป็นยาชาและรักษา�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 107/69 | ZP NUMECAINE 10 | CREAM | คงอยู่ |
+| 1A 121/45 | DUMONT | SPRAY | คงอยู่ |
+| 1A 125/52 | CHALOCAINE 1% | STERILE SOLUTION | คงอยู่ |
+| 1A 132/28 | LOCANA | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 156/63 | CHALOCAINE VISCOUS SOLUTION | OROMUCOSAL SOLUTION | คงอยู่ |
+| 1A 167/62 | LOCANA 2% NON-PRESERVATIVE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 196/49 | LIDOCAINE HYDROCHLORIDE 1% | STERILE SOLUTION | คงอยู่ |
+| 1A 2/55 (P) | LIDOCAINE HYDROCHLORIDE INJECTION 2% W/V | STERILE SOLUTION | คงอยู่ |
+| 1A 21/59 (E) | K-Y DURATION SPRAY FOR MEN | CUTANEOUS SPRAY, SOLUTION | คงอยู่ |
+| 1A 228/42 | LIDOCAINE HCL 1% | STERILE SOLUTION | คงอยู่ |
+| 1A 229/62 | LD CREAM | CREAM | คงอยู่ |
+| 1A 230/62 | CHALOCARD 2% NON-PRESERVATIVE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 259/48 | LIDOCAINE HYDROCHLORIDE INJECTION 1% W/V | STERILE SOLUTION | คงอยู่ |
+| 1A 261/60 | OXACAIN | SPRAY | คงอยู่ |
+| 1A 263/48 | LIDOCAINE HYDROCHLORIDE INJECTION 2% W/V | STERILE SOLUTION | คงอยู่ |
+| 1A 335/52 | CHALOCAINE 2% | STERILE SOLUTION | คงอยู่ |
+| 1A 345/26 | LIDOCAINE 2% INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 484/48 | 2% LIDOCAINE HCL INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 509/51 | CHALOCAINE JELLY 2% | GEL | คงอยู่ |
+| 1A 52/68 | LOCANA VISCOUS SOLUTION | OROMUCOSAL SOLUTION | คงอยู่ |
+| 1A 691/34 | DOCAINE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 692/34 | DOCAINE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 91/66 | UDOCAINE 2% | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 1/68 | XYLOCAINE JELLY 2% | GEL | คงอยู่ |
+| 1C 13/64 | XYLOCAINE JELLY 2% | GEL | คงอยู่ |
+| 1C 133/69 (NG) | RHIDOPATCH | MEDICATED PLASTER | คงอยู่ |
+| 1C 141/55 | RACSER VISCOUS | TOPICAL SOLUTION | คงอยู่ |
+| 1C 30/62 | XYLOCAINE 1% | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 4/67 | XYLOCAINE 10% SPRAY | OROMUCOSAL SPRAY AND CUTANEOUS SPRAY, SO | คงอยู่ |
+| 1C 54/67 | RACSER JELLY 2% | GEL | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -48,8 +48,8 @@ Verapamil เดิมใช้รักษาความดันโลหิ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | บันเดิลแบรนช์บล็อก (obsolete bundle branch block) |
 | คะแนนการทำนาย TxGNN | 0.9962 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 4 จาก 61 รายการ) |
+| จำนวนทะเบียนตำรับยา | 61 รายการ (ยังมีผล 4) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Verapamil เดิมใช้รักษาความดันโลหิ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 254/37 | VERMINE | FILM-COATED TABLET | คงอยู่ |
+| 1A 308/38 | SOPMIL | FILM-COATED TABLET | คงอยู่ |
+| 1A 312/55 | VERPACIN | FILM - COATED TABLET | คงอยู่ |
+| 1C 56/62 | ISOPTIN SR 240 MG |  | คงอยู่ |
+| 1A 1018/40 | VERAPIN 240 MG. SR | SUSTAINED RELEASE CAPSULE | ยกเลิก(9 กุมภาพันธ์ 2549) |
+| 1A 1180/29 | ISOLA | SUGAR COATED TABLET | ยกเลิก |
+| 1A 124/32 | VERAPIN 80 | FILM - COATED TABLET | ยกเลิก(24 สิงหาคม 2552) |
+| 1A 1623/29 | VERAPIN 80 | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 163/59 | ZYRANE-40 | SUGAR COATED TABLET | ยกเลิก |
+| 1A 176/28 | VERAPIN | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 2489/28 | RAPAM 80 | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 2490/28 | RAPAM 40 | SUGAR COATED TABLET | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 344/34 | CARDIMED | FILM - COATED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 377/36 | VEPAMOL | FILM - COATED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 401/29 | ZYRANE-80 | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 402/37 | VERMINE 80 | FILM - COATED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 434/29 | ZYRANE-40 | SUGAR COATED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 497/32 | VERAPIN | FILM - COATED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1A 570/31 | VERA 80 | SUGAR COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 606/31 | ISOPMIL | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 654/31 | VERA 40 | SUGAR COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 684/32 | SOPMIL | SUGAR COATED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 720/31 | ISOPAMIL | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 736/41 | VERPACIN | FILM - COATED TABLET | ยกเลิก(30 กรกฎาคม 2555) |
+| 1A 833/32 | CALZOLOC-80 | SUGAR COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 854/32 | CALZOLOC -40 | SUGAR COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 954/41 | VERAMIL - 80 | SUGAR COATED PILL | ยกเลิก(3 กุมภาพันธ์ 2546) |
+| 1A 955/41 | VERAMIL | SUGAR COATED TABLET | ยกเลิก(3 กุมภาพันธ์ 2546) |
+| 1A 98/60 | CARDIMED | FILM - COATED TABLET | ยกเลิก(13 ธันวาคม 2562) |
+| 1C 108/33 | VERELAN | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

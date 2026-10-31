@@ -48,8 +48,8 @@ Potassium chloride เดิมใช้รักษาภาวะโพแท�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะกรดในท่อไต (Renal Tubular Acidosis) |
 | คะแนนการทำนาย TxGNN | 0.9987 |
 | ระดับหลักฐาน | L4 (ไม่มี RCT มีเพียงรายงานผู้ป่วย การศึกษาแบบ cohort และบทความทบทวน) |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 100 จาก 455 รายการ) |
+| จำนวนทะเบียนตำรับยา | 455 รายการ (ยังมีผล 100) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -83,7 +83,40 @@ Potassium chloride เดิมใช้รักษาภาวะโพแท�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1131/41 | ENPOTT 500 MG | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 144/51 | POTASSEE | SYRUP | คงอยู่ |
+| 1A 1920/30 | POTASSIUM CHLORIDE TABLETS | TABLET | คงอยู่ |
+| 1A 222/34 | POTASSIUM CHLORIDE | FILM-COATED TABLET | คงอยู่ |
+| 1A 2252/28 | STRONG POTASSIUM CHLORIDE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 229/51 | FLEXSA 1500 | POWDER | คงอยู่ |
+| 1A 2402/29 | POTASSIUM CHLORIDE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 35/61 | ARTHRO-K ORANGE 1500 | GRANULES FOR ORAL SOLUTION | คงอยู่ |
+| 1A 354/51 | KCL FOR INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 394/50 | OMEFLEX | CAPSULE SOFT | คงอยู่ |
+| 1A 477/53 | POTAS ELIXIR (YELLOW) | ELIXIR | คงอยู่ |
+| 1A 483/48 | KAYLYTE | ORAL SOLUTION | คงอยู่ |
+| 1A 767/42 | POTASSIUM CHLORIDE TABLET 500 MG | COMPRESSED TABLET | คงอยู่ |
+| 1C 100/55 | POTASSIUM CHLORIDE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1C 85/58 | NUTRILITE GLUCOSAMINE | CAPSULE HARD | คงอยู่ |
+| 2A 1/55 (NBC) | FLEXSA PLUS (1500 MG/1200 MG) | ORAL POWDER | ปลด SMP(6 กรกฎาคม 2561) |
+| 2A 1/65 (NB) | FLEXSA PLUS (1500 MG/1200 MG) | ORAL POWDER | คงอยู่ |
+| 2A 1/68 | 0.3% POTASSIUM CHLORIDE IN 2.5% DEXTROSE AND 0.45% SODIUM CH | SOLUTION FOR INFUSION | คงอยู่ |
+| 2A 108/48 | OREDA R.O. | POWDER | คงอยู่ |
+| 2A 113/39 | T.O.S. (ORANGE) | POWDER FOR ORAL SOLUTION | คงอยู่ |
+| 2A 13/55 | O - SALINE | AQEOUS SOLUTION | คงอยู่ |
+| 2A 135/41 | BABI-LYTE H | POWDER FOR ORAL SOLUTION | คงอยู่ |
+| 2A 135/49 | OREDA R.O. | POWDER | คงอยู่ |
+| 2A 14/49 | SEA ORS SODIUM-75 (ORANGE FLAVOUR) | POWDER | คงอยู่ |
+| 2A 140/55 | WEEWA ORS POWDER | POWDER | คงอยู่ |
+| 2A 141/55 | WEEWA ORS POWDER | POWDER | คงอยู่ |
+| 2A 15082/66 (NG) | TOP BALANCE SALT SOLUTION (MULTIPLE ELECTROLYTE INJECTION TY | SOLUTION FOR INFUSION | คงอยู่ |
+| 2A 15221/63 | ACETATE RINGER'S INJECTION | SOLUTION FOR INFUSION | คงอยู่ |
+| 2A 15222/63 | LACTATED RINGER'S INJECTION USP | SOLUTION FOR INFUSION | คงอยู่ |
+| 2A 157/48 | OSRA R.O. | POWDER FOR ORAL SOLUTION | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

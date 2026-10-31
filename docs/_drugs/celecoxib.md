@@ -48,8 +48,8 @@ Celecoxib เดิมใช้บรรเทาปวดและรักษ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Acromesomelic dysplasia, Hunter-Thompson type |
 | คะแนนการทำนาย TxGNN | 0.9988 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 27 จาก 49 รายการ) |
+| จำนวนทะเบียนตำรับยา | 49 รายการ (ยังมีผล 27) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Celecoxib เดิมใช้บรรเทาปวดและรักษ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 11/62 (NG) | CELXIB 400 | CAPSULE HARD | คงอยู่ |
+| 1A 12/50 (NG) | CELCOX | CAPSULE HARD | คงอยู่ |
+| 1A 13/62 (NG) | MEDICCOXIB | CAPSULE, HARD | คงอยู่ |
+| 1A 13/68 (NG) | SELEXA 200 | CAPSULE, HARD | คงอยู่ |
+| 1A 18/58 (NG) | CYBEC (200 MG CAPSULE) | HARD CAPSULE | คงอยู่ |
+| 1A 2/50 (NG) | ZOBREX | CAPSULE HARD | คงอยู่ |
+| 1A 21/64 (NG) | Z-XIB 200 | CAPSULE, HARD | คงอยู่ |
+| 1A 23/61 (NG) | PAINEX | CAPSULE HARD | คงอยู่ |
+| 1A 25/67 (NG) | CLC 200 | CAPSULE, HARD | คงอยู่ |
+| 1A 26/67 (NG) | CLC 400 | CAPSULE, HARD | คงอยู่ |
+| 1A 27/67 (NG) | LEBREX 200 | CAPSULE, HARD | คงอยู่ |
+| 1A 28/63 (NG) | PAINEX 200 | CAPSULE, HARD | คงอยู่ |
+| 1A 28/67 (NG) | LEBREX 400 | CAPSULE, HARD | คงอยู่ |
+| 1A 33/63 (NG) | PAINEX 400 | CAPSULE, HARD | คงอยู่ |
+| 1A 37/68 (NG) | CELOGIS 200 | CAPSULE, HARD | คงอยู่ |
+| 1A 38/66 (NG) | CYBEC (400 MG CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 45/65 (NG) | SELEXA-400 | CAPSULE, HARD | คงอยู่ |
+| 1A 53/67 (NG) | CELECOXIB T.O. | CAPSULE, HARD | คงอยู่ |
+| 1A 57/63 (NG) | CELECOXIB 200 MCP | CAPSULE, HARD | คงอยู่ |
+| 1A 71/60 (NG) | CELXIB 200 | CAPSULE HARD | คงอยู่ |
+| 1C 13/57 (NG) | ZYCEL 200 | CAPSULE HARD | คงอยู่ |
+| 1C 15065/64 (N) | CELEBREX (CAPSULES 200 MG) | CAPSULE, HARD | คงอยู่ |
+| 1C 15066/64 (N) | CELEBREX (CAPSULES 400 MG) | CAPSULE, HARD | คงอยู่ |
+| 1C 25/63 (NG) | CECOXZA 400 | CAPSULE, HARD | คงอยู่ |
+| 1C 35/60 (NG) | RANCELEX (CAPSULES 200 MG) | CAPSULE, HARD | คงอยู่ |
+| 1C 5/67 (NG) | CELEVIV-200 | CAPSULE, HARD | คงอยู่ |
+| 1C 55/59 (N) | CEBREX (CAPSULES 200 MG) | CAPSULE, HARD | คงอยู่ |
+| 1A 15/56 (NG) | MEDICCOXIB MP | CAPSULE | ยกเลิก(18 ธันวาคม 2558) |
+| 1A 2/60 (E) | MYCOXIB | CAPSULE HARD | ยกเลิก |
+| 1A 27/59 (E) | PAINEX 200 | CAPSULE HARD | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -49,8 +49,8 @@ Fluoxetine เป็นยากลุ่ม SSRI ที่ใช้ในปร
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder) |
 | คะแนนการทำนาย TxGNN | 0.9992 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 32 จาก 147 รายการ) |
+| จำนวนทะเบียนตำรับยา | 147 รายการ (ยังมีผล 32) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -74,7 +74,40 @@ Fluoxetine เป็นยากลุ่ม SSRI ที่ใช้ในปร
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/43 | OXSAC | CAPSULE HARD | คงอยู่ |
+| 1A 103/47 | ANZAC | CAPSULE, HARD | คงอยู่ |
+| 1A 104/47 | ANZAC | COMPRESSED TABLET | คงอยู่ |
+| 1A 117/47 | PROXETIN-20 | CAPSULE HARD | คงอยู่ |
+| 1A 139/63 | FLUOX | CAPSULE, HARD | คงอยู่ |
+| 1A 167/55 | FLUMATINE | CAPSULE HARD | คงอยู่ |
+| 1A 17/55 | FOXETIN | COMPRESSED TABLET | คงอยู่ |
+| 1A 213/40 | XETIN CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 216/49 | FUTIXAC | CAPSULE HARD | คงอยู่ |
+| 1A 332/43 | FLULOX 20 | CAPSULE HARD | คงอยู่ |
+| 1A 336/55 | FLUMA | CAPSULE HARD | คงอยู่ |
+| 1A 344/55 | FLUMATAB | COMPRESSED TABLET | คงอยู่ |
+| 1A 348/51 | FLULOX 20 | CAPSULE HARD | คงอยู่ |
+| 1A 351/55 | FLUOXTA - 20 | CAPSULE HARD | คงอยู่ |
+| 1A 370/40 | FLUOXETINE 20 MG. | CAPSULE HARD | คงอยู่ |
+| 1A 387/42 | UNPROZY 20 MG. | CAPSULE HARD | คงอยู่ |
+| 1A 390/40 | FLUZAC - 20 | CAPSULE HARD | คงอยู่ |
+| 1A 398/55 | OXNAXETINE | CAPSULE HARD | คงอยู่ |
+| 1A 401/58 | XELOTIN | HARD CAPSULE | คงอยู่ |
+| 1A 42/40 | FLUOXINE | CAPSULE HARD | คงอยู่ |
+| 1A 439/55 | NAXETINE | CAPSULE HARD | คงอยู่ |
+| 1A 49/38 | FULOX 20 | TABLET | คงอยู่ |
+| 1A 503/42 | FLUTINE TABLETS | TABLET | คงอยู่ |
+| 1A 59/46 | LOXETINE - 20 | CAPSULE HARD | คงอยู่ |
+| 1A 621/44 | XETIN CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 67/66 | PRO - 20 | CAPSULE, HARD | คงอยู่ |
+| 1A 71/66 | OXSAC | CAPSULE, HARD | คงอยู่ |
+| 1A 756/42 | OXETINE 20 TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 776/39 | ANZAC | CAPSULE, HARD | คงอยู่ |
+| 1A 780/43 | ACTISAC | CAPSULE HARD | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

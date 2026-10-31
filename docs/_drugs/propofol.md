@@ -50,8 +50,8 @@ Propofol เป็นยาสลบชนิดฉีดที่ขึ้น�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9969 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 42 รายการ) |
+| จำนวนทะเบียนตำรับยา | 42 รายการ (ยังมีผล 9) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ---
@@ -95,7 +95,40 @@ Propofol เป็นยาสลบชนิดฉีดที่ขึ้น�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 12/68 | PROPOTROY | EMULSION FOR INJECTION/INFUSION | คงอยู่ |
+| 1C 131/56 | TROYPOFOL | STERILE EMULSION | คงอยู่ |
+| 1C 134/42 | POFOL INJECTION | EMULSION FOR INJECTION | คงอยู่ |
+| 1C 239/46 | PROPOFOL - LIPURO 1 % | LARGE VOLUME PARENTERAL | คงอยู่ |
+| 1C 31/62 | DIPRIVAN | EMULSION FOR INJECTION | คงอยู่ |
+| 1C 32/53 | FRESOFOL 2% MCT/LCT | STERILE EMULSION | คงอยู่ |
+| 1C 360/49 | FRESOFOL 1% MCT/LCT | STERILE EMULSION | คงอยู่ |
+| 1C 54/68 | QUIFOL | EMULSION FOR INJECTION/INFUSION | คงอยู่ |
+| 1C 60/67 | NUPOVEL | EMULSION FOR INJECTION/INFUSION | คงอยู่ |
+| 1C 106/57 | FRESOFOL 1% MCT/LCT | STERILE EMULSION | ยกเลิก(8 พฤษภาคม 2561) |
+| 1C 108/35 | DIPRIVAN | EMULSION | ยกเลิก(24 มีนาคม 2543) |
+| 1C 11/50 | PROPOFOL INJECTION | STERILE EMULSION | ยกเลิก(7 พฤษภาคม 2561) |
+| 1C 11/62 | PROFOL 1% | EMULSION FOR INJECTION | รอตรวจสอบสถานะ |
+| 1C 13/48 | PROFOL 1% | STERILE EMULSION | ยกเลิก(24 พฤศจิกายน 2549) |
+| 1C 14/50 | PROFOL 1% | STERILE EMULSION | ยกเลิก(1 ธันวาคม 2559) |
+| 1C 141/46 | ANEPOL | STERILE EMULSION | ยกเลิก |
+| 1C 15/31 | DIPRIVAN | STERILE EMULSION | ยกเลิก(24 มีนาคม 2543) |
+| 1C 177/52 | PROPOVAN | STERILE EMULSION | ยกเลิก(8 กรกฎาคม 2559) |
+| 1C 178/46 | PROPOFOL 10MG/ML | STERILE EMULSION | ยกเลิก(21 ธันวาคม 2549) |
+| 1C 186/45 | DIPRIVAN | STERILE EMULSION | ยกเลิก(12 มิถุนายน 2562) |
+| 1C 19/44 | FRESOFOL 1% | STERILE EMULSION | ยกเลิก(29 มีนาคม 2554) |
+| 1C 202/47 | RECOFOL | STERILE EMULSION | ยกเลิก(13 พฤศจิกายน 2551) |
+| 1C 213/49 | PROPOFOL | STERILE EMULSION | ยกเลิก(30 กันยายน 2551) |
+| 1C 214/42 | RECOFOL | STERILE EMULSION | ยกเลิก(27 สิงหาคม 2547) |
+| 1C 214/59 | PROFOL 1% | STERILE EMULSION | ยกเลิก(15 กุมภาพันธ์ 2562) |
+| 1C 226/51 | PROPOFOL INJECTION 1% | STERILE EMULSION | ยกเลิก(9 เมษายน 2556) |
+| 1C 227/51 | PROPOFOL | STERILE EMULSION | ยกเลิก(9 เมษายน 2556) |
+| 1C 240/42 | DIPRIVAN | STERILE EMULSION | ยกเลิก(3 กุมภาพันธ์ 2546) |
+| 1C 254/41 | PROPOFOL | STERILE EMULSION | ยกเลิก(16 กุมภาพันธ์ 2549) |
+| 1C 261/50 | PROPOFOL INJECTION 1% | STERILE EMULSION | ยกเลิก(30 กันยายน 2551) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

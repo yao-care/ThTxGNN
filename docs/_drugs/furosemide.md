@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 29 จาก 140 รายการ) |
+| จำนวนทะเบียนตำรับยา | 140 รายการ (ยังมีผล 29) |
 | ข้อบ่งใช้ที่ทราบและบันทึกไว้สำหรับยานี้ | 6 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 29 จาก 140 รายการ) |
 
 ## ข้อบ่งใช้ที่ทราบและบันทึกไว้สำหรับยานี้
 
@@ -71,7 +71,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 102/67 | U - SEMIDE | TABLET | คงอยู่ |
+| 1A 1480/27 | FURIDE | TABLET | คงอยู่ |
+| 1A 15/67 | FUMIDE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1592/29 | DEMA TABLETS | TABLET | คงอยู่ |
+| 1A 1662/30 | FURETIC (500 MG TABLET) | COMPRESSED TABLET | คงอยู่ |
+| 1A 179/34 | MANOSIX TABLETS | TABLET | คงอยู่ |
+| 1A 183/39 | FUROSIC | TABLET | คงอยู่ |
+| 1A 195/49 | FEMIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 2021/29 | FUROSIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 208/45 | FRUSEMIDE | FILM - COATED TABLET | คงอยู่ |
+| 1A 218/48 | FUROSEMIDE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 2294/29 | DIRINE | STERILE SOLUTION | คงอยู่ |
+| 1A 260/54 | FURETIC INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 27/28 | FURETIC 40 MG TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 288/55 | DIMASIX | COMPRESSED TABLET | คงอยู่ |
+| 1A 308/65 | LASIVEN | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 353/43 | FUROSEMIDE TABLETS 40 MG | COMPRESSED TABLET | คงอยู่ |
+| 1A 395/49 | FUROSEMIDE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 41/55 | FURIDE 500 | COMPRESSED TABLET | คงอยู่ |
+| 1A 453/30 | HAWKMIDE | TABLET | คงอยู่ |
+| 1A 618/42 | FURINE 40 | COMPRESSED TABLET | คงอยู่ |
+| 1A 670/27 | FUSESIAN TABLETS 40 MG | TABLET | คงอยู่ |
+| 1A 71/54 | ROSEMIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 723/30 | H-MIDE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 76/56 | HYDRIL - F | COMPRESSED TABLET | คงอยู่ |
+| 1A 805/31 | FUROMIDE 500 MG. | TABLET | คงอยู่ |
+| 1C 166/54 | LASIX (500 MG) | COMPRESSED TABLET | คงอยู่ |
+| 1C 287/40 | LASIX | COMPRESSED TABLET | คงอยู่ |
+| 1C 903/29 | LASIX 250 MG. | STERILE SOLUTION | คงอยู่ |
+| 1A 1047/40 | LASEMIDE | COMPRESSED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 40 จาก 81 รายการ) |
+| จำนวนทะเบียนตำรับยา | 81 รายการ (ยังมีผล 40) |
 | ข้อบ่งใช้ที่ทราบแล้วในตัวเลือกของโมเดล | 1 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 40 จาก 81 รายการ) |
 
 ## ข้อบ่งใช้ที่ทราบแล้วในตัวเลือกของโมเดล
 
@@ -67,7 +67,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/59 (NG) | NEUPENTIN 600 TAB | FILM - COATED TABLET | คงอยู่ |
+| 1A 11/65 (NG) | GAPENTIN 100 MG | CAPSULE, HARD | คงอยู่ |
+| 1A 15122/62 (NG) | BERLONTIN 100 | CAPSULE, HARD | คงอยู่ |
+| 1A 15123/62 (NG) | BERLONTIN 600 | FILM-COATED TABLET | คงอยู่ |
+| 1A 20/55 (NG) | GABAPENTIN GPO (100 mg) | CAPSULE HARD | คงอยู่ |
+| 1A 20/58 (NG) | GABAPENTIN GPO (300 MG) | HARD CAPSULE | คงอยู่ |
+| 1A 20/59 (NG) | GABTIN 100 (CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 20/61 (NG) | NEUPENTIN 300 TAB | FILM - COATED TABLET | คงอยู่ |
+| 1A 21/59 (NG) | GABTIN 300 (CAPSULE) |  | คงอยู่ |
+| 1A 21/61 (NG) | NEUPENTIN 400 TAB | FILM - COATED TABLET | คงอยู่ |
+| 1A 22/57 (NG) | G-PENTIN 100 | CAPSULE HARD | คงอยู่ |
+| 1A 23/55 (NG) | VULTIN 600 | FILM - COATED TABLET | คงอยู่ |
+| 1A 23/57 (NG) | G-PENTIN 300 | CAPSULE HARD | คงอยู่ |
+| 1A 24/57 (NG) | G-PENTIN 400 | CAPSULE HARD | คงอยู่ |
+| 1A 25/57 (NG) | GABTIN 400 (CAPSULE) | CAPSULE | คงอยู่ |
+| 1A 29/59 (NG) | BERLONTIN 300 | CAPSULE, HARD | คงอยู่ |
+| 1A 3/53 (NG) | RONTIN | CAPSULE HARD | คงอยู่ |
+| 1A 30/53 (NG) | RONTIN (600) | FILM - COATED TABLET | คงอยู่ |
+| 1A 32/56 (NG) | NERVIN-300 | CAPSULE HARD | คงอยู่ |
+| 1A 44/59 (NG) | GAPENTIN | CAPSULE HARD | คงอยู่ |
+| 1A 5/59 (NG) | GABUTIN 600 MG TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 50/50 (NG) | VULTIN 100 | CAPSULE HARD | คงอยู่ |
+| 1A 51/50 (NG) | VULTIN 300 | CAPSULE HARD | คงอยู่ |
+| 1A 52/50 (NG) | VULTIN 400 | CAPSULE HARD | คงอยู่ |
+| 1A 62/60 (NG) | GABAREX 300 MG | CAPSULE HARD | คงอยู่ |
+| 1A 7/53 (NG) | GABANTIN (300 MG) | CAPSULE HARD | คงอยู่ |
+| 1A 73/63 (NG) | GABANIL 300 | FILM-COATED TABLET | คงอยู่ |
+| 1A 74/63 (NG) | GABANIL 400 | FILM-COATED TABLET | คงอยู่ |
+| 1A 75/63 (NG) | GABANIL 600 | FILM-COATED TABLET | คงอยู่ |
+| 1A 8/51 (NG) | GABUTIN 100 MG. CAPSULE | CAPSULE | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 11 จาก 22 รายการ) |
+| จำนวนทะเบียนตำรับยา | 22 รายการ (ยังมีผล 11) |
 | ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้ของยานี้ | 3 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 11 จาก 22 รายการ) |
 
 ## ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้ของยานี้
 
@@ -69,7 +69,30 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/55 (NG) | GPO-A-FLU (CAPSULE 30 MG) | CAPSULE HARD | คงอยู่ |
+| 1A 2/55 (NG) | GPO-A-FLU (CAPSULE 45 MG) | CAPSULE HARD | คงอยู่ |
+| 1A 3/50 (NG) | GPO-A-FLU | CAPSULE HARD | คงอยู่ |
+| 1A 62/66 (NG) | GPO-A-FLU (6 MG/ML) | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1C 33/67 (NG) | FLUKARE 30 | CAPSULE, HARD | คงอยู่ |
+| 1C 34/67 (NG) | FLUKARE 45 | CAPSULE, HARD | คงอยู่ |
+| 1C 35/67 (NG) | FLUKARE 75 | CAPSULE, HARD | คงอยู่ |
+| 1C 75/59 (N) | TAMIFLU(R) (75 MG CAPSULES) | HARD CAPSULE | คงอยู่ |
+| 1C 85/55 (NC) | TAMIFLU (30 MG CAPSULES) | CAPSULE HARD | ปลด SMP |
+| 1C 86/55 (NC) | TAMIFLU (45 MG CAPSULES) | CAPSULE HARD | ปลด SMP |
+| 1C 90/52 (NC) | TAMIFLU (30 MG CAPSULES) | CAPSULE HARD | ปลด SMP |
+| 1C 114/55 (N) | TAMIFLU (POWDER FOR ORAL SUSPENSION) | POWDER | ยกเลิก(16 มิถุนายน 2560) |
+| 1C 21/51 (N) | TAMIFLU | CAPSULE HARD | ยกเลิก |
+| 1C 42/54 (N) | TAMIFLU | CAPSULE HARD | ยกเลิก(8 พฤษภาคม 2560) |
+| 1C 64/48 (N) | TAMIFLU ORAL SUSPENSION | POWDER | ยกเลิก(7 เมษายน 2558) |
+| 1C 64/48 (NC) | TAMIFLU ORAL SUSPENSION | DRY SYRUP | ยกเลิก(18 ตุลาคม 2554) |
+| 1C 68/45 (N) | TAMIFLU | CAPSULE HARD | ยกเลิก(7 พฤษภาคม 2561) |
+| 1C 68/45 (NC) | TAMIFLU | CAPSULE HARD | ยกเลิก(7 มกราคม 2551) |
+| 1C 85/55 (N) | TAMIFLU (30 MG CAPSULES) | CAPSULE HARD | ยกเลิก |
+| 1C 87/55 (N) | TAMIFLU (75 MG CAPSULES) | CAPSULE HARD | ยกเลิก(30 มิถุนายน 2559) |
+| 1C 91/52 (NC) | TAMIFLU ( 45 MG CAPSULES) | CAPSULE HARD | ยกเลิก(28 สิงหาคม 2562) |
+| 1C 98/58 (N) | TAMIFLU (6 MG/ML POWDER FOR ORAL SUSPENSION) | POWDER | ยกเลิก |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

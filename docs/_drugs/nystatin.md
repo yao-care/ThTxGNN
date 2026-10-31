@@ -50,8 +50,8 @@ Nystatin เป็นยาต้านเชื้อรากลุ่มโ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Vulvovaginitis |
 | คะแนนการทำนาย TxGNN | 0.9992 |
 | ระดับหลักฐาน | L3 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 10 จาก 63 รายการ) |
+| จำนวนทะเบียนตำรับยา | 63 รายการ (ยังมีผล 10) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ---
@@ -93,7 +93,40 @@ Nystatin เป็นยาต้านเชื้อรากลุ่มโ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 198/52 | TYSTATIN ORAL SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 316/52 | TYSTATIN ORAL SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 338/58 | VAGENA | VAGINAL TABLET | คงอยู่ |
+| 1A 55/47 | NYST ORAL | SUSPENSION | คงอยู่ |
+| 2A 110/58 | NAGENA | VAGINAL TABLET | คงอยู่ |
+| 2A 3/48 | GYNECON - T | VAGINAL TABLET | คงอยู่ |
+| 2A 799/30 | V.G. MED (TABLET) | VAGINAL TABLET | คงอยู่ |
+| 2A 845/30 | VAGICIN VAGINAL TABLETS | VAGINAL TABLET | คงอยู่ |
+| 2A 979/27 | GYNECON | VAGINAL TABLET | คงอยู่ |
+| 2C 33/34 | DERMACOMBIN | CREAM | คงอยู่ |
+| 1A 1052/31 | PHARSTATIN | SUGAR COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1103/29 | NYSTATIN ORAL SUSPENSION | SUSPENSION | ยกเลิก(30 พฤษภาคม 2555) |
+| 1A 1169/29 | NYSTATAB | SUGAR COATED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 1185/31 | SPECTIN | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 120/27 | LYSTIN TABLETS | SUGAR COATED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 1292/27 | COMYSTATIN TABLETS | SUGAR COATED TABLET | ยกเลิก(29 ธันวาคม 2553) |
+| 1A 1387/27 | NYGINAL VAGINAL TABLETS | VAGINAL TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 146/26 | LYSTIN CREAM | VAGINAL CREAM | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 15/30 | NYSTAVAG | VAGINAL TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 153/41 | MYCOSTATIN ORAL SUSPENSION | SUSPENSION | ยกเลิก(9 เมษายน 2556) |
+| 1A 1689/28 | NYSTATIN COATED TABLETS | SUGAR COATED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1A 1863/29 | NYSTACREAM | CREAM | ยกเลิก(3 เมษายน 2549) |
+| 1A 197/59 | NYSTATAB | SUGAR COATED TABLET | ยกเลิก |
+| 1A 208/33 | TYSTATIN ORAL SUSPENSION | SUSPENSION | ยกเลิก(9 เมษายน 2556) |
+| 1A 2514/29 | VAGENA | VAGINAL TABLET | ยกเลิก(1 มีนาคม 2559) |
+| 1A 269/39 | TYSTATIN ORAL SUSPENSION | SUSPENSION | ยกเลิก(7 เมษายน 2558) |
+| 1A 285/58 | NYSTAVAG | VAGINAL TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 304/28 | MYCOTIN VAGINAL TABLETS | VAGINAL TABLET | ยกเลิก(31 มีนาคม 2559) |
+| 1A 481/29 | LYSTIN VAGINAL TABLETS | VAGINAL TABLET | หมดอายุ |
+| 1A 698/33 | TYSTATIN | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

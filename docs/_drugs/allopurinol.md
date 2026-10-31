@@ -48,8 +48,8 @@ Allopurinol เป็นยาที่เดิมใช้รักษาโ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะพอร์ฟิเรียของตับ (Hepatic Porphyria) |
 | คะแนนการทำนาย TxGNN | 0.9995 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 34 จาก 145 รายการ) |
+| จำนวนทะเบียนตำรับยา | 145 รายการ (ยังมีผล 34) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -73,7 +73,40 @@ Allopurinol เป็นยาที่เดิมใช้รักษาโ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1109/43 | ALLONOL | COMPRESSED TABLET | คงอยู่ |
+| 1A 135/51 | ALLOSTAR-100 | COMPRESSED TABLET | คงอยู่ |
+| 1A 14/55 | ALLO 100 | COMPRESSED TABLET | คงอยู่ |
+| 1A 1461/28 | PURIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 147/39 | PURINOL | TABLET | คงอยู่ |
+| 1A 1474/30 | ALLOPURINOL TABLETS 100 MG. | TABLET | คงอยู่ |
+| 1A 204/52 | PIPALLO | COMPRESSED TABLET | คงอยู่ |
+| 1A 2455/28 | ALLOPURINOL | TABLET | คงอยู่ |
+| 1A 2469/28 | XANDASE | TABLET | คงอยู่ |
+| 1A 256/45 | ALLOPURINOL TABLETS(100MG) | COMPRESSED TABLET | คงอยู่ |
+| 1A 274/58 | LOLINOL 100 | COMPRESSED TABLET | คงอยู่ |
+| 1A 287/33 | XANDASE - 300 | TABLET | คงอยู่ |
+| 1A 311/55 | ZYBONOL TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 342/50 | APRONOL 300 | COMPRESSED TABLET | คงอยู่ |
+| 1A 356/39 | APNOL | TABLET | คงอยู่ |
+| 1A 375/58 | LOLINOL 300 | COMPRESSED TABLET | คงอยู่ |
+| 1A 479/33 | APURINOL 300 | TABLET | คงอยู่ |
+| 1A 499/38 | ALLORIC | TABLET | คงอยู่ |
+| 1A 512/41 | APRONOL | COMPRESSED TABLET | คงอยู่ |
+| 1A 555/39 | PURINOL-300 | TABLET | คงอยู่ |
+| 1A 622/32 | ALINOL TABLETS | TABLET | คงอยู่ |
+| 1A 622/36 | XANOL | TABLET | คงอยู่ |
+| 1A 639/41 | BURINOL | COMPRESSED TABLET | คงอยู่ |
+| 1A 641/28 | ALLOPIN | TABLET | คงอยู่ |
+| 1A 642/28 | ALLOPIN | TABLET | คงอยู่ |
+| 1A 77/32 | ALLOPURINOL TABLET | TABLET | คงอยู่ |
+| 1A 851/32 | PURIDE 300 | TABLET | คงอยู่ |
+| 1A 922/43 | BURINOL 300 | COMPRESSED TABLET | คงอยู่ |
+| 1A 956/30 | ARINOL | TABLET | คงอยู่ |
+| 1C 127/59 | ALLOPURINOL TABLET | COMPRESSED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

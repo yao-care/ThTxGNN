@@ -50,8 +50,8 @@ Simvastatin เป็นยากลุ่มสแตติน ใช้ลด�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะก้านสมองขาดเลือด (brain stem infarction) |
 | คะแนนการทำนาย TxGNN | 0.9941 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 25 จาก 96 รายการ) |
+| จำนวนทะเบียนตำรับยา | 96 รายการ (ยังมีผล 25) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Simvastatin เป็นยากลุ่มสแตติน ใช้ลด�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/45 (NG) | BESTATIN 10 | FILM-COATED TABLET | คงอยู่ |
+| 1A 14/45 (NG) | LOCHOL (20 MG. TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 1A 2/45 (NG) | BESTATIN 40 | FILM-COATED TABLET | คงอยู่ |
+| 1A 2/47 (NG) | EUCOR | FILM - COATED TABLET | คงอยู่ |
+| 1A 28/64 (NG) | ZIMMEX 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 29/64 (NG) | ZIMMEX 40 | FILM-COATED TABLET | คงอยู่ |
+| 1A 3/44 (NG) | BESTATIN 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 3/45 (NG) | EUCOR | FILM - COATED TABLET | คงอยู่ |
+| 1A 30/64 (NG) | ZIMMEX | FILM-COATED TABLET | คงอยู่ |
+| 1A 31/53 (NG) | ZIMVA (20 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 33/53 (NG) | ZIMVA (10 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 34/53 (NG) | ZIMVA (40 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 38/50 (NG) | EUCOR | FILM - COATED TABLET | คงอยู่ |
+| 1A 4/45 (NG) | LOCHOL (10 MG. TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 1C 32/55 (N) | ZOCOR (40 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1C 34/55 (N) | ZOCOR (10 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1C 35/55 (N) | ZOCOR (20 MG) | FILM - COATED TABLET | คงอยู่ |
+| 2C 15058/63 (NG) | Co-Ezetimibe LOTUS 10 mg/10 mg | TABLET | คงอยู่ |
+| 2C 15059/63 (NG) | Co-Ezetimibe LOTUS 10 mg/20 mg | TABLET | คงอยู่ |
+| 2C 15060/63 (NG) | Co-Ezetimibe LOTUS 10 mg/40 mg | TABLET | คงอยู่ |
+| 2C 2/67 (NG) | EZTA-SM 10/20 | TABLET | คงอยู่ |
+| 2C 20/48 (N) | VYTORIN (TABLETS 10/10 MG) | TABLET | คงอยู่ |
+| 2C 21/48 (N) | VYTORIN (TABLETS 10/20 MG) | TABLET | คงอยู่ |
+| 2C 22/48 (N) | VYTORIN (TABLETS 10/40 MG) | TABLET | คงอยู่ |
+| 2C 3/67 (NG) | EZTA-SM 10/40 | TABLET | คงอยู่ |
+| 1A 1/43 (NG) | ZIMMEX | FILM - COATED TABLET | ยกเลิก(11 พฤศจิกายน 2553) |
+| 1A 1/46 (NG) | TORIO | FILM - COATED TABLET | ยกเลิก |
+| 1A 1/48 (NG) | SIMVAS | FILM - COATED TABLET | ยกเลิก |
+| 1A 1/52 (NG) | ZIMMEX 40 | FILM - COATED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 13/54 (NG) | ZIMMEX 40 | FILM - COATED TABLET | ยกเลิก(17 เมษายน 2562) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

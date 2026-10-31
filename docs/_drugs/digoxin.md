@@ -50,8 +50,8 @@ Digoxin เป็นยากลุ่มคาร์ดิแอคไกลโ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Prinzmetal angina |
 | คะแนนการทำนาย TxGNN | 0.9981 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 7 จาก 29 รายการ) |
+| จำนวนทะเบียนตำรับยา | 29 รายการ (ยังมีผล 7) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -74,7 +74,37 @@ Digoxin เป็นยากลุ่มคาร์ดิแอคไกลโ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 289/58 | DIGOXIN | COMPRESSED TABLET | คงอยู่ |
+| 1A 559/38 | TOLOXIN | TABLET | คงอยู่ |
+| 1C 253/52 | LANOXIN (PAEDIATRIC/GERIATRIC ELIXIR) | ELIXIR | คงอยู่ |
+| 1C 346/51 | DIXIN | STERILE SOLUTION | คงอยู่ |
+| 1C 47/63 | LANOXIN (INJECTION) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 65/55 | LANOXIN (TABLETS) | COMPRESSED TABLET | คงอยู่ |
+| 1C 70/55 | LANOXIN-PG (TABLETS) | COMPRESSED TABLET | คงอยู่ |
+| 1A 1142/30 | CARDIAL TABLET | COMPRESSED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 1197/29 | GREXIN TABLETS | COMPRESSED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 1841/29 | DIGOXIN TABLETS | COMPRESSED TABLET | ยกเลิก(18 พฤษภาคม 2549) |
+| 1A 2684/29 | DIGOXIN | COMPRESSED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 34/36 | TOLOXIN | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1A 367/30 | DIGOXIN | COMPRESSED TABLET | ยกเลิก(1 มีนาคม 2559) |
+| 1A 376/31 | DIGOXIN TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 947/30 | DIGOXIN (INJECTION) | STERILE SOLUTION | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 100/41 | LANOXIN (INJECTION) | STERILE SOLUTION | ยกเลิก(28 ธันวาคม 2549) |
+| 1C 101/41 | LANOXIN (PAEDIATRIC GERIATRIC ELIXIR) | ELIXIR | ยกเลิก(28 ธันวาคม 2549) |
+| 1C 152/33 | DIGOXIN | STERILE SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 212/27 | DIGOXIN | STERILE SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 252/52 | LANOXIN - PG (TABLETS) | COMPRESSED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1C 254/52 | LANOXIN (TABLETS) | COMPRESSED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1C 255/52 | LANOXIN (INJECTION) | STERILE SOLUTION | ยกเลิก |
+| 1C 267/46 | LANOXIN (PAEDIATRIC/GERIATRIC ELIXIR) | ELIXIR | ยกเลิก(2 ธันวาคม 2552) |
+| 1C 291/49 | LANOXIN - PG (TABLETS) | COMPRESSED TABLET | ยกเลิก(2 ธันวาคม 2552) |
+| 1C 292/49 | LANOXIN (TABLETS) | COMPRESSED TABLET | ยกเลิก(2 ธันวาคม 2552) |
+| 1C 303/28 | DIGOXIN TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 303/47 | LANOXIN (INJECTION) | STERILE SOLUTION | ยกเลิก(2 ธันวาคม 2552) |
+| 1C 40/41 | LANOXIN - PG (TABLETS) | COMPRESSED TABLET | ยกเลิก(23 พฤศจิกายน 2549) |
+| 1C 92/41 | LANOXIN (TABLETS) | COMPRESSED TABLET | ยกเลิก(23 พฤศจิกายน 2549) |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -50,8 +50,8 @@ Valproic acid เดิมใช้รักษาโรคลมชักแล
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) |
 | คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 21 จาก 82 รายการ) |
+| จำนวนทะเบียนตำรับยา | 82 รายการ (ยังมีผล 21) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Valproic acid เดิมใช้รักษาโรคลมชักแล
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 120/66 | EPIVAL | SOLUTION FOR INFUSION | คงอยู่ |
+| 1C 344/49 | DEPAKINE CHRONO 500 MG. | MODIFIED-RELEASE TABLET | คงอยู่ |
+| 1C 6/58 | VELTILA-500 | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 2C 10/68 | PROLONGED-RELEASE SODIUM VALPROATE TABLETS 200 MG | FILM-COATED TABLET | คงอยู่ |
+| 2C 123/58 | ENCORATE CHRONO 200 | CONTROLLED RELEASE TABLET | คงอยู่ |
+| 2C 9/68 | PROLONGED-RELEASE SODIUM VALPROATE TABLETS 500 MG | PROLONGED-RELEASE TABLET | คงอยู่ |
+| 1A 15003/67 | VALPROXA | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 200/47 | VALPROCID SOLUTION | AQEOUS SOLUTION | คงอยู่ |
+| 1A 290/61 | DEPAKINE | ORAL SOLUTION | คงอยู่ |
+| 1A 59/56 | VALPROCID TABLET 200 | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 65/56 | EPIATE SYRUP | SYRUP | คงอยู่ |
+| 1C 103/56 | DEPAKINE 200 MG | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1C 114/53 | DEPAKINE (400MG/4 ML) | STERILE POWDER | คงอยู่ |
+| 1C 121/57 | VALOIN INJECTION | STERILE POWDER | คงอยู่ |
+| 1C 122/58 | ENCORATE | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1C 122/59 | SODIUM VALPROATE AGUETTANT 400 MG/4 ML | STERILE SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 124/58 | ENCORATE 300 | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1C 130/50 | VALSTAL-200 | - | คงอยู่ |
+| 1C 26/65 | GASTRO-RESISTANT SODIUM VALPROATE TABLETS | GASTRO-RESISTANT TABLET | คงอยู่ |
+| 1C 58/67 | SODIUM VALPROATE CONCENTRATED SOLUTION FOR INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 75/49 | VALPARIN - 200 ALKALETS | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 2/64 (E) | DEPACON | SOLUTION FOR INFUSION | ยกเลิก |
+| 1C 1/63 | VALPROZEN | MODIFIED-RELEASE TABLET | ยกเลิก |
+| 1C 198/33 | DEPAKINE CHRONO 500 MG. | FILM - COATED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 2C 16/42 | DEPAKINE CHRONO (300 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(7 พฤษภาคม 2545) |
+| 2C 41/48 | ENCORATE CHRONO 200 | CONTROLLED RELEASE TABLET | ยกเลิก(25 ธันวาคม 2558) |
+| 1A 139/61 | VALEP 200 | GASTRO-RESISTANT TABLET | ยกเลิก(14 กุมภาพันธ์ 2565) |
+| 1A 150/65 | DEPROATE (ORAL SOLUTION) | ORAL SOLUTION | ยกเลิก |
+| 1A 1717/29 | VALPRO | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 174/53 | DEPROATE (ORAL SOLUTION) | AQEOUS SOLUTION | ยกเลิก(11 มีนาคม 2565) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

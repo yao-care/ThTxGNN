@@ -50,8 +50,8 @@ Bisoprolol เป็นยากลุ่มตัวบล็อกเบต้
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง |
 | คะแนนการทำนาย TxGNN | 0.9994 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 31 จาก 54 รายการ) |
+| จำนวนทะเบียนตำรับยา | 54 รายการ (ยังมีผล 31) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Bisoprolol เป็นยากลุ่มตัวบล็อกเบต้
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 13/66 | HYPERCOR 2.5 | FILM-COATED TABLET | คงอยู่ |
+| 1A 134/69 | BISOCARE 5 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15152/65 | CARDISOL | FILM-COATED TABLET | คงอยู่ |
+| 1A 15184/65 | COMED 5 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 32/55 (NG) | BISLOC 2.5 | FILM - COATED TABLET | คงอยู่ |
+| 1A 33/55 (NG) | BISLOC 5 | FILM - COATED TABLET | คงอยู่ |
+| 1A 413/65 | BIPROLOL 5 | FILM-COATED TABLET | คงอยู่ |
+| 1A 532/46 | NOVACOR TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 71/52 | HYPERCOR | FILM - COATED TABLET | คงอยู่ |
+| 1C 10/58 | CONCOR 5 | FILM - COATED TABLET | คงอยู่ |
+| 1C 11/58 | CONCOR 10 | FILM - COATED TABLET | คงอยู่ |
+| 1C 116/44 (N) | CONCOR 2.5 | FILM - COATED TABLET | คงอยู่ |
+| 1C 13/68 | NIKP-BISOPROLOL TABLET 5 MG | TABLET | คงอยู่ |
+| 1C 20/68 (NG) | NIKP-BISOPROLOL TABLET 2.5 MG | TABLET | คงอยู่ |
+| 1C 313/69 | BISOLOL 5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 34/56 | BETACOR F.C. TABLETS 5 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 342/69 | BISOLIN-5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 354/69 | BISOLIN-2.5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 45/61 | SOPALOL 2.5 | FILM - COATED TABLET | คงอยู่ |
+| 1C 6/59 | SOPALOL 5 | FILM - COATED TABLET | คงอยู่ |
+| 1C 70/68 | BISOCOR 2.5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 71/68 | BISOCOR 5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 72/68 | BISOCOR 10 | FILM-COATED TABLET | คงอยู่ |
+| 2C 11/59 (N) | CONCOR AM (5 MG/5 MG) | TABLET | คงอยู่ |
+| 2C 11/59 (NC) | CONCOR AM (5 MG/5 MG) | TABLET | ปลด SMP(18 กุมภาพันธ์ 2562) |
+| 2C 12/59 (N) | CONCOR AM (5 MG/10 MG) | TABLET | คงอยู่ |
+| 2C 12/59 (NC) | CONCOR AM (5 MG/10 MG) | TABLET | ปลด SMP(18 กุมภาพันธ์ 2562) |
+| 2C 14/52 (NC) | LODOZ (2.5 MG / 6.25 MG) | FILM - COATED TABLET | ปลด SMP(28 พฤษภาคม 2555) |
+| 2C 22/50 (NC) | LODOZ ( 5 MG / 6.25 MG) | FILM - COATED TABLET | ปลด SMP(28 พฤษภาคม 2555) |
+| 2C 28/59 (N) | LODOZ 2.5 MG/6.25 MG | FILM - COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

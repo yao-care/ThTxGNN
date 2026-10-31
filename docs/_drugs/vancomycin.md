@@ -48,8 +48,8 @@ Vancomycin เป็นยาปฏิชีวนะที่เดิมใช
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) |
 | คะแนนการทำนาย TxGNN | 0.9992 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 14 จาก 70 รายการ) |
+| จำนวนทะเบียนตำรับยา | 70 รายการ (ยังมีผล 14) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Vancomycin เป็นยาปฏิชีวนะที่เดิมใช
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 173/62 | VANGACIN 1 G | POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 174/62 | VANGACIN 500 | POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 307/47 | VANCIN - S (500 MG.INJECTION) | - | คงอยู่ |
+| 1A 311/65 | VANCIN-S (125 MG CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 382/49 | VANCIN-S (1 G. INJECTION) | - | คงอยู่ |
+| 1C 146/53 | G-VANC | STERILE POWDER | คงอยู่ |
+| 1C 288/47 | EDICIN 0.5 G | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1C 32/67 | VANCO-SW 500 | POWDER FOR CONCENTRATE FOR SOLUTION FOR  | คงอยู่ |
+| 1C 333/49 | CELOVAN | STERILE POWDER | คงอยู่ |
+| 1C 56/68 | VANCOMYCIN HYDROCHLORIDE FOR INJECTION | LYOPHILISATE FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 64/68 | VANCOMYCIN HYDROCHLORIDE FOR INJECTION | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 75/68 | STAVANCE 1 | POWDER FOR CONCENTRATE FOR SOLUTION FOR  | คงอยู่ |
+| 1C 8/65 | STAVANCE 500 | POWDER FOR CONCENTRATE FOR SOLUTION FOR  | คงอยู่ |
+| 1C 88/61 | VANCOMYCIN HYDROCHLORIDE FOR INJECTION USP (LYOPHILISED) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1112/40 | VANCIN-S (500 MG INJECTION) | STERILE POWDER | ยกเลิก(3 เมษายน 2549) |
+| 1A 1113/40 | VANCIN-S (1 G. INJECTION) | STERILE POWDER | ยกเลิก(4 มิถุนายน 2545) |
+| 1A 43/61 (E) | VANGACIN 500 | STERILE POWDER | ยกเลิก |
+| 1A 500/48 | VANCOCID | STERILE POWDER | รอตรวจสอบสถานะ |
+| 1C 111/54 | STERILE VANCOMYCIN HYDROCHLORIDE, USP | STERILE POWDER | ยกเลิก(7 เมษายน 2558) |
+| 1C 112/54 | STERILE VANCOMYCIN HYDROCHLORIDE, USP | STERILE POWDER | ยกเลิก(2 สิงหาคม 2554) |
+| 1C 123/57 | TANCOFETO (IV 500 MG) | STERILE POWDER | ยกเลิก(31 มกราคม 2560) |
+| 1C 124/39 | VANCOMYCIN HYDROCHLORIDE ,USP | STERILE POWDER | ยกเลิก(23 มิถุนายน 2547) |
+| 1C 124/57 | TANCOFETO (IV 1 G) | STERILE POWDER | ยกเลิก(31 มกราคม 2560) |
+| 1C 125/39 | VANCOMYCIN HYDROCHLORIDE, USP | STERILE POWDER | ยกเลิก(29 กรกฎาคม 2547) |
+| 1C 132/47 | VANCOMYCIN HYDROCHLORIDE, USP | STERILE POWDER | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 133/54 | VANCOMYCIN HYDROCHLORIDE FOR INJECTION, USP | STERILE POWDER | ยกเลิก(21 สิงหาคม 2560) |
+| 1C 136/50 | VANCOGEN (INJECTION 1 G) | STERILE POWDER | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1C 150/31 | VANCOCIN CP | STERILE POWDER | ยกเลิก(24 มีนาคม 2543) |
+| 1C 163/39 | STERILE VANCOMYCIN HYDROCHLORIDE,USP | STERILE POWDER | ยกเลิก(11 มกราคม 2549) |
+| 1C 171/59 | VANCOGEN (INJECTION 1 G) | STERILE POWDER | ยกเลิก(21 ตุลาคม 2562) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

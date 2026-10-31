@@ -50,8 +50,8 @@ Diazepam เป็นยาในกลุ่มเบนโซไดอะซ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคนอนไม่หลับ (insomnia (disease)) |
 | คะแนนการทำนาย TxGNN | 1,0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | ไม่พบทะเบียนที่ยังมีผลในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ทะเบียนที่ถูกยกเลิก 37 จาก 37 รายการ) |
+| จำนวนทะเบียนตำรับยา | 37 รายการ (ยังมีผล 0) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 > หมายเหตุ: คะแนนจริงคือ 0.9999975 ปัดเป็น 4 ตำแหน่งได้ 1.0000 ซึ่งไม่ได้แปลว่ายาได้ผลแน่นอน
@@ -91,7 +91,40 @@ Diazepam เป็นยาในกลุ่มเบนโซไดอะซ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1029/27 | DIAZEPAM TABLET | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 105/26 | DIAPINE | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1229/27 | DIAZEPAM | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1285/27 | DIAZEPAM CAPSULES | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 157/27 | DIAZEPAM TABLETS 5 MG. | COMPRESSED TABLET | ยกเลิก(1 มีนาคม 2559) |
+| 1A 173/27 | V. DAY ZEPAM (TABLETS 2 MG.) | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 191/26 | ZEPAM | COMPRESSED TABLET | ยกเลิก(1 มีนาคม 2559) |
+| 1A 199/26 | DIPAM 2 | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 208/27 | DIAZEPION | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 209/27 | DIAZEPION | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 210/27 | DIAZEPION | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 218/26 | DIAPAM 5 | COMPRESSED TABLET | ยกเลิก(31 มีนาคม 2559) |
+| 1A 231/27 | V DAY ZEPAM TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 232/27 | DIAZEPAM - 10 TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 242/27 | DIAZEPION | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 243/27 | DEAZEPION | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 244/27 | DEAZEPION | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 249/26 | DIAZON CAPSULES | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 262/26 | DIAZEPAM TABLETS | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 308/26 | DIAZEPAM TABLETS | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 426/26 | DIVOPAN | COMPRESSED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 45/27 | V. DAY ZEPAM | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 47/26 | DIAZEPAM TABLETS | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 48/26 | DIAZEPAM TABLETS | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 49/26 | DIAZEPAM TABLETS | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 50/26 | DIAZEPAM TABLETS | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 612/27 | DIAZA 2 MG. | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 724/27 | DIAZEPAM 2 | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 736/27 | DIAZEPAM - 2 TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 737/27 | DIAZEPAM - 5 TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

@@ -50,8 +50,8 @@ Aripiprazole เป็นยาต้านโรคจิตกลุ่มใ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9962 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 22 จาก 39 รายการ) |
+| จำนวนทะเบียนตำรับยา | 39 รายการ (ยังมีผล 22) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -100,7 +100,40 @@ Aripiprazole เป็นยาต้านโรคจิตกลุ่มใ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 243/69 (NG) | ARIPAZ 1 MG/ML | ORAL SOLUTION | คงอยู่ |
+| 1A 4/57 (NG) | APALIFE 10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 4/59 (NG) | APALIFE 5 | FILM - COATED TABLET | คงอยู่ |
+| 1A 5/57 (NG) | APALIFE 15 | FILM - COATED TABLET | คงอยู่ |
+| 1A 56/67 (NG) | ARIPAZ-5 | TABLET | คงอยู่ |
+| 1C 10/55 (N) | ABILIFY DISCMELT (ARIPIPRAZOLE) ORALLY DISINTEGRATING TABLET | ORALLY DISINTEGRATING TABLET | คงอยู่ |
+| 1C 10/55 (NC) | ABILIFY DISCMELT (ARIPIPRAZOLE) ORALLY DISINTEGRATING TABLET | ORALLY DISINTEGRATING TABLET | ปลด SMP(11 ตุลาคม 2560) |
+| 1C 15044/62 (NG) | AREPRA 10 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 15045/62 (NG) | AREPRA 15 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 16/52 (N) | ARIPIPRAZOLE ABILIFY(R) TABLETS 5 MG | COMPRESSED TABLET | คงอยู่ |
+| 1C 2/61 (N) | ABILIFY MAINTENA (ARIPIPRAZOLE) FOR EXTENDED RELEASE INJECTA | POWDER AND SOLVENT FOR SUSPENSION FOR IN | คงอยู่ |
+| 1C 2/61 (NC) | ABILIFY MAINTENA (ARIPIPRAZOLE) FOR EXTENDED RELEASE INJECTA | POWDER AND SOLVENT FOR SUSPENSION FOR IN | ปลด SMP(12 พฤษภาคม 2565) |
+| 1C 3/61 (N) | ABILIFY MAINTENA (ARIPIPRAZOLE) FOR EXTENDED RELEASE INJECTA | POWDER AND SOLVENT FOR SUSPENSION FOR IN | คงอยู่ |
+| 1C 3/61 (NC) | ABILIFY MAINTENA (ARIPIPRAZOLE) FOR EXTENDED RELEASE INJECTA | POWDER AND SOLVENT FOR SUSPENSION FOR IN | ปลด SMP(12 พฤษภาคม 2565) |
+| 1C 53/68 (NG) | BISOZA ODT 10 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 54/68 (NG) | BISOZA ODT 15 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 60/60 (N) | ABILIFY TABLET 2 MG (ARIPIPRAZOLE) | TABLET | คงอยู่ |
+| 1C 60/60 (NC) | ABILIFY TABLET 2 MG (ARIPIPRAZOLE) | TABLET | ปลด SMP(28 เมษายน 2565) |
+| 1C 86/52 (N) | ABILIFY ORAL SOLUTION | AQUEOUS SOLUTION | คงอยู่ |
+| 1C 86/52 (NC) | ABILIFY ORAL SOLUTION | AQUEOUS SOLUTION | ปลด SMP(28 พฤศจิกายน 2559) |
+| 1C 9/55 (N) | ABILIFY DISCMELT (ARIPIPRAZOLE) ORALLY DISINTEGRATING TABLET | ORALLY DISINTEGRATING TABLET | คงอยู่ |
+| 1C 9/55 (NC) | ABILIFY DISCMELT (ARIPIPRAZOLE) ORALLY DISINTEGRATING TABLET | ORALLY DISINTEGRATING TABLET | ปลด SMP(11 ตุลาคม 2560) |
+| 1A 36/59 (E) | ARIP - 5 | COMPRESSED TABLET | ยกเลิก |
+| 1B 3/59 (NC) | ABILIFY ORAL SOLUTION | AQUEOUS SOLUTION | ยกเลิก |
+| 1B 7/49 (N) | ABILIFY (ARIPIPRAZOLE) TABLETS 10 MG | COMPRESSED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1B 7/49 (NC) | ABILIFY (ARIPIPRAZOLE) TABLETS 10 MG | COMPRESSED TABLET | ยกเลิก(25 ตุลาคม 2550) |
+| 1B 8/49 (N) | ABILIFY (ARIPIPRAZOLE) TABLETS 15 MG | COMPRESSED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1B 8/49 (NC) | ABILIFY (ARIPIPRAZOLE) TABLETS 15 MG | COMPRESSED TABLET | ยกเลิก(25 ตุลาคม 2550) |
+| 1C 107/51 (N) | ABILIFY (ARIPIPRAZOLE) TABLETS 5 MG | COMPRESSED TABLET | ยกเลิก(28 มกราคม 2552) |
+| 1C 17/48 (NC) | ABILIFY (ARIPIPRAZOLE ) TABLETS 10 MG | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

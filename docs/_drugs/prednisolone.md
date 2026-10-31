@@ -50,8 +50,8 @@ Prednisolone เป็นยากลุ่มกลูโคคอร์ติ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผมร่วงเป็นหย่อม (Alopecia Areata) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 76 จาก 379 รายการ) |
+| จำนวนทะเบียนตำรับยา | 379 รายการ (ยังมีผล 76) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -80,7 +80,40 @@ Prednisolone เป็นยากลุ่มกลูโคคอร์ติ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1143/43 | PREDNISOLONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 1144/43 | PREDNISOLONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 138/30 | PREDNISOLONE TABLETS | TABLET | คงอยู่ |
+| 1A 143/44 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1438/27 | FORTISONE | TABLET | คงอยู่ |
+| 1A 147/28 | PREDNISOLONE 5 MG. | TABLET | คงอยู่ |
+| 1A 162/61 | PREDSIRUP 5 | SYRUP | คงอยู่ |
+| 1A 165/55 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1918/29 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1965/28 | PRESOGA | TABLET | คงอยู่ |
+| 1A 1973/28 | PREDNERSONE CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 1995/30 | PREDSOMED | TABLET | คงอยู่ |
+| 1A 2051/29 | PREDNISOLONE TABLETS | TABLET | คงอยู่ |
+| 1A 2116/28 | MINISOLONE | TABLET | คงอยู่ |
+| 1A 2124/30 | INF-OPH (EYE DROPS) | EYE DROPS, SUSPENSION | คงอยู่ |
+| 1A 215/29 | PREDNISOLONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 225/31 | PREDNISOLONE TABLETS | COATED TABLET | คงอยู่ |
+| 1A 234/56 | NISOLONE (Y) TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 238/55 | PREDCORTIN | COMPRESSED TABLET | คงอยู่ |
+| 1A 256/53 | PREDNISOLONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 2619/29 | PREDNISOLONE TABLETS | TABLET | คงอยู่ |
+| 1A 271/44 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 272/44 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 273/44 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 274/44 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 274/61 | PREDMAN FILM COATED TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 275/44 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 276/44 | PREDNISOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 281/55 | MEDSOLONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 30/67 (E) | PREDNISOLONE TABLETS | TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

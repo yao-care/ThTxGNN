@@ -50,8 +50,8 @@ Erythropoietin เดิมใช้รักษา **ภาวะโลหิ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขาดแอนติทรอมบินชนิดที่ 2 (Antithrombin Deficiency Type 2) |
 | คะแนนการทำนาย TxGNN | 0.9933 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 47 จาก 227 รายการ) |
+| จำนวนทะเบียนตำรับยา | 227 รายการ (ยังมีผล 47) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -81,7 +81,40 @@ Erythropoietin เดิมใช้รักษา **ภาวะโลหิ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/65 (NB) | HEMA-PLUS 4000 IU/ML | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1/68 (NB) | AIMAPEX 40000 | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 2/65 (NB) | HEMA-PLUS 40000 | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 3/65 (NB) | HEMA-PLUS 2000 IU/ML | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 4/65 (NB) | HEMA-PLUS | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 5/65 (NB) | HEMA-PLUS 2000 IU/0.5 ML | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 6/65 (NB) | AIMAPEX | SOLUTION FOR INJECTION | คงอยู่ |
+| 1B 1/59 (NB) | HEMA-PLUS 4000 | STERILE SOLUTION | คงอยู่ |
+| 1B 1/60 (B) | HEMA-PLUS 5000 (PREFILLED SYRINGE) | STERILE SOLUTION FOR INJECTION | คงอยู่ |
+| 1B 2/59 (NB) | HEMA - PLUS 4000 (Prefilled Syringe) | SOLUTION FOR INJECTION IN PRE-FILLED SYR | คงอยู่ |
+| 1B 3/59 (NB) | HEMA-PLUS 2000 | STERILE SOLUTION | คงอยู่ |
+| 1B 4/59 (NB) | HEMA-PLUS 10000 (PREFILLED SYRINGE) | STERILE SOLUTION | คงอยู่ |
+| 1B 4/63 (NB) | HEMA-PLUS 10000 | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 1/65 (B) | HYPERCRIT (1000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 11/65 (B) | HYPERCRIT (10000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 12/65 (B) | HYPERCRIT (2000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 14/62 (B) | HEMAX (1000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 141/51 | EPIAO(10000 IU/ML ) | STERILE SOLUTION | คงอยู่ |
+| 1C 15/62 (B) | HEMAX (3000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 16/62 (B) | HEMAX (4000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 17/62 (B) | HEMAX (10000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 18/62 (B) | HEMAX (2000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 2/53 (B) | EPOSIS | STERILE SOLUTION | คงอยู่ |
+| 1C 2/65 (B) | HYPERCRIT (3000 I.U.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 22/56 (B) | ESPOGEN INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1C 23/56 (B) | ESPOGEN INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1C 25/61 (NB) | EPOTIV PREFILLED INJ. | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 28/48 | EPOKINE-INJ 4000 IU | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1C 3/53 (B) | EPOSIS (PREFILLED SYRINGE INJECTION) | STERILE SOLUTION | คงอยู่ |
+| 1C 32/48 | EPOKINE PREFILLED - INJ 4000 IU | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ทะเบียนนี้ **ถูกยกเลิกแล้ว** ปัจจุบันจึงไม่มีทะเบียนที่ยังใช้งานในประเทศไทย
 

@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 13 จาก 27 รายการ) |
+| จำนวนทะเบียนตำรับยา | 27 รายการ (ยังมีผล 13) |
 | ข้อบ่งใช้ที่มีบันทึกไว้สำหรับยานี้ | 5 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 13 จาก 27 รายการ) |
 
 ## ข้อบ่งใช้ที่มีบันทึกไว้สำหรับยานี้
 
@@ -70,7 +70,35 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 107/63 (NG) | BRINIDIN 0.15% | EYE DROPS, SOLUTION | คงอยู่ |
+| 1A 42/64 (NG) | BRINIDIN 0.2% | EYE DROPS, SOLUTION | คงอยู่ |
+| 1A 95/63 (NG) | BRIMOPH | EYE DROPS, SOLUTION | คงอยู่ |
+| 1C 15053/65 (NG) | BRIZAGAN | EYE DROPS, SOLUTION | คงอยู่ |
+| 1C 17/55 (N) | ALPHAGAN | LIQUID OPHTHALMIC | คงอยู่ |
+| 1C 399/69 (NG) | P BRIMO | EYE DROPS, SOLUTION | คงอยู่ |
+| 1C 52/55 (N) | ALPHAGAN P | LIQUID OPHTHALMIC | คงอยู่ |
+| 1C 84/65 (NG) | - | EYE DROPS, SOLUTION | คงอยู่ |
+| 1C 91/63 (NC) | ALPHAGAN P 0.1% | EYE DROPS, SOLUTION | คงอยู่ |
+| 2C 11/67 (NC) | GLAALPHA COMBINATION OPHTHALMIC SOLUTION | EYE DROPS, SOLUTION | คงอยู่ |
+| 2C 23/60 (N) | SIMBRINZA (EYE DROPS, SUSPENSION) | EYE DROPS, SUSPENSION | คงอยู่ |
+| 2C 23/60 (NC) | SIMBRINZA (EYE DROPS, SUSPENSION) | EYE DROPS, SUSPENSION | ปลด SMP(1 กุมภาพันธ์ 2562) |
+| 2C 35/55 (N) | COMBIGAN (EYE DROPS) | LIQUID OPHTHALMIC & STERI | คงอยู่ |
+| 1A 19/61 (NG) | BRIMO EYEDROP | LIQUID OPHTHALMIC | ยกเลิก(19 กุมภาพันธ์ 2563) |
+| 1A 227/63 | BRINIDIN 0.15% | EYE DROPS, SOLUTION | ยกเลิก |
+| 1A 8/63 (NG) | BRINIDIN | EYE DROPS, SOLUTION | ยกเลิก(17 ธันวาคม 2563) |
+| 1C 102/60 (NG) | BRIMONIDINE TARTRATE (OPHTHALMIC SOLUTION 0.2%) | EYE DROPS, SOLUTION | ยกเลิก |
+| 1C 16/57 (NG) | BRIMO-MAC | LIQUID OPHTHALMIC | ยกเลิก(29 ตุลาคม 2562) |
+| 1C 171/41 (N) | ALPHAGAN | LIQUID OPHTHALMIC | ยกเลิก(3 เมษายน 2549) |
+| 1C 171/41 (NC) | ALPHAGAN | LIQUID OPHTHALMIC | ยกเลิก(2 พฤศจิกายน 2543) |
+| 1C 3/49 (NG) | BRIMONIDINE TARTRATE (OPHTHALMIC SOLUTION 0.2 %) | LIQUID OPHTHALMIC | ยกเลิก(6 ธันวาคม 2560) |
+| 1C 58/62 (NG) | BRIMO-MAC | EYE DROPS, SOLUTION | ยกเลิก |
+| 1C 75/45 (N) | ALPHAGAN P | LIQUID OPHTHALMIC | ยกเลิก(30 พฤษภาคม 2555) |
+| 1C 99/44 (N) | ALPHAGAN | LIQUID OPHTHALMIC | ยกเลิก(22 มีนาคม 2555) |
+| 2C 27/50 (N) | COMBIGAN (EYE DROPS) | LIQUID OPHTHALMIC | ยกเลิก(25 มิถุนายน 2555) |
+| 2C 27/50 (NC) | COMBIGAN (EYE DROPS) | LIQUID OPHTHALMIC | ยกเลิก(19 สิงหาคม 2554) |
+| 2C 35/59 (NC) | SIMBRINZA (EYE DROPS, SUSPENSION) | STERILE SUSPENSION | ยกเลิก(29 สิงหาคม 2560) |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

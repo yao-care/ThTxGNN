@@ -50,8 +50,8 @@ Clotrimazole เป็นยาต้านเชื้อรากลุ่ม�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | สิวอักเสบ (acne (disease)) |
 | คะแนนการทำนาย TxGNN | 0.9986 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 142 จาก 433 รายการ) |
+| จำนวนทะเบียนตำรับยา | 433 รายการ (ยังมีผล 142) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 หมายเหตุเรื่องระดับหลักฐาน: การทดลองเดียวที่พบ (NCT01244256) ศึกษายาสูตรผสม clotrimazole + gentamicin + beclomethasone ในภาวะผิวหนังอักเสบติดเชื้อ ไม่แยกผลของ clotrimazole และไม่มีผลรายงาน จึงไม่ถือว่าเป็นการศึกษาสิวโดยตรงที่ยืนยันได้ ระดับหลักฐานจึงเป็น L5
@@ -70,7 +70,40 @@ Clotrimazole เป็นยาต้านเชื้อรากลุ่ม�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 100/64 | CANDINOX CREAM | CREAM | คงอยู่ |
+| 1A 100/66 | CANDINAS VAGINAL TABLET | VAGINAL TABLET | คงอยู่ |
+| 1A 1000/30 | CLOMAZ | VAGINAL TABLET | คงอยู่ |
+| 1A 101/62 | CANASONE | VAGINAL TABLET | คงอยู่ |
+| 1A 1052/40 | CANAZOL LOZENGES | LOZENGE/TROCHE | คงอยู่ |
+| 1A 1067/40 | CLOMAZOL VAGINAL TABLETS | VAGINAL TABLET | คงอยู่ |
+| 1A 1092/40 | CANAZOL VAGINAL TABLETS | VAGINAL TABLET | คงอยู่ |
+| 1A 11/45 | GYNOSTEN CREAM | CREAM | คงอยู่ |
+| 1A 11/51 | STARDA SORD | VAGINAL TABLET | คงอยู่ |
+| 1A 1134/44 | FUNGICON CREAM | CREAM | คงอยู่ |
+| 1A 1139/31 | MYCOZOLE CREAM | CREAM | คงอยู่ |
+| 1A 1160/44 | GYNOSTEN 500 | VAGINAL TABLET | คงอยู่ |
+| 1A 118/37 | COTIDERM CREAM | CREAM | คงอยู่ |
+| 1A 119/52 | STARDA VAGINAL-500 | VAGINAL TABLET | คงอยู่ |
+| 1A 119/57 | KENET - 100 | VAGINAL TABLET | คงอยู่ |
+| 1A 1198/29 | CANDINAS CREAM | CREAM | คงอยู่ |
+| 1A 124/47 | MYKODERM | POWDER | คงอยู่ |
+| 1A 13/67 | CANDINAS 500 VAGINAL TABLET | VAGINAL TABLET | คงอยู่ |
+| 1A 136/34 | CANDEX CREAM | CREAM | คงอยู่ |
+| 1A 136/61 | VAMAZOLE | VAGINAL TABLET | คงอยู่ |
+| 1A 1378/30 | DERMAZOLE CREAM | CREAM | คงอยู่ |
+| 1A 139/45 | DERMIZOLE 500 MG VAGINAL TABLET | VAGINAL TABLET | คงอยู่ |
+| 1A 139/57 | KENET 500 | VAGINAL TABLET | คงอยู่ |
+| 1A 155/48 | CANASONE | CREAM | คงอยู่ |
+| 1A 1647/29 | COTREN VAGINAL TABLETS | VAGINAL TABLET | คงอยู่ |
+| 1A 1669/27 | PROMAZOLE CREAM | CREAM | คงอยู่ |
+| 1A 173/52 | TENATEN | VAGINAL TABLET | คงอยู่ |
+| 1A 1791/28 | VANESTEN | CREAM | คงอยู่ |
+| 1A 181/62 | DERMIZOLE CREAM | CREAM | คงอยู่ |
+| 1A 1838/29 | KLAMACIN | VAGINAL TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

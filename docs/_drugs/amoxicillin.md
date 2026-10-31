@@ -48,8 +48,8 @@ Amoxicillin เป็นยาปฏิชีวนะกลุ่มเบต�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินโพลีโคลนอล |
 | คะแนนการทำนาย TxGNN | 0.9963 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 317 จาก 1537 รายการ) |
+| จำนวนทะเบียนตำรับยา | 1537 รายการ (ยังมีผล 317) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Amoxicillin เป็นยาปฏิชีวนะกลุ่มเบต�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/54 | AURAMOX 500 | CAPSULE HARD | คงอยู่ |
+| 1A 1004/30 | IBIAMOX (250 MG/5 ML ORAL SUSPENSION) | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 104/64 | COAMOX 125 ORANGE | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 1047/43 | COAMOX 125 DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 105/55 | MOXXO FORTE DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 105/64 | COAMOX 250 ORANGE | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 11/65 | AMOXY DRY SYRUP 250 | ORAL POWDER | คงอยู่ |
+| 1A 110/41 | AMOXYCILLIN 500 | CAPSULE, HARD | คงอยู่ |
+| 1A 110/59 | DISPERLIN | COMPRESSED TABLET | คงอยู่ |
+| 1A 1127/31 | Clinimox-125 | POWDER FOR SYRUP | คงอยู่ |
+| 1A 113/61 | MOXI-250 | CAPSULE, HARD | คงอยู่ |
+| 1A 114/61 | MOXI-500 | CAPSULE, HARD | คงอยู่ |
+| 1A 120/41 | AMOXY M.H. | CAPSULE HARD | คงอยู่ |
+| 1A 125/65 | MISSY DRY SYRUP | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 1323/30 | MOXCILLIN CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 137/64 | Amoxy M.H. Capsule | CAPSULE, HARD | คงอยู่ |
+| 1A 138/64 | Amoxy M.H. Dry Syrup | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 139/64 | Amoxy M.H. Dry Syrup | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 140/57 | SANOMOX - P 500 | CAPSULE HARD | คงอยู่ |
+| 1A 141/46 | T.V. MOX 500 | CAPSULE, HARD | คงอยู่ |
+| 1A 141/57 | CELIMOX 500 PINK | CAPSULE HARD | คงอยู่ |
+| 1A 143/46 | T.V. MOX 500 | CAPSULE, HARD | คงอยู่ |
+| 1A 144/48 | AMOXY RX 500 | CAPSULE, HARD | คงอยู่ |
+| 1A 145/64 | MANMOX CAP | CAPSULE, HARD | คงอยู่ |
+| 1A 152/54 | URAMOX | CAPSULE HARD | คงอยู่ |
+| 1A 153/62 | S-MOX 125 DRY SYRUP | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 157/48 | STARMOX 875 | FILM - COATED TABLET | คงอยู่ |
+| 1A 157/57 | MOXIC | FILM - COATED TABLET | คงอยู่ |
+| 1A 159/48 | VIMOXILLIN 875 | FILM - COATED TABLET | คงอยู่ |
+| 1A 162/48 | STARMOX 250 | FILM - COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

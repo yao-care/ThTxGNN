@@ -50,8 +50,8 @@ Isosorbide dinitrate เป็นยาในกลุ่มไนเตรต �
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะผมร่วง |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 10 จาก 121 รายการ) |
+| จำนวนทะเบียนตำรับยา | 121 รายการ (ยังมีผล 10) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Isosorbide dinitrate เป็นยาในกลุ่มไนเตรต �
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 120/57 | ISOBIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 2030/30 | ISOBINATE | TABLET | คงอยู่ |
+| 1A 228/49 | ISOSORB | COMPRESSED TABLET | คงอยู่ |
+| 1A 330/41 | ISOTRATE | COMPRESSED TABLET | คงอยู่ |
+| 1A 442/45 | ISOSORBIDE DINITRATE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 592/42 | HARTSORB (10 MG TABLET) | COMPRESSED TABLET | คงอยู่ |
+| 1A 593/42 | HARTSORB SUBLINGUAL | COMPRESSED TABLET | คงอยู่ |
+| 1A 594/42 | HARTSORB (30 MG TABLET) | COMPRESSED TABLET | คงอยู่ |
+| 1A 64/56 | CORODIL | COMPRESSED TABLET | คงอยู่ |
+| 1C 4/52 | ISOREM 5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 1070/29 | IZO | COMPRESSED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 1092/41 | ANGITRIT 5 MG | COMPRESSED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 1093/41 | ANGITRIT | COMPRESSED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 1108/44 | NITRODIL 10 MG TABLET | COMPRESSED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 1250/30 | DSORDIL (TABLETS 10 MG.) | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 141/65 | NITRODIL 10 MG TABLET | TABLET | ยกเลิก |
+| 1A 143/38 | ISCARD | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 157/59 | IZO | COMPRESSED TABLET | ยกเลิก |
+| 1A 169/40 | ISCARD | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 18/35 | ISOTRATE 10 MG | COMPRESSED TABLET | ยกเลิก(24 สิงหาคม 2552) |
+| 1A 198/37 | ISORGIN-10 | COMPRESSED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+| 1A 20/41 | APODIN | COMPRESSED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 2025/29 | ISORBIDE | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 209/52 | ISOBIDE-STAR | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 224/60 | ISOBIDE - STAR | TABLET | ยกเลิก(10 มกราคม 2565) |
+| 1A 23/65 | ISOBIDE - STAR | TABLET | รอตรวจสอบสถานะ |
+| 1A 270/61 | NITRODIL 10 MG TABLET | TABLET | ยกเลิก(8 มีนาคม 2565) |
+| 1A 293/34 | ISOKET 5 | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 294/65 | SORKART | TABLET | ยกเลิก |
+| 1A 324/56 | ISCARD | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

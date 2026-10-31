@@ -51,8 +51,8 @@ Tenofovir เป็นยาต้านไวรัสกลุ่มนิว�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian Immunodeficiency Virus infection) |
 | คะแนนการทำนาย TxGNN | 0.9996 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 42 จาก 59 รายการ) |
+| จำนวนทะเบียนตำรับยา | 59 รายการ (ยังมีผล 42) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -94,7 +94,40 @@ SIV เป็นไวรัสกลุ่มเลนติไวรัสท�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 31/66 (NG) | TENO-AF (25 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 32/61 (NG) | FORVIC 300 | FILM - COATED TABLET | คงอยู่ |
+| 1A 41/60 (NG) | TENEVIR | FILM - COATED TABLET | คงอยู่ |
+| 1C 15061/61 (N) | VEMLIDY | FILM-COATED TABLET | คงอยู่ |
+| 1C 15061/61 (NC) | VEMLIDY | FILM-COATED TABLET | ปลด SMP(31 มีนาคม 2565) |
+| 1C 28/66 (NG) | TAFNEXT | FILM-COATED TABLET | คงอยู่ |
+| 1C 29/62 (NG) | MYTAFF | FILM-COATED TABLET | คงอยู่ |
+| 1C 5/56 (NG) | TENOF | FILM - COATED TABLET | คงอยู่ |
+| 1C 53/62 (NG) | TAFNAT | FILM-COATED TABLET | คงอยู่ |
+| 1C 59/53 (NG) | RICOVIR | FILM - COATED TABLET | คงอยู่ |
+| 1C 85/51 (NC) | VIREAD TABLETS | FILM - COATED TABLET | ปลด SMP(31 สิงหาคม 2555) |
+| 2A 1/66 (NC) | DALAVIR | FILM-COATED TABLET | คงอยู่ |
+| 2A 1/67 (NC) | TEDAVIR | FILM-COATED TABLET | คงอยู่ |
+| 2A 3/67 (NG) | TAF-EM | FILM-COATED TABLET | คงอยู่ |
+| 2A 4/67 (NG) | TENO - EMTRI | FILM-COATED TABLET | คงอยู่ |
+| 2A 5/56 (NG) | TENO-EM | FILM - COATED TABLET | คงอยู่ |
+| 2C 1/64 (NC) | KOCITAF | FILM-COATED TABLET | คงอยู่ |
+| 2C 1/68 (NG) | EMTRICITABINE AND TENOFOVIR ALAFENAMIDE TABLETS 200 MG/ 25 M | FILM-COATED TABLET | คงอยู่ |
+| 2C 12/68 (NG) | TAFNEXT-EM | FILM-COATED TABLET | คงอยู่ |
+| 2C 15013/61 (NC) | GENVOYA | FILM-COATED TABLET | ปลด SMP(15 มีนาคม 2566) |
+| 2C 15147/62 (NC) | DESCOVY (200/25 MG) | FILM-COATED TABLET | คงอยู่ |
+| 2C 15148/62 (NC) | BIKTARVY | FILM-COATED TABLET | คงอยู่ |
+| 2C 16/67 (NG) | DOLUTEGRAVIR, LAMIVUDINE AND TENOFOVIR DISOPROXIL FUMARATE T | FILM-COATED TABLET | คงอยู่ |
+| 2C 196/69 (NG) | KOVATRAXX | FILM-COATED TABLET | คงอยู่ |
+| 2C 2/54 (NG) | RICOVIR-EM | FILM - COATED TABLET | คงอยู่ |
+| 2C 20/62 (NC) | ACRIPTEGA | FILM-COATED TABLET | คงอยู่ |
+| 2C 28/51 (NC) | TRUVADA TABLETS | FILM - COATED TABLET | ปลด SMP(29 พฤษภาคม 2557) |
+| 2C 28/58 (NC) | STRIBILD | FILM - COATED TABLET | ปลด SMP(20 ธันวาคม 2561) |
+| 2C 3/63 (NG) | MACTRIVIR | FILM-COATED TABLET | คงอยู่ |
+| 2C 388/69 (NG) | LANOGRAV | FILM-COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ทะเบียนนี้มีสถานะ **ยกเลิกแล้ว** ปัจจุบันจึงไม่มีทะเบียนยาเดี่ยวที่ยังใช้ได้ในประเทศไทยตามข้อมูลที่รวบรวมไว้
 

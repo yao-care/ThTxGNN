@@ -50,8 +50,8 @@ Olanzapine เดิมใช้รักษาโรคจิตเภทแล
 | ข้อบ่งใช้ใหม่ที่ทำนาย | benign paroxysmal torticollis of infancy |
 | คะแนนการทำนาย TxGNN | 0.9954 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 15 จาก 31 รายการ) |
+| จำนวนทะเบียนตำรับยา | 31 รายการ (ยังมีผล 15) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -78,7 +78,40 @@ Olanzapine เดิมใช้รักษาโรคจิตเภทแล
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 23/53 (NG) | OLAPIN-10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 4/65 (NG) | PILANZ ODT (5 MG TABLET) | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1A 45/54 (NG) | OLAPIN-5 | FILM - COATED TABLET | คงอยู่ |
+| 1A 5/65 (NG) | PILANZ ODT (10 MG TABLET) | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1A 9/57 (NG) | OLANZA | FILM - COATED TABLET | คงอยู่ |
+| 1C 143/51 (NC) | ZYPREXA ZYDIS (5 MG) | ORODISPERSIBLE TABLET | ปลด SMP(27 ธันวาคม 2555) |
+| 1C 144/51 (NC) | ZYPREXA ZYDIS (10 MG) | ORODISPERSIBLE TABLET | ปลด SMP(27 ธันวาคม 2555) |
+| 1C 25/66 (NG) | TOLANZ 5 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 26/66 (NG) | TOLANZ 10 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 55/65 (NG) | OZAPEZ® 5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 64/63 (N) | ZYPREXA ZYDIS (5 MG) | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 65/63 (N) | ZYPREXA ZYDIS (10 MG) | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 85/65 (NG) | OZAPEZ 10 | FILM-COATED TABLET | คงอยู่ |
+| 1C 89/67 (NG) | OZAPINE ODT 5 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 90/67 (NG) | OZAPINE ODT 10 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1A 36/64 (NG) | ZOLAN GPO (10 MG) | ORODISPERSIBLE TABLET | รอตรวจสอบสถานะ |
+| 1A 37/64 (NG) | ZOLAN GPO (5 MG) | ORODISPERSIBLE TABLET | รอตรวจสอบสถานะ |
+| 1C 107/60 (NG) | OLEXA ODT (10 MG) | ORALLY DISINTEGRATING TABLET | ยกเลิก |
+| 1C 12/46 (N) | ZYPREXA INTRAMUSCULAR | STERILE POWDER | ยกเลิก(26 กันยายน 2559) |
+| 1C 12/46 (NC) | ZYPREXA INTRAMUSCULAR | STERILE POWDER | ยกเลิก(22 กรกฎาคม 2552) |
+| 1C 12/51 (N) | ZYPREXA | FILM - COATED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1C 13/51 (N) | ZYPREXA | FILM - COATED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1C 143/51 (N) | ZYPREXA ZYDIS (5 MG) | ORODISPERSIBLE TABLET | ยกเลิก(8 กรกฎาคม 2563) |
+| 1C 144/51 (N) | ZYPREXA ZYDIS (10 MG) | ORODISPERSIBLE TABLET | ยกเลิก(8 กรกฎาคม 2563) |
+| 1C 19/41 (N) | ZYPREXA | FILM - COATED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1C 19/41 (NC) | ZYPREXA | FILM - COATED TABLET | ยกเลิก(9 ตุลาคม 2543) |
+| 1C 20/41 (N) | ZYPREXA | FILM - COATED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1C 20/41 (NC) | ZYPREXA | FILM - COATED TABLET | ยกเลิก(9 ตุลาคม 2543) |
+| 1C 21/41 (N) | ZYPREXA | FILM - COATED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1C 21/41 (NC) | ZYPREXA TM (10.0 MG.) | FILM - COATED TABLET | ยกเลิก(9 ตุลาคม 2543) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -50,8 +50,8 @@ Tadalafil เดิมใช้รักษาปัญหาการแข็�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis congenita) |
 | คะแนนการทำนาย TxGNN | 0.9998 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 33 รายการ) |
+| จำนวนทะเบียนตำรับยา | 33 รายการ (ยังมีผล 9) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Tadalafil เดิมใช้รักษาปัญหาการแข็�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 15181/65 (NG) | TALAFIL-5 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15200/65 (NG) | TALAFIL-10 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15203/65 (NG) | TALAFIL-20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 63/67 (NG) | CASEY 5 | FILM-COATED TABLET | คงอยู่ |
+| 1C 25/52 (NC) | CIALIS (5 MG) | FILM - COATED TABLET | ปลด SMP(28 ธันวาคม 2555) |
+| 1C 28/63 (N) | CIALIS (5 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1C 30/63 (N) | CIALIS (20MG) | FILM-COATED TABLET | คงอยู่ |
+| 2C 1/68 (NC) | OPSYNVI (10MG/40MG) | FILM-COATED TABLET | คงอยู่ |
+| 2C 2/68 (NC) | OPSYNVI (10MG/20MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 11/65 (E) | ACTILIS 5 | CAPSULE, SOFT | ยกเลิก |
+| 1A 12/65 (E) | ACTILIS 10 | CAPSULE, SOFT | ยกเลิก |
+| 1A 13/65 (E) | ACTILIS 20 | CAPSULE, SOFT | ยกเลิก |
+| 1A 15135/64 (NG) | TAFIL 5 | FILM-COATED TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 15136/64 (NG) | TAFIL 10 | FILM-COATED TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 15137/64 (NG) | TAFIL 20 | FILM-COATED TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 15209/65 (NG) | TAFIL 5 | FILM-COATED TABLET | ยกเลิก |
+| 1A 15210/65 (NG) | TAFIL 10 | FILM-COATED TABLET | ยกเลิก |
+| 1A 15211/65 (NG) | TAFIL 20 | FILM-COATED TABLET | ยกเลิก |
+| 1A 40/59 (E) | TALAFIL - 10 | FILM - COATED TABLET | ยกเลิก |
+| 1A 53/63 (NG) | TALAFIL-5 | FILM-COATED TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 54/63 (NG) | TALAFIL-10 | FILM-COATED TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 55/63 (NG) | TALAFIL-20 | FILM-COATED TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 8/59 (E) | TALAFIL - 5 | FILM - COATED TABLET | ยกเลิก |
+| 1A 9/59 (E) | TALAFIL - 20 | FILM - COATED TABLET | ยกเลิก |
+| 1C 25/52 (N) | CIALIS (5 MG) | FILM - COATED TABLET | ยกเลิก(3 เมษายน 2563) |
+| 1C 4/47 (N) | CIALIS (10 MG ) | FILM - COATED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1C 4/47 (NC) | CIALIS (10 MG ) | FILM - COATED TABLET | ยกเลิก(7 สิงหาคม 2552) |
+| 1C 41/51 (N) | CIALIS (10 MG ) | FILM - COATED TABLET | ยกเลิก(3 เมษายน 2563) |
+| 1C 41/51 (NC) | CIALIS (10 MG ) | FILM - COATED TABLET | ยกเลิก(7 สิงหาคม 2552) |
+| 1C 42/51 (N) | CIALIS (20MG) | FILM - COATED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

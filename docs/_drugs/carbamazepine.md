@@ -48,8 +48,8 @@ Carbamazepine เดิมใช้รักษาโรคลมชักแล
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เนื้องอกเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) |
 | คะแนนการทำนาย TxGNN | 1.0000 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 10 จาก 48 รายการ) |
+| จำนวนทะเบียนตำรับยา | 48 รายการ (ยังมีผล 10) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -79,7 +79,40 @@ Carbamazepine เดิมใช้รักษาโรคลมชักแล
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 104/62 | PANITOL TABLETS | TABLET | คงอยู่ |
+| 1A 452/38 | MAPEZINE (200 MG TABLET) | TABLET | คงอยู่ |
+| 1A 527/33 | CARMAPINE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 535/28 | ANTAFIT | TABLET | คงอยู่ |
+| 1C 127/58 | ZEPTOL CR 200 | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1C 128/58 | ZEPTOL CR 400 | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1C 266/42 | TEGRETOL CR 200 | CONTROLLED RELEASE TABLET | คงอยู่ |
+| 1C 285/42 | TEGRETOL CR 400 | CONTROLLED RELEASE TABLET | คงอยู่ |
+| 1C 37/42 | TEGRETOL 2% | ORAL SUSPENSION | คงอยู่ |
+| 1C 72/54 | TAVER | COMPRESSED TABLET | คงอยู่ |
+| 1A 101/52 | CARBA D-M 200 | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2561) |
+| 1A 105/62 | CABAMED | TABLET | ยกเลิก |
+| 1A 1134/40 | CARBAMIN | COMPRESSED TABLET | ยกเลิก(18 กันยายน 2556) |
+| 1A 148/40 | NORLEP 200 | COMPRESSED TABLET | ยกเลิก(27 ตุลาคม 2563) |
+| 1A 173/32 | PANITOL TABLETS | COMPRESSED TABLET | ยกเลิก(15 พฤษภาคม 2562) |
+| 1A 192/63 | C B Z TABLETS | TABLET | ยกเลิก |
+| 1A 194/31 | TRANZETOL | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 197/50 | REXEPINE | COMPRESSED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1A 197/63 | NORLEP 200 | TABLET | ยกเลิก |
+| 1A 1985/30 | CARBAPIN | COMPRESSED TABLET | รอตรวจสอบสถานะ |
+| 1A 2334/29 | CARPINE | COMPRESSED TABLET | ยกเลิก(5 กันยายน 2561) |
+| 1A 363/49 | PANTOL TABLET | COMPRESSED TABLET | รอตรวจสอบสถานะ |
+| 1A 401/36 | CONVALIN | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 413/41 | C B Z TABLETS | COMPRESSED TABLET | ยกเลิก(22 ตุลาคม 2563) |
+| 1A 438/56 | CABAMED | COMPRESSED TABLET | ยกเลิก(15 พฤษภาคม 2562) |
+| 1A 475/38 | CONVALIN | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1A 493/31 | NORLEP 200 | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 907/30 | CARZEPINE | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 908/31 | CARBAZENE | COMPRESSED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 928/40 | MAPEZINE | - | ยกเลิก(5 เมษายน 2545) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

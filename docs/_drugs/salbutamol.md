@@ -50,8 +50,8 @@ Salbutamol เป็นยากระตุ้นตัวรับเบต้
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis) |
 | คะแนนการทำนาย TxGNN | 1.0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 52 จาก 284 รายการ) |
+| จำนวนทะเบียนตำรับยา | 284 รายการ (ยังมีผล 52) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -80,7 +80,40 @@ Salbutamol เป็นยากระตุ้นตัวรับเบต้
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 106/59 | STARBUMOL | INHALER | คงอยู่ |
+| 1A 1148/28 | SALBUTAMOL | COMPRESSED TABLET | คงอยู่ |
+| 1A 1227/43 | SULBUTA - N 2.5 MG. | INHALER | คงอยู่ |
+| 1A 127/60 | RESPIMOL | INHALER | คงอยู่ |
+| 1A 1279/30 | SALMOL SYRUP | SYRUP | คงอยู่ |
+| 1A 144/27 | ANTOMOL SYRUP | SYRUP | คงอยู่ |
+| 1A 159/55 | VIOLIN | COMPRESSED TABLET | คงอยู่ |
+| 1A 161/56 | AEROTAMOL 100 MCG | INHALER | คงอยู่ |
+| 1A 164/64 | ASMASAL SDU | INHALATION SOLUTION | คงอยู่ |
+| 1A 176/37 | SALBUTAMOL | COMPRESSED TABLET | คงอยู่ |
+| 1A 176/47 | BRONCHOSOL SYRUP | SYRUP | คงอยู่ |
+| 1A 209/59 | KOPH-S | SYRUP | คงอยู่ |
+| 1A 2111/28 | CINTAMOL | TABLET | คงอยู่ |
+| 1A 222/55 | VENBUMED TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 233/49 | SALTALIN | COMPRESSED TABLET | คงอยู่ |
+| 1A 238/28 | SALBUSIAN SYRUP | SYRUP | คงอยู่ |
+| 1A 265/52 | SALDA INHALE | INHALER | คงอยู่ |
+| 1A 266/52 | SALDA FORTE INHALE | INHALER | คงอยู่ |
+| 1A 270/46 | VENTEROL (SYRUP) | SYRUP | คงอยู่ |
+| 1A 272/37 | CINTAMOL SYRUP | ORAL SOLUTION | คงอยู่ |
+| 1A 320/46 | VENTEROL SOLUTION | INHALER | คงอยู่ |
+| 1A 324/64 | BRONCHOLIN SYRUP | SYRUP | คงอยู่ |
+| 1A 33/53 | SABUMOL | SYRUP | คงอยู่ |
+| 1A 345/55 | VENBUMOL | COMPRESSED TABLET | คงอยู่ |
+| 1A 358/40 | SALBUTAMOL | COMPRESSED TABLET | คงอยู่ |
+| 1A 399/56 | KRESSVENT SYRUP | SYRUP | คงอยู่ |
+| 1A 405/27 | SALBUSIAN TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 41/50 | SULBUTA-N 5 MG | INHAIER | คงอยู่ |
+| 1A 426/50 | SALBUTANT SYRUP | SYRUP | คงอยู่ |
+| 1A 429/50 | SALBUTANT | COMPRESSED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

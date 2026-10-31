@@ -48,8 +48,8 @@ Doxycycline เป็นยาปฏิชีวนะกลุ่มเตต�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะเยื่อบุตาและกระจกตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9994 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 31 จาก 133 รายการ) |
+| จำนวนทะเบียนตำรับยา | 133 รายการ (ยังมีผล 31) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Doxycycline เป็นยาปฏิชีวนะกลุ่มเตต�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1010/41 | N.L DOXY CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 1252/30 | VIDOXCIN | CAPSULE HARD | คงอยู่ |
+| 1A 14/68 | DOXYLCAP | CAPSULE, HARD | คงอยู่ |
+| 1A 145/57 | DOXYTAB | FILM - COATED TABLET | คงอยู่ |
+| 1A 15/68 | DOXY H.K. | CAPSULE, HARD | คงอยู่ |
+| 1A 160/34 | DOXIMED | FILM-COATED TABLET | คงอยู่ |
+| 1A 2362/28 | DOXIN CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 2669/28 | SIADOCIN (100 MG CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 283/53 | POLICYCLINE TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 284/44 | DOXYMAN - 100 CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 348/64 | KRESSDOXY | CAPSULE, HARD | คงอยู่ |
+| 1A 370/65 | PONDOXCYCLINE CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 384/27 | DOXYCLINE | CAPSULE HARD | คงอยู่ |
+| 1A 393/29 | DOXIN | CAPSULE, HARD | คงอยู่ |
+| 1A 416/48 | CIN - DOXY | CAPSULE, HARD | คงอยู่ |
+| 1A 43/35 | POLICYCLINE 100 | CAPSULE, HARD | คงอยู่ |
+| 1A 470/43 | DOXY | CAPSULE HARD | คงอยู่ |
+| 1A 481/36 | DOXYCLATE | CAPSULE, HARD | คงอยู่ |
+| 1A 518/42 | VEEMYCIN | FILM - COATED TABLET | คงอยู่ |
+| 1A 521/36 | DOXIN ENTERIC COATED TABLETS | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 54/45 | Q - DOXYCAP CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 554/31 | DOXINE | CAPSULE, HARD | คงอยู่ |
+| 1A 57/44 | DOXYCOM 100 MG CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 595/40 | DOXYLCAP | CAPSULE HARD | คงอยู่ |
+| 1A 659/41 | CIN-DOXY | CAPSULE, HARD | คงอยู่ |
+| 1A 675/39 | DOXYCYCLINE CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 705/43 | Q - DOXYCAP CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 753/41 | N.L.DOXY | ENTERIC FILM COATED TABLET | คงอยู่ |
+| 1A 853/41 | MANODOXY | CAPSULE HARD | คงอยู่ |
+| 1A 88/51 | DOXY B.K. | CAPSULE HARD | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

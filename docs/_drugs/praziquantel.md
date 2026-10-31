@@ -46,8 +46,8 @@ predicted_indications: []
 | ข้อบ่งใช้ใหม่ที่โมเดลทำนาย | ไม่มี |
 | ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้ | 4 |
 | ระดับหลักฐาน | ไม่เกี่ยวข้อง |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 6 จาก 51 รายการ) |
+| จำนวนทะเบียนตำรับยา | 51 รายการ (ยังมีผล 6) |
 
 ## ข้อบ่งใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้
 
@@ -71,7 +71,40 @@ predicted_indications: []
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1236/31 | PRASIKON | FILM-COATED TABLET | คงอยู่ |
+| 1A 1357/29 | V DAY PRAZIDE | FILM-COATED TABLET | คงอยู่ |
+| 1A 15106/64 | Praza QT | FILM-COATED TABLET | คงอยู่ |
+| 1A 227/46 | OPTICIDE - FC | FILM - COATED TABLET | คงอยู่ |
+| 1A 376/58 | PRASIX | COMPRESSED TABLET | คงอยู่ |
+| 1A 901/42 | ZENTOZIDE | FILM - COATED TABLET | คงอยู่ |
+| 1A 1020/27 | PRAQUANTEL | FILM - COATED TABLET | ยกเลิก |
+| 1A 1099/27 | PRATEZ | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1133/30 | PRASIX | COMPRESSED TABLET | ยกเลิก(1 มีนาคม 2559) |
+| 1A 1142/44 | PRAZIQUANTEL TABLETS 600 MG | FILM - COATED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1A 1144/28 | PRAZITE TABLETS | COMPRESSED TABLET | ยกเลิก |
+| 1A 119/55 | K.TOTAB | FILM - COATED TABLET | ยกเลิก |
+| 1A 1199/27 | Z - QUEEN | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1199/28 | MEDTRILCIDE | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 1268/27 | SEQUANTEL 300 | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1269/27 | SEQUANTEL | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1278/30 | BRYMIDE | COMPRESSED TABLET | ยกเลิก |
+| 1A 1292/29 | FLUKACIDE | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1367/29 | PRAZIDE | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1498/28 | PRAZIQUANTEL TABLETS (FILM COATED TABLETS) | FILM - COATED TABLET | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 1620/28 | QUATRO | COMPRESSED TABLET | ยกเลิก(26 ธันวาคม 2543) |
+| 1A 1846/29 | KEMOCIDE | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1854/28 | PRATEL | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1913/28 | OPTICIDE | COMPRESSED TABLET | ยกเลิก(18 มีนาคม 2547) |
+| 1A 1936/28 | FLU-KE | ENTERIC FILM COAT | เพิกถอน(1 มกราคม 2522) |
+| 1A 2053/29 | ZIQUANCIDE | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 2119/28 | PRAMACIDE | LACQUER COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 2285/30 | MYCOTRICIDE | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 2405/28 | QUINTEL | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 241/63 | Z-QUEEN | FILM-COATED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

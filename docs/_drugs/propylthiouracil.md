@@ -49,8 +49,8 @@ Propylthiouracil เป็นยาต้านไทรอยด์ชนิด
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ของตัวรับฮอร์โมนไทรอยด์เบตา (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta) |
 | คะแนนการทำนาย TxGNN | 0.9966 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 5 จาก 17 รายการ) |
+| จำนวนทะเบียนตำรับยา | 17 รายการ (ยังมีผล 5) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -76,7 +76,25 @@ Propylthiouracil เป็นยาต้านไทรอยด์ชนิด
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1462/29 | PROPYLTHIOURACIL TABLETS | TABLET | คงอยู่ |
+| 1A 370/38 | PROPYL | TABLET | คงอยู่ |
+| 1A 67/51 | PYROID | COMPRESSED TABLET | คงอยู่ |
+| 1A 70/57 | P T U | COMPRESSED TABLET | คงอยู่ |
+| 1A 96/28 | SPS PROPYLTHIOURACIL | TABLET | คงอยู่ |
+| 1A 102/60 | THYROSTAT | TABLET | ยกเลิก |
+| 1A 138/43 | PROPYLTHIOURACIL TABLETS | COMPRESSED TABLET | ยกเลิก |
+| 1A 1558/28 | PROPYLTHIOURACIL TABLETS | COMPRESSED TABLET | ยกเลิก(25 มีนาคม 2559) |
+| 1A 1680/27 | P.T.U. TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 182/50 | PETEYU | COMPRESSED TABLET | ยกเลิก |
+| 1A 185/34 | P T U | COMPRESSED TABLET | ยกเลิก |
+| 1A 460/30 | PROPACIL | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 513/36 | URACIL | COMPRESSED TABLET | หมดอายุ |
+| 1A 524/34 | THYROSTAT | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 547/39 | P T U | COMPRESSED TABLET | ยกเลิก(27 มีนาคม 2552) |
+| 1C 147/28 | PROPACIL | COMPRESSED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+| 1C 467/29 | PROPYLTHIOURACIL TABLETS USP 50 MG. | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
 
 ## ความเป็นพิษต่อเซลล์
 

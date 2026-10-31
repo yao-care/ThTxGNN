@@ -54,8 +54,8 @@ Sertraline เดิมใช้รักษาโรคซึมเศร้า
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคบุคลิกภาพแบบหวาดระแวง (Paranoid Personality Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9993 |
 | ระดับหลักฐาน | L5 (ไม่มีการศึกษาใดศึกษาโรคนี้โดยตรง) |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 15 จาก 33 รายการ) |
+| จำนวนทะเบียนตำรับยา | 33 รายการ (ยังมีผล 15) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -109,7 +109,40 @@ TxGNN ให้คะแนน 0.9954 ซึ่งมีวรรณกรรม
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 12/51 (NG) | SERTRA | FILM - COATED TABLET | คงอยู่ |
+| 1A 13/53 (NG) | SERTRALINE GPO | FILM - COATED TABLET | คงอยู่ |
+| 1A 18/53 (NG) | ZOTALINE | FILM - COATED TABLET | คงอยู่ |
+| 1A 28/54 (NG) | STARIN (50 MG TABLET) | FILM - COATED TABLET | คงอยู่ |
+| 1A 31/57 (NG) | SELROTINE 50 MG TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 33/56 (NG) | SISALON 50 | FILM - COATED TABLET | คงอยู่ |
+| 1A 5/55 (NG) | SERTRALINE GPO (100 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 8/64 (NG) | SERTAN 50 | FILM-COATED TABLET | คงอยู่ |
+| 1C 17/63 (N) | ZOLOFT (TABLETS 50 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1C 18/63 (N) | ZOLOFT ( TABLETS 100 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1C 22/56 (NG) | SERLIN 50 | FILM - COATED TABLET | คงอยู่ |
+| 1C 33/60 (NG) | SERLIFT TABLETS 50 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 34/63 (N) | ZOLOFT (ODT 50 MG) | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 6/54 (NG) | SERTRALINE SANDOZ 50 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 62/59 (N) | SERTRALINE VIATRIS (TABLETS 50 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 13/64 (NG) | LAZON 50 | FILM-COATED TABLET | ยกเลิก |
+| 1A 17/55 (NG) | SERTAN 50 | FILM - COATED TABLET | ยกเลิก(9 กุมภาพันธ์ 2564) |
+| 1A 18/55 (NG) | LAZON 50 | FILM - COATED TABLET | ยกเลิก(18 กุมภาพันธ์ 2564) |
+| 1A 42/53 (NG) | ATSERLINE | FILM - COATED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1C 120/59 (N) | ZOLOFT (ODT 25 MG) | ORODISPERSIBLE TABLET | ยกเลิก(17 เมษายน 2563) |
+| 1C 121/59 (N) | ZOLOFT (ODT 50 MG) | ORODISPERSIBLE TABLET | ยกเลิก(16 เมษายน 2563) |
+| 1C 13/46 (NC) | ZOLOFT(20 MG/ML ORAL CONCENTRATE) | AQUEOUS SOLUTION | ยกเลิก(26 กุมภาพันธ์ 2557) |
+| 1C 139/47 (NC) | ZOLOFT (ORAL CONCENTRATE 20 MG/ML) | AQUEOUS SOLUTION | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 140/47 (NC) | ZOLOFT ( TABLETS 100 MG) | FILM - COATED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 153/47 (N) | ZOLOFT (TABLETS 50 MG) | FILM - COATED TABLET | ยกเลิก(25 มีนาคม 2563) |
+| 1C 2/51 (NG) | SERLIFT TABLETS 50 MG | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2560) |
+| 1C 35/63 (N) | ZOLOFT (ODT 25 MG) | ORODISPERSIBLE TABLET | ยกเลิก |
+| 1C 47/54 (N) | SERTRALINE PFIZER(TABLETS 50 MG) | FILM - COATED TABLET | ยกเลิก(26 กันยายน 2554) |
+| 1C 79/40 (N) | ZOLOFT (50 MG TABLET) | FILM - COATED TABLET | ยกเลิก(26 กุมภาพันธ์ 2557) |
+| 1C 80/40 (NC) | ZOLOFT (100 MG TABLATS) | FILM - COATED TABLET | ยกเลิก(26 กุมภาพันธ์ 2557) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

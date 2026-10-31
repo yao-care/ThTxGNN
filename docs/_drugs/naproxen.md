@@ -50,8 +50,8 @@ Naproxen เป็นยากลุ่ม NSAIDs ซึ่งเดิมใช
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome) |
 | คะแนนการทำนาย TxGNN | 0.9935 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 31 จาก 142 รายการ) |
+| จำนวนทะเบียนตำรับยา | 142 รายการ (ยังมีผล 31) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Naproxen เป็นยากลุ่ม NSAIDs ซึ่งเดิมใช
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1070/43 | NAPXA | CAPSULE HARD | คงอยู่ |
+| 1A 1270/28 | ARTHROLONE TABLETS | TABLET | คงอยู่ |
+| 1A 129/35 | ANNOXEN-S (275 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 1345/30 | NAXYN | TABLET | คงอยู่ |
+| 1A 1351/28 | NAPROXEN | TABLET | คงอยู่ |
+| 1A 136/38 | NAPROXAC | FILM-COATED TABLET | คงอยู่ |
+| 1A 144/32 | SOPROXEN | FILM-COATED TABLET | คงอยู่ |
+| 1A 148/42 | SYNFLEX | FILM - COATED TABLET | คงอยู่ |
+| 1A 171/38 | NAPROFLEX | FILM - COATED TABLET | คงอยู่ |
+| 1A 1727/30 | ANAPROXEN | CAPSULE, HARD | คงอยู่ |
+| 1A 177/55 | POXENCA | COMPRESSED TABLET | คงอยู่ |
+| 1A 1778/28 | NAPXON | CAPSULE, HARD | คงอยู่ |
+| 1A 184/42 | NAPROSYN LE | COMPRESSED TABLET | คงอยู่ |
+| 1A 188/51 | TENDILEX | FILM - COATED TABLET | คงอยู่ |
+| 1A 193/39 | NEOXEN | TABLET | คงอยู่ |
+| 1A 2087/30 | NASIN | TABLET | คงอยู่ |
+| 1A 211/49 | NAPROX L E | COMPRESSED TABLET | คงอยู่ |
+| 1A 211/58 | NAPROFAZT | CAPSULE SOFT | คงอยู่ |
+| 1A 2188/30 | PROXEN TABLETS | TABLET | คงอยู่ |
+| 1A 230/63 | BUPROXEN | TABLET | คงอยู่ |
+| 1A 250/26 | NAPROSIAN TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 30/48 | SONAP FORTE | FILM - COATED TABLET | คงอยู่ |
+| 1A 333/30 | PRODARIL-N | COMPRESSED TABLET | คงอยู่ |
+| 1A 399/32 | NAPROXEN 250 | TABLET | คงอยู่ |
+| 1A 421/50 | NAPROXEN 250 | COMPRESSED TABLET | คงอยู่ |
+| 1A 534/40 | NEOFLEX | FILM - COATED TABLET | คงอยู่ |
+| 1A 538/29 | NAPRONAC | TABLET | คงอยู่ |
+| 1A 594/40 | SONAP | FILM - COATED TABLET | คงอยู่ |
+| 1A 6/68 | Napxil | TABLET | คงอยู่ |
+| 1A 885/41 | TENDOSIN | COMPRESSED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

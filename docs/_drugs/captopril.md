@@ -48,8 +48,8 @@ Captopril เป็นยากลุ่มยับยั้งเอนไซ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) |
 | คะแนนการทำนาย TxGNN | 0.9928 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 25 รายการ) |
+| จำนวนทะเบียนตำรับยา | 25 รายการ (ยังมีผล 1) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -68,7 +68,33 @@ Captopril เป็นยากลุ่มยับยั้งเอนไซ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 172/37 | GEMZIL | TABLET | คงอยู่ |
+| 1A 1022/41 | SIOCAP | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2556) |
+| 1A 395/47 | SIOCAP | COMPRESSED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 7/42 | CAPTORACE | COMPRESSED TABLET | ยกเลิก |
+| 1C 130/34 | EPSITRON 25 | COMPRESSED TABLET | หมดอายุ |
+| 1C 131/34 | EPSITRON 50 | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 134/34 | TENSIOMIN | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1C 146/42 | CAPTOPRIL STADA 12.5 | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 147/42 | CAPTOPRIL STADA 25 | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 148/42 | CAPTOPRIL STADA 50 | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 180/47 | ANGIOPRIL-25 | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 192/46 | CEPORIN TABLETS 25 MG "S.T." (CAPTOPRIL) | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1C 28/53 | TAGUAR 12.5 | COMPRESSED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1C 29/53 | TAGUAR 25 | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2561) |
+| 1C 30/53 | TAGUAR 50 | COMPRESSED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1C 302/30 | TENSIOMIN | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 303/30 | TENSIOMIN | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 4/43 | CAPTOPRIL STADA 12.5 | COMPRESSED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1C 5/43 | CAPTOPRIL STADA 50 | COMPRESSED TABLET | ยกเลิก |
+| 1C 6/43 | CAPTOPRIL STADA 25 | COMPRESSED TABLET | ยกเลิก |
+| 1C 68/34 | TENSIOMIN | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 69/47 | CALATEC TABLETS 25 MG (CAPTOPRIL) | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 71/37 | CAPRIL TABLET 25 MG. | COMPRESSED TABLET | ยกเลิก |
+| 1C 73/37 | CAPRIL TABLET 12.5 MG | COMPRESSED TABLET | ยกเลิก |
+| 1C 9/52 | CAPOTEN (TABLET 25 MG) | COMPRESSED TABLET | ยกเลิก(21 กรกฎาคม 2552) |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

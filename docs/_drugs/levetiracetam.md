@@ -48,8 +48,8 @@ Levetiracetam เป็นยารับประทานในรูปแบ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขาดเอนไซม์เบตา-คีโตไทโอเลส (beta-ketothiolase deficiency) |
 | คะแนนการทำนาย TxGNN | 0.9990 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 54 จาก 74 รายการ) |
+| จำนวนทะเบียนตำรับยา | 74 รายการ (ยังมีผล 54) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -68,7 +68,40 @@ Levetiracetam เป็นยารับประทานในรูปแบ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 14/62 (NG) | MILLITAM 250 | FILM - COATED TABLET | คงอยู่ |
+| 1A 15/62 (NG) | MILLITAM 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 15007/66 (NG) | TIRATAM 500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15011/64 (NG) | LEVETAM (250 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 15012/64 (NG) | LEVETAM (500 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 15043/67 (NG) | EPILOG (ORAL SOLUTION) | ORAL SOLUTION | คงอยู่ |
+| 1A 15094/65 (NG) | VIVENSA IV | CONCENTRATE FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 15156/65 (NG) | LEVESY 250 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15197/63 (NG) | LEVACORE | CONCENTRATE FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 15198/65 (NG) | LEVESY 500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15275/65 (NG) | EPILOG-250 | FILM-COATED TABLET | คงอยู่ |
+| 1A 28/68 (NG) | LEVELLE 250 | FILM-COATED TABLET | คงอยู่ |
+| 1A 29/68 (NG) | LEVELLE 500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 32/63 (NG) | LEVETIRACETAM 500 MCP | FILM-COATED TABLET | คงอยู่ |
+| 1A 320/69 (NG) | KEFCETAM | CONCENTRATE FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 34/67 (NG) | LETTA | ORAL SOLUTION | คงอยู่ |
+| 1A 4/58 (NG) | LECETAM 250 | FILM - COATED TABLET | คงอยู่ |
+| 1A 403/69 (NG) | LEVETAM 500 MG/5 ML | CONCENTRATE FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 43/68 (NG) | LEPPA 250 | FILM-COATED TABLET | คงอยู่ |
+| 1A 437/69 (NG) | ZERATAM | CONCENTRATE FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 45/63 (NG) | LECETAM ORAL SOLUTION | ORAL SOLUTION | คงอยู่ |
+| 1A 5/58 (NG) | LECETAM 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 51/64 (NG) | EPILOG-500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 55/68 (NG) | LEPPA 500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 66/60 (NG) | LETTA 250 | FILM - COATED TABLET | คงอยู่ |
+| 1A 66/66 (NG) | EPITAM 500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 67/60 (NG) | LETTA 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 67/66 (NG) | EPITAM 250 | FILM-COATED TABLET | คงอยู่ |
+| 1A 7/62 (NG) | KELEP 500 | FILM - COATED TABLET | คงอยู่ |
+| 1C 108/52 (N) | KEPPRA (FOR INFUSION) | STERILE SOLUTION | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

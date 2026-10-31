@@ -49,8 +49,8 @@ Domperidone เป็นยาที่ออกฤทธิ์ปิดกั�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการขับปัสสาวะไม่เหมาะสมจากไตชนิดถ่ายทอด (nephrogenic syndrome of inappropriate antidiuresis) |
 | คะแนนการทำนาย TxGNN | 0.9908 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 57 จาก 222 รายการ) |
+| จำนวนทะเบียนตำรับยา | 222 รายการ (ยังมีผล 57) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -61,7 +61,40 @@ Domperidone เป็นยาที่ออกฤทธิ์ปิดกั�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/33 | DOMILIUM | ORAL SUSPENSION | คงอยู่ |
+| 1A 1052/41 | MORIDON SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 107/50 | MOLAX SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 1213/41 | MORIDON-M | COMPRESSED TABLET | คงอยู่ |
+| 1A 1293/30 | DOPERAN | TABLET | คงอยู่ |
+| 1A 180/55 | DOMPAR | COMPRESSED TABLET | คงอยู่ |
+| 1A 2027/30 | TOLIUM | TABLET | คงอยู่ |
+| 1A 2028/30 | DOLIUM | TABLET | คงอยู่ |
+| 1A 215/56 | AUTO SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 22/34 | PERIDIUM SUSPENSION | ORAL SUSPENSION | คงอยู่ |
+| 1A 2212/30 | DANY | TABLET | คงอยู่ |
+| 1A 2252/29 | DOMINOX TABLETS | TABLET | คงอยู่ |
+| 1A 2266/30 | MOLIDOM | TABLET | คงอยู่ |
+| 1A 227/41 | AVOMIT-M | COMPRESSED TABLET | คงอยู่ |
+| 1A 242/35 | DOMERDON TABLETS | TABLET | คงอยู่ |
+| 1A 245/40 | DOMPER-M | TABLET | คงอยู่ |
+| 1A 246/35 | DOMERDON SUSPENSION | ORAL SUSPENSION | คงอยู่ |
+| 1A 252/43 | DOMP - M | TABLET | คงอยู่ |
+| 1A 262/41 | MOCYDONE-M | COMPRESSED TABLET | คงอยู่ |
+| 1A 27/57 | VOMITIL - M | COMPRESSED TABLET | คงอยู่ |
+| 1A 275/58 | TEPERIUM | COMPRESSED TABLET | คงอยู่ |
+| 1A 278/38 | DOMILIUM-M | TABLET | คงอยู่ |
+| 1A 296/41 | DOMPERIDONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 297/41 | DOMPERIDONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 32/42 | MOVELIUM - M | COMPRESSED TABLET | คงอยู่ |
+| 1A 350/30 | MOTIDOM TABLETS | TABLET | คงอยู่ |
+| 1A 361/58 | TEPERIUM | SUSPENSION | คงอยู่ |
+| 1A 364/48 | DOMINOX (LIQUID SUSPENSION) | SUSPENSION | คงอยู่ |
+| 1A 369/55 | PERTIDOM-M | COMPRESSED TABLET | คงอยู่ |
+| 1A 383/43 | PERIDIUM | FILM - COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

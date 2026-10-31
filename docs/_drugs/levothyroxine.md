@@ -48,8 +48,8 @@ Levothyroxine เป็นฮอร์โมนไทรอยด์สังเ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะไตเจริญผิดปกติ/ไม่เจริญ (renal hypodysplasia/aplasia) |
 | คะแนนการทำนาย TxGNN | 0.9967 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 16 จาก 42 รายการ) |
+| จำนวนทะเบียนตำรับยา | 42 รายการ (ยังมีผล 16) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -75,7 +75,40 @@ Levothyroxine เป็นฮอร์โมนไทรอยด์สังเ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 319/64 | PONDTROXIN | TABLET | คงอยู่ |
+| 1A 375/43 | THYROSIT 50 MCG | TABLET | คงอยู่ |
+| 1A 426/31 | THYROSIT | TABLET | คงอยู่ |
+| 1A 84/57 | PATROXIN | COMPRESSED TABLET | คงอยู่ |
+| 1C 21/68 | EUTHYROX 25 UG | TABLET | คงอยู่ |
+| 1C 250/52 | ELTROXIN (TABLETS 100 MCG) | COMPRESSED TABLET | คงอยู่ |
+| 1C 28/65 | ROVEXINE-25 | TABLET | คงอยู่ |
+| 1C 29/65 | ROVEXINE-50 | TABLET | คงอยู่ |
+| 1C 30/65 | ROVEXINE-100 | TABLET | คงอยู่ |
+| 1C 53/62 | EUTHYROX 100 UG | TABLET | คงอยู่ |
+| 1C 54/62 | EUTHYROX 50 UG | TABLET | คงอยู่ |
+| 1A 177/51 | THYROXINE | SUGAR COATED TABLET | คงอยู่ |
+| 1A 23/48 | THYROXINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 887/43 | THYROXINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 888/43 | THYROXINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 951/41 | THYROXINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 128/45 | PATROXIN | COMPRESSED TABLET | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 264/48 | THYROTAB 50 | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 265/48 | THYROTAB 100 | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 467/50 | LEVOXCIN-G TABLETS | COMPRESSED TABLET | ยกเลิก(30 กันยายน 2562) |
+| 1A 469/50 | LEVOXCIN-R TABLETS | COMPRESSED TABLET | ยกเลิก(30 กันยายน 2562) |
+| 1A 476/50 | LEVOXCIN TABLETS | COMPRESSED TABLET | ยกเลิก |
+| 1C 165/36 | THYRAX DUOTAB | COMPRESSED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1C 177/30 | THYROXIN 0.1 MG. | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1C 224/44 | EUTHYROX 25 UG | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1C 225/44 | EUTHYROX 50 UG | COMPRESSED TABLET | ยกเลิก(18 ตุลาคม 2562) |
+| 1C 226/44 | EUTHYROX 100 UG | COMPRESSED TABLET | ยกเลิก(18 ตุลาคม 2562) |
+| 1C 227/44 | EUTHYROX 150 UG | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1C 246/47 | ELTROXIN (TABLETS 100 MCG) | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1C 3/37 | THYRAX DUOTAB | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -48,8 +48,8 @@ Phenytoin เดิมใช้รักษาโรคลมชัก โมเ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เนื้องอกของเส้นประสาทไทรเจมินัล (Trigeminal Nerve Neoplasm) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 15 จาก 47 รายการ) |
+| จำนวนทะเบียนตำรับยา | 47 รายการ (ยังมีผล 15) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -71,7 +71,40 @@ Phenytoin เดิมใช้รักษาโรคลมชัก โมเ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1294/41 | PEPSYTOIN-100 (PROMPT PHENYTOIN SODIUM CAPSULES) | CAPSULE HARD | คงอยู่ |
+| 1A 1657/27 | DITOIN | CAPSULE, HARD | คงอยู่ |
+| 1A 169/57 | FENTOIN | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 2180/29 | DITOIN INJECTION | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 36/40 | DILANTIN (INFATAB) | CHEWABLE TABLET | คงอยู่ |
+| 1A 36/60 | PHENIN | STERILE SOLUTION | คงอยู่ |
+| 1A 391/49 | UTOIN-250 | STERILE SOLUTION | คงอยู่ |
+| 1C 15053/64 | DILANTIN (READY-MIXED) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 170/42 | FENITOINA RUBIO | STERILE SOLUTION | คงอยู่ |
+| 1C 2/68 | TROYPHEN | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 24/63 | DILANTIN (125 MG/5ML ORAL SUSPENSION) | ORAL SUSPENSION | คงอยู่ |
+| 1C 27/64 | PHENTROY | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 29/63 | DILANTIN (CAPSULES 100 MG) | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 36/67 | PHARMANIAGA PHENYTOIN SODIUM 250MG/5ML INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 40/67 | PHENYTOIN TABLETS 100 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 1027/43 | EXTENDED PHENYTOIN SODIUM CAPSULES | EXTENDED RELEASE CAPSULE | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 1035/43 | PHENYTIN | CAPSULE HARD | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 1071/44 | MOLANTIN - 30 | CAPSULE HARD | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 1072/44 | MOLANTIN - 100 | CAPSULE HARD | ยกเลิก |
+| 1A 1303/27 | DENYL CAPSULES | CAPSULE HARD | ยกเลิก |
+| 1A 139/47 | UTOIN-250 | STERILE SOLUTION | ยกเลิก(7 กรกฎาคม 2557) |
+| 1A 145/56 | PHENYTIN | CAPSULE HARD | ยกเลิก(8 พฤษภาคม 2560) |
+| 1A 15093/64 | NEUTOIN | SOLUTION FOR INJECTION | ยกเลิก |
+| 1A 1915/28 | DITOIN (SUSPENSION) | SUSPENSION | ยกเลิก(19 กุมภาพันธ์ 2563) |
+| 1A 2313/28 | PHENYTOIN K.P. CAPSULES | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 2634/28 | DITOIN | CAPSULE HARD | ยกเลิก(15 สิงหาคม 2546) |
+| 1A 424/33 | PEPSYTOIN-100 | CAPSULE HARD | ยกเลิก(9 ธันวาคม 2545) |
+| 1A 46/61 (E) | NEUTOIN | STERILE SOLUTION | ยกเลิก |
+| 1A 625/43 | DANTOIN | CAPSULE HARD | ยกเลิก(25 กันยายน 2562) |
+| 1A 646/50 | PEPSYTOIN-100 (PROMPT PHENYTOIN SODIUM CAPSULE) | CAPSULE HARD | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

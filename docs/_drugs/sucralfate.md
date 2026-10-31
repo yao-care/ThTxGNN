@@ -48,8 +48,8 @@ Sucralfate เดิมใช้รักษาแผลในกระเพา
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (Duodenogastric Reflux) |
 | คะแนนการทำนาย TxGNN | 0.9937 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 6 จาก 47 รายการ) |
+| จำนวนทะเบียนตำรับยา | 47 รายการ (ยังมีผล 6) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 หมายเหตุเรื่องระดับหลักฐาน: ข้อมูลที่รวบรวมจัดระดับเป็น L2 โดยอิงงานวิจัยแบบสุ่ม 2 ฉบับ (ขนาดเล็ก) แต่ไม่ใช่ Phase 2/3 RCT ที่ลงทะเบียนและเสร็จสมบูรณ์ตามเกณฑ์เคร่งครัด จึงควรตีความอย่างระมัดระวัง
@@ -82,7 +82,40 @@ Sucralfate เดิมใช้รักษาแผลในกระเพา
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1212/41 | SUCRAL | COMPRESSED TABLET | คงอยู่ |
+| 1A 159/62 | ULCEFATE TABLET (500 MG) | TABLET | คงอยู่ |
+| 1A 160/62 | ULCEFATE TABLET (1 G) | TABLET | คงอยู่ |
+| 1A 314/52 | ULCEFATE CHEWABLE TABLET | CHEWABLE TABLET | คงอยู่ |
+| 1A 422/38 | SUCRAFEN | TABLET | คงอยู่ |
+| 1A 486/33 | ULCEFATE (SUSPENSION) | ORAL SUSPENSION | คงอยู่ |
+| 1A 130/59 | ZUFORTE | COMPRESSED TABLET | ยกเลิก |
+| 1A 137/34 | ULSANIC TABLET ( 1G ) | COMPRESSED TABLET | ยกเลิก(25 กรกฎาคม 2562) |
+| 1A 1653/27 | ULSANIC TABLETS (500 MG.) | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1672/30 | ULSANIC TABLET (500 MG) | COMPRESSED TABLET | ยกเลิก(25 กรกฎาคม 2562) |
+| 1A 1693/30 | ULSANIC TABLETS (1 GM.) | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1924/30 | SUCAFATE | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 201/34 | ZUFIVE | COMPRESSED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 202/34 | ZUFORTE | COMPRESSED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 22/59 | ZUFIVE | COMPRESSED TABLET | ยกเลิก |
+| 1A 233/31 | ULSANIC TABLETS (500 MG) | COMPRESSED TABLET | ยกเลิก(10 กรกฎาคม 2544) |
+| 1A 306/38 | ULSANIC - M | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 307/38 | ULSANIC -M | COMPRESSED COATING TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 317/38 | ULSANIC R (R) - M | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 338/43 | SUCRAL 1 GM | COMPRESSED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 356/38 | ULCEFATE-M | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 363/38 | ULCEFATE-M | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 367/38 | ULSANIC SUSPENSION | SUSPENSION | ยกเลิก(5 เมษายน 2545) |
+| 1A 369/38 | ULSANIC SUSPENSION | SUSPENSION | ยกเลิก(5 เมษายน 2545) |
+| 1A 387/38 | ULSANIC SUSPENSION | SUSPENSION | ยกเลิก(5 เมษายน 2545) |
+| 1A 388/38 | ULSANIC SUSPENSION | SUSPENSION | ยกเลิก(20 เมษายน 2559) |
+| 1A 422/41 | ULCRAFATE | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1A 449/39 | ULCEGRACE | COMPRESSED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 468/42 | SUFATE | COMPRESSED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 469/42 | SUFATE 1000 | COMPRESSED TABLET | ยกเลิก(25 กันยายน 2562) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

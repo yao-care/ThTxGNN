@@ -48,8 +48,8 @@ Rifampicin เป็นยาปฏิชีวนะที่เดิมใช
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบ (Conjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9995 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 18 จาก 258 รายการ) |
+| จำนวนทะเบียนตำรับยา | 258 รายการ (ยังมีผล 18) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -81,7 +81,40 @@ Rifampicin เป็นยาปฏิชีวนะที่เดิมใช
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 108/64 | RIFAMCIN-600 | COATED TABLET | คงอยู่ |
+| 1A 1117/29 | MANORIFCIN | CAPSULE, HARD | คงอยู่ |
+| 1A 132/32 | RIFAGEN 300 | CAPSULE HARD | คงอยู่ |
+| 1A 222/54 | RIFAMPICIN CAPSULES | - | คงอยู่ |
+| 1A 247/53 | RIFAMPICIN CAPSULES | - | คงอยู่ |
+| 1A 291/52 | RIFAM 450 MG TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 371/65 | RIFAMCIN-600 | FILM-COATED TABLET | คงอยู่ |
+| 1A 372/65 | RIFAMCIN-300 | CAPSULE, HARD | คงอยู่ |
+| 1A 375/65 | RIFAMCIN - 450 | CAPSULE, HARD | คงอยู่ |
+| 1A 801/30 | RIFAM (300 MG CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 95/56 | RIFAM 600 MG TABLET | FILM - COATED TABLET | คงอยู่ |
+| 2A 57/63 | LEPROMIX MB | TABLET AND CAPSULE, HARD | คงอยู่ |
+| 2C 13/65 | FORECOX - TRAC | FILM-COATED TABLET | คงอยู่ |
+| 1A 129/51 | RIFAMCIN -300 | - | คงอยู่ |
+| 1A 81/51 | RIFAMCIN-450 | - | คงอยู่ |
+| 2C 6/67 | RIFAMPIN, ISONIAZID, PYRAZINAMIDE AND ETHAMBUTOL HYDROCHLORI | FILM-COATED TABLET | คงอยู่ |
+| 2C 7/67 | RIFAMPIN, ISONIAZID AND ETHAMBUTOL HYDROCHLORIDE TABLET | FILM-COATED TABLET | คงอยู่ |
+| 2C 8/67 | RIFAMPIN 150 MG AND ISONIAZID 75 MG TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 1015/31 | RIFAMCIN TABLETS | FILM - COATED TABLET | ยกเลิก |
+| 1A 1048/31 | RIFAMCIN CAPSULES | CAPSULE HARD | ยกเลิก |
+| 1A 107/45 | TUFAM | CAPSULE HARD | ยกเลิก(3 เมษายน 2549) |
+| 1A 1070/28 | RIFAMCIN | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 113/33 | RIFAM (300 MG) | CAPSULE HARD | ยกเลิก(24 มีนาคม 2543) |
+| 1A 1158/29 | AMMIFAC -450 | SUGAR COATED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 1168/44 | RIFIN | CAPSULE HARD | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 1175/27 | AMMIFAC | CAPSULE HARD | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 1190/41 | RIMACTANE 300 | CAPSULE HARD | ยกเลิก(5 เมษายน 2545) |
+| 1A 1196/41 | RIMACTANE 450 | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1A 1197/41 | RIMACTANE 600 | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1A 1215/29 | RIFAMPICIN | CAPSULE HARD | ยกเลิก(28 กุมภาพันธ์ 2537) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

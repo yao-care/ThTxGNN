@@ -46,8 +46,8 @@ predicted_indications: []
 | ข้อบ่งใช้ใหม่ที่ทำนายได้ | ไม่มี |
 | การใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้ | 2 |
 | ระดับหลักฐาน | ไม่เกี่ยวข้อง |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 39 จาก 185 รายการ) |
+| จำนวนทะเบียนตำรับยา | 185 รายการ (ยังมีผล 39) |
 
 ## การใช้ที่ทราบซึ่งบันทึกไว้สำหรับยานี้
 
@@ -69,7 +69,40 @@ predicted_indications: []
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1090/41 | GENCIDAL CREAM | CREAM | คงอยู่ |
+| 1A 140/41 | GENTAMICIN SULFATE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 1443/29 | GENTA-OPH EYE DROPS | LIQUID OPHTHALMIC | คงอยู่ |
+| 1A 1517/28 | GENTAL EYE DROPS | EYE DROPS, SOLUTION | คงอยู่ |
+| 1A 1591/29 | GENTAL INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1696/28 | GRAMMIXIN (CREAM) | CREAM | คงอยู่ |
+| 1A 183/69 (E) | GENTAMICIN SULFATE OINTMENT 0.1% | OINTMENT | คงอยู่ |
+| 1A 186/44 | GENCIN CREAM | CREAM | คงอยู่ |
+| 1A 19/54 | GRAFADEX | STERILE LIQUID OPHTHALMIC | คงอยู่ |
+| 1A 2300/28 | GENTADERM CREAM | CREAM | คงอยู่ |
+| 1A 240/52 | MANOGENTA EYE DROP | STERILE SOLUTION | คงอยู่ |
+| 1A 2625/29 | GENTAMICIN SULFATE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 312/31 | GENTAMICIN INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 325/30 | GENTAMICIN SULPHATE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 337/33 | GENTADERM CREAM | CREAM | คงอยู่ |
+| 1A 339/36 | GENDA CREAM | CREAM | คงอยู่ |
+| 1A 396/30 | GETAMIC | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 456/27 | GENTAWIN INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 48/59 | GARAMYCIN* | CREAM | คงอยู่ |
+| 1A 501/43 | SKINFECT CREAM | CREAM | คงอยู่ |
+| 1A 579/56 | BACTAGEN CREAM | CREAM | คงอยู่ |
+| 1A 84/50 | GENTA (T.MAN) CREAM | CREAM | คงอยู่ |
+| 1A 86/29 | GENTREX CREAM | CREAM | คงอยู่ |
+| 1A 925/44 | UTO GENTAMICIN | - | คงอยู่ |
+| 2A 10/45 | BETAGEN | CREAM | คงอยู่ |
+| 2A 109/47 | BETROCOT | CREAM | คงอยู่ |
+| 2A 190/42 | DERMAHEU | CREAM | คงอยู่ |
+| 2A 259/30 | GENTAL-F CREAM | CREAM | คงอยู่ |
+| 2A 307/41 | PHOEBUS CREAM | CREAM | คงอยู่ |
+| 2A 33/50 | DERTEC | CREAM | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

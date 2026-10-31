@@ -54,8 +54,8 @@ Warfarin เป็นยาต้านการแข็งตัวของ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (Heparin cofactor 2 deficiency) |
 | คะแนนการทำนาย TxGNN | 0.9987 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 65 รายการ) |
+| จำนวนทะเบียนตำรับยา | 65 รายการ (ยังมีผล 9) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ข้อบ่งใช้ที่ทำนายอื่นๆ โดยสังเขป
@@ -127,7 +127,40 @@ Warfarin เป็นยาต้านการแข็งตัวของ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 131/59 | MAFORAN 1MG | COMPRESSED TABLET | คงอยู่ |
+| 1A 189/53 | MORFARIN-3 | COMPRESSED TABLET | คงอยู่ |
+| 1A 190/53 | MORFARIN-5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 81/46 | MAFORAN 2 MG | TABLET | คงอยู่ |
+| 1A 82/46 | MAFORAN 4 MG | TABLET | คงอยู่ |
+| 1A 97/46 | MAFORAN 3 MG | TABLET | คงอยู่ |
+| 1A 98/46 | MAFORAN 5 MG | TABLET | คงอยู่ |
+| 1C 10/64 | ORFARIN 3 MG. | TABLET | คงอยู่ |
+| 1C 11/64 | ORFARIN 5 MG. | TABLET | คงอยู่ |
+| 1A 1039/40 | SIFARIN TABLETS (5 MG) | - | ยกเลิก(8 ธันวาคม 2543) |
+| 1A 135/41 | SIFARIN TABLETS (1 MG.) | - | ยกเลิก(5 เมษายน 2545) |
+| 1A 219/49 | FARIN 5 MG. TABLET | COMPRESSED TABLET | ยกเลิก |
+| 1A 220/49 | FARIN 2 MG. TABLET | COMPRESSED TABLET | ยกเลิก |
+| 1A 233/59 | COGULAX-3K | COMPRESSED TABLET | ยกเลิก |
+| 1A 259/50 | TUFAM 1 | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1A 260/50 | TUFAM 2 | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1A 261/50 | TUFAM 3 | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2556) |
+| 1A 262/50 | TUFAM 4 | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 263/50 | TUFAM 5 | COMPRESSED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1A 267/33 | COGULAX - 5K | COMPRESSED TABLET | ยกเลิก |
+| 1A 268/33 | COGULAX - 2K | COMPRESSED TABLET | ยกเลิก |
+| 1A 28/61 | WARFARIN GPO (5 MG) | COMPRESSED TABLET | ยกเลิก |
+| 1A 32/46 | BEFARIN 2 | COMPRESSED TABLET | ยกเลิก |
+| 1A 33/46 | BEFARIN 4 | COMPRESSED TABLET | ยกเลิก |
+| 1A 362/45 | BEFARIN 3 | COMPRESSED TABLET | ยกเลิก |
+| 1A 396/45 | BEFARIN 5 | COMPRESSED TABLET | ยกเลิก |
+| 1A 442/41 | FARIN TABLETS (1 MG) | COMPRESSED TABLET | ยกเลิก(4 มิถุนายน 2545) |
+| 1A 443/41 | FARIN TABLETS (2 MG) | COMPRESSED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 444/41 | FARIN TABLETS (5 MG) | COMPRESSED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 447/46 | BEFARIN 1 | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

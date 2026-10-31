@@ -52,8 +52,8 @@ Indomethacin เป็นยากลุ่ม NSAIDs เดิมใช้บ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการข้อนิ้วสั้นร่วมกับนิ้วติดกัน (Brachydactyly-Syndactyly Syndrome) |
 | คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 44 จาก 281 รายการ) |
+| จำนวนทะเบียนตำรับยา | 281 รายการ (ยังมีผล 44) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -82,7 +82,40 @@ Indomethacin เป็นยากลุ่ม NSAIDs เดิมใช้บ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1017/43 | DOCINCAP | CAPSULE HARD | คงอยู่ |
+| 1A 11/54 | INDOHIM | CAPSULE HARD | คงอยู่ |
+| 1A 114/57 | INDOMETHACIN CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 129/50 | M-CIN | SPRAY | คงอยู่ |
+| 1A 1394/28 | INDO - TRUSTMAN CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 142/27 | ANDOCIT | CAPSULE HARD | คงอยู่ |
+| 1A 145/53 | BIOPHARM RESTZ SPRAY | SPRAY | คงอยู่ |
+| 1A 1617/27 | INMED | COATED TABLET | คงอยู่ |
+| 1A 18/39 | ZONE-MA FILM COATED TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 1816/28 | INDOMETHACIN | CAPSULE, HARD | คงอยู่ |
+| 1A 183/34 | INMED | FILM-COATED TABLET | คงอยู่ |
+| 1A 1918/30 | INDOMETHACIN CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 209/42 | INMED ORANGE | FILM - COATED TABLET | คงอยู่ |
+| 1A 214/29 | INDOMETHACIN | CAPSULE, HARD | คงอยู่ |
+| 1A 22/29 | INDOMED | COATED TABLET | คงอยู่ |
+| 1A 247/29 | INCOSIT | CAPSULE, HARD | คงอยู่ |
+| 1A 266/58 | INDOMETHACIN CAPSULES | HARD CAPSULE | คงอยู่ |
+| 1A 27/69 | M-CIN RUB | GEL | คงอยู่ |
+| 1A 281/56 | INDOMETHACIN CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 288/58 | INDO 25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 302/29 | INDOMAN (CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 322/29 | INTHACINE CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 335/40 | API - PYRIN 25 | CAPSULE HARD | คงอยู่ |
+| 1A 389/33 | INMED WHITE | FILM-COATED TABLET | คงอยู่ |
+| 1A 408/52 | FREZORINE | CAPSULE HARD | คงอยู่ |
+| 1A 416/69 | SATOGESIC® GEL EX | GEL | คงอยู่ |
+| 1A 417/55 | INDOMETHACIN CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 419/58 | MININ | HARD CAPSULE | คงอยู่ |
+| 1A 428/55 | INDOMETHACIN CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 444/29 | INDOMTHACIN CAPSULES | CAPSULE HARD | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

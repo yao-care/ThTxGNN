@@ -48,8 +48,8 @@ Erythromycin เป็นยาปฏิชีวนะกลุ่มมาโ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9989 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 29 จาก 298 รายการ) |
+| จำนวนทะเบียนตำรับยา | 298 รายการ (ยังมีผล 29) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Erythromycin เป็นยาปฏิชีวนะกลุ่มมาโ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1150/29 | ERYTHROMYCIN ESTOLATE FOR ORAL SUSPENSION | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 1171/28 | RINTACIN DRY SYRUP | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 1312/30 | ERYTHRO CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 15142/65 | RYTHOCIN DRY SYRUP 125 MG | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 168/27 | TOMCIN TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 1794/30 | ERYTHRO CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 1838/30 | ERYTHRO SUSPENSION | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 192/49 | ERYTHROMYCIN 250 | FILM - COATED TABLET | คงอยู่ |
+| 1A 207/40 | ERYSATE | FILM - COATED TABLET | คงอยู่ |
+| 1A 219/60 | ERIMYCIN FOR SUSPENSION | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 25/40 | ERYO DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 253/28 | TOMCIN DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 258/45 | RITHROCIN ORANGE | SUSPENSION | คงอยู่ |
+| 1A 287/49 | NEWTHROCIN N.L | CAPSULE HARD | คงอยู่ |
+| 1A 299/33 | RINTACIN FILM COATED TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 327/55 | ERYTHROMYCIN CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 331/55 | ERYTHROMYCIN TABLETS | ENTERIC COATED TABLET | คงอยู่ |
+| 1A 353/55 | ERYTHROMYCIN DRY SYRUP | POWDER | คงอยู่ |
+| 1A 383/45 | E - THROCIN | FILM - COATED TABLET | คงอยู่ |
+| 1A 437/41 | STARTHROCIN | FILM - COATED TABLET | คงอยู่ |
+| 1A 448/40 | NEWTHROCIN | CAPSULE HARD | คงอยู่ |
+| 1A 449/40 | NEWTHROCIN FOR ORAL SUSPENSION | DRY SYRUP | คงอยู่ |
+| 1A 454/41 | RYTHO-CAP | CAPSULE HARD | คงอยู่ |
+| 1A 522/44 | RITHROCIN SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 60/66 | IROSA | ORAL SUSPENSION | คงอยู่ |
+| 1A 615/31 | MEDTHROCIN | FILM-COATED TABLET | คงอยู่ |
+| 1A 647/27 | MEDTHROCIN | DRY SYRUP | คงอยู่ |
+| 1A 765/31 | EROLEX DRY SYRUP 125 MG. | POWDER FOR SYRUP | คงอยู่ |
+| 1A 803/43 | STARTHROCIN DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 1037/27 | ERYTHROMYCIN ESTOLATE DRY SYRUP. | DRY SYRUP | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

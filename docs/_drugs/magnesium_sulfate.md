@@ -48,8 +48,8 @@ Magnesium sulfate เป็นยาฉีดเกลือแร่แมก�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ครรภ์เป็นพิษ (toxemia of pregnancy) |
 | คะแนนการทำนาย TxGNN | 1.0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 25 จาก 126 รายการ) |
+| จำนวนทะเบียนตำรับยา | 126 รายการ (ยังมีผล 25) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -92,7 +92,40 @@ Magnesium sulfate เป็นยาฉีดเกลือแร่แมก�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 2138/28 | MAGNESIUM SULFATE INJECTION 10% | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 2165/28 | MAGNESIUM SULFATE INJECTION 50% | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 338/65 | MAGFIFTY | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 96/66 | MAGTEN | SOLUTION FOR INFUSION | คงอยู่ |
+| 2A 129/30 | PRENATAL | CAPSULE, SOFT | คงอยู่ |
+| 2A 132/55 | CALTAB PLUS | FILM - COATED TABLET | คงอยู่ |
+| 2A 173/36 | ZINCOMIN | CAPSULE, SOFT | คงอยู่ |
+| 2A 318/41 | VITOP | CAPSULE SOFT | คงอยู่ |
+| 2A 362/32 | VITARAL S.M. | COATED TABLET | คงอยู่ |
+| 2A 423/31 | PLUS | CAPSULE, SOFT | คงอยู่ |
+| 2A 43/56 | VIVIT | CAPSULE SOFT | คงอยู่ |
+| 2A 46/56 | VITA - M | CAPSULE SOFT | คงอยู่ |
+| 2A 61/34 | GE-2 SOLUTION FOR PARENTERAL NUTRITION | SOLUTION FOR INJECTION | คงอยู่ |
+| 2A 855/30 | NUTRIVITA | CAPSULE, SOFT | คงอยู่ |
+| 2C 13/68 (NC) | SMOFKABIVEN EXTRA NITROGEN | EMULSION FOR INFUSION | คงอยู่ |
+| 2C 16/60 | PHARMATON | CAPSULE, SOFT | คงอยู่ |
+| 2C 48/54 | BFLUID INJECTION | STERILE SOLUTION | คงอยู่ |
+| 2C 5/55 (N) | SMOFKABIVEN | STERILE SOLUTION | คงอยู่ |
+| 2C 5/55 (NC) | SMOFKABIVEN | STERILE SOLUTION | ปลด SMP(1 พฤษภาคม 2561) |
+| 2C 6/55 (N) | SMOFKABIVEN PERIPHERAL | STERILE EMULSION | คงอยู่ |
+| 2C 6/55 (NC) | SMOFKABIVEN PERIPHERAL | STERILE EMULSION | ปลด SMP(27 เมษายน 2561) |
+| 2A 719/67 (E) | GINSOMIN | CAPSULE, SOFT | คงอยู่ |
+| 2A 88/66 | MAXCAL | FILM-COATED TABLET | คงอยู่ |
+| 2C 39/46 | KABIVEN | STERILE SOLUTION | คงอยู่ |
+| 2C 73/44 | KABIVEN PERIPHERAL (PI) | STERILE SOLUTION | คงอยู่ |
+| 1A 15161/63 | MAGTEN | SOLUTION FOR INFUSION | ยกเลิก(30 พฤษภาคม 2566) |
+| 1A 215/57 | MAGLAX | AQUEOUS SOLUTION | ยกเลิก(23 สิงหาคม 2564) |
+| 1A 275/64 | MAGLAX | SYRUP | ยกเลิก |
+| 1A 386/46 | MAGTEN | STERILE SOLUTION | ยกเลิก |
+| 1A 387/46 | MAGFIFTY | STERILE SOLUTION | ยกเลิก(22 สิงหาคม 2565) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

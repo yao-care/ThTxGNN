@@ -48,8 +48,8 @@ Ethambutol เป็นยาต้านวัณโรคที่ใช้ร
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะฝาปิดกล่องเสียงอักเสบ (Epiglottitis) |
 | คะแนนการทำนาย TxGNN | 0.9990 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 8 จาก 105 รายการ) |
+| จำนวนทะเบียนตำรับยา | 105 รายการ (ยังมีผล 8) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Ethambutol เป็นยาต้านวัณโรคที่ใช้ร
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1651/28 | LAMBUTOL 500 MG. | FILM - COATED TABLET | คงอยู่ |
+| 1A 30/26 | LAMBUTOL | FILM - COATED TABLET | คงอยู่ |
+| 1A 349/51 | ETHAM - 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 565/28 | ETHAM-400 | FILM-COATED TABLET | คงอยู่ |
+| 1A 661/27 | TOBUTOL TABLETS | TABLET | คงอยู่ |
+| 2C 13/65 | FORECOX - TRAC | FILM-COATED TABLET | คงอยู่ |
+| 2C 6/67 | RIFAMPIN, ISONIAZID, PYRAZINAMIDE AND ETHAMBUTOL HYDROCHLORI | FILM-COATED TABLET | คงอยู่ |
+| 2C 7/67 | RIFAMPIN, ISONIAZID AND ETHAMBUTOL HYDROCHLORIDE TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 1/27 | E.T.B. TABLETS (FILM COATED TABLETS) | FILM - COATED TABLET | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 1000/28 | C.BUTOL (500 MG.) | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1013/31 | TUBERTAN 400 | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1016/29 | AMBUTOL | FILM - COATED TABLET | ยกเลิก |
+| 1A 102/26 | C.BUTOL 400 MG | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1023/27 | EBUTAL TABLETS | FILM - COATED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1A 1034/30 | TUBERTHAM 400 TABLETS | FILM - COATED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1A 108/28 | MOBUTOL-250 | FILM - COATED TABLET | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 1120/30 | ASIABUTAL FILM COATED TABLETS | FILM - COATED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1A 1151/27 | BUTOLAM TABLETS | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1171/27 | TIBITOL | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1180/28 | DEBUTOL 400 MG | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1181/28 | DEBUTOL 500 MG | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 119/28 | ETIBI 500 MG. | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1207/30 | TEBEUTOL-400 | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1215/41 | SERVAMBUTOL 400 | FILM - COATED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 1288/27 | TIBITOL | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1373/28 | DEBUTOL 250 MG. | FILM - COATED TABLET | ยกเลิก(1 มกราคม 2522) |
+| 1A 1428/27 | BUTOLAM TABLETS | FILM - COATED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1460/27 | E.T.B. TABLETS (FILM COATED TABLETS) | FILM - COATED TABLET | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 1494/27 | CONBUTOL | FILM - COATED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1A 1539/28 | A.T.B.(ETHAMBUTOL 500 MG. TABLETS) | FILM - COATED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ใบอนุญาตนี้มีสถานะ **ยกเลิกแล้ว**
 

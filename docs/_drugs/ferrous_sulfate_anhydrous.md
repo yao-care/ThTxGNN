@@ -50,8 +50,8 @@ Ferrous sulfate anhydrous เป็นเกลือธาตุเหล็ก
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต |
 | คะแนนการทำนาย TxGNN | 0.9978 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 14 จาก 155 รายการ) |
+| จำนวนทะเบียนตำรับยา | 155 รายการ (ยังมีผล 14) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Ferrous sulfate anhydrous เป็นเกลือธาตุเหล็ก
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1101/30 | FERROUS SULFATE | SUGAR COATED TABLET | คงอยู่ |
+| 1A 1510/30 | FERROUS SULPHATE TABLETS | SUGAR COATED TABLET | คงอยู่ |
+| 1A 599/56 | FERROUS SULFATE SUGAR COATED TABLETS | SUGAR COATED TABLET | คงอยู่ |
+| 2A 129/30 | PRENATAL | CAPSULE, SOFT | คงอยู่ |
+| 2A 173/36 | ZINCOMIN | CAPSULE, SOFT | คงอยู่ |
+| 2A 2/67 | HAEMOVIT BPMC | FILM-COATED TABLET | คงอยู่ |
+| 2A 265/44 | ALVIMIN TABLETS | SUGAR COATED TABLET | คงอยู่ |
+| 2A 318/41 | VITOP | CAPSULE SOFT | คงอยู่ |
+| 2A 362/32 | VITARAL S.M. | COATED TABLET | คงอยู่ |
+| 2A 441/29 | HAEMOVIT | COATED TABLET | คงอยู่ |
+| 2A 49/51 | PML VITA TABLETS | SUGAR COATED TABLET | คงอยู่ |
+| 2A 60/59 | HAEMOVIT-GOLD | SUGAR COATED TABLET | คงอยู่ |
+| 2A 423/31 | PLUS | CAPSULE, SOFT | คงอยู่ |
+| 2C 45/56 | MAXAMIN TABLETS | SUGAR COATED TABLET | คงอยู่ |
+| 1A 1306/28 | FER - IN - SOL | AQUEOUS SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1362/27 | FERROUS SULPHATE | SUGAR COATED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 174/39 | FERROUS SULFATE TABLETS | SUGAR COATED TABLET | ยกเลิก(17 ธันวาคม 2551) |
+| 1A 1809/28 | FERROUS SULFATE | SUGAR COATED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 204/62 | ฟีรามิน | FILM-COATED TABLET | ยกเลิก |
+| 1A 2168/28 | FERROUS 200 | SUGAR COATED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 312/27 | FERROUS SULPHATE TABLETS | SUGAR COATED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 325/44 | BEFERMED | SUGAR COATED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 337/31 | FERROUS SULPHATE | SUGAR COATED TABLET | ยกเลิก(14 สิงหาคม 2555) |
+| 1A 350/55 | FERROUS SULPHATE | SUGAR COATED TABLET | ยกเลิก |
+| 1A 37/44 | ฟีรามิน | FILM - COATED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 395/52 | KIDIRON | SYRUP | ยกเลิก |
+| 1A 408/40 | PEDIRON | SYRUP | ยกเลิก |
+| 1A 484/29 | FERROUS SULPHATE TABLETS (SUGAR COATED TABLETS) | SUGAR COATED TABLET | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 559/43 | FERROTABS | SUGAR COATED TABLET | ยกเลิก |
+| 1A 69/32 | BLAUD ' S TABLETS | SUGAR COATED TABLET | ยกเลิก(24 มีนาคม 2543) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

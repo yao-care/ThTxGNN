@@ -52,8 +52,8 @@ Ciprofloxacin เป็นยาปฏิชีวนะกลุ่มฟลู
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) |
 | คะแนนการทำนาย TxGNN | 0.9987 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 77 จาก 323 รายการ) |
+| จำนวนทะเบียนตำรับยา | 323 รายการ (ยังมีผล 77) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -85,7 +85,40 @@ Ciprofloxacin เป็นยาปฏิชีวนะกลุ่มฟลู
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/67 | CIPRODEE | FILM-COATED TABLET | คงอยู่ |
+| 1A 1032/41 | CIPON 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 110/50 | CIPROM-M | - | คงอยู่ |
+| 1A 113/44 | CIPROFLOX - 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 139/41 | CIPROXIN (500 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 142/34 | CIFLOXIN (250 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 143/43 | CIFLO | FILM - COATED TABLET | คงอยู่ |
+| 1A 143/58 | PHARPROXIN 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 144/58 | MEIPHOX | FILM - COATED TABLET | คงอยู่ |
+| 1A 150/36 | CIPFLOCIN TABLETS 250 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 15073/66 (NG) | ZIPROXA IV | SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 157/55 | CIVOXIN-500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 163/51 | CIPROXIN-500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 166/46 | CIPROCEP 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 166/63 | ZYFOPRO | FILM-COATED TABLET | คงอยู่ |
+| 1A 17/59 | CIPROFLOXACIN TABLETS 250 MG | FILM - COATED TABLET | คงอยู่ |
+| 1A 178/54 | CIPFLOCIN (500 MG) FILM COATED TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 18/59 | CIPROFLOXACIN TABLETS 500 MG | FILM - COATED TABLET | คงอยู่ |
+| 1A 183/49 | CIFLOXA | FILM - COATED TABLET | คงอยู่ |
+| 1A 191/51 | FLOXCIPRO 250 | FILM - COATED TABLET | คงอยู่ |
+| 1A 22/64 | ZYFOPRO - 250 | FILM-COATED TABLET | คงอยู่ |
+| 1A 222/51 | FLOXCIPRO 500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 229/45 | COBAY | FILM - COATED TABLET | คงอยู่ |
+| 1A 244/65 | CIPOTAB (250 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 247/65 | CIPROM.H (250 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 264/41 | STARPROX | FILM - COATED TABLET | คงอยู่ |
+| 1A 283/34 | PROFLOXIN | FILM-COATED TABLET | คงอยู่ |
+| 1A 299/50 | CIFLO-500 | FILM - COATED TABLET | คงอยู่ |
+| 1A 316/47 | UROXIN 500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 32/60 | CIFLOXIN INFUSION (2MG/ML) | - | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

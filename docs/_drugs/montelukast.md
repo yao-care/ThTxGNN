@@ -48,8 +48,8 @@ Montelukast เป็นยาต้านตัวรับลิวโคไ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | หลอดลมอักเสบ (Bronchitis) |
 | คะแนนการทำนาย TxGNN | 0.9995 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 24 จาก 46 รายการ) |
+| จำนวนทะเบียนตำรับยา | 46 รายการ (ยังมีผล 24) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -94,7 +94,40 @@ Montelukast ออกฤทธิ์จับตัวรับ CysLT1 อย่
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/63 (NG) | MONTELUKAST GPO | FILM-COATED TABLET | คงอยู่ |
+| 1A 13/65 (NG) | ASTAIR | FILM-COATED TABLET | คงอยู่ |
+| 1A 15217/65 (NG) | MONKAST-10 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15278/65 (NG) | MONKAST-5 | FILM-COATED TABLET | คงอยู่ |
+| 1A 17/58 (NG) | MONTULAIR 10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 17/67 (NG) | MONLAKAST | FILM-COATED TABLET | คงอยู่ |
+| 1A 31/64 (NG) | MONTEK 10 | FILM-COATED TABLET | คงอยู่ |
+| 1A 37/60 (NG) | ASTAIR CHEWABLE 5 MG | CHEWABLE TABLET | คงอยู่ |
+| 1A 52/65 (NG) | MONTULAIR 4 ORAL GRANULES | GRANULES | คงอยู่ |
+| 1A 60/66 (NG) | TOMONT 5 CHEWABLE TABLETS | CHEWABLE TABLET | คงอยู่ |
+| 1A 61/66 (NG) | TOMONT | FILM-COATED TABLET | คงอยู่ |
+| 1A 703/68 (E) | MONTEKAS | FILM-COATED TABLET | คงอยู่ |
+| 1A 9/67 (NG) | MULOZ (5 MG CHEWABLE TABLET) | CHEWABLE TABLET | คงอยู่ |
+| 1C 10/66 (NG) | NIKP-MONTELUKAST CHEWABLE TABLET 5 MG | CHEWABLE TABLET | คงอยู่ |
+| 1C 14/58 (N) | SINGULAIR (ORAL GRANULES, 4 MG) | GRANULE | คงอยู่ |
+| 1C 15/55 (N) | SINGULAIR (4 MG) | CHEWABLE TABLET | คงอยู่ |
+| 1C 15074/66 (NG) | MONTEK LOTUS | FILM-COATED TABLET | คงอยู่ |
+| 1C 2/64 (NG) | MONTIGET TABLETS 10 MG | FILM-COATED TABLET | คงอยู่ |
+| 1C 3/64 (NG) | MONTIGET CHEWABLE TABLETS 5 MG | CHEWABLE TABLET | คงอยู่ |
+| 1C 40/60 (NG) | SINGKAST CHEWABLE TABLET 4 MG | CHEWABLE TABLET | คงอยู่ |
+| 1C 43/65 (NG) | LUMONT 10 | FILM-COATED TABLET | คงอยู่ |
+| 1C 44/55 (N) | SINGULAIR (5 MG) | CHEWABLE TABLET | คงอยู่ |
+| 1C 49/62 (NG) | MONTELUKAST SANDOZ | CHEWABLE TABLET | คงอยู่ |
+| 1C 51/55 (N) | SINGULAIR (10 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 10/51 (NG) | MONTEK 10 | FILM - COATED TABLET | ยกเลิก(5 มกราคม 2554) |
+| 1A 15008/65 (NG) | MONKAST-10 | FILM-COATED TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 15123/65 (NG) | MONKAST-5 | FILM-COATED TABLET | ยกเลิก(7 ตุลาคม 2565) |
+| 1A 2/54 (NG) | MONTEK 10 | FILM - COATED TABLET | ยกเลิก(17 มิถุนายน 2564) |
+| 1A 3/57 (NG) | ASTAIR | FILM - COATED TABLET | ยกเลิก |
+| 1C 13/60 (NG) | SINGKAST CHEWABLE TABLET 4 MG | CHEWABLE TABLET | ยกเลิก(21 มิถุนายน 2560) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

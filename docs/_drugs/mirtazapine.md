@@ -50,8 +50,8 @@ Mirtazapine เป็นยาเม็ดชนิดรับประทา�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กลุ่มอาการโอโดะและกลุ่มย่อย (Ohdo syndrome and variants) |
 | คะแนนการทำนาย TxGNN | 0.9942 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 6 จาก 17 รายการ) |
+| จำนวนทะเบียนตำรับยา | 17 รายการ (ยังมีผล 6) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -78,7 +78,25 @@ Mirtazapine เป็นยาเม็ดชนิดรับประทา�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/56 (NG) | เมอราซอล (30 มก. ชนิดเม็ด) | FILM - COATED TABLET | คงอยู่ |
+| 1A 27/60 (NG) | ZAMIR 15 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1A 28/60 (NG) | ZAMIR 30 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 41/59 (NG) | ZYMRON 15 MG | ORALLY DISINTEGRATING TABLET | คงอยู่ |
+| 1C 55/57 (N) | REMERON SOLTAB 15 MG | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 56/57 (N) | REMERON SOLTAB 30 MG | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 105/51 (NC) | REMERON SOLTAB 45 MG | ORODISPERSIBLE TABLET | ยกเลิก(15 กุมภาพันธ์ 2555) |
+| 1C 37/52 (N) | REMERON SOLTAB 15 MG | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2560) |
+| 1C 47/48 (N) | REMERON SOLTAB 15 MG | COMPRESSED TABLET | ยกเลิก(24 กุมภาพันธ์ 2552) |
+| 1C 48/48 (N) | REMERON SOLTAB 30 MG | COMPRESSED TABLET | ยกเลิก(22 เมษายน 2552) |
+| 1C 49/48 (NC) | REMERON SOLTAB 45 MG | ORODISPERSIBLE TABLET | ยกเลิก(29 กันยายน 2551) |
+| 1C 53/59 (NG) | AUROZAPINE OD 45 | ORODISPERSIBLE TABLET | ยกเลิก |
+| 1C 55/52 (N) | REMERON SOLTAB 30 MG | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2560) |
+| 1C 76/40 (NC) | REMERON 15 MG | FILM - COATED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+| 1C 77/40 (N) | REMERON 30 MG | FILM - COATED TABLET | ยกเลิก(6 มิถุนายน 2550) |
+| 1C 77/40 (NC) | REMERON 30 MG | FILM - COATED TABLET | ยกเลิก(26 พฤษภาคม 2543) |
+| 1C 78/40 (NC) | REMERON 45 MG | FILM - COATED TABLET | ยกเลิก(8 ธันวาคม 2543) |
 
 ---
 

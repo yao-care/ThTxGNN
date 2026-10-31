@@ -43,12 +43,45 @@ evidence_level: N/A
 | รายการ | เนื้อหา |
 |------|------|
 | ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 57 จาก 286 รายการ) |
+| จำนวนทะเบียนตำรับยา | 286 รายการ (ยังมีผล 57) |
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 123/57 | H C T 25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 124/57 | H C T 50 | COMPRESSED TABLET | คงอยู่ |
+| 1A 1519/29 | DICHLOTRIDE | TABLET | คงอยู่ |
+| 1A 1693/29 | HYDROCHLOROTHIAZIDE | TABLET | คงอยู่ |
+| 1A 215/55 | DCT - 25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 2251/29 | HYDROZIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 253/55 | HYDRIL - HCT | COMPRESSED TABLET | คงอยู่ |
+| 1A 261/55 | HYSIX TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 2694/28 | HYCHLORTIDE | TABLET | คงอยู่ |
+| 1A 360/58 | UTEC | COMPRESSED TABLET | คงอยู่ |
+| 1A 450/41 | THIAZIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 500/55 | HCTZ 25 | COMPRESSED TABLET | คงอยู่ |
+| 1A 525/28 | DIRIC | TABLET | คงอยู่ |
+| 1A 68/55 | HYDROCHLOROTHIAZIDE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 69/55 | HYDROCHLOROTHIAZIDE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 93/63 | GPO-HCTZ (25 MG) | TABLET | คงอยู่ |
+| 1A 94/63 | GPO-HCTZ (50 MG) | TABLET | คงอยู่ |
+| 2A 140/41 | MODUZIDE | COMPRESSED TABLET | คงอยู่ |
+| 2A 146/51 | STARDURETIC | COMPRESSED TABLET | คงอยู่ |
+| 2A 148/42 | HYDROZIDE PLUS | COMPRESSED TABLET | คงอยู่ |
+| 2A 242/28 | MODURETIC | TABLET | คงอยู่ |
+| 2A 247/32 | MINITIC TABLET | TABLET | คงอยู่ |
+| 2A 32/34 | MODUMED | TABLET | คงอยู่ |
+| 2A 36/35 | THIAMIL TABLET | TABLET | คงอยู่ |
+| 2A 65/49 | GADURETIC | COMPRESSED TABLET | คงอยู่ |
+| 2A 663/30 | MANO-AP-ES | TABLET | คงอยู่ |
+| 2A 94/31 | AMILOZIDE | TABLET | คงอยู่ |
+| 2B 1/48 (N) | BLOPRESS 16 MG PLUS | COMPRESSED TABLET | คงอยู่ |
+| 2B 1/57 (N) | BLOPRESS 8 MG PLUS | COMPRESSED TABLET | คงอยู่ |
+| 2C 13/53 (NC) | EXFORGE HCT (5 MG/160MG/12.5 MG) | FILM - COATED TABLET | ปลด SMP(27 ธันวาคม 2555) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -50,8 +50,8 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง ชนิดถ่ายทอดทางยีนลักษณะด้อย |
 | คะแนนการทำนาย TxGNN | 0.9968 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 13 จาก 81 รายการ) |
+| จำนวนทะเบียนตำรับยา | 81 รายการ (ยังมีผล 13) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -74,7 +74,40 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 19/55 (N) | RESTASIS (OPHTHALMIC EMULSION 0.05%) | LIQUID OPHTHALMIC | คงอยู่ |
+| 1C 45/55 | CIPOL-N | capsule soft | คงอยู่ |
+| 1C 46/55 | CIPOL-N | CAPSULE SOFT | คงอยู่ |
+| 1C 82/67 | PANIMUN BIORAL 25 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 83/67 | PANIMUN BIORAL 100 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 200/43 | SANDIMMUN NEORAL 25 MG | CAPSULE SOFT | คงอยู่ |
+| 1C 121/60 | EQUORAL 100 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 124/42 | SANDIMMUN 50 MG/ML | STERILE SOLUTION | คงอยู่ |
+| 1C 138/43 | SANDIMMUN NEORAL (100 MG/ML) | OIL SOLUTION | คงอยู่ |
+| 1C 201/43 | SANDIMMUN NEORAL 100 MG | CAPSULE SOFT | คงอยู่ |
+| 1C 33/61 | EQUORAL 25 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 67/59 (N) | IKERVIS | LIQUID OPHTHALMIC | คงอยู่ |
+| 1C 67/59 (NC) | IKERVIS | LIQUID OPHTHALMIC | ปลด SMP(11 มิถุนายน 2562) |
+| 1A 427/47 | MEDISPORIN 10 | CAPSULE SOFT | ยกเลิก |
+| 1A 428/47 | MEDISPORIN 25 | CAPSULE SOFT | ยกเลิก |
+| 1A 429/47 | MEDISPORIN 50 | CAPSULE SOFT | ยกเลิก |
+| 1A 430/47 | MEDISPORIN 100 | CAPSULE SOFT | ยกเลิก |
+| 1A 461/48 | PROMUNE 10 | CAPSULE SOFT | ยกเลิก(27 มีนาคม 2552) |
+| 1A 462/48 | PROMUNE 25 | CAPSULE SOFT | ยกเลิก |
+| 1A 463/48 | PROMUNE 50 | CAPSULE SOFT | ยกเลิก(21 ตุลาคม 2562) |
+| 1A 464/48 | PROMUNE 100 | CAPSULE SOFT | ยกเลิก |
+| 1C 1/44 | CIPOL INJECTION | STERILE SOLUTION | ยกเลิก(22 เมษายน 2548) |
+| 1C 131/50 | CIPOL-N | CAPSULE SOFT | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1C 132/50 | CIPOL-N | capsule soft | ยกเลิก(6 กุมภาพันธ์ 2552) |
+| 1C 14/51 | ARPIMUNE ME (25) | CAPSULE SOFT | ยกเลิก(31 พฤษภาคม 2555) |
+| 1C 16/51 | ARPIMUNE ME (100) | CAPSULE SOFT | ยกเลิก(31 พฤษภาคม 2555) |
+| 1C 162/44 | CONSUPREN S 50 MG | CAPSULE SOFT | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 168/46 | GENGRAF | SYRUP | ยกเลิก(24 กรกฎาคม 2552) |
+| 1C 19/48 (N) | RESTASIS (OPHTHALMIC EMULSION 0.05 %) | LIQUID OPHTHALMIC | ยกเลิก(23 มีนาคม 2555) |
+| 1C 19/48 (NC) | RESTASIS (OPHTHALMIC EMULSION 0.05 %) | LIQUID OPHTHALMIC | ยกเลิก(8 กุมภาพันธ์ 2551) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

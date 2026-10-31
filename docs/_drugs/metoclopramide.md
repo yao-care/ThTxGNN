@@ -48,8 +48,8 @@ Metoclopramide เป็นยาที่ออกฤทธิ์กระต�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กระเพาะอาหารและลำไส้เล็กส่วนต้นอักเสบ (gastroduodenitis) |
 | คะแนนการทำนาย TxGNN | 0.9990 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 20 จาก 153 รายการ) |
+| จำนวนทะเบียนตำรับยา | 153 รายการ (ยังมีผล 20) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -81,7 +81,40 @@ Metoclopramide เป็นยาที่ออกฤทธิ์กระต�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1078/30 | H-PERAN | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1085/40 | PLAMIDE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 1305/29 | VOMESEA SYRUP | SYRUP | คงอยู่ |
+| 1A 1386/29 | R-J SYRUP | SYRUP | คงอยู่ |
+| 1A 1540/30 | PLAMIDE | TABLET | คงอยู่ |
+| 1A 157/36 | MET - SIL | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 18/67 | METOMIDE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1969/29 | R-J TAB | COMPRESSED TABLET | คงอยู่ |
+| 1A 209/55 | VOSIL | SYRUP | คงอยู่ |
+| 1A 249/55 | MEPAMIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 2539/28 | VOMESEA | TABLET | คงอยู่ |
+| 1A 285/49 | MANOSIL INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 305/37 | PLASITIL | TABLET | คงอยู่ |
+| 1A 342/55 | VOSIL | COMPRESSED TABLET | คงอยู่ |
+| 1A 447/34 | MANOSIL(SYRUP) | SYRUP | คงอยู่ |
+| 1A 458/48 | METOCLOPRAMIDE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 499/29 | METOCLOR INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 526/33 | MANOSIL (TABLETS) | COMPRESSED TABLET | คงอยู่ |
+| 1A 647/29 | NAUSIL (TABLET) | TABLET | คงอยู่ |
+| 1A 952/29 | NAUSIL (INJECTION) | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 1028/27 | MAXOLON | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1056/27 | VOMIL TABLETS | COMPRESSED TABLET | ยกเลิก(5 เมษายน 2545) |
+| 1A 1070/41 | PLASIPEX | STERILE SOLUTION | ยกเลิก(5 เมษายน 2545) |
+| 1A 108/35 | PLASIL (R) | SYRUP | ยกเลิก(8 ธันวาคม 2543) |
+| 1A 1094/29 | MECLOMIDE SYRUP | SYRUP | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1101/27 | METONO | COMPRESSED TABLET | ยกเลิก(21 ตุลาคม 2562) |
+| 1A 1103/30 | EMESIL | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1230/27 | ELITAN SYRUP | SYRUP | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1271/29 | NAUSIL | AQEOUS SOLUTION | ยกเลิก(5 เมษายน 2545) |
+| 1A 1274/29 | NEO - PRIMPERAN | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

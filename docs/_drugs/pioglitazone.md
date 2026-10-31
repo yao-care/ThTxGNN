@@ -50,8 +50,8 @@ Pioglitazone เป็นยากลุ่ม PPAR-gamma agonist ที่เ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Opsismodysplasia |
 | คะแนนการทำนาย TxGNN | 0.9959 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 24 จาก 67 รายการ) |
+| จำนวนทะเบียนตำรับยา | 67 รายการ (ยังมีผล 24) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -72,7 +72,40 @@ Pioglitazone เป็นยากลุ่ม PPAR-gamma agonist ที่เ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/53 (NG) | SENZULIN(15 MG TABLET) | COMPRESSED TABLET | คงอยู่ |
+| 1A 15201/65 (NG) | PIOGOX 15 | TABLET | คงอยู่ |
+| 1A 15202/65 (NG) | PIOGOX 30 | TABLET | คงอยู่ |
+| 1A 16/53 (NG) | GITAZONE-FORTE | COMPRESSED TABLET | คงอยู่ |
+| 1A 17/51 (NG) | UTMOS 15 | COMPRESSED TABLET | คงอยู่ |
+| 1A 17/53 (NG) | PIOZONE (30MG) | compressed tablet | คงอยู่ |
+| 1A 18/51 (NG) | SENZULIN (30 MG TABLET) | COMPRESSED TABLET | คงอยู่ |
+| 1A 21/57 (NG) | MILITOS | COMPRESSED TABLET | คงอยู่ |
+| 1A 24/56 (NG) | PIODIB-15 | COMPRESSED TABLET | คงอยู่ |
+| 1A 28/53 (NG) | PIOZONE (15 MG) | COMPRESSED TABLET | คงอยู่ |
+| 1A 32/54 (NG) | GITAZONE | compressed tablet | คงอยู่ |
+| 1A 40/50 (NG) | UTMOS 30 | TABLET | คงอยู่ |
+| 1A 732/68 (E) | GITAZONE-FORTE | TABLET | คงอยู่ |
+| 1C 14/43 (N) | ACTOS (PIOGLITAZONE ) 15 MG TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1C 15/43 (N) | ACTOS (PIOGLITAZONE ) 30 MG TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 2B 1/58 (NC) | OSENI 25 MG/30 MG TABLETS | FILM - COATED TABLET | ปลด SMP(27 ธันวาคม 2560) |
+| 2B 2/51 (NC) | ACTOSMET (15MG/850MG) | FILM - COATED TABLET | ปลด SMP(8 กุมภาพันธ์ 2555) |
+| 2B 2/55 (NC) | ACTOSMET (15 MG/850 MG) | FILM - COATED TABLET | ปลด SMP(28 มีนาคม 2556) |
+| 2B 2/58 (NC) | OSENI 25 MG/15 MG TABLETS | FILM - COATED TABLET | ปลด SMP(27 ธันวาคม 2560) |
+| 2C 13/58 (N) | OSENI 25 MG/15 MG TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 2C 13/58 (NC) | OSENI 25 MG/15 MG TABLETS | FILM - COATED TABLET | ปลด SMP(27 ธันวาคม 2560) |
+| 2C 14/58 (N) | OSENI 25 MG/30 MG TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 2C 14/58 (NC) | OSENI 25 MG/30 MG TABLETS | FILM - COATED TABLET | ปลด SMP(27 ธันวาคม 2560) |
+| 2C 15277/65 (NG) | LODIGLIT F.C. TABLETS 15 MG/850 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 11/52 (NG) | GLUBOSIL 15 | COMPRESSED TABLET | ยกเลิก(2 กุมภาพันธ์ 2554) |
+| 1A 12/52 (NG) | GLUBOSIL 30 | COMPRESSED TABLET | ยกเลิก(2 กุมภาพันธ์ 2554) |
+| 1A 15/53 (NG) | PIOTAZONE (30MG) | compressed tablet | ยกเลิก(13 กรกฎาคม 2553) |
+| 1A 15214/63 (NG) | PIOGOX 15 | TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 15215/63 (NG) | PIOGOX 30 | TABLET | ยกเลิก(18 กรกฎาคม 2565) |
+| 1A 19/64 (NG) | DEDIOS (15 MG) | TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

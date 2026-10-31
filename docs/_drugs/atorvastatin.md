@@ -50,8 +50,8 @@ Atorvastatin เป็นยากลุ่มสแตติน ใบอนุ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อเอชไอวี |
 | คะแนนการทำนาย TxGNN | 0.9931 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 54 จาก 134 รายการ) |
+| จำนวนทะเบียนตำรับยา | 134 รายการ (ยังมีผล 54) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -94,7 +94,40 @@ Atorvastatin ยับยั้งเอนไซม์ HMG-CoA reductase ทำ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 15167/65 (NG) | X-TIN | FILM-COATED TABLET | คงอยู่ |
+| 1A 15170/65 (NG) | AVOTAS 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15194/65 (NG) | CHLOVAS-ZIS 10 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15195/65 (NG) | CHLOVAS-ZIS 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15196/65 (NG) | CHLOVAS-ZIS 40 | FILM-COATED TABLET | คงอยู่ |
+| 1A 15197/65 (NG) | CHLOVAS-ZIS 80 | FILM-COATED TABLET | คงอยู่ |
+| 1A 22/62 (NG) | LIPOSTAT (10 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 23/62 (NG) | LIPOSTAT (20 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 24/62 (NG) | LIPOSTAT (40 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
+| 1A 24/68 (NG) | ASTORVA (40 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1A 324/69 (NG) | MILISTAT 40 | FILM-COATED TABLET | คงอยู่ |
+| 1A 37/56 (NG) | CHLOVAS-40 | FILM - COATED TABLET | คงอยู่ |
+| 1A 39/61 (NG) | ATORVIN 10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 40/61 (NG) | ATORVIN 20 | FILM - COATED TABLET | คงอยู่ |
+| 1A 41/61 (NG) | ATORVIN 40 | FILM - COATED TABLET | คงอยู่ |
+| 1A 42/62 (NG) | TOVASTIN 10 | FILM-COATED TABLET | คงอยู่ |
+| 1A 43/62 (NG) | TOVASTIN 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 44/62 (NG) | TOVASTIN 40 | FILM-COATED TABLET | คงอยู่ |
+| 1A 6/66 (NG) | ATTOR-40 TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 7/66 (NG) | ATTOR-20 TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 734/68 (E) | CHLOVAS - 40 | FILM-COATED TABLET | คงอยู่ |
+| 1A 735/68 (E) | CHLOVAS - 20 | FILM-COATED TABLET | คงอยู่ |
+| 1A 8/66 (NG) | ATTOR-10 TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 84/60 (NG) | CHLOVAS - 20 | FILM - COATED TABLET | คงอยู่ |
+| 1C 14/52 (NG) | ATORVASTATIN SANDOZ 20 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 15/52 (NG) | ATORVASTATIN SANDOZ 40 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 21/52 (NG) | ATORVASTATIN SANDOZ 10 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 21/63 (N) | XARATOR (TABLETS 10 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1C 22/63 (N) | XARATOR (TABLETS 20 MG) | FILM-COATED TABLET | คงอยู่ |
+| 1C 22/67 (NG) | ATORVASTATIN SANDOZ GMBH (10MG) | FILM-COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

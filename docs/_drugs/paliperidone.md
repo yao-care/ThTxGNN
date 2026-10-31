@@ -50,8 +50,8 @@ Paliperidone เดิมใช้รักษา **โรคจิตเภท*
 | ข้อบ่งใช้ใหม่ที่ทำนาย | จอประสาทตาเสื่อมทางพันธุกรรม (retinal dystrophy with or without extraocular anomalies) |
 | คะแนนการทำนาย TxGNN | 0.9992 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 8 จาก 19 รายการ) |
+| จำนวนทะเบียนตำรับยา | 19 รายการ (ยังมีผล 8) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,27 @@ Paliperidone เดิมใช้รักษา **โรคจิตเภท*
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 15036/66 (N) | INVEGA HAFYERA | PROLONGED-RELEASE SUSPENSION FOR INJECTI | คงอยู่ |
+| 1C 21/54 (N) | INVEGA SUSTENNA | PROLONGED-RELEASE STERILE SUSPENSION | คงอยู่ |
+| 1C 21/54 (NC) | INVEGA SUSTENNA | PROLONGED-RELEASE STERILE SUSPENSION | ปลด SMP(23 ธันวาคม 2559) |
+| 1C 53/60 (N) | INVEGA TRINZA | PROLONGED-RELEASE SUSPENSION FOR INJECTI | คงอยู่ |
+| 1C 53/60 (NC) | INVEGA TRINZA | PROLONGED-RELEASE SUSPENSION FOR INJECTI | ปลด SMP |
+| 1C 61/53 (N) | INVEGA (EXTENDED-RELEASE TABLETS, 3 MG) | EXTENDED RELEASE TABLET | คงอยู่ |
+| 1C 62/53 (N) | INVEGA (EXTENDED-RELEASE TABLETS, 6MG) | EXTENDED RELEASE TABLET | คงอยู่ |
+| 1C 63/53 (N) | INVEGA (EXTENDED-RELEASE TABLETS, 9 MG) | EXTENDED RELEASE TABLET | คงอยู่ |
+| 1C 15122/65 (N) | INVEGA SUSTENNA | PROLONGED-RELEASE SUSPENSION FOR INJECTI | ยกเลิก |
+| 1C 17/53 (NC) | INVEGA (EXTENDED-RELEASE TABLETS 1.5 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1C 28/51 (N) | INVEGA (EXTENDED-RELEASE TABLETS,3 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1C 28/51 (NC) | INVEGA (EXTENDED-RELEASE TABLETS,3 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(13 มกราคม 2554) |
+| 1C 29/51 (N) | INVEGA (EXTENDED-RELEASE TABLETS,6 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1C 29/51 (NC) | INVEGA (EXTENDED-RELEASE TABLETS,6 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(13 มกราคม 2554) |
+| 1C 30/51 (N) | INVEGA (EXTENDED-RELEASE TABLETS,9 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1C 30/51 (NC) | INVEGA (EXTENDED-RELEASE TABLETS,9 MG) | SUSTAINED RELEASE TABLET | ยกเลิก(13 มกราคม 2554) |
+| 1C 61/53 (NC) | INVEGA (EXTENDED-RELEASE TABLETS, 3 MG) | EXTENDED RELEASE TABLET | ยกเลิก(3 มีนาคม 2554) |
+| 1C 62/53 (NC) | INVEGA (EXTENDED-RELEASE TABLETS, 6MG) | EXTENDED RELEASE TABLET | ยกเลิก(3 มีนาคม 2554) |
+| 1C 63/53 (NC) | INVEGA (EXTENDED-RELEASE TABLETS, 9 MG) | EXTENDED RELEASE TABLET | ยกเลิก(3 มีนาคม 2554) |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

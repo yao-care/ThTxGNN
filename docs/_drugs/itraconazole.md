@@ -48,8 +48,8 @@ Itraconazole เป็นยาต้านเชื้อราในกลุ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคปอดอักเสบจากนิวโมซิสติส (pneumocystosis) |
 | คะแนนการทำนาย TxGNN | 0.9934 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 22 จาก 47 รายการ) |
+| จำนวนทะเบียนตำรับยา | 47 รายการ (ยังมีผล 22) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -83,7 +83,40 @@ Itraconazole เป็นยาต้านเชื้อราในกลุ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 108/55 | HOFNAZOLE | CAPSULE HARD | คงอยู่ |
+| 1A 124/58 | ITRACONAZOLE GPO | CAPSULE HARD | คงอยู่ |
+| 1A 125/43 | NORSPOR | CAPSULE HARD | คงอยู่ |
+| 1A 179/44 | ITRACON | CAPSULE HARD | คงอยู่ |
+| 1A 18/55 | ITRA-MED | CAPSULE HARD | คงอยู่ |
+| 1A 300/61 | GYNACAP | CAPSULE, HARD | คงอยู่ |
+| 1A 377/64 | ITRAFUNGAL | CAPSULE, HARD | คงอยู่ |
+| 1A 4/52 | SPORZOL | CAPSULE SOFT | คงอยู่ |
+| 1A 488/46 | TACOROL | CAPSULE HARD | คงอยู่ |
+| 1A 489/46 | ICOZOLE | CAPSULE HARD | คงอยู่ |
+| 1A 508/46 | ICONA | CAPSULE HARD | คงอยู่ |
+| 1A 512/43 | SPORNAR | CAPSULE HARD | คงอยู่ |
+| 1A 60/61 | ITRASTAR | CAPSULE, HARD | คงอยู่ |
+| 1A 77/57 | ITRASTAR | CAPSULE HARD | คงอยู่ |
+| 1A 79/56 | ITRAZOLE | CAPSULE HARD | คงอยู่ |
+| 1A 824/43 | SPAZOL (100 MG CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 959/41 | ITRA | CAPSULE HARD | คงอยู่ |
+| 1B 1/56 | ITRASIX | CAPSULE HARD | คงอยู่ |
+| 1C 11/67 | SANUZO-100 | CAPSULE, HARD | คงอยู่ |
+| 1C 125/52 | ITRASIX | CAPSULE HARD | คงอยู่ |
+| 1C 126/57 | CANDITRAL CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1C 15010/64 | SPORAL | CAPSULE, HARD | คงอยู่ |
+| 1A 106/44 | SPORLAB | CAPSULE HARD | ยกเลิก(10 พฤษภาคม 2561) |
+| 1A 115/54 | SPAZOL (ORAL SOLUTION) | AQUEOUS SOLUTION | ยกเลิก(5 กันยายน 2562) |
+| 1A 125/54 | ZOLERAL | CAPSULE HARD | ยกเลิก(19 มกราคม 2555) |
+| 1A 126/54 | ISTARAL | CAPSULE HARD | ยกเลิก(22 พฤษภาคม 2555) |
+| 1A 127/54 | IZAR | CAPSULE HARD | ยกเลิก(7 เมษายน 2558) |
+| 1A 128/54 | ICOZOLE | CAPSULE HARD | ยกเลิก(6 มีนาคม 2557) |
+| 1A 152/49 | GYNOCAP | CAPSULE HARD | ยกเลิก |
+| 1A 388/46 | ANTIRA | CAPSULE HARD | ยกเลิก(15 กุมภาพันธ์ 2550) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

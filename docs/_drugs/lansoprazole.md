@@ -48,8 +48,8 @@ Lansoprazole เป็นยาที่ใช้ลดการหลั่ง�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะลำไส้เล็กส่วนต้นอุดตัน (duodenal obstruction) |
 | คะแนนการทำนาย TxGNN | 0.9968 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 6 จาก 22 รายการ) |
+| จำนวนทะเบียนตำรับยา | 22 รายการ (ยังมีผล 6) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -68,7 +68,30 @@ Lansoprazole เป็นยาที่ใช้ลดการหลั่ง�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 7/65 (NG) | PRAZE (30 MG FOR INJECTION) | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1B 1/53 (NC) | PREVACID I.V. | STERILE POWDER | ปลด SMP(11 มีนาคม 2556) |
+| 1C 25/47 (N) | PREVACID FDT 15 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 26/47 (N) | PREVACID FDT 30 | ORODISPERSIBLE TABLET | คงอยู่ |
+| 1C 4/53 (N) | PREVACID I.V. | STERILE POWDER | คงอยู่ |
+| 1C 4/53 (NC) | PREVACID I.V. | STERILE POWDER | ปลด SMP(28 ธันวาคม 2555) |
+| 1B 1/53 (N) | PREVACID I.V. | STERILE POWDER | ยกเลิก(7 พฤษภาคม 2561) |
+| 1B 5/48 (N) | PREVACID FDT 15 | COMPRESSED TABLET | ยกเลิก |
+| 1B 5/54 (N) | LANZOCID | CAPSULE HARD | ยกเลิก(7 เมษายน 2558) |
+| 1B 6/47 (N) | PREVACID (CAPSULES 15 MG) | CAPSULE HARD | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1B 6/48 (N) | PREVACID FDT 30 | COMPRESSED TABLET | ยกเลิก |
+| 1B 7/47 (N) | PREVACID ( CAPSULES 30 MG) | CAPSULE HARD | ยกเลิก(7 พฤษภาคม 2561) |
+| 1B 7/57 (N) | LANSOVAL CAPSULES (30 MG) | CAPSULE HARD | ยกเลิก(7 พฤษภาคม 2561) |
+| 1B 8/57 (N) | LANSOVAL CAPSULES (30 MG) | CAPSULE HARD | ยกเลิก |
+| 1C 14/42 (NC) | PREVACID CAPSULES 15 MG | CAPSULE HARD | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 17/54 (N) | LANZOCID CAPSULES | CAPSULE HARD | ยกเลิก(8 พฤษภาคม 2560) |
+| 1C 27/57 (N) | LANSOVAL CAPSULES (30 MG) | CAPSULE HARD | ยกเลิก |
+| 1C 36/37 (N) | PREVACID CAPSULE | CAPSULE HARD | ยกเลิก(12 เมษายน 2554) |
+| 1C 36/37 (NC) | PREVACID CAPSULE | CAPSULE HARD | ยกเลิก(3 มีนาคม 2541) |
+| 1C 50/58 (NG) | LANSOPRAZOLE DELAYED-RELEASE ORODISPERSIBLE TABLETS 30 MG | DELAYED RELEASE TABLET | ยกเลิก(13 ตุลาคม 2558) |
+| 1C 55/58 (NG) | LANSOPRAZOLE DELAYED-RELEASE ORODISPERSIBLE TABLETS 30 MG | DELAYED RELEASE TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1C 59/42 (N) | TAKEPRON CAPSULES 15 MG | CAPSULE HARD | ยกเลิก(27 มีนาคม 2552) |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

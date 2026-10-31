@@ -49,8 +49,8 @@ Orphenadrine เป็นยาคลายกล้ามเนื้อที�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคจอตาเสื่อมที่มีหรือไม่มีความผิดปกตินอกลูกตา (retinal dystrophy with or without extraocular anomalies) |
 | คะแนนการทำนาย TxGNN | 0.9929 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 107 จาก 289 รายการ) |
+| จำนวนทะเบียนตำรับยา | 289 รายการ (ยังมีผล 107) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -69,7 +69,40 @@ Orphenadrine เป็นยาคลายกล้ามเนื้อที�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 21/50 | PHEMAX | COMPRESSED TABLET | คงอยู่ |
+| 1A 252/57 | ORPHENA-50 | FILM - COATED TABLET | คงอยู่ |
+| 1A 366/65 | OFEE 50 | TABLET | คงอยู่ |
+| 1A 367/65 | OFEE 100 | TABLET | คงอยู่ |
+| 1A 63/63 | OSPHRINE | TABLET | คงอยู่ |
+| 1A 72/65 | ORPHENA - 100 | FILM-COATED TABLET | คงอยู่ |
+| 1C 38/61 | NORFLEX | MODIFIED RELEASE TABLET | คงอยู่ |
+| 2A 10/64 | PORSAC | TABLET | คงอยู่ |
+| 2A 10/68 | ROPADIN TABLET | TABLET | คงอยู่ |
+| 2A 100/51 | PHENGESIC BLUE | COMPRESSED TABLET | คงอยู่ |
+| 2A 105/38 | MYODRINE | TABLET | คงอยู่ |
+| 2A 108/43 | ORGESIC | COMPRESSED TABLET | คงอยู่ |
+| 2A 11/57 | MERA | COMPRESSED TABLET | คงอยู่ |
+| 2A 11/68 | ROPADIN TABLET | TABLET | คงอยู่ |
+| 2A 111/58 | MACOL | COMPRESSED TABLET | คงอยู่ |
+| 2A 114/55 | MORASIC | COMPRESSED TABLET | คงอยู่ |
+| 2A 116/56 | MORA | COMPRESSED TABLET | คงอยู่ |
+| 2A 117/38 | NORGIC | TABLET | คงอยู่ |
+| 2A 118/39 | NABESAC | TABLET | คงอยู่ |
+| 2A 12/57 | SPARA | COMPRESSED TABLET | คงอยู่ |
+| 2A 120/36 | MYOPAS (TABLETS) | TABLET | คงอยู่ |
+| 2A 126/40 | MYOGESIC | COMPRESSED TABLET | คงอยู่ |
+| 2A 127/38 | PARINA | FILM-COATED TABLET | คงอยู่ |
+| 2A 13/48 | PHENGESIC | COMPRESSED TABLET | คงอยู่ |
+| 2A 132/38 | PARINA | TABLET | คงอยู่ |
+| 2A 134/48 | MYOPAS TABLET | COMPRESSED TABLET | คงอยู่ |
+| 2A 134/50 | PAINPYRIN TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 2A 147/48 | ACENA | COMPRESSED TABLET | คงอยู่ |
+| 2A 15/54 | NABESAC | COMPRESSED TABLET | คงอยู่ |
+| 2A 15/66 | NORPHEN | TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

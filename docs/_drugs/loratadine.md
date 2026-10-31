@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 75 จาก 212 รายการ) |
+| จำนวนทะเบียนตำรับยา | 212 รายการ (ยังมีผล 75) |
 | การใช้ที่ทราบแล้วในตัวเลือกของโมเดล | 1 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 75 จาก 212 รายการ) |
 
 ## การใช้ที่ทราบแล้วในตัวเลือกของโมเดล
 
@@ -67,7 +67,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/66 | Z-DEEN (10 MG TABLET) | TABLET | คงอยู่ |
+| 1A 1056/41 | ARIDINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 1072/41 | RITYNE | TABLET | คงอยู่ |
+| 1A 1119/41 | STARTYNE | COMPRESSED TABLET | คงอยู่ |
+| 1A 113/62 | ALLERNIX SYRUP | SYRUP | คงอยู่ |
+| 1A 114/42 | LOTIDYNE | COMPRESSED TABLET | คงอยู่ |
+| 1A 114/62 | ALLERNIX TABLET | TABLET | คงอยู่ |
+| 1A 118/57 | BOTIDINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 12/39 | LORSEDIN (10 MG TABLET) | TABLET | คงอยู่ |
+| 1A 120/63 | FALATIEN | TABLET | คงอยู่ |
+| 1A 121/49 | ALLEX TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 121/63 | LORAMED | TABLET | คงอยู่ |
+| 1A 123/66 | LORINOSE | TABLET | คงอยู่ |
+| 1A 140/63 | FALATIEN JUNIOR | SYRUP | คงอยู่ |
+| 1A 147/64 | LORIPAC | TABLET | คงอยู่ |
+| 1A 148/49 | LORA | COMPRESSED TABLET | คงอยู่ |
+| 1A 150/62 | ALERTYNE | TABLET | คงอยู่ |
+| 1A 155/59 | GREATER LORADINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 161/52 | LORATADINE-NIDA | TABLET | คงอยู่ |
+| 1A 162/64 | ALLER- TAB | TABLET | คงอยู่ |
+| 1A 165/59 | CLALERGY | COMPRESSED TABLET | คงอยู่ |
+| 1A 168/46 | HALODIN SYRUP | SYRUP | คงอยู่ |
+| 1A 186/54 | CLORESIAN SYRUP | SYRUP | คงอยู่ |
+| 1A 191/56 | LOREZE | CAPSULE, SOFT | คงอยู่ |
+| 1A 201/44 | LORACINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 21/52 | ALLEX SYRUP | SYRUP | คงอยู่ |
+| 1A 236/65 | LORASTAR SYRUP | SYRUP | คงอยู่ |
+| 1A 239/47 | CLATIDYNE SYRUP | SYRUP | คงอยู่ |
+| 1A 26/50 | GAPRODINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 261/64 | CLARIGY SYRUP | SYRUP | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

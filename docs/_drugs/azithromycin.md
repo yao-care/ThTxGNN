@@ -50,8 +50,8 @@ Azithromycin เป็นยาปฏิชีวนะกลุ่มมาโ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | polyclonal hyperviscosity syndrome |
 | คะแนนการทำนาย TxGNN | 0.9981 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 37 จาก 73 รายการ) |
+| จำนวนทะเบียนตำรับยา | 73 รายการ (ยังมีผล 37) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -77,7 +77,40 @@ Azithromycin เป็นยาปฏิชีวนะกลุ่มมาโ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/67 (NG) | AZITABB | FILM-COATED TABLET | คงอยู่ |
+| 1A 10/58 (NG) | AZYCIN | HARD CAPSULE | คงอยู่ |
+| 1A 12/56 (NG) | ONZET-P (FOR ORAL SUSPENSION) | DRY SUSPENSION | คงอยู่ |
+| 1A 15050/64 (NG) | MILZITH | CAPSULE, HARD | คงอยู่ |
+| 1A 15092/64 (NG) | AZITO DRY SYRUP | ORAL POWDER | คงอยู่ |
+| 1A 15163/65 (NG) | ATOZIN | CAPSULE, HARD | คงอยู่ |
+| 1A 15178/65 (NG) | HOFMAX | CAPSULE, HARD | คงอยู่ |
+| 1A 16/51 (NG) | AZITH (250 MG CAPSULE) | CAPSULE | คงอยู่ |
+| 1A 16/60 (NG) | ZEMAX 250 | CAPSULE HARD | คงอยู่ |
+| 1A 17/63 (NG) | AZITHROMYCIN CAPSULE 250 MG | CAPSULE, HARD | คงอยู่ |
+| 1A 2/51 (NG) | AZITHRO (CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 2/61 (NG) | MANAZITH DRY SYRUP | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 26/67 (E) | K-TOZIN 500 | FILM-COATED TABLET | คงอยู่ |
+| 1A 3/56 (NG) | MEITHROMAX | CAPSULE HARD | คงอยู่ |
+| 1A 32/66 (NG) | ZOTHAMAX | CAPSULE, HARD | คงอยู่ |
+| 1A 35/54 (NG) | ONZET (FOR ORAL SUSPENSION) | DRY SUSPENSION | คงอยู่ |
+| 1A 4/55 (NG) | AZITHRIN | CAPSULE HARD | คงอยู่ |
+| 1A 42/63 (NG) | FLOCTIL 200 | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 42/65 (NG) | AZITHRO (FOR ORAL SUSPENSION) | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 43/63 (NG) | FLOCTIL 100 | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 43/65 (NG) | AZITHRO 250 MG CAPSULE EPS | CAPSULE, HARD | คงอยู่ |
+| 1A 47/50 (NG) | FLOCTIL 250 | CAPSULE HARD | คงอยู่ |
+| 1A 51/54 (NG) | AZITH (ORAL SUSPENSION 200 MG/ 5 ML) | dry syrup | คงอยู่ |
+| 1A 7/60 (NG) | MEITHROMAX (FOR ORAL SUSPENSION) | DRY SUSPENSION | คงอยู่ |
+| 1A 730/67 (E) | K-TOZIN 250 | FILM-COATED TABLET | คงอยู่ |
+| 1A 8/60 (NG) | MANAZITH CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1C 119/68 (NG) | SYTHROMIN | POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1C 13/66 (NG) | MIRAZITH | POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1C 14/60 (NG) | ZITHROTEL | STERILE POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1C 179/47 (N) | ZITHROMAX (POWDER FOR ORAL SUSPENSION 200 MG/5 ML) | DRY SYRUP | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

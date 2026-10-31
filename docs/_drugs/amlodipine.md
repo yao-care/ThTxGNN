@@ -52,8 +52,8 @@ Amlodipine เป็นยาที่ในประเทศไทยได้
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะก้านสมองขาดเลือด (Brain Stem Infarction) |
 | คะแนนการทำนาย TxGNN | 0.9994 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 82 จาก 192 รายการ) |
+| จำนวนทะเบียนตำรับยา | 192 รายการ (ยังมีผล 82) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -111,7 +111,40 @@ Amlodipine เป็นยาที่ในประเทศไทยได้
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/60 (NG) | AMVAS 10 | COMPRESSED TABLET | คงอยู่ |
+| 1A 13/43 (NG) | AMLOPINE 10 | COMPRESSED TABLET | คงอยู่ |
+| 1A 14/43 (NG) | AMLOPINE | COMPRESSED TABLET | คงอยู่ |
+| 1A 15/60 (E) | AMLODIPINE TABLETS 2.5 MG “MEIJI” | FILM-COATED TABLET | คงอยู่ |
+| 1A 15153/65 (NG) | AMVAS | TABLET | คงอยู่ |
+| 1A 16/47 (NG) | DETEN (5 MG. TABLET ) | COMPRESSED TABLET | คงอยู่ |
+| 1A 16/60 (E) | AMLODIPINE TABLETS 5 MG “MEIJI” | FILM-COATED TABLET | คงอยู่ |
+| 1A 17/47 (NG) | DETEN (10 MG. TABLET ) | COMPRESSED TABLET | คงอยู่ |
+| 1A 19/59 (NG) | AMBES-10 | COMPRESSED TABLET | คงอยู่ |
+| 1A 2/60 (NG) | AMPINE-5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 23/65 (NG) | AMLOVASC 10 | TABLET | คงอยู่ |
+| 1A 26/59 (NG) | AMBES-5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 3/51 (NG) | AMLOD 5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 30/59 (NG) | AMLOVASC 5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 36/50 (NG) | NARVIN 5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 37/50 (NG) | NARVIN 10 | COMPRESSED TABLET | คงอยู่ |
+| 1A 4/60 (E) | AMLODIPINE TABLETS 10 MG “MEIJI” | FILM-COATED TABLET | คงอยู่ |
+| 1A 45/50 (NG) | AMLOD 10 | COMPRESSED TABLET | คงอยู่ |
+| 1A 58/60 (NG) | LODIPINE 10 | COMPRESSED TABLETS | คงอยู่ |
+| 1A 710/67 (E) | VASPRIM | TABLET | คงอยู่ |
+| 1A 73/60 (NG) | AMLOPRESS 5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 74/60 (NG) | AMLOPRESS 10 | COMPRESSED TABLET | คงอยู่ |
+| 1A 9/64 (NG) | AMPINE-10 | TABLET | คงอยู่ |
+| 1C 12/63 (N) | NORVASC (TABLETS 5 MG) | TABLET | คงอยู่ |
+| 1C 13/63 (N) | NORVASC (TABLETS 10 MG) | TABLET | คงอยู่ |
+| 1C 14/55 (NG) | AMLODAC 5 | COMPRESSED TABLET | คงอยู่ |
+| 1C 31/54 (NG) | AMCARDIA-5 | COMPRESSED TABLET | คงอยู่ |
+| 1C 42/53 (NG) | AMLODAC 10 | COMPRESSED TABLET | คงอยู่ |
+| 1C 47/51 (NG) | AMCARDIA-10 | COMPRESSED TABLET | คงอยู่ |
+| 2B 3/58 (NC) | UNISIA 8 MG/5 MG | COMPRESSED TABLET | ปลด SMP(22 พฤษภาคม 2561) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

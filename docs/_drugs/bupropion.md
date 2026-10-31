@@ -48,8 +48,8 @@ Bupropion เดิมใช้รักษาภาวะซึมเศร้�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคสมาธิสั้น (Attention Deficit-Hyperactivity Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 5 จาก 11 รายการ) |
+| จำนวนทะเบียนตำรับยา | 11 รายการ (ยังมีผล 5) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -88,7 +88,19 @@ Bupropion เดิมใช้รักษาภาวะซึมเศร้�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 5/66 (N) | WELLBUTRIN XL (24 HOUR) 150 MG | PROLONGED-RELEASE TABLET | คงอยู่ |
+| 1C 6/66 (N) | WELLBUTRIN XL (24 HOUR) 300 MG | PROLONGED-RELEASE TABLET | คงอยู่ |
+| 1C 86/53 (NC) | WELLBUTRIN XL (24 HOUR) 150 MG | SUSTAINED RELEASE TABLET | ปลด SMP(26 ธันวาคม 2555) |
+| 1C 87/53 (NC) | WELLBUTRIN XL (24 HOUR) 300 MG | SUSTAINED RELEASE TABLET | ปลด SMP(26 ธันวาคม 2555) |
+| 2C 4/66 (NC) | CONTRAVE | PROLONGED-RELEASE TABLET | คงอยู่ |
+| 1C 111/47 (N) | QUOMEM | SUSTAINED RELEASE TABLET | ยกเลิก |
+| 1C 19/62 (N) | QUOMEM | SUSTAINED RELEASE TABLET | ยกเลิก |
+| 1C 23/43 (N) | QUOMEM | SUSTAINED RELEASE TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1C 23/43 (NC) | QUOMEM | SUSTAINED RELEASE TABLET | ยกเลิก(1 เมษายน 2546) |
+| 1C 86/53 (N) | WELLBUTRIN XL (24 HOUR) 150 MG | SUSTAINED RELEASE TABLET | ยกเลิก |
+| 1C 87/53 (N) | WELLBUTRIN XL (24 HOUR) 300 MG | SUSTAINED RELEASE TABLET | ยกเลิก |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -50,8 +50,8 @@ Dexamethasone เป็นยากลุ่มคอร์ติโคสเต
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผมร่วงเป็นหย่อม (Alopecia Areata) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L3 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 92 จาก 599 รายการ) |
+| จำนวนทะเบียนตำรับยา | 599 รายการ (ยังมีผล 92) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 หมายเหตุ: ข้อมูลที่รวบรวมสำหรับรายงานนี้ให้ระดับ L2 แต่ตามเกณฑ์ที่กำหนด L2 ต้องมี Phase 2/3 RCT ที่เสร็จสมบูรณ์ ซึ่งไม่พบการทดลองที่ลงทะเบียนไว้ มีเพียง RCT ขนาดเล็กหนึ่งฉบับในวรรณกรรม (30 คน, แบบเปิดเผย) และ meta-analysis จึงจัดเป็น L3 ซึ่งสอดคล้องกับหลักฐานจริงมากกว่า
@@ -84,7 +84,40 @@ Dexamethasone เป็นยากลุ่มคอร์ติโคสเต
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/59 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1009/29 | DEXON (INJECTION) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1070/30 | DEXAMETHASONE (TABLET) | TABLET | คงอยู่ |
+| 1A 1164/31 | DEXAMETHASONE TABLET | TABLET | คงอยู่ |
+| 1A 117/57 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 118/55 | DEXA TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 121/55 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 121/60 | DEXAMETHASONE | TABLET | คงอยู่ |
+| 1A 122/55 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1244/30 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 13/62 (E) | DEXAMETHASONE TABLETS | TABLET | คงอยู่ |
+| 1A 1347/30 | LODEXA-5 | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 135/30 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1403/30 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 147/31 | DEXAMETHASONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 149/69 (E) | DEXAMETHASONE TABLETS | TABLET | คงอยู่ |
+| 1A 15/62 (E) | DEXAMETHASONE TABLETS | TABLET | คงอยู่ |
+| 1A 15/66 | DEXAMETHASONE TABLETS | TABLET | คงอยู่ |
+| 1A 1684/28 | XASONE | STERILE SOLUTION | คงอยู่ |
+| 1A 188/42 | DEXAMETHASONE TABETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1950/29 | DEXAMETHASONE TABLET | TABLET | คงอยู่ |
+| 1A 1958/29 | DEXASONE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 196/63 | DEXAMETHASONE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1967/28 | DEXTHASONE | TABLET | คงอยู่ |
+| 1A 2102/28 | DEXA PURPLE | TABLET | คงอยู่ |
+| 1A 213/55 | DEXAMETHASONE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 2178/30 | DEXAPRO ELIXIR | ELIXIR | คงอยู่ |
+| 1A 2179/30 | DEXAMETHASONE | COMPRESSED TABLET | คงอยู่ |
+| 1A 22/63 (E) | DEXAMETHASONE TABLETS | TABLET | คงอยู่ |
+| 1A 2506/28 | PHENODEX | SOLUTION FOR INJECTION | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

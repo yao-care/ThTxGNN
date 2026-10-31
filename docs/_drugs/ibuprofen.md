@@ -50,8 +50,8 @@ Ibuprofen เดิมใช้บรรเทาปวด ลดไข้ แ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | acromesomelic dysplasia ชนิด Hunter-Thompson |
 | คะแนนการทำนาย TxGNN | 0.9974 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 228 จาก 865 รายการ) |
+| จำนวนทะเบียนตำรับยา | 865 รายการ (ยังมีผล 228) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -80,7 +80,40 @@ Ibuprofen เดิมใช้บรรเทาปวด ลดไข้ แ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/48 | IBULIUM 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1/57 | PIP-IBU 200 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1/67 (E) | P-FEN 400 | FILM-COATED TABLET | คงอยู่ |
+| 1A 10/41 | RHEUMANOX 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1056/43 | ANUFEN 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1057/43 | ANUFEN 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 106/57 | PROBUFEN 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1077/40 | MANO-BRUZONE SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 1098/43 | VENOFEN - 600 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1108/43 | ANUFEN 200 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1116/40 | NEOPROFEN - 600 | FILM - COATED TABLET | คงอยู่ |
+| 1A 112/51 | IBUMAN-600 TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 113/37 | GREATOFEN 600 TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 1152/44 | HEIDI 200 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1153/44 | HEIDI 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1158/40 | SINPROFEN 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1159/44 | IBUMAN-400 TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 1164/43 | IBUSTAR FORTE | FILM - COATED TABLET | คงอยู่ |
+| 1A 1166/43 | IBUSTAR FORTE | FILM - COATED TABLET | คงอยู่ |
+| 1A 1167/43 | IBUSTAR | FILM - COATED TABLET | คงอยู่ |
+| 1A 1168/43 | IBUSTAR | FILM - COATED TABLET | คงอยู่ |
+| 1A 12/68 | BRUMEN TABLET | FILM-COATED TABLET | คงอยู่ |
+| 1A 122/57 | I FEN F 400 (FILM - COATED TABLETS) | FILM - COATED TABLET | คงอยู่ |
+| 1A 128/35 | CEFEN 200 P | FILM-COATED TABLET | คงอยู่ |
+| 1A 13/57 | PROBUFEN 600 | FILM - COATED TABLET | คงอยู่ |
+| 1A 130/55 | GOFEN 200 | CAPSULE SOFT | คงอยู่ |
+| 1A 131/55 | GOFEN 400 | capsule soft | คงอยู่ |
+| 1A 131/63 | P-FEN-P 600 | FILM-COATED TABLET | คงอยู่ |
+| 1A 1344/30 | PROZONE | FILM-COATED TABLET | คงอยู่ |
+| 1A 136/41 | APROFEN 200 | FILM-COATED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

@@ -50,8 +50,8 @@ Propranolol เป็นยากลุ่มต้านตัวรับเ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะกล้ามเนื้อส่วนปลายเสื่อมชนิด Tateyama (distal myopathy, Tateyama type) |
 | คะแนนการทำนาย TxGNN | 0.9940 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 21 จาก 183 รายการ) |
+| จำนวนทะเบียนตำรับยา | 183 รายการ (ยังมีผล 21) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Propranolol เป็นยากลุ่มต้านตัวรับเ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 120/32 | BETALOL 40 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 145/32 | BETALOL 10 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 1634/30 | PRORAL | FILM-COATED TABLET | คงอยู่ |
+| 1A 173/55 | INNORAL | FILM - COATED TABLET | คงอยู่ |
+| 1A 1830/28 | PROPANOL TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 194/48 | IDELOL 10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 226/56 | CARDENOL 40 | FILM - COATED TABLET | คงอยู่ |
+| 1A 2375/28 | PERLOL TABLETS 10 MG | FILM-COATED TABLET | คงอยู่ |
+| 1A 2705/28 | INOLOL 40 | FILM-COATED TABLET | คงอยู่ |
+| 1A 2712/28 | INOLOL 10 | FILM-COATED TABLET | คงอยู่ |
+| 1A 320/58 | BELOC-40 | FILM - COATED TABLET | คงอยู่ |
+| 1A 346/43 | PROPRANOLOL TABLETS 10 MG | FILM - COATED TABLET | คงอยู่ |
+| 1A 395/55 | INNORAL 40 | FILM - COATED TABLET | คงอยู่ |
+| 1A 401/43 | ANNALOL - 10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 402/43 | ANNALOL - 40 | FILM - COATED TABLET | คงอยู่ |
+| 1A 408/58 | BELOC-10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 435/30 | C.V.S.-10 FILM COATED TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 476/38 | CARDENOL 40 TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 476/53 | PIPPROLOL 10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 63/56 | CARDENOL 10 | FILM - COATED TABLET | คงอยู่ |
+| 1A 727/31 | PROPHANOL (10) TABLET | FILM - COATED TABLET | คงอยู่ |
+| 1A 1/42 | P-PAROL 40 | FILM - COATED TABLET | ยกเลิก(20 พฤษภาคม 2557) |
+| 1A 1045/30 | PROLOL (160 MG.) | FILM - COATED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 1083/30 | PROLOL (40 MG) | FILM - COATED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1A 1088/30 | PROLOL (10 MG.) | FILM - COATED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1A 1153/43 | PROTEX 10 | FILM - COATED TABLET | ยกเลิก(3 กุมภาพันธ์ 2546) |
+| 1A 1156/41 | P - PAROL 10 | FILM - COATED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1A 119/32 | BETALOL 10 MG. | FILM - COATED TABLET | ยกเลิก(27 มีนาคม 2552) |
+| 1A 1200/31 | RANOLOL 10 | COMPRESSED TABLET | ยกเลิก(29 กรกฎาคม 2547) |
+| 1A 121/31 | PROPRANOL-10 | COMPRESSED TABLET | ยกเลิก(29 กรกฎาคม 2547) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

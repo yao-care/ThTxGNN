@@ -50,8 +50,8 @@ Isoniazid เป็นยาต้านวัณโรคชนิดรับ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบ (Conjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9936 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 109 รายการ) |
+| จำนวนทะเบียนตำรับยา | 109 รายการ (ยังมีผล 9) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -81,7 +81,40 @@ Isoniazid เป็นยาต้านวัณโรคชนิดรับ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 133/43 | ISONIAZID TABLETS (100 MG) | - | คงอยู่ |
+| 1A 207/29 | ISONIAZID TABLETS | TABLET | คงอยู่ |
+| 1A 251/55 | ISONIAZID 100 MG. | COMPRESSED TABLET | คงอยู่ |
+| 1A 45/28 | ISONIAZID 100 MG. | TABLET | คงอยู่ |
+| 2C 1/68 (P) | RIFAPENTINE AND ISONIAZID TABLETS 300 MG/300 MG | FILM-COATED TABLET | คงอยู่ |
+| 2C 13/65 | FORECOX - TRAC | FILM-COATED TABLET | คงอยู่ |
+| 2C 6/67 | RIFAMPIN, ISONIAZID, PYRAZINAMIDE AND ETHAMBUTOL HYDROCHLORI | FILM-COATED TABLET | คงอยู่ |
+| 2C 7/67 | RIFAMPIN, ISONIAZID AND ETHAMBUTOL HYDROCHLORIDE TABLET | FILM-COATED TABLET | คงอยู่ |
+| 2C 8/67 | RIFAMPIN 150 MG AND ISONIAZID 75 MG TABLETS | FILM-COATED TABLET | คงอยู่ |
+| 1A 1080/41 | I.N.H. 100 | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 1100/27 | NYDRAZID | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1111/29 | ISONIAZID | COMPRESSED TABLET | ยกเลิก(28 ธันวาคม 2559) |
+| 1A 116/57 | ISONIAZID TABLETS | COMPRESSED TABLET | ยกเลิก |
+| 1A 1160/30 | ISONIAZID TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1216/27 | ISO - SAENG THAI | COMPRESSED TABLET | ยกเลิก |
+| 1A 134/29 | ISONIAZID 50 MG | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 135/29 | ISONIAZID 100 MG | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 14/31 | I.N.H. 100 | COMPRESSED TABLET | ยกเลิก(10 กันยายน 2555) |
+| 1A 1440/28 | ISONIAZID 100 mg. | COMPRESSED TABLET | ยกเลิก |
+| 1A 1441/28 | ISONIAZID 50 mg. | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 1656/27 | ANTITUBAN | STERILE SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 229/28 | I.N.H. 100 MG. | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 230/26 | ISONIAZID 100 MG. | COMPRESSED TABLET | ยกเลิก(19 กรกฎาคม 2555) |
+| 1A 231/55 | ISOPHIHA | STERILE SOLUTION | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 2566/28 | ISONIAZID INJECTION | STERILE SOLUTION | หมดอายุ |
+| 1A 385/27 | ISOPHIHA | STERILE SOLUTION | ยกเลิก(9 เมษายน 2556) |
+| 1A 40/32 | ISONIAZID 300 MG. | COMPRESSED TABLET | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 423/26 | ISONIAZID | COMPRESSED TABLET | ยกเลิก |
+| 1A 429/55 | I. N. H. 100 | COMPRESSED TABLET | ยกเลิก |
+| 1A 44/28 | ISONIAZID 50 MG. | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

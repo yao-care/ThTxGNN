@@ -49,8 +49,8 @@ Lisinopril เป็นยากลุ่มยับยั้งเอนไซ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ความดันปอดสูงจากโรคปอดและ/หรือภาวะขาดออกซิเจน (pulmonary hypertension owing to lung disease and/or hypoxia) |
 | คะแนนการทำนาย TxGNN | 0.9989 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 7 จาก 44 รายการ) |
+| จำนวนทะเบียนตำรับยา | 44 รายการ (ยังมีผล 7) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -80,7 +80,40 @@ Lisinopril เป็นยากลุ่มยับยั้งเอนไซ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 116/35 | LISPRIL 10 MG | TABLET | คงอยู่ |
+| 1A 117/35 | LISPRIL 5 MG | TABLET | คงอยู่ |
+| 1A 118/35 | LISPRIL 20 MG | TABLET | คงอยู่ |
+| 1C 174/45 | DAPRIL 5 | COMPRESSED TABLET | คงอยู่ |
+| 1C 175/45 | DAPRIL 10 | COMPRESSED TABLET | คงอยู่ |
+| 1C 176/45 | DAPRIL 20 | COMPRESSED TABLET | คงอยู่ |
+| 1C 95/59 | ZESTRIL (TABLETS 10 MG) | COMPRESSED TABLET | คงอยู่ |
+| 1B 53/34 | PRINIVIL | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1B 54/34 | PRINIVIL | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1B 55/34 | PRINIVIL | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 10/33 | PRINIVIL | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 11/33 | PRINIVIL | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 115/38 | DAPRIL 5 | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1C 115/46 | LISDENE 5 MG | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1C 116/38 | DAPRIL 10 | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1C 116/46 | LISDENE 10 MG. | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1C 117/38 | DAPRIL 20 | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1C 117/46 | LISDENE 20 MG | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2554) |
+| 1C 117/53 | LISIR-10 | COMPRESSED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1C 12/33 | PRINIVIL | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 145/47 | HIPRIL - 5 | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1C 238/47 | LISORIL - 2.5 | COMPRESSED TABLET | ยกเลิก(2 สิงหาคม 2549) |
+| 1C 239/47 | LISORIL - 5 | COMPRESSED TABLET | ยกเลิก(2 สิงหาคม 2549) |
+| 1C 240/47 | LISORIL - 10 | COMPRESSED TABLET | ยกเลิก(2 สิงหาคม 2549) |
+| 1C 253/42 | ZESTRIL (5 MG) | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1C 254/42 | ZESTRIL (10 MG) | COMPRESSED TABLET | ยกเลิก(19 มีนาคม 2562) |
+| 1C 255/42 | ZESTRIL (20 MG) | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1C 293/49 | LISIR 5 MG | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1C 322/49 | LISORIL - 10 | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1C 325/49 | LISORIL - 5 | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 26 จาก 146 รายการ) |
+| จำนวนทะเบียนตำรับยา | 146 รายการ (ยังมีผล 26) |
 | การใช้ที่ทราบแล้วในตัวเลือกของโมเดล | 1 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 26 จาก 146 รายการ) |
 
 ## การใช้ที่ทราบแล้วในตัวเลือกของโมเดล
 
@@ -67,7 +67,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 1/64 | OESTROGEL | GEL | คงอยู่ |
+| 1C 10/66 (NC) | LENZETTO | TRANSDERMAL SPRAY, SOLUTION | คงอยู่ |
+| 1C 100/50 | PROGYNOVA 1 MG | SUGAR COATED TABLET | คงอยู่ |
+| 1C 15182/64 | FEMIEST | VAGINAL TABLET | คงอยู่ |
+| 1C 168/54 | OESTRODOSE | GEL | คงอยู่ |
+| 1C 170/54 | OESTROGEL | GEL | คงอยู่ |
+| 1C 197/59 | POSTMENOP 2 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 2/64 | OESTRODOSE | GEL | คงอยู่ |
+| 1C 231/39 | ESTROFEM | FILM-COATED TABLET | คงอยู่ |
+| 1C 327/69 | POSTMENOP VA 1 MG | COATED TABLET | คงอยู่ |
+| 1C 328/69 | POSTMENOP VA 2 MG | COATED TABLET | คงอยู่ |
+| 1C 38/64 | PROGYNOVA 2 MG. | COATED TABLET | คงอยู่ |
+| 1C 4/64 | DIVIGEL | GEL | คงอยู่ |
+| 1C 43/51 | POSTMENOP 1 MG | FILM - COATED TABLET | คงอยู่ |
+| 1C 81/56 | EDIOL F.C.TABLETS 1 MG | FILM - COATED TABLET | คงอยู่ |
+| 2A 22/58 | DEPO MONAT | STERILE SUSPENSION | คงอยู่ |
+| 2C 24/50 | CYCLO - PROGYNOVA | SUGAR COATED TABLET | คงอยู่ |
+| 2C 31/57 (N) | ZOELY (2.5 MG/1.5 MG FILM-COATED TABLETS) | FILM - COATED TABLET | คงอยู่ |
+| 2C 31/57 (NC) | ZOELY (2.5 MG/1.5 MG FILM-COATED TABLETS) | FILM - COATED TABLET | ปลด SMP(2 พฤษภาคม 2561) |
+| 2C 4/50 (N) | ANGELIQ | FILM-COATED TABLET | คงอยู่ |
+| 2C 42/53 (N) | FEMOSTON CONTI | FILM - COATED TABLET | คงอยู่ |
+| 2C 43/53 (N) | FEMOSTON 1/10 | FILM - COATED TABLET | คงอยู่ |
+| 2C 46/42 | ACTIVELLE | FILM-COATED TABLET | คงอยู่ |
+| 2C 54/52 | CYCLOFEM | STERILE SUSPENSION | คงอยู่ |
+| 2C 6/64 (NC) | QLAIRA | FILM-COATED TABLET | คงอยู่ |
+| 2C 75/52 | MARVELON | COMPRESSED TABLET | คงอยู่ |
+| 1A 1269/28 | HORMIN - B | STERILE SOLUTION | ยกเลิก(17 กรกฎาคม 2555) |
+| 1A 148/53 | ESTRABEN-VM | STERILE SOLUTION | ยกเลิก |
+| 1A 234/55 | HORMIN - B | STERILE SOLUTION | ยกเลิก |
+| 1A 261/42 | H.L.P. HORMONE FOR WOMEN | STERILE SOLUTION | ยกเลิก(27 มีนาคม 2552) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

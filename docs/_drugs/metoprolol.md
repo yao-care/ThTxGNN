@@ -48,8 +48,8 @@ Metoprolol เป็นยากลุ่มตัวบล็อกเบต้
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง |
 | คะแนนการทำนาย TxGNN | 0.9991 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 10 จาก 61 รายการ) |
+| จำนวนทะเบียนตำรับยา | 61 รายการ (ยังมีผล 10) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -68,7 +68,40 @@ Metoprolol เป็นยากลุ่มตัวบล็อกเบต้
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 126/67 | METOPRESS 100 | TABLET | คงอยู่ |
+| 1A 212/31 | MELOL TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 227/56 | CARDELOC | COMPRESSED TABLET | คงอยู่ |
+| 1A 25/63 | MEPROLOL | TABLET | คงอยู่ |
+| 1A 357/40 | MELOC TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 371/37 | METPROLOL | FILM - COATED TABLET | คงอยู่ |
+| 1A 750/38 | SEFLOC | FILM-COATED TABLET | คงอยู่ |
+| 1C 177/42 | METOPROLOL 100 STADA | COMPRESSED TABLET | คงอยู่ |
+| 1C 99/53 (N) | BETALOC ZOK 100 MG | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1C 99/53 (NC) | BETALOC ZOK 100 MG | SUSTAINED RELEASE TABLET | ปลด SMP(16 ธันวาคม 2559) |
+| 1A 10/45 | BETABLOK | COMPRESSED TABLET | ยกเลิก(31 มีนาคม 2559) |
+| 1A 1003/41 | METOPOL | FILM - COATED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 1004/43 | BETA - AD | COMPRESSED TABLET | ยกเลิก(3 กุมภาพันธ์ 2546) |
+| 1A 1152/40 | MELOG TABLETS | FILM - COATED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 1376/29 | METOBLOCK | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1430/28 | METOLOL | COMPRESSED TABLET | ยกเลิก(9 มีนาคม 2555) |
+| 1A 1532/29 | HYPERLOC TABLETS | COMPRESSED TABLET | ยกเลิก |
+| 1A 180/64 | NYCALOC | TABLET | ยกเลิก |
+| 1A 189/42 | CARDMET (100 MG TABLETS) | COMPRESSED TABLET | ยกเลิก(20 ธันวาคม 2545) |
+| 1A 201/59 | METOPROLOL GPO | COMPRESSED TABLET | ยกเลิก(21 ตุลาคม 2562) |
+| 1A 205/53 | MEPROLOL | FILM - COATED TABLET | ยกเลิก(4 กุมภาพันธ์ 2563) |
+| 1A 27/34 | METPROLOL | FILM - COATED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 285/57 | NYCALOC | COMPRESSED TABLET | ยกเลิก(18 มิถุนายน 2564) |
+| 1A 303/38 | CARDELOC | COMPRESSED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 334/29 | METOLOL TABLETS | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 373/46 | VATOL | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1A 388/51 | METOBLOCK | FILM - COATED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1A 396/28 | BETALOC 100 MG. | COMPRESSED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1A 4/54 | METOBLOCK | FILM - COATED TABLET | ยกเลิก(7 เมษายน 2558) |
+| 1A 430/50 | NYCALOC | COMPRESSED TABLET | ยกเลิก(28 ตุลาคม 2557) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

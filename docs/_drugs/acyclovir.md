@@ -48,8 +48,8 @@ Acyclovir เป็นยาต้านไวรัสที่เดิมใ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9967 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 120 จาก 331 รายการ) |
+| จำนวนทะเบียนตำรับยา | 331 รายการ (ยังมีผล 120) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -71,7 +71,40 @@ Acyclovir เป็นยาต้านไวรัสที่เดิมใ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/57 | CLOVIRAX 400 | COMPRESSED TABLET | คงอยู่ |
+| 1A 1045/44 | A.C.V. | COMPRESSED TABLET | คงอยู่ |
+| 1A 1120/43 | VIRONIL CREAM | CREAM | คงอยู่ |
+| 1A 1128/40 | VIRAXY 400 | COMPRESSED TABLET | คงอยู่ |
+| 1A 1134/41 | VICLOVIR CREAM | CREAM | คงอยู่ |
+| 1A 129/45 | CLINOVIR - 400 | COMPRESSED TABLET | คงอยู่ |
+| 1A 134/62 | ACTAVIR 250 | POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 135/62 | ACTAVIR 500 | POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 144/52 | ZORAX SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 150/42 | HERPENON TAB | COMPRESSED TABLET | คงอยู่ |
+| 1A 161/50 | VIZO CREAM | CREAM | คงอยู่ |
+| 1A 167/64 | VIROGON 800 | TABLET | คงอยู่ |
+| 1A 168/64 | VIROGON | TABLET | คงอยู่ |
+| 1A 17/57 | ACEVAX 400 | COMPRESSED TABLET | คงอยู่ |
+| 1A 170/64 | VIROGON 400 | TABLET | คงอยู่ |
+| 1A 174/42 | VIROMED | COMPRESSED TABLET | คงอยู่ |
+| 1A 1781/29 | VIRAXY | COMPRESSED TABLET | คงอยู่ |
+| 1A 179/45 | CLINOVIR - 200 | COMPRESSED TABLET | คงอยู่ |
+| 1A 18/57 | ACEVAX 800 | COMPRESSED TABLET | คงอยู่ |
+| 1A 188/47 | VILERM IV INFUSION 250 MG | STERILE POWDER | คงอยู่ |
+| 1A 190/38 | ACYVIR | COMPRESSED TABLET | คงอยู่ |
+| 1A 192/45 | VIVIR 800 | COMPRESSED TABLET | คงอยู่ |
+| 1A 195/33 | ZOCOVIN CREAM | CREAM | คงอยู่ |
+| 1A 202/52 | STARCLOVIR CREAM | CREAM | คงอยู่ |
+| 1A 209/62 | PAVIRIA | TABLET | คงอยู่ |
+| 1A 210/62 | PAVIRIA | TABLET | คงอยู่ |
+| 1A 212/62 | PAVIRIA | TABLET | คงอยู่ |
+| 1A 215/52 | STARCLOVIR 400 | COMPRESSED TABLET | คงอยู่ |
+| 1A 217/44 | COVIR 400 MG TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 218/50 | VICLOVIR-400 | COMPRESSED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -48,8 +48,8 @@ Ampicillin เป็นยาปฏิชีวนะกลุ่มเพนิ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กล่องเสียงอักเสบ (Laryngitis) |
 | คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 37 จาก 777 รายการ) |
+| จำนวนทะเบียนตำรับยา | 777 รายการ (ยังมีผล 37) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -83,7 +83,40 @@ Ampicillin เป็นยาปฏิชีวนะกลุ่มเพนิ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 113/26 | UTOCILLIN | CAPSULE HARD | คงอยู่ |
+| 1A 1238/29 | AMPICILLIN CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 1349/29 | STERILE AMPICILLIN SODIUM | - | คงอยู่ |
+| 1A 1467/27 | AMPICILLIN PAEDIATRIC TABLETS | FILM - COATED TABLET | คงอยู่ |
+| 1A 1563/29 | AMPI-250 CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 162/29 | AMPILIN 500 MG. | CAPSULE HARD | คงอยู่ |
+| 1A 1672/29 | AMPI-125 (DRY SYRUP) | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 168/57 | AMPI - 500 CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 190/39 | AMPICILLIN CAPSULES 500 MG | CAPSULE, HARD | คงอยู่ |
+| 1A 1909/28 | PICILLIN | CAPSULE, HARD | คงอยู่ |
+| 1A 1994/28 | AMPI-500 CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 22/68 | AMPI-DRY | POWDER FOR SYRUP | คงอยู่ |
+| 1A 2281/29 | AMPICILLIN DRY SYRUP | POWDER FOR SYRUP | คงอยู่ |
+| 1A 2301/29 | AMPICILLIN CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 2399/29 | AMPICILLIN | CAPSULE HARD | คงอยู่ |
+| 1A 24/64 | PICILLIN | CAPSULE, HARD | คงอยู่ |
+| 1A 247/55 | PHIHACILLIN - 500 | CAPSULE HARD | คงอยู่ |
+| 1A 2636/29 | AMPICILLIN CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 265/41 | AMPIPEN-500 | CAPSULE HARD | คงอยู่ |
+| 1A 278/49 | VICCILLIN CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 32/58 | AMTA 250 | CAPSULE HARD | คงอยู่ |
+| 1A 36/58 | AMTA 500 | CAPSULE HARD | คงอยู่ |
+| 1A 374/28 | AMPI - ORAL 500 | CAPSULE, HARD | คงอยู่ |
+| 1A 486/40 | AMPIPEN | CAPSULE HARD | คงอยู่ |
+| 1A 487/30 | STERILE AMPICILLIN SODIUM | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 55/68 | AMPICILLIN 500 CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 580/39 | AMPICILLIN - 500 CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 676/39 | AMPICILLIN-250 CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 751/43 | AMPIPEN N.L-250 | CAPSULE HARD | คงอยู่ |
+| 1A 862/43 | AMPIPEN N.L. - 500 | CAPSULE HARD | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

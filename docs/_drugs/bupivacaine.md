@@ -48,8 +48,8 @@ Bupivacaine เป็นยาชาเฉพาะที่ ใช้ทำใ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | acrodermatitis chronica atrophicans |
 | คะแนนการทำนาย TxGNN | 0.9923 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 9 จาก 48 รายการ) |
+| จำนวนทะเบียนตำรับยา | 48 รายการ (ยังมีผล 9) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Bupivacaine เป็นยาชาเฉพาะที่ ใช้ทำใ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 154/69 | BUSPICAINE 0.5% SPINAL HEAVY (4ML/AMPOULE) | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 23/62 | MARCAINE 0.5% | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 25/62 | MARCAINE SPINAL HEAVY, SOLUTION 5MG/ML | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 32/64 | BUPIVACAINE HYDROCHLORIDE INJECTION 0.5% | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 34/67 | BUPISPINE HEAVY | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 455/69 | MARCAINE 0.5% | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 70/62 | MARCAINE SPINAL, SOLUTION 5 MG/ML | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 9/64 | BUPITROY HEAVY INJ | SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 92/61 | REGIVELL SPINAL 0.5% HEAVY | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 163/53 | BUVACAINE 0.5% (HEAVY) | STERILE SOLUTION | ยกเลิก(29 ธันวาคม 2563) |
+| 1A 243/63 | BUVACAINE 0.5% (HEAVY) | SOLUTION FOR INJECTION | ยกเลิก |
+| 1A 387/52 | BUVACAINE | STERILE SOLUTION | ยกเลิก(9 มีนาคม 2564) |
+| 1A 63/64 | BUVACAINE | SOLUTION FOR INJECTION | ยกเลิก |
+| 1C 100/28 | MARCAINE 0.5% | STERILE SOLUTION | ยกเลิก(24 มีนาคม 2543) |
+| 1C 101/39 | MARCAIN 0.5% | STERILE SOLUTION | ยกเลิก(8 กรกฎาคม 2559) |
+| 1C 102/39 | MARCAIN 0.25% | STERILE SOLUTION | ยกเลิก(5 พฤษภาคม 2557) |
+| 1C 1040/28 | MARCAINE SPINAL 0.5% HEAVY | STERILE SOLUTION | ยกเลิก(5 พฤษภาคม 2557) |
+| 1C 114/32 | MARCAINE SPINAL 0.5% (5 MG./ML.) | STERILE SOLUTION | ยกเลิก(5 พฤษภาคม 2557) |
+| 1C 119/54 | BUPITROY HEAVY | STERILE SOLUTION | ยกเลิก |
+| 1C 128/44 | MARCAIN 0.5% | STERILE SOLUTION | ยกเลิก(12 มกราคม 2550) |
+| 1C 138/49 | BUPIVACAINE HCL INJ. (USP,0.25%) | STERILE SOLUTION | ยกเลิก(1 ตุลาคม 2551) |
+| 1C 157/53 | MARCAINE SPINAL HEAVY, SOLUTION 5 MG/ML | STERILE SOLUTION | ยกเลิก(5 มิถุนายน 2562) |
+| 1C 158/53 | MARCAINE SPINAL, SOLUTION 5 MG/ML | STERILE SOLUTION | ยกเลิก(28 พฤศจิกายน 2562) |
+| 1C 159/54 | REGIVELL INJECTION | STERILE SOLUTION | ยกเลิก(21 ธันวาคม 2561) |
+| 1C 18/53 | REGIVELL INJECTION | STERILE SOLUTION | ยกเลิก(12 กันยายน 2554) |
+| 1C 223/51 | BUPIVACAINE HCL INJ. (USP, 0.5%) | STERILE SOLUTION | ยกเลิก(9 เมษายน 2556) |
+| 1C 229/51 | BUPI VACAINE HCL INJ. (USP 0.75%) | STERILE SOLUTION | ยกเลิก(9 เมษายน 2556) |
+| 1C 231/51 | BUPIVACAINE HCL INJ. (USP,0.25%) | STERILE SOLUTION | ยกเลิก(9 เมษายน 2556) |
+| 1C 244/52 | BUPITROY (0.5%) | STERILE SOLUTION | ยกเลิก |
+| 1C 313/46 | HANA BUPIVACAINE 0.5% INJECTION | STERILE SOLUTION | ยกเลิก(27 มีนาคม 2552) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

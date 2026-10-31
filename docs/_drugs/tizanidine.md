@@ -48,8 +48,8 @@ Tizanidine เป็นยาชนิดรับประทานที่อ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (migraine disorder) |
 | คะแนนการทำนาย TxGNN | 0.9979 |
 | ระดับหลักฐาน | L2 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 8 จาก 22 รายการ) |
+| จำนวนทะเบียนตำรับยา | 22 รายการ (ยังมีผล 8) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -82,7 +82,30 @@ Tizanidine เป็นยาชนิดรับประทานที่อ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 191/52 | TIDAR 2 MG. | COMPRESSED TABLET | คงอยู่ |
+| 1A 192/52 | TIDAR 4 MG | COMPRESSED TABLET | คงอยู่ |
+| 1A 266/55 | TONOLYTE 4 | COMPRESSED TABLET | คงอยู่ |
+| 1A 456/55 | TONOLYTE 2 | COMPRESSED TABLET | คงอยู่ |
+| 1C 119/58 | TIZAN 2 | COMPRESSED TABLET | คงอยู่ |
+| 1C 120/51 | SIRDALUD 2 MG | COMPRESSED TABLET | คงอยู่ |
+| 1C 126/58 | TIZAN 4 | COMPRESSED TABLET | คงอยู่ |
+| 1C 63/52 | SIRDALUD 4 MG | COMPRESSED TABLET | คงอยู่ |
+| 1A 78/52 | TIZANIDE 2 | COMPRESSED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 79/52 | TIZANIDE 4 | COMPRESSED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1B 1/43 | SIRDALUD 2 MG | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1B 2/43 | SIRDALUD 4 MG | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1B 47/41 | SIRDALUD (R) 2 MG | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1B 48/41 | SIRDALUD 4 MG | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 10/47 | TIZAN 2 | COMPRESSED TABLET | ยกเลิก(25 ธันวาคม 2558) |
+| 1C 11/42 | SIRDALAD 2 MG | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 12/42 | SIRDALUD 4 MG | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 155/59 | TIZAPRESS | COMPRESSED TABLET | ยกเลิก(8 ตุลาคม 2562) |
+| 1C 156/55 | TIZAPRESS | COMPRESSED TABLET | ยกเลิก(8 กรกฎาคม 2559) |
+| 1C 259/42 | SIRDALUD 2 MG | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1C 260/42 | SIRDALUD 4 MG | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1C 9/47 | TIZAN 4 | COMPRESSED TABLET | ยกเลิก(30 ธันวาคม 2558) |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

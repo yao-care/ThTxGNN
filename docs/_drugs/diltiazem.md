@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 13 จาก 96 รายการ) |
+| จำนวนทะเบียนตำรับยา | 96 รายการ (ยังมีผล 13) |
 | ข้อบ่งใช้ที่ทราบแล้วในกลุ่มตัวเลือกของโมเดล | 1 |
-| สถานะในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 13 จาก 96 รายการ) |
 
 ## ข้อบ่งใช้ที่ทราบแล้วในกลุ่มตัวเลือกของโมเดล
 
@@ -67,7 +67,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 106/51 | DITIZEM 60 MG TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 199/38 | DILIZEM | TABLET | คงอยู่ |
+| 1A 350/33 | DITIZEM (30 MG TABLET) | TABLET | คงอยู่ |
+| 1A 97/39 | DILIZEM 60 MG | TABLET | คงอยู่ |
+| 1C 12/64 | CARDIL 120 MG CONTROLLED RELEASE TABLET | PROLONGED-RELEASE TABLET | คงอยู่ |
+| 1C 367/47 | DILCARDIA 30 | FILM - COATED TABLET | คงอยู่ |
+| 1C 50/60 (N) | HERBESSER INJECTION (10 MG.) | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 54/60 | HERBESSER | TABLET | คงอยู่ |
+| 1C 55/60 | CASCOR XL 120 CAPSULES | SUSTAINED RELEASE CAPSULE | คงอยู่ |
+| 1C 58/60 | HERBESSER R 200 | CAPSULE, HARD | คงอยู่ |
+| 1C 59/60 | HERBESSER R 100 | CAPSULE, HARD | คงอยู่ |
+| 1C 60/60 | HERBESSER 60 MG. | TABLET | คงอยู่ |
+| 1C 66/60 | HERBESSER 90 SR | PROLONGED-RELEASE CAPSULE,HARD | คงอยู่ |
+| 1A 292/36 | DILZEM | COMPRESSED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 378/33 | DILIZEM | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 447/40 | HERBIE 60 | COMPRESSED TABLET | ยกเลิก |
+| 1A 458/39 | DITIZEM 60 MG. | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1A 473/41 | CARDIAZEM | COMPRESSED TABLET | ยกเลิก(7 มิถุนายน 2561) |
+| 1A 564/32 | DILTEC | COMPRESSED TABLET | ยกเลิก(17 เมษายน 2562) |
+| 1A 57/46 | CARZEM | FILM - COATED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 582/39 | DILLINE | COMPRESSED TABLET | ยกเลิก(11 ธันวาคม 2552) |
+| 1A 613/40 | HERBIE 30 | COMPRESSED TABLET | ยกเลิก |
+| 1A 76/39 | DILIZEM 120 MG. | COMPRESSED TABLET | ยกเลิก(9 กุมภาพันธ์ 2549) |
+| 1A 8/39 | DILIZEM 90 MG. | COMPRESSED TABLET | ยกเลิก(9 กุมภาพันธ์ 2549) |
+| 1A 97/40 | DILIZEM 30 | - | ยกเลิก(8 ธันวาคม 2543) |
+| 1B 15/42 | DENAZOX 30 | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1B 17/42 | DENAZOX 60 | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1B 32/40 | TILDIEM (TABLETS) | COMPRESSED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+| 1C 106/59 | CASCOR XL 180 CAPSULES | SUSTAINED RELEASE CAPSULE | ยกเลิก(8 ตุลาคม 2562) |
+| 1C 125/36 | HERBESSER 90 SR | SUSTAINED RELEASE CAPSULE | ยกเลิก(22 พฤษภาคม 2560) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

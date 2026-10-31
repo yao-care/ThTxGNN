@@ -48,8 +48,8 @@ Loperamide เดิมใช้รักษาอาการท้องเส
 | ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบติดต่อเฉียบพลัน (acute contagious conjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 31 จาก 216 รายการ) |
+| จำนวนทะเบียนตำรับยา | 216 รายการ (ยังมีผล 31) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Loperamide เดิมใช้รักษาอาการท้องเส
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 102/57 | ENTERMID | COMPRESSED TABLET | คงอยู่ |
+| 1A 1526/30 | LOMIDE (2 MG CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 1715/28 | MODIM CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 176/55 | MECODIUM | COMPRESSED TABLET | คงอยู่ |
+| 1A 1798/30 | LONOX | TABLET | คงอยู่ |
+| 1A 187/39 | DAINOX | CAPSULE, HARD | คงอยู่ |
+| 1A 1977/28 | NOXZY | TABLET | คงอยู่ |
+| 1A 203/62 | SBOB(CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 2147/29 | DICOTIL | COMPRESSED TABLET | คงอยู่ |
+| 1A 226/33 | DIARA | TABLET | คงอยู่ |
+| 1A 257/58 | LIMATRIL | COMPRESSED TABLET | คงอยู่ |
+| 1A 2583/28 | TEDIUM CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 27/40 | SBOB | COMPRESSED TABLET | คงอยู่ |
+| 1A 33/38 | LOMEDIL | TABLET | คงอยู่ |
+| 1A 373/38 | MANTIL TABLET | TABLET | คงอยู่ |
+| 1A 377/58 | BISMATRIL | COMPRESSED TABLET | คงอยู่ |
+| 1A 38/32 | DIARINE | TABLET | คงอยู่ |
+| 1A 4/48 | IMONOX | CAPSULE HARD | คงอยู่ |
+| 1A 409/58 | BISMADIUM CAPSULES | HARD CAPSULE | คงอยู่ |
+| 1A 416/50 | HIMLOMIDE | CAPSULE HARD | คงอยู่ |
+| 1A 447/55 | MECODIUM | CAPSULE HARD | คงอยู่ |
+| 1A 457/33 | MANODIUM CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 464/49 | LEOMIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 625/31 | IMPELIUM | CAPSULE, HARD | คงอยู่ |
+| 1A 67/57 | PATARDIUM CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 687/34 | DAIVEN | TABLET | คงอยู่ |
+| 1A 69/57 | PATARDIUM TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 871/30 | SETONOX | TABLET | คงอยู่ |
+| 1A 913/30 | MONOX | CAPSULE HARD | คงอยู่ |
+| 1A 944/31 | LODIL | TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

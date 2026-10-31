@@ -48,8 +48,8 @@ Tramadol เดิมใช้บรรเทาอาการปวดปา�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Acromesomelic Dysplasia, Hunter-Thompson type |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 56 จาก 193 รายการ) |
+| จำนวนทะเบียนตำรับยา | 193 รายการ (ยังมีผล 56) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -68,7 +68,40 @@ Tramadol เดิมใช้บรรเทาอาการปวดปา�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1003/40 | TRAMADIL INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 1045/40 | TRAUMED | CAPSULE HARD | คงอยู่ |
+| 1A 13/68 | MADOLCAP | CAPSULE, HARD | คงอยู่ |
+| 1A 131/53 | TADOL | CAPSULE HARD | คงอยู่ |
+| 1A 135/45 | TRAMADOL | CAPSULE HARD | คงอยู่ |
+| 1A 177/43 | TRAMADOL | CAPSULE HARD | คงอยู่ |
+| 1A 191/39 | MATRADOL | CAPSULE, HARD | คงอยู่ |
+| 1A 191/47 | MILLIDOL | STERILE SOLUTION | คงอยู่ |
+| 1A 2/52 | VESNON-V | STERILE SOLUTION | คงอยู่ |
+| 1A 207/41 | TROSIC | STERILE SOLUTION | คงอยู่ |
+| 1A 227/38 | VOLCIDOL | CAPSULE, HARD | คงอยู่ |
+| 1A 249/48 | TRADOLGESIC | CAPSULE HARD | คงอยู่ |
+| 1A 253/58 | TINDOL | HARD CAPSULE | คงอยู่ |
+| 1A 267/50 | TRAMA TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 27/67 | TRAMADOL RETARD GPO (100 MG) | PROLONGED-RELEASE TABLET | คงอยู่ |
+| 1A 278/37 | ANALAB INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 279/41 | PHARMADOL INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 30/39 | TRAMADA | CAPSULE HARD | คงอยู่ |
+| 1A 308/44 | MODSENAL CAP | CAPSULE HARD | คงอยู่ |
+| 1A 309/44 | MODSENAL CAP | CAPSULE HARD | คงอยู่ |
+| 1A 310/44 | MODSENAL CAP | CAPSULE HARD | คงอยู่ |
+| 1A 337/40 | TRAMODA | CAPSULE HARD | คงอยู่ |
+| 1A 345/50 | RAMADOL-50 | COMPRESSED TABLET | คงอยู่ |
+| 1A 357/39 | TRADOLGESIC | CAPSULE HARD | คงอยู่ |
+| 1A 37/65 (E) | PHARMADOL CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 381/51 | TRAMADOL | CAPSULE, HARD | คงอยู่ |
+| 1A 39/43 | PAINDOL | CAPSULE HARD | คงอยู่ |
+| 1A 399/49 | TRAMADOL | STERILE SOLUTION | คงอยู่ |
+| 1A 420/50 | HIMMADOL | CAPSULE HARD | คงอยู่ |
+| 1A 434/39 | SEFMAL | CAPSULE, HARD | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

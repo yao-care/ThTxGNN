@@ -50,8 +50,8 @@ Fluconazole เป็นยาต้านเชื้อราในกลุ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9924 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 14 จาก 87 รายการ) |
+| จำนวนทะเบียนตำรับยา | 87 รายการ (ยังมีผล 14) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -78,7 +78,40 @@ Fluconazole เป็นยาต้านเชื้อราในกลุ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1/42 (NG) | BIOZOLE | CAPSULE, HARD | คงอยู่ |
+| 1A 10/42 (NG) | FUNA | CAPSULE HARD | คงอยู่ |
+| 1A 12/42 (NG) | FLUCOZOLE (INTRAVENOUS INFUSION) | STERILE SOLUTION | คงอยู่ |
+| 1A 12/43 (NG) | FLUNCO 200 | CAPSULE HARD | คงอยู่ |
+| 1A 13/42 (NG) | FLUCOZOLE (50 MG CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 14/42 (NG) | FLUCOZOLE (100 MG CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 15/42 (NG) | FLUCOZOLE (150 MG CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 16/42 (NG) | FLUCOZOLE (200 MG CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 19/43 (NG) | STALENE 200 | CAPSULE HARD | คงอยู่ |
+| 1A 2/43 (NG) | BIOZOLE | CAPSULE, HARD | คงอยู่ |
+| 1A 21/43 (NG) | FLUDIZOL (200 MG) | CAPSULE HARD | คงอยู่ |
+| 1A 26/53 (NG) | FLUCONA 200 | CAPSULE HARD | คงอยู่ |
+| 1A 32/59 (NG) | FLUZORAL | HARD CAPSULE | คงอยู่ |
+| 1C 182/47 (N) | DIFLUCAN (CAPSULES 150 MG) | CAPSULE, HARD | คงอยู่ |
+| 1A 1/44 (NG) | FUNA INJECTION | STERILE SOLUTION | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1A 10/43 (NG) | FLUNCO 100 | CAPSULE HARD | ยกเลิก |
+| 1A 1017/41 | BIOZOLE | STERILE SOLUTION | ยกเลิก(5 เมษายน 2545) |
+| 1A 11/42 (NG) | FLUNAZOLE | STERILE SOLUTION | ยกเลิก(3 เมษายน 2549) |
+| 1A 11/43 (NG) | FLUNCO 150 | CAPSULE HARD | ยกเลิก(21 ตุลาคม 2562) |
+| 1A 15/50 (E) | STALENE 50 | CAPSULE HARD | ยกเลิก(24 พฤษภาคม 2553) |
+| 1A 17/43 (NG) | STALENE 50 | CAPSULE HARD | ยกเลิก(31 พฤษภาคม 2555) |
+| 1A 18/42 (NG) | FLUNAZOLE (50 MG CAPSULES) | CAPSULE HARD | ยกเลิก(3 เมษายน 2549) |
+| 1A 18/43 (NG) | STALENE 100 | CAPSULE HARD | ยกเลิก(7 เมษายน 2558) |
+| 1A 19/42 (NG) | FLUNAZOLE (100 MG CAPSULES) | CAPSULE HARD | ยกเลิก(3 เมษายน 2549) |
+| 1A 19/47 (NG) | FLUZOLE (200 MG) | CAPSULE HARD | ยกเลิก |
+| 1A 2/42 (NG) | BIOZOLE | STERILE SOLUTION | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 20/42 (NG) | FLUNAZOLE (150 MG CAPSULES) | CAPSULE HARD | ยกเลิก(3 เมษายน 2549) |
+| 1A 20/43 (NG) | FLUDIZOL (50 MG) | CAPSULE HARD | ยกเลิก(15 กุมภาพันธ์ 2550) |
+| 1A 20/51 (NG) | FLUZORAL | CAPSULE HARD | ยกเลิก(30 สิงหาคม 2559) |
+| 1A 21/42 (NG) | FLUNAZOLE (200 MG. CAPSULES) | CAPSULE HARD | ยกเลิก(3 เมษายน 2549) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

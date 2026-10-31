@@ -50,8 +50,8 @@ Pyrazinamide เป็นยาต้านวัณโรคที่ใช้�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | หูชั้นกลางอักเสบติดเชื้อ (Infectious Otitis Media) |
 | คะแนนการทำนาย TxGNN | 0.9996 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 4 จาก 51 รายการ) |
+| จำนวนทะเบียนตำรับยา | 51 รายการ (ยังมีผล 4) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -82,7 +82,40 @@ Pyrazinamide เป็นยาต้านวัณโรคที่ใช้�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 188/27 | PYRAZINAMIDE 0.5 G. | TABLET | คงอยู่ |
+| 1A 317/45 | PYRAZINAMIDE TABLETS | - | คงอยู่ |
+| 2C 13/65 | FORECOX - TRAC | FILM-COATED TABLET | คงอยู่ |
+| 2C 6/67 | RIFAMPIN, ISONIAZID, PYRAZINAMIDE AND ETHAMBUTOL HYDROCHLORI | FILM-COATED TABLET | คงอยู่ |
+| 1A 104/39 | PYRAMIDE | COMPRESSED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 1083/28 | PYRAZIN | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1164/41 | PYRAZINAMIDE | COMPRESSED TABLET | ยกเลิก(25 กันยายน 2562) |
+| 1A 117/36 | PYRAZINAMIDE TABLETS | COMPRESSED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1A 1186/41 | PZA | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 1A 1277/27 | ZIRAMID | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 228/43 | PZA 500 | COMPRESSED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1A 369/49 | TZM | COMPRESSED TABLET | ยกเลิก(7 พฤษภาคม 2561) |
+| 1A 377/29 | PYRAZINAMIDE 0.5 GM. | COMPRESSED TABLET | ยกเลิก(27 กุมภาพันธ์ 2541) |
+| 1A 388/32 | PYRAZINAMIDE (750 MG) | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 534/30 | BRYRAZIN | COMPRESSED TABLET | ยกเลิก |
+| 1A 800/39 | BESZINA | COMPRESSED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+| 1A 81/41 | PYRAZINAMIDE LEDERIE | COMPRESSED TABLET | ยกเลิก(3 เมษายน 2549) |
+| 1A 952/30 | PYRATAB | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1C 114/27 | PYRAZINAMIDE TABLETS B.P. | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 25/43 | P Z A | COMPRESSED TABLET | ยกเลิก(3 พฤษภาคม 2548) |
+| 1C 554/27 | TEBRAZID | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 2A 109/50 | RIFAMPYZID | - | ยกเลิก |
+| 2A 11/61 (E) | TPUTE-RIPE | - | ยกเลิก |
+| 2A 110/64 | RIPE-900 | FILM-COATED TABLET | ยกเลิก |
+| 2A 113/32 | RIFAMPYZID | SUGAR COATED TABLET | ยกเลิก(14 มิถุนายน 2564) |
+| 2A 17/49 (E) | TPUTE-RIPE | FILM - COATED TABLET | ยกเลิก(9 เมษายน 2556) |
+| 2A 19/65 (E) | RIP-PED | FILM-COATED TABLET | รอตรวจสอบสถานะ |
+| 2A 194/34 | RIFATER | - | ยกเลิก |
+| 2A 379/29 | RIFATER | SUGAR COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 2A 42/64 | RIFAMPYZID | COATED TABLET | ยกเลิก |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

@@ -50,8 +50,8 @@ Metronidazole เป็นยาในกลุ่มไนโตรอิมิ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคนิวโมซิสโทซิส (Pneumocystosis) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 46 จาก 221 รายการ) |
+| จำนวนทะเบียนตำรับยา | 221 รายการ (ยังมีผล 46) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -89,7 +89,40 @@ Metronidazole เป็นยาในกลุ่มไนโตรอิมิ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1064/29 | LIDAZOLE | CAPSULE, HARD | คงอยู่ |
+| 1A 1068/29 | MANODAZOLE CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 1140/29 | METRONIDAZOLE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1492/30 | METRONIDAZOLE TABLETS | TABLET | คงอยู่ |
+| 1A 16/68 | METRONIDAZOLE TABLET | TABLET | คงอยู่ |
+| 1A 164/51 | MEDIZOLE 400 | FILM - COATED TABLET | คงอยู่ |
+| 1A 1678/27 | METRIZOLE | TABLET | คงอยู่ |
+| 1A 178/32 | NIDA-ZOLE | CAPSULE, HARD | คงอยู่ |
+| 1A 181/27 | FLAGISEPT ORAL TABLETS | TABLET | คงอยู่ |
+| 1A 191/55 | METRONIDAZOLE TABLETS | SUGAR COATED TABLET | คงอยู่ |
+| 1A 1917/29 | METRONIDAZOLE TABLETS | TABLET | คงอยู่ |
+| 1A 2018/28 | MEDIZOLE | CAPSULE, HARD | คงอยู่ |
+| 1A 2036/30 | METRAZOLE INJECTION | STERILE SOLUTION | คงอยู่ |
+| 1A 21/42 | MEDIZOLE INJECTION | - | คงอยู่ |
+| 1A 226/62 | CLEARAZOLE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 2282/29 | METRONIDAZOLE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 2514/28 | METRIZOLE- 400 | TABLET | คงอยู่ |
+| 1A 268/29 | MANODAZOLE | TABLET | คงอยู่ |
+| 1A 303/58 | METAZAL TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 330/55 | MYDAZOLE CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 400/58 | METAZAL CAPSULES | HARD CAPSULE | คงอยู่ |
+| 1A 425/55 | S.T.DAZOLE CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 49/53 | METRONIDAZOLE 400 | COMPRESSED TABLET | คงอยู่ |
+| 1A 509/32 | MEZOLE CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 565/27 | METROLEX (INJECTION) | SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 579/27 | METROCIDE | TABLET | คงอยู่ |
+| 1A 59/33 | MEPAGYL 400 | FILM-COATED TABLET | คงอยู่ |
+| 1A 626/27 | METROLEX (400 MG TABLET) | TABLET | คงอยู่ |
+| 1A 674/39 | MEPAGYL INJECTION | SOLUTION FOR INFUSION | คงอยู่ |
+| 1A 70/27 | METROLEX (200 MG TABLET) | TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

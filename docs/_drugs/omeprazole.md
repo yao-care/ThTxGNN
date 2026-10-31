@@ -48,8 +48,8 @@ Omeprazole เป็นยากลุ่มยับยั้งการหล
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะลำไส้เล็กส่วนดูโอดีนัมอุดตัน (duodenal obstruction) |
 | คะแนนการทำนาย TxGNN | 0.9964 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 73 จาก 195 รายการ) |
+| จำนวนทะเบียนตำรับยา | 195 รายการ (ยังมีผล 73) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -76,7 +76,40 @@ Omeprazole เป็นยากลุ่มยับยั้งการหล
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 107/58 | OMEPAC | HARD CAPSULE | คงอยู่ |
+| 1A 112/67 | GASTROSEC-20 | CAPSULE, HARD | คงอยู่ |
+| 1A 113/67 | Omeprazole-BKD | CAPSULE, HARD | คงอยู่ |
+| 1A 1171/41 | LOZOL | CAPSULE HARD | คงอยู่ |
+| 1A 135/65 | LOACID | CAPSULE, HARD | คงอยู่ |
+| 1A 14/58 | NYCACID | CAPSULE HARD | คงอยู่ |
+| 1A 150/39 | OMEC 20 MG. CAPSULES | GASTRO-RESISTANT CAPSULE, HARD | คงอยู่ |
+| 1A 165/51 | VESCOMECID | CAPSULE HARD | คงอยู่ |
+| 1A 167/38 | AIROMET-AOM | CAPSULE, HARD | คงอยู่ |
+| 1A 17/65 | NATPRAZOLE | CAPSULE, HARD | คงอยู่ |
+| 1A 19/44 | OMESEC | CAPSULE HARD | คงอยู่ |
+| 1A 197/47 | EUCID (CAPSULES) | CAPSULE HARD | คงอยู่ |
+| 1A 205/54 | OPRAH | CAPSULE HARD | คงอยู่ |
+| 1A 21/41 | O-SID (CAPSULE) | CAPSULE HARD | คงอยู่ |
+| 1A 230/39 | OPRAMED | GASTRO-RESISTANT CAPSULE, HARD | คงอยู่ |
+| 1A 24/45 | GASTER | CAPSULE HARD | คงอยู่ |
+| 1A 248/58 | MODUZOLE | HARD CAPSULE | คงอยู่ |
+| 1A 249/58 | OMESAN | HARD CAPSULE | คงอยู่ |
+| 1A 25/48 | OMED | CAPSULE HARD | คงอยู่ |
+| 1A 269/57 | OMEPRAZOLE GPO | CAPSULE HARD | คงอยู่ |
+| 1A 281/41 | DUOZOLIN - 20 | CAPSULE HARD | คงอยู่ |
+| 1A 295/64 | MEPRAZ IV | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 298/54 | ASEC | CAPSULE HARD | คงอยู่ |
+| 1A 318/49 | GASTROSEC | CAPSULE HARD | คงอยู่ |
+| 1A 32/47 | ZEFXON INJECTION | STERILE POWDER | คงอยู่ |
+| 1A 322/57 | KRESS PRAZOLE | CAPSULE HARD | คงอยู่ |
+| 1A 323/69 (E) | OMEZOLE | CAPSULE, HARD | คงอยู่ |
+| 1A 338/64 | OMAXANE | CAPSULE, HARD | คงอยู่ |
+| 1A 343/35 | DESEC | CAPSULE, HARD | คงอยู่ |
+| 1A 354/40 | ULPRAZOLE | CAPSULE HARD | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

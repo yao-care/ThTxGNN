@@ -50,8 +50,8 @@ Atenolol เป็นยากลุ่มต้านเบต้าที่�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง |
 | คะแนนการทำนาย TxGNN | 0.9985 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 29 จาก 178 รายการ) |
+| จำนวนทะเบียนตำรับยา | 178 รายการ (ยังมีผล 29) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Atenolol เป็นยากลุ่มต้านเบต้าที่�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 142/66 | TENOL | FILM-COATED TABLET | คงอยู่ |
+| 1A 143/66 | TENOL | FILM-COATED TABLET | คงอยู่ |
+| 1A 149/51 | ATENOLOL-NIDA | FILM - COATED TABLET | คงอยู่ |
+| 1A 210/32 | ATCARD 50 | FILM-COATED TABLET | คงอยู่ |
+| 1A 240/38 | ATENOL 50 | FILM-COATED TABLET | คงอยู่ |
+| 1A 241/38 | ATENOL 100 | FILM - COATED TABLET | คงอยู่ |
+| 1A 252/49 | ATLOL 100 | FILM - COATED TABLET | คงอยู่ |
+| 1A 302/48 | EUTENSIN | FILM - COATED TABLET | คงอยู่ |
+| 1A 321/69 | ATELOL 50 | FILM-COATED TABLET | คงอยู่ |
+| 1A 425/51 | ATEMIN-50 | FILM - COATED TABLET | คงอยู่ |
+| 1A 455/52 | DENOLOL-100 | FILM - COATED TABLET | คงอยู่ |
+| 1A 491/36 | PRENOLOL 25 | FILM-COATED TABLET | คงอยู่ |
+| 1A 495/32 | PRENOLOL 100 | FILM-COATED TABLET | คงอยู่ |
+| 1A 496/32 | PRENOLOL 50 | FILM-COATED TABLET | คงอยู่ |
+| 1A 50/39 | TETALIN 100 | FILM-COATED TABLET | คงอยู่ |
+| 1A 555/34 | TENOLOL TABLET (50 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1A 599/41 | PHARMALOL-100 | FILM - COATED TABLET | คงอยู่ |
+| 1A 6/53 | TENAMED 50 | FILM - COATED TABLET | คงอยู่ |
+| 1A 63/65 | HIMLOL 100 | FILM-COATED TABLET | คงอยู่ |
+| 1A 7/53 | TENAMED 100 | FILM - COATED TABLET | คงอยู่ |
+| 1A 82/45 | ATEMIN - 100 | FILM - COATED TABLET | คงอยู่ |
+| 1A 86/52 | BETADAY-50 | COMPRESSED TABLET | คงอยู่ |
+| 1A 905/43 | TETALIN 50 | FILM - COATED TABLET | คงอยู่ |
+| 1C 109/59 | VELORIN 100 | FILM - COATED TABLET | คงอยู่ |
+| 1C 111/56 | TENROL - 100 | FILM - COATED TABLET | คงอยู่ |
+| 1C 190/46 | TENROL - 50 | FILM - COATED TABLET | คงอยู่ |
+| 1C 234/49 | ATENOLOL TABLETS B.P. 50 MG | COMPRESSED TABLET | คงอยู่ |
+| 1C 68/45 | CATENOL - 50 | COMPRESSED TABLET | คงอยู่ |
+| 1C 69/45 | CATENOL - 100 | COMPRESSED TABLET | คงอยู่ |
+| 1A 102/52 | SEFMELOC 100 | FILM - COATED TABLET | ยกเลิก(8 มิถุนายน 2560) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -48,8 +48,8 @@ Mebendazole เป็นยากลุ่มเบนซิมิดาโซ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | สิว (Acne) |
 | คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 30 จาก 273 รายการ) |
+| จำนวนทะเบียนตำรับยา | 273 รายการ (ยังมีผล 30) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Mebendazole เป็นยากลุ่มเบนซิมิดาโซ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 101/34 | BENDA 500 | CHEWABLE TABLET | คงอยู่ |
+| 1A 101/57 | DRIVERMIDE | COMPRESSED TABLET | คงอยู่ |
+| 1A 104/66 | CADATEL TABLET | TABLET | คงอยู่ |
+| 1A 105/66 | CADATEL SUSPENSION | ORAL SUSPENSION | คงอยู่ |
+| 1A 1185/41 | MEBENZOLE - 500 | COMPRESSED TABLET | คงอยู่ |
+| 1A 1224/28 | HAWKBEN | ORAL SUSPENSION | คงอยู่ |
+| 1A 1245/31 | MEBENDAZOLE TABLETS | CHEWABLE TABLET | คงอยู่ |
+| 1A 1372/27 | MEBEN | TABLET | คงอยู่ |
+| 1A 1401/28 | HAWKBEN | CHEWABLE TABLET | คงอยู่ |
+| 1A 1760/28 | HAWKBEN | TABLET | คงอยู่ |
+| 1A 189/50 | BENDA SUSPENSION | ORAL SUSPENSION | คงอยู่ |
+| 1A 200/58 | WORMEX SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 211/56 | ANTIWORM SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 2282/30 | BENDAZOLE | TABLET | คงอยู่ |
+| 1A 248/55 | PHIHA BENZAR - 500 | COMPRESSED TABLET | คงอยู่ |
+| 1A 265/58 | MENTIDA | COMPRESSED TABLET | คงอยู่ |
+| 1A 269/55 | BENSACA SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 276/58 | MENTIDA 500 | COMPRESSED TABLET | คงอยู่ |
+| 1A 283/55 | BENSACA | COMPRESSED TABLET | คงอยู่ |
+| 1A 297/40 | BENWORM 500 MG. | COMPRESSED TABLET | คงอยู่ |
+| 1A 34/57 | DRIVERMIDE - S 500 | COMPRESSED TABLET | คงอยู่ |
+| 1A 399/58 | MENTIDA SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 453/55 | FUZADA 500 | COMPRESSED TABLET | คงอยู่ |
+| 1A 522/32 | BENDA 500 | CHEWABLE TABLET | คงอยู่ |
+| 1A 562/56 | DRIVERMIDE SUSPENSION | SUSPENSION | คงอยู่ |
+| 1A 757/68 (E) | FUGACAR | TABLET | คงอยู่ |
+| 1A 817/29 | ALWORM | CHEWABLE TABLET | คงอยู่ |
+| 1A 872/31 | DAMEZ 500 | CHEWABLE TABLET | คงอยู่ |
+| 1C 15021/64 | FUGACAR | TABLET | คงอยู่ |
+| 1C 155/51 | QUEMOX TABLET 500 MG | COMPRESSED TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

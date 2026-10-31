@@ -43,10 +43,10 @@ evidence_level: N/A
 ## ภาพรวมโดยย่อ
 | รายการ | เนื้อหา |
 |------|------|
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 62 จาก 365 รายการ) |
+| จำนวนทะเบียนตำรับยา | 365 รายการ (ยังมีผล 62) |
 | การใช้ที่ทราบแล้วในตัวเลือกของโมเดล | 1 |
-| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 1 จาก 1 รายการ) |
+| สถานะตลาดในประเทศไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 62 จาก 365 รายการ) |
 
 ## การใช้ที่ทราบแล้วในตัวเลือกของโมเดล
 
@@ -67,7 +67,40 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1027/40 | TOFLEX 250 DRY | DRY SYRUP | คงอยู่ |
+| 1A 1031/40 | TOFLEX 125 DRY | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 1037/43 | FARMALEX 250 | CAPSULE HARD | คงอยู่ |
+| 1A 104/45 | COLAXIN - O DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 105/43 | ULFLEX | CAPSULE HARD | คงอยู่ |
+| 1A 1094/43 | FARMALEX 500 | CAPSULE HARD | คงอยู่ |
+| 1A 1204/41 | CEPHIN 500 | CAPSULE HARD | คงอยู่ |
+| 1A 1205/41 | CEPHIN DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 127/49 | COLAXIN - DS | DRY SYRUP | คงอยู่ |
+| 1A 129/64 | S-LEX – 500 CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 147/55 | CEMELAX 500 | CAPSULE HARD | คงอยู่ |
+| 1A 170/55 | CEMELAX CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 172/51 | ULFLEX DRY SUSPENSION | DRY SYRUP | คงอยู่ |
+| 1A 173/51 | ULFLEX 250 DRY SUSPENSION | DRY SYRUP | คงอยู่ |
+| 1A 198/64 | VATACEPH 250 | CAPSULE, HARD | คงอยู่ |
+| 1A 20/55 | CEPHA 500 | CAPSULE HARD | คงอยู่ |
+| 1A 216/54 | Z-PHACAP | CAPSULE HARD | คงอยู่ |
+| 1A 219/57 | KRESSLEX - 500 CAPSULE | CAPSULE HARD | คงอยู่ |
+| 1A 224/56 | STARLEX 250 DRY SYRUP | DRY SYRUP | คงอยู่ |
+| 1A 245/65 | PHARLEX | CAPSULE, HARD | คงอยู่ |
+| 1A 249/65 | PHARLEX | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 258/35 | SIALEXIN (500 MG CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 260/35 | SIALEXIN (250 MG CAPSULE) | CAPSULE, HARD | คงอยู่ |
+| 1A 29/41 | ZEPLEX | CAPSULE HARD | คงอยู่ |
+| 1A 3/27 | CEPHIN CAPSULE | CAPSULE, HARD | คงอยู่ |
+| 1A 30/65 | CELEX - 500 | CAPSULE, HARD | คงอยู่ |
+| 1A 31/65 | CELEX - 250 | CAPSULE, HARD | คงอยู่ |
+| 1A 313/56 | KRESSLEX - 250 DRY SYRUP | POWDER FOR ORAL SUSPENSION | คงอยู่ |
+| 1A 340/50 | IBILEX SUSPENSION | DRY SYRUP | คงอยู่ |
+| 1A 351/56 | KRESSLEX - 125 DRY SYRUP | DRY SYRUP | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

@@ -52,8 +52,8 @@ Haloperidol เป็นยาต้านโรคจิตที่ออก�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ความผิดปกติแต่กำเนิดของการเติมน้ำตาลโปรตีนที่ขาดการเติมฟิวโคส (congenital disorder of glycosylation with defective fucosylation) |
 | คะแนนการทำนาย TxGNN | 0.9991 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 22 จาก 186 รายการ) |
+| จำนวนทะเบียนตำรับยา | 186 รายการ (ยังมีผล 22) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -80,7 +80,40 @@ Haloperidol เป็นยาต้านโรคจิตที่ออก�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1005/31 | HALOMED 5 MG. | COMPRESSED TABLET | คงอยู่ |
+| 1A 108/39 | HALOX 2 | TABLET | คงอยู่ |
+| 1A 1188/27 | HARIDOL (INJECTION) | STERILE SOLUTION | คงอยู่ |
+| 1A 1189/31 | HARICON 2 MG. | TABLET | คงอยู่ |
+| 1A 1230/29 | HALIDOL 0.5 | TABLET | คงอยู่ |
+| 1A 146/31 | HARIDOL-D INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 2230/28 | HARICON | COMPRESSED TABLET | คงอยู่ |
+| 1A 2347/28 | HARICON | COMPRESSED TABLET | คงอยู่ |
+| 1A 293/52 | HALOTAB 0.5 TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 30/46 | HALOPERIDOL TABLETS 2 MG | COMPRESSED TABLET | คงอยู่ |
+| 1A 31/46 | HALOPERIDOL TABLETS 5 MG | COMPRESSED TABLET | คงอยู่ |
+| 1A 411/39 | HALOX 0.2% SOLUTION | ORAL SOLUTION | คงอยู่ |
+| 1A 58/64 | HALOMED | TABLET | คงอยู่ |
+| 1A 581/34 | POLYHADON 0.5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 582/34 | POLYHADON 5 | TABLET | คงอยู่ |
+| 1A 583/34 | POLYHADON 2 | TABLET | คงอยู่ |
+| 1A 667/27 | HALOPOL 0.5 | COMPRESSED TABLET | คงอยู่ |
+| 1A 668/27 | HALOPOL 2 | COMPRESSED TABLET | คงอยู่ |
+| 1A 731/30 | HALOMED | TABLET | คงอยู่ |
+| 1A 755/38 | HALOX 0.5 | TABLET | คงอยู่ |
+| 1A 757/38 | HALOX 5 | TABLET | คงอยู่ |
+| 1A 910/31 | HALOMED 10 MG. | TABLET | คงอยู่ |
+| 1A 102/29 | HARICON | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 103/29 | HARICON | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1037/41 | HAPERIL | STERILE SOLUTION | ยกเลิก(3 ตุลาคม 2561) |
+| 1A 104/29 | HARICON | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 105/29 | HARICON | COMPRESSED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 1060/30 | HARIDOL | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+| 1A 1061/30 | HARIDOL | COMPRESSED TABLET | ยกเลิก(3 พฤษภาคม 2548) |
+| 1A 1062/30 | HARIDOL | COMPRESSED TABLET | ยกเลิก(24 มีนาคม 2543) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

@@ -43,12 +43,37 @@ evidence_level: N/A
 | รายการ | เนื้อหา |
 |------|------|
 | ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 6 จาก 24 รายการ) |
+| จำนวนทะเบียนตำรับยา | 24 รายการ (ยังมีผล 6) |
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 15/53 (NG) | VALOSINE S.R. CAPSULES 75 MG | SUSTAINED RELEASE CAPSULE | คงอยู่ |
+| 1C 15155/64 (N) | EFEXOR XR 37.5 MG | CAPSULE, HARD | คงอยู่ |
+| 1C 15156/64 (N) | EFEXOR XR 75 MG. | CAPSULE, HARD | คงอยู่ |
+| 1C 15157/64 (N) | EFEXOR XR 150 MG | CAPSULE, HARD | คงอยู่ |
+| 1C 37/67 (NG) | NEUROFAX SR 37.5 | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 38/67 (NG) | NEUROFAX SR 75 | PROLONGED-RELEASE CAPSULE, HARD | คงอยู่ |
+| 1C 116/53 (N) | EFEXOR XR 150 MG. | CAPSULE HARD | ยกเลิก(4 กรกฎาคม 2557) |
+| 1C 117/53 (N) | EFEXOR XR 75 MG | CAPSULE HARD | ยกเลิก(4 กรกฎาคม 2557) |
+| 1C 120/53 (N) | EFEXOR XR 150 MG | ORAL DROPS, POWDER FOR SUSPENSION | ยกเลิก(12 พฤศจิกายน 2564) |
+| 1C 121/53 (N) | EFEXOR XR 75 MG. | ORAL DROPS, POWDER FOR SUSPENSION | ยกเลิก(12 พฤศจิกายน 2564) |
+| 1C 122/53 (N) | EFEXOR XR 37.5 MG | ORAL DROPS, POWDER FOR SUSPENSION | ยกเลิก(12 พฤศจิกายน 2564) |
+| 1C 200/47 (N) | EFEXOR XR 75 MG. | EXTENDED RELEASE CAPSULE | ยกเลิก(28 กันยายน 2553) |
+| 1C 201/47 (N) | EFEXOR XR 150 MG | EXTENDED RELEASE CAPSULE | ยกเลิก(28 กันยายน 2553) |
+| 1C 34/42 (N) | EFEXOR ( 37.5 MG) | COMPRESSED TABLET | ยกเลิก(7 มีนาคม 2548) |
+| 1C 34/42 (NC) | EFEXOR (37.5 MG.) | COMPRESSED TABLET | ยกเลิก(17 ธันวาคม 2544) |
+| 1C 35/42 (NC) | EFEXOR* (50.0 MG.) | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 36/42 (NC) | EFEXOR* (75.0 MG.) | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 42/45 (N) | EFEXOR XR 75 MG | CAPSULE HARD | ยกเลิก(27 กันยายน 2553) |
+| 1C 43/45 (N) | EFEXOR XR 150 MG. | CAPSULE HARD | ยกเลิก(27 กันยายน 2553) |
+| 1C 46/49 (N) | EFEXOR XR 37.5 MG | EXTENDED RELEASE CAPSULE | ยกเลิก(28 กันยายน 2553) |
+| 1C 52/42 (N) | EFEXOR XR 75 MG | CAPSULE HARD | ยกเลิก(3 เมษายน 2549) |
+| 1C 52/42 (NC) | EFEXOR * XR 75 MG. | SUSTAINED RELEASE CAPSULE | ยกเลิก(4 ธันวาคม 2544) |
+| 1C 53/42 (N) | EFEXOR XR 150 MG | CAPSULE HARD | ยกเลิก(3 เมษายน 2549) |
+| 1C 53/42 (NC) | EFEXOR * XR 150 MG. | SUSTAINED RELEASE CAPSULE | ยกเลิก(4 ธันวาคม 2544) |
 
 หมายเหตุ: ทะเบียนนี้ถูกยกเลิกแล้ว ปัจจุบันไม่มีทะเบียนตำรับยา Venlafaxine ที่ยังมีผลใช้ได้ในประเทศไทยตามข้อมูลที่รวบรวม
 

@@ -50,8 +50,8 @@ Diphenhydramine เป็นยาต้านตัวรับฮิสตา�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ผื่นกุหลาบที่เยื่อบุตา (rosacea conjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 61 จาก 264 รายการ) |
+| จำนวนทะเบียนตำรับยา | 264 รายการ (ยังมีผล 61) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -72,7 +72,40 @@ Diphenhydramine เป็นยาต้านตัวรับฮิสตา�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 15141/65 | NITE CAP | CAPSULE, HARD | คงอยู่ |
+| 1A 15222/65 | NITE CAP | CAPSULE, HARD | คงอยู่ |
+| 1A 176/62 | PHENZ | CAPSULE, SOFT | คงอยู่ |
+| 1A 323/58 | HISTIDAL | HARD CAPSULE | คงอยู่ |
+| 1A 401/51 | DIBENDRYL | FILM - COATED TABLET | คงอยู่ |
+| 1A 403/27 | DIPHENHYDRAMINE CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 611/33 | PHENMED CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 1A 75/68 | D-MINE SYRUP | SYRUP | คงอยู่ |
+| 1A 824/40 | CODIPHEN TABLET | COMPRESSED TABLET | คงอยู่ |
+| 1A 936/31 | SEDI CAPSULES | CAPSULE, HARD | คงอยู่ |
+| 2A 1/45 | KADRYL LOTION | LOTION | คงอยู่ |
+| 2A 100/64 | COLINDRYL | ORAL SOLUTION | คงอยู่ |
+| 2A 1075/28 | TENADRIN | SYRUP | คงอยู่ |
+| 2A 114/43 | EWADYL | SYRUP | คงอยู่ |
+| 2A 119/39 | ARACAF | SYRUP | คงอยู่ |
+| 2A 119/49 | CALADIPHEN LOTION LEOPARD BRAND | SUSPENSION | คงอยู่ |
+| 2A 1214/29 | CABANA LOTION | CUTANEOUS SUSPENSION | คงอยู่ |
+| 2A 137/44 | T.M. DRYL ELIXIR | ELIXIR | คงอยู่ |
+| 2A 147/42 | CASIDRYL SYRUP | SYRUP | คงอยู่ |
+| 2A 149/32 | CODRYL SYRUP | ORAL SOLUTION | คงอยู่ |
+| 2A 162/56 | ALLERDRYL | CREAM | คงอยู่ |
+| 2A 173/69 (E) | DIPHENDRYL EXPECTORANT | SYRUP | คงอยู่ |
+| 2A 175/40 | DIPHENSTAR SYRUP | SYRUP | คงอยู่ |
+| 2A 178/56 | COTUSSIN SYRUP | SYRUP | คงอยู่ |
+| 2A 184/29 | CADRAMINE - V LOTION | CUTANEOUS SUSPENSION | คงอยู่ |
+| 2A 192/56 | DIMOPHEN DC SYRUP | SYRUP | คงอยู่ |
+| 2A 193/43 | DATISSIN SYRUP | SYRUP | คงอยู่ |
+| 2A 209/42 | SKINMINE | SUSPENSION | คงอยู่ |
+| 2A 223/29 | BABY'S ROTA COUGH SYRUP (WITH ANTIHISTAMINE) | SYRUP | คงอยู่ |
+| 2A 232/41 | BEPHENDRYL | SYRUP | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

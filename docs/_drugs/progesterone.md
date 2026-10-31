@@ -50,8 +50,8 @@ Progesterone เป็นฮอร์โมนเพศหญิงธรรม�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขาดประจำเดือน (amenorrhea (disease)) |
 | คะแนนการทำนาย TxGNN | 1,0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 31 จาก 76 รายการ) |
+| จำนวนทะเบียนตำรับยา | 76 รายการ (ยังมีผล 31) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -96,7 +96,40 @@ Progesterone เป็นฮอร์โมนเพศหญิงธรรม�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 137/69 (E) | GYNEGESTIN 200 MG SOFT GELATIN CAPSULES | CAPSULE, SOFT | คงอยู่ |
+| 1A 17/67 (E) | TH-GYNEGESTIN | CAPSULE, SOFT | คงอยู่ |
+| 1A 268/56 | UTROGESTAN 100 MG | CAPSULE SOFT | คงอยู่ |
+| 1A 269/56 | UTROGESTAN 200 MG | CAPSULE SOFT | คงอยู่ |
+| 1A 414/41 | DEPOGESTIN I | STERILE SUSPENSION | คงอยู่ |
+| 1A 786/68 (E) | UTROGESTAN 100 MG CAPSULE | CAPSULE, SOFT | คงอยู่ |
+| 1A 787/68 (E) | UTROGESTAN 200 MG CAPSULE | CAPSULE, SOFT | คงอยู่ |
+| 1C 10/67 | GYNPROGESTERONE 200 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 10/68 | PROGES 200 | CAPSULE, SOFT | คงอยู่ |
+| 1C 102/69 | PROGESTERONE SOFT GELATIN CAPSULES 100 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 103/69 | PROGESTERONE SOFT GELATIN CAPSULES 200 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 11/68 | PROGES 100 | CAPSULE, SOFT | คงอยู่ |
+| 1C 120/60 | ENDOMETRIN | VAGINAL TABLET | คงอยู่ |
+| 1C 13/62 | CYCLOGEST 400 | PESSARY | คงอยู่ |
+| 1C 131/50 (N) | CRINONE 8% | GEL | คงอยู่ |
+| 1C 15131/65 | GYNPROGEST 100 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 15132/65 | GYNPROGEST 200 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 161/69 | EXPROGEST 100 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 162/69 | EXPROGEST 200 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 172/54 | PROGESTOGEL | GEL | คงอยู่ |
+| 1C 212/69 | MIPROGEN 100 | CAPSULE, SOFT | คงอยู่ |
+| 1C 213/69 | MIPROGEN 200 | CAPSULE, SOFT | คงอยู่ |
+| 1C 38/67 | PROGESTOGEL | GEL | คงอยู่ |
+| 1C 49/68 | UTROGESTAN VAGINAL 400 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 64/67 | UTROGESTAN 100 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 65/67 | UTROGESTAN 200 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 66/67 | UTROGESTAN VAGINAL 200 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 67/67 | UTROGESTAN VAGINAL 300 MG | CAPSULE, SOFT | คงอยู่ |
+| 1C 76/67 | HORMORIN 100 | CAPSULE, SOFT | คงอยู่ |
+| 1C 77/67 | HORMORIN 200 | CAPSULE, SOFT | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

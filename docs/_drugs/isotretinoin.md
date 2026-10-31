@@ -50,8 +50,8 @@ Isotretinoin เป็นยากลุ่มเรตินอยด์ชน�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) |
 | คะแนนการทำนาย TxGNN | 0.9901 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 21 จาก 83 รายการ) |
+| จำนวนทะเบียนตำรับยา | 83 รายการ (ยังมีผล 21) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -78,7 +78,40 @@ Isotretinoin เป็นยากลุ่มเรตินอยด์ชน�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1096/43 | ISONIN 10 | CAPSULE SOFT | คงอยู่ |
+| 1A 127/64 | ISOTRETINOIN 20 MCP | CAPSULE, SOFT | คงอยู่ |
+| 1A 132/63 | ROACTA 10 | CAPSULE, SOFT | คงอยู่ |
+| 1A 199/62 | ISOTEN 10 | CAPSULE, SOFT | คงอยู่ |
+| 1A 21/65 (E) | ACNETREX 20 | CAPSULE, SOFT | คงอยู่ |
+| 1A 245/57 | ROACTA 20 | CAPSULE SOFT | คงอยู่ |
+| 1A 302/51 | ACNETREX 20 | CAPSULE SOFT | คงอยู่ |
+| 1A 75/46 | ACNOTIN 20 | CAPSULE SOFT | คงอยู่ |
+| 1A 758/68 (E) | ACNETREX 10 | CAPSULE, SOFT | คงอยู่ |
+| 1A 759/68 (E) | ACNETREX 20 | CAPSULE, SOFT | คงอยู่ |
+| 1A 868/43 | ACNOTIN 10 | CAPSULE SOFT | คงอยู่ |
+| 1C 19/68 | ACNEGIS-10 | CAPSULE, SOFT | คงอยู่ |
+| 1C 230/41 | ROACCUTANE 10 MG | - | คงอยู่ |
+| 1C 231/41 | ROACCUTANE 20 MG | - | คงอยู่ |
+| 1C 25/66 | RYBAK 10 | CAPSULE, SOFT | คงอยู่ |
+| 1C 26/66 | RYBAK 20 | CAPSULE, SOFT | คงอยู่ |
+| 1C 27/68 | ULTIMED ACNOVA 10 | CAPSULE, SOFT | คงอยู่ |
+| 1C 28/46 | ISOTANE 10 | CAPSULE SOFT | คงอยู่ |
+| 1C 28/64 | SOTRET 10 | CAPSULE, SOFT | คงอยู่ |
+| 1C 28/68 | ULTIMED ACNOVA 20 | CAPSULE, SOFT | คงอยู่ |
+| 1C 29/64 | SOTRET 20 | CAPSULE, SOFT | คงอยู่ |
+| 1A 154/51 | ACNETREX 10 | CAPSULE SOFT | ยกเลิก(21 ตุลาคม 2562) |
+| 1A 164/56 | VIFLORA | CAPSULE SOFT | ยกเลิก(27 ธันวาคม 2562) |
+| 1A 20/65 (E) | ACNETREX 10 | CAPSULE, SOFT | รอตรวจสอบสถานะ |
+| 1A 205/57 | AMTISIL 10 | CAPSULE SOFT | ยกเลิก(16 กันยายน 2557) |
+| 1A 206/57 | AMTISIL 20 | CAPSULE SOFT | ยกเลิก(16 กันยายน 2557) |
+| 1A 246/57 | ROACTA 10 | CAPSULE SOFT | ยกเลิก(26 กันยายน 2562) |
+| 1A 267/52 | VIFLORA | CAPSULE SOFT | ยกเลิก(15 ธันวาคม 2559) |
+| 1A 319/47 | ACNOTIN 5 | CAPSULE SOFT | ยกเลิก |
+| 1A 628/42 | ISOTRETINOIN 10 MG CAPSULES | CAPSULE SOFT | ยกเลิก(26 มีนาคม 2551) |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

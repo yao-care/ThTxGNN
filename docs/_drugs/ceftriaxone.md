@@ -52,8 +52,8 @@ Ceftriaxone เป็นยาปฏิชีวนะกลุ่มเซฟ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | polyclonal hyperviscosity syndrome |
 | คะแนนการทำนาย TxGNN | 0.9939 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 36 จาก 155 รายการ) |
+| จำนวนทะเบียนตำรับยา | 155 รายการ (ยังมีผล 36) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -80,7 +80,40 @@ Ceftriaxone เป็นยาปฏิชีวนะกลุ่มเซฟ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 108/59 | CEPHEUS | STERILE POWDER | คงอยู่ |
+| 1A 117/52 | CEF-3 INJECTION IV (2 G) | STERILE POWDER | คงอยู่ |
+| 1A 15/63 | AQUACEF | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 16/63 | UTO - CEFTRI | POWDER AND SOLVENT FOR SOLUTION FOR INJE | คงอยู่ |
+| 1A 172/36 | CEFTREX INJECTION | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1A 375/47 | CEF - ZONE | STERILE POWDER | คงอยู่ |
+| 1A 414/51 | CEFTRIAXONE | STERILE POWDER | คงอยู่ |
+| 1A 503/38 | TRIXONE-1 GM | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1A 553/34 | CEF-3 INJECTION IV (250 MG) | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1A 554/34 | CEF-3 INJECTION IV (1.0 G) | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1A 556/34 | CEF-3 INJECTION IV (500 MG) | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1A 683/40 | UTO CEFTRIAXONE | STERILE POWDER | คงอยู่ |
+| 1A 685/34 | ZEFAXONE | POWDER AND SOLVENT FOR SOLUTION FOR INJE | คงอยู่ |
+| 1A 996/40 | CEFTRIPHIN | STERILE POWDER | คงอยู่ |
+| 1C 100/69 | ERISONE | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1C 12/39 | ROCEPHIN | POWDER FOR SOLUTION FOR INFUSION | คงอยู่ |
+| 1C 175/55 | TRIXOPHIN | STERILE POWDER | คงอยู่ |
+| 1C 186/54 | ZONTRIXONE 1 G INJECTION | STERILE POWDER | คงอยู่ |
+| 1C 237/52 | MONOTAX 1 GM. INJECTION | STERILE POWDER | คงอยู่ |
+| 1C 41/68 | SEFOXONE | POWDER FOR SOLUTION FOR INJECTION/INFUSI | คงอยู่ |
+| 1C 628/29 | ROCEPHIN | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 63/69 | CEFTRIAXONE FOR INJECTION | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 631/29 | ROCEPHIN | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 7/64 | CEFXONE | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 73/68 | GENXONE 1 G INJECTION | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 76/56 | CEFTRIAXONE SODIUM FOR INJECTION 1 GM | STERILE POWDER | คงอยู่ |
+| 1C 79/58 | CEFTRI-ONE | STERILE POWDER FOR INJECTION | คงอยู่ |
+| 1C 8/61 | REX-3 | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 1C 9/65 | CEFTRIAXONE SODIUM FOR INJECTION 2 GM | POWDER FOR SOLUTION FOR INJECTION | คงอยู่ |
+| 2A 144/53 | CEFTRIAXONE | STERILE POWDER | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ---
 

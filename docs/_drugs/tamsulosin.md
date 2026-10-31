@@ -48,8 +48,8 @@ Tamsulosin เป็นยากลุ่มต้านตัวรับแอ
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Ambras type hypertrichosis universalis congenita |
 | คะแนนการทำนาย TxGNN | 1.0000 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 7 จาก 18 รายการ) |
+| จำนวนทะเบียนตำรับยา | 18 รายการ (ยังมีผล 7) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,26 @@ Tamsulosin เป็นยากลุ่มต้านตัวรับแอ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1B 3/65 (E) | HARNAL D TABLETS 0.2 MG | TABLET | คงอยู่ |
+| 1C 3/65 (E) | HARNAL D TABLETS 0.2 MG | TABLET | คงอยู่ |
+| 1C 39/58 (NG) | UROFLOW | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 1C 9/51 (N) | HARNAL OCAS 0.4 MG TABLETS | SUSTAINED RELEASE TABLET | คงอยู่ |
+| 2C 36/59 (N) | DUODART | CAPSULE HARD | คงอยู่ |
+| 2C 36/59 (NC) | DUODART | CAPSULE HARD | ปลด SMP(24 กันยายน 2561) |
+| 2C 4/66 (NG) | DUOFLOW | CAPSULE, HARD | คงอยู่ |
+| 1B 13/45 (N) | HARNAL 0.2 MG CAPSULES | CAPSULE HARD | ยกเลิก(9 เมษายน 2556) |
+| 1B 3/51 (N) | HARNAL 0.2 MG CAPSULES | CAPSULE HARD | ยกเลิก(25 กรกฎาคม 2555) |
+| 1B 6/50 (N) | HARNAL D TABLETS 0.2 MG | COMPRESSED TABLET | ยกเลิก |
+| 1C 100/42 (N) | HARNAL 0.2 MG CAPSULES | CAPSULE HARD | ยกเลิก(9 เมษายน 2556) |
+| 1C 100/42 (NC) | HARNAL 0.2 MG CAPSULES | CAPSULE HARD | ยกเลิก(15 ธันวาคม 2542) |
+| 1C 128/50 (N) | HARNAL D TABLETS 0.2 MG | COMPRESSED TABLET | ยกเลิก |
+| 1C 136/42 (N) | HARNAL 0.1 MG. CAPSULES | CAPSULE HARD | ยกเลิก(23 มิถุนายน 2547) |
+| 1C 136/42 (NC) | HARNAL 0.1 MG. CAPSULES | CAPSULE HARD | ยกเลิก(15 ธันวาคม 2542) |
+| 1C 19/58 (NG) | UROFLOW | SUSTAINED RELEASE TABLET | ยกเลิก(29 มิถุนายน 2558) |
+| 1C 81/41 (NC) | HARNAL 0.1 MG CAPSULE | SUSTAINED RELEASE CAPSULE | ยกเลิก(5 เมษายน 2545) |
+| 1C 9/51 (NC) | HARNAL OCAS 0.4 MG TABLETS | FILM - COATED TABLET | ยกเลิก(24 กันยายน 2553) |
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

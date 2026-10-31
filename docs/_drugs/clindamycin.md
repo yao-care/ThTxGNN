@@ -48,8 +48,8 @@ Clindamycin เป็นยาปฏิชีวนะที่เดิมใ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคกระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9997 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | อยู่ในบัญชียาหลักแห่งชาติ (1 จาก 1 รายการ) – ข้อมูลนี้ไม่รวมสถานะทะเบียนตำรับยาของ อย. |
-| จำนวนรายการในบัญชียาหลักแห่งชาติ | 1 รายการ (ยังมีผล 1) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 69 จาก 218 รายการ) |
+| จำนวนทะเบียนตำรับยา | 218 รายการ (ยังมีผล 69) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -70,7 +70,40 @@ Clindamycin เป็นยาปฏิชีวนะที่เดิมใ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
-ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 10/62 | KAIDA-300 MG. | CAPSULE, HARD | คงอยู่ |
+| 1A 11/62 | KAIDA-150 MG. | CAPSULE, HARD | คงอยู่ |
+| 1A 11/63 | CLINDA KLEAR GEL | GEL | คงอยู่ |
+| 1A 1126/44 | DACIN - F 150 | CAPSULE HARD | คงอยู่ |
+| 1A 1127/44 | DACIN - F300 | CAPSULE HARD | คงอยู่ |
+| 1A 113/51 | CLINDAMAN LOTION | AQUEOUS SOLUTION | คงอยู่ |
+| 1A 118/51 | AC-P CM | AQEOUS SOLUTION | คงอยู่ |
+| 1A 125/58 | W CLINDAMYCIN | ALCOHOLIC SOLUTION | คงอยู่ |
+| 1A 125/66 | BLC Clindamycin phosphate gel 1.0% | GEL | คงอยู่ |
+| 1A 141/48 | ACNOCIN C 300 | CAPSULE, HARD | คงอยู่ |
+| 1A 15150/64 | KLINDAMYCIN | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 15175/65 | CLINAMED-FORTE | CAPSULE, HARD | คงอยู่ |
+| 1A 15177/65 | CLINAMED | CAPSULE, HARD | คงอยู่ |
+| 1A 15182/65 | CLINDAVID-150 | CAPSULE, HARD | คงอยู่ |
+| 1A 15183/65 | CLINDAVID-300 | CAPSULE, HARD | คงอยู่ |
+| 1A 155/53 | ACNY-T | LOTION | คงอยู่ |
+| 1A 164/47 | KLINDAMYCIN - 300 | CAPSULE HARD | คงอยู่ |
+| 1A 175/47 | VITARA CLINDA-GEL | GEL | คงอยู่ |
+| 1A 181/63 | CLINDIN-300 | CAPSULE, HARD | คงอยู่ |
+| 1A 183/57 | CLINXY | ALCOHOLIC SOLUTION | คงอยู่ |
+| 1A 187/48 | KLINDA RX 300 | CAPSULE, HARD | คงอยู่ |
+| 1A 193/50 | TODACIN-300 | CAPSULE HARD | คงอยู่ |
+| 1A 207/56 | CEDELIN* GEL | GEL | คงอยู่ |
+| 1A 211/48 | CLIENE | ALCOHOLIC SOLUTION | คงอยู่ |
+| 1A 222/60 | CLINDAVID | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 225/54 | MILLDA | CAPSULE HARD | คงอยู่ |
+| 1A 227/45 | ROSIL ( 1% TOPICAL SOLUTION) | ALCOHOLIC SOLUTION | คงอยู่ |
+| 1A 227/51 | PREME NOBU ACNE | GEL | คงอยู่ |
+| 1A 230/46 | ROSIL (150 MG CAPSULE ) | CAPSULE HARD | คงอยู่ |
+| 1A 231/46 | ROSIL (300 MG CAPSULE ) | CAPSULE HARD | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
