@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 50
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Cyclosporine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง ชนิดถ่ายทอดทางยีนลักษณะด้อย (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันการปฏิเสธอวัยวะ, โรคภูมิคุ้มกันผิดปกติ"
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -147,6 +147,7 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 | 5 | Fetal erythroblastosis | 0.9937 | L5 | วรรณกรรมที่พบเป็นการศึกษาในห้องทดลองที่ใช้ Cyclosporine เป็นเครื่องมือยับยั้งตัวขนส่ง ไม่ใช่หลักฐานของประโยชน์ทางการรักษา |
 | 6 | Brachydactyly-syndactyly syndrome | 0.9931 | L5 | ไม่พบความเชื่อมโยงเชิงกลไก |
 | 7 | Prolapse of lacrimal gland | 0.9908 | L5 | ความเกี่ยวข้องทางอ้อมจากการใช้ Cyclosporine ชนิดหยอดตารักษาตาแห้ง ไม่มีหลักฐานทางคลินิก |
+
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์

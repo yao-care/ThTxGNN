@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 71
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-03
 description: "Fluconazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ กระจกตาและเยื่อบุตาอักเสบแบบจุด (Punctate Epithelial Keratoconjunctiv… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อรา"
 monitor_inn: "Fluconazole"
 predicted_indications: ["punctate epithelial keratoconjunctivitis"]
@@ -145,6 +145,7 @@ Fluconazole เป็นยาต้านเชื้อราในกลุ�
 
 | ข้อบ่งใช้ที่ทำนาย | คะแนน TxGNN | ระดับหลักฐาน | ข้อสังเกต | คำแนะนำ |
 |------|------|------|------|------|
+
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
