@@ -3,7 +3,7 @@ layout: default
 title: รายงานยา
 nav_order: 4
 has_children: true
-description: "เรียกดูรายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่ 145 รายการ จัดระดับหลักฐาน L1-L5"
+description: "เรียกดูรายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่ จัดระดับหลักฐาน L1-L5"
 permalink: /nav-drugs/
 redirect_from:
   - /nav-drugs.html
@@ -12,7 +12,7 @@ redirect_from:
 # รายงานยา
 
 <p style="font-size: 1.1rem; color: #666; margin-bottom: 1.5rem;">
-เรียกดูรายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่ <strong>151</strong> รายการ ตามระดับหลักฐาน
+เรียกดูรายงานการตรวจสอบการใช้ยาเก่าในข้อบ่งใช้ใหม่ <strong>{{ site.data.drug_stats.total_drugs }}</strong> รายการ ตามระดับหลักฐาน
 </p>
 
 <style>
@@ -118,17 +118,20 @@ redirect_from:
 .drug-card.low .drug-card-badge { background: #F5F5F5; color: #757575; }
 </style>
 
+{% comment %}分布數字由 docs/_data/drug_stats.json 計算（scripts/generate_drug_stats.py），不要手寫；scripts/check_seo_docs.py 會擋寫死的數字。{% endcomment %}
+{% assign lc = site.data.drug_stats.level_counts %}{% assign nh = lc.L1 | plus: lc.L2 %}{% assign nm = lc.L3 | plus: lc.L4 %}{% assign nl = lc.L5 %}{% assign nt = nh | plus: nm | plus: nl %}
+{% assign ph = nh | times: 100.0 | divided_by: nt | round: 1 %}{% assign pm = nm | times: 100.0 | divided_by: nt | round: 1 %}{% assign pl = nl | times: 100.0 | divided_by: nt | round: 1 %}
 <div class="drug-dist-container">
   <div class="drug-dist-bar">
-    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: 12%;" title="หลักฐานระดับสูง: 18 รายการ">18</a>
-    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: 28%;" title="หลักฐานระดับกลาง: 43 รายการ">43</a>
-    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: 60%;" title="เฉพาะการคาดการณ์จากโมเดล: 90 รายการ">90</a>
+    <a href="{{ '/evidence-high' | relative_url }}" class="dist-high" style="width: {{ ph }}%;" title="หลักฐานระดับสูง: {{ nh }} รายการ">{{ nh }}</a>
+    <a href="{{ '/evidence-medium' | relative_url }}" class="dist-medium" style="width: {{ pm }}%;" title="หลักฐานระดับกลาง: {{ nm }} รายการ">{{ nm }}</a>
+    <a href="{{ '/evidence-low' | relative_url }}" class="dist-low" style="width: {{ pl }}%;" title="เฉพาะการคาดการณ์จากโมเดล: {{ nl }} รายการ">{{ nl }}</a>
   </div>
 
   <div class="drug-cards">
     <a href="{{ '/evidence-high' | relative_url }}" class="drug-card high">
       <div class="drug-card-icon">
-        <span class="drug-card-count">18</span>
+        <span class="drug-card-count">{{ nh }}</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">หลักฐานระดับสูง</div>
@@ -139,7 +142,7 @@ redirect_from:
 
     <a href="{{ '/evidence-medium' | relative_url }}" class="drug-card medium">
       <div class="drug-card-icon">
-        <span class="drug-card-count">43</span>
+        <span class="drug-card-count">{{ nm }}</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">หลักฐานระดับกลาง</div>
@@ -150,7 +153,7 @@ redirect_from:
 
     <a href="{{ '/evidence-low' | relative_url }}" class="drug-card low">
       <div class="drug-card-icon">
-        <span class="drug-card-count">90</span>
+        <span class="drug-card-count">{{ nl }}</span>
       </div>
       <div class="drug-card-info">
         <div class="drug-card-title">เฉพาะการคาดการณ์จากโมเดล</div>
