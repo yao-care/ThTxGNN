@@ -1,25 +1,25 @@
 ---
 layout: default
-title: "ข่าวเกี่ยวกับ โรคสะเก็ดเงิน (psoriasis)"
+title: "ข่าวเกี่ยวกับ สะเก็ดเงิน (psoriasis)"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพเกี่ยวกับ โรคสะเก็ดเงิน (psoriasis) ข่าว 3 รายการ ยาที่เกี่ยวข้อง 1 รายการ"
+description: "ข่าวสุขภาพเกี่ยวกับ สะเก็ดเงิน (psoriasis) ข่าว 3 รายการ ยาที่เกี่ยวข้อง 1 รายการ"
 permalink: /news/psoriasis/
 last_modified_at: 2026-11-03
 ---
 
-# ข่าวเกี่ยวกับ โรคสะเก็ดเงิน (psoriasis)
+# ข่าวเกี่ยวกับ สะเก็ดเงิน (psoriasis)
 
 [← กลับไปที่ภาพรวมข่าว]({{ '/news/' | relative_url }})
 
 ---
 
-<p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ โรคสะเก็ดเงิน (psoriasis) บ้าง">
-ขณะนี้ <strong>โรคสะเก็ดเงิน (psoriasis)</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และยาที่เกี่ยวข้อง 1 รายการ
+<p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ สะเก็ดเงิน (psoriasis) บ้าง">
+ขณะนี้ <strong>สะเก็ดเงิน (psoriasis)</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และยาที่เกี่ยวข้อง 1 รายการ
 </p>
 
 <div class="key-takeaway">
-หน้านี้รวบรวมข่าวสุขภาพล่าสุดเกี่ยวกับ “โรคสะเก็ดเงิน” และแสดงรายการยาในฐานข้อมูล ThTxGNN ที่มีโรคนี้อยู่ในข้อบ่งใช้ที่คาดการณ์
+หน้านี้รวบรวมข่าวสุขภาพล่าสุดเกี่ยวกับ “สะเก็ดเงิน” และแสดงรายการยาในฐานข้อมูล ThTxGNN ที่มีโรคนี้อยู่ในข้อบ่งใช้ที่คาดการณ์
 </div>
 
 <div class="related-drugs-card">
@@ -31,14 +31,6 @@ last_modified_at: 2026-11-03
 </div>
 
 ## ข่าวที่เกี่ยวข้อง (3 ข่าว)
-
-### [ข้อเสนอเพิ่มความคุ้มครองประกันสุขภาพสำหรับยาชีวภาพบางชนิดเพื่อรักษาโรคสะเก็ดเงิน | 60 Seconds Morning, 26 ตุลาคม 2026](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU5kWHpLVUdUNE0tT0dfM2pxNFBDczVoV0hra2hNeTF1LVBrdnBBUHN2czB2TUZCWWEtMUhuYVkyelI3VGs4cDdhTXRNbXhTeThxMjNqV29FakVtandmMlpZQXJ6anlzNVNINGd0Q3pOZFNadnQxUFJKNW05Rl9oVkdiWjQ3a2dldWJneVNaV2hIUWROZTltZlpjUndPUHdUa3Z6OXJ4cGhOcU9pbXU2eGRMUDhZUk9pTnNQazVvMnhnamg4a0E?oc=5)
-
-2026-10-31
-
-แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU5kWHpLVUdUNE0tT0dfM2pxNFBDczVoV0hra2hNeTF1LVBrdnBBUHN2czB2TUZCWWEtMUhuYVkyelI3VGs4cDdhTXRNbXhTeThxMjNqV29FakVtandmMlpZQXJ6anlzNVNINGd0Q3pOZFNadnQxUFJKNW05Rl9oVkdiWjQ3a2dldWJneVNaV2hIUWROZTltZlpjUndPUHdUa3Z6OXJ4cGhOcU9pbXU2eGRMUDhZUk9pTnNQazVvMnhnamg4a0E?oc=5)
-
----
 
 ### [กรมการแพทย์แผนไทยฯ จัดประชุม 29-30 ต.ค.นี้! รับมือ “สะเก็ดเงิน” ชูยาปรุงเฉพาะรายดูแลผู้ป่วย](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrY3A0QmxkenduY0QwRzBfSGUtZC00MHl2M2pMNTBsSWRiRlF6Q0MwWXAzbUgtUmVINzRTZzVXV3RKVFZLZi0yYjIyUk5ub1M2Y0VpUTlwRQ?oc=5)
 
@@ -53,6 +45,14 @@ last_modified_at: 2026-11-03
 2026-10-25
 
 แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkdic2N1bzQyTllyLVE5aF9pc3VmamlNa2xxdkxzMHo0bFUwM1QwWjhFa3lldDdZZW1fVndIS2FNeTlCNEI1a2lMLXhfV202R2JTNFVaaUVuX1BmckFRWTNjb20ySVhKU1NVcmV4c2s0bXA1MmlRZ2l5Z0V3YldDRGw1UV8xY0FkaFN3SFRHV3hjblRBZzNod1gwYTlfZmtjV3Br?oc=5)
+
+---
+
+### [งานวิชาการ "โรคสะเก็ดเงิน" เปิดพื้นที่เรียนรู้ ดูแลด้วยภูมิปัญญาไทย](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XMHFPTU9Xb3ZfcVdvYkZBbDhwa2pUQ0p1aTJCa0hyRWtZVm1qR0tjOGNROFhCWTUtc0dJZU5CYkttMlRhaHNYb0JHVWdWQmhJcy0tQXdROA?oc=5)
+
+2026-10-07
+
+แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XMHFPTU9Xb3ZfcVdvYkZBbDhwa2pUQ0p1aTJCa0hyRWtZVm1qR0tjOGNROFhCWTUtc0dJZU5CYkttMlRhaHNYb0JHVWdWQmhJcy0tQXdROA?oc=5)
 
 ---
 

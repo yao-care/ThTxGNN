@@ -36,14 +36,6 @@ last_modified_at: 2026-11-03
 
 ## ข่าวที่เกี่ยวข้อง (3 ข่าว)
 
-### [ข้อเสนอเพิ่มความคุ้มครองประกันสุขภาพสำหรับยาชีวภาพบางชนิดเพื่อรักษาโรคสะเก็ดเงิน | 60 Seconds Morning, 26 ตุลาคม 2026](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU5kWHpLVUdUNE0tT0dfM2pxNFBDczVoV0hra2hNeTF1LVBrdnBBUHN2czB2TUZCWWEtMUhuYVkyelI3VGs4cDdhTXRNbXhTeThxMjNqV29FakVtandmMlpZQXJ6anlzNVNINGd0Q3pOZFNadnQxUFJKNW05Rl9oVkdiWjQ3a2dldWJneVNaV2hIUWROZTltZlpjUndPUHdUa3Z6OXJ4cGhOcU9pbXU2eGRMUDhZUk9pTnNQazVvMnhnamg4a0E?oc=5)
-
-2026-10-31 <span class="news-indication-tag">โรคสะเก็ดเงิน</span> <span class="news-indication-tag">สะเก็ดเงิน</span>
-
-แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMixgFBVV95cUxPZU5kWHpLVUdUNE0tT0dfM2pxNFBDczVoV0hra2hNeTF1LVBrdnBBUHN2czB2TUZCWWEtMUhuYVkyelI3VGs4cDdhTXRNbXhTeThxMjNqV29FakVtandmMlpZQXJ6anlzNVNINGd0Q3pOZFNadnQxUFJKNW05Rl9oVkdiWjQ3a2dldWJneVNaV2hIUWROZTltZlpjUndPUHdUa3Z6OXJ4cGhOcU9pbXU2eGRMUDhZUk9pTnNQazVvMnhnamg4a0E?oc=5)
-
----
-
 ### [กรมการแพทย์แผนไทยฯ จัดประชุม 29-30 ต.ค.นี้! รับมือ “สะเก็ดเงิน” ชูยาปรุงเฉพาะรายดูแลผู้ป่วย](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrY3A0QmxkenduY0QwRzBfSGUtZC00MHl2M2pMNTBsSWRiRlF6Q0MwWXAzbUgtUmVINzRTZzVXV3RKVFZLZi0yYjIyUk5ub1M2Y0VpUTlwRQ?oc=5)
 
 2026-10-29 <span class="news-indication-tag">สะเก็ดเงิน</span>
@@ -57,6 +49,14 @@ last_modified_at: 2026-11-03
 2026-10-25 <span class="news-indication-tag">โรคสะเก็ดเงิน</span> <span class="news-indication-tag">สะเก็ดเงิน</span>
 
 แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMiowFBVV95cUxNdkdic2N1bzQyTllyLVE5aF9pc3VmamlNa2xxdkxzMHo0bFUwM1QwWjhFa3lldDdZZW1fVndIS2FNeTlCNEI1a2lMLXhfV202R2JTNFVaaUVuX1BmckFRWTNjb20ySVhKU1NVcmV4c2s0bXA1MmlRZ2l5Z0V3YldDRGw1UV8xY0FkaFN3SFRHV3hjblRBZzNod1gwYTlfZmtjV3Br?oc=5)
+
+---
+
+### [งานวิชาการ "โรคสะเก็ดเงิน" เปิดพื้นที่เรียนรู้ ดูแลด้วยภูมิปัญญาไทย](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XMHFPTU9Xb3ZfcVdvYkZBbDhwa2pUQ0p1aTJCa0hyRWtZVm1qR0tjOGNROFhCWTUtc0dJZU5CYkttMlRhaHNYb0JHVWdWQmhJcy0tQXdROA?oc=5)
+
+2026-10-07 <span class="news-indication-tag">โรคสะเก็ดเงิน</span> <span class="news-indication-tag">สะเก็ดเงิน</span>
+
+แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XMHFPTU9Xb3ZfcVdvYkZBbDhwa2pUQ0p1aTJCa0hyRWtZVm1qR0tjOGNROFhCWTUtc0dJZU5CYkttMlRhaHNYb0JHVWdWQmhJcy0tQXdROA?oc=5)
 
 ---
 
