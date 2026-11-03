@@ -23,6 +23,25 @@ def get_headers() -> dict:
     }
 
 
+# 2026-11-03：GitHub issue 列表一頁最多 100 筆；原本只看第一頁，超過 100 筆的 issue
+# 永遠查不到（重複開 issue、舊 issue 關不掉）。改成依 Link header 分頁取全部。
+def list_issues_all(params: dict) -> List[dict]:
+    """List all issues (not PRs) matching params, following pagination."""
+    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
+    params = dict(params, per_page=100)
+    issues = []
+    while url:
+        response = requests.get(url, headers=get_headers(), params=params, timeout=30)
+        response.raise_for_status()
+        issues.extend(i for i in response.json() if "pull_request" not in i)
+        url = response.links.get("next", {}).get("url")
+        params = None  # next URL already carries the query string
+    return issues
+
+
+_title_cache = {}
+
+
 def issue_exists(title: str, state: str = "all") -> bool:
     """
     Check if an issue with the given title already exists.
@@ -38,25 +57,15 @@ def issue_exists(title: str, state: str = "all") -> bool:
         print(f"[DRY RUN] Would check for existing issue: {title}")
         return False
 
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-
-    # Search for issues with exact title match
-    params = {
-        "state": state,
-        "labels": "auto-detected",
-        "per_page": 100
-    }
-
     try:
-        response = requests.get(url, headers=get_headers(), params=params, timeout=30)
-        response.raise_for_status()
-        issues = response.json()
-
-        # Check for exact title match
-        for issue in issues:
-            if issue.get("title") == title:
-                print(f"  → Issue already exists: #{issue['number']} - {title}")
-                return True
+        # One paginated listing per run; titles created later in the run are added in create_issue()
+        if state not in _title_cache:
+            _title_cache[state] = {i.get("title"): i["number"]
+                                   for i in list_issues_all({"state": state, "labels": "auto-detected"})}
+        number = _title_cache[state].get(title)
+        if number is not None:
+            print(f"  → Issue already exists: #{number} - {title}")
+            return True
 
         return False
 
@@ -81,27 +90,19 @@ def find_existing_issues_by_label(drug_name: str, label: str, state: str = "open
         print(f"[DRY RUN] Would search for {label} issues: {drug_name}")
         return []
 
-    url = f"https://api.github.com/repos/{GITHUB_REPO}/issues"
-    params = {
-        "state": state,
-        "labels": label,
-        "per_page": 100
-    }
-
     try:
-        response = requests.get(url, headers=get_headers(), params=params, timeout=30)
-        response.raise_for_status()
-        issues = response.json()
+        issues = list_issues_all({"state": state, "labels": label})
 
         # Filter issues matching the drug name pattern
         # Title formats:
         # - 📚 New Publications: DrugName (N papers)
         # - 🔬 New Clinical Trials: DrugName (N trials)
+        # 2026-11-03：冒號半形／全形都接受，並要求「(數字」，藥名本身含括號也擷取得到
         matching = []
         drug_name_lower = drug_name.lower()
         for issue in issues:
             title = issue.get("title", "")
-            match = re.search(r':\s*(.+?)\s*\(', title)
+            match = re.search(r'[:：]\s*(.+?)\s*\(\d+', title)
             if match:
                 issue_drug = match.group(1).strip().lower()
                 if issue_drug == drug_name_lower:
@@ -222,6 +223,8 @@ def create_issue(title: str, body: str, labels: list) -> Optional[str]:
         response = requests.post(url, headers=get_headers(), json=payload, timeout=30)
         response.raise_for_status()
         issue_url = response.json().get("html_url")
+        for titles in _title_cache.values():
+            titles[title] = response.json().get("number")
         print(f"  → Created issue: {issue_url}")
         return issue_url
 
