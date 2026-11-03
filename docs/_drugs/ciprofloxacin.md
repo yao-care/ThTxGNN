@@ -4,17 +4,17 @@ title: Ciprofloxacin
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 43
 evidence_level: L5
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Ciprofloxacin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินปัสสาวะ"
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Ciprofloxacin"
-predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
+predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
+description: "Ciprofloxacin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคผิวหนังแข็งแบบแพร่กระจาย (diffuse scleroderma) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Ciprofloxacin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndro
 
 </div>
 
-## Ciprofloxacin: จากโรคติดเชื้อแบคทีเรียและติดเชื้อทางเดินปัสสาวะ สู่โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma)
+## Ciprofloxacin: โรคผิวหนังแข็งแบบแพร่กระจาย (diffuse scleroderma)
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -48,8 +48,8 @@ Ciprofloxacin เป็นยาปฏิชีวนะกลุ่มฟลู
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินปัสสาวะ |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผิวหนังแข็งแบบแพร่กระจาย (Diffuse Scleroderma) |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผิวหนังแข็งแบบแพร่กระจาย (diffuse scleroderma) |
 | คะแนนการทำนาย TxGNN | 0.9987 |
 | ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 77 จาก 323 รายการ) |

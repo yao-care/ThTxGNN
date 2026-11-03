@@ -4,17 +4,17 @@ title: Ceftriaxone
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 37
 evidence_level: L5
-indication_count: 7
+indication_count: 5
 monitor_inn: "Ceftriaxone"
-predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "infectious otitis media", "blood group incompatibility", "suppurative otitis media", "chronic otitis media"]
-last_modified_at: 2026-10-31
-description: "Ceftriaxone: ข้อบ่งใช้ใหม่ที่คาดการณ์ polyclonal hyperviscosity syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรียรุนแรง"
+predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "chronic otitis media"]
+last_modified_at: 2026-11-03
+description: "Ceftriaxone: ข้อบ่งใช้ใหม่ที่คาดการณ์ Polyclonal hyperviscosity syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Ceftriaxone
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **7** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Ceftriaxone: ข้อบ่งใช้ใหม่ที่ค�
 
 </div>
 
-## Ceftriaxone: จากโรคติดเชื้อแบคทีเรียรุนแรงสู่ polyclonal hyperviscosity syndrome
+## Ceftriaxone: Polyclonal hyperviscosity syndrome
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -48,8 +48,8 @@ Ceftriaxone เป็นยาปฏิชีวนะกลุ่มเซฟ�
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | โรคติดเชื้อแบคทีเรียรุนแรง |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | polyclonal hyperviscosity syndrome |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Polyclonal hyperviscosity syndrome |
 | คะแนนการทำนาย TxGNN | 0.9939 |
 | ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 36 จาก 155 รายการ) |

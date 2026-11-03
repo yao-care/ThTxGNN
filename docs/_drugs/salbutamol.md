@@ -4,17 +4,17 @@ title: Salbutamol
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 139
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Salbutamol: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคปอดอุดกั้นเรื้อรัง"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Salbutamol"
-predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "bronchitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
+description: "Salbutamol: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (papillary conjunctivitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Salbutamol
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **8** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pha
 
 </div>
 
-## Salbutamol: จากโรคหอบหืดและโรคปอดอุดกั้นเรื้อรังสู่เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis)
+## Salbutamol: เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (papillary conjunctivitis)
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,8 +46,8 @@ Salbutamol เป็นยากระตุ้นตัวรับเบต้
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | โรคหอบหืด, โรคปอดอุดกั้นเรื้อรัง |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (Papillary Conjunctivitis) |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | เยื่อบุตาอักเสบชนิดตุ่มปุ่ม (papillary conjunctivitis) |
 | คะแนนการทำนาย TxGNN | 1.0000 |
 | ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 52 จาก 284 รายการ) |

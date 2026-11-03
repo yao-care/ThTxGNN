@@ -4,17 +4,17 @@ title: Ferrous Sulfate Anhydrous
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 68
 evidence_level: L5
-indication_count: 4
-last_modified_at: 2026-10-31
-description: "Ferrous Sulfate Anhydrous: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ภาวะโลหิตจางจากขาดธาตุเหล็ก"
+indication_count: 3
+last_modified_at: 2026-11-03
 monitor_inn: "Ferrous sulfate anhydrous"
-predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "Plummer-Vinson syndrome", "biotin metabolic disease", "non-syndromic esophageal malformation"]
+predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "biotin metabolic disease", "non-syndromic esophageal malformation"]
+description: "Ferrous Sulfate Anhydrous: ข้อบ่งใช้ใหม่ที่คาดการณ์ Vitamin B12- and folate-independent constitutional megaloblastic anemia (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Ferrous Sulfate Anhydrous
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **4** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **3** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["vitamin B12- and folate-independent constitutional mega
 
 </div>
 
-## Ferrous sulfate anhydrous: จากภาวะโลหิตจางจากขาดธาตุเหล็ก สู่ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต
+## Ferrous Sulfate Anhydrous: Vitamin B12- and folate-independent constitutional megaloblastic anemia
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,8 +46,8 @@ Ferrous sulfate anhydrous เป็นเกลือธาตุเหล็ก
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | ภาวะโลหิตจางจากขาดธาตุเหล็ก |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Vitamin B12- and folate-independent constitutional megaloblastic anemia |
 | คะแนนการทำนาย TxGNN | 0.9978 |
 | ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 14 จาก 155 รายการ) |
@@ -60,7 +60,7 @@ Ferrous sulfate anhydrous เป็นเกลือธาตุเหล็ก
 
 ธาตุเหล็กจำเป็นต่อการสร้างเม็ดเลือดแดง แต่ภาวะโลหิตจางแบบเมกะโลบลาสติกเกิดจากการสร้าง DNA บกพร่อง ไม่ใช่การขาดธาตุเหล็ก ความเชื่อมโยงจึงเป็นเพียง**ทางอ้อม** และอาศัยการทำนายของโมเดลเท่านั้น
 
-ควรระวังว่าผลการทำนายอื่นในลำดับถัดมา เช่น กลุ่มโรคกระดูกขากรรไกรหรือโรคในช่วงปริกำเนิด แทบไม่มีกลไกรองรับ ส่วน **Plummer-Vinson syndrome** (คะแนน 0.9977, ระดับหลักฐาน L4) มีเหตุผลเชิงกลไกที่สอดคล้องที่สุด เพราะเป็นภาวะโลหิตจางจากขาดธาตุเหล็กร่วมกับพังผืดหลอดอาหาร และการเสริมธาตุเหล็กเป็นการรักษามาตรฐาน แต่ก็ยังไม่มีการทดลองหรือวรรณกรรมในข้อมูลที่รวบรวมสำหรับรายงานนี้ จึงจัดเป็นเพียง "คำถามวิจัย"
+ควรระวังว่าผลการทำนายอื่นในลำดับถัดมา เช่น กลุ่มโรคกระดูกขากรรไกรหรือโรคในช่วงปริกำเนิด แทบไม่มีกลไกรองรับ ส่วน **Plummer-Vinson syndrome** (คะแนน 0.9978, ระดับหลักฐาน L4) มีเหตุผลเชิงกลไกที่สอดคล้องที่สุด เพราะเป็นภาวะโลหิตจางจากขาดธาตุเหล็กร่วมกับพังผืดหลอดอาหาร และการเสริมธาตุเหล็กเป็นการรักษามาตรฐาน แต่ก็ยังไม่มีการทดลองหรือวรรณกรรมในข้อมูลที่รวบรวมสำหรับรายงานนี้ จึงจัดเป็นเพียง "คำถามวิจัย"
 
 ## หลักฐานจากการทดลองทางคลินิก
 

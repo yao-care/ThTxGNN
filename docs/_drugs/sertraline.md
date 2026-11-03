@@ -4,17 +4,17 @@ title: Sertraline
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 140
 evidence_level: L5
-indication_count: 8
+indication_count: 7
 monitor_inn: "Sertraline"
-predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "agoraphobia", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-10-31
-description: "Sertraline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพแบบหวาดระแวง (Paranoid Personality Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคซึมเศร้า, โรควิตกกังวล"
+predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
+last_modified_at: 2026-11-03
+description: "Sertraline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพแบบหวาดระแวง (paranoid personality disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Sertraline
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **8** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **7** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Sertraline: ข้อบ่งใช้ใหม่ที่คา
 
 </div>
 
-## Sertraline: จากโรคซึมเศร้าและโรควิตกกังวล สู่โรคบุคลิกภาพแบบหวาดระแวง
+## Sertraline: โรคบุคลิกภาพแบบหวาดระแวง (paranoid personality disorder)
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -50,8 +50,8 @@ Sertraline เดิมใช้รักษาโรคซึมเศร้า
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | โรคซึมเศร้า, โรควิตกกังวล |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคบุคลิกภาพแบบหวาดระแวง (Paranoid Personality Disorder) |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคบุคลิกภาพแบบหวาดระแวง (paranoid personality disorder) |
 | คะแนนการทำนาย TxGNN | 0.9993 |
 | ระดับหลักฐาน | L5 (ไม่มีการศึกษาใดศึกษาโรคนี้โดยตรง) |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 15 จาก 33 รายการ) |
@@ -89,7 +89,7 @@ Sertraline เดิมใช้รักษาโรคซึมเศร้า
 
 ### ข้อบ่งใช้ทางเลือกที่มีหลักฐานมากกว่า: ภาวะกลัวที่โล่งแจ้ง (Agoraphobia)
 
-TxGNN ให้คะแนน 0.9954 ซึ่งมีวรรณกรรมที่เกี่ยวข้องกับโรคแพนิกที่มีหรือไม่มีภาวะกลัวที่โล่งแจ้ง ตัวอย่างหลักฐานสำคัญ:
+TxGNN ให้คะแนน 0.9955 ซึ่งมีวรรณกรรมที่เกี่ยวข้องกับโรคแพนิกที่มีหรือไม่มีภาวะกลัวที่โล่งแจ้ง ตัวอย่างหลักฐานสำคัญ:
 
 | PMID | ปี | ประเภท | วารสาร | ผลลัพธ์หลัก |
 |------|-----|------|------|---------|

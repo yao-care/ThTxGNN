@@ -4,17 +4,17 @@ title: Alprazolam
 parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 15
 evidence_level: L3
-indication_count: 3
+indication_count: 2
 monitor_inn: "Alprazolam"
-predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia"]
-last_modified_at: 2026-10-31
+predicted_indications: ["insomnia (disease)", "benign paroxysmal torticollis of infancy"]
+last_modified_at: 2026-11-03
 description: "Alprazolam: ข้อบ่งใช้ใหม่ที่คาดการณ์ นอนไม่หลับ (insomnia (disease)) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Alprazolam
 {: .fs-9 }
 
-ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่คาดการณ์: **3** รายการ
+ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่คาดการณ์: **2** รายการ
 {: .fs-6 .fw-300 }
 
 ---

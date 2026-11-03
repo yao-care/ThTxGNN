@@ -4,17 +4,17 @@ title: Risperidone
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 137
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
+indication_count: 4
+last_modified_at: 2026-11-03
 description: "Risperidone: ข้อบ่งใช้ใหม่ที่คาดการณ์ อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaz… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคจิตเภท"
 monitor_inn: "Risperidone"
-predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania", "major affective disorder"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 ---
 
 # Risperidone
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **4** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -142,7 +142,6 @@ Risperidone เป็นยาต้านโรคจิตกลุ่มร�
 | 3 | Amelocerebrohypohidrotic syndrome | 0.9969 | L5 | Hold |
 | 4 | Phelan-McDermid syndrome | 0.9959 | L4 | Research Question |
 | 5 | Trichotillomania | 0.9951 | L4 | Research Question |
-| 6 | Major affective disorder (ภาวะซึมเศร้า/ไบโพลาร์) | 0.9911 | L1 | Proceed with Guardrails |
 
 ข้อบ่งใช้อันดับ 6 มีหลักฐานเด่นที่สุด โดยมี Phase 3 RCT ที่เสร็จสมบูรณ์หลายรายการ เช่น NCT00095134 (n=630) และ NCT00044681 (n=258) ซึ่งทดสอบ risperidone เสริมในภาวะซึมเศร้าที่ดื้อต่อการรักษา และมีการวิเคราะห์อภิมาน (meta-analysis) หลายฉบับสนับสนุน ควรประเมินแยกเป็นรายงานต่างหาก
 

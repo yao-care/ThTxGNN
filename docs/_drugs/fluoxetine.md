@@ -4,17 +4,17 @@ title: Fluoxetine
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 72
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Fluoxetine"
-predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "agoraphobia", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-10-31
+predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
+last_modified_at: 2026-11-03
 description: "Fluoxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Fluoxetine
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **8** รายการ
 {: .fs-6 .fw-300 }
 
 ---

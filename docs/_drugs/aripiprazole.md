@@ -4,17 +4,17 @@ title: Aripiprazole
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 20
 evidence_level: L5
-indication_count: 9
-last_modified_at: 2026-10-31
-description: "Aripiprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder) (ระดับหลักฐาน L1) ข้อบ่งใช้เดิม: จิตเภท, ไบโพลาร์"
+indication_count: 8
+last_modified_at: 2026-11-03
 monitor_inn: "Aripiprazole"
-predicted_indications: ["major affective disorder", "gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
+description: "Aripiprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ Gaze palsy, familial horizontal, with progressive scoliosis (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Aripiprazole
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **8** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["major affective disorder", "gaze palsy, familial horizo
 
 </div>
 
-## Aripiprazole: จากจิตเภทและไบโพลาร์สู่โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder)
+## Aripiprazole: Gaze palsy, familial horizontal, with progressive scoliosis
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,9 +46,9 @@ Aripiprazole เป็นยาต้านโรคจิตกลุ่มใ�
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | จิตเภท, ไบโพลาร์ |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคทางอารมณ์ชนิดรุนแรง (Major Affective Disorder) |
-| คะแนนการทำนาย TxGNN | 0.9962 |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Gaze palsy, familial horizontal, with progressive scoliosis |
+| คะแนนการทำนาย TxGNN | 0.9960 |
 | ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 22 จาก 39 รายการ) |
 | จำนวนทะเบียนตำรับยา | 39 รายการ (ยังมีผล 22) |

@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Nystatin
-parent: หลักฐานระดับกลาง (L3-L4)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 115
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Nystatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Vulvovaginitis (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: เชื้อราในช่องปาก"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Nystatin"
-predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
+description: "Nystatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Disease of orbital region (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Nystatin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["vulvovaginitis", "disease of orbital region", "disease 
 
 </div>
 
-## Nystatin: จากเชื้อราในช่องปากสู่โรคช่องคลอดและช่องคลอดภายนอกอักเสบ (Vulvovaginitis)
+## Nystatin: Disease of orbital region
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,10 +46,10 @@ Nystatin เป็นยาต้านเชื้อรากลุ่มโ�
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | เชื้อราในช่องปาก |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | Vulvovaginitis |
-| คะแนนการทำนาย TxGNN | 0.9992 |
-| ระดับหลักฐาน | L3 |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Disease of orbital region |
+| คะแนนการทำนาย TxGNN | 0.9990 |
+| ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 10 จาก 63 รายการ) |
 | จำนวนทะเบียนตำรับยา | 63 รายการ (ยังมีผล 10) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |

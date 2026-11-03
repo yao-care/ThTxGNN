@@ -4,17 +4,17 @@ title: Progesterone
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 130
 evidence_level: L5
-indication_count: 7
+indication_count: 6
 monitor_inn: "Progesterone"
-predicted_indications: ["amenorrhea (disease)", "breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
-last_modified_at: 2026-10-31
-description: "Progesterone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขาดประจำเดือน (amenorrhea (disease)) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
+last_modified_at: 2026-11-03
+description: "Progesterone: ข้อบ่งใช้ใหม่ที่คาดการณ์ Breast fibrocystic disease (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Progesterone
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **7** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **6** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Progesterone: ข้อบ่งใช้ใหม่ที่ค�
 
 </div>
 
-## Progesterone: ฮอร์โมนโปรเจสโตเจนธรรมชาติ → ภาวะขาดประจำเดือน (amenorrhea)
+## Progesterone: Breast fibrocystic disease
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -47,8 +47,8 @@ Progesterone เป็นฮอร์โมนเพศหญิงธรรม�
 | รายการ | เนื้อหา |
 |------|------|
 | ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | ภาวะขาดประจำเดือน (amenorrhea (disease)) |
-| คะแนนการทำนาย TxGNN | 1,0000 |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Breast fibrocystic disease |
+| คะแนนการทำนาย TxGNN | 0.9998 |
 | ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 31 จาก 76 รายการ) |
 | จำนวนทะเบียนตำรับยา | 76 รายการ (ยังมีผล 31) |

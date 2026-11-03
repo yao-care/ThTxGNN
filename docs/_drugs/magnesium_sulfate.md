@@ -4,17 +4,17 @@ title: Magnesium Sulfate
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 103
 evidence_level: L5
-indication_count: 9
+indication_count: 8
 monitor_inn: "Magnesium sulfate"
-predicted_indications: ["toxemia of pregnancy", "thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
-last_modified_at: 2026-10-31
-description: "Magnesium Sulfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ ครรภ์เป็นพิษ (toxemia of pregnancy) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
+last_modified_at: 2026-11-03
+description: "Magnesium Sulfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ Thrombotic disease (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Magnesium Sulfate
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **8** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ description: "Magnesium Sulfate: ข้อบ่งใช้ใหม่ที�
 
 </div>
 
-## Magnesium sulfate: เกลือแร่แมกนีเซียมชนิดฉีด → ครรภ์เป็นพิษ (toxemia of pregnancy)
+## Magnesium Sulfate: Thrombotic disease
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -45,8 +45,8 @@ Magnesium sulfate เป็นยาฉีดเกลือแร่แมก�
 | รายการ | เนื้อหา |
 |------|------|
 | ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | ครรภ์เป็นพิษ (toxemia of pregnancy) |
-| คะแนนการทำนาย TxGNN | 1.0000 |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Thrombotic disease |
+| คะแนนการทำนาย TxGNN | 0.9990 |
 | ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 25 จาก 126 รายการ) |
 | จำนวนทะเบียนตำรับยา | 126 รายการ (ยังมีผล 25) |

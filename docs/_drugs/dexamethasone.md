@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Dexamethasone
-parent: หลักฐานระดับกลาง (L3-L4)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 52
-evidence_level: L3
-indication_count: 10
-last_modified_at: 2026-10-31
-description: "Dexamethasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคผมร่วงเป็นหย่อม (Alopecia Areata) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ต้านการอักเสบ"
+evidence_level: L5
+indication_count: 9
+last_modified_at: 2026-11-03
 monitor_inn: "Dexamethasone"
-predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
+description: "Dexamethasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ Alopecia mucinosa (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Dexamethasone
 {: .fs-9 }
 
-ระดับหลักฐาน: **L3** | ข้อบ่งใช้ที่คาดการณ์: **10** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **9** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["alopecia areata", "alopecia mucinosa", "telogen effluvi
 
 </div>
 
-## Dexamethasone: จากการต้านการอักเสบ สู่โรคผมร่วงเป็นหย่อม (Alopecia Areata)
+## Dexamethasone: Alopecia mucinosa
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -46,10 +46,10 @@ Dexamethasone เป็นยากลุ่มคอร์ติโคสเต
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | ต้านการอักเสบ |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคผมร่วงเป็นหย่อม (Alopecia Areata) |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Alopecia mucinosa |
 | คะแนนการทำนาย TxGNN | 0.9999 |
-| ระดับหลักฐาน | L3 |
+| ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 92 จาก 599 รายการ) |
 | จำนวนทะเบียนตำรับยา | 599 รายการ (ยังมีผล 92) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |

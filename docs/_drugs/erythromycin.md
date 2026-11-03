@@ -4,17 +4,17 @@ title: Erythromycin
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 64
 evidence_level: L5
-indication_count: 5
-last_modified_at: 2026-10-31
+indication_count: 4
+last_modified_at: 2026-11-03
 description: "Erythromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (Punctate Epithelial Keratoconjun… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
 monitor_inn: "Erythromycin"
-predicted_indications: ["punctate epithelial keratoconjunctivitis", "acute contagious conjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
+predicted_indications: ["punctate epithelial keratoconjunctivitis", "exposure keratitis", "lymphogranuloma venereum", "necrotizing ulcerative gingivitis"]
 ---
 
 # Erythromycin
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **5** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **4** รายการ
 {: .fs-6 .fw-300 }
 
 ---

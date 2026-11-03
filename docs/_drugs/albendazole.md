@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Albendazole
-parent: หลักฐานระดับสูง (L1-L2)
+parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 13
-evidence_level: L2
-indication_count: 3
-last_modified_at: 2026-10-31
-description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: พยาธิ"
+evidence_level: L5
+indication_count: 1
+last_modified_at: 2026-11-03
 monitor_inn: "Albendazole"
-predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infectious disease"]
+predicted_indications: ["coenurosis"]
+description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ Coenurosis (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Albendazole
 {: .fs-9 }
 
-ระดับหลักฐาน: **L2** | ข้อบ่งใช้ที่คาดการณ์: **3** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **1** รายการ
 {: .fs-6 .fw-300 }
 
 ---
@@ -33,7 +33,7 @@ predicted_indications: ["alveolar echinococcosis", "coenurosis", "Cestode infect
 
 </div>
 
-## Albendazole: จากโรคพยาธิสู่โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis)
+## Albendazole: Coenurosis
 {: .text-alpha }
 
 ## สรุปสั้นๆ
@@ -48,10 +48,10 @@ Albendazole เป็นยาถ่ายพยาธิกลุ่มเบ�
 
 | รายการ | เนื้อหา |
 |------|------|
-| ข้อบ่งใช้เดิม | พยาธิ |
-| ข้อบ่งใช้ใหม่ที่ทำนาย | โรคเอคิโนค็อกโคสิสชนิดถุงลม (Alveolar Echinococcosis) |
-| คะแนนการทำนาย TxGNN | 0.9997 |
-| ระดับหลักฐาน | L2 |
+| ข้อบ่งใช้เดิม | ไม่มีบันทึกในข้อมูลท้องถิ่น |
+| ข้อบ่งใช้ใหม่ที่ทำนาย | Coenurosis |
+| คะแนนการทำนาย TxGNN | 0.9983 |
+| ระดับหลักฐาน | L5 |
 | สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 61 จาก 173 รายการ) |
 | จำนวนทะเบียนตำรับยา | 173 รายการ (ยังมีผล 61) |
 | คำแนะนำในการตัดสินใจ | Proceed with Guardrails |

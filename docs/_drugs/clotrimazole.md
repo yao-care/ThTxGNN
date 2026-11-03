@@ -4,17 +4,17 @@ title: Clotrimazole
 parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 47
 evidence_level: L5
-indication_count: 3
+indication_count: 2
 monitor_inn: "Clotrimazole"
-predicted_indications: ["acne (disease)", "vulvovaginitis", "postmenopausal atrophic vaginitis"]
-last_modified_at: 2026-10-31
+predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
+last_modified_at: 2026-11-03
 description: "Clotrimazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ สิวอักเสบ (acne (disease)) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
 # Clotrimazole
 {: .fs-9 }
 
-ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **3** รายการ
+ระดับหลักฐาน: **L5** | ข้อบ่งใช้ที่คาดการณ์: **2** รายการ
 {: .fs-6 .fw-300 }
 
 ---
