@@ -23,21 +23,19 @@ Drug repurposing predictions for Thailand Thai FDA-approved drugs using the TxGN
 | **Total Predictions** | 222,094 |
 | **Unique Drugs** | 152 |
 | **Unique Indications** | 12,298 |
-| **DDI Data** | 302,516 |
-| **DFI Data** | 857 |
-| **DHI Data** | 35 |
-| **DDSI Data** | 8,359 |
-| **FHIR Resources** | 125 MK / 1,130 CUD |
+| **DDI Data** | 160,235 (DDInter 2.0 unique drug pairs) |
+| **FHIR Resources** | 158 MK / 769 CUD |
 
 ### Evidence Level Distribution
 
 | Evidence Level | Report Count | Description |
 |---------|-------|------|
 | **L1** | 0 | Multiple Phase 3 RCTs |
-| **L2** | 0 | Single RCT or multiple Phase 2 |
-| **L3** | 0 | Observational studies |
-| **L4** | 0 | Preclinical / mechanistic studies |
-| **L5** | 151 | Computational prediction only |
+| **L2** | 10 | Single RCT or multiple Phase 2 |
+| **L3** | 4 | Observational studies |
+| **L4** | 10 | Preclinical / mechanistic studies |
+| **L5** | 101 | Computational prediction only |
+| **N/A** | 20 | Known uses only (no new prediction) |
 
 ### By Source
 
