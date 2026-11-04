@@ -71,11 +71,7 @@ ThTxGNN ให้บริการ CDS Hooks ที่สามารถรว�
 
 ### Service Endpoint
 
-**Service Discovery Endpoint**: [/cds-hooks/cds-services.json](/cds-hooks/cds-services.json)
-
-<div style="margin: 20px 0;">
-  <a href="/cds-hooks/demo.html" style="display: inline-block; padding: 12px 24px; background: #17a2b8; color: white; text-decoration: none; border-radius: 8px; font-weight: 500;">ทดสอบ CDS Hooks Demo</a>
-</div>
+**Service Discovery Endpoint**: ดู[สถาปัตยกรรม CDS Hooks]({{ site.baseurl }}{% link smart/cds-hooks-architecture.md %})
 
 ### วิธีการเชื่อมต่อ
 
@@ -99,8 +95,6 @@ ThTxGNN ให้บริการ CDS Hooks ที่สามารถรว�
 ## คลัง CQL Rules
 
 ThTxGNN มีกฎการตรวจสอบ DDI ในรูปแบบ CQL ที่สามารถใช้รวมเข้ากับระบบ CDS ที่เป็นไปตามมาตรฐาน
-
-**ไฟล์ CQL**: [/cql/ThTxGNN_DDI_CDS.cql](/cql/ThTxGNN_DDI_CDS.cql)
 
 ### กฎที่รวมอยู่
 

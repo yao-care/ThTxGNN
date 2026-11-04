@@ -21,8 +21,8 @@ redirect_from:
 ## FHIR Resources
 
 - [FHIR CapabilityStatement](/fhir/metadata)
-- [MedicationKnowledge](/fhir/MedicationKnowledge/)
-- [ClinicalUseDefinition](/fhir/ClinicalUseDefinition/)
+- MedicationKnowledge: [Bundle all-predictions.json](/fhir/Bundle/all-predictions.json)（รายการ: `/fhir/MedicationKnowledge/{drug-slug}.json`）
+- ClinicalUseDefinition: `/fhir/ClinicalUseDefinition/{drug-indication-slug}.json`（ตัวอย่าง: [metformin-classic-stiff-person-syndrome.json](/fhir/ClinicalUseDefinition/metformin-classic-stiff-person-syndrome.json)）
 
 ## API
 
