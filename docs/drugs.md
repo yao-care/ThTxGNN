@@ -37,7 +37,7 @@ permalink: /drugs/
 
 ## ภาพรวม
 
-ThTxGNN วิเคราะห์ยา {{ site.data.drug_stats.total_drugs }} รายการจาก Thai FDA และระบุข้อบ่งใช้ใหม่ที่มีศักยภาพ 2,573,191 รายการ
+ThTxGNN วิเคราะห์ยา {{ site.data.drug_stats.total_drugs }} รายการจาก Thai FDA และระบุข้อบ่งใช้ใหม่ที่มีศักยภาพ {{ site.data.site_stats.indications }} รายการ
 
 ## สรุปตามระดับหลักฐาน
 
