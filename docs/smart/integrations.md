@@ -37,7 +37,6 @@ ThTxGNN SMART App เชื่อมต่อกับทรัพยากร�
 | ทรัพยากร | คำอธิบาย | ลิงก์ |
 |------|------|------|
 | **DDInter 2.0** | รวบรวมปฏิกิริยาระหว่างยา 222,391 รายการ ครอบคลุมยา 2,310 ชนิด | [เว็บไซต์ DDInter](https://ddinter2.scbdd.com/) |
-| **Guide to PHARMACOLOGY** | คู่มือเภสัชวิทยา IUPHAR/BPS ข้อมูลปฏิกิริยาระหว่างยาที่ได้รับอนุมัติ | [เว็บไซต์อย่างเป็นทางการ](https://www.guidetopharmacology.org/) |
 
 ### ระดับคำเตือน
 
@@ -73,7 +72,6 @@ ThTxGNN SMART App เชื่อมต่อกับทรัพยากร�
 |------|------|------|
 | ClinicalTrials.gov | ค้นหาการทดลองทางคลินิก | [clinicaltrials.gov](https://clinicaltrials.gov/) |
 | DDInter 2.0 | ฐานข้อมูลปฏิกิริยาระหว่างยา | [ddinter2.scbdd.com](https://ddinter2.scbdd.com/) |
-| Guide to PHARMACOLOGY | ฐานข้อมูลเภสัชวิทยา | [guidetopharmacology.org](https://www.guidetopharmacology.org/) |
 | HL7 PDDI-CDS IG | คู่มือการใช้งาน PDDI | [GitHub](https://github.com/HL7/PDDI-CDS) |
 | CDS Hooks | มาตรฐานการสนับสนุนการตัดสินใจทางคลินิก | [cds-hooks.org](https://cds-hooks.org/) |
 | HL7 CQL | ภาษาคุณภาพทางคลินิก | [cql.hl7.org](https://cql.hl7.org/) |
