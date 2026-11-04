@@ -123,10 +123,6 @@ image: /assets/images/og-default.png
     <strong style="font-size: 1.1rem;">ครอบคลุมยาในประเทศไทย</strong><br>
     <span style="color: #666;">มุ่งเน้นยาที่ได้รับอนุมัติจาก อย. ครอบคลุม {{ site.data.drug_stats.total_drugs }} ยา รายงานรวมสถานะการขึ้นทะเบียนในประเทศไทย</span>
   </div>
-  <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
-    <strong style="font-size: 1.1rem;">ข้อมูลปฏิกิริยาระหว่างยา</strong><br>
-    <span style="color: #666;">รวม DDI (ยา-ยา), DDSI (ยา-โรค), DFI (ยา-อาหาร), DHI (ยา-สมุนไพร) ประเมินความปลอดภัยครบถ้วน</span>
-  </div>
 </div>
 
 ---
