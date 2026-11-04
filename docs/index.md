@@ -10,7 +10,7 @@ image: /assets/images/og-default.png
 # การใช้ยาเก่าในข้อบ่งใช้ใหม่: จากข้อมูลสู่หลักฐาน
 
 <p class="key-answer" data-question="ThTxGNN คืออะไร?">
-<strong>ThTxGNN</strong> คือแพลตฟอร์มคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่ โดยใช้โมเดล TxGNN จาก Harvard เราได้คาดการณ์ <strong>2,573,191</strong> คู่ยา-โรค และตรวจสอบหลักฐานสำหรับ <strong>145</strong> ยาที่ขึ้นทะเบียนกับ อย. ประเทศไทย
+<strong>ThTxGNN</strong> คือแพลตฟอร์มคาดการณ์การใช้ยาเก่าในข้อบ่งใช้ใหม่ โดยใช้โมเดล TxGNN จาก Harvard เราได้คาดการณ์ <strong>2,573,191</strong> คู่ยา-โรค และตรวจสอบหลักฐานสำหรับ <strong>{{ site.data.drug_stats.total_drugs }}</strong> ยาที่ขึ้นทะเบียนกับ อย. ประเทศไทย
 </p>
 
 <div class="key-takeaway">
@@ -29,19 +29,32 @@ image: /assets/images/og-default.png
 
 เว็บไซต์นี้เผยแพร่รายงานของยา **{{ site.data.drug_stats.total_drugs }}** รายการจากข้อมูลทะเบียนยาของ [Thai FDA](https://www.fda.moph.go.th/) (ประเทศไทย)
 
-จำนวนรายงานตามระดับหลักฐาน: L1 {{ site.data.drug_stats.level_counts.L1 }} · L2 {{ site.data.drug_stats.level_counts.L2 }} · L3 {{ site.data.drug_stats.level_counts.L3 }} · L4 {{ site.data.drug_stats.level_counts.L4 }} · L5 {{ site.data.drug_stats.level_counts.L5 }}
+ชุดข้อมูล: [pertento (อย.)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ดาวน์โหลดและเปรียบเทียบโดยอัตโนมัติทุกสัปดาห์ (วันจันทร์) รายละเอียด: [แหล่งข้อมูล]({{ '/data-sources/' | relative_url }})
+
+จำนวนรายงานตามระดับหลักฐาน:
+
+| ระดับหลักฐาน | จำนวนรายงาน | สัดส่วน |
+|---|---|---|
+| L1 | {{ site.data.drug_stats.level_counts.L1 }} | {{ site.data.drug_stats.level_counts.L1 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L2 | {{ site.data.drug_stats.level_counts.L2 }} | {{ site.data.drug_stats.level_counts.L2 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L3 | {{ site.data.drug_stats.level_counts.L3 }} | {{ site.data.drug_stats.level_counts.L3 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L4 | {{ site.data.drug_stats.level_counts.L4 }} | {{ site.data.drug_stats.level_counts.L4 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+| L5 | {{ site.data.drug_stats.level_counts.L5 }} | {{ site.data.drug_stats.level_counts.L5 | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |
+{% assign na = site.data.drug_stats.total_drugs | minus: site.data.drug_stats.level_counts.L1 | minus: site.data.drug_stats.level_counts.L2 | minus: site.data.drug_stats.level_counts.L3 | minus: site.data.drug_stats.level_counts.L4 | minus: site.data.drug_stats.level_counts.L5 %}{% if na > 0 %}| N/A | {{ na }} | {{ na | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}% |{% endif %}
+
+คู่ยา–โรคที่คาดการณ์บนเว็บไซต์นี้ 5 คู่ ไม่ปรากฏในเว็บไซต์ TxGNN อื่นใดจากทั้งหมด 30 แห่ง
 
 ### ยาที่มีระดับหลักฐานสูงสุดบนเว็บไซต์นี้
 
 | ยา | ระดับหลักฐาน |
 |---|---|
 | [Bupropion](/drugs/bupropion/) | L2 |
+| [Diazepam](/drugs/diazepam/) | L2 |
+| [Clozapine](/drugs/clozapine/) | L2 |
 | [Prednisolone](/drugs/prednisolone/) | L2 |
 | [Propofol](/drugs/propofol/) | L2 |
 | [Tizanidine](/drugs/tizanidine/) | L2 |
 | [Atorvastatin](/drugs/atorvastatin/) | L2 |
-| [Albendazole](/drugs/albendazole/) | L2 |
-| [Montelukast](/drugs/montelukast/) | L2 |
 | [Sucralfate](/drugs/sucralfate/) | L2 |
 | [Tacrolimus](/drugs/tacrolimus/) | L2 |
 | [Ketamine](/drugs/ketamine/) | L2 |
@@ -108,7 +121,7 @@ image: /assets/images/og-default.png
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #FB8C00;">
     <strong style="font-size: 1.1rem;">ครอบคลุมยาในประเทศไทย</strong><br>
-    <span style="color: #666;">มุ่งเน้นยาที่ได้รับอนุมัติจาก อย. ครอบคลุม 145 ยา รายงานรวมสถานะการขึ้นทะเบียนในประเทศไทย</span>
+    <span style="color: #666;">มุ่งเน้นยาที่ได้รับอนุมัติจาก อย. ครอบคลุม {{ site.data.drug_stats.total_drugs }} ยา รายงานรวมสถานะการขึ้นทะเบียนในประเทศไทย</span>
   </div>
   <div style="padding: 1.5rem; background: #f8f9fa; border-radius: 8px; border-left: 4px solid #9B59B6;">
     <strong style="font-size: 1.1rem;">ข้อมูลปฏิกิริยาระหว่างยา</strong><br>
@@ -122,10 +135,10 @@ image: /assets/images/og-default.png
 
 | รายการ | จำนวน |
 |--------|-------|
-| **ยาที่วิเคราะห์** | 145 รายการ |
+| **ยาที่วิเคราะห์** | {{ site.data.drug_stats.total_drugs }} รายการ |
 | **การคาดการณ์ทั้งหมด** | 2,573,191 คู่ |
 | **การคาดการณ์ที่แสดงบนเว็บไซต์ (คะแนน ≥0.99 สูงสุด 10 รายการต่อยา)** | {{ site.data.site_stats.indications }} รายการ |
-| **FHIR Resources** | 1,255 รายการ |
+| **FHIR Resources** | {% assign fmk = site.static_files | where_exp: "f", "f.path contains '/fhir/MedicationKnowledge/'" %}{% assign fcud = site.static_files | where_exp: "f", "f.path contains '/fhir/ClinicalUseDefinition/'" %}{{ fmk.size | plus: fcud.size }} รายการ |
 
 ---
 
@@ -162,8 +175,4 @@ image: /assets/images/og-default.png
 
 ## เกี่ยวกับผู้พัฒนา
 
-แพลตฟอร์มนี้พัฒนาและดำเนินการโดย **藥提醒科技有限公司** (yao.care, เลขทะเบียนนิติบุคคล 83620786, 12F, No. 220, Sec. 2, Taiwan Blvd., West Dist., Taichung City, Taiwan)
-
-ThTxGNN คือเว็บไซต์ประจำประเทศไทยของสายผลิตภัณฑ์ "TxGNN Drug Repurposing" ของบริษัท ระบบเดียวกันนี้ถูกนำไปใช้งานใน 30 ประเทศและภูมิภาค โดยแต่ละแห่งใช้ชื่อ `{CC}TxGNN` (JpTxGNN, UsTxGNN, DETxGNN และอื่นๆ) ที่ `{cc}txgnn.yao.care` ภาพรวมผลิตภัณฑ์: <https://www.yao.care/medical/txgnn/>
-
-ตัวโมเดล TxGNN พัฒนาโดย Zitnik Lab แห่ง Harvard Medical School และตีพิมพ์ในวารสาร *Nature Medicine* แพลตฟอร์มนี้เป็นระบบใช้งานจริงที่ 藥提醒科技有限公司 สร้างขึ้นบนพื้นฐานของโมเดลดังกล่าว ครอบคลุมการบูรณาการข้อมูลการขึ้นทะเบียนยาระดับประเทศ การทำนายด้วย Deep Learning ที่ตัดการใช้งานซึ่งบันทึกไว้แล้วใน Knowledge Graph ออก การจัดระดับหลักฐานจาก PubMed / ClinicalTrials และการเชื่อมต่อเวชระเบียนอิเล็กทรอนิกส์ด้วย SMART on FHIR
+แพลตฟอร์มนี้พัฒนาและดำเนินการโดย **藥提醒科技有限公司** (yao.care) ดูข้อมูลบริษัทและที่มาของวิธีการทั้งหมดได้ที่หน้า <a href="{{ '/about/' | relative_url }}">เกี่ยวกับโครงการ</a>
