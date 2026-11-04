@@ -3,7 +3,7 @@ layout: default
 title: ทรัพยากรการเชื่อมต่อ
 parent: SMART on FHIR
 nav_order: 3
-description: ทรัพยากรภายนอกที่ ThTxGNN SMART App เชื่อมต่อ รวมถึงการค้นหาการทดลองทางคลินิก การตรวจสอบปฏิกิริยาระหว่างยา และบริการ CDS Hooks
+description: ทรัพยากรภายนอกที่ ThTxGNN SMART App เชื่อมต่อ รวมถึงการค้นหาการทดลองทางคลินิกและการตรวจสอบปฏิกิริยาระหว่างยา
 permalink: /smart/integrations/
 ---
 
@@ -57,31 +57,6 @@ ThTxGNN SMART App เชื่อมต่อกับทรัพยากร�
 
 ---
 
-## บริการ CDS Hooks
-
-ThTxGNN ให้บริการ CDS Hooks ที่สามารถรวมเข้ากับขั้นตอนการสั่งยาของระบบ EHR
-
-### บริการที่มี
-
-| Service ID | Hook | คำอธิบาย |
-|---------|------|------|
-| `thtxgnn-ddi-check` | order-sign | ตรวจสอบปฏิกิริยาระหว่างยาเมื่อสั่งยา |
-| `thtxgnn-repurposing` | order-sign | แสดงการคาดการณ์ข้อบ่งใช้ใหม่ |
-| `thtxgnn-trial-match` | patient-view | จับคู่การทดลองทางคลินิก |
-
-### Service Endpoint
-
-**Service Discovery Endpoint**: ดู[สถาปัตยกรรม CDS Hooks]({{ site.baseurl }}{% link smart/cds-hooks-architecture.md %})
-
-### วิธีการเชื่อมต่อ
-
-1. ลงทะเบียน service discovery endpoint กับระบบ EHR ของคุณ
-2. กำหนดค่า prefetch เพื่อให้ทรัพยากร MedicationRequest
-3. เรียกใช้บริการเมื่อ order-sign hook ถูกเรียก
-4. แสดง cards ที่ส่งกลับมาให้บุคลากรทางคลินิก
-
----
-
 ## เอกสารอ้างอิงมาตรฐาน
 
 | มาตรฐาน | คำอธิบาย | ลิงก์ |
@@ -89,20 +64,6 @@ ThTxGNN ให้บริการ CDS Hooks ที่สามารถรว�
 | **HL7 PDDI-CDS IG** | คู่มือการใช้งานการสนับสนุนการตัดสินใจทางคลินิกสำหรับปฏิกิริยาระหว่างยา | [GitHub](https://github.com/HL7/PDDI-CDS) |
 | **CDS Hooks** | มาตรฐานการสนับสนุนการตัดสินใจทางคลินิก SMART on FHIR | [ข้อกำหนดอย่างเป็นทางการ](https://cds-hooks.org/) |
 | **CQL (Clinical Quality Language)** | ภาษาคุณภาพทางคลินิก ใช้สำหรับกำหนดกฎการตัดสินใจ | [HL7 CQL](https://cql.hl7.org/) |
-
----
-
-## คลัง CQL Rules
-
-ThTxGNN มีกฎการตรวจสอบ DDI ในรูปแบบ CQL ที่สามารถใช้รวมเข้ากับระบบ CDS ที่เป็นไปตามมาตรฐาน
-
-### กฎที่รวมอยู่
-
-- การตรวจสอบปฏิกิริยา Warfarin-NSAID
-- การตรวจสอบปฏิกิริยา Metformin-สารทึบรังสี
-- การตรวจสอบ Colchicine-สารยับยั้ง CYP3A4
-- การตรวจสอบการใช้ยาร่วมกันที่ยืด QT
-- การตรวจสอบความเสี่ยงกลุ่มอาการเซโรโทนิน
 
 ---
 

@@ -60,7 +60,7 @@ SMART on FHIR เป็นมาตรฐานเปิดที่ช่วย
   <div style="padding: 1.5rem; background: linear-gradient(135deg, #f3e5f5 0%, #e1bee7 100%); border-radius: 12px; border: 2px solid #9c27b0;">
     <div style="font-size: 2rem; margin-bottom: 0.5rem;">🔗</div>
     <strong style="font-size: 1.1rem; color: #7b1fa2;">ทรัพยากรการเชื่อมต่อ</strong>
-    <p style="color: #555; margin: 0.5rem 0 1rem;">ClinicalTrials.gov, ตรวจสอบ DDI, CDS Hooks</p>
+    <p style="color: #555; margin: 0.5rem 0 1rem;">ClinicalTrials.gov, ตรวจสอบ DDI</p>
     <a href="integrations/" style="display: inline-block; padding: 8px 16px; background: #9c27b0; color: white; text-decoration: none; border-radius: 6px; font-size: 0.9rem;">ดูการเชื่อมต่อ →</a>
   </div>
 </div>
