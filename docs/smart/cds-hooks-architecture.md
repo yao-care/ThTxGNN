@@ -224,8 +224,7 @@ nav_order: 14
       "detail": "Concurrent use increases bleeding risk by 3-4x.\n\n**Patient Risk Factors:**\n• Age > 65\n• History of GI bleeding\n\n**Recommendation:** Consider alternative analgesic.",
       "indicator": "warning",
       "source": {
-        "label": "ThTxGNN DDI Service",
-        "url": "https://thtxgnn.yao.care/ddi/"
+        "label": "ThTxGNN DDI Service"
       },
       "suggestions": [
         {
