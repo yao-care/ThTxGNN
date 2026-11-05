@@ -82,6 +82,11 @@ jobs:
             2. 重算 README 的 DDI 配對數，並更新 \`.github/ddi-versions.json\` 的 \`ddinter\`（\`last_checked\`、\`ddi_with_mechanism\`、\`ddi_total_pairs\`）
             3. 需要的話重收藥物 bundle（\`scripts/batch_collect_bundles.py\`）
 
+            ### 資料來源文件
+
+            - 本站資料來源頁：<https://thtxgnn.yao.care/data-sources/>
+            - 版本記錄與筆數重算方式：[.github/ddi-versions.json](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/blob/main/.github/ddi-versions.json)
+
             ---
             *此 Issue 由 GitHub Actions 自動建立*
             `;
