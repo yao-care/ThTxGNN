@@ -66,6 +66,20 @@ ThTxGNN SMART App ใช้สถาปัตยกรรม<strong>ฝั่ง
 
 ---
 
+## บริการของบุคคลที่สาม
+
+หน้าเว็บโหลดทรัพยากรของบุคคลที่สามต่อไปนี้ ซึ่งอาจบันทึกการเข้าถึงตามนโยบายของผู้ให้บริการแต่ละราย:
+
+| บริการ | วัตถุประสงค์ | นโยบายความเป็นส่วนตัว |
+|---------|---------|----------------|
+| GitHub Pages | โฮสต์เว็บไซต์ | [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-privacy-statement) |
+| Google Analytics 4 (www.googletagmanager.com, google-analytics.com) | สถิติการเข้าชม (หน้าที่เปิดดู เว็บไซต์ที่มา) ใช้คุกกี้สำหรับการวิเคราะห์ ไม่ส่งคำค้นหา เนื้อหาในแบบฟอร์ม หรือพารามิเตอร์ใน URL | [นโยบายความเป็นส่วนตัวของ Google](https://policies.google.com/privacy) |
+| cdn.jsdelivr.net | ไลบรารีสคริปต์: กราฟ d3 ในทุกหน้า และ Fuse.js สำหรับจับคู่ชื่อยาและไคลเอนต์ SMART on FHIR ในหน้า SMART รวมถึงช่องค้นหายาในหน้าแรก | [นโยบายความเป็นส่วนตัวของ jsDelivr](https://www.jsdelivr.com/terms/privacy-policy-jsdelivr-net) |
+| clinicaltrials.gov | การค้นหาการทดลองทางคลินิกในหน้า SMART: เฉพาะเมื่อคุณสั่งค้นหา ชื่อยาและชื่อข้อบ่งใช้จะถูกส่งไปยัง API ของ ClinicalTrials.gov | [นโยบายเว็บไซต์ของ NLM](https://www.nlm.nih.gov/web_policies.html) |
+| rxnav.nlm.nih.gov | แอป SMART: รหัส RxNorm ของยาที่อ่านจากเวชระเบียนอิเล็กทรอนิกส์ของคุณจะถูกส่งไปยัง RxNav API ของหอสมุดแพทยศาสตร์แห่งชาติสหรัฐฯ (NLM) เพื่อค้นหาชื่อตัวยาสำคัญ (ไม่มีข้อมูลระบุตัวผู้ป่วย) | [นโยบายเว็บไซต์ของ NLM](https://www.nlm.nih.gov/web_policies.html) |
+
+---
+
 ## โอเพนซอร์สและความโปร่งใส
 
 ThTxGNN เป็นโปรเจกต์โอเพนซอร์ส คุณสามารถตรวจสอบโค้ดทั้งหมดได้:

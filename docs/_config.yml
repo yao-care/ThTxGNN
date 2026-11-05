@@ -106,6 +106,11 @@ defaults:
       path: "smart/standalone.html"
     values:
       sitemap: false
+  # 2026-11-05：smart/demo.html 原本是寫死假預測的示範頁，改成轉到 standalone.html 的轉址頁，不列入 sitemap。
+  - scope:
+      path: "smart/demo.html"
+    values:
+      sitemap: false
 
 
 
