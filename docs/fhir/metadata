@@ -45,13 +45,6 @@
             {
               "code": "read"
             }
-          ],
-          "searchParam": [
-            {
-              "name": "_id",
-              "type": "token",
-              "documentation": "Drug identifier (slug)"
-            }
           ]
         },
         {
@@ -60,13 +53,6 @@
           "interaction": [
             {
               "code": "read"
-            }
-          ],
-          "searchParam": [
-            {
-              "name": "subject",
-              "type": "reference",
-              "documentation": "Reference to MedicationKnowledge"
             }
           ]
         }
