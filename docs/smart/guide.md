@@ -145,7 +145,7 @@ SMART Launcher เป็นเครื่องมือทดสอบอย�
 | Launch URL | `https://thtxgnn.yao.care/smart/launch.html` |
 | Redirect URI | `https://thtxgnn.yao.care/smart/app.html` |
 | Client ID | `thtxgnn-smart-app` |
-| Scopes | `launch patient/MedicationRequest.read openid fhirUser` |
+| Scopes | `launch patient/Patient.read patient/MedicationRequest.read patient/MedicationStatement.read openid fhirUser` |
 
 ### ข้อมูลผู้ป่วยปลอดภัยหรือไม่?
 

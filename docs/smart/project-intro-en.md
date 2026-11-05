@@ -93,7 +93,7 @@ ThTxGNN provides a fully functional SMART on FHIR application that can be integr
 |------|-------|
 | FHIR Version | R4 |
 | OAuth | OAuth 2.0 with PKCE |
-| Scopes | `launch`, `patient/MedicationRequest.read`, `patient/MedicationStatement.read`, `openid`, `fhirUser` |
+| Scopes | `launch`, `patient/Patient.read`, `patient/MedicationRequest.read`, `patient/MedicationStatement.read`, `openid`, `fhirUser` |
 | Launch URI | `https://thtxgnn.yao.care/smart/launch.html` |
 | Standalone URI | `https://thtxgnn.yao.care/smart/standalone.html` |
 

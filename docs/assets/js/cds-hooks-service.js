@@ -27,7 +27,7 @@
       {
         hook: 'order-sign',
         title: 'ThTxGNN ตรวจสอบปฏิสัมพันธ์ระหว่างยา',
-        description: 'ตรวจสอบปฏิสัมพันธ์ระหว่างยาที่อาจเกิดขึ้นในใบสั่งยา โดยอ้างอิงฐานข้อมูล DDInter 2.0',
+        description: 'ตรวจสอบปฏิสัมพันธ์ระหว่างยาที่อาจเกิดขึ้นในใบสั่งยาด้วยกฎในตัว 15 ข้อ (อ้างอิง DDInter) ไม่ใช่การค้นหาฐานข้อมูลฉบับเต็ม',
         id: 'thtxgnn-ddi-check',
         prefetch: {
           patient: 'Patient/{{context.patientId}}',
