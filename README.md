@@ -23,7 +23,7 @@ Drug repurposing predictions for Thailand Thai FDA-approved drugs using the TxGN
 | **Total Predictions** | 222,094 |
 | **Unique Drugs** | 152 |
 | **Unique Indications** | 12,298 |
-| **DDI Data** | 160,235 (DDInter 2.0 unique drug pairs) |
+| **DDI Data** | 160,235 (DDInter download files, unique drug pairs) |
 | **FHIR Resources** | 158 MK / 769 CUD |
 
 ### Evidence Level Distribution
@@ -217,7 +217,7 @@ PYTHONPATH=src python -m thtxgnn.predict.txgnn_model
 | **Drug Data** | Thai FDA | [Thailand Food and Drug Administration](https://www.fda.moph.go.th/) | Thailand |
 | **Knowledge Graph** | TxGNN KG | [Harvard Dataverse](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/IXA7BM) | 17,080 diseases, 7,957 drugs |
 | **Drug Database** | DrugBank | [DrugBank](https://go.drugbank.com/) | Drug ingredient mapping |
-| **Drug Interactions** | DDInter 2.0 | [DDInter](https://ddinter2.scbdd.com/) | DDI pairs |
+| **Drug Interactions** | DDInter | [DDInter](https://ddinter2.scbdd.com/) | DDI pairs |
 | **Drug Interactions** | Guide to PHARMACOLOGY | [IUPHAR/BPS](https://www.guidetopharmacology.org/) | Approved drug interactions |
 | **Clinical Trials** | ClinicalTrials.gov | [CT.gov API v2](https://clinicaltrials.gov/data-api/api) | Clinical trials registry |
 | **Clinical Trials** | WHO ICTRP | [ICTRP API](https://apps.who.int/trialsearch/api/v1/search) | International clinical trials platform |

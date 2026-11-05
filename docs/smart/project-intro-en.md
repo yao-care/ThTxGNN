@@ -63,7 +63,7 @@ nav_order: 10
 | PubMed | Biomedical literature (PMIDs) |
 | DrugBank | Drug properties and interactions |
 | Thai FDA | Thai drug registration status |
-| DDInter 2.0 | Drug-drug interactions |
+| DDInter (download files) | Drug-drug interactions |
 | Disease Ontology | Disease classification (DOIDs) |
 
 ### Technical Implementation

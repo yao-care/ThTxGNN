@@ -122,7 +122,7 @@ nav_order: 6
 | 3 | **Tizanidine DDI-CDS App** | DDI-CDS.org | R4 | การแจ้งเตือนปฏิกิริยาของ Tizanidine กับสารยับยั้ง CYP1A2 | เมื่อยาที่คาดการณ์เป็น Tizanidine แจ้งเตือนความเสี่ยงปฏิกิริยา | ไม่มี |
 
 **คำแนะนำการรวม**:
-- ThTxGNN มีข้อมูล DDI จาก DDInter 2.0 อยู่แล้ว
+- ThTxGNN มีข้อมูล DDI จากไฟล์ดาวน์โหลดของ DDInter อยู่แล้ว
 - สามารถอ้างอิง**รูปแบบการออกแบบการแจ้งเตือน**และ**วิธีการแสดงผลภาพ**ของ DDI-CDS
 - 3 แอปนี้แสดงวิธีการรวมข้อมูล DDI เข้าสู่กระบวนการตัดสินใจทางคลินิก
 - โครงการวิชาการที่ได้รับทุนจาก AHRQ
@@ -397,7 +397,7 @@ ThTxGNN ใช้ FHIR R4 เข้ากันได้สมบูรณ์ก
 ```
 □ ติดต่อ DDI-CDS.org (info@ddi-cds.org) เพื่อขอความร่วมมือทางเทคนิค
 □ ศึกษา HL7 PDDI-CDS Implementation Guide
-□ รวมข้อมูล DDI ที่มีอยู่ของ ThTxGNN (DDInter 2.0)
+□ รวมข้อมูล DDI ที่มีอยู่ของ ThTxGNN (DDInter)
 □ ดำเนินการ CDS Hooks (order-select, order-sign)
 □ ออกแบบ UI การแจ้งเตือน DDI
 □ ทดสอบและตรวจสอบ
@@ -528,7 +528,7 @@ application.
 Our Project:
 - ThTxGNN: Drug repurposing predictions using the TxGNN graph neural network
 - FHIR R4 compatible SMART App
-- Currently integrates DDInter 2.0 DDI data
+- Currently integrates DDI data from the DDInter download files
 
 Collaboration Goals:
 1. Reference DDI-CDS alert design patterns for clinical decision support
@@ -748,7 +748,7 @@ ThTxGNN Team
 | พันธมิตรความร่วมมือ | สาขาโรคที่เกี่ยวข้อง | ปริมาณข้อมูล ThTxGNN |
 |--------------------|---------------------|---------------------|
 | RTI Wellmine | Rare Diseases | 101 ยา, 101 ข้อบ่งใช้ |
-| DDI-CDS.org | ทุกสาขา (การแจ้งเตือน DDI) | 160,235 คู่ยา DDI (DDInter 2.0 ไม่ซ้ำกัน) |
+| DDI-CDS.org | ทุกสาขา (การแจ้งเตือน DDI) | 160,235 คู่ยา DDI (DDInter ไม่ซ้ำกัน) |
 | Dr. Ted Pincus (ClinDat) | Autoimmune | 17 ยา, 16 ข้อบ่งใช้ |
 | Aditus (Lupus Advisor) | Autoimmune | 17 ยา, 16 ข้อบ่งใช้ |
 | OM1 (Depression) | Psychiatric | 14 ยา, 8 ข้อบ่งใช้ |
