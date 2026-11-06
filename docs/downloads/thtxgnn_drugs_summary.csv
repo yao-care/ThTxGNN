@@ -1,152 +1,146 @@
 slug,name,drugbank_id,license_id,evidence_level,indication_count,original_indication,predicted_indication,txgnn_score,thailand_approved,decision,url
-amlodipine,Amlodipine,DB00381,,L5,3,"ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ",obsolete susceptibility to ischemic stroke,0.9997,True,รอหลักฐานเพิ่มเติม,/drugs/amlodipine/
-atenolol,Atenolol,DB00335,,L5,9,"ความดันโลหิตสูง, โรคหัวใจ",myocardial infarction,0.9987,True,รอหลักฐานเพิ่มเติม,/drugs/atenolol/
-bisoprolol,Bisoprolol,DB00612,,L5,10,"ความดันโลหิตสูง, หัวใจล้มเหลว",malignant renovascular hypertension,0.9994,True,รอหลักฐานเพิ่มเติม,/drugs/bisoprolol/
-captopril,Captopril,DB01197,,L4,10,"ความดันโลหิตสูง, หัวใจล้มเหลว",malignant renovascular hypertension,0.9928,True,รอหลักฐานเพิ่มเติม,/drugs/captopril/
-carvedilol,Carvedilol,DB01136,,L5,10,"ความดันโลหิตสูง, หัวใจล้มเหลว",malignant renovascular hypertension,0.9955,True,รอหลักฐานเพิ่มเติม,/drugs/carvedilol/
-digoxin,Digoxin,DB00390,,L5,10,"หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ",Prinzmetal angina,0.9981,True,รอหลักฐานเพิ่มเติม,/drugs/digoxin/
-diltiazem,Diltiazem,DB00343,,L5,10,"ความดันโลหิตสูง, โรคหัวใจขาดเลือด",Prinzmetal angina,0.9994,True,รอหลักฐานเพิ่มเติม,/drugs/diltiazem/
-enalapril,Enalapril,DB00584,,L3,10,"ความดันโลหิตสูง, หัวใจล้มเหลว",congestive heart failure,0.9927,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/enalapril/
-furosemide,Furosemide,DB00695,,L5,10,"บวมน้ำ, หัวใจล้มเหลว",malignant renovascular hypertension,0.9803,True,รอหลักฐานเพิ่มเติม,/drugs/furosemide/
-hydrochlorothiazide,Hydrochlorothiazide,DB00999,,L5,10,"ความดันโลหิตสูง, บวมน้ำ",malignant hypertensive renal disease,0.9842,True,รอหลักฐานเพิ่มเติม,/drugs/hydrochlorothiazide/
-isosorbide_dinitrate,Isosorbidedinitrate,DB00883,,L5,10,โรคหัวใจขาดเลือด,alopecia,0.9999,True,รอหลักฐานเพิ่มเติม,/drugs/isosorbide-dinitrate/
-lisinopril,Lisinopril,DB00722,,L5,10,"ความดันโลหิตสูง, หัวใจล้มเหลว",myocardial infarction,0.9992,True,รอหลักฐานเพิ่มเติม,/drugs/lisinopril/
-losartan,Losartan,DB00678,,L4,8,"ความดันโลหิตสูง, โรคไตจากเบาหวาน",malignant renovascular hypertension,0.9973,True,รอหลักฐานเพิ่มเติม,/drugs/losartan/
-metoprolol,Metoprolol,DB00264,,L5,10,"ความดันโลหิตสูง, โรคหัวใจ",hypertensive disorder,0.9992,True,รอหลักฐานเพิ่มเติม,/drugs/metoprolol/
-nifedipine,Nifedipine,DB01115,,L3,10,"ความดันโลหิตสูง, โรคหัวใจขาดเลือด",Prinzmetal angina,0.9362,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/nifedipine/
-propranolol,Propranolol,DB00571,,L5,6,"ความดันโลหิตสูง, หัวใจเต้นเร็ว","distal myopathy, Tateyama type",0.9940,True,รอหลักฐานเพิ่มเติม,/drugs/propranolol/
-spironolactone,Spironolactone,DB00421,,L5,10,"บวมน้ำ, หัวใจล้มเหลว",hypotrichosis simplex of the scalp,0.9926,True,รอหลักฐานเพิ่มเติม,/drugs/spironolactone/
-verapamil,Verapamil,DB00661,,L5,7,"ความดันโลหิตสูง, หัวใจเต้นผิดจังหวะ",Prinzmetal angina,0.9998,True,รอหลักฐานเพิ่มเติม,/drugs/verapamil/
-atorvastatin,Atorvastatin,DB01076,,L1,6,ไขมันในเลือดสูง,homozygous familial hypercholesterolemia,0.9995,True,ผ่านการตรวจสอบ,/drugs/atorvastatin/
-simvastatin,Simvastatin,DB00641,,L1,8,ไขมันในเลือดสูง,homozygous familial hypercholesterolemia,0.9998,True,ผ่านการตรวจสอบ,/drugs/simvastatin/
-pravastatin,Pravastatin,DB00175,,L4,9,ไขมันในเลือดสูง,homozygous familial hypercholesterolemia,0.9995,True,รอหลักฐานเพิ่มเติม,/drugs/pravastatin/
-clopidogrel,Clopidogrel,DB00758,,L5,8,ป้องกันลิ่มเลือด,migraine with brainstem aura,0.9944,True,รอหลักฐานเพิ่มเติม,/drugs/clopidogrel/
-warfarin,Warfarin,DB00682,,L4,10,ป้องกันลิ่มเลือด,heparin cofactor 2 deficiency,0.9987,True,รอหลักฐานเพิ่มเติม,/drugs/warfarin/
-heparin,Heparin,DB01109,,L5,10,ป้องกันและรักษาลิ่มเลือด,purpura fulminans,0.9972,True,รอหลักฐานเพิ่มเติม,/drugs/heparin/
-metformin,Metformin,DB00331,,L5,10,เบาหวานชนิดที่ 2,focal stiff limb syndrome,0.9945,True,รอหลักฐานเพิ่มเติม,/drugs/metformin/
-gliclazide,Gliclazide,DB01120,,L5,10,เบาหวานชนิดที่ 2,classic stiff person syndrome,0.9796,True,รอหลักฐานเพิ่มเติม,/drugs/gliclazide/
-glimepiride,Glimepiride,DB00222,,L5,9,เบาหวานชนิดที่ 2,diabetes mellitus (disease),0.9977,True,รอหลักฐานเพิ่มเติม,/drugs/glimepiride/
-pioglitazone,Pioglitazone,DB01132,,L5,9,เบาหวานชนิดที่ 2,opsismodysplasia,0.9959,True,รอหลักฐานเพิ่มเติม,/drugs/pioglitazone/
-acetaminophen,Paracetamol,DB00316,,L5,10,"ลดไข้, บรรเทาปวด",migraine with brainstem aura,0.9915,True,รอหลักฐานเพิ่มเติม,/drugs/acetaminophen/
-ibuprofen,Ibuprofen,DB01050,,L5,7,"บรรเทาปวด, ลดไข้, ต้านการอักเสบ",osteoarthritis susceptibility,0.9990,True,รอหลักฐานเพิ่มเติม,/drugs/ibuprofen/
-diclofenac,Diclofenac,DB00586,,L5,10,"บรรเทาปวด, ต้านการอักเสบ",osteoarthritis susceptibility,0.9982,True,รอหลักฐานเพิ่มเติม,/drugs/diclofenac/
-naproxen,Naproxen,DB00788,,L5,4,"บรรเทาปวด, ต้านการอักเสบ",osteoarthritis susceptibility,0.9976,True,รอหลักฐานเพิ่มเติม,/drugs/naproxen/
-indomethacin,Indomethacin,DB00328,,L5,10,"บรรเทาปวด, ต้านการอักเสบ, เก๊าต์",rheumatoid arthritis,0.9998,True,รอหลักฐานเพิ่มเติม,/drugs/indomethacin/
-celecoxib,Celecoxib,DB00482,,L5,10,"บรรเทาปวด, ข้อเสื่อม",osteoarthritis susceptibility,0.9997,True,รอหลักฐานเพิ่มเติม,/drugs/celecoxib/
-tramadol,Tramadol,DB00193,,L5,10,บรรเทาปวดปานกลางถึงรุนแรง,osteoarthritis susceptibility,1.0000,True,รอหลักฐานเพิ่มเติม,/drugs/tramadol/
-morphine,Morphine,DB00295,,L3,10,บรรเทาปวดรุนแรง,myofascial pain syndrome,0.9975,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/morphine/
-omeprazole,Omeprazole,DB00338,,L3,10,"โรคกรดไหลย้อน, แผลในกระเพาะอาหาร",duodenogastric reflux,0.9964,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/omeprazole/
-pantoprazole,Pantoprazole,DB00213,,L1,6,"โรคกรดไหลย้อน, แผลในกระเพาะอาหาร",peptic esophagitis,0.9987,True,ผ่านการตรวจสอบ,/drugs/pantoprazole/
-lansoprazole,Lansoprazole,DB00448,,L4,10,"โรคกรดไหลย้อน, แผลในกระเพาะอาหาร",gastrin secretion abnormality,0.9973,True,รอหลักฐานเพิ่มเติม,/drugs/lansoprazole/
-ranitidine,Ranitidine,DB00863,,L3,10,แผลในกระเพาะอาหาร,peptic esophagitis,0.9994,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/ranitidine/
-domperidone,Domperidone,DB01184,,L5,10,"คลื่นไส้อาเจียน, อาหารไม่ย่อย",nephrogenic syndrome of inappropriate antidiuresis,0.9908,True,รอหลักฐานเพิ่มเติม,/drugs/domperidone/
-metoclopramide,Metoclopramide,DB01233,,L4,10,คลื่นไส้อาเจียน,gastric ulcer (disease),0.9993,True,รอหลักฐานเพิ่มเติม,/drugs/metoclopramide/
-ondansetron,Ondansetron,DB00904,,L2,10,คลื่นไส้อาเจียน,nephrogenic syndrome of inappropriate antidiuresis,0.9865,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/ondansetron/
-loperamide,Loperamide,DB00836,,L5,10,ท้องเสีย,acute contagious conjunctivitis,0.9997,True,รอหลักฐานเพิ่มเติม,/drugs/loperamide/
-amoxicillin,Amoxicillin,DB01060,,L5,8,โรคติดเชื้อแบคทีเรีย,hyperamylasemia,0.9963,True,รอหลักฐานเพิ่มเติม,/drugs/amoxicillin/
-ampicillin,Ampicillin,DB00415,,L4,10,โรคติดเชื้อแบคทีเรีย,epiglottitis,0.9999,True,รอหลักฐานเพิ่มเติม,/drugs/ampicillin/
-azithromycin,Azithromycin,DB00207,,L5,10,"โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินหายใจ",conjunctivitis,0.9982,True,รอหลักฐานเพิ่มเติม,/drugs/azithromycin/
-ciprofloxacin,Ciprofloxacin,DB00537,,L4,10,"โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินปัสสาวะ",paratyphoid fever,0.9993,True,รอหลักฐานเพิ่มเติม,/drugs/ciprofloxacin/
-clarithromycin,Clarithromycin,DB01211,,L5,10,โรคติดเชื้อแบคทีเรีย,polyclonal hyperviscosity syndrome,0.9935,True,รอหลักฐานเพิ่มเติม,/drugs/clarithromycin/
-doxycycline,Doxycycline,DB00254,,L4,10,โรคติดเชื้อแบคทีเรีย,punctate epithelial keratoconjunctivitis,0.9994,True,รอหลักฐานเพิ่มเติม,/drugs/doxycycline/
-erythromycin,Erythromycin,DB00199,,L4,10,โรคติดเชื้อแบคทีเรีย,punctate epithelial keratoconjunctivitis,0.9989,True,รอหลักฐานเพิ่มเติม,/drugs/erythromycin/
-metronidazole,Metronidazole,DB00916,,L5,10,โรคติดเชื้อแบคทีเรียและปรสิต,pneumocystosis,0.9999,True,รอหลักฐานเพิ่มเติม,/drugs/metronidazole/
-ceftriaxone,Ceftriaxone,DB01212,,L4,10,โรคติดเชื้อแบคทีเรียรุนแรง,hyperamylasemia,0.9939,True,รอหลักฐานเพิ่มเติม,/drugs/ceftriaxone/
-cephalexin,Cephalexin,DB00567,,L5,10,โรคติดเชื้อแบคทีเรีย,bacterial arthritis,0.9967,True,รอหลักฐานเพิ่มเติม,/drugs/cephalexin/
-clindamycin,Clindamycin,DB01190,,L5,10,โรคติดเชื้อแบคทีเรีย,punctate epithelial keratoconjunctivitis,0.9997,True,รอหลักฐานเพิ่มเติม,/drugs/clindamycin/
-gentamicin,Gentamicin,DB00798,,L5,10,โรคติดเชื้อแบคทีเรียรุนแรง,rheumatoid arthritis,0.9776,True,รอหลักฐานเพิ่มเติม,/drugs/gentamicin/
-vancomycin,Vancomycin,DB00512,,L5,10,โรคติดเชื้อแบคทีเรียดื้อยา,bacterial arthritis,0.9998,True,รอหลักฐานเพิ่มเติม,/drugs/vancomycin/
-salbutamol,Salbutamol,DB01001,,L5,10,"โรคหอบหืด, โรคปอดอุดกั้นเรื้อรัง",papillary conjunctivitis,1.0000,True,รอหลักฐานเพิ่มเติม,/drugs/salbutamol/
-budesonide,Budesonide,DB01222,,L4,10,โรคหอบหืด,atopic eczema,0.9996,True,รอหลักฐานเพิ่มเติม,/drugs/budesonide/
-fluticasone,Fluticasone,DB13867,,L5,10,"โรคหอบหืด, โรคจมูกอักเสบ",migraine disorder,0.9920,True,รอหลักฐานเพิ่มเติม,/drugs/fluticasone/
-montelukast,Montelukast,DB00471,,L2,10,"โรคหอบหืด, โรคภูมิแพ้",bronchitis,0.9995,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/montelukast/
-theophylline,Theophylline,DB00277,,L5,7,โรคหอบหืด,bronchitis,0.9996,True,รอหลักฐานเพิ่มเติม,/drugs/theophylline/
-cetirizine,Cetirizine,DB00341,,L2,6,"โรคภูมิแพ้, ลมพิษ",allergic urticaria,0.9999,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/cetirizine/
-loratadine,Loratadine,DB00455,,L3,10,"โรคภูมิแพ้, ลมพิษ",papillary conjunctivitis,0.9993,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/loratadine/
-chlorpheniramine,Chlorpheniramine,DB01114,,L3,10,"อาการแพ้, ลมพิษ, คัดจมูก",papillary conjunctivitis,0.9988,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/chlorpheniramine/
-diphenhydramine,Diphenhydramine,DB01075,,L5,10,"อาการแพ้, นอนไม่หลับ",papillary conjunctivitis,0.9993,True,รอหลักฐานเพิ่มเติม,/drugs/diphenhydramine/
-prednisolone,Prednisolone,DB00860,,L2,10,"ต้านการอักเสบ, ภูมิแพ้รุนแรง",alopecia areata,0.9999,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/prednisolone/
-dexamethasone,Dexamethasone,DB01234,,L3,10,ต้านการอักเสบ,alopecia areata,0.9999,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/dexamethasone/
-diazepam,Diazepam,DB00829,,L4,10,"วิตกกังวล, ชัก, กล้ามเนื้อเกร็ง",insomnia (disease),1.0000,True,รอหลักฐานเพิ่มเติม,/drugs/diazepam/
-lorazepam,Lorazepam,DB00186,,L5,10,"วิตกกังวล, นอนไม่หลับ",trigeminal nerve neoplasm,0.9987,True,รอหลักฐานเพิ่มเติม,/drugs/lorazepam/
-alprazolam,Alprazolam,DB00404,,L1,10,"วิตกกังวล, โรคตื่นตระหนก",insomnia (disease),0.9981,True,ผ่านการตรวจสอบ,/drugs/alprazolam/
-fluoxetine,Fluoxetine,DB00472,,L5,10,"โรคซึมเศร้า, โรคย้ำคิดย้ำทำ",obsessive-compulsive disorder,0.9996,True,รอหลักฐานเพิ่มเติม,/drugs/fluoxetine/
-sertraline,Sertraline,DB01104,,L5,8,"โรคซึมเศร้า, โรควิตกกังวล",obsessive-compulsive disorder,0.9995,True,รอหลักฐานเพิ่มเติม,/drugs/sertraline/
-amitriptyline,Amitriptyline,DB00321,,L5,10,"โรคซึมเศร้า, ปวดประสาท",anxiety disorder,0.9849,True,รอหลักฐานเพิ่มเติม,/drugs/amitriptyline/
-haloperidol,Haloperidol,DB00502,,L5,10,"โรคจิต, อาการกระวนกระวาย",schizophrenia,0.9996,True,รอหลักฐานเพิ่มเติม,/drugs/haloperidol/
-risperidone,Risperidone,DB00734,,L5,6,โรคจิตเภท,manic bipolar affective disorder,0.9998,True,รอหลักฐานเพิ่มเติม,/drugs/risperidone/
-olanzapine,Olanzapine,DB00334,,L5,3,"โรคจิตเภท, โรคไบโพลาร์",manic bipolar affective disorder,0.9993,True,รอหลักฐานเพิ่มเติม,/drugs/olanzapine/
-carbamazepine,Carbamazepine,DB00564,,L4,10,"โรคลมชัก, ปวดประสาท",trigeminal nerve neoplasm,1.0000,True,รอหลักฐานเพิ่มเติม,/drugs/carbamazepine/
-phenytoin,Phenytoin,DB00252,,L5,10,โรคลมชัก,trigeminal nerve neoplasm,0.9999,True,รอหลักฐานเพิ่มเติม,/drugs/phenytoin/
-valproic_acid,Valproicacid,DB00313,,L5,10,"โรคลมชัก, โรคไบโพลาร์",trigeminal nerve neoplasm,0.9997,True,รอหลักฐานเพิ่มเติม,/drugs/valproic-acid/
-gabapentin,Gabapentin,DB00996,,L5,10,"ปวดประสาท, โรคลมชัก",restless legs syndrome,0.9983,True,รอหลักฐานเพิ่มเติม,/drugs/gabapentin/
-levetiracetam,Levetiracetam,DB01202,,L5,10,โรคลมชัก,visual epilepsy,0.9998,True,รอหลักฐานเพิ่มเติม,/drugs/levetiracetam/
-levothyroxine,Levothyroxine,DB00451,,L3,10,ภาวะไทรอยด์ต่ำ,differentiated thyroid carcinoma,0.9985,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/levothyroxine/
-propylthiouracil,Propylthiouracil,DB00550,,L5,10,ภาวะไทรอยด์เป็นพิษ,hyperthyroidism,0.9977,True,รอหลักฐานเพิ่มเติม,/drugs/propylthiouracil/
-allopurinol,Allopurinol,DB00437,,L4,10,"เก๊าต์, กรดยูริกในเลือดสูง",hepatic porphyria,0.9995,True,รอหลักฐานเพิ่มเติม,/drugs/allopurinol/
-colchicine,Colchicine,DB01394,,L4,10,เก๊าต์เฉียบพลัน,autosomal recessive familial Mediterranean fever,0.9969,True,รอหลักฐานเพิ่มเติม,/drugs/colchicine/
-fluconazole,Fluconazole,DB00196,,L5,10,โรคติดเชื้อรา,candidiasis,0.9964,True,รอหลักฐานเพิ่มเติม,/drugs/fluconazole/
-itraconazole,Itraconazole,DB01167,,L5,10,โรคติดเชื้อรา,pneumocystosis,0.9934,True,รอหลักฐานเพิ่มเติม,/drugs/itraconazole/
-clotrimazole,Clotrimazole,DB00257,,L1,3,โรคติดเชื้อราที่ผิวหนัง,cutaneous candidiasis,0.9998,True,ผ่านการตรวจสอบ,/drugs/clotrimazole/
-acyclovir,Acyclovir,DB00787,,L5,10,"โรคเริม, งูสวัด",chickenpox,0.9983,True,รอหลักฐานเพิ่มเติม,/drugs/acyclovir/
-oseltamivir,Oseltamivir,DB00198,,L5,10,ไข้หวัดใหญ่,"influenza, severe, susceptibility to",0.9872,True,รอหลักฐานเพิ่มเติม,/drugs/oseltamivir/
-folic_acid,Folicacid,DB00158,,L4,10,ป้องกันและรักษาภาวะขาดโฟลิก,biotin metabolic disease,0.9949,True,รอหลักฐานเพิ่มเติม,/drugs/folic-acid/
-ferrous_sulfate_anhydrous,Ferroussulfate,DB13257,,L5,10,ภาวะโลหิตจางจากขาดธาตุเหล็ก,iron deficiency anemia,0.9994,True,รอหลักฐานเพิ่มเติม,/drugs/ferrous-sulfate-anhydrous/
-calcium_carbonate,Calciumcarbonate,DB06724,,L4,10,เสริมแคลเซียม,hypercalcemia disease,0.9439,True,รอหลักฐานเพิ่มเติม,/drugs/calcium-carbonate/
-vitamin_d,Vitamind,DB11094,,L5,10,ป้องกันและรักษาภาวะขาดวิตามินดี,primary release disorder of platelets,0.9311,True,รอหลักฐานเพิ่มเติม,/drugs/vitamin-d/
-timolol,Timolol,DB00373,,L5,10,ต้อหิน,primary hereditary glaucoma,0.9864,True,รอหลักฐานเพิ่มเติม,/drugs/timolol/
-latanoprost,Latanoprost,DB00654,,L5,10,"ต้อหิน, ความดันในตาสูง",primary hereditary glaucoma,0.9988,True,รอหลักฐานเพิ่มเติม,/drugs/latanoprost/
-brimonidine,Brimonidine,DB00484,,L4,10,ต้อหิน,papillary conjunctivitis,0.9849,True,รอหลักฐานเพิ่มเติม,/drugs/brimonidine/
-tenofovir,Tenofovir,DB14126,,L4,10,"ไวรัสตับอักเสบบี, เอชไอวี",HIV infectious disease,0.9998,True,รอหลักฐานเพิ่มเติม,/drugs/tenofovir/
-lamivudine,Lamivudine,DB00709,,L4,10,"ไวรัสตับอักเสบบี, เอชไอวี",HIV infectious disease,0.9996,True,รอหลักฐานเพิ่มเติม,/drugs/lamivudine/
-efavirenz,Efavirenz,DB00625,,L4,10,เอชไอวี,HIV infectious disease,0.9988,True,รอหลักฐานเพิ่มเติม,/drugs/efavirenz/
-terbinafine,Terbinafine,DB00857,,L5,10,เชื้อราผิวหนัง,tinea corporis,0.9986,True,รอหลักฐานเพิ่มเติม,/drugs/terbinafine/
-nystatin,Nystatin,DB00646,,L3,10,เชื้อราในช่องปาก,vulvovaginal candidiasis,0.9999,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/nystatin/
-chloroquine,Chloroquine,DB00608,,L5,10,มาลาเรีย,rheumatoid factor-positive polyarticular juvenile idiopathic arthritis,0.9941,True,รอหลักฐานเพิ่มเติม,/drugs/chloroquine/
-mefloquine,Mefloquine,DB00358,,L1,10,มาลาเรีย,malaria,0.9764,True,ผ่านการตรวจสอบ,/drugs/mefloquine/
-primaquine,Primaquine,DB01087,,L5,10,มาลาเรีย,myiasis,0.9976,True,รอหลักฐานเพิ่มเติม,/drugs/primaquine/
-albendazole,Albendazole,DB00518,,L2,10,พยาธิ,echinococcus granulosus infectious disease,0.9999,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/albendazole/
-mebendazole,Mebendazole,DB00643,,L5,10,พยาธิ,acne (disease),0.9920,True,รอหลักฐานเพิ่มเติม,/drugs/mebendazole/
-praziquantel,Praziquantel,DB01058,,L3,10,พยาธิใบไม้ตับ,uterine corpus epithelioid leiomyosarcoma,0.9728,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/praziquantel/
-ivermectin,Ivermectin,DB00602,,L5,9,"พยาธิ, เหา",vulvovaginal candidiasis,0.9995,True,รอหลักฐานเพิ่มเติม,/drugs/ivermectin/
-isoniazid,Isoniazid,DB00951,,L4,10,วัณโรค,conjunctivitis,0.9936,True,รอหลักฐานเพิ่มเติม,/drugs/isoniazid/
-rifampicin,Rifampicin,DB01045,,L4,10,วัณโรค,conjunctivitis,0.9995,True,รอหลักฐานเพิ่มเติม,/drugs/rifampicin/
-ethambutol,Ethambutol,DB00330,,L4,10,วัณโรค,epiglottitis,0.9990,True,รอหลักฐานเพิ่มเติม,/drugs/ethambutol/
-pyrazinamide,Pyrazinamide,DB00339,,L5,10,วัณโรค,infectious otitis media,0.9996,True,รอหลักฐานเพิ่มเติม,/drugs/pyrazinamide/
-cyclosporine,Cyclosporine,DB00091,,L4,7,"ป้องกันการปฏิเสธอวัยวะ, โรคภูมิคุ้มกันผิดปกติ",xerophthalmia,0.9992,True,รอหลักฐานเพิ่มเติม,/drugs/cyclosporine/
-tacrolimus,Tacrolimus,DB00864,,L5,10,ป้องกันการปฏิเสธอวัยวะ,atopic eczema,0.9956,True,รอหลักฐานเพิ่มเติม,/drugs/tacrolimus/
-azathioprine,Azathioprine,DB00993,,L5,10,โรคภูมิคุ้มกันผิดปกติ,rheumatoid arthritis,1.0000,True,รอหลักฐานเพิ่มเติม,/drugs/azathioprine/
-enoxaparin,Enoxaparin,DB01225,,L5,10,ป้องกันลิ่มเลือด,purpura fulminans,0.9981,True,รอหลักฐานเพิ่มเติม,/drugs/enoxaparin/
-rivaroxaban,Rivaroxaban,DB06228,,L5,10,"ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ",rheumatoid arthritis,0.9957,True,รอหลักฐานเพิ่มเติม,/drugs/rivaroxaban/
-dabigatran,Dabigatran,DB14726,,L4,10,"ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ",hemoglobinopathy,0.9843,True,รอหลักฐานเพิ่มเติม,/drugs/dabigatran/
-testosterone,Testosterone,DB00624,,L5,10,ภาวะขาดฮอร์โมนเพศชาย,androgen insensitivity syndrome,0.9750,True,รอหลักฐานเพิ่มเติม,/drugs/testosterone/
-estradiol,Estradiol,DB00783,,L3,10,ภาวะขาดฮอร์โมนเพศหญิง,acne (disease),0.9996,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/estradiol/
-progesterone,Progesterone,DB00396,,L3,10,ภาวะขาดฮอร์โมน,amenorrhea (disease),1.0000,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/progesterone/
-cabergoline,Cabergoline,DB00248,,L5,5,โพรแลกตินสูง,familial hyperprolactinemia,0.9938,True,รอหลักฐานเพิ่มเติม,/drugs/cabergoline/
-lactulose,Lactulose,DB00581,,L5,8,"ท้องผูก, โรคตับ",acute urate nephropathy,0.9989,True,รอหลักฐานเพิ่มเติม,/drugs/lactulose/
-sucralfate,Sucralfate,DB00364,,L2,10,แผลในกระเพาะอาหาร,duodenal ulcer (disease),0.9948,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/sucralfate/
-tamsulosin,Tamsulosin,DB00706,,L5,10,ต่อมลูกหมากโต,benign prostatic hyperplasia (disease),1.0000,True,รอหลักฐานเพิ่มเติม,/drugs/tamsulosin/
-finasteride,Finasteride,DB01216,,L5,10,"ต่อมลูกหมากโต, ผมร่วง",Ambras type hypertrichosis universalis congenita,0.9999,True,รอหลักฐานเพิ่มเติม,/drugs/finasteride/
-sildenafil,Sildenafil,DB00203,,L5,10,การแข็งตัวขององคชาต,Ambras type hypertrichosis universalis congenita,0.9841,True,รอหลักฐานเพิ่มเติม,/drugs/sildenafil/
-tadalafil,Tadalafil,DB00820,,L5,8,"การแข็งตัวขององคชาต, ต่อมลูกหมากโต",Ambras type hypertrichosis universalis congenita,0.9998,True,รอหลักฐานเพิ่มเติม,/drugs/tadalafil/
-tretinoin,Tretinoin,DB00755,,L5,10,สิว,acne (disease),0.9993,True,รอหลักฐานเพิ่มเติม,/drugs/tretinoin/
-isotretinoin,Isotretinoin,DB00982,,L5,10,สิวรุนแรง,malignant hypertensive renal disease,0.9901,True,รอหลักฐานเพิ่มเติม,/drugs/isotretinoin/
-calcipotriol,Calcipotriol,DB02300,,L3,10,สะเก็ดเงิน,seborrheic keratosis,0.9996,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/calcipotriol/
-lidocaine,Lidocaine,DB00281,,L5,10,"ยาชา, หัวใจเต้นผิดจังหวะ",punctate epithelial keratoconjunctivitis,0.9999,True,รอหลักฐานเพิ่มเติม,/drugs/lidocaine/
-bupivacaine,Bupivacaine,DB00297,,L5,10,ยาชา,dermatitis,0.9949,True,รอหลักฐานเพิ่มเติม,/drugs/bupivacaine/
-propofol,Propofol,DB00818,,L2,10,ยาสลบ,migraine disorder,0.9969,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/propofol/
-ketamine,Ketamine,DB01221,,L2,10,"ยาสลบ, ซึมเศร้า",headache disorder,0.9933,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/ketamine/
-baclofen,Baclofen,DB00181,,L5,10,กล้ามเนื้อหดเกร็ง,attention deficit-hyperactivity disorder,0.9932,True,รอหลักฐานเพิ่มเติม,/drugs/baclofen/
-tizanidine,Tizanidine,DB00697,,L3,10,กล้ามเนื้อหดเกร็ง,migraine disorder,0.9979,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/tizanidine/
-orphenadrine,Orphenadrine,DB01173,,L4,7,ปวดกล้ามเนื้อ,retinal dystrophy with or without extraocular anomalies,0.9929,True,รอหลักฐานเพิ่มเติม,/drugs/orphenadrine/
-clozapine,Clozapine,DB00363,,L2,10,จิตเภท,manic bipolar affective disorder,0.9995,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/clozapine/
-aripiprazole,Aripiprazole,DB01238,,L1,10,"จิตเภท, ไบโพลาร์",manic bipolar affective disorder,0.9998,True,ผ่านการตรวจสอบ,/drugs/aripiprazole/
-paliperidone,Paliperidone,DB01267,,L5,10,จิตเภท,schizophrenia,0.9996,True,รอหลักฐานเพิ่มเติม,/drugs/paliperidone/
-venlafaxine,Venlafaxine,DB00285,,L5,10,"ซึมเศร้า, วิตกกังวล",endogenous depression,0.9897,True,รอหลักฐานเพิ่มเติม,/drugs/venlafaxine/
-duloxetine,Duloxetine,DB00476,,L5,10,"ซึมเศร้า, ปวดปลายประสาท",endogenous depression,0.9994,True,รอหลักฐานเพิ่มเติม,/drugs/duloxetine/
-mirtazapine,Mirtazapine,DB00370,,L5,10,ซึมเศร้า,endogenous depression,0.9993,True,รอหลักฐานเพิ่มเติม,/drugs/mirtazapine/
-bupropion,Bupropion,DB01156,,L2,10,"ซึมเศร้า, เลิกบุหรี่",attention deficit-hyperactivity disorder,0.9999,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/bupropion/
-erythropoietin,Erythropoietin,DB00016,,L5,10,โลหิตจาง,antithrombin deficiency type 2,0.9933,True,รอหลักฐานเพิ่มเติม,/drugs/erythropoietin/
-filgrastim,Filgrastim,DB00099,,L5,10,ภาวะเม็ดเลือดขาวต่ำ,primary release disorder of platelets,1.0000,True,รอหลักฐานเพิ่มเติม,/drugs/filgrastim/
-potassium_chloride,Potassium chloride,DB00761,,L5,10,โพแทสเซียมต่ำ,renal tubular acidosis,0.9987,True,รอหลักฐานเพิ่มเติม,/drugs/potassium-chloride/
-magnesium_sulfate,Magnesium sulfate,DB00653,,L2,10,"แมกนีเซียมต่ำ, ครรภ์เป็นพิษ",mild pre-eclampsia,1.0000,True,ดำเนินการต่อด้วยความระมัดระวัง,/drugs/magnesium-sulfate/
+acetaminophen,Acetaminophen,,,N/A,0,,,,True,,/drugs/acetaminophen/
+acyclovir,Acyclovir,,,L5,10,"โรคเริม, งูสวัด",กระจกตาและเยื่อบุตาอักเสบแบบจุด (punctate epithelial keratoconjunctivitis),0.9967,True,Hold,/drugs/acyclovir/
+albendazole,Albendazole,,,L5,1,,โรคโคอีนูโรซิส (coenurosis),0.9983,True,Hold,/drugs/albendazole/
+allopurinol,Allopurinol,,,L5,10,"เก๊าต์, กรดยูริกในเลือดสูง",พอร์ฟิเรียของตับ (hepatic porphyria),0.9995,True,Hold,/drugs/allopurinol/
+alprazolam,Alprazolam,,,L3,2,,นอนไม่หลับ (insomnia (disease)),0.9981,False,Hold,/drugs/alprazolam/
+amlodipine,Amlodipine,,,L5,9,"ความดันโลหิตสูง, โรคหลอดเลือดหัวใจ",ภาวะก้านสมองขาดเลือด (brain stem infarction),0.9994,True,Hold,/drugs/amlodipine/
+amoxicillin,Amoxicillin,,,L5,8,โรคติดเชื้อแบคทีเรีย,กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome),0.9963,True,Hold,/drugs/amoxicillin/
+ampicillin,Ampicillin,,,L5,9,,กล่องเสียงอักเสบ (laryngitis),0.9997,True,Hold,/drugs/ampicillin/
+aripiprazole,Aripiprazole,,,L5,8,,"อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaze palsy, familial horizontal, with progressive scoliosis)",0.9960,True,Hold,/drugs/aripiprazole/
+atenolol,Atenolol,,,L5,5,"ความดันโลหิตสูง, โรคหัวใจ",โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease),0.9985,True,Hold,/drugs/atenolol/
+atorvastatin,Atorvastatin,,,L2,4,ไขมันในเลือดสูง,การติดเชื้อเอชไอวี (HIV infectious disease),0.9931,True,Proceed with Guardrails,/drugs/atorvastatin/
+azathioprine,Azathioprine,,,L5,7,,กลุ่มอาการตาแหว่งร่วมกับตาเล็กและกระดูกแขนขาส่วนต้นสั้น (colobomatous microphthalmia-rhizomelic dysplasia syndrome),1.0000,True,Hold,/drugs/azathioprine/
+azithromycin,Azithromycin,,,L5,10,"โรคติดเชื้อแบคทีเรีย, ติดเชื้อทางเดินหายใจ",กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome),0.9981,True,Hold,/drugs/azithromycin/
+baclofen,Baclofen,,,L5,2,กล้ามเนื้อหดเกร็ง,โรคสมาธิสั้น (attention deficit-hyperactivity disorder),0.9932,True,Hold,/drugs/baclofen/
+bisoprolol,Bisoprolol,,,L5,4,"ความดันโลหิตสูง, หัวใจล้มเหลว",โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease),0.9994,True,Hold,/drugs/bisoprolol/
+brimonidine,Brimonidine,,,N/A,0,,,,True,,/drugs/brimonidine/
+budesonide,Budesonide,,,L5,10,โรคหอบหืด,ผิวหนังอักเสบภูมิแพ้ (atopic eczema),0.9996,True,Hold,/drugs/budesonide/
+bupivacaine,Bupivacaine,,,L5,4,ยาชา,acrodermatitis chronica atrophicans,0.9923,True,Hold,/drugs/bupivacaine/
+bupropion,Bupropion,,,L2,10,"ซึมเศร้า, เลิกบุหรี่",โรคสมาธิสั้น (attention deficit-hyperactivity disorder),0.9999,True,Proceed with Guardrails,/drugs/bupropion/
+cabergoline,Cabergoline,,,L5,4,,กลุ่มอาการโปรเจเรีย-ตัวเตี้ย-ไฝสี (progeria-short stature-pigmented nevi syndrome),0.9906,True,Hold,/drugs/cabergoline/
+calcipotriol,Calcipotriol,,,L3,10,สะเก็ดเงิน,เซบอร์ริกเคอราโทซิส (seborrheic keratosis),0.9996,True,Hold,/drugs/calcipotriol/
+calcium_carbonate,Calcium Carbonate,,,N/A,0,,,,True,,/drugs/calcium-carbonate/
+captopril,Captopril,,,L5,3,,โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease),0.9928,True,Hold,/drugs/captopril/
+carbamazepine,Carbamazepine,,,L4,3,"โรคลมชัก, ปวดประสาท",เนื้องอกเส้นประสาทไทรเจมินัล (trigeminal nerve neoplasm),1.0000,True,Hold,/drugs/carbamazepine/
+carvedilol,Carvedilol,,,L5,4,,โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease),0.9955,True,Hold,/drugs/carvedilol/
+ceftriaxone,Ceftriaxone,,,L5,5,,กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome),0.9939,True,Hold,/drugs/ceftriaxone/
+celecoxib,Celecoxib,,,L5,7,"บรรเทาปวด, ข้อเสื่อม","acromesomelic dysplasia ชนิด Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)",0.9988,True,Hold,/drugs/celecoxib/
+cephalexin,Cephalexin,,,N/A,0,,,,True,,/drugs/cephalexin/
+cetirizine,Cetirizine,,,L5,3,,โรคโพรงจมูก (nasal cavity disease),0.9977,True,Hold,/drugs/cetirizine/
+chloroquine,Chloroquine,,,L5,4,,ข้ออักเสบไอดิโอพาทิกในเด็กชนิดหลายข้อที่มีรูมาตอยด์แฟคเตอร์เป็นบวก (rheumatoid factor-positive polyarticular juvenile idiopathic arthritis),0.9941,True,Hold,/drugs/chloroquine/
+chlorpheniramine,Chlorpheniramine,,,L5,1,,โรคโพรงจมูก (nasal cavity disease),0.9953,True,Hold,/drugs/chlorpheniramine/
+ciprofloxacin,Ciprofloxacin,,,L5,9,,ผิวหนังแข็งแบบกระจาย (diffuse scleroderma),0.9987,True,Hold,/drugs/ciprofloxacin/
+clarithromycin,Clarithromycin,,,L5,5,,กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome),0.9935,True,Hold,/drugs/clarithromycin/
+clindamycin,Clindamycin,,,L5,6,โรคติดเชื้อแบคทีเรีย,กระจกตาและเยื่อบุตาอักเสบแบบจุด (punctate epithelial keratoconjunctivitis),0.9997,True,Hold,/drugs/clindamycin/
+clopidogrel,Clopidogrel,,,L5,7,ป้องกันลิ่มเลือด,ไมเกรนที่มีออร่าจากก้านสมอง (migraine with brainstem aura),0.9944,True,Hold,/drugs/clopidogrel/
+clotrimazole,Clotrimazole,,,L5,2,,สิว (acne (disease)),0.9986,True,Hold,/drugs/clotrimazole/
+clozapine,Clozapine,,,L2,9,,โรคอารมณ์สองขั้วระยะแมเนีย (manic bipolar affective disorder),0.9995,True,Proceed with Guardrails,/drugs/clozapine/
+colchicine,Colchicine,,,L5,2,เก๊าต์เฉียบพลัน,Plasmodium falciparum malaria,0.9960,True,Hold,/drugs/colchicine/
+cyclosporine,Cyclosporine,,,L4,7,"ป้องกันการปฏิเสธอวัยวะ, โรคภูมิคุ้มกันผิดปกติ","โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง ชนิดถ่ายทอดทางยีนลักษณะด้อย (granulomatous disease, chronic, autosomal recessive)",0.9968,True,Hold,/drugs/cyclosporine/
+dabigatran,Dabigatran,,,N/A,0,,,,True,,/drugs/dabigatran/
+dexamethasone,Dexamethasone,,,L5,9,,อะโลพีเซียมิวซิโนซา (alopecia mucinosa),0.9999,True,Hold,/drugs/dexamethasone/
+diazepam,Diazepam,,,L2,10,,นอนไม่หลับ (insomnia (disease)),1.0000,False,Hold,/drugs/diazepam/
+diclofenac,Diclofenac,,,L5,10,"บรรเทาปวด, ต้านการอักเสบ",ภาวะผมบางธรรมดาของหนังศีรษะ (hypotrichosis simplex of the scalp),0.9969,True,Hold,/drugs/diclofenac/
+digoxin,Digoxin,,,L5,5,"หัวใจล้มเหลว, หัวใจเต้นผิดจังหวะ",เจ็บหน้าอกแบบพรินซ์เมทัล (Prinzmetal angina),0.9981,True,Hold,/drugs/digoxin/
+diltiazem,Diltiazem,,,N/A,0,,,,True,,/drugs/diltiazem/
+diphenhydramine,Diphenhydramine,,,L5,1,,ผื่นกุหลาบที่เยื่อบุตา (rosacea conjunctivitis),0.9920,True,Hold,/drugs/diphenhydramine/
+domperidone,Domperidone,,,L5,1,,กลุ่มอาการขับปัสสาวะไม่เหมาะสมจากไตชนิดถ่ายทอด (nephrogenic syndrome of inappropriate antidiuresis),0.9908,True,Hold,/drugs/domperidone/
+doxycycline,Doxycycline,,,L5,10,โรคติดเชื้อแบคทีเรีย,กระจกตาและเยื่อบุตาอักเสบแบบจุด (punctate epithelial keratoconjunctivitis),0.9994,True,Hold,/drugs/doxycycline/
+duloxetine,Duloxetine,,,L5,10,"ซึมเศร้า, ปวดปลายประสาท",ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (benign paroxysmal torticollis of infancy),0.9985,True,Hold,/drugs/duloxetine/
+efavirenz,Efavirenz,,,L5,3,เอชไอวี,โรคภูมิคุ้มกันบกพร่องในแมว (feline acquired immunodeficiency syndrome),0.9980,True,Hold,/drugs/efavirenz/
+enalapril,Enalapril,,,N/A,0,,,,True,,/drugs/enalapril/
+enoxaparin,Enoxaparin,,,L5,1,ป้องกันลิ่มเลือด,"ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C ชนิดถ่ายทอดแบบด้อย (thrombophilia due to protein C deficiency, autosomal recessive)",0.9958,True,Hold,/drugs/enoxaparin/
+erythromycin,Erythromycin,,,L5,4,โรคติดเชื้อแบคทีเรีย,กระจกตาและเยื่อบุตาอักเสบแบบจุด (punctate epithelial keratoconjunctivitis),0.9989,True,Hold,/drugs/erythromycin/
+erythropoietin,Erythropoietin,,,L5,5,โลหิตจาง,ภาวะขาดแอนติทรอมบินชนิดที่ 2 (antithrombin deficiency type 2),0.9933,True,Hold,/drugs/erythropoietin/
+estradiol,Estradiol,,,N/A,0,,,,True,,/drugs/estradiol/
+ethambutol,Ethambutol,,,L5,5,วัณโรค,ภาวะฝาปิดกล่องเสียงอักเสบ (epiglottitis),0.9990,True,Hold,/drugs/ethambutol/
+ferrous_sulfate_anhydrous,Ferrous Sulfate Anhydrous,,,L5,3,,ภาวะโลหิตจางแบบเมกะโลบลาสติกที่ไม่ขึ้นกับวิตามิน B12 และโฟเลต (vitamin B12- and folate-independent constitutional megaloblastic anemia),0.9978,True,Hold,/drugs/ferrous-sulfate-anhydrous/
+filgrastim,Filgrastim,,,L5,10,ภาวะเม็ดเลือดขาวต่ำ,ความผิดปกติของการหลั่งสารจากเกล็ดเลือด (primary release disorder of platelets),1.0000,True,Hold,/drugs/filgrastim/
+finasteride,Finasteride,,,L5,6,,ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis congenita),0.9999,True,Hold,/drugs/finasteride/
+fluconazole,Fluconazole,,,L5,1,โรคติดเชื้อรา,กระจกตาและเยื่อบุตาอักเสบแบบจุด (punctate epithelial keratoconjunctivitis),0.9924,True,Hold,/drugs/fluconazole/
+fluoxetine,Fluoxetine,,,L5,8,,โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder),0.9992,True,Hold,/drugs/fluoxetine/
+fluticasone,Fluticasone,,,L5,3,"โรคหอบหืด, โรคจมูกอักเสบ",ไมเกรน (migraine disorder),0.9920,True,Hold,/drugs/fluticasone/
+folic_acid,Folic Acid,,,L4,1,ป้องกันและรักษาภาวะขาดโฟลิก,โรคเมตาบอลิซึมของไบโอติน (biotin metabolic disease),0.9949,True,Hold,/drugs/folic-acid/
+furosemide,Furosemide,,,N/A,0,,,,True,,/drugs/furosemide/
+gabapentin,Gabapentin,,,N/A,0,,,,True,,/drugs/gabapentin/
+gentamicin,Gentamicin,,,N/A,0,,,,True,,/drugs/gentamicin/
+glimepiride,Glimepiride,,,L5,9,เบาหวานชนิดที่ 2,โรคกล้ามเนื้อเกร็งแข็งชนิดคลาสสิก (classic stiff person syndrome),0.9975,True,Hold,/drugs/glimepiride/
+haloperidol,Haloperidol,,,L5,9,,ความผิดปกติแต่กำเนิดของการเติมน้ำตาลโปรตีนที่ขาดการเติมฟิวโคส (congenital disorder of glycosylation with defective fucosylation),0.9991,True,Hold,/drugs/haloperidol/
+heparin,Heparin,,,L5,2,,"ภาวะเลือดแข็งตัวง่ายจากการขาดโปรตีน C ชนิดถ่ายทอดแบบด้อย (thrombophilia due to protein C deficiency, autosomal recessive)",0.9929,True,Hold,/drugs/heparin/
+ibuprofen,Ibuprofen,,,L5,7,"บรรเทาปวด, ลดไข้, ต้านการอักเสบ","acromesomelic dysplasia ชนิด Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)",0.9974,True,Hold,/drugs/ibuprofen/
+indomethacin,Indomethacin,,,L5,10,"บรรเทาปวด, ต้านการอักเสบ, เก๊าต์",กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome),0.9997,True,Hold,/drugs/indomethacin/
+isoniazid,Isoniazid,,,L5,1,วัณโรค,เยื่อบุตาอักเสบ (conjunctivitis),0.9936,True,Hold,/drugs/isoniazid/
+isosorbide_dinitrate,Isosorbide Dinitrate,,,L5,10,โรคหัวใจขาดเลือด,ผมร่วง (alopecia),0.9999,True,Hold,/drugs/isosorbide-dinitrate/
+isotretinoin,Isotretinoin,,,L5,1,,โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease),0.9901,True,Hold,/drugs/isotretinoin/
+itraconazole,Itraconazole,,,L5,1,,โรคนิวโมซิสโทซิส (pneumocystosis),0.9934,True,Hold,/drugs/itraconazole/
+ivermectin,Ivermectin,,,L5,9,"พยาธิ, เหา",candidiasis ของช่องคลอดและช่องคลอดภายนอก (vulvovaginal candidiasis),0.9995,True,Hold,/drugs/ivermectin/
+ketamine,Ketamine,,,L2,1,,โรคปวดศีรษะ (headache disorder),0.9933,False,Proceed with Guardrails,/drugs/ketamine/
+lactulose,Lactulose,,,L5,8,"ท้องผูก, โรคตับ",ภาวะไตอักเสบเฉียบพลันจากกรดยูริก (acute urate nephropathy),0.9989,True,Hold,/drugs/lactulose/
+lamivudine,Lamivudine,,,L4,5,"ไวรัสตับอักเสบบี, เอชไอวี",การติดเชื้อไวรัสเอสไอวีในลิง (simian immunodeficiency virus infection),0.9993,True,Hold,/drugs/lamivudine/
+lansoprazole,Lansoprazole,,,L5,1,,ภาวะลำไส้เล็กส่วนต้นอุดตัน (duodenal obstruction),0.9968,True,Hold,/drugs/lansoprazole/
+latanoprost,Latanoprost,,,L5,9,"ต้อหิน, ความดันในตาสูง",ภาวะแคลซิฟิลาซิสของอวัยวะภายใน (visceral calciphylaxis),0.9983,True,Hold,/drugs/latanoprost/
+levetiracetam,Levetiracetam,,,L5,1,,ภาวะขาดเอนไซม์เบตา-คีโตไทโอเลส (beta-ketothiolase deficiency),0.9990,True,Hold,/drugs/levetiracetam/
+levothyroxine,Levothyroxine,,,L5,4,,ภาวะไตเจริญผิดปกติ/ไม่เจริญ (renal hypodysplasia/aplasia),0.9967,True,Hold,/drugs/levothyroxine/
+lidocaine,Lidocaine,,,L5,10,"ยาชา, หัวใจเต้นผิดจังหวะ",กระจกตาและเยื่อบุตาอักเสบแบบจุด (punctate epithelial keratoconjunctivitis),0.9999,True,Hold,/drugs/lidocaine/
+lisinopril,Lisinopril,,,L5,6,,ความดันปอดสูงจากโรคปอดและ/หรือภาวะขาดออกซิเจน (pulmonary hypertension owing to lung disease and/or hypoxia),0.9989,True,Hold,/drugs/lisinopril/
+loperamide,Loperamide,,,L5,10,ท้องเสีย,เยื่อบุตาอักเสบติดต่อเฉียบพลัน (acute contagious conjunctivitis),0.9997,True,Hold,/drugs/loperamide/
+loratadine,Loratadine,,,N/A,0,,,,True,,/drugs/loratadine/
+lorazepam,Lorazepam,,,L5,1,,เนื้องอกเส้นประสาทไทรเจมินัล (trigeminal nerve neoplasm),0.9987,False,Hold,/drugs/lorazepam/
+losartan,Losartan,,,L4,7,,โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease),0.9973,True,Hold,/drugs/losartan/
+magnesium_sulfate,Magnesium Sulfate,,,L3,8,,โรคลิ่มเลือดอุดตัน (thrombotic disease),0.9990,True,Hold,/drugs/magnesium-sulfate/
+mebendazole,Mebendazole,,,L5,1,พยาธิ,สิว (acne (disease)),0.9920,True,Hold,/drugs/mebendazole/
+mefloquine,Mefloquine,,,N/A,0,,,,False,,/drugs/mefloquine/
+metformin,Metformin,,,L5,5,เบาหวานชนิดที่ 2,กลุ่มอาการแขนขาแข็งเฉพาะที่ (focal stiff limb syndrome),0.9945,True,Hold,/drugs/metformin/
+metoclopramide,Metoclopramide,,,L5,2,,กระเพาะอาหารและลำไส้เล็กส่วนต้นอักเสบ (gastroduodenitis),0.9990,True,Hold,/drugs/metoclopramide/
+metoprolol,Metoprolol,,,L5,6,"ความดันโลหิตสูง, โรคหัวใจ",โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease),0.9991,True,Hold,/drugs/metoprolol/
+metronidazole,Metronidazole,,,L5,10,โรคติดเชื้อแบคทีเรียและปรสิต,โรคนิวโมซิสโทซิส (pneumocystosis),0.9999,True,Hold,/drugs/metronidazole/
+mirtazapine,Mirtazapine,,,L5,3,,กลุ่มอาการโอโดะและกลุ่มย่อย (Ohdo syndrome and variants),0.9942,True,Hold,/drugs/mirtazapine/
+montelukast,Montelukast,,,L3,2,,หลอดลมอักเสบ (bronchitis),0.9995,True,Hold,/drugs/montelukast/
+morphine,Morphine,,,L5,10,,กลุ่มอาการปวดกล้ามเนื้อและพังผืด (myofascial pain syndrome),0.9975,,Hold,/drugs/morphine/
+naproxen,Naproxen,,,L5,4,,กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome),0.9935,True,Hold,/drugs/naproxen/
+nifedipine,Nifedipine,,,N/A,0,,,,True,,/drugs/nifedipine/
+nystatin,Nystatin,,,L5,9,,โรคของบริเวณเบ้าตา (disease of orbital region),0.9990,True,Hold,/drugs/nystatin/
+olanzapine,Olanzapine,,,L5,2,"โรคจิตเภท, โรคไบโพลาร์",ภาวะคอบิดเป็นพักๆ ชนิดไม่ร้ายแรงในทารก (benign paroxysmal torticollis of infancy),0.9954,True,Hold,/drugs/olanzapine/
+omeprazole,Omeprazole,,,L5,1,,ภาวะลำไส้เล็กส่วนต้นอุดตัน (duodenal obstruction),0.9964,True,Hold,/drugs/omeprazole/
+ondansetron,Ondansetron,,,N/A,0,,,,True,,/drugs/ondansetron/
+orphenadrine,Orphenadrine,,,L5,7,,จอประสาทตาเสื่อมทางพันธุกรรม (retinal dystrophy with or without extraocular anomalies),0.9929,True,Hold,/drugs/orphenadrine/
+oseltamivir,Oseltamivir,,,N/A,0,,,,True,,/drugs/oseltamivir/
+paliperidone,Paliperidone,,,L5,9,จิตเภท,จอประสาทตาเสื่อมทางพันธุกรรม (retinal dystrophy with or without extraocular anomalies),0.9992,True,Hold,/drugs/paliperidone/
+pantoprazole,Pantoprazole,,,L5,1,,ภาวะลำไส้เล็กส่วนต้นอุดตัน (duodenal obstruction),0.9921,True,Hold,/drugs/pantoprazole/
+phenytoin,Phenytoin,,,L5,3,โรคลมชัก,เนื้องอกเส้นประสาทไทรเจมินัล (trigeminal nerve neoplasm),0.9999,True,Hold,/drugs/phenytoin/
+pioglitazone,Pioglitazone,,,L5,9,เบาหวานชนิดที่ 2,opsismodysplasia,0.9959,True,Hold,/drugs/pioglitazone/
+potassium_chloride,Potassium Chloride,,,L4,1,โพแทสเซียมต่ำ,ภาวะกรดในท่อไต (renal tubular acidosis),0.9987,True,Hold,/drugs/potassium-chloride/
+pravastatin,Pravastatin,,,L4,6,,การติดเชื้อเอชไอวี (HIV infectious disease),0.9974,True,Proceed with Guardrails,/drugs/pravastatin/
+praziquantel,Praziquantel,,,N/A,0,,,,True,,/drugs/praziquantel/
+prednisolone,Prednisolone,,,L2,9,"ต้านการอักเสบ, ภูมิแพ้รุนแรง",โรคผมร่วงเป็นหย่อม (alopecia areata),0.9999,True,Proceed with Guardrails,/drugs/prednisolone/
+primaquine,Primaquine,,,L5,7,,โรคตัวอ่อนแมลงวันไชเนื้อ (myiasis),0.9976,True,Hold,/drugs/primaquine/
+progesterone,Progesterone,,,L4,6,,โรคเต้านมถุงน้ำเส้นใย (breast fibrocystic disease),0.9998,True,Hold,/drugs/progesterone/
+propofol,Propofol,,,L2,5,ยาสลบ,ไมเกรน (migraine disorder),0.9969,True,Proceed with Guardrails,/drugs/propofol/
+propranolol,Propranolol,,,L5,4,"ความดันโลหิตสูง, หัวใจเต้นเร็ว","ภาวะกล้ามเนื้อส่วนปลายเสื่อมชนิด Tateyama (distal myopathy, Tateyama type)",0.9940,True,Hold,/drugs/propranolol/
+propylthiouracil,Propylthiouracil,,,L5,2,,ภาวะดื้อต่อฮอร์โมนไทรอยด์จากการกลายพันธุ์ของตัวรับฮอร์โมนไทรอยด์เบตา (resistance to thyroid hormone due to a mutation in thyroid hormone receptor beta),0.9966,True,Hold,/drugs/propylthiouracil/
+pyrazinamide,Pyrazinamide,,,L5,10,วัณโรค,หูชั้นกลางอักเสบติดเชื้อ (infectious otitis media),0.9996,True,Hold,/drugs/pyrazinamide/
+ranitidine,Ranitidine,,,L5,6,,การทะลุของแผลเปปติก (peptic ulcer perforation),0.9988,False,Hold,/drugs/ranitidine/
+rifampicin,Rifampicin,,,L4,10,วัณโรค,เยื่อบุตาอักเสบ (conjunctivitis),0.9995,True,Hold,/drugs/rifampicin/
+risperidone,Risperidone,,,L5,4,,"อัมพาตการมองด้านข้างแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaze palsy, familial horizontal, with progressive scoliosis)",0.9976,True,Hold,/drugs/risperidone/
+rivaroxaban,Rivaroxaban,,,L5,4,"ป้องกันลิ่มเลือด, หัวใจเต้นผิดจังหวะ",โรคข้ออักเสบรูมาตอยด์ (rheumatoid arthritis),0.9957,True,Hold,/drugs/rivaroxaban/
+salbutamol,Salbutamol,,,L5,8,,เยื่อบุตาอักเสบชนิดปุ่ม (papillary conjunctivitis),1.0000,True,Hold,/drugs/salbutamol/
+sertraline,Sertraline,,,L5,7,,โรคบุคลิกภาพแบบหวาดระแวง (paranoid personality disorder),0.9993,True,Hold,/drugs/sertraline/
+simvastatin,Simvastatin,,,L5,5,,ภาวะก้านสมองขาดเลือด (brain stem infarction),0.9941,True,Hold,/drugs/simvastatin/
+spironolactone,Spironolactone,,,L5,2,,ภาวะผมบางธรรมดาของหนังศีรษะ (hypotrichosis simplex of the scalp),0.9926,True,Hold,/drugs/spironolactone/
+sucralfate,Sucralfate,,,L2,2,แผลในกระเพาะอาหาร,ภาวะน้ำดีไหลย้อนจากลำไส้เล็กส่วนต้นเข้ากระเพาะอาหาร (duodenogastric reflux),0.9937,True,Hold,/drugs/sucralfate/
+tacrolimus,Tacrolimus,,,L2,2,ป้องกันการปฏิเสธอวัยวะ,ผื่นผิวหนังอักเสบเซบอร์ริก (seborrheic dermatitis),0.9926,True,Proceed with Guardrails,/drugs/tacrolimus/
+tadalafil,Tadalafil,,,L5,8,"การแข็งตัวขององคชาต, ต่อมลูกหมากโต",ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis congenita),0.9998,True,Hold,/drugs/tadalafil/
+tamsulosin,Tamsulosin,,,L5,10,ต่อมลูกหมากโต,ภาวะขนดกแต่กำเนิดชนิด Ambras (Ambras type hypertrichosis universalis congenita),1.0000,True,Hold,/drugs/tamsulosin/
+tenofovir,Tenofovir,,,L4,3,"ไวรัสตับอักเสบบี, เอชไอวี",การติดเชื้อไวรัสเอสไอวีในลิง (simian immunodeficiency virus infection),0.9996,True,Hold,/drugs/tenofovir/
+terbinafine,Terbinafine,,,N/A,0,,,,True,,/drugs/terbinafine/
+testosterone,Testosterone,,,N/A,0,,,,True,,/drugs/testosterone/
+theophylline,Theophylline,,,L5,6,โรคหอบหืด,โรคหลอดเลือดอุดตัน (thrombotic disease),0.9962,True,Hold,/drugs/theophylline/
+tizanidine,Tizanidine,,,L2,5,,ไมเกรน (migraine disorder),0.9979,True,Proceed with Guardrails,/drugs/tizanidine/
+tramadol,Tramadol,,,L5,9,บรรเทาปวดปานกลางถึงรุนแรง,"acromesomelic dysplasia ชนิด Hunter-Thompson (acromesomelic dysplasia, Hunter-Thompson type)",0.9999,True,Hold,/drugs/tramadol/
+tretinoin,Tretinoin,,,L5,9,สิว,rheumatoid nodulosis,0.9984,True,Hold,/drugs/tretinoin/
+valproic_acid,Valproic Acid,,,L5,2,"โรคลมชัก, โรคไบโพลาร์",เนื้องอกเส้นประสาทไทรเจมินัล (trigeminal nerve neoplasm),0.9997,True,Hold,/drugs/valproic-acid/
+vancomycin,Vancomycin,,,L5,10,โรคติดเชื้อแบคทีเรียดื้อยา,โรคผิวหนังแข็งแบบแพร่กระจาย (diffuse scleroderma),0.9992,True,Hold,/drugs/vancomycin/
+verapamil,Verapamil,,,L5,6,"ความดันโลหิตสูง, หัวใจเต้นผิดจังหวะ",บันเดิลแบรนช์บล็อก (obsolete bundle branch block),0.9962,True,Hold,/drugs/verapamil/
+vitamin_d,Vitamin D,,,N/A,0,,,,True,,/drugs/vitamin-d/
+warfarin,Warfarin,,,L5,7,ป้องกันลิ่มเลือด,ภาวะพร่องฮีพาริน โคแฟกเตอร์ 2 (heparin cofactor 2 deficiency),0.9987,True,Hold,/drugs/warfarin/
