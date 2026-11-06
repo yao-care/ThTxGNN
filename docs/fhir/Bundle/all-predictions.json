@@ -2,8 +2,8 @@
   "resourceType": "Bundle",
   "id": "all-predictions",
   "type": "collection",
-  "timestamp": "2026-05-03T17:37:11.790187",
-  "total": 1575,
+  "timestamp": "2026-11-06T14:00:46.808871",
+  "total": 151,
   "link": [
     {
       "relation": "self",
@@ -46,7 +46,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -86,7 +86,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -126,7 +126,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -166,7 +166,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -206,7 +206,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -246,47 +246,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/timolol",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "timolol",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "timolol",
-              "display": "Timolol"
-            }
-          ],
-          "text": "Timolol"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -326,7 +286,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -366,7 +326,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -406,7 +366,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -446,7 +406,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -486,7 +446,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -526,47 +486,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/sildenafil",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "sildenafil",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "sildenafil",
-              "display": "Sildenafil"
-            }
-          ],
-          "text": "Sildenafil"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -606,7 +526,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -646,7 +566,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -686,7 +606,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -726,7 +646,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -766,7 +686,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -806,7 +726,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -846,7 +766,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -886,7 +806,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -926,7 +846,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -966,7 +886,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -1006,7 +926,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1046,7 +966,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -1086,7 +1006,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -1126,7 +1046,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1166,7 +1086,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1206,7 +1126,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1246,7 +1166,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -1286,7 +1206,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1326,7 +1246,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1366,7 +1286,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1406,7 +1326,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1446,7 +1366,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L2"
           }
         ]
       }
@@ -1486,7 +1406,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1526,7 +1446,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -1566,7 +1486,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -1606,7 +1526,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1646,7 +1566,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1686,7 +1606,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1726,47 +1646,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/gliclazide",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "gliclazide",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "gliclazide",
-              "display": "Gliclazide"
-            }
-          ],
-          "text": "Gliclazide"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L5"
+            "valueCode": "L3"
           }
         ]
       }
@@ -1806,7 +1686,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -1846,7 +1726,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L2"
           }
         ]
       }
@@ -1886,7 +1766,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -1926,7 +1806,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L4"
           }
         ]
       }
@@ -1966,7 +1846,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L3"
           }
         ]
       }
@@ -2006,7 +1886,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2046,7 +1926,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2086,7 +1966,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2126,7 +2006,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2166,7 +2046,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -2206,7 +2086,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2246,7 +2126,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2286,7 +2166,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2326,7 +2206,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L2"
           }
         ]
       }
@@ -2366,7 +2246,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -2406,7 +2286,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2446,7 +2326,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2486,7 +2366,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2526,7 +2406,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -2566,7 +2446,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -2606,7 +2486,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2646,7 +2526,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L3"
           }
         ]
       }
@@ -2686,7 +2566,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2726,7 +2606,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -2766,7 +2646,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2806,7 +2686,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2846,7 +2726,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2926,7 +2806,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -2966,7 +2846,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3006,7 +2886,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3046,7 +2926,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -3086,7 +2966,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3126,7 +3006,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3166,7 +3046,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -3206,7 +3086,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -3246,7 +3126,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3286,7 +3166,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L2"
           }
         ]
       }
@@ -3326,7 +3206,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3366,7 +3246,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3406,7 +3286,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L2"
           }
         ]
       }
@@ -3446,7 +3326,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -3526,7 +3406,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3566,7 +3446,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -3646,47 +3526,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/venlafaxine",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "venlafaxine",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "venlafaxine",
-              "display": "Venlafaxine"
-            }
-          ],
-          "text": "Venlafaxine"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -3726,7 +3566,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3766,7 +3606,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3806,7 +3646,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3846,7 +3686,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -3886,7 +3726,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L2"
           }
         ]
       }
@@ -3926,7 +3766,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4006,7 +3846,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4046,7 +3886,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4086,7 +3926,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4126,7 +3966,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -4166,7 +4006,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4206,7 +4046,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -4286,7 +4126,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4326,7 +4166,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4366,7 +4206,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4406,7 +4246,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4446,7 +4286,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4486,7 +4326,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4526,47 +4366,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/amitriptyline",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "amitriptyline",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "amitriptyline",
-              "display": "Amitriptyline"
-            }
-          ],
-          "text": "Amitriptyline"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4606,7 +4406,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4646,7 +4446,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4686,7 +4486,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L2"
           }
         ]
       }
@@ -4726,7 +4526,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4766,7 +4566,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4806,7 +4606,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4846,7 +4646,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4886,7 +4686,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4926,7 +4726,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -4966,7 +4766,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5006,7 +4806,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5046,7 +4846,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5086,7 +4886,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5126,7 +4926,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5166,7 +4966,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -5206,47 +5006,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/hydrochlorothiazide",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "hydrochlorothiazide",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "hydrochlorothiazide",
-              "display": "Hydrochlorothiazide"
-            }
-          ],
-          "text": "Hydrochlorothiazide"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5286,7 +5046,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5326,7 +5086,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5406,7 +5166,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5446,7 +5206,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L4"
           }
         ]
       }
@@ -5486,7 +5246,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5526,7 +5286,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -5566,7 +5326,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5606,7 +5366,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5646,7 +5406,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5686,7 +5446,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5726,7 +5486,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -5766,7 +5526,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5806,7 +5566,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5846,7 +5606,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L3"
+            "valueCode": "N/A"
           }
         ]
       }
@@ -5886,7 +5646,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5926,7 +5686,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L2"
+            "valueCode": "L5"
           }
         ]
       }
@@ -5966,7 +5726,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -6006,7 +5766,7 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L5"
           }
         ]
       }
@@ -6046,7 +5806,247 @@
         "extension": [
           {
             "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L1"
+            "valueCode": "L3"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/calciumcarbonate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "calciumcarbonate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://thtxgnn.yao.care/drugs",
+              "code": "calciumcarbonate",
+              "display": "Calciumcarbonate"
+            }
+          ],
+          "text": "Calciumcarbonate"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "TH",
+                "display": "Thailand"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "N/A"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/ferroussulfate",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "ferroussulfate",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://thtxgnn.yao.care/drugs",
+              "code": "ferroussulfate",
+              "display": "Ferroussulfate"
+            }
+          ],
+          "text": "Ferroussulfate"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "TH",
+                "display": "Thailand"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L4"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/folicacid",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "folicacid",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://thtxgnn.yao.care/drugs",
+              "code": "folicacid",
+              "display": "Folicacid"
+            }
+          ],
+          "text": "Folicacid"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "TH",
+                "display": "Thailand"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L4"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/paracetamol",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "paracetamol",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://thtxgnn.yao.care/drugs",
+              "code": "paracetamol",
+              "display": "Paracetamol"
+            }
+          ],
+          "text": "Paracetamol"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "TH",
+                "display": "Thailand"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L4"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/valproicacid",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "valproicacid",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://thtxgnn.yao.care/drugs",
+              "code": "valproicacid",
+              "display": "Valproicacid"
+            }
+          ],
+          "text": "Valproicacid"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "TH",
+                "display": "Thailand"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "L5"
+          }
+        ]
+      }
+    },
+    {
+      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/vitamind",
+      "resource": {
+        "resourceType": "MedicationKnowledge",
+        "id": "vitamind",
+        "meta": {
+          "profile": [
+            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
+          ]
+        },
+        "status": "active",
+        "code": {
+          "coding": [
+            {
+              "system": "https://thtxgnn.yao.care/drugs",
+              "code": "vitamind",
+              "display": "Vitamind"
+            }
+          ],
+          "text": "Vitamind"
+        },
+        "intendedJurisdiction": [
+          {
+            "coding": [
+              {
+                "system": "urn:iso:std:iso:3166",
+                "code": "TH",
+                "display": "Thailand"
+              }
+            ]
+          }
+        ],
+        "extension": [
+          {
+            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
+            "valueCode": "N/A"
           }
         ]
       }

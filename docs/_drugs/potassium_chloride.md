@@ -6,7 +6,7 @@ nav_order: 125
 evidence_level: L4
 indication_count: 1
 last_modified_at: 2026-10-31
-description: "Potassium Chloride: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะกรดในท่อไต (Renal Tubular Acidosis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โพแทสเซียมต่ำ"
+description: "Potassium Chloride: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะกรดในท่อไต (Renal Tubular Acidosis) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: โพแทสเซียมต่ำ"
 monitor_inn: "Potassium chloride"
 predicted_indications: ["renal tubular acidosis"]
 ---
