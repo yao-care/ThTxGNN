@@ -31,8 +31,8 @@ redirect_from:
 
 ## รายการยา
 
-{% assign l1_drugs = site.drugs | where: "evidence_level", "L1" | sort: "title" %}
-{% assign l2_drugs = site.drugs | where: "evidence_level", "L2" | sort: "title" %}
+{% assign l1_drugs = site.drugs | where: "evidence_level", "L1" | where_exp: "d", "d.noindex != true" | sort: "title" %}
+{% assign l2_drugs = site.drugs | where: "evidence_level", "L2" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 ### ระดับ L1 ({{ l1_drugs.size }} รายการ)
 

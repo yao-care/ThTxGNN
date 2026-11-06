@@ -12,7 +12,7 @@ redirect_from:
 
 รายการยาในระดับหลักฐาน L5
 
-{% assign drugs = site.drugs | where: "evidence_level", "L5" %}
+{% assign drugs = site.drugs | where: "evidence_level", "L5" | where_exp: "d", "d.noindex != true" %}
 {% for drug in drugs %}
 - [{{ drug.title }}]({{ drug.url | relative_url }}) - {{ drug.drugbank_id }}
 {% endfor %}

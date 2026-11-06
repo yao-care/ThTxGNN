@@ -10,7 +10,7 @@ description: "สำหรับยาเหล่านี้ ผู้สม�
 
 สำหรับยาเหล่านี้ ผู้สมัครทั้งหมดจากโมเดล TxGNN เป็นการใช้ที่ทราบแล้ว (บันทึกใน Knowledge Graph หรือในทะเบียนยา) จึงไม่มีข้อบ่งใช้ใหม่ที่คาดการณ์ แต่ละหน้าแสดงการใช้ที่ทราบแล้วและสถานะการวางจำหน่ายในประเทศ
 
-{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | sort: "title" %}
+{% assign known_drugs = site.drugs | where: "evidence_level", "N/A" | where_exp: "d", "d.noindex != true" | sort: "title" %}
 
 **{{ known_drugs.size }} รายการ**
 
