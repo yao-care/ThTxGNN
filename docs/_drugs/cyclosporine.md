@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 50
 evidence_level: L4
 indication_count: 7
-last_modified_at: 2026-11-03
+last_modified_at: 2026-11-10
 description: "Cyclosporine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง ชนิดถ่ายทอดทางยีนลักษณะด้อย (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ป้องกันการปฏิเสธอวัยวะ, โรคภูมิคุ้มกันผิดปกติ"
 monitor_inn: "Cyclosporine"
 predicted_indications: ["granulomatous disease, chronic, autosomal recessive", "brain aneurysm", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "congenital ichthyosiform erythroderma", "fetal erythroblastosis", "brachydactyly-syndactyly syndrome", "prolapse of lacrimal gland"]
@@ -50,8 +50,8 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคเม็ดเลือดขาวกินเชื้อบกพร่องเรื้อรัง ชนิดถ่ายทอดทางยีนลักษณะด้อย |
 | คะแนนการทำนาย TxGNN | 0.9968 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 13 จาก 81 รายการ) |
-| จำนวนทะเบียนตำรับยา | 81 รายการ (ยังมีผล 13) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 12 จาก 81 รายการ) |
+| จำนวนทะเบียนตำรับยา | 81 รายการ (ยังมีผล 12) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -83,7 +83,7 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 | 1C 83/67 | PANIMUN BIORAL 100 MG | CAPSULE, SOFT | คงอยู่ |
 | 1C 200/43 | SANDIMMUN NEORAL 25 MG | CAPSULE SOFT | คงอยู่ |
 | 1C 121/60 | EQUORAL 100 MG | CAPSULE, SOFT | คงอยู่ |
-| 1C 124/42 | SANDIMMUN 50 MG/ML | STERILE SOLUTION | คงอยู่ |
+| 1C 124/42 | SANDIMMUN 50 MG/ML | STERILE SOLUTION | หมดอายุ |
 | 1C 138/43 | SANDIMMUN NEORAL (100 MG/ML) | OIL SOLUTION | คงอยู่ |
 | 1C 201/43 | SANDIMMUN NEORAL 100 MG | CAPSULE SOFT | คงอยู่ |
 | 1C 33/61 | EQUORAL 25 MG | CAPSULE, SOFT | คงอยู่ |
