@@ -1,16 +1,85 @@
 ---
-layout: id_redirect
-permalink: /news/isotretinoin/
-sitemap: false
-search_exclude: true
+layout: default
+title: "ข่าวเกี่ยวกับ Isotretinoin"
+parent: ข่าวสุขภาพ
 nav_exclude: true
+description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Isotretinoin ข้อบ่งใช้ที่คาดการณ์ 1 รายการ"
+permalink: /news/isotretinoin/
+last_modified_at: 2026-11-11
 ---
-<!DOCTYPE html>
-<html>
-<meta charset="utf-8">
-<title>Redirecting&hellip;</title>
-<link rel="canonical" href="{{ site.url }}/drugs/isotretinoin/">
-<meta http-equiv="refresh" content="0; url=/drugs/isotretinoin/">
-<script>location="/drugs/isotretinoin/"</script>
-<a href="/drugs/isotretinoin/">/drugs/isotretinoin/</a>
-</html>
+
+# ข่าวเกี่ยวกับ Isotretinoin
+
+[← กลับไปที่ภาพรวมข่าว]({{ '/news/' | relative_url }})
+
+---
+
+<p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Isotretinoin บ้าง">
+ขณะนี้ <strong>Isotretinoin</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 1 รายการ
+</p>
+
+<div class="key-takeaway">
+หน้านี้รวมข้อบ่งใช้ที่คาดการณ์โดย AI ของ Isotretinoin เข้ากับข่าวสุขภาพล่าสุด ข้อบ่งใช้ที่เน้นสีส้มคือรายการที่มีข่าวรายงานเมื่อเร็ว ๆ นี้
+</div>
+
+<div class="drug-info-card">
+<strong>ข้อมูลยา</strong>
+<ul>
+<li><strong>ระดับหลักฐาน</strong>: L5</li>
+<li><strong>ข้อบ่งใช้ที่คาดการณ์ (1 รายการ)</strong>:<ul>
+<li>โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease)</li>
+</ul></li>
+</ul>
+<p><a href="{{ '/drugs/isotretinoin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
+</div>
+
+## ข่าวที่เกี่ยวข้อง (1 ข่าว)
+
+### [ยาต้านมะเร็งกลายเป็น "ยาแก้ปาฏิหาริย์" ที่ช่วยเพิ่มความสูงได้](https://news.google.com/rss/articles/CBMiekFVX3lxTE0waGE5YnV6cDhvcWVtTTJ1eFRXR0hzV283NUQwcU5NaU5ib2ZZZk45NzMydXVuN1gwUWdFQW1DMlpYenZTNDc5NjA1aWthdnY2WjFyT0h2VUI5NWtlZFRBUHM0V1lLZmZXOHhQYU8zcEg1R0VZTk13eDd3?oc=5)
+
+2026-11-11 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMiekFVX3lxTE0waGE5YnV6cDhvcWVtTTJ1eFRXR0hzV283NUQwcU5NaU5ib2ZZZk45NzMydXVuN1gwUWdFQW1DMlpYenZTNDc5NjA1aWthdnY2WjFyT0h2VUI5NWtlZFRBUHM0V1lLZmZXOHhQYU8zcEg1R0VZTk13eDd3?oc=5)
+
+---
+
+
+<div class="disclaimer">
+<strong>ข้อจำกัดความรับผิดชอบ</strong>: ข่าวในหน้านี้รวบรวมโดยระบบอัตโนมัติ ใช้เพื่อการอ้างอิงเชิงวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
+</div>
+
+<style>
+.indication-matched {
+  background: #fff3e0;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border-left: 3px solid #ff9800;
+}
+.indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 12px;
+  font-size: 0.8em;
+  margin-left: 8px;
+}
+.news-indication-tag {
+  display: inline-block;
+  background: #ff9800;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+.news-drug-tag {
+  display: inline-block;
+  background: #1565c0;
+  color: white;
+  padding: 2px 10px;
+  border-radius: 12px;
+  font-size: 0.85em;
+  margin-left: 4px;
+}
+</style>
