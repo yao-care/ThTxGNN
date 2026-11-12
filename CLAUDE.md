@@ -521,3 +521,6 @@ python3 scripts/check_seo_docs.py              # 必須 exit 0
 2026-11-12 建機制時的許可證檢查另抓到 17 頁在 2026-11-03 AI 重產藥師報告（a4ddd96f 等）時由 LLM 另寫的一列許可證表，號碼（「1A nn/67」）不是本藥在
 pertento 的許可證，其中 6 個剛好是別的藥的號碼；已用查核紀錄（`th-fab-20261112-*`）刪掉這些表，程式產生的許可證表不動。
 刪改轉紀錄的驗證（改寫前版本套紀錄＝現行正文）有 102 頁的差異只是 d44080e1 重建許可證表時程式加的說明句（「ตารางนี้แสดงไม่เกิน 30 รายการ…」「ไม่พบทะเบียนตำรับยา…」），不是刪改，不轉紀錄。
+2026-11-12 另以查核紀錄更正：6 頁（ampicillin、ciprofloxacin、dexamethasone、ferrous_sulfate_anhydrous、magnesium_sulfate、pravastatin）的正文把 pertento 狀態「รอตรวจสอบสถานะ」（事實層 unknown）
+算成註銷（`th-lic-20261112-*`）；albendazole 狀態列在 11-03 AI 重產時寫壞的「ราย��าร」改成「รายการ」（`th-typo-20261112-albendazole-1`）。錨在這些句子上的舊紀錄改錨到句中沒被更正的部分，前版存在 history。
+pravastatin 頁在 10-31 程式重建時本來就沒有許可證表（只有狀態列），11-03 LLM 另寫的表刪掉後維持沒有表，不另外補。
