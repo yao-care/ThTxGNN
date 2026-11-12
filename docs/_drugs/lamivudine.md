@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 92
 evidence_level: L4
 indication_count: 5
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Lamivudine: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian immunodeficiency viru… (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไวรัสตับอักเสบบี, เอชไอวี"
 monitor_inn: "Lamivudine"
 predicted_indications: ["simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "obsolete familial combined hyperlipidemia", "chronic hepatitis C virus infection"]
@@ -50,8 +50,8 @@ Lamivudine เป็นยากลุ่มต้านไวรัส (nucleos
 | ข้อบ่งใช้ใหม่ที่ทำนาย | การติดเชื้อไวรัสภูมิคุ้มกันบกพร่องในลิง (Simian immunodeficiency virus infection) |
 | คะแนนการทำนาย TxGNN | 0.9993 |
 | ระดับหลักฐาน | L4 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 27 จาก 74 รายการ) |
-| จำนวนทะเบียนตำรับยา | 74 รายการ (ยังมีผล 27) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 26 จาก 74 รายการ) |
+| จำนวนทะเบียนตำรับยา | 74 รายการ (ยังมีผล 26) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -96,7 +96,7 @@ SIV เป็นไวรัสเรโทรกลุ่มเดียวก�
 | 1A 55/61 (NG) | LAMIVIR TABLETS | FILM - COATED TABLET | คงอยู่ |
 | 1A 9/45 (NG) | LAMIVIR |  | คงอยู่ |
 | 1C 3/54 (NG) | LAMIVUDINE TABLETS 150 MG | FILM - COATED TABLET | คงอยู่ |
-| 1C 91/56 (N) | ZEFFIX (TABLETS) | FILM - COATED TABLET | คงอยู่ |
+| 1C 91/56 (N) | ZEFFIX (TABLETS) | FILM - COATED TABLET | ยกเลิก |
 | 2A 1/61 (NG) | ZILARVIR | FILM - COATED TABLET | คงอยู่ |
 | 2A 1/62 (NG) | ALACOVIR | FILM-COATED TABLET | คงอยู่ |
 | 2A 1/66 (NC) | DALAVIR | FILM-COATED TABLET | คงอยู่ |
