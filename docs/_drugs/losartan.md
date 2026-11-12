@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 7
 monitor_inn: "Losartan"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension with unclear multifactorial mechanism", "pulmonary hypertension owing to lung disease and/or hypoxia", "Braddock syndrome", "Prinzmetal angina", "autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome", "brain small vessel disease 1 with or without ocular anomalies"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Losartan: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงชนิดร้ายแรง (malignant hypertensive renal disease) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
 ---
 
@@ -63,6 +63,12 @@ Losartan เป็นยากลุ่มที่ยับยั้งตั�
 ## หลักฐานจากการทดลองทางคลินิก
 
 ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
+
+<!-- review:begin th-lic-20261031-losartan-1 -->
+
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 48 รายการ ยังมีผล 22 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+
+<!-- review:end th-lic-20261031-losartan-1 -->
 
 ## หลักฐานจากวรรณกรรม
 
@@ -130,6 +136,19 @@ Losartan เป็นยากลุ่มที่ยับยั้งตั�
 - ดาวน์โหลดและตรวจสอบเอกสารกำกับยาของไทยเพื่อดูคำเตือนและข้อห้ามใช้
 - เติมข้อมูลกลไกการออกฤทธิ์ (MOA) จากฐานข้อมูล DrugBank
 - วางแผนการศึกษาก่อนคลินิกหรือการศึกษานำร่องทางคลินิก พร้อมแผนติดตามความปลอดภัย โดยเฉพาะระดับโพแทสเซียมและการทำงานของไต
+
+<!-- review:begin log -->
+
+## บันทึกการตรวจสอบ
+
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+
+| วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
+|------|------|------|------|
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+
+<!-- review:end log -->
+
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์

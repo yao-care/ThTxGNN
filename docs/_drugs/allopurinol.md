@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Allopurinol"
 predicted_indications: ["hepatic porphyria", "early-onset familial noncirrhotic portal hypertension", "hepatoportal sclerosis", "hepatopulmonary syndrome", "idiopathic copper-associated cirrhosis", "primitive portal vein thrombosis", "disorder of phenylalanine metabolism", "immune-mediated necrotizing myopathy", "antisynthetase syndrome", "idiopathic eosinophilic myositis"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-12
 description: "Allopurinol: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะพอร์ฟิเรียของตับ (Hepatic Porphyria) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เก๊าต์, กรดยูริกในเลือดสูง"
 ---
 
@@ -63,6 +63,12 @@ Allopurinol เป็นยาที่เดิมใช้รักษาโ�
 ## หลักฐานจากการทดลองทางคลินิก
 
 ปัจจุบันยังไม่มีการลงทะเบียนการทดลองทางคลินิกที่เกี่ยวข้อง
+
+<!-- review:begin th-lic-20261031-allopurinol-1 -->
+
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 145 รายการ ยังมีผล 34 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+
+<!-- review:end th-lic-20261031-allopurinol-1 -->
 
 ## หลักฐานจากวรรณกรรม
 
@@ -131,6 +137,19 @@ Allopurinol เป็นยาที่เดิมใช้รักษาโ�
 - ข้อมูลคำเตือนและข้อห้ามใช้จากเอกสารกำกับยาของ อย. ไทย
 - การศึกษาก่อนคลินิกที่ทดสอบ Allopurinol ในแบบจำลองพอร์ฟิเรียโดยตรง
 - การประเมินความเสี่ยงของการใช้ยาในผู้ป่วยโรคตับ ก่อนพิจารณาการศึกษาทางคลินิก
+
+<!-- review:begin log -->
+
+## บันทึกการตรวจสอบ
+
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+
+| วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
+|------|------|------|------|
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+
+<!-- review:end log -->
+
 ## ข้อจำกัดความรับผิดชอบ
 
 เนื้อหานี้จัดทำขึ้นเพื่อการวิจัยเท่านั้น และไม่ถือเป็นคำแนะนำทางการแพทย์
