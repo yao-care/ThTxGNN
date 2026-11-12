@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-13
 description: "Fluticasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคจมูกอักเสบ"
 monitor_inn: "Fluticasone"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 37 จาก 102 รายการ) |
-| จำนวนทะเบียนตำรับยา | 102 รายการ (ยังมีผล 37) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 35 จาก 102 รายการ) |
+| จำนวนทะเบียนตำรับยา | 102 รายการ (ยังมีผล 35) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -96,8 +96,8 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 | 2C 15077/67 (NG) | SALFLUMIX EASYHALER 50 MICROGRAM/500 MICROGRAM / DOSE, INHAL | INHALATION POWDER | คงอยู่ |
 | 2C 15108/62 (NG) | FLUTEROL 250 MCG/50 MCG | INHALATION POWDER, HARD CAPSULE | คงอยู่ |
 | 2C 16/55 (N) | EVOFLO (25/125) | INHALER | คงอยู่ |
-| 2C 17/67 (NG) | SIRDUPLA 25/125 | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
-| 2C 18/67 (NG) | SIRDUPLA 25/250 | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
+| 2C 17/67 (NG) | SIRDUPLA 25/125 | PRESSURISED INHALATION, SUSPENSION | ยกเลิก |
+| 2C 18/67 (NG) | SIRDUPLA 25/250 | PRESSURISED INHALATION, SUSPENSION | ยกเลิก |
 | 2C 19/60 (N) | DYMISTA | NASAL SPRAY, SUSPENSION | คงอยู่ |
 | 2C 19/60 (NC) | DYMISTA | NASAL SPRAY | ปลด SMP |
 | 2C 312/69 (NC) | TRELEGY ELLIPTA 200/62.5/25 MCG | INHALATION POWDER, PRE-DISPENSED | คงอยู่ |
