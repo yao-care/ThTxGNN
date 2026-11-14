@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Bisoprolol บ้าง">
-ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
+ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>4 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (3 ข่าว)
+## ข่าวที่เกี่ยวข้อง (4 ข่าว)
+
+### [บริษัท Anthropic ใช้ AI Claude ในการวิจัยยาต้านมะเร็ง: ผลการทดลองในสัตว์ทดลองและการคาดการณ์ในระยะ 10 ปี](https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2xhYlVWdHRtNHI5UHNQSnNla3VTQmFxOXF3TDh6VzdSVTJDdHhwLS14RGJ4ZEJKbmZJTmJJamJDamF0V2MyLS1fY1BQb1p0ZGhHLU83enY3YXdJaFNMOHRXbDlKa1FnZWVXaHNwZmgxS3J2MERLZHNTekxPTFNrVDVKeGxKSXF4YnQ1bGZONEhDZTQ5NzBIZnBVVENUb3hTM2ZmM2J3ZzdUZEVrYk0yUU9ld3dyTTE4Z05xdEJ3?oc=5)
+
+2026-11-14 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2xhYlVWdHRtNHI5UHNQSnNla3VTQmFxOXF3TDh6VzdSVTJDdHhwLS14RGJ4ZEJKbmZJTmJJamJDamF0V2MyLS1fY1BQb1p0ZGhHLU83enY3YXdJaFNMOHRXbDlKa1FnZWVXaHNwZmgxS3J2MERLZHNTekxPTFNrVDVKeGxKSXF4YnQ1bGZONEhDZTQ5NzBIZnBVVENUb3hTM2ZmM2J3ZzdUZEVrYk0yUU9ld3dyTTE4Z05xdEJ3?oc=5)
+
+---
 
 ### [เกาะฟู้โกว๊กช่วยเหลือชาวประมงที่ป่วยเป็นโรคหลอดเลือดสมองในช่วงเวลาวิกฤต และออกค่าใช้จ่ายด้านยาให้ทั้งหมด](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbVRpQzc2bHpSdVBvSnZxZ21EM1ZRWkJHaHZGNkRhOG5zQ2NSVGt0MGFJejN3Rm5DZ0FGYW1sZ2p1RjM4NmRFbG5aVTNSTTZsSEdhRnBqYkFCUGZYclZQN2hRcXRsUERYQmtFeFNsOThnWkt2UWVsWi1MbGsyc2loMDlDWGx2cXhKTTFydzM3UE51RVZzZmFDV000OWdteV9GNWJabUVDLTFRUQ?oc=5)
 
