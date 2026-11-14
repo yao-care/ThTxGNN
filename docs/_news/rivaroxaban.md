@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Rivaroxaban ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/rivaroxaban/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # ข่าวเกี่ยวกับ Rivaroxaban
@@ -38,11 +38,11 @@ last_modified_at: 2026-11-12
 
 ## ข่าวที่เกี่ยวข้อง (1 ข่าว)
 
-### [โรคเกาต์ไม่หายขาด แต่ทำให้ ‘สงบสนิท’ ได้ตลอดชีวิต เผยคู่มือสยบกรดยูริกอย่างถูกวิธี](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUjB2ZzNmUkdYc21BOXJ3NXRrX2FkdmswamRaUU9YRmZBTElYNXpncDUxQXdBek9WUmVTVGstUTdqcVVNX1BZdE1xWVEzcWZMYWIxUlAxYm41Q3dRQTlxSDBmNA?oc=5)
+### [โรคเกาต์ไม่หายขาด แต่ทำให้ ‘สงบสนิท’ ได้ตลอดชีวิต เผยคู่มือสยบกรดยูริกอย่างถูกวิธี - MGR Online](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUjB2ZzNmUkdYc21BOXJ3NXRrX2FkdmswamRaUU9YRmZBTElYNXpncDUxQXdBek9WUmVTVGstUTdqcVVNX1BZdE1xWVEzcWZMYWIxUlAxYm41Q3dRQTlxSDBmNA?oc=5)
 
 2026-11-12 <span class="news-indication-tag">โรคเกาต์</span> <span class="news-indication-tag">เกาต์</span>
 
-แหล่งที่มา: [ผู้จัดการออนไลน์](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUjB2ZzNmUkdYc21BOXJ3NXRrX2FkdmswamRaUU9YRmZBTElYNXpncDUxQXdBek9WUmVTVGstUTdqcVVNX1BZdE1xWVEzcWZMYWIxUlAxYm41Q3dRQTlxSDBmNA?oc=5)
+แหล่งที่มา: [MGR Online](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9QUjB2ZzNmUkdYc21BOXJ3NXRrX2FkdmswamRaUU9YRmZBTElYNXpncDUxQXdBek9WUmVTVGstUTdqcVVNX1BZdE1xWVEzcWZMYWIxUlAxYm41Q3dRQTlxSDBmNA?oc=5)
 
 ---
 
