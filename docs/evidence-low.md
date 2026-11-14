@@ -12,6 +12,11 @@ redirect_from:
 
 # ยาที่มีเฉพาะการคาดการณ์จากโมเดล
 
+<!-- page-data:start（母目錄 .claude/gen_page_data_20261116.py 產生，勿手改）-->
+{% assign pd_m = site.data.drug_stats.level_counts.L5 %}
+หน้านี้แสดงยา **{{ pd_m }}** รายการ จากยาทั้งหมด **{{ site.data.drug_stats.total_drugs }}** รายการที่มีรายงานเผยแพร่บนเว็บไซต์นี้ ({{ pd_m | times: 100.0 | divided_by: site.data.drug_stats.total_drugs | round: 1 }}%) นิยามระดับหลักฐาน: [วิธีการคาดการณ์]({{ '/methodology/' | relative_url }})
+<!-- page-data:end -->
+
 <p style="font-size: 1.25rem; color: #666; margin-bottom: 1.5rem;">
 การคาดการณ์จากโมเดล TxGNN ที่ยังไม่มีหลักฐานทางคลินิกสนับสนุน
 </p>
