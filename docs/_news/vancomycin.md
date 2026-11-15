@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Vancomycin ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/vancomycin/
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-15
 ---
 
 # ข่าวเกี่ยวกับ Vancomycin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-14
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Vancomycin บ้าง">
-ขณะนี้ <strong>Vancomycin</strong> มีข่าวที่เกี่ยวข้อง <strong>3 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Vancomycin</strong> มีข่าวที่เกี่ยวข้อง <strong>4 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -42,7 +42,15 @@ last_modified_at: 2026-11-14
 <p><a href="{{ '/drugs/vancomycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (3 ข่าว)
+## ข่าวที่เกี่ยวข้อง (4 ข่าว)
+
+### [BDMS วางแผนนำร่องรักษามะเร็งด้วย CAR-T Cell ใน 3 โรงพยาบาลปีหน้า! คาดค่ายา 3.5 ล้านบาท](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZ2RNSFVHQWU1ZWExYTU3enpETlhWZDVpRllUSG5nRFNGcjlfWHNUSFJVdWFlMHVjbDgxUFNNbXRleVZyX0JiMDJVR3lpZk0wQTlkZHRR?oc=5)
+
+2026-11-15 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [posttoday](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZ2RNSFVHQWU1ZWExYTU3enpETlhWZDVpRllUSG5nRFNGcjlfWHNUSFJVdWFlMHVjbDgxUFNNbXRleVZyX0JiMDJVR3lpZk0wQTlkZHRR?oc=5)
+
+---
 
 ### [บริษัท Anthropic ใช้ AI Claude ในการวิจัยยาต้านมะเร็ง: ผลการทดลองในสัตว์ทดลองและการคาดการณ์ในระยะ 10 ปี](https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2xhYlVWdHRtNHI5UHNQSnNla3VTQmFxOXF3TDh6VzdSVTJDdHhwLS14RGJ4ZEJKbmZJTmJJamJDamF0V2MyLS1fY1BQb1p0ZGhHLU83enY3YXdJaFNMOHRXbDlKa1FnZWVXaHNwZmgxS3J2MERLZHNTekxPTFNrVDVKeGxKSXF4YnQ1bGZONEhDZTQ5NzBIZnBVVENUb3hTM2ZmM2J3ZzdUZEVrYk0yUU9ld3dyTTE4Z05xdEJ3?oc=5)
 
