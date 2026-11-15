@@ -24,7 +24,7 @@ Drug repurposing predictions for Thailand Thai FDA-approved drugs using the TxGN
 | **Unique Drugs** | 152 |
 | **Unique Indications** | 12,298 |
 | **DDI Data** | 160,235 |
-| **FHIR Resources** | 151 MK / 759 CUD |
+| **FHIR Resources** | 149 MK / 739 CUD |
 
 ### Evidence Level Distribution
 

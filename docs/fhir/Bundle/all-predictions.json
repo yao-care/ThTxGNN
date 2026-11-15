@@ -2,8 +2,8 @@
   "resourceType": "Bundle",
   "id": "all-predictions",
   "type": "collection",
-  "timestamp": "2026-11-06T14:00:46.808871",
-  "total": 151,
+  "timestamp": "2026-11-15T13:02:55.351175",
+  "total": 149,
   "link": [
     {
       "relation": "self",
@@ -5852,46 +5852,6 @@
       }
     },
     {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/ferroussulfate",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "ferroussulfate",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "ferroussulfate",
-              "display": "Ferroussulfate"
-            }
-          ],
-          "text": "Ferroussulfate"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          }
-        ]
-      }
-    },
-    {
       "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/folicacid",
       "resource": {
         "resourceType": "MedicationKnowledge",
@@ -5911,46 +5871,6 @@
             }
           ],
           "text": "Folicacid"
-        },
-        "intendedJurisdiction": [
-          {
-            "coding": [
-              {
-                "system": "urn:iso:std:iso:3166",
-                "code": "TH",
-                "display": "Thailand"
-              }
-            ]
-          }
-        ],
-        "extension": [
-          {
-            "url": "https://thtxgnn.yao.care/fhir/StructureDefinition/evidence-level",
-            "valueCode": "L4"
-          }
-        ]
-      }
-    },
-    {
-      "fullUrl": "https://thtxgnn.yao.care/fhir/MedicationKnowledge/paracetamol",
-      "resource": {
-        "resourceType": "MedicationKnowledge",
-        "id": "paracetamol",
-        "meta": {
-          "profile": [
-            "http://hl7.org/fhir/StructureDefinition/MedicationKnowledge"
-          ]
-        },
-        "status": "active",
-        "code": {
-          "coding": [
-            {
-              "system": "https://thtxgnn.yao.care/drugs",
-              "code": "paracetamol",
-              "display": "Paracetamol"
-            }
-          ],
-          "text": "Paracetamol"
         },
         "intendedJurisdiction": [
           {
