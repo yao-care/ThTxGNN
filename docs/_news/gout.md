@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพเกี่ยวกับ โรคเกาต์ (gout) ข่าว 1 รายการ ยาที่เกี่ยวข้อง 2 รายการ"
 permalink: /news/gout/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # ข่าวเกี่ยวกับ โรคเกาต์ (gout)

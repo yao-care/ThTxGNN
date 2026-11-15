@@ -1,17 +1,988 @@
 {
-  "last_updated": "2026-11-12T23:25:48.223129+00:00",
-  "total_count": 29,
-  "matched_count": 1,
+  "last_updated": "2026-11-15T05:53:58.972718+00:00",
+  "total_count": 27,
+  "matched_count": 5,
   "news": [
     {
-      "id": "2f45d2dbe310",
-      "title": "NervGen ได้รับสถานะ Breakthrough Therapy จาก FDA สําหรับยารักษาอาการบาดเจ็บไขสันหลัง",
-      "published": "2026-11-12T12:44:21+00:00",
-      "summary": "NervGen ได้รับสถานะ Breakthrough Therapy จาก FDA สําหรับยารักษาอาการบาดเจ็บไขสันหลัง&nbsp;&nbsp;Investing.com",
+      "id": "c6874ebd52e7",
+      "title": "BDMS วางแผนนำร่องรักษามะเร็งด้วย CAR-T Cell ใน 3 โรงพยาบาลปีหน้า! คาดค่ายา 3.5 ล้านบาท",
+      "published": "2026-11-15T04:45:00+00:00",
+      "summary": "BDMS วางแผนนำร่องรักษามะเร็งด้วย CAR-T Cell ใน 3 โรงพยาบาลปีหน้า! คาดค่ายา 3.5 ล้านบาท&nbsp;&nbsp;posttoday",
       "sources": [
         {
-          "name": "Investing.com",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9MWXBDUlF6MDNXVWlZR3Y1NHV4UGhJenRJMkdxc1VpRFBVd05ibkRvOUlqbTBSTlZ3Vy03S1FHamV1ZkFJenV3Z0dJSnZOdEhic1JJU0FZOFk5LWdiNkxXbVA2eG91U2FsTGd3WTVHTQ?oc=5"
+          "name": "posttoday",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZ2RNSFVHQWU1ZWExYTU3enpETlhWZDVpRllUSG5nRFNGcjlfWHNUSFJVdWFlMHVjbDgxUFNNbXRleVZyX0JiMDJVR3lpZk0wQTlkZHRR?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "มะเร็ง",
+          "related_drugs": [
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone",
+              "url": "/drugs/ceftriaxone/"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "Phenytoin",
+              "url": "/drugs/phenytoin/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "enalapril",
+              "name": "Enalapril",
+              "url": "/drugs/enalapril/"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "Diltiazem",
+              "url": "/drugs/diltiazem/"
+            },
+            {
+              "slug": "captopril",
+              "name": "Captopril",
+              "url": "/drugs/captopril/"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole",
+              "url": "/drugs/fluconazole/"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion",
+              "url": "/drugs/bupropion/"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone",
+              "url": "/drugs/spironolactone/"
+            },
+            {
+              "slug": "gabapentin",
+              "name": "Gabapentin",
+              "url": "/drugs/gabapentin/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "verapamil",
+              "name": "Verapamil",
+              "url": "/drugs/verapamil/"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen",
+              "url": "/drugs/baclofen/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin",
+              "url": "/drugs/clarithromycin/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "Carbamazepine",
+              "url": "/drugs/carbamazepine/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel",
+              "url": "/drugs/praziquantel/"
+            },
+            {
+              "slug": "nifedipine",
+              "name": "Nifedipine",
+              "url": "/drugs/nifedipine/"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic acid",
+              "url": "/drugs/valproic-acid/"
+            },
+            {
+              "slug": "efavirenz",
+              "name": "Efavirenz",
+              "url": "/drugs/efavirenz/"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin",
+              "url": "/drugs/vancomycin/"
+            },
+            {
+              "slug": "erythropoietin",
+              "name": "Erythropoietin",
+              "url": "/drugs/erythropoietin/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "furosemide",
+              "name": "Furosemide",
+              "url": "/drugs/furosemide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "8e3b365128ca",
+      "title": "อัลไซเมอร์ไม่ใช่แค่ลืม ผศ.นพ.ภรัณยู จูละยานนท์ เปิดมุมใหม่ ไม่ขายฝัน เป้าหมายสำคัญคือ ‘คุณภาพชีวิต’ - Matichon Online",
+      "published": "2026-11-15T04:07:16+00:00",
+      "summary": "อัลไซเมอร์ไม่ใช่แค่ลืม ผศ.นพ.ภรัณยู จูละยานนท์ เปิดมุมใหม่ ไม่ขายฝัน เป้าหมายสำคัญคือ ‘คุณภาพชีวิต’&nbsp;&nbsp;Matichon Online",
+      "sources": [
+        {
+          "name": "Matichon Online",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBIekx3TGUxaEN3eVdMYkRPdGJobERmampHMGpRT2NRZ01yV0tQTW1mT3ZIbEc1S3dsMkp0dG8zRERxcUt2U05lNlg2b3JHUE1SaDRudDJxN2pWZmlheFJPOQ?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "b303a5ded5a0",
+      "title": "เปลี่ยนภูเขาหัวโล้นเป็นขุมทรัพย์ ‘ปลุกชีพจรต้นน้ำน่าน’ พลิกฟื้นด้วยพลัง ‘ปลูกป่าเป็นยา’",
+      "published": "2026-11-15T04:01:13+00:00",
+      "summary": "เปลี่ยนภูเขาหัวโล้นเป็นขุมทรัพย์ ‘ปลุกชีพจรต้นน้ำน่าน’ พลิกฟื้นด้วยพลัง ‘ปลูกป่าเป็นยา’&nbsp;&nbsp;เดลินิวส์",
+      "sources": [
+        {
+          "name": "เดลินิวส์",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYLTRtSld0cmxPa2hLYzVSUTRYS292bTNyWlJGTjhaR1hYWGJzem9HR3ZhYXM2Rll3TzdWYTBFRFRIMFRnQnludmNZQ1JXSnpPWlBfRkkwVXc?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "63170f654ade",
+      "title": "สปสช. แจงงบแพทย์แผนไทยปี 69 จ่ายชดเชยหลายรูปแบบ ชี้ยาสมุนไพรเฉลี่ย 0.74 บาท/Point - The Coverage",
+      "published": "2026-11-15T03:27:26+00:00",
+      "summary": "สปสช. แจงงบแพทย์แผนไทยปี 69 จ่ายชดเชยหลายรูปแบบ ชี้ยาสมุนไพรเฉลี่ย 0.74 บาท/Point&nbsp;&nbsp;The Coverage",
+      "sources": [
+        {
+          "name": "The Coverage",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMEFZclRFdjBSamdKcDJ1V3JMMldPUGwxcWRvalUyd1lPTFdhVUlRYzlEMERMb1MtVVRVNEl2QUtwdElLTkNZOVZfRzI5dTQ3Uk16RFdFa01SZ3M?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "f02b2de898ad",
+      "title": "การพัฒนายาเฉพาะทางและการปรับปรุงคุณภาพการบริการเพื่อประชาชน",
+      "published": "2026-11-15T01:14:32+00:00",
+      "summary": "การพัฒนายาเฉพาะทางและการปรับปรุงคุณภาพการบริการเพื่อประชาชน&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVF9PZ3lFME42QnNOSG5IZllGdVhTT1U4azB0d0owS0hlVUNnTVNZTWE0eFl4THVWc1Y4VGhMdnZqdUI1M29kMk5vNDJGcDVIYjM5cHhMd2ZuWlJVa0VBYk5UQzMyNzN1aWNRM2tMbXoxeW9hT2I4V1Q4OGJzam9iYUhZbGk2cFN1VUlaZVczOFA?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "be1cfa0abcf8",
+      "title": "สุรินทร์คุมเข้ม! ผู้ป่วยจิตเวชกลับไปเสพยา เร่งทีมสหวิชาชีพลงพื้นที่ติดตาม หวั่นก่อเหตุร้าย",
+      "published": "2026-11-14T13:51:20+00:00",
+      "summary": "สุรินทร์คุมเข้ม! ผู้ป่วยจิตเวชกลับไปเสพยา เร่งทีมสหวิชาชีพลงพื้นที่ติดตาม หวั่นก่อเหตุร้าย&nbsp;&nbsp;www.topnews.co.th",
+      "sources": [
+        {
+          "name": "www.topnews.co.th",
+          "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA4WUxJNEJTYzlNTFRyUXlsT1BuOHp0WlBFWHdxc01KYjNJV2RzWE5pY3ZxYUtabGl1SmZvUHRpYW9pY3lrVTdJMjJ1NVlaaU0?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "55abee54cbfc",
+      "title": "บริษัท Anthropic ใช้ AI Claude ในการวิจัยยาต้านมะเร็ง: ผลการทดลองในสัตว์ทดลองและการคาดการณ์ในระยะ 10 ปี",
+      "published": "2026-11-14T10:34:04+00:00",
+      "summary": "บริษัท Anthropic ใช้ AI Claude ในการวิจัยยาต้านมะเร็ง: ผลการทดลองในสัตว์ทดลองและการคาดการณ์ในระยะ 10 ปี&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2xhYlVWdHRtNHI5UHNQSnNla3VTQmFxOXF3TDh6VzdSVTJDdHhwLS14RGJ4ZEJKbmZJTmJJamJDamF0V2MyLS1fY1BQb1p0ZGhHLU83enY3YXdJaFNMOHRXbDlKa1FnZWVXaHNwZmgxS3J2MERLZHNTekxPTFNrVDVKeGxKSXF4YnQ1bGZONEhDZTQ5NzBIZnBVVENUb3hTM2ZmM2J3ZzdUZEVrYk0yUU9ld3dyTTE4Z05xdEJ3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "มะเร็ง",
+          "related_drugs": [
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone",
+              "url": "/drugs/ceftriaxone/"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "Phenytoin",
+              "url": "/drugs/phenytoin/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "enalapril",
+              "name": "Enalapril",
+              "url": "/drugs/enalapril/"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "Diltiazem",
+              "url": "/drugs/diltiazem/"
+            },
+            {
+              "slug": "captopril",
+              "name": "Captopril",
+              "url": "/drugs/captopril/"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole",
+              "url": "/drugs/fluconazole/"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion",
+              "url": "/drugs/bupropion/"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone",
+              "url": "/drugs/spironolactone/"
+            },
+            {
+              "slug": "gabapentin",
+              "name": "Gabapentin",
+              "url": "/drugs/gabapentin/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "verapamil",
+              "name": "Verapamil",
+              "url": "/drugs/verapamil/"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen",
+              "url": "/drugs/baclofen/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin",
+              "url": "/drugs/clarithromycin/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "Carbamazepine",
+              "url": "/drugs/carbamazepine/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel",
+              "url": "/drugs/praziquantel/"
+            },
+            {
+              "slug": "nifedipine",
+              "name": "Nifedipine",
+              "url": "/drugs/nifedipine/"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic acid",
+              "url": "/drugs/valproic-acid/"
+            },
+            {
+              "slug": "efavirenz",
+              "name": "Efavirenz",
+              "url": "/drugs/efavirenz/"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin",
+              "url": "/drugs/vancomycin/"
+            },
+            {
+              "slug": "erythropoietin",
+              "name": "Erythropoietin",
+              "url": "/drugs/erythropoietin/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "furosemide",
+              "name": "Furosemide",
+              "url": "/drugs/furosemide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "50c7f73e7896",
+      "title": "หมอเจษฎา ยกงานวิจัยล่าสุด โรคซึมเศร้าดีขึ้นแล้ว ทำไมหมอยังไม่ให้หยุดยา?",
+      "published": "2026-11-14T10:08:47+00:00",
+      "summary": "หมอเจษฎา ยกงานวิจัยล่าสุด โรคซึมเศร้าดีขึ้นแล้ว ทำไมหมอยังไม่ให้หยุดยา?&nbsp;&nbsp;แนวหน้า",
+      "sources": [
+        {
+          "name": "แนวหน้า",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9oMVNQRE5pSko3Yi0zSDBIbTFFZEhGQnNLRm1kOFR0Wk1JZWs4WUJUMFIyVUpFSm1HTm9DOFFDTURodnlLQkRJdk1vUFBGV205UTdOaUxzdw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "503c8ce0f122",
+      "title": "ชาวบ้านผู้ด้อยโอกาสเกือบ 250 คนในตำบลลอกถวนได้รับบริการตรวจสุขภาพและยาฟรี",
+      "published": "2026-11-14T09:59:34+00:00",
+      "summary": "ชาวบ้านผู้ด้อยโอกาสเกือบ 250 คนในตำบลลอกถวนได้รับบริการตรวจสุขภาพและยาฟรี&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSFBkUkVKTmFHNUlTQV8zd05rYkNjQmptV1Viejg2TnNuajcwNG13YmdCR1V5REJaNnkzVWZuS1dXYlhjclV3aXFTMm5TOW9pY3d0N1lMbG9wVThKOWJHaWVYMlVSUWVvR2NkbFQwZHBDTGtvUk5HSTlrUXFYaVBnbHJid0l2WnR0dm15Mm1UMjRVUkpuVTcwUnMyY0tSZ29SQmJzUVdranN5OFp0elVWLWJn?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ef3c241150dd",
+      "title": "MEDEZE เร่งปั้น New S-Curve จ่อยื่นขึ้นทะเบียนยาสเต็มเซลล์ Q3/70 ทุ่มลงทุนเพิ่มกำลังผลิต 2.4 ล้านล้านเซลล์ - LINE TODAY",
+      "published": "2026-11-14T07:57:44+00:00",
+      "summary": "MEDEZE เร่งปั้น New S-Curve จ่อยื่นขึ้นทะเบียนยาสเต็มเซลล์ Q3/70 ทุ่มลงทุนเพิ่มกำลังผลิต 2.4 ล้านล้านเซลล์&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAwbDRBVWhPUmo0TzB3ZGhhTWh5UkFxSDlkS2JvcmxISUVmdmNTQ2pFNmh5cmlxc2xWbGM5UXhhWDFrUzVTbGRNdzE0TWxuMm5pNWlUekJR?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "91c21c5ac0f9",
+      "title": "BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ - Head Topics",
+      "published": "2026-11-13T11:19:56+00:00",
+      "summary": "BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ&nbsp;&nbsp;Head Topics",
+      "sources": [
+        {
+          "name": "Head Topics",
+          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5"
+        },
+        {
+          "name": "thestandard.co",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "มะเร็ง",
+          "related_drugs": [
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone",
+              "url": "/drugs/ceftriaxone/"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "Phenytoin",
+              "url": "/drugs/phenytoin/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "enalapril",
+              "name": "Enalapril",
+              "url": "/drugs/enalapril/"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "Diltiazem",
+              "url": "/drugs/diltiazem/"
+            },
+            {
+              "slug": "captopril",
+              "name": "Captopril",
+              "url": "/drugs/captopril/"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole",
+              "url": "/drugs/fluconazole/"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion",
+              "url": "/drugs/bupropion/"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone",
+              "url": "/drugs/spironolactone/"
+            },
+            {
+              "slug": "gabapentin",
+              "name": "Gabapentin",
+              "url": "/drugs/gabapentin/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "verapamil",
+              "name": "Verapamil",
+              "url": "/drugs/verapamil/"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen",
+              "url": "/drugs/baclofen/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin",
+              "url": "/drugs/clarithromycin/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "Carbamazepine",
+              "url": "/drugs/carbamazepine/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel",
+              "url": "/drugs/praziquantel/"
+            },
+            {
+              "slug": "nifedipine",
+              "name": "Nifedipine",
+              "url": "/drugs/nifedipine/"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic acid",
+              "url": "/drugs/valproic-acid/"
+            },
+            {
+              "slug": "efavirenz",
+              "name": "Efavirenz",
+              "url": "/drugs/efavirenz/"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin",
+              "url": "/drugs/vancomycin/"
+            },
+            {
+              "slug": "erythropoietin",
+              "name": "Erythropoietin",
+              "url": "/drugs/erythropoietin/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "furosemide",
+              "name": "Furosemide",
+              "url": "/drugs/furosemide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2fb42a277834",
+      "title": "UPDATE: BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ BDMS เดินหน้าพัฒนาการแพทย์ขั้นสูง ร่วมมือกับโรงเรียนแพทย์ สยามไบโอไซเอนซ์ และพันธมิตรระดับโลก ผลักดันการผลิตยา CAR-T Cell ในระดับอุตสาหกรร",
+      "published": "2026-11-13T11:23:51+00:00",
+      "summary": "UPDATE: BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ BDMS เดินหน้าพัฒนาการแพทย์ขั้นสูง ร่วมมือกับโรงเรียนแพทย์ สยามไบโอไซเอนซ์ และพันธมิตรระดับโลก ผลักดันการผลิตยา CAR-T Cell ในระดับอุตสาหกรร&nbsp;&nbsp;Facebook",
+      "sources": [
+        {
+          "name": "Facebook",
+          "link": "https://news.google.com/rss/articles/CBMiywVBVV95cUxNNmRaSzhCZDc4M1FzYlF4UWJUdVlrdHliZS1CMzE4MEhDd2tKOFduOTgwWElLZnExQTJ1dDVoYnZuRDRpMDktYkJiWEp4YXhjaUtWazd0RHRmUmtqYi1PTG1mOTVoSzkwTW5faC1NeXV1RDcyS2x2UjlpUDRsX3IwcVg4eDlxMDk2LTlLSDNGVkU0TnpHZHNVUDIxdU52U1hPa0NBSU1KNmlLcVlIZWR6SWxqMjYtRGZMalhBQjEyd2FoU01yTG5VZE0xWTFlV0N2S1piVlRqTmtybk9ROXZSb0FteEdka1A0NG1pdVp5aFlTQl8wMXRUUnZwV056cVRnRU1aTXM5dzRTNEpZTUQ1T3J4aGZYMU0td1JLcU9CRVFUS2RtYXJwQ1RyalNCNU1Zcm55WWowM1k3ekVFUENVblpVb1c4S0d5b0ExNVNKRnRFSDNtVWtobVpvMnVxMGxwdXotT1ViLVZOSmFEdG9vclQ2dEl2bWZpN0R4ei1KV1RyNXZWeFVjUFd0eFVTeEFiN2pOUjVkTUJiVVV0aXZhUDZlTzJSbl9xR0c0TjhvNzRoVjhsMFZFV1JHcHVacjl3dTV6b0FnVE0zZjZhclFoUl9WdDRwcFA4aFR4OXU0MjZsdkZ4M0J1Y0VzeFNuLU1VYjVHVF9acHIwdEtETENJTzlFeF9IdmRHYl9LQWl2azM5Z29XNFhvN3BIbWdDRWVfVjl0NVFZUzNrQUh1RFZ3dngycUp1ekZYTWM1QllGQjJkdkhSbE4wRjRVTXFKSktkSEpYNVUyYXlTS1NYUGtJRFNTaW9ZNlJ4SVp1NE5FRVVFWkoxVXFXR2RmdnNMN3N0b0N0anQxZk1XQXRGNWxkX0JGZl80UVZtT3Z5TmQwTjYwVlFrTE04VjZ3SUtxaWtZMW43cXJzSUlXRFFudUFzZV9mVHdJTVFMWlh3?oc=5"
+        }
+      ],
+      "matched_keywords": [
+        {
+          "type": "indication",
+          "name": "generic_cancer",
+          "keyword": "มะเร็ง",
+          "related_drugs": [
+            {
+              "slug": "ampicillin",
+              "name": "Ampicillin",
+              "url": "/drugs/ampicillin/"
+            },
+            {
+              "slug": "ceftriaxone",
+              "name": "Ceftriaxone",
+              "url": "/drugs/ceftriaxone/"
+            },
+            {
+              "slug": "phenytoin",
+              "name": "Phenytoin",
+              "url": "/drugs/phenytoin/"
+            },
+            {
+              "slug": "lisinopril",
+              "name": "Lisinopril",
+              "url": "/drugs/lisinopril/"
+            },
+            {
+              "slug": "enalapril",
+              "name": "Enalapril",
+              "url": "/drugs/enalapril/"
+            },
+            {
+              "slug": "diltiazem",
+              "name": "Diltiazem",
+              "url": "/drugs/diltiazem/"
+            },
+            {
+              "slug": "captopril",
+              "name": "Captopril",
+              "url": "/drugs/captopril/"
+            },
+            {
+              "slug": "fluconazole",
+              "name": "Fluconazole",
+              "url": "/drugs/fluconazole/"
+            },
+            {
+              "slug": "bupropion",
+              "name": "Bupropion",
+              "url": "/drugs/bupropion/"
+            },
+            {
+              "slug": "spironolactone",
+              "name": "Spironolactone",
+              "url": "/drugs/spironolactone/"
+            },
+            {
+              "slug": "gabapentin",
+              "name": "Gabapentin",
+              "url": "/drugs/gabapentin/"
+            },
+            {
+              "slug": "azithromycin",
+              "name": "Azithromycin",
+              "url": "/drugs/azithromycin/"
+            },
+            {
+              "slug": "colchicine",
+              "name": "Colchicine",
+              "url": "/drugs/colchicine/"
+            },
+            {
+              "slug": "metoprolol",
+              "name": "Metoprolol",
+              "url": "/drugs/metoprolol/"
+            },
+            {
+              "slug": "verapamil",
+              "name": "Verapamil",
+              "url": "/drugs/verapamil/"
+            },
+            {
+              "slug": "baclofen",
+              "name": "Baclofen",
+              "url": "/drugs/baclofen/"
+            },
+            {
+              "slug": "isotretinoin",
+              "name": "Isotretinoin",
+              "url": "/drugs/isotretinoin/"
+            },
+            {
+              "slug": "lorazepam",
+              "name": "Lorazepam",
+              "url": "/drugs/lorazepam/"
+            },
+            {
+              "slug": "calcipotriol",
+              "name": "Calcipotriol",
+              "url": "/drugs/calcipotriol/"
+            },
+            {
+              "slug": "clarithromycin",
+              "name": "Clarithromycin",
+              "url": "/drugs/clarithromycin/"
+            },
+            {
+              "slug": "albendazole",
+              "name": "Albendazole",
+              "url": "/drugs/albendazole/"
+            },
+            {
+              "slug": "carbamazepine",
+              "name": "Carbamazepine",
+              "url": "/drugs/carbamazepine/"
+            },
+            {
+              "slug": "lactulose",
+              "name": "Lactulose",
+              "url": "/drugs/lactulose/"
+            },
+            {
+              "slug": "amoxicillin",
+              "name": "Amoxicillin",
+              "url": "/drugs/amoxicillin/"
+            },
+            {
+              "slug": "praziquantel",
+              "name": "Praziquantel",
+              "url": "/drugs/praziquantel/"
+            },
+            {
+              "slug": "nifedipine",
+              "name": "Nifedipine",
+              "url": "/drugs/nifedipine/"
+            },
+            {
+              "slug": "valproic_acid",
+              "name": "Valproic acid",
+              "url": "/drugs/valproic-acid/"
+            },
+            {
+              "slug": "efavirenz",
+              "name": "Efavirenz",
+              "url": "/drugs/efavirenz/"
+            },
+            {
+              "slug": "losartan",
+              "name": "Losartan",
+              "url": "/drugs/losartan/"
+            },
+            {
+              "slug": "bisoprolol",
+              "name": "Bisoprolol",
+              "url": "/drugs/bisoprolol/"
+            },
+            {
+              "slug": "vancomycin",
+              "name": "Vancomycin",
+              "url": "/drugs/vancomycin/"
+            },
+            {
+              "slug": "erythropoietin",
+              "name": "Erythropoietin",
+              "url": "/drugs/erythropoietin/"
+            },
+            {
+              "slug": "ciprofloxacin",
+              "name": "Ciprofloxacin",
+              "url": "/drugs/ciprofloxacin/"
+            },
+            {
+              "slug": "cabergoline",
+              "name": "Cabergoline",
+              "url": "/drugs/cabergoline/"
+            },
+            {
+              "slug": "atenolol",
+              "name": "Atenolol",
+              "url": "/drugs/atenolol/"
+            },
+            {
+              "slug": "carvedilol",
+              "name": "Carvedilol",
+              "url": "/drugs/carvedilol/"
+            },
+            {
+              "slug": "furosemide",
+              "name": "Furosemide",
+              "url": "/drugs/furosemide/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "7b4bce413a31",
+      "title": "MEDEZE ปักธงยื่นขึ้นทะเบียน “ยาสเต็มเซลล์” Q3/70 รุกแฟรนไชส์ต่างแดน ปั้น New S-Curve | ข่าวหุ้นธุรกิจ - LINE TODAY",
+      "published": "2026-11-13T11:14:25+00:00",
+      "summary": "MEDEZE ปักธงยื่นขึ้นทะเบียน “ยาสเต็มเซลล์” Q3/70 รุกแฟรนไชส์ต่างแดน ปั้น New S-Curve | ข่าวหุ้นธุรกิจ&nbsp;&nbsp;LINE TODAY",
+      "sources": [
+        {
+          "name": "LINE TODAY",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uTWI0QmZNdHpfSHV3YVd4R2o1ZTU3VmtvbFlFNEJZMjJqMUdEYzFkSXJzOGFpcDJRclpQaFhqQ3k3UUh2WmZDWnZlQVc5OVFFajFzUE5n?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "8ffc1fc302dd",
+      "title": "สสจ.ชัยภูมิ ตั้งกรรมสอบรพ. ปมร.ต.อ.ล้มหัวฟาดพื้น ให้ยาพาราก่อนปล่อยกลับบ้าน สุดท้ายเสียชีวิต - Matichon Online",
+      "published": "2026-11-13T08:45:43+00:00",
+      "summary": "สสจ.ชัยภูมิ ตั้งกรรมสอบรพ. ปมร.ต.อ.ล้มหัวฟาดพื้น ให้ยาพาราก่อนปล่อยกลับบ้าน สุดท้ายเสียชีวิต&nbsp;&nbsp;Matichon Online",
+      "sources": [
+        {
+          "name": "Matichon Online",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FTmJxamtTcHdyVDhEckMtMm1SRkVNa3hYRmZwTFgtRVJ6WXZqSDBqZmRyS1dlemxGbEJpT1FtbmN6SFVGSlNkeFZxd01uLVBBVEhLNkF4U1k5Zw?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "ca734bb39e68",
+      "title": "ให้การสนับสนุนผู้ติดยาเสพติดให้สามารถเอาชนะการเสพติดได้สำเร็จ",
+      "published": "2026-11-13T03:10:16+00:00",
+      "summary": "ให้การสนับสนุนผู้ติดยาเสพติดให้สามารถเอาชนะการเสพติดได้สำเร็จ&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE94UHo2UklNV1ZTOVYwczYzbHRiQ3poRU1RX0w1WlJ6UlRFLWtJSGFyMGMwMS12dXdLd0ZEZlFhM0QyWk0wbFY5RE56U0I0c1JMS0x1S0Q5UFF5RGcyQWNIeUJYMWstaEhKZE5PTVFXY1VlQnlEa2c?oc=5"
+        }
+      ],
+      "matched_keywords": []
+    },
+    {
+      "id": "195ea88fea3e",
+      "title": "ยาใหม่ราคาสูง: ความท้าทายสำหรับผู้ป่วยและกองทุนประกันสุขภาพ",
+      "published": "2026-11-13T00:47:57+00:00",
+      "summary": "ยาใหม่ราคาสูง: ความท้าทายสำหรับผู้ป่วยและกองทุนประกันสุขภาพ&nbsp;&nbsp;Vietnam.vn",
+      "sources": [
+        {
+          "name": "Vietnam.vn",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOb1VJYmlGWXFSQnVmU1FNVG9JamNDei1DUlM4VFpTQ2VmanFyc0tEZmtwOXhsZnEtNmhWTTA1ZlhVSHkzY2xBVGpNcDRQZzJ3M3dQLXU4OE1iNl9ZTEt4ZC1Zd2ZwdDZ4WUZhaFIxR0FreHo4NkZqU3RQV3dtYlhLNlE4amtNS0hMTWEzdTRXN0dpSDA?oc=5"
         }
       ],
       "matched_keywords": []
@@ -30,45 +1001,6 @@
       "matched_keywords": []
     },
     {
-      "id": "eb6b22c8f768",
-      "title": "Eli Lilly ผงาดบริษัทยาแรก คว้าไฟเขียวขายยาลดน้ำหนักชนิดเม็ดในจีน : อินโฟเควสท์",
-      "published": "2026-11-12T10:01:00+00:00",
-      "summary": "Eli Lilly ผงาดบริษัทยาแรก คว้าไฟเขียวขายยาลดน้ำหนักชนิดเม็ดในจีน : อินโฟเควสท์&nbsp;&nbsp;สำนักข่าวอินโฟเควสท์",
-      "sources": [
-        {
-          "name": "สำนักข่าวอินโฟเควสท์",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xcnhVcVJsOHpqVWJ2djUxZkJCcTJUc1c0ckloTFJlOC1iSXhWa3dVc0xncFZtejdud3B1cWl5SjY2dVlrWVI3UVBQSk1iM3Z6?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "b1d0290a495a",
-      "title": "ลำดง: ยาที่ผลิตในประเทศคิดเป็นเกือบ 64% ของต้นทุนการจัดซื้อในสถานพยาบาล",
-      "published": "2026-11-12T09:46:32+00:00",
-      "summary": "ลำดง: ยาที่ผลิตในประเทศคิดเป็นเกือบ 64% ของต้นทุนการจัดซื้อในสถานพยาบาล&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUzNBaEZPTVBfbmp5X3BCUW1Ec0xGSEw0LTVQNzQxT1ZNaVowaURQOWQzNjBScVFEZnRVNFQ0SjhWMkN5UWptdU5JWEFuUTRENWlsS193OVF0Y21nQmJBRWQwOWpzM0FNVkNKVF9UODFnMlk5aVd1Q1JzSlI0YTR4bEJ5eGJkdERRWmwzS2R5OHZlZkdJVm0xQw?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6df789b3fe0d",
-      "title": "Pfizer รับเงินหนุนสูงสุด 1.5 พันล้านดอลล์จาก Blackstone รุกพัฒนายาลดน้ำหนัก : อินโฟเควสท์",
-      "published": "2026-11-12T09:26:57+00:00",
-      "summary": "Pfizer รับเงินหนุนสูงสุด 1.5 พันล้านดอลล์จาก Blackstone รุกพัฒนายาลดน้ำหนัก : อินโฟเควสท์&nbsp;&nbsp;สำนักข่าวอินโฟเควสท์",
-      "sources": [
-        {
-          "name": "สำนักข่าวอินโฟเควสท์",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rc3F0VURaR2VlOUsxMzhoVE42VTAtOG90bHdhOTRRMXBOQlczUktMVXJZWG5QY1QwaERMSjhtdGFkMkV6NDNxM3hKa2o0MDBv?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "e94c0c06d64f",
       "title": "ยาลดความอ้วนใหม่ ลดน้ำหนักได้ 25% พร้อมลดอาการเข่าเสื่อม - TNN Thailand",
       "published": "2026-11-12T09:14:36+00:00",
@@ -82,40 +1014,14 @@
       "matched_keywords": []
     },
     {
-      "id": "75cfd926b300",
-      "title": "Lollylab อมยิ้มตรวจน้ำลาย ตรวจระดับยาพาราฯ ไม่ต้องเจาะเลือด",
-      "published": "2026-11-12T08:50:35+00:00",
-      "summary": "Lollylab อมยิ้มตรวจน้ำลาย ตรวจระดับยาพาราฯ ไม่ต้องเจาะเลือด&nbsp;&nbsp;Techhub",
-      "sources": [
-        {
-          "name": "Techhub",
-          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOSzNYMUQ3SUp3OFZkMTZRVjNad2NUS0psX2xfaFhjUDEwUUpGZjAtLVZIYzBtdEE2clItSk5SUnRJM3gyMGhpeXA2YTZFUnJxZTh0bmxHeHJQRE8wdFZ6ZEV3X2wzcmJDVEVPSFI1RDBualFwUk9Hc1NBY29JX2JqX3NpaFNOSWVQVW5EMTNxOS1hOG1yaGZkbzZ1NGJNRHVjcExrRm9sMzZuZ2tON2ZDUVpFby0tTkhuTXdfQg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
       "id": "22456ddca354",
       "title": "แพทยสภาเผยงานวิจัยชี้ยาป้องกันไข้เลือดออก Mosnodenvir กินสัปดาห์ละครั้งได้ผลดีในคน - TNN Thailand",
-      "published": "2026-11-12T08:15:53+00:00",
+      "published": "2026-11-12T08:15:54+00:00",
       "summary": "แพทยสภาเผยงานวิจัยชี้ยาป้องกันไข้เลือดออก Mosnodenvir กินสัปดาห์ละครั้งได้ผลดีในคน&nbsp;&nbsp;TNN Thailand",
       "sources": [
         {
           "name": "TNN Thailand",
           "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBLN19DNW4tT0hDZV8tS0tZX2RFN05zcmY0YzNNUHp5Nk5BWXRLVk54dmxjNGJqUFFwYnFXajduazQ3Qk9raXBjS3R6OU9saUFTMC1zbA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e3357b742d3a",
-      "title": "“บางกอก ดรัก” ผนึก Media Addict และ รพ.เกษมราษฎร์ อินเตอร์ฯ รัตนาธิเบศร์ จัด Good Health Great Heart ดึง “อ้อม พิยดา” ร่วมถ่ายทอดมุมมองสุขภาพ พร้อมชูบทบาทเครือข่ายร้านยาในการส่งเสริมการซักประวัติคัดกรองเบาหวาน",
-      "published": "2026-11-12T06:14:06+00:00",
-      "summary": "“บางกอก ดรัก” ผนึก Media Addict และ รพ.เกษมราษฎร์ อินเตอร์ฯ รัตนาธิเบศร์ จัด Good Health Great Heart ดึง “อ้อม พิยดา” ร่วมถ่ายทอดมุมมองสุขภาพ พร้อมชูบทบาทเครือข่ายร้านยาในการส่งเสริมการซักประวัติคัดกรองเบาหวาน&nbsp;&nbsp;แนวหน้า",
-      "sources": [
-        {
-          "name": "แนวหน้า",
-          "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZUHFvOURRVzFDcVJUNjUwU0ZoVlYzdUc0RHFDNXlFWFpEaHhiSHlDVTcyM2lJY1kzckQ0SEFQbExGSE5IbUowTFhFblFhdXdQR3h2VV9CZmc1ZWJiS2VkVVZUbDhnR0FjVExUX2Z3?oc=5"
         }
       ],
       "matched_keywords": []
@@ -195,53 +1101,14 @@
       "matched_keywords": []
     },
     {
-      "id": "f29f01932410",
-      "title": "ประกาศรายชื่อ 10 บริษัทชั้นนำที่สร้างมูลค่าสูงสุดในอุตสาหกรรมยาและอุปกรณ์การแพทย์ของเวียดนามประจำปี 2026",
-      "published": "2026-11-11T11:06:14+00:00",
-      "summary": "ประกาศรายชื่อ 10 บริษัทชั้นนำที่สร้างมูลค่าสูงสุดในอุตสาหกรรมยาและอุปกรณ์การแพทย์ของเวียดนามประจำปี 2026&nbsp;&nbsp;Vietnam.vn",
+      "id": "4239742e27a5",
+      "title": "อนาคต'โรคซึมเศร้า'อาจไม่ต้องพึ่งยา? หมอเจษฎา ยกงานวิจัยใหม่ ค้นพบนวัตกรรม คลื่นเสียงปรับสมองส่วนลึก",
+      "published": "2026-11-10T14:15:47+00:00",
+      "summary": "อนาคต'โรคซึมเศร้า'อาจไม่ต้องพึ่งยา? หมอเจษฎา ยกงานวิจัยใหม่ ค้นพบนวัตกรรม คลื่นเสียงปรับสมองส่วนลึก&nbsp;&nbsp;แนวหน้า",
       "sources": [
         {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcnZYZHF3ZUxqcjhDR1BXNGpqT2lGTURySnh0YzVPRjNKcF80UGEwSGg4TEItRXQ2YWo1cXdxTHl2N3lvdUNqOWFlMHllMHJPSEFGVDNET190cnVrbEZNMHZGX3IwQlROZ2pGM0RiQW16elhzSHRFcVRQUkRVUnkycHpzTkp2b01CcndSZk1MZ0FHMzFEUmQ2bEZwRVFzeS1OUFNxVURXXzJQdnBMb2o4V0hqNA?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "e2c89c39bbd0",
-      "title": "ปากกาลดน้ำหนักอาจทำให้ตาบอด อย.สหรัฐฯสั่งเพิ่มคำเตือนในฉลาก - TNN Thailand",
-      "published": "2026-11-11T05:59:11+00:00",
-      "summary": "ปากกาลดน้ำหนักอาจทำให้ตาบอด อย.สหรัฐฯสั่งเพิ่มคำเตือนในฉลาก&nbsp;&nbsp;TNN Thailand",
-      "sources": [
-        {
-          "name": "TNN Thailand",
-          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ta2pJNkkzZF9nU1pIV1NTM3cxd3JjN0RQX29MeXE4Z3ZuWEtrU2ZuSDlaMXEwNlRiTzBfVVZyQlJ1OVdqem00aU5HellWQkpHRXpxMg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "96e138a6c7fe",
-      "title": "“ศศิกานต์” ห่วงสงครามราคาแพลตฟอร์มออนไลน์ ทำร้านยาชุมชนวิกฤต แนะรัฐยกระดับร้านยาสู่หน่วยบริการสุขภาพปฐมภูมิ",
-      "published": "2026-11-11T05:10:54+00:00",
-      "summary": "“ศศิกานต์” ห่วงสงครามราคาแพลตฟอร์มออนไลน์ ทำร้านยาชุมชนวิกฤต แนะรัฐยกระดับร้านยาสู่หน่วยบริการสุขภาพปฐมภูมิ&nbsp;&nbsp;ไทยแทบลอยด์",
-      "sources": [
-        {
-          "name": "ไทยแทบลอยด์",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBtRmtuU3c1SDlFNHVRQUFMOTRCRXRiNl9MSkE1OEE4SWFPSllFX2tHM0pnM0pYRmZSdUlvVXBfNEFDMjYtbVotbVkwa1lJOHg5?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d896b71c7fcd",
-      "title": "ก้าวต่อไป Medical Investment Hub “พัฒนา” เปิดแผนดึง GE–Siemens เติมฐานผลิตเครื่องมือแพทย์ไทย",
-      "published": "2026-11-10T08:10:00+00:00",
-      "summary": "ก้าวต่อไป Medical Investment Hub “พัฒนา” เปิดแผนดึง GE–Siemens เติมฐานผลิตเครื่องมือแพทย์ไทย&nbsp;&nbsp;posttoday",
-      "sources": [
-        {
-          "name": "posttoday",
-          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Cd0FJZGEyOE0zRnZQd05Kb1RTSTY5cmg1MGFjLUtMYzJFbktXemdqb1BRNERWRzdDMVhlTGJwUE9zUl9VejQxM1M0U1dsQ1VCYUYzSDhB?oc=5"
+          "name": "แนวหน้า",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE90NUVUcW5xRmEza1Z1WW50MW9UcWpKeDhOX0dkMVB0NS1iYnhBLXEzU3FrMFdMMnFTS2Y0X3UtbkJDNTZpMVpqRVVWaWpHazIxdnFGaEx0UQ?oc=5"
         }
       ],
       "matched_keywords": []
@@ -255,123 +1122,6 @@
         {
           "name": "Thai PBS",
           "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYdjJtS3NyZG5jSlFQWWVYcmFSOWFRMUVWN2NKYmNNa0NRellsUk9RdGluUEtEWXZMRUJOY2JwU0hTVGZsQW1tUlJIN1NoenB6dnJWX3duSmJrRUgyeFRFaTM4WHVwb1duc2I4?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "5a570549b65e",
-      "title": "อย. สหรัฐฯ สั่งเพิ่มคำเตือนผลข้างเคียงพบได้ยาก ยาลดน้ำหนักกลุ่ม GLP-1 เสี่ยงทำสูญเสียการมองเห็น",
-      "published": "2026-11-10T05:15:09+00:00",
-      "summary": "อย. สหรัฐฯ สั่งเพิ่มคำเตือนผลข้างเคียงพบได้ยาก ยาลดน้ำหนักกลุ่ม GLP-1 เสี่ยงทำสูญเสียการมองเห็น&nbsp;&nbsp;www.thairath.co.th",
-      "sources": [
-        {
-          "name": "www.thairath.co.th",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsemJTbkE0TG8yZjh6cEc5aEExLVg4dW1yRnY2dDYybXkxNlllSXJBMnZkQXpqM1MzMGk1OW9YOEFyLXpNNEktMTFxOGg1QTlybVFKellNVHBWT1E?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "6c6b3474a070",
-      "title": "เตือน 'ปากกาลดความอ้วน' เสี่ยงตาบอด สหรัฐสั่ง Ozempic-Zepbound เพิ่มคำเตือน",
-      "published": "2026-11-10T04:00:00+00:00",
-      "summary": "เตือน 'ปากกาลดความอ้วน' เสี่ยงตาบอด สหรัฐสั่ง Ozempic-Zepbound เพิ่มคำเตือน&nbsp;&nbsp;bangkokbiznews",
-      "sources": [
-        {
-          "name": "bangkokbiznews",
-          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42RVhfRDZ6clUtakdNWl81YThKTm9YSEVxU051UHpmcm9IZ3RxTWprTmJNbmM0dllxeFNPUnpsV1lfUng3azAtRDNTNUtscVB3NmJ1em5STnh3dVJ0U1dBZml0MWk?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f1645451b072",
-      "title": "วัย 66 ยังอยากฟิต! พึ่งยาเฉพาะกิจนาน 2 ปี เจอค่าตับพุ่ง ผวาหวั่นชีวิตพัง",
-      "published": "2026-11-09T17:15:00+00:00",
-      "summary": "วัย 66 ยังอยากฟิต! พึ่งยาเฉพาะกิจนาน 2 ปี เจอค่าตับพุ่ง ผวาหวั่นชีวิตพัง&nbsp;&nbsp;เดลินิวส์",
-      "sources": [
-        {
-          "name": "เดลินิวส์",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBkR1o1UVYzU1F1aDN4VGM4N1l1akh4MEZFYmtMZUxYM3hXOE5TN3pkR05WWGx2b3M3WTJCeVpkbkJZajlqQmtOTmU1WnpzWXZHNmI2WlVCTkg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d88ec7f5e138",
-      "title": "การเปิดเผยค่าใช้จ่ายที่ผู้ป่วยต้องจ่ายเองอย่างโปร่งใส และป้องกันการคิดค่าบริการเกินจริง",
-      "published": "2026-11-09T15:03:27+00:00",
-      "summary": "การเปิดเผยค่าใช้จ่ายที่ผู้ป่วยต้องจ่ายเองอย่างโปร่งใส และป้องกันการคิดค่าบริการเกินจริง&nbsp;&nbsp;Vietnam.vn",
-      "sources": [
-        {
-          "name": "Vietnam.vn",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSWVRYnlPdTBqeGV6dDhGN1pablFCTnFnNDh4a0dndzJ3VDBnOXg3enNzVWlZWmg1LTBrVk5xc1JmNTBZZTRXR2trNVpXelo3Q0F2WEFxMjBKaXh3bTB3d2hTdFd6MW5UcGJJbkpuWVhZVWVweEtSa25COGtUSWdfS2lnNGZqeXV3b1p0OVkzYzRUUQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9646f47213b6",
-      "title": "จับเครือข่ายยาเสพติด ส่งยายัดไส้ขนมปัง - ช่อง 7",
-      "published": "2026-11-09T10:14:37+00:00",
-      "summary": "จับเครือข่ายยาเสพติด ส่งยายัดไส้ขนมปัง&nbsp;&nbsp;ช่อง 7",
-      "sources": [
-        {
-          "name": "ช่อง 7",
-          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9pV1JXaGZZVkZCSEhpcl9UOW9MZE5IWENoNzVGOTZCQUlEd1JxeFBpbHFfei1JdEJ5Wl9XOFVVaE1fYjF4eGd3VkhtVQ?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "f16a9e13513a",
-      "title": "‘อรินแคร์’ ขานรับ สธ. ดึงลงทุน 5.6 พันล้าน ชู ‘ร้านยาชุมชน’ เป็นโครงสร้างพื้นฐานยกระดับ Medical Hub ไทย",
-      "published": "2026-11-09T01:52:00+00:00",
-      "summary": "‘อรินแคร์’ ขานรับ สธ. ดึงลงทุน 5.6 พันล้าน ชู ‘ร้านยาชุมชน’ เป็นโครงสร้างพื้นฐานยกระดับ Medical Hub ไทย&nbsp;&nbsp;ผู้จัดการออนไลน์",
-      "sources": [
-        {
-          "name": "ผู้จัดการออนไลน์",
-          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tdng0MDlDSjM2aGxtWUh2QjQ1d2Q5MmJVNzF2UElPU1VGMVc0MWpqeTRZVk9xVUdRTDNHaWpfdkRic3JrVDVZVDdPUjlJRW9Fci1hNVJaZTdVVm5vakRoeg?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "53bd7bc0a64a",
-      "title": "สธ.จีบ '2 บิ๊กเครื่องมือแพทย์'ระดับโลก ตั้งฐานผลิตในไทย",
-      "published": "2026-11-07T04:16:38+00:00",
-      "summary": "สธ.จีบ '2 บิ๊กเครื่องมือแพทย์'ระดับโลก ตั้งฐานผลิตในไทย&nbsp;&nbsp;bangkokbiznews",
-      "sources": [
-        {
-          "name": "bangkokbiznews",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBfZ3VRal9WYjVZRkh3SnNwZnROQW1KLTRiUzlfM2I1YjBkZ2ZKU1Fzam9acVVDNFZnanRoNjlYUklkTmRJNjJ1MHRXMXF1MU5sb3dlRl94bF9wX3ZxemxoTkt5UlBGWmljTXVr?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "d213499040e5",
-      "title": "สธ. จับมือ 3 บริษัทชั้นนำ ยกระดับวิจัยคลินิก-พัฒนายาใหม่ สร้าง ศก.-ช่วยบัตรทองเข้าถึงยาเร็วขึ้น - The Coverage",
-      "published": "2026-11-06T11:15:23+00:00",
-      "summary": "สธ. จับมือ 3 บริษัทชั้นนำ ยกระดับวิจัยคลินิก-พัฒนายาใหม่ สร้าง ศก.-ช่วยบัตรทองเข้าถึงยาเร็วขึ้น&nbsp;&nbsp;The Coverage",
-      "sources": [
-        {
-          "name": "The Coverage",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1eWFsYkFHaGdYT3ZuWXR0VnU5X2pPeVZBV0drYTcwcm1wazhkMUJPOFlYU3ZTcFJsYXJlVk9qVVFSS3AzcWhYNEFDbEhGUnVBQVlTbHRtX1EzeVE?oc=5"
-        }
-      ],
-      "matched_keywords": []
-    },
-    {
-      "id": "9f09d1621cb3",
-      "title": "สธ. ร่วมมือ 3 บริษัท ยกระดับวิจัยคลินิก-อุตสาหกรรมยาไทย ตั้งเป้าดึงดูดเงินลงทุน 68,000 ล้าน",
-      "published": "2026-11-06T07:02:57+00:00",
-      "summary": "สธ. ร่วมมือ 3 บริษัท ยกระดับวิจัยคลินิก-อุตสาหกรรมยาไทย ตั้งเป้าดึงดูดเงินลงทุน 68,000 ล้าน&nbsp;&nbsp;Hfocus.org",
-      "sources": [
-        {
-          "name": "Hfocus.org",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1UcVctRGdkT0xocy1lZEdHaWJJLTRMVWhQN005STZwTVFwVzB6TkVacm8zSTEwcVlOUUVrWjNmUFlUZTBYTEhpR041cklDMmNhR2h1ckg5NA?oc=5"
         }
       ],
       "matched_keywords": []

@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Calcium carbonate ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/calcium_carbonate/
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-14
 ---
 
 # ข่าวเกี่ยวกับ Calcium carbonate
