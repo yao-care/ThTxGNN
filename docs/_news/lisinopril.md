@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Lisinopril ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
 permalink: /news/lisinopril/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # ข่าวเกี่ยวกับ Lisinopril
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Lisinopril บ้าง">
-ขณะนี้ <strong>Lisinopril</strong> มีข่าวที่เกี่ยวข้อง <strong>4 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
+ขณะนี้ <strong>Lisinopril</strong> มีข่าวที่เกี่ยวข้อง <strong>5 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/lisinopril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (4 ข่าว)
+## ข่าวที่เกี่ยวข้อง (5 ข่าว)
+
+### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
+
+2026-11-16 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
+
+---
 
 ### [BDMS วางแผนนำร่องรักษามะเร็งด้วย CAR-T Cell ใน 3 โรงพยาบาลปีหน้า! คาดค่ายา 3.5 ล้านบาท](https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZ2RNSFVHQWU1ZWExYTU3enpETlhWZDVpRllUSG5nRFNGcjlfWHNUSFJVdWFlMHVjbDgxUFNNbXRleVZyX0JiMDJVR3lpZk0wQTlkZHRR?oc=5)
 
@@ -56,19 +64,19 @@ last_modified_at: 2026-11-15
 
 ---
 
+### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ - Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5)
+
+2026-11-13 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5)
+
+---
+
 ### [UPDATE: BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ BDMS เดินหน้าพัฒนาการแพทย์ขั้นสูง ร่วมมือกับโรงเรียนแพทย์ สยามไบโอไซเอนซ์ และพันธมิตรระดับโลก ผลักดันการผลิตยา CAR-T Cell ในระดับอุตสาหกรร](https://news.google.com/rss/articles/CBMiywVBVV95cUxNNmRaSzhCZDc4M1FzYlF4UWJUdVlrdHliZS1CMzE4MEhDd2tKOFduOTgwWElLZnExQTJ1dDVoYnZuRDRpMDktYkJiWEp4YXhjaUtWazd0RHRmUmtqYi1PTG1mOTVoSzkwTW5faC1NeXV1RDcyS2x2UjlpUDRsX3IwcVg4eDlxMDk2LTlLSDNGVkU0TnpHZHNVUDIxdU52U1hPa0NBSU1KNmlLcVlIZWR6SWxqMjYtRGZMalhBQjEyd2FoU01yTG5VZE0xWTFlV0N2S1piVlRqTmtybk9ROXZSb0FteEdka1A0NG1pdVp5aFlTQl8wMXRUUnZwV056cVRnRU1aTXM5dzRTNEpZTUQ1T3J4aGZYMU0td1JLcU9CRVFUS2RtYXJwQ1RyalNCNU1Zcm55WWowM1k3ekVFUENVblpVb1c4S0d5b0ExNVNKRnRFSDNtVWtobVpvMnVxMGxwdXotT1ViLVZOSmFEdG9vclQ2dEl2bWZpN0R4ei1KV1RyNXZWeFVjUFd0eFVTeEFiN2pOUjVkTUJiVVV0aXZhUDZlTzJSbl9xR0c0TjhvNzRoVjhsMFZFV1JHcHVacjl3dTV6b0FnVE0zZjZhclFoUl9WdDRwcFA4aFR4OXU0MjZsdkZ4M0J1Y0VzeFNuLU1VYjVHVF9acHIwdEtETENJTzlFeF9IdmRHYl9LQWl2azM5Z29XNFhvN3BIbWdDRWVfVjl0NVFZUzNrQUh1RFZ3dngycUp1ekZYTWM1QllGQjJkdkhSbE4wRjRVTXFKSktkSEpYNVUyYXlTS1NYUGtJRFNTaW9ZNlJ4SVp1NE5FRVVFWkoxVXFXR2RmdnNMN3N0b0N0anQxZk1XQXRGNWxkX0JGZl80UVZtT3Z5TmQwTjYwVlFrTE04VjZ3SUtxaWtZMW43cXJzSUlXRFFudUFzZV9mVHdJTVFMWlh3?oc=5)
 
 2026-11-13 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Facebook](https://news.google.com/rss/articles/CBMiywVBVV95cUxNNmRaSzhCZDc4M1FzYlF4UWJUdVlrdHliZS1CMzE4MEhDd2tKOFduOTgwWElLZnExQTJ1dDVoYnZuRDRpMDktYkJiWEp4YXhjaUtWazd0RHRmUmtqYi1PTG1mOTVoSzkwTW5faC1NeXV1RDcyS2x2UjlpUDRsX3IwcVg4eDlxMDk2LTlLSDNGVkU0TnpHZHNVUDIxdU52U1hPa0NBSU1KNmlLcVlIZWR6SWxqMjYtRGZMalhBQjEyd2FoU01yTG5VZE0xWTFlV0N2S1piVlRqTmtybk9ROXZSb0FteEdka1A0NG1pdVp5aFlTQl8wMXRUUnZwV056cVRnRU1aTXM5dzRTNEpZTUQ1T3J4aGZYMU0td1JLcU9CRVFUS2RtYXJwQ1RyalNCNU1Zcm55WWowM1k3ekVFUENVblpVb1c4S0d5b0ExNVNKRnRFSDNtVWtobVpvMnVxMGxwdXotT1ViLVZOSmFEdG9vclQ2dEl2bWZpN0R4ei1KV1RyNXZWeFVjUFd0eFVTeEFiN2pOUjVkTUJiVVV0aXZhUDZlTzJSbl9xR0c0TjhvNzRoVjhsMFZFV1JHcHVacjl3dTV6b0FnVE0zZjZhclFoUl9WdDRwcFA4aFR4OXU0MjZsdkZ4M0J1Y0VzeFNuLU1VYjVHVF9acHIwdEtETENJTzlFeF9IdmRHYl9LQWl2azM5Z29XNFhvN3BIbWdDRWVfVjl0NVFZUzNrQUh1RFZ3dngycUp1ekZYTWM1QllGQjJkdkhSbE4wRjRVTXFKSktkSEpYNVUyYXlTS1NYUGtJRFNTaW9ZNlJ4SVp1NE5FRVVFWkoxVXFXR2RmdnNMN3N0b0N0anQxZk1XQXRGNWxkX0JGZl80UVZtT3Z5TmQwTjYwVlFrTE04VjZ3SUtxaWtZMW43cXJzSUlXRFFudUFzZV9mVHdJTVFMWlh3?oc=5)
-
----
-
-### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ - Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5)
-
-2026-11-13 <span class="news-indication-tag">มะเร็ง</span>
-
-แหล่งที่มา: [Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5) · [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
 ---
 
