@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Azithromycin ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/azithromycin/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # ข่าวเกี่ยวกับ Azithromycin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Azithromycin บ้าง">
-ขณะนี้ <strong>Azithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>4 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Azithromycin</strong> มีข่าวที่เกี่ยวข้อง <strong>5 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -42,11 +42,11 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/azithromycin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (4 ข่าว)
+## ข่าวที่เกี่ยวข้อง (5 ข่าว)
 
 ### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
-2026-11-15 <span class="news-indication-tag">มะเร็ง</span>
+2026-11-16 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
@@ -65,6 +65,14 @@ last_modified_at: 2026-11-15
 2026-11-14 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2xhYlVWdHRtNHI5UHNQSnNla3VTQmFxOXF3TDh6VzdSVTJDdHhwLS14RGJ4ZEJKbmZJTmJJamJDamF0V2MyLS1fY1BQb1p0ZGhHLU83enY3YXdJaFNMOHRXbDlKa1FnZWVXaHNwZmgxS3J2MERLZHNTekxPTFNrVDVKeGxKSXF4YnQ1bGZONEhDZTQ5NzBIZnBVVENUb3hTM2ZmM2J3ZzdUZEVrYk0yUU9ld3dyTTE4Z05xdEJ3?oc=5)
+
+---
+
+### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ - Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5)
+
+2026-11-13 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5)
 
 ---
 

@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Enalapril ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/enalapril/
-last_modified_at: 2026-11-15
+last_modified_at: 2026-11-16
 ---
 
 # ข่าวเกี่ยวกับ Enalapril
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-15
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Enalapril บ้าง">
-ขณะนี้ <strong>Enalapril</strong> มีข่าวที่เกี่ยวข้อง <strong>4 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
+ขณะนี้ <strong>Enalapril</strong> มีข่าวที่เกี่ยวข้อง <strong>6 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -30,11 +30,19 @@ last_modified_at: 2026-11-15
 <p><a href="{{ '/drugs/enalapril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (4 ข่าว)
+## ข่าวที่เกี่ยวข้อง (6 ข่าว)
+
+### [Ch7HD. . 💊กินยาแก้ปวดบ่อย ๆ เสี่ยงไตวายจริงไหมค่ะ ? มาหาคำตอบไปพร้อมกันในคลิปนี้ ? #มาเล่าเดี๋ยวหมอช่วย 👨‍⚕️ โดย ผศ.(พิเศษ) พญ.สมกัญญา ตั้งสง่า อาจารย์แพทย์ผู้เชี่ยวชาญด้านโรคไต สาขาวิชาอายุรศาสตร์ทั่วไป ภาควิชาอายุรศาสตร์ คณะแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](https://news.google.com/rss/articles/CBMi_AdBVV95cUxOVGJPMDdtWDZxS0hsMjctU1gwaEctUG53T1JUTTlqQ1NJel84WG1OX0FHeXFNQVJPT1B2ZHJhOFFOQ256ZmNFaU9IeVREc1hRWG1DLXRqN0RUM1pKZFhFanRzQTBlNUhINHowc2YxX3ItdWlBY09uVTQxOXE0UTdsMFpLNGV4LUpFOE80UDFtbGx1VVNaeG5qaTdYd0tmckNDdlJMeHI4QzFIb2ZvM1FZX1dfaUNoZUYyZHNQeWNfYnJqZGwxVk0yVGYtZE9sNndOeGViLUVPaWdYUEl5clprZWNJczcwMk5veFVyUGRDUEFoX2dRUU9NempXR0NyS0tyVEN2amFfVGdjQ1pOOGJiNVh2RFM5NENjSnlGenYxNHRtWkNndVRGZlhtMUNyZE5XQTBrZm4zZFpnTUtUSUhMcE5vRkJpSUw2MEZXbjVEc1hZQXdPZ1VHRjlzRnE2aWN1cFN6LS1KRGZ1dE1IeEFjdUkwUEtKbUlMWEh2dnQ2b0VOekhhVkN2V0YzS3BUNjNvcGU3bE80T3hvMEtwNkVDQVBWMkR4YnZ2UEM1X2t1VjJTMmlkY2NaMmdDbmxmLUY2aktuYzdaR3RNU2RGRVBuNXQweTJVeWNpNGp3Q1pFRGNBdzhkT0tBMGRDUlY4X0pPd3lxcmVVN0lNdlhUeDZtVEItcXNMM0JldlR6TVEzSXBKRl85cTNJLXFqRE5ia3NYTjFjR05NcmdhVlp4dldaVVMtVVozMEVYWkotMFlSa1JlVGJqYzkyWFVfMUZacGVxeUx0Z2xlTHBINEZzZzRBak5GLUp5dzduS1JKcFIyc0lUQVgtZ1l3Z2luNVRMNEdqVk9qTk5OUVk4VGdlcUp1bHRMc0xwdklUSTl0T0drckd6cG11RHVlcHV0anZCd205MTBva3VIekRqYUN0WFdXQzNweDAxUUFjeEpOYmpPeTlBNjJlNnRtc1FiX2JqVXloRFVQb3pNSlhkMjRjakxqRkkwcXh4bUhhVjVYR09BcGJFVnZfVmFQNXBHTHBqRkw3ZWhkdkwydUJWZk4zbkdVMktRajE1YmdhbktwbTVQd1RqMUUwRy1FR1I2VzlaQnY3LVRPSnE2Z3hTdzlxWUUwZjVyZnpEZkxncldYYXIzaWdEbjBWVVJHcWRkWUhfU3NPd2l1ejNqNDNLUHU0SlhzcG5Wd2R4UDVSdWJTdVNPbEVZRUtjU3FkZldiWjd4amdBTXdWNldXNENjTHQ5eWU5a3poNDFhQ2tqUkU4eFc5TnNPMHg4cmtiQ25mWUJGblhCV1dyZHY3NFdaTzdWaktWWTFWdmM1QW45alp3a0l5cjVtWlQyNEgzR2txcnY?oc=5)
+
+2026-11-16 <span class="news-indication-tag">โรคไต</span> <span class="news-indication-tag">ไตวาย</span>
+
+แหล่งที่มา: [Facebook](https://news.google.com/rss/articles/CBMi_AdBVV95cUxOVGJPMDdtWDZxS0hsMjctU1gwaEctUG53T1JUTTlqQ1NJel84WG1OX0FHeXFNQVJPT1B2ZHJhOFFOQ256ZmNFaU9IeVREc1hRWG1DLXRqN0RUM1pKZFhFanRzQTBlNUhINHowc2YxX3ItdWlBY09uVTQxOXE0UTdsMFpLNGV4LUpFOE80UDFtbGx1VVNaeG5qaTdYd0tmckNDdlJMeHI4QzFIb2ZvM1FZX1dfaUNoZUYyZHNQeWNfYnJqZGwxVk0yVGYtZE9sNndOeGViLUVPaWdYUEl5clprZWNJczcwMk5veFVyUGRDUEFoX2dRUU9NempXR0NyS0tyVEN2amFfVGdjQ1pOOGJiNVh2RFM5NENjSnlGenYxNHRtWkNndVRGZlhtMUNyZE5XQTBrZm4zZFpnTUtUSUhMcE5vRkJpSUw2MEZXbjVEc1hZQXdPZ1VHRjlzRnE2aWN1cFN6LS1KRGZ1dE1IeEFjdUkwUEtKbUlMWEh2dnQ2b0VOekhhVkN2V0YzS3BUNjNvcGU3bE80T3hvMEtwNkVDQVBWMkR4YnZ2UEM1X2t1VjJTMmlkY2NaMmdDbmxmLUY2aktuYzdaR3RNU2RGRVBuNXQweTJVeWNpNGp3Q1pFRGNBdzhkT0tBMGRDUlY4X0pPd3lxcmVVN0lNdlhUeDZtVEItcXNMM0JldlR6TVEzSXBKRl85cTNJLXFqRE5ia3NYTjFjR05NcmdhVlp4dldaVVMtVVozMEVYWkotMFlSa1JlVGJqYzkyWFVfMUZacGVxeUx0Z2xlTHBINEZzZzRBak5GLUp5dzduS1JKcFIyc0lUQVgtZ1l3Z2luNVRMNEdqVk9qTk5OUVk4VGdlcUp1bHRMc0xwdklUSTl0T0drckd6cG11RHVlcHV0anZCd205MTBva3VIekRqYUN0WFdXQzNweDAxUUFjeEpOYmpPeTlBNjJlNnRtc1FiX2JqVXloRFVQb3pNSlhkMjRjakxqRkkwcXh4bUhhVjVYR09BcGJFVnZfVmFQNXBHTHBqRkw3ZWhkdkwydUJWZk4zbkdVMktRajE1YmdhbktwbTVQd1RqMUUwRy1FR1I2VzlaQnY3LVRPSnE2Z3hTdzlxWUUwZjVyZnpEZkxncldYYXIzaWdEbjBWVVJHcWRkWUhfU3NPd2l1ejNqNDNLUHU0SlhzcG5Wd2R4UDVSdWJTdVNPbEVZRUtjU3FkZldiWjd4amdBTXdWNldXNENjTHQ5eWU5a3poNDFhQ2tqUkU4eFc5TnNPMHg4cmtiQ25mWUJGblhCV1dyZHY3NFdaTzdWaktWWTFWdmM1QW45alp3a0l5cjVtWlQyNEgzR2txcnY?oc=5)
+
+---
 
 ### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
-2026-11-15 <span class="news-indication-tag">มะเร็ง</span>
+2026-11-16 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
@@ -53,6 +61,14 @@ last_modified_at: 2026-11-15
 2026-11-14 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMivgFBVV95cUxOU2xhYlVWdHRtNHI5UHNQSnNla3VTQmFxOXF3TDh6VzdSVTJDdHhwLS14RGJ4ZEJKbmZJTmJJamJDamF0V2MyLS1fY1BQb1p0ZGhHLU83enY3YXdJaFNMOHRXbDlKa1FnZWVXaHNwZmgxS3J2MERLZHNTekxPTFNrVDVKeGxKSXF4YnQ1bGZONEhDZTQ5NzBIZnBVVENUb3hTM2ZmM2J3ZzdUZEVrYk0yUU9ld3dyTTE4Z05xdEJ3?oc=5)
+
+---
+
+### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ - Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5)
+
+2026-11-13 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTE5uWHRqdzBNTVBVVXN3c3JFcko0SkQxZ1RXSml5UU9oakJzNGM1VEItYk5OdlFhV0JQUm5VdWJiNlhaeFB2VkhocHYxWVZ3Q3RwZ1k0alkxZTFhUExFTXVlV09DblpldmhEZTBwcWJn?oc=5)
 
 ---
 
