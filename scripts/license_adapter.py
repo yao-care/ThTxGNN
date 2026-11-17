@@ -4,14 +4,27 @@
 pertento 依成分查詢、不用登入（GitHub runner 實測翻頁、詳細資料都可用，run 41148774713；paracetamol 2741 筆約 15 分鐘）；
 查詢詞＝證據包 thaifda.query_terms（主名稱＋別名），4 路並行。只更新證據包裡已有許可證的狀態，不新增許可證。
 寫回：status＝pertento 原文（คงอยู่／ยกเลิก(日期)／ปลด SMP…），license_status＝valid／cancelled。新資料查不到的許可證保留原狀態。
+
+2026-11-17（用戶要求確認 11-16 排程「新資料查不到」的 2 張）：pertento 的查詢結果連註銷（ยกเลิก）的許可證都列，
+所以號碼查不到＝紀錄從系統裡不見了，不是註銷。2A 439/69 (E)（MYOGESIC-G）、2A 440/69 (E)（MYOGESIC-B）：2026-11-17 依成分查
+Orphenadrine（294 筆）沒有、詳細頁介面依 newcode 查回傳全部空值；同品名的 2A 6/60 (E)、2A 4/60 (E) 仍是 คงอยู่（證據包本來就有）。
+狀態判斷不了，不推定為註銷：
+- fetch() 成功（每個查詢詞都翻頁完整）時，把查到的全部許可證號記成 CURRENT（少於 MIN_CURRENT 不判定）。
+- preprocess：證據包裡 pertento 來源、不在 CURRENT 的號標 license_status＝unknown（事實層「狀態未知」，不算有效也不算註銷）、
+  pertento_not_listed＝第一次發現日，status 改 NOT_LISTED（原值存 status_before_pertento_not_listed）；又出現就還原。
+- confirmed_absent(lid)：CURRENT 有資料且號碼不在裡面（＝已確認 pertento 查無此號；狀態未知）。
 """
 import importlib.util
 import json
 import sys
+import time
 from pathlib import Path
 
 RAW_FILE = "raw/pertento_status.json"
 REPO = Path(__file__).resolve().parents[1]
+CURRENT: set = set()   # fetch() 填：pertento 查到的全部許可證號（含註銷）；空的就不判定
+MIN_CURRENT = 20000    # 2026-11-16 下載 30,171 列、27,228 個號
+NOT_LISTED = "ไม่พบเลขทะเบียนนี้ในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (สถานะไม่ทราบ)"
 
 
 def _pt():
@@ -41,7 +54,42 @@ def fetch():
         return [{"id": r["license_id"].strip(), "status": r["status"], "term": t} for r in rows]
 
     with ThreadPoolExecutor(4) as ex:
-        return [x for part in ex.map(one, terms) for x in part]
+        out = [x for part in ex.map(one, terms) for x in part]
+    CURRENT.clear()
+    if len({x["id"] for x in out}) >= MIN_CURRENT:
+        CURRENT.update(x["id"] for x in out)
+    return out
+
+
+def confirmed_absent(lid):
+    """給 license_refresh：pertento 依成分查完整、查無此號（含註銷也沒有）＝確認系統已不列；狀態未知，不是註銷"""
+    lid = str(lid).strip()
+    return bool(CURRENT) and bool(lid) and lid not in CURRENT
+
+
+def preprocess(bundle):
+    """pertento 查無的號標 unknown＋pertento_not_listed；又出現就還原。有改回 True"""
+    if not CURRENT:
+        return False
+    today = time.strftime("%Y-%m-%d")
+    ch = False
+    for r in (bundle.get("thaifda") or {}).get("records") or []:
+        lid = record_id(r)
+        if not lid:
+            continue
+        if lid in CURRENT:
+            if r.get("pertento_not_listed"):
+                r.pop("pertento_not_listed", None)
+                r["status"] = r.pop("status_before_pertento_not_listed", "")
+                r["license_status"] = _pt().status_of(r["status"]) or r.get("license_status")
+                ch = True
+        elif not r.get("pertento_not_listed"):
+            r["status_before_pertento_not_listed"] = r.get("status") or ""
+            r["status"] = NOT_LISTED
+            r["license_status"] = "unknown"
+            r["pertento_not_listed"] = today
+            ch = True
+    return ch
 
 
 def validate(new, old):

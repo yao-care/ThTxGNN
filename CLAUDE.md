@@ -524,3 +524,14 @@ pertento 的許可證，其中 6 個剛好是別的藥的號碼；已用查核�
 2026-11-12 另以查核紀錄更正：6 頁（ampicillin、ciprofloxacin、dexamethasone、ferrous_sulfate_anhydrous、magnesium_sulfate、pravastatin）的正文把 pertento 狀態「รอตรวจสอบสถานะ」（事實層 unknown）
 算成註銷（`th-lic-20261112-*`）；albendazole 狀態列在 11-03 AI 重產時寫壞的「ราย��าร」改成「รายการ」（`th-typo-20261112-albendazole-1`）。錨在這些句子上的舊紀錄改錨到句中沒被更正的部分，前版存在 history。
 pravastatin 頁在 10-31 程式重建時本來就沒有許可證表（只有狀態列），11-03 LLM 另寫的表刪掉後維持沒有表，不另外補。
+
+## 新資料查不到的許可證（2026-11-17）
+
+11-16 每週排程「新資料查不到」2 張：2A 439/69 (E)（MYOGESIC-G）、2A 440/69 (E)（MYOGESIC-B），paracetamol＋orphenadrine 複方（acetaminophen、orphenadrine 兩頁），證據包原本記為 คงอยู่。
+pertento 的查詢結果連註銷（ยกเลิก）、รอตรวจสอบสถานะ 的許可證都列，所以號碼查不到＝紀錄從系統不見，不是註銷。2026-11-17 從雲端直接查 pertento（可連）：
+依成分查 Orphenadrine（294 筆）沒有這兩號、詳細頁介面依 newcode（U1DR2A1032690043911C、U1DR2A1032690044011C）查回傳全部空值；同品名的 2A 6/60 (E)（MYOGESIC-G，newcode U1DR2A10X2600000611C 2569-10-26 核准、คงอยู่）與 2A 4/60 (E)（MYOGESIC-B，คงอยู่）仍在，證據包本來就有。
+pertento 沒有其他公開的完整清單可對，這兩號的實際狀態判斷不了，不推定為註銷。
+- `scripts/license_adapter.py`：fetch() 成功時把查到的全部號記成 CURRENT（少於 20,000 個不判定）；preprocess 對 pertento 來源、不在 CURRENT 的號標
+  `license_status: unknown`（事實層「狀態未知」，不算有效也不算註銷）＋`pertento_not_listed`（第一次發現日），status 改「ไม่พบเลขทะเบียนนี้ในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (สถานะไม่ทราบ)」（原值存 `status_before_pertento_not_listed`），又出現就還原。
+  `confirmed_absent()` 讓排程把這些列成「主管機關現行清單確認已不列」、不算查不到（排程摘要固定寫「標註銷」，本站實際標的是 unknown）。
+- 2 頁狀態列／張數列照事實層同步（有效 703→701、107→105）；正文沒有跟新事實矛盾的句子，沒寫查核紀錄。

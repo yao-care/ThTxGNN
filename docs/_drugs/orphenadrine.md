@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Orphenadrine"
 predicted_indications: ["retinal dystrophy with or without extraocular anomalies", "congenital disorder of glycosylation with defective fucosylation", "polymicrogyria, perisylvian, with cerebellar hypoplasia and arthrogryposis", "Charcot-Marie-Tooth disease, demyelinating, type 1G", "schizophrenia", "myopia X-linked", "myopia 26, X-linked, female-limited"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-17
 description: "Orphenadrine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคจอตาเสื่อมที่มีหรือไม่มีความผิดปกตินอกลูกตา (retinal dystrophy with or without extraocular anomalies) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้อ…"
 ---
 
@@ -49,8 +49,8 @@ Orphenadrine เป็นยาคลายกล้ามเนื้อที�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคจอตาเสื่อมที่มีหรือไม่มีความผิดปกตินอกลูกตา (retinal dystrophy with or without extraocular anomalies) |
 | คะแนนการทำนาย TxGNN | 0.9929 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 107 จาก 289 รายการ) |
-| จำนวนทะเบียนตำรับยา | 289 รายการ (ยังมีผล 107) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 105 จาก 289 รายการ) |
+| จำนวนทะเบียนตำรับยา | 289 รายการ (ยังมีผล 105) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
