@@ -3,9 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ มะเร็ง (generic_cancer)"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพเกี่ยวกับ มะเร็ง (generic_cancer) ข่าว 6 รายการ ยาที่เกี่ยวข้อง 39 รายการ"
+description: "ข่าวสุขภาพเกี่ยวกับ มะเร็ง (generic_cancer) ข่าว 7 รายการ ยาที่เกี่ยวข้อง 39 รายการ"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # ข่าวเกี่ยวกับ มะเร็ง (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ มะเร็ง (generic_cancer) บ้าง">
-ขณะนี้ <strong>มะเร็ง (generic_cancer)</strong> มีข่าวที่เกี่ยวข้อง <strong>6 ข่าว</strong> และยาที่เกี่ยวข้อง 39 รายการ
+ขณะนี้ <strong>มะเร็ง (generic_cancer)</strong> มีข่าวที่เกี่ยวข้อง <strong>7 ข่าว</strong> และยาที่เกี่ยวข้อง 39 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -66,7 +66,15 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (6 ข่าว)
+## ข่าวที่เกี่ยวข้อง (7 ข่าว)
+
+### [หุ้น Summit Therapeutics ร่วงหนักหลัง FDA ปฏิเสธยารักษามะเร็งปอด](https://news.google.com/rss/articles/CBMib0FVX3lxTE5UMzFQWWVtVjZSTXdFbFA4TEVPaGlFSTZMTDVkR29vQm1ZdEdEQ0J3MWxOSlJnMTlMSVZ5YkpIOG5pZWVJdF84Q3FqWXRZU3RVTXg5ODRaTzJKYTdwSXlleU5mSkNlbC01WHVYYXNjcw?oc=5)
+
+2026-11-16
+
+แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5UMzFQWWVtVjZSTXdFbFA4TEVPaGlFSTZMTDVkR29vQm1ZdEdEQ0J3MWxOSlJnMTlMSVZ5YkpIOG5pZWVJdF84Q3FqWXRZU3RVTXg5ODRaTzJKYTdwSXlleU5mSkNlbC01WHVYYXNjcw?oc=5)
+
+---
 
 ### [โรงงานฯ จุฬาภรณน์ต้อนรับ FAPA 2026 ผลิตรักษามะเร็งมุ่งเป้า - Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVm5feE9PZmdjMHZYa0hLZmFyMDBqWFM0eFdUYm5qaEVqY2FMZjF3S2REcHdXRnBMR2JTMkRsNDdOY0VJNTV0Zm8zTms2MVBvQXcxclZzSXdocU1uQ2FHMHduSEJtUXVWajliZDln?oc=5)
 

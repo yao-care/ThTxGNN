@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Valproic acid ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/valproic_acid/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-17
 ---
 
 # ข่าวเกี่ยวกับ Valproic acid
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Valproic acid บ้าง">
-ขณะนี้ <strong>Valproic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>6 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
+ขณะนี้ <strong>Valproic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>7 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ last_modified_at: 2026-11-16
 <p><a href="{{ '/drugs/valproic-acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (6 ข่าว)
+## ข่าวที่เกี่ยวข้อง (7 ข่าว)
+
+### [หุ้น Summit Therapeutics ร่วงหนักหลัง FDA ปฏิเสธยารักษามะเร็งปอด](https://news.google.com/rss/articles/CBMib0FVX3lxTE5UMzFQWWVtVjZSTXdFbFA4TEVPaGlFSTZMTDVkR29vQm1ZdEdEQ0J3MWxOSlJnMTlMSVZ5YkpIOG5pZWVJdF84Q3FqWXRZU3RVTXg5ODRaTzJKYTdwSXlleU5mSkNlbC01WHVYYXNjcw?oc=5)
+
+2026-11-16 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Investing.com](https://news.google.com/rss/articles/CBMib0FVX3lxTE5UMzFQWWVtVjZSTXdFbFA4TEVPaGlFSTZMTDVkR29vQm1ZdEdEQ0J3MWxOSlJnMTlMSVZ5YkpIOG5pZWVJdF84Q3FqWXRZU3RVTXg5ODRaTzJKYTdwSXlleU5mSkNlbC01WHVYYXNjcw?oc=5)
+
+---
 
 ### [โรงงานฯ จุฬาภรณน์ต้อนรับ FAPA 2026 ผลิตรักษามะเร็งมุ่งเป้า - Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVm5feE9PZmdjMHZYa0hLZmFyMDBqWFM0eFdUYm5qaEVqY2FMZjF3S2REcHdXRnBMR2JTMkRsNDdOY0VJNTV0Zm8zTms2MVBvQXcxclZzSXdocU1uQ2FHMHduSEJtUXVWajliZDln?oc=5)
 
