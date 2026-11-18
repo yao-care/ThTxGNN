@@ -3,9 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ มะเร็ง (generic_cancer)"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพเกี่ยวกับ มะเร็ง (generic_cancer) ข่าว 7 รายการ ยาที่เกี่ยวข้อง 39 รายการ"
+description: "ข่าวสุขภาพเกี่ยวกับ มะเร็ง (generic_cancer) ข่าว 8 รายการ ยาที่เกี่ยวข้อง 39 รายการ"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # ข่าวเกี่ยวกับ มะเร็ง (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ มะเร็ง (generic_cancer) บ้าง">
-ขณะนี้ <strong>มะเร็ง (generic_cancer)</strong> มีข่าวที่เกี่ยวข้อง <strong>7 ข่าว</strong> และยาที่เกี่ยวข้อง 39 รายการ
+ขณะนี้ <strong>มะเร็ง (generic_cancer)</strong> มีข่าวที่เกี่ยวข้อง <strong>8 ข่าว</strong> และยาที่เกี่ยวข้อง 39 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -66,7 +66,15 @@ last_modified_at: 2026-11-17
 </ul>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (7 ข่าว)
+## ข่าวที่เกี่ยวข้อง (8 ข่าว)
+
+### [ไขปริศนาทำไม? การ "ดื่มเครื่องดื่มแอลกอฮอล์" ถึงขัดขวางภูมิคุ้มกัน ทำลายฤทธิ์ "ยารักษามะเร็ง" - TNN Thailand](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hczRRQ3V3bUcwTkxfYXI1TTVlTHJVdHY0RUZ2WG1zcjE0U2d0U3lZT3BVcFJJakVhSFcteHhpSW5OLW5JWVhmU0VSMHM4RXRvckJr?oc=5)
+
+2026-11-18
+
+แหล่งที่มา: [TNN Thailand](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hczRRQ3V3bUcwTkxfYXI1TTVlTHJVdHY0RUZ2WG1zcjE0U2d0U3lZT3BVcFJJakVhSFcteHhpSW5OLW5JWVhmU0VSMHM4RXRvckJr?oc=5)
+
+---
 
 ### [หุ้น Summit Therapeutics ร่วงหนักหลัง FDA ปฏิเสธยารักษามะเร็งปอด](https://news.google.com/rss/articles/CBMib0FVX3lxTE5UMzFQWWVtVjZSTXdFbFA4TEVPaGlFSTZMTDVkR29vQm1ZdEdEQ0J3MWxOSlJnMTlMSVZ5YkpIOG5pZWVJdF84Q3FqWXRZU3RVTXg5ODRaTzJKYTdwSXlleU5mSkNlbC01WHVYYXNjcw?oc=5)
 

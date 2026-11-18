@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Verapamil ข้อบ่งใช้ที่คาดการณ์ 6 รายการ"
 permalink: /news/verapamil/
-last_modified_at: 2026-11-17
+last_modified_at: 2026-11-18
 ---
 
 # ข่าวเกี่ยวกับ Verapamil
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-17
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Verapamil บ้าง">
-ขณะนี้ <strong>Verapamil</strong> มีข่าวที่เกี่ยวข้อง <strong>7 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
+ขณะนี้ <strong>Verapamil</strong> มีข่าวที่เกี่ยวข้อง <strong>8 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 6 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -38,7 +38,15 @@ last_modified_at: 2026-11-17
 <p><a href="{{ '/drugs/verapamil/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (7 ข่าว)
+## ข่าวที่เกี่ยวข้อง (8 ข่าว)
+
+### [ไขปริศนาทำไม? การ "ดื่มเครื่องดื่มแอลกอฮอล์" ถึงขัดขวางภูมิคุ้มกัน ทำลายฤทธิ์ "ยารักษามะเร็ง" - TNN Thailand](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hczRRQ3V3bUcwTkxfYXI1TTVlTHJVdHY0RUZ2WG1zcjE0U2d0U3lZT3BVcFJJakVhSFcteHhpSW5OLW5JWVhmU0VSMHM4RXRvckJr?oc=5)
+
+2026-11-18 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [TNN Thailand](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hczRRQ3V3bUcwTkxfYXI1TTVlTHJVdHY0RUZ2WG1zcjE0U2d0U3lZT3BVcFJJakVhSFcteHhpSW5OLW5JWVhmU0VSMHM4RXRvckJr?oc=5)
+
+---
 
 ### [หุ้น Summit Therapeutics ร่วงหนักหลัง FDA ปฏิเสธยารักษามะเร็งปอด](https://news.google.com/rss/articles/CBMib0FVX3lxTE5UMzFQWWVtVjZSTXdFbFA4TEVPaGlFSTZMTDVkR29vQm1ZdEdEQ0J3MWxOSlJnMTlMSVZ5YkpIOG5pZWVJdF84Q3FqWXRZU3RVTXg5ODRaTzJKYTdwSXlleU5mSkNlbC01WHVYYXNjcw?oc=5)
 
