@@ -1,0 +1,463 @@
+{
+ "_about": "本檔由 scripts/local_facts.py 產生（母目錄 .claude/local_facts_lib.py），勿手改；cross 欄位由母目錄 .claude/gen_local_pages_20261119.py 更新",
+ "drugs_total": 145,
+ "level_counts": {
+  "L1": 0,
+  "L2": 10,
+  "L3": 4,
+  "L4": 10,
+  "L5": 101
+ },
+ "level_na": 20,
+ "public_pages": 145,
+ "licence_snapshot": "th_licenses.json.gz",
+ "licence": {
+  "drugs_with_data": 144,
+  "drugs_with_current": 138,
+  "drugs_none_current": 6,
+  "drugs_without_data": 1,
+  "drugs_partial": 0,
+  "items_total": 25741,
+  "items_current": 5695
+ },
+ "reviews": {
+  "records": 267,
+  "pages": 148,
+  "public_pages_with_records": 142,
+  "by_action": {
+   "correct": 267
+  }
+ },
+ "fhir": {
+  "medication_knowledge": 149,
+  "clinical_use_definition": 739
+ },
+ "top_licensed": [
+  {
+   "t": "Acetaminophen",
+   "u": "/drugs/acetaminophen/",
+   "l": "N/A",
+   "lt": 3226,
+   "lv": 701,
+   "r": 1,
+   "i": ""
+  },
+  {
+   "t": "Amoxicillin",
+   "u": "/drugs/amoxicillin/",
+   "l": "L5",
+   "lt": 1537,
+   "lv": 317,
+   "r": 1,
+   "i": "polyclonal hyperviscosity syndrome"
+  },
+  {
+   "t": "Chlorpheniramine",
+   "u": "/drugs/chlorpheniramine/",
+   "l": "L5",
+   "lt": 1622,
+   "lv": 270,
+   "r": 0,
+   "i": "โรคของโพรงจมูก"
+  },
+  {
+   "t": "Ibuprofen",
+   "u": "/drugs/ibuprofen/",
+   "l": "L5",
+   "lt": 865,
+   "lv": 228,
+   "r": 2,
+   "i": "acromesomelic dysplasia, Hunter-Thompson type"
+  },
+  {
+   "t": "Diclofenac",
+   "u": "/drugs/diclofenac/",
+   "l": "L5",
+   "lt": 603,
+   "lv": 171,
+   "r": 2,
+   "i": "hypotrichosis simplex of the scalp"
+  },
+  {
+   "t": "Clotrimazole",
+   "u": "/drugs/clotrimazole/",
+   "l": "L5",
+   "lt": 433,
+   "lv": 142,
+   "r": 1,
+   "i": "สิวอักเสบ"
+  },
+  {
+   "t": "Vitamin D",
+   "u": "/drugs/vitamin-d/",
+   "l": "N/A",
+   "lt": 900,
+   "lv": 129,
+   "r": 1,
+   "i": ""
+  },
+  {
+   "t": "Metformin",
+   "u": "/drugs/metformin/",
+   "l": "L5",
+   "lt": 318,
+   "lv": 125,
+   "r": 2,
+   "i": "focal stiff limb syndrome"
+  }
+ ],
+ "no_current": [
+  {
+   "t": "Alprazolam",
+   "u": "/drugs/alprazolam/",
+   "l": "L3",
+   "lt": 3,
+   "lv": 0,
+   "r": 1,
+   "i": "นอนไม่หลับ"
+  },
+  {
+   "t": "Diazepam",
+   "u": "/drugs/diazepam/",
+   "l": "L2",
+   "lt": 37,
+   "lv": 0,
+   "r": 2,
+   "i": "โรคนอนไม่หลับ"
+  },
+  {
+   "t": "Ketamine",
+   "u": "/drugs/ketamine/",
+   "l": "L2",
+   "lt": 14,
+   "lv": 0,
+   "r": 0,
+   "i": "โรคปวดศีรษะ"
+  },
+  {
+   "t": "Lorazepam",
+   "u": "/drugs/lorazepam/",
+   "l": "L5",
+   "lt": 11,
+   "lv": 0,
+   "r": 1,
+   "i": "เนื้องอกเส้นประสาทไทรเจมินัล"
+  },
+  {
+   "t": "Mefloquine",
+   "u": "/drugs/mefloquine/",
+   "l": "N/A",
+   "lt": 12,
+   "lv": 0,
+   "r": 1,
+   "i": ""
+  },
+  {
+   "t": "Ranitidine",
+   "u": "/drugs/ranitidine/",
+   "l": "L5",
+   "lt": 159,
+   "lv": 0,
+   "r": 2,
+   "i": "การทะลุของแผลเปปติก"
+  }
+ ],
+ "no_current_more": 0,
+ "most_reviewed": [
+  {
+   "t": "Albendazole",
+   "u": "/drugs/albendazole/",
+   "l": "L5",
+   "lt": 173,
+   "lv": 61,
+   "r": 4,
+   "i": "โรคโคอีนูโรซิส"
+  },
+  {
+   "t": "Primaquine",
+   "u": "/drugs/primaquine/",
+   "l": "L5",
+   "lt": 6,
+   "lv": 1,
+   "r": 4,
+   "i": "โรคตัวอ่อนแมลงวันไชเนื้อ"
+  },
+  {
+   "t": "Tenofovir",
+   "u": "/drugs/tenofovir/",
+   "l": "L4",
+   "lt": 59,
+   "lv": 42,
+   "r": 4,
+   "i": "simian immunodeficiency virus infection"
+  },
+  {
+   "t": "Acyclovir",
+   "u": "/drugs/acyclovir/",
+   "l": "L5",
+   "lt": 331,
+   "lv": 120,
+   "r": 3,
+   "i": "punctate epithelial keratoconjunctivitis"
+  },
+  {
+   "t": "Ampicillin",
+   "u": "/drugs/ampicillin/",
+   "l": "L5",
+   "lt": 777,
+   "lv": 37,
+   "r": 3,
+   "i": "โรคกล่องเสียงอักเสบ"
+  },
+  {
+   "t": "Azithromycin",
+   "u": "/drugs/azithromycin/",
+   "l": "L5",
+   "lt": 73,
+   "lv": 37,
+   "r": 3,
+   "i": "polyclonal hyperviscosity syndrome"
+  }
+ ],
+ "example": {
+  "t": "Prednisolone",
+  "u": "/drugs/prednisolone/",
+  "l": "L2",
+  "lt": 379,
+  "lv": 76,
+  "r": 2,
+  "i": "alopecia areata"
+ },
+ "recent_reviews": [
+  {
+   "t": "Albendazole",
+   "u": "/drugs/albendazole/",
+   "s": "แก้อักขระเสียในคำว่า “รายการ” (ทะเบียนที่ยังใช้ได้ 61 รายการ)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Pravastatin",
+   "u": "/drugs/pravastatin/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 21 → 20 รายการ (อีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Magnesium Sulfate",
+   "u": "/drugs/magnesium-sulfate/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 101 → 99 รายการ (อีก 2 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ferrous Sulfate Anhydrous",
+   "u": "/drugs/ferrous-sulfate-anhydrous/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 141 → 140 รายการ (อีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 507 → 504 รายการ (อีก 3 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ciprofloxacin",
+   "u": "/drugs/ciprofloxacin/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 246 → 244 รายการ (อีก 2 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ampicillin",
+   "u": "/drugs/ampicillin/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 740 → 733 รายการ (อีก 7 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Sertraline",
+   "u": "/drugs/sertraline/",
+   "s": "ลบออก: “1A 76/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Salbutamol",
+   "u": "/drugs/salbutamol/",
+   "s": "ลบออก: “1A 61/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Risperidone",
+   "u": "/drugs/risperidone/",
+   "s": "ลบออก: “1A 79/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Progesterone",
+   "u": "/drugs/progesterone/",
+   "s": "ลบออก: “ทะเบียนยาเลขที่ 1A 127/67 (ยกเลิกแล้ว)”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Nystatin",
+   "u": "/drugs/nystatin/",
+   "s": "ลบออก: “ทะเบียนยาเลขที่ 1A 106/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Montelukast",
+   "u": "/drugs/montelukast/",
+   "s": "ลบออก: “1A 64/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Diazepam",
+   "u": "/drugs/diazepam/",
+   "s": "ลบออก: “ทะเบียนยาเลขที่ 1A 72/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Clozapine",
+   "u": "/drugs/clozapine/",
+   "s": "ลบออก: “1A 145/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ceftriaxone",
+   "u": "/drugs/ceftriaxone/",
+   "s": "ลบออก: “ทะเบียนยาเลขที่ 1A 56/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Aripiprazole",
+   "u": "/drugs/aripiprazole/",
+   "s": "ลบออก: “1A 146/67”",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Warfarin",
+   "u": "/drugs/warfarin/",
+   "s": "ลบออก: “ปัจจุบันยกเลิกทั้งหมด”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Verapamil",
+   "u": "/drugs/verapamil/",
+   "s": "ลบออก: “ตรวจสอบสถานะใบอนุญาตที่ถูกยกเลิก หากต้องการนำยากลับมาใช้ในไทย”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Vancomycin",
+   "u": "/drugs/vancomycin/",
+   "s": "ลบออก: “นอกจากนี้ใบอนุญาตในไทยถูกยกเลิกแล้ว”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Valproic Acid",
+   "u": "/drugs/valproic-acid/",
+   "s": "ลบออก: “ทั้งทะเบียนยาในไทยถูกยกเลิกแล้ว”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Tretinoin",
+   "u": "/drugs/tretinoin/",
+   "s": "ลบออก: “พิจารณาสถานะใบอนุญาตที่ยกเลิกแล้ว หากต้องการนำกลับมาจำหน่ายหรือพัฒนาต่อ”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Tramadol",
+   "u": "/drugs/tramadol/",
+   "s": "ลบออก: “ใบอนุญาตในไทยถูกยกเลิกแล้ว และ”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Tenofovir",
+   "u": "/drugs/tenofovir/",
+   "s": "ลบออก: “หากจะพิจารณาการวางจำหน่าย ควรตรวจสอบสถานะและเหตุผลการยกเลิกทะเบียน และ”",
+   "d": "2026-11-06"
+  }
+ ],
+ "recent_licence_reviews": [
+  {
+   "t": "Pravastatin",
+   "u": "/drugs/pravastatin/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 21 → 20 รายการ (อีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Magnesium Sulfate",
+   "u": "/drugs/magnesium-sulfate/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 101 → 99 รายการ (อีก 2 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ferrous Sulfate Anhydrous",
+   "u": "/drugs/ferrous-sulfate-anhydrous/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 141 → 140 รายการ (อีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Dexamethasone",
+   "u": "/drugs/dexamethasone/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 507 → 504 รายการ (อีก 3 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ciprofloxacin",
+   "u": "/drugs/ciprofloxacin/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 246 → 244 รายการ (อีก 2 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Ampicillin",
+   "u": "/drugs/ampicillin/",
+   "s": "จำนวนทะเบียนที่ยกเลิก: 740 → 733 รายการ (อีก 7 รายการมีสถานะ “รอตรวจสอบสถานะ”)",
+   "d": "2026-11-12"
+  },
+  {
+   "t": "Warfarin",
+   "u": "/drugs/warfarin/",
+   "s": "ลบออก: “ปัจจุบันยกเลิกทั้งหมด”",
+   "d": "2026-11-06"
+  },
+  {
+   "t": "Verapamil",
+   "u": "/drugs/verapamil/",
+   "s": "ลบออก: “ตรวจสอบสถานะใบอนุญาตที่ถูกยกเลิก หากต้องการนำยากลับมาใช้ในไทย”",
+   "d": "2026-11-06"
+  }
+ ],
+ "files": {
+  "search_index": 145,
+  "drugs_json": 145
+ },
+ "by_level": {
+  "L1": {
+   "n": 0,
+   "current": 0
+  },
+  "L2": {
+   "n": 10,
+   "current": 8
+  },
+  "L3": {
+   "n": 4,
+   "current": 3
+  },
+  "L4": {
+   "n": 10,
+   "current": 10
+  },
+  "L5": {
+   "n": 101,
+   "current": 98
+  }
+ },
+ "cross": {
+  "unique_pairs": 5,
+  "unique_examples": [
+   {
+    "t": "Erythropoietin",
+    "u": "/drugs/erythropoietin/",
+    "i": "antithrombin deficiency type 2"
+   }
+  ]
+ }
+}

@@ -535,3 +535,8 @@ pertento 沒有其他公開的完整清單可對，這兩號的實際狀態判�
   `license_status: unknown`（事實層「狀態未知」，不算有效也不算註銷）＋`pertento_not_listed`（第一次發現日），status 改「ไม่พบเลขทะเบียนนี้ในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (สถานะไม่ทราบ)」（原值存 `status_before_pertento_not_listed`），又出現就還原。
   `confirmed_absent()` 讓排程把這些列成「主管機關現行清單確認已不列」、不算查不到（排程摘要固定寫「標註銷」，本站實際標的是 unknown）。
 - 2 頁狀態列／張數列照事實層同步（有效 703→701、107→105）；正文沒有跟新事實矛盾的句子，沒寫查核紀錄。
+
+## 說明頁與證據等級頁的在地資料（2026-11-19）
+
+用戶 2026-11-19 決定的第一批改版（母目錄 `.claude/gen_local_pages_20261119.py` 產生，不逐站手改）：說明頁（about／guide／sources／downloads／methodology，自有結構站只有證據等級頁與隱私頁）加本站資料區塊（`<!-- local-facts -->`）、證據等級頁的事實段與藥名表（`<!-- tier-facts -->`、`<!-- tier-table -->`）、隱私頁的適用法律／權利／著作權與資料來源段（`<!-- privacy-law -->`）；en／es／de 樣板站的共用長段落縮成一段（`<!-- local-condensed -->`）。
+資料檔 `docs/_data/local_facts.json`、`docs/_data/evidence_tier_facts.json` 由 `scripts/local_facts.py`（＝母目錄 `.claude/local_facts_lib.py`）依藥物頁、許可證快照、查核紀錄、FHIR 算；`apply_drug_reviews.py`、許可證快照程式結尾會自動 `--write`，`check_seo_docs.py` 跑 `--check` 擋過期。跨站欄位（cross：本站獨有預測、30 站中位數）與頁面區塊只由母目錄產生器更新；藥物頁改等級、noindex 或預測後要在母目錄重跑。
