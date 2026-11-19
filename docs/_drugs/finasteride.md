@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Finasteride"
 predicted_indications: ["Ambras type hypertrichosis universalis congenita", "hypertrichosis (disease)", "malformation syndrome with odontal and/or periodontal component", "syndrome with a Dandy-Walker malformation as major feature", "isolated genetic hair shaft abnormality", "familial isolated trichomegaly"]
 last_modified_at: 2026-11-12
-description: "Finasteride: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขนดกทั่วตัวแต่กำเนิดชนิดแอมบราส (Ambras type hypertrichosis universalis congenita) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Finasteride: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขนดกทั่วตัวแต่กำเนิดชนิดแอมบราส (Ambras type hypertrichosis universalis congenita) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 40 รายการ (ยังมีผล 21)"
 ---
 
 # Finasteride

@@ -8,7 +8,7 @@ indication_count: 5
 monitor_inn: "Clarithromycin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "punctate epithelial keratoconjunctivitis", "blood group incompatibility"]
 last_modified_at: 2026-11-12
-description: "Clarithromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Clarithromycin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินหลายโคลน (polyclonal hyperviscosity syndrome) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 40 รายการ (ยังมีผล 13)"
 ---
 
 # Clarithromycin

@@ -8,7 +8,7 @@ indication_count: 4
 last_modified_at: 2026-11-12
 monitor_inn: "Naproxen"
 predicted_indications: ["brachydactyly-syndactyly syndrome", "colobomatous microphthalmia-rhizomelic dysplasia syndrome", "acromesomelic dysplasia, Hunter-Thompson type", "brachyolmia-amelogenesis imperfecta syndrome"]
-description: "Naproxen: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Naproxen: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการ Brachydactyly-Syndactyly (brachydactyly-syndactyly syndrome) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 142 รายการ (ยังมีผล 31)"
 ---
 
 # Naproxen

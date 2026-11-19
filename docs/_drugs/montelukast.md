@@ -8,7 +8,7 @@ indication_count: 2
 last_modified_at: 2026-11-12
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
-description: "Montelukast: ข้อบ่งใช้ใหม่ที่คาดการณ์ หลอดลมอักเสบ (bronchitis) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Montelukast: ข้อบ่งใช้ใหม่ที่คาดการณ์ หลอดลมอักเสบ (bronchitis) (ระดับหลักฐาน L3) ทะเบียนตำรับยาในระบบของ อย.: 46 รายการ (ยังมีผล 24)"
 ---
 
 # Montelukast

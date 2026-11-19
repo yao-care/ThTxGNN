@@ -8,7 +8,7 @@ indication_count: 1
 last_modified_at: 2026-11-12
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
-description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคโคอีนูโรซิส (coenurosis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคโคอีนูโรซิส (coenurosis) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 173 รายการ (ยังมีผล 61)"
 ---
 
 # Albendazole

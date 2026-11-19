@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Ciprofloxacin"
 predicted_indications: ["diffuse scleroderma", "polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "punctate epithelial keratoconjunctivitis", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy"]
-description: "Ciprofloxacin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผิวหนังแข็งแบบกระจาย (diffuse scleroderma) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Ciprofloxacin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผิวหนังแข็งแบบกระจาย (diffuse scleroderma) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 323 รายการ (ยังมีผล 77)"
 ---
 
 # Ciprofloxacin

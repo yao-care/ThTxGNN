@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Pantoprazole"
 predicted_indications: ["duodenal obstruction"]
 last_modified_at: 2026-11-12
-description: "Pantoprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ การอุดกั้นลำไส้เล็กส่วนดูโอดีนัม (duodenal obstruction) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Pantoprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ การอุดกั้นลำไส้เล็กส่วนดูโอดีนัม (duodenal obstruction) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 45 รายการ (ยังมีผล 15)"
 ---
 
 # Pantoprazole

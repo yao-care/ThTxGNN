@@ -8,7 +8,7 @@ indication_count: 7
 last_modified_at: 2026-11-12
 monitor_inn: "Primaquine"
 predicted_indications: ["myiasis", "furuncular myiasis", "wound myiasis", "creeping myiasis", "toxoplasmosis", "nocardiosis", "pneumocystosis"]
-description: "Primaquine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคตัวอ่อนแมลงวันไชเนื้อ (myiasis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Primaquine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคตัวอ่อนแมลงวันไชเนื้อ (myiasis) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 6 รายการ (ยังมีผล 1)"
 ---
 
 # Primaquine

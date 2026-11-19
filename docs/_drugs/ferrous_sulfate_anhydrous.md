@@ -8,7 +8,7 @@ indication_count: 3
 last_modified_at: 2026-11-12
 monitor_inn: "Ferrous sulfate anhydrous"
 predicted_indications: ["vitamin B12- and folate-independent constitutional megaloblastic anemia", "biotin metabolic disease", "non-syndromic esophageal malformation"]
-description: "Ferrous Sulfate Anhydrous: ข้อบ่งใช้ใหม่ที่คาดการณ์ Vitamin B12- and folate-independent constitutional megaloblastic anemia (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Ferrous Sulfate Anhydrous: ข้อบ่งใช้ใหม่ที่คาดการณ์ Vitamin B12- and folate-independent constitutional megaloblastic anemia (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 155 รายการ (ยังมีผล 14)"
 ---
 
 # Ferrous Sulfate Anhydrous

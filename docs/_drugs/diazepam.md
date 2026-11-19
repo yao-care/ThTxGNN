@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Diazepam"
 predicted_indications: ["insomnia (disease)", "cauda equina syndrome", "sleep disorder, initiating and maintaining sleep", "attention deficit hyperactivity disorder, inattentive type", "barbiturate abuse", "hallucinogen abuse", "antidepressant type abuse", "specific developmental disorder", "attention deficit-hyperactivity disorder", "obsolete neurogenic bladder (disease)"]
 last_modified_at: 2026-11-12
-description: "Diazepam: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคนอนไม่หลับ (insomnia (disease)) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Diazepam: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคนอนไม่หลับ (insomnia (disease)) (ระดับหลักฐาน L2) ทะเบียนตำรับยาในระบบของ อย.: 37 รายการ (ยังมีผล 0)"
 ---
 
 # Diazepam

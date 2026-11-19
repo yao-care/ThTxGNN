@@ -8,7 +8,7 @@ indication_count: 4
 monitor_inn: "Levothyroxine"
 predicted_indications: ["renal hypodysplasia/aplasia", "bilateral renal agenesis", "Potter sequence", "Carney complex"]
 last_modified_at: 2026-11-12
-description: "Levothyroxine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะไตเจริญผิดปกติ/ไม่เจริญ (renal hypodysplasia/aplasia) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Levothyroxine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะไตเจริญผิดปกติ/ไม่เจริญ (renal hypodysplasia/aplasia) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 42 รายการ (ยังมีผล 16)"
 ---
 
 # Levothyroxine

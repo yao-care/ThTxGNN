@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Clotrimazole"
 predicted_indications: ["acne (disease)", "postmenopausal atrophic vaginitis"]
 last_modified_at: 2026-11-12
-description: "Clotrimazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ สิวอักเสบ (acne (disease)) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Clotrimazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ สิวอักเสบ (acne (disease)) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 433 รายการ (ยังมีผล 142)"
 ---
 
 # Clotrimazole

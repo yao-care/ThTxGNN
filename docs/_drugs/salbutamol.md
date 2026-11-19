@@ -8,7 +8,7 @@ indication_count: 8
 last_modified_at: 2026-11-12
 monitor_inn: "Salbutamol"
 predicted_indications: ["papillary conjunctivitis", "nasal cavity disease", "pharyngitis", "acute laryngopharyngitis", "anaphylaxis", "common cold", "atopic conjunctivitis", "anorectal stricture"]
-description: "Salbutamol: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบชนิดปุ่ม (papillary conjunctivitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Salbutamol: ข้อบ่งใช้ใหม่ที่คาดการณ์ เยื่อบุตาอักเสบชนิดปุ่ม (papillary conjunctivitis) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 284 รายการ (ยังมีผล 52)"
 ---
 
 # Salbutamol

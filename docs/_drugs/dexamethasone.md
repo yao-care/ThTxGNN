@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Dexamethasone"
 predicted_indications: ["alopecia mucinosa", "telogen effluvium", "Quinquaud's folliculitis decalvans", "alopecia antibody deficiency", "hereditary hypotrichosis with recurrent skin vesicles", "alopecia-intellectual disability-hypergonadotropic hypogonadism syndrome", "atrichia with papular lesions", "alopecia universalis onychodystrophy vitiligo", "prolapse of lacrimal gland"]
-description: "Dexamethasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ อะโลพีเซียมิวซิโนซา (alopecia mucinosa) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Dexamethasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ อะโลพีเซียมิวซิโนซา (alopecia mucinosa) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 599 รายการ (ยังมีผล 92)"
 ---
 
 # Dexamethasone

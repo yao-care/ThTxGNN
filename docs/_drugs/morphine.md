@@ -8,7 +8,7 @@ indication_count: 10
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
 last_modified_at: 2026-11-12
-description: "Morphine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการปวดกล้ามเนื้อและพังผืด (myofascial pain syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Morphine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการปวดกล้ามเนื้อและพังผืด (myofascial pain syndrome) (ระดับหลักฐาน L5) ไม่พบทะเบียนตำรับยาในระบบของ อย."
 ---
 
 # Morphine

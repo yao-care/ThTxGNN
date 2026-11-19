@@ -8,7 +8,7 @@ indication_count: 8
 monitor_inn: "Magnesium sulfate"
 predicted_indications: ["thrombotic disease", "pharyngitis", "nasal cavity disease", "psychotic disorder", "acute laryngopharyngitis", "headache disorder", "trigeminal autonomic cephalalgia", "treatment-refractory schizophrenia"]
 last_modified_at: 2026-11-12
-description: "Magnesium Sulfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคลิ่มเลือดอุดตัน (thrombotic disease) (ระดับหลักฐาน L3) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Magnesium Sulfate: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคลิ่มเลือดอุดตัน (thrombotic disease) (ระดับหลักฐาน L3) ทะเบียนตำรับยาในระบบของ อย.: 126 รายการ (ยังมีผล 25)"
 ---
 
 # Magnesium Sulfate

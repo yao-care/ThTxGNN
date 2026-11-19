@@ -8,7 +8,7 @@ indication_count: 6
 monitor_inn: "Progesterone"
 predicted_indications: ["breast fibrocystic disease", "benign mammary dysplasia", "renal hypoplasia, bilateral", "renal hypoplasia (disease)", "apocrine adenosis of breast", "blunt duct adenosis of breast"]
 last_modified_at: 2026-11-12
-description: "Progesterone: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเต้านมถุงน้ำเส้นใย (breast fibrocystic disease) (ระดับหลักฐาน L4) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Progesterone: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคเต้านมถุงน้ำเส้นใย (breast fibrocystic disease) (ระดับหลักฐาน L4) ทะเบียนตำรับยาในระบบของ อย.: 76 รายการ (ยังมีผล 31)"
 ---
 
 # Progesterone

@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Itraconazole"
 predicted_indications: ["pneumocystosis"]
 last_modified_at: 2026-11-12
-description: "Itraconazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปอดอักเสบจากนิวโมซิสติส (pneumocystosis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Itraconazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปอดอักเสบจากนิวโมซิสติส (pneumocystosis) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 47 รายการ (ยังมีผล 22)"
 ---
 
 # Itraconazole

@@ -8,7 +8,7 @@ indication_count: 3
 monitor_inn: "Captopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
 last_modified_at: 2026-11-12
-description: "Captopril: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Captopril: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 25 รายการ (ยังมีผล 1)"
 ---
 
 # Captopril

@@ -8,7 +8,7 @@ indication_count: 2
 monitor_inn: "Heparin"
 predicted_indications: ["thrombophilia due to protein C deficiency, autosomal recessive", "primary release disorder of platelets"]
 last_modified_at: 2026-11-12
-description: "Heparin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะลิ่มเลือดง่ายจากการขาดโปรตีนซี ชนิดถ่ายทอดแบบยีนด้อย (thrombophilia due to protein C deficiency… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Heparin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะลิ่มเลือดง่ายจากการขาดโปรตีนซี ชนิดถ่ายทอดแบบยีนด้อย (thrombophilia due to protein C deficiency… (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 56 รายการ (ยังมีผล 7)"
 ---
 
 # Heparin

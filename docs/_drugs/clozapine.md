@@ -8,7 +8,7 @@ indication_count: 9
 last_modified_at: 2026-11-12
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
-description: "Clozapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคอารมณ์สองขั้วระยะแมเนีย (manic bipolar affective disorder) (ระดับหลักฐาน L2) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Clozapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคอารมณ์สองขั้วระยะแมเนีย (manic bipolar affective disorder) (ระดับหลักฐาน L2) ทะเบียนตำรับยาในระบบของ อย.: 17 รายการ (ยังมีผล 9)"
 ---
 
 # Clozapine

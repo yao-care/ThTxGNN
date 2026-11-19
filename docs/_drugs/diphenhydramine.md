@@ -8,7 +8,7 @@ indication_count: 1
 monitor_inn: "Diphenhydramine"
 predicted_indications: ["rosacea conjunctivitis"]
 last_modified_at: 2026-11-12
-description: "Diphenhydramine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผื่นกุหลาบที่เยื่อบุตา (rosacea conjunctivitis) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น"
+description: "Diphenhydramine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ผื่นกุหลาบที่เยื่อบุตา (rosacea conjunctivitis) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 264 รายการ (ยังมีผล 61)"
 ---
 
 # Diphenhydramine
