@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Baclofen ข้อบ่งใช้ที่คาดการณ์ 2 รายการ"
 permalink: /news/baclofen/
-last_modified_at: 2026-11-18
+last_modified_at: 2026-11-19
 ---
 
 # ข่าวเกี่ยวกับ Baclofen
@@ -36,6 +36,14 @@ last_modified_at: 2026-11-18
 
 ## ข่าวที่เกี่ยวข้อง (8 ข่าว)
 
+### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
+
+2026-11-19 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
+
+---
+
 ### [ไขปริศนาทำไม? การ "ดื่มเครื่องดื่มแอลกอฮอล์" ถึงขัดขวางภูมิคุ้มกัน ทำลายฤทธิ์ "ยารักษามะเร็ง" - TNN Thailand](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5hczRRQ3V3bUcwTkxfYXI1TTVlTHJVdHY0RUZ2WG1zcjE0U2d0U3lZT3BVcFJJakVhSFcteHhpSW5OLW5JWVhmU0VSMHM4RXRvckJr?oc=5)
 
 2026-11-18 <span class="news-indication-tag">มะเร็ง</span>
@@ -57,14 +65,6 @@ last_modified_at: 2026-11-18
 2026-11-16 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Head Topics](https://news.google.com/rss/articles/CBMibkFVX3lxTFBLVm5feE9PZmdjMHZYa0hLZmFyMDBqWFM0eFdUYm5qaEVqY2FMZjF3S2REcHdXRnBMR2JTMkRsNDdOY0VJNTV0Zm8zTms2MVBvQXcxclZzSXdocU1uQ2FHMHduSEJtUXVWajliZDln?oc=5)
-
----
-
-### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
-
-2026-11-16 <span class="news-indication-tag">มะเร็ง</span>
-
-แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
 ---
 
