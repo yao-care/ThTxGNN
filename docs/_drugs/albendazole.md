@@ -55,7 +55,7 @@ Albendazole เป็นยาถ่ายพยาธิชนิดรับ�
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมมา ตามข้อมูลที่ทราบ Albendazole ยับยั้งการรวมตัวของ beta-tubulin ในตัวอ่อนพยาธิตัวตืด ทำให้ปรสิตขาดพลังงานและตาย
+ตามหัวข้อ “Mechanism of Action” และ “Microbiology” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Albendazole (คำแปลอย่างไม่เป็นทางการ): “ALBENZA (albendazole) เป็นยาถ่ายพยาธิสังเคราะห์ในกลุ่ม benzimidazole […] ALBENZA จับกับตำแหน่งที่ไวต่อ colchicine บน β-tubulin และยับยั้งไม่ให้ β-tubulin รวมตัวเป็นไมโครทูบูล เมื่อไมโครทูบูลในเซลล์ลำไส้ของปรสิตลดลง เซลล์เหล่านี้จะดูดซึมได้น้อยลง โดยเฉพาะการนำกลูโคสเข้าเซลล์ของปรสิตทั้งระยะตัวเต็มวัยและระยะตัวอ่อน และยังทำให้ไกลโคเจนที่สะสมไว้หมดไปด้วย” ต้นฉบับภาษาอังกฤษ: "ALBENZA (albendazole) is a synthetic, antihelminthic drug of the class benzimidazole. […] ALBENZA binds to the colchicine-sensitive site of β-tubulin inhibiting their polymerization into microtubules. The decrease in microtubules in the intestinal cells of the parasites decreases their absorptive function, especially the uptake of glucose by the adult and larval forms of the parasites, and also depletes glycogen storage." ([DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5) ฉบับวันที่ 2019-09-23 เข้าถึงเมื่อ 2026-11-19) ตามข้อมูลที่ทราบ Albendazole ยับยั้งการรวมตัวของ beta-tubulin ในตัวอ่อนพยาธิตัวตืด ทำให้ปรสิตขาดพลังงานและตาย
 
 โรคโคอีนูโรซิสเกิดจากตัวอ่อนของพยาธิตัวตืด *Taenia multiceps* ที่สร้างถุงน้ำในเนื้อเยื่อ ลักษณะคล้ายโรคถุงตัวอ่อนพยาธิตืดหมู ซึ่งใช้ albendazole รักษาอยู่แล้ว กลไกยับยั้ง tubulin จึงอาจใช้ได้กับโรคนี้ด้วย
 
@@ -172,7 +172,7 @@ Albendazole เป็นยาถ่ายพยาธิชนิดรับ�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
@@ -180,6 +180,7 @@ Albendazole เป็นยาถ่ายพยาธิชนิดรับ�
 | 2026-11-06 | ลบออก: “ใบอนุญาตรายการข้างต้นสถานะยกเลิกแล้ว” | แก้ไข (แก้ไขเมื่อ 2026-11-12 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-12 | ลบออก: “1A 110/67” | แก้ไข (แก้ไขเมื่อ 2026-11-12 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-12 | แก้อักขระเสียในคำว่า “รายการ” (ทะเบียนที่ยังใช้ได้ 61 รายการ) | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Albenza (albendazole) prescribing information, Amneal Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=1977a867-0ee1-44c0-8da3-fe59c48699f5) |
 
 <!-- review:end log -->
 

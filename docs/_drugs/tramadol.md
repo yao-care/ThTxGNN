@@ -54,7 +54,7 @@ Tramadol เดิมใช้บรรเทาอาการปวดปา�
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมสำหรับรายงานนี้ ตามข้อมูลที่ทราบ Tramadol เป็นยาที่กระตุ้นตัวรับโอปิออยด์ชนิดมิว (mu-opioid) ร่วมกับยับยั้งการดูดกลับของเซโรโทนินและนอร์เอพิเนฟริน เพื่อระงับปวด
+ตามหัวข้อ “Mechanism of Action” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Tramadol (คำแปลอย่างไม่เป็นทางการ): “Tramadol Hydrochloride Extended-Release Capsules ประกอบด้วย tramadol ซึ่งเป็นยากระตุ้นตัวรับ opioid และเป็นสารยับยั้งการเก็บกลับ norepinephrine และ serotonin แม้ว่ากลไกการออกฤทธิ์ของยายังไม่เป็นที่เข้าใจอย่างสมบูรณ์ แต่จากการทดสอบในสัตว์ ดูเหมือนว่ามีกลไกเสริมกันอย่างน้อยสองกลไกที่ใช้อธิบายได้ ได้แก่ การจับของยาต้นแบบและเมแทบอไลต์ M1 กับตัวรับ mu-opioid และการยับยั้งการเก็บกลับ norepinephrine และ serotonin อย่างอ่อน” ต้นฉบับภาษาอังกฤษ: "Tramadol Hydrochloride Extended-Release Capsules contain tramadol, an opioid agonist, and an inhibitor of reuptake of norepinephrine and serotonin. Although its mode of action is not completely understood, from animal tests, at least two complementary mechanisms appear applicable: binding of parent and M1 metabolite to mu-opioid receptors and weak inhibition of reuptake of norepinephrine and serotonin." ([DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9) ฉบับวันที่ 2026-01-23 เข้าถึงเมื่อ 2026-11-19) ตามข้อมูลที่ทราบ Tramadol เป็นยาที่กระตุ้นตัวรับโอปิออยด์ชนิดมิว (mu-opioid) ร่วมกับยับยั้งการดูดกลับของเซโรโทนินและนอร์เอพิเนฟริน เพื่อระงับปวด
 
 เมื่อพิจารณาโรคที่ทำนาย ภาวะนี้เป็นความผิดปกติทางพันธุกรรมของกระดูก (เกี่ยวข้องกับยีน CDMP1/GDF5) ซึ่งกลไกของ Tramadol ไม่ได้แก้ที่สาเหตุทางพันธุกรรมนี้ **จึงยังไม่พบความเชื่อมโยงเชิงกลไกที่ชัดเจน** อย่างมากที่สุดยาอาจบรรเทาอาการปวดได้เท่านั้น และคะแนนสูงของ TxGNN ไม่มีหลักฐานจริงรองรับ
 
@@ -144,12 +144,13 @@ Tramadol เดิมใช้บรรเทาอาการปวดปา�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-06 | ลบออก: “ใบอนุญาตในไทยถูกยกเลิกแล้ว และ” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Tramadol Hydrochloride Extended-Release (tramadol hydrochloride) prescribing information, Trigen Laboratories, LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c0bc7218-3fd0-4646-96f4-25355fc84aa9) |
 
 <!-- review:end log -->
 

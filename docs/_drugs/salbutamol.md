@@ -54,7 +54,7 @@ Salbutamol เป็นยากระตุ้นตัวรับเบต้
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมสำหรับรายงานนี้ ตามข้อมูลที่ทราบ Salbutamol เป็นตัวกระตุ้นตัวรับเบต้า-2 แบบจำเพาะ
+ตามหัวข้อ “Mechanism of Action” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Salbutamol (คำแปลอย่างไม่เป็นทางการ): “Albuterol sulfate เป็นยากระตุ้นตัวรับ beta 2 -adrenergic ฤทธิ์ทางเภสัชวิทยาของ albuterol sulfate เกิดจากการกระตุ้นตัวรับ beta 2 -adrenergic บนกล้ามเนื้อเรียบของทางเดินหายใจ การกระตุ้นตัวรับ beta 2 -adrenergic นำไปสู่การกระตุ้น adenylcyclase และการเพิ่มขึ้นของความเข้มข้นภายในเซลล์ของ cyclic-3', 5’-adenosine monophosphate (cyclic AMP)” ต้นฉบับภาษาอังกฤษ: "Albuterol sulfate is a beta 2 -adrenergic agonist. The pharmacologic effects of albuterol sulfate are attributable to activation of beta 2 -adrenergic receptors on airway smooth muscle. Activation of beta 2 -adrenergic receptors leads to the activation of adenylcyclase and to an increase in the intracellular concentration of cyclic-3', 5’-adenosine monophosphate (cyclic AMP)." ([DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) ฉบับวันที่ 2024-12-20 เข้าถึงเมื่อ 2026-11-19) ตามข้อมูลที่ทราบ Salbutamol เป็นตัวกระตุ้นตัวรับเบต้า-2 แบบจำเพาะ
 
 ในเชิงกลไก ตัวรับเบต้า-2 ที่อยู่บนเนื้อเยื่อเยื่อบุตาอาจช่วยลดการอักเสบที่เกิดจากเซลล์มาสต์ได้ อย่างไรก็ตาม นี่เป็นเพียงสมมติฐานจากการทำนาย ยังไม่มีหลักฐานทางคลินิกหรือวรรณกรรมที่ยืนยัน และยังไม่ได้ประเมินความคล้ายคลึงกับข้อบ่งใช้เดิมอย่างเป็นระบบ
 
@@ -137,12 +137,13 @@ Salbutamol เป็นยากระตุ้นตัวรับเบต้
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-12 | ลบออก: “1A 61/67” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Albuterol Sulfate Inhalation (albuterol sulfate) prescribing information, Amneal Pharmaceuticals NY LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2e449282-ee58-4e36-b983-85c4e6f0864d) |
 
 <!-- review:end log -->
 

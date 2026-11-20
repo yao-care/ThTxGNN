@@ -54,7 +54,7 @@ Lansoprazole เป็นยาที่ใช้ลดการหลั่ง�
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดของ Lansoprazole ตามข้อมูลที่ทราบ ยานี้เป็นยาลดการหลั่งกรดชนิดรับประทาน (รูปแบบยาเม็ด) ที่ใช้กับโรคในทางเดินอาหารส่วนบน
+ตามหัวข้อ “Mechanism of Action” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Lansoprazole (คำแปลอย่างไม่เป็นทางการ): “Lansoprazole จัดอยู่ในกลุ่มสารต้านการหลั่ง คือ substituted benzimidazoles ซึ่งกดการหลั่งกรดในกระเพาะอาหารโดยการยับยั้งอย่างจำเพาะต่อระบบเอนไซม์ (H +, K + )-ATPase ที่พื้นผิวด้านการหลั่งของเซลล์ parietal ในกระเพาะอาหาร เนื่องจากระบบเอนไซม์นี้ถือเป็นปั๊มกรด (โปรตอน) ภายในเซลล์ parietal จึงมีการจัดให้ lansoprazole เป็นยายับยั้งปั๊มกรดในกระเพาะอาหาร ในแง่ที่ว่ายานี้ปิดกั้นขั้นตอนสุดท้ายของการสร้างกรด” ต้นฉบับภาษาอังกฤษ: "Lansoprazole belongs to a class of antisecretory compounds, the substituted benzimidazoles, that suppress gastric acid secretion by specific inhibition of the (H +, K + )-ATPase enzyme system at the secretory surface of the gastric parietal cell. Because this enzyme system is regarded as the acid (proton) pump within the parietal cell, lansoprazole has been characterized as a gastric acid-pump inhibitor, in that it blocks the final step of acid production." ([DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) ฉบับวันที่ 2025-07-08 เข้าถึงเมื่อ 2026-11-19) Lansoprazole ตามข้อมูลที่ทราบ ยานี้เป็นยาลดการหลั่งกรดชนิดรับประทาน (รูปแบบยาเม็ด) ที่ใช้กับโรคในทางเดินอาหารส่วนบน
 
 จากข้อมูลที่รวบรวมไว้สำหรับรายงานนี้ ยังไม่พบความเชื่อมโยงเชิงกลไกที่ชัดเจน เพราะการลดกรดไม่สามารถแก้ภาวะอุดตันเชิงกลได้ และการทำนายนี้ไม่มีหลักฐานทางคลินิกหรือวรรณกรรมรองรับ จึงควรมองว่าเป็นเพียงสัญญาณจากโมเดล ไม่ใช่ข้อสรุปเชิงการรักษา
 
@@ -125,11 +125,12 @@ Lansoprazole เป็นยาที่ใช้ลดการหลั่ง�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Prevacid (lansoprazole) prescribing information, Takeda Pharmaceuticals America, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=71ba78cb-7e46-43eb-9425-fa130f537f84) |
 
 <!-- review:end log -->
 

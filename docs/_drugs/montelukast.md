@@ -56,7 +56,7 @@ Montelukast เป็นยาในกลุ่มต้านตัวรั�
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ข้อมูลกลไกการออกฤทธิ์โดยละเอียดจากฐานข้อมูลยายังขาดอยู่ แต่ตามความรู้ทางเภสัชวิทยา Montelukast จับกับตัวรับ CysLT1 และลดผลของลิวโคไทรอีนกลุ่มซิสเตอีนิล ผลดังกล่าวได้แก่ หลอดลมหดตัว การหลั่งเมือก และการอักเสบของทางเดินหายใจที่มีเม็ดเลือดขาวอีโอซิโนฟิลเป็นตัวนำ
+ตามหัวข้อ “Mechanism of Action” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Montelukast (คำแปลอย่างไม่เป็นทางการ): “Cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) เป็นผลผลิตจากเมแทบอลิซึมของกรด arachidonic และถูกปล่อยออกมาจากเซลล์หลายชนิด รวมถึง mast cell และ eosinophil สาร eicosanoid เหล่านี้จับกับตัวรับ cysteinyl leukotriene (CysLT) […] Montelukast เป็นสารที่ออกฤทธิ์เมื่อรับประทาน ซึ่งจับกับตัวรับ CysLT 1 ด้วยความชอบจับสูงและมีความจำเพาะสูง (มากกว่าตัวรับอื่นในทางเดินหายใจที่มีความสำคัญทางเภสัชวิทยา เช่น ตัวรับ prostanoid ตัวรับ cholinergic หรือตัวรับ β-adrenergic)” ต้นฉบับภาษาอังกฤษ: "The cysteinyl leukotrienes (LTC 4, LTD 4, LTE 4 ) are products of arachidonic acid metabolism and are released from various cells, including mast cells and eosinophils. These eicosanoids bind to cysteinyl leukotriene (CysLT) receptors. […] Montelukast is an orally active compound that binds with high affinity and selectivity to the CysLT 1 receptor (in preference to other pharmacologically important airway receptors, such as the prostanoid, cholinergic, or β-adrenergic receptor)." ([DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) ฉบับวันที่ 2025-04-30 เข้าถึงเมื่อ 2026-11-19) แต่ตามความรู้ทางเภสัชวิทยา Montelukast จับกับตัวรับ CysLT1 และลดผลของลิวโคไทรอีนกลุ่มซิสเตอีนิล ผลดังกล่าวได้แก่ หลอดลมหดตัว การหลั่งเมือก และการอักเสบของทางเดินหายใจที่มีเม็ดเลือดขาวอีโอซิโนฟิลเป็นตัวนำ
 
 กลไกเหล่านี้เกี่ยวข้องกับโรคอักเสบของหลอดลม จึงอธิบายได้ว่าทำไมโมเดลจึงให้คะแนนสูงกับหลอดลมอักเสบ มีการศึกษาทั้งในหลอดลมอักเสบชนิดอีโอซิโนฟิลที่ไม่เกี่ยวกับหืด และในหลอดลมฝอยอักเสบจากไวรัสในทารก
 
@@ -167,12 +167,13 @@ Montelukast เป็นยาในกลุ่มต้านตัวรั�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | ไม่มีข้อความนี้แล้วหลังสร้างรายงานใหม่ (2026-11-12: รายงานถูกสร้างใหม่ในเดือนพฤศจิกายน 2026 และไม่มีข้อความนี้แล้ว; เดิม: แก้ไข) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-12 | ลบออก: “1A 64/67” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Singulair (montelukast sodium) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=482dcc92-b47f-4ea6-854a-f5ac2aea7842) |
 
 <!-- review:end log -->
 

@@ -54,7 +54,7 @@ Losartan เป็นยากลุ่มที่ยับยั้งตั�
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมสำหรับรายงานนี้ ตามข้อมูลที่ทราบ Losartan ออกฤทธิ์ปิดกั้นตัวรับ AT1 ของแอนจิโอเทนซิน II
+ตามหัวข้อ “Mechanism of Action” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Losartan (คำแปลอย่างไม่เป็นทางการ): “Angiotensin II [ซึ่งสร้างจาก angiotensin I ในปฏิกิริยาที่เร่งโดย angiotensin converting enzyme (ACE, kininase II)] เป็นสารที่ทำให้หลอดเลือดหดตัวอย่างแรง เป็นฮอร์โมนหลักที่ออกฤทธิ์ต่อหลอดเลือดของระบบ renin-angiotensin และเป็นองค์ประกอบสำคัญในพยาธิสรีรวิทยาของโรคความดันโลหิตสูง นอกจากนี้ยังกระตุ้นการหลั่ง aldosterone จากต่อมหมวกไตส่วนนอก […] Losartan และเมแทบอไลต์หลักที่ออกฤทธิ์ของยาจะปิดกั้นฤทธิ์ทำให้หลอดเลือดหดตัวและฤทธิ์กระตุ้นการหลั่ง aldosterone ของ angiotensin II โดยการปิดกั้นอย่างจำเพาะต่อการจับของ angiotensin II กับตัวรับ AT 1 ซึ่งพบในเนื้อเยื่อหลายชนิด (เช่น กล้ามเนื้อเรียบของหลอดเลือด ต่อมหมวกไต)” ต้นฉบับภาษาอังกฤษ: "Angiotensin II [formed from angiotensin I in a reaction catalyzed by angiotensin converting enzyme (ACE, kininase II)] is a potent vasoconstrictor, the primary vasoactive hormone of the renin-angiotensin system, and an important component in the pathophysiology of hypertension. It also stimulates aldosterone secretion by the adrenal cortex. […] Losartan and its principal active metabolite block the vasoconstrictor and aldosterone-secreting effects of angiotensin II by selectively blocking the binding of angiotensin II to the AT 1 receptor found in many tissues, (e.g., vascular smooth muscle, adrenal gland)." ([DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) ฉบับวันที่ 2026-09-15 เข้าถึงเมื่อ 2026-11-19) ตามข้อมูลที่ทราบ Losartan ออกฤทธิ์ปิดกั้นตัวรับ AT1 ของแอนจิโอเทนซิน II
 
 งานวิจัยในแบบจำลองสัตว์ชี้ว่า แอนจิโอเทนซิน II และสัญญาณ NF-κB มีบทบาททำให้เกิดการบาดเจ็บของไตในภาวะไตเสื่อมจากความดันโลหิตสูงรุนแรง การปิดกั้นตัวรับ AT1 ด้วย Losartan จึงอาจขัดขวางเส้นทางนี้ได้ในเชิงกลไก
 
@@ -141,11 +141,12 @@ Losartan เป็นยากลุ่มที่ยับยั้งตั�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Losartan Potassium 50 Mg (losartan potassium) prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=498f26a1-5030-4f9b-9599-07d50e912d41) |
 
 <!-- review:end log -->
 

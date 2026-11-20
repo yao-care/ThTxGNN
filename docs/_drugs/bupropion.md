@@ -54,7 +54,7 @@ Bupropion เดิมใช้รักษาภาวะซึมเศร้�
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดจากฐานข้อมูลยา อย่างไรก็ตาม วรรณกรรมที่รวบรวมได้ระบุว่า Bupropion ยับยั้งการดูดกลับของนอร์เอพิเนฟรินและโดพามีน (NDRI) โดยไม่มีฤทธิ์ต่อเซโรโทนิน
+ตามหัวข้อ “Mechanism of Action” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Bupropion (คำแปลอย่างไม่เป็นทางการ): “ยังไม่ทราบกลไกที่แน่ชัดที่ทำให้ยาเม็ดออกฤทธิ์นาน bupropion hydrochloride (SR) ช่วยให้ผู้ป่วยงดสูบบุหรี่ได้ดีขึ้น แต่สันนิษฐานว่าเกี่ยวข้องกับกลไกทาง noradrenergic และ/หรือ dopaminergic Bupropion ยับยั้งการเก็บกลับ norepinephrine และ dopamine เข้าสู่เซลล์ประสาทได้ค่อนข้างอ่อน และไม่ยับยั้งการเก็บกลับ serotonin” ต้นฉบับภาษาอังกฤษ: "The exact mechanism by which bupropion hydrochloride extended-release tablets (SR) enhances the ability of patients to abstain from smoking is not known but is presumed to be related to noradrenergic and/or dopaminergic mechanisms. Bupropion is a relatively weak inhibitor of the neuronal reuptake of norepinephrine and dopamine, and does not inhibit the reuptake of serotonin." ([DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) ฉบับวันที่ 2026-11-11 เข้าถึงเมื่อ 2026-11-19) อย่างไรก็ตาม วรรณกรรมที่รวบรวมได้ระบุว่า Bupropion ยับยั้งการดูดกลับของนอร์เอพิเนฟรินและโดพามีน (NDRI) โดยไม่มีฤทธิ์ต่อเซโรโทนิน
 
 ภาวะบกพร่องของระบบแคเทโคลามีน (โดพามีนและนอร์เอพิเนฟริน) เกี่ยวข้องกับโรคสมาธิสั้น ยากระตุ้นอย่างเมทิลเฟนิเดตก็ออกฤทธิ์ผ่านระบบนี้ ดังนั้น Bupropion จึงถูกใช้นอกฉลากเป็นทางเลือกกลุ่มไม่กระตุ้นในผู้ที่ตอบสนองหรือทนต่อยากระตุ้นไม่ได้
 
@@ -146,13 +146,14 @@ Bupropion เดิมใช้รักษาภาวะซึมเศร้�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-06 | ลบออก: “และทะเบียนยาในไทยถูกยกเลิกแล้ว” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-06 | ลบออก: “เนื่องจากไม่มีทะเบียนที่ยังใช้งานอยู่” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Bupropion Hydrochloride Sr (bupropion hydrochloride) prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=dfb45438-1116-48f2-9bfe-776ebbf1e119) |
 
 <!-- review:end log -->
 

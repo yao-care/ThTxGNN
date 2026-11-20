@@ -56,7 +56,7 @@ Lamivudine เป็นยากลุ่มต้านไวรัส (nucleos
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดจากฐานข้อมูลยา แต่ตามข้อมูลที่ทราบ Lamivudine เป็นยายับยั้งเอนไซม์ reverse transcriptase เมื่อเข้าสู่เซลล์จะถูกเปลี่ยนเป็นรูปไตรฟอสเฟตที่ทำให้สายดีเอ็นเอของไวรัสหยุดต่อขยาย
+ตามหัวข้อ “Mechanism of Action” และ “Microbiology” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Lamivudine (คำแปลอย่างไม่เป็นทางการ): “Lamivudine เป็นยาต้านไวรัสเรโทร […] Lamivudine เป็นสารอะนาล็อกของนิวคลีโอไซด์ที่สังเคราะห์ขึ้น ภายในเซลล์ lamivudine จะถูกเติมหมู่ฟอสเฟตเป็นเมแทบอไลต์ 5′-triphosphate ที่ออกฤทธิ์ คือ lamivudine triphosphate (3TC-TP) กลไกการออกฤทธิ์หลักของ 3TC-TP คือการยับยั้งเอนไซม์ reverse transcriptase (RT) ของ HIV-1 ผ่านการยุติการต่อสาย DNA ภายหลังการรวมตัวของสารอะนาล็อกของนิวคลีโอไทด์เข้าไปในสาย DNA” ต้นฉบับภาษาอังกฤษ: "Lamivudine is an antiretroviral agent. […] Lamivudine is a synthetic nucleoside analogue. Intracellularly, lamivudine is phosphorylated to its active 5′-triphosphate metabolite, lamivudine triphosphate (3TC-TP). The principal mode of action of 3TC-TP is inhibition of HIV-1 reverse transcriptase (RT) via DNA chain termination after incorporation of the nucleotide analogue." ([DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) ฉบับวันที่ 2024-08-15 เข้าถึงเมื่อ 2026-11-19) แต่ตามข้อมูลที่ทราบ Lamivudine เป็นยายับยั้งเอนไซม์ reverse transcriptase เมื่อเข้าสู่เซลล์จะถูกเปลี่ยนเป็นรูปไตรฟอสเฟตที่ทำให้สายดีเอ็นเอของไวรัสหยุดต่อขยาย
 
 SIV เป็นไวรัสเรโทรกลุ่มเดียวกับเอชไอวี (เป็นต้นกำเนิดของ HIV-1 และ HIV-2) จึงมีเอนไซม์ reverse transcriptase ที่คล้ายกัน งานวิจัยในลิงแมคแคคแสดงว่ายานี้ออกฤทธิ์ต่อ SIV ได้ และใช้เป็นแบบจำลองศึกษาการดื้อยา (การกลายพันธุ์ M184V) รวมถึงการป้องกันหลังสัมผัสเชื้อ
 
@@ -166,13 +166,14 @@ SIV เป็นไวรัสเรโทรกลุ่มเดียวก�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-06 | ลบออก: “ใบอนุญาตในไทยถูกยกเลิกทั้งหมด และ” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-06 | ลบออก: “สถานะทะเบียนที่ยกเลิกแล้ว” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Epivir (lamivudine) prescribing information, ViiV Healthcare Company](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=89226149-47fa-4f7d-bb1f-1aa7034486b8) |
 
 <!-- review:end log -->
 

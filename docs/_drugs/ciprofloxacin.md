@@ -54,7 +54,7 @@ Ciprofloxacin เป็นยาปฏิชีวนะกลุ่มฟลู
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมสำหรับรายงานนี้ ตามข้อมูลที่ทราบ ciprofloxacin ยับยั้งเอนไซม์ DNA gyrase และ topoisomerase IV ของแบคทีเรีย จึงออกฤทธิ์ฆ่าเชื้อแบคทีเรียหลายชนิด
+ตามหัวข้อ “Mechanism of Action” และ “Microbiology” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Ciprofloxacin (คำแปลอย่างไม่เป็นทางการ): “Ciprofloxacin เป็นยาต้านแบคทีเรียในกลุ่ม fluoroquinolone […] ฤทธิ์ฆ่าแบคทีเรียของ ciprofloxacin เกิดจากการยับยั้งเอนไซม์ topoisomerase II (DNA gyrase) และ topoisomerase IV (ซึ่งทั้งสองเป็น topoisomerase ชนิดที่ II) ซึ่งจำเป็นต่อการจำลองแบบ การถอดรหัส การซ่อมแซม และการรวมตัวใหม่ของ DNA ของแบคทีเรีย” ต้นฉบับภาษาอังกฤษ: "Ciprofloxacin is a member of the fluoroquinolone class of antibacterial agents. […] The bactericidal action of ciprofloxacin results from inhibition of the enzymes topoisomerase II (DNA gyrase) and topoisomerase IV (both Type II topoisomerases), which are required for bacterial DNA replication, transcription, repair, and recombination." ([DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) ฉบับวันที่ 2025-11-04 เข้าถึงเมื่อ 2026-11-19) ตามข้อมูลที่ทราบ ciprofloxacin ยับยั้งเอนไซม์ DNA gyrase และ topoisomerase IV ของแบคทีเรีย จึงออกฤทธิ์ฆ่าเชื้อแบคทีเรียหลายชนิด
 
 ในผู้ป่วยระบบหนังแข็ง (systemic sclerosis) มักพบภาวะแบคทีเรียในลำไส้เล็กเจริญเกินปกติ ซึ่งทำให้ท้องเสียเรื้อรังและน้ำหนักลด ยาปฏิชีวนะจึงอาจช่วยบรรเทาอาการส่วนนี้ได้ นอกจากนี้มีรายงานว่ายาอาจมีฤทธิ์ต้านพังผืดที่ผิวหนังด้วย แต่เป็นเพียงข้อสันนิษฐาน ยังไม่มีหลักฐานกลไกที่ยืนยันชัดเจน
 
@@ -149,13 +149,14 @@ Ciprofloxacin เป็นยาปฏิชีวนะกลุ่มฟลู
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-12 | ลบออก: “1A 51/67” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-12 | จำนวนทะเบียนที่ยกเลิก: 246 → 244 รายการ (อีก 2 รายการมีสถานะ “รอตรวจสอบสถานะ”) | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Ciprofloxacin In Dextrose (ciprofloxacin) prescribing information, Hospira, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=cbbbf939-3219-4515-a48e-ca264daa4d07) |
 
 <!-- review:end log -->
 

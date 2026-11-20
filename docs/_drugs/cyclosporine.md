@@ -56,7 +56,7 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
 
-ปัจจุบันยังขาดข้อมูลกลไกการออกฤทธิ์โดยละเอียดในข้อมูลที่รวบรวมมา ตามข้อมูลที่ทราบ Cyclosporine เป็นยากลุ่มยับยั้งแคลซิวนิวริน (calcineurin inhibitor) ที่กดการทำงานของเซลล์ที่ (T-cell) และใช้ป้องกันภาวะ GVHD ในการปลูกถ่ายอวัยวะและไขกระดูก
+ตามหัวข้อ “Clinical Pharmacology” ในเอกสารกำกับยาที่ได้รับอนุมัติจาก FDA สหรัฐอเมริกา (Prescribing Information) ของ Cyclosporine (คำแปลอย่างไม่เป็นทางการ): “Cyclosporine เป็นยากดภูมิคุ้มกันที่มีฤทธิ์แรง ซึ่งในสัตว์ทดลองช่วยยืดระยะการอยู่รอดของอวัยวะที่ปลูกถ่ายจากต่างบุคคลในสปีชีส์เดียวกัน (allogeneic transplants) ได้แก่ ผิวหนัง ไต ตับ หัวใจ ตับอ่อน ไขกระดูก ลำไส้เล็ก และปอด มีการแสดงให้เห็นว่า cyclosporine กดภูมิคุ้มกันชนิดสารน้ำ (humoral immunity) บางส่วน และกดปฏิกิริยาภูมิคุ้มกันชนิดพึ่งเซลล์ได้มากกว่า เช่น การปฏิเสธอวัยวะปลูกถ่ายจากต่างบุคคล ภาวะภูมิไวเกินชนิดล่าช้า โรคสมองและไขสันหลังอักเสบจากภูมิแพ้ในการทดลอง ข้ออักเสบจาก Freund’s adjuvant และโรคสิ่งปลูกถ่ายต่อต้านผู้รับ (graft versus host disease) ในสัตว์หลายสปีชีส์สำหรับอวัยวะหลากหลายชนิด” ต้นฉบับภาษาอังกฤษ: "Cyclosporine is a potent immunosuppressive agent that in animals prolongs survival of allogeneic transplants involving skin, kidney, liver, heart, pancreas, bone marrow, small intestine, and lung. Cyclosporine has been demonstrated to suppress some humoral immunity and to a greater extent, cell-mediated immune reactions such as allograft rejection, delayed hypersensitivity, experimental allergic encephalomyelitis, Freund’s adjuvant arthritis, and graft versus host disease in many animal species for a variety of organs." ([DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) ฉบับวันที่ 2026-09-10 เข้าถึงเมื่อ 2026-11-19) ตามข้อมูลที่ทราบ Cyclosporine เป็นยากลุ่มยับยั้งแคลซิวนิวริน (calcineurin inhibitor) ที่กดการทำงานของเซลล์ที่ (T-cell) และใช้ป้องกันภาวะ GVHD ในการปลูกถ่ายอวัยวะและไขกระดูก
 
 ความเชื่อมโยงกับโรคนี้เป็นเพียง **ทางอ้อม** คือเป็นยาสนับสนุนในการปลูกถ่ายเซลล์ต้นกำเนิดเม็ดเลือด (HSCT) ซึ่งเป็นการรักษาโรค CGD ไม่ใช่การแก้ความบกพร่องของเอนไซม์ NADPH oxidase ที่เป็นสาเหตุของโรคโดยตรง
 
@@ -170,13 +170,14 @@ Cyclosporine เดิมใช้ป้องกันการปฏิเส�
 
 ## บันทึกการตรวจสอบ
 
-ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่
+ด้านล่างคือบันทึกการตรวจสอบของหน้านี้ ซึ่งตรวจสอบกับข้อมูลทะเบียนตำรับยาของสำนักงานคณะกรรมการอาหารและยา (อย.) การแก้ไขจำกัดเฉพาะข้อเท็จจริงพื้นฐาน ไม่ได้เขียนการคาดการณ์ของโมเดล ระดับหลักฐาน หรือข้อสรุปใหม่ ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกจากเอกสารกำกับยาทางการที่อ้างถึง (พร้อมคำแปลอย่างไม่เป็นทางการ)
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-06 | ลบออก: “ใบอนุญาตในประเทศไทยถูกยกเลิกแล้ว และ” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-06 | ลบออก: “เนื่องจากใบอนุญาตเดียวที่มีถูกยกเลิกแล้ว” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Cyclosporine, Modfied (cyclosporine) prescribing information, Apotex Corp.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=5baaf78c-90f6-abcf-52c8-814490f3cf9f) |
 
 <!-- review:end log -->
 
