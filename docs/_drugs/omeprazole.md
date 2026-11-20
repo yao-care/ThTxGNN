@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Omeprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Omeprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะลำไส้เล็กส่วนดูโอดีนัมอุดตัน (duodenal obstruction) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 195 รายการ (ยังมีผล 73)"
 ---
 

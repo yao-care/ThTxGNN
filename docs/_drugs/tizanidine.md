@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Tizanidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (migraine disorder) (ระดับหลักฐาน L2) ทะเบียนตำรับยาในระบบของ อย.: 22 รายการ (ยังมีผล 8)"
 ---
 

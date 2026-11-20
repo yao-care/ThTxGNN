@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Cetirizine"
 predicted_indications: ["nasal cavity disease", "rosacea conjunctivitis", "recalcitrant atopic dermatitis"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Cetirizine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคของโพรงจมูก (nasal cavity disease) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 225 รายการ (ยังมีผล 99)"
 ---
 

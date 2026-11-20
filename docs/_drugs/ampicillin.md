@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 19
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Ampicillin"
 predicted_indications: ["laryngitis", "Ureaplasma urethritis", "chronic rhinosinusitis", "chronic ethmoidal sinusitis", "gingivitis", "paranasal sinus neoplasm (disease)", "bacterial arthritis", "conjunctivitis", "pericoronitis"]
 description: "Ampicillin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกล่องเสียงอักเสบ (laryngitis) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 777 รายการ (ยังมีผล 37)"

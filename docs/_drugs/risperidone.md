@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 137
 evidence_level: L5
 indication_count: 4
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Risperidone"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "amelocerebrohypohidrotic syndrome", "Phelan-McDermid syndrome", "trichotillomania"]
 description: "Risperidone: ข้อบ่งใช้ใหม่ที่คาดการณ์ อัมพาตการมองเหลือบแนวนอนในครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaze palsy, familial horizontal, with progressive scoliosis) (ระดับหลักฐาน L5)."

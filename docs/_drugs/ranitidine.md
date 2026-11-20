@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 6
 monitor_inn: "Ranitidine"
 predicted_indications: ["peptic ulcer perforation", "duodenal obstruction", "gastroduodenitis", "Smouldering systemic mastocytosis", "abnormality of glucagon secretion", "lymphoadenopathic mastocytosis with eosinophilia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Ranitidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ การทะลุของแผลเปปติก (peptic ulcer perforation) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 159 รายการ (ยังมีผล 0)"
 ---
 

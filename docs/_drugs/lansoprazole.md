@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Lansoprazole"
 predicted_indications: ["duodenal obstruction"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Lansoprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะลำไส้เล็กส่วนต้นอุดตัน (duodenal obstruction) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 22 รายการ (ยังมีผล 6)"
 ---
 

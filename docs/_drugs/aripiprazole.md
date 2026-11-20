@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 20
 evidence_level: L5
 indication_count: 8
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Aripiprazole"
 predicted_indications: ["gaze palsy, familial horizontal, with progressive scoliosis", "Phelan-McDermid syndrome", "amelocerebrohypohidrotic syndrome", "distal 17p13.3 microdeletion syndrome", "trichotillomania", "Malan overgrowth syndrome", "retinal dystrophy with or without extraocular anomalies", "hydranencephaly (disease)"]
 description: "Aripiprazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ อัมพาตการมองระดับแนวนอนแบบครอบครัวร่วมกับกระดูกสันหลังคดแบบก้าวหน้า (gaze palsy, familial horizontal, with progressive scoliosis) (ระดับหลักฐาน L5)."

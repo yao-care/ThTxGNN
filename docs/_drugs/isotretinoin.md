@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Isotretinoin"
 predicted_indications: ["malignant hypertensive renal disease"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Isotretinoin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 83 รายการ (ยังมีผล 21)"
 ---
 

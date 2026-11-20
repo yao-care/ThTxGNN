@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 115
 evidence_level: L5
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Nystatin"
 predicted_indications: ["disease of orbital region", "disease of orbital part of eye adnexa", "cystic teratoma", "spinal cord dermoid cyst", "postmenopausal atrophic vaginitis", "biotin metabolic disease", "vulvitis", "commissural lip fistula", "osteoradionecrosis of the mandible"]
 description: "Nystatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคของบริเวณเบ้าตา (disease of orbital region) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 63 รายการ (ยังมีผล 10)"

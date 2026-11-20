@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Sertraline"
 predicted_indications: ["paranoid personality disorder", "histrionic personality disorder (disease)", "schizoid personality disorder", "schizotypal personality disorder", "benign paroxysmal torticollis of infancy", "dependent personality disorder", "narcissistic personality disorder"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Sertraline: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพผิดปกติแบบหวาดระแวง (paranoid personality disorder) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 33 รายการ (ยังมีผล 15)"
 ---
 

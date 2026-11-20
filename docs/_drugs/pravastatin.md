@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Pravastatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อเอชไอวี (HIV infectious disease) (ระดับหลักฐาน L4) ทะเบียนตำรับยาในระบบของ อย.: 27 รายการ (ยังมีผล 6)"
 ---
 

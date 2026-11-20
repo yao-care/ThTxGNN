@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 48
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 description: "Clozapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคอารมณ์สองขั้วระยะแมเนีย (manic bipolar affective disorder) (ระดับหลักฐาน L2) ทะเบียนตำรับยาในระบบของ อย.: 17 รายการ (ยังมีผล 9)"

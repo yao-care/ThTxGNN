@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 4
 monitor_inn: "Cabergoline"
 predicted_indications: ["progeria-short stature-pigmented nevi syndrome", "pituitary cancer", "cerebral palsy, spastic quadriplegic", "glaucoma"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Cabergoline: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการโปรเจเรีย-ตัวเตี้ย-ไฝสี (progeria-short stature-pigmented nevi syndrome) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 1 รายการ (ยังมีผล 1)"
 ---
 

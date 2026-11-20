@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 13
 evidence_level: L5
 indication_count: 1
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Albendazole"
 predicted_indications: ["coenurosis"]
 description: "Albendazole: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคโคอีนูโรซิส (coenurosis) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 173 รายการ (ยังมีผล 61)"

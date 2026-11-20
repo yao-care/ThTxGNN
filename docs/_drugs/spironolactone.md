@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Spironolactone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขนบางบนหนังศีรษะชนิดซิมเพล็กซ์ (hypotrichosis simplex of the scalp) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 47 รายการ (ยังมีผล 10)"
 ---
 

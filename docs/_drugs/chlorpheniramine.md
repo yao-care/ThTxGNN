@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Chlorpheniramine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-10-31
+last_modified_at: 2026-11-20
 description: "Chlorpheniramine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคของโพรงจมูก (nasal cavity disease) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 1622 รายการ (ยังมีผล 270)"
 ---
 

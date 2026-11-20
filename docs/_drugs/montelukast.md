@@ -5,7 +5,7 @@ parent: หลักฐานระดับกลาง (L3-L4)
 nav_order: 111
 evidence_level: L3
 indication_count: 2
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 monitor_inn: "Montelukast"
 predicted_indications: ["bronchitis", "atopic eczema"]
 description: "Montelukast: ข้อบ่งใช้ใหม่ที่คาดการณ์ หลอดลมอักเสบ (bronchitis) (ระดับหลักฐาน L3) ทะเบียนตำรับยาในระบบของ อย.: 46 รายการ (ยังมีผล 24)"

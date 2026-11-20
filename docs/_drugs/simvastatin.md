@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 5
 monitor_inn: "Simvastatin"
 predicted_indications: ["brain stem infarction", "cholesterol-ester transfer protein deficiency", "HIV infectious disease", "ABri amyloidosis", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter"]
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-20
 description: "Simvastatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะก้านสมองขาดเลือด (brain stem infarction) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 96 รายการ (ยังมีผล 25)"
 ---
 
