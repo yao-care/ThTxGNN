@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bupropion ข้อบ่งใช้ที่คาดการณ์ 10 รายการ"
 permalink: /news/bupropion/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-20
 ---
 
 # ข่าวเกี่ยวกับ Bupropion
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-19
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Bupropion บ้าง">
-ขณะนี้ <strong>Bupropion</strong> มีข่าวที่เกี่ยวข้อง <strong>8 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
+ขณะนี้ <strong>Bupropion</strong> มีข่าวที่เกี่ยวข้อง <strong>9 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 10 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -42,13 +42,21 @@ last_modified_at: 2026-11-19
 <p><a href="{{ '/drugs/bupropion/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (8 ข่าว)
+## ข่าวที่เกี่ยวข้อง (9 ข่าว)
 
 ### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
-2026-11-19 <span class="news-indication-tag">มะเร็ง</span>
+2026-11-20 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
+
+---
+
+### [ข้าราชการเฮ! กรมบัญชีกลางเพิ่มสิทธิเบิกยา “Olaparib” รักษามะเร็งรังไข่-เต้านม ผ่านระบบเบิกตรง](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UZ0VCVzZfSjdCVHdkS19XUXJ2VmtEQmVFUmdGQlVCSEh6QUhRTXE2dV9NX01VMU9mdXl2emw5cVEyaWVuX0N5ai1TZ0IwSlVxbXJyRlMxWQ?oc=5)
+
+2026-11-20 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UZ0VCVzZfSjdCVHdkS19XUXJ2VmtEQmVFUmdGQlVCSEh6QUhRTXE2dV9NX01VMU9mdXl2emw5cVEyaWVuX0N5ai1TZ0IwSlVxbXJyRlMxWQ?oc=5)
 
 ---
 
