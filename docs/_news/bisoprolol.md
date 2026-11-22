@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Bisoprolol ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/bisoprolol/
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-22
 ---
 
 # ข่าวเกี่ยวกับ Bisoprolol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-20
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Bisoprolol บ้าง">
-ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>9 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
+ขณะนี้ <strong>Bisoprolol</strong> มีข่าวที่เกี่ยวข้อง <strong>10 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -36,11 +36,19 @@ last_modified_at: 2026-11-20
 <p><a href="{{ '/drugs/bisoprolol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (9 ข่าว)
+## ข่าวที่เกี่ยวข้อง (10 ข่าว)
+
+### [ชายวัย 22 ปีรายหนึ่งเกิดเป็นอัมพาตขาทั้งสองข้างอย่างไม่คาดคิด หลังจากรับประทานยาแก้ไอที่หาซื้อได้ทั่วไปโดยไม่ปรึกษาแพทย์](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjF5Q0dzMDZmRzR4N2JNNEQ0N3FLWU9wQ002YUtmOGZPUWxSajFsa29wakQyZWFseXdJa2xQNVRDVVNrc0tLeU1MUlItZEU1WUtOeWtkWmQ5c2hMa25zSXBCY0NzQWFSa1VacldCa3RINHVjWkd3X3BoTjJ3UGRtVHhoWVg3SEc5eWdDb3F1WGJKZVNJRHVMbFBn?oc=5)
+
+2026-11-22 <span class="news-indication-tag">อัมพาต</span>
+
+แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjF5Q0dzMDZmRzR4N2JNNEQ0N3FLWU9wQ002YUtmOGZPUWxSajFsa29wakQyZWFseXdJa2xQNVRDVVNrc0tLeU1MUlItZEU1WUtOeWtkWmQ5c2hMa25zSXBCY0NzQWFSa1VacldCa3RINHVjWkd3X3BoTjJ3UGRtVHhoWVg3SEc5eWdDb3F1WGJKZVNJRHVMbFBn?oc=5)
+
+---
 
 ### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
-2026-11-20 <span class="news-indication-tag">มะเร็ง</span>
+2026-11-21 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
