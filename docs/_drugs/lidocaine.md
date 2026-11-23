@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Lidocaine"
 predicted_indications: ["punctate epithelial keratoconjunctivitis", "papillary conjunctivitis", "rosacea conjunctivitis", "exposure keratitis", "atopic conjunctivitis", "conjunctival disorder", "nephrotic syndrome", "non-human animal disease", "tinea corporis", "sporadic idiopathic steroid-resistant nephrotic syndrome"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Lidocaine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (punctate epithelial keratoconjun… (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: ยาชา, หัวใจเต้นผิดจังหวะ"
 ---
 
@@ -48,8 +48,8 @@ Lidocaine เดิมใช้เป็นยาชาและรักษา�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคกระจกตาและเยื่อบุตาอักเสบชนิดจุด (punctate epithelial keratoconjunctivitis) |
 | คะแนนการทำนาย TxGNN | 0.9999 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 71 จาก 405 รายการ) |
-| จำนวนทะเบียนตำรับยา | 405 รายการ (ยังมีผล 71) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 70 จาก 405 รายการ) |
+| จำนวนทะเบียนตำรับยา | 405 รายการ (ยังมีผล 70) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
