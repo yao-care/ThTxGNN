@@ -3,9 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ มะเร็ง (generic_cancer)"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพเกี่ยวกับ มะเร็ง (generic_cancer) ข่าว 9 รายการ ยาที่เกี่ยวข้อง 39 รายการ"
+description: "ข่าวสุขภาพเกี่ยวกับ มะเร็ง (generic_cancer) ข่าว 10 รายการ ยาที่เกี่ยวข้อง 39 รายการ"
 permalink: /news/generic-cancer/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-23
 ---
 
 # ข่าวเกี่ยวกับ มะเร็ง (generic_cancer)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ มะเร็ง (generic_cancer) บ้าง">
-ขณะนี้ <strong>มะเร็ง (generic_cancer)</strong> มีข่าวที่เกี่ยวข้อง <strong>9 ข่าว</strong> และยาที่เกี่ยวข้อง 39 รายการ
+ขณะนี้ <strong>มะเร็ง (generic_cancer)</strong> มีข่าวที่เกี่ยวข้อง <strong>10 ข่าว</strong> และยาที่เกี่ยวข้อง 39 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -66,11 +66,11 @@ last_modified_at: 2026-11-22
 </ul>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (9 ข่าว)
+## ข่าวที่เกี่ยวข้อง (10 ข่าว)
 
 ### [BDMS กางแผนปี 2570 นำร่องผลิตยารักษามะเร็งขั้นสูง CAR-T Cell คาดค่ายา 3.5 ล้านบาท ประเดิมใช้ใน 3 รพ. ในเครือ](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
-2026-11-21
+2026-11-22
 
 แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
 
@@ -81,6 +81,14 @@ last_modified_at: 2026-11-22
 2026-11-20
 
 แหล่งที่มา: [Hfocus.org](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UZ0VCVzZfSjdCVHdkS19XUXJ2VmtEQmVFUmdGQlVCSEh6QUhRTXE2dV9NX01VMU9mdXl2emw5cVEyaWVuX0N5ai1TZ0IwSlVxbXJyRlMxWQ?oc=5)
+
+---
+
+### [ไขปริศนาทำไม? การ "ดื่มเครื่องดื่มแอลกอฮอล์" ถึงขัดขวางภูมิคุ้มกัน ทำลายฤทธิ์ "ยารักษามะเร็ง" - TNN Thailand](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yTlRtcEdKV3VQanZzVzR4NW9oXzk3RURQUTNyV2dLZWJzYjdjS3RQZUNUV1BRUFh2dlQtME9nQnZkalJNdndpbm9nNWt0WmdqUHROWA?oc=5)
+
+2026-11-18
+
+แหล่งที่มา: [TNN Thailand](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9yTlRtcEdKV3VQanZzVzR4NW9oXzk3RURQUTNyV2dLZWJzYjdjS3RQZUNUV1BRUFh2dlQtME9nQnZkalJNdndpbm9nNWt0WmdqUHROWA?oc=5)
 
 ---
 
