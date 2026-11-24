@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Carvedilol ข้อบ่งใช้ที่คาดการณ์ 4 รายการ"
 permalink: /news/carvedilol/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # ข่าวเกี่ยวกับ Carvedilol
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Carvedilol บ้าง">
-ขณะนี้ <strong>Carvedilol</strong> มีข่าวที่เกี่ยวข้อง <strong>11 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
+ขณะนี้ <strong>Carvedilol</strong> มีข่าวที่เกี่ยวข้อง <strong>12 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 4 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -36,7 +36,15 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/carvedilol/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (11 ข่าว)
+## ข่าวที่เกี่ยวข้อง (12 ข่าว)
+
+### [กินยาคุมนาน อันตรายไหม? เสี่ยงมะเร็งเต้านมแค่ไหน](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBWWdNZDAxSjJ1ZlNfNnBqWUF2OUVqVzR3ZC14cEtnbUNQNTdzalhtai1ubFNJQnVEUXZ5bWQ0NHRab1U5VUtzWWRGc1ZVTzlNN0F1VEwwbEx0UmJSdVZPRGYwN1F1RUNtYkZZLXp3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [แนวหน้า](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBWWdNZDAxSjJ1ZlNfNnBqWUF2OUVqVzR3ZC14cEtnbUNQNTdzalhtai1ubFNJQnVEUXZ5bWQ0NHRab1U5VUtzWWRGc1ZVTzlNN0F1VEwwbEx0UmJSdVZPRGYwN1F1RUNtYkZZLXp3?oc=5)
+
+---
 
 ### [ชายวัย 22 ปีรายหนึ่งเกิดเป็นอัมพาตขาทั้งสองข้างอย่างไม่คาดคิด หลังจากรับประทานยาแก้ไอที่หาซื้อได้ทั่วไปโดยไม่ปรึกษาแพทย์](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjF5Q0dzMDZmRzR4N2JNNEQ0N3FLWU9wQ002YUtmOGZPUWxSajFsa29wakQyZWFseXdJa2xQNVRDVVNrc0tLeU1MUlItZEU1WUtOeWtkWmQ5c2hMa25zSXBCY0NzQWFSa1VacldCa3RINHVjWkd3X3BoTjJ3UGRtVHhoWVg3SEc5eWdDb3F1WGJKZVNJRHVMbFBn?oc=5)
 

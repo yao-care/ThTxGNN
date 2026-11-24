@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Valproic acid ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/valproic_acid/
-last_modified_at: 2026-11-23
+last_modified_at: 2026-11-24
 ---
 
 # ข่าวเกี่ยวกับ Valproic acid
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-23
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Valproic acid บ้าง">
-ขณะนี้ <strong>Valproic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>10 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
+ขณะนี้ <strong>Valproic acid</strong> มีข่าวที่เกี่ยวข้อง <strong>11 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -29,7 +29,15 @@ last_modified_at: 2026-11-23
 <p><a href="{{ '/drugs/valproic-acid/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (10 ข่าว)
+## ข่าวที่เกี่ยวข้อง (11 ข่าว)
+
+### [กินยาคุมนาน อันตรายไหม? เสี่ยงมะเร็งเต้านมแค่ไหน](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBWWdNZDAxSjJ1ZlNfNnBqWUF2OUVqVzR3ZC14cEtnbUNQNTdzalhtai1ubFNJQnVEUXZ5bWQ0NHRab1U5VUtzWWRGc1ZVTzlNN0F1VEwwbEx0UmJSdVZPRGYwN1F1RUNtYkZZLXp3?oc=5)
+
+2026-11-24 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [แนวหน้า](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBWWdNZDAxSjJ1ZlNfNnBqWUF2OUVqVzR3ZC14cEtnbUNQNTdzalhtai1ubFNJQnVEUXZ5bWQ0NHRab1U5VUtzWWRGc1ZVTzlNN0F1VEwwbEx0UmJSdVZPRGYwN1F1RUNtYkZZLXp3?oc=5)
+
+---
 
 ### [ข้าราชการเฮ! กรมบัญชีกลางเพิ่มสิทธิเบิกยา “Olaparib” รักษามะเร็งรังไข่-เต้านม ผ่านระบบเบิกตรง](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5UZ0VCVzZfSjdCVHdkS19XUXJ2VmtEQmVFUmdGQlVCSEh6QUhRTXE2dV9NX01VMU9mdXl2emw5cVEyaWVuX0N5ai1TZ0IwSlVxbXJyRlMxWQ?oc=5)
 
