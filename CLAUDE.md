@@ -588,3 +588,10 @@ pertento 沒有其他公開的完整清單可對，這兩號的實際狀態判�
   11-03 AI 重產時描述它自己另寫的許可證表（11-12 已刪）的說明句 7 句（ampicillin、aripiprazole、ciprofloxacin、dexamethasone、diazepam、nystatin、sertraline：「ตารางข้างต้นแสดงเฉพาะรายการที่มีรายละเอียด…」等）以 `th-lic-20261124-*` 刪除。
   另寫的寬偵測（同行有許可證字樣、數字不在事實層任一讀法）全量掃公開頁剩 18 行，全是文獻篇數（วรรณกรรม N ฉบับ）或偵測窗口切斷的數字，沒有跟事實不符的張數句。checker 全量前後都是 0；gate exit 0。
   last_modified_at：149 頁可見內容有變（表下總數句、查核框文字），改 2026-11-24。
+
+## 缺市場段落的公開頁補程式表（2026-11-24 第三輪）
+
+用戶 2026-11-24 決定（比照 JpTxGNN 第二輪 `add_section`）：公開頁（非 noindex、非轉址）整頁沒有「## ข้อมูลการวางจำหน่ายในประเทศไทย」、證據包卻有 pertento 紀錄的，
+`scripts/sync_license_tables.py` 的 `add_section` 在「## ข้อพิจารณาด้านความปลอดภัย」之前（沒有就結論、查核紀錄、免責聲明段之前）補段落與程式表；noindex 頁、證據包沒有紀錄的頁不補。
+gate（`src/thtxgnn/regulatory/licenses.py` 第 5 項）擋「公開頁快照有程式表列卻沒有市場段落」；`license_adapter.PAGE_NOTE` 放行新標題行。
+2026-11-24 全量量測 2 頁（azathioprine 16 張、ketamine 14 張），補上；兩頁正文沒有跟新表矛盾的句子，沒有新查核紀錄。checker 前後都是 0、gate exit 0。

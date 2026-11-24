@@ -14,6 +14,7 @@ th_rebuild_licenses_20261031.py 一次性產生過許可證表（沒有標記、
 - 超過 30 張：表下一句 MORE（10-31 的寫法，指向 pertento）；超過 30 張時另寫總數 TOTAL_NOTE。
 - 證據包沒有任何 pertento 紀錄：區塊內只放 NONE_LINE。
 - 段落裡、程式區塊外跟程式句相同的行（以前重排時重複插入的）一併拿掉。
+- 整頁沒有市場段落、證據包有 pertento 紀錄的公開頁：在安全性／結論／查核紀錄／免責聲明段之前補段落與程式表（add_section，2026-11-24 第三輪）。
 資料來源兩種：bundle（data/bundles；每週排程 adapter 的 sync_tables、手動）與 snapshot
 （snapshots/th_licenses.json.gz 的 rows／total；scripts/apply_drug_reviews.py 結尾、scripts/build_license_snapshot.py 結尾，不需要 data/）。
 gate（src/thtxgnn/regulatory/licenses.py 的 program_block_problems）擋「段落有表卻不是程式區塊」「程式區塊≠快照重算結果」。
@@ -91,7 +92,7 @@ def process(text, rows, total, blk=None):
     lines = text.split("\n")
     a, b = _section(lines)
     if a is None:
-        return text
+        return (add_section(text, rows, total) if blk is None else None) or text
     blk = blk or [BEGIN, ""] + program_block(rows, total) + ["", END]
     sec = lines[a:b]
     if BEGIN in sec and END in sec:
@@ -118,6 +119,25 @@ def process(text, rows, total, blk=None):
         out.append("")
     out += lines[b:]
     return re.sub(r"\n{3,}", "\n\n", "\n".join(out))
+
+
+# 2026-11-24 第三輪（用戶決定，比照 JpTxGNN 第二輪）：公開頁沒有「## ข้อมูลการวางจำหน่ายในประเทศไทย」段落、但證據包有 pertento 紀錄的，
+# 補一個段落放程式表。位置：「## ข้อพิจารณาด้านความปลอดภัย」（安全性）之前；沒有就「## สรุปและขั้นตอนถัดไป」（結論）之前；
+# 再沒有就「## บันทึกการตรวจสอบ」（查核紀錄）、「## ข้อจำกัดความรับผิดชอบ」（免責聲明）之前。noindex 頁與證據包沒有紀錄的頁不補。
+ADD_BEFORE = ("ข้อพิจารณาด้านความปลอดภัย", "สรุปและขั้นตอนถัดไป", "บันทึกการตรวจสอบ", "ข้อจำกัดความรับผิดชอบ")
+
+
+def add_section(text, rows, total):
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    if re.search(r"^noindex:\s*true", fm, re.M) or not rows:
+        return None
+    lines = text.split("\n")
+    heads = {m.group(1): i for i, l in enumerate(lines) for m in [re.match(r"^## (.+?)\s*$", l)] if m}
+    at = next((heads[h] for h in ADD_BEFORE if h in heads), None)
+    if at is None:
+        return None
+    sec = [SEC, "", BEGIN, ""] + program_block(rows, total) + ["", END, ""]
+    return re.sub(r"\n{3,}", "\n\n", "\n".join(lines[:at] + sec + lines[at:]))
 
 
 def carry_block(old_text, new_text):

@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 7
 monitor_inn: "Azathioprine"
 predicted_indications: ["colobomatous microphthalmia-rhizomelic dysplasia syndrome", "brachydactyly-syndactyly syndrome", "WHIM syndrome", "granulomatous disease, chronic, autosomal recessive, 5", "osteoarthritis", "granulomatous disease with defect in neutrophil chemotaxis", "acromesomelic dysplasia, Hunter-Thompson type"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Azathioprine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการตาแหว่งร่วมกับตาเล็กและกระดูกแขนขาส่วนต้นสั้น (colobomatous microphthalmia-rhizomelic dysplasia syndrome) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: -"
 ---
 
@@ -65,6 +65,31 @@ Azathioprine เป็นยากดภูมิคุ้มกันชนิ�
 ## หลักฐานจากวรรณกรรม
 
 ปัจจุบันยังไม่มีวรรณกรรมที่เกี่ยวข้อง
+
+## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+<!-- licenses:begin -->
+
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1C 23/46 | AZATHIOPRINE TABLETS BP | TABLET | คงอยู่ |
+| 1C 247/52 | IMURAN (TABLETS 50 MG) | FILM - COATED TABLET | คงอยู่ |
+| 1C 40/64 | AZATHIOPRINE TABLETS BP 50 MG | FILM-COATED TABLET | คงอยู่ |
+| 1C 47/55 | AZATHIOPRINE PCH | compressed tablet | คงอยู่ |
+| 1C 75/53 | IMUPRIN 50 | FILM - COATED TABLET | คงอยู่ |
+| 1C 111/52 | ZINOTHIN | COMPRESSED TABLET | ยกเลิก |
+| 1C 15/55 | AZAFRINE TABS. | COMPRESSED TABLET | ยกเลิก(31 มกราคม 2560) |
+| 1C 16/60 | AZAFRINE TABS. | TABLET | ยกเลิก |
+| 1C 162/59 | AZADUS | COMPRESSED TABLET | ยกเลิก |
+| 1C 21/42 | AZATHIOPRINE TABLETS BP 50 MG | COMPRESSED TABLET | ยกเลิก(15 สิงหาคม 2546) |
+| 1C 262/50 | AZADUS | COMPRESSED TABLET | ยกเลิก(5 พฤษภาคม 2557) |
+| 1C 279/46 | IMURAN (TABLETS 50 MG) | FILM - COATED TABLET | ยกเลิก(1 ธันวาคม 2552) |
+| 1C 422/40 | IMURAN ( TABLETS ) | FILM - COATED TABLET | ยกเลิก(28 ธันวาคม 2549) |
+| 1C 52/46 | IMUPRIN | COMPRESSED TABLET | ยกเลิก(31 พฤษภาคม 2555) |
+| 1C 598/30 | AZATHIOPRINE PHARMACHEMIE (50 MG TABLETS) | COMPRESSED TABLET | ยกเลิก(28 เมษายน 2557) |
+| 1C 599/30 | AZATHIOPRINE PHARMACHEMIE | STERILE POWDER | ยกเลิก(8 ธันวาคม 2543) |
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

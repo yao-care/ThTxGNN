@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 1
 monitor_inn: "Ketamine"
 predicted_indications: ["headache disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Ketamine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคปวดศีรษะ (headache disorder) (ระดับหลักฐาน L2) ทะเบียนตำรับยาในระบบของ อย.: 14 รายการ (ยังมีผล 0)"
 ---
 
@@ -87,6 +87,29 @@ Ketamine เป็นยาที่ออกฤทธิ์ต้านตั�
 | [32410204](https://pubmed.ncbi.nlm.nih.gov/32410204/) | 2020 | Review | Curr Neurol Neurosci Rep | ทบทวนหลักฐานการรักษาปวดศีรษะในเด็กและวัยรุ่นที่ห้องฉุกเฉินและในผู้ป่วยใน |
 
 วรรณกรรมที่เหลือเกี่ยวกับ ketamine และ esketamine ในโรคอื่น จึงไม่นำมาแสดงเป็นหลักฐานของข้อบ่งใช้ที่ทำนาย
+
+## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+<!-- licenses:begin -->
+
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 1291/29 | KETAMINE P | STERILE SOLUTION | ยกเลิก(2 เมษายน 2545) |
+| 1A 1299/29 | KETAMINE P 50 | STERILE SOLUTION | ยกเลิก(2 เมษายน 2545) |
+| 1A 414/32 | CATANOX | STERILE SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1A 71/37 | KATASIA | STERILE SOLUTION | ยกเลิก(24 มีนาคม 2543) |
+| 1A 899/29 | KETAVA ( 10 MG/ML) | STERILE SOLUTION | ยกเลิก(5 เมษายน 2545) |
+| 1A 900/29 | KETAVA ( 50 MG/ML) | STERILE SOLUTION | ยกเลิก(5 เมษายน 2545) |
+| 1C 166/33 | CALYPSOL | STERILE SOLUTION | ยกเลิก(13 สิงหาคม 2547) |
+| 1C 35/34 | SOON-SOON INJECTION 50 MG/ML. | STERILE SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 350/40 | KETALAR (R) (50 MG) | STERILE SOLUTION | ยกเลิก(26 ธันวาคม 2543) |
+| 1C 367/29 | KETALAR (50 MG.) | STERILE SOLUTION | ยกเลิก(26 ธันวาคม 2543) |
+| 1C 45/28 | CALYPSOL | STERILE SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 542/29 | KETALAR (10 MG.) | STERILE SOLUTION | ยกเลิก(26 ธันวาคม 2543) |
+| 1C 546/29 | KETALAR (100 MG) | STERILE SOLUTION | ยกเลิก(28 กุมภาพันธ์ 2537) |
+| 1C 80/40 | KATALAR (R) (50 MG) | STERILE SOLUTION | ยกเลิก(5 เมษายน 2545) |
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 

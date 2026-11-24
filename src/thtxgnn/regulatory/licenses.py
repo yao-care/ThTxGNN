@@ -8,6 +8,7 @@
   3. 表格列寫的狀態不跟事實相反（checker：有效許可證寫成註銷、row_status_conflicts）。
   4. 程式許可證表（2026-11-24 起，scripts/sync_license_tables.py）：「## ข้อมูลการวางจำหน่ายในประเทศไทย」段落裡有表的頁，
      表要是程式區塊（<!-- licenses:begin/end -->），內容＝依快照 rows／total 重算的結果；程式區塊外不准另有表格。
+  5. 公開頁（非 noindex）快照有程式表列，卻整頁沒有市場段落（2026-11-24 第三輪；補段落：scripts/sync_license_tables.py 的 add_section）。
 事實層只涵蓋部分來源時（checker X_SCOPE），跟 checker 一樣只驗資料能證明的部分。
 修法：資料變了→跑每週排程（重排狀態格、狀態列、張數列並重建快照）；正文或表格寫錯→寫查核紀錄（docs/_data/drug_reviews.json）
 再跑 scripts/apply_drug_reviews.py。
@@ -162,6 +163,10 @@ def page_problems(stem: str, text: str) -> list[str]:
                     if k and re.search(r"\d", k) and k not in own and kf not in own and len(k) >= 4:
                         errs.append(f"市場段落表格的許可證號不屬於本藥：{cells[0][:30]}")
     errs += program_block_problems(lines, e)
+    # 2026-11-24 第三輪：公開頁快照有程式表列、整頁卻沒有市場段落 → 要補段落（scripts/sync_license_tables.py 的 add_section）
+    fm = text.split("---", 2)[1] if text.startswith("---") else ""
+    if e.get("rows") and SLT().SEC not in lines and not re.search(r"^noindex:\s*true", fm, re.M):
+        errs.append("公開頁有證據包許可證紀錄卻沒有市場段落（跑 python3 scripts/sync_license_tables.py）")
     fc = e.get("facts")
     if not fc:
         return errs
