@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Losartan บ้าง">
-ขณะนี้ <strong>Losartan</strong> มีข่าวที่เกี่ยวข้อง <strong>11 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
+ขณะนี้ <strong>Losartan</strong> มีข่าวที่เกี่ยวข้อง <strong>13 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 7 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -39,7 +39,15 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/losartan/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (11 ข่าว)
+## ข่าวที่เกี่ยวข้อง (13 ข่าว)
+
+### [กำลังทดสอบยาตัวใหม่เพื่อรักษาโรคมะเร็งตับ](https://news.google.com/rss/articles/CBMidkFVX3lxTE15RGhHcnJVTnVWbUtncW1ZUVNyRl9jWmVzdHJMZjYteFNWckUzcXkzeFBaZlR2ZkVna2l6OGhxQ1FjQ2pXbEZILVhGTVZHNUl0UXJLelJORkRpM2NRMUc5aGFZbVdfUXROV3FQYmNFNjdVZUVXUmc?oc=5)
+
+2026-11-24 <span class="news-indication-tag">มะเร็ง</span> <span class="news-indication-tag">โรคมะเร็ง</span>
+
+แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMidkFVX3lxTE15RGhHcnJVTnVWbUtncW1ZUVNyRl9jWmVzdHJMZjYteFNWckUzcXkzeFBaZlR2ZkVna2l6OGhxQ1FjQ2pXbEZILVhGTVZHNUl0UXJLelJORkRpM2NRMUc5aGFZbVdfUXROV3FQYmNFNjdVZUVXUmc?oc=5)
+
+---
 
 ### [กินยาคุมนาน อันตรายไหม? เสี่ยงมะเร็งเต้านมแค่ไหน](https://news.google.com/rss/articles/CBMibkFVX3lxTFBBWWdNZDAxSjJ1ZlNfNnBqWUF2OUVqVzR3ZC14cEtnbUNQNTdzalhtai1ubFNJQnVEUXZ5bWQ0NHRab1U5VUtzWWRGc1ZVTzlNN0F1VEwwbEx0UmJSdVZPRGYwN1F1RUNtYkZZLXp3?oc=5)
 
@@ -126,6 +134,14 @@ last_modified_at: 2026-11-24
 2026-11-13 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [thestandard.co](https://news.google.com/rss/articles/CBMicEFVX3lxTE9Dekp3dzhqSDdsaUtkOWpvNUVYaGZ5bmJldDFlWDRrYjE0djJEM2xRTWxQQWU4dVhZcmhaVTlpaFZBbnFDWFZxcU5rbVpuc0ZlbW5QZWo0ZTdyNDVFMFRJTloxR01LTUhEYTJQVFMtZXQ?oc=5)
+
+---
+
+### [ทุกวันนี้ถ้าคนเสียชีวิตจากมะเร็ง ไม่ใช่เพราะไม่มียารักษา แต่เป็นเพราะคนๆนั้นไม่ตอบสนองต่อยา . ดร.โยแซป จี ชี้ให้เห็นจุดเปลี่ยนสำคัญของอุตสาหกรรมสุขภาพในอีก 20 ปีข้างหน้าว่า หัวใจไม่ใช่แค่การคิดค้นยา แต่คือการเข้าใจการตอบสนอง ของร่างกายแต่ละบุคคล ซึ่งถูกกำหนดโดยไมโครไบโอ](https://news.google.com/rss/articles/CBMimwhBVV95cUxQOERNMUhjd2ZjaVJGU3VPSXRkMnplQnhYU2lhb2djekd6bGRMbVhLcHlsVFRQd3hqai01eWJUUjIycE54ajl6aGdHMkd2ZzVyZ3dkNXlRb2h1cXJWUVF1eGZVTmxQWFNDU3FrSmZSR2VjY19HWTA0QVhrVVFVRHltNEphMWtwSEgyTHlNaTdhNjRyZGdiZkxBRUx4Wm9TN2lCNjNmczdvTHBaa0p4c1JnOE5iZjAtRlVpcG14ZEU4WEpWX2ZuUmZ4bEhnN0RTeUtqT3Q5ejR3c3EyQ0x1MkJLNTRXei10ZjlReFFhM256cFFQVDYtMnVKYTVJZVg2eDI2U0lvZzBXY0dqRGtIbUp4SWlkQlYxWUxidmZEUDBrX0l2cUN6SGcwazBLUlJjTjFXWWJmTVZUQTk4ZzlsMXZ5c3NCQzVhbzF3dzBOenNyVV9kNFNnYUlMVlBPOFlUcWE5NUZLc084MklkTDRlUmJtRF9hNHM2a1FXOFFQOVZuREwzRlFfRkdtTW54SGlnTW93TFZVVlNpUkJVM211RXdWZUQ0YThOU1QyNWZ6VGhkbE5WSTJRWjFCb3YyeGk0Y1FMVXJ3SWZGelpZMER2RmtMcWs0WFE3U3V0Zmw4eXJiYXNLMXhyRXpCbGVSYlZQVlk3Y1QwX2JwUENCR0F2Wm5VRjVIcmZvVWZlVE1Fa1pVUlZIVGpINDFCWTBBSXRRdS1qLUFTR3JaeU1JeXpiZ0hmd3VsMGZwRGd5M1lUMWdQbF9vYjFKVGpJdG53c3lkY2xVd0J3QnZqSlFMM3RsSndoRTVuM1BueHY0UFd3THNMNXpLSFpObHExQjd5WDA5Q3M1OVdfd0c5T1dRUUI1bkItRDJDVWVoemZBWEJzMHM5YkZ3RHlvVjRieUtsbTRkSW9idm9fS25vM1UycUVURjZFY0xZWTJmemZlbUNvckhxaTZEdUdvc0k1VFpmSjlwaHBZVUw5eVNETndaR3E3akF2VUUxUXdqUUc1OUlVbE5ZQ2tTNnBQWnQzc1ZwVXJVV0wxT1d1U0NkelEyWDZONXVacVUxSkFqX3RPMkw0akhFc1dYRmt1cWRYb042TmFjYUlOblVjSHduVUlJSWxUc24zSUFIZVJQQmh1bDlhWjFKYng1T0hvZU1nTjBMNU9QRUVCOEZ6ZkpubXE1LTJIWDMtcjhLNWY4OGNtYVpqQ1JIOTVHZFlWYm5mcVFScGZfaTdIeDJFYlM4RXdaVENOb21HZmZjamxfLXZ4U3RUUEhPRlJlbU93ZVhrZktaN19ZMWs4Tkp3YmdmdVV2bnJuSnpkX29EcWl0dTVhaU1JOENnZlZwdDhpdnUxUmhiVHRENk9scTVLWHZDellYei1oMXFrNXRiOEp3MHpJWWE0?oc=5)
+
+2026-11-05 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Facebook](https://news.google.com/rss/articles/CBMimwhBVV95cUxQOERNMUhjd2ZjaVJGU3VPSXRkMnplQnhYU2lhb2djekd6bGRMbVhLcHlsVFRQd3hqai01eWJUUjIycE54ajl6aGdHMkd2ZzVyZ3dkNXlRb2h1cXJWUVF1eGZVTmxQWFNDU3FrSmZSR2VjY19HWTA0QVhrVVFVRHltNEphMWtwSEgyTHlNaTdhNjRyZGdiZkxBRUx4Wm9TN2lCNjNmczdvTHBaa0p4c1JnOE5iZjAtRlVpcG14ZEU4WEpWX2ZuUmZ4bEhnN0RTeUtqT3Q5ejR3c3EyQ0x1MkJLNTRXei10ZjlReFFhM256cFFQVDYtMnVKYTVJZVg2eDI2U0lvZzBXY0dqRGtIbUp4SWlkQlYxWUxidmZEUDBrX0l2cUN6SGcwazBLUlJjTjFXWWJmTVZUQTk4ZzlsMXZ5c3NCQzVhbzF3dzBOenNyVV9kNFNnYUlMVlBPOFlUcWE5NUZLc084MklkTDRlUmJtRF9hNHM2a1FXOFFQOVZuREwzRlFfRkdtTW54SGlnTW93TFZVVlNpUkJVM211RXdWZUQ0YThOU1QyNWZ6VGhkbE5WSTJRWjFCb3YyeGk0Y1FMVXJ3SWZGelpZMER2RmtMcWs0WFE3U3V0Zmw4eXJiYXNLMXhyRXpCbGVSYlZQVlk3Y1QwX2JwUENCR0F2Wm5VRjVIcmZvVWZlVE1Fa1pVUlZIVGpINDFCWTBBSXRRdS1qLUFTR3JaeU1JeXpiZ0hmd3VsMGZwRGd5M1lUMWdQbF9vYjFKVGpJdG53c3lkY2xVd0J3QnZqSlFMM3RsSndoRTVuM1BueHY0UFd3THNMNXpLSFpObHExQjd5WDA5Q3M1OVdfd0c5T1dRUUI1bkItRDJDVWVoemZBWEJzMHM5YkZ3RHlvVjRieUtsbTRkSW9idm9fS25vM1UycUVURjZFY0xZWTJmemZlbUNvckhxaTZEdUdvc0k1VFpmSjlwaHBZVUw5eVNETndaR3E3akF2VUUxUXdqUUc1OUlVbE5ZQ2tTNnBQWnQzc1ZwVXJVV0wxT1d1U0NkelEyWDZONXVacVUxSkFqX3RPMkw0akhFc1dYRmt1cWRYb042TmFjYUlOblVjSHduVUlJSWxUc24zSUFIZVJQQmh1bDlhWjFKYng1T0hvZU1nTjBMNU9QRUVCOEZ6ZkpubXE1LTJIWDMtcjhLNWY4OGNtYVpqQ1JIOTVHZFlWYm5mcVFScGZfaTdIeDJFYlM4RXdaVENOb21HZmZjamxfLXZ4U3RUUEhPRlJlbU93ZVhrZktaN19ZMWs4Tkp3YmdmdVV2bnJuSnpkX29EcWl0dTVhaU1JOENnZlZwdDhpdnUxUmhiVHRENk9scTVLWHZDellYei1oMXFrNXRiOEp3MHpJWWE0?oc=5)
 
 ---
 

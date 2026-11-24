@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Digoxin ข้อบ่งใช้ที่คาดการณ์ 5 รายการ"
 permalink: /news/digoxin/
-last_modified_at: 2026-11-22
+last_modified_at: 2026-11-24
 ---
 
 # ข่าวเกี่ยวกับ Digoxin
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-22
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Digoxin บ้าง">
-ขณะนี้ <strong>Digoxin</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 5 รายการ
+ขณะนี้ <strong>Digoxin</strong> มีข่าวที่เกี่ยวข้อง <strong>2 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 5 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -37,7 +37,15 @@ last_modified_at: 2026-11-22
 <p><a href="{{ '/drugs/digoxin/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (1 ข่าว)
+## ข่าวที่เกี่ยวข้อง (2 ข่าว)
+
+### [เสริมสร้างศักยภาพของร้านขายยาในการให้การสนับสนุนผู้ป่วยโรคพาร์กินสัน โรคสมองเสื่อม และโรคหลอดเลือดสมอง](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjR1QnBWdk1GQTNveTkwT05lRUQyZ19DWVFtVUVaTm12eUtRc211UWctT2FYcm12U2kyU25aaWJCWFpQYm81TVFsZTdzaXltZTJtZFVUeUFDSkd6Zi1kaE1MYTlvOVJPN1M1RGdSZnFxZlZXRTVPYl95RjdHN2JUWFhhWnFMX3Q0YVlOck5ORi1JdWVuQ2dPdl9iOHAxMDlJQzZxblJOSmQ4dkNTWTlRUDlB?oc=5)
+
+2026-11-24 <span class="news-indication-tag">โรคหลอดเลือดสมอง</span> <span class="news-indication-tag">สมองเสื่อม</span> <span class="news-indication-tag">โรคสมองเสื่อม</span>
+
+แหล่งที่มา: [Vietnam.vn](https://news.google.com/rss/articles/CBMisgFBVV95cUxQcjR1QnBWdk1GQTNveTkwT05lRUQyZ19DWVFtVUVaTm12eUtRc211UWctT2FYcm12U2kyU25aaWJCWFpQYm81TVFsZTdzaXltZTJtZFVUeUFDSkd6Zi1kaE1MYTlvOVJPN1M1RGdSZnFxZlZXRTVPYl95RjdHN2JUWFhhWnFMX3Q0YVlOck5ORi1JdWVuQ2dPdl9iOHAxMDlJQzZxblJOSmQ4dkNTWTlRUDlB?oc=5)
+
+---
 
 ### [ชายวัย 22 ปีรายหนึ่งเกิดเป็นอัมพาตขาทั้งสองข้างอย่างไม่คาดคิด หลังจากรับประทานยาแก้ไอที่หาซื้อได้ทั่วไปโดยไม่ปรึกษาแพทย์](https://news.google.com/rss/articles/CBMimgFBVV95cUxPQjF5Q0dzMDZmRzR4N2JNNEQ0N3FLWU9wQ002YUtmOGZPUWxSajFsa29wakQyZWFseXdJa2xQNVRDVVNrc0tLeU1MUlItZEU1WUtOeWtkWmQ5c2hMa25zSXBCY0NzQWFSa1VacldCa3RINHVjWkd3X3BoTjJ3UGRtVHhoWVg3SEc5eWdDb3F1WGJKZVNJRHVMbFBn?oc=5)
 
