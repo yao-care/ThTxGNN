@@ -367,6 +367,13 @@ indication_count: {indication_count}
 """
 
         full_content = front_matter + demote_body_h1(content) + disclaimer + "\n---\n\n"
+        # 2026-11-24：舊頁的程式許可證區塊（<!-- licenses:begin/end -->，scripts/sync_license_tables.py）移植到新頁，notes 裡模型寫的表不得蓋回
+        _page = docs_drugs_dir / f"{drug_name}.md"
+        _prog = Path(__file__).resolve().parent / "sync_license_tables.py"
+        if _page.exists() and _prog.exists():
+            import importlib.util as _iu
+            _s = _iu.spec_from_file_location("_prog_tables", _prog); _slt = _iu.module_from_spec(_s); _s.loader.exec_module(_slt)
+            full_content = _slt.carry_block(_page.read_text(encoding="utf-8"), full_content)
         full_content = finalize_front_matter(docs_drugs_dir / f"{drug_name}.md", full_content, base_dir)
         (docs_drugs_dir / f"{drug_name}.md").write_text(full_content, encoding="utf-8")
         synced += 1

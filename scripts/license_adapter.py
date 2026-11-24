@@ -121,3 +121,18 @@ def update(rec, new):
         return False
     rec["status"], rec["license_status"] = new, st
     return True
+
+
+# 2026-11-24：市場段落的許可證表改成程式產生（scripts/sync_license_tables.py，用戶決定）。
+# 每週排程 3b 自我檢查：程式區塊裡表格列以外的行（標記、超過 30 張的說明句、沒有紀錄句）也算程式產生的行。
+PAGE_NOTE = (r"^(ตารางนี้แสดงไม่เกิน 30 รายการ \(ทะเบียนที่ยังมีผลก่อน\) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย\. "
+             r"\(https://pertento\.fda\.moph\.go\.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG\.aspx\)( ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด \d+ รายการ)?|"
+             r"ไม่พบทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย\.|<!-- licenses:(begin|end) -->)$")
+
+
+def sync_tables(site_dir, bundles):
+    """狀態有變的藥，程式許可證表依證據包重排（有效的在前、最多 30 列）；全站都跑（便宜），回傳改到的頁"""
+    s = importlib.util.spec_from_file_location("th_slt", Path(site_dir) / "scripts/sync_license_tables.py")
+    m = importlib.util.module_from_spec(s)
+    s.loader.exec_module(m)
+    return [(pg, "許可證表", "", "依證據包重排") for pg in m.run()]

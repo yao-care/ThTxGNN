@@ -566,3 +566,25 @@ pertento 沒有其他公開的完整清單可對，這兩號的實際狀態判�
 例：albendazole「ข้อบ่งใช้เดิม: ไม่มีบันทึกในข้อมูลท้องถิ่น」→「ทะเบียนตำรับยาในระบบของ อย.: 173 รายการ (ยังมีผล 61)」；2026-11-19 改了 47 頁。
 由母目錄 `.claude/drug_meta_description.py --apply --site ThTxGNN` 產生（站上複本 `tools/txgnn/.claude/drug_meta_description.py --apply --root .`），改動記在 `docs/_data/description_local_log.json`（pages＝目前句尾與原字樣、entries＝每次改動前後整行，可還原）。快照數字變了重跑會換新數字；`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾會自動 --apply，`check_seo_docs.py` 跑 --check 擋「還是未記載句尾」或「數字跟快照不符」。只改 front matter，lastmod_fix 不算正文改動、last_modified_at 不動。
 同日修：`apply_drug_reviews.py`、`build_license_snapshot.py` 結尾重算 local_facts 的 atexit 掛鉤在結束時取不到 `__file__`（NameError，之前其實沒跑成），改成先算好路徑。
+
+## 許可證表與正文張數由程式維護（2026-11-24）
+
+用戶 2026-11-24 決定（各站同日，「許可證張數與狀態不再每週過期」）：每週許可證排程只改得到概覽表狀態列／張數列與許可證表狀態格，表的列不會重排、正文寫死的張數會過期。
+本站 10-31 起的許可證表本來就是程式產生的（母目錄 th_rebuild_licenses_20261031.py，一次性、沒有標記），這次把它變成每次都跑的程式，並加上正文張數改寫。
+- A. `scripts/sync_license_tables.py`：「## ข้อมูลการวางจำหน่ายในประเทศไทย」段落的第一張表（或 10-31 的「ไม่พบทะเบียนตำรับยา…」一句）換成程式區塊，前後 `<!-- licenses:begin -->`／`<!-- licenses:end -->`；
+  表頭與寫法照 10-31（`| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |`，品名、劑型、狀態都是 pertento 原文，狀態未知的號寫 license_adapter.NOT_LISTED 那句）；只收 source＝Thai FDA pertento 的紀錄、同號取一列、有效在前、最多 30 列；
+  超過 30 張時表下一句 MORE（10-31 原句）＋「ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด N รายการ」；段落沒有表的頁（chlorpheniramine、pravastatin）放在段落開頭。
+  快照 `snapshots/th_licenses.json.gz` 另存 rows（前 30 列）／total；gate 第 19 項（licenses.py program_block_problems）擋「段落有表或有紀錄卻不是程式區塊」「程式區塊≠快照重算」「區塊外另有表」。
+  接上：`scripts/license_adapter.py` 的 `sync_tables`（每週排程依證據包重排）與 `PAGE_NOTE`（3b 放行區塊標記與說明句）、`apply_drug_reviews.py`（非 --check）結尾與 `build_license_snapshot.py` 結尾（`--from-snapshot`）、
+  `sync_notes_to_docs.py` 整頁重寫時用 `carry_block` 移植舊頁的程式區塊。
+- B. `scripts/rewrite_license_counts.py`＋`src/thtxgnn/regulatory/count_prose.py`（照 Kr／My／Hk 移植，泰文句型）：泰文以空白分句、數字前後也有空白，所以逐行逐個「數字＋รายการ／ฉบับ／ใบ」看左右字；
+  角色 ยังใช้ได้…→有效、ยกเลิก…→註銷、「…รายการมีสถานะ “รอตรวจสอบสถานะ”」→狀態未知（事實層 unknown）、ทั้งหมด／รวม／「V จาก N」→總數；許可證字樣要在左邊 45 字內或緊接上一個許可證數字，
+  左邊有試驗／文獻／模型字樣的數字不看；保留、相對數、劑型或廠商子集、顯示筆數不改，同一行有判斷不了的整行不動；查核紀錄的 anchor（沒有 anchor 時 replacement）裡的數字不改（要改時整行列 protected）。
+  不寫查核框；`apply_drug_reviews.py`（非 --check）結尾、`build_license_snapshot.py` 結尾（`--no-rewrite` 不跑；沒給 `--ws` 時只依現有快照跑 A、B）自動跑；gate 第 23 項擋「再跑一次會變」。
+- 2026-11-24 套用（資料 data-20261123-183622）：程式區塊 149 頁（公開 143＋noindex 6；表列有變 5 頁：cyclosporine、fluticasone、lamivudine、terbinafine 的有效／註銷排序跟上新狀態，新補表 2 頁）；
+  正文張數改寫 2 句（ceftriaxone 註銷 119→118、paliperidone「1 จาก 1 ใบ」→「8 จาก 19 ใบ」），判斷不了 0 句。
+  查核紀錄：錨在程式表列或表下說明句的 10 筆改錨到 `<!-- licenses:end -->`（框落在區塊之後）、錨點含張數的 17 筆改錨到同一行不含數字的文字、更正文字裡寫死張數的 260 筆（site.FIGURES「จำนวนทะเบียนตามข้อมูล N รายการ ยังมีผล V รายการ」253 筆、
+  「ทะเบียน N รายการ ยังมีผล…」7 筆）拿掉數字改成「ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อ…」，以上同 id 重發、前版存 history；site.FIGURES 改成不寫數字（reviews_from_edits 新紀錄不再寫死）。
+  11-03 AI 重產時描述它自己另寫的許可證表（11-12 已刪）的說明句 7 句（ampicillin、aripiprazole、ciprofloxacin、dexamethasone、diazepam、nystatin、sertraline：「ตารางข้างต้นแสดงเฉพาะรายการที่มีรายละเอียด…」等）以 `th-lic-20261124-*` 刪除。
+  另寫的寬偵測（同行有許可證字樣、數字不在事實層任一讀法）全量掃公開頁剩 18 行，全是文獻篇數（วรรณกรรม N ฉบับ）或偵測窗口切斷的數字，沒有跟事實不符的張數句。checker 全量前後都是 0；gate exit 0。
+  last_modified_at：149 頁可見內容有變（表下總數句、查核框文字），改 2026-11-24。
