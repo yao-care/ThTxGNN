@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Amoxicillin"
 predicted_indications: ["polyclonal hyperviscosity syndrome", "hyperamylasemia", "congenital analbuminemia", "blood group incompatibility", "premalignant hematological system disease", "monoclonal gammopathy", "hematological disease associated with an acquired peripheral neuropathy", "septicemic plague"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Amoxicillin: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการเลือดข้นจากอิมมูโนโกลบูลินโพลีโคลนอล (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคติดเชื้อแบคทีเรีย"
 ---
 
@@ -70,11 +70,13 @@ Amoxicillin เป็นยาปฏิชีวนะกลุ่มเบต�
 
 <!-- review:begin th-lic-20261031-amoxicillin-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 1537 รายการ ยังมีผล 317 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-lic-20261031-amoxicillin-1 -->
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+<!-- licenses:begin -->
 
 | เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
 |------|------|------|------|
@@ -109,7 +111,9 @@ Amoxicillin เป็นยาปฏิชีวนะกลุ่มเบต�
 | 1A 159/48 | VIMOXILLIN 875 | FILM - COATED TABLET | คงอยู่ |
 | 1A 162/48 | STARMOX 250 | FILM - COATED TABLET | คงอยู่ |
 
-ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด 1537 รายการ
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
@@ -145,7 +149,7 @@ Amoxicillin เป็นยาปฏิชีวนะกลุ่มเบต�
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: amoxicillin prescribing information, PD-Rx Pharmaceuticals, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98e9274c-c02e-44d9-8cc5-17536ef03a77) |
 
 <!-- review:end log -->

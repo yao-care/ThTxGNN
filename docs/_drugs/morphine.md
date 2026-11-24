@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 10
 monitor_inn: "Morphine"
 predicted_indications: ["myofascial pain syndrome", "manic bipolar affective disorder", "Tourette syndrome", "restless legs syndrome", "attention deficit hyperactivity disorder, inattentive type", "migraine disorder", "trichotillomania", "methemoglobinemia", "migraine with brainstem aura", "specific developmental disorder"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Morphine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการปวดกล้ามเนื้อและพังผืด (myofascial pain syndrome) (ระดับหลักฐาน L5) ไม่พบทะเบียนตำรับยาในระบบของ อย."
 ---
 
@@ -66,7 +66,7 @@ Morphine เป็นยาแก้ปวดกลุ่มโอปิออ�
 
 <!-- review:begin th-lic-20261031-morphine-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 0 รายการ ยังมีผล 0 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-lic-20261031-morphine-1 -->
 
@@ -85,7 +85,11 @@ Morphine เป็นยาแก้ปวดกลุ่มโอปิออ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
+<!-- licenses:begin -->
+
 ไม่พบทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย.
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
@@ -115,7 +119,7 @@ Morphine เป็นยาแก้ปวดกลุ่มโอปิออ�
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Ms Contin (morphine sulfate) prescribing information, Rhodes Pharmaceuticals LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=c354b3bf-86c0-4bb8-8b1f-be2164942698) |
 
 <!-- review:end log -->

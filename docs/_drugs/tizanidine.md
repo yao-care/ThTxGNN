@@ -7,7 +7,7 @@ evidence_level: L2
 indication_count: 5
 monitor_inn: "Tizanidine"
 predicted_indications: ["migraine disorder", "migraine with brainstem aura", "atrophoderma vermiculata", "Tourette syndrome", "ulerythema ophryogenesis"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Tizanidine: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (migraine disorder) (ระดับหลักฐาน L2) ทะเบียนตำรับยาในระบบของ อย.: 22 รายการ (ยังมีผล 8)"
 ---
 
@@ -62,7 +62,7 @@ Tizanidine เป็นยาชนิดรับประทานที่อ
 
 <!-- review:begin th-lic-20261031-tizanidine-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 22 รายการ ยังมีผล 8 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-lic-20261031-tizanidine-1 -->
 
@@ -88,6 +88,8 @@ Tizanidine เป็นยาชนิดรับประทานที่อ
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
+<!-- licenses:begin -->
+
 | เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
 |------|------|------|------|
 | 1A 191/52 | TIDAR 2 MG. | COMPRESSED TABLET | คงอยู่ |
@@ -112,6 +114,8 @@ Tizanidine เป็นยาชนิดรับประทานที่อ
 | 1C 259/42 | SIRDALUD 2 MG | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
 | 1C 260/42 | SIRDALUD 4 MG | COMPRESSED TABLET | ยกเลิก(9 เมษายน 2556) |
 | 1C 9/47 | TIZAN 4 | COMPRESSED TABLET | ยกเลิก(30 ธันวาคม 2558) |
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
@@ -139,7 +143,7 @@ Tizanidine เป็นยาชนิดรับประทานที่อ
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Zanaflex (tizanidine hydrochloride) prescribing information, Legacy Pharma USA, Inc.](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=60c27d35-7349-4fc6-86ad-70fffdbe3e08) |
 
 <!-- review:end log -->

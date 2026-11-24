@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 2
 monitor_inn: "Spironolactone"
 predicted_indications: ["hypotrichosis simplex of the scalp", "congenital hypotrichosis milia"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Spironolactone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ภาวะขนบางบนหนังศีรษะชนิดซิมเพล็กซ์ (hypotrichosis simplex of the scalp) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 47 รายการ (ยังมีผล 10)"
 ---
 
@@ -68,11 +68,13 @@ Spironolactone เป็นยาที่ออกฤทธิ์ต้าน�
 
 <!-- review:begin th-lic-20261031-spironolactone-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 47 รายการ ยังมีผล 10 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-lic-20261031-spironolactone-1 -->
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+<!-- licenses:begin -->
 
 | เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
 |------|------|------|------|
@@ -107,7 +109,9 @@ Spironolactone เป็นยาที่ออกฤทธิ์ต้าน�
 | 1A 850/27 | BERLACTONE 100 MG. | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
 | 1A 851/27 | BERLACTONE 50 MG. | FILM - COATED TABLET | ยกเลิก(28 กุมภาพันธ์ 2537) |
 
-ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด 47 รายการ
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
@@ -139,7 +143,7 @@ Spironolactone เป็นยาที่ออกฤทธิ์ต้าน�
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Aldactone (spironolactone) prescribing information, Pfizer Laboratories Div Pfizer Inc](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=0fed2822-3a03-4b64-9857-c682fcd462bc) |
 
 <!-- review:end log -->

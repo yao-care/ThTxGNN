@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Mirtazapine"
 predicted_indications: ["Ohdo syndrome and variants", "blepharophimosis - intellectual disability syndrome, Ohdo type", "benign paroxysmal torticollis of infancy"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Mirtazapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ กลุ่มอาการโอโดะและกลุ่มย่อย (Ohdo syndrome and variants) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 17 รายการ (ยังมีผล 6)"
 ---
 
@@ -76,13 +76,15 @@ Mirtazapine เป็นยาเม็ดชนิดรับประทา�
 
 <!-- review:begin th-lic-20261031-mirtazapine-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 17 รายการ ยังมีผล 6 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-lic-20261031-mirtazapine-1 -->
 
 ---
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+<!-- licenses:begin -->
 
 | เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
 |------|------|------|------|
@@ -103,6 +105,8 @@ Mirtazapine เป็นยาเม็ดชนิดรับประทา�
 | 1C 77/40 (N) | REMERON 30 MG | FILM - COATED TABLET | ยกเลิก(6 มิถุนายน 2550) |
 | 1C 77/40 (NC) | REMERON 30 MG | FILM - COATED TABLET | ยกเลิก(26 พฤษภาคม 2543) |
 | 1C 78/40 (NC) | REMERON 45 MG | FILM - COATED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+
+<!-- licenses:end -->
 
 ---
 
@@ -135,7 +139,7 @@ Mirtazapine เป็นยาเม็ดชนิดรับประทา�
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Remeronsoltab (mirtazapine) prescribing information, Organon LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=98ad1917-a094-44f5-a28f-a64a8cfcd887) |
 
 <!-- review:end log -->

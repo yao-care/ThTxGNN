@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 3
 monitor_inn: "Captopril"
 predicted_indications: ["malignant hypertensive renal disease", "pulmonary hypertension owing to lung disease and/or hypoxia", "pulmonary hypertension with unclear multifactorial mechanism"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Captopril: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคไตจากความดันโลหิตสูงรุนแรง (malignant hypertensive renal disease) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 25 รายการ (ยังมีผล 1)"
 ---
 
@@ -62,7 +62,7 @@ Captopril เป็นยากลุ่มยับยั้งเอนไซ�
 
 <!-- review:begin th-lic-20261031-captopril-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 25 รายการ ยังมีผล 1 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-lic-20261031-captopril-1 -->
 
@@ -73,6 +73,8 @@ Captopril เป็นยากลุ่มยับยั้งเอนไซ�
 | [28902735](https://pubmed.ncbi.nlm.nih.gov/28902735/) | 2017 | Case series | Clinical Nuclear Medicine | ผู้ป่วยมีผลตรวจ captopril renography เป็นบวก แต่พบเป็นมะเร็งเซลล์ไต (chromophobe renal cell carcinoma) ไม่ใช่หลอดเลือดแดงไตตีบ ความดันสูงดีขึ้นหลังผ่าตัดไต เป็นรายงานด้านการวินิจฉัย ไม่ใช่การรักษา |
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+<!-- licenses:begin -->
 
 | เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
 |------|------|------|------|
@@ -101,6 +103,8 @@ Captopril เป็นยากลุ่มยับยั้งเอนไซ�
 | 1C 71/37 | CAPRIL TABLET 25 MG. | COMPRESSED TABLET | ยกเลิก |
 | 1C 73/37 | CAPRIL TABLET 12.5 MG | COMPRESSED TABLET | ยกเลิก |
 | 1C 9/52 | CAPOTEN (TABLET 25 MG) | COMPRESSED TABLET | ยกเลิก(21 กรกฎาคม 2552) |
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
@@ -133,7 +137,7 @@ Captopril เป็นยากลุ่มยับยั้งเอนไซ�
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: captopril prescribing information, Bryant Ranch Prepack](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=ccbffd30-4b21-4522-bdb8-abba8d592017) |
 
 <!-- review:end log -->

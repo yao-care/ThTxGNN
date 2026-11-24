@@ -3,7 +3,7 @@ layout: default
 title: Mefloquine
 parent: การใช้ที่ทราบแล้วเท่านั้น (ไม่มีการคาดการณ์ใหม่)
 nav_order: 105
-last_modified_at: 2026-11-12
+last_modified_at: 2026-11-24
 description: "Mefloquine: ข้อบ่งใช้ที่ทราบและสถานะตลาดในประเทศไทย; ขณะนี้ยังไม่มีข้อบ่งใช้ใหม่ที่เป็นตัวเลือก"
 predicted_indications: []
 indication_count: 0
@@ -42,7 +42,7 @@ evidence_level: N/A
 
 <!-- review:begin th-lic-20261031-mefloquine-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) จำนวนทะเบียนตามข้อมูล 12 รายการ ยังมีผล 0 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-10-31)**: ข้อความเดิมคือ “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย.” ลบออก: ข้อความไม่ตรงกับข้อมูลทะเบียนตำรับยาในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (2026-10-31) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-lic-20261031-mefloquine-1 -->
 
@@ -77,6 +77,8 @@ evidence_level: N/A
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
+<!-- licenses:begin -->
+
 | เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
 |------|------|------|------|
 | 1A 234/40 | MEQUIN | COMPRESSED TABLET | ยกเลิก |
@@ -91,6 +93,8 @@ evidence_level: N/A
 | 2C 2/62 (NC) | ARTESUNATE AND MEFLOQUINE HYDROCHLORIDE TABLETS 25/55 MG. | FILM - COATED TABLET | ยกเลิก |
 | 2C 3/58 (NC) | ARTESUNATE AND MEFLOQUINE HYDROCHLORIDE TABLETS 100/220 MG. | FILM - COATED TABLET | ยกเลิก(10 เมษายน 2562) |
 | 2C 358/27 | FANSIMEF | COMPRESSED TABLET | ยกเลิก(8 ธันวาคม 2543) |
+
+<!-- licenses:end -->
 
 ## ข้อพิจารณาด้านความปลอดภัย
 
@@ -113,7 +117,7 @@ evidence_level: N/A
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 
 <!-- review:end log -->
 

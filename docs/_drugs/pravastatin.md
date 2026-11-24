@@ -7,7 +7,7 @@ evidence_level: L4
 indication_count: 6
 monitor_inn: "Pravastatin"
 predicted_indications: ["HIV infectious disease", "neurodevelopmental disorder with ataxic gait, absent speech, and decreased cortical white matter", "simian immunodeficiency virus infection", "feline acquired immunodeficiency syndrome", "hypoalphalipoproteinemia", "cholesterol-ester transfer protein deficiency"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Pravastatin: ข้อบ่งใช้ใหม่ที่คาดการณ์ การติดเชื้อเอชไอวี (HIV infectious disease) (ระดับหลักฐาน L4) ทะเบียนตำรับยาในระบบของ อย.: 27 รายการ (ยังมีผล 6)"
 ---
 
@@ -92,17 +92,51 @@ Pravastatin ถูกเผาผลาญผ่านเอนไซม์ CYP3
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
+<!-- licenses:begin -->
+
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 54/66 (NG) | VOGDIA 40 | TABLET | คงอยู่ |
+| 1C 101/60 (NG) | PRAVA 40 | TABLET | คงอยู่ |
+| 1C 115/56 (N) | MEVALOTIN PROTECT 20 MG | COMPRESSED TABLET | คงอยู่ |
+| 1C 116/56 (N) | MEVALOTIN PROTECT 40 MG | COMPRESSED TABLET | คงอยู่ |
+| 1C 50/62 (NG) | PRAVASTATIN SANDOZ (20 MG) | TABLET | คงอยู่ |
+| 1C 51/62 (NG) | PRAVASTATIN SANDOZ (40 MG) | TABLET | คงอยู่ |
+| 1A 53/66 (NG) | VOGDIA 20 | TABLET | รอตรวจสอบสถานะ |
+| 1B 1/36 (N) | MEVALOTIN (TABLETS) | COMPRESSED TABLET | ยกเลิก(23 มิถุนายน 2547) |
+| 1B 1/36 (NC) | MEVALOTIN (TABLETS) | COMPRESSED TABLET | ยกเลิก(27 มกราคม 2541) |
+| 1B 1/40 (N) | MEVALOTIN TABLETS 10 | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1B 1/40 (NC) | MEVALOTIN TABLETS 10 | COMPRESSED TABLET | ยกเลิก(27 มกราคม 2541) |
+| 1B 1/46 (N) | MEVALOTIN(TABLETS) | COMPRESSED TABLET | ยกเลิก(29 กุมภาพันธ์ 2551) |
+| 1B 2/46 (N) | MEVALOTIN TABLETS 10 | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1C 125/52 (N) | MEVALOTIN PROTECT 20 MG | COMPRESSED TABLET | ยกเลิก(21 พฤศจิกายน 2556) |
+| 1C 126/52 (N) | MEVALOTIN PROTECT 40 MG | COMPRESSED TABLET | ยกเลิก(21 พฤศจิกายน 2556) |
+| 1C 6/48 (N) | MEVALOTIN TABLETS 10 | COMPRESSED TABLET | ยกเลิก(29 มีนาคม 2549) |
+| 1C 64/49 (N) | MEVALOTIN TABLETS 10 | COMPRESSED TABLET | ยกเลิก(15 กุมภาพันธ์ 2553) |
+| 1C 65/49 (N) | MEVALOTIN PROTECT 20 MG | COMPRESSED TABLET | ยกเลิก(4 ธันวาคม 2552) |
+| 1C 65/49 (NC) | MEVALOTIN PROTECT 20 MG | COMPRESSED TABLET | ยกเลิก(27 พฤศจิกายน 2550) |
+| 1C 66/49 (N) | MEVALOTIN PROTECT 40 MG | COMPRESSED TABLET | ยกเลิก(4 ธันวาคม 2552) |
+| 1C 66/49 (NC) | MEVALOTIN PROTECT 40 MG | COMPRESSED TABLET | ยกเลิก(27 พฤศจิกายน 2550) |
+| 1C 7/48 (NC) | MEVALOTIN PROTECT 20 MG | COMPRESSED TABLET | ยกเลิก(29 มีนาคม 2549) |
+| 1C 8/48 (NC) | MEVALOTIN PROTECT 40 MG | COMPRESSED TABLET | ยกเลิก(29 มีนาคม 2549) |
+| 1C 84/60 (NG) | PRAVA 40 | COMPRESSED TABLET | ยกเลิก(24 พฤศจิกายน 2560) |
+| 2C 11/60 (NC) | PRAVAFEN | CAPSULE HARD | ยกเลิก(22 พฤษภาคม 2560) |
+| 2C 14/60 (NC) | PRAVAFEN | CAPSULE, HARD | ยกเลิก(25 พฤษภาคม 2564) |
+| 2C 3/64 (NC) | PRAVAFEN | CAPSULE, HARD | ยกเลิก |
+
+<!-- licenses:end -->
+
 ข้อมูลที่รวบรวมไว้ระบุว่ายานี้วางจำหน่ายแล้ว มีใบอนุญาตทั้งหมด 27 รายการ ยังมีผล 6 รายการ ยกเลิกแล้ว 20 รายการ และอีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ”
 
 <!-- review:begin th-fab-20261112-pravastatin-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-11-12)**: ข้อความเดิมคือ “ตารางด้านล่างแสดงเฉพาะรายการที่มีรายละเอียดในข้อมูล / &#124; เลขทะเบียนยา &#124; ชื่อการค้า &#124; รูปแบบยา &#124; สถานะ &#124; / &#124;---------&#124;------&#124;------&#124;-----------&#124; / &#124; ทะเบียนยาเลขที่ 1A 21/67 &#124; Pravastatin &#124; ยาเม็ด &#124; ยกเลิกแล้ว &#124;” ลบออก: ตารางทะเบียนตำรับยาที่เขียนขึ้นตอนสร้างรายงานใหม่ (2026-11-03) ระบุเลขทะเบียน 1A 21/67 ซึ่งไม่ใช่ทะเบียนของยานี้ในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ข้อมูลวันที่ 2026-11-09) จำนวนทะเบียนตามข้อมูล 27 รายการ ยังมีผล 6 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-11-12)**: ข้อความเดิมคือ “ตารางด้านล่างแสดงเฉพาะรายการที่มีรายละเอียดในข้อมูล / &#124; เลขทะเบียนยา &#124; ชื่อการค้า &#124; รูปแบบยา &#124; สถานะ &#124; / &#124;---------&#124;------&#124;------&#124;-----------&#124; / &#124; ทะเบียนยาเลขที่ 1A 21/67 &#124; Pravastatin &#124; ยาเม็ด &#124; ยกเลิกแล้ว &#124;” ลบออก: ตารางทะเบียนตำรับยาที่เขียนขึ้นตอนสร้างรายงานใหม่ (2026-11-03) ระบุเลขทะเบียน 1A 21/67 ซึ่งไม่ใช่ทะเบียนของยานี้ในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ข้อมูลวันที่ 2026-11-09) ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-fab-20261112-pravastatin-1 -->
 
 <!-- review:begin th-lic-20261112-pravastatin-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-11-12)**: ข้อความเดิมคือ “และยกเลิกแล้ว 21 รายการ” ตามข้อมูลในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ข้อมูลวันที่ 2026-11-09) ทะเบียน 27 รายการ ยังมีผล 6 รายการ ยกเลิกแล้ว 20 รายการ และอีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ” ซึ่งยังไม่ใช่ทะเบียนที่ยกเลิก แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
+> **แก้ไขจากการตรวจสอบ (2026-11-12)**: ข้อความเดิมคือ “และยกเลิกแล้ว 21 รายการ” ตามข้อมูลในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ข้อมูลวันที่ 2026-11-09) ทะเบียนบางรายการมีสถานะ “รอตรวจสอบสถานะ” ซึ่งยังไม่ใช่ทะเบียนที่ยกเลิก จำนวนล่าสุดอยู่ในตารางภาพรวมฉบับย่อ แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx)
 
 <!-- review:end th-lic-20261112-pravastatin-1 -->
 
@@ -142,8 +176,8 @@ Pravastatin ถูกเผาผลาญผ่านเอนไซม์ CYP3
 
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
-| 2026-11-12 | ลบออก: “ทะเบียนยาเลขที่ 1A 21/67” | แก้ไข (แก้ไขเมื่อ 2026-11-12 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
-| 2026-11-12 | จำนวนทะเบียนที่ยกเลิก: 21 → 20 รายการ (อีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ”) | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) |
+| 2026-11-12 | ลบออก: “ทะเบียนยาเลขที่ 1A 21/67” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-12 | จำนวนทะเบียนที่ยกเลิก: 21 → 20 รายการ (อีก 1 รายการมีสถานะ “รอตรวจสอบสถานะ”) | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: pravastatin sodium prescribing information, A-S Medication Solutions](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=be592e98-8a17-4c18-99b8-0f3a67000e2d) |
 
 <!-- review:end log -->

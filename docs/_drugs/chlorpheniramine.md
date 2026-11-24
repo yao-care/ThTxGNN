@@ -7,7 +7,7 @@ evidence_level: L5
 indication_count: 1
 monitor_inn: "Chlorpheniramine"
 predicted_indications: ["nasal cavity disease"]
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 description: "Chlorpheniramine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคของโพรงจมูก (nasal cavity disease) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 1622 รายการ (ยังมีผล 270)"
 ---
 
@@ -88,6 +88,45 @@ Chlorpheniramine เป็นยาต้านฮิสตามีนที่
 ---
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
+
+<!-- licenses:begin -->
+
+| เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
+|------|------|------|------|
+| 1A 100/67 | CHLORPHENIRAMINE MALEATE TABLETS | TABLET | คงอยู่ |
+| 1A 103/51 | CHLORPHEN SYRUP ORANGE | SYRUP | คงอยู่ |
+| 1A 103/58 | B-DARIN SYRUP | SYRUP | คงอยู่ |
+| 1A 1042/43 | MANOHISTA CAPSULES | CAPSULE HARD | คงอยู่ |
+| 1A 1117/30 | CHLORPHENIRAMINE MALEATE SYRUP | SYRUP | คงอยู่ |
+| 1A 115/67 | ALLADINN | SYRUP | คงอยู่ |
+| 1A 1193/30 | CHLORPHENIRAMINE MALEATE TABLETS | TABLET | คงอยู่ |
+| 1A 1243/30 | HISTATAB TABLETS | TABLET | คงอยู่ |
+| 1A 1261/30 | POPHEN | SYRUP | คงอยู่ |
+| 1A 1290/28 | ALY TABLETS | TABLET | คงอยู่ |
+| 1A 13/45 | SEA CHLOR | COMPRESSED TABLET | คงอยู่ |
+| 1A 132/44 | CLOTON | COMPRESSED TABLET | คงอยู่ |
+| 1A 134/39 | SEA CHLOR SYRUP | SYRUP | คงอยู่ |
+| 1A 1439/29 | CHLORPHENIRAMINE MALEATE (CAPSULES) | CAPSULE HARD | คงอยู่ |
+| 1A 144/59 | CHLORTAB R | FILM - COATED TABLET | คงอยู่ |
+| 1A 145/59 | CHLORTAB G | FILM - COATED TABLET | คงอยู่ |
+| 1A 1505/27 | CHLORPHENIRAMINE INJECTION | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 1528/27 | CHLORPHENIRAMINE MALEATE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 167/27 | CHLORPYRIMINE | SOLUTION FOR INJECTION/INFUSION | คงอยู่ |
+| 1A 180/43 | CAFEN | CAPSULE HARD | คงอยู่ |
+| 1A 182/55 | CHLORPHENIRAMINE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1873/29 | CHLORPHENIRAMINE MALEATE TABLETS | TABLET | คงอยู่ |
+| 1A 190/55 | CHLORPHENIRAMINE TABLETS | COMPRESSED TABLET | คงอยู่ |
+| 1A 1948/29 | CHLORPHENIRAMINE MALEATE TABLET | TABLET | คงอยู่ |
+| 1A 1965/29 | KLORAMIN | TABLET | คงอยู่ |
+| 1A 1968/28 | CHLORAMINE-S | COATED TABLET | คงอยู่ |
+| 1A 205/63 | C.P.M. | TABLET | คงอยู่ |
+| 1A 207/34 | CHLORPHENIRAMINE | SOLUTION FOR INJECTION | คงอยู่ |
+| 1A 2072/29 | CHLORPHENIRAMINE MALEATE TABLETS | TABLET | คงอยู่ |
+| 1A 2074/29 | CHLORPHENIRAMINE MALEATE TABLETS | TABLET | คงอยู่ |
+
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด 1622 รายการ
+
+<!-- licenses:end -->
 
 สถานะตามข้อมูลทะเบียนในประเทศไทยคือ วางจำหน่ายแล้ว รูปแบบยาที่บันทึกไว้คือยาเม็ดชนิดรับประทาน
 

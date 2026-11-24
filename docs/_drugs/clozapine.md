@@ -5,7 +5,7 @@ parent: หลักฐานระดับสูง (L1-L2)
 nav_order: 48
 evidence_level: L2
 indication_count: 9
-last_modified_at: 2026-11-20
+last_modified_at: 2026-11-24
 monitor_inn: "Clozapine"
 predicted_indications: ["manic bipolar affective disorder", "Tourette syndrome", "trichotillomania", "schizophreniform disorder", "bipolar disorder", "major affective disorder", "attention deficit-hyperactivity disorder", "attention deficit hyperactivity disorder, inattentive type", "Malan overgrowth syndrome"]
 description: "Clozapine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคอารมณ์สองขั้วระยะแมเนีย (manic bipolar affective disorder) (ระดับหลักฐาน L2) ทะเบียนตำรับยาในระบบของ อย.: 17 รายการ (ยังมีผล 9)"
@@ -83,6 +83,8 @@ Clozapine เป็นยาต้านโรคจิตกลุ่มรุ�
 
 ## ข้อมูลการวางจำหน่ายในประเทศไทย
 
+<!-- licenses:begin -->
+
 | เลขทะเบียน | ผลิตภัณฑ์ | รูปแบบยา | สถานะ |
 |------|------|------|------|
 | 1A 1/49 (NG) | CLORIL 25 MG (TABLET) | COMPRESSED TABLET | คงอยู่ |
@@ -103,9 +105,11 @@ Clozapine เป็นยาต้านโรคจิตกลุ่มรุ�
 | 1C 90/42 (N) | CLOZARIL (25 MG.) | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2561) |
 | 1C 91/42 (N) | CLOZARIL(100 MG.) | COMPRESSED TABLET | ยกเลิก(8 พฤษภาคม 2561) |
 
+<!-- licenses:end -->
+
 <!-- review:begin th-fab-20261112-clozapine-1 -->
 
-> **แก้ไขจากการตรวจสอบ (2026-11-12)**: ข้อความเดิมคือ “เลขทะเบียนยา / ชื่อการค้า / รูปแบบยา / สถานะ /  / --------- / ------ / ------ / ----------- /  / 1A 145/67 / Clozapine / ยาเม็ด / ยกเลิกแล้ว” ลบออก: ตารางทะเบียนตำรับยาที่เขียนขึ้นตอนสร้างรายงานใหม่ (2026-11-03) ระบุเลขทะเบียน 1A 145/67 ซึ่งไม่ใช่ทะเบียนของยานี้ในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ข้อมูลวันที่ 2026-11-09) ทะเบียนที่ถูกต้องอยู่ในตารางของหัวข้อนี้ จำนวนทะเบียนตามข้อมูล 17 รายการ ยังมีผล 9 รายการ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
+> **แก้ไขจากการตรวจสอบ (2026-11-12)**: ข้อความเดิมคือ “เลขทะเบียนยา / ชื่อการค้า / รูปแบบยา / สถานะ /  / --------- / ------ / ------ / ----------- /  / 1A 145/67 / Clozapine / ยาเม็ด / ยกเลิกแล้ว” ลบออก: ตารางทะเบียนตำรับยาที่เขียนขึ้นตอนสร้างรายงานใหม่ (2026-11-03) ระบุเลขทะเบียน 1A 145/67 ซึ่งไม่ใช่ทะเบียนของยานี้ในระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (ข้อมูลวันที่ 2026-11-09) ทะเบียนที่ถูกต้องอยู่ในตารางของหัวข้อนี้ ตัวเลขล่าสุดอยู่ในตารางภาพรวมฉบับย่อและหัวข้อข้อมูลการวางจำหน่ายในประเทศไทย แหล่งที่มา: [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/)
 
 <!-- review:end th-fab-20261112-clozapine-1 -->
 
@@ -139,7 +143,7 @@ Clozapine เป็นยาต้านโรคจิตกลุ่มรุ�
 | วันที่ตรวจสอบ | รายการ | การดำเนินการ | แหล่งที่มา |
 |------|------|------|------|
 | 2026-10-31 | ลบออก: “ข้อมูลชุดนี้มาจากบัญชียาหลักแห่งชาติ ไม่มีเลขทะเบียนตำรับยาจาก อย” | ไม่มีข้อความนี้แล้วหลังสร้างรายงานใหม่ (2026-11-12: รายงานถูกสร้างใหม่ในเดือนพฤศจิกายน 2026 และไม่มีข้อความนี้แล้ว; เดิม: แก้ไข) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
-| 2026-11-12 | ลบออก: “1A 145/67” | แก้ไข | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
+| 2026-11-12 | ลบออก: “1A 145/67” | แก้ไข (แก้ไขเมื่อ 2026-11-24 ฉบับก่อนหน้าเก็บไว้ในบันทึก) | [ระบบค้นหาข้อมูลผลิตภัณฑ์ยา อย. (pertento)](https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx); [สำนักงานคณะกรรมการอาหารและยา (อย.)](https://www.fda.moph.go.th/) |
 | 2026-11-19 | ข้อความ “ไม่มีข้อมูลกลไกการออกฤทธิ์” ถูกแทนที่ด้วยข้อความจากเอกสารกำกับยาของสหรัฐฯ | ข้อความว่าไม่มีข้อมูลกลไกการออกฤทธิ์ถูกแทนที่ด้วยข้อความคัดลอกพร้อมแหล่งที่มา | [DailyMed: Versacloz (clozapine) prescribing information, TruPharma LLC](https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=2592c9a8-fd74-4e0d-a895-b07b014cf355) |
 
 <!-- review:end log -->
