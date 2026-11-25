@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 106
 evidence_level: L5
 indication_count: 5
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Metformin: ข้อบ่งใช้ใหม่ที่คาดการณ์ Focal Stiff Limb Syndrome (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: เบาหวานชนิดที่ 2"
 monitor_inn: "Metformin"
 predicted_indications: ["focal stiff limb syndrome", "classic stiff person syndrome", "opsismodysplasia", "thiamine-responsive dysfunction syndrome", "drug-induced localized lipodystrophy"]
@@ -50,8 +50,8 @@ Metformin เดิมใช้รักษา **เบาหวานชนิ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | Focal Stiff Limb Syndrome |
 | คะแนนการทำนาย TxGNN | 0.9945 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 125 จาก 318 รายการ) |
-| จำนวนทะเบียนตำรับยา | 318 รายการ (ยังมีผล 125) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 126 จาก 319 รายการ) |
+| จำนวนทะเบียนตำรับยา | 319 รายการ (ยังมีผล 126) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ---
@@ -121,7 +121,7 @@ Metformin เดิมใช้รักษา **เบาหวานชนิ�
 | 1A 292/34 | SIAMFORMET (850 MG TABLET) | FILM-COATED TABLET | คงอยู่ |
 | 1A 305/41 | BUFORMIN | FILM - COATED TABLET | คงอยู่ |
 
-ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด 318 รายการ
+ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด 319 รายการ
 
 <!-- licenses:end -->
 

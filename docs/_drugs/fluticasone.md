@@ -5,7 +5,7 @@ parent: เฉพาะการคาดการณ์ (L5)
 nav_order: 73
 evidence_level: L5
 indication_count: 3
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Fluticasone: ข้อบ่งใช้ใหม่ที่คาดการณ์ ไมเกรน (Migraine Disorder) (ระดับหลักฐาน L5) ข้อบ่งใช้เดิม: โรคหอบหืด, โรคจมูกอักเสบ"
 monitor_inn: "Fluticasone"
 predicted_indications: ["migraine disorder", "Prinzmetal angina", "migraine with brainstem aura"]
@@ -50,8 +50,8 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 | ข้อบ่งใช้ใหม่ที่ทำนาย | ไมเกรน (Migraine Disorder) |
 | คะแนนการทำนาย TxGNN | 0.9920 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 35 จาก 102 รายการ) |
-| จำนวนทะเบียนตำรับยา | 102 รายการ (ยังมีผล 35) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 34 จาก 102 รายการ) |
+| จำนวนทะเบียนตำรับยา | 102 รายการ (ยังมีผล 34) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -96,7 +96,6 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 | 2C 15069/67 (NG) | PEFSAL 25 MCG/250MCG INHALATION AEROSOL | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
 | 2C 15076/67 (NG) | SALFLUMIX EASYHALER 50 MICROGRAM/250 MICROGRAM / DOSE, INHAL | INHALATION POWDER | คงอยู่ |
 | 2C 15077/67 (NG) | SALFLUMIX EASYHALER 50 MICROGRAM/500 MICROGRAM / DOSE, INHAL | INHALATION POWDER | คงอยู่ |
-| 2C 15108/62 (NG) | FLUTEROL 250 MCG/50 MCG | INHALATION POWDER, HARD CAPSULE | คงอยู่ |
 | 2C 16/55 (N) | EVOFLO (25/125) | INHALER | คงอยู่ |
 | 2C 19/60 (N) | DYMISTA | NASAL SPRAY, SUSPENSION | คงอยู่ |
 | 2C 19/60 (NC) | DYMISTA | NASAL SPRAY | ปลด SMP |
@@ -112,6 +111,7 @@ Fluticasone เป็นยากลุ่มกลูโคคอร์ติ�
 | 2C 41/54 (N) | SERETIDE EVOHALER (25/50) | INHALER | คงอยู่ |
 | 2C 42/54 (N) | SERETIDE EVOHALER (25/125) | INHALER | คงอยู่ |
 | 2C 43/54 (N) | SERETIDE EVOHALER (25/250) | INHALER | คงอยู่ |
+| 2C 5/64 (N) | EVOFLO (25/250) | PRESSURISED INHALATION, SUSPENSION | คงอยู่ |
 
 ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด 102 รายการ
 

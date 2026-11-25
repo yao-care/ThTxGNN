@@ -167,6 +167,8 @@ def page_problems(stem: str, text: str) -> list[str]:
     fm = text.split("---", 2)[1] if text.startswith("---") else ""
     if e.get("rows") and SLT().SEC not in lines and not re.search(r"^noindex:\s*true", fm, re.M):
         errs.append("公開頁有證據包許可證紀錄卻沒有市場段落（跑 python3 scripts/sync_license_tables.py）")
+    # 2026-11-25 第六輪：已知用途頁的「สถานะตลาดในประเทศไทย」列要跟狀態列一致
+    errs += SLT().known_row_problems(body)
     fc = e.get("facts")
     if not fc:
         return errs

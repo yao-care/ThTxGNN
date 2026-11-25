@@ -166,6 +166,36 @@ def _bundle(stem):
     return None
 
 
+STATUS_ROW, KNOWN_ROW = "สถานะการวางจำหน่ายในไทย", "สถานะตลาดในประเทศไทย"
+_ROW = re.compile(r"^\| (สถานะการวางจำหน่ายในไทย|สถานะตลาดในประเทศไทย) \|(.*)\|\s*$")
+
+
+def sync_known_row(text):
+    """已知用途頁的第二張概覽表另有一列「สถานะตลาดในประเทศไทย」（10-31 重建時寫的，跟「สถานะการวางจำหน่ายในไทย」列同一句）；
+    每週排程的 sync_market_rows 只認後者，這列一直停在舊數字（2026-11-25 第六輪發現 3 頁）。照同頁狀態列的值同步。"""
+    lines = text.split("\n")
+    src = next((m.group(2) for m in map(_ROW.match, lines) if m and m.group(1) == STATUS_ROW), None)
+    if src is None:
+        return text
+    for i, l in enumerate(lines):
+        m = _ROW.match(l)
+        if m and m.group(1) == KNOWN_ROW and m.group(2) != src:
+            lines[i] = f"| {KNOWN_ROW} |{src}|"
+    return "\n".join(lines)
+
+
+def known_row_problems(text):
+    """gate：同頁兩列的值要一樣"""
+    vals = {}
+    for l in text.split("\n"):
+        m = _ROW.match(l)
+        if m:
+            vals.setdefault(m.group(1), m.group(2).strip())
+    if KNOWN_ROW in vals and STATUS_ROW in vals and vals[KNOWN_ROW] != vals[STATUS_ROW]:
+        return [f"「{KNOWN_ROW}」列（{vals[KNOWN_ROW]}）跟「{STATUS_ROW}」列（{vals[STATUS_ROW]}）不一致（跑 scripts/sync_license_tables.py）"]
+    return []
+
+
 def run(only=None, from_snapshot=False, dry=False):
     snap = _snap() if from_snapshot else None
     changed = []
@@ -187,7 +217,7 @@ def run(only=None, from_snapshot=False, dry=False):
             rows, total = rows_of(tf)
         crlf = "\r\n" in raw[:500]
         t0 = raw.replace("\r\n", "\n")
-        new = process(t0, rows, total)
+        new = sync_known_row(process(t0, rows, total))
         if new != t0:
             changed.append(page.stem)
             if not dry:

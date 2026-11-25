@@ -595,3 +595,24 @@ pertento 沒有其他公開的完整清單可對，這兩號的實際狀態判�
 `scripts/sync_license_tables.py` 的 `add_section` 在「## ข้อพิจารณาด้านความปลอดภัย」之前（沒有就結論、查核紀錄、免責聲明段之前）補段落與程式表；noindex 頁、證據包沒有紀錄的頁不補。
 gate（`src/thtxgnn/regulatory/licenses.py` 第 5 項）擋「公開頁快照有程式表列卻沒有市場段落」；`license_adapter.PAGE_NOTE` 放行新標題行。
 2026-11-24 全量量測 2 頁（azathioprine 16 張、ketamine 14 張），補上；兩頁正文沒有跟新表矛盾的句子，沒有新查核紀錄。checker 前後都是 0、gate exit 0。
+
+## adapter 存 pertento 欄位與成分、新許可證依原規則補收（2026-11-25 第六輪）
+
+用戶 2026-11-25 決定（第六輪第 1 條「新許可補收：全部照原規則補」；第五輪調查 pertento 查詢結果裡不在證據包的人用字號，結論是真的漏收 6 張）。
+- `scripts/license_adapter.py`：RAW_FILE（data/raw/pertento_status.json）原本每列只有 id／status／term，改成另存查詢結果的品名（泰／英）、持有人、法定類別、劑型、newcode。
+  查詢結果沒有成分欄，成分要逐張開詳細資料（_pertento.detail 的 XML_DRUG_FORMULA）：存在 `data/raw/pertento_formula.json`（newcode → fml 成分原文、status_name、app_date、fetched，Release 帶著、每週沿用），
+  每次先補「某證據包的查詢詞查得到、但該證據包還沒有」的人用許可證，再補其他人用許可證最多 1,500 張（環境變數 PERTENTO_DETAIL_BACKFILL；人用 newcode 共約 25,300 個，2026-11-25 已有 2,541 個，約 15 週補齊）；
+  詳細資料抓不到不擋排程、成分空白的過 7 天重抓；有快取的列寫上 formula。`fetch(reuse=False)` 一定重查；預設 fetch() 若 data/raw/pertento_status.meta.json 在 6 小時內、筆數相符就沿用 RAW_FILE（同次排程不重查 pertento）。
+- `scripts/add_current_licenses.py [--download] [--dry-run] [--report]`：照 2026-10-31 重建（母目錄 .claude/th_rebuild_licenses_20261031.py）的規則補收——證據包 query_terms 查得到、records／excluded_records 都沒有的人用許可證（號碼第二碼 A/B/C；同號多列取有效那列），
+  詳細資料有一個成分名（去序號、SODIUM 等陽離子字首）以查詢詞開頭、後面是結尾或非字母＝本藥，補一筆（欄位同重建，另記 added、added_basis）。10-31 只核對「兩邊都出現」的列，這裡全部核對，只會比原規則少收。
+  成分欄空白的不收、列出；還沒有詳細資料的這次不判定；成分不是本藥的照原規則不收。原收集器沒有筆數上限（total_matches＝不重複許可證數），沒有要回填的號；停損：total_matches ≠ records 裡 pertento 號碼數的整包不補（2026-11-25 全部 151 包相符）。只加不刪、可重複執行。
+  `.github/workflows/license-refresh.yml` 在 license_refresh 前以 `--download` 跑（查詢失敗不擋排程），有補收或成分快取變大就照常發新 Release。
+- 2026-11-25 第一次跑（pertento 當天查詢 30,174 列、27,231 個號）：4 個證據包補 6 張，跟第五輪調查一致——dabigatran＋TESIGRAN 150／110／75（1C 486～488/69 (NG)）、testosterone＋ANDROGEL 50 MG（1C 363/69 (NC)）、
+  metformin＋METFORMIN TABLETS 250 MG（1A 497/69 (E)）、acetaminophen＋KAMOL H.K.（1A 470/69，查詢詞 Paracetamol，成分 PARACETAMOL DC-90）；第二次跑 0 張。
+  不收：成分不是本藥 1,051 列（查詢詞部分比對帶進來的別的藥：estradiol 455 多為 ethinyl estradiol 複方、progesterone 121、tretinoin 83（isotretinoin）、testosterone 58、erythropoietin 57、prednisolone 52（methylprednisolone）等）；
+  成分欄空白 1 張：cetirizine 查詢詞查到的 ATVOCET（1A 261/69 (NG)，2026-06-18 核准、คงอยู่），詳細資料 XML_DRUG_FORMULA 空白、判斷不了是不是 cetirizine，不收；
+  morphine：pertento 依「Morphine」查只有 8 張 apomorphine（APO-GO、UPRIMA、IXENSE），沒有 morphine 本身的許可證，證據包維持 0 張（成分不是本藥，不收）。
+- 頁面：證據包 local_regulatory 重算、概覽狀態列／張數列、程式表、description 由排程程式（在工作目錄跑 license_refresh，沿用當天查詢）同步 6 頁（另 2 頁是同週的狀態變更：fluoxetine 1A 390/40、fluticasone 2C 15108/62 (NG) 轉為 ยกเลิก）；
+  正文張數改寫 2 行（表下總數句）。已知用途頁第二張概覽表的「สถานะตลาดในประเทศไทย」列（10-31 重建時寫的、跟狀態列同一句）每週排程不認，一直停在舊數字：同類全量掃 23 頁、3 頁不一致（acetaminophen、dabigatran、testosterone），
+  `scripts/sync_license_tables.py` 加 sync_known_row（照同頁狀態列同步，run() 每次都跑）、gate（licenses.page_problems）加 known_row_problems 擋兩列不一致。正文沒有跟新事實矛盾的句子（6 頁逐句看許可證、劑型、全稱字樣），沒有新查核紀錄。
+- 驗證：checker 全量前後都是 0、--row-status 0；gate exit 0；apply --check、rewrite_license_counts --check 0；add_current_licenses 第二次跑 0 張。證據包、data/raw 經 data-overlay 推進 Release。

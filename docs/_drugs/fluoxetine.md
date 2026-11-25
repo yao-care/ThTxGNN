@@ -7,8 +7,8 @@ evidence_level: L5
 indication_count: 8
 monitor_inn: "Fluoxetine"
 predicted_indications: ["schizoid personality disorder", "paranoid personality disorder", "schizotypal personality disorder", "histrionic personality disorder (disease)", "benign paroxysmal torticollis of infancy", "manic bipolar affective disorder", "phobic disorder", "Ohdo syndrome and variants"]
-last_modified_at: 2026-11-24
-description: "Fluoxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 147 รายการ (ยังมีผล 32)"
+last_modified_at: 2026-11-25
+description: "Fluoxetine: ข้อบ่งใช้ใหม่ที่คาดการณ์ โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder) (ระดับหลักฐาน L5) ทะเบียนตำรับยาในระบบของ อย.: 147 รายการ (ยังมีผล 31)"
 ---
 
 # Fluoxetine
@@ -49,8 +49,8 @@ Fluoxetine เป็นยากลุ่ม SSRI ที่ใช้ในปร
 | ข้อบ่งใช้ใหม่ที่ทำนาย | โรคบุคลิกภาพผิดปกติแบบหลีกหนีสังคม (schizoid personality disorder) |
 | คะแนนการทำนาย TxGNN | 0.9992 |
 | ระดับหลักฐาน | L5 |
-| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 32 จาก 147 รายการ) |
-| จำนวนทะเบียนตำรับยา | 147 รายการ (ยังมีผล 32) |
+| สถานะการวางจำหน่ายในไทย | วางจำหน่าย (ทะเบียนที่ยังมีผล 31 จาก 147 รายการ) |
+| จำนวนทะเบียนตำรับยา | 147 รายการ (ยังมีผล 31) |
 | คำแนะนำในการตัดสินใจ | Hold |
 
 ## ทำไมการคาดการณ์นี้จึงสมเหตุสมผล?
@@ -100,7 +100,6 @@ Fluoxetine เป็นยากลุ่ม SSRI ที่ใช้ในปร
 | 1A 351/55 | FLUOXTA - 20 | CAPSULE HARD | คงอยู่ |
 | 1A 370/40 | FLUOXETINE 20 MG. | CAPSULE HARD | คงอยู่ |
 | 1A 387/42 | UNPROZY 20 MG. | CAPSULE HARD | คงอยู่ |
-| 1A 390/40 | FLUZAC - 20 | CAPSULE HARD | คงอยู่ |
 | 1A 398/55 | OXNAXETINE | CAPSULE HARD | คงอยู่ |
 | 1A 401/58 | XELOTIN | HARD CAPSULE | คงอยู่ |
 | 1A 42/40 | FLUOXINE | CAPSULE HARD | คงอยู่ |
@@ -114,6 +113,7 @@ Fluoxetine เป็นยากลุ่ม SSRI ที่ใช้ในปร
 | 1A 756/42 | OXETINE 20 TABLET | COMPRESSED TABLET | คงอยู่ |
 | 1A 776/39 | ANZAC | CAPSULE, HARD | คงอยู่ |
 | 1A 780/43 | ACTISAC | CAPSULE HARD | คงอยู่ |
+| 1A 784/40 | LOXETINE -20 | CAPSULE HARD | คงอยู่ |
 
 ตารางนี้แสดงไม่เกิน 30 รายการ (ทะเบียนที่ยังมีผลก่อน) รายการทั้งหมดดูได้ที่ระบบค้นหาข้อมูลผลิตภัณฑ์ยาของ อย. (https://pertento.fda.moph.go.th/FDA_SEARCH_DRUG/SEARCH_DRUG/FRM_SEARCH_DRUG.aspx) ข้อมูลที่ใช้ในรายงานนี้มีทะเบียนตำรับยาทั้งหมด 147 รายการ
 
