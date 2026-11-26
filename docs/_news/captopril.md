@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Captopril ข้อบ่งใช้ที่คาดการณ์ 3 รายการ"
 permalink: /news/captopril/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-26
 ---
 
 # ข่าวเกี่ยวกับ Captopril
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-24
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Captopril บ้าง">
-ขณะนี้ <strong>Captopril</strong> มีข่าวที่เกี่ยวข้อง <strong>13 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
+ขณะนี้ <strong>Captopril</strong> มีข่าวที่เกี่ยวข้อง <strong>14 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 3 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -35,7 +35,7 @@ last_modified_at: 2026-11-24
 <p><a href="{{ '/drugs/captopril/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (13 ข่าว)
+## ข่าวที่เกี่ยวข้อง (14 ข่าว)
 
 ### [กำลังทดสอบยาตัวใหม่เพื่อรักษาโรคมะเร็งตับ](https://news.google.com/rss/articles/CBMidkFVX3lxTE15RGhHcnJVTnVWbUtncW1ZUVNyRl9jWmVzdHJMZjYteFNWckUzcXkzeFBaZlR2ZkVna2l6OGhxQ1FjQ2pXbEZILVhGTVZHNUl0UXJLelJORkRpM2NRMUc5aGFZbVdfUXROV3FQYmNFNjdVZUVXUmc?oc=5)
 
@@ -138,6 +138,14 @@ last_modified_at: 2026-11-24
 2026-11-05 <span class="news-indication-tag">มะเร็ง</span>
 
 แหล่งที่มา: [Facebook](https://news.google.com/rss/articles/CBMimwhBVV95cUxQOERNMUhjd2ZjaVJGU3VPSXRkMnplQnhYU2lhb2djekd6bGRMbVhLcHlsVFRQd3hqai01eWJUUjIycE54ajl6aGdHMkd2ZzVyZ3dkNXlRb2h1cXJWUVF1eGZVTmxQWFNDU3FrSmZSR2VjY19HWTA0QVhrVVFVRHltNEphMWtwSEgyTHlNaTdhNjRyZGdiZkxBRUx4Wm9TN2lCNjNmczdvTHBaa0p4c1JnOE5iZjAtRlVpcG14ZEU4WEpWX2ZuUmZ4bEhnN0RTeUtqT3Q5ejR3c3EyQ0x1MkJLNTRXei10ZjlReFFhM256cFFQVDYtMnVKYTVJZVg2eDI2U0lvZzBXY0dqRGtIbUp4SWlkQlYxWUxidmZEUDBrX0l2cUN6SGcwazBLUlJjTjFXWWJmTVZUQTk4ZzlsMXZ5c3NCQzVhbzF3dzBOenNyVV9kNFNnYUlMVlBPOFlUcWE5NUZLc084MklkTDRlUmJtRF9hNHM2a1FXOFFQOVZuREwzRlFfRkdtTW54SGlnTW93TFZVVlNpUkJVM211RXdWZUQ0YThOU1QyNWZ6VGhkbE5WSTJRWjFCb3YyeGk0Y1FMVXJ3SWZGelpZMER2RmtMcWs0WFE3U3V0Zmw4eXJiYXNLMXhyRXpCbGVSYlZQVlk3Y1QwX2JwUENCR0F2Wm5VRjVIcmZvVWZlVE1Fa1pVUlZIVGpINDFCWTBBSXRRdS1qLUFTR3JaeU1JeXpiZ0hmd3VsMGZwRGd5M1lUMWdQbF9vYjFKVGpJdG53c3lkY2xVd0J3QnZqSlFMM3RsSndoRTVuM1BueHY0UFd3THNMNXpLSFpObHExQjd5WDA5Q3M1OVdfd0c5T1dRUUI1bkItRDJDVWVoemZBWEJzMHM5YkZ3RHlvVjRieUtsbTRkSW9idm9fS25vM1UycUVURjZFY0xZWTJmemZlbUNvckhxaTZEdUdvc0k1VFpmSjlwaHBZVUw5eVNETndaR3E3akF2VUUxUXdqUUc1OUlVbE5ZQ2tTNnBQWnQzc1ZwVXJVV0wxT1d1U0NkelEyWDZONXVacVUxSkFqX3RPMkw0akhFc1dYRmt1cWRYb042TmFjYUlOblVjSHduVUlJSWxUc24zSUFIZVJQQmh1bDlhWjFKYng1T0hvZU1nTjBMNU9QRUVCOEZ6ZkpubXE1LTJIWDMtcjhLNWY4OGNtYVpqQ1JIOTVHZFlWYm5mcVFScGZfaTdIeDJFYlM4RXdaVENOb21HZmZjamxfLXZ4U3RUUEhPRlJlbU93ZVhrZktaN19ZMWs4Tkp3YmdmdVV2bnJuSnpkX29EcWl0dTVhaU1JOENnZlZwdDhpdnUxUmhiVHRENk9scTVLWHZDellYei1oMXFrNXRiOEp3MHpJWWE0?oc=5)
+
+---
+
+### [“เจ้าฟ้าจุฬาภรณ์” พระราชทาน “ยาอิมครานิบ 100” ยารักษามะเร็งมุ่งเป้า 6.9 แสนเม็ด - Workpoint TV](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRWGJabHVZSzhTLVdONGN2SjU2YTVfWWR0SnVlZDA5QXpSWVZ5Z0lGQ3hOZkVySmlRQWpvN3FXMnlNbWRPM3JIQUlzbGxMU2lfeTB5Z2IzcmpkTHppbTRES3h5aEVtenll?oc=5)
+
+2026-11-01 <span class="news-indication-tag">มะเร็ง</span>
+
+แหล่งที่มา: [Workpoint TV](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRWGJabHVZSzhTLVdONGN2SjU2YTVfWWR0SnVlZDA5QXpSWVZ5Z0lGQ3hOZkVySmlRQWpvN3FXMnlNbWRPM3JIQUlzbGxMU2lfeTB5Z2IzcmpkTHppbTRES3h5aEVtenll?oc=5)
 
 ---
 
