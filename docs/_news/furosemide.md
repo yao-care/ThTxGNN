@@ -5,7 +5,7 @@ parent: ข่าวสุขภาพ
 nav_exclude: true
 description: "ข่าวสุขภาพที่เกี่ยวข้องกับ Furosemide ข้อบ่งใช้ที่คาดการณ์ 0 รายการ"
 permalink: /news/furosemide/
-last_modified_at: 2026-11-26
+last_modified_at: 2026-11-27
 ---
 
 # ข่าวเกี่ยวกับ Furosemide
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-26
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ Furosemide บ้าง">
-ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>15 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
+ขณะนี้ <strong>Furosemide</strong> มีข่าวที่เกี่ยวข้อง <strong>16 ข่าว</strong> และข้อบ่งใช้ที่คาดการณ์ 0 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -30,7 +30,15 @@ last_modified_at: 2026-11-26
 <p><a href="{{ '/drugs/furosemide/' | relative_url }}">ดูรายงานยาฉบับเต็ม →</a></p>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (15 ข่าว)
+## ข่าวที่เกี่ยวข้อง (16 ข่าว)
+
+### [FM91 Trafficpro. . 'ไต' กับการทานวิตามิน อาหารเสริม : สุขภาพดีมีสุขกับ สวพ.FM91 : 27 พ.ย. 2569 สุขภาพดีมีสุขกับ สวพ.FM91 : DJ ลัดดาวัลย์ คัชชาพงษ์ ทุกวันศุกร์ เวลา 10.30 น. - 10.45 น. สัมภาษณ์ นพ.ปรัชญา พุมอุทัยวิรัตน์ แพทย์ผู้เชี่ยวชาญสาขาอายุรศาสตร์โรคไตรพ.จุฬาภรณ์ #จุ](https://news.google.com/rss/articles/CBMi1gVBVV95cUxNUlBWRlZxakNSV2lvb2FhVlU0NUpJbVE2WUlHVHNGQURQYVNIWmhON05Qc0hvMGNZTzAwUkdNNGdiVFV1X0VSNG5QS2M4aTJ3MEFaSGFGenlWNGxOSmZRaVhVV0E3b3BVZUg5eW9vNjc1NV9jZHBWem5kQkpRUG03RnZkN05tRVE5SENQM2xQS2U0Z2FUWUxNUUNveElZczBfUkY3N2FvcFNlS1NXUnBfMms0RnpNcDZSQzVBMlBFQjFwT1NlcDdDRVQwVTg5UDg3WTBfME13QnVVZG5NVkFyS2gxbUJYNXJwbFZ0VFlFLUc5eFVBcUtzenBiOFVob3FkVWwzN3ZVVHVXZFR5MExBQTJHNm5lUUVfQzFqUk0zUldfVGhseWY5QWpuYnBPWWY5ajJLN0lrUnBtd1hkSmRiMW0zam9yV1lQa0lVQ296UnAzTVFsRGxGcTdFTUdoTkxVS285MndfbjBYb0gwSkY3TG1tNGFvZWtUblpYRTM0OFdQOWhYSnpRemIxci1naUpLS3F4a0VTX0FYQlp2aXdQSzlPRXJLdXBSY0s0YjdUN2FXaXdWV01WOU1ldnczRU9HNF9DRzBQS2tfemV2NkM2U2JsWHlCWk90Y3BrQ2hCeUdnSGlwWmlmUEs4NkZybmVHeEtDTzI1YkZlZXZFNkJ4eDhCTnBoRnp0Z0I0a2pDWlRCOUtLYm5KbEJ0Ql90cmhhMjk0S2pBUEJwYnh1RlVabXZNOEtMNEJTRmVmUWl1UmVNR25vWHl6ZU5BcEhoQlRnZVduTDBIWXczblhZbXFNSjg5a2dXN3NNLVNoUFdpTzRPNWUtVjZGRWlBWWtITFRoVzc5TXVKbU1PaGxqbkV6VmJFU1Z4X2ZBZkYzeXZUU3I1Y2NLS0wtTVc5R2Z0U1dsbHRSbGFwdVozaHB3b25qVmxkeHEyYXBYZGUwLTdMUFQzTnJoNGc?oc=5)
+
+2026-11-27 <span class="news-indication-tag">โรคไต</span>
+
+แหล่งที่มา: [Facebook](https://news.google.com/rss/articles/CBMi1gVBVV95cUxNUlBWRlZxakNSV2lvb2FhVlU0NUpJbVE2WUlHVHNGQURQYVNIWmhON05Qc0hvMGNZTzAwUkdNNGdiVFV1X0VSNG5QS2M4aTJ3MEFaSGFGenlWNGxOSmZRaVhVV0E3b3BVZUg5eW9vNjc1NV9jZHBWem5kQkpRUG03RnZkN05tRVE5SENQM2xQS2U0Z2FUWUxNUUNveElZczBfUkY3N2FvcFNlS1NXUnBfMms0RnpNcDZSQzVBMlBFQjFwT1NlcDdDRVQwVTg5UDg3WTBfME13QnVVZG5NVkFyS2gxbUJYNXJwbFZ0VFlFLUc5eFVBcUtzenBiOFVob3FkVWwzN3ZVVHVXZFR5MExBQTJHNm5lUUVfQzFqUk0zUldfVGhseWY5QWpuYnBPWWY5ajJLN0lrUnBtd1hkSmRiMW0zam9yV1lQa0lVQ296UnAzTVFsRGxGcTdFTUdoTkxVS285MndfbjBYb0gwSkY3TG1tNGFvZWtUblpYRTM0OFdQOWhYSnpRemIxci1naUpLS3F4a0VTX0FYQlp2aXdQSzlPRXJLdXBSY0s0YjdUN2FXaXdWV01WOU1ldnczRU9HNF9DRzBQS2tfemV2NkM2U2JsWHlCWk90Y3BrQ2hCeUdnSGlwWmlmUEs4NkZybmVHeEtDTzI1YkZlZXZFNkJ4eDhCTnBoRnp0Z0I0a2pDWlRCOUtLYm5KbEJ0Ql90cmhhMjk0S2pBUEJwYnh1RlVabXZNOEtMNEJTRmVmUWl1UmVNR25vWHl6ZU5BcEhoQlRnZVduTDBIWXczblhZbXFNSjg5a2dXN3NNLVNoUFdpTzRPNWUtVjZGRWlBWWtITFRoVzc5TXVKbU1PaGxqbkV6VmJFU1Z4X2ZBZkYzeXZUU3I1Y2NLS0wtTVc5R2Z0U1dsbHRSbGFwdVozaHB3b25qVmxkeHEyYXBYZGUwLTdMUFQzTnJoNGc?oc=5)
+
+---
 
 ### [กำลังทดสอบยาตัวใหม่เพื่อรักษาโรคมะเร็งตับ](https://news.google.com/rss/articles/CBMidkFVX3lxTE15RGhHcnJVTnVWbUtncW1ZUVNyRl9jWmVzdHJMZjYteFNWckUzcXkzeFBaZlR2ZkVna2l6OGhxQ1FjQ2pXbEZILVhGTVZHNUl0UXJLelJORkRpM2NRMUc5aGFZbVdfUXROV3FQYmNFNjdVZUVXUmc?oc=5)
 

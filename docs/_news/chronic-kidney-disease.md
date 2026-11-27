@@ -3,9 +3,9 @@ layout: default
 title: "ข่าวเกี่ยวกับ โรคไต (chronic kidney disease)"
 parent: ข่าวสุขภาพ
 nav_exclude: true
-description: "ข่าวสุขภาพเกี่ยวกับ โรคไต (chronic kidney disease) ข่าว 1 รายการ ยาที่เกี่ยวข้อง 2 รายการ"
+description: "ข่าวสุขภาพเกี่ยวกับ โรคไต (chronic kidney disease) ข่าว 2 รายการ ยาที่เกี่ยวข้อง 2 รายการ"
 permalink: /news/chronic-kidney-disease/
-last_modified_at: 2026-11-16
+last_modified_at: 2026-11-27
 ---
 
 # ข่าวเกี่ยวกับ โรคไต (chronic kidney disease)
@@ -15,7 +15,7 @@ last_modified_at: 2026-11-16
 ---
 
 <p class="key-answer" data-question="มีข่าวอะไรเกี่ยวกับ โรคไต (chronic kidney disease) บ้าง">
-ขณะนี้ <strong>โรคไต (chronic kidney disease)</strong> มีข่าวที่เกี่ยวข้อง <strong>1 ข่าว</strong> และยาที่เกี่ยวข้อง 2 รายการ
+ขณะนี้ <strong>โรคไต (chronic kidney disease)</strong> มีข่าวที่เกี่ยวข้อง <strong>2 ข่าว</strong> และยาที่เกี่ยวข้อง 2 รายการ
 </p>
 
 <div class="key-takeaway">
@@ -31,7 +31,15 @@ last_modified_at: 2026-11-16
 </ul>
 </div>
 
-## ข่าวที่เกี่ยวข้อง (1 ข่าว)
+## ข่าวที่เกี่ยวข้อง (2 ข่าว)
+
+### [FM91 Trafficpro. . 'ไต' กับการทานวิตามิน อาหารเสริม : สุขภาพดีมีสุขกับ สวพ.FM91 : 27 พ.ย. 2569 สุขภาพดีมีสุขกับ สวพ.FM91 : DJ ลัดดาวัลย์ คัชชาพงษ์ ทุกวันศุกร์ เวลา 10.30 น. - 10.45 น. สัมภาษณ์ นพ.ปรัชญา พุมอุทัยวิรัตน์ แพทย์ผู้เชี่ยวชาญสาขาอายุรศาสตร์โรคไตรพ.จุฬาภรณ์ #จุ](https://news.google.com/rss/articles/CBMi1gVBVV95cUxNUlBWRlZxakNSV2lvb2FhVlU0NUpJbVE2WUlHVHNGQURQYVNIWmhON05Qc0hvMGNZTzAwUkdNNGdiVFV1X0VSNG5QS2M4aTJ3MEFaSGFGenlWNGxOSmZRaVhVV0E3b3BVZUg5eW9vNjc1NV9jZHBWem5kQkpRUG03RnZkN05tRVE5SENQM2xQS2U0Z2FUWUxNUUNveElZczBfUkY3N2FvcFNlS1NXUnBfMms0RnpNcDZSQzVBMlBFQjFwT1NlcDdDRVQwVTg5UDg3WTBfME13QnVVZG5NVkFyS2gxbUJYNXJwbFZ0VFlFLUc5eFVBcUtzenBiOFVob3FkVWwzN3ZVVHVXZFR5MExBQTJHNm5lUUVfQzFqUk0zUldfVGhseWY5QWpuYnBPWWY5ajJLN0lrUnBtd1hkSmRiMW0zam9yV1lQa0lVQ296UnAzTVFsRGxGcTdFTUdoTkxVS285MndfbjBYb0gwSkY3TG1tNGFvZWtUblpYRTM0OFdQOWhYSnpRemIxci1naUpLS3F4a0VTX0FYQlp2aXdQSzlPRXJLdXBSY0s0YjdUN2FXaXdWV01WOU1ldnczRU9HNF9DRzBQS2tfemV2NkM2U2JsWHlCWk90Y3BrQ2hCeUdnSGlwWmlmUEs4NkZybmVHeEtDTzI1YkZlZXZFNkJ4eDhCTnBoRnp0Z0I0a2pDWlRCOUtLYm5KbEJ0Ql90cmhhMjk0S2pBUEJwYnh1RlVabXZNOEtMNEJTRmVmUWl1UmVNR25vWHl6ZU5BcEhoQlRnZVduTDBIWXczblhZbXFNSjg5a2dXN3NNLVNoUFdpTzRPNWUtVjZGRWlBWWtITFRoVzc5TXVKbU1PaGxqbkV6VmJFU1Z4X2ZBZkYzeXZUU3I1Y2NLS0wtTVc5R2Z0U1dsbHRSbGFwdVozaHB3b25qVmxkeHEyYXBYZGUwLTdMUFQzTnJoNGc?oc=5)
+
+2026-11-27
+
+แหล่งที่มา: [Facebook](https://news.google.com/rss/articles/CBMi1gVBVV95cUxNUlBWRlZxakNSV2lvb2FhVlU0NUpJbVE2WUlHVHNGQURQYVNIWmhON05Qc0hvMGNZTzAwUkdNNGdiVFV1X0VSNG5QS2M4aTJ3MEFaSGFGenlWNGxOSmZRaVhVV0E3b3BVZUg5eW9vNjc1NV9jZHBWem5kQkpRUG03RnZkN05tRVE5SENQM2xQS2U0Z2FUWUxNUUNveElZczBfUkY3N2FvcFNlS1NXUnBfMms0RnpNcDZSQzVBMlBFQjFwT1NlcDdDRVQwVTg5UDg3WTBfME13QnVVZG5NVkFyS2gxbUJYNXJwbFZ0VFlFLUc5eFVBcUtzenBiOFVob3FkVWwzN3ZVVHVXZFR5MExBQTJHNm5lUUVfQzFqUk0zUldfVGhseWY5QWpuYnBPWWY5ajJLN0lrUnBtd1hkSmRiMW0zam9yV1lQa0lVQ296UnAzTVFsRGxGcTdFTUdoTkxVS285MndfbjBYb0gwSkY3TG1tNGFvZWtUblpYRTM0OFdQOWhYSnpRemIxci1naUpLS3F4a0VTX0FYQlp2aXdQSzlPRXJLdXBSY0s0YjdUN2FXaXdWV01WOU1ldnczRU9HNF9DRzBQS2tfemV2NkM2U2JsWHlCWk90Y3BrQ2hCeUdnSGlwWmlmUEs4NkZybmVHeEtDTzI1YkZlZXZFNkJ4eDhCTnBoRnp0Z0I0a2pDWlRCOUtLYm5KbEJ0Ql90cmhhMjk0S2pBUEJwYnh1RlVabXZNOEtMNEJTRmVmUWl1UmVNR25vWHl6ZU5BcEhoQlRnZVduTDBIWXczblhZbXFNSjg5a2dXN3NNLVNoUFdpTzRPNWUtVjZGRWlBWWtITFRoVzc5TXVKbU1PaGxqbkV6VmJFU1Z4X2ZBZkYzeXZUU3I1Y2NLS0wtTVc5R2Z0U1dsbHRSbGFwdVozaHB3b25qVmxkeHEyYXBYZGUwLTdMUFQzTnJoNGc?oc=5)
+
+---
 
 ### [Ch7HD. . 💊กินยาแก้ปวดบ่อย ๆ เสี่ยงไตวายจริงไหมค่ะ ? มาหาคำตอบไปพร้อมกันในคลิปนี้ ? #มาเล่าเดี๋ยวหมอช่วย 👨‍⚕️ โดย ผศ.(พิเศษ) พญ.สมกัญญา ตั้งสง่า อาจารย์แพทย์ผู้เชี่ยวชาญด้านโรคไต สาขาวิชาอายุรศาสตร์ทั่วไป ภาควิชาอายุรศาสตร์ คณะแพทยศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย](https://news.google.com/rss/articles/CBMi_AdBVV95cUxOVGJPMDdtWDZxS0hsMjctU1gwaEctUG53T1JUTTlqQ1NJel84WG1OX0FHeXFNQVJPT1B2ZHJhOFFOQ256ZmNFaU9IeVREc1hRWG1DLXRqN0RUM1pKZFhFanRzQTBlNUhINHowc2YxX3ItdWlBY09uVTQxOXE0UTdsMFpLNGV4LUpFOE80UDFtbGx1VVNaeG5qaTdYd0tmckNDdlJMeHI4QzFIb2ZvM1FZX1dfaUNoZUYyZHNQeWNfYnJqZGwxVk0yVGYtZE9sNndOeGViLUVPaWdYUEl5clprZWNJczcwMk5veFVyUGRDUEFoX2dRUU9NempXR0NyS0tyVEN2amFfVGdjQ1pOOGJiNVh2RFM5NENjSnlGenYxNHRtWkNndVRGZlhtMUNyZE5XQTBrZm4zZFpnTUtUSUhMcE5vRkJpSUw2MEZXbjVEc1hZQXdPZ1VHRjlzRnE2aWN1cFN6LS1KRGZ1dE1IeEFjdUkwUEtKbUlMWEh2dnQ2b0VOekhhVkN2V0YzS3BUNjNvcGU3bE80T3hvMEtwNkVDQVBWMkR4YnZ2UEM1X2t1VjJTMmlkY2NaMmdDbmxmLUY2aktuYzdaR3RNU2RGRVBuNXQweTJVeWNpNGp3Q1pFRGNBdzhkT0tBMGRDUlY4X0pPd3lxcmVVN0lNdlhUeDZtVEItcXNMM0JldlR6TVEzSXBKRl85cTNJLXFqRE5ia3NYTjFjR05NcmdhVlp4dldaVVMtVVozMEVYWkotMFlSa1JlVGJqYzkyWFVfMUZacGVxeUx0Z2xlTHBINEZzZzRBak5GLUp5dzduS1JKcFIyc0lUQVgtZ1l3Z2luNVRMNEdqVk9qTk5OUVk4VGdlcUp1bHRMc0xwdklUSTl0T0drckd6cG11RHVlcHV0anZCd205MTBva3VIekRqYUN0WFdXQzNweDAxUUFjeEpOYmpPeTlBNjJlNnRtc1FiX2JqVXloRFVQb3pNSlhkMjRjakxqRkkwcXh4bUhhVjVYR09BcGJFVnZfVmFQNXBHTHBqRkw3ZWhkdkwydUJWZk4zbkdVMktRajE1YmdhbktwbTVQd1RqMUUwRy1FR1I2VzlaQnY3LVRPSnE2Z3hTdzlxWUUwZjVyZnpEZkxncldYYXIzaWdEbjBWVVJHcWRkWUhfU3NPd2l1ejNqNDNLUHU0SlhzcG5Wd2R4UDVSdWJTdVNPbEVZRUtjU3FkZldiWjd4amdBTXdWNldXNENjTHQ5eWU5a3poNDFhQ2tqUkU4eFc5TnNPMHg4cmtiQ25mWUJGblhCV1dyZHY3NFdaTzdWaktWWTFWdmM1QW45alp3a0l5cjVtWlQyNEgzR2txcnY?oc=5)
 
